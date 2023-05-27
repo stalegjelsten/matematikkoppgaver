@@ -1,5 +1,5 @@
 ---
-{"tags":["matematikk","1t","1p","excel","utforsk","del2"],"alias":[null],"fag":["1t","1p"],"del":2,"dg-publish":true,"title":"Bredden av teltplassen","date":"2023-05-27","modified":"2023-05-27","permalink":"/Bredden av teltplassen/","dgPassFrontmatter":true}
+{"tags":["matematikk","1t","1p","excel","utforsk","del2"],"alias":[null],"fag":["1t","1p"],"del":2,"eksamen":"v2023","dg-publish":true,"title":"Bredden av teltplassen","date":"2023-05-27","modified":"2023-05-27","permalink":"/Bredden av teltplassen/","dgPassFrontmatter":true}
 ---
 
 
