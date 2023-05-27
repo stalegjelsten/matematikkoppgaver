@@ -14,4 +14,7 @@ Lag en skisse som viser hvordan grafen til $f$ kan se ut.
 
 Husk å argumentere for hvorfor du mener skissen er riktig. 
 
-[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 1-5\|Løsningsforslag 1T eksamen V2023#Oppgave 1-5]]
+>[!question]- Fasit
+> Se løsningsforslaget
+>[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 1-5\|Løsningsforslag 1T eksamen V2023#Oppgave 1-5]]
+
