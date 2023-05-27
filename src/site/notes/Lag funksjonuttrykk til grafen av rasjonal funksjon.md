@@ -12,4 +12,6 @@ Bestem $f(x)$. Husk å argumentere for at svaret ditt er riktig.
 
 *Kommentar: det finnes uendelig mange ulike funksjonsuttrykk som passer. Det holder å finne et funksjonsuttrykk. Inkluder gjerne definisjonsmengden i svaret ditt.*
 
-[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 1-4\|Løsningsforslag 1T eksamen V2023#Oppgave 1-4]]
+>[!question]- Fasit
+>En mulighet er $f(x)=\frac{3x-6}{x-1}, \quad D_{f} = \mathbb{R} \setminus 1$
+>[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 1-4\|Løsningsforslag 1T eksamen V2023#Oppgave 1-4]]
