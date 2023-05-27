@@ -1,0 +1,19 @@
+---
+{"tags":["matematikk,1t,1p,geogebra,gjennomsnittlig vekstfart,del2"],"alias":null,"dg-publish":true,"title":"Gjennomsnittstemperatur på Svalbard","fag":"1t,1p","eksamen":"v2023","del":2,"date":"2023-05-27","modified":"2023-05-27","permalink":"/Gjennomsnittstemperatur på Svalbard/","dgPassFrontmatter":true}
+---
+
+
+# Gjennomsnittstemperatur på Svalbard
+De siste årene har Lars bodd på Svalbard fra 1. februar til 1. oktober. Hvert år har han målt temperaturen utenfor huset sitt på ulike tidspunkt noen dager hver uke.
+
+Han har funnet at funksjonen $T$ gitt ved
+
+$$
+T(x)=0,048 x^{4}-1,4 x^{3}+13,36 x^{2}-45,8 x+35,2 \quad, \quad x \in[2,10]
+$$
+
+er en rimelig bra modell for gjennomsnittstemperaturen $T(x)^{\circ} \mathrm{C}$ hvert døgn de månedene han bor på Svalbard, når han lar $x=2$ svare til 1. februar, $x=3$ til 1. mars, $x=4$ til 1 . april og så videre.
+
+a) Omtrent hvor mange døgn i perioden 1. februar-1. oktober er gjennomsnittstemperaturen over $0^{\circ} \mathrm{C}$ ifølge modellen?
+
+b) Bestem stigningstallet til den rette linjen som går gjennom punktene $(3, T(3))$ og $(7, T(7))$. Gi en praktisk tolkning av dette stigningstallet.
