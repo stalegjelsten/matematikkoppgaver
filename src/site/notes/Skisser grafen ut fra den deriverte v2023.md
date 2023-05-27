@@ -1,9 +1,9 @@
 ---
-{"tags":["oppgave","derivasjon","funksjoner","funksjonsdrøfting"],"temaer":["derivasjon","funksjoner","funksjonsdrøfting"],"alias":[null],"del":1,"oppgave":5,"fag":"1t","eksamen":"v2023","dg-publish":true,"title":"Skisser grafen ut fra den deriverte v2023","date":"2023-05-27","modified":"2023-05-27","permalink":"/Skisser grafen ut fra den deriverte v2023/","dgPassFrontmatter":true}
+{"tags":["oppgave","derivasjon","funksjoner","funksjonsdrøfting"],"temaer":["derivasjon","funksjoner","funksjonsdrøfting"],"alias":[null],"del":1,"oppgave":5,"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Skisser grafen ut fra den deriverte v23","date":"2023-05-27","modified":"2023-05-27","permalink":"/Skisser grafen ut fra den deriverte v2023/","dgPassFrontmatter":true}
 ---
 
 
-# Skisser grafen ut fra den deriverte v2023
+# Skisser grafen ut fra den deriverte v23
 ![](https://cdn.mathpix.com/cropped/2023_05_27_a24cc63899b82eb58efdg-15.jpg?height=363&width=922&top_left_y=401&top_left_x=567)
 
 Ovenfor ser du grafen til den deriverte av en funksjon $f$.
