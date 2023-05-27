@@ -16,4 +16,6 @@ Se figuren ovenfor.
 
 Bestem en eksakt verdi for $r$. 
 
-[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-5\|Løsningsforslag 1T eksamen V2023#Oppgave 2-5]]
+>[!question]- Fasit
+>$r=2 \sqrt{ 2 }$
+>[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-5\|Løsningsforslag 1T eksamen V2023#Oppgave 2-5]]
