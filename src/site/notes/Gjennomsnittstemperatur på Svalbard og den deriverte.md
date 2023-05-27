@@ -16,8 +16,11 @@ $$
 
 er en rimelig bra modell for gjennomsnittstemperaturen $T(x)^{\circ} \mathrm{C}$ hvert døgn de månedene han bor på Svalbard, når han lar $x=2$ svare til 1. februar, $x=3$ til 1. mars, $x=4$ til 1 . april og så videre.
 
-c) Bestem nullpunkter og ekstremalpunkter til den deriverte funksjonen $T^{\prime}$.
+>[!todo] Oppgave c)
+>Bestem nullpunkter og ekstremalpunkter til den deriverte funksjonen $T^{\prime}$.
+>
+>Gjør rede for hva koordinatene til hvert av punktene forteller om gjennomsnittstemperaturen utenfor huset til Lars. 
 
-Gjør rede for hva koordinatene til hvert av punktene forteller om gjennomsnittstemperaturen utenfor huset til Lars. 
-
-[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-1\|Løsningsforslag 1T eksamen V2023#Oppgave 2-1]]
+>[!question]- Fasit
+>c) Se løsningforslaget
+>[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#2-1c\|Løsningsforslag 1T eksamen V2023#2-1c]]
