@@ -8,6 +8,8 @@ Funksjonen $f$ er gitt ved
 
 $$ f(x)=x^{2}-2 x-8$$
 
-I hvilke punkter skjærer grafen til funksjonen $X$ - aksen?
+I hvilke punkter skjærer grafen til funksjonen $x$-aksen?
 
-[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 1-2\|Løsningsforslag 1T eksamen V2023#Oppgave 1-2]]
+>[!question]- Fasit
+>$x=4 \vee x=-2$
+>[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 1-2\|Løsningsforslag 1T eksamen V2023#Oppgave 1-2]]
