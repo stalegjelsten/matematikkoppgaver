@@ -1,5 +1,5 @@
 ---
-{"tags":["matematikk","løsningsforslag2222","1T"],"alias":[null],"dg-publish":true,"title":"Løsningsforslag 1T eksamen V2023","date":"2023-05-26","modified":"2023-05-27","geometry":"margin=3cm","fontsize":"11pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","author":"Ståle Gjelsten","header-includes":["\\usepackage{mathtools,cancel,gensymb,amsmath,amssymb,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}"],"permalink":"/Løsningsforslag/Løsningsforslag 1T eksamen V2023/","dgPassFrontmatter":true}
+{"del":2,"fag":null,"eksamen":null,"tags":["matematikk","løsningsforslag2222","1T"],"alias":[null],"dg-publish":true,"title":"Løsningsforslag 1T eksamen V2023","date":"2023-05-26","modified":"2023-05-27","geometry":"margin=3cm","fontsize":"11pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","author":"Ståle Gjelsten","header-includes":["\\usepackage{mathtools,cancel,gensymb,amsmath,amssymb,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}"],"permalink":"/Løsningsforslag/Løsningsforslag 1T eksamen V2023/","dgPassFrontmatter":true}
 ---
 
 
@@ -12,11 +12,7 @@ Jeg blir veldig glad om du melder ifra om feil enten direkte til meg eller via f
 Vi har at $\sin u=\frac{8}{10}$ og $\cos u =\frac{6}{10}$. 
 
 $$
-\sin^2u+\cos^2u=\left( \frac{8}{10} \right)
-{ #2}
-+\left( \frac{6}{10} \right)
-{ #2}
-=\frac{64}{100} +\frac{36}{100}=\frac{100}{100}=1
+\sin^2u+\cos^2u=\left( \frac{8}{10} \right)^2+\left( \frac{6}{10} \right)^2=\frac{64}{100} +\frac{36}{100}=\frac{100}{100}=1
 $$
 
 ### Alternativ 2: bruke pytagoras
@@ -277,7 +273,7 @@ $$
 \underline{\underline{r=2\sqrt{ 2 }}}
 $$
 
-## Oppgave 2-66
+## Oppgave 2-6
 
 ### 2-6a
 Jeg tegnet grafen til $f$ i GeoGebra og fant ekstremalpunktene, se $A$ og $B$ i utklippet.
