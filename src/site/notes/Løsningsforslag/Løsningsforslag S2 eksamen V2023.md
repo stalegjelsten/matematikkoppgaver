@@ -6,30 +6,28 @@
 # Løsningsforslag S2 eksamen V2023
 Skrevet av Ståle Gjelsten 24. mai 2023. Jeg setter veldig pris på om du melder ifra om feil eller unøyaktigheter på forumet på [matematikk.net](https://matematikk.net)
 
-## Del 1
-
-### Oppgave 1
+## Oppgave 1-1
 $$\int_0^1 \left( e^{ x }+2x^2 \right)  \,\mathrm{d}x = \left[e^x+ \cancel{ \frac{3}{3} }  x^3 \right]_0^1 = e^1+1^3- \left( \underbrace{ e^0 }_{ =1 }+0^3 \right) = e+1- 1 = \underline{\underline{e}}$$
 
-### Oppgave 2
+## Oppgave 1-2
 
-#### 2a
+### 1-2a
 Når det blir produsert 40 enheter kan vi finne en tilnærmet verdi for grensekostnaden $K'(40)$ ved å lage en tangent til $K(x)$ i $(40, K(40))$.
 
 Jeg forsøkte å legge en tangent i punktet, og fikk stigningstallet $a=\frac{9000}{120}=75$. 
 
 $$\underline{\underline{K'(40)\approx 75 \, \mathrm{kr/enhet}}}$$
 
-#### 2b
+### 1-2b
 Jeg vet at overskuddet blir størst når $O'(x)=I'(x)-K'(x)=0 \iff I'(x)=K'(x)$, altså når stigningstallene til inntektsfunksjonen og kostnadsfunksjonen er like store. 
 
 Det ser ut til stigningstallene er like store omtrent ved $x=55$. Det stemmer også godt med at differansen mellom inntekt og kostnad ser ut til å være stor ved $x=55$.
 
 **Vi har størst overskudd ved produksjon av omtrent 55 enheter.**
 
-### Oppgave 3
+## Oppgave 1-3
 
-#### 3a
+### 1-3a
 Siden summen av sannsynlighetene skal være lik 1 må
 
 $$
@@ -46,7 +44,7 @@ Dermed er:
 
 $$P(X>1)=P(X=2)+P(X=3)=(0.4-0.2) + 0.1 = \underline{\underline{0,3}}$$
 
-#### 3b
+### 1-3b
 |            $x$             |  0  |  1  |  2  |  3  | Sum |
 |:------------------------:|:---:|:---:|:---:|:---:| :---:|
 |         $P(X=x)$         | 0,4 | 0,3 | 0,2 | 0,1 |   1 |
@@ -56,17 +54,17 @@ $$P(X>1)=P(X=2)+P(X=3)=(0.4-0.2) + 0.1 = \underline{\underline{0,3}}$$
 Forventningsverdien er $\text{E}(X) = \sum x\cdot P(X=x)=\underline{\underline{1}}$.  
 Variansen er $\text{Var}(X)=\sum (x-\mu)^2\cdot P(X=x)=\underline{\underline{1}}$.  
 
-### Oppgave 4
+## Oppgave 1-4
 
-#### 4a
+### 1-4a
 Det ser ut til at eleven forsøker å regne ut delsummer av en aritmetisk rekke. Helt konkret ser det ut til at eleven forsøker å regne ut summen av de ti første leddene når startverdien er 3 og differansen er 4, altså $S_{10},\, a_1=3,\, d=4$.
 
-#### 4b
+### 1-4b
 Vi kan finne summen av denne aritmetiske rekka med:
 
 $$s_{100}= \frac{a_{1}+a_{100}}{2}\cdot 100 = \frac{3+(3+4\cdot 99)}{2}\cdot{100}=\frac{402}{2}\cdot {100}=\underline{\underline{20\,100}}$$
 
-### Oppgave 5
+## Oppgave 1-5
 Den første dagen får Knut tilført 7 mg virkestoff, andre dag så er mengden virkestoff redusert til $7 \,\text{mg}\cdot 0.9 = 0.63 \,\text{mg}$, samtidig som han får tilført nye $7$ mg. 
 
 På dag $n$ så vil derfor Knut ha den samlede mengden:
@@ -79,14 +77,14 @@ $$s_n = \frac{a_1}{1-k}=\frac{7}{1-0,9}=70$$
 
 Mengden virkestoff hos Knut vil aldri overstige 70 mg. **Legens påstand er riktig**.
 
-### Oppgave 6
+## Oppgave 1-6
 
-#### 6a
+### 1-6a
 Siden vi skal finne $P(X>600)$ og 600 ligger nøyaktig to standardavvik over forventningsverdien kan vi bare slå opp på $z=2.0$ i normalfordelingstabellen for å bestemme $P(X<600) = \Phi(2) = 0,9772$.
 
 $$P(X>600) = 1-P(X<600) = 1-0,9772 = \underline{ \underline{0,0228}}$$
 
-#### 6b
+### 1-6b
 Sannsynligheten for at levetiden er *kortere* enn $t$ timer er 24,2 prosent. Jeg bruker normalfordelingstabellen og finner $\Phi(z) = 0,242 \implies z=-0,70$.
 
 $$
@@ -101,7 +99,7 @@ $$
 
 **Det er 75,8 % sannsynlighet for at et tilfeldig valgt batteri har levetid mer enn 465 timer.**
 
-#### 6c
+### 1-6c
 Siden forventningsverdien er 500 må toppunktet til normalfordelingsfunksjonen ligge ved $x=500$. Det stemmer med graf A og D.
 
 I tillegg vet vi at standardavviket er 50. Hvis vi beveger oss et standardavvik mot høyre eller venstre fra forventningsverdien skal vi komme til vendepunktene til normalfordelingsfunksjonen. Det ser ut til å stemme bra med graf A, hvor vendepunktene ligger ved omtrent $x=450$ og $x=550$.
@@ -110,9 +108,9 @@ I tillegg vet vi at standardavviket er 50. Hvis vi beveger oss et standardavvik 
 
 ## Del 2
 
-### Oppgave 1
+## Oppgave 2-1
 
-#### 1a
+### 2-1a
 Annuitetslån har faste terminbeløp slik at lånebeløpet er lik produktet terminfaktoren multiplisert med terminbeløpet: $L=F\cdot T$.
 Vi kan beregne terminfaktoren $F$ ved:
 
@@ -135,16 +133,16 @@ $$
 
 **Terminbeløpet er 4555,14 kr.**
 
-#### 1b
+### 2-1b
 Jeg bruker en ferdig regnearkmodell jeg hadde liggende til å løse denne oppgaven. Fra regnearket ser jeg at restlånet *før* 25. innbetaling er 52 959,79 kr. **Dermed vil erstatningen fra forsikringsselskapet dekke restlånet** (gitt at han betaler restlånet med en gang han får erstatningen). Se utklippet under.
 
 ![](/img/user/_resources/s2-v23-del2-oppg1a1.png)
 
 ![](/img/user/_resources/s2-v23-del2-oppg1a2.png)
 
-### Oppgave 2
+## Oppgave 2-2
 
-#### 2a
+### 2-2a
 Jeg brukte regresjonsverktøyet i GeoGebra valgte den logistiske modellen:
 
 $$\underline{\underline{F(x)=\frac{660,37}{1+30,72\,e^{-0,7066x}}}}$$
@@ -155,7 +153,7 @@ Logistiske funksjoner flater ut ved en horisontal asymptote (i dette tilfellet 6
 
 ![](/img/user/_resources/s2-v23-del2-oppg-2a.png)
 
-#### 2b
+### 2-2b
 Se utklippet fra CAS.
 
 ![](/img/user/_resources/s2-v23-del2-oppg-2b.png.png)
@@ -169,7 +167,7 @@ D&=116,3
 \end{aligned}
 $$
 
-#### 2c
+### 2-2c
 $I$ beregner integralet under $F$ fra $x=-0.5$ til $x=10.5$. Dette gir en tilnærmingsverdi for de samlede inntektene fra musikkstrømming i Norge fra og med 2008 til og med 2018. De samlede inntektene er omtrent 3729 millioner kr.
 
 $G$ finner en tilnærmingsverdi de samlede inntektene fra og med 2011 til og med 2015 ved å integrere, deretter divideres svaret med 5. $G$ finner altså de gjennomsnittlige årlige inntektene mellom år 2011 og 2015. De gjennomsnittlige årlige inntektene i perioden er 344,5 millioner kr.
@@ -178,9 +176,9 @@ $S$ gir oss de samlede inntektene fra 2008 til 2018 beregnet som summen av en re
 
 $D$ gir oss omtrent momentan vekstfart i 2013. Vi kjenner igjen uttrykket for den deriverte hvor vi har $f'(x)=\lim_{ h \to 0 } \frac{f(x+h)-f(x)}{h}$. Her er $x=5$ og $h=0.001$. Den momentane vekstfarten i 2013 er omtrent 116,3 millioner kr per år.
 
-### Oppgave 3
+## Oppgave 2-3
 
-#### 3a
+### 2-3a
 Vi starter med noen antagelser:
 
 - Birger velger *helt* tilfeldig om han fyller hvert enkelt glass med Pepsi-Cola eller Coca-Cola
@@ -195,7 +193,7 @@ $$
 P(X=6)=\binom{n}{k}\cdot p^k \cdot(1-p)^{n-k} = \frac{10!}{6!(10-6)!} \cdot {0}.5^6  \cdot 0.5^4= \underline{\underline{0,205}}
 $$
 
-#### 3b
+### 2-3b
 Vi lar $p$ være sannsynligheten for at Marte klarer å gjette riktig og $X$, antall riktige gjetninger, er testobservator. 
 
 Det skal mye til at Marte er dårligere til å gjenkjenne colaene enn ved tilfeldig gjetting, og jeg er egentlig kun interessert i å finne ut om hun *bedre* enn tilfeldig gjetning. Derfor velger jeg en ensidig hypotesetest. Vi skal bruke signifikansnivået $\alpha=0,05$.
@@ -212,7 +210,7 @@ Ved hjelp av GeoGebra finner jeg at $P(8\leq X)=0,0547$ gitt at $H_{0}$ er sann.
 
 Siden sannsynligheten $P(8\leq X)=0,0547$ er større enn signifikansnivået $\alpha = 0.05$ så **kan vi *ikke* forkaste $H_0$.**
 
-#### 3c
+### 2-3c
 	
 ![](/img/user/_resources/s2-v23-del2-oppg-3c.png)
 
@@ -220,23 +218,23 @@ Jeg brukte sannsynlighetsverktøyet i GeoGebra og endret antallet, $n$, til 30. 
 
 **Dersom Marte gjetter riktig på minst 20 glass så kan hun overbevise Birger om at hun er bedre til å gjenkjenne cola enn en tilfeldig gjetter med et signifikansnivå på 5 %.**
 
-### Oppgave 4
+## Oppgave 2-4
 Jeg gjorde disse oppgavene i Excel, se regnearket under.
 
 ![](/img/user/_resources/s2-v23-del2-oppg-4a.png.png)
 
-#### 4a
+### 2-4a
 De ukentlige beløpene for de fire første ukene er markert i blått i utklippet. Det venstre blå rektangelet viser beløpene for tilbud 1, det høyre blå rektangelet viser beløpene for tilbud 2. Vi kan se at tilbud 1 vokser fortere enn tilbud 2 i starten.
 
-#### 4b
+### 2-4b
 **I uke 28 så vil tilbud 2 for første gang gi større utbetaling enn tilbud 1**, se den røde markering i Excel-arket.
 
-#### 4c
+### 2-4c
 **I uke 39 så vil tilbud 2 for første gang ha gitt større *samlet utbetaling* enn tilbud 1**, se den gule markeringen i Excel-arket.
 
-### Oppgave 5
+## Oppgave 2-5
 
-#### 5a
+### 2-5a
 Se programmet under. 
 ```python
 from scipy.stats import norm # henter nødvendige pakker for normalfordeling
@@ -264,7 +262,7 @@ for i in range(n):
 print(f"Gjennomsnittskarakteren til de {n} elevene er {sum_karakterer/n:.3f}.")
 ```
 
-#### 5b
+### 2-5b
 ```python
 from scipy.stats import norm # henter nødvendige pakker for normalfordeling
 from random import randint

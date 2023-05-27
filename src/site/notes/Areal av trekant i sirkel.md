@@ -1,5 +1,5 @@
 ---
-{"tags":["1t","del2","trigonometri","arealsetning","consiussetning","cas","oppgave"],"temaer":["trigonometri","arealsetning","consiussetning","cas"],"alias":[null],"del":2,"oppgave":5,"fag":"1t","eksamen":"v2023","dg-publish":true,"title":"Areal av trekant i sirkel","date":"2023-05-27","modified":"2023-05-27","permalink":"/Areal av trekant i sirkel/","dgPassFrontmatter":true}
+{"tags":["1t","del2","trigonometri","arealsetning","consiussetning","cas","oppgave"],"temaer":["trigonometri","arealsetning","consiussetning","cas"],"alias":[null],"del":2,"oppgave":5,"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Areal av trekant i sirkel","date":"2023-05-27","modified":"2023-05-27","permalink":"/Areal av trekant i sirkel/","dgPassFrontmatter":true}
 ---
 
 

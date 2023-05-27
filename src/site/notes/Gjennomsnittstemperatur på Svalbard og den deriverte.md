@@ -1,5 +1,5 @@
 ---
-{"tags":["matematikk","1t","geogebra","derivasjon","funksjoner","del2","oppgave"],"temaer":["derivasjon","funksjoner"],"alias":[null],"dg-publish":true,"title":"Gjennomsnittstemperatur på Svalbard og den deriverte","fag":"1t","oppgave":1,"eksamen":"v2023","del":2,"date":"2023-05-27","modified":"2023-05-27","permalink":"/Gjennomsnittstemperatur på Svalbard og den deriverte/","dgPassFrontmatter":true}
+{"tags":["matematikk","1t","geogebra","derivasjon","funksjoner","del2","oppgave"],"temaer":["derivasjon","funksjoner"],"alias":[null],"dg-publish":true,"title":"Gjennomsnittstemperatur på Svalbard og den deriverte","fag":"1t","oppgave":1,"eksamen":"v23","del":2,"date":"2023-05-27","modified":"2023-05-27","permalink":"/Gjennomsnittstemperatur på Svalbard og den deriverte/","dgPassFrontmatter":true}
 ---
 
 
@@ -16,8 +16,7 @@ $$
 
 er en rimelig bra modell for gjennomsnittstemperaturen $T(x)^{\circ} \mathrm{C}$ hvert døgn de månedene han bor på Svalbard, når han lar $x=2$ svare til 1. februar, $x=3$ til 1. mars, $x=4$ til 1 . april og så videre.
 
->[!todo] Oppgave c)
->Bestem nullpunkter og ekstremalpunkter til den deriverte funksjonen $T^{\prime}$.
+>c) Bestem nullpunkter og ekstremalpunkter til den deriverte funksjonen $T^{\prime}$.
 >
 >Gjør rede for hva koordinatene til hvert av punktene forteller om gjennomsnittstemperaturen utenfor huset til Lars. 
 

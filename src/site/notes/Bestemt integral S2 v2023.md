@@ -1,0 +1,15 @@
+---
+{"tags":["oppgave","integrasjon","del1","s2"],"temaer":["integrasjon"],"alias":[null],"del":1,"oppgave":1,"fag":"s2","eksamen":"v23","dg-publish":true,"title":"Bestemt integral S2 v23","date":"2023-05-27","modified":"2023-05-27","permalink":"/Bestemt integral S2 v2023/","dgPassFrontmatter":true}
+---
+
+
+# Bestemt integral S2 v23
+Regn ut integralet
+
+$$
+\int_{0}^{1}\left(e^{x}+3 x^{2}\right) d x
+$$
+
+>[!question]- Fasit
+>$e$
+>[[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 1-1\|Løsningsforslag S2 eksamen V2023#Oppgave 1-1]]

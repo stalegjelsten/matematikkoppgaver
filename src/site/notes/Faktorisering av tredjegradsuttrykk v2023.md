@@ -1,9 +1,9 @@
 ---
-{"tags":["oppgave","likninger","identiteter","polynomdivisjon"],"temaer":["likninger","identiteter","polynomdivisjon"],"alias":[null],"del":1,"oppgave":3,"fag":"1t","eksamen":"v2023","dg-publish":true,"title":"Faktorisering av tredjegradsuttrykk v2023","date":"2023-05-27","modified":"2023-05-27","permalink":"/Faktorisering av tredjegradsuttrykk v2023/","dgPassFrontmatter":true}
+{"tags":["oppgave","likninger","identiteter","polynomdivisjon"],"temaer":["likninger","identiteter","polynomdivisjon"],"alias":[null],"del":1,"oppgave":3,"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Faktorisering av tredjegradsuttrykk v23","date":"2023-05-27","modified":"2023-05-27","permalink":"/Faktorisering av tredjegradsuttrykk v2023/","dgPassFrontmatter":true}
 ---
 
 
-# Faktorisering av tredjegradsuttrykk v2023
+# Faktorisering av tredjegradsuttrykk v23
 Gitt likningen
 
 $$x^{3}-5 x^{2}-8 x+12=(x-1)(x+a)(x-b)$$

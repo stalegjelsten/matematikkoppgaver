@@ -1,5 +1,5 @@
 ---
-{"tags":["1t","utforskning","glidere","cas","funksjoner","geogebra","oppgave"],"temaer":["utforskning","glidere","cas","funksjoner","geogebra"],"alias":[null],"del":2,"fag":"1t","oppgave":6,"eksamen":"v2023","dg-publish":true,"title":"Tredjegradsfunksjoner uten førstegradsledd","date":"2023-05-27","modified":"2023-05-27","permalink":"/Tredjegradsfunksjoner uten førstegradsledd/","dgPassFrontmatter":true}
+{"tags":["1t","utforskning","glidere","cas","funksjoner","geogebra","oppgave"],"temaer":["utforskning","glidere","cas","funksjoner","geogebra"],"alias":[null],"del":2,"fag":"1t","oppgave":6,"eksamen":"v23","dg-publish":true,"title":"Tredjegradsfunksjoner uten førstegradsledd","date":"2023-05-27","modified":"2023-05-27","permalink":"/Tredjegradsfunksjoner uten førstegradsledd/","dgPassFrontmatter":true}
 ---
 
 
