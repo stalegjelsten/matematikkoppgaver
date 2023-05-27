@@ -20,4 +20,7 @@ b) Bestem stigningstallet til den rette linjen som går gjennom punktene $(3, T(
 
 *Denne oppgaven har også én c)-oppgave som passer for 1T: [[Gjennomsnittstemperatur på Svalbard og den deriverte\|Gjennomsnittstemperatur på Svalbard og den deriverte]]*
 
-[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-1\|Løsningsforslag 1T eksamen V2023#Oppgave 2-1]]
+>[!question]- Fasit
+>a) ca 95–96 døgn
+>b) Gjennomsnittlig vekstfart er 5,04. Gjennomsnittlig øker temp med 5,04 ºC per måned
+>[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-1\|Løsningsforslag 1T eksamen V2023#Oppgave 2-1]]
