@@ -1,5 +1,5 @@
 ---
-{"tags":["matematikk,1t,1p,geogebra,gjennomsnittlig vekstfart,del2"],"alias":null,"dg-publish":true,"title":"Gjennomsnittstemperatur på Svalbard","fag":"1t,1p","eksamen":"v2023","del":2,"date":"2023-05-27","modified":"2023-05-27","permalink":"/Gjennomsnittstemperatur på Svalbard/","dgPassFrontmatter":true}
+{"tags":["matematikk","1t","1p","geogebra","gjennomsnittlig vekstfart","del2"],"alias":[null],"dg-publish":true,"title":"Gjennomsnittstemperatur på Svalbard","fag":"1t,1p","eksamen":"v2023","del":2,"date":"2023-05-27","modified":"2023-05-27","permalink":"/Gjennomsnittstemperatur på Svalbard/","dgPassFrontmatter":true}
 ---
 
 
@@ -17,5 +17,7 @@ er en rimelig bra modell for gjennomsnittstemperaturen $T(x)^{\circ} \mathrm{C}$
 a) Omtrent hvor mange døgn i perioden 1. februar-1. oktober er gjennomsnittstemperaturen over $0^{\circ} \mathrm{C}$ ifølge modellen?
 
 b) Bestem stigningstallet til den rette linjen som går gjennom punktene $(3, T(3))$ og $(7, T(7))$. Gi en praktisk tolkning av dette stigningstallet.
+
+*Denne oppgaven har også én c)-oppgave til 1T: [[Gjennomsnittstemperatur på Svalbard og den deriverte\|Gjennomsnittstemperatur på Svalbard og den deriverte]]*
 
 [[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-1\|Løsningsforslag 1T eksamen V2023#Oppgave 2-1]]
