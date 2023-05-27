@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"temaer":["trigonometri","cosinussetningen","arealsetningen"],"alias":[null],"del":2,"oppgave":null,"fag":null,"eksamen":null,"dg-publish":true,"title":"Areal av firkant ved hjelp av trigonometri v23","date":"2023-05-27","modified":"2023-05-27","permalink":"/Areal av firkant ved hjelp av trigonometri v2023/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"temaer":["trigonometri","cosinussetningen","arealsetningen"],"alias":[null],"del":2,"oppgave":null,"fag":null,"eksamen":null,"dg-publish":true,"title":"Areal av firkant ved hjelp av trigonometri v23","date":"2023-05-27","modified":"2023-05-27","permalink":"/areal-av-firkant-ved-hjelp-av-trigonometri-v2023/","dgPassFrontmatter":true}
 ---
 
 
