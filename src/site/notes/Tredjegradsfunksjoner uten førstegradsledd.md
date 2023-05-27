@@ -14,19 +14,19 @@ Trym og Eira arbeider med oppgaven nedenfor.
 >Bestem koordinatene til eventuelle topp- og bunnpunkter på grafen til $f$.
 ---
 
-*TRYM: Jeg ser med én gang at grafen må ha et topp- eller bunnpunkt som ligger på $y$-aksen.*
+TRYM: Jeg ser med én gang at grafen må ha et topp- eller bunnpunkt som ligger på $y$-aksen.
 
-**EIRA: Hvordan ser du det?**
+*EIRA: Hvordan ser du det?*
 
-*TRYM: Funksjonsuttrykket har ikke et førstegradsledd. Da må det være slik.*
+TRYM: Funksjonsuttrykket har ikke et førstegradsledd. Da må det være slik.
 
-**EIRA: Hvorfor det? Vil det alltid være slik?**
+*EIRA: Hvorfor det? Vil det alltid være slik?*
 
-*TRYM: Ja, i alle fall for alle tredjegradsfunksjoner. Det har jeg lært meg.*
+TRYM: Ja, i alle fall for alle tredjegradsfunksjoner. Det har jeg lært meg.
 
-**EIRA: Men det er jo ikke slik for grafen til $x^{3}$.**
+*EIRA: Men det er jo ikke slik for grafen til $x^{3}$.*
 
-*TRYM: Æsj! Det stemmer. Det kan jo hende du har litt rett likevel, men at det er noe mer vi må se etter?*
+TRYM: Æsj! Det stemmer. Det kan jo hende du har litt rett likevel, men at det er noe mer vi må se etter?
 
 a) Løs oppgaven elevene arbeider med.
 
