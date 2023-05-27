@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave","sannsynlighet","diskrete sannsynlighetsfordelinger","varians","forventningsverdi","del1","s2"],"temaer":["sannsynlighet","diskrete sannsynlighetsfordelinger","varians","forventningsverdi"],"alias":[null],"del":1,"oppgave":3,"fag":"s2","eksamen":"v23","dg-publish":true,"title":"Forventingsverdi og varians fra sannsynlighetsfordeling S2","date":"2023-05-27","modified":"2023-05-27","permalink":"/Forventingsverdi og varians fra sannsynlighetsfordeling S2/","dgPassFrontmatter":true}
+{"tags":["oppgave","sannsynlighet","diskrete sannsynlighetsfordelinger","varians","forventningsverdi","del1","s2"],"temaer":["sannsynlighet","diskrete sannsynlighetsfordelinger","varians","forventningsverdi"],"alias":[null],"del":1,"oppgave":3,"fag":"s2","eksamen":"v23","dg-publish":true,"title":"Forventingsverdi og varians fra sannsynlighetsfordeling S2","date":"2023-05-27","modified":"2023-05-27","permalink":"/forventingsverdi-og-varians-fra-sannsynlighetsfordeling-s2/","dgPassFrontmatter":true}
 ---
 
 
