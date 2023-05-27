@@ -10,4 +10,9 @@ I denne oppgaven skal du vise at du kan bruke trigonometri til å bestemme areal
 
 Bestem arealet. Husk å gjøre rede for hvilke trigonometriske sammenhenger du bruker. 
 
-[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-3\|Løsningsforslag 1T eksamen V2023#Oppgave 2-3]]
+>[!info] Kommentar
+>Kommentar: Du trenger ikke regne eksakte verdier i denne oppgaven, men du må bruke trigonometriske sammenhenger, ikke konstruksjon i GeoGebra.
+
+>[!question]- Fasit
+> $A=50{,}78$
+>[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-3\|Løsningsforslag 1T eksamen V2023#Oppgave 2-3]]
