@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"temaer":["rasjonale funksjoner","funksjoner","grafer","utforskning"],"alias":[null],"del":1,"oppgave":4,"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Lag funksjonuttrykk til grafen av rasjonal funksjon","date":"2023-05-27","modified":"2023-05-27","permalink":"/Lag funksjonuttrykk til grafen av rasjonal funksjon/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"temaer":["rasjonale funksjoner","funksjoner","grafer","utforskning"],"alias":[null],"del":1,"oppgave":4,"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Lag funksjonuttrykk til grafen av rasjonal funksjon","date":"2023-05-27","modified":"2023-05-27","permalink":"/lag-funksjonuttrykk-til-grafen-av-rasjonal-funksjon/","dgPassFrontmatter":true}
 ---
 
 
