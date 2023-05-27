@@ -18,4 +18,8 @@ Josefine lurer på om de kan tegne en graf som viser at Herman har rett. Hun pr�
 
 c) Sett opp et funksjonsuttrykk for Josefine. Tegn grafen og vis at Hermann sin påstand er riktig. 
 
-[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-2\|Løsningsforslag 1T eksamen V2023#Oppgave 2-2]]
+>[!question]- Fasit
+> a) 600 m²
+> b) Herman har rett
+> c) En mulighet er $A(x)=x\cdot (80-2x)$
+>[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-2\|Løsningsforslag 1T eksamen V2023#Oppgave 2-2]]
