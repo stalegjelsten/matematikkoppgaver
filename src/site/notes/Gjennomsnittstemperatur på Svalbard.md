@@ -17,3 +17,5 @@ er en rimelig bra modell for gjennomsnittstemperaturen $T(x)^{\circ} \mathrm{C}$
 a) Omtrent hvor mange døgn i perioden 1. februar-1. oktober er gjennomsnittstemperaturen over $0^{\circ} \mathrm{C}$ ifølge modellen?
 
 b) Bestem stigningstallet til den rette linjen som går gjennom punktene $(3, T(3))$ og $(7, T(7))$. Gi en praktisk tolkning av dette stigningstallet.
+
+[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-1\|Løsningsforslag 1T eksamen V2023#Oppgave 2-1]]
