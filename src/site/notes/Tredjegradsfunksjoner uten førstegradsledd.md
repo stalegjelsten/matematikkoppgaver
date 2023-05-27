@@ -28,9 +28,9 @@ TRYM: Ja, i alle fall for alle tredjegradsfunksjoner. Det har jeg lært meg.
 
 TRYM: Æsj! Det stemmer. Det kan jo hende du har litt rett likevel, men at det er noe mer vi må se etter?
 
-a) Løs oppgaven elevene arbeider med.
+>a) Løs oppgaven elevene arbeider med.
 
-b) Ta utgangspunkt i dialogen ovenfor. Utforsk og kommenter Trym sin «regel». 
+>b) Ta utgangspunkt i dialogen ovenfor. Utforsk og kommenter Trym sin «regel». 
 
 >[!question]- Fasit
 >a) Topp i $(0, 2)$ og bunn i $(2, -2)$.
