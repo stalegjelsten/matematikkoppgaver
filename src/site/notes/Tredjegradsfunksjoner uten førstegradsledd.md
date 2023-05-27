@@ -1,5 +1,5 @@
 ---
-{"tags":["1t","utforskning","glidere","cas","funksjoner","geogebra"],"alias":[null],"del":2,"fag":"1t","eksamen":"v2023","dg-publish":true,"title":"Tredjegradsfunksjoner uten førstegradsledd","date":"2023-05-27","modified":"2023-05-27","permalink":"/Tredjegradsfunksjoner uten førstegradsledd/","dgPassFrontmatter":true}
+{"tags":["1t","utforskning","glidere","cas","funksjoner","geogebra","oppgave"],"alias":[null],"del":2,"fag":"1t","oppgave":6,"eksamen":"v2023","dg-publish":true,"title":"Tredjegradsfunksjoner uten førstegradsledd","date":"2023-05-27","modified":"2023-05-27","permalink":"/Tredjegradsfunksjoner uten førstegradsledd/","dgPassFrontmatter":true}
 ---
 
 
@@ -8,6 +8,7 @@ Trym og Eira arbeider med oppgaven nedenfor.
 
 ---
 >Funksjonen $f$ er gitt ved
+>
 >$$f(x)=x^{3}-3 x^{2}+2$$
 >
 >Bestem koordinatene til eventuelle topp- og bunnpunkter på grafen til $f$.
