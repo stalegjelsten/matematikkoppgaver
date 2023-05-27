@@ -1,5 +1,5 @@
 ---
-{"tags":["matematikk","1t","1p","geogebra","gjennomsnittlig vekstfart","del2","oppgave"],"alias":[null],"dg-publish":true,"title":"Gjennomsnittstemperatur på Svalbard","fag":"1t,1p","oppgave":1,"eksamen":"v2023","del":2,"date":"2023-05-27","modified":"2023-05-27","permalink":"/Gjennomsnittstemperatur på Svalbard/","dgPassFrontmatter":true}
+{"tags":["matematikk","1t","1p","geogebra","gjennomsnittlig vekstfart","del2","oppgave"],"alias":[null],"temaer":["geogebra","gjennomsnittlig vekstfart"],"dg-publish":true,"title":"Gjennomsnittstemperatur på Svalbard","fag":"1t,1p","oppgave":1,"eksamen":"v2023","del":2,"date":"2023-05-27","modified":"2023-05-27","permalink":"/Gjennomsnittstemperatur på Svalbard/","dgPassFrontmatter":true}
 ---
 
 
