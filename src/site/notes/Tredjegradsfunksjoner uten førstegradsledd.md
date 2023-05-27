@@ -7,14 +7,10 @@
 Trym og Eira arbeider med oppgaven nedenfor.
 
 ---
-Funksjonen $f$ er gitt ved
-
-$$
-f(x)=x^{3}-3 x^{2}+2
-$$
-
-Bestem koordinatene til eventuelle topp- og bunnpunkter på grafen til $f$.
-
+>Funksjonen $f$ er gitt ved
+>$$f(x)=x^{3}-3 x^{2}+2$$
+>
+>Bestem koordinatene til eventuelle topp- og bunnpunkter på grafen til $f$.
 ---
 
 TRYM: Jeg ser med én gang at grafen må ha et topp- eller bunnpunkt som ligger på $y$-aksen.
