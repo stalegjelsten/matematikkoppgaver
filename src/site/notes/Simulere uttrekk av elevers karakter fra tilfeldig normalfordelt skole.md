@@ -1,5 +1,5 @@
 ---
-{"tags":["programmering","simulering","sannsynlighet","normalfordeling","kontinuerlige sannsynlighetsfordelinger","oppgave","s2","del2"],"temaer":["programmering","simulering","sannsynlighet","normalfordeling","kontinuerlige sannsynlighetsfordelinger"],"alias":[null],"del":2,"oppgave":5,"fag":"s2","eksamen":"v23","dg-publish":true,"title":"Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole","date":"2023-05-27","modified":"2023-05-27","permalink":"/Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole/","dgPassFrontmatter":true}
+{"tags":["programmering","simulering","sannsynlighet","normalfordeling","kontinuerlige sannsynlighetsfordelinger","oppgave","s2","del2"],"temaer":["programmering","simulering","sannsynlighet","normalfordeling","kontinuerlige sannsynlighetsfordelinger"],"alias":[null],"del":2,"oppgave":5,"fag":"s2","eksamen":"v23","dg-publish":true,"title":"Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole","date":"2023-05-27","modified":"2023-05-27","permalink":"/simulere-uttrekk-av-elevers-karakter-fra-tilfeldig-normalfordelt-skole/","dgPassFrontmatter":true}
 ---
 
 
