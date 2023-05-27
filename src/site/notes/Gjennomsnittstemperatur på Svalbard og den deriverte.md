@@ -1,5 +1,5 @@
 ---
-{"tags":["matematikk,1t,geogebra,gjennomsnittlig vekstfart,del2"],"alias":null,"dg-publish":true,"title":"Gjennomsnittstemperatur på Svalbard og den deriverte","fag":"1t","eksamen":"v2023","del":2,"date":"2023-05-27","modified":"2023-05-27","permalink":"/Gjennomsnittstemperatur på Svalbard og den deriverte/","dgPassFrontmatter":true}
+{"tags":["matematikk","1t","geogebra","gjennomsnittlig vekstfart","del2"],"alias":[null],"dg-publish":true,"title":"Gjennomsnittstemperatur på Svalbard og den deriverte","fag":"1t","eksamen":"v2023","del":2,"date":"2023-05-27","modified":"2023-05-27","permalink":"/Gjennomsnittstemperatur på Svalbard og den deriverte/","dgPassFrontmatter":true}
 ---
 
 
@@ -19,3 +19,5 @@ er en rimelig bra modell for gjennomsnittstemperaturen $T(x)^{\circ} \mathrm{C}$
 c) Bestem nullpunkter og ekstremalpunkter til den deriverte funksjonen $T^{\prime}$.
 
 Gjør rede for hva koordinatene til hvert av punktene forteller om gjennomsnittstemperaturen utenfor huset til Lars. 
+
+[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-1\|Løsningsforslag 1T eksamen V2023#Oppgave 2-1]]
