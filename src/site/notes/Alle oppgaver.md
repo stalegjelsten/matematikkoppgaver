@@ -1,5 +1,5 @@
 ---
-{"tags":[null,"gardenEntry","gardenEntry","gardenEntry"],"dg-home":true,"alias":[null],"del":null,"fag":null,"eksamen":null,"dg-publish":true,"title":"Alle oppgaver","date":"2023-05-27","modified":"2023-05-27","permalink":"/Alle oppgaver/","dgPassFrontmatter":true}
+{"tags":[null,"gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"dg-home":true,"alias":[null],"del":null,"fag":null,"eksamen":null,"dg-publish":true,"title":"Alle oppgaver","date":"2023-05-27","modified":"2023-05-27","permalink":"/Alle oppgaver/","dgPassFrontmatter":true}
 ---
 
 
