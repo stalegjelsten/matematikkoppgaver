@@ -1,5 +1,5 @@
 ---
-{"tags":["matematikk","S2"],"alias":[null],"dg-publish":true,"title":"Løsningsforslag S2 eksempelsett 2022","date":"2023-05-19","modified":"2023-05-19","permalink":"/Løsningsforslag/Løsningsforslag S2 eksempelsett 2022/","dgPassFrontmatter":true}
+{"tags":["matematikk","S2"],"alias":[null],"dg-publish":true,"title":"Løsningsforslag S2 eksempelsett 2022","date":"2023-05-19","modified":"2023-05-19","permalink":"/losningsforslag/losningsforslag-s2-eksempelsett-2022/","dgPassFrontmatter":true}
 ---
 
 
