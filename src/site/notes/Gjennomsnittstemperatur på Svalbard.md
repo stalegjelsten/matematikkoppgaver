@@ -18,6 +18,6 @@ a) Omtrent hvor mange døgn i perioden 1. februar-1. oktober er gjennomsnittstem
 
 b) Bestem stigningstallet til den rette linjen som går gjennom punktene $(3, T(3))$ og $(7, T(7))$. Gi en praktisk tolkning av dette stigningstallet.
 
-*Denne oppgaven har også én c)-oppgave til 1T: [[Gjennomsnittstemperatur på Svalbard og den deriverte\|Gjennomsnittstemperatur på Svalbard og den deriverte]]*
+*Denne oppgaven har også én c)-oppgave som passer for 1T: [[Gjennomsnittstemperatur på Svalbard og den deriverte\|Gjennomsnittstemperatur på Svalbard og den deriverte]]*
 
 [[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-1\|Løsningsforslag 1T eksamen V2023#Oppgave 2-1]]
