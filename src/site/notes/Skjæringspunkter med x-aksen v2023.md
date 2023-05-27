@@ -1,5 +1,5 @@
 ---
-{"temaer":["funksjoner","faktorisering","likninger","andregradslikninger"],"tags":["oppgave","funksjoner","faktorisering","likninger","andregradslikninger","1t"],"alias":[null],"del":1,"oppgave":2,"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Skjæringspunkter med x-aksen v23","date":"2023-05-27","modified":"2023-05-27","permalink":"/Skjæringspunkter med x-aksen v2023/","dgPassFrontmatter":true}
+{"temaer":["funksjoner","faktorisering","likninger","andregradslikninger"],"tags":["oppgave","funksjoner","faktorisering","likninger","andregradslikninger","1t"],"alias":[null],"del":1,"oppgave":2,"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Skjæringspunkter med x-aksen v23","date":"2023-05-27","modified":"2023-05-27","permalink":"/skjaeringspunkter-med-x-aksen-v2023/","dgPassFrontmatter":true}
 ---
 
 
