@@ -32,4 +32,7 @@ a) Løs oppgaven elevene arbeider med.
 
 b) Ta utgangspunkt i dialogen ovenfor. Utforsk og kommenter Trym sin «regel». 
 
+>[!question]- Fasit
+>a) Topp i $(0, 2)$ og bunn i $(2, -2)$.
+>b) Det vil alltid være et stasjonært punkt på $y$-aksen for slike funksjoner.
 [[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-6\|Løsningsforslag 1T eksamen V2023#Oppgave 2-6]]
