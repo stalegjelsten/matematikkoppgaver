@@ -16,9 +16,9 @@ Karakterstatistikk fra de tre skolene viser at karakterene i matematikk er tiln�
 
 Forskerne skal trekke ut 20 elever. For hver elev de skal trekke, trekker de først en tilfeldig skole og deretter en tilfeldig elev fra den skolen.
 
-a) Lag et program som simulerer gjennomsnittskarakteren til 20 elever som er valgt ut på denne måten.
+>a) Lag et program som simulerer gjennomsnittskarakteren til 20 elever som er valgt ut på denne måten.
 
-b) Bruk simuleringer til å estimere sannsynligheten for at karaktersnittet til de 20 elevene er høyere enn 4. 
+>b) Bruk simuleringer til å estimere sannsynligheten for at karaktersnittet til de 20 elevene er høyere enn 4. 
 
 >[!question]- Fasit
 >b) $P(X>4)\approx 0{,}205$
