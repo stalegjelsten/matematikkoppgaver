@@ -17,15 +17,4 @@ Figuren nedenfor viser grafen til kostnadsfunksjonen og grafen til inntektsfunks
 >b) ca 57 enheter
 > [[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 1-2\|Løsningsforslag S2 eksamen V2023#Oppgave 1-2]]
 
->[!info] Om oppgaven
-><pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:18404:21)
-    at evalInContext (plugin:dataview:18405:7)
-    at asyncEvalInContext (plugin:dataview:18415:32)
-    at DataviewJSRenderer.render (plugin:dataview:18436:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18020:14)
-    at e.load (app://obsidian.md/app.js:1:631581)
-    at DataviewApi.executeJs (plugin:dataview:18954:18)
-    at Publisher.eval (plugin:digitalgarden:14394:23)
-    at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:78:61)</pre>
+<p><span><p>Eksamen: s2 v23. Del 1 oppgave 2</p></span></p><h4><span><p>Oppgaver knyttet til samme temaer 👇</p></span></h4><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span><span class="dataview small-text">4</span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><ul class="dataview dataview-ul dataview-result-list-ul"><li class="dataview-result-list-li"><span></span></li></ul></td></tr><tr><td><span></span></td><td><ul class="dataview dataview-ul dataview-result-list-ul"><li class="dataview-result-list-li"><span></span></li><li class="dataview-result-list-li"><span></span></li><li class="dataview-result-list-li"><span></span></li></ul></td></tr><tr><td><span></span></td><td><ul class="dataview dataview-ul dataview-result-list-ul"><li class="dataview-result-list-li"><span></span></li><li class="dataview-result-list-li"><span></span></li><li class="dataview-result-list-li"><span></span></li><li class="dataview-result-list-li"><span></span></li><li class="dataview-result-list-li"><span></span></li><li class="dataview-result-list-li"><span></span></li></ul></td></tr><tr><td><span></span></td><td><ul class="dataview dataview-ul dataview-result-list-ul"><li class="dataview-result-list-li"><span></span></li></ul></td></tr></tbody></table></div>
