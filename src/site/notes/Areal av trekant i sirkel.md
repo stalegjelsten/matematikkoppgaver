@@ -1,5 +1,5 @@
 ---
-{"tags":["1t","del2","trigonometri","arealsetning","consiussetning","cas","oppgave"],"temaer":["trigonometri","arealsetning","consiussetning","cas"],"alias":[null],"del":2,"oppgave":5,"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Areal av trekant i sirkel","date":"2023-05-27","modified":"2023-05-28","permalink":"/areal-av-trekant-i-sirkel/","dgPassFrontmatter":true}
+{"tags":["1t","del2","trigonometri","arealsetning","cosinussetningen","cas","oppgave"],"temaer":["trigonometri","arealsetningen","cosinussetningen","cas"],"alias":[null],"del":2,"oppgave":5,"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Areal av trekant i sirkel","date":"2023-05-27","modified":"2023-05-28","permalink":"/areal-av-trekant-i-sirkel/","dgPassFrontmatter":true}
 ---
 
 
@@ -24,9 +24,11 @@ Bestem en eksakt verdi for $r$.
 <p><span><p>Oppgaven er hentet fra eksamen 1t v23. Del 2 oppgave 5</p></span></p>
 
 Nedenfor finner du andre oppgaver innenfor lignende temaer som denne oppgaven 👇
-| Tema         | Navn                                                                                                                       | Oppgave                      |
-| ------------ | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| cas          | <ul><li>[[Tredjegradsfunksjoner uten førstegradsledd.md\\|Tredjegradsfunksjoner uten førstegradsledd]]</li></ul>           | <ul><li>1t-v23-2-6</li></ul> |
-| trigonometri | <ul><li>[[Areal av firkant ved hjelp av trigonometri v2023.md\\|Areal av firkant ved hjelp av trigonometri v23]]</li></ul> | <ul><li>1t-\--2-3</li></ul>  |
+| Tema             | Navn                                                                                                                       | Oppgave                      |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| arealsetningen   | <ul><li>[[Areal av firkant ved hjelp av trigonometri v2023.md\\|Areal av firkant ved hjelp av trigonometri v23]]</li></ul> | <ul><li>1t-\--2-3</li></ul>  |
+| cas              | <ul><li>[[Tredjegradsfunksjoner uten førstegradsledd.md\\|Tredjegradsfunksjoner uten førstegradsledd]]</li></ul>           | <ul><li>1t-v23-2-6</li></ul> |
+| cosinussetningen | <ul><li>[[Areal av firkant ved hjelp av trigonometri v2023.md\\|Areal av firkant ved hjelp av trigonometri v23]]</li></ul> | <ul><li>1t-\--2-3</li></ul>  |
+| trigonometri     | <ul><li>[[Areal av firkant ved hjelp av trigonometri v2023.md\\|Areal av firkant ved hjelp av trigonometri v23]]</li></ul> | <ul><li>1t-\--2-3</li></ul>  |
 
 { .block-language-dataview}
