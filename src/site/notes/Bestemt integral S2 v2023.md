@@ -14,4 +14,15 @@ $$
 >$e$
 >[[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 1-1\|Løsningsforslag S2 eksamen V2023#Oppgave 1-1]]
 
-
+>[!info] Om oppgaven
+><pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
+    at DataviewInlineApi.eval (plugin:dataview:18404:21)
+    at evalInContext (plugin:dataview:18405:7)
+    at asyncEvalInContext (plugin:dataview:18415:32)
+    at DataviewJSRenderer.render (plugin:dataview:18436:19)
+    at DataviewJSRenderer.onload (plugin:dataview:18020:14)
+    at e.load (app://obsidian.md/app.js:1:631581)
+    at DataviewApi.executeJs (plugin:dataview:18954:18)
+    at Publisher.eval (plugin:digitalgarden:14394:23)
+    at Generator.next (&lt;anonymous&gt;)
+    at eval (plugin:digitalgarden:78:61)</pre>

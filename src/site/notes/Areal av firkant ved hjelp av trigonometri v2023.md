@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"temaer":["trigonometri","cosinussetningen","arealsetningen"],"alias":[null],"del":2,"oppgave":null,"fag":null,"eksamen":null,"dg-publish":true,"title":"Areal av firkant ved hjelp av trigonometri v23","date":"2023-05-27","modified":"2023-05-27","permalink":"/areal-av-firkant-ved-hjelp-av-trigonometri-v2023/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"temaer":["trigonometri","cosinussetningen","arealsetningen"],"alias":[null],"del":2,"oppgave":3,"fag":"1t","eksamen":null,"dg-publish":true,"title":"Areal av firkant ved hjelp av trigonometri v23","date":"2023-05-27","modified":"2023-05-28","permalink":"/areal-av-firkant-ved-hjelp-av-trigonometri-v2023/","dgPassFrontmatter":true}
 ---
 
 
@@ -17,8 +17,15 @@ Bestem arealet. Husk å gjøre rede for hvilke trigonometriske sammenhenger du b
 > $A=50{,}78$
 >[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-3\|Løsningsforslag 1T eksamen V2023#Oppgave 2-3]]
 
-| Tema | Navn                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Oppgave                                                                                                                                                                                                                               |
-| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| \-   | <ul><li>[[Excalidraw/1t eksamen v2023 teltplass.excalidraw.md\\|1t eksamen v2023 teltplass.excalidraw]]</li><li>[[_resources/1t-v23-2-6a.md\\|1t-v23-2-6a]]</li><li>[[Løsningsforslag/Løsningsforslag 1T eksamen V2023.md\\|Løsningsforslag 1T eksamen V2023]]</li><li>[[Løsningsforslag/Løsningsforslag R2 eksamen V2023.md\\|Løsningsforslag R2 eksamen V2023]]</li><li>[[Løsningsforslag/Løsningsforslag S2 eksamen V2023.md\\|Løsningsforslag S2 eksamen V2023]]</li><li>[[Løsningsforslag/Løsningsforslag S2 eksempelsett 2022.md\\|Løsningsforslag S2 eksempelsett 2022]]</li><li>[[1T.md\\|1T]]</li><li>[[templates/Fasit.md\\|Fasit]]</li><li>[[templates/Info.md\\|Info]]</li><li>[[Hjem.md\\|Hjem]]</li><li>[[derivasjon.md\\|derivasjon]]</li><li>[[funksjoner.md\\|funksjoner]]</li><li>[[funksjonsdrøfting.md\\|funksjonsdrøfting]]</li></ul> | <ul><li>\--\--\-</li><li>\--\--\-</li><li>\--2-\-</li><li>\--\--\-</li><li>\--\--\-</li><li>\--\--\-</li><li>\--\--\-</li><li>\--\--\-</li><li>\--\--\-</li><li>\--\--\-</li><li>\--\--\-</li><li>\--\--\-</li><li>\--\--\-</li></ul> |
-
-{ .block-language-dataview}
+>[!info] Om oppgaven
+><pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
+    at DataviewInlineApi.eval (plugin:dataview:18404:21)
+    at evalInContext (plugin:dataview:18405:7)
+    at asyncEvalInContext (plugin:dataview:18415:32)
+    at DataviewJSRenderer.render (plugin:dataview:18436:19)
+    at DataviewJSRenderer.onload (plugin:dataview:18020:14)
+    at e.load (app://obsidian.md/app.js:1:631581)
+    at DataviewApi.executeJs (plugin:dataview:18954:18)
+    at Publisher.eval (plugin:digitalgarden:14394:23)
+    at Generator.next (&lt;anonymous&gt;)
+    at eval (plugin:digitalgarden:78:61)</pre>
