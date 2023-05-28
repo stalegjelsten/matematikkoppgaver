@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave","hypotesetest","binomisk sannsynlighetsfordeling","diskrete sannsynlighetsfordelinger","s2","del2"],"temaer":["hypotesetest","binomisk sannsynlighetsfordeling","diskrete sannsynlighetsfordelinger"],"alias":[null],"del":2,"oppgave":3,"fag":"s2","eksamen":"v23","dg-publish":true,"title":"Hypotesetest med smak av cola","date":"2023-05-27","modified":"2023-05-27","permalink":"/Hypotesetest med smak av cola/","dgPassFrontmatter":true}
+{"tags":["oppgave","hypotesetest","binomisk sannsynlighetsfordeling","diskrete sannsynlighetsfordelinger","s2","del2"],"temaer":["hypotesetest","binomisk sannsynlighetsfordeling","diskrete sannsynlighetsfordelinger"],"alias":[null],"del":2,"oppgave":3,"fag":"s2","eksamen":"v23","dg-publish":true,"title":"Hypotesetest med smak av cola","date":"2023-05-27","modified":"2023-05-27","permalink":"/hypotesetest-med-smak-av-cola/","dgPassFrontmatter":true}
 ---
 
 

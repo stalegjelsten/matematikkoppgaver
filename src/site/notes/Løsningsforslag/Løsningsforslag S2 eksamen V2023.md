@@ -1,5 +1,5 @@
 ---
-{"tags":["matematikk","løsningsforslag","S2"],"alias":[null],"dg-publish":true,"title":"Løsningsforslag S2 eksamen V2023","date":"2023-05-24","modified":"2023-05-26","geometry":"margin=3cm","fontsize":"11pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}"],"permalink":"/Løsningsforslag/Løsningsforslag S2 eksamen V2023/","dgPassFrontmatter":true}
+{"tags":["matematikk","løsningsforslag","S2"],"alias":[null],"dg-publish":true,"title":"Løsningsforslag S2 eksamen V2023","date":"2023-05-24","modified":"2023-05-26","geometry":"margin=3cm","fontsize":"11pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}"],"permalink":"/losningsforslag/losningsforslag-s2-eksamen-v2023/","dgPassFrontmatter":true}
 ---
 
 

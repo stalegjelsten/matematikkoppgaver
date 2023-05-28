@@ -1,5 +1,5 @@
 ---
-{"tags":["1t","utforskning","glidere","cas","funksjoner","geogebra","oppgave"],"temaer":["utforskning","glidere","cas","funksjoner","geogebra"],"alias":[null],"del":2,"fag":"1t","oppgave":6,"eksamen":"v23","dg-publish":true,"title":"Tredjegradsfunksjoner uten førstegradsledd","date":"2023-05-27","modified":"2023-05-27","permalink":"/Tredjegradsfunksjoner uten førstegradsledd/","dgPassFrontmatter":true}
+{"tags":["1t","utforskning","glidere","cas","funksjoner","geogebra","oppgave"],"temaer":["utforskning","glidere","cas","funksjoner","geogebra"],"alias":[null],"del":2,"fag":"1t","oppgave":6,"eksamen":"v23","dg-publish":true,"title":"Tredjegradsfunksjoner uten førstegradsledd","date":"2023-05-27","modified":"2023-05-27","permalink":"/tredjegradsfunksjoner-uten-forstegradsledd/","dgPassFrontmatter":true}
 ---
 
 
@@ -28,9 +28,9 @@ TRYM: Ja, i alle fall for alle tredjegradsfunksjoner. Det har jeg lært meg.
 
 TRYM: Æsj! Det stemmer. Det kan jo hende du har litt rett likevel, men at det er noe mer vi må se etter?
 
-a) Løs oppgaven elevene arbeider med.
+>a) Løs oppgaven elevene arbeider med.
 
-b) Ta utgangspunkt i dialogen ovenfor. Utforsk og kommenter Trym sin «regel». 
+>b) Ta utgangspunkt i dialogen ovenfor. Utforsk og kommenter Trym sin «regel». 
 
 >[!question]- Fasit
 >a) Topp i $(0, 2)$ og bunn i $(2, -2)$.
