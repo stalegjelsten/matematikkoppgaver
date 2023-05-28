@@ -1,5 +1,5 @@
 ---
-{"tags":["1t","utforskning","glidere","cas","funksjoner","geogebra","oppgave"],"temaer":["utforskning","glidere","cas","funksjoner","geogebra"],"alias":[null],"del":2,"fag":"1t","oppgave":6,"eksamen":"v23","dg-publish":true,"title":"Tredjegradsfunksjoner uten førstegradsledd","date":"2023-05-27","modified":"2023-05-28","permalink":"/tredjegradsfunksjoner-uten-forstegradsledd/","dgPassFrontmatter":true}
+{"tags":["1t","utforskning","glidere","cas","funksjoner","geogebra","oppgave"],"temaer":["utforskning","glidere","cas","funksjoner","geogebra"],"alias":[null],"del":2,"fag":"1t","oppgave":6,"eksamen":"v23","dg-publish":true,"title":"Tredjegradsfunksjoner uten førstegradsledd","date":"2023-05-27","modified":"2023-05-29","permalink":"/tredjegradsfunksjoner-uten-forstegradsledd/","dgPassFrontmatter":true}
 ---
 
 
@@ -37,3 +37,21 @@ TRYM: Æsj! Det stemmer. Det kan jo hende du har litt rett likevel, men at det e
 >b) Det vil alltid være et stasjonært punkt på $y$-aksen for slike funksjoner.
 [[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-6\|Løsningsforslag 1T eksamen V2023#Oppgave 2-6]]
 
+## Relatert
+<p><span><p>Oppgaven er hentet fra eksamen 1t v23. Del 2 oppgave 6</p></span></p>
+
+### Lignende oppgaver i samme fag
+| Tema        | Oppgave                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| cas         | <ul><li>[[Areal av trekant i sirkel.md\\|Areal av trekant i sirkel 1t-v23-2-5]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| funksjoner  | <ul><li>[[Grensekostnader fra graf v23.md\\|Grensekostnader fra graf v23 s2-v23-1-2]]</li><li>[[Lag funksjonuttrykk til grafen av rasjonal funksjon.md\\|Lag funksjonuttrykk til grafen av rasjonal funksjon 1t-v23-1-4]]</li><li>[[Gjennomsnittstemperatur på Svalbard og den deriverte.md\\|Gjennomsnittstemperatur på Svalbard og den deriverte 1t-v23-2-1]]</li><li>[[Skisser grafen ut fra den deriverte v2023.md\\|Skisser grafen ut fra den deriverte v23 1t-v23-1-5]]</li><li>[[Skjæringspunkter med x-aksen v2023.md\\|Skjæringspunkter med x-aksen v23 1t-v23-1-2]]</li></ul> |
+| geogebra    | <ul><li>[[Gjennomsnittstemperatur på Svalbard.md\\|Gjennomsnittstemperatur på Svalbard 1t, 1p-v23-2-1]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| utforskning | <ul><li>[[Lag funksjonuttrykk til grafen av rasjonal funksjon.md\\|Lag funksjonuttrykk til grafen av rasjonal funksjon 1t-v23-1-4]]</li><li>[[Bredden av teltplassen.md\\|Bredden av teltplassen 1t, 1p-v23-2-2]]</li></ul>                                                                                                                                                                                                                                                                                                                                                             |
+
+{ .block-language-dataview}
+
+### Lignende oppgaver i andre fag
+| Tema | Navn | Oppgave |
+| ---- | ---- | ------- |
+
+{ .block-language-dataview}
