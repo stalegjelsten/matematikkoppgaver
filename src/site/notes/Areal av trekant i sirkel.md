@@ -1,5 +1,5 @@
 ---
-{"tags":["1t","del2","trigonometri","arealsetning","cosinussetningen","cas","oppgave"],"temaer":["trigonometri","arealsetningen","cosinussetningen","cas"],"alias":[null],"del":2,"oppgave":5,"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Areal av trekant i sirkel","date":"2023-05-27","modified":"2023-05-28","permalink":"/areal-av-trekant-i-sirkel/","dgPassFrontmatter":true}
+{"tags":["1t","del2","trigonometri","arealsetning","cosinussetningen","cas","oppgave"],"temaer":["trigonometri","arealsetningen","cosinussetningen","cas"],"alias":[null],"del":2,"oppgave":5,"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Areal av trekant i sirkel","date":"2023-05-27","modified":"2023-05-29","permalink":"/areal-av-trekant-i-sirkel/","dgPassFrontmatter":true}
 ---
 
 
@@ -19,22 +19,6 @@ Bestem en eksakt verdi for $r$.
 >[!question]- Fasit
 >$r=2 \sqrt{ 2 }$
 >[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-5\|Løsningsforslag 1T eksamen V2023#Oppgave 2-5]]
-
----
-tags: oppgave
-temaer:
-alias:
-del:
-oppgave: 
-fag: 
-eksamen: 
-dg-publish: true
-title: Info
-date: 2023-05-28
-modified: 2023-05-28
----
-
-# Info
 
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen 1t v23. Del 2 oppgave 5</p></span></p>
