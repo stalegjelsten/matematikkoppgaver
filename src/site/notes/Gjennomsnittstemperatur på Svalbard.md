@@ -25,12 +25,3 @@ er en rimelig bra modell for gjennomsnittstemperaturen $T(x)^{\circ} \mathrm{C}$
 >b) Gjennomsnittlig vekstfart er 5,04. Gjennomsnittlig øker temp med 5,04 ºC per måned
 >[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-1\|Løsningsforslag 1T eksamen V2023#Oppgave 2-1]]
 
-## Relatert
-<p><span><p>Oppgaven er hentet fra eksamen 1t,1p v23. Del 2 oppgave 1</p></span></p>
-
-Nedenfor finner du andre oppgaver innenfor lignende temaer som denne oppgaven 👇
-| Tema     | Navn                                                                                                             | Oppgave                      |
-| -------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| geogebra | <ul><li>[[Tredjegradsfunksjoner uten førstegradsledd.md\\|Tredjegradsfunksjoner uten førstegradsledd]]</li></ul> | <ul><li>1t-v23-2-6</li></ul> |
-
-{ .block-language-dataview}

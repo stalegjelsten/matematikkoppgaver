@@ -18,13 +18,3 @@ b) Bestem $E(X)$ og $\operatorname{Var}(X)$.
 >b) Begge er 1
 >[[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 1-3\|Løsningsforslag S2 eksamen V2023#Oppgave 1-3]]
 
-## Relatert
-<p><span><p>Oppgaven er hentet fra eksamen s2 v23. Del 1 oppgave 3</p></span></p>
-
-Nedenfor finner du andre oppgaver innenfor lignende temaer som denne oppgaven 👇
-| Tema                               | Navn                                                                                                                                                                     | Oppgave                      |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- |
-| diskrete sannsynlighetsfordelinger | <ul><li>[[Hypotesetest med smak av cola.md\\|Hypotesetest med smak av cola]]</li></ul>                                                                                   | <ul><li>s2-v23-2-3</li></ul> |
-| sannsynlighet                      | <ul><li>[[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole.md\\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole]]</li></ul> | <ul><li>s2-v23-2-5</li></ul> |
-
-{ .block-language-dataview}
