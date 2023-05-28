@@ -1,5 +1,5 @@
 ---
-{"tags":["programmering","simulering","sannsynlighet","normalfordeling","kontinuerlige sannsynlighetsfordelinger","oppgave","s2","del2"],"temaer":["programmering","simulering","sannsynlighet","normalfordeling","kontinuerlige sannsynlighetsfordelinger"],"alias":[null],"del":2,"oppgave":5,"fag":"s2","eksamen":"v23","dg-publish":true,"title":"Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole","date":"2023-05-27","modified":"2023-05-27","permalink":"/simulere-uttrekk-av-elevers-karakter-fra-tilfeldig-normalfordelt-skole/","dgPassFrontmatter":true}
+{"tags":["programmering","simulering","sannsynlighet","normalfordeling","kontinuerlige sannsynlighetsfordelinger","oppgave","s2","del2"],"temaer":["programmering","simulering","sannsynlighet","normalfordeling","kontinuerlige sannsynlighetsfordelinger"],"alias":[null],"del":2,"oppgave":5,"fag":"s2","eksamen":"v23","dg-publish":true,"title":"Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole","date":"2023-05-27","modified":"2023-05-28","permalink":"/simulere-uttrekk-av-elevers-karakter-fra-tilfeldig-normalfordelt-skole/","dgPassFrontmatter":true}
 ---
 
 
@@ -23,3 +23,14 @@ Forskerne skal trekke ut 20 elever. For hver elev de skal trekke, trekker de fø
 >[!question]- Fasit
 >b) $P(X>4)\approx 0{,}205$
 >[[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 2-5\|Løsningsforslag S2 eksamen V2023#Oppgave 2-5]]
+
+## Relatert
+<p><span><p>Oppgaven er hentet fra eksamen s2 v23. Del 2 oppgave 5</p></span></p>
+
+Nedenfor finner du andre oppgaver innenfor lignende temaer som denne oppgaven 👇
+| Tema            | Navn                                                                                                                                             | Oppgave                      |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- |
+| normalfordeling | <ul><li>[[Levetiden til normalfordelte batterier.md\\|Levetiden til normalfordelte batterier]]</li></ul>                                         | <ul><li>s2-v23-1-6</li></ul> |
+| sannsynlighet   | <ul><li>[[Forventingsverdi og varians fra sannsynlighetsfordeling S2.md\\|Forventingsverdi og varians fra sannsynlighetsfordeling S2]]</li></ul> | <ul><li>s2-v23-1-3</li></ul> |
+
+{ .block-language-dataview}
