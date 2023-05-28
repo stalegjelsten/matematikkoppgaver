@@ -23,3 +23,16 @@ Josefine lurer på om de kan tegne en graf som viser at Herman har rett. Hun pr�
 > b) Herman har rett
 > c) En mulighet er $A(x)=x\cdot (80-2x)$
 >[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-2\|Løsningsforslag 1T eksamen V2023#Oppgave 2-2]]
+
+>[!info] Om oppgaven
+><pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
+    at DataviewInlineApi.eval (plugin:dataview:18404:21)
+    at evalInContext (plugin:dataview:18405:7)
+    at asyncEvalInContext (plugin:dataview:18415:32)
+    at DataviewJSRenderer.render (plugin:dataview:18436:19)
+    at DataviewJSRenderer.onload (plugin:dataview:18020:14)
+    at e.load (app://obsidian.md/app.js:1:631581)
+    at DataviewApi.executeJs (plugin:dataview:18954:18)
+    at Publisher.eval (plugin:digitalgarden:14394:23)
+    at Generator.next (&lt;anonymous&gt;)
+    at eval (plugin:digitalgarden:78:61)</pre>
