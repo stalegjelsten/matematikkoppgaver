@@ -27,6 +27,7 @@ er en rimelig bra modell for gjennomsnittstemperaturen $T(x)^{\circ} \mathrm{C}$
 
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen 1t,1p v23. Del 2 oppgave 1</p></span></p>
+
 Nedenfor finner du andre oppgaver innenfor lignende temaer som denne oppgaven 👇
 | Tema     | Navn                                                                                                             | Oppgave                      |
 | -------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------- |
