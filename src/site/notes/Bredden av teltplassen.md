@@ -24,4 +24,11 @@ Josefine lurer på om de kan tegne en graf som viser at Herman har rett. Hun pr�
 > c) En mulighet er $A(x)=x\cdot (80-2x)$
 >[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-2\|Løsningsforslag 1T eksamen V2023#Oppgave 2-2]]
 
-<p><span><p>Eksamen: 1t,1p v23. Del 2 oppgave 2</p></span></p><p><span><p>Oppgaver knyttet til samme temaer 👇</p></span></p><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span><span class="dataview small-text">2</span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><ul class="dataview dataview-ul dataview-result-list-ul"><li class="dataview-result-list-li"><span></span></li></ul></td></tr><tr><td><span></span></td><td><ul class="dataview dataview-ul dataview-result-list-ul"><li class="dataview-result-list-li"><span></span></li><li class="dataview-result-list-li"><span></span></li><li class="dataview-result-list-li"><span></span></li></ul></td></tr></tbody></table></div>
+## Relatert
+<p><span><p>Oppgaven er hentet fra eksamen 1t,1p v23. Del 2 oppgave 2</p></span></p>
+Nedenfor finner du andre oppgaver innenfor lignende temaer som denne oppgaven 👇
+| Tema        | Navn                                                                                                                                                                                                                                      | Oppgave                                         |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| utforskning | <ul><li>[[Tredjegradsfunksjoner uten førstegradsledd.md\\|Tredjegradsfunksjoner uten førstegradsledd]]</li><li>[[Lag funksjonuttrykk til grafen av rasjonal funksjon.md\\|Lag funksjonuttrykk til grafen av rasjonal funksjon]]</li></ul> | <ul><li>1t-v23-2-6</li><li>1t-v23-1-4</li></ul> |
+
+{ .block-language-dataview}
