@@ -27,12 +27,3 @@ Birger synes 10 glass er litt lite i blindtesten. Han vil derfor gjøre en ny bl
 >[[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 2-3\|Løsningsforslag S2 eksamen V2023#Oppgave 2-3]]
 >
 
-## Relatert
-<p><span><p>Oppgaven er hentet fra eksamen s2 v23. Del 2 oppgave 3</p></span></p>
-
-Nedenfor finner du andre oppgaver innenfor lignende temaer som denne oppgaven 👇
-| Tema                               | Navn                                                                                                                                             | Oppgave                      |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- |
-| diskrete sannsynlighetsfordelinger | <ul><li>[[Forventingsverdi og varians fra sannsynlighetsfordeling S2.md\\|Forventingsverdi og varians fra sannsynlighetsfordeling S2]]</li></ul> | <ul><li>s2-v23-1-3</li></ul> |
-
-{ .block-language-dataview}
