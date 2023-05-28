@@ -1,5 +1,5 @@
 ---
-{"tags":["matematikk","1t","1p","geogebra","gjennomsnittlig vekstfart","del2","oppgave"],"alias":[null],"temaer":["geogebra","gjennomsnittlig vekstfart"],"dg-publish":true,"title":"Gjennomsnittstemperatur på Svalbard","fag":"1t,1p","oppgave":1,"eksamen":"v23","del":2,"date":"2023-05-27","modified":"2023-05-27","permalink":"/gjennomsnittstemperatur-pa-svalbard/","dgPassFrontmatter":true}
+{"tags":["matematikk","1t","1p","geogebra","gjennomsnittlig vekstfart","del2","oppgave"],"alias":[null],"temaer":["geogebra","gjennomsnittlig vekstfart"],"dg-publish":true,"title":"Gjennomsnittstemperatur på Svalbard","fag":"1t,1p","oppgave":1,"eksamen":"v23","del":2,"date":"2023-05-27","modified":"2023-05-28","permalink":"/gjennomsnittstemperatur-pa-svalbard/","dgPassFrontmatter":true}
 ---
 
 
@@ -24,3 +24,5 @@ er en rimelig bra modell for gjennomsnittstemperaturen $T(x)^{\circ} \mathrm{C}$
 >a) ca 95–96 døgn
 >b) Gjennomsnittlig vekstfart er 5,04. Gjennomsnittlig øker temp med 5,04 ºC per måned
 >[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-1\|Løsningsforslag 1T eksamen V2023#Oppgave 2-1]]
+
+<p><span><p>Eksamen: 1t,1p v23. Del 2 oppgave 1</p></span></p>
