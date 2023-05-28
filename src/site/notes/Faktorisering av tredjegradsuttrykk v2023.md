@@ -17,10 +17,16 @@ Bestem $a$ og $b$ slik at likningen blir en identitet.
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen 1t v23. Del 1 oppgave 3</p></span></p>
 
-Nedenfor finner du andre oppgaver innenfor lignende temaer som denne oppgaven 👇
-| Tema          | Navn                                                                                           | Oppgave                      |
-| ------------- | ---------------------------------------------------------------------------------------------- | ---------------------------- |
-| faktorisering | <ul><li>[[Skjæringspunkter med x-aksen v2023.md\\|Skjæringspunkter med x-aksen v23]]</li></ul> | <ul><li>1t-v23-1-2</li></ul> |
-| likninger     | <ul><li>[[Skjæringspunkter med x-aksen v2023.md\\|Skjæringspunkter med x-aksen v23]]</li></ul> | <ul><li>1t-v23-1-2</li></ul> |
+### Lignende oppgaver i samme fag
+| Tema          | Oppgave                                                                                                   |
+| ------------- | --------------------------------------------------------------------------------------------------------- |
+| faktorisering | <ul><li>[[Skjæringspunkter med x-aksen v2023.md\\|Skjæringspunkter med x-aksen v23 1t-v23-1-2]]</li></ul> |
+| likninger     | <ul><li>[[Skjæringspunkter med x-aksen v2023.md\\|Skjæringspunkter med x-aksen v23 1t-v23-1-2]]</li></ul> |
+
+{ .block-language-dataview}
+
+### Lignende oppgaver i andre fag
+| Tema | Navn | Oppgave |
+| ---- | ---- | ------- |
 
 { .block-language-dataview}
