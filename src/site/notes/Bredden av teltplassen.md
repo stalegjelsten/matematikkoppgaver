@@ -1,5 +1,5 @@
 ---
-{"tags":["matematikk","1t","1p","excel","utforskning","del2","oppgave"],"temaer":["excel","utforskning"],"alias":[null],"fag":["1t","1p"],"del":2,"oppgave":2,"eksamen":"v23","dg-publish":true,"title":"Bredden av teltplassen","date":"2023-05-27","modified":"2023-05-27","permalink":"/bredden-av-teltplassen/","dgPassFrontmatter":true}
+{"tags":["matematikk","1t","1p","excel","utforskning","del2","oppgave"],"temaer":["excel","utforskning"],"alias":[null],"fag":["1t","1p"],"del":2,"oppgave":2,"eksamen":"v23","dg-publish":true,"title":"Bredden av teltplassen","date":"2023-05-27","modified":"2023-05-28","permalink":"/bredden-av-teltplassen/","dgPassFrontmatter":true}
 ---
 
 
@@ -26,6 +26,7 @@ Josefine lurer på om de kan tegne en graf som viser at Herman har rett. Hun pr�
 
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen 1t,1p v23. Del 2 oppgave 2</p></span></p>
+
 Nedenfor finner du andre oppgaver innenfor lignende temaer som denne oppgaven 👇
 | Tema        | Navn                                                                                                                                                                                                                                      | Oppgave                                         |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
