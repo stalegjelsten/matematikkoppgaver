@@ -17,5 +17,11 @@ Bestem arealet. Husk å gjøre rede for hvilke trigonometriske sammenhenger du b
 > $A=50{,}78$
 >[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-3\|Løsningsforslag 1T eksamen V2023#Oppgave 2-3]]
 
-Om oppgaven
-<p><span><p>Eksamen: 1t null. Del 2 oppgave 3</p></span></p><p><span><p>Oppgaver knyttet til samme temaer 👇</p></span></p><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span><span class="dataview small-text">3</span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><ul class="dataview dataview-ul dataview-result-list-ul"><li class="dataview-result-list-li"><span></span></li><li class="dataview-result-list-li"><span></span></li></ul></td></tr><tr><td><span></span></td><td><ul class="dataview dataview-ul dataview-result-list-ul"><li class="dataview-result-list-li"><span></span></li></ul></td></tr><tr><td><span></span></td><td><ul class="dataview dataview-ul dataview-result-list-ul"><li class="dataview-result-list-li"><span></span></li></ul></td></tr></tbody></table></div>
+## Relatert
+<p><span><p>Oppgaven er hentet fra eksamen 1t null. Del 2 oppgave 3</p></span></p>
+Nedenfor finner du andre oppgaver innenfor lignende temaer som denne oppgaven 👇
+| Tema         | Navn                                                                           | Oppgave                      |
+| ------------ | ------------------------------------------------------------------------------ | ---------------------------- |
+| trigonometri | <ul><li>[[Areal av trekant i sirkel.md\\|Areal av trekant i sirkel]]</li></ul> | <ul><li>1t-v23-2-5</li></ul> |
+
+{ .block-language-dataview}
