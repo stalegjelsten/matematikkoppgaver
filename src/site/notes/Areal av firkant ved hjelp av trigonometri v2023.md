@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"temaer":["trigonometri","cosinussetningen","arealsetningen"],"alias":[null],"del":2,"oppgave":3,"fag":"1t","eksamen":null,"dg-publish":true,"title":"Areal av firkant ved hjelp av trigonometri v23","date":"2023-05-27","modified":"2023-05-28","permalink":"/areal-av-firkant-ved-hjelp-av-trigonometri-v2023/","dgPassFrontmatter":true}
+{"tags":["trigonometri","cosinussetningen","arealsetningen","oppgave","del2","1t"],"temaer":["trigonometri","cosinussetningen","arealsetningen"],"alias":[null],"del":2,"oppgave":3,"fag":"1t","eksamen":null,"dg-publish":true,"title":"Areal av firkant ved hjelp av trigonometri v23","date":"2023-05-27","modified":"2023-05-28","permalink":"/areal-av-firkant-ved-hjelp-av-trigonometri-v2023/","dgPassFrontmatter":true}
 ---
 
 
@@ -20,8 +20,10 @@ Bestem arealet. Husk å gjøre rede for hvilke trigonometriske sammenhenger du b
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen 1t null. Del 2 oppgave 3</p></span></p>
 Nedenfor finner du andre oppgaver innenfor lignende temaer som denne oppgaven 👇
-| Tema         | Navn                                                                           | Oppgave                      |
-| ------------ | ------------------------------------------------------------------------------ | ---------------------------- |
-| trigonometri | <ul><li>[[Areal av trekant i sirkel.md\\|Areal av trekant i sirkel]]</li></ul> | <ul><li>1t-v23-2-5</li></ul> |
+| Tema             | Navn                                                                           | Oppgave                      |
+| ---------------- | ------------------------------------------------------------------------------ | ---------------------------- |
+| arealsetningen   | <ul><li>[[Areal av trekant i sirkel.md\\|Areal av trekant i sirkel]]</li></ul> | <ul><li>1t-v23-2-5</li></ul> |
+| cosinussetningen | <ul><li>[[Areal av trekant i sirkel.md\\|Areal av trekant i sirkel]]</li></ul> | <ul><li>1t-v23-2-5</li></ul> |
+| trigonometri     | <ul><li>[[Areal av trekant i sirkel.md\\|Areal av trekant i sirkel]]</li></ul> | <ul><li>1t-v23-2-5</li></ul> |
 
 { .block-language-dataview}
