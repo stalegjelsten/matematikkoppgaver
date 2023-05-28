@@ -11,3 +11,12 @@ Avgjør om det legen sier, stemmer.
 >[!question]- Fasit
 >Legen har rett. Vil aldri overstige 70 mg.
 >[[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 1-5\|Løsningsforslag S2 eksamen V2023#Oppgave 1-5]]
+
+## Relatert
+<p><span><p>Oppgaven er hentet fra eksamen s2 v23. Del 1 oppgave 4</p></span></p>
+
+Nedenfor finner du andre oppgaver innenfor lignende temaer som denne oppgaven 👇
+| Tema | Navn | Oppgave |
+| ---- | ---- | ------- |
+
+{ .block-language-dataview}
