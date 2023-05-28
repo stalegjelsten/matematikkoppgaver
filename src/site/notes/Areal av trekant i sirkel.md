@@ -22,6 +22,7 @@ Bestem en eksakt verdi for $r$.
 
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen 1t v23. Del 2 oppgave 5</p></span></p>
+
 Nedenfor finner du andre oppgaver innenfor lignende temaer som denne oppgaven 👇
 | Tema         | Navn                                                                                                                       | Oppgave                      |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
