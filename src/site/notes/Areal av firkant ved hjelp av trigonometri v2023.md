@@ -1,5 +1,5 @@
 ---
-{"tags":["trigonometri","cosinussetningen","arealsetningen","oppgave","del2","1t"],"temaer":["trigonometri","cosinussetningen","arealsetningen"],"alias":[null],"del":2,"oppgave":3,"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Areal av firkant ved hjelp av trigonometri v23","date":"2023-05-27","modified":"2023-05-28","permalink":"/areal-av-firkant-ved-hjelp-av-trigonometri-v2023/","dgPassFrontmatter":true}
+{"tags":["trigonometri","cosinussetningen","arealsetningen","oppgave","del2","1t"],"temaer":["trigonometri","cosinussetningen","arealsetningen"],"alias":[null],"del":2,"oppgave":3,"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Areal av firkant ved hjelp av trigonometri v23","date":"2023-05-27","modified":"2023-05-29","permalink":"/areal-av-firkant-ved-hjelp-av-trigonometri-v2023/","dgPassFrontmatter":true}
 ---
 
 
@@ -16,22 +16,6 @@ Bestem arealet. Husk å gjøre rede for hvilke trigonometriske sammenhenger du b
 >[!question]- Fasit
 > $A=50{,}78$
 >[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-3\|Løsningsforslag 1T eksamen V2023#Oppgave 2-3]]
-
----
-tags: oppgave
-temaer:
-alias:
-del:
-oppgave: 
-fag: 
-eksamen: 
-dg-publish: true
-title: Info
-date: 2023-05-28
-modified: 2023-05-28
----
-
-# Info
 
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen 1t v23. Del 2 oppgave 3</p></span></p>

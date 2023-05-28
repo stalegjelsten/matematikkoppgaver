@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave","integrasjon","del1","s2"],"temaer":["integrasjon"],"alias":[null],"del":1,"oppgave":1,"fag":"s2","eksamen":"v23","dg-publish":true,"title":"Bestemt integral S2 v23","date":"2023-05-27","modified":"2023-05-28","permalink":"/bestemt-integral-s2-v2023/","dgPassFrontmatter":true}
+{"tags":["oppgave","integrasjon","del1","s2"],"temaer":["integrasjon"],"alias":[null],"del":1,"oppgave":1,"fag":"s2","eksamen":"v23","dg-publish":true,"title":"Bestemt integral S2 v23","date":"2023-05-27","modified":"2023-05-29","permalink":"/bestemt-integral-s2-v2023/","dgPassFrontmatter":true}
 ---
 
 
@@ -13,22 +13,6 @@ $$
 >[!question]- Fasit
 >$e$
 >[[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 1-1\|Løsningsforslag S2 eksamen V2023#Oppgave 1-1]]
-
----
-tags: oppgave
-temaer:
-alias:
-del:
-oppgave: 
-fag: 
-eksamen: 
-dg-publish: true
-title: Info
-date: 2023-05-28
-modified: 2023-05-28
----
-
-# Info
 
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen s2 v23. Del 1 oppgave 1</p></span></p>

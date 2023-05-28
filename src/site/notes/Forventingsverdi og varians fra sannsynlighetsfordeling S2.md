@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave","sannsynlighet","diskrete sannsynlighetsfordelinger","varians","forventningsverdi","del1","s2"],"temaer":["sannsynlighet","diskrete sannsynlighetsfordelinger","varians","forventningsverdi"],"alias":[null],"del":1,"oppgave":3,"fag":"s2","eksamen":"v23","dg-publish":true,"title":"Forventingsverdi og varians fra sannsynlighetsfordeling S2","date":"2023-05-27","modified":"2023-05-28","permalink":"/forventingsverdi-og-varians-fra-sannsynlighetsfordeling-s2/","dgPassFrontmatter":true}
+{"tags":["oppgave","sannsynlighet","diskrete sannsynlighetsfordelinger","varians","forventningsverdi","del1","s2"],"temaer":["sannsynlighet","diskrete sannsynlighetsfordelinger","varians","forventningsverdi"],"alias":[null],"del":1,"oppgave":3,"fag":"s2","eksamen":"v23","dg-publish":true,"title":"Forventingsverdi og varians fra sannsynlighetsfordeling S2","date":"2023-05-27","modified":"2023-05-29","permalink":"/forventingsverdi-og-varians-fra-sannsynlighetsfordeling-s2/","dgPassFrontmatter":true}
 ---
 
 
@@ -18,3 +18,19 @@ b) Bestem $E(X)$ og $\operatorname{Var}(X)$.
 >b) Begge er 1
 >[[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 1-3\|Løsningsforslag S2 eksamen V2023#Oppgave 1-3]]
 
+## Relatert
+<p><span><p>Oppgaven er hentet fra eksamen s2 v23. Del 1 oppgave 3</p></span></p>
+
+### Lignende oppgaver i samme fag
+| Tema                               | Oppgave                                                                                                                                                                             |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| diskrete sannsynlighetsfordelinger | <ul><li>[[Hypotesetest med smak av cola.md\\|Hypotesetest med smak av cola s2-v23-2-3]]</li></ul>                                                                                   |
+| sannsynlighet                      | <ul><li>[[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole.md\\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole s2-v23-2-5]]</li></ul> |
+
+{ .block-language-dataview}
+
+### Lignende oppgaver i andre fag
+| Tema | Navn | Oppgave |
+| ---- | ---- | ------- |
+
+{ .block-language-dataview}
