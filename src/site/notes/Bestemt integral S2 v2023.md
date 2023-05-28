@@ -14,10 +14,32 @@ $$
 >$e$
 >[[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 1-1\|Løsningsforslag S2 eksamen V2023#Oppgave 1-1]]
 
+---
+tags: oppgave
+temaer:
+alias:
+del:
+oppgave: 
+fag: 
+eksamen: 
+dg-publish: true
+title: Info
+date: 2023-05-28
+modified: 2023-05-28
+---
+
+# Info
+
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen s2 v23. Del 1 oppgave 1</p></span></p>
 
-Nedenfor finner du andre oppgaver innenfor lignende temaer som denne oppgaven 👇
+### Lignende oppgaver i samme fag
+| Tema | Oppgave |
+| ---- | ------- |
+
+{ .block-language-dataview}
+
+### Lignende oppgaver i andre fag
 | Tema | Navn | Oppgave |
 | ---- | ---- | ------- |
 
