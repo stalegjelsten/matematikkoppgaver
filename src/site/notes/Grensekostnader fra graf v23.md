@@ -18,23 +18,5 @@ Figuren nedenfor viser grafen til kostnadsfunksjonen og grafen til inntektsfunks
 > [[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 1-2\|Løsningsforslag S2 eksamen V2023#Oppgave 1-2]]
 
 Oppgave: 
-<pre class="dataview dataview-error">Evaluation Error: @
-filter@[native code]
-where@
-eval code@
-eval@[native code]
-@
-@
-asyncEvalInContext@
-@
-render@
-onload@
-@capacitor://localhost/app.js:1:632051
-@
-executeJs@
-@
-@
-Promise@[native code]
-__async@
-@
-fulfilled@</pre>
+
+<span><span><p>Eksamen: s2 v23. Del 1 oppgave 2</p></span></span>
