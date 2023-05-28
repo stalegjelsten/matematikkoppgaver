@@ -16,6 +16,7 @@ $$
 
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen s2 v23. Del 1 oppgave 1</p></span></p>
+
 Nedenfor finner du andre oppgaver innenfor lignende temaer som denne oppgaven 👇
 | Tema | Navn | Oppgave |
 | ---- | ---- | ------- |

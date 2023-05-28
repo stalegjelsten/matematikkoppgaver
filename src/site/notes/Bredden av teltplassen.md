@@ -1,5 +1,5 @@
 ---
-{"tags":["matematikk","1t","1p","excel","utforskning","del2","oppgave"],"temaer":["excel","utforskning"],"alias":[null],"fag":["1t","1p"],"del":2,"oppgave":2,"eksamen":"v23","dg-publish":true,"title":"Bredden av teltplassen","date":"2023-05-27","modified":"2023-05-27","permalink":"/bredden-av-teltplassen/","dgPassFrontmatter":true}
+{"tags":["matematikk","1t","1p","excel","utforskning","del2","oppgave"],"temaer":["excel","utforskning"],"alias":[null],"fag":["1t","1p"],"del":2,"oppgave":2,"eksamen":"v23","dg-publish":true,"title":"Bredden av teltplassen","date":"2023-05-27","modified":"2023-05-28","permalink":"/bredden-av-teltplassen/","dgPassFrontmatter":true}
 ---
 
 
@@ -26,9 +26,10 @@ Josefine lurer på om de kan tegne en graf som viser at Herman har rett. Hun pr�
 
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen 1t,1p v23. Del 2 oppgave 2</p></span></p>
+
 Nedenfor finner du andre oppgaver innenfor lignende temaer som denne oppgaven 👇
 | Tema        | Navn                                                                                                                                                                                                                                      | Oppgave                                         |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| utforskning | <ul><li>[[Tredjegradsfunksjoner uten førstegradsledd.md\\|Tredjegradsfunksjoner uten førstegradsledd]]</li><li>[[Lag funksjonuttrykk til grafen av rasjonal funksjon.md\\|Lag funksjonuttrykk til grafen av rasjonal funksjon]]</li></ul> | <ul><li>1t-v23-2-6</li><li>1t-v23-1-4</li></ul> |
+| utforskning | <ul><li>[[Lag funksjonuttrykk til grafen av rasjonal funksjon.md\\|Lag funksjonuttrykk til grafen av rasjonal funksjon]]</li><li>[[Tredjegradsfunksjoner uten førstegradsledd.md\\|Tredjegradsfunksjoner uten førstegradsledd]]</li></ul> | <ul><li>1t-v23-1-4</li><li>1t-v23-2-6</li></ul> |
 
 { .block-language-dataview}

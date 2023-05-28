@@ -20,6 +20,7 @@ b) Bestem $E(X)$ og $\operatorname{Var}(X)$.
 
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen s2 v23. Del 1 oppgave 3</p></span></p>
+
 Nedenfor finner du andre oppgaver innenfor lignende temaer som denne oppgaven 👇
 | Tema                               | Navn                                                                                                                                                                     | Oppgave                      |
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- |
