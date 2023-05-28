@@ -1,5 +1,5 @@
 ---
-{"tags":["matematikk","1t","1p","excel","utforskning","del2","oppgave"],"temaer":["excel","utforskning"],"alias":[null],"fag":["1t","1p"],"del":2,"oppgave":2,"eksamen":"v23","dg-publish":true,"title":"Bredden av teltplassen","date":"2023-05-27","modified":"2023-05-28","permalink":"/bredden-av-teltplassen/","dgPassFrontmatter":true}
+{"tags":["matematikk","1t","1p","excel","utforskning","del2","oppgave"],"temaer":["excel","utforskning"],"alias":[null],"fag":["1t","1p"],"del":2,"oppgave":2,"eksamen":"v23","dg-publish":true,"title":"Bredden av teltplassen","date":"2023-05-27","modified":"2023-05-29","permalink":"/bredden-av-teltplassen/","dgPassFrontmatter":true}
 ---
 
 
@@ -24,3 +24,18 @@ Josefine lurer på om de kan tegne en graf som viser at Herman har rett. Hun pr�
 > c) En mulighet er $A(x)=x\cdot (80-2x)$
 >[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-2\|Løsningsforslag 1T eksamen V2023#Oppgave 2-2]]
 
+## Relatert
+<p><span><p>Oppgaven er hentet fra eksamen 1t,1p v23. Del 2 oppgave 2</p></span></p>
+
+### Lignende oppgaver i samme fag
+| Tema        | Oppgave                                                                                                                                                                                                                                                         |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| utforskning | <ul><li>[[Lag funksjonuttrykk til grafen av rasjonal funksjon.md\\|Lag funksjonuttrykk til grafen av rasjonal funksjon 1t-v23-1-4]]</li><li>[[Tredjegradsfunksjoner uten førstegradsledd.md\\|Tredjegradsfunksjoner uten førstegradsledd 1t-v23-2-6]]</li></ul> |
+
+{ .block-language-dataview}
+
+### Lignende oppgaver i andre fag
+| Tema | Navn | Oppgave |
+| ---- | ---- | ------- |
+
+{ .block-language-dataview}
