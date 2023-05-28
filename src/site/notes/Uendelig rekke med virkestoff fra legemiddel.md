@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave","uendelig rekke","rekker","del1","s2"],"temaer":["uendelig rekke","rekker"],"alias":[null],"del":1,"oppgave":4,"fag":"s2","eksamen":"v23","dg-publish":true,"title":"Uendelig rekke med virkestoff fra legemiddel","date":"2023-05-27","modified":"2023-05-28","permalink":"/uendelig-rekke-med-virkestoff-fra-legemiddel/","dgPassFrontmatter":true}
+{"tags":["oppgave","uendelig rekke","rekker","del1","s2"],"temaer":["uendelig rekke","rekker"],"alias":[null],"del":1,"oppgave":4,"fag":"s2","eksamen":"v23","dg-publish":true,"title":"Uendelig rekke med virkestoff fra legemiddel","date":"2023-05-27","modified":"2023-05-29","permalink":"/uendelig-rekke-med-virkestoff-fra-legemiddel/","dgPassFrontmatter":true}
 ---
 
 
@@ -12,3 +12,17 @@ Avgjør om det legen sier, stemmer.
 >Legen har rett. Vil aldri overstige 70 mg.
 >[[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 1-5\|Løsningsforslag S2 eksamen V2023#Oppgave 1-5]]
 
+## Relatert
+<p><span><p>Oppgaven er hentet fra eksamen s2 v23. Del 1 oppgave 4</p></span></p>
+
+### Lignende oppgaver i samme fag
+| Tema | Oppgave |
+| ---- | ------- |
+
+{ .block-language-dataview}
+
+### Lignende oppgaver i andre fag
+| Tema | Navn | Oppgave |
+| ---- | ---- | ------- |
+
+{ .block-language-dataview}
