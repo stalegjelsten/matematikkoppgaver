@@ -27,11 +27,6 @@ b) Hva blir resultatet når programmet kjøres, dersom N settes til 100 i linje 
 >[!question]- Fasit
 >a) Summen av 10 første ledd av aritmetisk rekke med $a_{1}=1, d=4$
 
-
-
-
-
-
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen S2 V23 del 1 oppgave 4</p></span></p>
 
@@ -39,7 +34,7 @@ b) Hva blir resultatet når programmet kjøres, dersom N settes til 100 i linje 
 | Tema          | Oppgave                                                                                                                                                                                                                                                         |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | programmering | <ul><li>[[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole.md\\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole S2-V23-2-5]]</li></ul>                                                                             |
-| rekker        | <ul><li>[[Uendelig rekke med virkestoff fra legemiddel.md\\|Uendelig rekke med virkestoff fra legemiddel S2-V23-1-4]]</li><li>[[Annuitetslån.md\\|Annuitetslån S2-V23-2-1]]</li><li>[[Hildegunns ukepenger.md\\|Hildegunns ukepenger S2, R2-V23-2-4]]</li></ul> |
+| rekker        | <ul><li>[[Hildegunns ukepenger.md\\|Hildegunns ukepenger S2, R2-V23-2-4]]</li><li>[[Annuitetslån.md\\|Annuitetslån S2-V23-2-1]]</li><li>[[Uendelig rekke med virkestoff fra legemiddel.md\\|Uendelig rekke med virkestoff fra legemiddel S2-V23-1-4]]</li></ul> |
 
 { .block-language-dataview}
 
@@ -49,4 +44,3 @@ b) Hva blir resultatet når programmet kjøres, dersom N settes til 100 i linje 
 | programmering | <ul><li>[[Ukjent program med kostnader for produksjon.md\\|Ukjent program med kostnader for produksjon S1-V23-1-5]]</li></ul> |
 
 { .block-language-dataview}
-
