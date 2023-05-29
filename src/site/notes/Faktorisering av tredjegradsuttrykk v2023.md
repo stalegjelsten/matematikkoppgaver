@@ -15,6 +15,9 @@ Bestem $a$ og $b$ slik at likningen blir en identitet.
 >[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 1-3\|Løsningsforslag 1T eksamen V2023#Oppgave 1-3]]
 
 
+
+
+
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen 1T V23 del 1 oppgave 3</p></span></p>
 
@@ -27,8 +30,8 @@ Bestem $a$ og $b$ slik at likningen blir en identitet.
 { .block-language-dataview}
 
 ### Lignende oppgaver i andre fag
-| Tema | Navn | Oppgave |
-| ---- | ---- | ------- |
+| Tema | Oppgave |
+| ---- | ------- |
 
 { .block-language-dataview}
 
