@@ -29,6 +29,7 @@ er en rimelig bra modell for gjennomsnittstemperaturen $T(x)^{\circ} \mathrm{C}$
 
 
 
+
 ## Relatert
 <p><span><p>Oppgaven er gitt ved flere eksamener: 1T, 1P.</p></span></p><p><span><p>Oppgaven er hentet fra eksamen 1T V23 del 2 oppgave 1</p></span></p>
 
