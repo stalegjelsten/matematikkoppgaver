@@ -17,15 +17,16 @@ Bestem arealet. Husk å gjøre rede for hvilke trigonometriske sammenhenger du b
 > $A=50{,}78$
 >[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-3\|Løsningsforslag 1T eksamen V2023#Oppgave 2-3]]
 
+
 ## Relatert
-<p><span><p>Oppgaven er hentet fra eksamen 1t v23. Del 2 oppgave 3</p></span></p>
+<p><span><p>Oppgaven er hentet fra eksamen 1T V23 del 2 oppgave 3</p></span></p>
 
 ### Lignende oppgaver i samme fag
 | Tema             | Oppgave                                                                                   |
 | ---------------- | ----------------------------------------------------------------------------------------- |
-| arealsetningen   | <ul><li>[[Areal av trekant i sirkel.md\\|Areal av trekant i sirkel 1t-v23-2-5]]</li></ul> |
-| cosinussetningen | <ul><li>[[Areal av trekant i sirkel.md\\|Areal av trekant i sirkel 1t-v23-2-5]]</li></ul> |
-| trigonometri     | <ul><li>[[Areal av trekant i sirkel.md\\|Areal av trekant i sirkel 1t-v23-2-5]]</li></ul> |
+| arealsetningen   | <ul><li>[[Areal av trekant i sirkel.md\\|Areal av trekant i sirkel 1T-V23-2-5]]</li></ul> |
+| cosinussetningen | <ul><li>[[Areal av trekant i sirkel.md\\|Areal av trekant i sirkel 1T-V23-2-5]]</li></ul> |
+| trigonometri     | <ul><li>[[Areal av trekant i sirkel.md\\|Areal av trekant i sirkel 1T-V23-2-5]]</li></ul> |
 
 { .block-language-dataview}
 
@@ -34,3 +35,4 @@ Bestem arealet. Husk å gjøre rede for hvilke trigonometriske sammenhenger du b
 | ---- | ---- | ------- |
 
 { .block-language-dataview}
+

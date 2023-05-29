@@ -12,12 +12,14 @@ Avgjør om det legen sier, stemmer.
 >Legen har rett. Vil aldri overstige 70 mg.
 >[[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 1-5\|Løsningsforslag S2 eksamen V2023#Oppgave 1-5]]
 
+
 ## Relatert
-<p><span><p>Oppgaven er hentet fra eksamen s2 v23. Del 1 oppgave 4</p></span></p>
+<p><span><p>Oppgaven er hentet fra eksamen S2 V23 del 1 oppgave 4</p></span></p>
 
 ### Lignende oppgaver i samme fag
-| Tema | Oppgave |
-| ---- | ------- |
+| Tema   | Oppgave                                                                                                                                                                                                           |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| rekker | <ul><li>[[Ukjent program del 1 S2.md\\|Ukjent program del 1 S2 S2-V23-1-4]]</li><li>[[Annuitetslån.md\\|Annuitetslån S2-V23-2-1]]</li><li>[[Hildegunns ukepenger.md\\|Hildegunns ukepenger S2-V23-2-4]]</li></ul> |
 
 { .block-language-dataview}
 
@@ -26,3 +28,4 @@ Avgjør om det legen sier, stemmer.
 | ---- | ---- | ------- |
 
 { .block-language-dataview}
+

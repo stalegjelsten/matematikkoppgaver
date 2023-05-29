@@ -24,19 +24,23 @@ Forskerne skal trekke ut 20 elever. For hver elev de skal trekke, trekker de fø
 >b) $P(X>4)\approx 0{,}205$
 >[[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 2-5\|Løsningsforslag S2 eksamen V2023#Oppgave 2-5]]
 
+
 ## Relatert
-<p><span><p>Oppgaven er hentet fra eksamen s2 v23. Del 2 oppgave 5</p></span></p>
+<p><span><p>Oppgaven er hentet fra eksamen S2 V23 del 2 oppgave 5</p></span></p>
 
 ### Lignende oppgaver i samme fag
 | Tema            | Oppgave                                                                                                                                                     |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| normalfordeling | <ul><li>[[Levetiden til normalfordelte batterier.md\\|Levetiden til normalfordelte batterier s2-v23-1-6]]</li></ul>                                         |
-| sannsynlighet   | <ul><li>[[Forventingsverdi og varians fra sannsynlighetsfordeling S2.md\\|Forventingsverdi og varians fra sannsynlighetsfordeling S2 s2-v23-1-3]]</li></ul> |
+| normalfordeling | <ul><li>[[Levetiden til normalfordelte batterier.md\\|Levetiden til normalfordelte batterier S2-V23-1-6]]</li></ul>                                         |
+| programmering   | <ul><li>[[Ukjent program del 1 S2.md\\|Ukjent program del 1 S2 S2-V23-1-4]]</li></ul>                                                                       |
+| sannsynlighet   | <ul><li>[[Forventingsverdi og varians fra sannsynlighetsfordeling S2.md\\|Forventingsverdi og varians fra sannsynlighetsfordeling S2 S2-V23-1-3]]</li></ul> |
 
 { .block-language-dataview}
 
 ### Lignende oppgaver i andre fag
-| Tema | Navn | Oppgave |
-| ---- | ---- | ------- |
+| Tema          | Navn                                                                                                               | Oppgave                      |
+| ------------- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------- |
+| programmering | <ul><li>[[Ukjent program med kostnader for produksjon.md\\|Ukjent program med kostnader for produksjon]]</li></ul> | <ul><li>S1-V23-1-5</li></ul> |
 
 { .block-language-dataview}
+
