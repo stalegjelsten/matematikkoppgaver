@@ -28,21 +28,23 @@ b) Hva blir resultatet når programmet kjøres, dersom N settes til 100 i linje 
 >a) Summen av 10 første ledd av aritmetisk rekke med $a_{1}=1, d=4$
 
 
+
+
+
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen S2 V23 del 1 oppgave 4</p></span></p>
 
 ### Lignende oppgaver i samme fag
-| Tema          | Oppgave                                                                                                                                                                                                                                                     |
-| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| programmering | <ul><li>[[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole.md\\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole S2-V23-2-5]]</li></ul>                                                                         |
-| rekker        | <ul><li>[[Uendelig rekke med virkestoff fra legemiddel.md\\|Uendelig rekke med virkestoff fra legemiddel S2-V23-1-4]]</li><li>[[Annuitetslån.md\\|Annuitetslån S2-V23-2-1]]</li><li>[[Hildegunns ukepenger.md\\|Hildegunns ukepenger S2-V23-2-4]]</li></ul> |
+| Tema          | Oppgave                                                                                                                                                                                                                                                         |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| programmering | <ul><li>[[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole.md\\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole S2-V23-2-5]]</li></ul>                                                                             |
+| rekker        | <ul><li>[[Annuitetslån.md\\|Annuitetslån S2-V23-2-1]]</li><li>[[Uendelig rekke med virkestoff fra legemiddel.md\\|Uendelig rekke med virkestoff fra legemiddel S2-V23-1-4]]</li><li>[[Hildegunns ukepenger.md\\|Hildegunns ukepenger S2, R2-V23-2-4]]</li></ul> |
 
 { .block-language-dataview}
 
 ### Lignende oppgaver i andre fag
-| Tema          | Navn                                                                                                               | Oppgave                      |
-| ------------- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------- |
-| programmering | <ul><li>[[Ukjent program med kostnader for produksjon.md\\|Ukjent program med kostnader for produksjon]]</li></ul> | <ul><li>S1-V23-1-5</li></ul> |
+| Tema | Oppgave |
+| ---- | ------- |
 
 { .block-language-dataview}
 
