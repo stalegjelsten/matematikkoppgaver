@@ -26,6 +26,7 @@ Sannsynligheten er 75,8 prosent for at levetiden til et tilfeldig valgt batteri 
 
 
 
+
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen S2 V23 del 1 oppgave 6</p></span></p>
 
