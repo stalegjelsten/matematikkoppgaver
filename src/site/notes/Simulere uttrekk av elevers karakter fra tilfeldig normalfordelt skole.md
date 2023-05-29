@@ -24,11 +24,6 @@ Forskerne skal trekke ut 20 elever. For hver elev de skal trekke, trekker de fø
 >b) $P(X>4)\approx 0{,}205$
 >[[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 2-5\|Løsningsforslag S2 eksamen V2023#Oppgave 2-5]]
 
-
-
-
-
-
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen S2 V23 del 2 oppgave 5</p></span></p>
 
@@ -47,4 +42,3 @@ Forskerne skal trekke ut 20 elever. For hver elev de skal trekke, trekker de fø
 | programmering | <ul><li>[[Ukjent program med kostnader for produksjon.md\\|Ukjent program med kostnader for produksjon S1-V23-1-5]]</li></ul> |
 
 { .block-language-dataview}
-
