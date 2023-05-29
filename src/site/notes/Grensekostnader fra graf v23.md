@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave","økonomi","derivasjon","funksjoner","del1","s2"],"temaer":["økonomi","derivasjon","funksjoner","grenseinntekt og grensekostnad"],"alias":[null],"del":1,"oppgave":2,"fag":"s2","eksamen":"v23","dg-publish":true,"title":"Grensekostnader fra graf v23","date":"2023-05-27","modified":"2023-05-28","permalink":"/grensekostnader-fra-graf-v23/","dgPassFrontmatter":true}
+{"tags":["oppgave","økonomi","derivasjon","funksjoner","del1","s2"],"temaer":["økonomi","derivasjon","funksjoner","grenseinntekt og grensekostnad"],"alias":[null],"del":1,"oppgave":2,"fag":"s2","eksamen":"v23","dg-publish":true,"title":"Grensekostnader fra graf v23","date":"2023-05-27","modified":"2023-05-29","permalink":"/grensekostnader-fra-graf-v23/","dgPassFrontmatter":true}
 ---
 
 
@@ -17,10 +17,6 @@ Figuren nedenfor viser grafen til kostnadsfunksjonen og grafen til inntektsfunks
 >b) ca 57 enheter
 > [[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 1-2\|Løsningsforslag S2 eksamen V2023#Oppgave 1-2]]
 
-
-
-
-
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen S2 V23 del 1 oppgave 2</p></span></p>
 
@@ -36,8 +32,7 @@ Figuren nedenfor viser grafen til kostnadsfunksjonen og grafen til inntektsfunks
 | Tema       | Oppgave                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | derivasjon | <ul><li>[[Skisser grafen ut fra den deriverte v2023.md\\|Skisser grafen ut fra den deriverte v23 1T-V23-1-5]]</li><li>[[Gjennomsnittstemperatur på Svalbard og den deriverte.md\\|Gjennomsnittstemperatur på Svalbard og den deriverte 1T-V23-2-1]]</li></ul>                                                                                                                                                                                                                                                                                                                                                       |
-| funksjoner | <ul><li>[[Tredjegradsfunksjoner uten førstegradsledd.md\\|Tredjegradsfunksjoner uten førstegradsledd 1T-V23-2-6]]</li><li>[[Skjæringspunkter med x-aksen v2023.md\\|Skjæringspunkter med x-aksen v23 1T-V23-1-2]]</li><li>[[Lag funksjonuttrykk til grafen av rasjonal funksjon.md\\|Lag funksjonuttrykk til grafen av rasjonal funksjon 1T-V23-1-4]]</li><li>[[Skisser grafen ut fra den deriverte v2023.md\\|Skisser grafen ut fra den deriverte v23 1T-V23-1-5]]</li><li>[[Gjennomsnittstemperatur på Svalbard og den deriverte.md\\|Gjennomsnittstemperatur på Svalbard og den deriverte 1T-V23-2-1]]</li></ul> |
+| funksjoner | <ul><li>[[Lag funksjonuttrykk til grafen av rasjonal funksjon.md\\|Lag funksjonuttrykk til grafen av rasjonal funksjon 1T-V23-1-4]]</li><li>[[Tredjegradsfunksjoner uten førstegradsledd.md\\|Tredjegradsfunksjoner uten førstegradsledd 1T-V23-2-6]]</li><li>[[Skisser grafen ut fra den deriverte v2023.md\\|Skisser grafen ut fra den deriverte v23 1T-V23-1-5]]</li><li>[[Skjæringspunkter med x-aksen v2023.md\\|Skjæringspunkter med x-aksen v23 1T-V23-1-2]]</li><li>[[Gjennomsnittstemperatur på Svalbard og den deriverte.md\\|Gjennomsnittstemperatur på Svalbard og den deriverte 1T-V23-2-1]]</li></ul> |
 | økonomi    | <ul><li>[[Ukjent program med kostnader for produksjon.md\\|Ukjent program med kostnader for produksjon S1-V23-1-5]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 { .block-language-dataview}
-
