@@ -24,6 +24,7 @@ Bestem en eksakt verdi for $r$.
 
 
 
+
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen 1T V23 del 2 oppgave 5</p></span></p>
 
