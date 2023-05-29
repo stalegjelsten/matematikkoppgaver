@@ -17,11 +17,6 @@ b) Var dette nok til å betale ned restlånet?
 >b) Ja
 >[[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 2-1\|Løsningsforslag S2 eksamen V2023#Oppgave 2-1]]
 
-
-
-
-
-
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen S2 V23 del 2 oppgave 1</p></span></p>
 
@@ -29,7 +24,7 @@ b) Var dette nok til å betale ned restlånet?
 | Tema   | Oppgave                                                                                                                                                                                                                                                                               |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | excel  | <ul><li>[[Hildegunns ukepenger.md\\|Hildegunns ukepenger S2, R2-V23-2-4]]</li></ul>                                                                                                                                                                                                   |
-| rekker | <ul><li>[[Uendelig rekke med virkestoff fra legemiddel.md\\|Uendelig rekke med virkestoff fra legemiddel S2-V23-1-4]]</li><li>[[Ukjent program del 1 S2.md\\|Ukjent program del 1 S2 S2-V23-1-4]]</li><li>[[Hildegunns ukepenger.md\\|Hildegunns ukepenger S2, R2-V23-2-4]]</li></ul> |
+| rekker | <ul><li>[[Hildegunns ukepenger.md\\|Hildegunns ukepenger S2, R2-V23-2-4]]</li><li>[[Ukjent program del 1 S2.md\\|Ukjent program del 1 S2 S2-V23-1-4]]</li><li>[[Uendelig rekke med virkestoff fra legemiddel.md\\|Uendelig rekke med virkestoff fra legemiddel S2-V23-1-4]]</li></ul> |
 
 { .block-language-dataview}
 
@@ -39,4 +34,3 @@ b) Var dette nok til å betale ned restlånet?
 | excel | <ul><li>[[Bredden av teltplassen.md\\|Bredden av teltplassen 1T, 1P-V23-2-2]]</li></ul> |
 
 { .block-language-dataview}
-
