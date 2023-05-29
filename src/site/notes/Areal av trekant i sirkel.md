@@ -20,11 +20,6 @@ Bestem en eksakt verdi for $r$.
 >$r=2 \sqrt{ 2 }$
 >[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-5\|Løsningsforslag 1T eksamen V2023#Oppgave 2-5]]
 
-
-
-
-
-
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen 1T V23 del 2 oppgave 5</p></span></p>
 
@@ -43,4 +38,3 @@ Bestem en eksakt verdi for $r$.
 | ---- | ------- |
 
 { .block-language-dataview}
-
