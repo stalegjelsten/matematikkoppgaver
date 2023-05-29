@@ -21,6 +21,7 @@ Bestem arealet. Husk å gjøre rede for hvilke trigonometriske sammenhenger du b
 
 
 
+
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen 1T V23 del 2 oppgave 3</p></span></p>
 
