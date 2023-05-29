@@ -21,6 +21,7 @@ b) Var dette nok til å betale ned restlånet?
 
 
 
+
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen S2 V23 del 2 oppgave 1</p></span></p>
 
@@ -28,7 +29,7 @@ b) Var dette nok til å betale ned restlånet?
 | Tema   | Oppgave                                                                                                                                                                                                                                                                               |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | excel  | <ul><li>[[Hildegunns ukepenger.md\\|Hildegunns ukepenger S2, R2-V23-2-4]]</li></ul>                                                                                                                                                                                                   |
-| rekker | <ul><li>[[Ukjent program del 1 S2.md\\|Ukjent program del 1 S2 S2-V23-1-4]]</li><li>[[Uendelig rekke med virkestoff fra legemiddel.md\\|Uendelig rekke med virkestoff fra legemiddel S2-V23-1-4]]</li><li>[[Hildegunns ukepenger.md\\|Hildegunns ukepenger S2, R2-V23-2-4]]</li></ul> |
+| rekker | <ul><li>[[Uendelig rekke med virkestoff fra legemiddel.md\\|Uendelig rekke med virkestoff fra legemiddel S2-V23-1-4]]</li><li>[[Ukjent program del 1 S2.md\\|Ukjent program del 1 S2 S2-V23-1-4]]</li><li>[[Hildegunns ukepenger.md\\|Hildegunns ukepenger S2, R2-V23-2-4]]</li></ul> |
 
 { .block-language-dataview}
 
