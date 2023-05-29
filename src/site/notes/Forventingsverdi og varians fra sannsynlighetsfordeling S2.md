@@ -19,6 +19,9 @@ b) Bestem $E(X)$ og $\operatorname{Var}(X)$.
 >[[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 1-3\|Løsningsforslag S2 eksamen V2023#Oppgave 1-3]]
 
 
+
+
+
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen S2 V23 del 1 oppgave 3</p></span></p>
 
@@ -31,8 +34,8 @@ b) Bestem $E(X)$ og $\operatorname{Var}(X)$.
 { .block-language-dataview}
 
 ### Lignende oppgaver i andre fag
-| Tema | Navn | Oppgave |
-| ---- | ---- | ------- |
+| Tema | Oppgave |
+| ---- | ------- |
 
 { .block-language-dataview}
 
