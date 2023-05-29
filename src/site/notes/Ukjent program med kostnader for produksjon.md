@@ -16,7 +16,7 @@ Bedriften har laget følgende program.
 def K(x): 
 	return 0.2*x**2 + 140*x + 7000
 
-v = 250
+v = 260
 h = 0.001
 x = 0
 
@@ -29,7 +29,7 @@ print(x)
 Hva blir resultatet når programmet kjøres? Hva forteller dette svaret bedriften?
 
 >[!question]- Fasit
-> 275 fordi $K'(275) = 250$
+> 300 fordi $K'(300) = 260$
 >
 
 ## Relatert
@@ -44,7 +44,7 @@ Hva blir resultatet når programmet kjøres? Hva forteller dette svaret bedrifte
 ### Lignende oppgaver i andre fag
 | Tema          | Oppgave                                                                                                                                                                                                                                                         |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| programmering | <ul><li>[[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole.md\\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole S2-V23-2-5]]</li><li>[[Ukjent program del 1 S2.md\\|Ukjent program del 1 S2 S2-V23-1-4]]</li></ul> |
+| programmering | <ul><li>[[Ukjent program del 1 S2.md\\|Ukjent program del 1 S2 S2-V23-1-4]]</li><li>[[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole.md\\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole S2-V23-2-5]]</li></ul> |
 | økonomi       | <ul><li>[[Grensekostnader fra graf v23.md\\|Grensekostnader fra graf v23 S2-V23-1-2]]</li></ul>                                                                                                                                                                 |
 
 { .block-language-dataview}
