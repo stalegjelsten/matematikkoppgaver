@@ -17,11 +17,6 @@ Bestem arealet. Husk å gjøre rede for hvilke trigonometriske sammenhenger du b
 > $A=50{,}78$
 >[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-3\|Løsningsforslag 1T eksamen V2023#Oppgave 2-3]]
 
-
-
-
-
-
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen 1T V23 del 2 oppgave 3</p></span></p>
 
@@ -39,4 +34,3 @@ Bestem arealet. Husk å gjøre rede for hvilke trigonometriske sammenhenger du b
 | ---- | ------- |
 
 { .block-language-dataview}
-
