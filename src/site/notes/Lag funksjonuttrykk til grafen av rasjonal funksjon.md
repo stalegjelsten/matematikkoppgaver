@@ -29,8 +29,8 @@ Bestem $f(x)$. Husk å argumentere for at svaret ditt er riktig.
 { .block-language-dataview}
 
 ### Lignende oppgaver i andre fag
-| Tema       | Oppgave                                                                                                                                                                                                                                                 |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| funksjoner | <ul><li>[[Regresjon på størrelsen av det norske musikkstrømmemarkedet.md\\|Regresjon på størrelsen av det norske musikkstrømmemarkedet S2, R2-V23-2-2]]</li><li>[[Grensekostnader fra graf v23.md\\|Grensekostnader fra graf v23 S2-V23-1-2]]</li></ul> |
+| Tema       | Oppgave                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| funksjoner | <ul><li>[[Regresjon på størrelsen av det norske musikkstrømmemarkedet.md\\|Regresjon på størrelsen av det norske musikkstrømmemarkedet S2, R2-V23-2-2]]</li><li>[[Grensekostnader fra graf v23.md\\|Grensekostnader fra graf v23 S2-V23-1-2]]</li><li>[[Grenseverdi.md\\|Grenseverdi S1-V23-1-3]]</li><li>[[Har alle fjerdegradsfunksjoner ekstremalpunkt.md\\|Har alle fjerdegradsfunksjoner ekstremalpunkt S1-V23-2-2b]]</li></ul> |
 
 { .block-language-dataview}

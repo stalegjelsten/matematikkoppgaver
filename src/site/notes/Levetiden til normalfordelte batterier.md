@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave","normalfordeling","standard normalfordeling","kontinuerlig sannsynlighetsfordelinger","s2","del1"],"temaer":["normalfordeling","standard normalfordeling","kontinuerlig sannsynlighetsfordelinger"],"alias":[null],"del":1,"oppgave":6,"fag":"s2","eksamen":"v23","dg-publish":true,"title":"Levetiden til normalfordelte batterier","date":"2023-05-27","modified":"2023-05-29","permalink":"/levetiden-til-normalfordelte-batterier/","dgPassFrontmatter":true}
+{"tags":["oppgave","normalfordeling","standard normalfordeling","kontinuerlige sannsynlighetsfordelinger","s2","del1"],"temaer":["normalfordeling","standard normalfordeling","kontinuerlige sannsynlighetsfordelinger"],"alias":[null],"del":1,"oppgave":6,"fag":"s2","eksamen":"v23","dg-publish":true,"title":"Levetiden til normalfordelte batterier","date":"2023-05-27","modified":"2023-05-29","permalink":"/levetiden-til-normalfordelte-batterier/","dgPassFrontmatter":true}
 ---
 
 
@@ -26,9 +26,10 @@ Sannsynligheten er 75,8 prosent for at levetiden til et tilfeldig valgt batteri 
 <p><span><p>Oppgaven er hentet fra eksamen S2 V23 del 1 oppgave 6</p></span></p>
 
 ### Lignende oppgaver i samme fag
-| Tema            | Oppgave                                                                                                                                                                             |
-| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| normalfordeling | <ul><li>[[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole.md\\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole S2-V23-2-5]]</li></ul> |
+| Tema                                    | Oppgave                                                                                                                                                                             |
+| --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| kontinuerlige sannsynlighetsfordelinger | <ul><li>[[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole.md\\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole S2-V23-2-5]]</li></ul> |
+| normalfordeling                         | <ul><li>[[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole.md\\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole S2-V23-2-5]]</li></ul> |
 
 { .block-language-dataview}
 

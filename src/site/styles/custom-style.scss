@@ -10,4 +10,11 @@ body {
     //  h1 {
     //   color: black;
     //  }
+    table {
+        border-bottom: 0.2em solid #ccc;
+    }
+    thead {
+        border-top: 0.2em solid #ccc;
+        border-bottom: 0.1em solid #ccc;
+    }
 }

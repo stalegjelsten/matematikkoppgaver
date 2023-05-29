@@ -36,8 +36,10 @@ Hva blir resultatet når programmet kjøres? Hva forteller dette svaret bedrifte
 <p><span><p>Oppgaven er hentet fra eksamen S1 V23 del 1 oppgave 5</p></span></p>
 
 ### Lignende oppgaver i samme fag
-| Tema | Oppgave |
-| ---- | ------- |
+| Tema          | Oppgave                                                                                   |
+| ------------- | ----------------------------------------------------------------------------------------- |
+| programmering | <ul><li>[[Billetter til fotballkamp.md\\|Billetter til fotballkamp S1-V23-2-5]]</li></ul> |
+| økonomi       | <ul><li>[[Timelønn og lønnsvekst.md\\|Timelønn og lønnsvekst S1-V23-2-1]]</li></ul>       |
 
 { .block-language-dataview}
 

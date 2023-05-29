@@ -34,7 +34,8 @@ Bestem en eksakt verdi for $r$.
 { .block-language-dataview}
 
 ### Lignende oppgaver i andre fag
-| Tema | Oppgave |
-| ---- | ------- |
+| Tema | Oppgave                                                                   |
+| ---- | ------------------------------------------------------------------------- |
+| cas  | <ul><li>[[Lydstyrke fra fly.md\\|Lydstyrke fra fly S1-V23-2-6]]</li></ul> |
 
 { .block-language-dataview}

@@ -6,8 +6,8 @@
 # Forventingsverdi og varians fra sannsynlighetsfordeling S2
 En sannsynlighetsfordeling er gitt ved tabellen nedenfor.
 
-| $x$      | 0   | 1       | 2       | 3       |
-| -------- | --- | ------- | ------- | ------- |
+|   $x$    | 0   |    1    |    2    |    3    |
+|:--------:| --- |:-------:|:-------:|:-------:|
 | $P(X=x)$ | $k$ | $0{,}3$ | $k-0,2$ | $0{,}1$ |
 
 a) Vis at $P(X>1)=0,3$
@@ -30,7 +30,8 @@ b) Bestem $E(X)$ og $\operatorname{Var}(X)$.
 { .block-language-dataview}
 
 ### Lignende oppgaver i andre fag
-| Tema | Oppgave |
-| ---- | ------- |
+| Tema          | Oppgave                                                                                                                                                                                                                                                                        |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| sannsynlighet | <ul><li>[[Kuler i krukke hypergeometrisk.md\\|Kuler i krukke hypergeometrisk S1-V23-1-4]]</li><li>[[Billetter til fotballkamp.md\\|Billetter til fotballkamp S1-V23-2-5]]</li><li>[[Sannsynligheter ved lottospill.md\\|Sannsynligheter ved lottospill S1-V23-2-2c]]</li></ul> |
 
 { .block-language-dataview}
