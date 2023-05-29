@@ -24,7 +24,7 @@ I spillet Lotto trekkes det sju tilfeldige naturlige tall mindre eller lik 34 ut
 | Tema            | Oppgave                                                                                                                                                                             |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | hypergeometrisk | <ul><li>[[Kuler i krukke hypergeometrisk.md\\|Kuler i krukke hypergeometrisk S1-V23-1-4]]</li></ul>                                                                                 |
-| sannsynlighet   | <ul><li>[[Kuler i krukke hypergeometrisk.md\\|Kuler i krukke hypergeometrisk S1-V23-1-4]]</li><li>[[Billetter til fotballkamp.md\\|Billetter til fotballkamp S1-V23-2-5]]</li></ul> |
+| sannsynlighet   | <ul><li>[[Billetter til fotballkamp.md\\|Billetter til fotballkamp S1-V23-2-5]]</li><li>[[Kuler i krukke hypergeometrisk.md\\|Kuler i krukke hypergeometrisk S1-V23-1-4]]</li></ul> |
 
 { .block-language-dataview}
 
