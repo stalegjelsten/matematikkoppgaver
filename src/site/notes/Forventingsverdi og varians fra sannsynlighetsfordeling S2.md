@@ -6,8 +6,8 @@
 # Forventingsverdi og varians fra sannsynlighetsfordeling S2
 En sannsynlighetsfordeling er gitt ved tabellen nedenfor.
 
-| $x$      | 0   | 1       | 2       | 3       |
-| -------- | --- | ------- | ------- | ------- |
+|   $x$    | 0   |    1    |    2    |    3    |
+|:--------:| --- |:-------:|:-------:|:-------:|
 | $P(X=x)$ | $k$ | $0{,}3$ | $k-0,2$ | $0{,}1$ |
 
 a) Vis at $P(X>1)=0,3$
