@@ -15,22 +15,25 @@ I hvilke punkter skjærer grafen til funksjonen $x$-aksen?
 >[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 1-2\|Løsningsforslag 1T eksamen V2023#Oppgave 1-2]]
 
 
+
+
+
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen 1T V23 del 1 oppgave 2</p></span></p>
 
 ### Lignende oppgaver i samme fag
-| Tema          | Oppgave                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| faktorisering | <ul><li>[[Faktorisering av tredjegradsuttrykk v2023.md\\|Faktorisering av tredjegradsuttrykk v23 1T-V23-1-3]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                             |
-| funksjoner    | <ul><li>[[Skisser grafen ut fra den deriverte v2023.md\\|Skisser grafen ut fra den deriverte v23 1T-V23-1-5]]</li><li>[[Gjennomsnittstemperatur på Svalbard og den deriverte.md\\|Gjennomsnittstemperatur på Svalbard og den deriverte 1T-V23-2-1]]</li><li>[[Tredjegradsfunksjoner uten førstegradsledd.md\\|Tredjegradsfunksjoner uten førstegradsledd 1T-V23-2-6]]</li><li>[[Lag funksjonuttrykk til grafen av rasjonal funksjon.md\\|Lag funksjonuttrykk til grafen av rasjonal funksjon 1T-V23-1-4]]</li></ul> |
-| likninger     | <ul><li>[[Faktorisering av tredjegradsuttrykk v2023.md\\|Faktorisering av tredjegradsuttrykk v23 1T-V23-1-3]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                             |
+| Tema          | Oppgave                                                                                                                                                                                                                                                                                                                                                                         |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| faktorisering | <ul><li>[[Faktorisering av tredjegradsuttrykk v2023.md\\|Faktorisering av tredjegradsuttrykk v23 1T-V23-1-3]]</li></ul>                                                                                                                                                                                                                                                         |
+| funksjoner    | <ul><li>[[Gjennomsnittstemperatur på Svalbard og den deriverte.md\\|Gjennomsnittstemperatur på Svalbard og den deriverte 1T-V23-2-1]]</li><li>[[Tredjegradsfunksjoner uten førstegradsledd.md\\|Tredjegradsfunksjoner uten førstegradsledd 1T-V23-2-6]]</li><li>[[Skisser grafen ut fra den deriverte v2023.md\\|Skisser grafen ut fra den deriverte v23 1T-V23-1-5]]</li></ul> |
+| likninger     | <ul><li>[[Faktorisering av tredjegradsuttrykk v2023.md\\|Faktorisering av tredjegradsuttrykk v23 1T-V23-1-3]]</li></ul>                                                                                                                                                                                                                                                         |
 
 { .block-language-dataview}
 
 ### Lignende oppgaver i andre fag
-| Tema       | Navn                                                                                                                                                                                                                          | Oppgave                                             |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| funksjoner | <ul><li>[[Grensekostnader fra graf v23.md\\|Grensekostnader fra graf v23]]</li><li>[[Regresjon på størrelsen av det norske musikkstrømmemarkedet.md\\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]]</li></ul> | <ul><li>S2-V23-1-2</li><li>S2, R2-V23-2-2</li></ul> |
+| Tema       | Oppgave                                                                                                                                                                                                                                                 |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| funksjoner | <ul><li>[[Grensekostnader fra graf v23.md\\|Grensekostnader fra graf v23 S2-V23-1-2]]</li><li>[[Regresjon på størrelsen av det norske musikkstrømmemarkedet.md\\|Regresjon på størrelsen av det norske musikkstrømmemarkedet S2, R2-V23-2-2]]</li></ul> |
 
 { .block-language-dataview}
 
