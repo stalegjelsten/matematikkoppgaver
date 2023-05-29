@@ -22,13 +22,14 @@ Sannsynligheten er 75,8 prosent for at levetiden til et tilfeldig valgt batteri 
 >c) A
 >[[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 1-6\|Løsningsforslag S2 eksamen V2023#Oppgave 1-6]]
 
+
 ## Relatert
-<p><span><p>Oppgaven er hentet fra eksamen s2 v23. Del 1 oppgave 6</p></span></p>
+<p><span><p>Oppgaven er hentet fra eksamen S2 V23 del 1 oppgave 6</p></span></p>
 
 ### Lignende oppgaver i samme fag
 | Tema            | Oppgave                                                                                                                                                                             |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| normalfordeling | <ul><li>[[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole.md\\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole s2-v23-2-5]]</li></ul> |
+| normalfordeling | <ul><li>[[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole.md\\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole S2-V23-2-5]]</li></ul> |
 
 { .block-language-dataview}
 
@@ -37,3 +38,4 @@ Sannsynligheten er 75,8 prosent for at levetiden til et tilfeldig valgt batteri 
 | ---- | ---- | ------- |
 
 { .block-language-dataview}
+
