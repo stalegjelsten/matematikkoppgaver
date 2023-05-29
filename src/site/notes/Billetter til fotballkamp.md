@@ -22,7 +22,7 @@ b) Hvor mange gratisbilletter må de minst dele ut dersom sannsynligheten for at
 | Tema          | Oppgave                                                                                                                                                                                        |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | programmering | <ul><li>[[Ukjent program med kostnader for produksjon.md\\|Ukjent program med kostnader for produksjon S1-V23-1-5]]</li></ul>                                                                  |
-| sannsynlighet | <ul><li>[[Kuler i krukke hypergeometrisk.md\\|Kuler i krukke hypergeometrisk S1-V23-1-4]]</li><li>[[Sannsynligheter ved lottospill.md\\|Sannsynligheter ved lottospill S1-V23-2-2c]]</li></ul> |
+| sannsynlighet | <ul><li>[[Sannsynligheter ved lottospill.md\\|Sannsynligheter ved lottospill S1-V23-2-2c]]</li><li>[[Kuler i krukke hypergeometrisk.md\\|Kuler i krukke hypergeometrisk S1-V23-1-4]]</li></ul> |
 
 { .block-language-dataview}
 
