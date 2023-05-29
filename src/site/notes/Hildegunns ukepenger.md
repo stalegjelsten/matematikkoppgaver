@@ -1,49 +1,55 @@
 ---
-{"tags":["oppgave","excel","rekker","s2","del2"],"temaer":["excel","rekker"],"alias":[null],"del":2,"oppgave":4,"fag":"s2","eksamen":"v23","dg-publish":true,"title":"Hildegunns ukepenger","date":"2023-05-29","modified":"2023-05-29","permalink":"/hildegunns-ukepenger/","dgPassFrontmatter":true}
+{"tags":["oppgave","excel","rekker","s2","r2","del2"],"temaer":["excel","rekker"],"alias":["Davids ukepenger"],"del":2,"oppgave":4,"fag":["s2","r2"],"eksamen":"v23","dg-publish":true,"title":"Hildegunns ukepenger","date":"2023-05-29","modified":"2023-05-29","permalink":"/hildegunns-ukepenger/","dgPassFrontmatter":true}
 ---
 
 
 # Hildegunns ukepenger
-Foreldrene til Hildegunn vil gi henne ukepenger. De gir henne to ulike tilbud. I tilbud 1 får hun 100 kroner den første uken. Beløpet $a_{n}$ som hun får i uke $n$, er gitt ved den rekursive formelen
+Foreldrene til Hildegunn/David[^1] vil gi hen ukepenger. De gir hen to ulike tilbud. I tilbud 1 får hen 100 kroner den første uken. Beløpet $a_{n}$ som hen får i uke $n$, er gitt ved den rekursive formelen
 
 $$
 a_{n}=a_{n-1}+10
 $$
 
-I tilbud 2 får hun 100 kroner den første uken. Beløpet $b_{n}$ som hun får i uke $n$, er gitt ved den rekursive formelen
+I tilbud 2 får hen 100 kroner den første uken. Beløpet $b_{n}$ som hen får i uke $n$, er gitt ved den rekursive formelen
 
 $$
 b_{n}=b_{n-1} \cdot 1,05
 $$
 
-a) Bestem det ukentlige beløpet hun får de fire første ukene med hvert av de to tilbudene.
+a) Bestem det ukentlige beløpet hen får de fire første ukene med hvert av de to tilbudene.
 
 b) Hvor mange uker tar det før tilbud 2 vil gi mer ukelønn enn tilbud 1?
 
 c) Hvor mange uker tar det før tilbud 2 til sammen vil gi mer lønn enn tilbud 1 ?
 
+[^1]: I R2 eksamen heter personen David, i S2 eksamen heter personen Hildegunn
+
 >[!question]- Fasit
-> a) Den fjerde uka får hun 130 kr og 115,76 kr (de andre beløpene kan du se i løsningforslaget)
+> a) Den fjerde uka får hen 130 kr og 115,76 kr (de andre beløpene kan du se i løsningforslaget)
 > b) I den 28. uka
 > c) I den 39. uka
 > [[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 2-4\|Løsningsforslag S2 eksamen V2023#Oppgave 2-4]]
 
 
+
+
+
 ## Relatert
-<p><span><p>Oppgaven er hentet fra eksamen S2 V23 del 2 oppgave 4</p></span></p>
+<p><span><p>Oppgaven er gitt ved flere eksamener: S2, R2.</p></span></p><p><span><p>Oppgaven er hentet fra eksamen S2 V23 del 2 oppgave 4</p></span></p>
 
 ### Lignende oppgaver i samme fag
 | Tema   | Oppgave                                                                                                                                                                                                                                                           |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | excel  | <ul><li>[[Annuitetslån.md\\|Annuitetslån S2-V23-2-1]]</li></ul>                                                                                                                                                                                                   |
-| rekker | <ul><li>[[Uendelig rekke med virkestoff fra legemiddel.md\\|Uendelig rekke med virkestoff fra legemiddel S2-V23-1-4]]</li><li>[[Ukjent program del 1 S2.md\\|Ukjent program del 1 S2 S2-V23-1-4]]</li><li>[[Annuitetslån.md\\|Annuitetslån S2-V23-2-1]]</li></ul> |
+| rekker | <ul><li>[[Ukjent program del 1 S2.md\\|Ukjent program del 1 S2 S2-V23-1-4]]</li><li>[[Annuitetslån.md\\|Annuitetslån S2-V23-2-1]]</li><li>[[Uendelig rekke med virkestoff fra legemiddel.md\\|Uendelig rekke med virkestoff fra legemiddel S2-V23-1-4]]</li></ul> |
 
 { .block-language-dataview}
 
 ### Lignende oppgaver i andre fag
-| Tema  | Navn                                                                     | Oppgave                          |
-| ----- | ------------------------------------------------------------------------ | -------------------------------- |
-| excel | <ul><li>[[Bredden av teltplassen.md\\|Bredden av teltplassen]]</li></ul> | <ul><li>1T, 1P-V23-2-2</li></ul> |
+| Tema   | Oppgave                                                                                                                                                                                                                                                           |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| excel  | <ul><li>[[Annuitetslån.md\\|Annuitetslån S2-V23-2-1]]</li><li>[[Bredden av teltplassen.md\\|Bredden av teltplassen 1T, 1P-V23-2-2]]</li><li>[[Bredden av teltplassen.md\\|Bredden av teltplassen 1T, 1P-V23-2-2]]</li></ul>                                       |
+| rekker | <ul><li>[[Ukjent program del 1 S2.md\\|Ukjent program del 1 S2 S2-V23-1-4]]</li><li>[[Annuitetslån.md\\|Annuitetslån S2-V23-2-1]]</li><li>[[Uendelig rekke med virkestoff fra legemiddel.md\\|Uendelig rekke med virkestoff fra legemiddel S2-V23-1-4]]</li></ul> |
 
 { .block-language-dataview}
 
