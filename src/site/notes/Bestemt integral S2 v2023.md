@@ -14,17 +14,13 @@ $$
 >$e$
 >[[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 1-1\|Løsningsforslag S2 eksamen V2023#Oppgave 1-1]]
 
-
-
-
-
-
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen S2 V23 del 1 oppgave 1</p></span></p>
 
 ### Lignende oppgaver i samme fag
-| Tema | Oppgave |
-| ---- | ------- |
+| Tema        | Oppgave                                                                                                                                                           |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| integrasjon | <ul><li>[[Regresjon på størrelsen av det norske musikkstrømmemarkedet.md\\|Regresjon på størrelsen av det norske musikkstrømmemarkedet S2, R2-V23-2-2]]</li></ul> |
 
 { .block-language-dataview}
 
@@ -33,4 +29,3 @@ $$
 | ---- | ------- |
 
 { .block-language-dataview}
-
