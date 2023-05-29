@@ -269,7 +269,7 @@ I&=10
 \end{aligned}
 $$
 
-Lydintensiteten er 10 W/m² når lydstyrken er 130 dB.
+**Lydintensiteten er 10 W/m² når lydstyrken er 130 dB.**
 
 ### 2-6b
 Når $L=132$ blir 
@@ -284,7 +284,7 @@ $$
 \frac{15{,}85-10}{10}=0{,}585=58{,}5 \,\%
 $$
 
-Når lydstyrken øker fra 130 dB til 132 dB øker lydintensiteten med 58,5 %.
+**Når lydstyrken øker fra 130 dB til 132 dB øker lydintensiteten med 58,5 %.**
 
 ### 2-6c
 Vi vet at $L=140$ når $r=50$. Jeg løser for $E$ og finner (dette gjøres enklest i CAS)

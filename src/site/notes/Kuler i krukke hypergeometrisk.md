@@ -4,11 +4,9 @@
 
 
 # Kuler i krukke hypergeometrisk
-
-
 I en krukke ligger det fire hvite og tre svarte kuler. Du trekker tilfeldig tre kuler uten tilbakelegging.
 
-a) Hva er sannsynligheten for at  to av de tre kulene er svarte?
+a) Hva er sannsynligheten for at to av de tre kulene er svarte?
 
 b) Hva er sannsynligheten for at du trekker minst to hvite kuler?
 
@@ -16,7 +14,6 @@ b) Hva er sannsynligheten for at du trekker minst to hvite kuler?
 > a) $\frac{12}{35}$
 > b) $\frac{22}{35}$
 > [[Løsningsforslag/Løsningsforslag S1 eksamen V2023#Oppgave 1-4\|Løsningsforslag S1 eksamen V2023#Oppgave 1-4]]
-
 
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen S1 V23 del 1 oppgave 4</p></span></p>
@@ -35,4 +32,3 @@ b) Hva er sannsynligheten for at du trekker minst to hvite kuler?
 | sannsynlighet | <ul><li>[[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole.md\\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole S2-V23-2-5]]</li><li>[[Forventingsverdi og varians fra sannsynlighetsfordeling S2.md\\|Forventingsverdi og varians fra sannsynlighetsfordeling S2 S2-V23-1-3]]</li></ul> |
 
 { .block-language-dataview}
-
