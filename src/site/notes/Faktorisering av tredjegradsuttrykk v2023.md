@@ -14,14 +14,15 @@ Bestem $a$ og $b$ slik at likningen blir en identitet.
 > $a=2 \wedge b=6$
 >[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 1-3\|Løsningsforslag 1T eksamen V2023#Oppgave 1-3]]
 
+
 ## Relatert
-<p><span><p>Oppgaven er hentet fra eksamen 1t v23. Del 1 oppgave 3</p></span></p>
+<p><span><p>Oppgaven er hentet fra eksamen 1T V23 del 1 oppgave 3</p></span></p>
 
 ### Lignende oppgaver i samme fag
 | Tema          | Oppgave                                                                                                   |
 | ------------- | --------------------------------------------------------------------------------------------------------- |
-| faktorisering | <ul><li>[[Skjæringspunkter med x-aksen v2023.md\\|Skjæringspunkter med x-aksen v23 1t-v23-1-2]]</li></ul> |
-| likninger     | <ul><li>[[Skjæringspunkter med x-aksen v2023.md\\|Skjæringspunkter med x-aksen v23 1t-v23-1-2]]</li></ul> |
+| faktorisering | <ul><li>[[Skjæringspunkter med x-aksen v2023.md\\|Skjæringspunkter med x-aksen v23 1T-V23-1-2]]</li></ul> |
+| likninger     | <ul><li>[[Skjæringspunkter med x-aksen v2023.md\\|Skjæringspunkter med x-aksen v23 1T-V23-1-2]]</li></ul> |
 
 { .block-language-dataview}
 
@@ -30,3 +31,4 @@ Bestem $a$ og $b$ slik at likningen blir en identitet.
 | ---- | ---- | ------- |
 
 { .block-language-dataview}
+
