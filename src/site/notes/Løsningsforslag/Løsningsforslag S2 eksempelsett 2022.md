@@ -1,5 +1,5 @@
 ---
-{"temaer":null,"del":null,"oppgave":null,"fag":null,"eksamen":null,"tags":["matematikk","S2"],"alias":[null],"dg-publish":true,"title":"Løsningsforslag S2 eksempelsett 2022","date":"2023-05-19","modified":"2023-05-29","permalink":"/losningsforslag/losningsforslag-s2-eksempelsett-2022/","dgPassFrontmatter":true}
+{"temaer":null,"del":null,"oppgave":null,"fag":null,"eksamen":null,"tags":["matematikk","løsningsforslag","S2"],"alias":[null],"dg-publish":true,"title":"Løsningsforslag S2 eksempelsett 2022","date":"2023-05-19","modified":"2023-05-29","permalink":"/losningsforslag/losningsforslag-s2-eksempelsett-2022/","dgPassFrontmatter":true}
 ---
 
 
