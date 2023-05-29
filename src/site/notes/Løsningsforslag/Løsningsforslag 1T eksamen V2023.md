@@ -1,5 +1,5 @@
 ---
-{"del":2,"fag":null,"eksamen":null,"tags":["matematikk","løsningsforslag2222","1T"],"alias":[null],"dg-publish":true,"title":"Løsningsforslag 1T eksamen V2023","date":"2023-05-26","modified":"2023-05-27","geometry":"margin=3cm","fontsize":"11pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","author":"Ståle Gjelsten","header-includes":["\\usepackage{mathtools,cancel,gensymb,amsmath,amssymb,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}"],"permalink":"/losningsforslag/losningsforslag-1-t-eksamen-v2023/","dgPassFrontmatter":true}
+{"temaer":null,"oppgave":null,"del":2,"fag":null,"eksamen":null,"tags":["matematikk","løsningsforslag2222","1T"],"alias":[null],"dg-publish":true,"title":"Løsningsforslag 1T eksamen V2023","date":"2023-05-26","modified":"2023-05-29","geometry":"margin=3cm","fontsize":"11pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","author":"Ståle Gjelsten","header-includes":["\\usepackage{mathtools,cancel,gensymb,amsmath,amssymb,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}"],"permalink":"/losningsforslag/losningsforslag-1-t-eksamen-v2023/","dgPassFrontmatter":true}
 ---
 
 

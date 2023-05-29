@@ -17,22 +17,20 @@ Bestem $f(x)$. Husk å argumentere for at svaret ditt er riktig.
 >En mulighet er $f(x)=\frac{3x-6}{x-1}, \quad D_{f} = \mathbb{R} \setminus 1$
 >[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 1-4\|Løsningsforslag 1T eksamen V2023#Oppgave 1-4]]
 
-
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen 1T V23 del 1 oppgave 4</p></span></p>
 
 ### Lignende oppgaver i samme fag
 | Tema        | Oppgave                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| funksjoner  | <ul><li>[[Skjæringspunkter med x-aksen v2023.md\\|Skjæringspunkter med x-aksen v23 1T-V23-1-2]]</li><li>[[Skisser grafen ut fra den deriverte v2023.md\\|Skisser grafen ut fra den deriverte v23 1T-V23-1-5]]</li><li>[[Gjennomsnittstemperatur på Svalbard og den deriverte.md\\|Gjennomsnittstemperatur på Svalbard og den deriverte 1T-V23-2-1]]</li><li>[[Tredjegradsfunksjoner uten førstegradsledd.md\\|Tredjegradsfunksjoner uten førstegradsledd 1T-V23-2-6]]</li></ul> |
-| utforskning | <ul><li>[[Bredden av teltplassen.md\\|Bredden av teltplassen 1T, 1P-V23-2-2]]</li><li>[[Tredjegradsfunksjoner uten førstegradsledd.md\\|Tredjegradsfunksjoner uten førstegradsledd 1T-V23-2-6]]</li></ul>                                                                                                                                                                                                                                                                       |
+| funksjoner  | <ul><li>[[Tredjegradsfunksjoner uten førstegradsledd.md\\|Tredjegradsfunksjoner uten førstegradsledd 1T-V23-2-6]]</li><li>[[Skisser grafen ut fra den deriverte v2023.md\\|Skisser grafen ut fra den deriverte v23 1T-V23-1-5]]</li><li>[[Skjæringspunkter med x-aksen v2023.md\\|Skjæringspunkter med x-aksen v23 1T-V23-1-2]]</li><li>[[Gjennomsnittstemperatur på Svalbard og den deriverte.md\\|Gjennomsnittstemperatur på Svalbard og den deriverte 1T-V23-2-1]]</li></ul> |
+| utforskning | <ul><li>[[Tredjegradsfunksjoner uten førstegradsledd.md\\|Tredjegradsfunksjoner uten førstegradsledd 1T-V23-2-6]]</li><li>[[Bredden av teltplassen.md\\|Bredden av teltplassen 1T, 1P-V23-2-2]]</li></ul>                                                                                                                                                                                                                                                                       |
 
 { .block-language-dataview}
 
 ### Lignende oppgaver i andre fag
-| Tema       | Navn                                                                                                                                                                                                                          | Oppgave                                             |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| funksjoner | <ul><li>[[Grensekostnader fra graf v23.md\\|Grensekostnader fra graf v23]]</li><li>[[Regresjon på størrelsen av det norske musikkstrømmemarkedet.md\\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]]</li></ul> | <ul><li>S2-V23-1-2</li><li>S2, R2-V23-2-2</li></ul> |
+| Tema       | Oppgave                                                                                                                                                                                                                                                 |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| funksjoner | <ul><li>[[Regresjon på størrelsen av det norske musikkstrømmemarkedet.md\\|Regresjon på størrelsen av det norske musikkstrømmemarkedet S2, R2-V23-2-2]]</li><li>[[Grensekostnader fra graf v23.md\\|Grensekostnader fra graf v23 S2-V23-1-2]]</li></ul> |
 
 { .block-language-dataview}
-

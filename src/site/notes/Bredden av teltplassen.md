@@ -24,25 +24,20 @@ Josefine lurer på om de kan tegne en graf som viser at Herman har rett. Hun pr�
 > c) En mulighet er $A(x)=x\cdot (80-2x)$
 >[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-2\|Løsningsforslag 1T eksamen V2023#Oppgave 2-2]]
 
-
-
-
-
 ## Relatert
 <p><span><p>Oppgaven er gitt ved flere eksamener: 1T, 1P.</p></span></p><p><span><p>Oppgaven er hentet fra eksamen 1T V23 del 2 oppgave 2</p></span></p>
 
 ### Lignende oppgaver i samme fag
-| Tema        | Oppgave                                                                                                                     |
-| ----------- | --------------------------------------------------------------------------------------------------------------------------- |
-| utforskning | <ul><li>[[Tredjegradsfunksjoner uten førstegradsledd.md\\|Tredjegradsfunksjoner uten førstegradsledd 1T-V23-2-6]]</li></ul> |
+| Tema        | Oppgave                                                                                                                                                                                                                                                         |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| utforskning | <ul><li>[[Lag funksjonuttrykk til grafen av rasjonal funksjon.md\\|Lag funksjonuttrykk til grafen av rasjonal funksjon 1T-V23-1-4]]</li><li>[[Tredjegradsfunksjoner uten førstegradsledd.md\\|Tredjegradsfunksjoner uten førstegradsledd 1T-V23-2-6]]</li></ul> |
 
 { .block-language-dataview}
 
 ### Lignende oppgaver i andre fag
 | Tema        | Oppgave                                                                                                                                                                                                                                                                   |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| excel       | <ul><li>[[Annuitetslån.md\\|Annuitetslån S2-V23-2-1]]</li><li>[[Annuitetslån.md\\|Annuitetslån S2-V23-2-1]]</li><li>[[Hildegunns ukepenger.md\\|Hildegunns ukepenger S2, R2-V23-2-4]]</li><li>[[Hildegunns ukepenger.md\\|Hildegunns ukepenger S2, R2-V23-2-4]]</li></ul> |
-| utforskning | <ul><li>[[Tredjegradsfunksjoner uten førstegradsledd.md\\|Tredjegradsfunksjoner uten førstegradsledd 1T-V23-2-6]]</li></ul>                                                                                                                                               |
+| excel       | <ul><li>[[Hildegunns ukepenger.md\\|Hildegunns ukepenger S2, R2-V23-2-4]]</li><li>[[Hildegunns ukepenger.md\\|Hildegunns ukepenger S2, R2-V23-2-4]]</li><li>[[Annuitetslån.md\\|Annuitetslån S2-V23-2-1]]</li><li>[[Annuitetslån.md\\|Annuitetslån S2-V23-2-1]]</li></ul> |
+| utforskning | <ul><li>[[Lag funksjonuttrykk til grafen av rasjonal funksjon.md\\|Lag funksjonuttrykk til grafen av rasjonal funksjon 1T-V23-1-4]]</li><li>[[Tredjegradsfunksjoner uten førstegradsledd.md\\|Tredjegradsfunksjoner uten førstegradsledd 1T-V23-2-6]]</li></ul>           |
 
 { .block-language-dataview}
-

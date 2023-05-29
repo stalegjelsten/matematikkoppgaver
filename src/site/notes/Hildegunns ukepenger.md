@@ -22,17 +22,11 @@ b) Hvor mange uker tar det før tilbud 2 vil gi mer ukelønn enn tilbud 1?
 
 c) Hvor mange uker tar det før tilbud 2 til sammen vil gi mer lønn enn tilbud 1 ?
 
-[^1]: I R2 eksamen heter personen David, i S2 eksamen heter personen Hildegunn
-
 >[!question]- Fasit
 > a) Den fjerde uka får hen 130 kr og 115,76 kr (de andre beløpene kan du se i løsningforslaget)
 > b) I den 28. uka
 > c) I den 39. uka
 > [[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 2-4\|Løsningsforslag S2 eksamen V2023#Oppgave 2-4]]
-
-
-
-
 
 ## Relatert
 <p><span><p>Oppgaven er gitt ved flere eksamener: S2, R2.</p></span></p><p><span><p>Oppgaven er hentet fra eksamen S2 V23 del 2 oppgave 4</p></span></p>
@@ -41,7 +35,7 @@ c) Hvor mange uker tar det før tilbud 2 til sammen vil gi mer lønn enn tilbud 
 | Tema   | Oppgave                                                                                                                                                                                                                                                           |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | excel  | <ul><li>[[Annuitetslån.md\\|Annuitetslån S2-V23-2-1]]</li></ul>                                                                                                                                                                                                   |
-| rekker | <ul><li>[[Ukjent program del 1 S2.md\\|Ukjent program del 1 S2 S2-V23-1-4]]</li><li>[[Annuitetslån.md\\|Annuitetslån S2-V23-2-1]]</li><li>[[Uendelig rekke med virkestoff fra legemiddel.md\\|Uendelig rekke med virkestoff fra legemiddel S2-V23-1-4]]</li></ul> |
+| rekker | <ul><li>[[Annuitetslån.md\\|Annuitetslån S2-V23-2-1]]</li><li>[[Ukjent program del 1 S2.md\\|Ukjent program del 1 S2 S2-V23-1-4]]</li><li>[[Uendelig rekke med virkestoff fra legemiddel.md\\|Uendelig rekke med virkestoff fra legemiddel S2-V23-1-4]]</li></ul> |
 
 { .block-language-dataview}
 
@@ -49,7 +43,8 @@ c) Hvor mange uker tar det før tilbud 2 til sammen vil gi mer lønn enn tilbud 
 | Tema   | Oppgave                                                                                                                                                                                                                                                           |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | excel  | <ul><li>[[Annuitetslån.md\\|Annuitetslån S2-V23-2-1]]</li><li>[[Bredden av teltplassen.md\\|Bredden av teltplassen 1T, 1P-V23-2-2]]</li><li>[[Bredden av teltplassen.md\\|Bredden av teltplassen 1T, 1P-V23-2-2]]</li></ul>                                       |
-| rekker | <ul><li>[[Ukjent program del 1 S2.md\\|Ukjent program del 1 S2 S2-V23-1-4]]</li><li>[[Annuitetslån.md\\|Annuitetslån S2-V23-2-1]]</li><li>[[Uendelig rekke med virkestoff fra legemiddel.md\\|Uendelig rekke med virkestoff fra legemiddel S2-V23-1-4]]</li></ul> |
+| rekker | <ul><li>[[Annuitetslån.md\\|Annuitetslån S2-V23-2-1]]</li><li>[[Ukjent program del 1 S2.md\\|Ukjent program del 1 S2 S2-V23-1-4]]</li><li>[[Uendelig rekke med virkestoff fra legemiddel.md\\|Uendelig rekke med virkestoff fra legemiddel S2-V23-1-4]]</li></ul> |
 
 { .block-language-dataview}
 
+[^1]: I R2 eksamen heter personen David, i S2 eksamen heter personen Hildegunn

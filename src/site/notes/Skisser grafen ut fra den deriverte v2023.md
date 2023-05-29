@@ -18,27 +18,22 @@ Husk å argumentere for hvorfor du mener skissen er riktig.
 > Se løsningsforslaget
 >[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 1-5\|Løsningsforslag 1T eksamen V2023#Oppgave 1-5]]
 
-
-
-
-
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen 1T V23 del 1 oppgave 5</p></span></p>
 
 ### Lignende oppgaver i samme fag
-| Tema              | Oppgave                                                                                                                                                                                                                                                                                                                                                           |
-| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| derivasjon        | <ul><li>[[Gjennomsnittstemperatur på Svalbard og den deriverte.md\\|Gjennomsnittstemperatur på Svalbard og den deriverte 1T-V23-2-1]]</li></ul>                                                                                                                                                                                                                   |
-| funksjoner        | <ul><li>[[Gjennomsnittstemperatur på Svalbard og den deriverte.md\\|Gjennomsnittstemperatur på Svalbard og den deriverte 1T-V23-2-1]]</li><li>[[Tredjegradsfunksjoner uten førstegradsledd.md\\|Tredjegradsfunksjoner uten førstegradsledd 1T-V23-2-6]]</li><li>[[Skjæringspunkter med x-aksen v2023.md\\|Skjæringspunkter med x-aksen v23 1T-V23-1-2]]</li></ul> |
-| funksjonsdrøfting | <ul><li>[[Gjennomsnittstemperatur på Svalbard og den deriverte.md\\|Gjennomsnittstemperatur på Svalbard og den deriverte 1T-V23-2-1]]</li></ul>                                                                                                                                                                                                                   |
+| Tema              | Oppgave                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| derivasjon        | <ul><li>[[Gjennomsnittstemperatur på Svalbard og den deriverte.md\\|Gjennomsnittstemperatur på Svalbard og den deriverte 1T-V23-2-1]]</li></ul>                                                                                                                                                                                                                                                                                                                                                       |
+| funksjoner        | <ul><li>[[Lag funksjonuttrykk til grafen av rasjonal funksjon.md\\|Lag funksjonuttrykk til grafen av rasjonal funksjon 1T-V23-1-4]]</li><li>[[Tredjegradsfunksjoner uten førstegradsledd.md\\|Tredjegradsfunksjoner uten førstegradsledd 1T-V23-2-6]]</li><li>[[Skjæringspunkter med x-aksen v2023.md\\|Skjæringspunkter med x-aksen v23 1T-V23-1-2]]</li><li>[[Gjennomsnittstemperatur på Svalbard og den deriverte.md\\|Gjennomsnittstemperatur på Svalbard og den deriverte 1T-V23-2-1]]</li></ul> |
+| funksjonsdrøfting | <ul><li>[[Gjennomsnittstemperatur på Svalbard og den deriverte.md\\|Gjennomsnittstemperatur på Svalbard og den deriverte 1T-V23-2-1]]</li></ul>                                                                                                                                                                                                                                                                                                                                                       |
 
 { .block-language-dataview}
 
 ### Lignende oppgaver i andre fag
 | Tema       | Oppgave                                                                                                                                                                                                                                                 |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| derivasjon | <ul><li>[[Grensekostnader fra graf v23.md\\|Grensekostnader fra graf v23 S2-V23-1-2]]</li><li>[[Regresjon på størrelsen av det norske musikkstrømmemarkedet.md\\|Regresjon på størrelsen av det norske musikkstrømmemarkedet S2, R2-V23-2-2]]</li></ul> |
-| funksjoner | <ul><li>[[Grensekostnader fra graf v23.md\\|Grensekostnader fra graf v23 S2-V23-1-2]]</li><li>[[Regresjon på størrelsen av det norske musikkstrømmemarkedet.md\\|Regresjon på størrelsen av det norske musikkstrømmemarkedet S2, R2-V23-2-2]]</li></ul> |
+| derivasjon | <ul><li>[[Regresjon på størrelsen av det norske musikkstrømmemarkedet.md\\|Regresjon på størrelsen av det norske musikkstrømmemarkedet S2, R2-V23-2-2]]</li><li>[[Grensekostnader fra graf v23.md\\|Grensekostnader fra graf v23 S2-V23-1-2]]</li></ul> |
+| funksjoner | <ul><li>[[Regresjon på størrelsen av det norske musikkstrømmemarkedet.md\\|Regresjon på størrelsen av det norske musikkstrømmemarkedet S2, R2-V23-2-2]]</li><li>[[Grensekostnader fra graf v23.md\\|Grensekostnader fra graf v23 S2-V23-1-2]]</li></ul> |
 
 { .block-language-dataview}
-
