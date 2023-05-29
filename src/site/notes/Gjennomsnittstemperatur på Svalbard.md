@@ -26,8 +26,11 @@ er en rimelig bra modell for gjennomsnittstemperaturen $T(x)^{\circ} \mathrm{C}$
 >[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-1\|Løsningsforslag 1T eksamen V2023#Oppgave 2-1]]
 
 
+
+
+
 ## Relatert
-<p><span><p>Oppgaven er hentet fra eksamen 1T V23 del 2 oppgave 1</p></span></p>
+<p><span><p>Oppgaven er gitt ved flere eksamener: 1T, 1P.</p></span></p><p><span><p>Oppgaven er hentet fra eksamen 1T V23 del 2 oppgave 1</p></span></p>
 
 ### Lignende oppgaver i samme fag
 | Tema     | Oppgave                                                                                                                     |
@@ -37,9 +40,9 @@ er en rimelig bra modell for gjennomsnittstemperaturen $T(x)^{\circ} \mathrm{C}$
 { .block-language-dataview}
 
 ### Lignende oppgaver i andre fag
-| Tema     | Navn                                                                                                             | Oppgave                      |
-| -------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| geogebra | <ul><li>[[Tredjegradsfunksjoner uten førstegradsledd.md\\|Tredjegradsfunksjoner uten førstegradsledd]]</li></ul> | <ul><li>1T-V23-2-6</li></ul> |
+| Tema     | Oppgave                                                                                                                     |
+| -------- | --------------------------------------------------------------------------------------------------------------------------- |
+| geogebra | <ul><li>[[Tredjegradsfunksjoner uten førstegradsledd.md\\|Tredjegradsfunksjoner uten førstegradsledd 1T-V23-2-6]]</li></ul> |
 
 { .block-language-dataview}
 

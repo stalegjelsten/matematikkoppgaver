@@ -25,6 +25,9 @@ Forskerne skal trekke ut 20 elever. For hver elev de skal trekke, trekker de fø
 >[[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 2-5\|Løsningsforslag S2 eksamen V2023#Oppgave 2-5]]
 
 
+
+
+
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen S2 V23 del 2 oppgave 5</p></span></p>
 
@@ -38,9 +41,8 @@ Forskerne skal trekke ut 20 elever. For hver elev de skal trekke, trekker de fø
 { .block-language-dataview}
 
 ### Lignende oppgaver i andre fag
-| Tema          | Navn                                                                                                               | Oppgave                      |
-| ------------- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------- |
-| programmering | <ul><li>[[Ukjent program med kostnader for produksjon.md\\|Ukjent program med kostnader for produksjon]]</li></ul> | <ul><li>S1-V23-1-5</li></ul> |
+| Tema | Oppgave |
+| ---- | ------- |
 
 { .block-language-dataview}
 

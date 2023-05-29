@@ -21,6 +21,9 @@ Bestem en eksakt verdi for $r$.
 >[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-5\|Løsningsforslag 1T eksamen V2023#Oppgave 2-5]]
 
 
+
+
+
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen 1T V23 del 2 oppgave 5</p></span></p>
 
@@ -35,8 +38,8 @@ Bestem en eksakt verdi for $r$.
 { .block-language-dataview}
 
 ### Lignende oppgaver i andre fag
-| Tema | Navn | Oppgave |
-| ---- | ---- | ------- |
+| Tema | Oppgave |
+| ---- | ------- |
 
 { .block-language-dataview}
 

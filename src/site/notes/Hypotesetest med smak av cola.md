@@ -28,6 +28,9 @@ Birger synes 10 glass er litt lite i blindtesten. Han vil derfor gjøre en ny bl
 >
 
 
+
+
+
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen S2 V23 del 2 oppgave 3</p></span></p>
 
@@ -39,8 +42,8 @@ Birger synes 10 glass er litt lite i blindtesten. Han vil derfor gjøre en ny bl
 { .block-language-dataview}
 
 ### Lignende oppgaver i andre fag
-| Tema | Navn | Oppgave |
-| ---- | ---- | ------- |
+| Tema | Oppgave |
+| ---- | ------- |
 
 { .block-language-dataview}
 
