@@ -18,6 +18,7 @@ Bestem $a$ og $b$ slik at likningen blir en identitet.
 
 
 
+
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen 1T V23 del 1 oppgave 3</p></span></p>
 
