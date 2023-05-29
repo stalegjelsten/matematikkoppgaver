@@ -1,5 +1,5 @@
 ---
-{"temaer":null,"oppgave":null,"tags":[null,"gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"dg-home":true,"alias":[null],"del":null,"fag":null,"eksamen":null,"dg-publish":true,"title":"Hjem","date":"2023-05-27","modified":"2023-05-29","permalink":"/hjem/","dgPassFrontmatter":true}
+{"temaer":null,"oppgave":null,"tags":[null,"gardenEntry","gardenEntry","gardenEntry"],"dg-home":true,"alias":[null],"del":null,"fag":null,"eksamen":null,"dg-publish":true,"title":"Hjem","date":"2023-05-27","modified":"2023-05-29","permalink":"/hjem/","dgPassFrontmatter":true}
 ---
 
 
@@ -7,8 +7,8 @@
 
 ## Fagsider
 - [[1T\|1T]]
-- [[S2\|S2]]
 - [[S1\|S1]]
+- [[S2\|S2]]
 - [[2P-Y\|2P-Y]]
 
 ## Om dette nettstedet
@@ -17,6 +17,8 @@ Dette nettstedet inneholder en samling av eksamensoppgaver i matematikk i norsk 
 Jeg legger inn fag etterhvert som det passer meg. Hvert fag har en hovedside, se lenger opp.
 
 På siden [[Roadmap\|Roadmap]] vil du finne en oversikt over hvordan nettstedet skal forbedres.
+
+
 
 
 | Tema                                    | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
