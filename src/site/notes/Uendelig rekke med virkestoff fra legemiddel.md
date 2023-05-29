@@ -16,6 +16,7 @@ Avgjør om det legen sier, stemmer.
 
 
 
+
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen S2 V23 del 1 oppgave 4</p></span></p>
 
