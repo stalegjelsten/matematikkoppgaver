@@ -7,7 +7,7 @@
 En elev har skrevet følgende kode:
 
 ```python
-a = 1
+a = 3
 d = 4
 
 N = 10
@@ -25,7 +25,9 @@ a) Forklar hva eleven ønsker å regne ut.
 b) Hva blir resultatet når programmet kjøres, dersom N settes til 100 i linje 4 ? 
 
 >[!question]- Fasit
->a) Summen av 10 første ledd av aritmetisk rekke med $a_{1}=1, d=4$
+>a) Summen av 10 første ledd av aritmetisk rekke med $a_{1}=3, d=4$
+>b) 20100
+>[[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 1-4\|Løsningsforslag S2 eksamen V2023#Oppgave 1-4]]
 
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen S2 V23 del 1 oppgave 4</p></span></p>
