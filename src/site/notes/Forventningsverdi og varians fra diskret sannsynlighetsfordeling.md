@@ -1,0 +1,37 @@
+---
+{"tags":["oppgave","sannsynlighet"],"temaer":["sannsynlighet","diskrete sannsynlighetsfordelinger"],"alias":[null],"del":1,"oppgave":4,"fag":"s2","eksamen":"e22","dg-publish":true,"title":"Forventningsverdi og varians fra diskret sannsynlighetsfordeling","date":"2023-05-30","modified":"2023-05-30","permalink":"/forventningsverdi-og-varians-fra-diskret-sannsynlighetsfordeling/","dgPassFrontmatter":true}
+---
+
+
+# Forventningsverdi og varians fra diskret sannsynlighetsfordeling
+En sannsynlighetsfordeling er gitt ved tabellen nedenfor.
+
+|   $x$    |    0    |  1  |  2   |  3   |
+|:--------:|:-------:|:---:|:----:|:----:|
+| $P(X=x)$ | $0{,}2$ | $k$ | $2k$ | $5k$ |
+
+>[!question]- Fasit
+> a) $E(X)=2$
+>b) $Var(X)=1{,}4$
+
+
+
+## Relatert
+<p><span><p>Oppgaven er hentet fra eksamen S2 E22 del 1 oppgave 4</p></span></p>
+
+
+### Lignende oppgaver i samme fag
+| Tema                               | Oppgave                                                                                                                                                                                                                                                                                                                               |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| diskrete sannsynlighetsfordelinger | <ul><li>[[Hypotesetest med smak av cola.md\\|Hypotesetest med smak av cola S2-V23-2-3]]</li><li>[[Forventingsverdi og varians fra sannsynlighetsfordeling S2.md\\|Forventingsverdi og varians fra sannsynlighetsfordeling S2 S2-V23-1-3]]</li></ul>                                                                                   |
+| sannsynlighet                      | <ul><li>[[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole.md\\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole S2-V23-2-5]]</li><li>[[Forventingsverdi og varians fra sannsynlighetsfordeling S2.md\\|Forventingsverdi og varians fra sannsynlighetsfordeling S2 S2-V23-1-3]]</li></ul> |
+
+{ .block-language-dataview}
+
+### Lignende oppgaver i andre fag
+| Tema          | Oppgave                                                                                                                                                                                                                                                                        |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| sannsynlighet | <ul><li>[[Sannsynligheter ved lottospill.md\\|Sannsynligheter ved lottospill S1-V23-2-2c]]</li><li>[[Kuler i krukke hypergeometrisk.md\\|Kuler i krukke hypergeometrisk S1-V23-1-4]]</li><li>[[Billetter til fotballkamp.md\\|Billetter til fotballkamp S1-V23-2-5]]</li></ul> |
+
+{ .block-language-dataview}
+
