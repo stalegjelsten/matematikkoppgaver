@@ -15,8 +15,10 @@ b) Hva er sannsynligheten for at du trekker minst to hvite kuler?
 > b) $\frac{22}{35}$
 > [[Løsningsforslag/Løsningsforslag S1 eksamen V2023#Oppgave 1-4\|Løsningsforslag S1 eksamen V2023#Oppgave 1-4]]
 
+
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen S1 V23 del 1 oppgave 4</p></span></p>
+
 
 ### Lignende oppgaver i samme fag
 | Tema            | Oppgave                                                                                                                                                                              |
@@ -30,5 +32,12 @@ b) Hva er sannsynligheten for at du trekker minst to hvite kuler?
 | Tema          | Oppgave                                                                                                                                                                                                                                                                                                                               |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | sannsynlighet | <ul><li>[[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole.md\\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole S2-V23-2-5]]</li><li>[[Forventingsverdi og varians fra sannsynlighetsfordeling S2.md\\|Forventingsverdi og varians fra sannsynlighetsfordeling S2 S2-V23-1-3]]</li></ul> |
+
+{ .block-language-dataview}
+
+### Tilfeldige oppgaver i samme fag
+- [[Grenseverdi\|Grenseverdi]]
+- [[Billetter til fotballkamp\|Billetter til fotballkamp]]
+- [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]]
 
 { .block-language-dataview}
