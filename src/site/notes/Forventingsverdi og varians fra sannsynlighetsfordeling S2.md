@@ -22,16 +22,16 @@ b) Bestem $E(X)$ og $\operatorname{Var}(X)$.
 <p><span><p>Oppgaven er hentet fra eksamen S2 V23 del 1 oppgave 3</p></span></p>
 
 ### Lignende oppgaver i samme fag
-| Tema                               | Oppgave                                                                                                                                                                             |
-| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| diskrete sannsynlighetsfordelinger | <ul><li>[[Hypotesetest med smak av cola.md\\|Hypotesetest med smak av cola S2-V23-2-3]]</li></ul>                                                                                   |
-| sannsynlighet                      | <ul><li>[[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole.md\\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole S2-V23-2-5]]</li></ul> |
+| Tema                               | Oppgave                                                                                                                                                                                                                                                                                                                                           |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| diskrete sannsynlighetsfordelinger | <ul><li>[[Hypotesetest med smak av cola.md\\|Hypotesetest med smak av cola S2-V23-2-3]]</li><li>[[Forventningsverdi og varians fra diskret sannsynlighetsfordeling.md\\|Forventningsverdi og varians fra diskret sannsynlighetsfordeling S2-E22-1-4]]</li></ul>                                                                                   |
+| sannsynlighet                      | <ul><li>[[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole.md\\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole S2-V23-2-5]]</li><li>[[Forventningsverdi og varians fra diskret sannsynlighetsfordeling.md\\|Forventningsverdi og varians fra diskret sannsynlighetsfordeling S2-E22-1-4]]</li></ul> |
 
 { .block-language-dataview}
 
 ### Lignende oppgaver i andre fag
 | Tema          | Oppgave                                                                                                                                                                                                                                                                        |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| sannsynlighet | <ul><li>[[Billetter til fotballkamp.md\\|Billetter til fotballkamp S1-V23-2-5]]</li><li>[[Sannsynligheter ved lottospill.md\\|Sannsynligheter ved lottospill S1-V23-2-2c]]</li><li>[[Kuler i krukke hypergeometrisk.md\\|Kuler i krukke hypergeometrisk S1-V23-1-4]]</li></ul> |
+| sannsynlighet | <ul><li>[[Kuler i krukke hypergeometrisk.md\\|Kuler i krukke hypergeometrisk S1-V23-1-4]]</li><li>[[Billetter til fotballkamp.md\\|Billetter til fotballkamp S1-V23-2-5]]</li><li>[[Sannsynligheter ved lottospill.md\\|Sannsynligheter ved lottospill S1-V23-2-2c]]</li></ul> |
 
 { .block-language-dataview}
