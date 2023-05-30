@@ -12,6 +12,7 @@
 ## Programmering
 - [Programmering i S-matte fra Lektor Torodd Ottestad](https://lektorodd.github.io/S-matte/)
 
-## Bøker
+## Bøker og fagstoff
 - [Matematikk hos Libretexts](https://math.libretexts.org/Bookshelves) (veldig bra, men engelsk)
 - [1P, 2P og 2P-Y lærebøker med oppgaver fra Hellerud VGS](https://matematikk.net/side/Hellerud)
+- [nkhansen](https://www.nkhansen.com/)
