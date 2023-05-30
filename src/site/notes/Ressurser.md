@@ -11,6 +11,7 @@
 
 ## Programmering
 - [Programmering i S-matte fra Lektor Torodd Ottestad](https://lektorodd.github.io/S-matte/)
+- [Intro til Python med ekte data](https://github.com/irendundas/EkteData/tree/main/NAT624)
 
 ## Bøker og fagstoff
 - [Matematikk hos Libretexts](https://math.libretexts.org/Bookshelves) (veldig bra, men engelsk)

@@ -31,9 +31,9 @@ Birger synes 10 glass er litt lite i blindtesten. Han vil derfor gjøre en ny bl
 <p><span><p>Oppgaven er hentet fra eksamen S2 V23 del 2 oppgave 3</p></span></p>
 
 ### Lignende oppgaver i samme fag
-| Tema                               | Oppgave                                                                                                                                                     |
-| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| diskrete sannsynlighetsfordelinger | <ul><li>[[Forventingsverdi og varians fra sannsynlighetsfordeling S2.md\\|Forventingsverdi og varians fra sannsynlighetsfordeling S2 S2-V23-1-3]]</li></ul> |
+| Tema                               | Oppgave                                                                                                                                                                                                                                                                                                                   |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| diskrete sannsynlighetsfordelinger | <ul><li>[[Forventingsverdi og varians fra sannsynlighetsfordeling S2.md\\|Forventingsverdi og varians fra sannsynlighetsfordeling S2 S2-V23-1-3]]</li><li>[[Forventningsverdi og varians fra diskret sannsynlighetsfordeling.md\\|Forventningsverdi og varians fra diskret sannsynlighetsfordeling S2-E22-1-4]]</li></ul> |
 
 { .block-language-dataview}
 
