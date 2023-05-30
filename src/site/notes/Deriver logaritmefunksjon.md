@@ -22,7 +22,7 @@ $$
 ### Lignende oppgaver i samme fag
 | Tema       | Oppgave                                                                                                                                  |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| logaritmer | <ul><li>[[Logaritmepåstand.md\\|Logaritmepåstand S1-V23-2-2a]]</li><li>[[Lydstyrke fra fly.md\\|Lydstyrke fra fly S1-V23-2-6]]</li></ul> |
+| logaritmer | <ul><li>[[Lydstyrke fra fly.md\\|Lydstyrke fra fly S1-V23-2-6]]</li><li>[[Logaritmepåstand.md\\|Logaritmepåstand S1-V23-2-2a]]</li></ul> |
 
 { .block-language-dataview}
 
