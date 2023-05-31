@@ -26,10 +26,11 @@ Sannsynligheten er 75,8 prosent for at levetiden til et tilfeldig valgt batteri 
 <p><span><p>Oppgaven er hentet fra eksamen S2 V23 del 1 oppgave 6</p></span></p>
 
 ### Lignende oppgaver i samme fag
-| Tema                                    | Oppgave                                                                                                                                                                             |
-| --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| kontinuerlige sannsynlighetsfordelinger | <ul><li>[[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole.md\\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole S2-V23-2-5]]</li></ul> |
-| normalfordeling                         | <ul><li>[[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole.md\\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole S2-V23-2-5]]</li></ul> |
+| Tema                                    | Oppgave                                                                                                                                                                                                                                                                                                                                                 |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| kontinuerlige sannsynlighetsfordelinger | <ul><li>[[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole.md\\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole S2-V23-2-5]]</li></ul>                                                                                                                                                                     |
+| normalfordeling                         | <ul><li>[[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole.md\\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole S2-V23-2-5]]</li><li>[[Normalfordelt intelligens.md\\|Normalfordelt intelligens S2-E15-1-8]]</li><li>[[Normalfordelte hjortebukker.md\\|Normalfordelte hjortebukker S2-V15-1-7]]</li></ul> |
+| standard normalfordeling                | <ul><li>[[Normalfordelt intelligens.md\\|Normalfordelt intelligens S2-E15-1-8]]</li><li>[[Normalfordelte hjortebukker.md\\|Normalfordelte hjortebukker S2-V15-1-7]]</li></ul>                                                                                                                                                                           |
 
 { .block-language-dataview}
 

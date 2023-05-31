@@ -18,9 +18,9 @@ $$
 <p><span><p>Oppgaven er hentet fra eksamen S2 E22 del 1 oppgave 1b</p></span></p>
 
 ### Lignende oppgaver i samme fag
-| Tema        | Oppgave                                                                                                                                                                                                                                                                                                        |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| integrasjon | <ul><li>[[Regresjon på størrelsen av det norske musikkstrømmemarkedet.md\\|Regresjon på størrelsen av det norske musikkstrømmemarkedet S2, R2-V23-2-2]]</li><li>[[Bestemt integral.md\\|Bestemt integral S2-E22-1-1a]]</li><li>[[Bestemt integral S2 v2023.md\\|Bestemt integral S2 v23 S2-V23-1-1]]</li></ul> |
+| Tema        | Oppgave                                                                                                                                                                                                                          |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| integrasjon | <ul><li>[[Regresjon på størrelsen av det norske musikkstrømmemarkedet.md\\|Regresjon på størrelsen av det norske musikkstrømmemarkedet S2, R2-V23-2-2]]</li><li>[[Bestemt integral.md\\|Bestemt integral S2-E22-1-1a]]</li></ul> |
 
 { .block-language-dataview}
 
