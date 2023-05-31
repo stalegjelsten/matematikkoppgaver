@@ -24,9 +24,12 @@ Bestem en eksakt verdi for $r$.
 <p><span><p>Oppgaven er hentet fra eksamen 1T V23 del 2 oppgave 5</p></span></p>
 
 ### Lignende oppgaver i samme fag
-| Tema | Oppgave                                                                                                                     |
-| ---- | --------------------------------------------------------------------------------------------------------------------------- |
-| cas  | <ul><li>[[Tredjegradsfunksjoner uten førstegradsledd.md\\|Tredjegradsfunksjoner uten førstegradsledd 1T-V23-2-6]]</li></ul> |
+| Tema             | Oppgave                                                                                                                                                                                                                                               |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| arealsetningen   | <ul><li>[[Areal av firkant ved hjelp av trigonometri.md\\|Areal av firkant ved hjelp av trigonometri v23 1T-V23-2-3]]</li><li>[[Areal av firkant ved hjelp av trigonometri.md\\|Areal av firkant ved hjelp av trigonometri v23 1T-V23-2-3]]</li></ul> |
+| cas              | <ul><li>[[Tredjegradsfunksjoner uten førstegradsledd.md\\|Tredjegradsfunksjoner uten førstegradsledd 1T-V23-2-6]]</li></ul>                                                                                                                           |
+| cosinussetningen | <ul><li>[[Areal av firkant ved hjelp av trigonometri.md\\|Areal av firkant ved hjelp av trigonometri v23 1T-V23-2-3]]</li></ul>                                                                                                                       |
+| trigonometri     | <ul><li>[[Areal av firkant ved hjelp av trigonometri.md\\|Areal av firkant ved hjelp av trigonometri v23 1T-V23-2-3]]</li></ul>                                                                                                                       |
 
 { .block-language-dataview}
 
