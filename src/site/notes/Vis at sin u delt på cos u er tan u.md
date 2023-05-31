@@ -2,6 +2,7 @@
 {"tags":["oppgave"],"temaer":["trigonometri"],"alias":[null],"del":1,"oppgave":1,"fag":"1t","eksamen":"h22","dg-publish":true,"title":"Vis at (sin u) / (cos u) = tan u","date":"2023-05-31","modified":"2023-05-31","permalink":"/vis-at-sin-u-delt-pa-cos-u-er-tan-u/","dgPassFrontmatter":true}
 ---
 
+[[trigonometri\|trigonometri]] 
 
 # Vis at (sin u) / (cos u) = tan u
 Gitt trekanten under.
@@ -66,7 +67,7 @@ $$
 ### Lignende oppgaver i samme fag
 | Tema         | Oppgave                                                                                                                                                                                                                                                                                                             |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| trigonometri | <ul><li>[[Begrunn hvorfor sin2 u + cos2 u = 1.md\\|Begrunn hvorfor sin² u + cos² u = 1 1T-V23-1-1]]</li><li>[[Areal av trekant i sirkel.md\\|Areal av trekant i sirkel 1T-V23-2-5]]</li><li>[[Areal av firkant ved hjelp av trigonometri.md\\|Areal av firkant ved hjelp av trigonometri v23 1T-V23-2-3]]</li></ul> |
+| trigonometri | <ul><li>[[Areal av trekant i sirkel.md\\|Areal av trekant i sirkel 1T-V23-2-5]]</li><li>[[Areal av firkant ved hjelp av trigonometri.md\\|Areal av firkant ved hjelp av trigonometri v23 1T-V23-2-3]]</li><li>[[Begrunn hvorfor sin2 u + cos2 u = 1.md\\|Begrunn hvorfor sin² u + cos² u = 1 1T-V23-1-1]]</li></ul> |
 
 { .block-language-dataview}
 
