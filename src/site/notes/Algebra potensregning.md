@@ -1,7 +1,8 @@
 ---
-{"tags":["oppgave","del1","s1","algebra","potenser"],"temaer":["algebra","potenser"],"alias":[null],"del":1,"oppgave":1,"fag":"s1","eksamen":"v23","dg-publish":true,"title":"Algebra potensregning","date":"2023-05-29","modified":"2023-05-29","permalink":"/algebra-potensregning/","dgPassFrontmatter":true}
+{"tags":["oppgave","del1","s1","algebra","potenser"],"temaer":["algebra","potenser"],"alias":[null],"del":1,"oppgave":1,"fag":"s1","eksamen":"v23","dg-publish":true,"title":"Algebra potensregning","date":"2023-05-29","modified":"2023-05-31","permalink":"/algebra-potensregning/","dgPassFrontmatter":true}
 ---
 
+[[algebra\|algebra]][[potenser\|potenser]]
 
 # Algebra potensregning
 Skriv så enkelt som mulig
