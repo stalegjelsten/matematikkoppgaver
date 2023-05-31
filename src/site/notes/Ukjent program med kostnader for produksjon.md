@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave","programmering","økonomi","s2","del1"],"temaer":["programmering","økonomi","vekstfart"],"alias":[null],"del":1,"oppgave":5,"fag":"s1","eksamen":"v23","dg-publish":true,"title":"Ukjent program med kostnader for produksjon","date":"2023-05-29","modified":"2023-05-29","permalink":"/ukjent-program-med-kostnader-for-produksjon-1/","dgPassFrontmatter":true}
+{"tags":["oppgave","programmering","økonomi","s2","del1"],"temaer":["programmering","økonomi","vekstfart"],"alias":[null],"del":1,"oppgave":5,"fag":"s1","eksamen":"v23","dg-publish":true,"title":"Ukjent program med kostnader for produksjon","date":"2023-05-29","modified":"2023-05-29","permalink":"/ukjent-program-med-kostnader-for-produksjon/","dgPassFrontmatter":true}
 ---
 
 
@@ -36,11 +36,10 @@ Hva blir resultatet når programmet kjøres? Hva forteller dette svaret bedrifte
 <p><span><p>Oppgaven er hentet fra eksamen S1 V23 del 1 oppgave 5</p></span></p>
 
 ### Lignende oppgaver i samme fag
-| Tema          | Oppgave                                                                                                                                                                                                       |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| programmering | <ul><li>[[Ukjent program med kostnader for produksjon.md\\|Ukjent program med kostnader for produksjon S1-V23-1-5]]</li><li>[[Billetter til fotballkamp.md\\|Billetter til fotballkamp S1-V23-2-5]]</li></ul> |
-| vekstfart     | <ul><li>[[Ukjent program med kostnader for produksjon.md\\|Ukjent program med kostnader for produksjon S1-V23-1-5]]</li></ul>                                                                                 |
-| økonomi       | <ul><li>[[Ukjent program med kostnader for produksjon.md\\|Ukjent program med kostnader for produksjon S1-V23-1-5]]</li><li>[[Timelønn og lønnsvekst.md\\|Timelønn og lønnsvekst S1-V23-2-1]]</li></ul>       |
+| Tema          | Oppgave                                                                                   |
+| ------------- | ----------------------------------------------------------------------------------------- |
+| programmering | <ul><li>[[Billetter til fotballkamp.md\\|Billetter til fotballkamp S1-V23-2-5]]</li></ul> |
+| økonomi       | <ul><li>[[Timelønn og lønnsvekst.md\\|Timelønn og lønnsvekst S1-V23-2-1]]</li></ul>       |
 
 { .block-language-dataview}
 
