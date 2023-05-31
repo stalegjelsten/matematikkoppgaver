@@ -18,10 +18,10 @@ Bestem $a$ og $b$ slik at likningen blir en identitet.
 <p><span><p>Oppgaven er hentet fra eksamen 1T V23 del 1 oppgave 3</p></span></p>
 
 ### Lignende oppgaver i samme fag
-| Tema          | Oppgave                                                                                                                                                                                                                             |
-| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| faktorisering | <ul><li>[[Skjæringspunkter med x-aksen v2023.md\\|Skjæringspunkter med x-aksen v23 1T-V23-1-2]]</li><li>[[Andregradsuttrykk skjæringspunkter med x-aksen.md\\|Andregradsuttrykk skjæringspunkter med x-aksen 1T-V23-1-2]]</li></ul> |
-| likninger     | <ul><li>[[Skjæringspunkter med x-aksen v2023.md\\|Skjæringspunkter med x-aksen v23 1T-V23-1-2]]</li><li>[[Andregradsuttrykk skjæringspunkter med x-aksen.md\\|Andregradsuttrykk skjæringspunkter med x-aksen 1T-V23-1-2]]</li></ul> |
+| Tema          | Oppgave                                                                                                                             |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| faktorisering | <ul><li>[[Andregradsuttrykk skjæringspunkter med x-aksen.md\\|Andregradsuttrykk skjæringspunkter med x-aksen 1T-V23-1-2]]</li></ul> |
+| likninger     | <ul><li>[[Andregradsuttrykk skjæringspunkter med x-aksen.md\\|Andregradsuttrykk skjæringspunkter med x-aksen 1T-V23-1-2]]</li></ul> |
 
 { .block-language-dataview}
 
