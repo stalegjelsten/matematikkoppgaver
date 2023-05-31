@@ -32,16 +32,16 @@ Fagforeningen til Per krever at han i 2025 skal ha samme timelønn som Amalie. V
 <p><span><p>Oppgaven er hentet fra eksamen S1 V23 del 2 oppgave 1</p></span></p>
 
 ### Lignende oppgaver i samme fag
-| Tema    | Oppgave                                                                                                                       |
-| ------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| økonomi | <ul><li>[[Ukjent program med kostnader for produksjon.md\\|Ukjent program med kostnader for produksjon S1-V23-1-5]]</li></ul> |
+| Tema    | Oppgave                                                                                                                                                                                                                                              |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| økonomi | <ul><li>[[Ukjent program med kostnader for produksjon.md\\|Ukjent program med kostnader for produksjon S1-V23-1-5]]</li><li>[[Ukjent program med kostnader for produksjon(1).md\\|Ukjent program med kostnader for produksjon S1-V23-1-5]]</li></ul> |
 
 { .block-language-dataview}
 
 ### Lignende oppgaver i andre fag
-| Tema      | Oppgave                                                                                                                                                           |
-| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| regresjon | <ul><li>[[Regresjon på størrelsen av det norske musikkstrømmemarkedet.md\\|Regresjon på størrelsen av det norske musikkstrømmemarkedet S2, R2-V23-2-2]]</li></ul> |
-| økonomi   | <ul><li>[[Grensekostnader fra graf v23.md\\|Grensekostnader fra graf v23 S2-V23-1-2]]</li></ul>                                                                   |
+| Tema      | Oppgave                                                                                                                                                                       |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| regresjon | <ul><li>[[Regresjon på størrelsen av det norske musikkstrømmemarkedet.md\\|Regresjon på størrelsen av det norske musikkstrømmemarkedet S2, R2-V23-2-2]]</li></ul>             |
+| økonomi   | <ul><li>[[Grensekostnader fra graf v23.md\\|Grensekostnader fra graf v23 S2-V23-1-2]]</li><li>[[Enhetskostnader fra graf.md\\|Enhetskostnader fra graf S2-H14-1-5]]</li></ul> |
 
 { .block-language-dataview}
