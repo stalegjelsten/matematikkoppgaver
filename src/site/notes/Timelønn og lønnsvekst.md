@@ -32,9 +32,9 @@ Fagforeningen til Per krever at han i 2025 skal ha samme timelønn som Amalie. V
 <p><span><p>Oppgaven er hentet fra eksamen S1 V23 del 2 oppgave 1</p></span></p>
 
 ### Lignende oppgaver i samme fag
-| Tema    | Oppgave                                                                                                                                                                                                                                              |
-| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| økonomi | <ul><li>[[Ukjent program med kostnader for produksjon.md\\|Ukjent program med kostnader for produksjon S1-V23-1-5]]</li><li>[[Ukjent program med kostnader for produksjon(1).md\\|Ukjent program med kostnader for produksjon S1-V23-1-5]]</li></ul> |
+| Tema    | Oppgave                                                                                                                       |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| økonomi | <ul><li>[[Ukjent program med kostnader for produksjon.md\\|Ukjent program med kostnader for produksjon S1-V23-1-5]]</li></ul> |
 
 { .block-language-dataview}
 
