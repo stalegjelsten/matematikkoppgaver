@@ -16,9 +16,9 @@ Avgjør om det legen sier, stemmer.
 <p><span><p>Oppgaven er hentet fra eksamen S2 V23 del 1 oppgave 4</p></span></p>
 
 ### Lignende oppgaver i samme fag
-| Tema   | Oppgave                                                                                                                                                                                                                                                                             |
-| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| rekker | <ul><li>[[Ukjent program del 1 S2.md\\|Ukjent program del 1 S2 S2-V23-1-4]]</li><li>[[Hildegunns ukepenger.md\\|Hildegunns ukepenger S2, R2-V23-2-4]]</li><li>[[Aritmetisk rekke.md\\|Aritmetisk rekke S2-E22-1-2]]</li><li>[[Annuitetslån.md\\|Annuitetslån S2-V23-2-1]]</li></ul> |
+| Tema   | Oppgave                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| rekker | <ul><li>[[Ukjent program del 1 S2.md\\|Ukjent program del 1 S2 S2-V23-1-4]]</li><li>[[Hildegunns ukepenger.md\\|Hildegunns ukepenger S2, R2-V23-2-4]]</li><li>[[Annuitetslån.md\\|Annuitetslån S2-V23-2-1]]</li><li>[[Aritmetisk rekke.md\\|Aritmetisk rekke S2-E22-1-2]]</li><li>[[Idas jakke.md\\|Idas jakke S2-H22-1-5]]</li><li>[[Begrunn at uendelig rekke konvergerer.md\\|Begrunn at uendelig rekke konvergerer S2-H22-1-2]]</li></ul> |
 
 { .block-language-dataview}
 
