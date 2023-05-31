@@ -68,9 +68,9 @@ $$
 <p><span><p>Oppgaven er hentet fra eksamen 1T V23 del 1 oppgave 1</p></span></p>
 
 ### Lignende oppgaver i samme fag
-| Tema         | Oppgave                                                                                                                                                                                                                                                                                                                                     |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| trigonometri | <ul><li>[[Areal av firkant ved hjelp av trigonometri v2023.md\\|Areal av firkant ved hjelp av trigonometri v23 1T-V23-2-3]]</li><li>[[Areal av trekant i sirkel.md\\|Areal av trekant i sirkel 1T-V23-2-5]]</li><li>[[Areal av firkant ved hjelp av trigonometri.md\\|Areal av firkant ved hjelp av trigonometri v23 1T-V23-2-3]]</li></ul> |
+| Tema         | Oppgave                                                                                                                                                                                                                                                                                                          |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| trigonometri | <ul><li>[[Vis at sin u delt på cos u er tan u.md\\|Vis at (sin u) / (cos u) = tan u 1T-H22-1-1]]</li><li>[[Areal av trekant i sirkel.md\\|Areal av trekant i sirkel 1T-V23-2-5]]</li><li>[[Areal av firkant ved hjelp av trigonometri.md\\|Areal av firkant ved hjelp av trigonometri v23 1T-V23-2-3]]</li></ul> |
 
 { .block-language-dataview}
 
