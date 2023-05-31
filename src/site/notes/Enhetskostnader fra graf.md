@@ -40,6 +40,6 @@ c)     Bestem den minste enhetskostnaden.
 ### Lignende oppgaver i andre fag
 | Tema    | Oppgave                                                                                                                                                                                                 |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| økonomi | <ul><li>[[Timelønn og lønnsvekst.md\\|Timelønn og lønnsvekst S1-V23-2-1]]</li><li>[[Ukjent program med kostnader for produksjon.md\\|Ukjent program med kostnader for produksjon S1-V23-1-5]]</li></ul> |
+| økonomi | <ul><li>[[Ukjent program med kostnader for produksjon.md\\|Ukjent program med kostnader for produksjon S1-V23-1-5]]</li><li>[[Timelønn og lønnsvekst.md\\|Timelønn og lønnsvekst S1-V23-2-1]]</li></ul> |
 
 { .block-language-dataview}
