@@ -24,7 +24,8 @@ $$
 { .block-language-dataview}
 
 ### Lignende oppgaver i andre fag
-| Tema | Oppgave |
-| ---- | ------- |
+| Tema    | Oppgave                                                                                                       |
+| ------- | ------------------------------------------------------------------------------------------------------------- |
+| algebra | <ul><li>[[Begrunn hvorfor sin2 u + cos2 u = 1.md\\|Begrunn hvorfor sin² u + cos² u = 1 1T-V23-1-1]]</li></ul> |
 
 { .block-language-dataview}
