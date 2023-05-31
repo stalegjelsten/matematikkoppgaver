@@ -25,7 +25,7 @@ $$
 8^2+6^2&=10^2\\
 \left( 10\sin u \right)^2 + \left( 10\cos u \right)^2 &= 10^2 \\
 \cancel{ 10^2 }\sin^2 u+\cancel{ 10^2 } \cos^2u&=\cancel{ 10^2 }\\
-\sin^2 u + \cos^2 u&=1 
+\sin^2 u + \cos^2 u&=1
 \end{aligned}
 $$
 
