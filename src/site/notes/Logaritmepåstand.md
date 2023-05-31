@@ -35,7 +35,7 @@ Påstand c finner du i [[Sannsynligheter ved lottospill\|Sannsynligheter ved lot
 
 ### Tilfeldige oppgaver i samme fag
 - [[Grenseverdi\|Grenseverdi]]
+- [[Grenseverdi 2\|Grenseverdi 2]]
 - [[Billetter til fotballkamp\|Billetter til fotballkamp]]
-- [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]]
 
 { .block-language-dataview}
