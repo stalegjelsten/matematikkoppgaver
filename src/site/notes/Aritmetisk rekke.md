@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave","rekker","s2","del1"],"temaer":["rekker"],"alias":[null],"del":1,"oppgave":2,"fag":"s2","eksamen":"e22","dg-publish":true,"title":"Aritmetisk rekke","date":"2023-05-30","modified":"2023-05-30","permalink":"/aritmetisk-rekke/","dgPassFrontmatter":true}
+{"tags":["oppgave","rekker","s2","del1"],"temaer":["rekker"],"alias":[null],"del":1,"oppgave":2,"fag":"s2","eksamen":"e22","dg-publish":true,"title":"Aritmetisk rekke","todo":"yes","date":"2023-05-30","modified":"2023-05-30","permalink":"/aritmetisk-rekke/","dgPassFrontmatter":true}
 ---
 
 
