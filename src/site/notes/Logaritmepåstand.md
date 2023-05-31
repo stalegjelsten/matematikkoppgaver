@@ -39,3 +39,4 @@ Påstand c finner du i [[Sannsynligheter ved lottospill\|Sannsynligheter ved lot
 - [[Billetter til fotballkamp\|Billetter til fotballkamp]]
 
 { .block-language-dataview}
+[[logaritmer\|logaritmer]]

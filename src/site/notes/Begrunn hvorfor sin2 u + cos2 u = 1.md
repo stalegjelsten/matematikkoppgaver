@@ -2,6 +2,7 @@
 {"tags":["oppgave"],"temaer":["trigonometri","algebra"],"alias":[null],"del":1,"oppgave":1,"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Begrunn hvorfor sin² u + cos² u = 1","date":"2023-05-31","modified":"2023-05-31","permalink":"/begrunn-hvorfor-sin2-u-cos2-u-1/","dgPassFrontmatter":true}
 ---
 
+[[trigonometri\|trigonometri]] [[algebra\|algebra]] 
 
 # Begrunn hvorfor sin² u + cos² u = 1
 En rettvinklet trekant har sidelengder 8, 6 og 10. Se figuren under.
@@ -68,9 +69,9 @@ $$
 <p><span><p>Oppgaven er hentet fra eksamen 1T V23 del 1 oppgave 1</p></span></p>
 
 ### Lignende oppgaver i samme fag
-| Tema         | Oppgave                                                                                                                                                                                                                                                                                                                                     |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| trigonometri | <ul><li>[[Areal av firkant ved hjelp av trigonometri v2023.md\\|Areal av firkant ved hjelp av trigonometri v23 1T-V23-2-3]]</li><li>[[Areal av trekant i sirkel.md\\|Areal av trekant i sirkel 1T-V23-2-5]]</li><li>[[Areal av firkant ved hjelp av trigonometri.md\\|Areal av firkant ved hjelp av trigonometri v23 1T-V23-2-3]]</li></ul> |
+| Tema         | Oppgave                                                                                                                                                                                                                                                                                                          |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| trigonometri | <ul><li>[[Areal av trekant i sirkel.md\\|Areal av trekant i sirkel 1T-V23-2-5]]</li><li>[[Areal av firkant ved hjelp av trigonometri.md\\|Areal av firkant ved hjelp av trigonometri v23 1T-V23-2-3]]</li><li>[[Vis at sin u delt på cos u er tan u.md\\|Vis at (sin u) / (cos u) = tan u 1T-H22-1-1]]</li></ul> |
 
 { .block-language-dataview}
 
