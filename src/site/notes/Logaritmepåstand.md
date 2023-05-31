@@ -34,7 +34,7 @@ Påstand c finner du i [[Sannsynligheter ved lottospill\|Sannsynligheter ved lot
 { .block-language-dataview}
 
 ### Tilfeldige oppgaver i samme fag
-- [[Ukjent program med kostnader for produksjon\|Ukjent program med kostnader for produksjon]]
+- [[Grenseverdi\|Grenseverdi]]
 - [[Billetter til fotballkamp\|Billetter til fotballkamp]]
 - [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]]
 
