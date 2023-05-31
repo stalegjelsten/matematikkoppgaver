@@ -33,6 +33,7 @@ Birger synes 10 glass er litt lite i blindtesten. Han vil derfor gjøre en ny bl
 ### Lignende oppgaver i samme fag
 | Tema                               | Oppgave                                                                                                                                                                                                                                                                                                                   |
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| binomisk                           | <ul><li>[[Hypotesetest om russetid.md\\|Hypotesetest om russetid S2-V19-2-5]]</li></ul>                                                                                                                                                                                                                                   |
 | diskrete sannsynlighetsfordelinger | <ul><li>[[Forventningsverdi og varians fra diskret sannsynlighetsfordeling.md\\|Forventningsverdi og varians fra diskret sannsynlighetsfordeling S2-E22-1-4]]</li><li>[[Forventingsverdi og varians fra sannsynlighetsfordeling S2.md\\|Forventingsverdi og varians fra sannsynlighetsfordeling S2 S2-V23-1-3]]</li></ul> |
 
 { .block-language-dataview}
