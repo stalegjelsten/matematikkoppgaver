@@ -24,7 +24,7 @@ b) Hva er sannsynligheten for at du trekker minst to hvite kuler?
 | Tema            | Oppgave                                                                                                                                                                              |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | hypergeometrisk | <ul><li>[[Sannsynligheter ved lottospill.md\\|Sannsynligheter ved lottospill S1-V23-2-2c]]</li></ul>                                                                                 |
-| sannsynlighet   | <ul><li>[[Sannsynligheter ved lottospill.md\\|Sannsynligheter ved lottospill S1-V23-2-2c]]</li><li>[[Billetter til fotballkamp.md\\|Billetter til fotballkamp S1-V23-2-5]]</li></ul> |
+| sannsynlighet   | <ul><li>[[Billetter til fotballkamp.md\\|Billetter til fotballkamp S1-V23-2-5]]</li><li>[[Sannsynligheter ved lottospill.md\\|Sannsynligheter ved lottospill S1-V23-2-2c]]</li></ul> |
 
 { .block-language-dataview}
 
