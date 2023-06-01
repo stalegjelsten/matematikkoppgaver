@@ -20,9 +20,9 @@ Oppgave c finner du her: [[Sannsynligheter ved lottospill\|Sannsynligheter ved l
 <p><span><p>Oppgaven er hentet fra eksamen S1 V23 del 2 oppgave 2b</p></span></p>
 
 ### Lignende oppgaver i samme fag
-| Tema       | Oppgave                                                                                                             |
-| ---------- | ------------------------------------------------------------------------------------------------------------------- |
-| funksjoner | <ul><li>[[Grenseverdi.md\\|Grenseverdi S1-V23-1-3]]</li><li>[[Grenseverdi 2.md\\|Grenseverdi S1-V23-1-3]]</li></ul> |
+| Tema       | Oppgave                                                                                                                                             |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| funksjoner | <ul><li>[[Grenseverdi 2.md\\|Grenseverdi S1-V23-1-3]]</li><li>[[Grenseverdi når x går mot 2.md\\|Grenseverdi når x går mot 2 S1-V23-1-3]]</li></ul> |
 
 { .block-language-dataview}
 
