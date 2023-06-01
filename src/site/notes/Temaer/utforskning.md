@@ -7,9 +7,9 @@
 | file.link                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------- |
 | [[Tredjegradsfunksjoner uten førstegradsledd\|Tredjegradsfunksjoner uten førstegradsledd]]                     |
-| [[Bredden av teltplassen\|Bredden av teltplassen]]                                                             |
 | [[Lag funksjonsuttrykk til grafen av rasjonal funksjon\|Lag funksjonsuttrykk til grafen av rasjonal funksjon]] |
-| [[Areal under graf med programmering\|Areal under graf med programmering]]                                     |
+| [[Bredden av teltplassen\|Bredden av teltplassen]]                                                             |
 | [[Billetter til fotballkamp\|Billetter til fotballkamp]]                                                       |
+| [[Areal under graf med programmering\|Areal under graf med programmering]]                                     |
 
 { .block-language-dataview}
