@@ -25,7 +25,7 @@ Bestem arealet. Husk å gjøre rede for hvilke trigonometriske sammenhenger du b
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | arealsetningen   | <ul><li>[[Areal av trekant i sirkel.md\\|Areal av trekant i sirkel 1T-V23-2-5]]</li></ul>                                                                                                                                                                                                      |
 | cosinussetningen | <ul><li>[[Areal av trekant i sirkel.md\\|Areal av trekant i sirkel 1T-V23-2-5]]</li></ul>                                                                                                                                                                                                      |
-| trigonometri     | <ul><li>[[Begrunn hvorfor sin2 u + cos2 u = 1.md\\|Begrunn hvorfor sin² u + cos² u = 1 1T-V23-1-1]]</li><li>[[Vis at sin u delt på cos u er tan u.md\\|Vis at (sin u) / (cos u) = tan u 1T-H22-1-1]]</li><li>[[Areal av trekant i sirkel.md\\|Areal av trekant i sirkel 1T-V23-2-5]]</li></ul> |
+| trigonometri     | <ul><li>[[Areal av trekant i sirkel.md\\|Areal av trekant i sirkel 1T-V23-2-5]]</li><li>[[Begrunn hvorfor sin2 u + cos2 u = 1.md\\|Begrunn hvorfor sin² u + cos² u = 1 1T-V23-1-1]]</li><li>[[Vis at sin u delt på cos u er tan u.md\\|Vis at (sin u) / (cos u) = tan u 1T-H22-1-1]]</li></ul> |
 
 { .block-language-dataview}
 
