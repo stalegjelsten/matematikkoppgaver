@@ -1,8 +1,7 @@
 ---
-{"tags":["oppgave","funksjoner","faktorisering","likninger","andregradslikninger","1t"],"temaer":["funksjoner","faktorisering","likninger","andregradslikninger"],"alias":[null],"del":1,"oppgave":2,"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Andregradsuttrykk skjæringspunkter med x-aksen","date":"2023-05-31","modified":"2023-05-31","permalink":"/andregradsuttrykk-skjaeringspunkter-med-x-aksen/","dgPassFrontmatter":true}
+{"tags":["oppgave","funksjoner","faktorisering","likninger","andregradslikninger","1t"],"temaer":["funksjoner","faktorisering","likninger","andregradslikninger"],"alias":[null],"del":1,"oppgave":2,"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Andregradsuttrykk skjæringspunkter med x-aksen","date":"2023-05-31","modified":"2023-06-01","permalink":"/andregradsuttrykk-skjaeringspunkter-med-x-aksen/","dgPassFrontmatter":true}
 ---
 
-[[funksjoner\|funksjoner]][[faktorisering\|faktorisering]][[likninger\|likninger]][[andregradslikninger\|andregradslikninger]]
 
 # Andregradsuttrykk skjæringspunkter med x-aksen
 Funksjonen $f$ er gitt ved
