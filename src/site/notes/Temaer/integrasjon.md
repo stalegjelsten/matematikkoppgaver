@@ -7,9 +7,8 @@
 | file.link                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------- |
 | [[Ubestemt integral\|Ubestemt integral]]                                                                                     |
-| [[Bestemt integral S2 v2023\|Bestemt integral S2 v2023]]                                                                     |
-| [[Bestemt integral\|Bestemt integral]]                                                                                       |
 | [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] |
+| [[Bestemt integral\|Bestemt integral]]                                                                                       |
 | [[Bestemt integral 2\|Bestemt integral 2]]                                                                                   |
 
 { .block-language-dataview}
