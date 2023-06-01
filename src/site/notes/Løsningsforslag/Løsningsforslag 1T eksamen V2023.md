@@ -230,7 +230,6 @@ $$A=\underline{\underline{\frac{196}{9}}}$$
 def f(x):
     return 1 / 9 * (x + 1) * (x - 6) ** 2   # Definerer funksjonen
 
-
 x_min = 0                                   # Startverdi for x
 x_maks = 6                                  # Sluttverdi for x
 
