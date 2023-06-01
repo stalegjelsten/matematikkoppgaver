@@ -35,8 +35,8 @@ Påstand c finner du i [[Sannsynligheter ved lottospill\|Sannsynligheter ved lot
 
 ### Tilfeldige oppgaver i samme fag
 - [[Grenseverdi når x går mot 2\|Grenseverdi når x går mot 2]]
-- [[Grenseverdi 2\|Grenseverdi 2]]
-- [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]]
+- [[Kuler i krukke hypergeometrisk\|Kuler i krukke hypergeometrisk]]
+- [[Billetter til fotballkamp\|Billetter til fotballkamp]]
 
 { .block-language-dataview}
 [[Temaer/logaritmer\|logaritmer]]
