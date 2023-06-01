@@ -18,12 +18,12 @@ $$
 <p><span><p>Oppgaven er hentet fra eksamen S1 V23 del 1 oppgave 3</p></span></p>
 
 ### Lignende oppgaver i samme fag
-| Tema        | Oppgave                                                                                                                                                                                |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| asymptoter  | <ul><li>[[Grenseverdi.md\\|Grenseverdi S1-V23-1-3]]</li></ul>                                                                                                                          |
-| derivasjon  | <ul><li>[[Grenseverdi.md\\|Grenseverdi S1-V23-1-3]]</li></ul>                                                                                                                          |
-| funksjoner  | <ul><li>[[Har alle fjerdegradsfunksjoner ekstremalpunkt.md\\|Har alle fjerdegradsfunksjoner ekstremalpunkt S1-V23-2-2b]]</li><li>[[Grenseverdi.md\\|Grenseverdi S1-V23-1-3]]</li></ul> |
-| grenseverdi | <ul><li>[[Grenseverdi.md\\|Grenseverdi S1-V23-1-3]]</li></ul>                                                                                                                          |
+| Tema        | Oppgave                                                                                                                                                                                                                |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| asymptoter  | <ul><li>[[Grenseverdi når x går mot 2.md\\|Grenseverdi når x går mot 2 S1-V23-1-3]]</li></ul>                                                                                                                          |
+| derivasjon  | <ul><li>[[Deriver logaritmefunksjon.md\\|Deriver logaritmefunksjon S1-V23-1-2]]</li><li>[[Grenseverdi når x går mot 2.md\\|Grenseverdi når x går mot 2 S1-V23-1-3]]</li></ul>                                          |
+| funksjoner  | <ul><li>[[Grenseverdi når x går mot 2.md\\|Grenseverdi når x går mot 2 S1-V23-1-3]]</li><li>[[Har alle fjerdegradsfunksjoner ekstremalpunkt.md\\|Har alle fjerdegradsfunksjoner ekstremalpunkt S1-V23-2-2b]]</li></ul> |
+| grenseverdi | <ul><li>[[Grenseverdi når x går mot 2.md\\|Grenseverdi når x går mot 2 S1-V23-1-3]]</li></ul>                                                                                                                          |
 
 { .block-language-dataview}
 
