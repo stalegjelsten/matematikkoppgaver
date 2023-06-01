@@ -65,9 +65,9 @@ $$
 <p><span><p>Oppgaven er hentet fra eksamen 1T H22 del 1 oppgave 1</p></span></p>
 
 ### Lignende oppgaver i samme fag
-| Tema         | Oppgave                                                                                                                                                                                                                                                                                                             |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| trigonometri | <ul><li>[[Areal av firkant ved hjelp av trigonometri.md\\|Areal av firkant ved hjelp av trigonometri v23 1T-V23-2-3]]</li><li>[[Begrunn hvorfor sin2 u + cos2 u = 1.md\\|Begrunn hvorfor sin² u + cos² u = 1 1T-V23-1-1]]</li><li>[[Areal av trekant i sirkel.md\\|Areal av trekant i sirkel 1T-V23-2-5]]</li></ul> |
+| Tema         | Oppgave                                                                                                                                                                                                                                                                                                         |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| trigonometri | <ul><li>[[Begrunn hvorfor sin2 u + cos2 u = 1.md\\|Begrunn hvorfor sin² u + cos² u = 1 1T-V23-1-1]]</li><li>[[Areal av trekant i sirkel.md\\|Areal av trekant i sirkel 1T-V23-2-5]]</li><li>[[Areal av firkant ved hjelp av trigonometri.md\\|Areal av firkant ved hjelp av trigonometri 1T-V23-2-3]]</li></ul> |
 
 { .block-language-dataview}
 
