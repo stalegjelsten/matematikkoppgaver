@@ -9,9 +9,9 @@
 | [[Uendelig rekke med virkestoff fra legemiddel\|Uendelig rekke med virkestoff fra legemiddel]] |
 | [[Ukjent program del 1 S2\|Ukjent program del 1 S2]]                                           |
 | [[Hildegunns ukepenger\|Hildegunns ukepenger]]                                                 |
-| [[Aritmetisk rekke\|Aritmetisk rekke]]                                                         |
 | [[Idas jakke\|Idas jakke]]                                                                     |
 | [[Begrunn at uendelig rekke konvergerer\|Begrunn at uendelig rekke konvergerer]]               |
 | [[Annuitetslån\|Annuitetslån]]                                                                 |
+| [[Aritmetisk mur\|Aritmetisk mur]]                                                             |
 
 { .block-language-dataview}
