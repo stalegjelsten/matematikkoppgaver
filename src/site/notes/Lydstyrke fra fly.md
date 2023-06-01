@@ -39,7 +39,7 @@ Lydstyrken fra et fly er $140 \mathrm{~dB}$ dersom du er $50 \mathrm{~m}$ fra fl
 ### Lignende oppgaver i samme fag
 | Tema       | Oppgave                                                                                                                                                  |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| logaritmer | <ul><li>[[Deriver logaritmefunksjon.md\\|Deriver logaritmefunksjon S1-V23-1-2]]</li><li>[[Logaritmepåstand.md\\|Logaritmepåstand S1-V23-2-2a]]</li></ul> |
+| logaritmer | <ul><li>[[Logaritmepåstand.md\\|Logaritmepåstand S1-V23-2-2a]]</li><li>[[Deriver logaritmefunksjon.md\\|Deriver logaritmefunksjon S1-V23-1-2]]</li></ul> |
 
 { .block-language-dataview}
 

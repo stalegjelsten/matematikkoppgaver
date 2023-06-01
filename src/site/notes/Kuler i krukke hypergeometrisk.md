@@ -31,13 +31,13 @@ b) Hva er sannsynligheten for at du trekker minst to hvite kuler?
 ### Lignende oppgaver i andre fag
 | Tema          | Oppgave                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| sannsynlighet | <ul><li>[[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole.md\\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole S2-V23-2-5]]</li><li>[[Normalfordelte hjortebukker.md\\|Normalfordelte hjortebukker S2-V15-1-7]]</li><li>[[Normalfordelt intelligens.md\\|Normalfordelt intelligens S2-E15-1-8]]</li><li>[[Forventningsverdi og varians fra sannsynlighetsfordeling.md\\|Forventningsverdi og varians fra diskret sannsynlighetsfordeling S2-E22-1-4]]</li><li>[[Forventingsverdi og varians fra sannsynlighetsfordeling 2.md\\|Forventingsverdi og varians fra sannsynlighetsfordeling S2 S2-V23-1-3]]</li><li>[[Lykkehjulet.md\\|Lykkehjulet S2-H22-1-8]]</li></ul> |
+| sannsynlighet | <ul><li>[[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole.md\\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole S2-V23-2-5]]</li><li>[[Normalfordelte hjortebukker.md\\|Normalfordelte hjortebukker S2-V15-1-7]]</li><li>[[Normalfordelt intelligens.md\\|Normalfordelt intelligens S2-E15-1-8]]</li><li>[[Lykkehjulet.md\\|Lykkehjulet S2-H22-1-8]]</li><li>[[Forventningsverdi og varians fra sannsynlighetsfordeling.md\\|Forventningsverdi og varians fra diskret sannsynlighetsfordeling S2-E22-1-4]]</li><li>[[Forventingsverdi og varians fra sannsynlighetsfordeling 2.md\\|Forventingsverdi og varians fra sannsynlighetsfordeling S2 S2-V23-1-3]]</li></ul> |
 
 { .block-language-dataview}
 
 ### Tilfeldige oppgaver i samme fag
 - [[Grenseverdi når x går mot 2\|Grenseverdi når x går mot 2]]
-- [[Grenseverdi 2\|Grenseverdi 2]]
-- [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]]
+- [[Billetter til fotballkamp\|Billetter til fotballkamp]]
+- [[Deriver logaritmefunksjon\|Deriver logaritmefunksjon]]
 
 { .block-language-dataview}

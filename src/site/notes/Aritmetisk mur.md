@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave","rekker","s2","del1"],"temaer":["rekker"],"alias":[null],"del":1,"oppgave":2,"fag":"s2","eksamen":"e22","dg-publish":true,"title":"Aritmetisk mur","todo":"yes","date":"2023-05-30","modified":"2023-06-01","permalink":"/aritmetisk-mur/","dgPassFrontmatter":true}
+{"tags":["oppgave","rekker","s2","del1"],"temaer":["rekker"],"alias":[null],"del":1,"oppgave":2,"fag":"s2","eksamen":"e22","dg-publish":true,"title":"Aritmetisk mur","date":"2023-05-30","modified":"2023-06-01","permalink":"/aritmetisk-mur/","dgPassFrontmatter":true}
 ---
 
 
@@ -1739,7 +1739,7 @@ z
 ### Lignende oppgaver i samme fag
 | Tema   | Oppgave                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| rekker | <ul><li>[[Uendelig rekke med virkestoff fra legemiddel.md\\|Uendelig rekke med virkestoff fra legemiddel S2-V23-1-4]]</li><li>[[Ukjent program del 1 S2.md\\|Ukjent program del 1 S2 S2-V23-1-4]]</li><li>[[Hildegunns ukepenger.md\\|Hildegunns ukepenger S2, R2-V23-2-4]]</li><li>[[Idas jakke.md\\|Idas jakke S2-H22-1-5]]</li><li>[[Begrunn at uendelig rekke konvergerer.md\\|Begrunn at uendelig rekke konvergerer S2-H22-1-2]]</li><li>[[Annuitetslån.md\\|Annuitetslån S2-V23-2-1]]</li></ul> |
+| rekker | <ul><li>[[Ukjent program del 1 S2.md\\|Ukjent program del 1 S2 S2-V23-1-4]]</li><li>[[Uendelig rekke med virkestoff fra legemiddel.md\\|Uendelig rekke med virkestoff fra legemiddel S2-V23-1-4]]</li><li>[[Idas jakke.md\\|Idas jakke S2-H22-1-5]]</li><li>[[Hildegunns ukepenger.md\\|Hildegunns ukepenger S2, R2-V23-2-4]]</li><li>[[Begrunn at uendelig rekke konvergerer.md\\|Begrunn at uendelig rekke konvergerer S2-H22-1-2]]</li><li>[[Annuitetslån.md\\|Annuitetslån S2-V23-2-1]]</li></ul> |
 
 { .block-language-dataview}
 

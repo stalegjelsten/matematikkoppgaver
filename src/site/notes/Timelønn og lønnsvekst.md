@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave","prosent","eksponentialfunksjoner","regresjon","økonomi","s1","del2"],"temaer":["prosent","eksponentialfunksjoner","regresjon","økonomi"],"alias":[null],"del":2,"oppgave":1,"fag":"s1","eksamen":"v23","dg-publish":true,"title":"Timelønn og lønnsvekst","date":"2023-05-29","modified":"2023-05-29","permalink":"/timelonn-og-lonnsvekst/","dgPassFrontmatter":true}
+{"tags":["oppgave","prosent","eksponentialfunksjoner","regresjon","økonomi","s1","del2"],"temaer":["prosent","eksponentialfunksjoner","regresjon","økonomi"],"alias":[null],"del":2,"oppgave":1,"fag":"s1","eksamen":"v23","dg-publish":true,"title":"Timelønn og lønnsvekst","date":"2023-05-29","modified":"2023-06-01","permalink":"/timelonn-og-lonnsvekst/","dgPassFrontmatter":true}
 ---
 
 
@@ -22,11 +22,12 @@ Fagforeningen til Per krever at han i 2025 skal ha samme timelønn som Amalie. V
 
 >d) Hvor mange prosent må lønnen til Per gå opp hvert år dersom dette kravet skal innfris?
 
->[!todo] Fiks fasit!!
-
 >[!question]- Fasit
-> 
->
+>a) 1,59 %
+>b) $g(x)=277{,}8\cdot 1{,}0155^x$
+>c) Her kan ulike svar godtas. Amalies samlede lønn er omtrent 8 188 600 kr i perioden. Pers samlede lønn er omtrent 7 906 600 kr
+>d) Omtrent 2,19 %
+>[[Løsningsforslag/Løsningsforslag S1 eksamen V2023#Oppgave 2-1\|Løsningsforslag S1 eksamen V2023#Oppgave 2-1]]
 
 ## Relatert
 <p><span><p>Oppgaven er hentet fra eksamen S1 V23 del 2 oppgave 1</p></span></p>

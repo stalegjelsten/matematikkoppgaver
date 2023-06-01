@@ -8,7 +8,7 @@
 | ----------------------------------------------------------- |
 | [[Hildegunns ukepenger\|Hildegunns ukepenger]]           |
 | [[Bredden av teltplassen\|Bredden av teltplassen]]       |
-| [[Annuitetslån\|Annuitetslån]]                           |
 | [[Billetter til fotballkamp\|Billetter til fotballkamp]] |
+| [[Annuitetslån\|Annuitetslån]]                           |
 
 { .block-language-dataview}

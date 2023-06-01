@@ -9,9 +9,9 @@
 | [[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole]] |
 | [[Normalfordelte hjortebukker\|Normalfordelte hjortebukker]]                                                                                       |
 | [[Normalfordelt intelligens\|Normalfordelt intelligens]]                                                                                           |
+| [[Lykkehjulet\|Lykkehjulet]]                                                                                                                       |
 | [[Levetiden til normalfordelte batterier\|Levetiden til normalfordelte batterier]]                                                                 |
 | [[Hypotesetest om russetid\|Hypotesetest om russetid]]                                                                                             |
-| [[Lykkehjulet\|Lykkehjulet]]                                                                                                                       |
 | [[Forventningsverdi og varians fra graf av normalfordeling\|Forventningsverdi og varians fra graf av normalfordeling]]                             |
 
 { .block-language-dataview}

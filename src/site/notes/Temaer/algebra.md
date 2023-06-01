@@ -6,7 +6,7 @@
 # algebra
 | file.link                                                                       |
 | ------------------------------------------------------------------------------- |
-| [[Algebra potensregning\|Algebra potensregning]]                             |
 | [[Begrunn hvorfor sin2 u + cos2 u = 1\|Begrunn hvorfor sin2 u + cos2 u = 1]] |
+| [[Algebra potensregning\|Algebra potensregning]]                             |
 
 { .block-language-dataview}

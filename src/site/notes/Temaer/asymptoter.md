@@ -6,7 +6,6 @@
 # asymptoter
 | file.link                                                       |
 | --------------------------------------------------------------- |
-| [[Grenseverdi 2\|Grenseverdi 2]]                             |
 | [[Grenseverdi når x går mot 2\|Grenseverdi når x går mot 2]] |
 
 { .block-language-dataview}
