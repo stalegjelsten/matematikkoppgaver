@@ -7,8 +7,8 @@
 - [[Ressurser\|Ressurser]]
 - [[Todo\|Todo]]
 - [[Roadmap\|Roadmap]]
-- [[Alle oppgaver\|Alle oppgaver]]
 - [[Unpublished notes\|Unpublished notes]]
 - [[Meta\|Meta]]
+- [[Alle oppgaver\|Alle oppgaver]]
 
 { .block-language-dataview}
