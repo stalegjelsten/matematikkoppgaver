@@ -2,7 +2,6 @@
 {"tags":["lån","rekker","oppgave","s2","del2","excel"],"temaer":["lån","rekker","excel"],"alias":[null],"del":2,"oppgave":1,"fag":"s2","eksamen":"v23","dg-publish":true,"title":"Annuitetslån","date":"2023-05-29","modified":"2023-05-29","permalink":"/annuitetslan/","dgPassFrontmatter":true}
 ---
 
-[[lån\|lån]][[rekker\|rekker]][[excel\|excel]]
 # Annuitetslån
 Anders tok opp et annuitetslån på 150000 kroner for å kjøpe en bil. Lånet hadde en nedbetalingstid på 36 måneder med én termin per måned. Det hadde en månedlig rentesats på 0,49 prosent.
 
