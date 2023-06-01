@@ -1,8 +1,7 @@
 ---
-{"tags":["1t","del2","trigonometri","arealsetning","cosinussetningen","cas","oppgave"],"temaer":["trigonometri","cosinussetningen","arealsetningen","cas"],"alias":[null],"del":2,"oppgave":5,"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Areal av trekant i sirkel","date":"2023-05-27","modified":"2023-05-31","permalink":"/areal-av-trekant-i-sirkel/","dgPassFrontmatter":true}
+{"tags":["1t","del2","trigonometri","arealsetning","cosinussetningen","cas","oppgave"],"temaer":["trigonometri","cosinussetningen","arealsetningen","cas"],"alias":[null],"del":2,"oppgave":5,"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Areal av trekant i sirkel","date":"2023-05-27","modified":"2023-06-01","permalink":"/areal-av-trekant-i-sirkel/","dgPassFrontmatter":true}
 ---
 
-[[trigonometri\|trigonometri]] [[arealsetningen\|arealsetningen]] [[cosinussetningen\|cosinussetningen]] [[arealsetningen\|arealsetningen]] [[cas\|cas]]
 
 # Areal av trekant i sirkel
 ![areal av trekant i sirkel.png](/img/user/_resources/areal%20av%20trekant%20i%20sirkel.png)
@@ -30,7 +29,7 @@ Bestem en eksakt verdi for $r$.
 | arealsetningen   | <ul><li>[[Areal av firkant ved hjelp av trigonometri.md\\|Areal av firkant ved hjelp av trigonometri 1T-V23-2-3]]</li></ul>                                                                                                                                                                                                      |
 | cas              | <ul><li>[[Tredjegradsfunksjoner uten førstegradsledd.md\\|Tredjegradsfunksjoner uten førstegradsledd 1T-V23-2-6]]</li></ul>                                                                                                                                                                                                      |
 | cosinussetningen | <ul><li>[[Areal av firkant ved hjelp av trigonometri.md\\|Areal av firkant ved hjelp av trigonometri 1T-V23-2-3]]</li></ul>                                                                                                                                                                                                      |
-| trigonometri     | <ul><li>[[Begrunn hvorfor sin2 u + cos2 u = 1.md\\|Begrunn hvorfor sin² u + cos² u = 1 1T-V23-1-1]]</li><li>[[Vis at sin u delt på cos u er tan u.md\\|Vis at (sin u) / (cos u) = tan u 1T-H22-1-1]]</li><li>[[Areal av firkant ved hjelp av trigonometri.md\\|Areal av firkant ved hjelp av trigonometri 1T-V23-2-3]]</li></ul> |
+| trigonometri     | <ul><li>[[Areal av firkant ved hjelp av trigonometri.md\\|Areal av firkant ved hjelp av trigonometri 1T-V23-2-3]]</li><li>[[Begrunn hvorfor sin2 u + cos2 u = 1.md\\|Begrunn hvorfor sin² u + cos² u = 1 1T-V23-1-1]]</li><li>[[Vis at sin u delt på cos u er tan u.md\\|Vis at (sin u) / (cos u) = tan u 1T-H22-1-1]]</li></ul> |
 
 { .block-language-dataview}
 

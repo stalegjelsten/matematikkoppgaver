@@ -36,8 +36,8 @@ b) Hva er sannsynligheten for at du trekker minst to hvite kuler?
 { .block-language-dataview}
 
 ### Tilfeldige oppgaver i samme fag
-- [[Grenseverdi\|Grenseverdi]]
+- [[Grenseverdi når x går mot 2\|Grenseverdi når x går mot 2]]
 - [[Grenseverdi 2\|Grenseverdi 2]]
-- [[Billetter til fotballkamp\|Billetter til fotballkamp]]
+- [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]]
 
 { .block-language-dataview}

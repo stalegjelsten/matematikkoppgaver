@@ -43,6 +43,6 @@ b) Hva blir resultatet når programmet kjøres, dersom N settes til 100 i linje 
 ### Lignende oppgaver i andre fag
 | Tema          | Oppgave                                                                                                                                                                                                                                                                                                         |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| programmering | <ul><li>[[Ukjent program med kostnader for produksjon.md\\|Ukjent program med kostnader for produksjon S1-V23-1-5]]</li><li>[[Billetter til fotballkamp.md\\|Billetter til fotballkamp S1-V23-2-5]]</li><li>[[Areal under graf med programmering.md\\|Areal under graf med programmering 1T-V23-2-4]]</li></ul> |
+| programmering | <ul><li>[[Ukjent program med kostnader for produksjon.md\\|Ukjent program med kostnader for produksjon S1-V23-1-5]]</li><li>[[Areal under graf med programmering.md\\|Areal under graf med programmering 1T-V23-2-4]]</li><li>[[Billetter til fotballkamp.md\\|Billetter til fotballkamp S1-V23-2-5]]</li></ul> |
 
 { .block-language-dataview}
