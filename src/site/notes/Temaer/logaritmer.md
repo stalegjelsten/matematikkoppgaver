@@ -7,7 +7,7 @@
 | file.link                                                   |
 | ----------------------------------------------------------- |
 | [[Lydstyrke fra fly\|Lydstyrke fra fly]]                 |
-| [[Deriver logaritmefunksjon\|Deriver logaritmefunksjon]] |
 | [[Logaritmepåstand\|Logaritmepåstand]]                   |
+| [[Deriver logaritmefunksjon\|Deriver logaritmefunksjon]] |
 
 { .block-language-dataview}
