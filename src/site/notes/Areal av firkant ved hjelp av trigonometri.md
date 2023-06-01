@@ -1,10 +1,10 @@
 ---
-{"tags":["trigonometri","cosinussetningen","arealsetningen","oppgave","del2"],"temaer":["trigonometri","cosinussetningen","arealsetningen"],"alias":[null],"del":2,"oppgave":3,"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Areal av firkant ved hjelp av trigonometri v23","date":"2023-05-31","modified":"2023-05-31","permalink":"/areal-av-firkant-ved-hjelp-av-trigonometri/","dgPassFrontmatter":true}
+{"tags":["trigonometri","cosinussetningen","arealsetningen","oppgave","del2"],"temaer":["trigonometri","cosinussetningen","arealsetningen"],"alias":[null],"del":2,"oppgave":3,"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Areal av firkant ved hjelp av trigonometri","date":"2023-05-31","modified":"2023-05-31","permalink":"/areal-av-firkant-ved-hjelp-av-trigonometri/","dgPassFrontmatter":true}
 ---
 
 [[trigonometri\|trigonometri]] [[cosinussetningen\|cosinussetningen]] [[arealsetningen\|arealsetningen]]
 
-# Areal av firkant ved hjelp av trigonometri v23
+# Areal av firkant ved hjelp av trigonometri
 ![1t-v23-2-3-oppg.png](/img/user/_resources/1t-v23-2-3-oppg.png)
 
 I denne oppgaven skal du vise at du kan bruke trigonometri til å bestemme arealet av figuren ovenfor.
