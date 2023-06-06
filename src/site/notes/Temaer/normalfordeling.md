@@ -10,8 +10,9 @@
 | [[Normalfordelte hjortebukker\|Normalfordelte hjortebukker]]                                                                                       |
 | [[Normalfordelt intelligens\|Normalfordelt intelligens]]                                                                                           |
 | [[Lykkehjulet\|Lykkehjulet]]                                                                                                                       |
-| [[Levetiden til normalfordelte batterier\|Levetiden til normalfordelte batterier]]                                                                 |
 | [[Hypotesetest om russetid\|Hypotesetest om russetid]]                                                                                             |
 | [[Forventningsverdi og varians fra graf av normalfordeling\|Forventningsverdi og varians fra graf av normalfordeling]]                             |
+| [[Levetiden til normalfordelte batterier\|Levetiden til normalfordelte batterier]]                                                                 |
+| [[Simuler sannsynlighet for høyde over 175 cm\|Simuler sannsynlighet for høyde over 175 cm]]                                                       |
 
 { .block-language-dataview}
