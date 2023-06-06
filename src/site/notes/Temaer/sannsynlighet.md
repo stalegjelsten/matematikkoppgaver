@@ -12,8 +12,8 @@
 | [[Normalfordelt intelligens\|Normalfordelt intelligens]]                                                                                           |
 | [[Lykkehjulet\|Lykkehjulet]]                                                                                                                       |
 | [[Kuler i krukke hypergeometrisk\|Kuler i krukke hypergeometrisk]]                                                                                 |
-| [[Forventningsverdi og varians fra sannsynlighetsfordeling\|Forventningsverdi og varians fra sannsynlighetsfordeling]]                             |
 | [[Forventingsverdi og varians fra sannsynlighetsfordeling 2\|Forventingsverdi og varians fra sannsynlighetsfordeling 2]]                           |
 | [[Billetter til fotballkamp\|Billetter til fotballkamp]]                                                                                           |
+| [[Forventningsverdi og varians fra sannsynlighetsfordeling\|Forventningsverdi og varians fra sannsynlighetsfordeling]]                             |
 
 { .block-language-dataview}
