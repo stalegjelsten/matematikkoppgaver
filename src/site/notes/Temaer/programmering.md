@@ -11,5 +11,6 @@
 | [[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole]] |
 | [[Billetter til fotballkamp\|Billetter til fotballkamp]]                                                                                           |
 | [[Areal under graf med programmering\|Areal under graf med programmering]]                                                                         |
+| [[Ukjent programkode\|Ukjent programkode]]                                                                                                         |
 
 { .block-language-dataview}
