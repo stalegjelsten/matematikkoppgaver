@@ -1,0 +1,43 @@
+---
+{"tags":["oppgave"],"temaer":["integrasjon","utforskning"],"alias":[null],"del":1,"oppgave":null,"fag":["s2","r2"],"eksamen":null,"dg-publish":true,"title":"Rart integral","date":"2023-06-06","modified":"2023-06-06","permalink":"/rart-integral/","dgPassFrontmatter":true}
+---
+
+
+# Rart integral
+$$
+\int 
+\smallint  \, \mathrm{d}\smallint
+$$
+
+>[!question]- Fasit
+> $\frac{1}{2}\smallint^2+C$
+>
+
+## Relatert
+<pre class="dataview dataview-error">Evaluation Error: TypeError: Cannot read properties of null (reading 'toString')
+    at eval (eval at &lt;anonymous&gt; (plugin:dataview), &lt;anonymous&gt;:9:15)
+    at DataviewInlineApi.eval (plugin:dataview:18404:16)
+    at evalInContext (plugin:dataview:18405:7)
+    at asyncEvalInContext (plugin:dataview:18415:32)
+    at DataviewJSRenderer.render (plugin:dataview:18436:19)
+    at DataviewJSRenderer.onload (plugin:dataview:18020:14)
+    at e.load (app://obsidian.md/app.js:1:631581)
+    at DataviewApi.executeJs (plugin:dataview:18954:18)
+    at Publisher.eval (plugin:digitalgarden:14394:23)
+    at Generator.next (&lt;anonymous&gt;)</pre>
+
+### Lignende oppgaver i samme fag
+| Tema        | Oppgave                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| integrasjon | <ul><li>[[Ubestemt integral.md\\|Bestemt integral S2-E22-1-1b]]</li><li>[[Bestemt integral.md\\|Bestemt integral S2-E22-1-1a]]</li><li>[[Bestemt integral 2.md\\|Bestemt integral 2 S2-V23-1-1]]</li><li>[[Regresjon på størrelsen av det norske musikkstrømmemarkedet.md\\|Regresjon på størrelsen av det norske musikkstrømmemarkedet S2, R2-V23-2-2]]</li><li>[[Regresjon på størrelsen av det norske musikkstrømmemarkedet.md\\|Regresjon på størrelsen av det norske musikkstrømmemarkedet S2, R2-V23-2-2]]</li></ul> |
+| utforskning | <ul><li>[[Ukjent programkode.md\\|Ukjent programkode S2-E22-1-7]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+
+{ .block-language-dataview}
+
+### Lignende oppgaver i andre fag
+| Tema        | Oppgave                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| integrasjon | <ul><li>[[Ubestemt integral.md\\|Bestemt integral S2-E22-1-1b]]</li><li>[[Bestemt integral.md\\|Bestemt integral S2-E22-1-1a]]</li><li>[[Bestemt integral 2.md\\|Bestemt integral 2 S2-V23-1-1]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| utforskning | <ul><li>[[Ukjent programkode.md\\|Ukjent programkode S2-E22-1-7]]</li><li>[[Areal under graf med programmering.md\\|Areal under graf med programmering 1T-V23-2-4]]</li><li>[[Areal under graf med programmering.md\\|Areal under graf med programmering 1T-V23-2-4]]</li><li>[[Bredden av teltplassen.md\\|Bredden av teltplassen 1T, 1P-V23-2-2]]</li><li>[[Bredden av teltplassen.md\\|Bredden av teltplassen 1T, 1P-V23-2-2]]</li><li>[[Lag funksjonsuttrykk til grafen av rasjonal funksjon.md\\|Lag funksjonsuttrykk til grafen av rasjonal funksjon 1T-V23-1-4]]</li><li>[[Lag funksjonsuttrykk til grafen av rasjonal funksjon.md\\|Lag funksjonsuttrykk til grafen av rasjonal funksjon 1T-V23-1-4]]</li><li>[[Tredjegradsfunksjoner uten førstegradsledd.md\\|Tredjegradsfunksjoner uten førstegradsledd 1T-V23-2-6]]</li><li>[[Tredjegradsfunksjoner uten førstegradsledd.md\\|Tredjegradsfunksjoner uten førstegradsledd 1T-V23-2-6]]</li><li>[[Billetter til fotballkamp.md\\|Billetter til fotballkamp S1-V23-2-5]]</li><li>[[Billetter til fotballkamp.md\\|Billetter til fotballkamp S1-V23-2-5]]</li></ul> |
+
+{ .block-language-dataview}
