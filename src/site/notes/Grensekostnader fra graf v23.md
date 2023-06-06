@@ -21,11 +21,12 @@ Figuren nedenfor viser grafen til kostnadsfunksjonen og grafen til inntektsfunks
 <p><span><p>Oppgaven er hentet fra eksamen S2 V23 del 1 oppgave 2</p></span></p>
 
 ### Lignende oppgaver i samme fag
-| Tema       | Oppgave                                                                                                                                                           |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| derivasjon | <ul><li>[[Regresjon på størrelsen av det norske musikkstrømmemarkedet.md\\|Regresjon på størrelsen av det norske musikkstrømmemarkedet S2, R2-V23-2-2]]</li></ul> |
-| funksjoner | <ul><li>[[Regresjon på størrelsen av det norske musikkstrømmemarkedet.md\\|Regresjon på størrelsen av det norske musikkstrømmemarkedet S2, R2-V23-2-2]]</li></ul> |
-| økonomi    | <ul><li>[[Enhetskostnader fra graf.md\\|Enhetskostnader fra graf S2-H14-1-5]]</li></ul>                                                                           |
+| Tema                           | Oppgave                                                                                                                                                                                                                                       |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| derivasjon                     | <ul><li>[[Regresjon på størrelsen av det norske musikkstrømmemarkedet.md\\|Regresjon på størrelsen av det norske musikkstrømmemarkedet S2, R2-V23-2-2]]</li></ul>                                                                             |
+| funksjoner                     | <ul><li>[[Regresjon på størrelsen av det norske musikkstrømmemarkedet.md\\|Regresjon på størrelsen av det norske musikkstrømmemarkedet S2, R2-V23-2-2]]</li></ul>                                                                             |
+| grenseinntekt og grensekostnad | <ul><li>[[Argumenter for hvorfor sette grensekostnad lik grenseinntekt.md\\|Argumenter for hvorfor sette grensekostnad lik grenseinntekt S2-E22-1-6]]</li></ul>                                                                               |
+| økonomi                        | <ul><li>[[Enhetskostnader fra graf.md\\|Enhetskostnader fra graf S2-H14-1-5]]</li><li>[[Argumenter for hvorfor sette grensekostnad lik grenseinntekt.md\\|Argumenter for hvorfor sette grensekostnad lik grenseinntekt S2-E22-1-6]]</li></ul> |
 
 { .block-language-dataview}
 
