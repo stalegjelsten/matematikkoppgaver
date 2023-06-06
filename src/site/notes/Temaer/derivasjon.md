@@ -6,11 +6,11 @@
 # derivasjon
 | file.link                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------- |
-| [[Skisser grafen ut fra den deriverte v2023\|Skisser grafen ut fra den deriverte v2023]]                                     |
-| [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] |
-| [[Grenseverdi når x går mot 2\|Grenseverdi når x går mot 2]]                                                                 |
-| [[Grensekostnader fra graf v23\|Grensekostnader fra graf v23]]                                                               |
 | [[Gjennomsnittstemperatur på Svalbard og den deriverte\|Gjennomsnittstemperatur på Svalbard og den deriverte]]               |
+| [[Skisser grafen ut fra den deriverte v2023\|Skisser grafen ut fra den deriverte v2023]]                                     |
+| [[Grensekostnader fra graf v23\|Grensekostnader fra graf v23]]                                                               |
+| [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] |
 | [[Deriver logaritmefunksjon\|Deriver logaritmefunksjon]]                                                                     |
+| [[Grenseverdi når x går mot 2\|Grenseverdi når x går mot 2]]                                                                 |
 
 { .block-language-dataview}

@@ -6,7 +6,7 @@
 # hypergeometrisk
 | file.link                                                             |
 | --------------------------------------------------------------------- |
-| [[Sannsynligheter ved lottospill\|Sannsynligheter ved lottospill]] |
 | [[Kuler i krukke hypergeometrisk\|Kuler i krukke hypergeometrisk]] |
+| [[Sannsynligheter ved lottospill\|Sannsynligheter ved lottospill]] |
 
 { .block-language-dataview}

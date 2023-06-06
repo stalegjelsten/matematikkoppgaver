@@ -33,7 +33,7 @@ c)     Bestem den minste enhetskostnaden.
 ### Lignende oppgaver i samme fag
 | Tema    | Oppgave                                                                                                                                                                                                                                               |
 | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| økonomi | <ul><li>[[Grensekostnader fra graf v23.md\\|Grensekostnader fra graf v23 S2-V23-1-2]]</li><li>[[Argumenter for hvorfor sette grensekostnad lik grenseinntekt.md\\|Argumenter for hvorfor sette grensekostnad lik grenseinntekt S2-E22-1-6]]</li></ul> |
+| økonomi | <ul><li>[[Argumenter for hvorfor sette grensekostnad lik grenseinntekt.md\\|Argumenter for hvorfor sette grensekostnad lik grenseinntekt S2-E22-1-6]]</li><li>[[Grensekostnader fra graf v23.md\\|Grensekostnader fra graf v23 S2-V23-1-2]]</li></ul> |
 
 { .block-language-dataview}
 

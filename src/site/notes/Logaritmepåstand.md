@@ -23,7 +23,7 @@ Påstand c finner du i [[Sannsynligheter ved lottospill\|Sannsynligheter ved lot
 ### Lignende oppgaver i samme fag
 | Tema       | Oppgave                                                                                                                                                   |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| logaritmer | <ul><li>[[Lydstyrke fra fly.md\\|Lydstyrke fra fly S1-V23-2-6]]</li><li>[[Deriver logaritmefunksjon.md\\|Deriver logaritmefunksjon S1-V23-1-2]]</li></ul> |
+| logaritmer | <ul><li>[[Deriver logaritmefunksjon.md\\|Deriver logaritmefunksjon S1-V23-1-2]]</li><li>[[Lydstyrke fra fly.md\\|Lydstyrke fra fly S1-V23-2-6]]</li></ul> |
 
 { .block-language-dataview}
 
