@@ -4,11 +4,12 @@
 
 
 # økonomi
-| file.link                                                                                       |
-| ----------------------------------------------------------------------------------------------- |
-| [[Ukjent program med kostnader for produksjon\|Ukjent program med kostnader for produksjon]] |
-| [[Grensekostnader fra graf v23\|Grensekostnader fra graf v23]]                               |
-| [[Enhetskostnader fra graf\|Enhetskostnader fra graf]]                                       |
-| [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]]                                           |
+| file.link                                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------- |
+| [[Ukjent program med kostnader for produksjon\|Ukjent program med kostnader for produksjon]]                                   |
+| [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]]                                                                             |
+| [[Grensekostnader fra graf v23\|Grensekostnader fra graf v23]]                                                                 |
+| [[Enhetskostnader fra graf\|Enhetskostnader fra graf]]                                                                         |
+| [[Argumenter for hvorfor sette grensekostnad lik grenseinntekt\|Argumenter for hvorfor sette grensekostnad lik grenseinntekt]] |
 
 { .block-language-dataview}
