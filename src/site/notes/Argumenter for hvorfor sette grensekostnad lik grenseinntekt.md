@@ -17,7 +17,7 @@ Forklar hvorfor vi kan sette grensekostnad lik grenseinntekt når vi skal finne 
 | Tema                           | Oppgave                                                                                                                                                                       |
 | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | grenseinntekt og grensekostnad | <ul><li>[[Grensekostnader fra graf v23.md\\|Grensekostnader fra graf v23 S2-V23-1-2]]</li></ul>                                                                               |
-| økonomi                        | <ul><li>[[Grensekostnader fra graf v23.md\\|Grensekostnader fra graf v23 S2-V23-1-2]]</li><li>[[Enhetskostnader fra graf.md\\|Enhetskostnader fra graf S2-H14-1-5]]</li></ul> |
+| økonomi                        | <ul><li>[[Enhetskostnader fra graf.md\\|Enhetskostnader fra graf S2-H14-1-5]]</li><li>[[Grensekostnader fra graf v23.md\\|Grensekostnader fra graf v23 S2-V23-1-2]]</li></ul> |
 
 { .block-language-dataview}
 
