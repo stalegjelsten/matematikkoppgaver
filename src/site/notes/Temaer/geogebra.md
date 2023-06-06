@@ -6,7 +6,7 @@
 # geogebra
 | file.link                                                                                     |
 | --------------------------------------------------------------------------------------------- |
-| [[Tredjegradsfunksjoner uten førstegradsledd\|Tredjegradsfunksjoner uten førstegradsledd]] |
 | [[Gjennomsnittstemperatur på Svalbard\|Gjennomsnittstemperatur på Svalbard]]               |
+| [[Tredjegradsfunksjoner uten førstegradsledd\|Tredjegradsfunksjoner uten førstegradsledd]] |
 
 { .block-language-dataview}
