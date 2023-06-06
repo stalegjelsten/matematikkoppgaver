@@ -7,5 +7,6 @@
 | file.link                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------- |
 | [[Forventingsverdi og varians fra sannsynlighetsfordeling 2\|Forventingsverdi og varians fra sannsynlighetsfordeling 2]] |
+| [[Forventningsverdi og varians fra sannsynlighetsfordeling\|Forventningsverdi og varians fra sannsynlighetsfordeling]]   |
 
 { .block-language-dataview}
