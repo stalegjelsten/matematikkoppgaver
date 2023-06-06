@@ -31,9 +31,9 @@ c)     Bestem den minste enhetskostnaden.
 <p><span><p>Oppgaven er hentet fra eksamen S2 H14 del 1 oppgave 5</p></span></p>
 
 ### Lignende oppgaver i samme fag
-| Tema    | Oppgave                                                                                         |
-| ------- | ----------------------------------------------------------------------------------------------- |
-| økonomi | <ul><li>[[Grensekostnader fra graf v23.md\\|Grensekostnader fra graf v23 S2-V23-1-2]]</li></ul> |
+| Tema    | Oppgave                                                                                                                                                                                                                                               |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| økonomi | <ul><li>[[Grensekostnader fra graf v23.md\\|Grensekostnader fra graf v23 S2-V23-1-2]]</li><li>[[Argumenter for hvorfor sette grensekostnad lik grenseinntekt.md\\|Argumenter for hvorfor sette grensekostnad lik grenseinntekt S2-E22-1-6]]</li></ul> |
 
 { .block-language-dataview}
 

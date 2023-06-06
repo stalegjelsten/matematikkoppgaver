@@ -16,5 +16,6 @@
 | [[Gjennomsnittstemperatur på Svalbard og den deriverte\|Gjennomsnittstemperatur på Svalbard og den deriverte]]               |
 | [[Areal under graf med programmering\|Areal under graf med programmering]]                                                   |
 | [[Andregradsuttrykk skjæringspunkter med x-aksen\|Andregradsuttrykk skjæringspunkter med x-aksen]]                           |
+| [[Ukjent programkode\|Ukjent programkode]]                                                                                   |
 
 { .block-language-dataview}

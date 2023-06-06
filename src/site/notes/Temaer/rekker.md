@@ -11,7 +11,7 @@
 | [[Idas jakke\|Idas jakke]]                                                                     |
 | [[Hildegunns ukepenger\|Hildegunns ukepenger]]                                                 |
 | [[Begrunn at uendelig rekke konvergerer\|Begrunn at uendelig rekke konvergerer]]               |
-| [[Annuitetslån\|Annuitetslån]]                                                                 |
 | [[Aritmetisk mur\|Aritmetisk mur]]                                                             |
+| [[Annuitetslån\|Annuitetslån]]                                                                 |
 
 { .block-language-dataview}

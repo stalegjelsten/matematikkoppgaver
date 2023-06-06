@@ -8,7 +8,7 @@
 | ------------------------------------------------------------------------------------------------------------------------- |
 | [[Normalfordelte hjortebukker\|Normalfordelte hjortebukker]]                                                           |
 | [[Normalfordelt intelligens\|Normalfordelt intelligens]]                                                               |
-| [[Levetiden til normalfordelte batterier\|Levetiden til normalfordelte batterier]]                                     |
 | [[Forventningsverdi og varians fra graf av normalfordeling\|Forventningsverdi og varians fra graf av normalfordeling]] |
+| [[Levetiden til normalfordelte batterier\|Levetiden til normalfordelte batterier]]                                     |
 
 { .block-language-dataview}
