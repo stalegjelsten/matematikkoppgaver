@@ -12,5 +12,6 @@
 | [[Billetter til fotballkamp\|Billetter til fotballkamp]]                                                                                           |
 | [[Areal under graf med programmering\|Areal under graf med programmering]]                                                                         |
 | [[Ukjent programkode\|Ukjent programkode]]                                                                                                         |
+| [[Simuler sannsynlighet for høyde over 175 cm\|Simuler sannsynlighet for høyde over 175 cm]]                                                       |
 
 { .block-language-dataview}
