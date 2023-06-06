@@ -6,8 +6,8 @@
 # logaritmer
 | file.link                                                   |
 | ----------------------------------------------------------- |
-| [[Lydstyrke fra fly\|Lydstyrke fra fly]]                 |
-| [[Logaritmepåstand\|Logaritmepåstand]]                   |
 | [[Deriver logaritmefunksjon\|Deriver logaritmefunksjon]] |
+| [[Logaritmepåstand\|Logaritmepåstand]]                   |
+| [[Lydstyrke fra fly\|Lydstyrke fra fly]]                 |
 
 { .block-language-dataview}
