@@ -7,11 +7,11 @@
 | file.link                                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Ukjent program med kostnader for produksjon\|Ukjent program med kostnader for produksjon]]                                                       |
-| [[Ukjent program del 1 S2\|Ukjent program del 1 S2]]                                                                                               |
-| [[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole]] |
-| [[Billetter til fotballkamp\|Billetter til fotballkamp]]                                                                                           |
-| [[Areal under graf med programmering\|Areal under graf med programmering]]                                                                         |
 | [[Ukjent programkode\|Ukjent programkode]]                                                                                                         |
 | [[Simuler sannsynlighet for høyde over 175 cm\|Simuler sannsynlighet for høyde over 175 cm]]                                                       |
+| [[Areal under graf med programmering\|Areal under graf med programmering]]                                                                         |
+| [[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole]] |
+| [[Ukjent program del 1 S2\|Ukjent program del 1 S2]]                                                                                               |
+| [[Billetter til fotballkamp\|Billetter til fotballkamp]]                                                                                           |
 
 { .block-language-dataview}
