@@ -7,8 +7,9 @@
 | file.link                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------- |
 | [[Ubestemt integral\|Ubestemt integral]]                                                                                     |
-| [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] |
 | [[Bestemt integral\|Bestemt integral]]                                                                                       |
 | [[Bestemt integral 2\|Bestemt integral 2]]                                                                                   |
+| [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] |
+| [[Rart integral\|Rart integral]]                                                                                             |
 
 { .block-language-dataview}
