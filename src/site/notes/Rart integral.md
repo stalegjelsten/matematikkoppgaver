@@ -14,17 +14,7 @@ $$
 >
 
 ## Relatert
-<pre class="dataview dataview-error">Evaluation Error: TypeError: Cannot read properties of null (reading 'toString')
-    at eval (eval at &lt;anonymous&gt; (plugin:dataview), &lt;anonymous&gt;:9:15)
-    at DataviewInlineApi.eval (plugin:dataview:18404:16)
-    at evalInContext (plugin:dataview:18405:7)
-    at asyncEvalInContext (plugin:dataview:18415:32)
-    at DataviewJSRenderer.render (plugin:dataview:18436:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18020:14)
-    at e.load (app://obsidian.md/app.js:1:631581)
-    at DataviewApi.executeJs (plugin:dataview:18954:18)
-    at Publisher.eval (plugin:digitalgarden:14394:23)
-    at Generator.next (&lt;anonymous&gt;)</pre>
+
 
 ### Lignende oppgaver i samme fag
 | Tema        | Oppgave                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
