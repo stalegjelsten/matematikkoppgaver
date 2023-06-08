@@ -25,6 +25,7 @@
 | [[Temaer/funksjoner\|funksjoner]]                                                           |
 | [[Temaer/funksjonsdrøfting\|funksjonsdrøfting]]                                             |
 | [[Temaer/geogebra\|geogebra]]                                                               |
+| [[geometri\|geometri]]                                                                         |
 | [[Temaer/gjennomsnittlig vekstfart\|gjennomsnittlig vekstfart]]                             |
 | [[Temaer/glidere\|glidere]]                                                                 |
 | [[Temaer/grafer\|grafer]]                                                                   |
