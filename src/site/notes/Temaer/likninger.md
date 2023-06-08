@@ -6,7 +6,7 @@
 # likninger
 | file.link                                                                                             |
 | ----------------------------------------------------------------------------------------------------- |
-| [[Andregradsuttrykk skjæringspunkter med x-aksen\|Andregradsuttrykk skjæringspunkter med x-aksen]] |
 | [[Faktorisering av tredjegradsuttrykk v2023\|Faktorisering av tredjegradsuttrykk v2023]]           |
+| [[Andregradsuttrykk skjæringspunkter med x-aksen\|Andregradsuttrykk skjæringspunkter med x-aksen]] |
 
 { .block-language-dataview}
