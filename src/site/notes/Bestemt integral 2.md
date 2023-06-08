@@ -18,7 +18,7 @@ $$
 ### Lignende oppgaver i samme fag
 | Tema        | Oppgave                                                                                                                                                                                                                                                                                                                                                      |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| integrasjon | <ul><li>[[Ubestemt integral.md\\|Bestemt integral S2-E22-1-1b]]</li><li>[[Bestemt integral.md\\|Bestemt integral S2-E22-1-1a]]</li><li>[[Regresjon på størrelsen av det norske musikkstrømmemarkedet.md\\|Regresjon på størrelsen av det norske musikkstrømmemarkedet S2, R2-V23-2-2]]</li><li>[[Rart integral.md\\|Rart integral S2, R2-\--1-\-]]</li></ul> |
+| integrasjon | <ul><li>[[Ubestemt integral.md\\|Bestemt integral S2-E22-1-1b]]</li><li>[[Regresjon på størrelsen av det norske musikkstrømmemarkedet.md\\|Regresjon på størrelsen av det norske musikkstrømmemarkedet S2, R2-V23-2-2]]</li><li>[[Bestemt integral.md\\|Bestemt integral S2-E22-1-1a]]</li><li>[[Rart integral.md\\|Rart integral S2, R2-\--1-\-]]</li></ul> |
 
 { .block-language-dataview}
 
