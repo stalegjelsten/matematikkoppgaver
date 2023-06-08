@@ -7,11 +7,13 @@
 | file.link                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------- |
 | [[Ukjent programkode\|Ukjent programkode]]                                                                     |
-| [[Areal under graf med programmering\|Areal under graf med programmering]]                                     |
-| [[Bredden av teltplassen\|Bredden av teltplassen]]                                                             |
-| [[Lag funksjonsuttrykk til grafen av rasjonal funksjon\|Lag funksjonsuttrykk til grafen av rasjonal funksjon]] |
 | [[Tredjegradsfunksjoner uten førstegradsledd\|Tredjegradsfunksjoner uten førstegradsledd]]                     |
+| [[Lag funksjonsuttrykk til grafen av rasjonal funksjon\|Lag funksjonsuttrykk til grafen av rasjonal funksjon]] |
+| [[Bredden av teltplassen\|Bredden av teltplassen]]                                                             |
 | [[Billetter til fotballkamp\|Billetter til fotballkamp]]                                                       |
+| [[Areal under graf med programmering\|Areal under graf med programmering]]                                     |
 | [[Rart integral\|Rart integral]]                                                                               |
+| [[Areal av område begrenset av sirkler\|Areal av område begrenset av sirkler]]                                 |
+| [[Areal av sirkel og kvadrat som skjærer hverandre\|Areal av sirkel og kvadrat som skjærer hverandre]]         |
 
 { .block-language-dataview}

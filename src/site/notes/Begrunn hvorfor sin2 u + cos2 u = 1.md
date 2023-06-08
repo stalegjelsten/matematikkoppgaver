@@ -69,15 +69,16 @@ $$
 <p><span><p>Oppgaven er hentet fra eksamen 1T V23 del 1 oppgave 1</p></span></p>
 
 ### Lignende oppgaver i samme fag
-| Tema         | Oppgave                                                                                                                                                                                                                                                                                                      |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| trigonometri | <ul><li>[[Areal av firkant ved hjelp av trigonometri.md\\|Areal av firkant ved hjelp av trigonometri 1T-V23-2-3]]</li><li>[[Areal av trekant i sirkel.md\\|Areal av trekant i sirkel 1T-V23-2-5]]</li><li>[[Vis at sin u delt på cos u er tan u.md\\|Vis at (sin u) / (cos u) = tan u 1T-H22-1-1]]</li></ul> |
+| Tema         | Oppgave                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| trigonometri | <ul><li>[[Vis at sin u delt på cos u er tan u.md\\|Vis at (sin u) / (cos u) = tan u 1T-H22-1-1]]</li><li>[[Areal av trekant i sirkel.md\\|Areal av trekant i sirkel 1T-V23-2-5]]</li><li>[[Areal av firkant ved hjelp av trigonometri.md\\|Areal av firkant ved hjelp av trigonometri 1T-V23-2-3]]</li><li>[[Areal av sirkel og kvadrat som skjærer hverandre.md\\|Areal av sirkel og kvadrat som skjærer hverandre 1T, R1, R2-\--1-\-]]</li></ul> |
 
 { .block-language-dataview}
 
 ### Lignende oppgaver i andre fag
-| Tema    | Oppgave                                                                           |
-| ------- | --------------------------------------------------------------------------------- |
-| algebra | <ul><li>[[Algebra potensregning.md\\|Algebra potensregning S1-V23-1-1]]</li></ul> |
+| Tema         | Oppgave                                                                                                         |
+| ------------ | --------------------------------------------------------------------------------------------------------------- |
+| algebra      | <ul><li>[[Algebra potensregning.md\\|Algebra potensregning S1-V23-1-1]]</li></ul>                               |
+| trigonometri | <ul><li>[[Areal av område begrenset av sirkler.md\\|Areal av område begrenset av sirkler R2-\--1-\-]]</li></ul> |
 
 { .block-language-dataview}
