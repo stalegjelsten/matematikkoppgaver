@@ -6,8 +6,8 @@
 # derivasjon
 | file.link                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------- |
-| [[Deriver x ln(x)\|Deriver x ln(x)]]                                                                                         |
 | [[Deriver logaritmefunksjon\|Deriver logaritmefunksjon]]                                                                     |
+| [[Deriver x ln(x)\|Deriver x ln(x)]]                                                                                         |
 | [[Gjennomsnittstemperatur på Svalbard og den deriverte\|Gjennomsnittstemperatur på Svalbard og den deriverte]]               |
 | [[Grensekostnader fra graf v23\|Grensekostnader fra graf v23]]                                                               |
 | [[Grenseverdi når x går mot 2\|Grenseverdi når x går mot 2]]                                                                 |

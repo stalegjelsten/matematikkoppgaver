@@ -13,6 +13,8 @@
 - [[Fagsider/R1\|R1]]
 - [[Fagsider/R2\|R2]]
 
+>[!warning] Mange lenker fungerer ikke akkurat nå
+> 01.01.2024: Etter en oppdatering av et av programmene jeg bruker til å publisere disse sidene, så har mange av lenkene i tabeller sluttet å fungere. Jeg har fått fikset lenkene i tabellene under oppgavene, men lenkene på denne siden og på fagsidene fungerer ikke som de skal.
 ## Om dette nettstedet
 Dette nettstedet inneholder en samling av eksamensoppgaver i matematikk i norsk videregående skole. Formålet med denne samlingen er at du skal kunne navigere mellom lignende oppgaver på en enkel måte, for eksempel skal det være relativt enkelt å finne trigonometrioppgaver til del 2 i faget 1T eller økonomioppgaver i S2.
 
