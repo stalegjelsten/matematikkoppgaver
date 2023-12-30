@@ -15,18 +15,5 @@ Bestem $a$ og $b$ slik at likningen blir en identitet.
 >[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 1-3\|Løsningsforslag 1T eksamen V2023#Oppgave 1-3]]
 
 ## Relatert
-<p><span>Oppgaven er hentet fra eksamen 1T V23 del 1 oppgave 3</span></p>
 
-### Lignende oppgaver i samme fag
-| Tema          | Oppgave                                                                                                                             |
-| ------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| faktorisering | <ul><li>[[Andregradsuttrykk skjæringspunkter med x-aksen.md\\|Andregradsuttrykk skjæringspunkter med x-aksen 1T-V23-1-2]]</li></ul> |
-| likninger     | <ul><li>[[Andregradsuttrykk skjæringspunkter med x-aksen.md\\|Andregradsuttrykk skjæringspunkter med x-aksen 1T-V23-1-2]]</li></ul> |
-
-{ .block-language-dataview}
-
-### Lignende oppgaver i andre fag
-| Tema | Oppgave |
-| ---- | ------- |
-
-{ .block-language-dataview}
+<p><span>Oppgaven er hentet fra eksamen 1T V23 del 1 oppgave 3</span></p><h3><span>Tilfeldige oppgaver i samme fag</span></h3><div><ul class="dataview list-view-ul"><li><span><a data-tooltip-position="top" aria-label="Leiligheter i bygård.md" data-href="Leiligheter i bygård.md" href="Leiligheter i bygård.md" class="internal-link" target="_blank" rel="noopener">Leiligheter i bygård (h22-2-2)</a></span></li><li><span><a data-tooltip-position="top" aria-label="Skisser grafen ut fra den deriverte v2023.md" data-href="Skisser grafen ut fra den deriverte v2023.md" href="Skisser grafen ut fra den deriverte v2023.md" class="internal-link" target="_blank" rel="noopener">Skisser grafen ut fra den deriverte v23 (v23-1-5)</a></span></li><li><span><a data-tooltip-position="top" aria-label="Tredjegradsfunksjoner uten førstegradsledd.md" data-href="Tredjegradsfunksjoner uten førstegradsledd.md" href="Tredjegradsfunksjoner uten førstegradsledd.md" class="internal-link" target="_blank" rel="noopener">Tredjegradsfunksjoner uten førstegradsledd (v23-2-6)</a></span></li></ul></div><h3><span>Lignende oppgaver</span></h3><h4><span>Likninger</span></h4><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Oppgave</span><span class="dataview small-text">1</span></th><th class="table-view-th"><span>Fag</span></th><th class="table-view-th"><span>År</span></th><th class="table-view-th"><span>Oppg</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Andregradsuttrykk skjæringspunkter med x-aksen.md" data-href="Andregradsuttrykk skjæringspunkter med x-aksen.md" href="Andregradsuttrykk skjæringspunkter med x-aksen.md" class="internal-link" target="_blank" rel="noopener">Andregradsuttrykk skjæringspunkter med x-aksen</a></span></td><td><span>1t</span></td><td><span>v23</span></td><td><span>1-2</span></td></tr></tbody></table></div><h4><span>Faktorisering</span></h4><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Oppgave</span><span class="dataview small-text">1</span></th><th class="table-view-th"><span>Fag</span></th><th class="table-view-th"><span>År</span></th><th class="table-view-th"><span>Oppg</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Andregradsuttrykk skjæringspunkter med x-aksen.md" data-href="Andregradsuttrykk skjæringspunkter med x-aksen.md" href="Andregradsuttrykk skjæringspunkter med x-aksen.md" class="internal-link" target="_blank" rel="noopener">Andregradsuttrykk skjæringspunkter med x-aksen</a></span></td><td><span>1t</span></td><td><span>v23</span></td><td><span>1-2</span></td></tr></tbody></table></div>

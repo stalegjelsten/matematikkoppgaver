@@ -6,9 +6,9 @@
 # binomisk
 | file.link                                                           |
 | ------------------------------------------------------------------- |
-| [[Lykkehjulet\|Lykkehjulet]]                                     |
-| [[Hypotesetest om russetid\|Hypotesetest om russetid]]           |
-| [[Hypotesetest med smak av cola\|Hypotesetest med smak av cola]] |
 | [[Billetter til fotballkamp\|Billetter til fotballkamp]]         |
+| [[Hypotesetest med smak av cola\|Hypotesetest med smak av cola]] |
+| [[Hypotesetest om russetid\|Hypotesetest om russetid]]           |
+| [[Lykkehjulet\|Lykkehjulet]]                                     |
 
 { .block-language-dataview}

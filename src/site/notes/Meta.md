@@ -4,12 +4,12 @@
 
 
 # Meta
-- [[Unpublished notes\|Unpublished notes]]
 - [[Temaer/_Alle temaer\|_Alle temaer]]
-- [[Todo\|Todo]]
-- [[Roadmap\|Roadmap]]
-- [[Ressurser\|Ressurser]]
-- [[Meta\|Meta]]
 - [[Alle oppgaver\|Alle oppgaver]]
+- [[Meta\|Meta]]
+- [[Ressurser\|Ressurser]]
+- [[Roadmap\|Roadmap]]
+- [[Todo\|Todo]]
+- [[Unpublished notes\|Unpublished notes]]
 
 { .block-language-dataview}

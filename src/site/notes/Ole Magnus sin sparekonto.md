@@ -27,18 +27,5 @@ c) Bruk CAS til å bestemme hvor stort det første beløpet måtte være.
 > [[Løsningsforslag/Løsningsforslag S2 eksamen V2016#Oppgave 2-4\|Løsningsforslag S2 eksamen V2016#Oppgave 2-4]]
 
 ## Relatert
-<p><span>Oppgaven er hentet fra eksamen S2 V16 del 2 oppgave 4</span></p>
 
-### Lignende oppgaver i samme fag
-| Tema | Oppgave |
-| ---- | ------- |
-
-{ .block-language-dataview}
-
-### Lignende oppgaver i andre fag
-| Tema | Oppgave |
-| ---- | ------- |
-
-{ .block-language-dataview}
-
-
+<p><span>Oppgaven er hentet fra eksamen S2 V16 del 2 oppgave 4</span></p><h3><span>Tilfeldige oppgaver i samme fag</span></h3><div><ul class="dataview list-view-ul"><li><span><a data-tooltip-position="top" aria-label="Forventningsverdi og varians fra sannsynlighetsfordeling.md" data-href="Forventningsverdi og varians fra sannsynlighetsfordeling.md" href="Forventningsverdi og varians fra sannsynlighetsfordeling.md" class="internal-link" target="_blank" rel="noopener">Forventningsverdi og varians fra diskret sannsynlighetsfordeling (e22-1-4)</a></span></li><li><span><a data-tooltip-position="top" aria-label="Uendelig rekke med virkestoff fra legemiddel.md" data-href="Uendelig rekke med virkestoff fra legemiddel.md" href="Uendelig rekke med virkestoff fra legemiddel.md" class="internal-link" target="_blank" rel="noopener">Uendelig rekke med virkestoff fra legemiddel (v23-1-4)</a></span></li><li><span><a data-tooltip-position="top" aria-label="Levetiden til normalfordelte batterier.md" data-href="Levetiden til normalfordelte batterier.md" href="Levetiden til normalfordelte batterier.md" class="internal-link" target="_blank" rel="noopener">Levetiden til normalfordelte batterier (v23-1-6)</a></span></li></ul></div><h3><span>Lignende oppgaver</span></h3>

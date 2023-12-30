@@ -26,18 +26,5 @@ er en rimelig bra modell for gjennomsnittstemperaturen $T(x)^{\circ} \mathrm{C}$
 >[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-1\|Løsningsforslag 1T eksamen V2023#Oppgave 2-1]]
 
 ## Relatert
-<p><span>Oppgaven er gitt ved flere eksamener: 1T, 1P.</span></p><p><span>Oppgaven er hentet fra eksamen 1T V23 del 2 oppgave 1</span></p>
 
-### Lignende oppgaver i samme fag
-| Tema     | Oppgave                                                                                                                     |
-| -------- | --------------------------------------------------------------------------------------------------------------------------- |
-| geogebra | <ul><li>[[Tredjegradsfunksjoner uten førstegradsledd.md\\|Tredjegradsfunksjoner uten førstegradsledd 1T-V23-2-6]]</li></ul> |
-
-{ .block-language-dataview}
-
-### Lignende oppgaver i andre fag
-| Tema     | Oppgave                                                                                                                     |
-| -------- | --------------------------------------------------------------------------------------------------------------------------- |
-| geogebra | <ul><li>[[Tredjegradsfunksjoner uten førstegradsledd.md\\|Tredjegradsfunksjoner uten førstegradsledd 1T-V23-2-6]]</li></ul> |
-
-{ .block-language-dataview}
+<p><span>Oppgaven er gitt ved flere eksamener: 1T, 1P.</span></p><p><span>Oppgaven er hentet fra eksamen 1T V23 del 2 oppgave 1</span></p><h3><span>Lignende oppgaver</span></h3><h4><span>Geogebra</span></h4><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Oppgave</span><span class="dataview small-text">1</span></th><th class="table-view-th"><span>Fag</span></th><th class="table-view-th"><span>År</span></th><th class="table-view-th"><span>Oppg</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Tredjegradsfunksjoner uten førstegradsledd.md" data-href="Tredjegradsfunksjoner uten førstegradsledd.md" href="Tredjegradsfunksjoner uten førstegradsledd.md" class="internal-link" target="_blank" rel="noopener">Tredjegradsfunksjoner uten førstegradsledd</a></span></td><td><span>1t</span></td><td><span>v23</span></td><td><span>2-6</span></td></tr></tbody></table></div>

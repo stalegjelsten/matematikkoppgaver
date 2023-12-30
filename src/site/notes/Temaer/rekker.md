@@ -6,14 +6,15 @@
 # rekker
 | file.link                                                                                         |
 | ------------------------------------------------------------------------------------------------- |
-| [[Ukjent program del 1 S2\|Ukjent program del 1 S2]]                                           |
-| [[Uendelig rekke med virkestoff fra legemiddel\|Uendelig rekke med virkestoff fra legemiddel]] |
-| [[Idas jakke\|Idas jakke]]                                                                     |
-| [[Hildegunns ukepenger\|Hildegunns ukepenger]]                                                 |
-| [[Begrunn at uendelig rekke konvergerer\|Begrunn at uendelig rekke konvergerer]]               |
-| [[Aritmetisk mur\|Aritmetisk mur]]                                                             |
 | [[Annuitetslån\|Annuitetslån]]                                                                 |
-| [[Testfile\|Testfile]]                                                                         |
+| [[Aritmetisk mur\|Aritmetisk mur]]                                                             |
+| [[Begrunn at uendelig rekke konvergerer\|Begrunn at uendelig rekke konvergerer]]               |
+| [[Hildegunns ukepenger\|Hildegunns ukepenger]]                                                 |
+| [[Idas jakke\|Idas jakke]]                                                                     |
 | [[Summen av repeterende brøker\|Summen av repeterende brøker]]                                 |
+| [[Testfile 1\|Testfile 1]]                                                                     |
+| [[Testfile\|Testfile]]                                                                         |
+| [[Uendelig rekke med virkestoff fra legemiddel\|Uendelig rekke med virkestoff fra legemiddel]] |
+| [[Ukjent program del 1 S2\|Ukjent program del 1 S2]]                                           |
 
 { .block-language-dataview}
