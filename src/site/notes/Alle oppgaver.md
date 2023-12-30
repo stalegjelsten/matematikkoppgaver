@@ -26,6 +26,7 @@
 | [[Simuler sannsynlighet for høyde over 175 cm\|Simuler sannsynlighet for høyde over 175 cm]]                                                       | s2                                         | 2023-06-06 |
 | [[Ukjent programkode\|Ukjent programkode]]                                                                                                         | s2                                         | 2023-06-06 |
 | [[Areal under graf med programmering\|Areal under graf med programmering]]                                                                         | 1t                                         | 2023-06-01 |
+| [[Normalfordelt intelligens\|Normalfordelt intelligens]]                                                                                           | s2                                         | 2023-05-31 |
 | [[Andregradsuttrykk skjæringspunkter med x-aksen\|Andregradsuttrykk skjæringspunkter med x-aksen]]                                                 | 1t                                         | 2023-05-31 |
 | [[Areal av firkant ved hjelp av trigonometri\|Areal av firkant ved hjelp av trigonometri]]                                                         | 1t                                         | 2023-05-31 |
 | [[Begrunn at uendelig rekke konvergerer\|Begrunn at uendelig rekke konvergerer]]                                                                   | s2                                         | 2023-05-31 |
@@ -41,11 +42,11 @@
 | [[Lykkehjulet\|Lykkehjulet]]                                                                                                                       | s2                                         | 2023-05-31 |
 | [[Normalfordelte hjortebukker\|Normalfordelte hjortebukker]]                                                                                       | s2                                         | 2023-05-31 |
 | [[Vis at sin u delt på cos u er tan u\|Vis at sin u delt på cos u er tan u]]                                                                       | 1t                                         | 2023-05-31 |
-| [[Normalfordelt intelligens\|Normalfordelt intelligens]]                                                                                           | s2                                         | 2023-05-31 |
 | [[Aritmetisk mur\|Aritmetisk mur]]                                                                                                                 | s2                                         | 2023-05-30 |
 | [[Bestemt integral\|Bestemt integral]]                                                                                                             | s2                                         | 2023-05-30 |
 | [[Forventningsverdi og varians fra sannsynlighetsfordeling\|Forventningsverdi og varians fra sannsynlighetsfordeling]]                             | s2                                         | 2023-05-30 |
 | [[Ubestemt integral\|Ubestemt integral]]                                                                                                           | s2                                         | 2023-05-30 |
+| [[Logaritmepåstand\|Logaritmepåstand]]                                                                                                             | s1                                         | 2023-05-29 |
 | [[Algebra potensregning\|Algebra potensregning]]                                                                                                   | s1                                         | 2023-05-29 |
 | [[Annuitetslån\|Annuitetslån]]                                                                                                                     | s2                                         | 2023-05-29 |
 | [[Billetter til fotballkamp\|Billetter til fotballkamp]]                                                                                           | s1                                         | 2023-05-29 |
@@ -59,7 +60,6 @@
 | [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]]                                                                                                 | s1                                         | 2023-05-29 |
 | [[Ukjent program del 1 S2\|Ukjent program del 1 S2]]                                                                                               | s2                                         | 2023-05-29 |
 | [[Ukjent program med kostnader for produksjon\|Ukjent program med kostnader for produksjon]]                                                       | s1                                         | 2023-05-29 |
-| [[Logaritmepåstand\|Logaritmepåstand]]                                                                                                             | s1                                         | 2023-05-29 |
 | [[Areal av trekant i sirkel\|Areal av trekant i sirkel]]                                                                                           | 1t                                         | 2023-05-27 |
 | [[Bredden av teltplassen\|Bredden av teltplassen]]                                                                                                 | <ul><li>1t</li><li>1p</li></ul>            | 2023-05-27 |
 | [[Faktorisering av tredjegradsuttrykk v2023\|Faktorisering av tredjegradsuttrykk v2023]]                                                           | 1t                                         | 2023-05-27 |

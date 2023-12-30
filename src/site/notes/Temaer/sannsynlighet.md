@@ -6,6 +6,7 @@
 # sannsynlighet
 | file.link                                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Normalfordelt intelligens\|Normalfordelt intelligens]]                                                                                           |
 | [[Billetter til fotballkamp\|Billetter til fotballkamp]]                                                                                           |
 | [[Forventingsverdi og varians fra sannsynlighetsfordeling 2\|Forventingsverdi og varians fra sannsynlighetsfordeling 2]]                           |
 | [[Forventningsverdi og varians fra sannsynlighetsfordeling\|Forventningsverdi og varians fra sannsynlighetsfordeling]]                             |
@@ -17,6 +18,5 @@
 | [[Sannsynligheter ved lottospill\|Sannsynligheter ved lottospill]]                                                                                 |
 | [[Simuler sannsynlighet for høyde over 175 cm\|Simuler sannsynlighet for høyde over 175 cm]]                                                       |
 | [[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole]] |
-| [[Normalfordelt intelligens\|Normalfordelt intelligens]]                                                                                           |
 
 { .block-language-dataview}

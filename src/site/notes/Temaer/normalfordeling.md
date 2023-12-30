@@ -6,6 +6,7 @@
 # normalfordeling
 | file.link                                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Normalfordelt intelligens\|Normalfordelt intelligens]]                                                                                           |
 | [[Forventningsverdi og varians fra graf av normalfordeling\|Forventningsverdi og varians fra graf av normalfordeling]]                             |
 | [[Hypotesetest om russetid\|Hypotesetest om russetid]]                                                                                             |
 | [[Levetiden til normalfordelte batterier\|Levetiden til normalfordelte batterier]]                                                                 |
@@ -13,6 +14,5 @@
 | [[Normalfordelte hjortebukker\|Normalfordelte hjortebukker]]                                                                                       |
 | [[Simuler sannsynlighet for høyde over 175 cm\|Simuler sannsynlighet for høyde over 175 cm]]                                                       |
 | [[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole]] |
-| [[Normalfordelt intelligens\|Normalfordelt intelligens]]                                                                                           |
 
 { .block-language-dataview}
