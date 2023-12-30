@@ -6,9 +6,9 @@
 # standard normalfordeling
 | file.link                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------- |
+| [[Normalfordelt intelligens\|Normalfordelt intelligens]]                                                               |
 | [[Forventningsverdi og varians fra graf av normalfordeling\|Forventningsverdi og varians fra graf av normalfordeling]] |
 | [[Levetiden til normalfordelte batterier\|Levetiden til normalfordelte batterier]]                                     |
 | [[Normalfordelte hjortebukker\|Normalfordelte hjortebukker]]                                                           |
-| [[Normalfordelt intelligens\|Normalfordelt intelligens]]                                                               |
 
 { .block-language-dataview}
