@@ -6,9 +6,9 @@
 # excel
 | file.link                                                   |
 | ----------------------------------------------------------- |
-| [[Hildegunns ukepenger\|Hildegunns ukepenger]]           |
-| [[Bredden av teltplassen\|Bredden av teltplassen]]       |
-| [[Billetter til fotballkamp\|Billetter til fotballkamp]] |
 | [[Annuitetslån\|Annuitetslån]]                           |
+| [[Billetter til fotballkamp\|Billetter til fotballkamp]] |
+| [[Bredden av teltplassen\|Bredden av teltplassen]]       |
+| [[Hildegunns ukepenger\|Hildegunns ukepenger]]           |
 
 { .block-language-dataview}
