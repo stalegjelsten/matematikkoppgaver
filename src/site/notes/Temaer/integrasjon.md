@@ -6,10 +6,10 @@
 # integrasjon
 | file.link                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------- |
-| [[Ubestemt integral\|Ubestemt integral]]                                                                                     |
-| [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] |
-| [[Rart integral\|Rart integral]]                                                                                             |
-| [[Bestemt integral\|Bestemt integral]]                                                                                       |
 | [[Bestemt integral 2\|Bestemt integral 2]]                                                                                   |
+| [[Bestemt integral\|Bestemt integral]]                                                                                       |
+| [[Rart integral\|Rart integral]]                                                                                             |
+| [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] |
+| [[Ubestemt integral\|Ubestemt integral]]                                                                                     |
 
 { .block-language-dataview}
