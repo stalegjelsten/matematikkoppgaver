@@ -13,7 +13,6 @@
 | [[Deriver x ln(x)\|Deriver x ln(x)]]                                                                                                               | <ul><li>r1</li></ul>                       | 2023-11-15 |
 | [[Sorter tallene i riktig rekkefølge\|Sorter tallene i riktig rekkefølge]]                                                                         | <ul><li>r1</li></ul>                       | 2023-11-15 |
 | [[Testfile 1\|Testfile 1]]                                                                                                                         | <ul><li>1t</li><li>r2</li></ul>            | 2023-11-15 |
-| [[Testfile\|Testfile]]                                                                                                                             | <ul><li>1t</li></ul>                       | 2023-11-15 |
 | [[Tolk og fiks program som finner bunnpunkt\|Tolk og fiks program som finner bunnpunkt]]                                                           | <ul><li>r1</li></ul>                       | 2023-11-15 |
 | [[Vektorer til å bestemme sidekanter og vinkler i trekant\|Vektorer til å bestemme sidekanter og vinkler i trekant]]                               | <ul><li>r1</li></ul>                       | 2023-11-15 |
 | [[Ole Magnus sin sparekonto\|Ole Magnus sin sparekonto]]                                                                                           | <ul><li>s2</li></ul>                       | 2023-09-19 |
