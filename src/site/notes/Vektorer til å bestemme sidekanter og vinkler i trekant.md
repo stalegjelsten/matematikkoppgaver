@@ -15,15 +15,4 @@ I trekanten $ABC$ er $A(3, 1)$, $B(2, -2)$ og $C(5, 2)$.
 >
 
 ## Relatert
-
-<pre class="dataview dataview-error">Evaluation Error: TypeError: Cannot read properties of null (reading 'contains')
-    at eval (eval at &lt;anonymous&gt; (plugin:dataview), &lt;anonymous&gt;:35:47)
-    at Array.filter (&lt;anonymous&gt;)
-    at Proxy.where (plugin:dataview:8189:39)
-    at eval (eval at &lt;anonymous&gt; (plugin:dataview), &lt;anonymous&gt;:35:28)
-    at DataviewInlineApi.eval (plugin:dataview:18638:16)
-    at evalInContext (plugin:dataview:18639:7)
-    at asyncEvalInContext (plugin:dataview:18649:32)
-    at DataviewJSRenderer.render (plugin:dataview:18670:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18260:14)
-    at e.load (app://obsidian.md/app.js:1:1147632)</pre>
+<p><span>Oppgaven er hentet fra eksamen R1 H23 del 1 oppgave 3.</span></p><h3><span>Tilfeldige oppgaver i samme fag</span></h3><p><span>Det er ofte best å blande hvilke type oppgaver man gjør dersom du skal forberede deg til en prøve eller eksamen. Her er tre tilfeldige oppgaver i R1.</span></p><div><ul class="dataview list-view-ul"><li><span><a data-tooltip-position="top" aria-label="Tolk og fiks program som finner bunnpunkt.md" data-href="Tolk og fiks program som finner bunnpunkt.md" href="Tolk og fiks program som finner bunnpunkt.md" class="internal-link" target="_blank" rel="noopener">Tolk og fiks program som finner bunnpunkt R1 H23 Del 1 oppg 4</a></span></li><li><span><a data-tooltip-position="top" aria-label="Vektorer til å bestemme sidekanter og vinkler i trekant.md" data-href="Vektorer til å bestemme sidekanter og vinkler i trekant.md" href="Vektorer til å bestemme sidekanter og vinkler i trekant.md" class="internal-link" target="_blank" rel="noopener">Vektorer til å bestemme sidekanter og vinkler i trekant R1 H23 Del 1 oppg 3</a></span></li><li><span><a data-tooltip-position="top" aria-label="Areal av sirkel og kvadrat som skjærer hverandre.md" data-href="Areal av sirkel og kvadrat som skjærer hverandre.md" href="Areal av sirkel og kvadrat som skjærer hverandre.md" class="internal-link" target="_blank" rel="noopener">Areal av sirkel og kvadrat som skjærer hverandre 1T R1 R2 Del 1 oppg null</a></span></li></ul></div><h3><span>Lignende oppgaver sortert etter tema</span></h3>
