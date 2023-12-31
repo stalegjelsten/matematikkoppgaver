@@ -16,7 +16,7 @@
 
 ## Nettstedutvikling
 - [ ] Fikse tilfeldige oppgaver slik at du ikke får opp nåværende oppgave som forslag til ny oppgave
-- [ ] Sorter oppgaver på del og oppgavenummer under fagsider som [[Fagsider/1T\|1T]]
+- [x] Sorter oppgaver på del og oppgavenummer under fagsider som [[Fagsider/1T\|1T]]
 - [x] Fiks [[Alle oppgaver\|Alle oppgaver]]
 - [x] Fikse alle lenker i tabeller til andre oppgaver
 - [x] Hindre at samme oppgave vises flere ganger under samme tema under `## Relatert` på bunnen av hver oppgave
