@@ -7,9 +7,9 @@
 - [[Temaer/_Alle temaer\|_Alle temaer]]
 - [[Unpublished notes\|Unpublished notes]]
 - [[Todo\|Todo]]
-- [[Roadmap\|Roadmap]]
 - [[Ressurser\|Ressurser]]
 - [[Meta\|Meta]]
 - [[Alle oppgaver\|Alle oppgaver]]
+- [[Roadmap\|Roadmap]]
 
 { .block-language-dataview}
