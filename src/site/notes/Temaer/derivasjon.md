@@ -13,7 +13,6 @@
 | [[Grenseverdi når x går mot 2\|Grenseverdi når x går mot 2]]                                                                 |
 | [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] |
 | [[Skisser grafen ut fra den deriverte v2023\|Skisser grafen ut fra den deriverte v2023]]                                     |
-| [[Testfile 1\|Testfile 1]]                                                                                                   |
 | [[Tolk og fiks program som finner bunnpunkt\|Tolk og fiks program som finner bunnpunkt]]                                     |
 
 { .block-language-dataview}
