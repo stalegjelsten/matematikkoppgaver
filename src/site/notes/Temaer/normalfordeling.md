@@ -6,13 +6,13 @@
 # normalfordeling
 | file.link                                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Normalfordelt intelligens\|Normalfordelt intelligens]]                                                                                           |
-| [[Forventningsverdi og varians fra graf av normalfordeling\|Forventningsverdi og varians fra graf av normalfordeling]]                             |
-| [[Hypotesetest om russetid\|Hypotesetest om russetid]]                                                                                             |
-| [[Levetiden til normalfordelte batterier\|Levetiden til normalfordelte batterier]]                                                                 |
-| [[Lykkehjulet\|Lykkehjulet]]                                                                                                                       |
-| [[Normalfordelte hjortebukker\|Normalfordelte hjortebukker]]                                                                                       |
-| [[Simuler sannsynlighet for høyde over 175 cm\|Simuler sannsynlighet for høyde over 175 cm]]                                                       |
 | [[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole]] |
+| [[Simuler sannsynlighet for høyde over 175 cm\|Simuler sannsynlighet for høyde over 175 cm]]                                                       |
+| [[Normalfordelte hjortebukker\|Normalfordelte hjortebukker]]                                                                                       |
+| [[Lykkehjulet\|Lykkehjulet]]                                                                                                                       |
+| [[Normalfordelt intelligens\|Normalfordelt intelligens]]                                                                                           |
+| [[Levetiden til normalfordelte batterier\|Levetiden til normalfordelte batterier]]                                                                 |
+| [[Hypotesetest om russetid\|Hypotesetest om russetid]]                                                                                             |
+| [[Forventningsverdi og varians fra graf av normalfordeling\|Forventningsverdi og varians fra graf av normalfordeling]]                             |
 
 { .block-language-dataview}
