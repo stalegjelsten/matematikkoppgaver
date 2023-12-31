@@ -1,5 +1,5 @@
 ---
-{"temaer":null,"oppgave":null,"tags":[null,"gardenEntry"],"dg-home":true,"alias":[null],"del":null,"fag":null,"eksamen":null,"dg-publish":true,"title":"Hjem","date":"2023-05-27","modified":"2023-05-30","permalink":"/hjem/","dgPassFrontmatter":true}
+{"temaer":null,"oppgave":null,"tags":[null,"gardenEntry","gardenEntry"],"dg-home":true,"alias":[null],"del":null,"fag":null,"eksamen":null,"dg-publish":true,"title":"Hjem","date":"2023-05-27","modified":"2023-05-30","permalink":"/hjem/","dgPassFrontmatter":true}
 ---
 
 

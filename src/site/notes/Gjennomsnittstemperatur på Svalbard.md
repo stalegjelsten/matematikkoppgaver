@@ -26,15 +26,4 @@ er en rimelig bra modell for gjennomsnittstemperaturen $T(x)^{\circ} \mathrm{C}$
 >[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-1\|Løsningsforslag 1T eksamen V2023#Oppgave 2-1]]
 
 ## Relatert
-
-<pre class="dataview dataview-error">Evaluation Error: TypeError: Cannot read properties of null (reading 'contains')
-    at eval (eval at &lt;anonymous&gt; (plugin:dataview), &lt;anonymous&gt;:35:47)
-    at Array.filter (&lt;anonymous&gt;)
-    at Proxy.where (plugin:dataview:8189:39)
-    at eval (eval at &lt;anonymous&gt; (plugin:dataview), &lt;anonymous&gt;:35:28)
-    at DataviewInlineApi.eval (plugin:dataview:18638:16)
-    at evalInContext (plugin:dataview:18639:7)
-    at asyncEvalInContext (plugin:dataview:18649:32)
-    at DataviewJSRenderer.render (plugin:dataview:18670:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18260:14)
-    at e.load (app://obsidian.md/app.js:1:1147632)</pre>
+<p><span>Oppgaven er gitt ved flere eksamener: 1T, 1P.</span></p><p><span>Oppgaven er hentet fra eksamen 1T V23 del 2 oppgave 1.</span></p><h3><span>Tilfeldige oppgaver i samme fag</span></h3><p><span>Det er ofte best å blande hvilke type oppgaver man gjør dersom du skal forberede deg til en prøve eller eksamen. Her er tre tilfeldige oppgaver i 1T, 1P.</span></p><div><ul class="dataview list-view-ul"><li><span><a data-tooltip-position="top" aria-label="Areal under graf med programmering.md" data-href="Areal under graf med programmering.md" href="Areal under graf med programmering.md" class="internal-link" target="_blank" rel="noopener">Areal under graf med programmering 1T V23 Del 2 oppg 4</a></span></li><li><span><a data-tooltip-position="top" aria-label="Gjennomsnittstemperatur på Svalbard.md" data-href="Gjennomsnittstemperatur på Svalbard.md" href="Gjennomsnittstemperatur på Svalbard.md" class="internal-link" target="_blank" rel="noopener">Gjennomsnittstemperatur på Svalbard 1T 1P V23 Del 2 oppg 1</a></span></li><li><span><a data-tooltip-position="top" aria-label="Gjennomsnittstemperatur på Svalbard.md" data-href="Gjennomsnittstemperatur på Svalbard.md" href="Gjennomsnittstemperatur på Svalbard.md" class="internal-link" target="_blank" rel="noopener">Gjennomsnittstemperatur på Svalbard 1T 1P V23 Del 2 oppg 1</a></span></li></ul></div><h3><span>Lignende oppgaver sortert etter tema</span></h3><h4><span>Geogebra</span></h4><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Oppgave</span><span class="dataview small-text">1</span></th><th class="table-view-th"><span>Fag</span></th><th class="table-view-th"><span>År</span></th><th class="table-view-th"><span>Oppg</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Tredjegradsfunksjoner uten førstegradsledd.md" data-href="Tredjegradsfunksjoner uten førstegradsledd.md" href="Tredjegradsfunksjoner uten førstegradsledd.md" class="internal-link" target="_blank" rel="noopener">Tredjegradsfunksjoner uten førstegradsledd</a></span></td><td><span>1T</span></td><td><span>V23</span></td><td><span>2-6</span></td></tr></tbody></table></div>
