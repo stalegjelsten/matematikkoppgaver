@@ -13,7 +13,6 @@
 | [[Idas jakke\|Idas jakke]]                                                                     |
 | [[Summen av repeterende brøker\|Summen av repeterende brøker]]                                 |
 | [[Testfile 1\|Testfile 1]]                                                                     |
-| [[Testfile\|Testfile]]                                                                         |
 | [[Uendelig rekke med virkestoff fra legemiddel\|Uendelig rekke med virkestoff fra legemiddel]] |
 | [[Ukjent program del 1 S2\|Ukjent program del 1 S2]]                                           |
 
