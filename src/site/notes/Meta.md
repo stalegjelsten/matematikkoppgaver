@@ -5,11 +5,11 @@
 
 # Meta
 - [[Temaer/_Alle temaer\|_Alle temaer]]
-- [[Alle oppgaver\|Alle oppgaver]]
 - [[Meta\|Meta]]
 - [[Ressurser\|Ressurser]]
-- [[Roadmap\|Roadmap]]
 - [[Todo\|Todo]]
 - [[Unpublished notes\|Unpublished notes]]
+- [[Alle oppgaver\|Alle oppgaver]]
+- [[Roadmap\|Roadmap]]
 
 { .block-language-dataview}
