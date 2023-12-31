@@ -7,9 +7,9 @@
 | file.link                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------- |
 | [[Argumenter for hvorfor sette grensekostnad lik grenseinntekt\|Argumenter for hvorfor sette grensekostnad lik grenseinntekt]] |
-| [[Enhetskostnader fra graf\|Enhetskostnader fra graf]]                                                                         |
 | [[Grensekostnader fra graf v23\|Grensekostnader fra graf v23]]                                                                 |
 | [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]]                                                                             |
 | [[Ukjent program med kostnader for produksjon\|Ukjent program med kostnader for produksjon]]                                   |
+| [[Enhetskostnader fra graf\|Enhetskostnader fra graf]]                                                                         |
 
 { .block-language-dataview}
