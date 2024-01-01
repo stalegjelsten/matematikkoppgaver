@@ -10,9 +10,9 @@
 | [[Ukjent program med kostnader for produksjon\|Ukjent program med kostnader for produksjon]]                                                       |
 | [[Tolk og fiks program som finner bunnpunkt\|Tolk og fiks program som finner bunnpunkt]]                                                           |
 | [[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole]] |
-| [[Simuler sannsynlighet for høyde over 175 cm\|Simuler sannsynlighet for høyde over 175 cm]]                                                       |
 | [[Billetter til fotballkamp\|Billetter til fotballkamp]]                                                                                           |
 | [[Areal under graf med programmering\|Areal under graf med programmering]]                                                                         |
 | [[Ukjent programkode\|Ukjent programkode]]                                                                                                         |
+| [[Simuler sannsynlighet for høyde over 175 cm\|Simuler sannsynlighet for høyde over 175 cm]]                                                       |
 
 { .block-language-dataview}

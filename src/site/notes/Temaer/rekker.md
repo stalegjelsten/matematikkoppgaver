@@ -8,11 +8,12 @@
 | ------------------------------------------------------------------------------------------------- |
 | [[Ukjent program del 1 S2\|Ukjent program del 1 S2]]                                           |
 | [[Uendelig rekke med virkestoff fra legemiddel\|Uendelig rekke med virkestoff fra legemiddel]] |
-| [[Summen av repeterende brøker\|Summen av repeterende brøker]]                                 |
 | [[Idas jakke\|Idas jakke]]                                                                     |
-| [[Hildegunns ukepenger\|Hildegunns ukepenger]]                                                 |
 | [[Begrunn at uendelig rekke konvergerer\|Begrunn at uendelig rekke konvergerer]]               |
 | [[Aritmetisk mur\|Aritmetisk mur]]                                                             |
 | [[Annuitetslån\|Annuitetslån]]                                                                 |
+| [[Summen av repeterende brøker\|Summen av repeterende brøker]]                                 |
+| [[Hildegunns ukepenger\|Hildegunns ukepenger]]                                                 |
+| [[Summen av ukjent uendelig geometrisk rekke\|Summen av ukjent uendelig geometrisk rekke]]     |
 
 { .block-language-dataview}
