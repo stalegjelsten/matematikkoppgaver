@@ -6,7 +6,7 @@
 # regresjon
 | file.link                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------- |
-| [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]]                                                                           |
 | [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] |
+| [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]]                                                                           |
 
 { .block-language-dataview}
