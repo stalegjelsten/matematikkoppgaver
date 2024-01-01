@@ -6,14 +6,14 @@
 # utforskning
 | file.link                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------- |
-| [[Tredjegradsfunksjoner uten førstegradsledd\|Tredjegradsfunksjoner uten førstegradsledd]]                     |
-| [[Rart integral\|Rart integral]]                                                                               |
-| [[Lag funksjonsuttrykk til grafen av rasjonal funksjon\|Lag funksjonsuttrykk til grafen av rasjonal funksjon]] |
-| [[Bredden av teltplassen\|Bredden av teltplassen]]                                                             |
-| [[Billetter til fotballkamp\|Billetter til fotballkamp]]                                                       |
-| [[Areal under graf med programmering\|Areal under graf med programmering]]                                     |
-| [[Ukjent programkode\|Ukjent programkode]]                                                                     |
-| [[Areal av sirkel og kvadrat som skjærer hverandre\|Areal av sirkel og kvadrat som skjærer hverandre]]         |
 | [[Areal av område begrenset av sirkler\|Areal av område begrenset av sirkler]]                                 |
+| [[Areal av sirkel og kvadrat som skjærer hverandre\|Areal av sirkel og kvadrat som skjærer hverandre]]         |
+| [[Areal under graf med programmering\|Areal under graf med programmering]]                                     |
+| [[Billetter til fotballkamp\|Billetter til fotballkamp]]                                                       |
+| [[Bredden av teltplassen\|Bredden av teltplassen]]                                                             |
+| [[Lag funksjonsuttrykk til grafen av rasjonal funksjon\|Lag funksjonsuttrykk til grafen av rasjonal funksjon]] |
+| [[Rart integral\|Rart integral]]                                                                               |
+| [[Tredjegradsfunksjoner uten førstegradsledd\|Tredjegradsfunksjoner uten førstegradsledd]]                     |
+| [[Ukjent programkode\|Ukjent programkode]]                                                                     |
 
 { .block-language-dataview}
