@@ -6,16 +6,17 @@
 # funksjoner
 | file.link                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------- |
-| [[Andregradsuttrykk skjæringspunkter med x-aksen\|Andregradsuttrykk skjæringspunkter med x-aksen]]                           |
-| [[Areal under graf med programmering\|Areal under graf med programmering]]                                                   |
-| [[Gjennomsnittstemperatur på Svalbard og den deriverte\|Gjennomsnittstemperatur på Svalbard og den deriverte]]               |
-| [[Grensekostnader fra graf v23\|Grensekostnader fra graf v23]]                                                               |
-| [[Grenseverdi når x går mot 2\|Grenseverdi når x går mot 2]]                                                                 |
-| [[Har alle fjerdegradsfunksjoner ekstremalpunkt\|Har alle fjerdegradsfunksjoner ekstremalpunkt]]                             |
-| [[Lag funksjonsuttrykk til grafen av rasjonal funksjon\|Lag funksjonsuttrykk til grafen av rasjonal funksjon]]               |
-| [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] |
-| [[Skisser grafen ut fra den deriverte v2023\|Skisser grafen ut fra den deriverte v2023]]                                     |
-| [[Tredjegradsfunksjoner uten førstegradsledd\|Tredjegradsfunksjoner uten førstegradsledd]]                                   |
 | [[Ukjent programkode\|Ukjent programkode]]                                                                                   |
+| [[Tredjegradsfunksjoner uten førstegradsledd\|Tredjegradsfunksjoner uten førstegradsledd]]                                   |
+| [[Skisser grafen ut fra den deriverte v2023\|Skisser grafen ut fra den deriverte v2023]]                                     |
+| [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] |
+| [[Lag funksjonsuttrykk til grafen av rasjonal funksjon\|Lag funksjonsuttrykk til grafen av rasjonal funksjon]]               |
+| [[Har alle fjerdegradsfunksjoner ekstremalpunkt\|Har alle fjerdegradsfunksjoner ekstremalpunkt]]                             |
+| [[Grenseverdi når x går mot 2\|Grenseverdi når x går mot 2]]                                                                 |
+| [[Grensekostnader fra graf v23\|Grensekostnader fra graf v23]]                                                               |
+| [[Gjennomsnittstemperatur på Svalbard og den deriverte\|Gjennomsnittstemperatur på Svalbard og den deriverte]]               |
+| [[Areal under graf med programmering\|Areal under graf med programmering]]                                                   |
+| [[Andregradsuttrykk skjæringspunkter med x-aksen\|Andregradsuttrykk skjæringspunkter med x-aksen]]                           |
+| [[Sjøtemperatur på Sørlandet\|Sjøtemperatur på Sørlandet]]                                                                   |
 
 { .block-language-dataview}
