@@ -6,15 +6,15 @@
 # programmering
 | file.link                                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Areal under graf med programmering\|Areal under graf med programmering]]                                                                         |
-| [[Billetter til fotballkamp\|Billetter til fotballkamp]]                                                                                           |
-| [[Monas lån\|Monas lån]]                                                                                                                           |
+| [[Ukjent programkode\|Ukjent programkode]]                                                                                                         |
+| [[Ukjent program med kostnader for produksjon\|Ukjent program med kostnader for produksjon]]                                                       |
+| [[Ukjent program del 1 S2\|Ukjent program del 1 S2]]                                                                                               |
+| [[Ukjent program Mønster v23\|Ukjent program Mønster v23]]                                                                                         |
+| [[Tolk og fiks program som finner bunnpunkt\|Tolk og fiks program som finner bunnpunkt]]                                                           |
 | [[Simuler sannsynlighet for høyde over 175 cm\|Simuler sannsynlighet for høyde over 175 cm]]                                                       |
 | [[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole]] |
-| [[Tolk og fiks program som finner bunnpunkt\|Tolk og fiks program som finner bunnpunkt]]                                                           |
-| [[Ukjent program Mønster v23\|Ukjent program Mønster v23]]                                                                                         |
-| [[Ukjent program del 1 S2\|Ukjent program del 1 S2]]                                                                                               |
-| [[Ukjent program med kostnader for produksjon\|Ukjent program med kostnader for produksjon]]                                                       |
-| [[Ukjent programkode\|Ukjent programkode]]                                                                                                         |
+| [[Monas lån\|Monas lån]]                                                                                                                           |
+| [[Billetter til fotballkamp\|Billetter til fotballkamp]]                                                                                           |
+| [[Areal under graf med programmering\|Areal under graf med programmering]]                                                                         |
 
 { .block-language-dataview}
