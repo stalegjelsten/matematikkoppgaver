@@ -4,6 +4,20 @@
 
 
 # Løsningsforslag S2 eksempelsett 2022
+## Oppgave 1-1
+### 1-1a
+$$
+\int_{0}^{1} 4x^2+3 \, \mathrm{d}x =\left[ \frac{4}{3}x^3+3x \right]_{0}^{1}=\frac{4}{3}+3\cdot1-0=\frac{4}{3}+\frac{9}{3}=\underline{\underline{\frac{13}{3} }}
+$$
+
+### 1-1b
+$$
+\begin{aligned}
+\int 4x\sqrt{ x^2+2 } \, \mathrm{d}x, \quad u=x^2+2 \implies \frac{du}{dx}=2x \iff du=2xdx\\
+\int 2\sqrt{ u } \, \mathrm{d}u =2\int u^{\frac{1}{2}} \, \mathrm{d}x =2\frac{2}{3}u^{\frac{3}{2}}+C=\frac{4}{3}(x^2+2)+C'
+\end{aligned}
+$$
+
 
 ## Oppgave 1-3
 
