@@ -6,11 +6,11 @@
 # økonomi
 | file.link                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------- |
-| [[Argumenter for hvorfor sette grensekostnad lik grenseinntekt\|Argumenter for hvorfor sette grensekostnad lik grenseinntekt]] |
+| [[Ukjent program med kostnader for produksjon\|Ukjent program med kostnader for produksjon]]                                   |
+| [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]]                                                                             |
+| [[Monas lån\|Monas lån]]                                                                                                       |
 | [[Enhetskostnader fra graf\|Enhetskostnader fra graf]]                                                                         |
 | [[Grensekostnader fra graf v23\|Grensekostnader fra graf v23]]                                                                 |
-| [[Monas lån\|Monas lån]]                                                                                                       |
-| [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]]                                                                             |
-| [[Ukjent program med kostnader for produksjon\|Ukjent program med kostnader for produksjon]]                                   |
+| [[Argumenter for hvorfor sette grensekostnad lik grenseinntekt\|Argumenter for hvorfor sette grensekostnad lik grenseinntekt]] |
 
 { .block-language-dataview}

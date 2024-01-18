@@ -7,5 +7,6 @@
 | file.link                                                                       |
 | ------------------------------------------------------------------------------- |
 | [[Gjennomsnittstemperatur på Svalbard\|Gjennomsnittstemperatur på Svalbard]] |
+| [[Sjøtemperatur på Sørlandet\|Sjøtemperatur på Sørlandet]]                   |
 
 { .block-language-dataview}
