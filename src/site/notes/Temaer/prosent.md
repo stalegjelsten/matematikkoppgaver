@@ -7,5 +7,6 @@
 | file.link                                             |
 | ----------------------------------------------------- |
 | [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]] |
+| [[Monas prisøkning\|Monas prisøkning]]             |
 
 { .block-language-dataview}
