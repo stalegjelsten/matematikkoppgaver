@@ -6,7 +6,7 @@
 # gjennomsnittlig vekstfart
 | file.link                                                                       |
 | ------------------------------------------------------------------------------- |
-| [[Gjennomsnittstemperatur på Svalbard\|Gjennomsnittstemperatur på Svalbard]] |
 | [[Sjøtemperatur på Sørlandet\|Sjøtemperatur på Sørlandet]]                   |
+| [[Gjennomsnittstemperatur på Svalbard\|Gjennomsnittstemperatur på Svalbard]] |
 
 { .block-language-dataview}

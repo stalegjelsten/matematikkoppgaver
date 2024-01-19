@@ -11,8 +11,8 @@
 | [[Ukjent program del 1 S2\|Ukjent program del 1 S2]]                                                                                               |
 | [[Ukjent program Mønster v23\|Ukjent program Mønster v23]]                                                                                         |
 | [[Tolk og fiks program som finner bunnpunkt\|Tolk og fiks program som finner bunnpunkt]]                                                           |
-| [[Simuler sannsynlighet for høyde over 175 cm\|Simuler sannsynlighet for høyde over 175 cm]]                                                       |
 | [[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole]] |
+| [[Simuler sannsynlighet for høyde over 175 cm\|Simuler sannsynlighet for høyde over 175 cm]]                                                       |
 | [[Monas lån\|Monas lån]]                                                                                                                           |
 | [[Billetter til fotballkamp\|Billetter til fotballkamp]]                                                                                           |
 | [[Areal under graf med programmering\|Areal under graf med programmering]]                                                                         |

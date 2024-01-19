@@ -12,7 +12,7 @@
 | [[Grenseverdi når x går mot 2\|Grenseverdi når x går mot 2]]                                                                 |
 | [[Grensekostnader fra graf v23\|Grensekostnader fra graf v23]]                                                               |
 | [[Gjennomsnittstemperatur på Svalbard og den deriverte\|Gjennomsnittstemperatur på Svalbard og den deriverte]]               |
-| [[Deriver x ln(x)\|Deriver x ln(x)]]                                                                                         |
 | [[Deriver logaritmefunksjon\|Deriver logaritmefunksjon]]                                                                     |
+| [[Deriver x ln(x)\|Deriver x ln(x)]]                                                                                         |
 
 { .block-language-dataview}
