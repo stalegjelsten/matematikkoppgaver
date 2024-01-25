@@ -6,7 +6,7 @@
 # arealsetningen
 | file.link                                                                                     |
 | --------------------------------------------------------------------------------------------- |
-| [[Areal av trekant i sirkel\|Areal av trekant i sirkel]]                                   |
 | [[Areal av firkant ved hjelp av trigonometri\|Areal av firkant ved hjelp av trigonometri]] |
+| [[Areal av trekant i sirkel\|Areal av trekant i sirkel]]                                   |
 
 { .block-language-dataview}
