@@ -53,9 +53,12 @@
 | [[Temaer/regresjon\|regresjon]]                                                             |
 | [[Temaer/rekker\|rekker]]                                                                   |
 | [[Temaer/sannsynlighet\|sannsynlighet]]                                                     |
+| [[sentralmål\|sentralmål]]                                                                     |
 | [[Temaer/simulering\|simulering]]                                                           |
 | [[sparing\|sparing]]                                                                           |
+| [[spredningsmål\|spredningsmål]]                                                               |
 | [[Temaer/standard normalfordeling\|standard normalfordeling]]                               |
+| [[statistikk\|statistikk]]                                                                     |
 | [[Temaer/tolkning av integraler\|tolkning av integraler]]                                   |
 | [[Temaer/trigonometri\|trigonometri]]                                                       |
 | [[Temaer/uendelig rekke\|uendelig rekke]]                                                   |
