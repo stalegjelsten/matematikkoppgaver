@@ -6,15 +6,15 @@
 # programmering
 | file.link                                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Ukjent programkode\|Ukjent programkode]]                                                                                                         |
-| [[Ukjent program med kostnader for produksjon\|Ukjent program med kostnader for produksjon]]                                                       |
 | [[Ukjent program del 1 S2\|Ukjent program del 1 S2]]                                                                                               |
-| [[Ukjent program Mønster v23\|Ukjent program Mønster v23]]                                                                                         |
-| [[Tolk og fiks program som finner bunnpunkt\|Tolk og fiks program som finner bunnpunkt]]                                                           |
-| [[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole]] |
 | [[Simuler sannsynlighet for høyde over 175 cm\|Simuler sannsynlighet for høyde over 175 cm]]                                                       |
-| [[Monas lån\|Monas lån]]                                                                                                                           |
+| [[Tolk og fiks program som finner bunnpunkt\|Tolk og fiks program som finner bunnpunkt]]                                                           |
+| [[Ukjent programkode\|Ukjent programkode]]                                                                                                         |
+| [[Ukjent program Mønster v23\|Ukjent program Mønster v23]]                                                                                         |
+| [[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole]] |
 | [[Billetter til fotballkamp\|Billetter til fotballkamp]]                                                                                           |
+| [[Ukjent program med kostnader for produksjon\|Ukjent program med kostnader for produksjon]]                                                       |
+| [[Monas lån\|Monas lån]]                                                                                                                           |
 | [[Areal under graf med programmering\|Areal under graf med programmering]]                                                                         |
 
 { .block-language-dataview}
