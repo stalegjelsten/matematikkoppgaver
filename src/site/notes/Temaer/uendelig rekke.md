@@ -7,5 +7,6 @@
 | file.link                                                                                         |
 | ------------------------------------------------------------------------------------------------- |
 | [[Uendelig rekke med virkestoff fra legemiddel\|Uendelig rekke med virkestoff fra legemiddel]] |
+| [[Uendelig geomtrisk rekke\|Uendelig geomtrisk rekke]]                                         |
 
 { .block-language-dataview}
