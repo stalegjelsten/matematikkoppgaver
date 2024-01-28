@@ -7,5 +7,6 @@
 | file.link                                                                     |
 | ----------------------------------------------------------------------------- |
 | [[Areal under graf med programmering\|Areal under graf med programmering]] |
+| [[Bestemt integral 3\|Bestemt integral 3]]                                 |
 
 { .block-language-dataview}
