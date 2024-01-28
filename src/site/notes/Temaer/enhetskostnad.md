@@ -4,8 +4,9 @@
 
 
 # enhetskostnad
-| file.link                                                 |
-| --------------------------------------------------------- |
-| [[Enhetskostnader fra graf\|Enhetskostnader fra graf]] |
+| file.link                                                                                       |
+| ----------------------------------------------------------------------------------------------- |
+| [[Enhetskostnader fra graf\|Enhetskostnader fra graf]]                                       |
+| [[Grensekostnader og enhetskostnader fra graf\|Grensekostnader og enhetskostnader fra graf]] |
 
 { .block-language-dataview}
