@@ -6,13 +6,15 @@
 # normalfordeling
 | file.link                                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole]] |
-| [[Simuler sannsynlighet for høyde over 175 cm\|Simuler sannsynlighet for høyde over 175 cm]]                                                       |
-| [[Normalfordelte hjortebukker\|Normalfordelte hjortebukker]]                                                                                       |
-| [[Normalfordelt intelligens\|Normalfordelt intelligens]]                                                                                           |
 | [[Levetiden til normalfordelte batterier\|Levetiden til normalfordelte batterier]]                                                                 |
-| [[Lykkehjulet\|Lykkehjulet]]                                                                                                                       |
 | [[Hypotesetest om russetid\|Hypotesetest om russetid]]                                                                                             |
 | [[Forventningsverdi og varians fra graf av normalfordeling\|Forventningsverdi og varians fra graf av normalfordeling]]                             |
+| [[Lykkehjulet\|Lykkehjulet]]                                                                                                                       |
+| [[Normalfordelt intelligens\|Normalfordelt intelligens]]                                                                                           |
+| [[Normalfordelte hjortebukker\|Normalfordelte hjortebukker]]                                                                                       |
+| [[Simuler sannsynlighet for høyde over 175 cm\|Simuler sannsynlighet for høyde over 175 cm]]                                                       |
+| [[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole]] |
+| [[Normalfordelte vinterdekk\|Normalfordelte vinterdekk]]                                                                                           |
+| [[Simuler sannsynlighet for høyden til 24 måneder gammelt barn\|Simuler sannsynlighet for høyden til 24 måneder gammelt barn]]                     |
 
 { .block-language-dataview}
