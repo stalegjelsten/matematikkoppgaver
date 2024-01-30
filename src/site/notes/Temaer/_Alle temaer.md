@@ -18,6 +18,7 @@
 | [[Temaer/diskrete sannsynlighetsfordelinger\|diskrete sannsynlighetsfordelinger]]           |
 | [[Temaer/eksponentialfunksjoner\|eksponentialfunksjoner]]                                   |
 | [[Temaer/enhetskostnad\|enhetskostnad]]                                                     |
+| [[etterspørsel\|etterspørsel]]                                                                 |
 | [[Temaer/excel\|excel]]                                                                     |
 | [[Temaer/faktorisering\|faktorisering]]                                                     |
 | [[Temaer/formler\|formler]]                                                                 |
@@ -43,6 +44,7 @@
 | [[Temaer/logaritmer\|logaritmer]]                                                           |
 | [[Temaer/logistisk funksjon\|logistisk funksjon]]                                           |
 | [[Temaer/lån\|lån]]                                                                         |
+| [[modellering\|modellering]]                                                                   |
 | [[Temaer/normalfordeling\|normalfordeling]]                                                 |
 | [[nåverdi\|nåverdi]]                                                                           |
 | [[Temaer/polynomdivisjon\|polynomdivisjon]]                                                 |
@@ -52,6 +54,7 @@
 | [[Temaer/rasjonale funksjoner\|rasjonale funksjoner]]                                       |
 | [[Temaer/regresjon\|regresjon]]                                                             |
 | [[Temaer/rekker\|rekker]]                                                                   |
+| [[rekursiv sammenheng\|rekursiv sammenheng]]                                                   |
 | [[Temaer/sannsynlighet\|sannsynlighet]]                                                     |
 | [[sentralmål\|sentralmål]]                                                                     |
 | [[Temaer/simulering\|simulering]]                                                           |
