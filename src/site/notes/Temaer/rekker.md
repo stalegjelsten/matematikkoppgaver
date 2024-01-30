@@ -6,16 +6,18 @@
 # rekker
 | file.link                                                                                         |
 | ------------------------------------------------------------------------------------------------- |
-| [[Ukjent program del 1 S2\|Ukjent program del 1 S2]]                                           |
-| [[Uendelig rekke med virkestoff fra legemiddel\|Uendelig rekke med virkestoff fra legemiddel]] |
-| [[Summen av ukjent uendelig geometrisk rekke\|Summen av ukjent uendelig geometrisk rekke]]     |
-| [[Summen av repeterende brøker\|Summen av repeterende brøker]]                                 |
 | [[Idas jakke\|Idas jakke]]                                                                     |
 | [[Hildegunns ukepenger\|Hildegunns ukepenger]]                                                 |
 | [[Begrunn at uendelig rekke konvergerer\|Begrunn at uendelig rekke konvergerer]]               |
 | [[Aritmetisk mur\|Aritmetisk mur]]                                                             |
-| [[Annuitetslån\|Annuitetslån]]                                                                 |
 | [[Aritmetisk rekke\|Aritmetisk rekke]]                                                         |
+| [[Annuitetslån\|Annuitetslån]]                                                                 |
+| [[Summen av repeterende brøker\|Summen av repeterende brøker]]                                 |
+| [[Summen av ukjent uendelig geometrisk rekke\|Summen av ukjent uendelig geometrisk rekke]]     |
 | [[Uendelig geomtrisk rekke\|Uendelig geomtrisk rekke]]                                         |
+| [[Uendelig rekke med virkestoff fra legemiddel\|Uendelig rekke med virkestoff fra legemiddel]] |
+| [[Ukjent program del 1 S2\|Ukjent program del 1 S2]]                                           |
+| [[Miriam og Hermods sparing\|Miriam og Hermods sparing]]                                       |
+| [[Rekursiv sammenheng mellom pentagontall\|Rekursiv sammenheng mellom pentagontall]]           |
 
 { .block-language-dataview}

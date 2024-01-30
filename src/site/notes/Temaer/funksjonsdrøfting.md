@@ -6,8 +6,8 @@
 # funksjonsdrøfting
 | file.link                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------- |
-| [[Skisser grafen ut fra den deriverte v2023\|Skisser grafen ut fra den deriverte v2023]]                       |
 | [[Har alle fjerdegradsfunksjoner ekstremalpunkt\|Har alle fjerdegradsfunksjoner ekstremalpunkt]]               |
 | [[Gjennomsnittstemperatur på Svalbard og den deriverte\|Gjennomsnittstemperatur på Svalbard og den deriverte]] |
+| [[Skisser grafen ut fra den deriverte v2023\|Skisser grafen ut fra den deriverte v2023]]                       |
 
 { .block-language-dataview}

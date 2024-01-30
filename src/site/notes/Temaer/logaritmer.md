@@ -6,10 +6,10 @@
 # logaritmer
 | file.link                                                                     |
 | ----------------------------------------------------------------------------- |
-| [[Sorter tallene i riktig rekkefølge\|Sorter tallene i riktig rekkefølge]] |
 | [[Logaritmepåstand\|Logaritmepåstand]]                                     |
-| [[Lydstyrke fra fly\|Lydstyrke fra fly]]                                   |
 | [[Deriver x ln(x)\|Deriver x ln(x)]]                                       |
 | [[Deriver logaritmefunksjon\|Deriver logaritmefunksjon]]                   |
+| [[Lydstyrke fra fly\|Lydstyrke fra fly]]                                   |
+| [[Sorter tallene i riktig rekkefølge\|Sorter tallene i riktig rekkefølge]] |
 
 { .block-language-dataview}
