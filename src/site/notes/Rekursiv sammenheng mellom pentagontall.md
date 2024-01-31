@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-01-30","modified":"2024-01-30","aliases":null,"dg-publish":true,"temaer":["rekursiv sammenheng","programmering","rekker"],"fag":["s2"],"eksamen":"h23","del":2,"oppgave":"4","title":"Rekursiv sammenheng mellom pentagontall","source":null,"todo":["fasit","løsningsforslag","figur"],"permalink":"/rekursiv-sammenheng-mellom-pentagontall/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-01-30","modified":"2024-01-31","aliases":[],"dg-publish":true,"temaer":["rekursiv sammenheng","programmering","rekker"],"fag":["s2"],"eksamen":"h23","del":2,"oppgave":"4","title":"Rekursiv sammenheng mellom pentagontall","source":null,"todo":["fasit","løsningsforslag","figur"],"permalink":"/rekursiv-sammenheng-mellom-pentagontall/","dgPassFrontmatter":true}
 ---
 
 
@@ -11,7 +11,3430 @@ Hver figur nedenfor består av kuler plassert på pentagoner. Antall kuler på h
 
 De fem første figurtallene er 1, 6, 16, 31 og 51
 
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg   version="1.1"   x="0px"   y="0px"   width="333px"   height="136px"   viewBox="0 0 333 136"   id="svg342"   sodipodi:docname="s2-h23-2-4.svg"   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"   xmlns:xlink="http://www.w3.org/1999/xlink"   xmlns="http://www.w3.org/2000/svg"   xmlns:svg="http://www.w3.org/2000/svg">  <defs     id="defs343">    <linearGradient       id="swatch355"       inkscape:swatch="solid">      <stop         style="stop-color:#ffffff;stop-opacity:1;"         offset="0"         id="stop355" />    </linearGradient>    <linearGradient       id="linearGradient347"       inkscape:collect="always">      <stop         style="stop-color:#000000;stop-opacity:1;"         offset="0"         id="stop347" />      <stop         style="stop-color:#000000;stop-opacity:0;"         offset="1"         id="stop348" />    </linearGradient>    <linearGradient       inkscape:collect="always"       xlink:href="#linearGradient347"       id="linearGradient348"       x1="1.1751125"       y1="-6.1898437"       x2="22.496176"       y2="-6.1898437"       gradientUnits="userSpaceOnUse" />    <defs       id="defs342">      <font         id="Helvetica">        <font-face           font-family="Helvetica"           font-weight="normal"           font-style="normal"           font-size="100.00"           units-per-em="100.00"           ascent="100.53711"           desscent="21.972656"           id="font-face340" />        <missing-glyph           horiz-adv-x="75.000"           d="M 12.500 -0.0000 L 12.500 62.500 L 62.500 62.500 L 62.500 -0.0000 L 12.500 -0.0000 z M 14.062 1.5625 L 60.938 1.5625 L 60.938 60.938 L 14.062 60.938 L 14.062 1.5625 z"           id="missing-glyph340" />        <glyph           unicode="3"           horiz-adv-x="55.615"           d="M 4.2031 18.891 L 12.984 20.062 Q 14.500 12.594 18.141 9.2969 Q 21.781 6.0000 27.000 6.0000 Q 33.203 6.0000 37.477 10.297 Q 41.750 14.594 41.750 20.953 Q 41.750 27.000 37.797 30.930 Q 33.844 34.859 27.734 34.859 Q 25.250 34.859 21.531 33.891 L 22.516 41.609 Q 23.391 41.500 23.922 41.500 Q 29.547 41.500 34.039 44.430 Q 38.531 47.359 38.531 53.469 Q 38.531 58.297 35.258 61.477 Q 31.984 64.656 26.812 64.656 Q 21.688 64.656 18.266 61.430 Q 14.844 58.203 13.875 51.766 L 5.0781 53.328 Q 6.6875 62.156 12.398 67.016 Q 18.109 71.875 26.609 71.875 Q 32.469 71.875 37.398 69.359 Q 42.328 66.844 44.945 62.500 Q 47.562 58.156 47.562 53.266 Q 47.562 48.641 45.070 44.828 Q 42.578 41.016 37.703 38.766 Q 44.047 37.312 47.562 32.695 Q 51.078 28.078 51.078 21.141 Q 51.078 11.766 44.242 5.2500 Q 37.406 -1.2656 26.953 -1.2656 Q 17.531 -1.2656 11.305 4.3516 Q 5.0781 9.9688 4.2031 18.891 z"           id="glyph340" />        <glyph           unicode="1"           horiz-adv-x="55.615"           d="M 37.250 -0.0000 L 28.469 -0.0000 L 28.469 56.000 Q 25.297 52.984 20.141 49.953 Q 14.984 46.922 10.891 45.406 L 10.891 53.906 Q 18.266 57.375 23.781 62.305 Q 29.297 67.234 31.594 71.875 L 37.250 71.875 L 37.250 -0.0000 z"           id="glyph341" />        <glyph           unicode="6"           horiz-adv-x="55.615"           d="M 49.750 54.047 L 41.016 53.375 Q 39.844 58.547 37.703 60.891 Q 34.125 64.656 28.906 64.656 Q 24.703 64.656 21.531 62.312 Q 17.391 59.281 14.992 53.469 Q 12.594 47.656 12.500 36.922 Q 15.672 41.750 20.266 44.094 Q 24.859 46.438 29.891 46.438 Q 38.672 46.438 44.852 39.969 Q 51.031 33.500 51.031 23.250 Q 51.031 16.500 48.125 10.719 Q 45.219 4.9375 40.141 1.8594 Q 35.062 -1.2188 28.609 -1.2188 Q 17.625 -1.2188 10.695 6.8594 Q 3.7656 14.938 3.7656 33.500 Q 3.7656 54.250 11.422 63.672 Q 18.109 71.875 29.438 71.875 Q 37.891 71.875 43.289 67.141 Q 48.688 62.406 49.750 54.047 z M 13.875 23.188 Q 13.875 18.656 15.797 14.508 Q 17.719 10.359 21.188 8.1797 Q 24.656 6.0000 28.469 6.0000 Q 34.031 6.0000 38.039 10.492 Q 42.047 14.984 42.047 22.703 Q 42.047 30.125 38.086 34.398 Q 34.125 38.672 28.125 38.672 Q 22.172 38.672 18.023 34.398 Q 13.875 30.125 13.875 23.188 z"           id="glyph342" />      </font>    </defs>    <linearGradient       inkscape:collect="always"       xlink:href="#swatch355"       id="linearGradient355"       x1="25.589498"       y1="207.08181"       x2="62.163994"       y2="207.08181"       gradientUnits="userSpaceOnUse" />    <linearGradient       inkscape:collect="always"       xlink:href="#swatch355"       id="linearGradient356"       gradientUnits="userSpaceOnUse"       x1="25.589498"       y1="207.08181"       x2="62.163994"       y2="207.08181" />    <linearGradient       inkscape:collect="always"       xlink:href="#swatch355"       id="linearGradient357"       gradientUnits="userSpaceOnUse"       x1="25.589498"       y1="207.08181"       x2="62.163994"       y2="207.08181" />    <linearGradient       inkscape:collect="always"       xlink:href="#swatch355"       id="linearGradient358"       gradientUnits="userSpaceOnUse"       x1="25.589498"       y1="207.08181"       x2="62.163994"       y2="207.08181" />    <linearGradient       inkscape:collect="always"       xlink:href="#swatch355"       id="linearGradient359"       gradientUnits="userSpaceOnUse"       x1="25.589498"       y1="207.08181"       x2="62.163994"       y2="207.08181" />    <clipPath       id="clip110-2"       style="fill:url(#linearGradient355);fill-opacity:1">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path328-9"         style="fill:url(#linearGradient355);fill-opacity:1" />    </clipPath>    <linearGradient       inkscape:collect="always"       xlink:href="#swatch355"       id="linearGradient361"       gradientUnits="userSpaceOnUse"       x1="25.589498"       y1="207.08181"       x2="62.163994"       y2="207.08181" />    <linearGradient       inkscape:collect="always"       xlink:href="#swatch355"       id="linearGradient362"       gradientUnits="userSpaceOnUse"       x1="25.589498"       y1="207.08181"       x2="62.163994"       y2="207.08181" />    <linearGradient       inkscape:collect="always"       xlink:href="#swatch355"       id="linearGradient363"       gradientUnits="userSpaceOnUse"       x1="25.589498"       y1="207.08181"       x2="62.163994"       y2="207.08181" />    <linearGradient       inkscape:collect="always"       xlink:href="#swatch355"       id="linearGradient366"       gradientUnits="userSpaceOnUse"       x1="25.589498"       y1="207.08181"       x2="62.163994"       y2="207.08181" />    <clipPath       id="clip110-26"       style="fill:url(#linearGradient355);fill-opacity:1">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path328-8"         style="fill:url(#linearGradient355);fill-opacity:1" />    </clipPath>    <linearGradient       inkscape:collect="always"       xlink:href="#swatch355"       id="linearGradient368"       gradientUnits="userSpaceOnUse"       x1="25.589498"       y1="207.08181"       x2="62.163994"       y2="207.08181" />    <linearGradient       inkscape:collect="always"       xlink:href="#swatch355"       id="linearGradient369"       gradientUnits="userSpaceOnUse"       x1="25.589498"       y1="207.08181"       x2="62.163994"       y2="207.08181" />    <linearGradient       inkscape:collect="always"       xlink:href="#swatch355"       id="linearGradient370"       gradientUnits="userSpaceOnUse"       x1="25.589498"       y1="207.08181"       x2="62.163994"       y2="207.08181" />    <clipPath       id="clip110-6"       style="fill:url(#linearGradient355);fill-opacity:1">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path328-3"         style="fill:url(#linearGradient355);fill-opacity:1" />    </clipPath>    <linearGradient       inkscape:collect="always"       xlink:href="#swatch355"       id="linearGradient375"       gradientUnits="userSpaceOnUse"       x1="25.589498"       y1="207.08181"       x2="62.163994"       y2="207.08181" />    <linearGradient       inkscape:collect="always"       xlink:href="#swatch355"       id="linearGradient376"       gradientUnits="userSpaceOnUse"       x1="25.589498"       y1="207.08181"       x2="62.163994"       y2="207.08181" />    <linearGradient       inkscape:collect="always"       xlink:href="#swatch355"       id="linearGradient377"       gradientUnits="userSpaceOnUse"       x1="25.589498"       y1="207.08181"       x2="62.163994"       y2="207.08181" />    <linearGradient       inkscape:collect="always"       xlink:href="#swatch355"       id="linearGradient380"       gradientUnits="userSpaceOnUse"       x1="25.589498"       y1="207.08181"       x2="62.163994"       y2="207.08181" />    <linearGradient       inkscape:collect="always"       xlink:href="#swatch355"       id="linearGradient384"       gradientUnits="userSpaceOnUse"       x1="25.589498"       y1="207.08181"       x2="62.163994"       y2="207.08181" />  </defs>  <sodipodi:namedview     id="namedview342"     pagecolor="#ffffff"     bordercolor="#000000"     borderopacity="0.25"     inkscape:showpageshadow="2"     inkscape:pageopacity="0.0"     inkscape:pagecheckerboard="0"     inkscape:deskcolor="#d1d1d1"     showguides="true"     inkscape:zoom="2.4653182"     inkscape:cx="193.28133"     inkscape:cy="58.207495"     inkscape:window-width="1920"     inkscape:window-height="986"     inkscape:window-x="-11"     inkscape:window-y="-11"     inkscape:window-maximized="1"     inkscape:current-layer="svg342" />  <title     id="title1" />  <desc     id="desc1">    <Title />    <Creator>FreeHEP Graphics2D Driver</Creator>    <Producer>geogebra.d.U Revision: 1.11 </Producer>    <Source />    <Date>samedi 26 octobre 2013 23 h 20 CEST</Date>  </desc>  <g     id="misc"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0" />  <g     transform="scale(0.56693)"     id="g7"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip2">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path4" />    </clipPath>    <g       clip-path="url(#clip2)"       id="g6">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#0000ff"         id="g5">        <path           d="m 41,108 c 0,3.87 -3.134,7 -7,7 -3.866,0 -7,-3.13 -7,-7 0,-3.87 3.134,-7 7,-7 3.866,0 7,3.13 7,7 z"           id="path5" />      </g>      <!-- drawing style -->    </g>    <!-- clip2 -->  </g>  <g     transform="scale(0.56693)"     id="g10"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip3">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path7" />    </clipPath>    <g       clip-path="url(#clip3)"       id="g9">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g8">        <path           d="m 41,108 c 0,3.87 -3.134,7 -7,7 -3.866,0 -7,-3.13 -7,-7 0,-3.87 3.134,-7 7,-7 3.866,0 7,3.13 7,7 z"           id="path8" />      </g>      <!-- drawing style -->    </g>    <!-- clip3 -->  </g>  <g     transform="scale(0.56693)"     id="g13"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip4">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path10" />    </clipPath>    <g       clip-path="url(#clip4)"       id="g12">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#0000ff"         id="g11">        <path           d="m 141,108 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path11" />      </g>      <!-- drawing style -->    </g>    <!-- clip4 -->  </g>  <g     transform="scale(0.56693)"     id="g16"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip5">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path13" />    </clipPath>    <g       clip-path="url(#clip5)"       id="g15">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g14">        <path           d="m 141,108 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path14" />      </g>      <!-- drawing style -->    </g>    <!-- clip5 -->  </g>  <g     transform="scale(0.56693)"     id="g19"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip6">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path16" />    </clipPath>    <g       clip-path="url(#clip6)"       id="g18">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#ff0000"         id="g17">        <path           d="m 141,83 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path17" />      </g>      <!-- drawing style -->    </g>    <!-- clip6 -->  </g>  <g     transform="scale(0.56693)"     id="g22"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip7">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path19" />    </clipPath>    <g       clip-path="url(#clip7)"       id="g21">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g20">        <path           d="m 141,83 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path20" />      </g>      <!-- drawing style -->    </g>    <!-- clip7 -->  </g>  <g     transform="scale(0.56693)"     id="g25"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip8">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path22" />    </clipPath>    <g       clip-path="url(#clip8)"       id="g24">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#ff0000"         id="g23">        <path           d="m 117,100 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path23" />      </g>      <!-- drawing style -->    </g>    <!-- clip8 -->  </g>  <g     transform="scale(0.56693)"     id="g28"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip9">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path25" />    </clipPath>    <g       clip-path="url(#clip9)"       id="g27">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g26">        <path           d="m 117,100 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path26" />      </g>      <!-- drawing style -->    </g>    <!-- clip9 -->  </g>  <g     transform="scale(0.56693)"     id="g31"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip10">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path28" />    </clipPath>    <g       clip-path="url(#clip10)"       id="g30">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#ff0000"         id="g29">        <path           d="m 165,100 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path29" />      </g>      <!-- drawing style -->    </g>    <!-- clip10 -->  </g>  <g     transform="scale(0.56693)"     id="g34"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip11">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path31" />    </clipPath>    <g       clip-path="url(#clip11)"       id="g33">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g32">        <path           d="m 165,100 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path32" />      </g>      <!-- drawing style -->    </g>    <!-- clip11 -->  </g>  <g     transform="scale(0.56693)"     id="g37"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip12">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path34" />    </clipPath>    <g       clip-path="url(#clip12)"       id="g36">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#ff0000"         id="g35">        <path           d="m 156,128 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path35" />      </g>      <!-- drawing style -->    </g>    <!-- clip12 -->  </g>  <g     transform="scale(0.56693)"     id="g40"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip13">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path37" />    </clipPath>    <g       clip-path="url(#clip13)"       id="g39">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g38">        <path           d="m 156,128 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path38" />      </g>      <!-- drawing style -->    </g>    <!-- clip13 -->  </g>  <g     transform="scale(0.56693)"     id="g43"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip14">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path40" />    </clipPath>    <g       clip-path="url(#clip14)"       id="g42">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#ff0000"         id="g41">        <path           d="m 126,128 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path41" />      </g>      <!-- drawing style -->    </g>    <!-- clip14 -->  </g>  <g     transform="scale(0.56693)"     id="g46"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip15">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path43" />    </clipPath>    <g       clip-path="url(#clip15)"       id="g45">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g44">        <path           d="m 126,128 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path44" />      </g>      <!-- drawing style -->    </g>    <!-- clip15 -->  </g>  <g     transform="scale(0.56693)"     id="g49"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip16">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path46" />    </clipPath>    <g       clip-path="url(#clip16)"       id="g48">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#0000ff"         id="g47">        <path           d="m 291,108 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path47" />      </g>      <!-- drawing style -->    </g>    <!-- clip16 -->  </g>  <g     transform="scale(0.56693)"     id="g52"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip17">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path49" />    </clipPath>    <g       clip-path="url(#clip17)"       id="g51">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g50">        <path           d="m 291,108 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path50" />      </g>      <!-- drawing style -->    </g>    <!-- clip17 -->  </g>  <g     transform="scale(0.56693)"     id="g55"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip18">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path52" />    </clipPath>    <g       clip-path="url(#clip18)"       id="g54">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#0000ff"         id="g53">        <path           d="m 291,83 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path53" />      </g>      <!-- drawing style -->    </g>    <!-- clip18 -->  </g>  <g     transform="scale(0.56693)"     id="g58"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip19">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path55" />    </clipPath>    <g       clip-path="url(#clip19)"       id="g57">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g56">        <path           d="m 291,83 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path56" />      </g>      <!-- drawing style -->    </g>    <!-- clip19 -->  </g>  <g     transform="scale(0.56693)"     id="g61"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip20">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path58" />    </clipPath>    <g       clip-path="url(#clip20)"       id="g60">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#ff0000"         id="g59">        <path           d="m 291,58 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path59" />      </g>      <!-- drawing style -->    </g>    <!-- clip20 -->  </g>  <g     transform="scale(0.56693)"     id="g64"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip21">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path61" />    </clipPath>    <g       clip-path="url(#clip21)"       id="g63">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g62">        <path           d="m 291,58 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path62" />      </g>      <!-- drawing style -->    </g>    <!-- clip21 -->  </g>  <g     transform="scale(0.56693)"     id="g67"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip22">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path64" />    </clipPath>    <g       clip-path="url(#clip22)"       id="g66">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#ff0000"         id="g65">        <path           d="m 243,93 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path65" />      </g>      <!-- drawing style -->    </g>    <!-- clip22 -->  </g>  <g     transform="scale(0.56693)"     id="g70"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip23">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path67" />    </clipPath>    <g       clip-path="url(#clip23)"       id="g69">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g68">        <path           d="m 243,93 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path68" />      </g>      <!-- drawing style -->    </g>    <!-- clip23 -->  </g>  <g     transform="scale(0.56693)"     id="g73"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip24">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path70" />    </clipPath>    <g       clip-path="url(#clip24)"       id="g72">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#0000ff"         id="g71">        <path           d="m 267,100 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path71" />      </g>      <!-- drawing style -->    </g>    <!-- clip24 -->  </g>  <g     transform="scale(0.56693)"     id="g76"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip25">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path73" />    </clipPath>    <g       clip-path="url(#clip25)"       id="g75">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g74">        <path           d="m 267,100 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path74" />      </g>      <!-- drawing style -->    </g>    <!-- clip25 -->  </g>  <g     transform="scale(0.56693)"     id="g79"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip26">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path76" />    </clipPath>    <g       clip-path="url(#clip26)"       id="g78">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#0000ff"         id="g77">        <path           d="m 315,100 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path77" />      </g>      <!-- drawing style -->    </g>    <!-- clip26 -->  </g>  <g     transform="scale(0.56693)"     id="g82"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip27">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path79" />    </clipPath>    <g       clip-path="url(#clip27)"       id="g81">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g80">        <path           d="m 315,100 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path80" />      </g>      <!-- drawing style -->    </g>    <!-- clip27 -->  </g>  <g     transform="scale(0.56693)"     id="g85"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip28">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path82" />    </clipPath>    <g       clip-path="url(#clip28)"       id="g84">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#0000ff"         id="g83">        <path           d="m 306,128 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path83" />      </g>      <!-- drawing style -->    </g>    <!-- clip28 -->  </g>  <g     transform="scale(0.56693)"     id="g88"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip29">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path85" />    </clipPath>    <g       clip-path="url(#clip29)"       id="g87">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g86">        <path           d="m 306,128 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path86" />      </g>      <!-- drawing style -->    </g>    <!-- clip29 -->  </g>  <g     transform="scale(0.56693)"     id="g91"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip30">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path88" />    </clipPath>    <g       clip-path="url(#clip30)"       id="g90">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#0000ff"         id="g89">        <path           d="m 276,128 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path89" />      </g>      <!-- drawing style -->    </g>    <!-- clip30 -->  </g>  <g     transform="scale(0.56693)"     id="g94"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip31">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path91" />    </clipPath>    <g       clip-path="url(#clip31)"       id="g93">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g92">        <path           d="m 276,128 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path92" />      </g>      <!-- drawing style -->    </g>    <!-- clip31 -->  </g>  <g     transform="scale(0.56693)"     id="g97"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip32">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path94" />    </clipPath>    <g       clip-path="url(#clip32)"       id="g96">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#ff0000"         id="g95">        <path           d="m 339,93 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path95" />      </g>      <!-- drawing style -->    </g>    <!-- clip32 -->  </g>  <g     transform="scale(0.56693)"     id="g100"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip33">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path97" />    </clipPath>    <g       clip-path="url(#clip33)"       id="g99">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g98">        <path           d="m 339,93 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path98" />      </g>      <!-- drawing style -->    </g>    <!-- clip33 -->  </g>  <g     transform="scale(0.56693)"     id="g103"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip34">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path100" />    </clipPath>    <g       clip-path="url(#clip34)"       id="g102">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#ff0000"         id="g101">        <path           d="m 320,148 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path101" />      </g>      <!-- drawing style -->    </g>    <!-- clip34 -->  </g>  <g     transform="scale(0.56693)"     id="g106"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip35">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path103" />    </clipPath>    <g       clip-path="url(#clip35)"       id="g105">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g104">        <path           d="m 320,148 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path104" />      </g>      <!-- drawing style -->    </g>    <!-- clip35 -->  </g>  <g     transform="scale(0.56693)"     id="g109"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip36">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path106" />    </clipPath>    <g       clip-path="url(#clip36)"       id="g108">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#ff0000"         id="g107">        <path           d="m 262,148 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path107" />      </g>      <!-- drawing style -->    </g>    <!-- clip36 -->  </g>  <g     transform="scale(0.56693)"     id="g112"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip37">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path109" />    </clipPath>    <g       clip-path="url(#clip37)"       id="g111">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g110">        <path           d="m 262,148 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path110" />      </g>      <!-- drawing style -->    </g>    <!-- clip37 -->  </g>  <g     transform="scale(0.56693)"     id="g115"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip38">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path112" />    </clipPath>    <g       clip-path="url(#clip38)"       id="g114">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#ff0000"         id="g113">        <path           d="m 267,75 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path113" />      </g>      <!-- drawing style -->    </g>    <!-- clip38 -->  </g>  <g     transform="scale(0.56693)"     id="g118"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip39">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path115" />    </clipPath>    <g       clip-path="url(#clip39)"       id="g117">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g116">        <path           d="m 267,75 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path116" />      </g>      <!-- drawing style -->    </g>    <!-- clip39 -->  </g>  <g     transform="scale(0.56693)"     id="g121"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip40">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path118" />    </clipPath>    <g       clip-path="url(#clip40)"       id="g120">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#ff0000"         id="g119">        <path           d="m 253,120 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path119" />      </g>      <!-- drawing style -->    </g>    <!-- clip40 -->  </g>  <g     transform="scale(0.56693)"     id="g124"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip41">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path121" />    </clipPath>    <g       clip-path="url(#clip41)"       id="g123">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g122">        <path           d="m 253,120 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path122" />      </g>      <!-- drawing style -->    </g>    <!-- clip41 -->  </g>  <g     transform="scale(0.56693)"     id="g127"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip42">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path124" />    </clipPath>    <g       clip-path="url(#clip42)"       id="g126">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#ff0000"         id="g125">        <path           d="m 291,148 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path125" />      </g>      <!-- drawing style -->    </g>    <!-- clip42 -->  </g>  <g     transform="scale(0.56693)"     id="g130"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip43">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path127" />    </clipPath>    <g       clip-path="url(#clip43)"       id="g129">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g128">        <path           d="m 291,148 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path128" />      </g>      <!-- drawing style -->    </g>    <!-- clip43 -->  </g>  <g     transform="scale(0.56693)"     id="g133"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip44">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path130" />    </clipPath>    <g       clip-path="url(#clip44)"       id="g132">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#ff0000"         id="g131">        <path           d="m 329,120 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path131" />      </g>      <!-- drawing style -->    </g>    <!-- clip44 -->  </g>  <g     transform="scale(0.56693)"     id="g136"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip45">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path133" />    </clipPath>    <g       clip-path="url(#clip45)"       id="g135">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g134">        <path           d="m 329,120 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path134" />      </g>      <!-- drawing style -->    </g>    <!-- clip45 -->  </g>  <g     transform="scale(0.56693)"     id="g139"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip46">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path136" />    </clipPath>    <g       clip-path="url(#clip46)"       id="g138">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#0000ff"         id="g137">        <path           d="m 491,108 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path137" />      </g>      <!-- drawing style -->    </g>    <!-- clip46 -->  </g>  <g     transform="scale(0.56693)"     id="g142"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip47">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path139" />    </clipPath>    <g       clip-path="url(#clip47)"       id="g141">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g140">        <path           d="m 491,108 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path140" />      </g>      <!-- drawing style -->    </g>    <!-- clip47 -->  </g>  <g     transform="scale(0.56693)"     id="g145"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip48">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path142" />    </clipPath>    <g       clip-path="url(#clip48)"       id="g144">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#0000ff"         id="g143">        <path           d="m 491,83 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path143" />      </g>      <!-- drawing style -->    </g>    <!-- clip48 -->  </g>  <g     transform="scale(0.56693)"     id="g148"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip49">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path145" />    </clipPath>    <g       clip-path="url(#clip49)"       id="g147">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g146">        <path           d="m 491,83 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path146" />      </g>      <!-- drawing style -->    </g>    <!-- clip49 -->  </g>  <g     transform="scale(0.56693)"     id="g151"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip50">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path148" />    </clipPath>    <g       clip-path="url(#clip50)"       id="g150">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#0000ff"         id="g149">        <path           d="m 491,58 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path149" />      </g>      <!-- drawing style -->    </g>    <!-- clip50 -->  </g>  <g     transform="scale(0.56693)"     id="g154"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip51">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path151" />    </clipPath>    <g       clip-path="url(#clip51)"       id="g153">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g152">        <path           d="m 491,58 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path152" />      </g>      <!-- drawing style -->    </g>    <!-- clip51 -->  </g>  <g     transform="scale(0.56693)"     id="g157"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip52">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path154" />    </clipPath>    <g       clip-path="url(#clip52)"       id="g156">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#ff0000"         id="g155">        <path           d="m 491,33 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path155" />      </g>      <!-- drawing style -->    </g>    <!-- clip52 -->  </g>  <g     transform="scale(0.56693)"     id="g160"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip53">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path157" />    </clipPath>    <g       clip-path="url(#clip53)"       id="g159">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g158">        <path           d="m 491,33 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path158" />      </g>      <!-- drawing style -->    </g>    <!-- clip53 -->  </g>  <g     transform="scale(0.56693)"     id="g163"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip54">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path160" />    </clipPath>    <g       clip-path="url(#clip54)"       id="g162">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#ff0000"         id="g161">        <path           d="m 420,85 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path161" />      </g>      <!-- drawing style -->    </g>    <!-- clip54 -->  </g>  <g     transform="scale(0.56693)"     id="g166"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip55">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path163" />    </clipPath>    <g       clip-path="url(#clip55)"       id="g165">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g164">        <path           d="m 420,85 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path164" />      </g>      <!-- drawing style -->    </g>    <!-- clip55 -->  </g>  <g     transform="scale(0.56693)"     id="g169"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip56">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path166" />    </clipPath>    <g       clip-path="url(#clip56)"       id="g168">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#0000ff"         id="g167">        <path           d="m 443,93 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path167" />      </g>      <!-- drawing style -->    </g>    <!-- clip56 -->  </g>  <g     transform="scale(0.56693)"     id="g172"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip57">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path169" />    </clipPath>    <g       clip-path="url(#clip57)"       id="g171">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g170">        <path           d="m 443,93 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path170" />      </g>      <!-- drawing style -->    </g>    <!-- clip57 -->  </g>  <g     transform="scale(0.56693)"     id="g175"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip58">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path172" />    </clipPath>    <g       clip-path="url(#clip58)"       id="g174">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#0000ff"         id="g173">        <path           d="m 467,100 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path173" />      </g>      <!-- drawing style -->    </g>    <!-- clip58 -->  </g>  <g     transform="scale(0.56693)"     id="g178"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip59">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path175" />    </clipPath>    <g       clip-path="url(#clip59)"       id="g177">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g176">        <path           d="m 467,100 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path176" />      </g>      <!-- drawing style -->    </g>    <!-- clip59 -->  </g>  <g     transform="scale(0.56693)"     id="g181"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip60">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path178" />    </clipPath>    <g       clip-path="url(#clip60)"       id="g180">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#0000ff"         id="g179">        <path           d="m 515,100 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path179" />      </g>      <!-- drawing style -->    </g>    <!-- clip60 -->  </g>  <g     transform="scale(0.56693)"     id="g184"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip61">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path181" />    </clipPath>    <g       clip-path="url(#clip61)"       id="g183">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g182">        <path           d="m 515,100 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path182" />      </g>      <!-- drawing style -->    </g>    <!-- clip61 -->  </g>  <g     transform="scale(0.56693)"     id="g187"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip62">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path184" />    </clipPath>    <g       clip-path="url(#clip62)"       id="g186">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#0000ff"         id="g185">        <path           d="m 506,128 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path185" />      </g>      <!-- drawing style -->    </g>    <!-- clip62 -->  </g>  <g     transform="scale(0.56693)"     id="g190"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip63">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path187" />    </clipPath>    <g       clip-path="url(#clip63)"       id="g189">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g188">        <path           d="m 506,128 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path188" />      </g>      <!-- drawing style -->    </g>    <!-- clip63 -->  </g>  <g     transform="scale(0.56693)"     id="g193"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip64">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path190" />    </clipPath>    <g       clip-path="url(#clip64)"       id="g192">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#0000ff"         id="g191">        <path           d="m 476,128 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path191" />      </g>      <!-- drawing style -->    </g>    <!-- clip64 -->  </g>  <g     transform="scale(0.56693)"     id="g196"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip65">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path193" />    </clipPath>    <g       clip-path="url(#clip65)"       id="g195">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g194">        <path           d="m 476,128 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path194" />      </g>      <!-- drawing style -->    </g>    <!-- clip65 -->  </g>  <g     transform="scale(0.56693)"     id="g199"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip66">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path196" />    </clipPath>    <g       clip-path="url(#clip66)"       id="g198">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#0000ff"         id="g197">        <path           d="m 539,93 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path197" />      </g>      <!-- drawing style -->    </g>    <!-- clip66 -->  </g>  <g     transform="scale(0.56693)"     id="g202"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip67">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path199" />    </clipPath>    <g       clip-path="url(#clip67)"       id="g201">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g200">        <path           d="m 539,93 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path200" />      </g>      <!-- drawing style -->    </g>    <!-- clip67 -->  </g>  <g     transform="scale(0.56693)"     id="g205"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip68">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path202" />    </clipPath>    <g       clip-path="url(#clip68)"       id="g204">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#0000ff"         id="g203">        <path           d="m 520,148 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path203" />      </g>      <!-- drawing style -->    </g>    <!-- clip68 -->  </g>  <g     transform="scale(0.56693)"     id="g208"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip69">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path205" />    </clipPath>    <g       clip-path="url(#clip69)"       id="g207">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g206">        <path           d="m 520,148 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path206" />      </g>      <!-- drawing style -->    </g>    <!-- clip69 -->  </g>  <g     transform="scale(0.56693)"     id="g211"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip70">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path208" />    </clipPath>    <g       clip-path="url(#clip70)"       id="g210">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#0000ff"         id="g209">        <path           d="m 462,148 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path209" />      </g>      <!-- drawing style -->    </g>    <!-- clip70 -->  </g>  <g     transform="scale(0.56693)"     id="g214"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip71">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path211" />    </clipPath>    <g       clip-path="url(#clip71)"       id="g213">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g212">        <path           d="m 462,148 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path212" />      </g>      <!-- drawing style -->    </g>    <!-- clip71 -->  </g>  <g     transform="scale(0.56693)"     id="g217"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip72">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path214" />    </clipPath>    <g       clip-path="url(#clip72)"       id="g216">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#ff0000"         id="g215">        <path           d="m 562,85 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path215" />      </g>      <!-- drawing style -->    </g>    <!-- clip72 -->  </g>  <g     transform="scale(0.56693)"     id="g220"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip73">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path217" />    </clipPath>    <g       clip-path="url(#clip73)"       id="g219">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g218">        <path           d="m 562,85 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path218" />      </g>      <!-- drawing style -->    </g>    <!-- clip73 -->  </g>  <g     transform="scale(0.56693)"     id="g223"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip74">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path220" />    </clipPath>    <g       clip-path="url(#clip74)"       id="g222">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#ff0000"         id="g221">        <path           d="m 535,169 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path221" />      </g>      <!-- drawing style -->    </g>    <!-- clip74 -->  </g>  <g     transform="scale(0.56693)"     id="g226"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip75">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path223" />    </clipPath>    <g       clip-path="url(#clip75)"       id="g225">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g224">        <path           d="m 535,169 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path224" />      </g>      <!-- drawing style -->    </g>    <!-- clip75 -->  </g>  <g     transform="scale(0.56693)"     id="g229"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip76">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path226" />    </clipPath>    <g       clip-path="url(#clip76)"       id="g228">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#ff0000"         id="g227">        <path           d="m 447,169 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path227" />      </g>      <!-- drawing style -->    </g>    <!-- clip76 -->  </g>  <g     transform="scale(0.56693)"     id="g232"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip77">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path229" />    </clipPath>    <g       clip-path="url(#clip77)"       id="g231">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g230">        <path           d="m 447,169 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path230" />      </g>      <!-- drawing style -->    </g>    <!-- clip77 -->  </g>  <g     transform="scale(0.56693)"     id="g235"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip78">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path232" />    </clipPath>    <g       clip-path="url(#clip78)"       id="g234">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#0000ff"         id="g233">        <path           d="m 467,75 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path233" />      </g>      <!-- drawing style -->    </g>    <!-- clip78 -->  </g>  <g     transform="scale(0.56693)"     id="g238"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip79">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path235" />    </clipPath>    <g       clip-path="url(#clip79)"       id="g237">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g236">        <path           d="m 467,75 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path236" />      </g>      <!-- drawing style -->    </g>    <!-- clip79 -->  </g>  <g     transform="scale(0.56693)"     id="g241"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip80">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path238" />    </clipPath>    <g       clip-path="url(#clip80)"       id="g240">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#0000ff"         id="g239">        <path           d="m 453,120 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path239" />      </g>      <!-- drawing style -->    </g>    <!-- clip80 -->  </g>  <g     transform="scale(0.56693)"     id="g244"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip81">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path241" />    </clipPath>    <g       clip-path="url(#clip81)"       id="g243">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g242">        <path           d="m 453,120 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path242" />      </g>      <!-- drawing style -->    </g>    <!-- clip81 -->  </g>  <g     transform="scale(0.56693)"     id="g247"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip82">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path244" />    </clipPath>    <g       clip-path="url(#clip82)"       id="g246">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#0000ff"         id="g245">        <path           d="m 491,148 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path245" />      </g>      <!-- drawing style -->    </g>    <!-- clip82 -->  </g>  <g     transform="scale(0.56693)"     id="g250"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip83">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path247" />    </clipPath>    <g       clip-path="url(#clip83)"       id="g249">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g248">        <path           d="m 491,148 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path248" />      </g>      <!-- drawing style -->    </g>    <!-- clip83 -->  </g>  <g     transform="scale(0.56693)"     id="g253"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip84">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path250" />    </clipPath>    <g       clip-path="url(#clip84)"       id="g252">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#0000ff"         id="g251">        <path           d="m 529,120 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path251" />      </g>      <!-- drawing style -->    </g>    <!-- clip84 -->  </g>  <g     transform="scale(0.56693)"     id="g256"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip85">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path253" />    </clipPath>    <g       clip-path="url(#clip85)"       id="g255">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g254">        <path           d="m 529,120 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path254" />      </g>      <!-- drawing style -->    </g>    <!-- clip85 -->  </g>  <g     transform="scale(0.56693)"     id="g259"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip86">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path256" />    </clipPath>    <g       clip-path="url(#clip86)"       id="g258">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#0000ff"         id="g257">        <path           d="m 515,75 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path257" />      </g>      <!-- drawing style -->    </g>    <!-- clip86 -->  </g>  <g     transform="scale(0.56693)"     id="g262"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip87">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path259" />    </clipPath>    <g       clip-path="url(#clip87)"       id="g261">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g260">        <path           d="m 515,75 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path260" />      </g>      <!-- drawing style -->    </g>    <!-- clip87 -->  </g>  <g     transform="scale(0.56693)"     id="g265"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip88">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path262" />    </clipPath>    <g       clip-path="url(#clip88)"       id="g264">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#ff0000"         id="g263">        <path           d="m 443,68 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path263" />      </g>      <!-- drawing style -->    </g>    <!-- clip88 -->  </g>  <g     transform="scale(0.56693)"     id="g268"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip89">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path265" />    </clipPath>    <g       clip-path="url(#clip89)"       id="g267">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g266">        <path           d="m 443,68 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path266" />      </g>      <!-- drawing style -->    </g>    <!-- clip89 -->  </g>  <g     transform="scale(0.56693)"     id="g271"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip90">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path268" />    </clipPath>    <g       clip-path="url(#clip90)"       id="g270">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#ff0000"         id="g269">        <path           d="m 467,50 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path269" />      </g>      <!-- drawing style -->    </g>    <!-- clip90 -->  </g>  <g     transform="scale(0.56693)"     id="g274"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip91">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path271" />    </clipPath>    <g       clip-path="url(#clip91)"       id="g273">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g272">        <path           d="m 467,50 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path272" />      </g>      <!-- drawing style -->    </g>    <!-- clip91 -->  </g>  <g     transform="scale(0.56693)"     id="g277"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip92">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path274" />    </clipPath>    <g       clip-path="url(#clip92)"       id="g276">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#ff0000"         id="g275">        <path           d="m 438,141 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path275" />      </g>      <!-- drawing style -->    </g>    <!-- clip92 -->  </g>  <g     transform="scale(0.56693)"     id="g280"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip93">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path277" />    </clipPath>    <g       clip-path="url(#clip93)"       id="g279">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g278">        <path           d="m 438,141 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path278" />      </g>      <!-- drawing style -->    </g>    <!-- clip93 -->  </g>  <g     transform="scale(0.56693)"     id="g283"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip94">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path280" />    </clipPath>    <g       clip-path="url(#clip94)"       id="g282">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#ff0000"         id="g281">        <path           d="m 429,113 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path281" />      </g>      <!-- drawing style -->    </g>    <!-- clip94 -->  </g>  <g     transform="scale(0.56693)"     id="g286"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip95">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path283" />    </clipPath>    <g       clip-path="url(#clip95)"       id="g285">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g284">        <path           d="m 429,113 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path284" />      </g>      <!-- drawing style -->    </g>    <!-- clip95 -->  </g>  <g     transform="scale(0.56693)"     id="g289"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip96">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path286" />    </clipPath>    <g       clip-path="url(#clip96)"       id="g288">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#ff0000"         id="g287">        <path           d="m 506,169 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path287" />      </g>      <!-- drawing style -->    </g>    <!-- clip96 -->  </g>  <g     transform="scale(0.56693)"     id="g292"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip97">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path289" />    </clipPath>    <g       clip-path="url(#clip97)"       id="g291">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g290">        <path           d="m 506,169 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path290" />      </g>      <!-- drawing style -->    </g>    <!-- clip97 -->  </g>  <g     transform="scale(0.56693)"     id="g295"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip98">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path292" />    </clipPath>    <g       clip-path="url(#clip98)"       id="g294">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#ff0000"         id="g293">        <path           d="m 476,169 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path293" />      </g>      <!-- drawing style -->    </g>    <!-- clip98 -->  </g>  <g     transform="scale(0.56693)"     id="g298"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip99">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path295" />    </clipPath>    <g       clip-path="url(#clip99)"       id="g297">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g296">        <path           d="m 476,169 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path296" />      </g>      <!-- drawing style -->    </g>    <!-- clip99 -->  </g>  <g     transform="scale(0.56693)"     id="g301"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip100">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path298" />    </clipPath>    <g       clip-path="url(#clip100)"       id="g300">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#ff0000"         id="g299">        <path           d="m 553,113 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path299" />      </g>      <!-- drawing style -->    </g>    <!-- clip100 -->  </g>  <g     transform="scale(0.56693)"     id="g304"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip101">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path301" />    </clipPath>    <g       clip-path="url(#clip101)"       id="g303">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g302">        <path           d="m 553,113 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path302" />      </g>      <!-- drawing style -->    </g>    <!-- clip101 -->  </g>  <g     transform="scale(0.56693)"     id="g307"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip102">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path304" />    </clipPath>    <g       clip-path="url(#clip102)"       id="g306">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#ff0000"         id="g305">        <path           d="m 544,141 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path305" />      </g>      <!-- drawing style -->    </g>    <!-- clip102 -->  </g>  <g     transform="scale(0.56693)"     id="g310"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip103">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path307" />    </clipPath>    <g       clip-path="url(#clip103)"       id="g309">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g308">        <path           d="m 544,141 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"           id="path308" />      </g>      <!-- drawing style -->    </g>    <!-- clip103 -->  </g>  <g     transform="scale(0.56693)"     id="g313"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip104">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path310" />    </clipPath>    <g       clip-path="url(#clip104)"       id="g312">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#ff0000"         id="g311">        <path           d="m 515,50 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path311" />      </g>      <!-- drawing style -->    </g>    <!-- clip104 -->  </g>  <g     transform="scale(0.56693)"     id="g316"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip105">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path313" />    </clipPath>    <g       clip-path="url(#clip105)"       id="g315">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g314">        <path           d="m 515,50 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path314" />      </g>      <!-- drawing style -->    </g>    <!-- clip105 -->  </g>  <g     transform="scale(0.56693)"     id="g319"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip106">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path316" />    </clipPath>    <g       clip-path="url(#clip106)"       id="g318">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#ff0000"         id="g317">        <path           d="m 539,68 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path317" />      </g>      <!-- drawing style -->    </g>    <!-- clip106 -->  </g>  <g     transform="scale(0.56693)"     id="g322"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip107">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path319" />    </clipPath>    <g       clip-path="url(#clip107)"       id="g321">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g320">        <path           d="m 539,68 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path320" />      </g>      <!-- drawing style -->    </g>    <!-- clip107 -->  </g>  <g     transform="scale(0.56693)"     id="g325"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip108">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path322" />    </clipPath>    <g       clip-path="url(#clip108)"       id="g324">      <g         fill-opacity="1"         fill-rule="nonzero;"         stroke="none"         fill="#ff0000"         id="g323">        <path           d="m 315,75 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path323" />      </g>      <!-- drawing style -->    </g>    <!-- clip108 -->  </g>  <g     transform="scale(0.56693)"     id="g328"     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">    <clipPath       id="clip109">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path325" />    </clipPath>    <g       clip-path="url(#clip109)"       id="g327">      <g         stroke-linejoin="round"         stroke-linecap="round"         fill="none"         stroke-opacity="1"         stroke="#000000"         id="g326">        <path           d="m 315,75 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"           id="path326" />      </g>      <!-- drawing style -->    </g>    <!-- clip109 -->  </g>  <g     transform="matrix(0.56693,0,0,0.56693,-0.76204371,-3.1754226)"     id="g331"     style="fill:url(#linearGradient359);fill-opacity:1;fill-rule:nonzero;stroke-width:1.00012;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke:#000000;stroke-opacity:1">    <clipPath       id="clip110"       style="fill:url(#linearGradient355);fill-opacity:1">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path328"         style="fill:url(#linearGradient355);fill-opacity:1" />    </clipPath>    <g       clip-path="url(#clip110)"       id="g330"       style="fill:url(#linearGradient358);fill-opacity:1;fill-rule:nonzero;stroke-width:1.00012;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">      <g         transform="translate(23,218)"         id="g329"         style="fill:url(#linearGradient357);fill-opacity:1;fill-rule:nonzero;stroke-width:1.00012;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">        <text           fill-opacity="1"           font-style="normal"           font-family="Helvetica"           font-weight="normal"           stroke="none"           fill="#000000"           font-size="24px"           x="0"           y="0"           id="text328"           style="font-size:32.9259px;fill:url(#linearGradient356);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:1"><tspan             style="font-size:32.9259px;fill:url(#linearGradient356);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:1"             id="tspan347">P</tspan><tspan             style="font-size:65%;baseline-shift:sub;fill:url(#linearGradient356);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:1"             id="tspan346">1</tspan></text>      </g>      <!-- transform -->    </g>    <!-- clip110 -->  </g>  <g     transform="matrix(0.56693,0,0,0.56693,53.124071,-3.0695229)"     id="g331-1"     style="fill:url(#linearGradient363);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00012;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">    <clipPath       id="clipPath8"       style="fill:url(#linearGradient355);fill-opacity:1">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path8-7"         style="fill:url(#linearGradient355);fill-opacity:1" />    </clipPath>    <g       clip-path="url(#clip110-2)"       id="g330-7"       style="fill:url(#linearGradient362);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:1">      <g         transform="translate(23,218)"         id="g329-3"         style="fill:url(#linearGradient361);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:1">        <text           fill-opacity="1"           font-style="normal"           font-family="Helvetica"           font-weight="normal"           stroke="none"           fill="#000000"           font-size="24px"           x="0"           y="0"           id="text328-6"           style="font-size:32.9259px;fill:url(#linearGradient366);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:1">P<tspan   style="font-size:65%;baseline-shift:sub"   id="tspan383">2</tspan></text>      </g>      <!-- transform -->    </g>    <!-- clip110 -->  </g>  <g     transform="matrix(0.56693,0,0,0.56693,138.6598,-3.2184054)"     id="g331-9"     style="fill:url(#linearGradient370);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00012;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">    <clipPath       id="clipPath8-5"       style="fill:url(#linearGradient355);fill-opacity:1">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path8-2"         style="fill:url(#linearGradient355);fill-opacity:1" />    </clipPath>    <g       clip-path="url(#clip110-26)"       id="g330-8"       style="fill:url(#linearGradient369);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:1">      <g         transform="translate(23,218)"         id="g329-39"         style="fill:url(#linearGradient368);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:1">        <text           fill-opacity="1"           font-style="normal"           font-family="Helvetica"           font-weight="normal"           stroke="none"           fill="#000000"           font-size="24px"           x="0"           y="0"           id="text328-67"           style="font-size:32.9259px;fill:url(#linearGradient384);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:1">P<tspan   style="font-size:65%;baseline-shift:sub;fill:url(#linearGradient384)"   id="tspan382">3</tspan></text>      </g>      <!-- transform -->    </g>    <!-- clip110 -->  </g>  <g     transform="matrix(0.56693,0,0,0.56693,253.4312,-2.3508797)"     id="g331-4"     style="fill:url(#linearGradient377);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00012;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">    <clipPath       id="clipPath8-0"       style="fill:url(#linearGradient355);fill-opacity:1">      <path         d="M 0,0 V 241 H 589 V 0 Z"         id="path8-3"         style="fill:url(#linearGradient355);fill-opacity:1" />    </clipPath>    <g       clip-path="url(#clip110-6)"       id="g330-2"       style="fill:url(#linearGradient376);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:1">      <g         transform="translate(23,218)"         id="g329-9"         style="fill:url(#linearGradient375);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:1">        <text           fill-opacity="1"           font-style="normal"           font-family="Helvetica"           font-weight="normal"           stroke="none"           fill="#000000"           font-size="24px"           x="0"           y="0"           id="text328-2"           style="font-size:32.9259px;fill:url(#linearGradient380);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:1">P<tspan   style="font-size:65%;baseline-shift:sub"   id="tspan380">4</tspan></text>      </g>      <!-- transform -->    </g>    <!-- clip110 -->  </g>  <!-- default stroke --></svg><!-- bounding box -->
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="333px"
+   height="136px"
+   viewBox="0 0 333 136"
+   id="svg342"
+   sodipodi:docname="s2-h23-2-4.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs343">
+    <linearGradient
+       id="swatch355"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop355" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient347"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop347" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop348" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient347"
+       id="linearGradient348"
+       x1="1.1751125"
+       y1="-6.1898437"
+       x2="22.496176"
+       y2="-6.1898437"
+       gradientUnits="userSpaceOnUse" />
+    <defs
+       id="defs342">
+      <font
+         id="Helvetica">
+        <font-face
+           font-family="Helvetica"
+           font-weight="normal"
+           font-style="normal"
+           font-size="100.00"
+           units-per-em="100.00"
+           ascent="100.53711"
+           desscent="21.972656"
+           id="font-face340" />
+        <missing-glyph
+           horiz-adv-x="75.000"
+           d="M 12.500 -0.0000 L 12.500 62.500 L 62.500 62.500 L 62.500 -0.0000 L 12.500 -0.0000 z M 14.062 1.5625 L 60.938 1.5625 L 60.938 60.938 L 14.062 60.938 L 14.062 1.5625 z"
+           id="missing-glyph340" />
+        <glyph
+           unicode="3"
+           horiz-adv-x="55.615"
+           d="M 4.2031 18.891 L 12.984 20.062 Q 14.500 12.594 18.141 9.2969 Q 21.781 6.0000 27.000 6.0000 Q 33.203 6.0000 37.477 10.297 Q 41.750 14.594 41.750 20.953 Q 41.750 27.000 37.797 30.930 Q 33.844 34.859 27.734 34.859 Q 25.250 34.859 21.531 33.891 L 22.516 41.609 Q 23.391 41.500 23.922 41.500 Q 29.547 41.500 34.039 44.430 Q 38.531 47.359 38.531 53.469 Q 38.531 58.297 35.258 61.477 Q 31.984 64.656 26.812 64.656 Q 21.688 64.656 18.266 61.430 Q 14.844 58.203 13.875 51.766 L 5.0781 53.328 Q 6.6875 62.156 12.398 67.016 Q 18.109 71.875 26.609 71.875 Q 32.469 71.875 37.398 69.359 Q 42.328 66.844 44.945 62.500 Q 47.562 58.156 47.562 53.266 Q 47.562 48.641 45.070 44.828 Q 42.578 41.016 37.703 38.766 Q 44.047 37.312 47.562 32.695 Q 51.078 28.078 51.078 21.141 Q 51.078 11.766 44.242 5.2500 Q 37.406 -1.2656 26.953 -1.2656 Q 17.531 -1.2656 11.305 4.3516 Q 5.0781 9.9688 4.2031 18.891 z"
+           id="glyph340" />
+        <glyph
+           unicode="1"
+           horiz-adv-x="55.615"
+           d="M 37.250 -0.0000 L 28.469 -0.0000 L 28.469 56.000 Q 25.297 52.984 20.141 49.953 Q 14.984 46.922 10.891 45.406 L 10.891 53.906 Q 18.266 57.375 23.781 62.305 Q 29.297 67.234 31.594 71.875 L 37.250 71.875 L 37.250 -0.0000 z"
+           id="glyph341" />
+        <glyph
+           unicode="6"
+           horiz-adv-x="55.615"
+           d="M 49.750 54.047 L 41.016 53.375 Q 39.844 58.547 37.703 60.891 Q 34.125 64.656 28.906 64.656 Q 24.703 64.656 21.531 62.312 Q 17.391 59.281 14.992 53.469 Q 12.594 47.656 12.500 36.922 Q 15.672 41.750 20.266 44.094 Q 24.859 46.438 29.891 46.438 Q 38.672 46.438 44.852 39.969 Q 51.031 33.500 51.031 23.250 Q 51.031 16.500 48.125 10.719 Q 45.219 4.9375 40.141 1.8594 Q 35.062 -1.2188 28.609 -1.2188 Q 17.625 -1.2188 10.695 6.8594 Q 3.7656 14.938 3.7656 33.500 Q 3.7656 54.250 11.422 63.672 Q 18.109 71.875 29.438 71.875 Q 37.891 71.875 43.289 67.141 Q 48.688 62.406 49.750 54.047 z M 13.875 23.188 Q 13.875 18.656 15.797 14.508 Q 17.719 10.359 21.188 8.1797 Q 24.656 6.0000 28.469 6.0000 Q 34.031 6.0000 38.039 10.492 Q 42.047 14.984 42.047 22.703 Q 42.047 30.125 38.086 34.398 Q 34.125 38.672 28.125 38.672 Q 22.172 38.672 18.023 34.398 Q 13.875 30.125 13.875 23.188 z"
+           id="glyph342" />
+      </font>
+    </defs>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch355"
+       id="linearGradient355"
+       x1="25.589498"
+       y1="207.08181"
+       x2="62.163994"
+       y2="207.08181"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch355"
+       id="linearGradient356"
+       gradientUnits="userSpaceOnUse"
+       x1="25.589498"
+       y1="207.08181"
+       x2="62.163994"
+       y2="207.08181" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch355"
+       id="linearGradient357"
+       gradientUnits="userSpaceOnUse"
+       x1="25.589498"
+       y1="207.08181"
+       x2="62.163994"
+       y2="207.08181" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch355"
+       id="linearGradient358"
+       gradientUnits="userSpaceOnUse"
+       x1="25.589498"
+       y1="207.08181"
+       x2="62.163994"
+       y2="207.08181" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch355"
+       id="linearGradient359"
+       gradientUnits="userSpaceOnUse"
+       x1="25.589498"
+       y1="207.08181"
+       x2="62.163994"
+       y2="207.08181" />
+    <clipPath
+       id="clip110-2"
+       style="fill:url(#linearGradient355);fill-opacity:1">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path328-9"
+         style="fill:url(#linearGradient355);fill-opacity:1" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch355"
+       id="linearGradient361"
+       gradientUnits="userSpaceOnUse"
+       x1="25.589498"
+       y1="207.08181"
+       x2="62.163994"
+       y2="207.08181" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch355"
+       id="linearGradient362"
+       gradientUnits="userSpaceOnUse"
+       x1="25.589498"
+       y1="207.08181"
+       x2="62.163994"
+       y2="207.08181" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch355"
+       id="linearGradient363"
+       gradientUnits="userSpaceOnUse"
+       x1="25.589498"
+       y1="207.08181"
+       x2="62.163994"
+       y2="207.08181" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch355"
+       id="linearGradient366"
+       gradientUnits="userSpaceOnUse"
+       x1="25.589498"
+       y1="207.08181"
+       x2="62.163994"
+       y2="207.08181" />
+    <clipPath
+       id="clip110-26"
+       style="fill:url(#linearGradient355);fill-opacity:1">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path328-8"
+         style="fill:url(#linearGradient355);fill-opacity:1" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch355"
+       id="linearGradient368"
+       gradientUnits="userSpaceOnUse"
+       x1="25.589498"
+       y1="207.08181"
+       x2="62.163994"
+       y2="207.08181" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch355"
+       id="linearGradient369"
+       gradientUnits="userSpaceOnUse"
+       x1="25.589498"
+       y1="207.08181"
+       x2="62.163994"
+       y2="207.08181" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch355"
+       id="linearGradient370"
+       gradientUnits="userSpaceOnUse"
+       x1="25.589498"
+       y1="207.08181"
+       x2="62.163994"
+       y2="207.08181" />
+    <clipPath
+       id="clip110-6"
+       style="fill:url(#linearGradient355);fill-opacity:1">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path328-3"
+         style="fill:url(#linearGradient355);fill-opacity:1" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch355"
+       id="linearGradient375"
+       gradientUnits="userSpaceOnUse"
+       x1="25.589498"
+       y1="207.08181"
+       x2="62.163994"
+       y2="207.08181" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch355"
+       id="linearGradient376"
+       gradientUnits="userSpaceOnUse"
+       x1="25.589498"
+       y1="207.08181"
+       x2="62.163994"
+       y2="207.08181" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch355"
+       id="linearGradient377"
+       gradientUnits="userSpaceOnUse"
+       x1="25.589498"
+       y1="207.08181"
+       x2="62.163994"
+       y2="207.08181" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch355"
+       id="linearGradient380"
+       gradientUnits="userSpaceOnUse"
+       x1="25.589498"
+       y1="207.08181"
+       x2="62.163994"
+       y2="207.08181" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch355"
+       id="linearGradient384"
+       gradientUnits="userSpaceOnUse"
+       x1="25.589498"
+       y1="207.08181"
+       x2="62.163994"
+       y2="207.08181" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview342"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="true"
+     inkscape:zoom="2.4653182"
+     inkscape:cx="193.28133"
+     inkscape:cy="58.207495"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg342" />
+  <title
+     id="title1" />
+  <desc
+     id="desc1">
+    <Title />
+    <Creator>FreeHEP Graphics2D Driver</Creator>
+    <Producer>geogebra.d.U Revision: 1.11 </Producer>
+    <Source />
+    <Date>samedi 26 octobre 2013 23 h 20 CEST</Date>
+  </desc>
+  <g
+     id="misc"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0" />
+  <g
+     transform="scale(0.56693)"
+     id="g7"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip2">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path4" />
+    </clipPath>
+    <g
+       clip-path="url(#clip2)"
+       id="g6">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#0000ff"
+         id="g5">
+        <path
+           d="m 41,108 c 0,3.87 -3.134,7 -7,7 -3.866,0 -7,-3.13 -7,-7 0,-3.87 3.134,-7 7,-7 3.866,0 7,3.13 7,7 z"
+           id="path5" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip2 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g10"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip3">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path7" />
+    </clipPath>
+    <g
+       clip-path="url(#clip3)"
+       id="g9">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g8">
+        <path
+           d="m 41,108 c 0,3.87 -3.134,7 -7,7 -3.866,0 -7,-3.13 -7,-7 0,-3.87 3.134,-7 7,-7 3.866,0 7,3.13 7,7 z"
+           id="path8" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip3 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g13"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip4">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path10" />
+    </clipPath>
+    <g
+       clip-path="url(#clip4)"
+       id="g12">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#0000ff"
+         id="g11">
+        <path
+           d="m 141,108 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path11" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip4 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g16"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip5">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path13" />
+    </clipPath>
+    <g
+       clip-path="url(#clip5)"
+       id="g15">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g14">
+        <path
+           d="m 141,108 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path14" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip5 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g19"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip6">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path16" />
+    </clipPath>
+    <g
+       clip-path="url(#clip6)"
+       id="g18">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#ff0000"
+         id="g17">
+        <path
+           d="m 141,83 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path17" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip6 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g22"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip7">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path19" />
+    </clipPath>
+    <g
+       clip-path="url(#clip7)"
+       id="g21">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g20">
+        <path
+           d="m 141,83 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path20" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip7 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g25"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip8">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path22" />
+    </clipPath>
+    <g
+       clip-path="url(#clip8)"
+       id="g24">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#ff0000"
+         id="g23">
+        <path
+           d="m 117,100 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path23" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip8 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g28"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip9">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path25" />
+    </clipPath>
+    <g
+       clip-path="url(#clip9)"
+       id="g27">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g26">
+        <path
+           d="m 117,100 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path26" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip9 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g31"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip10">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path28" />
+    </clipPath>
+    <g
+       clip-path="url(#clip10)"
+       id="g30">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#ff0000"
+         id="g29">
+        <path
+           d="m 165,100 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path29" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip10 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g34"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip11">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path31" />
+    </clipPath>
+    <g
+       clip-path="url(#clip11)"
+       id="g33">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g32">
+        <path
+           d="m 165,100 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path32" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip11 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g37"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip12">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path34" />
+    </clipPath>
+    <g
+       clip-path="url(#clip12)"
+       id="g36">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#ff0000"
+         id="g35">
+        <path
+           d="m 156,128 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path35" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip12 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g40"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip13">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path37" />
+    </clipPath>
+    <g
+       clip-path="url(#clip13)"
+       id="g39">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g38">
+        <path
+           d="m 156,128 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path38" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip13 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g43"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip14">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path40" />
+    </clipPath>
+    <g
+       clip-path="url(#clip14)"
+       id="g42">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#ff0000"
+         id="g41">
+        <path
+           d="m 126,128 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path41" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip14 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g46"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip15">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path43" />
+    </clipPath>
+    <g
+       clip-path="url(#clip15)"
+       id="g45">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g44">
+        <path
+           d="m 126,128 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path44" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip15 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g49"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip16">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path46" />
+    </clipPath>
+    <g
+       clip-path="url(#clip16)"
+       id="g48">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#0000ff"
+         id="g47">
+        <path
+           d="m 291,108 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path47" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip16 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g52"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip17">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path49" />
+    </clipPath>
+    <g
+       clip-path="url(#clip17)"
+       id="g51">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g50">
+        <path
+           d="m 291,108 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path50" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip17 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g55"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip18">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path52" />
+    </clipPath>
+    <g
+       clip-path="url(#clip18)"
+       id="g54">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#0000ff"
+         id="g53">
+        <path
+           d="m 291,83 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path53" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip18 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g58"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip19">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path55" />
+    </clipPath>
+    <g
+       clip-path="url(#clip19)"
+       id="g57">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g56">
+        <path
+           d="m 291,83 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path56" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip19 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g61"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip20">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path58" />
+    </clipPath>
+    <g
+       clip-path="url(#clip20)"
+       id="g60">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#ff0000"
+         id="g59">
+        <path
+           d="m 291,58 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path59" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip20 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g64"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip21">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path61" />
+    </clipPath>
+    <g
+       clip-path="url(#clip21)"
+       id="g63">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g62">
+        <path
+           d="m 291,58 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path62" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip21 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g67"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip22">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path64" />
+    </clipPath>
+    <g
+       clip-path="url(#clip22)"
+       id="g66">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#ff0000"
+         id="g65">
+        <path
+           d="m 243,93 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path65" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip22 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g70"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip23">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path67" />
+    </clipPath>
+    <g
+       clip-path="url(#clip23)"
+       id="g69">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g68">
+        <path
+           d="m 243,93 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path68" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip23 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g73"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip24">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path70" />
+    </clipPath>
+    <g
+       clip-path="url(#clip24)"
+       id="g72">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#0000ff"
+         id="g71">
+        <path
+           d="m 267,100 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path71" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip24 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g76"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip25">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path73" />
+    </clipPath>
+    <g
+       clip-path="url(#clip25)"
+       id="g75">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g74">
+        <path
+           d="m 267,100 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path74" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip25 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g79"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip26">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path76" />
+    </clipPath>
+    <g
+       clip-path="url(#clip26)"
+       id="g78">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#0000ff"
+         id="g77">
+        <path
+           d="m 315,100 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path77" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip26 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g82"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip27">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path79" />
+    </clipPath>
+    <g
+       clip-path="url(#clip27)"
+       id="g81">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g80">
+        <path
+           d="m 315,100 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path80" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip27 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g85"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip28">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path82" />
+    </clipPath>
+    <g
+       clip-path="url(#clip28)"
+       id="g84">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#0000ff"
+         id="g83">
+        <path
+           d="m 306,128 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path83" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip28 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g88"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip29">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path85" />
+    </clipPath>
+    <g
+       clip-path="url(#clip29)"
+       id="g87">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g86">
+        <path
+           d="m 306,128 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path86" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip29 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g91"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip30">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path88" />
+    </clipPath>
+    <g
+       clip-path="url(#clip30)"
+       id="g90">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#0000ff"
+         id="g89">
+        <path
+           d="m 276,128 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path89" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip30 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g94"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip31">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path91" />
+    </clipPath>
+    <g
+       clip-path="url(#clip31)"
+       id="g93">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g92">
+        <path
+           d="m 276,128 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path92" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip31 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g97"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip32">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path94" />
+    </clipPath>
+    <g
+       clip-path="url(#clip32)"
+       id="g96">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#ff0000"
+         id="g95">
+        <path
+           d="m 339,93 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path95" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip32 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g100"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip33">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path97" />
+    </clipPath>
+    <g
+       clip-path="url(#clip33)"
+       id="g99">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g98">
+        <path
+           d="m 339,93 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path98" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip33 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g103"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip34">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path100" />
+    </clipPath>
+    <g
+       clip-path="url(#clip34)"
+       id="g102">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#ff0000"
+         id="g101">
+        <path
+           d="m 320,148 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path101" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip34 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g106"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip35">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path103" />
+    </clipPath>
+    <g
+       clip-path="url(#clip35)"
+       id="g105">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g104">
+        <path
+           d="m 320,148 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path104" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip35 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g109"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip36">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path106" />
+    </clipPath>
+    <g
+       clip-path="url(#clip36)"
+       id="g108">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#ff0000"
+         id="g107">
+        <path
+           d="m 262,148 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path107" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip36 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g112"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip37">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path109" />
+    </clipPath>
+    <g
+       clip-path="url(#clip37)"
+       id="g111">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g110">
+        <path
+           d="m 262,148 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path110" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip37 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g115"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip38">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path112" />
+    </clipPath>
+    <g
+       clip-path="url(#clip38)"
+       id="g114">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#ff0000"
+         id="g113">
+        <path
+           d="m 267,75 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path113" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip38 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g118"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip39">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path115" />
+    </clipPath>
+    <g
+       clip-path="url(#clip39)"
+       id="g117">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g116">
+        <path
+           d="m 267,75 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path116" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip39 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g121"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip40">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path118" />
+    </clipPath>
+    <g
+       clip-path="url(#clip40)"
+       id="g120">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#ff0000"
+         id="g119">
+        <path
+           d="m 253,120 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path119" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip40 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g124"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip41">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path121" />
+    </clipPath>
+    <g
+       clip-path="url(#clip41)"
+       id="g123">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g122">
+        <path
+           d="m 253,120 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path122" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip41 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g127"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip42">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path124" />
+    </clipPath>
+    <g
+       clip-path="url(#clip42)"
+       id="g126">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#ff0000"
+         id="g125">
+        <path
+           d="m 291,148 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path125" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip42 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g130"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip43">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path127" />
+    </clipPath>
+    <g
+       clip-path="url(#clip43)"
+       id="g129">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g128">
+        <path
+           d="m 291,148 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path128" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip43 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g133"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip44">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path130" />
+    </clipPath>
+    <g
+       clip-path="url(#clip44)"
+       id="g132">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#ff0000"
+         id="g131">
+        <path
+           d="m 329,120 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path131" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip44 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g136"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip45">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path133" />
+    </clipPath>
+    <g
+       clip-path="url(#clip45)"
+       id="g135">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g134">
+        <path
+           d="m 329,120 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path134" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip45 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g139"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip46">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path136" />
+    </clipPath>
+    <g
+       clip-path="url(#clip46)"
+       id="g138">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#0000ff"
+         id="g137">
+        <path
+           d="m 491,108 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path137" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip46 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g142"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip47">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path139" />
+    </clipPath>
+    <g
+       clip-path="url(#clip47)"
+       id="g141">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g140">
+        <path
+           d="m 491,108 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path140" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip47 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g145"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip48">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path142" />
+    </clipPath>
+    <g
+       clip-path="url(#clip48)"
+       id="g144">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#0000ff"
+         id="g143">
+        <path
+           d="m 491,83 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path143" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip48 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g148"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip49">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path145" />
+    </clipPath>
+    <g
+       clip-path="url(#clip49)"
+       id="g147">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g146">
+        <path
+           d="m 491,83 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path146" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip49 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g151"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip50">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path148" />
+    </clipPath>
+    <g
+       clip-path="url(#clip50)"
+       id="g150">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#0000ff"
+         id="g149">
+        <path
+           d="m 491,58 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path149" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip50 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g154"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip51">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path151" />
+    </clipPath>
+    <g
+       clip-path="url(#clip51)"
+       id="g153">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g152">
+        <path
+           d="m 491,58 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path152" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip51 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g157"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip52">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path154" />
+    </clipPath>
+    <g
+       clip-path="url(#clip52)"
+       id="g156">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#ff0000"
+         id="g155">
+        <path
+           d="m 491,33 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path155" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip52 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g160"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip53">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path157" />
+    </clipPath>
+    <g
+       clip-path="url(#clip53)"
+       id="g159">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g158">
+        <path
+           d="m 491,33 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path158" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip53 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g163"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip54">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path160" />
+    </clipPath>
+    <g
+       clip-path="url(#clip54)"
+       id="g162">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#ff0000"
+         id="g161">
+        <path
+           d="m 420,85 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path161" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip54 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g166"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip55">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path163" />
+    </clipPath>
+    <g
+       clip-path="url(#clip55)"
+       id="g165">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g164">
+        <path
+           d="m 420,85 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path164" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip55 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g169"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip56">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path166" />
+    </clipPath>
+    <g
+       clip-path="url(#clip56)"
+       id="g168">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#0000ff"
+         id="g167">
+        <path
+           d="m 443,93 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path167" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip56 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g172"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip57">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path169" />
+    </clipPath>
+    <g
+       clip-path="url(#clip57)"
+       id="g171">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g170">
+        <path
+           d="m 443,93 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path170" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip57 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g175"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip58">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path172" />
+    </clipPath>
+    <g
+       clip-path="url(#clip58)"
+       id="g174">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#0000ff"
+         id="g173">
+        <path
+           d="m 467,100 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path173" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip58 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g178"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip59">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path175" />
+    </clipPath>
+    <g
+       clip-path="url(#clip59)"
+       id="g177">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g176">
+        <path
+           d="m 467,100 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path176" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip59 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g181"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip60">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path178" />
+    </clipPath>
+    <g
+       clip-path="url(#clip60)"
+       id="g180">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#0000ff"
+         id="g179">
+        <path
+           d="m 515,100 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path179" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip60 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g184"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip61">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path181" />
+    </clipPath>
+    <g
+       clip-path="url(#clip61)"
+       id="g183">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g182">
+        <path
+           d="m 515,100 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path182" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip61 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g187"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip62">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path184" />
+    </clipPath>
+    <g
+       clip-path="url(#clip62)"
+       id="g186">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#0000ff"
+         id="g185">
+        <path
+           d="m 506,128 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path185" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip62 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g190"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip63">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path187" />
+    </clipPath>
+    <g
+       clip-path="url(#clip63)"
+       id="g189">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g188">
+        <path
+           d="m 506,128 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path188" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip63 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g193"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip64">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path190" />
+    </clipPath>
+    <g
+       clip-path="url(#clip64)"
+       id="g192">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#0000ff"
+         id="g191">
+        <path
+           d="m 476,128 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path191" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip64 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g196"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip65">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path193" />
+    </clipPath>
+    <g
+       clip-path="url(#clip65)"
+       id="g195">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g194">
+        <path
+           d="m 476,128 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path194" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip65 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g199"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip66">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path196" />
+    </clipPath>
+    <g
+       clip-path="url(#clip66)"
+       id="g198">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#0000ff"
+         id="g197">
+        <path
+           d="m 539,93 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path197" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip66 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g202"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip67">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path199" />
+    </clipPath>
+    <g
+       clip-path="url(#clip67)"
+       id="g201">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g200">
+        <path
+           d="m 539,93 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path200" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip67 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g205"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip68">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path202" />
+    </clipPath>
+    <g
+       clip-path="url(#clip68)"
+       id="g204">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#0000ff"
+         id="g203">
+        <path
+           d="m 520,148 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path203" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip68 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g208"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip69">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path205" />
+    </clipPath>
+    <g
+       clip-path="url(#clip69)"
+       id="g207">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g206">
+        <path
+           d="m 520,148 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path206" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip69 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g211"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip70">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path208" />
+    </clipPath>
+    <g
+       clip-path="url(#clip70)"
+       id="g210">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#0000ff"
+         id="g209">
+        <path
+           d="m 462,148 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path209" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip70 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g214"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip71">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path211" />
+    </clipPath>
+    <g
+       clip-path="url(#clip71)"
+       id="g213">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g212">
+        <path
+           d="m 462,148 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path212" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip71 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g217"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip72">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path214" />
+    </clipPath>
+    <g
+       clip-path="url(#clip72)"
+       id="g216">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#ff0000"
+         id="g215">
+        <path
+           d="m 562,85 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path215" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip72 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g220"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip73">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path217" />
+    </clipPath>
+    <g
+       clip-path="url(#clip73)"
+       id="g219">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g218">
+        <path
+           d="m 562,85 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path218" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip73 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g223"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip74">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path220" />
+    </clipPath>
+    <g
+       clip-path="url(#clip74)"
+       id="g222">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#ff0000"
+         id="g221">
+        <path
+           d="m 535,169 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path221" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip74 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g226"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip75">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path223" />
+    </clipPath>
+    <g
+       clip-path="url(#clip75)"
+       id="g225">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g224">
+        <path
+           d="m 535,169 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path224" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip75 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g229"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip76">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path226" />
+    </clipPath>
+    <g
+       clip-path="url(#clip76)"
+       id="g228">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#ff0000"
+         id="g227">
+        <path
+           d="m 447,169 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path227" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip76 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g232"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip77">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path229" />
+    </clipPath>
+    <g
+       clip-path="url(#clip77)"
+       id="g231">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g230">
+        <path
+           d="m 447,169 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path230" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip77 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g235"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip78">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path232" />
+    </clipPath>
+    <g
+       clip-path="url(#clip78)"
+       id="g234">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#0000ff"
+         id="g233">
+        <path
+           d="m 467,75 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path233" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip78 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g238"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip79">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path235" />
+    </clipPath>
+    <g
+       clip-path="url(#clip79)"
+       id="g237">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g236">
+        <path
+           d="m 467,75 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path236" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip79 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g241"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip80">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path238" />
+    </clipPath>
+    <g
+       clip-path="url(#clip80)"
+       id="g240">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#0000ff"
+         id="g239">
+        <path
+           d="m 453,120 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path239" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip80 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g244"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip81">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path241" />
+    </clipPath>
+    <g
+       clip-path="url(#clip81)"
+       id="g243">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g242">
+        <path
+           d="m 453,120 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path242" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip81 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g247"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip82">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path244" />
+    </clipPath>
+    <g
+       clip-path="url(#clip82)"
+       id="g246">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#0000ff"
+         id="g245">
+        <path
+           d="m 491,148 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path245" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip82 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g250"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip83">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path247" />
+    </clipPath>
+    <g
+       clip-path="url(#clip83)"
+       id="g249">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g248">
+        <path
+           d="m 491,148 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path248" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip83 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g253"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip84">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path250" />
+    </clipPath>
+    <g
+       clip-path="url(#clip84)"
+       id="g252">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#0000ff"
+         id="g251">
+        <path
+           d="m 529,120 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path251" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip84 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g256"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip85">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path253" />
+    </clipPath>
+    <g
+       clip-path="url(#clip85)"
+       id="g255">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g254">
+        <path
+           d="m 529,120 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path254" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip85 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g259"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip86">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path256" />
+    </clipPath>
+    <g
+       clip-path="url(#clip86)"
+       id="g258">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#0000ff"
+         id="g257">
+        <path
+           d="m 515,75 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path257" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip86 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g262"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip87">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path259" />
+    </clipPath>
+    <g
+       clip-path="url(#clip87)"
+       id="g261">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g260">
+        <path
+           d="m 515,75 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path260" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip87 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g265"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip88">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path262" />
+    </clipPath>
+    <g
+       clip-path="url(#clip88)"
+       id="g264">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#ff0000"
+         id="g263">
+        <path
+           d="m 443,68 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path263" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip88 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g268"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip89">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path265" />
+    </clipPath>
+    <g
+       clip-path="url(#clip89)"
+       id="g267">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g266">
+        <path
+           d="m 443,68 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path266" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip89 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g271"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip90">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path268" />
+    </clipPath>
+    <g
+       clip-path="url(#clip90)"
+       id="g270">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#ff0000"
+         id="g269">
+        <path
+           d="m 467,50 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path269" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip90 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g274"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip91">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path271" />
+    </clipPath>
+    <g
+       clip-path="url(#clip91)"
+       id="g273">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g272">
+        <path
+           d="m 467,50 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path272" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip91 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g277"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip92">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path274" />
+    </clipPath>
+    <g
+       clip-path="url(#clip92)"
+       id="g276">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#ff0000"
+         id="g275">
+        <path
+           d="m 438,141 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path275" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip92 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g280"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip93">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path277" />
+    </clipPath>
+    <g
+       clip-path="url(#clip93)"
+       id="g279">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g278">
+        <path
+           d="m 438,141 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path278" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip93 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g283"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip94">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path280" />
+    </clipPath>
+    <g
+       clip-path="url(#clip94)"
+       id="g282">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#ff0000"
+         id="g281">
+        <path
+           d="m 429,113 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path281" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip94 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g286"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip95">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path283" />
+    </clipPath>
+    <g
+       clip-path="url(#clip95)"
+       id="g285">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g284">
+        <path
+           d="m 429,113 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path284" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip95 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g289"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip96">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path286" />
+    </clipPath>
+    <g
+       clip-path="url(#clip96)"
+       id="g288">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#ff0000"
+         id="g287">
+        <path
+           d="m 506,169 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path287" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip96 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g292"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip97">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path289" />
+    </clipPath>
+    <g
+       clip-path="url(#clip97)"
+       id="g291">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g290">
+        <path
+           d="m 506,169 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path290" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip97 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g295"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip98">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path292" />
+    </clipPath>
+    <g
+       clip-path="url(#clip98)"
+       id="g294">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#ff0000"
+         id="g293">
+        <path
+           d="m 476,169 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path293" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip98 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g298"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip99">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path295" />
+    </clipPath>
+    <g
+       clip-path="url(#clip99)"
+       id="g297">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g296">
+        <path
+           d="m 476,169 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path296" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip99 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g301"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip100">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path298" />
+    </clipPath>
+    <g
+       clip-path="url(#clip100)"
+       id="g300">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#ff0000"
+         id="g299">
+        <path
+           d="m 553,113 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path299" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip100 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g304"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip101">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path301" />
+    </clipPath>
+    <g
+       clip-path="url(#clip101)"
+       id="g303">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g302">
+        <path
+           d="m 553,113 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path302" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip101 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g307"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip102">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path304" />
+    </clipPath>
+    <g
+       clip-path="url(#clip102)"
+       id="g306">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#ff0000"
+         id="g305">
+        <path
+           d="m 544,141 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path305" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip102 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g310"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip103">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path307" />
+    </clipPath>
+    <g
+       clip-path="url(#clip103)"
+       id="g309">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g308">
+        <path
+           d="m 544,141 c 0,3.87 -3.13,7 -7,7 -3.87,0 -7,-3.13 -7,-7 0,-3.87 3.13,-7 7,-7 3.87,0 7,3.13 7,7 z"
+           id="path308" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip103 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g313"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip104">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path310" />
+    </clipPath>
+    <g
+       clip-path="url(#clip104)"
+       id="g312">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#ff0000"
+         id="g311">
+        <path
+           d="m 515,50 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path311" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip104 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g316"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip105">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path313" />
+    </clipPath>
+    <g
+       clip-path="url(#clip105)"
+       id="g315">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g314">
+        <path
+           d="m 515,50 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path314" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip105 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g319"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip106">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path316" />
+    </clipPath>
+    <g
+       clip-path="url(#clip106)"
+       id="g318">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#ff0000"
+         id="g317">
+        <path
+           d="m 539,68 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path317" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip106 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g322"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip107">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path319" />
+    </clipPath>
+    <g
+       clip-path="url(#clip107)"
+       id="g321">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g320">
+        <path
+           d="m 539,68 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path320" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip107 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g325"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip108">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path322" />
+    </clipPath>
+    <g
+       clip-path="url(#clip108)"
+       id="g324">
+      <g
+         fill-opacity="1"
+         fill-rule="nonzero;"
+         stroke="none"
+         fill="#ff0000"
+         id="g323">
+        <path
+           d="m 315,75 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path323" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip108 -->
+  </g>
+  <g
+     transform="scale(0.56693)"
+     id="g328"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <clipPath
+       id="clip109">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path325" />
+    </clipPath>
+    <g
+       clip-path="url(#clip109)"
+       id="g327">
+      <g
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         fill="none"
+         stroke-opacity="1"
+         stroke="#000000"
+         id="g326">
+        <path
+           d="m 315,75 c 0,3.866 -3.13,7 -7,7 -3.87,0 -7,-3.134 -7,-7 0,-3.866 3.13,-7 7,-7 3.87,0 7,3.134 7,7 z"
+           id="path326" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- clip109 -->
+  </g>
+  <g
+     transform="matrix(0.56693,0,0,0.56693,-0.76204371,-3.1754226)"
+     id="g331"
+     style="fill:url(#linearGradient359);fill-opacity:1;fill-rule:nonzero;stroke-width:1.00012;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke:#000000;stroke-opacity:1">
+    <clipPath
+       id="clip110"
+       style="fill:url(#linearGradient355);fill-opacity:1">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path328"
+         style="fill:url(#linearGradient355);fill-opacity:1" />
+    </clipPath>
+    <g
+       clip-path="url(#clip110)"
+       id="g330"
+       style="fill:url(#linearGradient358);fill-opacity:1;fill-rule:nonzero;stroke-width:1.00012;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+      <g
+         transform="translate(23,218)"
+         id="g329"
+         style="fill:url(#linearGradient357);fill-opacity:1;fill-rule:nonzero;stroke-width:1.00012;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="normal"
+           stroke="none"
+           fill="#000000"
+           font-size="24px"
+           x="0"
+           y="0"
+           id="text328"
+           style="font-size:32.9259px;fill:url(#linearGradient356);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:1"><tspan
+             style="font-size:32.9259px;fill:url(#linearGradient356);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:1"
+             id="tspan347">P</tspan><tspan
+             style="font-size:65%;baseline-shift:sub;fill:url(#linearGradient356);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:1"
+             id="tspan346">1</tspan></text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip110 -->
+  </g>
+  <g
+     transform="matrix(0.56693,0,0,0.56693,53.124071,-3.0695229)"
+     id="g331-1"
+     style="fill:url(#linearGradient363);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00012;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
+    <clipPath
+       id="clipPath8"
+       style="fill:url(#linearGradient355);fill-opacity:1">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path8-7"
+         style="fill:url(#linearGradient355);fill-opacity:1" />
+    </clipPath>
+    <g
+       clip-path="url(#clip110-2)"
+       id="g330-7"
+       style="fill:url(#linearGradient362);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:1">
+      <g
+         transform="translate(23,218)"
+         id="g329-3"
+         style="fill:url(#linearGradient361);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="normal"
+           stroke="none"
+           fill="#000000"
+           font-size="24px"
+           x="0"
+           y="0"
+           id="text328-6"
+           style="font-size:32.9259px;fill:url(#linearGradient366);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:1">P<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan383">2</tspan></text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip110 -->
+  </g>
+  <g
+     transform="matrix(0.56693,0,0,0.56693,138.6598,-3.2184054)"
+     id="g331-9"
+     style="fill:url(#linearGradient370);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00012;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
+    <clipPath
+       id="clipPath8-5"
+       style="fill:url(#linearGradient355);fill-opacity:1">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path8-2"
+         style="fill:url(#linearGradient355);fill-opacity:1" />
+    </clipPath>
+    <g
+       clip-path="url(#clip110-26)"
+       id="g330-8"
+       style="fill:url(#linearGradient369);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:1">
+      <g
+         transform="translate(23,218)"
+         id="g329-39"
+         style="fill:url(#linearGradient368);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="normal"
+           stroke="none"
+           fill="#000000"
+           font-size="24px"
+           x="0"
+           y="0"
+           id="text328-67"
+           style="font-size:32.9259px;fill:url(#linearGradient384);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:1">P<tspan
+   style="font-size:65%;baseline-shift:sub;fill:url(#linearGradient384)"
+   id="tspan382">3</tspan></text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip110 -->
+  </g>
+  <g
+     transform="matrix(0.56693,0,0,0.56693,253.4312,-2.3508797)"
+     id="g331-4"
+     style="fill:url(#linearGradient377);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00012;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
+    <clipPath
+       id="clipPath8-0"
+       style="fill:url(#linearGradient355);fill-opacity:1">
+      <path
+         d="M 0,0 V 241 H 589 V 0 Z"
+         id="path8-3"
+         style="fill:url(#linearGradient355);fill-opacity:1" />
+    </clipPath>
+    <g
+       clip-path="url(#clip110-6)"
+       id="g330-2"
+       style="fill:url(#linearGradient376);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:1">
+      <g
+         transform="translate(23,218)"
+         id="g329-9"
+         style="fill:url(#linearGradient375);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:1">
+        <text
+           fill-opacity="1"
+           font-style="normal"
+           font-family="Helvetica"
+           font-weight="normal"
+           stroke="none"
+           fill="#000000"
+           font-size="24px"
+           x="0"
+           y="0"
+           id="text328-2"
+           style="font-size:32.9259px;fill:url(#linearGradient380);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:1">P<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan380">4</tspan></text>
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- clip110 -->
+  </g>
+  <!-- default stroke -->
+</svg>
+<!-- bounding box -->
+
+
 *Figurkilde: By HB - Own work, CC BY-SA 3.0, <https://commons.wikimedia.org/w/index.php?curid=872244*>
 
 >a) Beskriv en rekursiv sammenheng mellom $P_{n}$ og $P_{n-1}$.
@@ -22,4 +3445,4 @@ De fem første figurtallene er 1, 6, 16, 31 og 51
 >
 
 ## Relatert
-<h3><span>Tilfeldige oppgaver i samme fag</span></h3><p><span>Det er ofte best å blande hvilke type oppgaver man gjør dersom du skal forberede deg til en prøve eller eksamen. Her er tre tilfeldige oppgaver i S2.</span></p><div><ul class="dataview list-view-ul"><li><span><a data-tooltip-position="top" aria-label="Lykkehjulet.md" data-href="Lykkehjulet.md" href="Lykkehjulet.md" class="internal-link" target="_blank" rel="noopener">Lykkehjulet S2 H22 Del 1 oppg 8</a></span></li><li><span><a data-tooltip-position="top" aria-label="Levetiden til normalfordelte batterier.md" data-href="Levetiden til normalfordelte batterier.md" href="Levetiden til normalfordelte batterier.md" class="internal-link" target="_blank" rel="noopener">Levetiden til normalfordelte batterier S2 V23 Del 1 oppg 6</a></span></li><li><span><a data-tooltip-position="top" aria-label="Hypotesetest om russetid.md" data-href="Hypotesetest om russetid.md" href="Hypotesetest om russetid.md" class="internal-link" target="_blank" rel="noopener">Hypotesetest om russetid S2 V19 Del 2 oppg 5</a></span></li></ul></div><h3><span>Lignende oppgaver sortert etter tema</span></h3><h4><span>Programmering</span></h4><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Oppgave</span><span class="dataview small-text">12</span></th><th class="table-view-th"><span>Fag</span></th><th class="table-view-th"><span>År</span></th><th class="table-view-th"><span>Oppg</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Areal under graf med programmering.md" data-href="Areal under graf med programmering.md" href="Areal under graf med programmering.md" class="internal-link" target="_blank" rel="noopener">Areal under graf med programmering</a></span></td><td><span>1T</span></td><td><span>V23</span></td><td><span>2-4</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Tolk og fiks program som finner bunnpunkt.md" data-href="Tolk og fiks program som finner bunnpunkt.md" href="Tolk og fiks program som finner bunnpunkt.md" class="internal-link" target="_blank" rel="noopener">Tolk og fiks program som finner bunnpunkt</a></span></td><td><span>R1</span></td><td><span>H23</span></td><td><span>1-4</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Ukjent program med kostnader for produksjon.md" data-href="Ukjent program med kostnader for produksjon.md" href="Ukjent program med kostnader for produksjon.md" class="internal-link" target="_blank" rel="noopener">Ukjent program med kostnader for produksjon</a></span></td><td><span>S1</span></td><td><span>V23</span></td><td><span>1-5</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Billetter til fotballkamp.md" data-href="Billetter til fotballkamp.md" href="Billetter til fotballkamp.md" class="internal-link" target="_blank" rel="noopener">Billetter til fotballkamp</a></span></td><td><span>S1</span></td><td><span>V23</span></td><td><span>2-5</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Ukjent program h23.md" data-href="Ukjent program h23.md" href="Ukjent program h23.md" class="internal-link" target="_blank" rel="noopener">Ukjent program h23</a></span></td><td><span>S2</span></td><td><span>H23</span></td><td><span>1-4</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Ukjent programkode.md" data-href="Ukjent programkode.md" href="Ukjent programkode.md" class="internal-link" target="_blank" rel="noopener">Ukjent programkode</a></span></td><td><span>S2</span></td><td><span>E22</span></td><td><span>1-7</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Ukjent program del 1 S2.md" data-href="Ukjent program del 1 S2.md" href="Ukjent program del 1 S2.md" class="internal-link" target="_blank" rel="noopener">Ukjent program del 1 S2</a></span></td><td><span>S2</span></td><td><span>V23</span></td><td><span>1-4</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Ukjent program Mønster v23.md" data-href="Ukjent program Mønster v23.md" href="Ukjent program Mønster v23.md" class="internal-link" target="_blank" rel="noopener">Ukjent program Mønster v23</a></span></td><td><span>S2</span></td><td><span>Ingen</span></td><td><span>1-5</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Simuler sannsynlighet for høyden til 24 måneder gammelt barn.md" data-href="Simuler sannsynlighet for høyden til 24 måneder gammelt barn.md" href="Simuler sannsynlighet for høyden til 24 måneder gammelt barn.md" class="internal-link" target="_blank" rel="noopener">Simuler sannsynlighet for høyden til 24 måneder gammelt barn</a></span></td><td><span>S2</span></td><td><span>H23</span></td><td><span>2-5</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole.md" data-href="Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole.md" href="Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole.md" class="internal-link" target="_blank" rel="noopener">Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole</a></span></td><td><span>S2</span></td><td><span>V23</span></td><td><span>2-5</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Simuler sannsynlighet for høyde over 175 cm.md" data-href="Simuler sannsynlighet for høyde over 175 cm.md" href="Simuler sannsynlighet for høyde over 175 cm.md" class="internal-link" target="_blank" rel="noopener">Simuler sannsynlighet for høyde over 175 cm</a></span></td><td><span>S2</span></td><td><span>E22</span></td><td><span>2-6</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Monas lån.md" data-href="Monas lån.md" href="Monas lån.md" class="internal-link" target="_blank" rel="noopener">Monas lån</a></span></td><td><span>S2</span></td><td><span>Ingen</span></td><td><span>2-7</span></td></tr></tbody></table></div><h4><span>Rekker</span></h4><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Oppgave</span><span class="dataview small-text">12</span></th><th class="table-view-th"><span>Fag</span></th><th class="table-view-th"><span>År</span></th><th class="table-view-th"><span>Oppg</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Ukjent program del 1 S2.md" data-href="Ukjent program del 1 S2.md" href="Ukjent program del 1 S2.md" class="internal-link" target="_blank" rel="noopener">Ukjent program del 1 S2</a></span></td><td><span>S2</span></td><td><span>V23</span></td><td><span>1-4</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Uendelig rekke med virkestoff fra legemiddel.md" data-href="Uendelig rekke med virkestoff fra legemiddel.md" href="Uendelig rekke med virkestoff fra legemiddel.md" class="internal-link" target="_blank" rel="noopener">Uendelig rekke med virkestoff fra legemiddel</a></span></td><td><span>S2</span></td><td><span>V23</span></td><td><span>1-4</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Uendelig geomtrisk rekke.md" data-href="Uendelig geomtrisk rekke.md" href="Uendelig geomtrisk rekke.md" class="internal-link" target="_blank" rel="noopener">Uendelig geomtrisk rekke</a></span></td><td><span>S2</span></td><td><span>H23</span></td><td><span>1-2a</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Summen av ukjent uendelig geometrisk rekke.md" data-href="Summen av ukjent uendelig geometrisk rekke.md" href="Summen av ukjent uendelig geometrisk rekke.md" class="internal-link" target="_blank" rel="noopener">Summen av ukjent uendelig geometrisk rekke</a></span></td><td><span>S2</span></td><td><span>E22</span></td><td><span>1-3</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Summen av repeterende brøker.md" data-href="Summen av repeterende brøker.md" href="Summen av repeterende brøker.md" class="internal-link" target="_blank" rel="noopener">Summen av repeterende brøker</a></span></td><td><span>S2</span></td><td><span>Ingen</span></td><td><span>Ingen</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Idas jakke.md" data-href="Idas jakke.md" href="Idas jakke.md" class="internal-link" target="_blank" rel="noopener">Idas jakke</a></span></td><td><span>S2</span></td><td><span>H22</span></td><td><span>1-5</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Hildegunns ukepenger.md" data-href="Hildegunns ukepenger.md" href="Hildegunns ukepenger.md" class="internal-link" target="_blank" rel="noopener">Hildegunns ukepenger</a></span></td><td><span>S2, R2</span></td><td><span>V23</span></td><td><span>2-4</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Aritmetisk rekke.md" data-href="Aritmetisk rekke.md" href="Aritmetisk rekke.md" class="internal-link" target="_blank" rel="noopener">Aritmetisk rekke</a></span></td><td><span>S2</span></td><td><span>H23</span></td><td><span>1-2b</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Begrunn at uendelig rekke konvergerer.md" data-href="Begrunn at uendelig rekke konvergerer.md" href="Begrunn at uendelig rekke konvergerer.md" class="internal-link" target="_blank" rel="noopener">Begrunn at uendelig rekke konvergerer</a></span></td><td><span>S2</span></td><td><span>H22</span></td><td><span>1-2</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Aritmetisk mur.md" data-href="Aritmetisk mur.md" href="Aritmetisk mur.md" class="internal-link" target="_blank" rel="noopener">Aritmetisk mur</a></span></td><td><span>S2</span></td><td><span>E22</span></td><td><span>1-2</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Annuitetslån.md" data-href="Annuitetslån.md" href="Annuitetslån.md" class="internal-link" target="_blank" rel="noopener">Annuitetslån</a></span></td><td><span>S2</span></td><td><span>V23</span></td><td><span>2-1</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Miriam og Hermods sparing.md" data-href="Miriam og Hermods sparing.md" href="Miriam og Hermods sparing.md" class="internal-link" target="_blank" rel="noopener">Miriam og Hermods sparing</a></span></td><td><span>S2</span></td><td><span>H23</span></td><td><span>2-2</span></td></tr></tbody></table></div>
+<h3><span>Tilfeldige oppgaver i samme fag</span></h3><p><span>Det er ofte best å blande hvilke type oppgaver man gjør dersom du skal forberede deg til en prøve eller eksamen. Her er tre tilfeldige oppgaver i S2.</span></p><div><ul class="dataview list-view-ul"><li><span><a data-tooltip-position="top" aria-label="Hypotesetest om russetid.md" data-href="Hypotesetest om russetid.md" href="Hypotesetest om russetid.md" class="internal-link" target="_blank" rel="noopener">Hypotesetest om russetid S2 V19 Del 2 oppg 5</a></span></li><li><span><a data-tooltip-position="top" aria-label="Levetiden til lyspærer.md" data-href="Levetiden til lyspærer.md" href="Levetiden til lyspærer.md" class="internal-link" target="_blank" rel="noopener">Levetiden til lyspærer S2 E22 Del 2 oppg 2</a></span></li><li><span><a data-tooltip-position="top" aria-label="Grensekostnader fra graf v23.md" data-href="Grensekostnader fra graf v23.md" href="Grensekostnader fra graf v23.md" class="internal-link" target="_blank" rel="noopener">Grensekostnader fra graf v23 S2 V23 Del 1 oppg 2</a></span></li></ul></div><h3><span>Lignende oppgaver sortert etter tema</span></h3><h4><span>Programmering</span></h4><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Oppgave</span><span class="dataview small-text">12</span></th><th class="table-view-th"><span>Fag</span></th><th class="table-view-th"><span>År</span></th><th class="table-view-th"><span>Oppg</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Areal under graf med programmering.md" data-href="Areal under graf med programmering.md" href="Areal under graf med programmering.md" class="internal-link" target="_blank" rel="noopener">Areal under graf med programmering</a></span></td><td><span>1T</span></td><td><span>V23</span></td><td><span>2-4</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Tolk og fiks program som finner bunnpunkt.md" data-href="Tolk og fiks program som finner bunnpunkt.md" href="Tolk og fiks program som finner bunnpunkt.md" class="internal-link" target="_blank" rel="noopener">Tolk og fiks program som finner bunnpunkt</a></span></td><td><span>R1</span></td><td><span>H23</span></td><td><span>1-4</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Ukjent program med kostnader for produksjon.md" data-href="Ukjent program med kostnader for produksjon.md" href="Ukjent program med kostnader for produksjon.md" class="internal-link" target="_blank" rel="noopener">Ukjent program med kostnader for produksjon</a></span></td><td><span>S1</span></td><td><span>V23</span></td><td><span>1-5</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Billetter til fotballkamp.md" data-href="Billetter til fotballkamp.md" href="Billetter til fotballkamp.md" class="internal-link" target="_blank" rel="noopener">Billetter til fotballkamp</a></span></td><td><span>S1</span></td><td><span>V23</span></td><td><span>2-5</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Ukjent programkode.md" data-href="Ukjent programkode.md" href="Ukjent programkode.md" class="internal-link" target="_blank" rel="noopener">Ukjent programkode</a></span></td><td><span>S2</span></td><td><span>E22</span></td><td><span>1-7</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Ukjent program h23.md" data-href="Ukjent program h23.md" href="Ukjent program h23.md" class="internal-link" target="_blank" rel="noopener">Ukjent program h23</a></span></td><td><span>S2</span></td><td><span>H23</span></td><td><span>1-4</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Ukjent program del 1 S2.md" data-href="Ukjent program del 1 S2.md" href="Ukjent program del 1 S2.md" class="internal-link" target="_blank" rel="noopener">Ukjent program del 1 S2</a></span></td><td><span>S2</span></td><td><span>V23</span></td><td><span>1-4</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Ukjent program Mønster v23.md" data-href="Ukjent program Mønster v23.md" href="Ukjent program Mønster v23.md" class="internal-link" target="_blank" rel="noopener">Ukjent program Mønster v23</a></span></td><td><span>S2</span></td><td><span>Ingen</span></td><td><span>1-5</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Simuler sannsynlighet for høyden til 24 måneder gammelt barn.md" data-href="Simuler sannsynlighet for høyden til 24 måneder gammelt barn.md" href="Simuler sannsynlighet for høyden til 24 måneder gammelt barn.md" class="internal-link" target="_blank" rel="noopener">Simuler sannsynlighet for høyden til 24 måneder gammelt barn</a></span></td><td><span>S2</span></td><td><span>H23</span></td><td><span>2-5</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Simuler sannsynlighet for høyde over 175 cm.md" data-href="Simuler sannsynlighet for høyde over 175 cm.md" href="Simuler sannsynlighet for høyde over 175 cm.md" class="internal-link" target="_blank" rel="noopener">Simuler sannsynlighet for høyde over 175 cm</a></span></td><td><span>S2</span></td><td><span>E22</span></td><td><span>2-6</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole.md" data-href="Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole.md" href="Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole.md" class="internal-link" target="_blank" rel="noopener">Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole</a></span></td><td><span>S2</span></td><td><span>V23</span></td><td><span>2-5</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Monas lån.md" data-href="Monas lån.md" href="Monas lån.md" class="internal-link" target="_blank" rel="noopener">Monas lån</a></span></td><td><span>S2</span></td><td><span>Ingen</span></td><td><span>2-7</span></td></tr></tbody></table></div><h4><span>Rekker</span></h4><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Oppgave</span><span class="dataview small-text">12</span></th><th class="table-view-th"><span>Fag</span></th><th class="table-view-th"><span>År</span></th><th class="table-view-th"><span>Oppg</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Ukjent program del 1 S2.md" data-href="Ukjent program del 1 S2.md" href="Ukjent program del 1 S2.md" class="internal-link" target="_blank" rel="noopener">Ukjent program del 1 S2</a></span></td><td><span>S2</span></td><td><span>V23</span></td><td><span>1-4</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Uendelig rekke med virkestoff fra legemiddel.md" data-href="Uendelig rekke med virkestoff fra legemiddel.md" href="Uendelig rekke med virkestoff fra legemiddel.md" class="internal-link" target="_blank" rel="noopener">Uendelig rekke med virkestoff fra legemiddel</a></span></td><td><span>S2</span></td><td><span>V23</span></td><td><span>1-4</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Uendelig geomtrisk rekke.md" data-href="Uendelig geomtrisk rekke.md" href="Uendelig geomtrisk rekke.md" class="internal-link" target="_blank" rel="noopener">Uendelig geomtrisk rekke</a></span></td><td><span>S2</span></td><td><span>H23</span></td><td><span>1-2a</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Summen av ukjent uendelig geometrisk rekke.md" data-href="Summen av ukjent uendelig geometrisk rekke.md" href="Summen av ukjent uendelig geometrisk rekke.md" class="internal-link" target="_blank" rel="noopener">Summen av ukjent uendelig geometrisk rekke</a></span></td><td><span>S2</span></td><td><span>E22</span></td><td><span>1-3</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Summen av repeterende brøker.md" data-href="Summen av repeterende brøker.md" href="Summen av repeterende brøker.md" class="internal-link" target="_blank" rel="noopener">Summen av repeterende brøker</a></span></td><td><span>S2</span></td><td><span>Ingen</span></td><td><span>Ingen</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Miriam og Hermods sparing.md" data-href="Miriam og Hermods sparing.md" href="Miriam og Hermods sparing.md" class="internal-link" target="_blank" rel="noopener">Miriam og Hermods sparing</a></span></td><td><span>S2</span></td><td><span>H23</span></td><td><span>2-2</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Idas jakke.md" data-href="Idas jakke.md" href="Idas jakke.md" class="internal-link" target="_blank" rel="noopener">Idas jakke</a></span></td><td><span>S2</span></td><td><span>H22</span></td><td><span>1-5</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Hildegunns ukepenger.md" data-href="Hildegunns ukepenger.md" href="Hildegunns ukepenger.md" class="internal-link" target="_blank" rel="noopener">Hildegunns ukepenger</a></span></td><td><span>S2, R2</span></td><td><span>V23</span></td><td><span>2-4</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Aritmetisk rekke.md" data-href="Aritmetisk rekke.md" href="Aritmetisk rekke.md" class="internal-link" target="_blank" rel="noopener">Aritmetisk rekke</a></span></td><td><span>S2</span></td><td><span>H23</span></td><td><span>1-2b</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Begrunn at uendelig rekke konvergerer.md" data-href="Begrunn at uendelig rekke konvergerer.md" href="Begrunn at uendelig rekke konvergerer.md" class="internal-link" target="_blank" rel="noopener">Begrunn at uendelig rekke konvergerer</a></span></td><td><span>S2</span></td><td><span>H22</span></td><td><span>1-2</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Aritmetisk mur.md" data-href="Aritmetisk mur.md" href="Aritmetisk mur.md" class="internal-link" target="_blank" rel="noopener">Aritmetisk mur</a></span></td><td><span>S2</span></td><td><span>E22</span></td><td><span>1-2</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Annuitetslån.md" data-href="Annuitetslån.md" href="Annuitetslån.md" class="internal-link" target="_blank" rel="noopener">Annuitetslån</a></span></td><td><span>S2</span></td><td><span>V23</span></td><td><span>2-1</span></td></tr></tbody></table></div>
