@@ -6,7 +6,7 @@
 # integral
 | file.link                                                                     |
 | ----------------------------------------------------------------------------- |
-| [[Bestemt integral 3\|Bestemt integral 3]]                                 |
 | [[Areal under graf med programmering\|Areal under graf med programmering]] |
+| [[Bestemt integral 3\|Bestemt integral 3]]                                 |
 
 { .block-language-dataview}

@@ -6,14 +6,14 @@
 # utforskning
 | file.link                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------- |
-| [[Ukjent programkode\|Ukjent programkode]]                                                                     |
-| [[Tredjegradsfunksjoner uten førstegradsledd\|Tredjegradsfunksjoner uten førstegradsledd]]                     |
-| [[Rart integral\|Rart integral]]                                                                               |
 | [[Lag funksjonsuttrykk til grafen av rasjonal funksjon\|Lag funksjonsuttrykk til grafen av rasjonal funksjon]] |
+| [[Tredjegradsfunksjoner uten førstegradsledd\|Tredjegradsfunksjoner uten førstegradsledd]]                     |
 | [[Bredden av teltplassen\|Bredden av teltplassen]]                                                             |
+| [[Ukjent programkode\|Ukjent programkode]]                                                                     |
 | [[Billetter til fotballkamp\|Billetter til fotballkamp]]                                                       |
-| [[Areal under graf med programmering\|Areal under graf med programmering]]                                     |
 | [[Areal av sirkel og kvadrat som skjærer hverandre\|Areal av sirkel og kvadrat som skjærer hverandre]]         |
 | [[Areal av område begrenset av sirkler\|Areal av område begrenset av sirkler]]                                 |
+| [[Areal under graf med programmering\|Areal under graf med programmering]]                                     |
+| [[Rart integral\|Rart integral]]                                                                               |
 
 { .block-language-dataview}
