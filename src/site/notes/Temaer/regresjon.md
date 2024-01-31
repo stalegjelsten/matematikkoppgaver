@@ -6,8 +6,8 @@
 # regresjon
 | file.link                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------- |
-| [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] |
 | [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]]                                                                           |
+| [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] |
 | [[Modell for etterspørsel av vare\|Modell for etterspørsel av vare]]                                                         |
 
 { .block-language-dataview}
