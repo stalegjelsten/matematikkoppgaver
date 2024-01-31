@@ -6,7 +6,7 @@
 # lån
 | file.link                         |
 | --------------------------------- |
-| [[Monas lån\|Monas lån]]       |
 | [[Annuitetslån\|Annuitetslån]] |
+| [[Monas lån\|Monas lån]]       |
 
 { .block-language-dataview}
