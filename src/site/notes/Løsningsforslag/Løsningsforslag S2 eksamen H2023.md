@@ -1,7 +1,8 @@
 ---
-{"aliases":null,"tags":["løsningsforslag"],"dg-publish":true,"title":null,"date":"2023-12-06","modified":"2024-01-31","disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title"],"geometry":"margin=3cm","fontsize":"11pt","papersize":"a4","author":"Ståle Gjelsten","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}"],"fag":["s2"],"eksamen":"h23","permalink":"/losningsforslag-s2-eksamen-h2023/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["løsningsforslag"],"dg-publish":true,"title":null,"date":"2023-12-06","modified":"2024-02-02","disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title"],"geometry":"margin=3cm","fontsize":"11pt","papersize":"a4","author":"Ståle Gjelsten","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}"],"fag":["s2"],"eksamen":"h23","permalink":"/losningsforslag/losningsforslag-s2-eksamen-h2023/","dgPassFrontmatter":true}
 ---
 
+**
 
 ## Oppgave 1-1
 Dette integralet trenger ingen spesielle regler eller teknikker for å løses.
@@ -103,10 +104,10 @@ $$
 \int_{-2}^{1} f(x) \, dx = \int_{1}^{2} f(x) \, dx 
 $$
 
-For å regne ut det samlede arealet kan jeg derfor bruke uttrykket
+For å regne ut det samlede arealet kan jeg derfor bruke uttrykket (minustegn foran integral nummer 2, siden grafen ligger under $x$-aksen i dette intervallet)
 
 $$
-2\int_{1}^{2} \left( x^{2}-1 \right)  \, dx + \int_{-1}^{1} \left( x^{2}-1 \right)  \, dx 
+2\int_{1}^{2} \left( x^{2}-1 \right)  \, dx - \int_{-1}^{1} \left( x^{2}-1 \right)  \, dx 
 $$
 
 Jeg finner først det ubestemte integralet
@@ -119,16 +120,15 @@ Jeg finner så arealet ved
 
 $$
 \begin{aligned}
-2\cdot \left( F(2)-F(1) \right) + \left( F(1)-F(-1) \right) \\
-2\left( \left(\frac{1}{3}2^{3}-2 \right)-\left( \frac{1}{3}1^{3}- 1 \right)  \right)+\left( \left( \frac{1}{3}1^{3} - 1\right) - \left( \frac{1}{3}(-1)^{3}-(-1) \right)   \right)  \\
-2 \left( \frac{8}{3}-2 - \frac{1}{3} + 1 \right) + \frac{1}{3}-1+\frac{1}{3}-1\\
-2 \left( \frac{8}{3}-\frac{6}{3}-\frac{1}{3}+\frac{3}{3} \right) + \frac{1}{3}-\frac{3}{3}+\frac{1}{3}-\frac{3}{3}\\
-2\left( \frac{4}{3} \right)-\frac{4}{3}\\
-\frac{8}{3}-\frac{4}{3}=\frac{4}{3}
+2\cdot \left( F(2)-F(1) \right) - \left( F(1)-F(-1) \right) \\
+2\cdot F(2)- 3\cdot F(1)+F(-1) \\
+2\left(\frac{1}{3}2^{3}-2 \right)- 3\left( \frac{1}{3}1^{3}- 1 \right) +\left( \frac{1}{3}(-1)^{3}-(-1) \right)  \\
+\left( \frac{16}{3}-4 \right) -\left( \frac{3}{3}-3 \right) +\left( \frac{-1}{3}+1 \right)\\
+-4+3+1+\frac{16}{3}-\frac{3}{3}-\frac{1}{3}=\frac{12}{3}=4
 \end{aligned}
 $$
 
-**Verdien eleven forsøkte å bestemme er $\frac{4}{3}$.**
+**Verdien eleven forsøkte å bestemme er 4.**
 
 ## Oppgave 1-5
 ### 1-5a
@@ -158,6 +158,39 @@ For å finne variansen må vi finne differansen til gjennomsnittet for hver verd
 ### 1-5b
 
 >[!todo] Sett opp sannsynlighetsfordelingen
+
+## Oppgave 2-1
+### 2-1a
+![s2-h23-2-1a.png](/img/user/_resources/s2-h23-2-1a.png)
+
+Jeg brukte GeoGebra til å lage en eksponentiell modell som passet godt til dataene. Jeg vurderer at gyldighetsområdet til modellen er for priser fra omtrent 5 kroner til 70 kroner. Hvis varen hadde kostet veldig lite, så ville nok etterspørselen vært enda større (teoretisk kan man ofte tenke seg at etterspørselen går mot uendelig når prisen går mot null). Det er vanskelig å sette en øvre grense her, men ved prisen 70 kroner så er etterspørselen kun 2,4 – dette er veldig lavt sammenlignet med etterspørselen på 237 ved prisen 10 kroner.
+
+**En modell som viser sammenhengen mellom prisen, $p$, i kroner og etterspørselen er $e(p)=495\cdot 0{,}927^{p}$**
+
+### 2-1b
+Jeg brukte GeoGebra og løste $e(p)=70$ i CAS. 
+
+**Prisen for varen bør være 25,8 kroner dersom bedriften skal selge 70 enheter per dag.**
+
+### 2-1c
+![s2-h23-2-1c.png](/img/user/_resources/s2-h23-2-1c.png)
+
+Gitt at $p(x)=79-12{,}2 \ln x$ er en funksjon som angir prisen ved etterspørselen $x$, så er inntekten gitt ved
+
+$$
+I(x)=p(x)\cdot x = (79-12{,}2 \ln x)\cdot x
+$$
+
+Jeg brukte GeoGebra til å finne ekstremalpunktet til $I$ ved å derivere funksjonen og sette den deriverte lik null. Jeg sjekket også at dette punktet var et toppunkt i grafikkfeltet. 
+
+**Vi har høyest inntekt ved etterspørselen 238,75 enheter, da er prisen $p(238{,}75)=12{,}2$.**
+
+### Oppgave 2-1d
+![s2-h23-2-1d.png](/img/user/_resources/s2-h23-2-1d.png)
+
+Jeg la inn funksjonsuttrykket for $K(x)$ i CAS. CAS gir at $I'=K'$ ved $x\approx 80$.
+
+Grenseinntektene er lik grensekostnadene når det produseres og selges 80 enheter. Når grenseinntektene er lik grensekostnadene så har vi det største overskuddet – dette er altså den optimale produksjons- og salgsmengden.
 
 ## Oppgave 2-4
 ```python
