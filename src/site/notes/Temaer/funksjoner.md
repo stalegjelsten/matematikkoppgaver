@@ -12,8 +12,8 @@
 | [[Sjøtemperatur på Sørlandet\|Sjøtemperatur på Sørlandet]]                                                                   |
 | [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] |
 | [[Lag funksjonsuttrykk til grafen av rasjonal funksjon\|Lag funksjonsuttrykk til grafen av rasjonal funksjon]]               |
-| [[Har alle fjerdegradsfunksjoner ekstremalpunkt\|Har alle fjerdegradsfunksjoner ekstremalpunkt]]                             |
 | [[Grenseverdi når x går mot 2\|Grenseverdi når x går mot 2]]                                                                 |
+| [[Har alle fjerdegradsfunksjoner ekstremalpunkt\|Har alle fjerdegradsfunksjoner ekstremalpunkt]]                             |
 | [[Grensekostnader fra graf v23\|Grensekostnader fra graf v23]]                                                               |
 | [[Gjennomsnittstemperatur på Svalbard og den deriverte\|Gjennomsnittstemperatur på Svalbard og den deriverte]]               |
 | [[Areal under graf med programmering\|Areal under graf med programmering]]                                                   |
