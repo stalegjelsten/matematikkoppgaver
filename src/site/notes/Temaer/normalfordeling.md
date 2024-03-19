@@ -6,11 +6,11 @@
 # normalfordeling
 | file.link                                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole]] |
 | [[Simuler sannsynlighet for høyden til 24 måneder gammelt barn\|Simuler sannsynlighet for høyden til 24 måneder gammelt barn]]                     |
+| [[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole]] |
 | [[Simuler sannsynlighet for høyde over 175 cm\|Simuler sannsynlighet for høyde over 175 cm]]                                                       |
-| [[Normalfordelte vinterdekk\|Normalfordelte vinterdekk]]                                                                                           |
 | [[Normalfordelte hjortebukker\|Normalfordelte hjortebukker]]                                                                                       |
+| [[Normalfordelte vinterdekk\|Normalfordelte vinterdekk]]                                                                                           |
 | [[Normalfordelt intelligens\|Normalfordelt intelligens]]                                                                                           |
 | [[Lykkehjulet\|Lykkehjulet]]                                                                                                                       |
 | [[Levetiden til normalfordelte batterier\|Levetiden til normalfordelte batterier]]                                                                 |
