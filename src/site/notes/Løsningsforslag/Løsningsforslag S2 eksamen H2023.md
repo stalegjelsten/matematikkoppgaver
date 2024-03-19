@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["løsningsforslag"],"dg-publish":true,"title":null,"date":"2023-12-06","modified":"2024-02-02","disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title"],"geometry":"margin=3cm","fontsize":"11pt","papersize":"a4","author":"Ståle Gjelsten","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}"],"fag":["s2"],"eksamen":"h23","permalink":"/losningsforslag/losningsforslag-s2-eksamen-h2023/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["løsningsforslag"],"dg-publish":true,"title":null,"date":"2023-12-06","modified":"2024-03-15","disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title"],"geometry":"margin=3cm","fontsize":"11pt","papersize":"a4","author":"Ståle Gjelsten","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}"],"fag":["s2"],"eksamen":"h23","permalink":"/losningsforslag/losningsforslag-s2-eksamen-h2023/","dgPassFrontmatter":true}
 ---
 
 **
@@ -146,18 +146,66 @@ $$
 
 For å finne variansen må vi finne differansen til gjennomsnittet for hver verdi, kvadrere denne differansen og multiplisere den med sannsynligheten for observasjonsverdien.
 
-| $x$ | $E(x)-x$ | $P(X=x)$  |  $(E(x)-x)^{2}\cdot P(X=x)$ |
-|--|--|---|----|
-|4|2|$\frac{1}{4}$|$2^{2}\cdot \frac{1}{4}=1$|
-|5|1|$\frac{1}{2}$|$1^{2}\cdot \frac{1}{2}= \frac{1}{2}$|
-|10|4|$\frac{1}{4}$|$4^{2}\cdot \frac{1}{4}=4$|
-|Sum | | | 5,5 |
+| $x$ | $E(x)-x$ | $P(X=x)$      | $(E(x)-x)^{2}\cdot P(X=x)$            |
+| --- | -------- | ------------- | ------------------------------------- |
+| 4   | 2        | $\frac{1}{4}$ | $2^{2}\cdot \frac{1}{4}=1$            |
+| 5   | 1        | $\frac{1}{2}$ | $1^{2}\cdot \frac{1}{2}= \frac{1}{2}$ |
+| 10  | 4        | $\frac{1}{4}$ | $4^{2}\cdot \frac{1}{4}=4$            |
+| Sum |          |               | 5,5                                   |
 
 **Jeg har vist at forventningsverdien er 6 kg og at variansen er 5,5 kg.**
 
 ### 1-5b
 
->[!todo] Sett opp sannsynlighetsfordelingen
+```mermaid
+flowchart TD
+
+    X1[X₁]
+
+    X1 -->|¹/₄| X2{4}
+
+    X1 -->|¹/₂| X3{5}
+
+    X1 -->|¹/₄| X4{10}
+
+    X2 -->|¹/₄| X5{4}
+
+    X2 -->|¹/₂| X6{5}
+
+    X2 -->|¹/₄| X7{10}
+
+    X3 -->|¹/₄| X8{4}
+
+    X3 -->|¹/₂| X9{5}
+
+    X3 -->|¹/₄| X10{10}
+
+    X4 -->|¹/₄| X11{4}
+
+    X4 -->|¹/₂| X12{5}
+
+    X4 -->|¹/₄| X13{10}
+```
+
+![mermaid-diagram-2024-03-15-112102.png](/img/user/_resources/mermaid-diagram-2024-03-15-112102.png)
+
+Se valgtreet over. Jeg ser at utfallene for $Y=X_₁+X_{2}$ er 8, 9, 10, 14, 15 og 20. Jeg bruker valgtreet til å beregne sannsynligheten for hvert utfall
+
+| $y$ |                      $P(Y=y)$                       |
+| :-: | :-------------------------------------------------: |
+|  8  |     $\frac{1}{4}\cdot \frac{1}{4}=\frac{1}{16}$     |
+|  9  |  $\frac{1}{4}\cdot \frac{1}{2}\cdot 2=\frac{1}{4}$  |
+| 10  |     $\frac{1}{2} \cdot \frac{1}{2}=\frac{1}{4}$     |
+| 14  | $\frac{1}{4} \cdot \frac{1}{4} \cdot 2=\frac{1}{8}$ |
+| 15  |  $\frac{1}{4}\cdot \frac{1}{2}\cdot 2=\frac{1}{4}$  |
+| 20  |   $\frac{1}{4} \cdot \frac{1}{4} = \frac{1}{16}$    |
+
+### 1-5c
+$P(Y>10)$ betyr sannsynligheten for at $Y$ er større 10. Det stemmer når $Y=14$, $Y=15$ og $Y=20$.
+
+$$
+P(Y>10)=P(Y=14)+P(Y=15)+P(Y=20)=\frac{1}{8}+\frac{1}{4}+\frac{1}{16}=\frac{2+4+1}{16}=\underline{\underline{\frac{7}{16}}}
+$$
 
 ## Oppgave 2-1
 ### 2-1a
@@ -192,7 +240,21 @@ Jeg la inn funksjonsuttrykket for $K(x)$ i CAS. CAS gir at $I'=K'$ ved $x\approx
 
 Grenseinntektene er lik grensekostnadene når det produseres og selges 80 enheter. Når grenseinntektene er lik grensekostnadene så har vi det største overskuddet – dette er altså den optimale produksjons- og salgsmengden.
 
+## Oppgave 2-2
+Jeg velger å løse oppgaven i Excel, siden det ser enklest ut. Det er selvsagt også mulig å løse
+
+### 2-2a
+
 ## Oppgave 2-4
+
+### 2-4a
+Jeg ser at differansen mellom antall kuler i figurene øker med 5, 10, 15, 20. La oss kalle denne differansen for $d$. Vi kan si at $P_{2}=P_{1}+5=P_{1}+d$ og $P_{3}=P_{2}+2d$. Vi ser dermed et mønster og kan sette opp følgende sammenheng for $n\geq 2$: 
+
+$$
+P_{n}=P_{n-1}+(n-1)\cdot d
+$$
+
+### 2-4b
 ```python
 a = 1
 d = 5

@@ -1,23 +1,24 @@
 ---
-{"temaer":null,"del":null,"oppgave":null,"fag":"s2","eksamen":"e22","tags":["matematikk","løsningsforslag","S2"],"alias":[null],"dg-publish":true,"title":"Løsningsforslag S2 eksempelsett 2022","date":"2023-05-19","modified":"2023-05-29","permalink":"/losningsforslag/losningsforslag-s2-eksempelsett-2022/","dgPassFrontmatter":true}
+{"aliases":null,"temaer":null,"del":null,"oppgave":null,"fag":"s2","eksamen":"e22","tags":["matematikk","løsningsforslag","S2"],"alias":[],"dg-publish":true,"title":"Løsningsforslag S2 eksempelsett 2022","date":"2023-05-19","modified":"2024-03-18","permalink":"/losningsforslag/losningsforslag-s2-eksempelsett-2022/","dgPassFrontmatter":true}
 ---
 
 
 # Løsningsforslag S2 eksempelsett 2022
 ## Oppgave 1-1
 ### 1-1a
+
 $$
 \int_{0}^{1} 4x^2+3 \, \mathrm{d}x =\left[ \frac{4}{3}x^3+3x \right]_{0}^{1}=\frac{4}{3}+3\cdot1-0=\frac{4}{3}+\frac{9}{3}=\underline{\underline{\frac{13}{3} }}
 $$
 
 ### 1-1b
+
 $$
 \begin{aligned}
 \int 4x\sqrt{ x^2+2 } \, \mathrm{d}x, \quad u=x^2+2 \implies \frac{du}{dx}=2x \iff du=2xdx\\
 \int 2\sqrt{ u } \, \mathrm{d}u =2\int u^{\frac{1}{2}} \, \mathrm{d}x =2\frac{2}{3}u^{\frac{3}{2}}+C=\frac{4}{3}(x^2+2)+C'
 \end{aligned}
 $$
-
 
 ## Oppgave 1-3
 
@@ -78,13 +79,17 @@ $$\underline{\underline{\frac{130}{27}}}$$
 
 #### Alternativ løsning
 Fra formel for sum av uendelig geometrisk rekke vet vi at
+
 $$
 \frac{a_{1}}{1-k}=6
 $$
+
 Samtidig kan sum av de tre første leddene uttrykkes som
+
 $$
 \frac{38}{9}=a_{1}\cdot \frac{k^{3}-1}{k-1}
 $$
+
 Vi har altså to likninger og to ukjente, $a_{1}$ og $k$.
 
 Vi kan løse den første likningen for $a_{1}$ og sette inn i den andre likningen
@@ -92,6 +97,7 @@ Vi kan løse den første likningen for $a_{1}$ og sette inn i den andre likninge
 $$
 a_{1}=6(1-k)
 $$
+
 $$
 \frac{38}{9}=6(1-k) \cdot \frac{k^3-1}{k-1}=6\cdot \frac{(k^{3}-1)(1-k)}{k-1}
 $$
@@ -101,7 +107,9 @@ Siden $(1-k)=(-1)\cdot (k-1)$ så bytter jeg ut denne faktoren i telleren for å
 $$
 \frac{38}{54}= \frac{(k^{3}-1)(-1)\cancel{ (k-1) }}{\cancel{ (k-1) }}=(k^{3}-1)(-1)=1-k^{3}
 $$
+
 Vi kan nå løse likningen
+
 $$
 \begin{aligned}
 \frac{38}{54}&=1-k^{3} \\
@@ -109,15 +117,21 @@ k^3&=1-\frac{38}{54}=\frac{16}{54}=\frac{8}{27}\\
 k&=\sqrt[3]{ \frac{8}{27} }=\frac{2}{3}
 \end{aligned}
 $$
+
 Når vi endelig har $k$ så kan vi finne $a_{1}$ med
+
 $$
 a_{1}=6(1-k)=6\left( 1-\frac{2}{3} \right)=6 \cdot \frac{1}{3}=2
 $$
+
 Og til slutt kan vi finne summen av de fire første leddene med sumformelen
+
 $$
 s_{4}=a_{1} \cdot \frac{k^4-1}{k-1}=2 \cdot \frac{\left( \frac{2}{3} \right)^{4}-1}{\left( \frac{2}{3} \right)-1}=2 \cdot \frac{\frac{16}{81}-1}{\frac{2}{3}-1}=2\cdot \frac{-\frac{65}{81}}{-\frac{1}{3}}=2 \cdot \frac{\frac{65}{81}}{\frac{27}{81}}=\frac{130}{27}
 $$
+
 **Summen av de fire første leddene er**
+
 $$
 \underline{\underline{\frac{130}{27}}}
 $$
@@ -125,6 +139,7 @@ $$
 ## Oppgave 1-4
 ### 1-4a
 Summen av sannsynlighetene for alle utfallene skal være 1. Vi har dermed at 
+
 $$
 \begin{aligned}
 0{,}2+k+2k+5k&=1\\
@@ -132,16 +147,38 @@ $$
 k&=0{,}1
 \end{aligned}
 $$
+
 Forventningsverdien er gitt ved
+
 $$
 \sum x \cdot P(X=x)=0+1\cdot 0{,}1 + 2\cdot 0{,}2 + 3 \cdot 0,5=2{,}0
 $$
 
 **$k$ må være lik 0,1 og forventningsverdien $\text{E}(X)=2$**.
 
+### 1-4b
+Variansen til $X$ er gitt ved 
+
+$$
+Var(X)=\sum_{i=1}^{n}(x_{i}-\mu)^{2} \cdot P(X=x)
+$$
+
+Dette er enklest å regne ut ved å bruke sannsynlighetsfordelingen:
+
+|              $x$               |            0            |           1           |       2       |           3           |
+| :----------------------------: | :---------------------: | :-------------------: | :-----------: | :-------------------: |
+|            $P(X=x)$            |         $0{,}2$         |        $0{,}1$        |    $0{,}2$    |        $0{,}5$        |
+|       $(x_{i}-\mu)^{2}$        |      $(0-2)^{2}=4$      |     $(1-2)^{2}=1$     | $(2-2)^{2}=0$ |     $(3-2)^{2}=1$     |
+| $(x_{i}-\mu)^{2} \cdot P(X=x)$ | $4 \cdot 0{,}2 = 0{,}8$ | $1 \cdot 0{,}1=0{,}1$ |      $0$      | $1 \cdot 0{,}5=0{,}5$ |
+
+Summen av kvadratavvikene er 1,4.
+
+**Variansen $\underline{\underline{\text{Var}(X)=1{,}4}}$.**
+
 ## Oppgave 2-2
 ### 2-2a
 Siden $f(t)=0$ når $t\leq 0$ så vil
+
 $$
 \int_{- \infty}^{0} f(t) \, dt =0
 $$
@@ -149,14 +186,19 @@ $$
 Vi trenger derfor kun å bry oss tilfellet hvor $t>0$.
 
 Vi vet at et krav til sannsynlighetsfordelinger er at summen av alle sannsynlighetene skal bli 1. For kontinuerlige sannsynlighetsfordelinger har vi altså
+
 $$
 \int_{- \infty}^{\infty} f(x) \, dx =1
 $$
+
 I vårt tilfelle ønsker vi altså å bestemme $k$ slik at den tilfredsstiller likningen
+
 $$
 \int_{0}^{\infty} k \cdot e^{-0{,}005t} \, dt = 1
 $$
+
 Vi kan løse denne i GeoGebra eller vi kan integrere for hånd:
+
 $$
 \begin{aligned}
 \left[ \frac{k}{-0.005} \cdot e^{-0.005t} \right]_{0}^{\infty}&=1 \\
@@ -165,20 +207,27 @@ $$
 k&=0.005
 \end{aligned}
 $$
+
 **Jeg har vist at $k=0{,}005$**
+
 ### 2-2b
 Jeg kan bruke integralet av tetthetsfunksjonen til å beregne sannsynligheten. Sannsynligheten for at lyspæras levetid er mellom 0 og 400 timer er gitt ved
+
 $$
 \int_{0}^{400} 0{,}005 \cdot e^{-0{,}005t} \, dt = 1-\frac{1}{e^{2}} 
 $$
+
 Siden summen av sannsynlighetene for alle utfallene er 1 så kan vi finne sannsynligheten for at lyspæra varer mellom 400 og uendelig timer ved å ta
+
 $$
 1-\left( 1-\frac{1}{e^{2}} \right)=\frac{1}{e^2}
 $$
+
 **Sannsynligheten for at lyspæras levetid er mer enn 400 timer er $\frac{1}{e^{2}} \approx 0{,}135$.**
 
 ### 2-2c
 Jeg bruker uttrykket for forventningsverdi som står i oppgaveteksten og beregner ved hjelp av GeoGebra:
+
 $$
 \mu_{T} = \int_{0}^{\infty} t \cdot 0{,}005 \cdot e^{-0{,}005t} \, dt = 200
 $$
