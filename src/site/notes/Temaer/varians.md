@@ -7,7 +7,7 @@
 | file.link                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------- |
 | [[Tunge kuler i kasse\|Tunge kuler i kasse]]                                                                             |
-| [[Forventningsverdi og varians fra sannsynlighetsfordeling\|Forventningsverdi og varians fra sannsynlighetsfordeling]]   |
 | [[Forventingsverdi og varians fra sannsynlighetsfordeling 2\|Forventingsverdi og varians fra sannsynlighetsfordeling 2]] |
+| [[Forventningsverdi og varians fra sannsynlighetsfordeling\|Forventningsverdi og varians fra sannsynlighetsfordeling]]   |
 
 { .block-language-dataview}
