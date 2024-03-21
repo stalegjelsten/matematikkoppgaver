@@ -7,7 +7,7 @@
 | file.link                                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole]] |
-| [[Levetiden til lyspærer\|Levetiden til lyspærer]]                                                                                                 |
 | [[Levetiden til normalfordelte batterier\|Levetiden til normalfordelte batterier]]                                                                 |
+| [[Levetiden til lyspærer\|Levetiden til lyspærer]]                                                                                                 |
 
 { .block-language-dataview}

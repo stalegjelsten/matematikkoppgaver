@@ -7,8 +7,8 @@
 - [[Unpublished notes\|Unpublished notes]]
 - [[Todo\|Todo]]
 - [[Temaer/_Alle temaer\|_Alle temaer]]
-- [[Ressurser\|Ressurser]]
 - [[Roadmap\|Roadmap]]
+- [[Ressurser\|Ressurser]]
 - [[Meta\|Meta]]
 - [[Alle oppgaver\|Alle oppgaver]]
 

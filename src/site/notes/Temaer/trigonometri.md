@@ -7,10 +7,10 @@
 | file.link                                                                                                 |
 | --------------------------------------------------------------------------------------------------------- |
 | [[Vis at sin u delt på cos u er tan u\|Vis at sin u delt på cos u er tan u]]                           |
-| [[Areal av sirkel og kvadrat som skjærer hverandre\|Areal av sirkel og kvadrat som skjærer hverandre]] |
 | [[Begrunn hvorfor sin2 u + cos2 u = 1\|Begrunn hvorfor sin2 u + cos2 u = 1]]                           |
+| [[Areal av sirkel og kvadrat som skjærer hverandre\|Areal av sirkel og kvadrat som skjærer hverandre]] |
 | [[Areal av trekant i sirkel\|Areal av trekant i sirkel]]                                               |
-| [[Areal av firkant ved hjelp av trigonometri\|Areal av firkant ved hjelp av trigonometri]]             |
 | [[Areal av område begrenset av sirkler\|Areal av område begrenset av sirkler]]                         |
+| [[Areal av firkant ved hjelp av trigonometri\|Areal av firkant ved hjelp av trigonometri]]             |
 
 { .block-language-dataview}
