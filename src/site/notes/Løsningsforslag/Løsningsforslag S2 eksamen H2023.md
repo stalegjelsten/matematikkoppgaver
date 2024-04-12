@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["løsningsforslag"],"dg-publish":true,"title":null,"date":"2023-12-06","modified":"2024-03-15","disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title"],"geometry":"margin=3cm","fontsize":"11pt","papersize":"a4","author":"Ståle Gjelsten","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}"],"fag":["s2"],"eksamen":"h23","permalink":"/losningsforslag/losningsforslag-s2-eksamen-h2023/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["løsningsforslag"],"dg-publish":true,"title":null,"date":"2023-12-06","modified":"2024-04-12","disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title"],"geometry":"margin=3cm","fontsize":"11pt","papersize":"a4","author":"Ståle Gjelsten","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}"],"fag":["s2"],"eksamen":"h23","permalink":"/losningsforslag/losningsforslag-s2-eksamen-h2023/","dgPassFrontmatter":true}
 ---
 
 **
@@ -244,6 +244,43 @@ Grenseinntektene er lik grensekostnadene når det produseres og selges 80 enhete
 Jeg velger å løse oppgaven i Excel, siden det ser enklest ut. Det er selvsagt også mulig å løse
 
 ### 2-2a
+
+## Oppgave 2-3
+### 2-3a
+Jeg bestemmer $P(X>87)$ ved hjelp av sannsynlighetsvinduet i GeoGebra. 
+![](/img/user/_resources/s2-h23-2-3a.png)
+
+**Sannsynligheten for at bremselengden til en tilfeldig valgt bil er over 87 meter er 0,09121.**
+
+### 2-3b
+Jeg brukte sannsynlighetsvinduet i GeoGebra. Der valgte jeg sannsynlighet for at $X<k$ og skrev inn 0,9 i sannsynlighetsfeltet.
+![](/img/user/_resources/s2-h23-2-3b.png)
+
+**$\underline{\underline{k=86{,}84}}$. Det betyr at dekkprodusenten påstår at man klarer å stoppe innen 86,84 meter i 90 % av tilfellene.**
+
+### 2-3c
+Jeg lar $\bar{X}$ være gjennomsnittet av 15 målinger. Da er $\bar{X}$ normalfordelt med $\mu=83$ og $SD(\bar{X})=\frac{\sigma}{\sqrt{ n }}=\frac{3}{\sqrt{ 15 }}=0{,}7746$.
+
+Jeg bruker sannsynlighetsvinduet i GeoGebra til å bestemme sannsynligheten $P(\bar{X}<84)=0{,}90165\approx0{,}902$.
+
+![s2-h23-2-3c.png](/img/user/_resources/s2-h23-2-3c.png)
+
+**Sannsynligheten for at gjennomsnittet av 15 målinger er under 84 meter er 0,902.**
+
+### 2-3d
+Gjennomsnittet av observasjonene i tabellen i oppgaven er 84,18.
+
+Jeg setter opp en hypotesetest hvor:  
+$H_{0}: \quad \mu=83$
+$H_{A}: \quad \mu>83$
+
+Gitt at nullhypotesen er sann så har vi normalfordeling med $E(\bar{X})=83$ og $SD(\bar{X})=\frac{3}{\sqrt{ 15 }}$.
+
+![](/img/user/_resources/s2-h23-2-3d.png)
+
+Som vi ser fra GeoGebra-utklippet er sannsynligheten så er sannsynligheten 0,064 for at vi får et utvalg med gjennomsnitt større eller lik 84,18. Vi kan dermed ikke forkaste nullhypotesen med signifikansnivået 0,05.
+
+**Vi kan ikke fastslå om bremselengden egentlig er lengre enn 83 meter med signifikansnivå 0,05.**
 
 ## Oppgave 2-4
 
