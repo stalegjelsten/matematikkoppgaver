@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["løsningsforslag"],"dg-publish":true,"title":null,"date":"2023-12-06","modified":"2024-04-12","disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title"],"geometry":"margin=3cm","fontsize":"11pt","papersize":"a4","author":"Ståle Gjelsten","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}"],"fag":["s2"],"eksamen":"h23","permalink":"/losningsforslag/losningsforslag-s2-eksamen-h2023/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["løsningsforslag"],"dg-publish":true,"title":null,"date":"2023-12-06","modified":"2024-05-15","disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title"],"geometry":"margin=3cm","fontsize":"11pt","papersize":"a4","author":"Ståle Gjelsten","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}"],"fag":["s2"],"eksamen":"h23","permalink":"/losningsforslag/losningsforslag-s2-eksamen-h2023/","dgPassFrontmatter":true}
 ---
 
 **
@@ -241,9 +241,29 @@ Jeg la inn funksjonsuttrykket for $K(x)$ i CAS. CAS gir at $I'=K'$ ved $x\approx
 Grenseinntektene er lik grensekostnadene når det produseres og selges 80 enheter. Når grenseinntektene er lik grensekostnadene så har vi det største overskuddet – dette er altså den optimale produksjons- og salgsmengden.
 
 ## Oppgave 2-2
-Jeg velger å løse oppgaven i Excel, siden det ser enklest ut. Det er selvsagt også mulig å løse
 
 ### 2-2a
+![](/img/user/_resources/s2-h23-2-2a.png)
+
+Jeg satt opp en oversikt over sparingen i Excel, hvor jeg beregnet innskuddet på kontoen i starten og slutten av hvert år.
+
+**Etter det 20. innskuddet så var det 565 593,64 kr på kontoen.**
+
+### 2-2b
+![](/img/user/_resources/s2-h23-2-2b.png.png)
+
+Jeg brukte samme oppsettet i Excel og brukte målsøking til å sette celle G47 til 692 852 kr ved å endre celle F28. Jeg fikk da 24 499,99 kr som sparebeløp. 
+
+**Hermod må spare 24 500 kr hvert år for å ha 692 852 kr etter 20 år.**
+
+### 2-2c
+![](/img/user/_resources/s2-h23-2-2c.png.png)
+
+Jeg brukte samme oppsett i Excel, men la til et ekstrabeløp i B52 som legges til hvert år. Jeg brukte målsøking til å sette celle G72 til 1 000 000 kr ved å endre celle B52. 
+
+**Miriam må øke sparebeløpet med 1 836,33 kr hvert år.**
+
+
 
 ## Oppgave 2-3
 ### 2-3a
@@ -295,21 +315,23 @@ $$
 ```python
 a = 1
 d = 5
+n = 100
 
-for i in range(1,101):
-    a = a + d * i
+for i in range(2, n + 1):
+    a = a + d * (i-1)
 
-print(f"Det er {a} kuler i figur 100.")
+print(f"Det er {a} kuler i figur {n}.")
 ```
 
-**Programmet gir at $P_{100}=25251$.**
+**Programmet gir at $P_{100}=24\,751$.**
 
 ## Oppgave 2-5
 Jeg velger å gjøre oppgaven ved å simulere uttrekk i en populasjon på 10000.
 
 ```python
-import numpy as np
-forventning_jente = 88
+import random
+
+forventning_jente = 87
 standardavvik_jente = 3.3
 forventning_gutt = 88
 standardavvik_gutt = 3.1
@@ -317,19 +339,24 @@ standardavvik_gutt = 3.1
 antall_gunstige = 0
 N = 10000 # gjør 10000 trekk
 grenseverdi = 84
+
 for i in range(N):
     # gjør det tilfeldig om vi trekker en jente eller gutt
-    if (np.random.rand() < 0.5):
-        hoyde = np.random.normal(forventning_jente, standardavvik_jente)
+	tilfeldig_tall = random.randint(1,2)
+
+    if tilfeldig_tall == 1:
+		# trekker ei tilfeldig jente fra populasjonen
+        hoyde = random.gauss(forventning_jente, standardavvik_jente)
     else:
-        hoyde = np.random.normal(forventning_gutt, standardavvik_gutt)
+		# trekker en tilfeldig gutt fra populasjonen
+        hoyde = random.gauss(forventning_gutt, standardavvik_gutt)
 
     if hoyde < grenseverdi:
         antall_gunstige += 1
 
-andel_gunstige = antall_gunstige / N
+sannsynlighet = antall_gunstige / N
 
-print(f"Sannsynligheten for at barnet er mindre enn {grenseverdi} cm ved 24 måneder er omtrent {andel_gunstige:.2f}.")
+print(f"Sannsynligheten for at barnet er mindre enn {grenseverdi} cm ved 24 måneder er omtrent {sannsynlighet:.4f}.")
 ```
 
 **Sannsynligheten er omtrent 0,14 for at et tilfeldig valgt barn på 24 måneder er under 84 cm.**
