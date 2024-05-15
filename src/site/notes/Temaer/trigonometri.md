@@ -10,7 +10,7 @@
 | [[Begrunn hvorfor sin2 u + cos2 u = 1\|Begrunn hvorfor sin2 u + cos2 u = 1]]                           |
 | [[Areal av sirkel og kvadrat som skjærer hverandre\|Areal av sirkel og kvadrat som skjærer hverandre]] |
 | [[Areal av trekant i sirkel\|Areal av trekant i sirkel]]                                               |
-| [[Areal av område begrenset av sirkler\|Areal av område begrenset av sirkler]]                         |
 | [[Areal av firkant ved hjelp av trigonometri\|Areal av firkant ved hjelp av trigonometri]]             |
+| [[Areal av område begrenset av sirkler\|Areal av område begrenset av sirkler]]                         |
 
 { .block-language-dataview}
