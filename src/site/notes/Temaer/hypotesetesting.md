@@ -4,8 +4,9 @@
 
 
 # hypotesetesting
-| file.link                                                 |
-| --------------------------------------------------------- |
-| [[Hypotesetest om russetid\|Hypotesetest om russetid]] |
+| file.link                                                           |
+| ------------------------------------------------------------------- |
+| [[Hypotesetest om russetid\|Hypotesetest om russetid]]           |
+| [[Hypotesetest med smak av cola\|Hypotesetest med smak av cola]] |
 
 { .block-language-dataview}
