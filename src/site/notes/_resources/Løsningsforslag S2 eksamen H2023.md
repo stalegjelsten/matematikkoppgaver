@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["løsningsforslag"],"dg-publish":true,"title":null,"date":"2023-12-06","modified":"2024-05-15","disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title"],"geometry":"margin=3cm","fontsize":"11pt","papersize":"a4","author":"Ståle Gjelsten","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}"],"fag":["s2"],"eksamen":"h23","permalink":"/losningsforslag/losningsforslag-s2-eksamen-h2023/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["løsningsforslag"],"dg-publish":true,"title":"Løsningsforslag S2 eksamen høst 2023","date":"2023-12-06","modified":"2024-05-15","disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title"],"documentclass":"scrartcl","fontsize":"11pt","papersize":"a4","author":"Ståle Gjelsten","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}"],"fag":["s2"],"eksamen":"h23","permalink":"/resources/losningsforslag-s2-eksamen-h2023/","dgPassFrontmatter":true}
 ---
 
 
@@ -37,7 +37,7 @@ $$
 
 Vi kan dermed si at $a_{1}=a_{4}-3d$ og $a_{7}=a_{4}+3d$.
 
-Jeg setter inn for $a_{1}$ og $a_{7}$ i uttrykket og får
+Jeg setter inn for $a_{1}$ og $a_{7}$  i uttrykket og får
 
 $$
 a_{4}-3d+a_{4}+a_{4}+3d=114 \iff 3a_{4}=114 \iff a_{4}=38
@@ -145,46 +145,16 @@ $$
 
 For å finne variansen må vi finne differansen til gjennomsnittet for hver verdi, kvadrere denne differansen og multiplisere den med sannsynligheten for observasjonsverdien.
 
-| $x$ | $E(x)-x$ | $P(X=x)$      | $(E(x)-x)^{2}\cdot P(X=x)$            |
-| --- | -------- | ------------- | ------------------------------------- |
-| 4   | 2        | $\frac{1}{4}$ | $2^{2}\cdot \frac{1}{4}=1$            |
-| 5   | 1        | $\frac{1}{2}$ | $1^{2}\cdot \frac{1}{2}= \frac{1}{2}$ |
-| 10  | 4        | $\frac{1}{4}$ | $4^{2}\cdot \frac{1}{4}=4$            |
-| Sum |          |               | 5,5                                   |
+| $x$ | $E(x)-x$ |   $P(X=x)$    |      $(E(x)-x)^{2}\cdot P(X=x)$       |
+| :-: | :---: | :--------: | :--------------: |
+|  4  |    2     | $\frac{1}{4}$ |      $2^{2}\cdot \frac{1}{4}=1$       |
+|  5  |    1     | $\frac{1}{2}$ | $1^{2}\cdot \frac{1}{2}= \frac{1}{2}$ |
+| 10  |    4     | $\frac{1}{4}$ |      $4^{2}\cdot \frac{1}{4}=4$       |
+| Sum |          |               |                  5,5                  |
 
 **Jeg har vist at forventningsverdien er 6 kg og at variansen er 5,5 kg.**
 
 ### 1-5b
-
-```
-flowchart TD
-
-    X1[X₁]
-
-    X1 -->|¹/₄| X2{4}
-
-    X1 -->|¹/₂| X3{5}
-
-    X1 -->|¹/₄| X4{10}
-
-    X2 -->|¹/₄| X5{4}
-
-    X2 -->|¹/₂| X6{5}
-
-    X2 -->|¹/₄| X7{10}
-
-    X3 -->|¹/₄| X8{4}
-
-    X3 -->|¹/₂| X9{5}
-
-    X3 -->|¹/₄| X10{10}
-
-    X4 -->|¹/₄| X11{4}
-
-    X4 -->|¹/₂| X12{5}
-
-    X4 -->|¹/₄| X13{10}
-```
 
 ![](/img/user/_resources/mermaid-diagram-2024-03-15-112102.png)
 
@@ -271,6 +241,7 @@ Jeg bestemmer $P(X>87)$ ved hjelp av sannsynlighetsvinduet i GeoGebra.
 
 ### 2-3b
 Jeg brukte sannsynlighetsvinduet i GeoGebra. Der valgte jeg sannsynlighet for at $X<k$ og skrev inn 0,9 i sannsynlighetsfeltet.
+
 ![](/img/user/_resources/s2-h23-2-3b.png)
 
 **$\underline{\underline{k=86{,}84}}$. Det betyr at dekkprodusenten påstår at man klarer å stoppe innen 86,84 meter i 90 % av tilfellene.**
@@ -339,13 +310,13 @@ grenseverdi = 84
 
 for i in range(N):
     # gjør det tilfeldig om vi trekker en jente eller gutt
-	tilfeldig_tall = random.randint(1,2)
+    tilfeldig_tall = random.randint(1,2)
 
     if tilfeldig_tall == 1:
-		# trekker ei tilfeldig jente fra populasjonen
+        # trekker ei tilfeldig jente fra populasjonen
         hoyde = random.gauss(forventning_jente, standardavvik_jente)
     else:
-		# trekker en tilfeldig gutt fra populasjonen
+        # trekker en tilfeldig gutt fra populasjonen
         hoyde = random.gauss(forventning_gutt, standardavvik_gutt)
 
     if hoyde < grenseverdi:
@@ -353,7 +324,8 @@ for i in range(N):
 
 sannsynlighet = antall_gunstige / N
 
-print(f"Sannsynligheten for at barnet er mindre enn {grenseverdi} cm ved 24 måneder er omtrent {sannsynlighet:.4f}.")
+print(f"Sannsynligheten for at barnet er mindre enn {grenseverdi} cm ved "
+      f"24 måneder er omtrent {sannsynlighet:.4f}.")
 ```
 
 **Sannsynligheten er omtrent 0,14 for at et tilfeldig valgt barn på 24 måneder er under 84 cm.**
