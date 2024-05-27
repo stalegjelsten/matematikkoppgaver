@@ -7,18 +7,18 @@
 | file.link                                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Ukjent program Mønster v23\|Ukjent program Mønster v23]]                                                                                         |
+| [[Tunge kuler i kasse\|Tunge kuler i kasse]]                                                                                                       |
 | [[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole]] |
+| [[Simuler sannsynlighet for høyde over 175 cm\|Simuler sannsynlighet for høyde over 175 cm]]                                                       |
 | [[Sannsynligheter ved lottospill\|Sannsynligheter ved lottospill]]                                                                                 |
 | [[Normalfordelte hjortebukker\|Normalfordelte hjortebukker]]                                                                                       |
 | [[Normalfordelt intelligens\|Normalfordelt intelligens]]                                                                                           |
 | [[Lykkehjulet\|Lykkehjulet]]                                                                                                                       |
-| [[Kuler i krukke hypergeometrisk\|Kuler i krukke hypergeometrisk]]                                                                                 |
 | [[Levetiden til normalfordelte batterier\|Levetiden til normalfordelte batterier]]                                                                 |
 | [[Levetiden til lyspærer\|Levetiden til lyspærer]]                                                                                                 |
+| [[Kuler i krukke hypergeometrisk\|Kuler i krukke hypergeometrisk]]                                                                                 |
 | [[Forventningsverdi og varians fra sannsynlighetsfordeling\|Forventningsverdi og varians fra sannsynlighetsfordeling]]                             |
 | [[Forventingsverdi og varians fra sannsynlighetsfordeling 2\|Forventingsverdi og varians fra sannsynlighetsfordeling 2]]                           |
 | [[Billetter til fotballkamp\|Billetter til fotballkamp]]                                                                                           |
-| [[Simuler sannsynlighet for høyde over 175 cm\|Simuler sannsynlighet for høyde over 175 cm]]                                                       |
-| [[Tunge kuler i kasse\|Tunge kuler i kasse]]                                                                                                       |
 
 { .block-language-dataview}
