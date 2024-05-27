@@ -9,6 +9,7 @@
 | \-                                                                                             |
 | [[Temaer/algebra\|algebra]]                                                                 |
 | [[Temaer/andregradslikninger\|andregradslikninger]]                                         |
+| [[areal under graf\|areal under graf]]                                                         |
 | [[Temaer/arealsetningen\|arealsetningen]]                                                   |
 | [[Temaer/asymptoter\|asymptoter]]                                                           |
 | [[Temaer/binomisk\|binomisk]]                                                               |
