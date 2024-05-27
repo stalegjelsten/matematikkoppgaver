@@ -2,7 +2,6 @@
 {"aliases":null,"tags":["løsningsforslag"],"dg-publish":true,"title":null,"date":"2023-12-06","modified":"2024-05-15","disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title"],"geometry":"margin=3cm","fontsize":"11pt","papersize":"a4","author":"Ståle Gjelsten","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}"],"fag":["s2"],"eksamen":"h23","permalink":"/losningsforslag/losningsforslag-s2-eksamen-h2023/","dgPassFrontmatter":true}
 ---
 
-**
 
 ## Oppgave 1-1
 Dette integralet trenger ingen spesielle regler eller teknikker for å løses.
@@ -157,7 +156,7 @@ For å finne variansen må vi finne differansen til gjennomsnittet for hver verd
 
 ### 1-5b
 
-```mermaid
+```
 flowchart TD
 
     X1[X₁]
@@ -187,9 +186,9 @@ flowchart TD
     X4 -->|¹/₄| X13{10}
 ```
 
-![mermaid-diagram-2024-03-15-112102.png](/img/user/_resources/mermaid-diagram-2024-03-15-112102.png)
+![](/img/user/_resources/mermaid-diagram-2024-03-15-112102.png)
 
-Se valgtreet over. Jeg ser at utfallene for $Y=X_₁+X_{2}$ er 8, 9, 10, 14, 15 og 20. Jeg bruker valgtreet til å beregne sannsynligheten for hvert utfall
+Se valgtreet over. Jeg ser at utfallene for $Y=X_{1}+X_{2}$ er 8, 9, 10, 14, 15 og 20. Jeg bruker valgtreet til å beregne sannsynligheten for hvert utfall
 
 | $y$ |                      $P(Y=y)$                       |
 | :-: | :-------------------------------------------------: |
@@ -209,7 +208,7 @@ $$
 
 ## Oppgave 2-1
 ### 2-1a
-![s2-h23-2-1a.png](/img/user/_resources/s2-h23-2-1a.png)
+![](/img/user/_resources/s2-h23-2-1a.png)
 
 Jeg brukte GeoGebra til å lage en eksponentiell modell som passet godt til dataene. Jeg vurderer at gyldighetsområdet til modellen er for priser fra omtrent 5 kroner til 70 kroner. Hvis varen hadde kostet veldig lite, så ville nok etterspørselen vært enda større (teoretisk kan man ofte tenke seg at etterspørselen går mot uendelig når prisen går mot null). Det er vanskelig å sette en øvre grense her, men ved prisen 70 kroner så er etterspørselen kun 2,4 – dette er veldig lavt sammenlignet med etterspørselen på 237 ved prisen 10 kroner.
 
@@ -221,7 +220,7 @@ Jeg brukte GeoGebra og løste $e(p)=70$ i CAS.
 **Prisen for varen bør være 25,8 kroner dersom bedriften skal selge 70 enheter per dag.**
 
 ### 2-1c
-![s2-h23-2-1c.png](/img/user/_resources/s2-h23-2-1c.png)
+![](/img/user/_resources/s2-h23-2-1c.png)
 
 Gitt at $p(x)=79-12{,}2 \ln x$ er en funksjon som angir prisen ved etterspørselen $x$, så er inntekten gitt ved
 
@@ -234,7 +233,7 @@ Jeg brukte GeoGebra til å finne ekstremalpunktet til $I$ ved å derivere funksj
 **Vi har høyest inntekt ved etterspørselen 238,75 enheter, da er prisen $p(238{,}75)=12{,}2$.**
 
 ### Oppgave 2-1d
-![s2-h23-2-1d.png](/img/user/_resources/s2-h23-2-1d.png)
+![](/img/user/_resources/s2-h23-2-1d.png)
 
 Jeg la inn funksjonsuttrykket for $K(x)$ i CAS. CAS gir at $I'=K'$ ved $x\approx 80$.
 
@@ -263,8 +262,6 @@ Jeg brukte samme oppsett i Excel, men la til et ekstrabeløp i B52 som legges ti
 
 **Miriam må øke sparebeløpet med 1 836,33 kr hvert år.**
 
-
-
 ## Oppgave 2-3
 ### 2-3a
 Jeg bestemmer $P(X>87)$ ved hjelp av sannsynlighetsvinduet i GeoGebra. 
@@ -283,7 +280,7 @@ Jeg lar $\bar{X}$ være gjennomsnittet av 15 målinger. Da er $\bar{X}$ normalfo
 
 Jeg bruker sannsynlighetsvinduet i GeoGebra til å bestemme sannsynligheten $P(\bar{X}<84)=0{,}90165\approx0{,}902$.
 
-![s2-h23-2-3c.png](/img/user/_resources/s2-h23-2-3c.png)
+![](/img/user/_resources/s2-h23-2-3c.png)
 
 **Sannsynligheten for at gjennomsnittet av 15 målinger er under 84 meter er 0,902.**
 
