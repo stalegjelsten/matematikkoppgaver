@@ -8,5 +8,7 @@
 | ----------------------------------------------------------------------------- |
 | [[Bestemt integral 3\|Bestemt integral 3]]                                 |
 | [[Areal under graf med programmering\|Areal under graf med programmering]] |
+| [[Ubestemt integral v24\|Ubestemt integral v24]]                           |
+| [[Bestemt integral og areal\|Bestemt integral og areal]]                   |
 
 { .block-language-dataview}
