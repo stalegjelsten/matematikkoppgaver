@@ -9,8 +9,8 @@
 | [[Ukjent program med kostnader for produksjon\|Ukjent program med kostnader for produksjon]]                                   |
 | [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]]                                                                             |
 | [[Monas lån\|Monas lån]]                                                                                                       |
-| [[Grensekostnader fra graf v23\|Grensekostnader fra graf v23]]                                                                 |
 | [[Enhetskostnader fra graf\|Enhetskostnader fra graf]]                                                                         |
+| [[Grensekostnader fra graf v23\|Grensekostnader fra graf v23]]                                                                 |
 | [[Argumenter for hvorfor sette grensekostnad lik grenseinntekt\|Argumenter for hvorfor sette grensekostnad lik grenseinntekt]] |
 
 { .block-language-dataview}
