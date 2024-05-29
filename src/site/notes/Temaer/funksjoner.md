@@ -16,7 +16,7 @@
 | [[Andregradsuttrykk skjæringspunkter med x-aksen\|Andregradsuttrykk skjæringspunkter med x-aksen]]                           |
 | [[Grensekostnader fra graf v23\|Grensekostnader fra graf v23]]                                                               |
 | [[Skisser grafen ut fra den deriverte v2023\|Skisser grafen ut fra den deriverte v2023]]                                     |
-| [[Areal under graf med programmering\|Areal under graf med programmering]]                                                   |
 | [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] |
+| [[Areal under graf med programmering\|Areal under graf med programmering]]                                                   |
 
 { .block-language-dataview}

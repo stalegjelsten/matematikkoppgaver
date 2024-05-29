@@ -7,8 +7,8 @@
 | file.link                                                                     |
 | ----------------------------------------------------------------------------- |
 | [[Bestemt integral 3\|Bestemt integral 3]]                                 |
-| [[Ubestemt integral v24\|Ubestemt integral v24]]                           |
 | [[Areal under graf med programmering\|Areal under graf med programmering]] |
 | [[Bestemt integral og areal\|Bestemt integral og areal]]                   |
+| [[Ubestemt integral v24\|Ubestemt integral v24]]                           |
 
 { .block-language-dataview}
