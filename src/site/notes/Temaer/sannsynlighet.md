@@ -6,19 +6,20 @@
 # sannsynlighet
 | file.link                                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Ukjent program Mønster v23\|Ukjent program Mønster v23]]                                                                                         |
-| [[Tunge kuler i kasse\|Tunge kuler i kasse]]                                                                                                       |
+| [[Kuler i krukke hypergeometrisk\|Kuler i krukke hypergeometrisk]]                                                                                 |
 | [[Simuler sannsynlighet for høyde over 175 cm\|Simuler sannsynlighet for høyde over 175 cm]]                                                       |
+| [[Tunge kuler i kasse\|Tunge kuler i kasse]]                                                                                                       |
+| [[Forventningsverdi og varians fra sannsynlighetsfordeling\|Forventningsverdi og varians fra sannsynlighetsfordeling]]                             |
+| [[Levetiden til lyspærer\|Levetiden til lyspærer]]                                                                                                 |
+| [[Levetiden til normalfordelte batterier\|Levetiden til normalfordelte batterier]]                                                                 |
+| [[Ukjent program Mønster v23\|Ukjent program Mønster v23]]                                                                                         |
 | [[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole]] |
-| [[Sannsynligheter ved lottospill\|Sannsynligheter ved lottospill]]                                                                                 |
+| [[Lykkehjulet\|Lykkehjulet]]                                                                                                                       |
+| [[Billetter til fotballkamp\|Billetter til fotballkamp]]                                                                                           |
 | [[Normalfordelte hjortebukker\|Normalfordelte hjortebukker]]                                                                                       |
 | [[Normalfordelt intelligens\|Normalfordelt intelligens]]                                                                                           |
-| [[Kuler i krukke hypergeometrisk\|Kuler i krukke hypergeometrisk]]                                                                                 |
-| [[Lykkehjulet\|Lykkehjulet]]                                                                                                                       |
-| [[Levetiden til normalfordelte batterier\|Levetiden til normalfordelte batterier]]                                                                 |
-| [[Levetiden til lyspærer\|Levetiden til lyspærer]]                                                                                                 |
-| [[Forventningsverdi og varians fra sannsynlighetsfordeling\|Forventningsverdi og varians fra sannsynlighetsfordeling]]                             |
 | [[Forventingsverdi og varians fra sannsynlighetsfordeling 2\|Forventingsverdi og varians fra sannsynlighetsfordeling 2]]                           |
-| [[Billetter til fotballkamp\|Billetter til fotballkamp]]                                                                                           |
+| [[Sannsynligheter ved lottospill\|Sannsynligheter ved lottospill]]                                                                                 |
+| [[Sveins kurv med baller\|Sveins kurv med baller]]                                                                                                 |
 
 { .block-language-dataview}
