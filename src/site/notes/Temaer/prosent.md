@@ -6,7 +6,7 @@
 # prosent
 | file.link                                             |
 | ----------------------------------------------------- |
-| [[Monas prisøkning\|Monas prisøkning]]             |
 | [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]] |
+| [[Monas prisøkning\|Monas prisøkning]]             |
 
 { .block-language-dataview}

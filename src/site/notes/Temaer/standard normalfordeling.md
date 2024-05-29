@@ -6,10 +6,10 @@
 # standard normalfordeling
 | file.link                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------- |
-| [[Levetiden til normalfordelte batterier\|Levetiden til normalfordelte batterier]]                                     |
 | [[Normalfordelte hjortebukker\|Normalfordelte hjortebukker]]                                                           |
-| [[Forventningsverdi og varians fra graf av normalfordeling\|Forventningsverdi og varians fra graf av normalfordeling]] |
 | [[Normalfordelt intelligens\|Normalfordelt intelligens]]                                                               |
+| [[Levetiden til normalfordelte batterier\|Levetiden til normalfordelte batterier]]                                     |
+| [[Forventningsverdi og varians fra graf av normalfordeling\|Forventningsverdi og varians fra graf av normalfordeling]] |
 | [[Hildes terningkast\|Hildes terningkast]]                                                                             |
 | [[Normalfordelt laks\|Normalfordelt laks]]                                                                             |
 

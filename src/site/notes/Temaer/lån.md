@@ -6,8 +6,8 @@
 # lån
 | file.link                                         |
 | ------------------------------------------------- |
-| [[Annuitetslån\|Annuitetslån]]                 |
 | [[Monas lån\|Monas lån]]                       |
+| [[Annuitetslån\|Annuitetslån]]                 |
 | [[Olivias annuitetslån\|Olivias annuitetslån]] |
 
 { .block-language-dataview}

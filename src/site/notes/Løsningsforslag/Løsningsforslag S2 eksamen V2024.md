@@ -1,6 +1,7 @@
 ---
-{"temaer":null,"del":null,"oppgave":null,"aliases":[],"documentclass":"scrartcl","fontsize":"11pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}","\\usepackage[DIVS=18]{typearea}"],"toc":false,"highlight-style":"tango","numbersections":false,"shift-heading-level-by":-3,"pandoc-latex-environment":{"warning":["warning"],"danger":["danger"],"note":["note"],"tip":["tip"],"important":["important"],"info":["info"],"error":["error"],"fasit":["fasit"]},"tags":["løsningsforslag"],"dg-publish":true,"title":"Løsningsforslag S2 eksamen V2024","author":"Ståle Gjelsten","date":"2024-05-27","modified":"2024-05-28","fag":["s2"],"eksamen":"v24","permalink":"/losningsforslag/losningsforslag-s2-eksamen-v2024/","dgPassFrontmatter":true}
+{"temaer":null,"del":null,"oppgave":null,"aliases":[],"documentclass":"scrartcl","fontsize":"11pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}","\\usepackage[DIVS=18]{typearea}"],"toc":false,"highlight-style":"tango","numbersections":false,"shift-heading-level-by":-3,"pandoc-latex-environment":{"warning":["warning"],"danger":["danger"],"note":["note"],"tip":["tip"],"important":["important"],"info":["info"],"error":["error"],"fasit":["fasit"]},"tags":["løsningsforslag"],"dg-publish":true,"title":"Løsningsforslag S2 eksamen V2024","author":"Ståle Gjelsten","date":"2024-05-27","modified":"2024-05-29","fag":["s2"],"eksamen":"v24","permalink":"/losningsforslag/losningsforslag-s2-eksamen-v2024/","dgPassFrontmatter":true}
 ---
+
 
 
 Jeg blir veldig glad om du melder ifra om feil enten direkte til meg eller via forumet på [matematikk.net](https://matematikk.net/matteprat).
@@ -8,14 +9,13 @@ Jeg blir veldig glad om du melder ifra om feil enten direkte til meg eller via f
 ## Oppgave 1-1
 
 ### 1-1a
-Dette integralet trenger ingen spesielle regler eller teknikker for å løses.
 
 $$
 \begin{aligned}
-\int_{-1}^{0} \left( -x^{3}+3x \right)  \, dx \\
-\left[ -\frac{1}{4}x^{4}+\frac{3}{2}x^{2} \right]_{-1}^0 \\
-0-\left( -\frac{1}{4}(-1)^{4} + \frac{3}{2}(-1)^{2} \right) \\
--\left( -\frac{1}{4} + \frac{3}{2} \right)=-\frac{5}{4} 
+\int_{-1}^{0} \left( -x^{3}+3x \right)  \, dx& \\
+\left[ -\frac{1}{4}x^{4}+\frac{3}{2}x^{2} \right]_{-1}^0& \\
+0-\left( -\frac{1}{4}(-1)^{4} + \frac{3}{2}(-1)^{2} \right)& \\
+-\left( -\frac{1}{4} + \frac{3}{2} \right)&=-\frac{5}{4} 
 \end{aligned}
 $$
 
@@ -30,13 +30,13 @@ $$
 
 Vi har nullpunkter når $f(x)=0$, altså ved $x=-\sqrt{ 3 }, x=0, x=\sqrt{ 3 }$. Det er kun nullpunktet $x=0$ som ligger mellom $x=-1$ og $x=1$. 
 
-$$
-f(-1)=-(-1)^{3}+3(-1)=1-3=-2
-$$
+For å finne ut om funksjonen er positiv eller negativ i intervallene så sjekker jeg funksjonsverdien i $x=-1$ og $x=1$.
+
+$$f(-1)=-(-1)^{3}+3(-1)=1-3=-2$$
 
 $$f(1)=-(1)^{3}+3 \cdot 1=-1+3=2$$
 
-$f$ er altså negativ i intervallet $[-1, 0\rangle$ og positiv i intervallet $\langle 0 , 1]$. Vi finner arealet ved å ta integralene av hver del, og husker riktige fortegn.
+$f$ er altså negativ i intervallet $[-1, 0\rangle$ og positiv i intervallet $\langle 0 , 1]$. Vi finner arealet ved å ta integralene av hver del (og husker minustegn foran integralet til området som ligger under $x$-aksen).
 
 $$
 \begin{aligned}
@@ -48,9 +48,9 @@ $$
 
 **Arealet av området er $\underline{\underline{\frac{5}{2}}}$.**
 
->[!tip] Symmetri
+>[!tip] Antisymmetri
 >
->Du kan utnytte symmetrien til $f$ til å argumentere for at arealet avgrenset av $x=-1$, $f$, $x$-aksen og $x=0$ vil være like stort som arealet avgrenset av $f$, $x$-aksen, $x=0$ og $x=1$.
+>Du kan utnytte antisymmetrien til $f$ til å argumentere for at arealet avgrenset av $x=-1$, $f$, $x$-aksen og $x=0$ vil være like stort som arealet avgrenset av $f$, $x$-aksen, $x=0$ og $x=1$. 
 
 ## Oppgave 1-2
 ### 1-2 
@@ -58,6 +58,7 @@ Jeg ser at hvis jeg velger $u=x^{2}+1$ og bruker variabelskifte, så kan jeg for
 
 $$
 \begin{aligned}
+\int (x^{2}+1)^{3} \cdot 2x \, \mathrm{d}x &= \int u \cdot 2x \, \mathrm{d}x \\
 u&=x^{2}+1\\
 \frac{du}{dx}&=2x\\
 dx&=\frac{du}{2x}
@@ -67,12 +68,12 @@ $$
 Jeg erstatter $dx$ i det opprinnelige integralet med $\frac{du}{2x}$
 
 $$
-\int u^{3}\cdot \cancel{ 2x } \, \frac{du}{\cancel{ 2x }} =\int u^{3} \, \mathrm{d}u=\frac{1}{4}u^{4}+C= \underline{\underline{\frac{1}{4}(x^{2}+1)^{4}+C}}
+\int u^{3} \cdot 2x \, \mathrm{d}x =\int u^{3}\cdot \cancel{ 2x } \, \frac{du}{\cancel{ 2x }} =\int u^{3} \, \mathrm{d}u=\frac{1}{4}u^{4}+C= \underline{\underline{\frac{1}{4}(x^{2}+1)^{4}+C}}
 $$
 
 ## Oppgave 1-3
 ### 1-3a
-Programmet viser en aritmetisk følge hvor hvert ledd for $n>0$ er gitt ved $a_{n}=4n-2$. Programmet regner ut delsummene, $S_{n}$, til den tilhørende rekka. 
+Programmet viser en aritmetisk følge hvor hvert ledd er gitt av $a_{n}=4n-2$ for $n>0$. Programmet regner ut delsummene, $S_{n}$, til den tilhørende rekka. 
 
 **Programmet finner ut hvilket ledd i rekka som gjør at delsummen blir *over* 200.**
 
@@ -166,33 +167,32 @@ $$
 S=X_{1}+X_{2}+X_{3}+ \dots + X_{n}
 $$
 
-Da er variansen og standardavviket til $S$
+Sentralgrensesetningen sier at $S$ vil være tilnærmet normalfordelt med variansen og standardavviket:
 
 $$
 \text{Var}(S)=n \cdot \text{Var}(X) \implies SD(S)=\sqrt{ n } \cdot SD(X)
 $$
 
-På grunn av sentralgrensesetningen vil $S$ være tilnærmet normalfordelt. 
-
 Fra normalfordelingstabellen så kan jeg finne ut at 68 % av arealet under normalfordelingskurven ligger innenfor pluss/minus ett standardavvik fra forventningsverdien. Altså må det være 32 % sannsynlighet for å få observasjon *mer enn* ett standardavvik fra forventningsverdien.
 
 ![](/img/user/_resources/s2-v24-1-6b.png)
 
-Vi skal finne antallet ganger vi må kaste for at det er 32 % sannsynlighet for at summen av antall øyne er mer enn 17 unna forventningsverdien for summen. Siden vi vet at 32 % tilsvarer ett standardavvik må 17 øyne være ett standardavvik.
+Siden vi vet at 32 % tilsvarer mer enn ett standardavvik fra forventningsverdien, må 17 øyne være ett standardavvik.
 
 $$
 \begin{aligned}
-17&=\sqrt{ n } \cdot SD(X)\\
-17 &= \sqrt{ n }\cdot 1{,}7\\
-10 &= \sqrt{ n }\\
-100 &= n
+SD(S)&=17\\
+\sqrt{ n } \cdot SD(X)&=17 \\
+\sqrt{ n } \cdot 1{,}7 &= 17\\
+\sqrt{ n }&=10\\
+n&=100
 \end{aligned}
 $$
 
-Hilde må kaste terningen 100 ganger før det er omtrent 32 % sannsynlighet for at summen av antall øyne er mer enn 17 unna forventningsverdien for summen.
+**Hilde må kaste terningen 100 ganger før det er omtrent 32 % sannsynlighet for at summen av antall øyne er mer enn 17 unna forventningsverdien for summen.**
 
 ## Oppgave 2-1
-![](/img/user/_resources/s2-v24-2-1.png)
+![CAS-utklipp til oppgave 2-1](/img/user/_resources/s2-v24-2-1.png){ width=50% }
 
 ### 2-1a
 Jeg ser at funksjonen er logistisk og jeg vet at den største vekstfarten er i vendepunktet.
@@ -235,11 +235,19 @@ $X$ er binomisk fordelt fordi
 
 Jeg bruker GeoGebras sannsynlighetskalkulator til å bestemme $P(X=9)$.
 
-![](/img/user/_resources/s2-v24-2-2a.png)
+![Utklipp til oppgave 2-2a](/img/user/_resources/s2-v24-2-2a.png){width=50%}
 
 $$
 P(X=9)=\underline{\underline{0{,}258}}
 $$
+
+>[!tip] Utregning med formel for binomisk
+>
+>Du kan også finne denne punktsannsynligheten enkelt med formelen for binomisk sannsynlighetsfordeling
+>
+>$$P(X=k)=\binom{n}{k} \cdot p^{k}\cdot (1-p)^{n-k}$$
+>
+>$$P(X=9)=\binom{12}{9}\cdot 0{,}75^{9} \cdot 0{,}25^{3}=0{,}2581$$
 
 ### 2-2b
 Nullhypotesen vår er at begge legemidlene er like effektive, mens den alternative hypotesen er at legemiddel B er bedre.
@@ -253,14 +261,21 @@ $$
 
 Jeg finner sannsynligheten for at legemiddel B skal ha fungert på 9 av 10 pasienter gitt at $H_{0}$ er sann ved hjelp av GeoGebra.
 
-![](/img/user/_resources/s2-v24-2-2b.png)
+![Utklipp til oppgave 2-2b](/img/user/_resources/s2-v24-2-2b.png){width=50%}
 
 **$p$-verdien er 0,244, dette er større enn signifikansnivået 0,05. Vi kan ikke forkaste $H_{0}$, og vi kan dermed ikke si at legemiddel B fungerer bedre enn legemiddel A.**
 
 ### 2–2c
+
+>[!tip] Oppgaven kan også løses med binomisk fordeling
+>
+> Denne oppgaven lar seg fint løse i GeoGebra ved å prøve seg fram med binomisk fordeling. Av gammel vane har jeg valgt å bruke normalfordeling som en tilnærming til den binomiske. Dette gir meg også mulighet til å skrive inn signifikansnivået 0,05 i svarfeltet i sannsynlighetskalkulatoren i GeoGebra.
+>
+>Siden $\text{Var}(X)$ er høy så er normalfordelingen en veldig god tilnærming, og vi får samme svar uansett hvilken fordeling vi velger.
+
 Jeg lar $Y$ være antallet pasienter som legemiddel B fungerer for av de 200 pasientene. $Y$ er tilnærmet normalfordelt siden $\left( \text{Var}(Y)=200 \cdot 0{,}75 \cdot 0{,}25 \right) \gg 5$.
 
-![](/img/user/_resources/s2-v24-2-2c.png)
+![Utklipp til oppgave 2-2c](/img/user/_resources/s2-v24-2-2c.png){width=50%}
 
 Jeg legger inn normalfordelingen med $\mu=200\cdot 0{,}75$ og $\sigma=\sqrt{ 200 \cdot 0{,}75 \cdot 0{,}25 }$. Deretter la jeg inn signifikansnivået 0,05 i svarfeltet, det gir oss at $Y$ må være minst 160,07. Vi må runde opp til 161 for å være sikre på at $p$-verdien blir lavere enn signifikansnivået.
 
@@ -269,7 +284,7 @@ Jeg legger inn normalfordelingen med $\mu=200\cdot 0{,}75$ og $\sigma=\sqrt{ 200
 ## Oppgave 2-3
 Jeg velger å løse disse oppgavene i CAS, men jeg har tatt med et eksempel på løsning i regneark på oppgave 3c), se nedenfor.
 
-![](/img/user/_resources/s2-v24-2-3-cas.png)
+![Utklipp til oppgave 2-3](/img/user/_resources/s2-v24-2-3-cas.png){width=70%}
 
 ### 2-3a
 Summen av nåverdiene til terminbeløpene skal bli lik lånebeløpet. Jeg setter opp dette som en likning i CAS med `Sum((x/1.055^i), i, 1, 25) = 25000000` og løser, se linje 1 i utklippet.
@@ -281,24 +296,40 @@ Jeg setter opp det det ekstra lånet som et nytt lån til samme rente med 20 år
 
 Olivia må betale for begge lånene fra år 5 og utover, se linje 3.
 
-**Det samlede terminbeløpet blir 228 213 kr.**
+**Det nye terminbeløpet blir 228 213 kr fra år 5 og utover.**
 
 ### 2-3c
-Etter 5 år så har Olivia allerede betalt avdrag på lånet på kr 272 767, se linje 4.
+Etter 5 år så har Olivia allerede betalt ned lånet med kr 272 767, se linje 4.
 
-I linje 5 så setter jeg opp en likning. På venstre side har vi summen av nåverdiene til terminbeløpene, men med ukjent antall terminer. På høyre side har vi lånebeløpet etter 5 år, som blir det originale lånebeløpet og ekstralånet, minus 272 767 kr. Fra CAS ser jeg at det tar 25,89 år etter de 5 første årene får lånet er nedbetalt. Jeg runder opp til siden det er først i dette året at lånet er tilbakebetalt.
+I linje 5 så setter jeg opp en likning. På venstre side har vi summen av nåverdiene til terminbeløpene, men med ukjent antall terminer. På høyre side har vi lånebeløpet etter 5 år, som blir det originale lånebeløpet og ekstralånet, minus 272 767 kr. Fra CAS ser jeg at det tar 25,89 år etter de 5 første årene før lånet er nedbetalt. Jeg runder opp til 26 siden det er først i dette året at lånet er tilbakebetalt.
 
 **Den nye tilbakebetalingstiden blir 31 år.**
 
-Nedenfor har jeg løst oppgaven i regneark ved å sette opp lånet og beregne renter for hvert år. I år 5 så legger jeg til 500 000 kr ekstra på lånet og endrer terminbeløpet til 200 000 kr. Deretter utvider jeg bare tabellen min fram til jeg ser at lånet er tilbakebetalt. Som vi ser er lånet fullstendig tilbakebetalt i år 31 hvor avdragene er større enn restlånet.
+>[!tip] Løsning med regneark
+>
+>Det er mulig å gjøre alle deloppgavene i denne oppgaven i regneark (i hvert fall hvis du bruker målsøking).
+>
+>Nedenfor har jeg løst oppgave c) i regneark ved å sette opp lånet og beregne renter for hvert år. I år 5 så legger jeg til 500 000 kr ekstra på lånet (celle `C43`) og endrer terminbeløpet til 200 000 kr (celle `E43`). 
+>
+>Deretter fyller jeg bare formlene nedover og utvider tabellen fram til jeg ser at lånet er tilbakebetalt. 
+>
+>Som vi ser er lånet fullstendig tilbakebetalt i år 31 hvor avdragene er større enn restlånet.
 
-![](/img/user/_resources/s2-v4-2-3-excel.png)
+![Utklipp av regneark til oppgave 2-c](/img/user/_resources/s2-v4-2-3-excel.png)
 
 ## Oppgave 2-4
 ### 2-4a
-Jeg ser at $S_{1}=1^{3}=1$, $S_{2}=1^{3}+2^{3}=S_{1}+2^{3}$, $S_{3}=S_{2}+3^{3}$ og så videre.
+Jeg setter opp de første leddene og ser om jeg finner en rekursiv sammenheng som jeg kan bruke.
 
-En rekursiv sammenheng mellom summene er altså
+$$
+\begin{aligned}
+S_{1}&=1^{3}\\
+S_{2}&=1^{3}+2^{3}=S_{1}+2^{3}\\
+S_{3}&=1^{3}+2^{3}+3^{3}=S_{2}+3^{3}
+\end{aligned}
+$$
+
+Jeg ser at hvert ledd er det forrige leddet, pluss det neste kubikktallet. En rekursiv sammenheng mellom summene er altså
 
 $$
 \underline{\underline{S_{n+1}=S_{n}+(n+1)^{3}}}
@@ -325,7 +356,7 @@ for n in range(1, 51):
 print(S)
 ```
 
-**Programmet gir at $S_{50}=1625625$.**
+**Programmet gir at $S_{50}=1 \, 625 \, 625$.**
 
 ## Oppgave 2-5
 ### 2-5a
@@ -343,7 +374,7 @@ $$
 Her prøver jeg meg fram med programmering og setter inn ulike verdier for antallet baller i kurva. Man kan programmere binomialkoeffisientfunksjonen selv, eller bruke en ferdig funksjon fra `math`-biblioteket. 
 
 ```python
-import math 
+import math #math.comb er binomialkoeff.funksjonen
 
 rod = 9
 bla = 6
@@ -351,12 +382,18 @@ bla = 6
 for n in range(18, 201, 2): 
 	# lager ei løkke som tester alle partall fra 18 til og med 200
 	n1 = int(n/2) # halvparten av ballene er røde (må gjøre om til heltall)
-	ssh = ( math.comb(n1, rod) * math.comb(n1, bla) ) / math.comb(n, (rod+bla))
+	teller = math.comb(n1, rod) * math.comb(n1, bla)
+	nevner = math.comb(n, (rod+bla))
+	ssh = teller / nevner
 
 	print(f"Ved {n} baller P(R=9) = {ssh:.5f}")
 ```
 
-**Utskriften forteller meg at det mest sannsynlige baller i kurven er 34 eller 36.**
+**Utskriften forteller meg at det mest sannsynlige antallet baller i kurven er 34 eller 36.**
+
+>[!tip] Bruk 2n istedenfor n/2
+>
+>I mitt løsningsforslag har jeg gått ut fra at krukka inneholder $n$ baller. Det er nok lurere å si at det er $n$ røde baller i krukka, og at krukka samlet sett inneholder $2n$ baller. Da slipper du å gjøre om $\frac{n}{2}$ til heltall med `int()`.
 
 #### Løsningsmetode 2: Funksjon
 Jeg lager en funksjon hvor antall baller i kurva er ukjent.
@@ -365,7 +402,7 @@ $$
 f(x)= \frac{\binom{\frac{x}{2}}{9}\binom{\frac{x}{2}}{6}}{\binom{x}{15}}
 $$
 
-Denne verdien er egentlig bare gyldig for partallene fra 18 og oppover, men jeg velger å tegne den uten begrensning i GeoGebra for å kunne finne ekstremalpunkter enkelt.
+Denne funksjonen er egentlig bare gyldig for partallene fra 18 og oppover, men jeg velger å tegne den uten begrensning i GeoGebra for å kunne finne ekstremalpunkter enkelt.
 
 ![](/img/user/_resources/s2-v24-2-5b.png)
 
