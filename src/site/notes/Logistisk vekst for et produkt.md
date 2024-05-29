@@ -1,0 +1,33 @@
+---
+{"tags":["oppgave"],"date":"2024-05-29","modified":"2024-05-29","aliases":null,"dg-publish":true,"temaer":["økonomi","logistisk funksjon","samlet mengde"],"fag":["s2"],"eksamen":"v24","del":2,"oppgave":"1","title":"Logistisk vekst for et produkt","source":null,"todo":null,"permalink":"/logistisk-vekst-for-et-produkt/","dgPassFrontmatter":true}
+---
+
+
+# Logistisk vekst for et produkt
+
+<p><span><em>Oppgaven er hentet fra eksamen S2 V24 del 2 oppgave 1.</em></span></p>
+
+For et år siden begynte en butikk å selge et nytt produkt. Funksjonen $f$ gitt ved
+
+$$
+f(t)=\frac{700}{1+20e^{-0{,}12t}}
+$$
+
+er en god modell for antallet enheter butikken har solgt av produktet per uke, $t$ uker etter at produktet kom i salg.
+
+>a) Når økte slaget raskest, ifølge modellen, og hvor mye økte salget da?
+>b) Hvor lang tid gikk det før det samlede salget passerte 2000 enheter, ifølge modellen?
+
+Inntekten fra salget av produktet har vært 1 000 000 kroner det første året.
+
+>c) Hvilken pris har butikken solgt produktet for?
+
+>[!question]- Fasit
+> 
+>a) Uke 25, 21 enheter per uke
+>b) 18,83 uker
+>c) 53 kr
+>[[Løsningsforslag/Løsningsforslag S2 eksamen V2024#Oppgave 2-1\|Løsningsforslag S2 eksamen V2024]]
+
+## Relatert
+<h3><span>Tilfeldige oppgaver i samme fag</span></h3><p><span>Det er ofte best å blande hvilke type oppgaver man gjør dersom du skal forberede deg til en prøve eller eksamen. Her er tre tilfeldige oppgaver i S2.</span></p><div><ul class="dataview list-view-ul"><li><span><a data-tooltip-position="top" aria-label="Normalfordelte hjortebukker.md" data-href="Normalfordelte hjortebukker.md" href="Normalfordelte hjortebukker.md" class="internal-link" target="_blank" rel="noopener">Normalfordelte hjortebukker S2 V15 Del 1 oppg 7</a></span></li><li><span><a data-tooltip-position="top" aria-label="Ukjent program h23.md" data-href="Ukjent program h23.md" href="Ukjent program h23.md" class="internal-link" target="_blank" rel="noopener">Ukjent program h23 S2 H23 Del 1 oppg 4</a></span></li><li><span><a data-tooltip-position="top" aria-label="Sveins kurv med baller.md" data-href="Sveins kurv med baller.md" href="Sveins kurv med baller.md" class="internal-link" target="_blank" rel="noopener">Sveins kurv med baller S2 V24 Del 2 oppg 5</a></span></li></ul></div><h3><span>Lignende oppgaver sortert etter tema</span></h3><h4><span>Økonomi</span></h4><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Oppgave</span><span class="dataview small-text">6</span></th><th class="table-view-th"><span>Fag</span></th><th class="table-view-th"><span>År</span></th><th class="table-view-th"><span>Oppg</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Ukjent program med kostnader for produksjon.md" data-href="Ukjent program med kostnader for produksjon.md" href="Ukjent program med kostnader for produksjon.md" class="internal-link" target="_blank" rel="noopener">Ukjent program med kostnader for produksjon</a></span></td><td><span>S1</span></td><td><span>V23</span></td><td><span>1-5</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Timelønn og lønnsvekst.md" data-href="Timelønn og lønnsvekst.md" href="Timelønn og lønnsvekst.md" class="internal-link" target="_blank" rel="noopener">Timelønn og lønnsvekst</a></span></td><td><span>S1</span></td><td><span>V23</span></td><td><span>2-1</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Enhetskostnader fra graf.md" data-href="Enhetskostnader fra graf.md" href="Enhetskostnader fra graf.md" class="internal-link" target="_blank" rel="noopener">Enhetskostnader fra graf</a></span></td><td><span>S2</span></td><td><span>H14</span></td><td><span>1-5</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Grensekostnader fra graf v23.md" data-href="Grensekostnader fra graf v23.md" href="Grensekostnader fra graf v23.md" class="internal-link" target="_blank" rel="noopener">Grensekostnader fra graf v23</a></span></td><td><span>S2</span></td><td><span>V23</span></td><td><span>1-2</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Argumenter for hvorfor sette grensekostnad lik grenseinntekt.md" data-href="Argumenter for hvorfor sette grensekostnad lik grenseinntekt.md" href="Argumenter for hvorfor sette grensekostnad lik grenseinntekt.md" class="internal-link" target="_blank" rel="noopener">Argumenter for hvorfor sette grensekostnad lik grenseinntekt</a></span></td><td><span>S2</span></td><td><span>E22</span></td><td><span>1-6</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Monas lån.md" data-href="Monas lån.md" href="Monas lån.md" class="internal-link" target="_blank" rel="noopener">Monas lån</a></span></td><td><span>S2</span></td><td><span>Ingen</span></td><td><span>2-7</span></td></tr></tbody></table></div><h4><span>Logistisk funksjon</span></h4><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Oppgave</span><span class="dataview small-text">1</span></th><th class="table-view-th"><span>Fag</span></th><th class="table-view-th"><span>År</span></th><th class="table-view-th"><span>Oppg</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Regresjon på størrelsen av det norske musikkstrømmemarkedet.md" data-href="Regresjon på størrelsen av det norske musikkstrømmemarkedet.md" href="Regresjon på størrelsen av det norske musikkstrømmemarkedet.md" class="internal-link" target="_blank" rel="noopener">Regresjon på størrelsen av det norske musikkstrømmemarkedet</a></span></td><td><span>S2, R2</span></td><td><span>V23</span></td><td><span>2-2</span></td></tr></tbody></table></div>
