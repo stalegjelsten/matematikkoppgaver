@@ -22,6 +22,7 @@
 | [[etterspørsel\|etterspørsel]]                                                                 |
 | [[Temaer/excel\|excel]]                                                                     |
 | [[Temaer/faktorisering\|faktorisering]]                                                     |
+| [[figurtall\|figurtall]]                                                                       |
 | [[Temaer/formler\|formler]]                                                                 |
 | [[forventningsverdi\|forventningsverdi]]                                                       |
 | [[Temaer/funksjoner\|funksjoner]]                                                           |
@@ -56,6 +57,7 @@
 | [[Temaer/regresjon\|regresjon]]                                                             |
 | [[Temaer/rekker\|rekker]]                                                                   |
 | [[rekursiv sammenheng\|rekursiv sammenheng]]                                                   |
+| [[samlet mengde\|samlet mengde]]                                                               |
 | [[Temaer/sannsynlighet\|sannsynlighet]]                                                     |
 | [[sentralmål\|sentralmål]]                                                                     |
 | [[Temaer/simulering\|simulering]]                                                           |
