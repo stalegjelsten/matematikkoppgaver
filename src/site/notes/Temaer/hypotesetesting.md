@@ -6,8 +6,8 @@
 # hypotesetesting
 | file.link                                                           |
 | ------------------------------------------------------------------- |
-| [[Hypotesetest om legemiddel\|Hypotesetest om legemiddel]]       |
-| [[Hypotesetest med smak av cola\|Hypotesetest med smak av cola]] |
 | [[Hypotesetest om russetid\|Hypotesetest om russetid]]           |
+| [[Hypotesetest med smak av cola\|Hypotesetest med smak av cola]] |
+| [[Hypotesetest om legemiddel\|Hypotesetest om legemiddel]]       |
 
 { .block-language-dataview}
