@@ -7,8 +7,8 @@
 | file.link                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------- |
 | [[Tunge kuler i kasse\|Tunge kuler i kasse]]                                                                             |
-| [[Hypotesetest med smak av cola\|Hypotesetest med smak av cola]]                                                         |
 | [[Forventningsverdi og varians fra sannsynlighetsfordeling\|Forventningsverdi og varians fra sannsynlighetsfordeling]]   |
+| [[Hypotesetest med smak av cola\|Hypotesetest med smak av cola]]                                                         |
 | [[Forventingsverdi og varians fra sannsynlighetsfordeling 2\|Forventingsverdi og varians fra sannsynlighetsfordeling 2]] |
 
 { .block-language-dataview}
