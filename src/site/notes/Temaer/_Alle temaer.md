@@ -12,6 +12,7 @@
 | [[areal under graf\|areal under graf]]                                                         |
 | [[Temaer/arealsetningen\|arealsetningen]]                                                   |
 | [[Temaer/asymptoter\|asymptoter]]                                                           |
+| [[bevis\|bevis]]                                                                               |
 | [[Temaer/binomisk\|binomisk]]                                                               |
 | [[Temaer/cas\|cas]]                                                                         |
 | [[Temaer/cosinussetningen\|cosinussetningen]]                                               |
