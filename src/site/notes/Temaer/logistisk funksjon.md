@@ -7,5 +7,6 @@
 | file.link                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------- |
 | [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] |
+| [[Logistisk vekst for et produkt\|Logistisk vekst for et produkt]]                                                           |
 
 { .block-language-dataview}
