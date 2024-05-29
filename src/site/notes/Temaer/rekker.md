@@ -6,20 +6,21 @@
 # rekker
 | file.link                                                                                         |
 | ------------------------------------------------------------------------------------------------- |
-| [[Ukjent program del 1 S2\|Ukjent program del 1 S2]]                                           |
-| [[Aritmetisk rekke\|Aritmetisk rekke]]                                                         |
-| [[Summen av repeterende brøker\|Summen av repeterende brøker]]                                 |
-| [[Idas jakke\|Idas jakke]]                                                                     |
-| [[Miriam og Hermods sparing\|Miriam og Hermods sparing]]                                       |
 | [[Uendelig rekke med virkestoff fra legemiddel\|Uendelig rekke med virkestoff fra legemiddel]] |
-| [[Rekursiv sammenheng mellom pentagontall\|Rekursiv sammenheng mellom pentagontall]]           |
 | [[Summen av ukjent uendelig geometrisk rekke\|Summen av ukjent uendelig geometrisk rekke]]     |
-| [[Begrunn at uendelig rekke konvergerer\|Begrunn at uendelig rekke konvergerer]]               |
-| [[Annuitetslån\|Annuitetslån]]                                                                 |
-| [[Hildegunns ukepenger\|Hildegunns ukepenger]]                                                 |
+| [[Ukjent program del 1 S2\|Ukjent program del 1 S2]]                                           |
 | [[Uendelig geomtrisk rekke\|Uendelig geomtrisk rekke]]                                         |
+| [[Summen av repeterende brøker\|Summen av repeterende brøker]]                                 |
+| [[Miriam og Hermods sparing\|Miriam og Hermods sparing]]                                       |
+| [[Aritmetisk rekke\|Aritmetisk rekke]]                                                         |
+| [[Idas jakke\|Idas jakke]]                                                                     |
+| [[Hildegunns ukepenger\|Hildegunns ukepenger]]                                                 |
+| [[Begrunn at uendelig rekke konvergerer\|Begrunn at uendelig rekke konvergerer]]               |
 | [[Aritmetisk mur\|Aritmetisk mur]]                                                             |
-| [[Olivias annuitetslån\|Olivias annuitetslån]]                                                 |
+| [[Annuitetslån\|Annuitetslån]]                                                                 |
+| [[Rekursiv sammenheng mellom pentagontall\|Rekursiv sammenheng mellom pentagontall]]           |
 | [[Ukjent program S2 v24\|Ukjent program S2 v24]]                                               |
+| [[Olivias annuitetslån\|Olivias annuitetslån]]                                                 |
+| [[Sum av integralrekke\|Sum av integralrekke]]                                                 |
 
 { .block-language-dataview}
