@@ -10,7 +10,7 @@
 | [[Normalfordelte hjortebukker\|Normalfordelte hjortebukker]]                                                           |
 | [[Forventningsverdi og varians fra graf av normalfordeling\|Forventningsverdi og varians fra graf av normalfordeling]] |
 | [[Normalfordelt intelligens\|Normalfordelt intelligens]]                                                               |
-| [[Normalfordelt laks\|Normalfordelt laks]]                                                                             |
 | [[Hildes terningkast\|Hildes terningkast]]                                                                             |
+| [[Normalfordelt laks\|Normalfordelt laks]]                                                                             |
 
 { .block-language-dataview}
