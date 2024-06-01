@@ -7,16 +7,16 @@
 | file.link                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------- |
 | [[Ukjent programkode\|Ukjent programkode]]                                                                     |
+| [[Sum av integralrekke\|Sum av integralrekke]]                                                                 |
+| [[Sveins kurv med baller\|Sveins kurv med baller]]                                                             |
 | [[Tredjegradsfunksjoner uten førstegradsledd\|Tredjegradsfunksjoner uten førstegradsledd]]                     |
 | [[Rart integral\|Rart integral]]                                                                               |
+| [[Hildes terningkast\|Hildes terningkast]]                                                                     |
 | [[Lag funksjonsuttrykk til grafen av rasjonal funksjon\|Lag funksjonsuttrykk til grafen av rasjonal funksjon]] |
 | [[Bredden av teltplassen\|Bredden av teltplassen]]                                                             |
 | [[Billetter til fotballkamp\|Billetter til fotballkamp]]                                                       |
-| [[Areal av sirkel og kvadrat som skjærer hverandre\|Areal av sirkel og kvadrat som skjærer hverandre]]         |
 | [[Areal under graf med programmering\|Areal under graf med programmering]]                                     |
+| [[Areal av sirkel og kvadrat som skjærer hverandre\|Areal av sirkel og kvadrat som skjærer hverandre]]         |
 | [[Areal av område begrenset av sirkler\|Areal av område begrenset av sirkler]]                                 |
-| [[Hildes terningkast\|Hildes terningkast]]                                                                     |
-| [[Sveins kurv med baller\|Sveins kurv med baller]]                                                             |
-| [[Sum av integralrekke\|Sum av integralrekke]]                                                                 |
 
 { .block-language-dataview}
