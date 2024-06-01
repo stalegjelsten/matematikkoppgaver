@@ -6,8 +6,8 @@
 # uendelig rekke
 | file.link                                                                                         |
 | ------------------------------------------------------------------------------------------------- |
+| [[Sum av integralrekke\|Sum av integralrekke]]                                                 |
 | [[Uendelig rekke med virkestoff fra legemiddel\|Uendelig rekke med virkestoff fra legemiddel]] |
 | [[Uendelig geomtrisk rekke\|Uendelig geomtrisk rekke]]                                         |
-| [[Sum av integralrekke\|Sum av integralrekke]]                                                 |
 
 { .block-language-dataview}

@@ -1,5 +1,5 @@
 ---
-{"oppgave":null,"aliases":null,"documentclass":"scrartcl","fontsize":"11pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}","\\usepackage[DIVS=18]{typearea}"],"toc":false,"highlight-style":"tango","numbersections":false,"shift-heading-level-by":-3,"pandoc-latex-environment":{"warning":["warning"],"danger":["danger"],"note":["note"],"tip":["tip"],"important":["important"],"info":["info"],"error":["error"],"fasit":["fasit"]},"tags":["løsningsforslag"],"dg-publish":true,"title":"Løsningsforslag 2P-Y eksamen V2024","author":"Ståle Gjelsten","date":"","modified":"2024-05-30","fag":["2p-y"],"eksamen":"v24","permalink":"/losningsforslag/losningsforslag-2-p-y-eksamen-v2024/","dgPassFrontmatter":true}
+{"oppgave":null,"aliases":null,"documentclass":"scrartcl","fontsize":"11pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}","\\usepackage[DIVS=18]{typearea}"],"toc":false,"highlight-style":"tango","numbersections":false,"shift-heading-level-by":-3,"pandoc-latex-environment":{"warning":["warning"],"danger":["danger"],"note":["note"],"tip":["tip"],"important":["important"],"info":["info"],"error":["error"],"fasit":["fasit"]},"tags":["løsningsforslag"],"dg-publish":true,"title":"Løsningsforslag 2P-Y eksamen V2024","author":"Ståle Gjelsten","date":"2024-05-24","modified":"2024-05-30","fag":["2p-y"],"eksamen":"v24","permalink":"/losningsforslag/losningsforslag-2-p-y-eksamen-v2024/","dgPassFrontmatter":true}
 ---
 
 # Del 1
@@ -113,6 +113,7 @@ Jeg beregnet gjennomsnittet og standardavviket til turene til Solveig ved å bru
 | ------- | :----------: | :-----------: | :-------: |
 | Solveig |  7,15 timer  |  2,45 timer   | 7,5 timer |
 | Miriam  |  4,7 timer   |   4,2 timer   |  4 timer  |
+
 Solveig har omtrent 2,5 timer høyere gjennomsnitt enn Miriam. Solveig går derfor oftere turer som er veldig lange (hun har et gjennomsnitt på over 7 timer). Gjennomsnittet og medianen til Solveig er ganske like, det tyder på at det er få ekstreme verdier i datamaterialet.
 
 Solveig har et mye lavere standardavvik enn Miriam, nesten 2 timer eller kun$\frac{4{,}2-2{,}45}{4{,}2}=41{,}7 \,\%$ av Miriams standardavvik. Det er derfor mye større variasjon lengdene på turene til Miriam. Sannsynligvis har hun gått noen veldig lange turer siden standardavviket er nesten like høyt som gjennomsnittet.
