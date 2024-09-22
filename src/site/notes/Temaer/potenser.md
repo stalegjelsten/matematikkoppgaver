@@ -4,8 +4,7 @@
 
 
 # potenser
-| file.link                                           |
-| --------------------------------------------------- |
-| [[Algebra potensregning\|Algebra potensregning]] |
+| file.link |
+| --------- |
 
 { .block-language-dataview}

@@ -6,10 +6,10 @@
 # integral
 | file.link                                                                     |
 | ----------------------------------------------------------------------------- |
-| [[Sum av integralrekke\|Sum av integralrekke]]                             |
-| [[Ubestemt integral v24\|Ubestemt integral v24]]                           |
-| [[Bestemt integral 3\|Bestemt integral 3]]                                 |
 | [[Bestemt integral og areal\|Bestemt integral og areal]]                   |
+| [[Bestemt integral 3\|Bestemt integral 3]]                                 |
+| [[Ubestemt integral v24\|Ubestemt integral v24]]                           |
+| [[Sum av integralrekke\|Sum av integralrekke]]                             |
 | [[Areal under graf med programmering\|Areal under graf med programmering]] |
 
 { .block-language-dataview}

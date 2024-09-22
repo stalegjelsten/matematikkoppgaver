@@ -6,17 +6,17 @@
 # utforskning
 | file.link                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------- |
-| [[Ukjent programkode\|Ukjent programkode]]                                                                     |
-| [[Sum av integralrekke\|Sum av integralrekke]]                                                                 |
-| [[Sveins kurv med baller\|Sveins kurv med baller]]                                                             |
-| [[Tredjegradsfunksjoner uten førstegradsledd\|Tredjegradsfunksjoner uten førstegradsledd]]                     |
-| [[Rart integral\|Rart integral]]                                                                               |
 | [[Hildes terningkast\|Hildes terningkast]]                                                                     |
 | [[Lag funksjonsuttrykk til grafen av rasjonal funksjon\|Lag funksjonsuttrykk til grafen av rasjonal funksjon]] |
+| [[Tredjegradsfunksjoner uten førstegradsledd\|Tredjegradsfunksjoner uten førstegradsledd]]                     |
 | [[Bredden av teltplassen\|Bredden av teltplassen]]                                                             |
+| [[Ukjent programkode\|Ukjent programkode]]                                                                     |
+| [[Sveins kurv med baller\|Sveins kurv med baller]]                                                             |
 | [[Billetter til fotballkamp\|Billetter til fotballkamp]]                                                       |
-| [[Areal under graf med programmering\|Areal under graf med programmering]]                                     |
 | [[Areal av sirkel og kvadrat som skjærer hverandre\|Areal av sirkel og kvadrat som skjærer hverandre]]         |
 | [[Areal av område begrenset av sirkler\|Areal av område begrenset av sirkler]]                                 |
+| [[Sum av integralrekke\|Sum av integralrekke]]                                                                 |
+| [[Areal under graf med programmering\|Areal under graf med programmering]]                                     |
+| [[Rart integral\|Rart integral]]                                                                               |
 
 { .block-language-dataview}
