@@ -6,8 +6,8 @@
 # hypergeometrisk
 | file.link                                                             |
 | --------------------------------------------------------------------- |
+| [[Kuler i krukke hypergeometrisk\|Kuler i krukke hypergeometrisk]] |
 | [[Sveins kurv med baller\|Sveins kurv med baller]]                 |
 | [[Sannsynligheter ved lottospill\|Sannsynligheter ved lottospill]] |
-| [[Kuler i krukke hypergeometrisk\|Kuler i krukke hypergeometrisk]] |
 
 { .block-language-dataview}

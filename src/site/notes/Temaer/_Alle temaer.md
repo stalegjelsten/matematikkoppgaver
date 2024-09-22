@@ -51,7 +51,6 @@
 | [[Temaer/normalfordeling\|normalfordeling]]                                                 |
 | [[nåverdi\|nåverdi]]                                                                           |
 | [[Temaer/polynomdivisjon\|polynomdivisjon]]                                                 |
-| [[Temaer/potenser\|potenser]]                                                               |
 | [[Temaer/programmering\|programmering]]                                                     |
 | [[Temaer/prosent\|prosent]]                                                                 |
 | [[Temaer/rasjonale funksjoner\|rasjonale funksjoner]]                                       |
