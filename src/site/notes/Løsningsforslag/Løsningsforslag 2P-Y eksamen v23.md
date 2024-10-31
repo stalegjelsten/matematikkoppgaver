@@ -48,3 +48,15 @@ $$
 **Sannsynligheten for alle kulene er grønne er 0,2**
 
 ### 1-3b
+
+## Oppgave 2-1
+Hver person spiser 91 kg hvert år og det er 2,86 milliarder mennesker. Altså må de hvert år spise
+$$
+91 \, \text{kg} \cdot 2{,}86 \cdot 10^{9}= 2{,}6026 \cdot 10^{11} \, \text{kg}
+$$
+Hvis de spiser like mye ris hvert år så blir mengden i løpet av 10 år
+$$
+2{,}6026 \cdot 10^{11} \text{ kg} \cdot 10=2{,}6026 \cdot 10^{10}\cdot 10^{1} \text{ kg}\approx  \underline{\underline{ 2{,}6 \cdot 10^{11} \text{ kg}}}
+$$
+
+**De spiser omtrent $\underline{\underline{2{,}6\cdot 10^{11} \text{ kg}}}$ i løpet av 10 år.**

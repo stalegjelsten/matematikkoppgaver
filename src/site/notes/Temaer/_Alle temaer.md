@@ -33,6 +33,7 @@
 | [[Temaer/gjennomsnittlig vekstfart\|gjennomsnittlig vekstfart]]                             |
 | [[Temaer/glidere\|glidere]]                                                                 |
 | [[Temaer/grafer\|grafer]]                                                                   |
+| [[grafisk framstilling\|grafisk framstilling]]                                                 |
 | [[Temaer/grenseinntekt og grensekostnad\|grenseinntekt og grensekostnad]]                   |
 | [[Temaer/grenseverdi\|grenseverdi]]                                                         |
 | [[Temaer/hypergeometrisk\|hypergeometrisk]]                                                 |
@@ -64,6 +65,7 @@
 | [[sparing\|sparing]]                                                                           |
 | [[spredningsmål\|spredningsmål]]                                                               |
 | [[Temaer/standard normalfordeling\|standard normalfordeling]]                               |
+| [[standardform\|standardform]]                                                                 |
 | [[statistikk\|statistikk]]                                                                     |
 | [[Temaer/tolkning av integraler\|tolkning av integraler]]                                   |
 | [[Temaer/trigonometri\|trigonometri]]                                                       |

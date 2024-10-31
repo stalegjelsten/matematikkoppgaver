@@ -6,9 +6,9 @@
 # uendelig rekke
 | file.link                                                                                         |
 | ------------------------------------------------------------------------------------------------- |
-| [[Uendelig rekke med virkestoff fra legemiddel\|Uendelig rekke med virkestoff fra legemiddel]] |
+| [[Uendelig geometrisk rekke\|Uendelig geometrisk rekke]]                                       |
 | [[Uendelig logaritmisk rekke\|Uendelig logaritmisk rekke]]                                     |
-| [[Uendelig geomtrisk rekke\|Uendelig geomtrisk rekke]]                                         |
+| [[Uendelig rekke med virkestoff fra legemiddel\|Uendelig rekke med virkestoff fra legemiddel]] |
 | [[Sum av integralrekke\|Sum av integralrekke]]                                                 |
 
 { .block-language-dataview}
