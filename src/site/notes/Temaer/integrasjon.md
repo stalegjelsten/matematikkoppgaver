@@ -6,13 +6,13 @@
 # integrasjon
 | file.link                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------- |
-| [[Bestemt integral og areal\|Bestemt integral og areal]]                                                                     |
-| [[Bestemt integral\|Bestemt integral]]                                                                                       |
-| [[Bestemt integral 2\|Bestemt integral 2]]                                                                                   |
 | [[Ubestemt integral\|Ubestemt integral]]                                                                                     |
-| [[Bestemt integral 3\|Bestemt integral 3]]                                                                                   |
 | [[Ubestemt integral v24\|Ubestemt integral v24]]                                                                             |
 | [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] |
 | [[Rart integral\|Rart integral]]                                                                                             |
+| [[Bestemt integral 3\|Bestemt integral 3]]                                                                                   |
+| [[Bestemt integral og areal\|Bestemt integral og areal]]                                                                     |
+| [[Bestemt integral\|Bestemt integral]]                                                                                       |
+| [[Bestemt integral 2\|Bestemt integral 2]]                                                                                   |
 
 { .block-language-dataview}

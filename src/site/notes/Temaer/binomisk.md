@@ -7,9 +7,9 @@
 | file.link                                                           |
 | ------------------------------------------------------------------- |
 | [[Lykkehjulet\|Lykkehjulet]]                                     |
-| [[Billetter til fotballkamp\|Billetter til fotballkamp]]         |
+| [[Hypotesetest om russetid\|Hypotesetest om russetid]]           |
 | [[Hypotesetest om legemiddel\|Hypotesetest om legemiddel]]       |
 | [[Hypotesetest med smak av cola\|Hypotesetest med smak av cola]] |
-| [[Hypotesetest om russetid\|Hypotesetest om russetid]]           |
+| [[Billetter til fotballkamp\|Billetter til fotballkamp]]         |
 
 { .block-language-dataview}
