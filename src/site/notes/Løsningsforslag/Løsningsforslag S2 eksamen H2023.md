@@ -88,7 +88,19 @@ $$
 
 Den nederste linja forteller oss at vi finner den laveste enhetskostnaden når den lineære funksjonen $y=K'(x)\cdot x$ skjærer $K(x)$. Enklere sagt vil det si at vi har lavest enhetskostnad når tangenten til $K$ går gjennom origo. Jeg ser fra grafen at dette gjelder den blå linja og punktet $B$.
 
-**Vi har lavest enhetskostnader ved produksjon av 100 enheter.**
+Hvis vi fortsetter likningsløsningen litt til får vi:
+$$
+\begin{aligned}
+K'(x) \cdot x &= K(x)\\
+K'(x) &= \frac{K(x)}{x}\\
+K'(x) &= E(x)
+\end{aligned}
+$$
+
+De laveste enhetskostnadene er altså $K'(x)$, eller stigningstallet til tangenten i punktet $B$. Tangenten i $B$ har funksjonsuttrykk $g(x)=60x$. 
+
+**De laveste enhetskostnadene er 60 kr per enhet.**
+
 
 ## Oppgave 1-4
 ### 1-4a

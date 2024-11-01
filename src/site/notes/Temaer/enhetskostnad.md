@@ -7,7 +7,7 @@
 | file.link                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Vis at enhetskostnad er like grensekostnad ved laveste enhetskostnad\|Vis at enhetskostnad er like grensekostnad ved laveste enhetskostnad]] |
-| [[Grensekostnader og enhetskostnader fra graf\|Grensekostnader og enhetskostnader fra graf]]                                                   |
 | [[Enhetskostnader fra graf\|Enhetskostnader fra graf]]                                                                                         |
+| [[Grensekostnader og enhetskostnader fra graf\|Grensekostnader og enhetskostnader fra graf]]                                                   |
 
 { .block-language-dataview}
