@@ -12,7 +12,9 @@
 | [[Monas lån\|Monas lån]]                                                                                                                       |
 | [[Logistisk vekst for et produkt\|Logistisk vekst for et produkt]]                                                                             |
 | [[Grensekostnader fra graf v23\|Grensekostnader fra graf v23]]                                                                                 |
-| [[Argumenter for hvorfor sette grensekostnad lik grenseinntekt\|Argumenter for hvorfor sette grensekostnad lik grenseinntekt]]                 |
 | [[Enhetskostnader fra graf\|Enhetskostnader fra graf]]                                                                                         |
+| [[Argumenter for hvorfor sette grensekostnad lik grenseinntekt\|Argumenter for hvorfor sette grensekostnad lik grenseinntekt]]                 |
+| [[Grensekostnad og overskudd del 1\|Grensekostnad og overskudd del 1]]                                                                         |
+| [[Etterspørsel av vare\|Etterspørsel av vare]]                                                                                                 |
 
 { .block-language-dataview}

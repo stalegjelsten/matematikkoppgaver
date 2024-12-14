@@ -9,5 +9,6 @@
 | [[Olivias annuitetslån\|Olivias annuitetslån]] |
 | [[Monas lån\|Monas lån]]                       |
 | [[Annuitetslån\|Annuitetslån]]                 |
+| [[Oles studielån\|Oles studielån]]             |
 
 { .block-language-dataview}

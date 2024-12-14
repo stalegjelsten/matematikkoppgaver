@@ -1,0 +1,22 @@
+---
+{"tags":["oppgave"],"date":"2024-12-04","modified":"2024-12-14","aliases":null,"dg-publish":true,"temaer":["integral"],"fag":["s2"],"eksamen":"h24","del":1,"oppgave":"1a","title":"Ubestemt integral h24","source":null,"todo":[],"permalink":"/ubestemt-integral-h24/","dgPassFrontmatter":true}
+---
+
+
+# Ubestemt integral h24
+
+<p><span><em>Oppgaven er hentet fra eksamen S2 H24 del 1 oppgave 1a.</em></span></p>
+
+Regn ut integralet
+
+$$
+\int x^{2} \cdot \ln x \, \mathrm{d}x 
+$$
+
+>[!question]- Fasit
+> 
+>$\frac{1}{3}x^{3}\left( \ln x-\frac{1}{3} \right)+C$
+>[[Løsningsforslag/Løsningsforslag S2 eksamen H2024#1-1a\|Løsningsforslag S2 eksamen H2024#1-1a]]
+
+## Relatert
+<h3><span>Tilfeldige oppgaver i samme fag</span></h3><p><span>Det er ofte best å blande hvilke type oppgaver man gjør dersom du skal forberede deg til en prøve eller eksamen. Her er tre tilfeldige oppgaver i S2.</span></p><div><ul class="dataview list-view-ul"><li><span><a data-tooltip-position="top" aria-label="Ukjent program Mønster v23.md" data-href="Ukjent program Mønster v23.md" href="Ukjent program Mønster v23.md" class="internal-link" target="_blank" rel="noopener nofollow">Ukjent program Mønster v23 S2 Del 1 oppg 5</a></span></li><li><span><a data-tooltip-position="top" aria-label="Annuitetslån.md" data-href="Annuitetslån.md" href="Annuitetslån.md" class="internal-link" target="_blank" rel="noopener nofollow">Annuitetslån S2 V23 Del 2 oppg 1</a></span></li><li><span><a data-tooltip-position="top" aria-label="Varians i diskret sannsynlighetsfordeling.md" data-href="Varians i diskret sannsynlighetsfordeling.md" href="Varians i diskret sannsynlighetsfordeling.md" class="internal-link" target="_blank" rel="noopener nofollow">Varians i diskret sannsynlighetsfordeling S2 H24 Del 1 oppg 3</a></span></li></ul></div><h3><span>Lignende oppgaver sortert etter tema</span></h3><h4><span>Integral</span></h4><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Oppgave</span><span class="dataview small-text">6</span></th><th class="table-view-th"><span>Fag</span></th><th class="table-view-th"><span>År</span></th><th class="table-view-th"><span>Oppg</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Areal under graf med programmering.md" data-href="Areal under graf med programmering.md" href="Areal under graf med programmering.md" class="internal-link" target="_blank" rel="noopener nofollow">Areal under graf med programmering</a></span></td><td><span>1T</span></td><td><span>V23</span></td><td><span>2-4</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Sum av integralrekke.md" data-href="Sum av integralrekke.md" href="Sum av integralrekke.md" class="internal-link" target="_blank" rel="noopener nofollow">Sum av integralrekke</a></span></td><td><span>R2</span></td><td><span>V24</span></td><td><span>2-6</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Ubestemt integral v24.md" data-href="Ubestemt integral v24.md" href="Ubestemt integral v24.md" class="internal-link" target="_blank" rel="noopener nofollow">Ubestemt integral v24</a></span></td><td><span>S2</span></td><td><span>V24</span></td><td><span>1-2</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Bestemt integral og areal.md" data-href="Bestemt integral og areal.md" href="Bestemt integral og areal.md" class="internal-link" target="_blank" rel="noopener nofollow">Bestemt integral og areal</a></span></td><td><span>S2, R2</span></td><td><span>V24</span></td><td><span>1-1</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Bestemt integral 3.md" data-href="Bestemt integral 3.md" href="Bestemt integral 3.md" class="internal-link" target="_blank" rel="noopener nofollow">Bestemt integral 3</a></span></td><td><span>S2</span></td><td><span>H23</span></td><td><span>1-1</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Integral med ukjent grense.md" data-href="Integral med ukjent grense.md" href="Integral med ukjent grense.md" class="internal-link" target="_blank" rel="noopener nofollow">Integral med ukjent grense</a></span></td><td><span>S2</span></td><td><span>H24</span></td><td><span>1-1b-c</span></td></tr></tbody></table></div>

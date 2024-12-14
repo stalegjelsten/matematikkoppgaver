@@ -7,8 +7,8 @@
 | file.link                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------- |
 | [[Ukjent programkode\|Ukjent programkode]]                                                                                   |
-| [[Sum av integralrekke\|Sum av integralrekke]]                                                                               |
 | [[Tredjegradsfunksjoner uten førstegradsledd\|Tredjegradsfunksjoner uten førstegradsledd]]                                   |
+| [[Sum av integralrekke\|Sum av integralrekke]]                                                                               |
 | [[Skisser grafen ut fra den deriverte v2023\|Skisser grafen ut fra den deriverte v2023]]                                     |
 | [[Sjøtemperatur på Sørlandet\|Sjøtemperatur på Sørlandet]]                                                                   |
 | [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] |
