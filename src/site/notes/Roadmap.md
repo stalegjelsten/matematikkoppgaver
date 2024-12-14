@@ -6,12 +6,15 @@
 # Roadmap
 
 ## Eksamensoppgaver
-- [x] Legge inn alle oppgaver [[Løsningsforslag/Løsningsforslag 1T eksamen V2023\|Løsningsforslag 1T eksamen V2023]]
-- [ ] Legge inn alle oppgaver til [[Løsningsforslag/Løsningsforslag S1 eksamen V2023\|Løsningsforslag S1 eksamen V2023]]
+- [ ] Legge inn alle oppgaver til [[Løsningsforslag/Løsningsforslag S2 eksamen H2024\|Løsningsforslag S2 eksamen H2024]]
+- [ ] Legge inn alle oppgaver til [[Løsningsforslag/Løsningsforslag R2 eksamen H2024\|Løsningsforslag R2 eksamen H2024]]
+- [ ] Legge inn alle oppgaver til [[Løsningsforslag/Løsningsforslag S1 eksamen V2023\|Løsningsforslag/Løsningsforslag S1 eksamen V2023]]
 - [ ] Legge inn alle oppgaver 2P-Y vår 2023
 
 ## Løsningsforslag
-- [ ] Skrive ferdig [[Løsningsforslag/Løsningsforslag S1 eksamen V2023\|Løsningsforslag S1 eksamen V2023]]
+- [ ] Skrive ferdig [[Løsningsforslag/Løsningsforslag S2 eksamen H2024\|Løsningsforslag S2 eksamen H2024]]
+- [ ] Skrive ferdig [[Løsningsforslag/Løsningsforslag R2 eksamen H2024\|Løsningsforslag R2 eksamen H2024]]
+- [ ] Skrive ferdig [[Løsningsforslag/Løsningsforslag S1 eksamen V2023\|Løsningsforslag/Løsningsforslag S1 eksamen V2023]]
 - [ ] Skrive løsningsforslag 2P-Y vår 2023
 
 ## Nettstedutvikling

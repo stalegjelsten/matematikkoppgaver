@@ -7,9 +7,9 @@
 | file.link                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------- |
 | [[Ukjent programkode\|Ukjent programkode]]                                                                     |
-| [[Sum av integralrekke\|Sum av integralrekke]]                                                                 |
 | [[Tredjegradsfunksjoner uten førstegradsledd\|Tredjegradsfunksjoner uten førstegradsledd]]                     |
 | [[Sveins kurv med baller\|Sveins kurv med baller]]                                                             |
+| [[Sum av integralrekke\|Sum av integralrekke]]                                                                 |
 | [[Rart integral\|Rart integral]]                                                                               |
 | [[Lag funksjonsuttrykk til grafen av rasjonal funksjon\|Lag funksjonsuttrykk til grafen av rasjonal funksjon]] |
 | [[Hildes terningkast\|Hildes terningkast]]                                                                     |

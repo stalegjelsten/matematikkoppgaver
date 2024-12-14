@@ -8,5 +8,6 @@
 | ----------------------------------------------------------------------------------------------------- |
 | [[Faktorisering av tredjegradsuttrykk v2023\|Faktorisering av tredjegradsuttrykk v2023]]           |
 | [[Andregradsuttrykk skjæringspunkter med x-aksen\|Andregradsuttrykk skjæringspunkter med x-aksen]] |
+| [[Integral med ukjent grense\|Integral med ukjent grense]]                                         |
 
 { .block-language-dataview}
