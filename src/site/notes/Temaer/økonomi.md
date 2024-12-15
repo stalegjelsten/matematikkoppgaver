@@ -11,10 +11,10 @@
 | [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]]                                                                                             |
 | [[Monas lån\|Monas lån]]                                                                                                                       |
 | [[Grensekostnader fra graf v23\|Grensekostnader fra graf v23]]                                                                                 |
-| [[Enhetskostnader fra graf\|Enhetskostnader fra graf]]                                                                                         |
 | [[Argumenter for hvorfor sette grensekostnad lik grenseinntekt\|Argumenter for hvorfor sette grensekostnad lik grenseinntekt]]                 |
 | [[Grensekostnad og overskudd del 1\|Grensekostnad og overskudd del 1]]                                                                         |
 | [[Etterspørsel av vare\|Etterspørsel av vare]]                                                                                                 |
 | [[Logistisk vekst for et produkt\|Logistisk vekst for et produkt]]                                                                             |
+| [[Enhetskostnader fra graf\|Enhetskostnader fra graf]]                                                                                         |
 
 { .block-language-dataview}

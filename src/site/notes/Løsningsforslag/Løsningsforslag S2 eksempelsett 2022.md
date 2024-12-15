@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"temaer":null,"del":null,"oppgave":null,"fag":"s2","eksamen":"e22","tags":["matematikk","løsningsforslag","S2"],"alias":[],"dg-publish":true,"title":"Løsningsforslag S2 eksempelsett 2022","date":"2023-05-19","modified":"2024-03-18","permalink":"/losningsforslag/losningsforslag-s2-eksempelsett-2022/","dgPassFrontmatter":true}
+{"aliases":null,"temaer":null,"del":null,"oppgave":null,"fag":"s2","eksamen":"e22","tags":["matematikk","løsningsforslag","S2"],"alias":[],"dg-publish":true,"title":"Løsningsforslag S2 eksempelsett 2022","date":"2023-05-19","modified":"2024-12-15","documentclass":"scrartcl","fontsize":"11pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}","\\usepackage[DIVS=18]{typearea}","\\RedeclareSectionCommand[runin=false,afterskip=-.25\\baselineskip]{subsection}"],"toc":false,"highlight-style":"tango","numbersections":false,"shift-heading-level-by":-3,"pandoc-latex-environment":{"warning":["warning"],"danger":["danger"],"note":["note"],"tip":["tip"],"important":["important"],"info":["info"],"error":["error"],"fasit":["fasit"]},"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style","empty-line-around-math-blocks"],"permalink":"/losningsforslag/losningsforslag-s2-eksempelsett-2022/","dgPassFrontmatter":true}
 ---
 
 
@@ -237,8 +237,9 @@ $$
 ## Oppgave 2-6
 
 ### 2-6
+Her kommer tekst
 
-```python
+```python {.python caption="Oppgave 2-6" #code:oppg26}
 import numpy as np
 import random
 
@@ -275,3 +276,4 @@ print(f"Sannsynligheten for å trekke en tilfeldig eleve over 175 cm er "
       f"estimert til {(antall_gunstige / antall_simuleringer) * 100:.1f} "
       f"med {antall_simuleringer} simuleringer")
 ```
+
