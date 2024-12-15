@@ -6,8 +6,8 @@
 # logistisk funksjon
 | file.link                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------- |
-| [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] |
-| [[Marcos logistiske løpetrening\|Marcos logistiske løpetrening]]                                                             |
 | [[Logistisk vekst for et produkt\|Logistisk vekst for et produkt]]                                                           |
+| [[Marcos logistiske løpetrening\|Marcos logistiske løpetrening]]                                                             |
+| [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] |
 
 { .block-language-dataview}

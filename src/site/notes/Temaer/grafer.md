@@ -4,8 +4,7 @@
 
 
 # grafer
-| file.link                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------- |
-| [[Lag funksjonsuttrykk til grafen av rasjonal funksjon\|Lag funksjonsuttrykk til grafen av rasjonal funksjon]] |
+| file.link |
+| --------- |
 
 { .block-language-dataview}
