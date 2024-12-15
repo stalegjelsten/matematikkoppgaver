@@ -212,7 +212,7 @@ En logistisk modell vil passe godt for denne typen situasjon, siden veksten vil 
 
 ### 2-1b
 
-![Løsning av oppgave 1a og 1b del 2 i CAS](/img/user/_resources/s2-h24-2-1.png){width=50%}
+![Løsning av oppgave 1a og 1b del 2 i CAS](/img/user/_resources/s2-h24-2-1.png)
 
 Vi vet at funksjonen vokser raskest i vendepunktet, så vi finner dette med GeoGebra i linje 2. $t=10{,}43$ tilsvarer at vi er omtrent midtveis i den ellevte uka. Økningen i vendepunktet er det samme som den deriverte til funksjonen i vendepunktet, se linje 3 i GeoGebra.
 
@@ -254,13 +254,13 @@ k=\frac{-2}{1}=-2
 $$
 $k$ ligger ikke i intervallet $\langle-1,1\rangle$, og dermed konvergerer ikke rekka.
 
-**Påstanden er usann, rekka konvergerer ikke når $x=\frac{1}{e}$.**
+**Påstanden er usann, rekka konvergerer ikke når $\boldsymbol{x=\frac{1}{e}}$.**
 
 ## Oppgave 2-2
 ### 2-2a
 Vi har en situasjon hvor vi har to ulike grupper og vi tenker oss at vi skal trekke 20 kandidater tilfeldig blant disse. Vi kan selvsagt ikke trekke den samme kandidaten til intervju 2 ganger, så dette blir en trekning uten tilbakelegging. Derfor passer en hypergeometrisk sannsynnlighetsfordeling godt i dette tilfellet.
 
-Hvis trekningen hadde vært tilfeldig burde sannsynligheten for å trekke en mann på første trekning være $p_{m}=\frac{40}{100}=0{,}4$, altså kan vi sette opp følgende hypoteser
+Hvis trekningen hadde vært tilfeldig burde sannsynligheten for å trekke en mann på første trekning være $p_{m}=\frac{40}{100}=0{,}4$. Altså kan vi sette opp følgende hypoteser
 $$
 \begin{aligned}
 H_{0}:& \quad p_{m}=0{,}4 \\
@@ -270,22 +270,24 @@ $$
 
 ### 2-2b
 
-![Hypergeometrisk hypotesetest i GeoGebra til oppgave 2-2](/img/user/_resources/s2-h24-2-2-hypotesetest.png){width=70%}
+![Hypergeometrisk hypotesetest i GeoGebra til oppgave 2-2](/img/user/_resources/s2-h24-2-2-hypotesetest.png)
 
-I GeoGebra har vi satt opp en hypergeometrisk fordeling med 100 kandidater hvorav 40 er menn. Vi velger 20 tilfeldige kandidater. Sannsynligheten for at minst 12 av disse er menn er $P(X\geq12) = 0{,}038$. Dette er under signifikansnivået på 5 %.
+I GeoGebra har vi satt opp en hypergeometrisk fordeling med 100 kandidater hvorav 40 er menn. Vi velger 20 tilfeldige kandidater. Sannsynligheten for at minst 12 av disse er menn er $P(X\geq12) = 0{,}038$.
+
+**$\boldsymbol{p}$-verdien på 0,038 er mindre enn signifikansnivået på 5 %, derfor forkaster vi nullhypotesen.**
 
 **En hypotesetest med signifikansnivå 5 % gir grunnlag for å si at bedriften bevisst velger menn foran kvinner.**
 
 ### 2-3b
 $f$ og $g$ kommer til å avgrense maksimalt 2 områder siden $f$ er en tredjegradsfunksjon og $g$ er en andregradsfunksjon. For å finne disse to områdene må vi først finne skjæringspunktene mellom grafene.
 
-![Bestemmelse av skjæringspunktet mellom funksjoner i CAS](/img/user/_resources/s2-h24-2-3b-1.png){width=50%}
+![Bestemmelse av skjæringspunktet mellom funksjoner i CAS](/img/user/_resources/s2-h24-2-3b-1.png)
 
 Jeg fant skjæringspunktene i GeoGebra. (*Vi ser her at kravet om at $a>-1$ gjør at vi får reelle løsninger*).
 
 La oss undersøke arealet av områdene som er avgrenset. Jeg gjør dette i GeoGebra ved å integrere fra skjæringspunkt til skjæringspunkt ved hjelp av `IntegralMellom`.
 
-![Bestemmelse av arealet mellom grafene](/img/user/_resources/s2-h24-2-3b-2.png){width=50%}
+![Bestemmelse av arealet mellom grafene](/img/user/_resources/s2-h24-2-3b-2.png)
 
 **Påstanden stemmer. Vi ser at arealene mellom grafene er like store.**
 
@@ -300,10 +302,17 @@ Jeg ser at jeg kan generalisere denne sammenhengen som
 $$
 \underline{\underline{a_{n+1}=a_{n}+n^{2}}}
 $$
-*Det finnes også andre sammenhenger som den ekvivalente sammenhengen $a_{n}=a_{n-1}+(n-1)^{2}$ eller en sammenheng som ikke bruker $n$: $a_{n}=\left( \sqrt{ a_{n-1}-a_{n-2}  } +1 \right)^{2} + a_{n-1}$.*
+
+>[!tip]
+>
+>Det finnes også andre rekursive sammenhenger som som gir samme rekke:
+>
+>- $a_{n}=a_{n-1}+(n-1)^{2}$ er den samme sammenhengen som vi nettopp fant, men den gjelder for $n\geq 2$
+>- $a_{n}=\left( \sqrt{ a_{n-1}-a_{n-2}  } +1 \right)^{2} + a_{n-1}$ er en sammenheng som ikke bruker $n$, slik at du ikke er avhengig av å kjenne til hvor i rekka du befinner deg når du bruker formelen
+
 
 ### 2-4b
-![Program for å regne ut ledd i rekke](/img/user/_resources/s2-h24-2-4b.png){width=60%}
+![Program for å regne ut ledd i rekke](/img/user/_resources/s2-h24-2-4b.png)
 
 Jeg brukte en `for`-løkke til å regne meg fram til ledd nummer 30 og skrev ut svarene i konsollen. **Ledd nummer 30 er 8556.**
 
@@ -313,7 +322,7 @@ Jeg brukte en `for`-løkke til å regne meg fram til ledd nummer 30 og skrev ut 
 
 ## Oppgave 2-5
 
-![Løsning av oppgave 5 del 2 i CAS](/img/user/_resources/s2-h24-2-5-cas.png){width=80%}
+![Løsning av oppgave 5 del 2 i CAS](/img/user/_resources/s2-h24-2-5-cas.png)
 
 a) Summen av nåverdiene til terminbeløpene skal være lik lånebeløpet ved annuitetslån. Terminbeløpet er ukjent, og dette ble funnet i linje 1 i GeoGebra. **Lånebeløpet er 53 437 kr.**
 b) Summen av nåverdiene til terminbeløpene skal være lik lånebeløpet ved annuitetslån. Vekstfaktoren er ukjent, og denne ble funnet i linje 2 i GeoGebra. **Rentesatsen må være 4,416 %.**
@@ -345,7 +354,7 @@ $$
 ### 2-6b
 Vi lar etterspørselen $E(p)$ være lik $x$ (antall solgte varer), og løser med hensyn på $p$, se linje 3 i GeoGebra. 
 
-![Løsning av oppgave 6 del 2 i CAS](/img/user/_resources/s2-h24-2-6.png){width=50%}
+![Løsning av oppgave 6 del 2 i CAS](/img/user/_resources/s2-h24-2-6.png)
 
 Inntektene er gitt ved antall solgte varer $\times$ prisen per vare.
 $$
