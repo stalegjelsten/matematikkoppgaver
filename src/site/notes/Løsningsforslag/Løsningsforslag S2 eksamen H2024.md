@@ -256,6 +256,26 @@ $k$ ligger ikke i intervallet $\langle-1,1\rangle$, og dermed konvergerer ikke r
 
 **Påstanden er usann, rekka konvergerer ikke når $x=\frac{1}{e}$.**
 
+## Oppgave 2-2
+### 2-2a
+Vi har en situasjon hvor vi har to ulike grupper og vi tenker oss at vi skal trekke 20 kandidater tilfeldig blant disse. Vi kan selvsagt ikke trekke den samme kandidaten til intervju 2 ganger, så dette blir en trekning uten tilbakelegging. Derfor passer en hypergeometrisk sannsynnlighetsfordeling godt i dette tilfellet.
+
+Hvis trekningen hadde vært tilfeldig burde sannsynligheten for å trekke en mann på første trekning være $p_{m}=\frac{40}{100}=0{,}4$, altså kan vi sette opp følgende hypoteser
+$$
+\begin{aligned}
+H_{0}:& \quad p_{m}=0{,}4 \\
+H_{1}:& \quad p_{m}>0{,}4
+\end{aligned}
+$$
+
+### 2-2b
+
+![Hypergeometrisk hypotesetest i GeoGebra til oppgave 2-2](/img/user/_resources/s2-h24-2-2-hypotesetest.png){width=70%}
+
+I GeoGebra har vi satt opp en hypergeometrisk fordeling med 100 kandidater hvorav 40 er menn. Vi velger 20 tilfeldige kandidater. Sannsynligheten for at minst 12 av disse er menn er $P(X\geq12) = 0{,}038$. Dette er under signifikansnivået på 5 %.
+
+**En hypotesetest med signifikansnivå 5 % gir grunnlag for å si at bedriften bevisst velger menn foran kvinner.**
+
 ### 2-3b
 $f$ og $g$ kommer til å avgrense maksimalt 2 områder siden $f$ er en tredjegradsfunksjon og $g$ er en andregradsfunksjon. For å finne disse to områdene må vi først finne skjæringspunktene mellom grafene.
 
