@@ -111,7 +111,7 @@ $$
 
 ## Oppgave 1-3
 
-<p style="text-align:center;">Tabell: Sannsynlighetsfordelingen til oppgave 1-3</p> {#tbl:sshfordeling}
+<p style="text-align:center;">Tabell: Sannsynlighetsfordelingen til oppgave 1-3</p>
 
 |            $x$             |         0          |            1            |            4            |           $b$           |
 | :------------------------: | :----------------: | :---------------------: | :---------------------: | :---------------------: |
