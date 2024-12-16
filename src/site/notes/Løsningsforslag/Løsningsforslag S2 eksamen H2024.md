@@ -111,7 +111,7 @@ $$
 
 ## Oppgave 1-3
 
-Table: Sannsynlighetsfordelingen til oppgave 1-3 {#tbl:sshfordeling}
+<p style="text-align:center;">Tabell: Sannsynlighetsfordelingen til oppgave 1-3</p>
 
 |            $x$             |         0          |            1            |            4            |           $b$           |
 | :------------------------: | :----------------: | :---------------------: | :---------------------: | :---------------------: |
@@ -120,7 +120,7 @@ Table: Sannsynlighetsfordelingen til oppgave 1-3 {#tbl:sshfordeling}
 |       $(x-\mu)^{2}$        |     $(-2)^2=4$     |         $1^2=1$         |         $2^2=4$         |       $4^{2}=16$        |
 | $(x-\mu)^{2} \cdot P(X=x)$ | $4\cdot 0{,}30 =0$ | $1 \cdot 0{,}40=0{,}40$ | $4 \cdot 0{,}10=0{,}40$ | $16 \cdot 0{,}20=3{,}2$ |
 
-Vi vet at forventningsverdien er summen av produktene av $x \cdot P(X=x)$, se rad 2 i tabell &tbl:sshfordeling. Det betyr at
+Vi vet at forventningsverdien er summen av produktene av $x \cdot P(X=x)$, se rad 2 i tabellen. Det betyr at
 $$
 0+0{,}40+0{,}40+0{,}20b = 2 \iff 0{,}20 b = 1{,}2 \iff b=6
 $$

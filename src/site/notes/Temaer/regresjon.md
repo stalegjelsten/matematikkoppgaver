@@ -7,8 +7,8 @@
 | file.link                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------- |
 | [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]]                                                                           |
-| [[Modell for etterspørsel av vare\|Modell for etterspørsel av vare]]                                                         |
-| [[Marcos logistiske løpetrening\|Marcos logistiske løpetrening]]                                                             |
 | [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] |
+| [[Marcos logistiske løpetrening\|Marcos logistiske løpetrening]]                                                             |
+| [[Modell for etterspørsel av vare\|Modell for etterspørsel av vare]]                                                         |
 
 { .block-language-dataview}

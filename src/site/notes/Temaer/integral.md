@@ -6,18 +6,18 @@
 # integral
 | file.link                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sum av integralrekke\|Sum av integralrekke]]                                                                               |
-| [[Areal under graf med programmering\|Areal under graf med programmering]]                                                   |
 | [[Ubestemt integral h24\|Ubestemt integral h24]]                                                                             |
-| [[Integral med ukjent grense\|Integral med ukjent grense]]                                                                   |
 | [[Ubestemt integral\|Ubestemt integral]]                                                                                     |
 | [[Ubestemt integral v24\|Ubestemt integral v24]]                                                                             |
+| [[Sum av integralrekke\|Sum av integralrekke]]                                                                               |
+| [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] |
 | [[Rart integral\|Rart integral]]                                                                                             |
+| [[Integral med ukjent grense\|Integral med ukjent grense]]                                                                   |
 | [[Bestemt integral\|Bestemt integral]]                                                                                       |
 | [[Bestemt integral og areal\|Bestemt integral og areal]]                                                                     |
 | [[Bestemt integral 3\|Bestemt integral 3]]                                                                                   |
 | [[Bestemt integral 2\|Bestemt integral 2]]                                                                                   |
-| [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] |
+| [[Areal under graf med programmering\|Areal under graf med programmering]]                                                   |
 | [[Algebra potensregning\|Algebra potensregning]]                                                                             |
 
 { .block-language-dataview}

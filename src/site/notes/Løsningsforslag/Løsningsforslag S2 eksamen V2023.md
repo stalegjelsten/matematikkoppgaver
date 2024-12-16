@@ -145,7 +145,7 @@ Jeg bruker en ferdig regnearkmodell jeg hadde liggende til å løse denne oppgav
 ### 2-2a
 Jeg brukte regresjonsverktøyet i GeoGebra valgte den logistiske modellen:
 
-$$\underline{\underline{F(x)=\frac{660,37}{1+30,72\,e^{-0,7066x}}}}$$
+$$\underline{\underline{F(x)=\frac{660{,}37}{1+30{,}72\,e^{-0{,}7066x}}}}$$
 
 Logistiske funksjoner flater ut ved en horisontal asymptote (i dette tilfellet 660,37 millioner kr). Selv om det kanskje høres usannsynlig ut at markedet for musikkstrømming ikke kommer til å vokse, så tror jeg at nærmest all musikklytting *allerede* er blitt flyttet fra formater som CD og nedlasting, til strømming. Derfor er det usannsynlig veksten kommer til å fortsette i samme tempo. En logistisk modell har også asymptote ved $y=0$. Det stemmer også godt med at strømmemarkedet var svært lite (kanskje ikke-eksisterende?) i Norge før Spotify ble lansert i 2008.
 
@@ -190,13 +190,13 @@ Vi kan da behandle dette som et binomisk forsøk med $n=10$ og $p=0.5$.
 Vi kan beregne denne sannsynligheten enkelt i GeoGebra, eller med formelen:
 
 $$
-P(X=6)=\binom{n}{k}\cdot p^k \cdot(1-p)^{n-k} = \frac{10!}{6!(10-6)!} \cdot {0}.5^6  \cdot 0.5^4= \underline{\underline{0,205}}
+P(X=6)=\binom{n}{k}\cdot p^k \cdot(1-p)^{n-k} = \frac{10!}{6!(10-6)!} \cdot {0}.5^6  \cdot 0.5^4= \underline{\underline{0{,}205}}
 $$
 
 ### 2-3b
 Vi lar $p$ være sannsynligheten for at Marte klarer å gjette riktig og $X$, antall riktige gjetninger, er testobservator. 
 
-Det skal mye til at Marte er dårligere til å gjenkjenne colaene enn ved tilfeldig gjetting, og jeg er egentlig kun interessert i å finne ut om hun *bedre* enn tilfeldig gjetning. Derfor velger jeg en ensidig hypotesetest. Vi skal bruke signifikansnivået $\alpha=0,05$.
+Det skal mye til at Marte er dårligere til å gjenkjenne colaene enn ved tilfeldig gjetting, og jeg er egentlig kun interessert i å finne ut om hun *bedre* enn tilfeldig gjetning. Derfor velger jeg en ensidig hypotesetest. Vi skal bruke signifikansnivået $\alpha=0{,}05$.
 
 $$
 \begin{aligned}

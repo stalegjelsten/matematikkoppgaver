@@ -12,8 +12,8 @@
 | [[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole]] |
 | [[Simuler sannsynlighet for høyde over 175 cm\|Simuler sannsynlighet for høyde over 175 cm]]                                                       |
 | [[Sannsynligheter ved lottospill\|Sannsynligheter ved lottospill]]                                                                                 |
-| [[Normalfordelte hjortebukker\|Normalfordelte hjortebukker]]                                                                                       |
 | [[Normalfordelt intelligens\|Normalfordelt intelligens]]                                                                                           |
+| [[Normalfordelte hjortebukker\|Normalfordelte hjortebukker]]                                                                                       |
 | [[Lykkehjulet\|Lykkehjulet]]                                                                                                                       |
 | [[Levetiden til normalfordelte batterier\|Levetiden til normalfordelte batterier]]                                                                 |
 | [[Levetiden til lyspærer\|Levetiden til lyspærer]]                                                                                                 |

@@ -6,10 +6,10 @@
 # diskrete sannsynlighetsfordelinger
 | file.link                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------- |
+| [[Varians i diskret sannsynlighetsfordeling\|Varians i diskret sannsynlighetsfordeling]]                                 |
 | [[Tunge kuler i kasse\|Tunge kuler i kasse]]                                                                             |
 | [[Hypotesetest med smak av cola\|Hypotesetest med smak av cola]]                                                         |
 | [[Forventningsverdi og varians fra sannsynlighetsfordeling\|Forventningsverdi og varians fra sannsynlighetsfordeling]]   |
 | [[Forventingsverdi og varians fra sannsynlighetsfordeling 2\|Forventingsverdi og varians fra sannsynlighetsfordeling 2]] |
-| [[Varians i diskret sannsynlighetsfordeling\|Varians i diskret sannsynlighetsfordeling]]                                 |
 
 { .block-language-dataview}
