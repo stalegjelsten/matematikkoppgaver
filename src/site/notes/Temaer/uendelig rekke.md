@@ -9,8 +9,8 @@
 | [[Uendelig rekke med virkestoff fra legemiddel\|Uendelig rekke med virkestoff fra legemiddel]] |
 | [[Uendelig logaritmisk rekke\|Uendelig logaritmisk rekke]]                                     |
 | [[Uendelig geometrisk rekke\|Uendelig geometrisk rekke]]                                       |
-| [[Påstand om sum av rekke\|Påstand om sum av rekke]]                                           |
 | [[Sum av integralrekke\|Sum av integralrekke]]                                                 |
+| [[Påstand om sum av rekke\|Påstand om sum av rekke]]                                           |
 | [[Påstand om områder avgrenset av grafer\|Påstand om områder avgrenset av grafer]]             |
 | [[Aritmetiske og geometriske rekker h24\|Aritmetiske og geometriske rekker h24]]               |
 
