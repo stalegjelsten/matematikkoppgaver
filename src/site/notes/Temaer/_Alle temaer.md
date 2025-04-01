@@ -37,8 +37,7 @@
 | [[Temaer/grenseinntekt og grensekostnad\|grenseinntekt og grensekostnad]]                   | 5      |
 | [[Temaer/grenseverdi\|grenseverdi]]                                                         | 1      |
 | [[Temaer/hypergeometrisk\|hypergeometrisk]]                                                 | 4      |
-| [[hypotesetest\|hypotesetest]]                                                                 | 4      |
-| [[Temaer/hypotesetesting\|hypotesetesting]]                                                 | 3      |
+| [[Temaer/hypotesetest\|hypotesetest]]                                                       | 5      |
 | [[Temaer/identiteter\|identiteter]]                                                         | 1      |
 | [[Temaer/integral\|integral]]                                                               | 13     |
 | [[Temaer/kontinuerlige sannsynlighetsfordelinger\|kontinuerlige sannsynlighetsfordelinger]] | 3      |
@@ -48,7 +47,7 @@
 | [[Temaer/logistisk funksjon\|logistisk funksjon]]                                           | 3      |
 | [[Temaer/lån\|lån]]                                                                         | 4      |
 | [[modellering\|modellering]]                                                                   | 1      |
-| [[Temaer/normalfordeling\|normalfordeling]]                                                 | 13     |
+| [[Temaer/normalfordeling\|normalfordeling]]                                                 | 14     |
 | [[nåverdi\|nåverdi]]                                                                           | 1      |
 | [[Temaer/polynomdivisjon\|polynomdivisjon]]                                                 | 1      |
 | [[Temaer/programmering\|programmering]]                                                     | 17     |
@@ -58,7 +57,7 @@
 | [[Temaer/rekker\|rekker]]                                                                   | 20     |
 | [[rekursiv sammenheng\|rekursiv sammenheng]]                                                   | 3      |
 | [[Temaer/samlet mengde\|samlet mengde]]                                                     | 3      |
-| [[Temaer/sannsynlighet\|sannsynlighet]]                                                     | 15     |
+| [[Temaer/sannsynlighet\|sannsynlighet]]                                                     | 16     |
 | [[sentralmål\|sentralmål]]                                                                     | 1      |
 | [[Temaer/simulering\|simulering]]                                                           | 4      |
 | [[sparing\|sparing]]                                                                           | 2      |

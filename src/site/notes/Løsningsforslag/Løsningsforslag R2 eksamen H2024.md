@@ -215,7 +215,7 @@ x=8\cdot (-1)+\frac{32}{3}=\frac{8}{3}
 $$
 Likningen har løsningene $x=\frac{8}{3}$ og $x=\frac{16}{3}$.
 ## Oppgave 2-1
-![Løsning av oppgave 1 del 2 i CAS](/img/user/_resources/r2-h24-2-1-cas.png)
+![Løsning av oppgave 1 del 2 i CAS](/img/user/_resources/r2-h24-2-1-cas.png){width=50%}
 
 ### 2-1a
 $z$-komponenten til $\vec{r}(t)$ gir oss høyden ved tiden $t=0$
@@ -294,13 +294,13 @@ $k$ ligger ikke i intervallet $\langle-1,1\rangle$, og dermed konvergerer ikke r
 ### 2-2b
 $f$ og $g$ kommer til å avgrense maksimalt 2 områder siden $f$ er en tredjegradsfunksjon og $g$ er en andregradsfunksjon. For å finne disse to områdene må vi først finne skjæringspunktene mellom grafene.
 
-![Bestemmelse av skjæringspunktet mellom funksjoner i CAS](/img/user/_resources/s2-h24-2-3b-1.png)
+![Bestemmelse av skjæringspunktet mellom funksjoner i CAS](/img/user/_resources/s2-h24-2-3b-1.png){width=50%}
 
 Jeg fant skjæringspunktene i GeoGebra. (*Vi ser her at kravet om at $a>-1$ gjør at vi får reelle løsninger*).
 
 La oss undersøke arealet av områdene som er avgrenset. Jeg gjør dette i GeoGebra ved å integrere fra skjæringspunkt til skjæringspunkt ved hjelp av `IntegralMellom`.
 
-![Bestemmelse av arealet mellom grafene](/img/user/_resources/s2-h24-2-3b-2.png)
+![Bestemmelse av arealet mellom grafene](/img/user/_resources/s2-h24-2-3b-2.png){width=50%}
 
 **Påstanden stemmer. Vi ser at arealene mellom grafene er like store.**
 
@@ -348,7 +348,7 @@ $$
 *Det finnes også andre sammenhenger som den ekvivalente sammenhengen $a_{n}=a_{n-1}+(n-1)^{2}$ eller en sammenheng som ikke bruker $n$: $a_{n}=\left( \sqrt{ a_{n-1}-a_{n-2}  } +1 \right)^{2} + a_{n-1}$.*
 
 ### 2-5b
-![Program for å regne ut ledd i rekke](/img/user/_resources/s2-h24-2-4b.png)
+![Program for å regne ut ledd i rekke](/img/user/_resources/s2-h24-2-4b.png){width=60%}
 
 Jeg brukte en `for`-løkke til å regne meg fram til ledd nummer 30 og skrev ut svarene i konsollen. **Ledd nummer 30 er 8556.**
 
@@ -358,7 +358,7 @@ Jeg brukte en `for`-løkke til å regne meg fram til ledd nummer 30 og skrev ut 
 
 ## Oppgave 2-6
 
-![Flytting av sirkelen i oppgave 6](/img/user/_resources/r2-h24-2-6-sirkler.png)
+![Flytting av sirkelen i oppgave 6](/img/user/_resources/r2-h24-2-6-sirkler.png){width=50%}
 
 For å gjøre jobben enklere for meg selv så vil jeg flytte sirkelen fra $S(a,0)$ til $S^*(0,a)$ og rotere sirkelen om $x$-aksen istedenfor om $y$-aksen. Sirkelens radius er fremdeles $R<a$.
 
