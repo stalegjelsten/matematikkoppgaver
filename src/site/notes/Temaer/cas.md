@@ -7,8 +7,8 @@
 | file.link                                                                                     |
 | --------------------------------------------------------------------------------------------- |
 | [[Tredjegradsfunksjoner uten førstegradsledd\|Tredjegradsfunksjoner uten førstegradsledd]] |
+| [[Areal av trekant i sirkel\|Areal av trekant i sirkel]]                                   |
 | [[Olivias annuitetslån\|Olivias annuitetslån]]                                             |
 | [[Lydstyrke fra fly\|Lydstyrke fra fly]]                                                   |
-| [[Areal av trekant i sirkel\|Areal av trekant i sirkel]]                                   |
 
 { .block-language-dataview}

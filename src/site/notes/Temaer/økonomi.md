@@ -7,14 +7,14 @@
 | file.link                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Vis at enhetskostnad er like grensekostnad ved laveste enhetskostnad\|Vis at enhetskostnad er like grensekostnad ved laveste enhetskostnad]] |
-| [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]]                                                                                             |
 | [[Ukjent program med kostnader for produksjon\|Ukjent program med kostnader for produksjon]]                                                   |
-| [[Monas lån\|Monas lån]]                                                                                                                       |
-| [[Logistisk vekst for et produkt\|Logistisk vekst for et produkt]]                                                                             |
-| [[Grensekostnad og overskudd del 1\|Grensekostnad og overskudd del 1]]                                                                         |
 | [[Grensekostnader fra graf v23\|Grensekostnader fra graf v23]]                                                                                 |
-| [[Etterspørsel av vare\|Etterspørsel av vare]]                                                                                                 |
-| [[Enhetskostnader fra graf\|Enhetskostnader fra graf]]                                                                                         |
 | [[Argumenter for hvorfor sette grensekostnad lik grenseinntekt\|Argumenter for hvorfor sette grensekostnad lik grenseinntekt]]                 |
+| [[Monas lån\|Monas lån]]                                                                                                                       |
+| [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]]                                                                                             |
+| [[Etterspørsel av vare\|Etterspørsel av vare]]                                                                                                 |
+| [[Logistisk vekst for et produkt\|Logistisk vekst for et produkt]]                                                                             |
+| [[Enhetskostnader fra graf\|Enhetskostnader fra graf]]                                                                                         |
+| [[Grensekostnad og overskudd del 1\|Grensekostnad og overskudd del 1]]                                                                         |
 
 { .block-language-dataview}
