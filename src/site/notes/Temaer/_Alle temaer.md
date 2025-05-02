@@ -73,6 +73,6 @@
 | [[Temaer/varians\|varians]]                                                                 | 4      |
 | [[Temaer/vekstfart\|vekstfart]]                                                             | 1      |
 | [[vektorer\|vektorer]]                                                                         | 1      |
-| [[Temaer/økonomi\|økonomi]]                                                                 | 10     |
+| [[Temaer/økonomi\|økonomi]]                                                                 | 9      |
 
 { .block-language-dataview}

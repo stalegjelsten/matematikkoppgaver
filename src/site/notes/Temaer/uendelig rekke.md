@@ -8,10 +8,10 @@
 | ------------------------------------------------------------------------------------------------- |
 | [[Uendelig rekke med virkestoff fra legemiddel\|Uendelig rekke med virkestoff fra legemiddel]] |
 | [[Uendelig logaritmisk rekke\|Uendelig logaritmisk rekke]]                                     |
-| [[Sum av integralrekke\|Sum av integralrekke]]                                                 |
 | [[Uendelig geometrisk rekke\|Uendelig geometrisk rekke]]                                       |
+| [[Sum av integralrekke\|Sum av integralrekke]]                                                 |
 | [[Påstand om sum av rekke\|Påstand om sum av rekke]]                                           |
-| [[Aritmetiske og geometriske rekker h24\|Aritmetiske og geometriske rekker h24]]               |
 | [[Påstand om områder avgrenset av grafer\|Påstand om områder avgrenset av grafer]]             |
+| [[Aritmetiske og geometriske rekker h24\|Aritmetiske og geometriske rekker h24]]               |
 
 { .block-language-dataview}

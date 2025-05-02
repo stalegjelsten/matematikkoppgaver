@@ -6,7 +6,7 @@
 # asymptoter
 | file.link                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------- |
-| [[Grenseverdi når x går mot 2\|Grenseverdi når x går mot 2]]                                                   |
 | [[Lag funksjonsuttrykk til grafen av rasjonal funksjon\|Lag funksjonsuttrykk til grafen av rasjonal funksjon]] |
+| [[Grenseverdi når x går mot 2\|Grenseverdi når x går mot 2]]                                                   |
 
 { .block-language-dataview}

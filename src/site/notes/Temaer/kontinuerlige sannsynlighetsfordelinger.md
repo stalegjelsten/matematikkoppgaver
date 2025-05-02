@@ -6,8 +6,8 @@
 # kontinuerlige sannsynlighetsfordelinger
 | file.link                                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Levetiden til lyspærer\|Levetiden til lyspærer]]                                                                                                 |
-| [[Levetiden til normalfordelte batterier\|Levetiden til normalfordelte batterier]]                                                                 |
 | [[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole]] |
+| [[Levetiden til normalfordelte batterier\|Levetiden til normalfordelte batterier]]                                                                 |
+| [[Levetiden til lyspærer\|Levetiden til lyspærer]]                                                                                                 |
 
 { .block-language-dataview}
