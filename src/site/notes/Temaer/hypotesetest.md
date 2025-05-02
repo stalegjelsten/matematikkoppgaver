@@ -7,9 +7,9 @@
 | file.link                                                           |
 | ------------------------------------------------------------------- |
 | [[Normalfordelte vinterdekk\|Normalfordelte vinterdekk]]         |
-| [[Hypergeometrisk hypotesetest\|Hypergeometrisk hypotesetest]]   |
-| [[Hypotesetest om legemiddel\|Hypotesetest om legemiddel]]       |
-| [[Hypotesetest om russetid\|Hypotesetest om russetid]]           |
 | [[Hypotesetest med smak av cola\|Hypotesetest med smak av cola]] |
+| [[Hypotesetest om russetid\|Hypotesetest om russetid]]           |
+| [[Hypotesetest om legemiddel\|Hypotesetest om legemiddel]]       |
+| [[Hypergeometrisk hypotesetest\|Hypergeometrisk hypotesetest]]   |
 
 { .block-language-dataview}

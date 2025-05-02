@@ -111,7 +111,7 @@ $$
 
 ## Oppgave 1-3
 
-Table: Sannsynlighetsfordelingen til oppgave 1-3 {#tbl:sshfordeling}
+<p style="text-align:center;">Tabell: Sannsynlighetsfordelingen til oppgave 1-3</p>
 
 |            $x$             |           0            |            1            |            4            |           $b$           |
 | :------------------------: | :--------------------: | :---------------------: | :---------------------: | :---------------------: |
@@ -120,7 +120,7 @@ Table: Sannsynlighetsfordelingen til oppgave 1-3 {#tbl:sshfordeling}
 |       $(x-\mu)^{2}$        |       $(-2)^2=4$       |         $1^2=1$         |         $2^2=4$         |       $4^{2}=16$        |
 | $(x-\mu)^{2} \cdot P(X=x)$ | $4\cdot 0{,}30 =1{,}2$ | $1 \cdot 0{,}40=0{,}40$ | $4 \cdot 0{,}10=0{,}40$ | $16 \cdot 0{,}20=3{,}2$ |
 
-Vi vet at forventningsverdien er summen av produktene av $x \cdot P(X=x)$, se rad 2 i tabell &tbl:sshfordeling. Det betyr at
+Vi vet at forventningsverdien er summen av produktene av $x \cdot P(X=x)$, se rad 2 i tabellen. Det betyr at
 $$
 0+0{,}40+0{,}40+0{,}20b = 2 \iff 0{,}20 b = 1{,}2 \iff b=6
 $$
@@ -212,7 +212,7 @@ En logistisk modell vil passe godt for denne typen situasjon, siden veksten vil 
 
 ### 2-1b
 
-![Løsning av oppgave 1a og 1b del 2 i CAS](/img/user/_resources/s2-h24-2-1.png){width=50%}
+![Løsning av oppgave 1a og 1b del 2 i CAS](/img/user/_resources/s2-h24-2-1.png)
 
 Vi vet at funksjonen vokser raskest i vendepunktet, så vi finner dette med GeoGebra i linje 2. $t=10{,}43$ tilsvarer at vi er omtrent midtveis i den ellevte uka. Økningen i vendepunktet er det samme som den deriverte til funksjonen i vendepunktet, se linje 3 i GeoGebra.
 
@@ -268,9 +268,14 @@ H_{1}:& \quad p_{m}>0{,}4
 \end{aligned}
 $$
 
+>[!info] Andre hypoteser
+>
+>Vi kan selvsagt bruke andelen kvinner som utgangspunkt for hypotesene våre. Ved tilfeldig trekning burde sannsynligheten for kvinne på første trekning være $p_{k}=0{,}6$. Dette gir hypotesene
+>$$H_{0}: \quad p_{k}=0{,}6 \quad \text{mot} \quad H_{1}: \quad p_{k}<0{,}6$$
+
 ### 2-2b
 
-![Hypergeometrisk hypotesetest i GeoGebra til oppgave 2-2](/img/user/_resources/s2-h24-2-2-hypotesetest.png){width=70%}
+![Hypergeometrisk hypotesetest i GeoGebra til oppgave 2-2](/img/user/_resources/s2-h24-2-2-hypotesetest.png)
 
 I GeoGebra har vi satt opp en hypergeometrisk fordeling med 100 kandidater hvorav 40 er menn. Vi velger 20 tilfeldige kandidater. Sannsynligheten for at minst 12 av disse er menn er $P(X\geq12) = 0{,}038$.
 
@@ -281,20 +286,20 @@ I GeoGebra har vi satt opp en hypergeometrisk fordeling med 100 kandidater hvora
 ### 2-3b
 $f$ og $g$ kommer til å avgrense maksimalt 2 områder siden $f$ er en tredjegradsfunksjon og $g$ er en andregradsfunksjon. For å finne disse to områdene må vi først finne skjæringspunktene mellom grafene.
 
-![Bestemmelse av skjæringspunktet mellom funksjoner i CAS](/img/user/_resources/s2-h24-2-3b-1.png){width=50%}
+![Bestemmelse av skjæringspunktet mellom funksjoner i CAS](/img/user/_resources/s2-h24-2-3b-1.png)
 
 Jeg fant skjæringspunktene i GeoGebra. (*Vi ser her at kravet om at $a>-1$ gjør at vi får reelle løsninger*).
 
 La oss undersøke arealet av områdene som er avgrenset. Jeg gjør dette i GeoGebra ved å integrere fra skjæringspunkt til skjæringspunkt ved hjelp av `IntegralMellom`.
 
-![Bestemmelse av arealet mellom grafene](/img/user/_resources/s2-h24-2-3b-2.png){width=50%}
+![Bestemmelse av arealet mellom grafene](/img/user/_resources/s2-h24-2-3b-2.png)
 
 **Påstanden stemmer. Vi ser at arealene mellom grafene er like store.**
 
 ## Oppgave 2-4
 
 ### 2-4a
-Jeg setter opp tallene i følgen og sjekker differansene mellom hvert ledd (*det er alltid et godt tips for å finne mønstre!*). Jeg fant ut at differansene mellom tallene var 1, 4, 9, 16, 25, og disse tallene kjenner jeg igjen som kvadrattallene.
+Jeg setter opp tallene i følgen og sjekker differansene mellom hvert ledd (*det er alltid et godt tips for å finne mønstre!*). Jeg fant ut at differansene mellom tallene var 1, 4, 9, 16, 25, og disse tallene kjenner jeg igjen som kvadrattallene.H
 
 Jeg sjekker om jeg finner en god sammenheng for et av leddene
 $$a_{5}=31=15+16=15+4^2=a_{4}+4^{2}$$
@@ -303,7 +308,7 @@ $$
 \underline{\underline{a_{n+1}=a_{n}+n^{2}}}
 $$
 
->[!tip]
+>[!tip] Alternative rekursive sammenhenger
 >
 >Det finnes også andre rekursive sammenhenger som som gir samme rekke:
 >
@@ -311,7 +316,7 @@ $$
 >- $a_{n}=\left( \sqrt{ a_{n-1}-a_{n-2}  } +1 \right)^{2} + a_{n-1}$ er en sammenheng som ikke bruker $n$, slik at du ikke er avhengig av å kjenne til hvor i rekka du befinner deg når du bruker formelen
 
 ### 2-4b
-![Program for å regne ut ledd i rekke](/img/user/_resources/s2-h24-2-4b.png){width=60%}
+![Program for å regne ut ledd i rekke](/img/user/_resources/s2-h24-2-4b.png)
 
 Jeg brukte en `for`-løkke til å regne meg fram til delsummen til ledd nummer 30 og skrev ut svarene i konsollen. 
 
@@ -323,7 +328,7 @@ Jeg brukte en `for`-løkke til å regne meg fram til delsummen til ledd nummer 3
 
 ## Oppgave 2-5
 
-![Løsning av oppgave 5 del 2 i CAS](/img/user/_resources/s2-h24-2-5-cas.png){width=80%}
+![Løsning av oppgave 5 del 2 i CAS](/img/user/_resources/s2-h24-2-5-cas.png)
 
 a) Summen av nåverdiene til terminbeløpene skal være lik lånebeløpet ved annuitetslån. Terminbeløpet er ukjent, og dette ble funnet i linje 1 i GeoGebra. **Lånebeløpet er 53 437 kr.**
 b) Summen av nåverdiene til terminbeløpene skal være lik lånebeløpet ved annuitetslån. Vekstfaktoren er ukjent, og denne ble funnet i linje 2 i GeoGebra. **Rentesatsen må være 4,416 %.**
@@ -355,7 +360,7 @@ $$
 ### 2-6b
 Vi lar etterspørselen $E(p)$ være lik $x$ (antall solgte varer), og løser med hensyn på $p$, se linje 3 i GeoGebra. 
 
-![Løsning av oppgave 6 del 2 i CAS](/img/user/_resources/s2-h24-2-6.png){width=50%}
+![Løsning av oppgave 6 del 2 i CAS](/img/user/_resources/s2-h24-2-6.png)
 
 Inntektene er gitt ved antall solgte varer $\times$ prisen per vare.
 $$
