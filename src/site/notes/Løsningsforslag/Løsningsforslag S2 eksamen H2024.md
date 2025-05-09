@@ -231,30 +231,6 @@ og deretter finne gjennomsnittet ved å dividere 500 km med antall uker $b$.
 
 Vi løser likningen i linje 4 i GeoGebra, og finner at **det tar omtrent 11,62 uker før Marco har løpt 500 km og kjøper nye sko. I gjennomsnitt har han da løpt 43 km i uka**, se linje 5.
 
-## Oppgave 2-3
-
-### 2-3a
-Jeg vet at summen av en uendelig geometrisk rekke er gitt ved
-$$
-s=\frac{a_{1}}{1-k}
-$$
-dersom $-1<k<1$.
-
-Hvis vi vi lar $x=\frac{1}{e}$ så vil rekka bli
-$$
-1+ \left( \ln \frac{1}{e}-1 \right) + \left( \ln \frac{1}{e}-1 \right)^{2} + \dots 
-$$
-La oss se hva $\ln \frac{1}{e}-1$ blir
-$$
-\ln \frac{1}{e}-1=\ln 1 - \ln e - 1=0-1-1=-2
-$$
-Det første leddet i rekka er $a_{1}=1$ og det andre leddet er $a_{2}=-2$, det vil si at
-$$
-k=\frac{-2}{1}=-2
-$$
-$k$ ligger ikke i intervallet $\langle-1,1\rangle$, og dermed konvergerer ikke rekka.
-
-**Påstanden er usann, rekka konvergerer ikke når $\boldsymbol{x=\frac{1}{e}}$.**
 
 ## Oppgave 2-2
 ### 2-2a
@@ -282,6 +258,31 @@ I GeoGebra har vi satt opp en hypergeometrisk fordeling med 100 kandidater hvora
 **$\boldsymbol{p}$-verdien på 0,038 er mindre enn signifikansnivået på 5 %, derfor forkaster vi nullhypotesen.**
 
 **En hypotesetest med signifikansnivå 5 % gir grunnlag for å si at bedriften bevisst velger menn foran kvinner.**
+
+## Oppgave 2-3
+
+### 2-3a
+Jeg vet at summen av en uendelig geometrisk rekke er gitt ved
+$$
+s=\frac{a_{1}}{1-k}
+$$
+dersom $-1<k<1$.
+
+Hvis vi vi lar $x=\frac{1}{e}$ så vil rekka bli
+$$
+1+ \left( \ln \frac{1}{e}-1 \right) + \left( \ln \frac{1}{e}-1 \right)^{2} + \dots 
+$$
+La oss se hva $\ln \frac{1}{e}-1$ blir
+$$
+\ln \frac{1}{e}-1=\ln 1 - \ln e - 1=0-1-1=-2
+$$
+Det første leddet i rekka er $a_{1}=1$ og det andre leddet er $a_{2}=-2$, det vil si at
+$$
+k=\frac{-2}{1}=-2
+$$
+$k$ ligger ikke i intervallet $\langle-1,1\rangle$, og dermed konvergerer ikke rekka.
+
+**Påstanden er usann, rekka konvergerer ikke når $\boldsymbol{x=\frac{1}{e}}$.**
 
 ### 2-3b
 $f$ og $g$ kommer til å avgrense maksimalt 2 områder siden $f$ er en tredjegradsfunksjon og $g$ er en andregradsfunksjon. For å finne disse to områdene må vi først finne skjæringspunktene mellom grafene.
