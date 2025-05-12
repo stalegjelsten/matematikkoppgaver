@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"documentclass":"scrartcl","fontsize":"11pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}","\\usepackage[DIVS=18]{typearea}","\\RedeclareSectionCommand[runin=false,afterskip=-.25\\baselineskip]{subsection}"],"toc":false,"highlight-style":"tango","numbersections":false,"shift-heading-level-by":-3,"pandoc-latex-environment":{"warning":["warning"],"danger":["danger"],"note":["note"],"tip":["tip"],"important":["important"],"info":["info"],"error":["error"],"fasit":["fasit"]},"tags":["løsningsforslag"],"dg-publish":true,"title":"Løsningsforslag S2 eksamen H2024","author":"Ståle Gjelsten","date":"2024-12-04","modified":"2024-12-14","fag":["s2"],"eksamen":"h24","disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style","empty-line-around-math-blocks"],"permalink":"/losningsforslag/losningsforslag-s2-eksamen-h2024/","dgPassFrontmatter":true}
+{"aliases":null,"documentclass":"scrartcl","fontsize":"11pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}","\\usepackage[DIVS=18]{typearea}","\\RedeclareSectionCommand[runin=false,afterskip=-.25\\baselineskip]{subsection}"],"toc":false,"highlight-style":"tango","numbersections":false,"shift-heading-level-by":-3,"pandoc-latex-environment":{"warning":["warning"],"danger":["danger"],"note":["note"],"tip":["tip"],"important":["important"],"info":["info"],"error":["error"],"fasit":["fasit"]},"tags":["løsningsforslag"],"dg-publish":true,"title":"Løsningsforslag S2 eksamen H2024","author":"Ståle Gjelsten","date":"2024-12-04","modified":"2025-05-12","fag":["s2"],"eksamen":"h24","disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style","empty-line-around-math-blocks"],"permalink":"/losningsforslag/losningsforslag-s2-eksamen-h2024/","dgPassFrontmatter":true}
 ---
 
 
@@ -10,10 +10,16 @@ Jeg blir veldig glad om du melder ifra om feil enten direkte til meg eller via f
 ### 1-1a
 Siden vi skal regne ut integralet til produktet av to ulike funksjoner vil jeg forsøke delvis integrasjon. Jeg benytter DI-metoden, og velger at $x^{2}$ er den faktoren som skal integreres, og $\ln x$ er faktoren som skal deriveres.
 
+>[!tip]- Hvordan velge hva som skal deriveres og integreres
+>
+> I lignende oppgaver har vi ofte valgt å derivere den faktoren som er et polynomuttrykk, slik at faktoren blir null etter at vi har derivert en eller flere ganger. I dette tilfellet er det likevel lurt å velge å integrere polynomfaktoren, siden $\ln x$ er litt vanskelig å integrere. I tillegg ser vi et veldig flott mønster med at $(\ln x)'=\frac{1}{x}$ og vi dermed får en rad i DI-systemet som vi kan integrere produktet av.
+
 |     |       D       |         I          |
-| :---: | :--------: | :----------: |
-|  $+$  |    $\ln x$    |      $x^{2}$       |
-|  $-$  | $\frac{1}{x}$ | $\frac{1}{3}x^{3}$ |
+| :-: | :-----------: | :----------------: |
+| $+$ |    $\ln x$    |      $x^{2}$       |
+| $-$ | $\frac{1}{x}$ | $\frac{1}{3}x^{3}$ |
+
+Vi ser at produktet i rad 2 er $\frac{1}{x} \cdot \frac{1}{3}x^{3}$, som vi kan integrere.
 
 Vi kan altså sette opp
 $$
@@ -229,8 +235,20 @@ $$
 $$
 og deretter finne gjennomsnittet ved å dividere 500 km med antall uker $b$.
 
-Vi løser likningen i linje 4 i GeoGebra, og finner at **det tar omtrent 11,62 uker før Marco har løpt 500 km og kjøper nye sko. I gjennomsnitt har han da løpt 43 km i uka**, se linje 5.
+Vi kan finne en enda bedre tilnærming til svaret dersom vi forskyver grensene for integrasjonen med 0,5 mot høyre
+ $$\int _{0{,}5}^{b+0{,}5} L(t) \, \mathrm{d}t = 500 $$
 
+Vi løser likningen i linje 4 i GeoGebra, og finner at **det tar omtrent 11,19 uker før Marco har løpt 500 km og kjøper nye sko. I gjennomsnitt har han da løpt 44,7 km i uka**, se linje 5.
+
+>[!tip] Blir resultatet mer nøyaktig ved å justere grensene i denne oppgaven?
+>
+> Når vi justerer grensene med $+0{,}5$ får vi et svar som er omtrent en halv uke mindre enn hvis vi ikke justerer. Det er ikke fryktelig stor forskjell, men det er en forskjell.  
+>
+> Vi kan lage et eksempel for å overbevise oss selv om at det er lurt å justere grensene. La oss se på uke 5. I denne uka har Marco faktisk løpt 32 km, mens den logistiske modellen overestimerer løpslengden og gir $L(5)=33{,}417$.   
+> 
+> Hvis vi bruker $\int_{4}^{5} L(t) \, dt$ for å finne ut hvor langt Marco har løpt i uke 5, så vil alle verdiene for $L(t)$ være lavere enn $L(5)$ siden grafen stiger i hele intervallet. Dermed underestimerer vi Marcos løpsdistanse. Ved å heller flytte grensene til $\int_{4{,}5}^{5{,}5} L(t) \, dt$ så vil $L(t)<L(5)$ for $t \in [4{,}5 , 5 \rangle$ og $L(t)>L(5)$ for $t \in \langle 5 , 5{,}5]$. Dermed vil underestimeringen i intervallet $t \in [4{,}5 , 5 \rangle$ «jevnes ut» av overestimeringen i intervallet $t \in \langle 5 , 5{,}5]$.
+> 
+> ![](/img/user/_resources/s2-h24-2-1c-forklaring.png)
 
 ## Oppgave 2-2
 ### 2-2a
@@ -300,7 +318,7 @@ La oss undersøke arealet av områdene som er avgrenset. Jeg gjør dette i GeoGe
 ## Oppgave 2-4
 
 ### 2-4a
-Jeg setter opp tallene i følgen og sjekker differansene mellom hvert ledd (*det er alltid et godt tips for å finne mønstre!*). Jeg fant ut at differansene mellom tallene var 1, 4, 9, 16, 25, og disse tallene kjenner jeg igjen som kvadrattallene.H
+Jeg setter opp tallene i følgen og sjekker differansene mellom hvert ledd (*det er alltid et godt tips for å finne mønstre!*). Jeg fant ut at differansene mellom tallene var 1, 4, 9, 16, 25, og disse tallene kjenner jeg igjen som kvadrattallene.
 
 Jeg sjekker om jeg finner en god sammenheng for et av leddene
 $$a_{5}=31=15+16=15+4^2=a_{4}+4^{2}$$
