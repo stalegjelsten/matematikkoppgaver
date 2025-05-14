@@ -7,12 +7,13 @@
 ## Oppgave 1
 Hvis prisene og antall sjokolader er proporsjonale størrelser, så skal vi få det samme svaret hvis vi deler pris på antall sjokolader for alle tilbudene
 
-|  Pris | Sjokolader |  Forhold |
-| :---: | :--------: | :------: |
-|  25   |     2      |   12,5   |
-|  100  |     8      |   12,5   |
-|  200  |     16     |   12,5   |
-|  300  |     24     |   12,5   |
+| Pris | Sjokolader |  Forhold |
+| :--: | :--------: | :------: |
+|  25  |     2      |   12,5   |
+| 100  |     8      |   12,5   |
+| 200  |     16     |   12,5   |
+| 300  |     24     |   12,5   |
+
 Prisen per sjokolade er 12,5 kroner uansett hvilket tilbud vi ser på.
 
 **Antall sjokolader og prisen du betaler er proporsjonale størrelser.**
