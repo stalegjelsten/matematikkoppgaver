@@ -27,21 +27,20 @@ Vi vet at $f'(x)=-\frac{2}{x^{3}}$ vil ha uendelig mange antideriverte med ulike
 $$
 \int -\frac{2}{x^{3}} \, \mathrm{d}x =\int -2x^{-3} \, \mathrm{d}x = \frac{-2}{-2}x^{-2}+C=\frac{1}{x^{2}}+C
 $$
-Vi må nå bestemme verdien av $C$. Det kan vi gjøre ved å sette opp følgende likning fra opplysning nummer 2 i oppgaveteksten:
+Her er $C$ et hvilket som helst tall. Siden vi har fått vite at arealet av området som avgrenses av grafen til $f$, $x=1$, $x=2$ og $x$-aksen er lik $\frac{11}{14}$, samt at hele arealet ligger over $x$-aksen, kan vi bruke et bestemt integral for å finne verdien av $C$.
 $$
 \begin{aligned}
 \int_{1}^{2} \left(  \frac{1}{x^{2}} +C  \right)\, \mathrm{d}x &=\frac{11}{14} \\
+\int_{1}^{2} \left(  x ^{ -2}+C  \right)\, \mathrm{d}x &=\frac{11}{14} \\
 \left[ -\frac{1}{x}+Cx \right]_{1}^{2} &=\frac{11}{14} \\
--\frac{1}{2}+C \cdot 2-\left( -\frac{1}{1}+C\cdot 1 \right) &=\frac{11}{14} \\
+\left(  -\frac{1}{2}+C \cdot 2 \right)-\left( -\frac{1}{1}+C\cdot 1 \right) &=\frac{11}{14} \\
 -\frac{1}{2}+2C + \frac{1}{1}-C &=\frac{11}{14} \\
-C+\frac{1}{2}&=\frac{11}{14} \\
-C&=\frac{11}{14}-\frac{1}{2} \\
-C&=\frac{2}{7} \\
+C&=\frac{11}{14}-\frac{1}{2}=\frac{2}{7} \\
 \end{aligned}
 $$
-Funksjonen $f$ er altså gitt ved
+Vår antideriverte til $f'(x)$ har altså $C=\frac{2}{7}$, derfor har vi for alle $x\neq 0$:
 $$
-\underline{\underline{f(x)=\frac{1}{x^{2}}+\frac{2}{7}}} \quad \text{ for } \quad x\neq 0
+\underline{\underline{f(x)=\frac{1}{x^{2}}+\frac{2}{7}}}
 $$
 
 ## Oppgave 1-3
@@ -54,22 +53,36 @@ $$
 |     $k \cdot P(X=k)$      |             $\frac{1}{6}$             |            $\frac{2}{6}$             |            $\frac{3}{6}$             |            $\frac{18}{6}$             |      $\frac{24}{6}=4$       |
 | $(k-\mu)^{2}\cdot P(X=k)$ | $3^{2} \cdot \frac{1}{6}=\frac{9}{6}$ | $2^{2}\cdot \frac{1}{6}=\frac{4}{6}$ | $1^{2}\cdot \frac{1}{6}=\frac{1}{6}$ | $2^{2}\cdot \frac{3}{6}=\frac{12}{6}$ | $\frac{26}{6}=\frac{13}{3}$ |
 
-**Forventningsverdien $E(X)=\sum k \cdot P(X=k)=\underline{\underline{4}}$**
+Vi finner forventningsverdien ved å finne summen av rad 3 siden $E(X)=\sum k \cdot P(X=k)$
+
+**Forventningsverdien $\mathbf{E}(\textbf{\textit{X}})=\underline{\underline{\mathbf{4}}}$**
 
 ### 1-3b
-**Variansen $\text{Var}(X)=\sum (k-\mu)^{2}\cdot P(X=k)=\underline{\underline{\frac{13}{3}}}$**
+Vi finner variansen ved å summere rad 4 i tabellen siden $\text{Var}(X)=\sum (k-\mu)^{2}\cdot P(X=k)$
+
+**Variansen er $\mathbf{Var}(\textbf{\textit{X}})=\underline{\underline{\mathbf{\frac{13}{3}}}}$**
 
 ## Oppgave 1-4
 
 ### 1-4a
+Her setter vi opp en oversikt for å se hvordan variablene i programmet utvikler seg.
+
+| `i` | `a` |  Beregning av neste `a` |
+|:------:| :------:| --------------------:|
+|  1  |   2 |   $2+2+1=\underline{5}$ |
+|  2  |   5 |   $5+2+2=\underline{9}$ |
+|  3  |   9 |  $9+3+2=\underline{14}$ |
+|  4  |  14 | $14+4+2=\underline{20}$ |
+|  5  |  20  |                         |
+
 Vi ser en tallfølge hvor differansene mellom leddene starter på 3, og deretter øker med 1 for hvert ledd. 
 
-**Koden skriver ut leddene i tallfølgen: $\underline{\underline{2,5,9,14,20}}$**
+**Koden skriver ut leddene i tallfølgen $\underline{\underline{2,5,9,14,20}}$.**
 
 ### 1-4b
-Eleven har lagt til en variabelen for delsummen kalt `S`. 
+Eleven har lagt til en variabel `S`. `S` gir en løpende sum av verdiene til `a`, derfor vil `S` være delsummen til rekka etter `n` ledd. 
 
-**Eleven ønsker å finne delsummen etter 5 ledd, altså $2+5+9+14+20=\underline{\underline{50}}$**
+**Eleven ønsker å finne delsummen til rekka etter 5 ledd, altså $2+5+9+14+20=\underline{\underline{50}}$**
 
 ## Oppgave 1-5
 
@@ -88,18 +101,18 @@ Grensekostnaden er den deriverte av kostnadsfunksjonen, og grensekostnaden ved 1
 **Enhetskostnaden ved 180 enheter er 82,89 kr/enhet og grensekostnaden er 138 kr/enhet.**
 
 ### 1-5b
-For at vi skal ha størst overskudd må $I'(x)=K'(x)$. Vi bestemmer grenseinntekten
+For at vi skal ha størst overskudd må $I'(x)=K'(x)$. Vi bestemmer grenseinntekten.
 $$
 I(x)=p \cdot x \implies I'(x)=p
 $$
-For å finne prisen som gir størst overskudd ved produksjon og salg av 180 enheter så setter vi opp $I'(180)=K'(180)$
+For å finne prisen som gir størst overskudd ved produksjon og salg av 180 enheter så setter vi opp $I'(180)=K'(180)$.
 $$I'(180)=K'(180) \iff p = 138$$
 **Prisen 138 kr gir oss størst overskudd ved produksjon og salg av 180 enheter.**
 
 ## Oppgave 1-6
 
 ### 1-6a
-Vi ønsker å teste om den nye bensinen gir bedre drivstofføkonomi enn den gamle. La $\mu$ være forventningsverdien for kjørelengde per L for den nye bensinen. Da er hypotesene våre
+Vi ønsker å teste om den nye bensinen gir bedre drivstofføkonomi enn den gamle. La $\mu$ være forventningsverdien for kjørelengde per L for den nye bensinen. Da er hypotesene våre:
 $$
 \begin{aligned}
 H_{0}: \quad \mu=20\\
@@ -108,7 +121,7 @@ H_{A}: \quad \mu > 20
 $$
 
 ### 1-6b
-Denne hypotesetesten er av et gjennomsnitt. La $\bar{X}$ være gjennomsnittsverdien for drivstofføkonomien for et utvalg av biler. Etter sentralgrensesetningen er $\bar{X}$ normalfordelt med 
+Denne hypotesetesten er av et gjennomsnitt. La $\bar{X}$ være gjennomsnittsverdien for drivstofføkonomien for et utvalg av biler. Etter sentralgrensesetningen er $\bar{X}$ normalfordelt med:
 $$
 \begin{aligned}
 E(\bar{X}) &= \mu  = 20 \\
@@ -119,7 +132,6 @@ Observasjonen vår er $\bar{X}=21$. Vi gjør om til standard normalfordeling og 
 $$
 z = \frac{21-20}{\frac{1}{2}}=2 \implies P(Z>2)=1-\Phi(2) = 1- 0{,}9772=0{,}0228
 $$
-
 ***p*-verdien er 0,0228, som er mindre enn signifikansnivået vårt. Vi kan dermed forkaste nullhypotesen om at den nye bensinen er like god som den gamle.**
 
 ## Oppgave 2-1
@@ -128,11 +140,12 @@ $$
 
 ![Regresjon i GeoGebra](/img/user/_resources/s2-v25-2-1a.png)
 
-Vi finner en andregradsmodell for kostnadene ved hjelp av regresjon i GeoGebra.
+Vi finner en andregradsmodell for kostnadene ved hjelp av regresjon i GeoGebra. Se utklippet over.
 $$
 K(x)=0{,}617 x^{2}+25x+93{,}33
 $$
-**Da er $K'(x)=2 \cdot 0{,}617x+25=\underline{\underline{1{,}23x+25}}$.** 
+
+**Grenseinntekten $K'(x)=2 \cdot 0{,}617x+25=\underline{\underline{1{,}23x+25}}$.** 
 
 ### 2-1b
 
@@ -181,6 +194,8 @@ $$
 **Sannsynligheten for at Maren vinner med et hopp på 83 meter er 0,5849.**
 
 ### 2-2c
+Vi lager en simulering i Python hvor vi trekker hopplengder ut fra normalfordelingene til $B$, $M$ og $E$. Deretter sjekker vi om Marens hopp er det lengste hoppet.
+
 ```python
 from random import gauss
 N = 100_000
@@ -201,6 +216,8 @@ ssh = antall_gunstige / N
 print(f"Det er omtrent {ssh * 100:.2f} % sannsynlighet for at Maren hopper lengst i andre omgang")
 ```
 
+Etter å ha kjørt programmet flere ganger ser jeg at sannsynligheten er stabil på omtrent 47,4 %.
+
 **Det er omtrent 47,4 % sannsynlighet for at Maren hopper lengst i andre omgang.**
 
 ## Oppgave 2-3
@@ -208,7 +225,7 @@ print(f"Det er omtrent {ssh * 100:.2f} % sannsynlighet for at Maren hopper lengs
 ![Logistisk modell for brannalarmer i by](/img/user/_resources/s2-v25-2-3a.png)
 
 ### 2-3a
-Jeg la inn modellen i GeoGebra og la inn linja $y=1\,000\,000$ for å sjekke når halvparten hadde fått systemet. Jeg fant skjæringen med $B$ i punktet $A$.
+Jeg la inn modellen i GeoGebra og la inn linja $y=1\,000\,000$ for å sjekke når halvparten hadde fått systemet. Jeg fant skjæringen med $B$ i punktet $A=(93{,}88, 1000000)$.
 
 **Det tar 94 uker før halvparten av husstandene i byen har brannvarslingssystemet ifølge modellen.**
 
@@ -217,7 +234,7 @@ Se nederst i GeoGebra-utklippet.
 $$
 \underline{\underline{B'(52)=7827{,}7}}
 $$
-**Etter 52 uker (ett år) så selges brannvarslingssystemet til omtrent 7827 husstander per uke.**
+**Etter 52 uker (ett år) så selges brannvarslingssystemet til omtrent 7828 husstander per uke.**
 
 ### 2-3c
 En logistisk modell er gitt ved
@@ -232,7 +249,7 @@ $$
 Med bakgrunn i opplysningene i oppgaveteksten kan vi bestemme $N=1\,000\,000$ siden dette er antallet husstander de totalt selger til.
 
 Videre vet vi at det er 4000 husstander som har systemet ved $x=0$, derfor må
-$$\frac{N}{1+a}=4000 \iff \frac{1000\cancel{ 000 }}{1+a}=4\cancel{ 000 } \iff 1000 = 4+4a \iff a=250-1=249$$
+$$\frac{N}{1+a}=4000 \iff \frac{1000\cancel{ 000 }}{1+a}=4\cancel{ 000 } \iff \frac{1000}{4} = 1+a \iff a=250-1=249$$
 
 Til sist vet vi at vendepunktet (den raskeste veksten) er i uke 65, altså må
 $$
@@ -244,58 +261,95 @@ $$
 $$
 
 ## Oppgave 2-4
-*Her er noen raske løsninger med CAS og med målsøking i Excel*
 
 ![CAS-løsning av 2-4](/img/user/_resources/s2-v25-2-4-cas.png)
 
-![Regneark for målsøking](/img/user/_resources/s2-v25-2-4-excel1.png)
-
-![Formler for regneark med målsøking](/img/user/_resources/s2-v25-2-4-excel-formler.png)
-
 ### 2-4a
+Vi kaller det ukjente beløpet $B$. Nora skal sette inn $B$ på konto 30 ganger. Det siste beløpet skal ha fått renter i 1 år, mens det første beløpet skal ha fått renter i 30 år. 
+
+For å ha 3 750 000 kr på konto etter 30 år så kan vi altså sette opp en likning med ei rekke. Likningen er løst i linje 1 i GeoGebra.
+$$
+B\cdot 1{,}025^{1}+B\cdot 1{,}025^{2}+\dots+ B\cdot 1{,}025^{30}=3\,750\,000
+$$
+
 **Nora må sette inn 83 333 kr hvert år for å nå målet.**
 
 ### 2-4b
+Vi kaller den ukjente vekstfaktoren til renta $v$. Nora skal betale inn lånet over 33 terminer med første termin 1. januar 2026. Nåverdien (NV) til terminbeløpene vil være:
+$$
+\underbrace{ \frac{150\,000}{v^{0}} }_{ \text{NV til 2026-beløpet} }+\frac{150\,000}{v^{1}}+\dots+\underbrace{ \frac{150\,000}{v^{32}} }_{ \text{NV til 2058-beløpet} }=3\,000\,000
+$$
+Likningen er løst i linje 2 i GeoGebra.
+
 **Nora har regnet med at den årlige rentesatsen er 3,528 %.**
 
 ### 2-4c
+Sparebeløpene til Nora kan sees på som en rekke der det første beløpet er 10000 kr og får renter i 10 år, mens det siste beløpet er $10000\cdot 1{,}06^{9}$ og får renter i ett år.
+$$
+10000 \cdot 1{,}06^{0}\cdot 1{,}025^{10} + 10000 \cdot 1{,}06^{1}\cdot 1{,}025^{9} + \dots + 10000 \cdot 1{,}06^{9}\cdot 1{,}025^{1}
+$$
+Beløpet er beregnet i linje 3 i GeoGebra.
+
 **Nora vil ikke nå målet på 150 000 kr. Hun vil ha 149 581 kr på kontoen etter 10 år.**
+
+>[!note] Alternativ løsning med målsøking i Excel
+>
+> I regnearket nedenfor har jeg satt opp de tre deloppgavene i Excel for å løse med målsøking. 
+>
+>**Oppgave a** er løst ved å beregne innskuddet på kontoen i starten og slutten av hvert år. Noras sparebeløp er satt i celle `C5`. Ved å bruke målsøking og sette at celle `C37` skal bli 3 750 000 kr ved å endre på `C5` fikk jeg svaret 83 333 kr.
+>
+>**Oppgave b** er løst ved å skrive inn restlånet 1. januar 2026, og beregne restlånene etter innbetaling hvert år. Restlånet etter innbetaling beregnes ved å sette avdraget lik $\frac{T}{v^{32-i}}$, der $v$ er vekstfaktoren til renta og $i$ er antall år siden 1. januar 2026. Renta ble funnet ved å gjøre målsøking der restlånet etter innbetaling skal være 0 kr i 2058.
+>
+>**Oppgave c.** I denne oppgaven øker sparebeløpet med 6 % per år i kolonne `O`, samtidig som vi beregner renter i kolonner `Q`. I slutten av 2035 vil Nora ha 149 581 kr på konto.
+
+![Regneark for løsning av Noras sparing og lån](/img/user/_resources/s2-v25-2-4-excel1.png)
+
+![Formler for regneark med målsøking](/img/user/_resources/s2-v25-2-4-excel-formler.png)
+
 
 ## Oppgave 2-5
 Vi har fått oppgitt at
 $$
 \int 1 \, \mathrm{d}x + \int x \, \mathrm{d}x + \int  x^{2} \, \mathrm{d}x + \int  x^{3} \, \mathrm{d}x + \dots= \int \frac{1}{1-x} \, \mathrm{d}x  
 $$
-Vi gjennomfører resonnementet vårt i flere steg, først gjennomfører vi integrasjonen på høyre side først ved variabelskiftet $u=1-x$ og får
-$$
-u = 1-x \implies \frac{du}{dx}=-1 \iff dx = -du
-$$
+Vi gjennomfører resonnementet vårt i flere steg.
+
+### Integrasjon av høyre side
+Vi ser først på høyre side av likningen. Vi ser at vi kan integrere denne siden ved å gjøre variabelskiftet $u=1-x \implies \frac{du}{dx}=-1 \iff dx =-1 \cdot du$.
+
 Integralet blir (sett bort fra integrasjonskonstantene)
 $$
-\int \frac{1}{1-x} \, \mathrm{d}x  = -\int \frac{1}{u} \, \mathrm{d}u =-\ln \left| 1-x \right| 
+\int \frac{1}{1-x} \, \mathrm{d}x  = \int \frac{1}{u} \cdot (-1)\, \mathrm{d}u = -\int \frac{1}{u}\, \mathrm{d}u = -\ln \left| 1-x \right| 
 $$
+
+### Integrasjon av venstre side
 Vi gjennomfører så integrasjonene på venstre av likningen i oppgaveteksten og får
 $$
 \int 1 \, \mathrm{d}x + \int x \, \mathrm{d}x + \int  x^{2} \, \mathrm{d}x + \int  x^{3} \, \mathrm{d}x + \dots =x+\frac{1}{2}x^{2}+\frac{1}{3}x^{3}+ \frac{1}{4}x^{4} + \dots
 $$
-Vi sammenligner dette svaret med hva vi skal vise
+Ved å integrere begge sidene har vi altså foreløpig vist at:
+$$
+x+\frac{1}{2}x^{2}+\frac{1}{3}x^{3}+ \frac{1}{4}x^{4} + \dots = -\ln \left| 1-x \right|
+$$
+
+### Vise at rekka er lik $\ln 2$
+Vi skal vise at 
+$$\frac{1}{2^{1}}+\frac{1}{2} \cdot \frac{1}{2^{2}} +\frac{1}{3} \cdot \frac{1}{2^{3}} +\frac{1}{4} \cdot \frac{1}{2^{4}} + \dots = \ln 2$$
+Vi sammenligner venstre side i denne likningen med svaret vi fikk da vi integrerte venstre side i den opprinnelige likningen.
 $$
 x+\frac{1}{2}x^{2}+\frac{1}{3}x^{3}+ \frac{1}{4}x^{4} + \dots=\frac{1}{2^{1}}+\frac{1}{2} \cdot \frac{1}{2^{2}} +\frac{1}{3} \cdot \frac{1}{2^{3}} +\frac{1}{4} \cdot \frac{1}{2^{4}} + \dots
 $$
 Ved sammenligning av leddene ser vi at $x=\frac{1}{2}$ er en løsning av likningen over.
 
-Vi sjekker hva $-\ln \left| 1-x \right|$ gir oss når $x=\frac{1}{2}$
+Siden $x=\frac{1}{2}$, så sjekker vi hva $-\ln \left| 1-x \right|$ gir oss når $x=\frac{1}{2}$
 $$
-- \ln \left| 1-\frac{1}{2} \right| =-\ln \underbrace{ \left| \frac{1}{2} \right| }_{ \left| \frac{1}{2} \right| = \frac{1}{2} } =\underset{ \text{Regel:} \ln\left( \frac{a}{b} \right) = \ln a - \ln b }{- \ln \left( \frac{1}{2} \right) =-\left( \cancelto{ 0 }{ \ln 1 } - \ln 2 \right)} =\ln 2
+-\ln \left| 1-x \right| = - \ln \left| 1-\frac{1}{2} \right| =-\ln \underbrace{ \left| \frac{1}{2} \right| }_{ \left| \frac{1}{2} \right| = \frac{1}{2} } =\underbrace{ {- \ln \left( \frac{1}{2} \right) =-\left( \cancelto{ 0 }{ \ln 1 } - \ln 2 \right)}}_{\text{Regel:} \ln\left( \frac{a}{b} \right) = \ln a - \ln b} =\ln 2
 $$
 Vi har altså vist at
 $$
-\begin{aligned}
-\int 1 \, \mathrm{d}x + \int x \, \mathrm{d}x + \int  x^{2} \, \mathrm{d}x + \int  x^{3} \, \mathrm{d}x + \dots &= \int \frac{1}{1-x} \, \mathrm{d}x  \\
-x+\frac{1}{2}x^{2}+\frac{1}{3}x^{3}+ \frac{1}{4}x^{4} + \dots &= -\ln \left| 1-x \right|
-\end{aligned}
+x+\frac{1}{2}x^{2}+\frac{1}{3}x^{3}+ \frac{1}{4}x^{4} + \dots = -\ln \left| 1-x \right|
 $$
-Og for $x=\frac{1}{2}$ så gjelder
+Og for $x=\frac{1}{2}$ gjelder derfor:
 $$
 \frac{1}{2^{1}}+\frac{1}{2} \cdot \frac{1}{2^{2}} +\frac{1}{3} \cdot \frac{1}{2^{3}} +\frac{1}{4} \cdot \frac{1}{2^{4}} + \dots = \ln 2
 $$
