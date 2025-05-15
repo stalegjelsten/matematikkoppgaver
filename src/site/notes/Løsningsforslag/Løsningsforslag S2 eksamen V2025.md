@@ -22,6 +22,12 @@ $$
 \int \frac{2x-1}{x^{2}-x-6} \, \mathrm{d}x=\int \frac{\cancel{ 2x-1 }}{u} \, \frac{\mathrm{d}u}{\cancel{ 2x-1 }}  = \int \frac{1}{u} \, \mathrm{d}u=\ln \left| u \right| +C=\underline{\underline{\ln \left| x^{2} -x -6\right| + C}} 
 $$
 
+>[!tip] Løsning med delbrøkoppspalting
+>
+>Hvis du velger å løse ved hjelp av delbrøkoppspalting så vil du etter faktorisering få følgende likning
+>$$2x-1=A(x+2)+B(x-3)$$
+>Etter integrasjon får du svaret $\ln \left| x+2 \right| + \ln \left| x-3 \right|+C$, som er det samme svaret som vi får med variabelskiftet skrevet på en annen form.
+
 ## Oppgave 1-2
 Vi vet at $f'(x)=-\frac{2}{x^{3}}$ vil ha uendelig mange antideriverte med ulike konstantledd
 $$
@@ -68,15 +74,17 @@ Vi finner variansen ved å summere rad 4 i tabellen siden $\text{Var}(X)=\sum (k
 Her setter vi opp en oversikt for å se hvordan variablene i programmet utvikler seg.
 
 | `i` | `a` |  Beregning av neste `a` |
-|:------:| :------:| --------------------:|
-|  1  |   2 |   $2+2+1=\underline{5}$ |
-|  2  |   5 |   $5+2+2=\underline{9}$ |
-|  3  |   9 |  $9+3+2=\underline{14}$ |
-|  4  |  14 | $14+4+2=\underline{20}$ |
-|  5  |  20  |                         |
+| :-: | :-: | ----------------------: |
+|  1  |  2  |   $2+1+2=\underline{5}$ |
+|  2  |  5  |   $5+2+2=\underline{9}$ |
+|  3  |  9  |  $9+3+2=\underline{14}$ |
+|  4  | 14  | $14+4+2=\underline{20}$ |
+|  5  | 20  |                         |
 
-Vi ser en tallfølge hvor differansene mellom leddene starter på 3, og deretter øker med 1 for hvert ledd. 
-
+Vi ser en tallfølge hvor differansene mellom leddene starter på 3, og deretter øker med 1 for hvert ledd. Matematisk kan dette uttrykkes med den rekursive sammenhengen
+$$
+a_{n+1}=a_{n}+n+2
+$$
 **Koden skriver ut leddene i tallfølgen $\underline{\underline{2,5,9,14,20}}$.**
 
 ### 1-4b
@@ -269,7 +277,7 @@ Vi kaller det ukjente beløpet $B$. Nora skal sette inn $B$ på konto 30 ganger.
 
 For å ha 3 750 000 kr på konto etter 30 år så kan vi altså sette opp en likning med ei rekke. Likningen er løst i linje 1 i GeoGebra.
 $$
-B\cdot 1{,}025^{1}+B\cdot 1{,}025^{2}+\dots+ B\cdot 1{,}025^{30}=3\,750\,000
+\underbrace{ B\cdot 1{,}025^{1} }_{ \text{År 2055} }+\underbrace{ B\cdot 1{,}025^{2} }_{ \text{År 2054} }+\dots+ \underbrace{ B\cdot 1{,}025^{30} }_{ \text{År 2026} }=3\,750\,000
 $$
 
 **Nora må sette inn 83 333 kr hvert år for å nå målet.**
@@ -277,7 +285,7 @@ $$
 ### 2-4b
 Vi kaller den ukjente vekstfaktoren til renta $v$. Nora skal betale inn lånet over 33 terminer med første termin 1. januar 2026. Nåverdien (NV) til terminbeløpene vil være:
 $$
-\underbrace{ \frac{150\,000}{v^{0}} }_{ \text{NV til 2026-beløpet} }+\frac{150\,000}{v^{1}}+\dots+\underbrace{ \frac{150\,000}{v^{32}} }_{ \text{NV til 2058-beløpet} }=3\,000\,000
+\underbrace{ \frac{150\,000}{v^{0}} }_{ \text{NV til 2026-beløpet} }+\underbrace{ \frac{150\,000}{v^{1}} }_{ \text{NV til 2057-beløpet} }+\dots+\underbrace{ \frac{150\,000}{v^{32}} }_{ \text{NV til 2058-beløpet} }=3\,000\,000
 $$
 Likningen er løst i linje 2 i GeoGebra.
 
@@ -286,7 +294,7 @@ Likningen er løst i linje 2 i GeoGebra.
 ### 2-4c
 Sparebeløpene til Nora kan sees på som en rekke der det første beløpet er 10000 kr og får renter i 10 år, mens det siste beløpet er $10000\cdot 1{,}06^{9}$ og får renter i ett år.
 $$
-10000 \cdot 1{,}06^{0}\cdot 1{,}025^{10} + 10000 \cdot 1{,}06^{1}\cdot 1{,}025^{9} + \dots + 10000 \cdot 1{,}06^{9}\cdot 1{,}025^{1}
+\underbrace{ 10000 \cdot 1{,}06^{0}\cdot 1{,}025^{10} }_{ \text{Beløp år 0} } + \underbrace{ 10000 \cdot 1{,}06^{1}\cdot 1{,}025^{9} }_{ \text{Beløp år 1} } + \dots + \underbrace{ 10000 \cdot 1{,}06^{9}\cdot 1{,}025^{1} }_{ \text{ Beløp år 9 } }
 $$
 Beløpet er beregnet i linje 3 i GeoGebra.
 
@@ -310,12 +318,12 @@ Beløpet er beregnet i linje 3 i GeoGebra.
 ## Oppgave 2-5
 Vi har fått oppgitt at
 $$
-\int 1 \, \mathrm{d}x + \int x \, \mathrm{d}x + \int  x^{2} \, \mathrm{d}x + \int  x^{3} \, \mathrm{d}x + \dots= \int \frac{1}{1-x} \, \mathrm{d}x  
+\int 1 \, \mathrm{d}x + \int x \, \mathrm{d}x + \int  x^{2} \, \mathrm{d}x + \int  x^{3} \, \mathrm{d}x + \dots= \int \frac{1}{1-x} \, \mathrm{d}x  \tag{1}
 $$
 Vi gjennomfører resonnementet vårt i flere steg.
 
 ### Integrasjon av høyre side
-Vi ser først på høyre side av likningen. Vi ser at vi kan integrere denne siden ved å gjøre variabelskiftet $u=1-x \implies \frac{du}{dx}=-1 \iff dx =-1 \cdot du$.
+Vi ser først på høyre side av likning (1). Vi ser at vi kan integrere denne siden ved å gjøre variabelskiftet $u=1-x \implies \frac{du}{dx}=-1 \iff dx =-1 \cdot du$.
 
 Integralet blir (sett bort fra integrasjonskonstantene)
 $$
@@ -323,23 +331,23 @@ $$
 $$
 
 ### Integrasjon av venstre side
-Vi gjennomfører så integrasjonene på venstre av likningen i oppgaveteksten og får
+Vi gjennomfører så integrasjonene på venstre av likning (1) i oppgaveteksten og får
 $$
 \int 1 \, \mathrm{d}x + \int x \, \mathrm{d}x + \int  x^{2} \, \mathrm{d}x + \int  x^{3} \, \mathrm{d}x + \dots =x+\frac{1}{2}x^{2}+\frac{1}{3}x^{3}+ \frac{1}{4}x^{4} + \dots
 $$
-Ved å integrere begge sidene har vi altså foreløpig vist at:
+Ved å integrere begge sidene av likning (1) har vi altså foreløpig vist at:
 $$
 x+\frac{1}{2}x^{2}+\frac{1}{3}x^{3}+ \frac{1}{4}x^{4} + \dots = -\ln \left| 1-x \right|
 $$
 
 ### Vise at rekka er lik $\ln 2$
 Vi skal vise at 
-$$\frac{1}{2^{1}}+\frac{1}{2} \cdot \frac{1}{2^{2}} +\frac{1}{3} \cdot \frac{1}{2^{3}} +\frac{1}{4} \cdot \frac{1}{2^{4}} + \dots = \ln 2$$
-Vi sammenligner venstre side i denne likningen med svaret vi fikk da vi integrerte venstre side i den opprinnelige likningen.
+$$\frac{1}{2^{1}}+\frac{1}{2} \cdot \frac{1}{2^{2}} +\frac{1}{3} \cdot \frac{1}{2^{3}} +\frac{1}{4} \cdot \frac{1}{2^{4}} + \dots = \ln 2 \tag{2}$$
+Vi sammenligner venstre side i likning (2) med svaret vi fikk da vi integrerte venstre side i likning (1).
 $$
-x+\frac{1}{2}x^{2}+\frac{1}{3}x^{3}+ \frac{1}{4}x^{4} + \dots=\frac{1}{2^{1}}+\frac{1}{2} \cdot \frac{1}{2^{2}} +\frac{1}{3} \cdot \frac{1}{2^{3}} +\frac{1}{4} \cdot \frac{1}{2^{4}} + \dots
+x+\frac{1}{2}x^{2}+\frac{1}{3}x^{3}+ \frac{1}{4}x^{4} + \dots=\frac{1}{2^{1}}+\frac{1}{2} \cdot \frac{1}{2^{2}} +\frac{1}{3} \cdot \frac{1}{2^{3}} +\frac{1}{4} \cdot \frac{1}{2^{4}} + \dots \tag{3}
 $$
-Ved sammenligning av leddene ser vi at $x=\frac{1}{2}$ er en løsning av likningen over.
+Ved sammenligning av leddene ser vi at $x=\frac{1}{2}$ er en løsning av likning (3).
 
 Siden $x=\frac{1}{2}$, så sjekker vi hva $-\ln \left| 1-x \right|$ gir oss når $x=\frac{1}{2}$
 $$
