@@ -136,9 +136,13 @@ E(\bar{X}) &= \mu  = 20 \\
 \text{SD}(\bar{X})&=\frac{\text{SD}(X)}{\sqrt{ n }} = \frac{2{,}5}{\sqrt{ 25 }}=\frac{2{,}5}{5}=\frac{1}{2}
 \end{aligned}
 $$
-Observasjonen vår er $\bar{X}=21$. Vi gjør om til standard normalfordeling og bruker den vedlagte tabellen for å bestemme hvor sannsynlig observasjonen vår er, gitt at nullhypotesen er sann
+Observasjonen vår er $\bar{X}=21$. Vi gjør om til standard normalfordeling:
 $$
-z = \frac{21-20}{\frac{1}{2}}=2 \implies P(Z>2)=1-\Phi(2) = 1- 0{,}9772=0{,}0228
+z=\frac{\bar{X}-\mu}{\text{SD}(\bar{X})}=\frac{21-20}{0{,}5}=2
+$$
+Sannsynligheten for at $\bar{X}$ skal ligge mer enn 2 standardavvik over forventningsverdien er kan vi finne ved hjelp av den vedlagte normalfordelingstabellen.
+$$
+P(Z>2)=1-\Phi(2)=1-0{,}9772=0{,}0228
 $$
 ***p*-verdien er 0,0228, som er mindre enn signifikansnivået vårt. Vi kan dermed forkaste nullhypotesen om at den nye bensinen er like god som den gamle.**
 
@@ -210,7 +214,7 @@ N = 100_000
 antall_gunstige = 0
 
 for i in range(N):
-    # Trekker en hopplengder fra normalfordelingene
+    # Trekker hopplengder fra normalfordelingene
     B = gauss(70, 20)
     M = gauss(80, 5)
     E = gauss(75, 10)
@@ -267,6 +271,12 @@ En logistisk modell som passer til dataene vil være
 $$
 \underline{\underline{F(t)=\frac{1 \, 000 \, 000}{1+249e^{-0{,}0849t}}}}
 $$
+
+>[!note] Løsning av 2-4 i CAS
+>
+>Denne oppgaven kan også løses i CAS ved å sette opp 3 likninger for å bestemme $N$, $a$ og $k$, se skjermbildet under. Du kan også gjøre regresjon på punktene $(0, 4000)$,  $(65, 500\,000)$ og $(200, \, 1\,000\,000)$ med logistisk modell.
+>
+>![](/img/user/_resources/s2-v25-2-3c-cas.png)
 
 ## Oppgave 2-4
 
