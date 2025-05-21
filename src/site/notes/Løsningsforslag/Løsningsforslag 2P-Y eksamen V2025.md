@@ -249,10 +249,12 @@ $$
 $$
 De andre flaskene må da koste
 $$
-P_{\text{stor flaske}}=4000 \text{ ml} \cdot 0{,}19 \text{ kr/ml}=\underline{\underline{760 \text{ kr}}}
-$$$$
-P_{\text{liten flaske}}=100 \text{ ml} \cdot 0{,}19 \text{ kr/ml}= \underline{\underline{19 \text{ kr}}}
+\begin{aligned}
+P_{\text{stor flaske}}&=4000 \text{ ml} \cdot 0{,}19 \text{ kr/ml}=\underline{\underline{760 \text{ kr}}} \\
+P_{\text{liten flaske}}&=100 \text{ ml} \cdot 0{,}19 \text{ kr/ml}= \underline{\underline{19 \text{ kr}}}
+\end{aligned}
 $$
+
 **Den lille flasken må koste 19 kr og den store flasken må koste 760 kr for at prisene og mengde skal være proporsjonale størrelser.**
 
 ## Oppgave 2-5
