@@ -7,70 +7,74 @@
 
 | Tema                                                                                           | Antall |
 | ---------------------------------------------------------------------------------------------- | ------ |
-| \-                                                                                             | 1      |
+| \-                                                                                             | 2      |
 | [[Temaer/algebra\|algebra]]                                                                 | 1      |
 | [[Temaer/andregradslikninger\|andregradslikninger]]                                         | 1      |
-| [[areal under graf\|areal under graf]]                                                         | 1      |
+| [[areal under graf\|areal under graf]]                                                         | 2      |
 | [[Temaer/arealsetningen\|arealsetningen]]                                                   | 2      |
 | [[Temaer/asymptoter\|asymptoter]]                                                           | 2      |
-| [[bevis\|bevis]]                                                                               | 1      |
+| [[bevis\|bevis]]                                                                               | 2      |
 | [[Temaer/binomisk\|binomisk]]                                                               | 6      |
-| [[Temaer/cas\|cas]]                                                                         | 4      |
+| [[Temaer/cas\|cas]]                                                                         | 5      |
 | [[Temaer/cosinussetningen\|cosinussetningen]]                                               | 2      |
 | [[Temaer/derivasjon\|derivasjon]]                                                           | 8      |
-| [[Temaer/diskrete sannsynlighetsfordelinger\|diskrete sannsynlighetsfordelinger]]           | 5      |
-| [[Temaer/eksponentialfunksjoner\|eksponentialfunksjoner]]                                   | 1      |
-| [[Temaer/enhetskostnad\|enhetskostnad]]                                                     | 3      |
+| [[Temaer/diskrete sannsynlighetsfordelinger\|diskrete sannsynlighetsfordelinger]]           | 6      |
+| [[Temaer/eksponentialfunksjoner\|eksponentialfunksjoner]]                                   | 3      |
+| [[Temaer/enhetskostnad\|enhetskostnad]]                                                     | 4      |
 | [[etterspørsel\|etterspørsel]]                                                                 | 3      |
-| [[Temaer/excel\|excel]]                                                                     | 5      |
+| [[Temaer/excel\|excel]]                                                                     | 6      |
 | [[Temaer/faktorisering\|faktorisering]]                                                     | 2      |
-| [[figurtall\|figurtall]]                                                                       | 1      |
+| [[figurtall\|figurtall]]                                                                       | 2      |
 | [[Temaer/formler\|formler]]                                                                 | 1      |
-| [[forventningsverdi\|forventningsverdi]]                                                       | 5      |
-| [[Temaer/funksjoner\|funksjoner]]                                                           | 13     |
+| [[forventningsverdi\|forventningsverdi]]                                                       | 6      |
+| [[Temaer/funksjoner\|funksjoner]]                                                           | 15     |
 | [[Temaer/funksjonsdrøfting\|funksjonsdrøfting]]                                             | 3      |
-| [[Temaer/geogebra\|geogebra]]                                                               | 2      |
+| [[Temaer/geogebra\|geogebra]]                                                               | 3      |
 | [[geometri\|geometri]]                                                                         | 2      |
 | [[Temaer/gjennomsnittlig vekstfart\|gjennomsnittlig vekstfart]]                             | 2      |
 | [[Temaer/glidere\|glidere]]                                                                 | 1      |
 | [[grafisk framstilling\|grafisk framstilling]]                                                 | 1      |
-| [[Temaer/grenseinntekt og grensekostnad\|grenseinntekt og grensekostnad]]                   | 5      |
+| [[Temaer/grenseinntekt og grensekostnad\|grenseinntekt og grensekostnad]]                   | 7      |
 | [[Temaer/grenseverdi\|grenseverdi]]                                                         | 1      |
 | [[Temaer/hypergeometrisk\|hypergeometrisk]]                                                 | 4      |
-| [[Temaer/hypotesetest\|hypotesetest]]                                                       | 5      |
+| [[Temaer/hypotesetest\|hypotesetest]]                                                       | 6      |
 | [[Temaer/identiteter\|identiteter]]                                                         | 1      |
-| [[Temaer/integral\|integral]]                                                               | 13     |
+| [[Temaer/integral\|integral]]                                                               | 16     |
 | [[Temaer/kontinuerlige sannsynlighetsfordelinger\|kontinuerlige sannsynlighetsfordelinger]] | 3      |
+| [[kumulativ frekvens\|kumulativ frekvens]]                                                     | 1      |
 | [[Temaer/likninger\|likninger]]                                                             | 3      |
 | [[Temaer/likningssystem\|likningssystem]]                                                   | 1      |
 | [[Temaer/logaritmer\|logaritmer]]                                                           | 5      |
-| [[Temaer/logistisk funksjon\|logistisk funksjon]]                                           | 3      |
-| [[Temaer/lån\|lån]]                                                                         | 4      |
+| [[Temaer/logistisk funksjon\|logistisk funksjon]]                                           | 4      |
+| [[Temaer/lån\|lån]]                                                                         | 5      |
 | [[modellering\|modellering]]                                                                   | 1      |
-| [[Temaer/normalfordeling\|normalfordeling]]                                                 | 14     |
+| [[Temaer/normalfordeling\|normalfordeling]]                                                 | 16     |
 | [[nåverdi\|nåverdi]]                                                                           | 1      |
+| [[omvendt proporsjonal\|omvendt proporsjonal]]                                                 | 1      |
 | [[Temaer/polynomdivisjon\|polynomdivisjon]]                                                 | 1      |
-| [[Temaer/programmering\|programmering]]                                                     | 17     |
-| [[Temaer/prosent\|prosent]]                                                                 | 2      |
+| [[potensregning\|potensregning]]                                                               | 1      |
+| [[Temaer/programmering\|programmering]]                                                     | 20     |
+| [[proporsjonale størrelser\|proporsjonale størrelser]]                                         | 1      |
+| [[Temaer/prosent\|prosent]]                                                                 | 4      |
 | [[Temaer/rasjonale funksjoner\|rasjonale funksjoner]]                                       | 1      |
-| [[Temaer/regresjon\|regresjon]]                                                             | 4      |
-| [[Temaer/rekker\|rekker]]                                                                   | 20     |
+| [[Temaer/regresjon\|regresjon]]                                                             | 5      |
+| [[Temaer/rekker\|rekker]]                                                                   | 21     |
 | [[rekursiv sammenheng\|rekursiv sammenheng]]                                                   | 3      |
-| [[Temaer/samlet mengde\|samlet mengde]]                                                     | 3      |
+| [[Temaer/samlet mengde\|samlet mengde]]                                                     | 4      |
 | [[Temaer/sannsynlighet\|sannsynlighet]]                                                     | 16     |
-| [[sentralmål\|sentralmål]]                                                                     | 1      |
-| [[Temaer/simulering\|simulering]]                                                           | 4      |
-| [[sparing\|sparing]]                                                                           | 2      |
+| [[sentralmål\|sentralmål]]                                                                     | 4      |
+| [[Temaer/simulering\|simulering]]                                                           | 5      |
+| [[sparing\|sparing]]                                                                           | 3      |
 | [[spredningsmål\|spredningsmål]]                                                               | 1      |
-| [[Temaer/standard normalfordeling\|standard normalfordeling]]                               | 7      |
+| [[Temaer/standard normalfordeling\|standard normalfordeling]]                               | 8      |
 | [[standardform\|standardform]]                                                                 | 3      |
 | [[statistikk\|statistikk]]                                                                     | 2      |
-| [[Temaer/tolke grafer\|tolke grafer]]                                                       | 3      |
-| [[Temaer/tolkning av integraler\|tolkning av integraler]]                                   | 1      |
+| [[Temaer/tolke grafer\|tolke grafer]]                                                       | 4      |
+| [[Temaer/tolkning av integraler\|tolkning av integraler]]                                   | 3      |
 | [[Temaer/trigonometri\|trigonometri]]                                                       | 6      |
 | [[Temaer/uendelig rekke\|uendelig rekke]]                                                   | 7      |
-| [[Temaer/utforskning\|utforskning]]                                                         | 12     |
-| [[Temaer/varians\|varians]]                                                                 | 4      |
+| [[Temaer/utforskning\|utforskning]]                                                         | 13     |
+| [[Temaer/varians\|varians]]                                                                 | 5      |
 | [[Temaer/vekstfart\|vekstfart]]                                                             | 1      |
 | [[vektorer\|vektorer]]                                                                         | 1      |
 | [[Temaer/økonomi\|økonomi]]                                                                 | 9      |

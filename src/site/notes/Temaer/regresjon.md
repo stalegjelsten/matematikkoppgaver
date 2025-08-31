@@ -8,7 +8,8 @@
 | ------------------------------------------------------------------------------------------------------------------------------- |
 | [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]]                                                                           |
 | [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] |
-| [[Modell for etterspørsel av vare\|Modell for etterspørsel av vare]]                                                         |
 | [[Marcos logistiske løpetrening\|Marcos logistiske løpetrening]]                                                             |
+| [[Modell for etterspørsel av vare\|Modell for etterspørsel av vare]]                                                         |
+| [[Grenseinntekt og grensekostnad på del 2\|Grenseinntekt og grensekostnad på del 2]]                                         |
 
 { .block-language-dataview}

@@ -7,5 +7,7 @@
 | file.link                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------- |
 | [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] |
+| [[Grenseinntekt og grensekostnad på del 2\|Grenseinntekt og grensekostnad på del 2]]                                         |
+| [[Bestem f ut fra den deriverte\|Bestem f ut fra den deriverte]]                                                             |
 
 { .block-language-dataview}

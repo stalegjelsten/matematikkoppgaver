@@ -7,6 +7,7 @@
 | file.link                                                                                     |
 | --------------------------------------------------------------------------------------------- |
 | [[Tredjegradsfunksjoner uten førstegradsledd\|Tredjegradsfunksjoner uten førstegradsledd]] |
+| [[Modell for reduksjon av utslipp\|Modell for reduksjon av utslipp]]                       |
 | [[Gjennomsnittstemperatur på Svalbard\|Gjennomsnittstemperatur på Svalbard]]               |
 
 { .block-language-dataview}
