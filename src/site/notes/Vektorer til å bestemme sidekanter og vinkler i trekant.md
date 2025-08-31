@@ -4,7 +4,9 @@
 
 
 # Vektorer til å bestemme sidekanter og vinkler i trekant
+
 <p><span><em>Oppgaven er hentet fra eksamen R1 H23 del 1 oppgave 3.</em></span></p>
+
 I trekanten $ABC$ er $A(3, 1)$, $B(2, -2)$ og $C(5, 2)$.
 
 > **a)** Avgjør ved hjelp av vektorregning hvilken side av trekanten som er kortest.
