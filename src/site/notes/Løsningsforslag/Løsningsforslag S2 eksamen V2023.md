@@ -237,8 +237,8 @@ De ukentlige beløpene for de fire første ukene er markert i blått i utklippet
 ### 2-5a
 Se programmet under. 
 ```python
-from scipy.stats import norm # henter nødvendige pakker for normalfordeling
-from random import randint
+from random import randint, gauss 
+# henter nødvendige pakker for uniform fordeling og normalfordeling 
 
 n = 20
 sum_karakterer = 0
@@ -250,12 +250,12 @@ for i in range(n):
         # hvis det tilfeldige tallet er 1, så skal vi trekke 
         # tilfeldig elev fra skole A. I dette tilfellet har 
         # normalfordelingen my = 3.8 og sigma = 1.2             
-        # # vi trekker en tilfeldig elev med norm.rvs()
-        elev = norm.rvs(3.8,1.2)
+        # # vi trekker en tilfeldig elev med gauss(mu, sigma)
+        elev = gauss(3.8, 1.2)
     elif skole == 2:
-        elev = norm.rvs(3.4,1.4)
+        elev = gauss(3.4, 1.4)
     else:
-        elev = norm.rvs(4.1,1.1)
+        elev = gauss(4.1, 1.1)
     # vi legger til elevens karakter på summen
     sum_karakterer += elev
 
@@ -264,8 +264,8 @@ print(f"Gjennomsnittskarakteren til de {n} elevene er {sum_karakterer/n:.3f}.")
 
 ### 2-5b
 ```python
-from scipy.stats import norm # henter nødvendige pakker for normalfordeling
-from random import randint
+from random import randint, gauss 
+# henter nødvendige pakker for uniform fordeling og normalfordeling 
 
 N = 10_000
 antall_gunstige = 0
@@ -280,12 +280,12 @@ for j in range(N):
             # hvis det tilfeldige tallet er 1, så skal vi trekke 
             # tilfeldig elev fra skole A. I dette tilfellet har 
             # normalfordelingen my = 3.8 og sigma = 1.2             
-            # # vi trekker en tilfeldig elev med norm.rvs()
-            elev = norm.rvs(3.8,1.2)
+            # vi trekker en tilfeldig elev med gauss(mu, sigma)
+            elev = gauss(3.8, 1.2)
         elif skole == 2:
-            elev = norm.rvs(3.4,1.4)
+            elev = gauss(3.4, 1.4)
         else:
-            elev = norm.rvs(4.1,1.1)
+            elev = gauss(4.1, 1.1)
         # vi legger til elevens karakter på summen
         sum_karakterer += elev
     if sum_karakterer/n > 4:

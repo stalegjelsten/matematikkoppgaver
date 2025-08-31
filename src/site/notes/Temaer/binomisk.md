@@ -7,9 +7,9 @@
 | file.link                                                                   |
 | --------------------------------------------------------------------------- |
 | [[Lykkehjulet\|Lykkehjulet]]                                             |
-| [[Hypotesetest med smak av cola\|Hypotesetest med smak av cola]]         |
 | [[Hypotesetest om russetid\|Hypotesetest om russetid]]                   |
 | [[Hypotesetest om legemiddel\|Hypotesetest om legemiddel]]               |
+| [[Hypotesetest med smak av cola\|Hypotesetest med smak av cola]]         |
 | [[Figurer som viser normalfordeling\|Figurer som viser normalfordeling]] |
 | [[Billetter til fotballkamp\|Billetter til fotballkamp]]                 |
 

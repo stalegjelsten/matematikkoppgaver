@@ -19,8 +19,8 @@
 | [[Levetiden til normalfordelte batterier\|Levetiden til normalfordelte batterier]]                                                                 | s2                   | v23     | 1   |
 | [[Levetiden til lyspærer\|Levetiden til lyspærer]]                                                                                                 | <ul><li>s2</li></ul> | e22     | 2   |
 | [[Kuler i krukke hypergeometrisk\|Kuler i krukke hypergeometrisk]]                                                                                 | s1                   | v23     | 1   |
-| [[Forventningsverdi og varians fra sannsynlighetsfordeling\|Forventningsverdi og varians fra sannsynlighetsfordeling]]                             | s2                   | e22     | 1   |
 | [[Forventningsverdi og varians fra sannsynlighetsfordeling 2\|Forventningsverdi og varians fra sannsynlighetsfordeling 2]]                         | s2                   | v23     | 1   |
+| [[Forventningsverdi og varians fra sannsynlighetsfordeling\|Forventningsverdi og varians fra sannsynlighetsfordeling]]                             | s2                   | e22     | 1   |
 | [[Billetter til fotballkamp\|Billetter til fotballkamp]]                                                                                           | s1                   | v23     | 2   |
 
 { .block-language-dataview}

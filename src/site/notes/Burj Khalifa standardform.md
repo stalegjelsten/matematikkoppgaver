@@ -1,9 +1,9 @@
 ---
-{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":null,"fag":"2p-y","eksamen":"v25","del":2,"oppgave":-1,"title":null,"source":null,"todo":null,"permalink":"/burj-khalifa-standardform/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":null,"fag":["2p-y"],"eksamen":"v25","del":2,"oppgave":2,"title":null,"source":null,"todo":null,"permalink":"/burj-khalifa-standardform/","dgPassFrontmatter":true}
 ---
 
 
-<p><span><em>Oppgaven er hentet fra eksamen 2P-Y V25 del 2 oppgave -1.</em></span></p>
+<p><span><em>Oppgaven er hentet fra eksamen 2P-Y V25 del 2 oppgave 2.</em></span></p>
 
 
 Skyskraperen Burj Khalifa i Dubai er $825\text{ m}$ høy. Et kronestykke er $1{,}7\text{ mm}$ tykt. Tenk deg at du skal bygge et tårn av kronestykker like høyt som Burj Khalifa.
@@ -22,8 +22,8 @@ Omtrent hvor mange kronestykker vil du trenge? Skriv svaret på standardform.
     at asyncEvalInContext (plugin:dataview:19038:32)
     at DataviewJSRenderer.render (plugin:dataview:19064:19)
     at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at e.load (app://obsidian.md/app.js:1:1214378)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1182416)
     at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10760:23)
+    at DataviewCompiler.eval (plugin:digitalgarden:10763:23)
     at Generator.next (&lt;anonymous&gt;)</pre>
 

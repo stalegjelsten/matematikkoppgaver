@@ -8,7 +8,8 @@
 | ----------------------------------------------------------------------------------------------------------------------------- |
 | [[Varians i diskret sannsynlighetsfordeling\|Varians i diskret sannsynlighetsfordeling]]                                   |
 | [[Tunge kuler i kasse\|Tunge kuler i kasse]]                                                                               |
-| [[Forventningsverdi og varians fra sannsynlighetsfordeling\|Forventningsverdi og varians fra sannsynlighetsfordeling]]     |
+| [[Sannsynlighetsfordeling til brettspill\|Sannsynlighetsfordeling til brettspill]]                                         |
 | [[Forventningsverdi og varians fra sannsynlighetsfordeling 2\|Forventningsverdi og varians fra sannsynlighetsfordeling 2]] |
+| [[Forventningsverdi og varians fra sannsynlighetsfordeling\|Forventningsverdi og varians fra sannsynlighetsfordeling]]     |
 
 { .block-language-dataview}
