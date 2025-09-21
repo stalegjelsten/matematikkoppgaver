@@ -6,10 +6,10 @@
 # regresjon
 | file.link                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------- |
-| [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]]                                                                           |
 | [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] |
 | [[Marcos logistiske løpetrening\|Marcos logistiske løpetrening]]                                                             |
-| [[Modell for etterspørsel av vare\|Modell for etterspørsel av vare]]                                                         |
 | [[Grenseinntekt og grensekostnad på del 2\|Grenseinntekt og grensekostnad på del 2]]                                         |
+| [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]]                                                                           |
+| [[Modell for etterspørsel av vare\|Modell for etterspørsel av vare]]                                                         |
 
 { .block-language-dataview}

@@ -6,9 +6,9 @@
 # prosent
 | file.link                                                                               |
 | --------------------------------------------------------------------------------------- |
-| [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]]                                   |
 | [[Prosentvis framgang for to partier\|Prosentvis framgang for to partier]]           |
 | [[Monas prisøkning\|Monas prisøkning]]                                               |
 | [[Elever i klassen basert på prosentandel\|Elever i klassen basert på prosentandel]] |
+| [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]]                                   |
 
 { .block-language-dataview}
