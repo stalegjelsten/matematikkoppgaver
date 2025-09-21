@@ -8,7 +8,7 @@
 | ------------------------------------------------------------------------------------------------------------------------------- |
 | [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] |
 | [[Marcos logistiske løpetrening\|Marcos logistiske løpetrening]]                                                             |
-| [[Logistisk salg av brannvarslingssystemer\|Logistisk salg av brannvarslingssystemer]]                                       |
 | [[Logistisk vekst for et produkt\|Logistisk vekst for et produkt]]                                                           |
+| [[Logistisk salg av brannvarslingssystemer\|Logistisk salg av brannvarslingssystemer]]                                       |
 
 { .block-language-dataview}

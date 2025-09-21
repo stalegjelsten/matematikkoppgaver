@@ -6,10 +6,10 @@
 # cas
 | file.link                                                                                     |
 | --------------------------------------------------------------------------------------------- |
-| [[Tredjegradsfunksjoner uten førstegradsledd\|Tredjegradsfunksjoner uten førstegradsledd]] |
 | [[Olivias annuitetslån\|Olivias annuitetslån]]                                             |
 | [[Noras sparing og lån\|Noras sparing og lån]]                                             |
-| [[Lydstyrke fra fly\|Lydstyrke fra fly]]                                                   |
 | [[Areal av trekant i sirkel\|Areal av trekant i sirkel]]                                   |
+| [[Lydstyrke fra fly\|Lydstyrke fra fly]]                                                   |
+| [[Tredjegradsfunksjoner uten førstegradsledd\|Tredjegradsfunksjoner uten førstegradsledd]] |
 
 { .block-language-dataview}
