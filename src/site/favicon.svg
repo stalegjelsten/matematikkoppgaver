@@ -2,62 +2,45 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="45.128414mm"
-   height="45.128426mm"
-   viewBox="0 0 45.128414 45.128426"
+   width="45.128418mm"
+   height="45.128418mm"
+   viewBox="0 0 45.128418 45.128418"
    version="1.1"
    id="svg1"
-<<<<<<< HEAD
+   inkscape:export-filename="favicon.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   sodipodi:docname="favicon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.68791667"
+     inkscape:cx="295.09388"
+     inkscape:cy="29.800121"
+     inkscape:window-width="1088"
+     inkscape:window-height="914"
+     inkscape:window-x="428"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2" />
   <defs
      id="defs1" />
-=======
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs1">
-    <linearGradient
-       id="linearGradient3-2">
-      <stop
-         style="stop-color:#00e9ca;stop-opacity:0.92117119;"
-         offset="0"
-         id="stop9" />
-      <stop
-         style="stop-color:#6677e1;stop-opacity:0.95686275;"
-         offset="0.16496596"
-         id="stop12" />
-      <stop
-         style="stop-color:#da00da;stop-opacity:1;"
-         offset="0.48129252"
-         id="stop11" />
-      <stop
-         style="stop-color:#9507ab;stop-opacity:1;"
-         offset="0.66836733"
-         id="stop13" />
-      <stop
-         style="stop-color:#7e14d1;stop-opacity:1;"
-         offset="0.86734694"
-         id="stop10" />
-      <stop
-         style="stop-color:#04dee4;stop-opacity:1;"
-         offset="1"
-         id="stop14" />
-    </linearGradient>
-    <linearGradient
-       xlink:href="#linearGradient3-2"
-       id="linearGradient4"
-       x1="51.451942"
-       y1="109.97118"
-       x2="47.653175"
-       y2="136.37242"
-       gradientUnits="userSpaceOnUse"
-       spreadMethod="pad" />
-  </defs>
->>>>>>> 1e7298f18d8d0056f18879eeda24e9fe8c904619
   <g
+     inkscape:groupmode="layer"
      id="layer2"
+     inkscape:label="Bak"
      transform="translate(-26.779961,-100.5762)">
     <circle
        style="fill:#202020;fill-opacity:1;stroke:none;stroke-width:0.235185;stroke-opacity:1"
@@ -65,7 +48,6 @@
        cx="49.34417"
        cy="123.14041"
        r="22.564209" />
-<<<<<<< HEAD
     <rect
        style="fill:#7035c0;fill-opacity:1;stroke:none;stroke-width:0.211704;stroke-opacity:1"
        id="rect14"
@@ -73,33 +55,33 @@
        height="2.5046923"
        x="39.633545"
        y="134.91689" />
-=======
->>>>>>> 1e7298f18d8d0056f18879eeda24e9fe8c904619
   </g>
   <g
+     inkscape:label="Lag 1"
+     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-26.779961,-100.5762)">
-<<<<<<< HEAD
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Libertinus Math';-inkscape-font-specification:'Libertinus Math';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       x="117.35012"
+       y="89.93187"
+       id="text11"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         style="stroke-width:0.264583"
+         x="117.35012"
+         y="89.93187"></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Libertinus Math';-inkscape-font-specification:'Libertinus Math';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f4f4f4;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        x="39.031792"
        y="129.5031"
        id="text14"><tspan
+         sodipodi:role="line"
          id="tspan14"
          style="fill:#f4f4f4;fill-opacity:1;stroke-width:0.264583"
          x="39.031792"
          y="129.5031">∑</tspan></text>
-=======
-    <g
-       id="g14"
-       transform="matrix(1.2823712,0,0,1.2823712,-13.915766,-34.77262)">
-      <path
-         d="m 44.201812,123.15775 c 0,2.4638 1.778,4.5212 4.1148,4.9784 0,0.8382 0.0254,1.5494 0.0254,2.7686 0,1.9558 -0.381,4.953 -1.0922,4.953 -0.4318,0 -0.7874,-0.7874 -1.4732,-0.7874 -0.4826,0 -0.9906,0.4318 -0.9906,0.9398 0,0.635 0.5588,1.0922 1.3716,1.0922 2.3622,0 3.9624,-2.0828 4.1148,-8.9662 2.3114,-0.4572 4.0894,-2.5146 4.0894,-4.9784 0,-2.4638 -1.778,-4.5212 -4.1148,-4.9784 -0.0254,-1.2446 -0.0762,-2.4892 -0.0762,-3.429 0,-3.3782 0.508,-4.318 1.0414,-4.318 0.6096,0 0.6604,0.8382 1.4732,0.8382 0.6096,0 1.1176,-0.4318 1.1176,-0.9906 0,-0.635 -0.6096,-1.0922 -1.3462,-1.0922 -2.667,0 -4.1402,2.8194 -4.1656,8.9916 -2.3114,0.4572 -4.0894,2.5146 -4.0894,4.9784 z m 1.016,0 c 0,-1.905 1.3208,-3.5052 3.0734,-3.937 v 6.9596 c 0,0.3302 0,0.635 0,0.9144 -1.7526,-0.4318 -3.0734,-2.032 -3.0734,-3.937 z m 5.0546,-3.937 c 1.7526,0.4318 3.0734,2.032 3.0734,3.937 0,1.905 -1.3208,3.5052 -3.0734,3.937 0,-0.0254 0,-0.0254 0,-0.0508 v -7.5946 c 0,-0.0762 0,-0.1524 0,-0.2286 z"
-         id="text1"
-         style="font-size:25.4px;font-family:'Libertinus Math';-inkscape-font-specification:'Libertinus Math';fill:url(#linearGradient4);stroke-width:0.264583"
-         aria-label="∮" />
-    </g>
->>>>>>> 1e7298f18d8d0056f18879eeda24e9fe8c904619
   </g>
 </svg>
