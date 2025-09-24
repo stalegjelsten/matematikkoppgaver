@@ -3,9 +3,10 @@
 ---
 
 
-| file.link                                                   |
-| ----------------------------------------------------------- |
-| [[templates/_2oppgave-template\|_2oppgave-template]]     |
-| [[Burj Khalifa standardform\|Burj Khalifa standardform]] |
+| file.link                                                                     |
+| ----------------------------------------------------------------------------- |
+| [[templates/_2oppgave-template\|_2oppgave-template]]                       |
+| [[Offlineversjon av dette nettstedet\|Offlineversjon av dette nettstedet]] |
+| [[Burj Khalifa standardform\|Burj Khalifa standardform]]                   |
 
 { .block-language-dataview}
