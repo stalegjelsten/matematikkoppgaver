@@ -36,7 +36,7 @@ For å sette opp nettsiden med Windows 11 så må du gjennomføre stegene
 ## Videoinstruksjoner for Windows
 Jeg har (svært raskt) spilt inn en video som viser stegene. Jeg anbefaler egentlig at du prøver å følge de skriftlige instruksjonene, men det kan være at videoen kan være til hjelp.
 
-![](https://youtube.com/awvkLAy0EZY)
+<iframe src="https://www.youtube.com/embed/awvkLAy0EZY" class="youtube" title="" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Oppsett i macOS
 For å sette opp nettsiden med Windows 11 så må du gjennomføre stegene
