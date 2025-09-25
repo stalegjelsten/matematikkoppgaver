@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"temaer":null,"aliases":[],"del":null,"oppgave":null,"fag":null,"eksamen":null,"dg-publish":true,"title":"Offlineversjon av dette nettstedet","date":"2025-09-15","modified":"2025-09-22","permalink":"/offlineversjon-av-dette-nettstedet/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"temaer":null,"aliases":[],"del":null,"oppgave":null,"fag":null,"eksamen":null,"dg-publish":true,"title":"Offlineversjon av dette nettstedet","date":"2025-09-15","modified":"2025-09-25","permalink":"/offlineversjon-av-dette-nettstedet/","dgPassFrontmatter":true}
 ---
 
 
@@ -9,9 +9,9 @@ Det er mulig å bruke denne nettsiden uten internettilkobling hvis du følger in
 
 ## Oppsett i Windows
 For å sette opp nettsiden med Windows 11 så må du gjennomføre stegene
-1. [[#Installere NodeJS i Windows]]
-2. [[#Last ned siste versjon av nettsiden]]
-3. [[#Bygg nettsiden i Windows]]
+1. [[Offlineversjon av dette nettstedet#Installere NodeJS i Windows\|Offlineversjon av dette nettstedet#Installere NodeJS i Windows]]
+2. [[Offlineversjon av dette nettstedet#Last ned siste versjon av nettsiden\|Offlineversjon av dette nettstedet#Last ned siste versjon av nettsiden]]
+3. [[Offlineversjon av dette nettstedet#Bygg nettsiden i Windows\|Offlineversjon av dette nettstedet#Bygg nettsiden i Windows]]
 
 ### Installere NodeJS i Windows
 - Åpne Terminal (trykk gjerne <kbd>⊞ Win</kbd>-knappen og søk etter det)
@@ -40,9 +40,9 @@ Jeg har (svært raskt) spilt inn en video som viser stegene. Jeg anbefaler egent
 
 ## Oppsett i macOS
 For å sette opp nettsiden med Windows 11 så må du gjennomføre stegene
-1. [[#Installere NodeJS på macOS]]
-2. [[#Last ned siste versjon av nettsiden (macOS)]]
-3. [[#Bygg nettsiden i macOS]]
+1. [[Offlineversjon av dette nettstedet#Installere NodeJS på macOS\|Offlineversjon av dette nettstedet#Installere NodeJS på macOS]]
+2. [[Offlineversjon av dette nettstedet#Last ned siste versjon av nettsiden (macOS)\|Offlineversjon av dette nettstedet#Last ned siste versjon av nettsiden (macOS)]]
+3. [[Offlineversjon av dette nettstedet#Bygg nettsiden i macOS\|Offlineversjon av dette nettstedet#Bygg nettsiden i macOS]]
 
 ### Installere NodeJS på macOS
 - Åpne Terminal (bruk gjerne <kbd>⌘ Cmd</kbd> <kbd>Space</kbd> Spotlight til å søke etter programmet og starte det)
@@ -79,6 +79,5 @@ npm -v # Should print "10.9.3".
 	2. `npm run start`
 6. Vent til nettsiden har bygd ferdig og du får opp melding `[11ty] Server at …`
 7. Klikk på lenken etter `Server at` (sannsynligvis [http://localhost:8080/](http://localhost:8080/))
-
 
 [^1]: Det kan være at dette valget er gjemt bak «Vis flere alternativer»
