@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":null,"fag":["2p-y"],"eksamen":"h24","del":2,"oppgave":4,"title":"Modeller for parkeringsavtaler","source":null,"todo":null,"permalink":"/modeller-for-parkeringsavtaler/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["modellering","regresjon"],"fag":["2p-y"],"eksamen":"h24","del":2,"oppgave":4,"title":"Modeller for parkeringsavtaler","source":null,"todo":null,"permalink":"/modeller-for-parkeringsavtaler/","dgPassFrontmatter":true}
 ---
 
 
@@ -10,10 +10,10 @@
 Hermann må betale for å parkere på jobb. Han kan velge mellom tre ulike parkeringsavtaler.  
 
 | Avtale | Fast pris per år | Tillegg per dag han parkerer |
-|--------|-----------------|-----------------------------|
-| A      | 0 kroner        | 50 kroner                   |
-| B      | 1995 kroner     | 30 kroner                   |
-| C      | 3490 kroner     | 24 kroner                   |
+| :----: | :--------------: | :--------------------------: |
+|   A    |     0 kroner     |          50 kroner           |
+|   B    |   1995 kroner    |          30 kroner           |
+|   C    |   3490 kroner    |          24 kroner           |
 
 >a) Sett opp en modell som beskriver alternativ A, en modell som beskriver alternativ B og en modell som beskriver alternativ C.  
 
@@ -24,14 +24,4 @@ Hermann må betale for å parkere på jobb. Han kan velge mellom tre ulike parke
 >
 
 ## Relatert
-<pre class="dataview dataview-error">Evaluation Error: TypeError: Cannot read properties of null (reading 'forEach')
-    at eval (eval at &lt;anonymous&gt; (plugin:dataview), &lt;anonymous&gt;:60:10)
-    at DataviewInlineApi.eval (plugin:dataview:19027:16)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1182416)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10763:23)
-    at Generator.next (&lt;anonymous&gt;)</pre>
+<h3><span>Tilfeldige oppgaver i samme fag</span></h3><p><span>Det er ofte best å blande hvilke type oppgaver man gjør dersom du skal forberede deg til en prøve eller eksamen. Her er tre tilfeldige oppgaver i 2P-Y.</span></p><div><ul class="dataview list-view-ul"><li><span><a data-tooltip-position="top" aria-label="Statistikk for quizlag.md" data-href="Statistikk for quizlag.md" href="Statistikk for quizlag.md" class="internal-link" target="_blank" rel="noopener nofollow">Statistikk for quizlag 2P-Y H24 Del 2 oppg 5</a></span></li><li><span><a data-tooltip-position="top" aria-label="Modell for Hannes løping.md" data-href="Modell for Hannes løping.md" href="Modell for Hannes løping.md" class="internal-link" target="_blank" rel="noopener nofollow">Modell for Hannes løping 2P-Y H24 Del 2 oppg 6</a></span></li><li><span><a data-tooltip-position="top" aria-label="Median og gjennomsnitt fra klassedelt alder.md" data-href="Median og gjennomsnitt fra klassedelt alder.md" href="Median og gjennomsnitt fra klassedelt alder.md" class="internal-link" target="_blank" rel="noopener nofollow">Median og gjennomsnitt fra klassedelt alder 2P-Y V25 Del 1 oppg 7</a></span></li></ul></div><h3><span>Lignende oppgaver sortert etter tema</span></h3><h4><span>Modellering</span></h4><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Oppgave</span><span class="dataview small-text">2</span></th><th class="table-view-th"><span>Fag</span></th><th class="table-view-th"><span>År</span></th><th class="table-view-th"><span>Oppg</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Modell for Hannes løping.md" data-href="Modell for Hannes løping.md" href="Modell for Hannes løping.md" class="internal-link" target="_blank" rel="noopener nofollow">Modell for Hannes løping</a></span></td><td><span>2P-Y</span></td><td><span>H24</span></td><td><span>2-6</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Modell for etterspørsel av vare.md" data-href="Modell for etterspørsel av vare.md" href="Modell for etterspørsel av vare.md" class="internal-link" target="_blank" rel="noopener nofollow">Modell for etterspørsel av vare</a></span></td><td><span>S2</span></td><td><span>H23</span></td><td><span>2-1</span></td></tr></tbody></table></div><h4><span>Regresjon</span></h4><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Oppgave</span><span class="dataview small-text">6</span></th><th class="table-view-th"><span>Fag</span></th><th class="table-view-th"><span>År</span></th><th class="table-view-th"><span>Oppg</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Modell for Hannes løping.md" data-href="Modell for Hannes løping.md" href="Modell for Hannes løping.md" class="internal-link" target="_blank" rel="noopener nofollow">Modell for Hannes løping</a></span></td><td><span>2P-Y</span></td><td><span>H24</span></td><td><span>2-6</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Timelønn og lønnsvekst.md" data-href="Timelønn og lønnsvekst.md" href="Timelønn og lønnsvekst.md" class="internal-link" target="_blank" rel="noopener nofollow">Timelønn og lønnsvekst</a></span></td><td><span>S1</span></td><td><span>V23</span></td><td><span>2-1</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Regresjon på størrelsen av det norske musikkstrømmemarkedet.md" data-href="Regresjon på størrelsen av det norske musikkstrømmemarkedet.md" href="Regresjon på størrelsen av det norske musikkstrømmemarkedet.md" class="internal-link" target="_blank" rel="noopener nofollow">Regresjon på størrelsen av det norske musikkstrømmemarkedet</a></span></td><td><span>S2, R2</span></td><td><span>V23</span></td><td><span>2-2</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Modell for etterspørsel av vare.md" data-href="Modell for etterspørsel av vare.md" href="Modell for etterspørsel av vare.md" class="internal-link" target="_blank" rel="noopener nofollow">Modell for etterspørsel av vare</a></span></td><td><span>S2</span></td><td><span>H23</span></td><td><span>2-1</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Marcos logistiske løpetrening.md" data-href="Marcos logistiske løpetrening.md" href="Marcos logistiske løpetrening.md" class="internal-link" target="_blank" rel="noopener nofollow">Marcos logistiske løpetrening</a></span></td><td><span>S2</span></td><td><span>H24</span></td><td><span>2-1</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Grenseinntekt og grensekostnad på del 2.md" data-href="Grenseinntekt og grensekostnad på del 2.md" href="Grenseinntekt og grensekostnad på del 2.md" class="internal-link" target="_blank" rel="noopener nofollow">Grenseinntekt og grensekostnad på del 2</a></span></td><td><span>S2</span></td><td><span>V25</span></td><td><span>2-1</span></td></tr></tbody></table></div>

@@ -6,11 +6,14 @@
 # rekker
 | file.link                                                                                         |
 | ------------------------------------------------------------------------------------------------- |
+| [[Ukjente programmer S2 v25\|Ukjente programmer S2 v25]]                                       |
+| [[Ukjent program del 1 S2\|Ukjent program del 1 S2]]                                           |
 | [[Ukjent program S2 v24\|Ukjent program S2 v24]]                                               |
 | [[Uendelig rekke med virkestoff fra legemiddel\|Uendelig rekke med virkestoff fra legemiddel]] |
 | [[Uendelig logaritmisk rekke\|Uendelig logaritmisk rekke]]                                     |
 | [[Uendelig geometrisk rekke\|Uendelig geometrisk rekke]]                                       |
 | [[Summen av ukjent uendelig geometrisk rekke\|Summen av ukjent uendelig geometrisk rekke]]     |
+| [[Summen av repeterende brøker\|Summen av repeterende brøker]]                                 |
 | [[Sum av integralrekke\|Sum av integralrekke]]                                                 |
 | [[Rekursiv sammenheng mellom pentagontall\|Rekursiv sammenheng mellom pentagontall]]           |
 | [[Påstand om sum av rekke\|Påstand om sum av rekke]]                                           |
@@ -23,8 +26,5 @@
 | [[Aritmetisk rekke\|Aritmetisk rekke]]                                                         |
 | [[Aritmetisk mur\|Aritmetisk mur]]                                                             |
 | [[Annuitetslån\|Annuitetslån]]                                                                 |
-| [[Ukjente programmer S2 v25\|Ukjente programmer S2 v25]]                                       |
-| [[Summen av repeterende brøker\|Summen av repeterende brøker]]                                 |
-| [[Ukjent program del 1 S2\|Ukjent program del 1 S2]]                                           |
 
 { .block-language-dataview}

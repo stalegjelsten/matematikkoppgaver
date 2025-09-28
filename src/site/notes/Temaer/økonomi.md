@@ -11,9 +11,9 @@
 | [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]]                                                                                             |
 | [[Logistisk vekst for et produkt\|Logistisk vekst for et produkt]]                                                                             |
 | [[Grensekostnader fra graf v23\|Grensekostnader fra graf v23]]                                                                                 |
+| [[Grensekostnad og enhetskostnad del 1\|Grensekostnad og enhetskostnad del 1]]                                                                 |
 | [[Etterspørsel av vare\|Etterspørsel av vare]]                                                                                                 |
 | [[Enhetskostnader fra graf\|Enhetskostnader fra graf]]                                                                                         |
 | [[Argumenter for hvorfor sette grensekostnad lik grenseinntekt\|Argumenter for hvorfor sette grensekostnad lik grenseinntekt]]                 |
-| [[Grensekostnad og enhetskostnad del 1\|Grensekostnad og enhetskostnad del 1]]                                                                 |
 
 { .block-language-dataview}

@@ -7,9 +7,9 @@
 | file.link                                                                     |
 | ----------------------------------------------------------------------------- |
 | [[Sorter tallene i riktig rekkefølge\|Sorter tallene i riktig rekkefølge]] |
-| [[Deriver x ln(x)\|Deriver x ln(x)]]                                       |
-| [[Deriver logaritmefunksjon\|Deriver logaritmefunksjon]]                   |
 | [[Lydstyrke fra fly\|Lydstyrke fra fly]]                                   |
 | [[Logaritmepåstand\|Logaritmepåstand]]                                     |
+| [[Deriver x ln(x)\|Deriver x ln(x)]]                                       |
+| [[Deriver logaritmefunksjon\|Deriver logaritmefunksjon]]                   |
 
 { .block-language-dataview}

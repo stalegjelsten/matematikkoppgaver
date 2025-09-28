@@ -8,8 +8,8 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Vis at enhetskostnad er like grensekostnad ved laveste enhetskostnad\|Vis at enhetskostnad er like grensekostnad ved laveste enhetskostnad]] |
 | [[Grensekostnader og enhetskostnader fra graf\|Grensekostnader og enhetskostnader fra graf]]                                                   |
+| [[Grensekostnad og enhetskostnad del 1\|Grensekostnad og enhetskostnad del 1]]                                                                 |
 | [[Enhetskostnader og grensekostnader fra graf v25\|Enhetskostnader og grensekostnader fra graf v25]]                                           |
 | [[Enhetskostnader fra graf\|Enhetskostnader fra graf]]                                                                                         |
-| [[Grensekostnad og enhetskostnad del 1\|Grensekostnad og enhetskostnad del 1]]                                                                 |
 
 { .block-language-dataview}

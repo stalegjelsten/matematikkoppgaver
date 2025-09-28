@@ -7,17 +7,20 @@
 | file.link                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------- |
 | [[Vis at rekke blir ln 2\|Vis at rekke blir ln 2]]                                                             |
+| [[Ukjent programkode\|Ukjent programkode]]                                                                     |
+| [[Tredjegradsfunksjoner uten førstegradsledd\|Tredjegradsfunksjoner uten førstegradsledd]]                     |
+| [[Tores sykkeltrening\|Tores sykkeltrening]]                                                                   |
 | [[Sveins kurv med baller\|Sveins kurv med baller]]                                                             |
 | [[Sum av integralrekke\|Sum av integralrekke]]                                                                 |
+| [[Statistikk for quizlag\|Statistikk for quizlag]]                                                             |
 | [[Rart integral\|Rart integral]]                                                                               |
+| [[Lag funksjonsuttrykk til grafen av rasjonal funksjon\|Lag funksjonsuttrykk til grafen av rasjonal funksjon]] |
 | [[Hildes terningkast\|Hildes terningkast]]                                                                     |
 | [[Bredden av teltplassen\|Bredden av teltplassen]]                                                             |
 | [[Billetter til fotballkamp\|Billetter til fotballkamp]]                                                       |
+| [[Argumenter for at prosentregnestykker gir samme svar\|Argumenter for at prosentregnestykker gir samme svar]] |
 | [[Areal under graf med programmering\|Areal under graf med programmering]]                                     |
 | [[Areal av sirkel og kvadrat som skjærer hverandre\|Areal av sirkel og kvadrat som skjærer hverandre]]         |
-| [[Ukjent programkode\|Ukjent programkode]]                                                                     |
 | [[Areal av område begrenset av sirkler\|Areal av område begrenset av sirkler]]                                 |
-| [[Lag funksjonsuttrykk til grafen av rasjonal funksjon\|Lag funksjonsuttrykk til grafen av rasjonal funksjon]] |
-| [[Tredjegradsfunksjoner uten førstegradsledd\|Tredjegradsfunksjoner uten førstegradsledd]]                     |
 
 { .block-language-dataview}
