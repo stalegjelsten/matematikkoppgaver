@@ -1,0 +1,33 @@
+---
+{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["modellering","regresjon"],"fag":["2p-y"],"eksamen":"h24","del":2,"oppgave":6,"title":"Modell for Hannes løping","source":null,"todo":["fasit","løsningsforslag"],"permalink":"/modell-for-hannes-loping/","dgPassFrontmatter":true}
+---
+
+
+# Modell for Hannes løping
+
+<p><span><em>Oppgaven er hentet fra eksamen 2P-Y H24 del 2 oppgave 6.</em></span></p>
+
+For ni uker siden begynte Hanne å løpe. Tabellen nedenfor viser hvor lenge hun klarte å løpe sammenhengende noen av dagene disse ukene:  
+
+| Dag                                 | 1   | 8   | 22  | 36  | 50  | 64  |
+| ----------------------------------- | --- | --- | --- | --- | --- | --- |
+| Antall minutter løpt sammenhengende | 10  | 20  | 28  | 33  | 37  | 40  |
+
+Utviklingen kan beskrives med en modell gitt på formen  
+
+$$L(x) = a \cdot x^b \quad , \quad x \geq 1$$
+
+der $L(x)$ er antall minutter Hanne klarte å løpe sammenhengende på dag $x$.  
+
+>a) Bruk opplysningene i tabellen til å bestemme tallene $a$ og $b$.  
+
+>b) Hvor mange uker vil det ta før Hanne klarer å løpe 45 minutter sammenhengende ifølge modellen?  
+
+>c) Hvor mange minutter har tiden Hanne klarer å løpe sammenhengende, økt med i gjennomsnitt per dag fra dag 1 til dag 60 ifølge modellen?  
+
+>[!question]- Fasit
+> 
+>
+
+## Relatert
+<h3><span>Tilfeldige oppgaver i samme fag</span></h3><p><span>Det er ofte best å blande hvilke type oppgaver man gjør dersom du skal forberede deg til en prøve eller eksamen. Her er tre tilfeldige oppgaver i 2P-Y.</span></p><div><ul class="dataview list-view-ul"><li><span><a data-tooltip-position="top" aria-label="Prosentvis framgang for to partier.md" data-href="Prosentvis framgang for to partier.md" href="Prosentvis framgang for to partier.md" class="internal-link" target="_blank" rel="noopener nofollow">Prosentvis framgang for to partier 2P-Y V25 Del 1 oppg 4</a></span></li><li><span><a data-tooltip-position="top" aria-label="Omvendt proporsjonal klassefest.md" data-href="Omvendt proporsjonal klassefest.md" href="Omvendt proporsjonal klassefest.md" class="internal-link" target="_blank" rel="noopener nofollow">Omvendt proporsjonal klassefest 2P-Y V25 Del 1 oppg 3</a></span></li><li><span><a data-tooltip-position="top" aria-label="Sjøtemperatur på Sørlandet.md" data-href="Sjøtemperatur på Sørlandet.md" href="Sjøtemperatur på Sørlandet.md" class="internal-link" target="_blank" rel="noopener nofollow">Sjøtemperatur på Sørlandet 2P-Y H23 Del 2 oppg 1</a></span></li></ul></div><h3><span>Lignende oppgaver sortert etter tema</span></h3><h4><span>Modellering</span></h4><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Oppgave</span><span class="dataview small-text">1</span></th><th class="table-view-th"><span>Fag</span></th><th class="table-view-th"><span>År</span></th><th class="table-view-th"><span>Oppg</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Modell for etterspørsel av vare.md" data-href="Modell for etterspørsel av vare.md" href="Modell for etterspørsel av vare.md" class="internal-link" target="_blank" rel="noopener nofollow">Modell for etterspørsel av vare</a></span></td><td><span>S2</span></td><td><span>H23</span></td><td><span>2-1</span></td></tr></tbody></table></div><h4><span>Regresjon</span></h4><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Oppgave</span><span class="dataview small-text">5</span></th><th class="table-view-th"><span>Fag</span></th><th class="table-view-th"><span>År</span></th><th class="table-view-th"><span>Oppg</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Timelønn og lønnsvekst.md" data-href="Timelønn og lønnsvekst.md" href="Timelønn og lønnsvekst.md" class="internal-link" target="_blank" rel="noopener nofollow">Timelønn og lønnsvekst</a></span></td><td><span>S1</span></td><td><span>V23</span></td><td><span>2-1</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Regresjon på størrelsen av det norske musikkstrømmemarkedet.md" data-href="Regresjon på størrelsen av det norske musikkstrømmemarkedet.md" href="Regresjon på størrelsen av det norske musikkstrømmemarkedet.md" class="internal-link" target="_blank" rel="noopener nofollow">Regresjon på størrelsen av det norske musikkstrømmemarkedet</a></span></td><td><span>S2, R2</span></td><td><span>V23</span></td><td><span>2-2</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Marcos logistiske løpetrening.md" data-href="Marcos logistiske løpetrening.md" href="Marcos logistiske løpetrening.md" class="internal-link" target="_blank" rel="noopener nofollow">Marcos logistiske løpetrening</a></span></td><td><span>S2</span></td><td><span>H24</span></td><td><span>2-1</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Modell for etterspørsel av vare.md" data-href="Modell for etterspørsel av vare.md" href="Modell for etterspørsel av vare.md" class="internal-link" target="_blank" rel="noopener nofollow">Modell for etterspørsel av vare</a></span></td><td><span>S2</span></td><td><span>H23</span></td><td><span>2-1</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Grenseinntekt og grensekostnad på del 2.md" data-href="Grenseinntekt og grensekostnad på del 2.md" href="Grenseinntekt og grensekostnad på del 2.md" class="internal-link" target="_blank" rel="noopener nofollow">Grenseinntekt og grensekostnad på del 2</a></span></td><td><span>S2</span></td><td><span>V25</span></td><td><span>2-1</span></td></tr></tbody></table></div>
