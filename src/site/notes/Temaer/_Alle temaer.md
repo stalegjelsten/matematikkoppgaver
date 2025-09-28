@@ -7,7 +7,7 @@
 
 | Tema                                                                                           | Antall |
 | ---------------------------------------------------------------------------------------------- | ------ |
-| \-                                                                                             | 3      |
+| \-                                                                                             | 4      |
 | [[Temaer/algebra\|algebra]]                                                                 | 1      |
 | [[Temaer/andregradslikninger\|andregradslikninger]]                                         | 1      |
 | [[areal under graf\|areal under graf]]                                                         | 3      |
@@ -19,7 +19,7 @@
 | [[Temaer/cosinussetningen\|cosinussetningen]]                                               | 2      |
 | [[Temaer/derivasjon\|derivasjon]]                                                           | 8      |
 | [[Temaer/diskrete sannsynlighetsfordelinger\|diskrete sannsynlighetsfordelinger]]           | 6      |
-| [[Temaer/eksponentialfunksjoner\|eksponentialfunksjoner]]                                   | 4      |
+| [[Temaer/eksponentialfunksjoner\|eksponentialfunksjoner]]                                   | 5      |
 | [[Temaer/enhetskostnad\|enhetskostnad]]                                                     | 5      |
 | [[etterspørsel\|etterspørsel]]                                                                 | 2      |
 | [[Temaer/excel\|excel]]                                                                     | 6      |
@@ -47,13 +47,13 @@
 | [[Temaer/logaritmer\|logaritmer]]                                                           | 5      |
 | [[Temaer/logistisk funksjon\|logistisk funksjon]]                                           | 4      |
 | [[Temaer/lån\|lån]]                                                                         | 5      |
-| [[modellering\|modellering]]                                                                   | 3      |
+| [[modellering\|modellering]]                                                                   | 4      |
 | [[Temaer/normalfordeling\|normalfordeling]]                                                 | 16     |
 | [[nåverdi\|nåverdi]]                                                                           | 1      |
 | [[omvendt proporsjonal\|omvendt proporsjonal]]                                                 | 2      |
 | [[Temaer/polynomdivisjon\|polynomdivisjon]]                                                 | 1      |
 | [[potensregning\|potensregning]]                                                               | 1      |
-| [[presenter statistikk\|presenter statistikk]]                                                 | 1      |
+| [[presenter statistikk\|presenter statistikk]]                                                 | 2      |
 | [[Temaer/programmering\|programmering]]                                                     | 21     |
 | [[proporsjonale størrelser\|proporsjonale størrelser]]                                         | 2      |
 | [[Temaer/prosent\|prosent]]                                                                 | 6      |

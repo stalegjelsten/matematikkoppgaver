@@ -19,7 +19,6 @@
 | [[Simuler sannsynlighet for høyde over 175 cm\|Simuler sannsynlighet for høyde over 175 cm]]                                                       |
 | [[Rekursiv sammenheng mellom pentagontall\|Rekursiv sammenheng mellom pentagontall]]                                                               |
 | [[Rekursiv formel og programmering\|Rekursiv formel og programmering]]                                                                             |
-| [[Program for reduksjon av matsvinn\|Program for reduksjon av matsvinn]]                                                                           |
 | [[Normalfordelt hoppkonkurranse\|Normalfordelt hoppkonkurranse]]                                                                                   |
 | [[Monas lån\|Monas lån]]                                                                                                                           |
 | [[Miriam og Hermods sparing\|Miriam og Hermods sparing]]                                                                                           |
@@ -27,5 +26,6 @@
 | [[Billetter til fotballkamp\|Billetter til fotballkamp]]                                                                                           |
 | [[Areal under graf med programmering\|Areal under graf med programmering]]                                                                         |
 | [[Utslippsreduksjon med prosentvis nedgang\|Utslippsreduksjon med prosentvis nedgang]]                                                             |
+| [[Program for reduksjon av matsvinn\|Program for reduksjon av matsvinn]]                                                                           |
 
 { .block-language-dataview}
