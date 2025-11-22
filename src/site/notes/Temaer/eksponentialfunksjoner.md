@@ -8,8 +8,8 @@
 | --------------------------------------------------------------------------- |
 | [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]]                       |
 | [[Salg av iste\|Salg av iste]]                                           |
-| [[Modell for reduksjon av utslipp\|Modell for reduksjon av utslipp]]     |
 | [[Program for reduksjon av matsvinn\|Program for reduksjon av matsvinn]] |
+| [[Modell for reduksjon av utslipp\|Modell for reduksjon av utslipp]]     |
 | [[Halvert fuglebestand\|Halvert fuglebestand]]                           |
 
 { .block-language-dataview}

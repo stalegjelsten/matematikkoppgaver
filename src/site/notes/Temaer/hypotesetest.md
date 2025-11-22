@@ -4,13 +4,14 @@
 
 
 # hypotesetest
-| file.link                                                           |
-| ------------------------------------------------------------------- |
-| [[Normalfordelte vinterdekk\|Normalfordelte vinterdekk]]         |
-| [[Hypotesetest om russetid\|Hypotesetest om russetid]]           |
-| [[Hypotesetest om legemiddel\|Hypotesetest om legemiddel]]       |
-| [[Hypotesetest med smak av cola\|Hypotesetest med smak av cola]] |
-| [[Hypotesetest bensin\|Hypotesetest bensin]]                     |
-| [[Hypergeometrisk hypotesetest\|Hypergeometrisk hypotesetest]]   |
+| file.link                                                                                         |
+| ------------------------------------------------------------------------------------------------- |
+| [[Normalfordelte vinterdekk\|Normalfordelte vinterdekk]]                                       |
+| [[Hypotesetest om russetid\|Hypotesetest om russetid]]                                         |
+| [[Hypotesetest om legemiddel\|Hypotesetest om legemiddel]]                                     |
+| [[Hypotesetest med smak av cola\|Hypotesetest med smak av cola]]                               |
+| [[Hypotesetest bensin\|Hypotesetest bensin]]                                                   |
+| [[Hypergeometrisk hypotesetest\|Hypergeometrisk hypotesetest]]                                 |
+| [[Hypotesetester om komponenter som er defekte\|Hypotesetester om komponenter som er defekte]] |
 
 { .block-language-dataview}

@@ -8,10 +8,11 @@
 | ------------------------------------------------------------------------------------------------------------------------------- |
 | [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]]                                                                           |
 | [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] |
+| [[Modeller for parkeringsavtaler\|Modeller for parkeringsavtaler]]                                                           |
 | [[Modell for etterspørsel av vare\|Modell for etterspørsel av vare]]                                                         |
+| [[Modell for Hannes løping\|Modell for Hannes løping]]                                                                       |
 | [[Marcos logistiske løpetrening\|Marcos logistiske løpetrening]]                                                             |
 | [[Grenseinntekt og grensekostnad på del 2\|Grenseinntekt og grensekostnad på del 2]]                                         |
-| [[Modeller for parkeringsavtaler\|Modeller for parkeringsavtaler]]                                                           |
-| [[Modell for Hannes løping\|Modell for Hannes løping]]                                                                       |
+| [[Logistisk plantesalg\|Logistisk plantesalg]]                                                                               |
 
 { .block-language-dataview}

@@ -4,12 +4,13 @@
 
 
 # lån
-| file.link                                         |
-| ------------------------------------------------- |
-| [[Olivias annuitetslån\|Olivias annuitetslån]] |
-| [[Oles studielån\|Oles studielån]]             |
-| [[Noras sparing og lån\|Noras sparing og lån]] |
-| [[Monas lån\|Monas lån]]                       |
-| [[Annuitetslån\|Annuitetslån]]                 |
+| file.link                                                                 |
+| ------------------------------------------------------------------------- |
+| [[Olivias annuitetslån\|Olivias annuitetslån]]                         |
+| [[Oles studielån\|Oles studielån]]                                     |
+| [[Noras sparing og lån\|Noras sparing og lån]]                         |
+| [[Monas lån\|Monas lån]]                                               |
+| [[Annuitetslån\|Annuitetslån]]                                         |
+| [[Mathias sine lån for å kjøpe bil\|Mathias sine lån for å kjøpe bil]] |
 
 { .block-language-dataview}

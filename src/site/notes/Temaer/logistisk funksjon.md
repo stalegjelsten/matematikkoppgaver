@@ -10,5 +10,6 @@
 | [[Marcos logistiske løpetrening\|Marcos logistiske løpetrening]]                                                             |
 | [[Logistisk vekst for et produkt\|Logistisk vekst for et produkt]]                                                           |
 | [[Logistisk salg av brannvarslingssystemer\|Logistisk salg av brannvarslingssystemer]]                                       |
+| [[Logistisk plantesalg\|Logistisk plantesalg]]                                                                               |
 
 { .block-language-dataview}

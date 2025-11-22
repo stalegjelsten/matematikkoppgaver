@@ -12,5 +12,6 @@
 | [[Sum av integralrekke\|Sum av integralrekke]]                                                 |
 | [[Påstand om sum av rekke\|Påstand om sum av rekke]]                                           |
 | [[Aritmetiske og geometriske rekker h24\|Aritmetiske og geometriske rekker h24]]               |
+| [[S2 H2025 ulike rekker del 1\|S2 H2025 ulike rekker del 1]]                                   |
 
 { .block-language-dataview}

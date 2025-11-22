@@ -3,11 +3,10 @@
 ---
 
 
-| file.link                                                                     |
-| ----------------------------------------------------------------------------- |
-| [[templates/_2oppgave-template\|_2oppgave-template]]                       |
-| [[Offlineversjon av dette nettstedet\|Offlineversjon av dette nettstedet]] |
-| [[Burj Khalifa standardform\|Burj Khalifa standardform]]                   |
-| [[Untitled\|Untitled]]                                                     |
+| file.link                                                                         |
+| --------------------------------------------------------------------------------- |
+| [[templates/_2oppgave-template\|_2oppgave-template]]                           |
+| [[Offlineversjon av dette nettstedet\|Offlineversjon av dette nettstedet]]     |
+| [[Areal av kvadrat som tangerer sirkel\|Areal av kvadrat som tangerer sirkel]] |
 
 { .block-language-dataview}

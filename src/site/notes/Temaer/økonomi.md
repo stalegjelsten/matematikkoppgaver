@@ -15,5 +15,6 @@
 | [[Etterspørsel av vare\|Etterspørsel av vare]]                                                                                                 |
 | [[Enhetskostnader fra graf\|Enhetskostnader fra graf]]                                                                                         |
 | [[Argumenter for hvorfor sette grensekostnad lik grenseinntekt\|Argumenter for hvorfor sette grensekostnad lik grenseinntekt]]                 |
+| [[Grensekostnader, enhetskostnader og overskudd\|Grensekostnader, enhetskostnader og overskudd]]                                               |
 
 { .block-language-dataview}

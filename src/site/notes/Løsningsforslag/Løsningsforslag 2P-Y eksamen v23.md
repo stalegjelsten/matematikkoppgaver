@@ -56,7 +56,7 @@ $$
 $$
 Hvis de spiser like mye ris hvert år så blir mengden i løpet av 10 år
 $$
-2{,}6026 \cdot 10^{11} \text{ kg} \cdot 10=2{,}6026 \cdot 10^{10}\cdot 10^{1} \text{ kg}\approx  \underline{\underline{ 2{,}6 \cdot 10^{11} \text{ kg}}}
+2{,}6026 \cdot 10^{11} \text{ kg} \cdot 10=2{,}6026 \cdot 10^{11}\cdot 10^{1} \text{ kg}\approx  \underline{\underline{ 2{,}6 \cdot 10^{12} \text{ kg}}}
 $$
 
-**De spiser omtrent $\underline{\underline{2{,}6\cdot 10^{11} \text{ kg}}}$ i løpet av 10 år.**
+**De spiser omtrent $\underline{\underline{2{,}6\cdot 10^{12} \text{ kg}}}$ i løpet av 10 år.**

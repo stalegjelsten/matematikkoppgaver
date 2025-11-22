@@ -26,5 +26,7 @@
 | [[Aritmetisk rekke\|Aritmetisk rekke]]                                                         |
 | [[Aritmetisk mur\|Aritmetisk mur]]                                                             |
 | [[Annuitetslån\|Annuitetslån]]                                                                 |
+| [[S2 H2025 ulike rekker del 1\|S2 H2025 ulike rekker del 1]]                                   |
+| [[Mathias sine lån for å kjøpe bil\|Mathias sine lån for å kjøpe bil]]                         |
 
 { .block-language-dataview}

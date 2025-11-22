@@ -11,5 +11,6 @@
 | [[Grensekostnad og enhetskostnad del 1\|Grensekostnad og enhetskostnad del 1]]                                                                 |
 | [[Enhetskostnader og grensekostnader fra graf v25\|Enhetskostnader og grensekostnader fra graf v25]]                                           |
 | [[Enhetskostnader fra graf\|Enhetskostnader fra graf]]                                                                                         |
+| [[Grensekostnader, enhetskostnader og overskudd\|Grensekostnader, enhetskostnader og overskudd]]                                               |
 
 { .block-language-dataview}
