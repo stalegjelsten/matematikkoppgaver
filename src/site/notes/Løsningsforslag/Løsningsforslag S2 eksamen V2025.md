@@ -13,13 +13,13 @@ $$
 $$
 
 ### 1-1b
-Vi ser at den deriverte av uttrykket i nevneren er det samme som telleren, og det er derfor lurt å forsøke variabelskiftet $u=x^{2}-x-6$.
+Vi ser at den deriverte av uttrykket i nevneren er det samme som telleren, og det er derfor lurt å forsøke variabelskiftet $\textcolor{darkorchid}{u=x^{2}-x-6}$.
 $$
-u=x^{2}-x-6 \implies \frac{du}{dx}=2x-1 \iff \frac{du}{2x-1}=dx
+\textcolor{darkorchid}{u=x^{2}-x-6} \implies \frac{du}{dx}=\textcolor{darkolivegreen}{2x-1} \iff \frac{du}{\textcolor{darkolivegreen}{2x-1}}=dx
 $$
 Vi substituerer inn i det opprinnelige uttrykket
 $$
-\int \frac{2x-1}{x^{2}-x-6} \, \mathrm{d}x=\int \frac{\cancel{ 2x-1 }}{u} \, \frac{\mathrm{d}u}{\cancel{ 2x-1 }}  = \int \frac{1}{u} \, \mathrm{d}u=\ln \left| u \right| +C=\underline{\underline{\ln \left| x^{2} -x -6\right| + C}} 
+\int \frac{\textcolor{darkolivegreen}{2x-1}}{\textcolor{darkorchid}{x^{2}-x-6}} \, \mathrm{d}x=\int \frac{\cancel{ \textcolor{darkolivegreen}{2x-1} }}{\textcolor{darkorchid}{u}} \, \frac{\mathrm{d}u}{\cancel{ \textcolor{darkolivegreen}{2x-1} }}  = \int \frac{1}{\textcolor{darkorchid}{u}} \, \mathrm{d}u=\ln \left| \textcolor{darkorchid}{u} \right| +C=\underline{\underline{\ln \left| x^{2} -x -6\right| + C}} 
 $$
 
 >[!tip] Løsning med delbrøkoppspalting
@@ -39,8 +39,8 @@ $$
 \int_{1}^{2} \left(  \frac{1}{x^{2}} +C  \right)\, \mathrm{d}x &=\frac{11}{14} \\
 \int_{1}^{2} \left(  x ^{ -2}+C  \right)\, \mathrm{d}x &=\frac{11}{14} \\
 \left[ -\frac{1}{x}+Cx \right]_{1}^{2} &=\frac{11}{14} \\
-\left(  -\frac{1}{2}+C \cdot 2 \right)-\left( -\frac{1}{1}+C\cdot 1 \right) &=\frac{11}{14} \\
--\frac{1}{2}+2C + \frac{1}{1}-C &=\frac{11}{14} \\
+\textcolor{orange}{\left(  -\frac{1}{2}+C \cdot 2 \right)}-\textcolor{seagreen}{\left( -\frac{1}{1}+C\cdot 1 \right)} &=\frac{11}{14} \\
+\textcolor{orange}{-\frac{1}{2}+2C} + \textcolor{seagreen}{\frac{1}{1}-C} &=\frac{11}{14} \\
 C&=\frac{11}{14}-\frac{1}{2}=\frac{2}{7} \\
 \end{aligned}
 $$
@@ -53,18 +53,24 @@ $$
 
 ### 1-3a
 
-|            $k$            |                   1                   |                  2                   |                  3                   |                   6                   |             Sum             |
+|            $k$            |                   $\textcolor{orange}{1}$                   |                  $\textcolor{seagreen}{2}$                   |                  $\textcolor{steelblue}{3}$                   |                   $\textcolor{tomato}{6}$                   |             Sum             |
 | :-----------: | :-----:| :-----:| :-----: | :-----: | :-----: |
-|         $P(X=k)$          |             $\frac{1}{6}$             |            $\frac{1}{6}$             |            $\frac{1}{6}$             |       $\frac{3}{6}=\frac{1}{2}$       |             $1$             |
-|     $k \cdot P(X=k)$      |             $\frac{1}{6}$             |            $\frac{2}{6}$             |            $\frac{3}{6}$             |            $\frac{18}{6}$             |      $\frac{24}{6}=4$       |
-| $(k-\mu)^{2}\cdot P(X=k)$ | $3^{2} \cdot \frac{1}{6}=\frac{9}{6}$ | $2^{2}\cdot \frac{1}{6}=\frac{4}{6}$ | $1^{2}\cdot \frac{1}{6}=\frac{1}{6}$ | $2^{2}\cdot \frac{3}{6}=\frac{12}{6}$ | $\frac{26}{6}=\frac{13}{3}$ |
+|         $P(X=k)$          |             $\textcolor{orange}{\frac{1}{6}}$             |            $\textcolor{seagreen}{\frac{1}{6}}$             |            $\textcolor{steelblue}{\frac{1}{6}}$             |       $\textcolor{tomato}{\frac{3}{6}=\frac{1}{2}}$       |             $1$             |
+|     $k \cdot P(X=k)$      |             $\textcolor{orange}{\frac{1}{6}}$             |            $\textcolor{seagreen}{\frac{2}{6}}$             |            $\textcolor{steelblue}{\frac{3}{6}}$             |            $\textcolor{tomato}{\frac{18}{6}}$             |      $\frac{24}{6}=4$       |
+| $(k-\mu)^{2}\cdot P(X=k)$ | $\textcolor{orange}{3^{2} \cdot \frac{1}{6}=\frac{9}{6}}$ | $\textcolor{seagreen}{2^{2}\cdot \frac{1}{6}=\frac{4}{6}}$ | $\textcolor{steelblue}{1^{2}\cdot \frac{1}{6}=\frac{1}{6}}$ | $\textcolor{tomato}{2^{2}\cdot \frac{3}{6}=\frac{12}{6}}$ | $\frac{26}{6}=\frac{13}{3}$ |
 
 Vi finner forventningsverdien ved å finne summen av rad 3 siden $E(X)=\sum k \cdot P(X=k)$
+$$
+E(X)=\textcolor{orange}{\frac{1}{6}}+ \textcolor{seagreen}{\frac{2}{6}}+ \textcolor{steelblue}{\frac{3}{6}}+ \textcolor{tomato}{\frac{18}{6}}=\frac{24}{6}=4
+$$
 
 **Forventningsverdien $\mathbf{E}(\textbf{\textit{X}})=\underline{\underline{\mathbf{4}}}$**
 
 ### 1-3b
 Vi finner variansen ved å summere rad 4 i tabellen siden $\text{Var}(X)=\sum (k-\mu)^{2}\cdot P(X=k)$
+$$
+\text{Var}(X)=\textcolor{orange}{\frac{9}{6}}+ \textcolor{seagreen}{\frac{4}{6}}+ \textcolor{steelblue}{\frac{1}{6}}+ \textcolor{tomato}{\frac{12}{6}}=\frac{26}{6}=\frac{13}{3}
+$$
 
 **Variansen er $\mathbf{Var}(\textbf{\textit{X}})=\underline{\underline{\mathbf{\frac{13}{3}}}}$**
 
@@ -167,7 +173,7 @@ Se linje 3 og 4 i CAS.
 $$
 \underline{\underline{I'(35)=85{,}71 \text{ og } K'(35)=68{,}19 }}
 $$
-**Her øker grenseinntekten mer enn grensekostnaden, altså vil vi tjene mer penger (85,71 kr) på å produsere en mer enhet, enn hva vi må betale i produksjonskostnader for å produsere en mer enhet (68,19 kr). Vi tjener altså omtrent 17,5 kr på å produsere og selge 36 enheter framfor 35 enheter.**
+**Her øker grenseinntekten mer enn grensekostnaden, altså vil vi tjene mer penger ($85{,}71 \text{ kr}$) på å produsere en mer enhet, enn hva vi må betale i produksjonskostnader for å produsere en mer enhet ($68{,}19 \text{ kr}$). Vi tjener altså omtrent $85{,}71-68{,}19=17{,}5$ kr på å produsere og selge 36 enheter framfor 35 enheter.**
 
 ### 2-1c
 Se linje 5 i CAS.
@@ -188,7 +194,7 @@ Vi bestemmer sannsynligheten for at hver av dem hopper 90 meter eller lengre ved
 ![Sannsynligheten for at Birger hopper 90 meter eller lengre](/img/user/_resources/s2-v25-2-2a.png)
 
 $$
-P(B>90)=0{,}1587 ,\quad P(M>90)=0{,}0228, \quad P(E>90)=0{,}0668
+\textcolor{orange}{P(B>90)}=0{,}1587 ,\quad \textcolor{seagreen}{P(M>90)}=0{,}0228, \quad \textcolor{steelblue}{P(E>90)}=0{,}0668
 $$
 **Sannsynlighetene for at Birger, Maren og Espen hopper lengre enn 90 meter er i ett tilfeldig hopp er henholdsvis 0,1587, 0,0228 og 0,0668.**
 
@@ -199,8 +205,8 @@ Hvis Maren skal hoppe lengst med et hopp på 83 meter så må både $B<83$ og $E
 
 $$
 \begin{aligned}
-P(\text{Maren vinner med 83 m}) &= P(B<83)\cdot P(E<83)\\
-&= 0{,}7422 \cdot 0{,}7881 = \underline{\underline{0{,}5849}}
+P(\text{Maren vinner med 83 m}) &= \textcolor{orange}{P(B<83)}\cdot \textcolor{steelblue}{P(E<83)}\\
+&= \textcolor{orange}{0{,}7422} \cdot \textcolor{steelblue}{0{,}7881} = \underline{\underline{0{,}5849}}
 \end{aligned}
 $$
 **Sannsynligheten for at Maren vinner med et hopp på 83 meter er 0,5849.**
@@ -258,14 +264,14 @@ $$
 - $\frac{N}{1+a}$ vil være funksjonsverdien når $x=0$
 - Vi har raskest vekst i vendepunktet som vi finner i $\left( \frac{\ln a}{k} , \frac{N}{2}\right)$
 
-Med bakgrunn i opplysningene i oppgaveteksten kan vi bestemme $N=1\,000\,000$ siden dette er antallet husstander de totalt selger til.
+Med bakgrunn i opplysningene i oppgaveteksten kan vi bestemme $\textcolor{orange}{N=1\,000\,000}$ siden dette er antallet husstander de totalt selger til.
 
 Videre vet vi at det er 4000 husstander som har systemet ved $x=0$, derfor må
-$$\frac{N}{1+a}=4000 \iff \frac{1000\cancel{ 000 }}{1+a}=4\cancel{ 000 } \iff \frac{1000}{4} = 1+a \iff a=250-1=249$$
+$$\frac{\textcolor{orange}{N}}{1+a}=4000 \iff \frac{1000\cancel{ 000 }}{1+a}=4\cancel{ 000 } \iff \frac{1000}{4} = 1+a \iff \textcolor{seagreen}{a=250-1=249}$$
 
 Til sist vet vi at vendepunktet (den raskeste veksten) er i uke 65, altså må
 $$
-\frac{\ln a}{k} =65 \iff \frac{\ln 249}{k}=65 \iff 5{,}517=65k \iff k=\frac{5{,}517}{65}=0{,}0849
+\frac{\ln \textcolor{seagreen}{a}}{k} =65 \iff \frac{\ln \textcolor{seagreen}{249}}{k}=65 \iff 5{,}517=65k \iff \textcolor{steelblue}{k=\frac{5{,}517}{65}=0{,}0849}
 $$
 En logistisk modell som passer til dataene vil være
 $$
@@ -287,7 +293,7 @@ Vi kaller det ukjente beløpet $B$. Nora skal sette inn $B$ på konto 30 ganger.
 
 For å ha 3 750 000 kr på konto etter 30 år så kan vi altså sette opp en likning med ei rekke. Likningen er løst i linje 1 i GeoGebra.
 $$
-\underbrace{ B\cdot 1{,}025^{1} }_{ \text{År 2055} }+\underbrace{ B\cdot 1{,}025^{2} }_{ \text{År 2054} }+\dots+ \underbrace{ B\cdot 1{,}025^{30} }_{ \text{År 2026} }=3\,750\,000
+\underbrace{ \textcolor{darkorchid}{B\cdot 1{,}025^{1}} }_{ \text{År 2055} }+\underbrace{ \textcolor{darkolivegreen}{B\cdot 1{,}025^{2}} }_{ \text{År 2054} }+\dots+ \underbrace{ \textcolor{deeppink}{B\cdot 1{,}025^{30}} }_{ \text{År 2026} }=3\,750\,000
 $$
 
 **Nora må sette inn 83 333 kr hvert år for å nå målet.**
@@ -295,7 +301,7 @@ $$
 ### 2-4b
 Vi kaller den ukjente vekstfaktoren til renta $v$. Nora skal betale inn lånet over 33 terminer med første termin 1. januar 2026. Nåverdien (NV) til terminbeløpene vil være:
 $$
-\underbrace{ \frac{150\,000}{v^{0}} }_{ \text{NV til 2026-beløpet} }+\underbrace{ \frac{150\,000}{v^{1}} }_{ \text{NV til 2057-beløpet} }+\dots+\underbrace{ \frac{150\,000}{v^{32}} }_{ \text{NV til 2058-beløpet} }=3\,000\,000
+\underbrace{ \textcolor{orange}{\frac{150\,000}{v^{0}}} }_{ \text{NV til 2026-beløpet} }+\underbrace{ \textcolor{seagreen}{\frac{150\,000}{v^{1}}} }_{ \text{NV til 2027-beløpet} }+\dots+\underbrace{ \textcolor{tomato}{\frac{150\,000}{v^{32}}} }_{ \text{NV til 2058-beløpet} }=3\,000\,000
 $$
 Likningen er løst i linje 2 i GeoGebra.
 
@@ -304,7 +310,7 @@ Likningen er løst i linje 2 i GeoGebra.
 ### 2-4c
 Sparebeløpene til Nora kan sees på som en rekke der det første beløpet er 10000 kr og får renter i 10 år, mens det siste beløpet er $10000\cdot 1{,}06^{9}$ og får renter i ett år.
 $$
-\underbrace{ 10000 \cdot 1{,}06^{0}\cdot 1{,}025^{10} }_{ \text{Beløp år 0} } + \underbrace{ 10000 \cdot 1{,}06^{1}\cdot 1{,}025^{9} }_{ \text{Beløp år 1} } + \dots + \underbrace{ 10000 \cdot 1{,}06^{9}\cdot 1{,}025^{1} }_{ \text{ Beløp år 9 } }
+\underbrace{ \textcolor{darkorchid}{10000 \cdot 1{,}06^{0}\cdot 1{,}025^{10}} }_{ \text{Beløp år 0} } + \underbrace{ \textcolor{darkolivegreen}{10000 \cdot 1{,}06^{1}\cdot 1{,}025^{9}} }_{ \text{Beløp år 1} } + \dots + \underbrace{ \textcolor{deeppink}{10000 \cdot 1{,}06^{9}\cdot 1{,}025^{1}} }_{ \text{ Beløp år 9 } }
 $$
 Beløpet er beregnet i linje 3 i GeoGebra.
 
@@ -343,7 +349,7 @@ $$
 ### Integrasjon av venstre side
 Vi gjennomfører så integrasjonene på venstre av likning (1) i oppgaveteksten og får
 $$
-\int 1 \, \mathrm{d}x + \int x \, \mathrm{d}x + \int  x^{2} \, \mathrm{d}x + \int  x^{3} \, \mathrm{d}x + \dots =x+\frac{1}{2}x^{2}+\frac{1}{3}x^{3}+ \frac{1}{4}x^{4} + \dots
+\int 1 \, \mathrm{d}x + \int x \, \mathrm{d}x + \int  x^{2} \, \mathrm{d}x + \int  x^{3} \, \mathrm{d}x + \dots =\textcolor{orange}{x}+\textcolor{seagreen}{\frac{1}{2}x^{2}}+\textcolor{steelblue}{\frac{1}{3}x^{3}}+ \textcolor{tomato}{\frac{1}{4}x^{4}} + \dots
 $$
 Ved å integrere begge sidene av likning (1) har vi altså foreløpig vist at:
 $$
@@ -351,11 +357,11 @@ x+\frac{1}{2}x^{2}+\frac{1}{3}x^{3}+ \frac{1}{4}x^{4} + \dots = -\ln \left| 1-x 
 $$
 
 ### Vise at rekka er lik $\ln 2$
-Vi skal vise at 
-$$\frac{1}{2^{1}}+\frac{1}{2} \cdot \frac{1}{2^{2}} +\frac{1}{3} \cdot \frac{1}{2^{3}} +\frac{1}{4} \cdot \frac{1}{2^{4}} + \dots = \ln 2 \tag{2}$$
+Vi skal vise at
+$$\textcolor{orange}{\frac{1}{2^{1}}}+\textcolor{seagreen}{\frac{1}{2} \cdot \frac{1}{2^{2}}} +\textcolor{steelblue}{\frac{1}{3} \cdot \frac{1}{2^{3}}} +\textcolor{tomato}{\frac{1}{4} \cdot \frac{1}{2^{4}}} + \dots = \ln 2 \tag{2}$$
 Vi sammenligner venstre side i likning (2) med svaret vi fikk da vi integrerte venstre side i likning (1).
 $$
-x+\frac{1}{2}x^{2}+\frac{1}{3}x^{3}+ \frac{1}{4}x^{4} + \dots=\frac{1}{2^{1}}+\frac{1}{2} \cdot \frac{1}{2^{2}} +\frac{1}{3} \cdot \frac{1}{2^{3}} +\frac{1}{4} \cdot \frac{1}{2^{4}} + \dots \tag{3}
+\textcolor{orange}{x}+\textcolor{seagreen}{\frac{1}{2}x^{2}}+\textcolor{steelblue}{\frac{1}{3}x^{3}}+ \textcolor{tomato}{\frac{1}{4}x^{4}} + \dots=\textcolor{orange}{\frac{1}{2^{1}}}+\textcolor{seagreen}{\frac{1}{2} \cdot \frac{1}{2^{2}}} +\textcolor{steelblue}{\frac{1}{3} \cdot \frac{1}{2^{3}}} +\textcolor{tomato}{\frac{1}{4} \cdot \frac{1}{2^{4}}} + \dots \tag{3}
 $$
 Ved sammenligning av leddene ser vi at $x=\frac{1}{2}$ er en løsning av likning (3).
 
