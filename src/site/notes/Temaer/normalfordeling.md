@@ -22,5 +22,6 @@
 | [[Hildes terningkast\|Hildes terningkast]]                                                                                                         |
 | [[Forventningsverdi og varians fra graf av normalfordeling\|Forventningsverdi og varians fra graf av normalfordeling]]                             |
 | [[Figurer som viser normalfordeling\|Figurer som viser normalfordeling]]                                                                           |
+| [[Finn riktig graf for normalfordelingene\|Finn riktig graf for normalfordelingene]]                                                               |
 
 { .block-language-dataview}

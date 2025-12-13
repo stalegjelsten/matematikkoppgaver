@@ -13,6 +13,7 @@
 | [[Sjøtemperatur på Sørlandet\|Sjøtemperatur på Sørlandet]]                                                                   |
 | [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] |
 | [[Påstand om områder avgrenset av grafer\|Påstand om områder avgrenset av grafer]]                                           |
+| [[Proporsjonalitet_fra_grafer_2P-Y_H25\|Proporsjonalitet_fra_grafer_2P-Y_H25]]                                               |
 | [[Omvendt proporsjonal klassefest\|Omvendt proporsjonal klassefest]]                                                         |
 | [[Modell for reduksjon av utslipp\|Modell for reduksjon av utslipp]]                                                         |
 | [[Lag funksjonsuttrykk til grafen av rasjonal funksjon\|Lag funksjonsuttrykk til grafen av rasjonal funksjon]]               |

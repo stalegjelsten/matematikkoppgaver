@@ -4,7 +4,8 @@
 
 
 # potenser
-| file.link |
-| --------- |
+| file.link                                                     |
+| ------------------------------------------------------------- |
+| [[Sortering_av_tall_2P-Y_H25\|Sortering_av_tall_2P-Y_H25]] |
 
 { .block-language-dataview}

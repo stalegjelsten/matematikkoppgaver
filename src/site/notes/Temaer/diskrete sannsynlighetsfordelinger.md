@@ -12,5 +12,6 @@
 | [[Hypotesetest med smak av cola\|Hypotesetest med smak av cola]]                                                           |
 | [[Forventningsverdi og varians fra sannsynlighetsfordeling\|Forventningsverdi og varians fra sannsynlighetsfordeling]]     |
 | [[Forventningsverdi og varians fra sannsynlighetsfordeling 2\|Forventningsverdi og varians fra sannsynlighetsfordeling 2]] |
+| [[Sannsynlighet for poengtap ved poengspill\|Sannsynlighet for poengtap ved poengspill]]                                   |
 
 { .block-language-dataview}
