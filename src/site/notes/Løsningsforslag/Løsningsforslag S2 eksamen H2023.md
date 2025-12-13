@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["løsningsforslag"],"dg-publish":true,"title":null,"date":"2023-12-06","modified":"2024-05-15","disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title"],"geometry":"margin=3cm","fontsize":"11pt","papersize":"a4","author":"Ståle Gjelsten","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}"],"fag":["s2"],"eksamen":"h23","permalink":"/losningsforslag/losningsforslag-s2-eksamen-h2023/","dgPassFrontmatter":true}
+{"aliases":[],"documentclass":"scrartcl","papersize":"a4","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}","\\usepackage[DIVS=18]{typearea}"],"toc":false,"highlight-style":"tango","numbersections":false,"pandoc-latex-environment":{"warning":["warning"],"danger":["danger"],"note":["note"],"tip":["tip"],"important":["important"],"info":["info"],"error":["error"],"fasit":["fasit"]},"tags":["løsningsforslag"],"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style","empty-line-around-math-blocks"],"dg-publish":true,"fontsize":"11pt","fag":["s2"],"eksamen":"h23","title":"Løsningsforslag S2 eksamen H2023","author":"Ståle Gjelsten","date":"2023-12-05","permalink":"/losningsforslag/losningsforslag-s2-eksamen-h2023/","dgPassFrontmatter":true}
 ---
 
 
@@ -168,37 +168,7 @@ For å finne variansen må vi finne differansen til gjennomsnittet for hver verd
 
 ### 1-5b
 
-```
-flowchart TD
-
-    X1[X₁]
-
-    X1 -->|¹/₄| X2{4}
-
-    X1 -->|¹/₂| X3{5}
-
-    X1 -->|¹/₄| X4{10}
-
-    X2 -->|¹/₄| X5{4}
-
-    X2 -->|¹/₂| X6{5}
-
-    X2 -->|¹/₄| X7{10}
-
-    X3 -->|¹/₄| X8{4}
-
-    X3 -->|¹/₂| X9{5}
-
-    X3 -->|¹/₄| X10{10}
-
-    X4 -->|¹/₄| X11{4}
-
-    X4 -->|¹/₂| X12{5}
-
-    X4 -->|¹/₄| X13{10}
-```
-
-![](/img/user/_resources/mermaid-diagram-2024-03-15-112102.png)
+![Valgtre til oppgave 1-5](/img/user/_resources/mermaid-diagram-2025-11-26-182719.png)
 
 Se valgtreet over. Jeg ser at utfallene for $Y=X_{1}+X_{2}$ er 8, 9, 10, 14, 15 og 20. Jeg bruker valgtreet til å beregne sannsynligheten for hvert utfall
 
@@ -220,7 +190,7 @@ $$
 
 ## Oppgave 2-1
 ### 2-1a
-![](/img/user/_resources/s2-h23-2-1a.png)
+![Eksponentiell modell til oppgave 2-1a](/img/user/_resources/s2-h23-2-1a.png)
 
 Jeg brukte GeoGebra til å lage en eksponentiell modell som passet godt til dataene. Jeg vurderer at gyldighetsområdet til modellen er for priser fra omtrent 5 kroner til 70 kroner. Hvis varen hadde kostet veldig lite, så ville nok etterspørselen vært enda større (teoretisk kan man ofte tenke seg at etterspørselen går mot uendelig når prisen går mot null). Det er vanskelig å sette en øvre grense her, men ved prisen 70 kroner så er etterspørselen kun 2,4 – dette er veldig lavt sammenlignet med etterspørselen på 237 ved prisen 10 kroner.
 
@@ -232,7 +202,7 @@ Jeg brukte GeoGebra og løste $e(p)=70$ i CAS.
 **Prisen for varen bør være 25,8 kroner dersom bedriften skal selge 70 enheter per dag.**
 
 ### 2-1c
-![](/img/user/_resources/s2-h23-2-1c.png)
+![CAS til oppgave 2-1c](/img/user/_resources/s2-h23-2-1c.png)
 
 Gitt at $p(x)=79-12{,}2 \ln x$ er en funksjon som angir prisen ved etterspørselen $x$, så er inntekten gitt ved
 
@@ -245,7 +215,7 @@ Jeg brukte GeoGebra til å finne ekstremalpunktet til $I$ ved å derivere funksj
 **Vi har høyest inntekt ved etterspørselen 238,75 enheter, da er prisen $p(238{,}75)=12{,}2$.**
 
 ### Oppgave 2-1d
-![](/img/user/_resources/s2-h23-2-1d.png)
+![CAS til oppgave 2-1d](/img/user/_resources/s2-h23-2-1d.png)
 
 Jeg la inn funksjonsuttrykket for $K(x)$ i CAS. CAS gir at $I'=K'$ ved $x\approx 80$.
 
@@ -254,21 +224,24 @@ Grenseinntektene er lik grensekostnadene når det produseres og selges 80 enhete
 ## Oppgave 2-2
 
 ### 2-2a
-![](/img/user/_resources/s2-h23-2-2a.png)
+
+![Sparing til oppgave 2-2a](/img/user/_resources/s2-h23-2-2a.png)
 
 Jeg satt opp en oversikt over sparingen i Excel, hvor jeg beregnet innskuddet på kontoen i starten og slutten av hvert år.
 
 **Etter det 20. innskuddet så var det 565 593,64 kr på kontoen.**
 
 ### 2-2b
-![](/img/user/_resources/s2-h23-2-2b.png.png)
+
+![Sparing og målsøking til oppgave 2-2b](/img/user/_resources/s2-h23-2-2b.png.png)
 
 Jeg brukte samme oppsettet i Excel og brukte målsøking til å sette celle G47 til 692 852 kr ved å endre celle F28. Jeg fikk da 24 499,99 kr som sparebeløp. 
 
 **Hermod må spare 24 500 kr hvert år for å ha 692 852 kr etter 20 år.**
 
 ### 2-2c
-![](/img/user/_resources/s2-h23-2-2c.png.png)
+
+![Målsøking til oppgave 2-2c](/img/user/_resources/s2-h23-2-2c.png.png)
 
 Jeg brukte samme oppsett i Excel, men la til et ekstrabeløp i B52 som legges til hvert år. Jeg brukte målsøking til å sette celle G72 til 1 000 000 kr ved å endre celle B52. 
 
@@ -277,13 +250,15 @@ Jeg brukte samme oppsett i Excel, men la til et ekstrabeløp i B52 som legges ti
 ## Oppgave 2-3
 ### 2-3a
 Jeg bestemmer $P(X>87)$ ved hjelp av sannsynlighetsvinduet i GeoGebra. 
-![](/img/user/_resources/s2-h23-2-3a.png)
+
+![Sannsynlighet til oppgave 2-3a](/img/user/_resources/s2-h23-2-3a.png)
 
 **Sannsynligheten for at bremselengden til en tilfeldig valgt bil er over 87 meter er 0,09121.**
 
 ### 2-3b
 Jeg brukte sannsynlighetsvinduet i GeoGebra. Der valgte jeg sannsynlighet for at $X<k$ og skrev inn 0,9 i sannsynlighetsfeltet.
-![](/img/user/_resources/s2-h23-2-3b.png)
+
+![Sannsynlighet til oppgave 2-3b](/img/user/_resources/s2-h23-2-3b.png)
 
 **$\underline{\underline{k=86{,}84}}$. Det betyr at dekkprodusenten påstår at man klarer å stoppe innen 86,84 meter i 90 % av tilfellene.**
 
@@ -292,7 +267,7 @@ Jeg lar $\bar{X}$ være gjennomsnittet av 15 målinger. Da er $\bar{X}$ normalfo
 
 Jeg bruker sannsynlighetsvinduet i GeoGebra til å bestemme sannsynligheten $P(\bar{X}<84)=0{,}90165\approx0{,}902$.
 
-![](/img/user/_resources/s2-h23-2-3c.png)
+![Sannsynlighet til oppgave 2-3c](/img/user/_resources/s2-h23-2-3c.png)
 
 **Sannsynligheten for at gjennomsnittet av 15 målinger er under 84 meter er 0,902.**
 
@@ -305,7 +280,7 @@ $H_{A}: \quad \mu>83$
 
 Gitt at nullhypotesen er sann så har vi normalfordeling med $E(\bar{X})=83$ og $SD(\bar{X})=\frac{3}{\sqrt{ 15 }}$.
 
-![](/img/user/_resources/s2-h23-2-3d.png)
+![Sannsynlighet til oppgave 2-3d](/img/user/_resources/s2-h23-2-3d.png)
 
 Som vi ser fra GeoGebra-utklippet er sannsynligheten så er sannsynligheten 0,064 for at vi får et utvalg med gjennomsnitt større eller lik 84,18. Vi kan dermed ikke forkaste nullhypotesen med signifikansnivået 0,05.
 

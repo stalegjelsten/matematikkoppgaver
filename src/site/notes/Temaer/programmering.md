@@ -16,19 +16,19 @@
 | [[Ukjent program Mønster v23\|Ukjent program Mønster v23]]                                                                                                     |
 | [[Trekantmønster_og_programmering_2P-Y_H25\|Trekantmønster_og_programmering_2P-Y_H25]]                                                                         |
 | [[Tolk og fiks program som finner bunnpunkt\|Tolk og fiks program som finner bunnpunkt]]                                                                       |
-| [[Simulering av antall terningkast for å få samme antall øyne i to kast på rad\|Simulering av antall terningkast for å få samme antall øyne i to kast på rad]] |
 | [[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole]]             |
 | [[Simuler sannsynlighet for høyden til 24 måneder gammelt barn\|Simuler sannsynlighet for høyden til 24 måneder gammelt barn]]                                 |
 | [[Simuler sannsynlighet for høyde over 175 cm\|Simuler sannsynlighet for høyde over 175 cm]]                                                                   |
 | [[Rekursiv sammenheng mellom pentagontall\|Rekursiv sammenheng mellom pentagontall]]                                                                           |
 | [[Rekursiv formel og programmering\|Rekursiv formel og programmering]]                                                                                         |
-| [[Programmering av Wiggos spareplan\|Programmering av Wiggos spareplan]]                                                                                       |
 | [[Program for reduksjon av matsvinn\|Program for reduksjon av matsvinn]]                                                                                       |
 | [[Normalfordelt hoppkonkurranse\|Normalfordelt hoppkonkurranse]]                                                                                               |
-| [[Monas lån\|Monas lån]]                                                                                                                                       |
 | [[Miriam og Hermods sparing\|Miriam og Hermods sparing]]                                                                                                       |
 | [[Kubikktall\|Kubikktall]]                                                                                                                                     |
 | [[Billetter til fotballkamp\|Billetter til fotballkamp]]                                                                                                       |
 | [[Areal under graf med programmering\|Areal under graf med programmering]]                                                                                     |
+| [[Monas lån\|Monas lån]]                                                                                                                                       |
+| [[Simulering av antall terningkast for å få samme antall øyne i to kast på rad\|Simulering av antall terningkast for å få samme antall øyne i to kast på rad]] |
+| [[Programmering av Wiggos spareplan\|Programmering av Wiggos spareplan]]                                                                                       |
 
 { .block-language-dataview}

@@ -23,7 +23,7 @@
 | [[Bestem f ut fra den deriverte\|Bestem f ut fra den deriverte]]                                                             |
 | [[Areal under graf med programmering\|Areal under graf med programmering]]                                                   |
 | [[Algebra potensregning\|Algebra potensregning]]                                                                             |
-| [[S2 H2025 tolkning av integral fra graf\|S2 H2025 tolkning av integral fra graf]]                                           |
 | [[Ubestemt integral S2 H2025\|Ubestemt integral S2 H2025]]                                                                   |
+| [[S2 H2025 tolkning av integral fra graf\|S2 H2025 tolkning av integral fra graf]]                                           |
 
 { .block-language-dataview}

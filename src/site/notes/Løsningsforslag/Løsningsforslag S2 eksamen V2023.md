@@ -1,9 +1,8 @@
 ---
-{"temaer":null,"del":null,"oppgave":null,"fag":"s2","eksamen":"v23","tags":["matematikk","løsningsforslag","S2"],"alias":[null],"dg-publish":true,"title":"Løsningsforslag S2 eksamen V2023","date":"2023-05-24","modified":"2023-05-29","geometry":"margin=3cm","fontsize":"11pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}"],"permalink":"/losningsforslag/losningsforslag-s2-eksamen-v2023/","dgPassFrontmatter":true}
+{"fag":"s2","tags":["matematikk","løsningsforslag","S2"],"eksamen":"v23","dg-publish":true,"title":"Løsningsforslag S2","date":"2023-05-24","modified":"2023-05-29","documentclass":"scrartcl","papersize":"a4","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}","\\usepackage[DIVS=18]{typearea}"],"toc":false,"highlight-style":"tango","numbersections":false,"pandoc-latex-environment":{"warning":["warning"],"danger":["danger"],"note":["note"],"tip":["tip"],"important":["important"],"info":["info"],"error":["error"],"fasit":["fasit"]},"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style","empty-line-around-math-blocks"],"permalink":"/losningsforslag/losningsforslag-s2-eksamen-v2023/","dgPassFrontmatter":true}
 ---
 
 
-# Løsningsforslag S2 eksamen V2023
 Skrevet av Ståle Gjelsten 24. mai 2023. Jeg setter veldig pris på om du melder ifra om feil eller unøyaktigheter på forumet på [matematikk.net](https://matematikk.net)
 
 ## Oppgave 1-1

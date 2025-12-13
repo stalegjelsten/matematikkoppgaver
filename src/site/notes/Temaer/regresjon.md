@@ -12,8 +12,8 @@
 | [[Modell for etterspørsel av vare\|Modell for etterspørsel av vare]]                                                         |
 | [[Modell for Hannes løping\|Modell for Hannes løping]]                                                                       |
 | [[Marcos logistiske løpetrening\|Marcos logistiske løpetrening]]                                                             |
-| [[Logistisk plantesalg\|Logistisk plantesalg]]                                                                               |
 | [[Grenseinntekt og grensekostnad på del 2\|Grenseinntekt og grensekostnad på del 2]]                                         |
 | [[Eksponentiell_vekst_nettbutikk_2P-Y_H25\|Eksponentiell_vekst_nettbutikk_2P-Y_H25]]                                         |
+| [[Logistisk plantesalg\|Logistisk plantesalg]]                                                                               |
 
 { .block-language-dataview}
