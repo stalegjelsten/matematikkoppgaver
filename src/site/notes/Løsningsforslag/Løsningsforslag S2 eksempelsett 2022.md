@@ -16,7 +16,7 @@ $$
 $$
 \begin{aligned}
 \int 4x\sqrt{ x^2+2 } \, \mathrm{d}x, \quad u=x^2+2 \implies \frac{du}{dx}=2x \iff du=2xdx\\
-\int 2\sqrt{ u } \, \mathrm{d}u =2\int u^{\frac{1}{2}} \, \mathrm{d}x =2\frac{2}{3}u^{\frac{3}{2}}+C=\frac{4}{3}(x^2+2)+C'
+\int 2\sqrt{ u } \, \mathrm{d}u =2\int u^{\frac{1}{2}} \, \mathrm{d}u =2\frac{2}{3}u^{\frac{3}{2}}+C=\frac{4}{3}(x^2+2)^{\frac{3}{2}}+C'=\frac{4}{3}(x^{2}+2) \sqrt{ x^{2}+2 } + C'
 \end{aligned}
 $$
 

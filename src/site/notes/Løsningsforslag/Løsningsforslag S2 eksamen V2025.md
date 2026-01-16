@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"documentclass":"scrartcl","fontsize":"11pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}","\\usepackage[DIVS=18]{typearea}","\\RedeclareSectionCommand[runin=false,afterskip=-.25\\baselineskip]{subsection}"],"toc":false,"highlight-style":"tango","numbersections":false,"shift-heading-level-by":-3,"pandoc-latex-environment":{"warning":["warning"],"danger":["danger"],"note":["note"],"tip":["tip"],"important":["important"],"info":["info"],"error":["error"],"fasit":["fasit"]},"tags":["løsningsforslag"],"dg-publish":true,"title":"Løsningsforslag S2 eksamen V2025","author":"Ståle Gjelsten","date":"2025-05-14","modified":"2025-05-15","fag":["s2"],"eksamen":"v25","disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style","empty-line-around-math-blocks"],"permalink":"/losningsforslag/losningsforslag-s2-eksamen-v2025/","dgPassFrontmatter":true}
+{"aliases":null,"documentclass":"scrartcl","fontsize":"11pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","toc":false,"highlight-style":"tango","numbersections":false,"shift-heading-level-by":-3,"pandoc-latex-environment":{"warning":["warning"],"danger":["danger"],"note":["note"],"tip":["tip"],"important":["important"],"info":["info"],"error":["error"],"fasit":["fasit"]},"tags":["løsningsforslag"],"dg-publish":true,"title":"Løsningsforslag S2 eksamen V2025","author":"Ståle Gjelsten","date":"2025-05-14","modified":"2025-12-15","fag":["s2"],"eksamen":"v25","disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style","empty-line-around-math-blocks"],"permalink":"/losningsforslag/losningsforslag-s2-eksamen-v2025/","dgPassFrontmatter":true}
 ---
 
 
@@ -13,13 +13,13 @@ $$
 $$
 
 ### 1-1b
-Vi ser at den deriverte av uttrykket i nevneren er det samme som telleren, og det er derfor lurt å forsøke variabelskiftet $\textcolor{darkorchid}{u=x^{2}-x-6}$.
+Vi ser at den deriverte av uttrykket i nevneren er det samme som telleren, og det er derfor lurt å forsøke variabelskiftet $\textcolor{tomato}{u=x^{2}-x-6}$.
 $$
-\textcolor{darkorchid}{u=x^{2}-x-6} \implies \frac{du}{dx}=\textcolor{darkolivegreen}{2x-1} \iff \frac{du}{\textcolor{darkolivegreen}{2x-1}}=dx
+\textcolor{tomato}{u=x^{2}-x-6} \implies \frac{du}{dx}=\textcolor{seagreen}{2x-1} \iff \frac{du}{\textcolor{seagreen}{2x-1}}=dx
 $$
 Vi substituerer inn i det opprinnelige uttrykket
 $$
-\int \frac{\textcolor{darkolivegreen}{2x-1}}{\textcolor{darkorchid}{x^{2}-x-6}} \, \mathrm{d}x=\int \frac{\cancel{ \textcolor{darkolivegreen}{2x-1} }}{\textcolor{darkorchid}{u}} \, \frac{\mathrm{d}u}{\cancel{ \textcolor{darkolivegreen}{2x-1} }}  = \int \frac{1}{\textcolor{darkorchid}{u}} \, \mathrm{d}u=\ln \left| \textcolor{darkorchid}{u} \right| +C=\underline{\underline{\ln \left| x^{2} -x -6\right| + C}} 
+\int \frac{\textcolor{seagreen}{2x-1}}{\textcolor{tomato}{x^{2}-x-6}} \, \mathrm{d}x=\int \frac{\cancel{ \textcolor{seagreen}{2x-1} }}{\textcolor{tomato}{u}} \, \frac{\mathrm{d}u}{\cancel{ \textcolor{seagreen}{2x-1} }}  = \int \frac{1}{\textcolor{tomato}{u}} \, \mathrm{d}u=\ln \left| \textcolor{tomato}{u} \right| +C=\underline{\underline{\ln \left| x^{2} -x -6\right| + C}} 
 $$
 
 >[!tip] Løsning med delbrøkoppspalting
@@ -53,8 +53,10 @@ $$
 
 ### 1-3a
 
-|            $k$            |                   $\textcolor{orange}{1}$                   |                  $\textcolor{seagreen}{2}$                   |                  $\textcolor{steelblue}{3}$                   |                   $\textcolor{tomato}{6}$                   |             Sum             |
-| :-----------: | :-----:| :-----:| :-----: | :-----: | :-----: |
+Table: {inset=0.7em}
+
+|            $k$            |                  $\textcolor{orange}{1}$                  |                 $\textcolor{seagreen}{2}$                  |                 $\textcolor{steelblue}{3}$                  |                  $\textcolor{tomato}{6}$                  |             Sum             |
+| :-------: | :----: | :----: | :----: | :----: | :----: |
 |         $P(X=k)$          |             $\textcolor{orange}{\frac{1}{6}}$             |            $\textcolor{seagreen}{\frac{1}{6}}$             |            $\textcolor{steelblue}{\frac{1}{6}}$             |       $\textcolor{tomato}{\frac{3}{6}=\frac{1}{2}}$       |             $1$             |
 |     $k \cdot P(X=k)$      |             $\textcolor{orange}{\frac{1}{6}}$             |            $\textcolor{seagreen}{\frac{2}{6}}$             |            $\textcolor{steelblue}{\frac{3}{6}}$             |            $\textcolor{tomato}{\frac{18}{6}}$             |      $\frac{24}{6}=4$       |
 | $(k-\mu)^{2}\cdot P(X=k)$ | $\textcolor{orange}{3^{2} \cdot \frac{1}{6}=\frac{9}{6}}$ | $\textcolor{seagreen}{2^{2}\cdot \frac{1}{6}=\frac{4}{6}}$ | $\textcolor{steelblue}{1^{2}\cdot \frac{1}{6}=\frac{1}{6}}$ | $\textcolor{tomato}{2^{2}\cdot \frac{3}{6}=\frac{12}{6}}$ | $\frac{26}{6}=\frac{13}{3}$ |
@@ -64,7 +66,7 @@ $$
 E(X)=\textcolor{orange}{\frac{1}{6}}+ \textcolor{seagreen}{\frac{2}{6}}+ \textcolor{steelblue}{\frac{3}{6}}+ \textcolor{tomato}{\frac{18}{6}}=\frac{24}{6}=4
 $$
 
-**Forventningsverdien $\mathbf{E}(\textbf{\textit{X}})=\underline{\underline{\mathbf{4}}}$**
+**Forventningsverdien $\mathrm{E}(X)=\underline{\underline{4}}$**
 
 ### 1-3b
 Vi finner variansen ved å summere rad 4 i tabellen siden $\text{Var}(X)=\sum (k-\mu)^{2}\cdot P(X=k)$
@@ -72,7 +74,7 @@ $$
 \text{Var}(X)=\textcolor{orange}{\frac{9}{6}}+ \textcolor{seagreen}{\frac{4}{6}}+ \textcolor{steelblue}{\frac{1}{6}}+ \textcolor{tomato}{\frac{12}{6}}=\frac{26}{6}=\frac{13}{3}
 $$
 
-**Variansen er $\mathbf{Var}(\textbf{\textit{X}})=\underline{\underline{\mathbf{\frac{13}{3}}}}$**
+**Variansen er $\mathrm{Var}(X)=\underline{\underline{\frac{13}{3}}}$**
 
 ## Oppgave 1-4
 
@@ -106,9 +108,9 @@ $$
 E(180)=\frac{K(180)}{180}=\frac{14\,920}{180}=82{,}89
 $$
 
->[!tip] Du trenger ikke regne ut delestykket over
->
->Du trenger ikke regne ut $\frac{14920}{180}$ siden du har fått oppgitt en linje fra origo til punktet $(180, 14\,920)$. Stigningstallet til en rett linje er jo $\frac{\Delta y}{\Delta x}$, og i vårt tilfelle vil $K(180)=\Delta y$ og $180=\Delta x$. Denne linja har stigningstallet $82{,}89$, derfor må $\frac{\Delta y}{\Delta x}=\frac{14920}{180}=82{,}89$
+> [!tip] Du trenger ikke regne ut delestykket over
+> 
+> Du trenger ikke regne ut $\frac{14920}{180}$ siden du har fått oppgitt en linje fra origo til punktet $(180, 14\,920)$. Stigningstallet til en rett linje er jo $\frac{\Delta y}{\Delta x}$, og i vårt tilfelle vil $K(180)=\Delta y$ og $180=\Delta x$. Denne linja har stigningstallet $82{,}89$, derfor må $\frac{\Delta y}{\Delta x}=\frac{14920}{180}=82{,}89$
 
 Grensekostnaden er den deriverte av kostnadsfunksjonen, og grensekostnaden ved 180 enheter er derfor lik stigningstallet til tangenten til $K$ ved $x=180$. Jeg leser av stigningstallet til tangenten og finner at grensekostnaden er 138.
 
@@ -280,7 +282,7 @@ $$
 
 >[!note] Løsning av 2-4 i CAS
 >
->Denne oppgaven kan også løses i CAS ved å sette opp 3 likninger for å bestemme $N$, $a$ og $k$, se skjermbildet under. Du kan også gjøre regresjon på punktene $(0, 4000)$,  $(65, 500\,000)$ og $(200, \, 1\,000\,000)$ med logistisk modell.
+>Denne oppgaven kan også løses i CAS ved å sette opp 3 likninger for å bestemme $N$, $a$ og $k$, se skjermbildet under. Du kan også gjøre regresjon på punktene $(0, 4000)$, $(65, 500\,000)$ og $(200, \, 1\,000\,000)$ med logistisk modell.
 >
 >![](/img/user/_resources/s2-v25-2-3c-cas.png)
 
@@ -293,7 +295,7 @@ Vi kaller det ukjente beløpet $B$. Nora skal sette inn $B$ på konto 30 ganger.
 
 For å ha 3 750 000 kr på konto etter 30 år så kan vi altså sette opp en likning med ei rekke. Likningen er løst i linje 1 i GeoGebra.
 $$
-\underbrace{ \textcolor{darkorchid}{B\cdot 1{,}025^{1}} }_{ \text{År 2055} }+\underbrace{ \textcolor{darkolivegreen}{B\cdot 1{,}025^{2}} }_{ \text{År 2054} }+\dots+ \underbrace{ \textcolor{deeppink}{B\cdot 1{,}025^{30}} }_{ \text{År 2026} }=3\,750\,000
+\underbrace{ \textcolor{tomato}{B\cdot 1{,}025^{1}} }_{ \text{År 2055} }+\underbrace{ \textcolor{seagreen}{B\cdot 1{,}025^{2}} }_{ \text{År 2054} }+\dots+ \underbrace{ \textcolor{maroon}{B\cdot 1{,}025^{30}} }_{ \text{År 2026} }=3\,750\,000
 $$
 
 **Nora må sette inn 83 333 kr hvert år for å nå målet.**
@@ -310,7 +312,7 @@ Likningen er løst i linje 2 i GeoGebra.
 ### 2-4c
 Sparebeløpene til Nora kan sees på som en rekke der det første beløpet er 10000 kr og får renter i 10 år, mens det siste beløpet er $10000\cdot 1{,}06^{9}$ og får renter i ett år.
 $$
-\underbrace{ \textcolor{darkorchid}{10000 \cdot 1{,}06^{0}\cdot 1{,}025^{10}} }_{ \text{Beløp år 0} } + \underbrace{ \textcolor{darkolivegreen}{10000 \cdot 1{,}06^{1}\cdot 1{,}025^{9}} }_{ \text{Beløp år 1} } + \dots + \underbrace{ \textcolor{deeppink}{10000 \cdot 1{,}06^{9}\cdot 1{,}025^{1}} }_{ \text{ Beløp år 9 } }
+\underbrace{ \textcolor{tomato}{10000 \cdot 1{,}06^{0}\cdot 1{,}025^{10}} }_{ \text{Beløp år 0} } + \underbrace{ \textcolor{seagreen}{10000 \cdot 1{,}06^{1}\cdot 1{,}025^{9}} }_{ \text{Beløp år 1} } + \dots + \underbrace{ \textcolor{maroon}{10000 \cdot 1{,}06^{9}\cdot 1{,}025^{1}} }_{ \text{ Beløp år 9 } }
 $$
 Beløpet er beregnet i linje 3 i GeoGebra.
 
@@ -329,7 +331,6 @@ Beløpet er beregnet i linje 3 i GeoGebra.
 ![Regneark for løsning av Noras sparing og lån](/img/user/_resources/s2-v25-2-4-excel1.png)
 
 ![Formler for regneark med målsøking](/img/user/_resources/s2-v25-2-4-excel-formler.png)
-
 
 ## Oppgave 2-5
 Vi har fått oppgitt at
