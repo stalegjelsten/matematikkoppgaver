@@ -6,7 +6,7 @@
 # formler
 | file.link                                                       |
 | --------------------------------------------------------------- |
-| [[Lydstyrke fra fly\|Lydstyrke fra fly]]                     |
 | [[Strømforbruk på vaskemaskin\|Strømforbruk på vaskemaskin]] |
+| [[Lydstyrke fra fly\|Lydstyrke fra fly]]                     |
 
 { .block-language-dataview}

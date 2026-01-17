@@ -1,0 +1,22 @@
+---
+{"tags":["oppgave"],"date":"2025-11-14","modified":"2026-01-17","aliases":[],"dg-publish":true,"temaer":["standardform"],"fag":["2p-y"],"eksamen":"h25","del":1,"oppgave":2,"title":"Standardform og studentkort 2P-Y H25","source":"Eksamen 2P-Y høst 2025","todo":null,"status":3,"permalink":"/standardform-og-studentkort/","dgPassFrontmatter":true}
+---
+
+
+# Standardform og studentkort 2P-Y H25
+<p><span><em>Oppgaven er hentet fra eksamen 2P-Y H25 del 1 oppgave 2.</em></span></p>
+
+- I Bergen er det omtrent 40 000 studenter.
+- Et månedskort med kollektivtransport koster 496 kroner for studenter.
+
+Anta at alle studentene kjøper 10 månedskort i løpet av et år.
+
+>Omtrent hvor mye betaler studentene til sammen for kollektivtransport i løpet av et år dersom antagelsen stemmer? Skriv svaret på standardform.
+
+>[!question]- Fasit
+>
+>$2{,}0 \cdot 10^{8}$ kroner
+>[[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2025#Oppgave 1-2\|Løsningsforslag 2P-Y eksamen H2025#Oppgave 1-2]]
+
+## Relatert
+<h3><span>Tilfeldige oppgaver i samme fag</span></h3><p><span>Det er ofte best å blande hvilke type oppgaver man gjør dersom du skal forberede deg til en prøve eller eksamen. Her er tre tilfeldige oppgaver i 2P-Y.</span></p><div><ul class="dataview list-view-ul"><li><span><a data-tooltip-position="top" aria-label="Median og gjennomsnitt i heiskø.md" data-href="Median og gjennomsnitt i heiskø.md" href="Median og gjennomsnitt i heiskø.md" class="internal-link" target="_blank" rel="noopener nofollow">Median og gjennomsnitt i heiskø 2P-Y V25 Del 1 oppg 2</a></span></li><li><span><a data-tooltip-position="top" aria-label="Prosentvis framgang for to partier.md" data-href="Prosentvis framgang for to partier.md" href="Prosentvis framgang for to partier.md" class="internal-link" target="_blank" rel="noopener nofollow">Prosentvis framgang for to partier 2P-Y V25 Del 1 oppg 4</a></span></li><li><span><a data-tooltip-position="top" aria-label="Omvendt proporsjonal klassefest.md" data-href="Omvendt proporsjonal klassefest.md" href="Omvendt proporsjonal klassefest.md" class="internal-link" target="_blank" rel="noopener nofollow">Omvendt proporsjonal klassefest 2P-Y V25 Del 1 oppg 3</a></span></li></ul></div><h3><span>Lignende oppgaver sortert etter tema</span></h3><h4><span>Standardform</span></h4><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Oppgave</span><span class="dataview small-text">5</span></th><th class="table-view-th"><span>Fag</span></th><th class="table-view-th"><span>År</span></th><th class="table-view-th"><span>Oppg</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Vannforbruk i Oslo.md" data-href="Vannforbruk i Oslo.md" href="Vannforbruk i Oslo.md" class="internal-link" target="_blank" rel="noopener nofollow">Vannforbruk i Oslo</a></span></td><td><span>2P-Y</span></td><td><span>V24</span></td><td><span>1-3</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Sortering av tall.md" data-href="Sortering av tall.md" href="Sortering av tall.md" class="internal-link" target="_blank" rel="noopener nofollow">Sortering av tall 2P-Y H25</a></span></td><td><span>2P-Y</span></td><td><span>H25</span></td><td><span>1-3</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Hvor mange ganger større er Sola enn Jorda.md" data-href="Hvor mange ganger større er Sola enn Jorda.md" href="Hvor mange ganger større er Sola enn Jorda.md" class="internal-link" target="_blank" rel="noopener nofollow">Hvor mange ganger større er Sola enn Jorda?</a></span></td><td><span>2P-Y</span></td><td><span>H23</span></td><td><span>1-3</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Burj Khalifa standardform.md" data-href="Burj Khalifa standardform.md" href="Burj Khalifa standardform.md" class="internal-link" target="_blank" rel="noopener nofollow">Burj Khalifa standardform</a></span></td><td><span>2P-Y</span></td><td><span>V25</span></td><td><span>2-2</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Bakterier i kjøkkensvamp.md" data-href="Bakterier i kjøkkensvamp.md" href="Bakterier i kjøkkensvamp.md" class="internal-link" target="_blank" rel="noopener nofollow">Bakterier i kjøkkensvamp</a></span></td><td><span>2P-Y</span></td><td><span>H24</span></td><td><span>2-2</span></td></tr></tbody></table></div>

@@ -1,0 +1,25 @@
+---
+{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-12-13","aliases":[],"dg-publish":true,"temaer":["potenser","standardform","røtter","tallregning"],"fag":["2p-y"],"eksamen":"h25","del":1,"oppgave":3,"title":"Sortering av tall 2P-Y H25","source":"Eksamen 2P-Y høst 2025","todo":null,"status":3,"permalink":"/sortering-av-tall/","dgPassFrontmatter":true}
+---
+
+
+# Sortering av tall 2P-Y H25
+
+<p><span><em>Oppgaven er hentet fra eksamen 2P-Y H25 del 1 oppgave 3.</em></span></p>
+
+
+
+Sorter tallene nedenfor i stigende rekkefølge.
+Husk å argumentere for at rekkefølgen er riktig.
+
+$$\sqrt{ 2 } \quad 0{,}02 \cdot 10^{2} \quad 3^{2} \quad 2^{0} \quad \sqrt{ 80 } \quad 3 \cdot 10^{-1} \quad 4^{-1}$$
+
+>[!question]- Fasit
+>
+>$4^{-1} < 3\cdot 10^{-1} < 2^{0} < \sqrt{ 2 } < 0{,}02 \cdot 10^{2} < \sqrt{ 80 } < 3^{2}$
+>[[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2025#Oppgave 1-3\|Løsningsforslag 2P-Y eksamen H2025#Oppgave 1-3]]
+
+
+## Relatert
+<h3><span>Tilfeldige oppgaver i samme fag</span></h3><p><span>Det er ofte best å blande hvilke type oppgaver man gjør dersom du skal forberede deg til en prøve eller eksamen. Her er tre tilfeldige oppgaver i 2P-Y.</span></p><div><ul class="dataview list-view-ul"><li><span><a data-tooltip-position="top" aria-label="Statistikk på Lars arbeidstid.md" data-href="Statistikk på Lars arbeidstid.md" href="Statistikk på Lars arbeidstid.md" class="internal-link" target="_blank" rel="noopener nofollow">Statistikk på Lars arbeidstid 2P-Y H24 Del 1 oppg 2</a></span></li><li><span><a data-tooltip-position="top" aria-label="Figurtall for firkanter med hjørnetapper.md" data-href="Figurtall for firkanter med hjørnetapper.md" href="Figurtall for firkanter med hjørnetapper.md" class="internal-link" target="_blank" rel="noopener nofollow">Figurtall for firkanter med hjørnetapper 2P-Y H24 Del 1 oppg 4</a></span></li><li><span><a data-tooltip-position="top" aria-label="Vannforbruk i Oslo.md" data-href="Vannforbruk i Oslo.md" href="Vannforbruk i Oslo.md" class="internal-link" target="_blank" rel="noopener nofollow">Vannforbruk i Oslo 2P-Y V24 Del 1 oppg 3</a></span></li></ul></div><h3><span>Lignende oppgaver sortert etter tema</span></h3><h4><span>Standardform</span></h4><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Oppgave</span><span class="dataview small-text">5</span></th><th class="table-view-th"><span>Fag</span></th><th class="table-view-th"><span>År</span></th><th class="table-view-th"><span>Oppg</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Vannforbruk i Oslo.md" data-href="Vannforbruk i Oslo.md" href="Vannforbruk i Oslo.md" class="internal-link" target="_blank" rel="noopener nofollow">Vannforbruk i Oslo</a></span></td><td><span>2P-Y</span></td><td><span>V24</span></td><td><span>1-3</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Standardform og studentkort.md" data-href="Standardform og studentkort.md" href="Standardform og studentkort.md" class="internal-link" target="_blank" rel="noopener nofollow">Standardform og studentkort 2P-Y H25</a></span></td><td><span>2P-Y</span></td><td><span>H25</span></td><td><span>1-2</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Hvor mange ganger større er Sola enn Jorda.md" data-href="Hvor mange ganger større er Sola enn Jorda.md" href="Hvor mange ganger større er Sola enn Jorda.md" class="internal-link" target="_blank" rel="noopener nofollow">Hvor mange ganger større er Sola enn Jorda?</a></span></td><td><span>2P-Y</span></td><td><span>H23</span></td><td><span>1-3</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Burj Khalifa standardform.md" data-href="Burj Khalifa standardform.md" href="Burj Khalifa standardform.md" class="internal-link" target="_blank" rel="noopener nofollow">Burj Khalifa standardform</a></span></td><td><span>2P-Y</span></td><td><span>V25</span></td><td><span>2-2</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Bakterier i kjøkkensvamp.md" data-href="Bakterier i kjøkkensvamp.md" href="Bakterier i kjøkkensvamp.md" class="internal-link" target="_blank" rel="noopener nofollow">Bakterier i kjøkkensvamp</a></span></td><td><span>2P-Y</span></td><td><span>H24</span></td><td><span>2-2</span></td></tr></tbody></table></div>
+

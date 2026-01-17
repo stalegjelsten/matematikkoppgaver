@@ -7,11 +7,11 @@
 | file.link                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------- |
 | [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]]                                                             |
-| [[Prosentvis_prisøkning_2P-Y_H25\|Prosentvis_prisøkning_2P-Y_H25]]                                             |
+| [[Prosentvis prisøkning h25\|Prosentvis prisøkning h25]]                                                       |
 | [[Prosentvis framgang for to partier\|Prosentvis framgang for to partier]]                                     |
 | [[Prisstigning på vare\|Prisstigning på vare]]                                                                 |
 | [[Monas prisøkning\|Monas prisøkning]]                                                                         |
-| [[Investeringer_og_avkastning_2P-Y_H25\|Investeringer_og_avkastning_2P-Y_H25]]                                 |
+| [[Investeringer og avkastning\|Investeringer og avkastning]]                                                   |
 | [[Elever i klassen basert på prosentandel\|Elever i klassen basert på prosentandel]]                           |
 | [[Argumenter for at prosentregnestykker gir samme svar\|Argumenter for at prosentregnestykker gir samme svar]] |
 
