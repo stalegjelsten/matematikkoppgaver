@@ -10,8 +10,8 @@
 | [[Uendelig logaritmisk rekke\|Uendelig logaritmisk rekke]]                                     |
 | [[Uendelig geometrisk rekke\|Uendelig geometrisk rekke]]                                       |
 | [[Sum av integralrekke\|Sum av integralrekke]]                                                 |
+| [[S2 H2025 ulike rekker del 1\|S2 H2025 ulike rekker del 1]]                                   |
 | [[Påstand om sum av rekke\|Påstand om sum av rekke]]                                           |
 | [[Aritmetiske og geometriske rekker h24\|Aritmetiske og geometriske rekker h24]]               |
-| [[S2 H2025 ulike rekker del 1\|S2 H2025 ulike rekker del 1]]                                   |
 
 { .block-language-dataview}

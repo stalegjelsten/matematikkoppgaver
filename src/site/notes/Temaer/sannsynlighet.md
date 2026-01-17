@@ -10,9 +10,11 @@
 | [[Ukjent program Mønster v23\|Ukjent program Mønster v23]]                                                                                                     | <ul><li>s2</li></ul> | \-      | 1   |
 | [[Tunge kuler i kasse\|Tunge kuler i kasse]]                                                                                                                   | <ul><li>s2</li></ul> | h23     | 1   |
 | [[Sveins kurv med baller\|Sveins kurv med baller]]                                                                                                             | <ul><li>s2</li></ul> | v24     | 2   |
+| [[Simulering av antall terningkast for å få samme antall øyne i to kast på rad\|Simulering av antall terningkast for å få samme antall øyne i to kast på rad]] | <ul><li>s2</li></ul> | h25     | 2   |
 | [[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole]]             | s2                   | v23     | 2   |
 | [[Simuler sannsynlighet for høyde over 175 cm\|Simuler sannsynlighet for høyde over 175 cm]]                                                                   | s2                   | e22     | 2   |
 | [[Sannsynligheter ved lottospill\|Sannsynligheter ved lottospill]]                                                                                             | s1                   | v23     | 2   |
+| [[Sannsynlighet for poengtap ved poengspill\|Sannsynlighet for poengtap ved poengspill]]                                                                       | <ul><li>s2</li></ul> | h25     | 1   |
 | [[Normalfordelte hjortebukker\|Normalfordelte hjortebukker]]                                                                                                   | s2                   | v15     | 1   |
 | [[Normalfordelt intelligens\|Normalfordelt intelligens]]                                                                                                       | s2                   | e15     | 1   |
 | [[Lykkehjulet\|Lykkehjulet]]                                                                                                                                   | s2                   | h22     | 1   |
@@ -22,7 +24,5 @@
 | [[Forventningsverdi og varians fra sannsynlighetsfordeling\|Forventningsverdi og varians fra sannsynlighetsfordeling]]                                         | s2                   | e22     | 1   |
 | [[Forventningsverdi og varians fra sannsynlighetsfordeling 2\|Forventningsverdi og varians fra sannsynlighetsfordeling 2]]                                     | s2                   | v23     | 1   |
 | [[Billetter til fotballkamp\|Billetter til fotballkamp]]                                                                                                       | s1                   | v23     | 2   |
-| [[Sannsynlighet for poengtap ved poengspill\|Sannsynlighet for poengtap ved poengspill]]                                                                       | <ul><li>s2</li></ul> | h25     | 1   |
-| [[Simulering av antall terningkast for å få samme antall øyne i to kast på rad\|Simulering av antall terningkast for å få samme antall øyne i to kast på rad]] | <ul><li>s2</li></ul> | h25     | 2   |
 
 { .block-language-dataview}

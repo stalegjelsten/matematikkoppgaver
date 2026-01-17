@@ -6,10 +6,10 @@
 # tolkning av integraler
 | file.link                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------- |
+| [[S2 H2025 tolkning av integral fra graf\|S2 H2025 tolkning av integral fra graf]]                                           |
 | [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] |
+| [[Logistisk plantesalg\|Logistisk plantesalg]]                                                                               |
 | [[Grenseinntekt og grensekostnad på del 2\|Grenseinntekt og grensekostnad på del 2]]                                         |
 | [[Bestem f ut fra den deriverte\|Bestem f ut fra den deriverte]]                                                             |
-| [[S2 H2025 tolkning av integral fra graf\|S2 H2025 tolkning av integral fra graf]]                                           |
-| [[Logistisk plantesalg\|Logistisk plantesalg]]                                                                               |
 
 { .block-language-dataview}

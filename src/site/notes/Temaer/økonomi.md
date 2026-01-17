@@ -10,11 +10,11 @@
 | [[Ukjent program med kostnader for produksjon\|Ukjent program med kostnader for produksjon]]                                                   |
 | [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]]                                                                                             |
 | [[Logistisk vekst for et produkt\|Logistisk vekst for et produkt]]                                                                             |
+| [[Grensekostnader, enhetskostnader og overskudd\|Grensekostnader, enhetskostnader og overskudd]]                                               |
 | [[Grensekostnader fra graf v23\|Grensekostnader fra graf v23]]                                                                                 |
 | [[Grensekostnad og enhetskostnad del 1\|Grensekostnad og enhetskostnad del 1]]                                                                 |
 | [[Etterspørsel av vare\|Etterspørsel av vare]]                                                                                                 |
 | [[Enhetskostnader fra graf\|Enhetskostnader fra graf]]                                                                                         |
 | [[Argumenter for hvorfor sette grensekostnad lik grenseinntekt\|Argumenter for hvorfor sette grensekostnad lik grenseinntekt]]                 |
-| [[Grensekostnader, enhetskostnader og overskudd\|Grensekostnader, enhetskostnader og overskudd]]                                               |
 
 { .block-language-dataview}

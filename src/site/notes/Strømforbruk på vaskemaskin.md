@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-12-11","modified":"2025-12-11","aliases":[],"dg-publish":true,"temaer":["formler"],"fag":["1py-el"],"eksamen":"v25","del":1,"oppgave":4,"title":"Strømforbruk på vaskemaskin","source":null,"todo":null,"permalink":"/stromforbruk-pa-vaskemaskin/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-12-11","modified":"2026-01-17","aliases":[],"dg-publish":true,"temaer":["formler"],"fag":["1py-el"],"eksamen":"v25","del":1,"oppgave":4,"title":"Strømforbruk på vaskemaskin","source":null,"todo":null,"permalink":"/stromforbruk-pa-vaskemaskin/","dgPassFrontmatter":true}
 ---
 
 

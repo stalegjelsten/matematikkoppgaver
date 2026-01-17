@@ -4,8 +4,8 @@
 
 
 # potenser
-| file.link                                                     |
-| ------------------------------------------------------------- |
-| [[Sortering_av_tall_2P-Y_H25\|Sortering_av_tall_2P-Y_H25]] |
+| file.link                                   |
+| ------------------------------------------- |
+| [[Sortering av tall\|Sortering av tall]] |
 
 { .block-language-dataview}
