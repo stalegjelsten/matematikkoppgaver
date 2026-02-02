@@ -7,5 +7,6 @@
 | --------------------------------------------------------------------------------- |
 | [[templates/_2oppgave-template\|_2oppgave-template]]                           |
 | [[Areal av kvadrat som tangerer sirkel\|Areal av kvadrat som tangerer sirkel]] |
+| [[1P-Y EL\|1P-Y EL]]                                                           |
 
 { .block-language-dataview}

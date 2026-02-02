@@ -20,7 +20,7 @@
 | [[Billetter til fotballkamp\|Billetter til fotballkamp]]                                                       |
 | [[Argumenter for at prosentregnestykker gir samme svar\|Argumenter for at prosentregnestykker gir samme svar]] |
 | [[Areal under graf med programmering\|Areal under graf med programmering]]                                     |
-| [[Areal av sirkel og kvadrat som skjærer hverandre\|Areal av sirkel og kvadrat som skjærer hverandre]]         |
 | [[Areal av område begrenset av sirkler\|Areal av område begrenset av sirkler]]                                 |
+| [[Areal av sirkel og kvadrat som skjærer hverandre\|Areal av sirkel og kvadrat som skjærer hverandre]]         |
 
 { .block-language-dataview}

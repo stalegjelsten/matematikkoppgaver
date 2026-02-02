@@ -7,7 +7,7 @@
 
 | Tema                                                                                           | Antall |
 | ---------------------------------------------------------------------------------------------- | ------ |
-| \-                                                                                             | 2      |
+| \-                                                                                             | 3      |
 | [[Temaer/algebra\|algebra]]                                                                 | 1      |
 | [[Temaer/andregradslikninger\|andregradslikninger]]                                         | 1      |
 | [[areal under graf\|areal under graf]]                                                         | 4      |
@@ -21,14 +21,16 @@
 | [[Temaer/derivasjon\|derivasjon]]                                                           | 8      |
 | [[diagram\|diagram]]                                                                           | 1      |
 | [[Temaer/diskrete sannsynlighetsfordelinger\|diskrete sannsynlighetsfordelinger]]           | 7      |
-| [[Temaer/eksponentialfunksjoner\|eksponentialfunksjoner]]                                   | 5      |
-| [[eksponentiell vekst\|eksponentiell vekst]]                                                   | 1      |
+| [[Temaer/effekttrekant\|effekttrekant]]                                                     | 5      |
+| [[Temaer/eksponentialfunksjoner\|eksponentialfunksjoner]]                                   | 6      |
+| [[elektrofag\|elektrofag]]                                                                     | 1      |
 | [[Temaer/enhetskostnad\|enhetskostnad]]                                                     | 6      |
+| [[enhetssirkel\|enhetssirkel]]                                                                 | 1      |
 | [[etterspørsel\|etterspørsel]]                                                                 | 2      |
 | [[Temaer/excel\|excel]]                                                                     | 6      |
 | [[Temaer/faktorisering\|faktorisering]]                                                     | 2      |
 | [[figurtall\|figurtall]]                                                                       | 4      |
-| [[Temaer/formler\|formler]]                                                                 | 2      |
+| [[Temaer/formler\|formler]]                                                                 | 4      |
 | [[forventningsverdi\|forventningsverdi]]                                                       | 7      |
 | [[Temaer/funksjoner\|funksjoner]]                                                           | 17     |
 | [[Temaer/funksjonsdrøfting\|funksjonsdrøfting]]                                             | 3      |
@@ -53,7 +55,7 @@
 | [[Temaer/logistisk funksjon\|logistisk funksjon]]                                           | 5      |
 | [[Temaer/lån\|lån]]                                                                         | 6      |
 | [[median\|median]]                                                                             | 1      |
-| [[modellering\|modellering]]                                                                   | 4      |
+| [[modellering\|modellering]]                                                                   | 5      |
 | [[Temaer/normalfordeling\|normalfordeling]]                                                 | 17     |
 | [[nåverdi\|nåverdi]]                                                                           | 1      |
 | [[omvendt proporsjonal\|omvendt proporsjonal]]                                                 | 3      |
@@ -63,12 +65,12 @@
 | [[potensregning\|potensregning]]                                                               | 1      |
 | [[presentasjon av data\|presentasjon av data]]                                                 | 1      |
 | [[presenter statistikk\|presenter statistikk]]                                                 | 2      |
-| [[Temaer/programmering\|programmering]]                                                     | 24     |
+| [[Temaer/programmering\|programmering]]                                                     | 23     |
 | [[proporsjonale størrelser\|proporsjonale størrelser]]                                         | 3      |
 | [[proporsjonalitet\|proporsjonalitet]]                                                         | 1      |
 | [[Temaer/prosent\|prosent]]                                                                 | 8      |
 | [[prosentvis endring\|prosentvis endring]]                                                     | 3      |
-| [[prosentvis endring i flere perioder\|prosentvis endring i flere perioder]]                   | 3      |
+| [[prosentvis endring i flere perioder\|prosentvis endring i flere perioder]]                   | 4      |
 | [[Temaer/rasjonale funksjoner\|rasjonale funksjoner]]                                       | 1      |
 | [[Temaer/regresjon\|regresjon]]                                                             | 9      |
 | [[Temaer/rekker\|rekker]]                                                                   | 23     |
@@ -87,7 +89,7 @@
 | [[tallregning\|tallregning]]                                                                   | 1      |
 | [[Temaer/tolke grafer\|tolke grafer]]                                                       | 8      |
 | [[Temaer/tolkning av integraler\|tolkning av integraler]]                                   | 5      |
-| [[Temaer/trigonometri\|trigonometri]]                                                       | 6      |
+| [[Temaer/trigonometri\|trigonometri]]                                                       | 11     |
 | [[Temaer/uendelig rekke\|uendelig rekke]]                                                   | 7      |
 | [[Temaer/utforskning\|utforskning]]                                                         | 16     |
 | [[Temaer/varians\|varians]]                                                                 | 6      |

@@ -26,7 +26,6 @@
 | [[Program for reduksjon av matsvinn\|Program for reduksjon av matsvinn]]                                                                                       |
 | [[Normalfordelt hoppkonkurranse\|Normalfordelt hoppkonkurranse]]                                                                                               |
 | [[Monas lån\|Monas lån]]                                                                                                                                       |
-| [[Miriam og Hermods sparing\|Miriam og Hermods sparing]]                                                                                                       |
 | [[Kubikktall\|Kubikktall]]                                                                                                                                     |
 | [[Billetter til fotballkamp\|Billetter til fotballkamp]]                                                                                                       |
 | [[Areal under graf med programmering\|Areal under graf med programmering]]                                                                                     |

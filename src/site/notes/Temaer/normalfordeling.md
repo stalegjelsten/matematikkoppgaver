@@ -20,8 +20,8 @@
 | [[Hypotesetest om russetid\|Hypotesetest om russetid]]                                                                                             |
 | [[Hypotesetest bensin\|Hypotesetest bensin]]                                                                                                       |
 | [[Hildes terningkast\|Hildes terningkast]]                                                                                                         |
-| [[Finn riktig graf for normalfordelingene\|Finn riktig graf for normalfordelingene]]                                                               |
 | [[Forventningsverdi og varians fra graf av normalfordeling\|Forventningsverdi og varians fra graf av normalfordeling]]                             |
+| [[Finn riktig graf for normalfordelingene\|Finn riktig graf for normalfordelingene]]                                                               |
 | [[Figurer som viser normalfordeling\|Figurer som viser normalfordeling]]                                                                           |
 
 { .block-language-dataview}
