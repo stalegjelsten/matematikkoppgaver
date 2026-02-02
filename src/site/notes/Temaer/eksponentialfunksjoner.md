@@ -11,5 +11,6 @@
 | [[Program for reduksjon av matsvinn\|Program for reduksjon av matsvinn]] |
 | [[Modell for reduksjon av utslipp\|Modell for reduksjon av utslipp]]     |
 | [[Halvert fuglebestand\|Halvert fuglebestand]]                           |
+| [[Eksponentiell vekst nettbutikk\|Eksponentiell vekst nettbutikk]]       |
 
 { .block-language-dataview}

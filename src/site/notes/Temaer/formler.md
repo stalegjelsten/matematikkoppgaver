@@ -4,9 +4,11 @@
 
 
 # formler
-| file.link                                                       |
-| --------------------------------------------------------------- |
-| [[Strømforbruk på vaskemaskin\|Strømforbruk på vaskemaskin]] |
-| [[Lydstyrke fra fly\|Lydstyrke fra fly]]                     |
+| file.link                                                                                         |
+| ------------------------------------------------------------------------------------------------- |
+| [[Strømforbruk på vaskemaskin\|Strømforbruk på vaskemaskin]]                                   |
+| [[Lydstyrke fra fly\|Lydstyrke fra fly]]                                                       |
+| [[Transformator med vindinger og effekttrekant\|Transformator med vindinger og effekttrekant]] |
+| [[Effekttrekant og virkningsgrad\|Effekttrekant og virkningsgrad]]                             |
 
 { .block-language-dataview}
