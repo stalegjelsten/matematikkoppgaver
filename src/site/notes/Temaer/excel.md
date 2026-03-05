@@ -9,6 +9,7 @@
 | [[Olivias annuitetslån\|Olivias annuitetslån]]           |
 | [[Noras sparing og lån\|Noras sparing og lån]]           |
 | [[Hildegunns ukepenger\|Hildegunns ukepenger]]           |
+| [[Ellas BSU-sparing\|Ellas BSU-sparing]]                 |
 | [[Bredden av teltplassen\|Bredden av teltplassen]]       |
 | [[Billetter til fotballkamp\|Billetter til fotballkamp]] |
 | [[Annuitetslån\|Annuitetslån]]                           |

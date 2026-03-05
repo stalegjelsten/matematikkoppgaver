@@ -8,8 +8,8 @@
 | ----------------------------------------------------------------------------------------------------------------- |
 | [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]]                                                             |
 | [[Prosentvis prisøkning h25\|Prosentvis prisøkning h25]]                                                       |
-| [[Prosentvis framgang for to partier\|Prosentvis framgang for to partier]]                                     |
 | [[Prisstigning på vare\|Prisstigning på vare]]                                                                 |
+| [[Prosentvis framgang for to partier\|Prosentvis framgang for to partier]]                                     |
 | [[Monas prisøkning\|Monas prisøkning]]                                                                         |
 | [[Investeringer og avkastning\|Investeringer og avkastning]]                                                   |
 | [[Elever i klassen basert på prosentandel\|Elever i klassen basert på prosentandel]]                           |

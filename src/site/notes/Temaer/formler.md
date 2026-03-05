@@ -7,8 +7,8 @@
 | file.link                                                                                         |
 | ------------------------------------------------------------------------------------------------- |
 | [[Strømforbruk på vaskemaskin\|Strømforbruk på vaskemaskin]]                                   |
-| [[Lydstyrke fra fly\|Lydstyrke fra fly]]                                                       |
 | [[Transformator med vindinger og effekttrekant\|Transformator med vindinger og effekttrekant]] |
+| [[Lydstyrke fra fly\|Lydstyrke fra fly]]                                                       |
 | [[Effekttrekant og virkningsgrad\|Effekttrekant og virkningsgrad]]                             |
 
 { .block-language-dataview}

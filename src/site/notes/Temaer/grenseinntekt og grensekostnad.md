@@ -6,7 +6,7 @@
 | file.link                                                                         |
 | --------------------------------------------------------------------------------- |
 | [[templates/_2oppgave-template\|_2oppgave-template]]                           |
+| [[Fagsider/1P-Y EL\|1P-Y EL]]                                                  |
 | [[Areal av kvadrat som tangerer sirkel\|Areal av kvadrat som tangerer sirkel]] |
-| [[1P-Y EL\|1P-Y EL]]                                                           |
 
 { .block-language-dataview}

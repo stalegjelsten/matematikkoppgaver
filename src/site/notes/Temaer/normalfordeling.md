@@ -7,14 +7,14 @@
 | file.link                                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Vekten til poteter\|Vekten til poteter]]                                                                                                         |
-| [[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole]] |
 | [[Simuler sannsynlighet for høyden til 24 måneder gammelt barn\|Simuler sannsynlighet for høyden til 24 måneder gammelt barn]]                     |
+| [[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole]] |
 | [[Simuler sannsynlighet for høyde over 175 cm\|Simuler sannsynlighet for høyde over 175 cm]]                                                       |
+| [[Normalfordelt hoppkonkurranse\|Normalfordelt hoppkonkurranse]]                                                                                   |
 | [[Normalfordelte vinterdekk\|Normalfordelte vinterdekk]]                                                                                           |
 | [[Normalfordelte hjortebukker\|Normalfordelte hjortebukker]]                                                                                       |
 | [[Normalfordelt laks\|Normalfordelt laks]]                                                                                                         |
 | [[Normalfordelt intelligens\|Normalfordelt intelligens]]                                                                                           |
-| [[Normalfordelt hoppkonkurranse\|Normalfordelt hoppkonkurranse]]                                                                                   |
 | [[Lykkehjulet\|Lykkehjulet]]                                                                                                                       |
 | [[Levetiden til normalfordelte batterier\|Levetiden til normalfordelte batterier]]                                                                 |
 | [[Hypotesetest om russetid\|Hypotesetest om russetid]]                                                                                             |
