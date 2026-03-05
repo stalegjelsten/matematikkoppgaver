@@ -27,7 +27,7 @@
 | [[Temaer/enhetskostnad\|enhetskostnad]]                                                     | 6      |
 | [[enhetssirkel\|enhetssirkel]]                                                                 | 1      |
 | [[etterspørsel\|etterspørsel]]                                                                 | 2      |
-| [[Temaer/excel\|excel]]                                                                     | 6      |
+| [[Temaer/excel\|excel]]                                                                     | 7      |
 | [[Temaer/faktorisering\|faktorisering]]                                                     | 2      |
 | [[figurtall\|figurtall]]                                                                       | 4      |
 | [[Temaer/formler\|formler]]                                                                 | 4      |
@@ -80,7 +80,7 @@
 | [[Temaer/sannsynlighet\|sannsynlighet]]                                                     | 18     |
 | [[sentralmål\|sentralmål]]                                                                     | 6      |
 | [[Temaer/simulering\|simulering]]                                                           | 6      |
-| [[sparing\|sparing]]                                                                           | 3      |
+| [[sparing\|sparing]]                                                                           | 4      |
 | [[spredningsmål\|spredningsmål]]                                                               | 1      |
 | [[Temaer/standard normalfordeling\|standard normalfordeling]]                               | 8      |
 | [[standardavvik\|standardavvik]]                                                               | 1      |

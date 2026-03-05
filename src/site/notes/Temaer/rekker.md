@@ -17,16 +17,16 @@
 | [[Summen av repeterende brøker\|Summen av repeterende brøker]]                                 |
 | [[Sum av integralrekke\|Sum av integralrekke]]                                                 |
 | [[S2 H2025 ulike rekker del 1\|S2 H2025 ulike rekker del 1]]                                   |
-| [[Rekursiv sammenheng mellom pentagontall\|Rekursiv sammenheng mellom pentagontall]]           |
 | [[Påstand om sum av rekke\|Påstand om sum av rekke]]                                           |
+| [[Rekursiv sammenheng mellom pentagontall\|Rekursiv sammenheng mellom pentagontall]]           |
 | [[Olivias annuitetslån\|Olivias annuitetslån]]                                                 |
 | [[Miriam og Hermods sparing\|Miriam og Hermods sparing]]                                       |
 | [[Mathias sine lån for å kjøpe bil\|Mathias sine lån for å kjøpe bil]]                         |
 | [[Idas jakke\|Idas jakke]]                                                                     |
 | [[Hildegunns ukepenger\|Hildegunns ukepenger]]                                                 |
-| [[Begrunn at uendelig rekke konvergerer\|Begrunn at uendelig rekke konvergerer]]               |
 | [[Aritmetiske og geometriske rekker h24\|Aritmetiske og geometriske rekker h24]]               |
 | [[Aritmetisk rekke\|Aritmetisk rekke]]                                                         |
+| [[Begrunn at uendelig rekke konvergerer\|Begrunn at uendelig rekke konvergerer]]               |
 | [[Aritmetisk mur\|Aritmetisk mur]]                                                             |
 | [[Annuitetslån\|Annuitetslån]]                                                                 |
 

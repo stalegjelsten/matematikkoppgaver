@@ -10,7 +10,7 @@
 | [[Tunge kuler i kasse\|Tunge kuler i kasse]]                                                                               |
 | [[Sannsynlighetsfordeling til brettspill\|Sannsynlighetsfordeling til brettspill]]                                         |
 | [[Sannsynlighet for poengtap ved poengspill\|Sannsynlighet for poengtap ved poengspill]]                                   |
-| [[Forventningsverdi og varians fra sannsynlighetsfordeling\|Forventningsverdi og varians fra sannsynlighetsfordeling]]     |
 | [[Forventningsverdi og varians fra sannsynlighetsfordeling 2\|Forventningsverdi og varians fra sannsynlighetsfordeling 2]] |
+| [[Forventningsverdi og varians fra sannsynlighetsfordeling\|Forventningsverdi og varians fra sannsynlighetsfordeling]]     |
 
 { .block-language-dataview}

@@ -10,8 +10,8 @@
 | [[Tunge kuler i kasse\|Tunge kuler i kasse]]                                                                               |
 | [[Sannsynlighetsfordeling til brettspill\|Sannsynlighetsfordeling til brettspill]]                                         |
 | [[Sannsynlighet for poengtap ved poengspill\|Sannsynlighet for poengtap ved poengspill]]                                   |
+| [[Forventningsverdi og varians fra sannsynlighetsfordeling 2\|Forventningsverdi og varians fra sannsynlighetsfordeling 2]] |
 | [[Hypotesetest med smak av cola\|Hypotesetest med smak av cola]]                                                           |
 | [[Forventningsverdi og varians fra sannsynlighetsfordeling\|Forventningsverdi og varians fra sannsynlighetsfordeling]]     |
-| [[Forventningsverdi og varians fra sannsynlighetsfordeling 2\|Forventningsverdi og varians fra sannsynlighetsfordeling 2]] |
 
 { .block-language-dataview}
