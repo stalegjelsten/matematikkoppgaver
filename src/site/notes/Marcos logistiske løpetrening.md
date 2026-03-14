@@ -23,14 +23,15 @@ Marco skal løpe maraton og starter løpetrening. I tabellen nedenfor ser du hvo
 
 >[!oppgave]
 >b) Når økte antallet løpte kilometer per uke raskest, ifølge modellen?
-
->[!oppgave]
+>
 >Hvor stor var økningen da?
 
 Marco merket etter noen uker at løpeskoene begynte å bli slitt, og at han trengte nye sko. Han bestemte seg for ả kjøpe nye sko etter å ha løpt totalt 500 km.
 
 >[!oppgave]
->c) Hvor mange uker hadde Marco løpt da han kjøpte seg nye sko? Hvor mange kilometer hadde han løpt i gjennomsnitt per uke før dette?
+>c) Hvor mange uker hadde Marco løpt da han kjøpte seg nye sko? 
+>
+>Hvor mange kilometer hadde han løpt i gjennomsnitt per uke før dette?
 
 >[!question]- Fasit
 >b) Ved $t=10{,}4$, det vil si i den 11. uka. Økningen var da 9,4 km per uke.
