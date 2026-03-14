@@ -86,3 +86,31 @@
 .callout[data-callout="oppgave"] .callout-content ol[type="a"] li::marker {
   font-weight: 700;
 }
+
+/* Skjul tags i toppen av siden */
+.header-tags {
+  display: none;
+}
+
+/* Lys bakgrunn bak bilder med transparens, sentrerte */
+article img,
+article svg {
+  background-color: #e8e4df;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Unntatt MathJax-SVG-er, callout-ikoner og collapse-pil */
+article mjx-container svg,
+article mjx-container svg *,
+article .callout-icon svg,
+article .callout-icon svg *,
+article .callout-fold svg,
+article .callout-fold svg * {
+  background-color: unset;
+  display: unset;
+  margin-left: unset;
+  margin-right: unset;
+}
+
