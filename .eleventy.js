@@ -475,12 +475,15 @@ module.exports = function(eleventyConfig) {
       // Normalize innerHTML: collapse <p>...</p> boundaries into <br> so both
       // single-paragraph (breaks:true → <br>) and multi-paragraph content work.
       const rawHtml = contentDiv.innerHTML;
-      const normalized = rawHtml
+      // Pre-process: wrap display math (block mjx-container) in <p> so the
+      // </p><p> → <br> logic below handles it correctly.
+      const preprocessed = rawHtml
+        .replace(/(<\/p>)\s*(<mjx-container[^>]*\bdisplay="true"[^>]*>)/gi, "$1<p>$2")
+        .replace(/(<\/mjx-container>)\s*(<p>)/gi, "$1</p>$2");
+      const normalized = preprocessed
         .replace(/^\s*<p>\s*/i, "")          // strip leading <p>
         .replace(/\s*<\/p>\s*$/i, "")        // strip trailing </p>
-        .replace(/\s*<\/p>\s*<p>\s*/gi, "<br>") // paragraph boundaries → <br>
-        .replace(/\s*<\/p>/gi, "<br>")       // remaining </p> (before block elements like mjx-container)
-        .replace(/<p>\s*/gi, "<br>");         // remaining <p> (after block elements)
+        .replace(/\s*<\/p>\s*<p>\s*/gi, "<br>"); // paragraph boundaries → <br>
       const lines = normalized.split(/<br\s*\/?>/i);
 
       const segments = []; // Each segment is either {type:"ol", items:[{letter, html, continuation:[]}]} or {type:"p", html}
