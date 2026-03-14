@@ -16,6 +16,7 @@ Du starter med 10 poeng, og hvert kast koster 2 poeng.
 
 La $x$ være endringen i poeng for hvert kast, det vil si poengene fra kastet fratrukket de to poengene kastet koster.
 
+>[!oppgave]
 >a) Skriv av tabellen under og fyll inn det som mangler
 
 Table: {.tall}
@@ -24,8 +25,10 @@ Table: {.tall}
 | :------: | :-------: | :-----------: | :-------: | :-------: |
 | $P(X=x)$ | $\Box$ | $\frac{1}{4}$ | $\Box$ | $\Box$ |
 
+>[!oppgave]
 > b) Bestem $\text{E}(X)$. Hva forteller dette svaret?
 
+>[!oppgave]
 > c) Bestem $\text{Var}(X)$.
 
 >[!question]- Fasit

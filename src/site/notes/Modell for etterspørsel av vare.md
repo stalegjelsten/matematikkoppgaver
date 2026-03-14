@@ -16,14 +16,17 @@ Tabellen viser den daglige etterspørselen etter en vare for ulike priser.
 | 40 | 22 |
 | 50 | 12 |
 
+>[!oppgave]
 >a) Lag en modell $q$ som kan brukes til å beskrive sammenhengen mellom prisen $p$ (i kroner) og den daglige etterspørselen. Vurder gyldighetsområdet til modellen.
 
+>[!oppgave]
 >b) Hva bør prisen for varen være dersom bedriften skal selge 70 enheter per dag?
 
 For en annen vare viser det seg at $p=79-12{,}2\ln x$.
 
 Her er $x$ den daglige etterspørselen når varen koster $p$ kroner.
 
+>[!oppgave]
 >c) Hva må prisen være dersom inntektene skal bli størst mulig?
 
 Kostnadene $K$ (i kroner) ved produksjon og salg av $x$ enheter per dag er gitt ved 
@@ -32,6 +35,7 @@ $$
 K(x) = 0{,}021x^{2}+10x+910
 $$
 
+>[!oppgave]
 >d) Hvor mange enheter må produseres og selges per dag for at grenseinntektene skal bli lik grensekostnadene?
 >Gi en praktisk tolkning av svaret
 

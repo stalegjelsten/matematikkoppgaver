@@ -13,9 +13,11 @@
 Ovenfor ser du tre figurer. Figurene er satt sammen av pinner.  
 Tenk deg at du skal fortsette å lage figurer etter samme mønster.
 
+>[!oppgave]
 >a) Hvor mange pinner vil det være i figur 4?  
 >   Hvor mange pinner vil det være i figur 10?
 
+>[!oppgave]
 >b) Lag en formel for antallet pinner i figur $n$.
 
 Vivian har laget programmet nedenfor.
@@ -45,6 +47,7 @@ Resultat:
 
 ![areal-av-kvadrat-som-kvadrerer-sirkel.png](/img/user/_resources/areal-av-kvadrat-som-kvadrerer-sirkel.png)
 
+>[!oppgave]
 >c) Hva vil Vivian finne ut?  
 >   Hva forteller verdiene som skrives ut?  
 >   Husk å begrunne svaret ditt.

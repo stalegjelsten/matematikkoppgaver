@@ -13,11 +13,13 @@ $$
 
 er en god modell for antallet enheter butikken har solgt av produktet per uke, $t$ uker etter at produktet kom i salg.
 
+>[!oppgave]
 >a) Når økte slaget raskest, ifølge modellen, og hvor mye økte salget da?
 >b) Hvor lang tid gikk det før det samlede salget passerte 2000 enheter, ifølge modellen?
 
 Inntekten fra salget av produktet har vært 1 000 000 kroner det første året.
 
+>[!oppgave]
 >c) Hvilken pris har butikken solgt produktet for?
 
 >[!question]- Fasit

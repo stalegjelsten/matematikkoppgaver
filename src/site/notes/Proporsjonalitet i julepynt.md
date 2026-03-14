@@ -16,6 +16,7 @@ I en matematikktime ber læreren elevene ta utgangspunkt i denne situasjonen og 
 **Hanne sier:**
 "Jeg tror beløpet hver av oss må betale, er omvendt proporsjonalt med hvor mange som blir med å dele på utgiftene. Er det riktig?"
 
+>[!oppgave]
 >Svar på spørsmålene Nils og Hanne stiller, og forklar begrepene proporsjonalitet og omvendt proporsjonalitet med utgangspunkt i situasjonen som er beskrevet i oppgaveteksten.
 
 >[!question]- Fasit

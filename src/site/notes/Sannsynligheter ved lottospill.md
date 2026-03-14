@@ -12,6 +12,7 @@ Oppgave b finner du her [[Har alle fjerdegradsfunksjoner ekstremalpunkt\|Har all
 
 I spillet Lotto trekkes det sju tilfeldige naturlige tall mindre eller lik 34 uten tilbakelegging.
 
+>[!oppgave]
 >c) Sannsynligheten for at alle de sju tallene er mindre enn 18 , er like stor som sannsynligheten for at ingen av de sju tallene er mindre enn 18.
 
 >[!question]- Fasit

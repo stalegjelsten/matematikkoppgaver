@@ -26,6 +26,7 @@ while x <= 4:
 print(s)
 ```
 
+>[!oppgave]
 > a) Gi en praktisk tolkning av uttrykket Sara har brukt i linje 2.  
 > b) Hva vil verdien som skrives ut når programmet kjøres, fortelle Sara?  
 

@@ -20,6 +20,7 @@ Mona låner 1 000 000 kroner i banken til 3 % rente per år. Hun får følge
 |        224317 |      117230 |  6730 | 110501 |        113816 |
 |        113816 |      117230 |  3414 | 113816 |             0 |
 
+>[!oppgave]
 > a) Hva slags lån er dette, og hva kjennetegner et slikt lån?
 
 Mona vil utforske lånet og begynner på en kode i Python som skal lage nedbetalingsplanen:
@@ -44,6 +45,7 @@ for i in range(antall_terminer):
 >
 > For at dette skal fungere så er det viktig at man avslutter og starter hver linje med anførselstegn. Dersom man vil bruke variabler inni strengene må vi skrive *f* foran for å gjøre om strengen til en f-streng.
 
+>[!oppgave]
 > b) Hjelp Mona med hva som skal stå i linjene 7, 8, 9 og 10.
 > c) Hvor mye skal Mona betale inn i renter totalt i hele nedbetalingsperioden?
 

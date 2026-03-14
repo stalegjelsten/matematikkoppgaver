@@ -25,6 +25,7 @@ for i in range(n):
 print(round(I,3))
 ```
 
+>[!oppgave]
 > a) Forklar hva eleven ønsker å regne ut.
 > b) Hva blir det eksakte svaret på oppgaven eleven ønsker å løse?
 

@@ -10,6 +10,7 @@ En dekkprodusent påstår at bremselengden for en type vinterdekk under bestemte
 
 La $X$ være bremselengden ved en tilfeldig måling under disse forholdene. Gå ut fra at $X$ er normalfordelt med $\mu=83 \,\text{m}$ og $\sigma=3{,}0\, \text{m}$.
 
+>[!oppgave]
 > a) Bestem sannsynligheten for at bremselengden ved en tilfeldig valgt måling er lengre enn 87 meter.
 > b) Bestem $k$ slik at $P(X<k)=0{,}9$. Gi en praktisk tolkning av svaret.
 > c) Bestem sannsynligheten for at gjennomsnittet av 15 målinger er mindre enn 84 meter.
@@ -24,6 +25,7 @@ Det ble gjennomført 15 målinger. Resultatet av målingene (i meter) er gitt i 
 | 86,4 | 82,3 | 85,9 | 77,7 | 83,0 |
 | 86,9 | 88,3 | 86,2 | 80,5 | 84,8 |
 
+>[!oppgave]
 >d) Gjennomfør en hypotesetest med et signifikansnivå på 5 prosent til å avgjøre om det er hold i mistanken.
 
 >[!question]- Fasit

@@ -22,6 +22,7 @@ To av linjene tangerer grafen til $K$. Vi kaller tangeringspunktene $A$ og $B$.
 
 ![s2-h23-1-3.png](/img/user/_resources/s2-h23-1-3.png)
 
+>[!oppgave]
 > a) Bestem enhetskostnaden ved produksjon av 40 enheter.
 > b) Forklar at grensekostnaden ved produksjon av 40 enheter er 31 kroner.
 > c) Bestem den minste enhetskostnaden.

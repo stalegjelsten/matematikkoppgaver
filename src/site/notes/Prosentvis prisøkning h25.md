@@ -8,6 +8,7 @@
 
 Prisen for en vare settes opp fra 300 kroner til 315 kroner.
 
+>[!oppgave]
 >Hvor mange prosent settes prisen opp med?
 
 >[!question]- Fasit

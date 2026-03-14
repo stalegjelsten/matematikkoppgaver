@@ -16,6 +16,7 @@ Dag 5: 23 kroner
 
 Etter disse fem dagene har han 55 kroner på konto. Wiggo ønsker å fortsette med denne sparingen i samme mønster i dagene framover.
 
+>[!oppgave]
 >Beskriv den rekursive sammenhengen mellom sparebeløpene.
 >Lag et program som bruker denne rekursive sammenhengen til å vise hvor mange dager Wiggo må spare før han har 100000 kroner på konto.
 

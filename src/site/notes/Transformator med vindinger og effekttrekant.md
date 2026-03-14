@@ -16,6 +16,7 @@ $$
 \frac{\text{spenning primærside}}{\text{spenning sekunderside}}= \frac{\text{antall primærvindinger}}{\text{antall sekundærvindinger}}
 $$
 
+>[!oppgave]
 > a) Hvor mange vindinger har sekundærspolen?
 
 Til transformatoren blir det koblet en belastning på 5000 W, som tilsvarer $P$ i effekttrekanten. Den tilsynelatende effekten $S$ er da 6500 kVA.
@@ -80,10 +81,12 @@ Til transformatoren blir det koblet en belastning på 5000 W, som tilsvarer $P$ 
 - $P$ = aktiv effekt
 - $S$ = tilsynelatende effekt
 
+>[!oppgave]
 > b) Skisser effekttrekanten til transformatoren ved denne belastningen, og sett på de oppgitte verdiene. Beregn vinkelen $\phi$ mellom tilsynelatende og aktiv effekt.
 
 Den reaktive effekten $Q$ i transformatoren kan beregnes med to ulike matematiske metoder.
 
+>[!oppgave]
 > c) Forklar hvilke to metoder dette er, og bruk en av dem til å finne $Q$.
 
 >[!question]- Fasit

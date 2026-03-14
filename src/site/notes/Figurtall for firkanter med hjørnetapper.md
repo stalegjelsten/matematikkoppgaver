@@ -12,6 +12,7 @@ Her ser du tre figurer. Figurene er satt sammen av små sirkler.
 
 Tenk deg at du skal fortsette å lage figurer etter samme mønster.  
 
+>[!oppgave]
 > a) Hvor mange små sirkler vil det være i figur 4 og i figur 10?  
 > b) Lag en formel for antall sirkler i figur $n$.  
 

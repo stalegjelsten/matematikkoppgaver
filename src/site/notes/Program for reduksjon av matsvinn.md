@@ -29,6 +29,7 @@ Når Sofie kjører programmet, blir disse verdiene skrevet ut:
 79.74734731199999
 ```
 
+>[!oppgave]
 >Forklar hva Sofie ønsker å finne ut.  
 >Hva forteller verdiene som blir skrevet ut når Sofie kjører programmet?
 

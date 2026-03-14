@@ -12,6 +12,7 @@ Et hagesenter ønsker å satse på salg av en ny type planter. De startet salget
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Inntekt (kr/uke) | 2900 | 4400 | 12200 | 23400 | 28800 | 34600 | 41000 | 40800 |
 
+>[!oppgave]
 >a) Bruk informasjonen i tabellen til å lage en modell I på formen
 >
 >$$I(t)=\frac{B}{1+a \cdot e^{-k t}}$$
@@ -19,8 +20,10 @@ Et hagesenter ønsker å satse på salg av en ny type planter. De startet salget
 >for inntekten $I(t)$ kroner per uke, $t$ uker etter uke 17.
 >Vurder modellens gyldighetsområde.
 
+>[!oppgave]
 >b) Når økte inntekten mest, ifølge modellen? Hvor mye økte inntekten med på dette tidspunktet?
 
+>[!oppgave]
 >c) Løs likningen
 >
 >$$\int_0^x I(t) d t=65000$$

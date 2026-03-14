@@ -6,6 +6,7 @@
 # Påstand om sum av rekke
 
 
+>[!oppgave]
 >Avgjør om påstanden nedenfor er sann eller usann. Forklar tydelig hvordan du har resonnert.
 
 En uendelig geometriske rekke er gitt ved $1+\left( \ln x -1 \right) + \left( \ln x -1 \right)^{2}\dots$

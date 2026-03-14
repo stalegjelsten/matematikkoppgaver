@@ -15,14 +15,17 @@ Tabellen nedenfor viser forventningsverdi og standardavvik for lengden på et ho
 | Maren  |     80 meter      |    5 meter    |
 | Espen  |     75 meter      |   10 meter    |
 
+>[!oppgave]
 >a) Gjør beregninger for hver skihopper, og bestem sannsynligheten for at skihopperen hopper lenger enn 90 meter i et tilfeldig hopp.
 
 I første omgang hoppet Maren 83 meter.
 
+>[!oppgave]
 >b) Bestem sannsynligheten for at Maren hoppet lengst i denne omgangen.
 
 I andre omgang gjør alle et nytt hopp.
 
+>[!oppgave]
 > c) Bruk simulering og bestem sannsynligheten for at Maren hopper lengst i denne omgangen.
 
 >[!question]- Fasit

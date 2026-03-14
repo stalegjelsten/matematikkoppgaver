@@ -9,6 +9,7 @@ Et lykkehjul har fem felter. Et av feltene er grønt, og de fire andre er røde.
 
 Tenk deg at du skal snurre lykkehjulet 100 ganger. La $X$ være antall ganger lykkehjulet stopper på det grønne feltet.
 
+>[!oppgave]
 > a) Forklar at $X$ er binomisk fordelt med $μ_{X} =20$ og $σ_{X} =4$.
 > b) Forklar at $X$ er tilnærmet normalfordelt.
 > c) Bestem sannsynligheten for at lykkehjulet stopper på det grønne feltet mer enn 25 ganger.

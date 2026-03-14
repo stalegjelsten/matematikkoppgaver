@@ -4,10 +4,10 @@
 
 
 # Meta
-- [[Unpublished notes\|Unpublished notes]]
-- [[Todo\|Todo]]
 - [[Roadmap\|Roadmap]]
 - [[Ressurser\|Ressurser]]
+- [[Unpublished notes\|Unpublished notes]]
+- [[Todo\|Todo]]
 - [[Meta\|Meta]]
 - [[Alle oppgaver\|Alle oppgaver]]
 

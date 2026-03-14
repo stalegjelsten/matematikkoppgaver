@@ -11,10 +11,12 @@ Linjen $y=138x-9920$ tangerer grafen $K$ i punktet $\left( 180, \,14\,920 \right
 
 ![Kostnadsfunksjon med to rette linjer](/img/user/_resources/s2-v25-kostnadsfunksjon.png)
 
+>[!oppgave]
 > a) Bruk figuren til å finne enhetskostnaden og grensekostnaden når det blir produsert 180 enheter. Husk å begrunne svarene.
 
 Vi setter prisen per enhet til $p$ kroner, slik at inntekten $I(x)$ kroner er gitt ved $I(x)=p \cdot x$.
 
+>[!oppgave]
 > b) Bestem prisen $p$ slik at overskuddet vil bli størst mulig ved produksjon og salg av 180 enheter
 
 > [!question]- Fasit

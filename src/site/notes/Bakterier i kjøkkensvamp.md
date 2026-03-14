@@ -10,6 +10,7 @@ Randi har lest at det kan finnes mellom $25$ og $54$ milliarder bakterier per ku
 
 Randi finner ut at kjøkkensvampen hun bruker, har et volum på $150 \,\mathrm{cm^3}$.  
 
+>[!oppgave]
 > a) Omtrent hvor mange bakterier kan Randi regne med at det er i kjøkkensvampen?  
 > Skriv svaret på standardform.  
 
@@ -17,6 +18,7 @@ Randi har også lest at de fleste bakterier ikke er større enn $0{,}2$ til $2$ 
 
 Tenk deg at alle bakteriene i svampen legges etter hverandre i en rekke.  
 
+>[!oppgave]
 >b) Omtrent hvor mange meter vil rekken bli? Skriv svaret på standardform.  
 
 >[!question]- Fasit

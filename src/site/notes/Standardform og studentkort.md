@@ -10,6 +10,7 @@
 
 Anta at alle studentene kjøper 10 månedskort i løpet av et år.
 
+>[!oppgave]
 >Omtrent hvor mye betaler studentene til sammen for kollektivtransport i løpet av et år dersom antagelsen stemmer? Skriv svaret på standardform.
 
 >[!question]- Fasit

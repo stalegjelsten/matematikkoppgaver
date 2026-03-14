@@ -13,6 +13,7 @@ som en modell for hvor stort beløp kroner de måtte samle inn hver måned for �
 
 I modellen svarte $x=0$ til august, $x=1$ til september og så videre. 
 
+>[!oppgave]
 > a) Gjør rede for hva modellen forteller om elevenes plan for å nå målet. 
 > b) Hvor stort beløp regnet elevene med å samle inn i mai 2023 ifølge modellen? Elevene laget programmet nedenfor.
 
@@ -33,6 +34,7 @@ while x <= 9:
 print(sum_pant)
 ```
 
+>[!oppgave]
 > c) Bruk programmet til å vise at elevene ikke vil nå målet med den planen de har lagt. Foreslå justeringer av modellen som vil gjøre at de kan nå målet.
 
 >[!question]- Fasit

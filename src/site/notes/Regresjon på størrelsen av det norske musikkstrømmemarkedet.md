@@ -11,6 +11,7 @@ Tabellen nedenfor viser hvor mange millioner kroner som ble brukt på strømming
 | --------- |:----:|:----:|:----:|:----:|:----:|:----:|
 | Strømming |  2   |  70  | 246  | 456  | 582  | 655  |
 
+>[!oppgave]
 >a) Lag en modell $F$ som du kan bruke til å bestemme hvor mange millioner kroner som ble brukt på strømming i Norge per år i perioden 2008-2018 og årene etterpå. Velg $x$-verdier slik at $F(0)$ gir hvor mange millioner kroner som ble brukt i 2008. Begrunn valget av modell.
 
 Nedenfor ser du fire formler.
@@ -19,8 +20,10 @@ $$
 I=\int_{-0,5}^{10,5} F(x) \mathrm{d} x, \quad G=\frac{1}{5} \int_{2,5}^{7,5} F(x) \mathrm{d} x, \quad S=\sum_{i=0}^{10} F(i), \quad D=\frac{F(5,001)-F(5)}{0,001}
 $$
 
+>[!oppgave]
 >b) Bestem $I, G, S$ og $D$.
 
+>[!oppgave]
 >c) Gi en praktisk tolkning av svarene i oppgave b. 
 
 >[!question]- Fasit

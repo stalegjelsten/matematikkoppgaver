@@ -10,6 +10,7 @@ Chris arbeider med de seks oppgavene nedenfor. Han har systematisert oppgavene i
 
 ![](/img/user/_resources/2py-h24-2-3.png)
 
+>[!oppgave]
 >Argumenter for hvorfor to oppgaver som er satt opp i oppgavepar på samme måte som ovenfor, alltid vil ha samme svar.  
 
 >[!question]- Fasit

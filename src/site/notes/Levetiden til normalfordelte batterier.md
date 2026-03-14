@@ -7,12 +7,15 @@
 
 Levetiden $X$ til et tilfeldig valgt batteri er normalfordelt med forventet levetid 500 timer og standardavvik 50 timer.
 
+>[!oppgave]
 >a) Bestem sannsynligheten for at et tilfeldig valgt batteri vil ha en levetid på mer enn 600 timer.
 
 Sannsynligheten er 75,8 prosent for at levetiden til et tilfeldig valgt batteri er mer enn $t$ timer.
 
+>[!oppgave]
 >b) Bestem $t$.
 
+>[!oppgave]
 >c) Hvilken av de grafiske framstillingene nedenfor illustrerer $X$ ? Husk å argumentere for svaret.
 
 ![](https://cdn.mathpix.com/cropped/2023_05_27_0e0b8d19e4104951d013g-12.jpg?height=666&width=1510&top_left_y=1636&top_left_x=318)

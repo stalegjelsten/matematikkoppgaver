@@ -8,6 +8,7 @@
 
 En gartner sår 1000 frø. Frøene har en spireevne på 70 %.
 
+>[!oppgave]
 > a) Hvilken av de to figurene nedenfor viser sannsynlighetstettheten for antall frø som spirer?
 > 
 > Husk å begrunne svaret ditt.
@@ -16,6 +17,7 @@ En gartner sår 1000 frø. Frøene har en spireevne på 70 %.
 
 En stokastisk variabel er normalfordelt med $E(X)=50$ og $\sigma=10$.
 
+>[!oppgave]
 >b) Hvilken av de to figurene nedenfor viser sannsynlighetstettheten til denne stokastiske variabelen?
 >
 >Husk å begrunne svaret ditt.

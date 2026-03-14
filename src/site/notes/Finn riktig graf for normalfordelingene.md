@@ -10,10 +10,12 @@ På en skole med mange elever er høyden til elevene tilnærmet normalfordelt me
 
 Vi trekker ut én tilfeldig elev fra skolen og måler hvor høy eleven er.
 
+>[!oppgave]
 > a) Hvilken figur nedenfor viser sannsynlighetsfordelingen til denne hendelsen?
 
 Vi trekker ut 25 tilfeldige elever fra skolen, måler hvor høye elevene er, og regner ut gjennomsnittshøyden.
 
+>[!oppgave]
 > b) Hvilken figur nedenfor viser sannsynlighetsfordelingen til denne hendelsen?
 
 Husk å begrunne svarene dine.

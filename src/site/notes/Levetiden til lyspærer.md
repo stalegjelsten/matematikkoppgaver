@@ -20,8 +20,10 @@ k\cdot e^{-0{,}005t} &,\quad t>0 \\
 \end{cases}
 $$
 
+>[!oppgave]
 > a) Vis at $k=0{,}005$.
 
+>[!oppgave]
 > b) Hva er sannsynligheten for at lyspærens levetid er mer enn 400 timer?
 
 Forventningsverdien $\mu$ til en kontinuerlig stokastisk variabel med tetthetsfunksjonen $f$ er gitt ved
@@ -30,6 +32,7 @@ $$
 \mu=\int_{-\infty}^{\infty} x\cdot f(x) \, \mathrm{d}x 
 $$
 
+>[!oppgave]
 > c) Bestem forventningsverdien til $T$.
 
 >[!question]- Fasit

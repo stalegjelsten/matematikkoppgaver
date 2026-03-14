@@ -22,8 +22,10 @@ $$
 
 der $p$ er prisen per vare i kroner
 
+>[!oppgave]
 >a) Regn ut $E(30)$. Gi en praktisk tolkning av svaret du får.
 
+>[!oppgave]
 >b) Finn et uttrykk $I(x)$ for inntekten som en funksjon av antall solgte enheter.
 
 >[!question]- Fasit

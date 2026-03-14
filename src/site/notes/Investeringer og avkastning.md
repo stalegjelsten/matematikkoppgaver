@@ -22,6 +22,7 @@ Vegard investerte pengene sine i ulike aksjer hvert år.
 - I 2023 steg verdien med 23 %
 - I 2024 steg verdien med 17 %
 
+>[!oppgave]
 >Gjør beregninger og lag en oversikt som viser hvor mye penger hver av de tre har ved starten av 2025.
 
 >[!question]- Fasit

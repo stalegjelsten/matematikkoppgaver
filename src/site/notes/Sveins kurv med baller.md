@@ -8,6 +8,7 @@
 
 Svein har en kurv med røde og blå baller. Det er like mange baller av hver farge i kurven. Svein tar 15 baller tilfeldig fra kurven. Han ser etterpå at han trakk 9 røde og 6 blå baller.
 
+>[!oppgave]
 >a) Bestem sannsynligheten for at han får dette resultatet dersom han starter med 30 baller i kurven.
 >b) Hva er det mest sannsynlige antallet baller som lå i kurven?
 

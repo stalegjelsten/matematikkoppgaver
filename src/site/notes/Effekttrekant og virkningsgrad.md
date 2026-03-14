@@ -80,8 +80,10 @@ $$
 
 For en enfase-elmotor leser du på merkeskiltet at $U=230 \mathrm{~V}$, $I=7{,}5 \mathrm{~A}$ og $\cos \phi=0{,}8$.
 
+>[!oppgave]
 > a) Beregn tilsynelatende effekt $S$ og aktiv effekt $P$ til motoren.
 
+>[!oppgave]
 >b) Hvor stor er fasevinkelen $\phi$ målt i grader hvis $P$ og $Q$ skal være like store?  
 >Hvordan vil størrelsen på $Q$ bli påvirket hvis $\cos \phi$ minker?
 
@@ -102,6 +104,7 @@ $$
 P_{a}=U \cdot I \cdot \cos \phi \cdot \sqrt{  3 } \cdot \eta
 $$
 
+>[!oppgave]
 >c) Bruk formelen og gjør beregninger for å finne den manglende verdien.
 
 >[!question]- Fasit

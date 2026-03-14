@@ -25,6 +25,7 @@ En elev har skrevet koden nedenfor
 14 print(S)
 ```
 
+>[!oppgave]
 >a) Forklar hva eleven ønsker å regne ut med denne koden.
 >b) Finn ved regning den verdien eleven ønsker å bestemme.
 

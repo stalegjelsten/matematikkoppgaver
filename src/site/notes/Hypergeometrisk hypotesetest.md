@@ -10,8 +10,10 @@ En bedrift skal ansette en ny person i en stilling og har fått 100 godt kvalifi
 
 Fagforeningen lurer på om dette faktisk er tilfeldig, eller om ledelsen bevisst velger menn. De ber deg gjennomføre en hypotesetest med signifikansnivå 5 %.
 
+>[!oppgave]
 >a) Formuler nullhypotesen $H_{0}$ og alternativhypotesen $H_{1}$ for testen. Forklar hvorfor en hypergeometrisk sannsynlighetsfordeling er mest passende for denne testen.
 
+>[!oppgave]
 >b) Gjennomfør hypotesetesten og vurder om det er grunnlag for å si at ledelsen bevisst velger menn.
 
 >[!question]- Fasit

@@ -19,6 +19,7 @@ while S <= 200:
 print(n)
 ```
 
+>[!oppgave]
 >a) Forklar hva eleven prøver å finne ut.
 >b) Finn verdien eleven får skrevet ut når programmet kjøres.
 

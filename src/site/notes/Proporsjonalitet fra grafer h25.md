@@ -10,8 +10,10 @@ Nedenfor ser du grafene til fire funksjoner $p$, $q$, $r$ og $s$.
 
 ![Fire funksjonsgrafer](/img/user/_resources/2p-y-h25-grafer.png)
 
+>[!oppgave]
 >a) Hvilken av grafene ovenfor er grafen til en funksjon som beskriver sammenhengen mellom to proporsjonale størrelser? Begrunn svaret. Bestem funksjonsuttrykket for denne funksjonen.
 
+>[!oppgave]
 >b) Hvilken av grafene ovenfor er grafen til en funksjon som beskriver sammenhengen mellom to omvendt proporsjonale størrelser? Begrunn svaret. Bestem funksjonsuttrykket for denne funksjonen.
 
 >[!question]- Fasit
