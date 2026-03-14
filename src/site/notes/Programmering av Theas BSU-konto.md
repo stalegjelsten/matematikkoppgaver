@@ -1,0 +1,40 @@
+---
+{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["programmering","sparing"],"fag":["2p-y"],"eksamen":"v24","del":1,"oppgave":6,"title":null,"source":null,"todo":null,"status":null,"permalink":"/programmering-av-theas-bsu-konto/","dgPassFrontmatter":true}
+---
+
+
+
+
+Thea vil spare penger og har lest at det er lurt å opprette en BSU-konto i banken. Hun finner informasjonen nedenfor. 
+
+
+> [!note] Betingelser for BSU-sparing
+> 
+> Med BSU-konto kan du spare 27 500 kroner årlig og 300 000 kroner totalt.
+> 
+> Du får bankens beste rente, som nå er 6,8 % per år.
+
+Thea har skrevet programkoden nedenfor. 
+
+Hva er det hun vil finne ut? Forklar hver linje i programkoden.
+
+```python
+innskudd = 27500
+prosent_rente = 6.8
+BSU = 0
+
+for år in range(2024, 2034):
+    
+    BSU = BSU + innskudd
+    
+    renter = prosent_rente * BSU / 100
+    
+    BSU = BSU + renter
+    
+    print(år, round(renter), round(BSU))
+```
+
+>[!question]- Fasit
+> 
+>
+

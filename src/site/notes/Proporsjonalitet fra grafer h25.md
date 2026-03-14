@@ -4,7 +4,6 @@
 
 
 # Proporsjonalitet fra grafer 2P-Y H25
-<p><span><em>Oppgaven er hentet fra eksamen 2P-Y H25 del 1 oppgave 5.</em></span></p>
 
 
 Nedenfor ser du grafene til fire funksjoner $p$, $q$, $r$ og $s$.

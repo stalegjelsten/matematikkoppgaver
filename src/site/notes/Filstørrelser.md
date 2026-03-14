@@ -3,7 +3,6 @@
 ---
 
 
-<p><span><em>Oppgaven er hentet fra eksamen 1P-Y EL H25 del 1 oppgave 4.</em></span></p>
 >[!important] Bits og bytes
 >
 >Husk: 1 byte = 8 bit
@@ -20,7 +19,4 @@ Du har et nett som er tregt. Det tar 16 sekunder for å laste ned en fil på 8 M
 >[!question]- Fasit
 > 
 >
-
-## Relatert
-<h3><span>Tilfeldige oppgaver i samme fag</span></h3><p><span>Det er ofte best å blande hvilke type oppgaver man gjør dersom du skal forberede deg til en prøve eller eksamen. Her er tre tilfeldige oppgaver i 1P-Y EL.</span></p><div><ul class="dataview list-view-ul"><li><span><a data-tooltip-position="top" aria-label="Effekttrekant og elmotor.md" data-href="Effekttrekant og elmotor.md" href="Effekttrekant og elmotor.md" class="internal-link" target="_blank" rel="noopener nofollow">Effekttrekant og elmotor 1P-Y EL V24 Del 2 oppg 1</a></span></li><li><span><a data-tooltip-position="top" aria-label="Bruke definisjonene av sinus og cosinus til å sette opp forhold.md" data-href="Bruke definisjonene av sinus og cosinus til å sette opp forhold.md" href="Bruke definisjonene av sinus og cosinus til å sette opp forhold.md" class="internal-link" target="_blank" rel="noopener nofollow">Bruke definisjonene av sinus og cosinus til å sette opp forhold 1P-Y EL H24 Del 1 oppg 4</a></span></li><li><span><a data-tooltip-position="top" aria-label="Felix sine effektdiagrammer.md" data-href="Felix sine effektdiagrammer.md" href="Felix sine effektdiagrammer.md" class="internal-link" target="_blank" rel="noopener nofollow">Felix sine effektdiagrammer 1P-Y EL H25 Del 1 oppg 5</a></span></li></ul></div><h3><span>Lignende oppgaver sortert etter tema</span></h3>
 
