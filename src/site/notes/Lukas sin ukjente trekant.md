@@ -12,11 +12,11 @@ Lukas får følgende opplysninger om en rettvinklet trekant ABC:
 
 Lukas stiller seg to spørsmål:
 
->[!note] Spørsmål 1
+>[!green-box]
 > Jeg vil finne lengden av siden $AC$, som er hypotenusen i trekanten.  
 > Hvordan kan jeg benytte trigonometri til å beregne denne lengden?
 
->[!note] Spørsmål 2
+>[!blue-box]
 >Jeg vil tegne en skisse av trekant $ABC$ basert på de oppgitte verdiene.  
 >Hvordan kan en slik skisse se ut?
 
