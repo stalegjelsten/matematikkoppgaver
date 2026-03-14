@@ -124,6 +124,11 @@
   display: none;
 }
 
+/* Fjern toppmargin for sideinnhold */
+.content {
+  padding-top: 0 !important;
+}
+
 /* Skjul tags i toppen av siden */
 .header-tags {
   display: none;
