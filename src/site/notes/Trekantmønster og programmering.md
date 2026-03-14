@@ -43,6 +43,8 @@ Resultat:
 1023
 ```
 
+![areal-av-kvadrat-som-kvadrerer-sirkel.png](/img/user/_resources/areal-av-kvadrat-som-kvadrerer-sirkel.png)
+
 >c) Hva vil Vivian finne ut?  
 >   Hva forteller verdiene som skrives ut?  
 >   Husk å begrunne svaret ditt.
