@@ -10,11 +10,12 @@
 
 I en matematikktime ber læreren elevene ta utgangspunkt i denne situasjonen og diskutere begrepene proporsjonalitet og omvendt proporsjonalitet.
 
-**Nils sier:**
-"Jeg tror antallet julekuler vi kjøper, og prisen vi må betale til sammen for juletreet og julekulene, vil være proporsjonale størrelser. Jo flere kuler vi kjøper, jo mer må vi betale. Eller?"
+>[!blue-box] Nils sier
+>
+>«Jeg tror antallet julekuler vi kjøper, og prisen vi må betale til sammen for juletreet og julekulene, vil være proporsjonale størrelser. Jo flere kuler vi kjøper, jo mer må vi betale. Eller?»
 
-**Hanne sier:**
-"Jeg tror beløpet hver av oss må betale, er omvendt proporsjonalt med hvor mange som blir med å dele på utgiftene. Er det riktig?"
+>[!yellow-box] Hanne sier
+>«Jeg tror beløpet hver av oss må betale, er omvendt proporsjonalt med hvor mange som blir med å dele på utgiftene. Er det riktig?»
 
 >[!oppgave]
 >Svar på spørsmålene Nils og Hanne stiller, og forklar begrepene proporsjonalitet og omvendt proporsjonalitet med utgangspunkt i situasjonen som er beskrevet i oppgaveteksten.
