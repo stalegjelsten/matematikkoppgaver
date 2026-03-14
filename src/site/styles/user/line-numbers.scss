@@ -16,6 +16,7 @@ pre.has-line-numbers .line-numbers-col {
     border-right: 1px solid var(--background-modifier-border, #444);
     counter-reset: none;
     flex-shrink: 0;
+    font-size: var(--code-size);
     line-height: var(--line-height-normal, 1.5);
 }
 
