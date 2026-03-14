@@ -20,8 +20,6 @@ Marco skal løpe maraton og starter løpetrening. I tabellen nedenfor ser du hvo
 >er en god modell for sammenhengen mellom uker etter treningsstart ($t$) og antall kilometer løpt per uke ($L$).
 >
 >Forklar hvorfor en modell av denne typen kan passe godt til denne praktiske situasjonen.
-
->[!oppgave]
 >b) Når økte antallet løpte kilometer per uke raskest, ifølge modellen?
 >
 >Hvor stor var økningen da?
