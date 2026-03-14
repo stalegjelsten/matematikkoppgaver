@@ -16,7 +16,7 @@ I modellen svarte $x=0$ til august, $x=1$ til september og så videre.
 > a) Gjør rede for hva modellen forteller om elevenes plan for å nå målet. 
 > b) Hvor stort beløp regnet elevene med å samle inn i mai 2023 ifølge modellen? Elevene laget programmet nedenfor.
 
-```python { .line-numbers }
+```python ln
 def P(x):
     return 1600 * 1.045 ** x     # Definerer funksjonen P
 
