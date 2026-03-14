@@ -1,0 +1,33 @@
+/* Line numbers for code blocks (syntax: ```lang ln) */
+pre.has-line-numbers {
+    display: flex;
+    padding: 0;
+    overflow-x: auto;
+    white-space: pre;
+}
+
+pre.has-line-numbers .line-numbers-col {
+    display: flex;
+    flex-direction: column;
+    padding: var(--size-4-3, 12px) 0.75em;
+    text-align: right;
+    color: var(--text-faint, #555);
+    user-select: none;
+    border-right: 1px solid var(--background-modifier-border, #444);
+    counter-reset: none;
+    flex-shrink: 0;
+    line-height: var(--line-height-normal, 1.5);
+}
+
+pre.has-line-numbers .line-numbers-col span {
+    line-height: var(--line-height-normal, 1.5);
+    display: block;
+}
+
+pre.has-line-numbers > code {
+    padding: var(--size-4-3, 12px) var(--size-4-4, 16px);
+    white-space: pre;
+    overflow-x: visible;
+    flex: 1;
+    line-height: var(--line-height-normal, 1.5);
+}

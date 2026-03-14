@@ -22,10 +22,10 @@ function userMarkdownSetup(md) {
           .replace(/"/g, "&quot;");
       const lines = token.content.split("\n");
       if (lines[lines.length - 1] === "") lines.pop();
-      const numberedLines = lines
-        .map((line) => `<span class="line">${escapeHtml(line)}</span>`)
-        .join("\n");
-      return `<pre class="line-numbers"><code class="language-${lang || "text"}">${numberedLines}\n</code></pre>`;
+      const lineNumbers = lines
+        .map((_, i) => `<span>${i + 1}</span>`)
+        .join("");
+      return `<pre class="has-line-numbers"><span class="line-numbers-col" aria-hidden="true">${lineNumbers}</span><code class="language-${lang || "text"}">${escapeHtml(token.content)}</code></pre>`;
     }
     return origFenceRule(tokens, idx, options, env, slf);
   };

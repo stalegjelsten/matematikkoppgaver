@@ -3,8 +3,8 @@ pagination:
   data: collections.unikeTemaer
   size: 1
   alias: tema
-permalink: "/temaer/{{ tema | slugify }}/"
 eleventyComputed:
+  permalink: "/temaer/{{ tema | slugify }}/"
   title: "{{ tema }}"
 layout: layouts/note.njk
 tags: []
