@@ -9,14 +9,17 @@
 
 En gruppe speidere har slått opp telt ved en elv. De har et tau som er 80 m langt, og fire pinner. Tauet og pinnene skal de bruke til å sette opp et gjerde rundt teltet. Området de gjerder inn, skal ha form som et rektangel, og de vil ikke sette opp gjerde langs elven. Se skissen ovenfor.
 
+>[!oppgave]
 >a) Hvor stort blir arealet av området dersom de velger at lengden skal være 60 meter?
 
 Herman påstår at arealet av området blir størst dersom lengden er dobbelt så lang som bredden.
 
+>[!oppgave]
 >b) Lag en systematisk oversikt som viser arealet av ulike områder som de kan gjerde inn. Bruk oversikten til å argumentere for at Herman sin påstand kan være riktig.
 
 Josefine lurer på om de kan tegne en graf som viser at Herman har rett. Hun prøver å sette opp et funksjonsuttrykk som hun kan bruke.
 
+>[!oppgave]
 >c) Sett opp et funksjonsuttrykk for Josefine. Tegn grafen og vis at Hermann sin påstand er riktig. 
 
 >[!question]- Fasit

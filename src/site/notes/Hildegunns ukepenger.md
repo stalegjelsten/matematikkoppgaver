@@ -17,6 +17,7 @@ $$
 b_{n}=b_{n-1} \cdot 1,05
 $$
 
+>[!oppgave]
 >a) Bestem det ukentlige beløpet hen får de fire første ukene med hvert av de to tilbudene.
 >b) Hvor mange uker tar det før tilbud 2 vil gi mer ukelønn enn tilbud 1?
 >c) Hvor mange uker tar det før tilbud 2 til sammen vil gi mer lønn enn tilbud 1 ?

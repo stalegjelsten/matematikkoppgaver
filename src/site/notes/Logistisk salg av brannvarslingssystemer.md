@@ -12,6 +12,7 @@ $$
 B(t)=\frac{1700000}{1+500 e^{-0,07 t}}
 $$
 
+>[!oppgave]
 >a) Hvor lang tid vil det ta før halvparten av husstandene i byen har brannvarslingssystemet, ifølge modellen?
 >b) Bestem $B^{\prime}(52)$.
 >  Gi en praktisk tolkning av svaret.
@@ -23,6 +24,7 @@ Etter å ha hørt om planene til UnSaif antar SaifY at
 - fire tusen husstander har brannvarslingssystemet når det lanseres
 - flest nye husstander kjøper brannvarslingssystemet i uke 65
 
+>[!oppgave]
 >c) Bruk antakelsene ovenfor til å lage en ny logistisk modell $F$ for antallet husstander som har brannvarslingssystemet etter $t$ uker.
 
 >[!question]- Fasit

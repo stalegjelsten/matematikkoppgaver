@@ -13,8 +13,10 @@ $$
 
 er en modell for temperaturen $T(x)$ grader celsius i sjøen ett sted på Sørlandet $x$ døgn etter 31. desember 2020.
 
+>[!oppgave]
 >a) Bruk modellen til å bestemme forskjellen mellom høyeste og laveste temperatur i sjøen de 300 første dagene i 2021.
 
+>[!oppgave]
 >b) Hvor mange grader steg temperaturen i sjøen i gjennomsnitt med hvert døgn i mars ifølge modellen?
 
 >[!question]- Fasit

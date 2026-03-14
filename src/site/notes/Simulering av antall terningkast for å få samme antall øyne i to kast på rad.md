@@ -11,11 +11,13 @@ Hun har laget tabellen nedenfor.
 | :--------------------------------------- | :-: | :-: | :-----------: | :--------------------------: | :--------------------------: | :--------------------------: | :-: |
 | Sannsynlighet for at kastet er nødvendig |  1  |  1  | $\frac{5}{6}$ | $\left(\frac{5}{6}\right)^2$ | $\left(\frac{5}{6}\right)^3$ | $\left(\frac{5}{6}\right)^4$ |  ⋯  |
 
+>[!oppgave]
 >a) Forklar at
 >$$1+1+\frac{5}{6}+\left(\frac{5}{6}\right)^2+\left(\frac{5}{6}\right)^3+\ldots$$
 >vil gi det forventede antallet kast Ane må gjøre for å få det samme antallet øyne i to kast på rad.
 >Bestem denne verdien.
 
+>[!oppgave]
 >b) Bruk simulering til å bestemme forventningsverdien til summen av antall øyne Ane vil få på terningen i kastene hun bruker for å få det samme antallet øyne i to kast på rad.
 
 

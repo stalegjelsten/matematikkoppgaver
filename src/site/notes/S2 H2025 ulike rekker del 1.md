@@ -10,6 +10,7 @@ $$
 -3+0+3+\ldots+69
 $$
 
+>[!oppgave]
 > a) Bestem summen av rekken.
 
 Ta utgangspunkt i den uendelige geometriske rekken
@@ -18,9 +19,11 @@ $$
 5+5 \cdot\left(\frac{1}{2}-x\right)+5 \cdot\left(\frac{1}{2}-x\right)^2+\ldots
 $$
 
+>[!oppgave]
 > b) Bestem konvergensområdet til rekken.
 
 En ball faller fra 2 meters høyde. Hver gang ballen treffer bakken, spretter den opp til en høyde som er $75 \%$ av høyden den falt fra.
+>[!oppgave]
 > c) Hvor mange meter vil ballen bevege seg totalt?
 
 >[!question]- Fasit

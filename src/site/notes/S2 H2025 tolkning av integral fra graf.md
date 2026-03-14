@@ -8,6 +8,7 @@ Nedenfor ser du grafen til funksjonen $f$ gitt ved $f(x)=x^3+x^2-2 x$.
 
 ![](/img/user/_resources/s2-h25-1-3.png)
 
+>[!oppgave]
 > a) Hvilket av uttrykkene nedenfor gir arealet av det markerte området på figuren? Husk å begrunne svaret ditt.
 
 1. $\int_{-2}^1 f(x) d x$
@@ -15,6 +16,7 @@ Nedenfor ser du grafen til funksjonen $f$ gitt ved $f(x)=x^3+x^2-2 x$.
 3. $\int_{-2}^0 f(x) d x+\int_0^1 f(x) d x$
 4. $\int_{-2}^0 f(x) d x-\int_0^1 f(x) d x$
 
+>[!oppgave]
 > b) Regn ut arealet av det markerte området på figuren.
 
 Kristian ønsker å finne en verdi $a<0$, som er slik at $\int_a^1 f(x) d x=0$.
@@ -22,6 +24,7 @@ Han bruker en kalkulator og finner at $a \approx -0{,}6$.
 
 Unni påstår at likningen til Kristian har to løsninger.
 
+>[!oppgave]
 > c) Forklar hvorfor påstanden til Unni er riktig, og bruk figuren til å anslå omtrent hvilken verdi den andre løsningen kan ha.
 
 

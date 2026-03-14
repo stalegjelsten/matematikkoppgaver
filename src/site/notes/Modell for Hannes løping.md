@@ -18,10 +18,13 @@ $$L(x) = a \cdot x^b \quad , \quad x \geq 1$$
 
 der $L(x)$ er antall minutter Hanne klarte å løpe sammenhengende på dag $x$.  
 
+>[!oppgave]
 >a) Bruk opplysningene i tabellen til å bestemme tallene $a$ og $b$.  
 
+>[!oppgave]
 >b) Hvor mange uker vil det ta før Hanne klarer å løpe 45 minutter sammenhengende ifølge modellen?  
 
+>[!oppgave]
 >c) Hvor mange minutter har tiden Hanne klarer å løpe sammenhengende, økt med i gjennomsnitt per dag fra dag 1 til dag 60 ifølge modellen?  
 
 >[!question]- Fasit

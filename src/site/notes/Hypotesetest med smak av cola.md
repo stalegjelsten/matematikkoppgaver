@@ -11,14 +11,17 @@ Han fyller tilfeldig 10 glass med cola, og Marte skal smake på dem for å avgj�
 
 La $X$ være antall riktige svar Marte gir når hun smaker på 10 glass med tilfeldig colatype.
 
+>[!oppgave]
 >a) Bestem $P(X=6)$ dersom Marte bare tipper tilfeldig på en colatype for hvert av de 10 glassene. Hvilke antagelser gjør du når du regner ut denne sannsynligheten?
 
 Marte svarer så godt hun kan, og får riktig i 8 av de 10 tilfellene.
 
+>[!oppgave]
 >b) Avgjør ved hjelp av hypotesetesting om det er grunnlag for å si at Marte kan gjenkjenne de to colatypene. Bruk et signifikansnivå på 5 prosent.
 
 Birger synes 10 glass er litt lite i blindtesten. Han vil derfor gjøre en ny blindtest med 30 glass.
 
+>[!oppgave]
 >c) Hvor mange riktige svar må Marte minst gi for å overbevise Birger om at hun kan gjenkjenne de to colatypene? Bruk også her et signifikansnivå på 5 prosent. 
 
 >[!question]- Fasit

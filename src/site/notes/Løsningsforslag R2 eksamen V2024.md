@@ -49,4 +49,5 @@ $$
 >[!danger] Morsom løsning
 >
 «Verdien» $a_{1}=e^{-x}$ vil gi
+>[!oppgave]
 >$$S(x)=a_{1} \cdot e^{x}=e^{-x} \cdot e^{x} = 1 $$

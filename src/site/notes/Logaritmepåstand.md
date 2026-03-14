@@ -7,6 +7,7 @@
 
 Nedenfor ser du tre påstander. Avgjør i hvert tilfelle om påstanden er sann eller usann. Husk å vise tydelig hvordan du argumenterer og resonnerer.
 
+>[!oppgave]
 >a) Hvis $x>0$, så er $(\ln x)^4=4 \ln x$.
 
 Neste påstand finner du her: [[Har alle fjerdegradsfunksjoner ekstremalpunkt\|Har alle fjerdegradsfunksjoner ekstremalpunkt]]

@@ -13,8 +13,10 @@ I dag er skjerfet 8 meter langt.
 - Elevene ønsker å organisere strikkingen slik at lengden av skjerfet øker med like mange centimeter hver uke.
 - Målet er at skjerfet etter 25 uker skal være 40 meter langt.
 
+>[!oppgave]
 > a) Sett opp en modell som viser hvor langt skjerfet vil være etter $x$ dersom elevene klarer å organisere strikkingen slik de ønsker, og når målet.
 
+>[!oppgave]
 >b) Hvor mange uker vil det gå før skjerfet er 17 meter langt, ifølge modellen i oppgave a)?
 
 >[!question]- Fasit

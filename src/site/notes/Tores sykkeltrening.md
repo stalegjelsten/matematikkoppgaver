@@ -12,8 +12,10 @@ Den første uken vil han sykle 40 kilometer.
 
 For hver uke vil han øke lengden han sykler, med 5 %.
 
+>[!oppgave]
 > a) Hvor mange kilometer kommer han til å sykle i uke 50 dersom han klarer å følge planen?
 
+>[!oppgave]
 > b) Hvor mange kilometer vil han til sammen ha syklet i løpet av 50 uker dersom han klarer å følge planen?
 
 >[!question]- Fasit

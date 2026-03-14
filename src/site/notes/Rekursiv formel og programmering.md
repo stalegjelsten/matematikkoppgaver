@@ -6,8 +6,10 @@
 # Rekursiv formel og programmering
 
 
+>[!oppgave]
 >a) Bestem en rekursiv formel for tallfølgen $1, 2, 6,15,31,56,\dots$
 
+>[!oppgave]
 >b) Bruk den rekursive formelen du fant i oppgave a), og lag et program som regner ut summen av de 30 første leddene i tallfølgen.
 >
 >Husk å legge ved bilde av både koden og resultatet av kjøringen.

@@ -8,6 +8,7 @@
 Trym og Eira arbeider med oppgaven nedenfor.
 
 ---
+>[!oppgave]
 >Funksjonen $f$ er gitt ved
 >
 >$$f(x)=x^{3}-3 x^{2}+2$$
@@ -29,8 +30,10 @@ TRYM: Ja, i alle fall for alle tredjegradsfunksjoner. Det har jeg lært meg.
 
 TRYM: Æsj! Det stemmer. Det kan jo hende du har litt rett likevel, men at det er noe mer vi må se etter?
 
+>[!oppgave]
 >a) Løs oppgaven elevene arbeider med.
 
+>[!oppgave]
 >b) Ta utgangspunkt i dialogen ovenfor. Utforsk og kommenter Trym sin «regel». 
 
 >[!question]- Fasit

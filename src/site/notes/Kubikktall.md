@@ -345,6 +345,7 @@
 
 De fem første kubikktallene er $1^{3}, 2^{3}, 3^{3}, 4^{3}$ og $5^{3}$, se figuren over. La $S_{n}$ være summen av de $n$ første kubikktallene. 
 
+>[!oppgave]
 >a) Beskriv den rekursive sammenhengen mellom $S_{n}$ og $S_{n+1}$. Bestem en eksplisitt formel for $S_{n}$.
 >b) Lag et program som regner ut den rekursive sammenhengen du fant i oppgave a.
 

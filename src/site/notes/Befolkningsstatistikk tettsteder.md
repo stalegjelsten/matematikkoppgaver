@@ -22,12 +22,14 @@ Tabellen nedenfor viser innbyggertallet i de ti største tettstedene i Norge i 2
 |  9  | Tønsberg               |  55 939    |
 | 10  | Ålesund                |  55 684    |
 
+>[!oppgave]
 >a) Bestem medianen, gjennomsnittet, standardavviket og variasjonsbredden for innbyggertallet i de ti største tettstedene i Norge.
 
 Kine og Håkon diskuterer hvilket sentralmål som er best å bruke for å beskrive datamaterialet.
 
 Håkon mener det er best å bruke gjennomsnittet. Kine mener det er best å bruke medianen.
 
+>[!oppgave]
 >b) Hvem er du mest enig med?
 >   Husk å begrunne svaret ditt.
 
@@ -37,6 +39,7 @@ Gjennomsnittet, medianen og standardavviket for de ti største tettstedene i Dan
 | :----------: | :----: | :-----------: |
 |   235 549    | 67 832 |    388 000    |
 
+>[!oppgave]
 >c) Hva kan du si om folketallet i de danske tettstedene sammenliknet med de norske ut fra tallene i tabellen og resultatene fra oppgave a)?
 
 >[!question]- Fasit

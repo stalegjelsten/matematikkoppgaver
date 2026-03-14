@@ -12,10 +12,12 @@ $12,\,14,\,40,\,42,\,70,\,67,\,5,\,5,\,28,\,30$
 
 Påstand 1: Dersom det kommer en ny person inn i rommet, vil medianalderen endres.
 
+>[!oppgave]
 > a) Er denne påstanden riktig? Begrunn.
 
 Påstand 2: Dersom det kommer en ny person inn i rommet, kan gjennomsnittsalderen bli $30$ år.
 
+>[!oppgave]
 >b) Er denne påstanden riktig? Begrunn.
 
 > [!question]- Fasit

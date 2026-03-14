@@ -85,10 +85,12 @@ $$
 
 For en elmotor leser du på merkeskiltet at $U=230 \mathrm{~V}$, $I=7{,}5 \mathrm{~A}$ og $\cos \phi = 0{,}8$.
 
+>[!oppgave]
 >a) Finn fasevinkelen $\phi$ og regn ut $P_{t}$
 
 For en annen trefase elmotor er $P_{t}=2500 \mathrm{~W}$ og $S=3000 \mathrm{~VA}$
 
+>[!oppgave]
 >b) Beregn fasevinkelen $\phi$ og den reaktive effekten $Q$ til elmotoren.
 
 Virkningsgraden $\eta$ til en elmotor er forholdet mellom avgitt effekt $P_{a}$ og tilført effekt $P_{t}$. 
@@ -103,6 +105,7 @@ Du får oppgitt følgende data om ytterligere to ulike elmotorer.
 | Motor 1 | 1297 VA |  0,7   |  800 W  |
 | Motor 2 | 2431 VA |  0,8   | 1556 W  |
 
+>[!oppgave]
 >c) Gjør beregninger og vurder hvilken av motorene som har størst fasevinkel $\phi$ (i grader).
 
 

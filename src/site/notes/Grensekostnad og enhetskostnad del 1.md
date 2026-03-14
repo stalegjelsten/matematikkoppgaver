@@ -14,10 +14,12 @@ $$
 
 Her er $x$ antall enheter produsert og solgt per uke.
 
+>[!oppgave]
 >a) For hvilken $x$-verdi er grensekostnaden lik enhetskostnaden? Gi en praktisk tolkning av svaret.
 
 Bedriften regner med å selge varen for 400 kr per enhet.
 
+>[!oppgave]
 >b) Hvor mange enheter må bedriften produsere og selge for at overskuddet skal bli størst mulig?
 
 >[!question]- Fasit

@@ -12,14 +12,17 @@ Etter 5 år vil det samlede lånebeløpet være 799 273 kr. Rentesatsen er 5,242
 
 Rentene i Lånekassen begynner først å løpe rett etter fullført studium. Første avdrag betales ett år etter at du har fullført studiet. Nedbetalingstid er maks 30 år med én termin per år.
 
+>[!oppgave]
 >a) Vis at terminbeløpene Ole må betale, blir 53 437 kr dersom han velger maks nedbetalingstid.
 
 Det er forventet at rentesatsen blir lavere fremover. Ole regner litt på det og tenker at med den forventede rentesatsen kan han klare å betale ned lånet på 25 år, med det samme terminbeløpet som i oppgave a).
 
+>[!oppgave]
 >b) Hva må rentesatsen være hvis han skal klare det?
 
 Ole tenker at han etter hvert kan klare å betale et større terminbeløp. Han ser for seg at han betaler samme terminbeløp som i oppgave a) de 12 første årene. Deretter øker han terminbeløpet med 5 % per termin resten av nedbetalingstiden. Han antar at rentesatsen vil være 5,242 % per år gjennom hele perioden.
 
+>[!oppgave]
 >c) Hvor mange år vil det ta før lånet er nedbetalt, dersom Ole klarer dette?
 
 >[!question]- Fasit

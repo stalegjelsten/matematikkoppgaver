@@ -12,6 +12,7 @@ Til et brettspill hører det med en spesiell terning med 6 sider. Det er en side
 | :------: | :-----------: | :-: | :-: | :-: |
 | $P(X=k)$ | $\frac{1}{6}$ |     |     |     |
 
+>[!oppgave]
 >a) Skriv av og fyll ut tabellen. Vis at $E(X)=4$.
 >b) Bestem $\text{Var}(X)$.
 

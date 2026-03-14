@@ -12,8 +12,10 @@ $$
 K(x)=700 \cdot e^{\frac{x}{200}}, \quad\quad x\in \left< 0,500 \right] 
 $$
 
+>[!oppgave]
 > a) Bestem $K'(150)$. Gi en praktisk tolkning av svaret.
 
+>[!oppgave]
 > b) Bestem produksjonsmengden som gir den laveste enhetskostnaden. Hva blir denne enhetskostnaden?
 
 Bedriften selger alle varene den produserer. Inntekten $I(x)$ kroner ved salg av $x$ enheter av varen per dag er gitt ved
@@ -22,6 +24,7 @@ $$
 I(x)=80x-0{,}10x^{2}
 $$
 
+>[!oppgave]
 >c) Hvor mange enheter av varen må bedriften produsere og selge for å gå med overskudd?
 
 >[!question]- Fasit

@@ -10,6 +10,7 @@
 
 Ovenfor ser du tre figurer. Figurene er satt sammen av små hvite og grønne kvadrater. Tenk deg at du skal fortsette å lage figurer etter samme mønster.
 
+>[!oppgave]
 > a) Hvor mange små grønne kvadrater vil det være i figur $5$?
 > b) Lag en formel for antallet hvite kvadrater i figur $n$.  
 

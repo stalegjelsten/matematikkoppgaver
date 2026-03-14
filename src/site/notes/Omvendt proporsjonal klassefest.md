@@ -8,6 +8,7 @@
 
 Elevene i klasse 3PBB vil leie et lokale for å arrangere klassefest. De vil spleise på utgiftene. Ovenfor ser du grafen til en funksjon $f$. Grafen viser sammenhengen mellom hvor mange elever som blir med på festen, og prisen hver elev må betale:
 
+>[!oppgave]
 >a) Hvor mye må hver elev betale dersom $20$ elever blir med på festen?
 >b) Bestem funksjonsuttrykket $f(x)$.
 

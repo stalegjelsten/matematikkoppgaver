@@ -13,8 +13,10 @@ $$
 
 Menneskets øre har en smertegrense for lydstyrke som ligger omkring $130 \mathrm{~dB}$.
 
+>[!oppgave]
 >a) Bestem lydintensiteten når lydstyrken er $130 \mathrm{~dB}$.
 
+>[!oppgave]
 >b) Hvor mange prosent øker lydintensiteten dersom lydstyrken øker med $2 \mathrm{~dB}$ ?
 
 Dersom effekten til lyden som sendes ut fra en lydkilde er $E$, vil lydintensiteten $I$ på en avstand $r$ (målt i m) fra denne lydkilden være
@@ -25,6 +27,7 @@ $$
 
 Lydstyrken fra et fly er $140 \mathrm{~dB}$ dersom du er $50 \mathrm{~m}$ fra flyet.
 
+>[!oppgave]
 >c) Bestem den minste avstanden til dette flyet der lydstyrken er lavere enn $130 \mathrm{~dB}$.
 
 >[!question]- Fasit

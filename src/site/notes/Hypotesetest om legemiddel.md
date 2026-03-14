@@ -12,6 +12,7 @@ Et smertestillende legemiddel, A, er tilgjengelig på markedet. Legemiddelet dem
 - Vi tester legemiddel A på $n$ pasienter.
 - Legemiddel A virker på $X$ av disse pasientene.
  
+>[!oppgave]
 >a) Hvilken sannsynlighetsfordeling har $X$? Begrunn svaret ditt. Regn ut $P(X=9)$ når $n=12$.
 
 Et nytt legemiddel, B, skal også dempe smerte hos pasienter.
@@ -19,10 +20,12 @@ Et nytt legemiddel, B, skal også dempe smerte hos pasienter.
 - Legemiddel B er testet ut på 10 pasienter.
 - Legemiddel B virket på 9 av disse 10 pasientene.
 
+>[!oppgave]
 >b) La $p$ være sannsynligheten for at B virker på en pasient. Gjennomfør en hypotesetest med signifikansnivå på 5 %. Bruk denne til å vurdere om du kan si at legemiddel B virker med høyere sannsynlighet enn A.
 
 Legemiddel B blir gitt til 200 pasienter.
 
+>[!oppgave]
 >c) Hvor mange pasienter må legemiddel B minst virke på for at vi skal kunne konkludere med at legemiddel B virker med høyere sannsynlighet enn legemiddel A? Bruk et signifikansnivå på 5 %.
 
 >[!question]- Fasit

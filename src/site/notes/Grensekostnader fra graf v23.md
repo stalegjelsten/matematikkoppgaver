@@ -9,8 +9,10 @@ Figuren nedenfor viser grafen til kostnadsfunksjonen og grafen til inntektsfunks
 
 ![](/img/user/_resources/s2-v23-1-2.png)
 
+>[!oppgave]
 >a) Forklar hvordan du ut fra den grafiske framstillingen kan bestemme en tilnærmet verdi for grensekostnaden når det blir produsert 40 enheter. Omtrent hvor stor er denne grensekostnaden?
 
+>[!oppgave]
 >b) Forklar hvordan du, ved å se på stigningstallet i ulike punkt på grafene, kan avgjøre hvor mange enheter som må produseres for at overskuddet skal bli størst mulig. 
 
 >[!question]- Fasit

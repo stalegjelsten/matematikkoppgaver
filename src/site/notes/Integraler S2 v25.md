@@ -8,10 +8,12 @@
 
 Regn ut integralene
 
+>[!oppgave]
 >a)
 >
 >$$\int_{0}^{1} (2e^{x}+2x^{2}) \, \mathrm{d}x $$
 
+>[!oppgave]
 >b)
 >
 >$$\int \frac{2x-1}{x^{2}-x-6} \, \mathrm{d}x $$

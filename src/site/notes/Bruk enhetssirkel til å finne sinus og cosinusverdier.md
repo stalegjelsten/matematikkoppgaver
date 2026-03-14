@@ -10,8 +10,10 @@ Figuren viser en enhetssirkel med et linjestykke g som danner en vinkel $\alpha 
 
 ![Enhetssirkel](/img/user/_resources/1py-el-v24-1-4-enhetssirkel.png)
 
+>[!oppgave]
 > a) Bruk figuren til å anslå en verdi for $\sin 53 \degree$.
 
+>[!oppgave]
 > b) Gjør beregninger og finn en vinkel mellom 0° og 360° som har samme cosinusverdi som vinkelen $\alpha$
 
 >[!question]- Fasit

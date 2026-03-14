@@ -8,6 +8,7 @@
 
 Hos en lakseoppdretter er slaktevekten til laksen normalfordelt med forventningsverdi 4700 gram. Det viser seg at $11{,}5 \,\%$ av laksen som slaktes, veier mer enn 5300 gram.
 
+>[!oppgave]
 >a) Vis at standardavviket for vekten til en vilkårlig laks er omtrent 500 gram.
 >b) Bestem sannsynligheten for at en vilkårlig laks veier mindre enn 4500 gram
 

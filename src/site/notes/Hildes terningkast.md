@@ -8,10 +8,12 @@
 
 Hilde kaster en terning med seks sider. La $X$ være antall øyne hun får på terningen.
 
+>[!oppgave]
 >a) Bestem forventningsverdien $E(X)$
 
 Hilde regner ut at standardavviket $SD(X)=1{,}7$. Hun vil kaste terningen flere ganger og summere antall øyne fra hvert kast.
 
+>[!oppgave]
 >b) Hvor mange ganger må Hilde kaste terningen før det er omtrent 32 % sannsynlighet for at summen av antall øyne er mer enn 17 unna forventningsverdien for summen?
 
 >[!question]- Fasit

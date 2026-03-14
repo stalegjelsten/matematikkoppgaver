@@ -17,10 +17,13 @@ I et pariserhjul er det 20 vogner. Det er plass til 4 personer i hver vogn. Nede
 
 Stine påstår at fem vogner var tomme.
 
+>[!oppgave]
 >a) Vis at påstanden er riktig.
 
+>[!oppgave]
 >b) Bestem gjennomsnittet og medianen for antallet personer i hver vogn.
 
+>[!oppgave]
 >c) Bestem den kumulative frekvensen for to personer i hver vogn, og gi en praktisk tolkning av svaret.
 
 >[!question]- Fasit

@@ -12,6 +12,7 @@ Marco skal løpe maraton og starter løpetrening. I tabellen nedenfor ser du hvo
 | :---------------------------------- | :-: | :-: | :-: | :-: | :-: |
 | Antall kilometer løpt per uke $(L)$ | 14  | 32  | 80  | 115 | 145 |
 
+>[!oppgave]
 >a) Vis at funksjonen $L$ gitt ved
 >
 >$$L(t)=\frac{156{,}31}{1+12{,}21 e^{-0{,}24 t}}$$
@@ -20,12 +21,15 @@ Marco skal løpe maraton og starter løpetrening. I tabellen nedenfor ser du hvo
 >
 >Forklar hvorfor en modell av denne typen kan passe godt til denne praktiske situasjonen.
 
+>[!oppgave]
 >b) Når økte antallet løpte kilometer per uke raskest, ifølge modellen?
 
+>[!oppgave]
 >Hvor stor var økningen da?
 
 Marco merket etter noen uker at løpeskoene begynte å bli slitt, og at han trengte nye sko. Han bestemte seg for ả kjøpe nye sko etter å ha løpt totalt 500 km.
 
+>[!oppgave]
 >c) Hvor mange uker hadde Marco løpt da han kjøpte seg nye sko? Hvor mange kilometer hadde han løpt i gjennomsnitt per uke før dette?
 
 >[!question]- Fasit

@@ -15,12 +15,15 @@ Mathias har ingen egenkapital og må derfor låne hele beløpet. Bilforretningen
 • **Tilbud 2:** 
     En ny elbil. Pris 450 000 kroner. Nedbetalingstid 10 år, med én termin per år og terminbeløp på 52 000 kroner. Første innbetaling etter ett år.
 
+>[!oppgave]
 >a) Sett opp en geometrisk rekke som viser hvor mye Mathias må betale for den brukte dieselbilen.
 >
 >Bruk rekken til å bestemme terminbeløpene Mathias må betale dersom han kjøper bilen.
 
+>[!oppgave]
 > b) Bestem rentesatsen Mathias får dersom han velger å kjøpe elbilen.
 
+>[!oppgave]
 >c) Hvilket tilbud fører til at Mathias må betale mest renter totalt?
 
 

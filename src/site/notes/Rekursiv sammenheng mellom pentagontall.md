@@ -13,6 +13,7 @@ De fem første figurtallene er 1, 6, 16, 31 og 51
 ![](/img/user/_resources/s2-h23-2-4.png)
 *Figurkilde: By HB - Own work, CC BY-SA 3.0, <https://commons.wikimedia.org/w/index.php?curid=872244>*
 
+>[!oppgave]
 >a) Beskriv en rekursiv sammenheng mellom $P_{n}$ og $P_{n-1}$.
 >b) Lag et program som regner ut $P_{1000}$ ved å bruke den rekursive sammenhengen du fant i oppgave a)
 

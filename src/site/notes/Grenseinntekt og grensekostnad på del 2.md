@@ -19,6 +19,7 @@ $$
 K(x)=a x^2+b x+c
 $$
 
+>[!oppgave]
 > a) Vis at $K^{\prime}(x)=1,23 x+25$
 
 Inntekten $I(x)$ kroner per uke er gitt ved
@@ -27,6 +28,7 @@ $$
 I(x)=3000 \cdot \ln (5 x)
 $$
 
+>[!oppgave]
 > b) Bestem $I^{\prime}(35)$ og $K^{\prime}(35)$.
 > 	Gi en praktisk tolkning av svarene.
 > c) Bestem $\int_{20}^{30} K^{\prime}(x) d x$.

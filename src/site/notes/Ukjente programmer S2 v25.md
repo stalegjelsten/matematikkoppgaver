@@ -15,6 +15,7 @@ for i in range(1, n + 1):
     a = a + (i + 2)
 ```
 
+>[!oppgave]
 >a) Beskriv mønsteret i tallfølgen eleven arbeider med.
 >     Hva blir resultatet når koden kjøres?
 
@@ -29,6 +30,7 @@ for i in range(1, n + 1):
 print(S)
 ```
 
+>[!oppgave]
 >b) Hva ønsker eleven nå å finne ut? 
 >     Hva blir resultatet når koden kjøres?
 

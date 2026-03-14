@@ -20,6 +20,7 @@ Tabellen nedenfor viser hvor mange minutter nordmenn i ulike aldersgrupper brukt
 
 Tenk deg at du skal presentere funn fra dette datamaterialet for klassen din.
 
+>[!oppgave]
 >Gjør beregninger og sammenligninger, og lag ulike framstillinger som du kan bruke i en presentasjon. Presentasjonen skal inneholde både beregninger, diagrammer og forklarende kommentarer.
 >
 >Lag en oppsummering der du trekker fram to interessante funn ut fra beregningene du har gjort, og diagrammene du har laget.

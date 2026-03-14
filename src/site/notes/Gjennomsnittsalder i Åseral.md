@@ -17,10 +17,13 @@ Tabellen nedenfor viser aldersfordelingen i Åseral kommune i 2024.
 | $[80, 90\rangle$       |       33        |
 | $[90, 100\rangle$      |       15        |
 
+>[!oppgave]
 >a) Hvilke antagelser må du gjøre for å kunne bruke tabellen til å bestemme ulike sentralmål for innbyggerne i Åseral kommune i 2024?
 
+>[!oppgave]
 >b) Bestem gjennomsnittsalderen for innbyggerne i Åseral kommune i 2024.
 
+>[!oppgave]
 >c) Hvor mange prosent av befolkningen i Åseral kommune var eldre enn gjennomsnittsalderen i kommunen i 2024?
 
 >[!question]- Fasit

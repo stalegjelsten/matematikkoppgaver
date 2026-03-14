@@ -9,6 +9,7 @@
 En butikk satte opp prisen for en vare med 12 kroner.  
 Dette tilsvarte en prisøkning på 30 %.  
 
+>[!oppgave]
 > Hvor mye kostet varen før prisøkningen?
 
 >[!question]- Fasit

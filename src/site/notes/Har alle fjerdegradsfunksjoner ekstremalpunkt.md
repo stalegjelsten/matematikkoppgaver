@@ -9,6 +9,7 @@ Nedenfor ser du tre påstander. Avgjør i hvert tilfelle om påstanden er sann e
 
 Oppgave a finner du her: [[Logaritmepåstand\|Logaritmepåstand]]
 
+>[!oppgave]
 >b) Alle fjerdegradsfunksjoner må ha minst ett ekstremalpunkt.
 
 Oppgave c finner du her: [[Sannsynligheter ved lottospill\|Sannsynligheter ved lottospill]]

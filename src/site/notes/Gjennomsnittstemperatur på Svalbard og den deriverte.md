@@ -17,6 +17,7 @@ $$
 
 er en rimelig bra modell for gjennomsnittstemperaturen $T(x)^{\circ} \mathrm{C}$ hvert døgn de månedene han bor på Svalbard, når han lar $x=2$ svare til 1. februar, $x=3$ til 1. mars, $x=4$ til 1 . april og så videre.
 
+>[!oppgave]
 >c) Bestem nullpunkter og ekstremalpunkter til den deriverte funksjonen $T^{\prime}$.
 >
 >Gjør rede for hva koordinatene til hvert av punktene forteller om gjennomsnittstemperaturen utenfor huset til Lars. 

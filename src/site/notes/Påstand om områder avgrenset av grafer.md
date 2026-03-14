@@ -6,6 +6,7 @@
 # Påstand om områder avgrenset av grafer
 
 
+>[!oppgave]
 >Avgjør om påstanden nedenfor er sann eller usann. Forklar tydelig hvordan du har resonnert.
 
 To funksjoner er gitt ved $f(x)=x^{3}-x^{2}-ax$, der $a \in \mathbb{R}$, og $g(x)=-x^{2}+x$

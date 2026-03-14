@@ -11,16 +11,20 @@ Tabellen nedenfor viser timelønnen til en yrkesgruppe for noen år i perioden 2
 | :------- | :----: | :----: | :----: | :----: | :----: | :----: |
 | Timelønn | 272,55 | 285,50 | 307,30 | 314,00 | 327,60 | 340,10 |
 
+>[!oppgave]
 >a) Hva har den gjennomsnittlige årlige prosentvise veksten i lønn vært i årene 2008-2022?
 
+>[!oppgave]
 >b) Bruk tallene i tabellen til å lage en eksponentiell funksjon $g$ som er en modell for timelønnen til denne yrkesgruppen $x$ år etter 2008.
 
 Per og Amalie hadde begge en timelønn på 272,55 kroner i 2008. Per har hatt en lønnsutvikling tilsvarende tabellen i starten av oppgaven, mens Amalies lønn har steget med 2,3 prosent per år. De har begge jobbet 1700 timer per år.
 
+>[!oppgave]
 >c) Bestem den samlede lønnen til Amalie i årene 2008 til 2022. Bestem også den samlede lønnen til Per i disse årene.
 
 Fagforeningen til Per krever at han i 2025 skal ha samme timelønn som Amalie. Vi går ut fra at Amalie fortsatt vil ha en lønnsvekst på 2,3 prosent per år.
 
+>[!oppgave]
 >d) Hvor mange prosent må lønnen til Per gå opp hvert år dersom dette kravet skal innfris?
 
 >[!question]- Fasit

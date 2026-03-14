@@ -14,8 +14,10 @@ Hermann må betale for å parkere på jobb. Han kan velge mellom tre ulike parke
 |   B    |   1995 kroner    |          30 kroner           |
 |   C    |   3490 kroner    |          24 kroner           |
 
+>[!oppgave]
 >a) Sett opp en modell som beskriver alternativ A, en modell som beskriver alternativ B og en modell som beskriver alternativ C.  
 
+>[!oppgave]
 >b) Hvor mange ganger må Hermann parkere i løpet av et år for at det skal lønne seg å velge avtale B?  
 
 >[!question]- Fasit

@@ -10,6 +10,7 @@ I en uendelig geometrisk følge $a_{1}, a_{2}, a_{3}, \dots , a_{n}$ er både $a
 
 Vi danner en ny følge $b_{n}$ ved å la $b_{n}=\ln a_{n}$.
 
+>[!oppgave]
 >a) Vis at følgen $b_{1},b_{2},b_{3},\dots$ er aritmetisk. Hva er differansen i følgen?
 >b) Gjelder det samme dersom $a_{1}$ eller $k$ ikke er positive?
 
@@ -18,6 +19,7 @@ $$
 \sum_{i=1}^\infty a_{i} =1
 $$
 
+>[!oppgave]
 >c) Bestem $k$ uttrykt ved $n$ når summen $b_{1}+b_{2}+b_{3}+\dots$ skal være størst mulig.
 
 
@@ -134,6 +136,7 @@ $$
 >når summen $\sum_{i=1}^{\infty}a_{i}=1$.
 
 <!--
+>[!oppgave]
 >**Alternativ løsning for å vise om vi har funnet maksimum eller minimum**
 >
 >Vi har funnet en maksimums- eller minimumsverdi for $k$, men hvordan kan vi vite at dette vil gi den *største* summen og ikke den minste summen? Det er selvsagt mulig å dobbeltderivere uttrykket for $s_{n}$ og gjøre en andrederiverttest, men vi kan også analysere hva som skjer med summen når vi endrer på $k$. Husk at $0<k<1$.

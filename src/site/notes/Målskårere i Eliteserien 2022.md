@@ -22,12 +22,14 @@ Nedenfor ser du de 11 fotballspillerne skåret flest mål i Eliteserien 2022.
 | 10   | Ola Brynhildsen       | Molde        | 11  |
 | 10   | Johan Hove            | Strømsgodset | 11  |
 
+>[!oppgave]
 > a) Bestem typetallet, variasjonsbredden og medianen for antall mål.
 >
 > b) Bestem gjennomsnittet og standardavviket for antall mål.
 
 For de 11 fotballspillerne som skåret flest mål i sesongen 2021, var medianen 11, gjennomsnittet 14,5 og standardavviket 6,7.
 
+>[!oppgave]
 > c) Hva kan du ut fra dette og beregningene i oppgave a) og b) si om de 11 fotballspillerne fra 2021 sammenlignet med de 11 fotballspillerne fra 2022?
 
 >[!question]- Fasit

@@ -9,6 +9,7 @@ Tidligere statistikk fra en skole viser at 32 % av elevene i Vg3 hadde én eller
 
 Vi trekker tilfeldig ut 27 elever i Vg3. Vi antar at sannsynligheten for at en tilfeldig valgt elev har fravær, er $p=0{,}32$ og er uavhengig av de andre elevenes fravær.  
 
+>[!oppgave]
 >a) Bestem sannsynligheten for at minst 20 av disse elevene ikke har fravær i russetiden.  
 
 Ledelsen ved skolen hadde en mistanke om at det nye fraværsreglementet som ble innført i august 2016, ville føre til mindre fravær. Før russetiden startet, satte de derfor opp to hypoteser som de ønsket å teste.  
@@ -20,4 +21,5 @@ De ønsket å bruke et signifikansnivå på 5 %.
 
 Det var 120 elever i Vg3 på skolen dette skoleåret.  
 
+>[!oppgave]
 >b) Hva er det høyeste antall elever som kan ha fravær i russetiden, for at $H_{0}$ skal forkastes?

@@ -31,10 +31,12 @@ print("Bunnpunktet er", (a, f(a)))
 
 Programmet gir utskriften `Bunnpunktet er (3, -11)`
 
+>[!oppgave]
 > **a)** Forklar hvilken strategi Egil har brukt.
 
 Svaret han får, er ikke riktig.
 
+>[!oppgave]
 > **b)** Foreslå en endring i koden som vil gi Egil et riktigere svar.
 
 >[!question]- Fasit

@@ -10,10 +10,12 @@ Benz A/S har utviklet en ny type bensin som de mener øker kjørelengden per lit
 
 Benz A/S ønsker å teste om den nye bensinen øker kjørelengden, og planlegger å gjennomføre en hypotesetest med 25 biler.
 
+>[!oppgave]
 > a) Sett opp en nullhypotese og en alternativ hypotese for testen.
 
 Det viser seg at de 25 bilene kjører i gjennomsnitt $21 \mathrm{~km} / \mathrm{L}$. Gå ut fra at kjørelengden er normalfordelt med standardavvik $2{,}5 \mathrm{~km} / \mathrm{L}$.
 
+>[!oppgave]
 > b) Gjennomfør hypotesetesten, og bruk den til å avgjøre om Benz A/S kan si at den nye bensinen øker kjørelengden. Bruk et signifikansnivå på 5 \%.
 
 >[!question]- Fasit
