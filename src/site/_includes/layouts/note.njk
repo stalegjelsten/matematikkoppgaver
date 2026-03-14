@@ -68,6 +68,9 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
         {% include imp %}
       {% endfor %}
       <article>
+      {% if '<h1' not in content %}
+        <h1>{{ title if title else page.fileSlug }}</h1>
+      {% endif %}
       {{ content | hideDataview | taggify | link | safe}}
       {% for imp in dynamics.common.afterContent %}
         {% include imp %}
