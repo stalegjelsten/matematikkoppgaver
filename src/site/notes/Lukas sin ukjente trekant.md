@@ -1,8 +1,9 @@
 ---
-{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["trigonometri"],"fag":["1p-y el"],"eksamen":"v25","del":1,"oppgave":5,"title":null,"source":null,"todo":null,"status":1,"permalink":"/lukas-sin-ukjente-trekant/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-01-28","modified":"2026-03-14","aliases":[],"dg-publish":true,"temaer":["trigonometri"],"fag":["1p-y el"],"eksamen":"v25","del":1,"oppgave":5,"title":"Lukas sin ukjente trekant","source":null,"todo":null,"status":1,"permalink":"/lukas-sin-ukjente-trekant/","dgPassFrontmatter":true}
 ---
 
 
+# Lukas sin ukjente trekant
 
 Lukas får følgende opplysninger om en rettvinklet trekant ABC:
 
@@ -25,4 +26,3 @@ Svar på spørsmålene som Lukas stiller seg.
 >[!question]- Fasit
 > 
 >
-
