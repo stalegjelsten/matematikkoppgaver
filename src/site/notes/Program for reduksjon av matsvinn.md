@@ -8,7 +8,7 @@
 
 Et av FNs bærekraftsmål er å redusere matsvinn. Sofie har lest at en familie på fire kaster ca. $160\text{ kg}$ mat hvert år. Hun har laget programmet nedenfor.
 
-```python
+```python ln
 matsvinn = 160
 mål = matsvinn / 2
 vf = 0.87

@@ -12,7 +12,19 @@ Bedriften har som mål å redusere utslippet med $2{,}5 ~\%$ hvert år framover.
 
 Sara har laget programmet nedenfor:  
 
-![](/img/user/_resources/2py-h24-page17-img1.png)
+```python ln
+def f(x):
+	return 200 * 0.975 ** x
+
+x = 0
+s = 0
+
+while x <= 4:
+	s = s + f(x)
+	x = x + 1
+	
+print(s)
+```
 
 > a) Gi en praktisk tolkning av uttrykket Sara har brukt i linje 2.  
 > b) Hva vil verdien som skrives ut når programmet kjøres, fortelle Sara?  

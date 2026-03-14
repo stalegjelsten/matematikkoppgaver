@@ -20,7 +20,7 @@ Tenk deg at du skal fortsette å lage figurer etter samme mønster.
 
 Vivian har laget programmet nedenfor.
 
-```python
+```python ln
 n = 0
 total = 0
 
