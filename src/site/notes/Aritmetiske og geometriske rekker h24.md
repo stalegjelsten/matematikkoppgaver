@@ -5,10 +5,10 @@
 
 # Aritmetiske og geometriske rekker h24
 
-
-a) Finn summen av den aritmetiske rekken $3+7+11+15+\dots+399$.  
-b) Bestem kvotienten $k$ for en uendelig geometrisk rekke som konvergerer og som har $a_{1}=12$ og sum $= 18$.  
-c) Vis at tallet $0{,}75757575\dots$ kan skrives som en uendelig geometrisk rekke. Bruk dette til å vise at $1{,}75757575\dots=\frac{58}{33}$.
+> [!oppgave]
+>  a) Finn summen av den aritmetiske rekken $3+7+11+15+\dots+399$.
+>  b) Bestem kvotienten $k$ for en uendelig geometrisk rekke som konvergerer og som har $a_{1}=12$ og sum $= 18$.
+>  c) Vis at tallet $0{,}75757575\dots$ kan skrives som en uendelig geometrisk rekke. Bruk dette til å vise at $1{,}75757575\dots=\frac{58}{33}$.
 
 >[!question]- Fasit
 > 
