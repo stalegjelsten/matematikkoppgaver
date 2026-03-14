@@ -7,6 +7,11 @@
 
 ![](/img/user/_resources/omraade-begrenset-av-sirkler.png)
 
+La sidekantene av kvadratet ha sidelengde lik 10.
+
+> [!oppgave]
+> Hva arealet av det markerte området?
+
 >[!question]- Fasit
 > Det er mange måter å skrive svaret nøyaktig på, men alle sammen blir omtrent lik 9,77.
 >
