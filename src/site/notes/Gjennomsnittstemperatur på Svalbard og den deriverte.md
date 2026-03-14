@@ -5,7 +5,9 @@
 
 # Gjennomsnittstemperatur på Svalbard og den deriverte
 
-Dette er en fortsettelse av oppgave [[Gjennomsnittstemperatur på Svalbard\|Gjennomsnittstemperatur på Svalbard]]
+
+> [!note] Fortsettelse av annen oppgave 
+>  Dette er en fortsettelse av oppgaven [[Gjennomsnittstemperatur på Svalbard\|Gjennomsnittstemperatur på Svalbard]]
 
 De siste årene har Lars bodd på Svalbard fra 1. februar til 1. oktober. Hvert år har han målt temperaturen utenfor huset sitt på ulike tidspunkt noen dager hver uke.
 

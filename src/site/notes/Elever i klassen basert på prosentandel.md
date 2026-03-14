@@ -8,7 +8,8 @@
 
 $88\,\%$ av elevene i en klasse deltar i en undersøkelse. Det er $3$ elever som ikke deltar i undersøkelsen.
 
-Hvor mange elever er det i klassen?
+> [!oppgave]
+> Hvor mange elever er det i klassen?
 
 >[!question]- Fasit  
 > 25 elever i klassen.  

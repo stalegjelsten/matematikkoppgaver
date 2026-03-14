@@ -19,11 +19,10 @@ $$
 
 To av linjene tangerer grafen til funksjonen $K(x)$ i henholdsvis $A$ og $B$.
 
-a)    Bestem enhetskostnaden ved produksjon av 400 enheter.
-
-b)    Forklar at grensekostnaden ved produksjon av 400 enheter er 2,06 kroner per enhet.
-
-c)     Bestem den minste enhetskostnaden.
+> [!oppgave]
+>  a) Bestem enhetskostnaden ved produksjon av 400 enheter. 
+>  b) Forklar at grensekostnaden ved produksjon av 400 enheter er 2,06 kroner per enhet. 
+>  c) Bestem den minste enhetskostnaden.
 
 >[!kommentar]
 >Jeg har fjernet formel for enhetskostnad fra oppgaven, siden jeg mener at denne bør være kjent for dere.

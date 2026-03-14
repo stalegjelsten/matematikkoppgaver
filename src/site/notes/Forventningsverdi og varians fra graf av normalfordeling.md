@@ -11,9 +11,10 @@ I en gruppe elever er høyden tilnærmet normalfordelt med forventningsverdi $\m
 
 I denne fordelingen er 10 % av elevene lavere enn 173 cm og 10 % er høyere enn 183 cm.
 
-a) Bestem $\mu$. 
-b) Hvor mange prosent av elevene er lavere enn 183 cm.
-c) Bestem $\sigma$
+> [!oppgave]
+>  a) Bestem $\mu$. 
+> b) Hvor mange prosent av elevene er lavere enn 183 cm.
+> c) Bestem $\sigma$
 
 >[!info] Kommentar
 >Denne oppgaven ble egentlig gitt til del 2, men jeg har satt den opp som en del 1 oppgave her, siden den absolutt kan gis på del 1 til eksamen så lenge dere har normalfordelingstabell tilgjengelig.

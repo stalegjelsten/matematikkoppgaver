@@ -11,8 +11,10 @@ En sannsynlighetsfordeling er gitt ved tabellen nedenfor.
 |:--------:| --- |:-------:|:-------:|:-------:|
 | $P(X=x)$ | $k$ | $0{,}3$ | $k-0,2$ | $0{,}1$ |
 
-a) Vis at $P(X>1)=0{,}3$
-b) Bestem $E(X)$ og $\operatorname{Var}(X)$.
+> [!oppgave]
+> 
+> a) Vis at $P(X>1)=0{,}3$
+> b) Bestem $E(X)$ og $\operatorname{Var}(X)$.
 
 >[!question]- Fasit
 >a) $k=0{,}2$ kan brukes til å vise dette

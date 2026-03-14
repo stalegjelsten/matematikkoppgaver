@@ -13,16 +13,12 @@ Alex lager hårspenner og annen hodepynt. I februar 2025 åpnet han en liten net
 
 >[!oppgave]
 >a) Lag en modell på formen $f(x)=a \cdot b^{x}$ for omsetningen $f(x)$ kroner $x$ måneder etter februar 2025.
-
->[!oppgave]
 >b) Omtrent hvor mange prosent øker omsetningen med per måned, ifølge modellen?
 
 Alex har som mål å omsette for 20 000 kroner per måned.
 
 >[!oppgave]
 >c) Når kommer Alex til å nå målet, ifølge modellen?
-
->[!oppgave]
 >d) Hvor mange prosent må omsetningen øke med per måned etter juni 2025 dersom Alex skal nå målet i løpet av desember 2025?
 
 >[!question]- Fasit

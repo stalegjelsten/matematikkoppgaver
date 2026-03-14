@@ -11,8 +11,10 @@ En sannsynlighetsfordeling er gitt ved tabellen nedenfor.
 |:--------:|:-------:|:---:|:----:|:----:|
 | $P(X=x)$ | $0{,}2$ | $k$ | $2k$ | $5k$ |
 
-a) Forklar hvorfor $k$ må være 0,1. Bestem forventningsverdien $\text{E}(X)$.
-b) Bestem variansen $\text{Var}(X)$
+> [!oppgave]
+> 
+> a) Forklar hvorfor $k$ må være 0,1. Bestem forventningsverdien $\text{E}(X)$.
+> b) Bestem variansen $\text{Var}(X)$
 
 >[!question]- Fasit
 > a) $E(X)=2$
