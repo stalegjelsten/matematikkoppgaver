@@ -21,8 +21,7 @@ Utenom dette regner de med følgende utgifter per person per døgn når de er p�
 
 Ida og Alex gjør seg noen tanker og stiller noen spørsmål.
 
-> [!green-box] 
-> **Alex:**  
+> [!green-box] Alex:
 > Vi må lage et budsjett for ferieturen. Hvor mange euro kommer vi til å bruke? 
 > 
 > 1 euro koster nå 11,88 kroner. Hvor mange kroner vil ferien koste oss, inkludert flyreisen?
