@@ -1,9 +1,9 @@
 ---
-{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["effekttrekant"],"fag":["1p-y el"],"eksamen":"v24","del":2,"oppgave":1,"title":null,"source":null,"todo":null,"status":2,"permalink":"/effekttrekant-og-elmotor/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-02-01","modified":"2026-03-14","aliases":[],"dg-publish":true,"temaer":["effekttrekant"],"fag":["1p-y el"],"eksamen":"v24","del":2,"oppgave":1,"title":"Effekttrekant og elmotor","source":null,"todo":null,"status":2,"permalink":"/effekttrekant-og-elmotor/","dgPassFrontmatter":true}
 ---
 
 
-
+# Effekttrekant og elmotor
 
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="283" height="154" viewBox="0 0 283 154">
@@ -83,7 +83,6 @@ Formelen for tilsynelatende effekt $S$ i en enfaset elmotor er $S=U \cdot I$.
 > b) Forklar to ulike måter vi kan beregne motorens aktive effekt $P$ på.  
 > Bruk disse til å regne ut verdien av $P$. Sammenlikn svarene.
 
-
 I en annen enfaset elmotor er $\cos \phi$ større, og tilsynelatende effekt $S$ er den samme som i motoren i oppgave a.
 
 > [!oppgave]
@@ -94,4 +93,3 @@ I en annen enfaset elmotor er $\cos \phi$ større, og tilsynelatende effekt $S$ 
 > a) $S=2760 \mathrm{~VA}$ og $\phi=35\degree$
 > b) Pytagoras eller bruk av $\cos \phi=0{,}8192$. Begge gir 2261 W.
 > c) Hvis $\cos \phi$ øker så øker effektfaktoren. Mer av effekten brukes til det nyttige formålet, dermed øker $P$ og $Q$ minker.
-

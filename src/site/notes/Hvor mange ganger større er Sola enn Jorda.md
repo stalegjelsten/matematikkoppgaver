@@ -8,7 +8,8 @@
 
 Sola har en masse på ca. $2{,}0 \cdot 10^{30}$ kg. Jorda har en masse på $6{,}0 \cdot 10^{24}$ kg. Massen til sola er omtrent … ganger større enn massen til jorda.
 
-Gjør beregninger og finn ut hvilket tall som mangler i setningen ovenfor. Skriv tallet på standardform.
+> [!oppgave]
+>  Gjør beregninger og finn ut hvilket tall som mangler i setningen ovenfor. Skriv tallet på standardform.
 
 >[!question]- Fasit
 > Solas masse er $\underline{\underline{3{,}33\cdot 10^{5}}}$ ganger større enn Jordas

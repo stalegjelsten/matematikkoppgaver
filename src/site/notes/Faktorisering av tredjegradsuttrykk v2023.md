@@ -9,7 +9,8 @@ Gitt likningen
 
 $$x^{3}-5 x^{2}-8 x+12=(x-1)(x+a)(x-b)$$
 
-Bestem $a$ og $b$ slik at likningen blir en identitet. 
+> [!oppgave]
+>  Bestem $a$ og $b$ slik at likningen blir en identitet. 
 
 >[!question]- Fasit
 > $a=2 \wedge b=6$
