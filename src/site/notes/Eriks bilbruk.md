@@ -23,6 +23,20 @@ Han leier en leilighet og betaler 16 000 kroner i husleie hver måned.
 >  
 >  Vurder om det er fornuftig av Erik å kjøpe elbilen. Husk å begrunne svaret ditt.
 
+Erik kjører til jobb hver dag med den gamle bilen sin. Strekningen $s$ er 18 km.
+
+En mandag kjører han til jobb med en gjennomsnittsfart $v_{1}=58 \mathrm{~km/h}$.
+
+En fredag kjører han til jobb med en gjennomsnittsfart $v_{2}=65 \mathrm{~km/h}$
+
+Tidsforskjellen $t$ minutter mellom de to turene er gitt ved formelen
+$$
+t=\left( \frac{1}{v_{1}}- \frac{1}{v_{2}} \right)  \cdot s \cdot 60
+$$
+
+> [!oppgave]
+>  c) Hvor mye lengre tid bruker Erik på kjøreturen på mandagen sammenliknet med kjøreturen på fredagen?
+
 >[!question]- Fasit
 > 
 >
