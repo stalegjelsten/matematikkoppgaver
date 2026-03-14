@@ -1,12 +1,88 @@
+/* Oppgave-callout: stilisert som temaets blockquote, men med magenta farge */
 .callout[data-callout="oppgave"] {
-  --callout-color: 120, 160, 220;
+  /* Nøytral gradient-bakgrunn, lik vanlig blockquote */
+  background: linear-gradient(135deg, var(--background-primary-alt), var(--background-primary)) !important;
+  background-color: unset !important;
+
+  /* Venstre kant med temaets lilla, lik vanlig blockquote */
+  border-left: 3px var(--bg-accent-55) solid;
+  border-top: transparent;
+  border-bottom: transparent;
+  border-right: transparent;
+  border-radius: 0 5px 5px 0;
+
+  padding: 1rem 2rem 1rem 3rem;
+  position: relative;
+  margin-bottom: 2em;
 }
 
+/* Øvre aksent-linje */
+.callout[data-callout="oppgave"]::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -1px;
+  height: 2px;
+  width: 60%;
+  background: linear-gradient(90deg, var(--bg-accent-55), transparent);
+}
+
+/* Nedre aksent-linje */
+.callout[data-callout="oppgave"]::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: -1px;
+  height: 2px;
+  width: 25%;
+  background: linear-gradient(90deg, var(--bg-accent-55), transparent);
+}
+
+/* Skjul callout-tittelen — markøren vises i venstre marg i stedet */
+.callout[data-callout="oppgave"] .callout-title {
+  display: none;
+}
+
+/* Oppgave-markør i venstre marg (erstatter !! fra blockquote-stilen) */
+.callout[data-callout="oppgave"] .callout-content > *:first-child::before {
+  content: '✎';
+  font-style: italic;
+  font-weight: 700;
+  font-size: 18px;
+  color: var(--bg-accent-55);
+  position: absolute;
+  left: -1.8rem;
+  top: 0.1rem;
+}
+
+/* Gjør første barn position: relative for at ::before skal plasseres riktig */
+.callout[data-callout="oppgave"] .callout-content > *:first-child {
+  position: relative;
+}
+
+/* overflow-x: auto i base-CSS klipper ::before som går til venstre for .callout-content */
+.callout[data-callout="oppgave"] .callout-content {
+  overflow-x: visible;
+}
+
+/* Custom counter: a) b) c) i stedet for a. b. c. */
+@counter-style lower-alpha-paren {
+  system: alphabetic;
+  symbols: a b c d e f g h i j k l m n o p q r s t u v w x y z;
+  suffix: ") ";
+}
+
+/* Fix: CSS-reset overstyrer type="a" */
 .callout[data-callout="oppgave"] .callout-content ol[type="a"] {
-  padding-left: 1.5em;
+  list-style-type: lower-alpha-paren;
+  padding-left: 0.5em;
   margin: 0.5em 0;
 }
 
 .callout[data-callout="oppgave"] .callout-content ol[type="a"] li {
   margin-bottom: 0.25em;
+}
+
+.callout[data-callout="oppgave"] .callout-content ol[type="a"] li::marker {
+  font-weight: 700;
 }

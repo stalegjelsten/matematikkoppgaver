@@ -472,13 +472,14 @@ module.exports = function(eleventyConfig) {
       const contentDiv = callout.querySelector(".callout-content");
       if (!contentDiv) continue;
 
-      // Split innerHTML on <br> tags to get individual lines
+      // Normalize innerHTML: collapse <p>...</p> boundaries into <br> so both
+      // single-paragraph (breaks:true → <br>) and multi-paragraph content work.
       const rawHtml = contentDiv.innerHTML;
-      // Strip wrapping <p> tags that markdown-it adds, then split on <br>
-      const stripped = rawHtml
-        .replace(/^\s*<p>\s*/i, "")
-        .replace(/\s*<\/p>\s*$/i, "");
-      const lines = stripped.split(/<br\s*\/?>/i);
+      const normalized = rawHtml
+        .replace(/^\s*<p>\s*/i, "")          // strip leading <p>
+        .replace(/\s*<\/p>\s*$/i, "")        // strip trailing </p>
+        .replace(/\s*<\/p>\s*<p>\s*/gi, "<br>"); // paragraph boundaries → <br>
+      const lines = normalized.split(/<br\s*\/?>/i);
 
       const segments = []; // Each segment is either {type:"ol", items:[{letter, html, continuation:[]}]} or {type:"p", html}
       let currentOl = null;
@@ -500,12 +501,12 @@ module.exports = function(eleventyConfig) {
             segments.push(currentOl);
           }
           currentOl.items.push({ letter, html: content, continuation: [] });
-        } else if (isContinuation && currentOl && currentOl.items.length > 0) {
-          // Continuation of previous list item
+        } else if (currentOl && currentOl.items.length > 0) {
+          // Inside a list: any non-task line is continuation of the previous item,
+          // regardless of indentation or blank lines between them.
           currentOl.items[currentOl.items.length - 1].continuation.push(trimmed);
         } else {
-          // Regular paragraph content — close any open ol
-          currentOl = null;
+          // Before any list item: regular paragraph content
           segments.push({ type: "p", html: trimmed });
         }
       }
