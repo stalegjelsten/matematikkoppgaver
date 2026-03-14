@@ -1,0 +1,12 @@
+.callout[data-callout="oppgave"] {
+  --callout-color: 120, 160, 220;
+}
+
+.callout[data-callout="oppgave"] .callout-content ol[type="a"] {
+  padding-left: 1.5em;
+  margin: 0.5em 0;
+}
+
+.callout[data-callout="oppgave"] .callout-content ol[type="a"] li {
+  margin-bottom: 0.25em;
+}
