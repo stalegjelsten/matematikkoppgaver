@@ -3,7 +3,6 @@
 ---
 
 
-<p><span><em>Oppgaven er hentet fra eksamen 1P-Y EL V24 del 2 oppgave 1.</em></span></p>
 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -91,7 +90,4 @@ c) Vurder, uten å gjøre utregninger, hvordan dette påvirker størrelsen av $Q
 > a) $S=2760 \mathrm{~VA}$ og $\phi=35\degree$
 > b) Pytagoras eller bruk av $\cos \phi=0{,}8192$. Begge gir 2261 W.
 > c) Hvis $\cos \phi$ øker så øker effektfaktoren. Mer av effekten brukes til det nyttige formålet, dermed øker $P$ og $Q$ minker.
-
-## Relatert
-<h3><span>Tilfeldige oppgaver i samme fag</span></h3><p><span>Det er ofte best å blande hvilke type oppgaver man gjør dersom du skal forberede deg til en prøve eller eksamen. Her er tre tilfeldige oppgaver i 1P-Y EL.</span></p><div><ul class="dataview list-view-ul"><li><span><a data-tooltip-position="top" aria-label="Effekttrekant for motor.md" data-href="Effekttrekant for motor.md" href="Effekttrekant for motor.md" class="internal-link" target="_blank" rel="noopener nofollow">Effekttrekant for motor 1P-Y EL H24 Del 2 oppg 1</a></span></li><li><span><a data-tooltip-position="top" aria-label="Transformator med vindinger og effekttrekant.md" data-href="Transformator med vindinger og effekttrekant.md" href="Transformator med vindinger og effekttrekant.md" class="internal-link" target="_blank" rel="noopener nofollow">Transformator med vindinger og effekttrekant 1P-Y EL H23 Del 2 oppg 3</a></span></li><li><span><a data-tooltip-position="top" aria-label="Effekttrekant og elmotor.md" data-href="Effekttrekant og elmotor.md" href="Effekttrekant og elmotor.md" class="internal-link" target="_blank" rel="noopener nofollow">Effekttrekant og elmotor 1P-Y EL V24 Del 2 oppg 1</a></span></li></ul></div><h3><span>Lignende oppgaver sortert etter tema</span></h3><h4><span>Effekttrekant</span></h4><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Oppgave</span><span class="dataview small-text">2</span></th><th class="table-view-th"><span>Fag</span></th><th class="table-view-th"><span>År</span></th><th class="table-view-th"><span>Oppg</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Transformator med vindinger og effekttrekant.md" data-href="Transformator med vindinger og effekttrekant.md" href="Transformator med vindinger og effekttrekant.md" class="internal-link" target="_blank" rel="noopener nofollow">Transformator med vindinger og effekttrekant</a></span></td><td><span>1P-Y EL</span></td><td><span>H23</span></td><td><span>2-3</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Effekttrekant og virkningsgrad.md" data-href="Effekttrekant og virkningsgrad.md" href="Effekttrekant og virkningsgrad.md" class="internal-link" target="_blank" rel="noopener nofollow">Effekttrekant og virkningsgrad</a></span></td><td><span>1P-Y EL</span></td><td><span>V25</span></td><td><span>2-1</span></td></tr></tbody></table></div>
 
