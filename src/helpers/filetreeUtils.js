@@ -1,3 +1,5 @@
+const slugify = require("@sindresorhus/slugify");
+
 // Natural sort comparison - handles numbers anywhere in the string
 const naturalCompare = (a, b) => {
   const aLower = a.toLowerCase();
@@ -138,6 +140,18 @@ function getFileTree(data) {
   (data.collections.note || []).forEach((note) => {
     const [meta, folders] = getPermalinkMeta(note);
     assignNested(tree, folders, { isNote: true, ...meta });
+  });
+  (data.collections.unikeTemaer || []).forEach((tema) => {
+    const url = `/temaer/${slugify(tema)}/`;
+    const name = tema.charAt(0).toUpperCase() + tema.slice(1);
+    assignNested(tree, ["Temaer", tema + ".md"], {
+      isNote: true,
+      permalink: url,
+      name,
+      noteIcon: process.env.NOTE_ICON_DEFAULT,
+      hide: false,
+      pinned: false,
+    });
   });
   const fileTree = sortTree(tree);
   return fileTree;

@@ -1,0 +1,24 @@
+{% if tema %}
+{% set temaOppgaver = collections.all | oppgaverMedTema(tema, "") %}
+{% if temaOppgaver | length > 0 %}
+<div class="table-wrapper"><table class="dataview table-view-table">
+  <thead><tr>
+    <th>Oppgave</th>
+    <th>Fag</th>
+    <th>År</th>
+    <th>Oppg</th>
+  </tr></thead>
+  <tbody>
+    {% for k in temaOppgaver %}
+    {% set kFagArray = k.data.fag | toArray %}
+    <tr>
+      <td><a href="{{ k.url }}" class="internal-link">{{ k.data.title }}</a></td>
+      <td>{{ kFagArray | join(", ") | upper }}</td>
+      <td>{% if k.data.eksamen %}{{ k.data.eksamen | upper }}{% else %}Ingen{% endif %}</td>
+      <td>{% if k.data.del and k.data.oppgave %}{{ k.data.del }}-{{ k.data.oppgave }}{% else %}Ingen{% endif %}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table></div>
+{% endif %}
+{% endif %}

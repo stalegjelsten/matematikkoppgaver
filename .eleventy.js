@@ -463,6 +463,86 @@ module.exports = function(eleventyConfig) {
     return str && parsed.innerHTML;
   });
 
+  eleventyConfig.addTransform("oppgave-callout-list", function(str) {
+    if (!isMarkdownPage(this.page.inputPath)) {
+      return str;
+    }
+    const parsed = parse(str);
+    for (const callout of parsed.querySelectorAll('[data-callout="oppgave"]')) {
+      const contentDiv = callout.querySelector(".callout-content");
+      if (!contentDiv) continue;
+
+      // Normalize innerHTML: collapse <p>...</p> boundaries into <br> so both
+      // single-paragraph (breaks:true → <br>) and multi-paragraph content work.
+      const rawHtml = contentDiv.innerHTML;
+      // Pre-process: wrap display math (block mjx-container) in <p> so the
+      // </p><p> → <br> logic below handles it correctly.
+      const preprocessed = rawHtml
+        .replace(/(<\/p>)\s*(<mjx-container[^>]*\bdisplay="true"[^>]*>)/gi, "$1<p>$2")
+        .replace(/(<\/mjx-container>)\s*(<p>)/gi, "$1</p>$2");
+      const normalized = preprocessed
+        .replace(/^\s*<p>\s*/i, "")          // strip leading <p>
+        .replace(/\s*<\/p>\s*$/i, "")        // strip trailing </p>
+        .replace(/\s*<\/p>\s*<p>\s*/gi, "<br>"); // paragraph boundaries → <br>
+      const lines = normalized.split(/<br\s*\/?>/i);
+
+      const segments = []; // Each segment is either {type:"ol", items:[{letter, html, continuation:[]}]} or {type:"p", html}
+      let currentOl = null;
+
+      for (const line of lines) {
+        const trimmed = line.trim();
+        if (!trimmed) continue; // skip empty lines
+
+        // Check if this is a sub-task line: starts with a single lowercase letter followed by )
+        const taskMatch = trimmed.match(/^([a-z])\)\s*([\s\S]*)$/);
+        // Check if this is a continuation line (starts with whitespace in original)
+        const isContinuation = line.match(/^\s/) && !taskMatch;
+
+        if (taskMatch) {
+          const letter = taskMatch[1];
+          const content = taskMatch[2];
+          if (!currentOl) {
+            currentOl = { type: "ol", items: [] };
+            segments.push(currentOl);
+          }
+          currentOl.items.push({ letter, html: content, continuation: [] });
+        } else if (currentOl && currentOl.items.length > 0) {
+          // Inside a list: any non-task line is continuation of the previous item,
+          // regardless of indentation or blank lines between them.
+          currentOl.items[currentOl.items.length - 1].continuation.push(trimmed);
+        } else {
+          // Before any list item: regular paragraph content
+          segments.push({ type: "p", html: trimmed });
+        }
+      }
+
+      if (segments.length === 0) continue;
+
+      let newHtml = "";
+      for (const seg of segments) {
+        if (seg.type === "p") {
+          newHtml += `<p>${seg.html}</p>`;
+        } else {
+          // Determine start value from first item's letter
+          const startNum = seg.items[0].letter.charCodeAt(0) - "a".charCodeAt(0) + 1;
+          const startAttr = startNum > 1 ? ` start="${startNum}"` : "";
+          newHtml += `<ol type="a"${startAttr}>`;
+          for (const item of seg.items) {
+            let liContent = item.html;
+            for (const cont of item.continuation) {
+              liContent += `<p>${cont}</p>`;
+            }
+            newHtml += `<li>${liContent}</li>`;
+          }
+          newHtml += `</ol>`;
+        }
+      }
+
+      contentDiv.innerHTML = newHtml;
+    }
+    return str && parsed.innerHTML;
+  });
+
   function fillPictureSourceSets(src, cls, alt, meta, width, imageTag) {
     imageTag.tagName = "picture";
     let html = `<source
