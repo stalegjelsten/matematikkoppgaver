@@ -478,7 +478,9 @@ module.exports = function(eleventyConfig) {
       const normalized = rawHtml
         .replace(/^\s*<p>\s*/i, "")          // strip leading <p>
         .replace(/\s*<\/p>\s*$/i, "")        // strip trailing </p>
-        .replace(/\s*<\/p>\s*<p>\s*/gi, "<br>"); // paragraph boundaries → <br>
+        .replace(/\s*<\/p>\s*<p>\s*/gi, "<br>") // paragraph boundaries → <br>
+        .replace(/\s*<\/p>/gi, "<br>")       // remaining </p> (before block elements like mjx-container)
+        .replace(/<p>\s*/gi, "<br>");         // remaining <p> (after block elements)
       const lines = normalized.split(/<br\s*\/?>/i);
 
       const segments = []; // Each segment is either {type:"ol", items:[{letter, html, continuation:[]}]} or {type:"p", html}
