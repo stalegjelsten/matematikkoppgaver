@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-11-14","aliases":[],"dg-publish":true,"temaer":["proporsjonalitet","omvendt proporsjonalitet","funksjoner","tolke grafer"],"fag":["2p-y"],"eksamen":"h25","del":1,"oppgave":5,"title":"Proporsjonalitet fra grafer 2P-Y H25","source":"Eksamen 2P-Y høst 2025","todo":null,"status":3,"permalink":"/proporsjonalitet-fra-grafer-h25/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-11-14","aliases":[],"dg-publish":true,"temaer":["proporsjonalitet","funksjoner","tolke grafer","omvendt proporsjonal"],"fag":["2p-y"],"eksamen":"h25","del":1,"oppgave":5,"title":"Proporsjonalitet fra grafer 2P-Y H25","source":"Eksamen 2P-Y høst 2025","todo":null,"status":3,"permalink":"/proporsjonalitet-fra-grafer-h25/","dgPassFrontmatter":true}
 ---
 
 
@@ -19,5 +19,3 @@ Nedenfor ser du grafene til fire funksjoner $p$, $q$, $r$ og $s$.
 >a) $q(x)=150x$
 >b) $r(x)=\frac{1200}{x}$
 >[[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2025#Oppgave 1-5\|Løsningsforslag 2P-Y eksamen H2025#Oppgave 1-5]]
-
-## Relatert
