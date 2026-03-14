@@ -87,6 +87,43 @@
   font-weight: 700;
 }
 
+/* Fargebokser: green-box, blue-box, yellow-box */
+/* Tydelig ramme, men bakgrunnsfargen er nesten usynlig (svært lav opasitet) */
+
+.callout[data-callout="green-box"] {
+  --callout-color: 8, 185, 78;
+  background-color: rgba(8, 185, 78, 0.1) !important;
+  background: none !important;
+  border: 2px solid rgba(8, 185, 78, 0.7);
+  border-radius: 5px;
+  padding: 1rem 1.5rem;
+}
+
+.callout[data-callout="blue-box"] {
+  --callout-color: 8, 109, 221;
+  background-color: rgba(8, 109, 221, 0.1) !important;
+  background: none !important;
+  border: 2px solid rgba(8, 109, 221, 0.7);
+  border-radius: 5px;
+  padding: 1rem 1.5rem;
+}
+
+.callout[data-callout="yellow-box"] {
+  --callout-color: 224, 172, 0;
+  background-color: rgba(224, 172, 0, 0.1) !important;
+  background: none !important;
+  border: 2px solid rgba(224, 172, 0, 0.7);
+  border-radius: 5px;
+  padding: 1rem 1.5rem;
+}
+
+/* Skjul tittel og ikon for fargebokser */
+.callout[data-callout="green-box"] .callout-title,
+.callout[data-callout="blue-box"] .callout-title,
+.callout[data-callout="yellow-box"] .callout-title {
+  display: none;
+}
+
 /* Skjul tags i toppen av siden */
 .header-tags {
   display: none;
