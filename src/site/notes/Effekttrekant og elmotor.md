@@ -77,13 +77,17 @@ For en enfaset elmotor får du oppgitt følgende verdier
 
 Formelen for tilsynelatende effekt $S$ i en enfaset elmotor er $S=U \cdot I$.
 
-a) Regn ut motorens tilsynelatende effekt $S$, og finn fasevinkelen $\phi$.  
-b) Forklar to ulike måter vi kan beregne motorens aktive effekt $P$ på.  
-Bruk disse til å regne ut verdien av $P$. Sammenlikn svarene.
+> [!oppgave]
+> 
+> a) Regn ut motorens tilsynelatende effekt $S$, og finn fasevinkelen $\phi$.  
+> b) Forklar to ulike måter vi kan beregne motorens aktive effekt $P$ på.  
+> Bruk disse til å regne ut verdien av $P$. Sammenlikn svarene.
+
 
 I en annen enfaset elmotor er $\cos \phi$ større, og tilsynelatende effekt $S$ er den samme som i motoren i oppgave a.
 
-c) Vurder, uten å gjøre utregninger, hvordan dette påvirker størrelsen av $Q$ og $P$ i denne motoren.
+> [!oppgave]
+> c) Vurder, uten å gjøre utregninger, hvordan dette påvirker størrelsen av $Q$ og $P$ i denne motoren.
 
 >[!question]- Fasit
 > 

@@ -9,7 +9,8 @@ Funksjonen $f$ er gitt ved
 
 $$ f(x)=x^{2}-2 x-8$$
 
-I hvilke punkter skjærer grafen til funksjonen $x$-aksen?
+> [!oppgave]
+> I hvilke punkter skjærer grafen til funksjonen $x$-aksen?
 
 >[!question]- Fasit
 >$x=4 \vee x=-2$

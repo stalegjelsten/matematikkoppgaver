@@ -7,7 +7,8 @@
 
 Et kvadrat har sidekant 1 m. En sirkel er tegnet på innsiden av kvadratet slik at sirkelen toucher to sidekanter og et hjørne. Se figuren under. 
 
-Hva er størrelsen av det fargede området?
+> [!oppgave]
+>  Hva er størrelsen av det fargede området?
 
 ![](/img/user/_resources/sirkel-og-kvadrat.png)
 

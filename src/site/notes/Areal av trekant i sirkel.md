@@ -15,7 +15,8 @@ Arealet av $\triangle A B C$ er $2 \sqrt{3}+6$
 
 Se figuren ovenfor.
 
-Bestem en eksakt verdi for $r$. 
+> [!oppgave]
+>  Bestem en eksakt verdi for $r$. 
 
 >[!question]- Fasit
 >

@@ -9,7 +9,8 @@
 
 I denne oppgaven skal du vise at du kan bruke trigonometri til å bestemme arealet av figuren ovenfor.
 
-Bestem arealet. Husk å gjøre rede for hvilke trigonometriske sammenhenger du bruker. 
+> [!oppgave]
+>  Bestem arealet. Husk å gjøre rede for hvilke trigonometriske sammenhenger du bruker. 
 
 >[!info] Kommentar
 >Kommentar: Du trenger ikke regne eksakte verdier i denne oppgaven, men du må bruke trigonometriske sammenhenger. Hvis du konstruerer firkanten i GeoGebra vil det ikke gi full uttelling.

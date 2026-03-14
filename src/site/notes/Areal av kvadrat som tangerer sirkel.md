@@ -7,7 +7,8 @@
 
 ![](/img/user/_resources/areal-av-kvadrat-som-kvadrerer-sirkel.png)
 
-Hva er arealet av kvadratet?
+> [!oppgave]
+>  Hva er arealet av kvadratet?
 
 >[!question]- Fasit
 > $A=16$

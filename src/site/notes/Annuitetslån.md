@@ -4,13 +4,15 @@
 
 # Annuitetslån
 
-Anders tok opp et annuitetslån på 150000 kroner for å kjøpe en bil. Lånet hadde en nedbetalingstid på 36 måneder med én termin per måned. Det hadde en månedlig rentesats på 0,49 prosent.
+Anders tok opp et annuitetslån på 150 000 kroner for å kjøpe en bil. Lånet hadde en nedbetalingstid på 36 måneder med én termin per måned. Det hadde en månedlig rentesats på 0,49 prosent.
 
-a) Hva var terminbeløpet?
+> [!oppgave]
+> a) Hva var terminbeløpet?
 
 Like etter at Anders hadde betalt inn terminbeløp 24 ble bilen totalskadet, og forsikringsselskapet betalte ut 55000 kroner.
 
-b) Var dette nok til å betale ned restlånet?
+> [!oppgave]
+>  b) Var dette nok til å betale ned restlånet?
 
 >[!question]- Fasit
 >a) 4555,14 kr
