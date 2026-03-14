@@ -1,0 +1,17 @@
+{% if "oppgave" in tags %}
+{% set fagArray = fag | toArray %}
+<p><em>
+{%- if not eksamen or eksamen == "ingen" -%}
+  {%- if source -%}
+    Oppgaven er hentet fra {{ source }}.
+  {%- else -%}
+    Oppgaven er ikke hentet fra noe eksamenssett.
+  {%- endif -%}
+{%- else -%}
+  {%- if fagArray | length > 1 -%}
+    Oppgaven er gitt ved flere eksamener: {{ fagArray | join(", ") | upper }}.
+  {%- endif -%}
+  Oppgaven er hentet fra eksamen {{ fagArray[0] | upper }} {{ eksamen | upper }} del {{ del }} oppgave {{ oppgave }}.
+{%- endif -%}
+</em></p>
+{% endif %}

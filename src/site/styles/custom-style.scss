@@ -1,0 +1,21 @@
+/* Line numbers for code blocks (syntax: ```lang ln) */
+pre.line-numbers {
+    counter-reset: line;
+}
+pre.line-numbers code .line {
+    display: block;
+    counter-increment: line;
+    padding-left: var(--size-4-4, 16px);
+}
+pre.line-numbers code .line::before {
+    content: counter(line);
+    display: inline-block;
+    width: 2.5em;
+    margin-left: calc(-1 * var(--size-4-4, 16px));
+    margin-right: 1em;
+    text-align: right;
+    color: var(--text-faint, #555);
+    user-select: none;
+    border-right: 1px solid var(--background-modifier-border, #333);
+    padding-right: 0.5em;
+}

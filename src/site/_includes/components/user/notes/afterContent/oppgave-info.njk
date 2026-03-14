@@ -1,0 +1,53 @@
+{% if "oppgave" in tags %}
+{% set fagArray = fag | toArray %}
+{% set temaerArray = temaer | toArray %}
+
+<h2>Relatert</h2>
+
+{% set sameFagOppgaver = collections.all | oppgaverIFag(fag) %}
+{% set n = sameFagOppgaver | length %}
+{% if n > 2 %}
+<h3>Tilfeldige oppgaver i samme fag</h3>
+<p>Det er ofte best å blande hvilke type oppgaver man gjør dersom du skal forberede deg til en prøve eller eksamen. Her er tre tilfeldige oppgaver i {{ fagArray | join(", ") | upper }}.</p>
+{% set titleLen = title | length %}
+{% set utvalgte = sameFagOppgaver | semiRandomSlice(titleLen) %}
+<ul>
+{% for p in utvalgte %}
+{% set pFagArray = p.data.fag | toArray %}
+<li><a href="{{ p.url }}" class="internal-link">{{ p.data.title }} {{ pFagArray | join(" ") | upper }}{% if p.data.eksamen %} {{ p.data.eksamen | upper }}{% endif %}{% if p.data.del %} Del {{ p.data.del }}{% endif %}{% if p.data.oppgave %} oppg {{ p.data.oppgave }}{% endif %}</a></li>
+{% endfor %}
+</ul>
+{% endif %}
+
+{% if temaerArray | length > 0 %}
+<h3>Lignende oppgaver sortert etter tema</h3>
+{% for tema in temaerArray %}
+{% set temaOppgaver = collections.all | oppgaverMedTema(tema, title) %}
+{% if temaOppgaver | length > 0 %}
+<h4>{{ tema | capitalize }}</h4>
+<div class="table-wrapper"><table class="dataview table-view-table">
+  <thead class="table-view-thead">
+    <tr class="table-view-tr-header">
+      <th class="table-view-th">Oppgave</th>
+      <th class="table-view-th">Fag</th>
+      <th class="table-view-th">År</th>
+      <th class="table-view-th">Oppg</th>
+    </tr>
+  </thead>
+  <tbody class="table-view-tbody">
+    {% for k in temaOppgaver %}
+    {% set kFagArray = k.data.fag | toArray %}
+    <tr>
+      <td><a href="{{ k.url }}" class="internal-link">{{ k.data.title }}</a></td>
+      <td>{{ kFagArray | join(", ") | upper }}</td>
+      <td>{% if k.data.eksamen %}{{ k.data.eksamen | upper }}{% else %}Ingen{% endif %}</td>
+      <td>{% if k.data.del and k.data.oppgave %}{{ k.data.del }}-{{ k.data.oppgave }}{% else %}Ingen{% endif %}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table></div>
+{% endif %}
+{% endfor %}
+{% endif %}
+
+{% endif %}

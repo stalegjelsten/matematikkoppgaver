@@ -1,0 +1,12 @@
+---
+pagination:
+  data: collections.unikeTemaer
+  size: 1
+  alias: tema
+permalink: "/temaer/{{ tema | slugify }}/"
+eleventyComputed:
+  title: "{{ tema }}"
+layout: layouts/note.njk
+tags: []
+---
+# {{ tema | capitalize }}
