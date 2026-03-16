@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-01-23","modified":"2024-01-23","aliases":null,"dg-publish":true,"temaer":["statistikk","sentralmål","spredningsmål"],"fag":["2p-y"],"eksamen":"h23","del":2,"oppgave":"2","title":"Målskårere i Eliteserien 2022","source":null,"todo":null,"permalink":"/malskarere-i-eliteserien-2022/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-01-23","modified":"2024-01-23","aliases":null,"dg-publish":true,"temaer":["statistikk","sentralmål","spredningsmål"],"fag":["2p-y"],"eksamen":"h23","del":2,"oppgave":2,"title":"Målskårere i Eliteserien 2022","source":null,"todo":null,"permalink":"/malskarere-i-eliteserien-2022/","dgPassFrontmatter":true}
 ---
 
 

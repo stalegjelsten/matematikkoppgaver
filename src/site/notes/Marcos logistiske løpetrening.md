@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-12-04","modified":"2024-12-14","aliases":null,"dg-publish":true,"temaer":["logistisk funksjon","regresjon","samlet mengde"],"fag":["s2"],"eksamen":"h24","del":2,"oppgave":"1","title":"Marcos logistiske løpetrening","source":null,"todo":null,"permalink":"/marcos-logistiske-lopetrening/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-12-04","modified":"2024-12-14","aliases":null,"dg-publish":true,"temaer":["logistisk funksjon","regresjon","samlet mengde"],"fag":["s2"],"eksamen":"h24","del":2,"oppgave":"1","title":"Marcos logistiske løpetrening","source":null,"todo":null,"status":3,"permalink":"/marcos-logistiske-lopetrening/","dgPassFrontmatter":true}
 ---
 
 
@@ -20,6 +20,7 @@ Marco skal løpe maraton og starter løpetrening. I tabellen nedenfor ser du hvo
 >er en god modell for sammenhengen mellom uker etter treningsstart ($t$) og antall kilometer løpt per uke ($L$).
 >
 >Forklar hvorfor en modell av denne typen kan passe godt til denne praktiske situasjonen.
+>
 >b) Når økte antallet løpte kilometer per uke raskest, ifølge modellen?
 >
 >Hvor stor var økningen da?

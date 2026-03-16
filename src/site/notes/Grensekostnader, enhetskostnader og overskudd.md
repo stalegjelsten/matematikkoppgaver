@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-22","modified":"2025-11-22","aliases":[],"dg-publish":true,"temaer":["økonomi","grenseinntekt og grensekostnad","enhetskostnad"],"fag":["s2"],"eksamen":"h25","del":2,"oppgave":2,"title":"Grensekostnader, enhetskostnader og overskudd","source":null,"todo":null,"permalink":"/grensekostnader-enhetskostnader-og-overskudd/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-22","modified":"2025-11-22","aliases":[],"dg-publish":true,"temaer":["økonomi","grenseinntekt og grensekostnad","enhetskostnad"],"fag":["s2"],"eksamen":"h25","del":2,"oppgave":2,"title":"Grensekostnader, enhetskostnader og overskudd","source":null,"todo":null,"status":3,"permalink":"/grensekostnader-enhetskostnader-og-overskudd/","dgPassFrontmatter":true}
 ---
 
 
@@ -14,8 +14,6 @@ $$
 
 >[!oppgave]
 > a) Bestem $K'(150)$. Gi en praktisk tolkning av svaret.
-
->[!oppgave]
 > b) Bestem produksjonsmengden som gir den laveste enhetskostnaden. Hva blir denne enhetskostnaden?
 
 Bedriften selger alle varene den produserer. Inntekten $I(x)$ kroner ved salg av $x$ enheter av varen per dag er gitt ved

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-12-04","modified":"2024-12-14","aliases":[],"dg-publish":true,"temaer":["diskrete sannsynlighetsfordelinger","varians"],"fag":["s2"],"eksamen":"h24","del":1,"oppgave":"3","title":"Varians i diskret sannsynlighetsfordeling","source":null,"todo":["fasit","løsningsforslag"],"permalink":"/varians-i-diskret-sannsynlighetsfordeling/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-12-04","modified":"2024-12-14","aliases":[],"dg-publish":true,"temaer":["diskrete sannsynlighetsfordelinger","varians"],"fag":["s2"],"eksamen":"h24","del":1,"oppgave":"3","title":"Varians i diskret sannsynlighetsfordeling","source":null,"todo":["fasit","løsningsforslag"],"status":3,"permalink":"/varians-i-diskret-sannsynlighetsfordeling/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-12-04","modified":"2025-09-24","aliases":[],"dg-publish":true,"temaer":["økonomi","grenseinntekt og grensekostnad","enhetskostnad"],"fag":["s2"],"eksamen":"h24","del":1,"oppgave":5,"title":"Grensekostnad og enhetskostnad del 1","source":null,"todo":[],"permalink":"/grensekostnad-og-enhetskostnad-del-1/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-12-04","modified":"2025-09-24","aliases":[],"dg-publish":true,"temaer":["økonomi","grenseinntekt og grensekostnad","enhetskostnad"],"fag":["s2"],"eksamen":"h24","del":1,"oppgave":5,"title":"Grensekostnad og enhetskostnad del 1","source":null,"todo":[],"status":3,"permalink":"/grensekostnad-og-enhetskostnad-del-1/","dgPassFrontmatter":true}
 ---
 
 

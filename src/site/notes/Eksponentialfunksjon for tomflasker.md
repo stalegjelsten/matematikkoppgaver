@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-14","modified":"2026-03-14","aliases":[],"dg-publish":true,"temaer":["eksponentialfunksjoner","geogebra","programmering"],"fag":["2p-y"],"eksamen":"v23","del":2,"oppgave":6,"title":"Eksponentialfunksjon for tomflasker","source":null,"todo":null,"status":1,"permalink":"/eksponentialfunksjon-for-tomflasker/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-14","modified":"2026-03-14","aliases":[],"dg-publish":true,"temaer":["eksponentialfunksjoner","geogebra","programmering","eksponentiell vekst"],"fag":["2p-y"],"eksamen":"v23","del":2,"oppgave":6,"title":"Eksponentialfunksjon for tomflasker","source":null,"todo":null,"status":1,"permalink":"/eksponentialfunksjon-for-tomflasker/","dgPassFrontmatter":true}
 ---
 
 

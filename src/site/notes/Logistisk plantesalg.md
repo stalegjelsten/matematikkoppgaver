@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-22","modified":"2025-11-22","aliases":[],"dg-publish":true,"temaer":["regresjon","logistisk funksjon","tolkning av integraler"],"fag":["s2"],"eksamen":"h25","del":2,"oppgave":1,"title":"Logistisk plantesalg","source":null,"todo":null,"permalink":"/logistisk-plantesalg/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-22","modified":"2025-11-22","aliases":[],"dg-publish":true,"temaer":["regresjon","logistisk funksjon","tolkning av integraler"],"fag":["s2"],"eksamen":"h25","del":2,"oppgave":1,"title":"Logistisk plantesalg","source":null,"todo":null,"status":3,"permalink":"/logistisk-plantesalg/","dgPassFrontmatter":true}
 ---
 
 
@@ -8,9 +8,9 @@
 
 Et hagesenter ønsker å satse på salg av en ny type planter. De startet salget av plantene i uke 17. Utover våren økte salget. I tabellen nedenfor ser du inntekten fra salget av plantene de første ukene.
 
-| Uke | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Inntekt (kr/uke) | 2900 | 4400 | 12200 | 23400 | 28800 | 34600 | 41000 | 40800 |
+| Uke              |  17  |  18  |   19   |   20   |   21   |  22   |   23   |   24   |
+| :--------------- | :--: | :--: | :----: | :----: | :----: | :---: | :----: | :----: |
+| Inntekt (kr/uke) | 2900 | 4400 | 12 200 | 23 400 | 28 800 | 34600 | 41 000 | 40 800 |
 
 >[!oppgave]
 >a) Bruk informasjonen i tabellen til å lage en modell I på formen

@@ -5,7 +5,7 @@
 
 # Areal av firkant ved hjelp av trigonometri
 
-![1t-v23-2-3-oppg.png](/img/user/_resources/1t-v23-2-3-oppg.png)
+![Firkant](/img/user/_resources/1t-v23-2-3-oppg.png)
 
 I denne oppgaven skal du vise at du kan bruke trigonometri til å bestemme arealet av figuren ovenfor.
 

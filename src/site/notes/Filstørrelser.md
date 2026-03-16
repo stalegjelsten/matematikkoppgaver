@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["bits og bytes"],"fag":["1p-y el"],"eksamen":"h25","del":1,"oppgave":4,"title":null,"source":"Eksamen 1P-Y EL H2025","todo":null,"permalink":"/filstorrelser/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["bits og bytes"],"fag":["1p-y el"],"eksamen":"h25","del":1,"oppgave":4,"title":null,"source":"Eksamen 1P-Y EL H2025","todo":null,"status":3,"permalink":"/filstorrelser/","dgPassFrontmatter":true}
 ---
 
 
@@ -19,6 +19,8 @@ Du har et nett som er tregt. Det tar 16 sekunder for å laste ned en fil på 8 M
 
 
 >[!question]- Fasit
-> 
+> a) 48 Mbit
+> b) 4 Mbit/s
+> [[Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 1-4\|Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 1-4]]
 >
 

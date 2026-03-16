@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-29","modified":"2024-05-29","aliases":[],"dg-publish":true,"temaer":["lån","rekker","excel","cas"],"fag":["s2"],"eksamen":"v24","del":2,"oppgave":"3","title":"Olivias annuitetslån","source":null,"todo":null,"permalink":"/olivias-annuitetslan/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-05-29","modified":"2024-05-29","aliases":[],"dg-publish":true,"temaer":["lån","rekker","excel","cas"],"fag":["s2"],"eksamen":"v24","del":2,"oppgave":"3","title":"Olivias annuitetslån","source":null,"todo":null,"status":3,"permalink":"/olivias-annuitetslan/","dgPassFrontmatter":true}
 ---
 
 

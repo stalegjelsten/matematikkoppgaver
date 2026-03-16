@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["tolke grafer","tolkning av integraler","integral","areal under graf"],"fag":["s2"],"eksamen":"h25","del":1,"oppgave":3,"title":null,"source":null,"todo":null,"permalink":"/s2-h2025-tolkning-av-integral-fra-graf/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["tolke grafer","tolkning av integraler","integral","areal under graf"],"fag":["s2"],"eksamen":"h25","del":1,"oppgave":3,"title":null,"source":null,"todo":null,"status":3,"permalink":"/s2-h2025-tolkning-av-integral-fra-graf/","dgPassFrontmatter":true}
 ---
 
 
@@ -11,10 +11,12 @@ Nedenfor ser du grafen til funksjonen $f$ gitt ved $f(x)=x^3+x^2-2 x$.
 >[!oppgave]
 > a) Hvilket av uttrykkene nedenfor gir arealet av det markerte området på figuren? Husk å begrunne svaret ditt.
 
-1. $\int_{-2}^1 f(x) d x$
-2. $\int_{-2}^1 f(x) d x-\int_0^1 f(x) d x$
-3. $\int_{-2}^0 f(x) d x+\int_0^1 f(x) d x$
-4. $\int_{-2}^0 f(x) d x-\int_0^1 f(x) d x$
+
+
+   1. $$\int_{-2}^1 f(x) \mathrm{~d} x$$
+   2. $$\int_{-2}^1 f(x) \mathrm{~d} x-\int_0^1 f(x) \mathrm{~d} x$$
+   3. $$\int_{-2}^0 f(x) \mathrm{~d} x+\int_0^1 f(x) \mathrm{~d} x$$
+   4. $$\int_{-2}^0 f(x) \mathrm{~d} x-\int_0^1 f(x) \mathrm{~d} x$$
 
 >[!oppgave]
 > b) Regn ut arealet av det markerte området på figuren.

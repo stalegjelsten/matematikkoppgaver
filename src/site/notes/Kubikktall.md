@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-29","modified":"2024-05-29","aliases":null,"dg-publish":true,"temaer":["rekursiv sammenheng","figurtall","programmering"],"fag":["s2","r2"],"eksamen":"v24","del":2,"oppgave":"4","title":"Kubikktall","source":null,"todo":null,"permalink":"/kubikktall/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-05-29","modified":"2024-05-29","aliases":null,"dg-publish":true,"temaer":["rekursiv sammenheng","figurtall","programmering"],"fag":["s2","r2"],"eksamen":"v24","del":2,"oppgave":"4","title":"Kubikktall","source":null,"todo":null,"status":3,"permalink":"/kubikktall/","dgPassFrontmatter":true}
 ---
 
 
@@ -354,6 +354,7 @@ De fem første kubikktallene er $1^{3}, 2^{3}, 3^{3}, 4^{3}$ og $5^{3}$, se figu
 > b) $S_{50}=1625625$
 >[[Løsningsforslag/Løsningsforslag S2 eksamen V2024#Oppgave 2-4\|Løsningsforslag S2 eksamen V2024#Oppgave 2-4]]
 
+<!--
 >[!tip]- TikZ-kode for å lage kuber
 >
 >```tikz
@@ -388,3 +389,4 @@ De fem første kubikktallene er $1^{3}, 2^{3}, 3^{3}, 4^{3}$ og $5^{3}$, se figu
 >   }
 >\end{tikzpicture}
 >\end{document}
+-->

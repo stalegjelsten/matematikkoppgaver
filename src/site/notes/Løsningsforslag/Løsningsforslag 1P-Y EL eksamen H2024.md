@@ -2,6 +2,19 @@
 {"title":null,"dg-publish":true,"fag":["1p-y el"],"eksamen":"h24","aliases":null,"author":"Ståle Gjelsten","documentclass":"scrartcl","fontsize":"11pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}","\\usepackage[DIVS=18]{typearea}"],"toc":false,"highlight-style":"tango","numbersections":false,"shift-heading-level-by":null,"pandoc-latex-environment":{"warning":["warning"],"danger":["danger"],"note":["note"],"tip":["tip"],"important":["important"],"info":["info"],"error":["error"],"fasit":["fasit"]},"tags":["løsningsforslag"],"date":"","modified":"","disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"permalink":"/losningsforslag/losningsforslag-1-p-y-el-eksamen-h2024/","dgPassFrontmatter":true}
 ---
 
+# Del 1
+
+
+## Oppgave 1-5
+Vi tegner først en skisse av trekanten med de målene vi kjenner til.
+
+![Første av trekant](/img/user/_resources/lukas-trekant.png)
+
+Vi vet at  $\cos \angle C = \frac{1}{2}$. Vi vet også at cosinus til en vinkel er hosliggende katet delt på hypotenus. Det vil si at den hosliggende kateten til $C$ er halvparten av hypotenusen.
+
+Det må bety at hypotenusen er dobbelt så lang som $BC$.
+
+**Lengden $AC$ er 15 cm.**
 
 # Del 2
 
@@ -59,3 +72,4 @@ $$
 $$
 
 **Fasevinkelen er størst for motor 2, hvor den er $36{,}9 \degree$.**
+

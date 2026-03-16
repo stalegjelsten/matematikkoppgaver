@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["simulering","sannsynlighet","programmering"],"fag":["s2"],"eksamen":"h25","del":2,"oppgave":6,"title":null,"source":null,"todo":null,"permalink":"/simulering-av-antall-terningkast-for-a-fa-samme-antall-oyne-i-to-kast-pa-rad/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["simulering","sannsynlighet","programmering"],"fag":["s2"],"eksamen":"h25","del":2,"oppgave":6,"title":null,"source":null,"todo":null,"status":2,"permalink":"/simulering-av-antall-terningkast-for-a-fa-samme-antall-oyne-i-to-kast-pa-rad/","dgPassFrontmatter":true}
 ---
 
 
@@ -7,8 +7,10 @@ Ane har en vanlig sekssidet terning. Hun ønsker å finne ut hvor mange ganger h
 
 Hun har laget tabellen nedenfor.
 
-| Kast nummer                              |  1  |  2  |       3       |              4               |              5               |              6               | ... |
-| :--------------------------------------- | :-: | :-: | :-----------: | :--------------------------: | :--------------------------: | :--------------------------: | :-: |
+Table: Sannsynlighet for at et kast er nødvendig { .tall }
+
+| Kast nummer      |  1  |  2  | 3  | 4   |     5      |  6    | ... |
+| :--------------------------------------- | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | Sannsynlighet for at kastet er nødvendig |  1  |  1  | $\frac{5}{6}$ | $\left(\frac{5}{6}\right)^2$ | $\left(\frac{5}{6}\right)^3$ | $\left(\frac{5}{6}\right)^4$ |  ⋯  |
 
 >[!oppgave]
@@ -19,8 +21,6 @@ Hun har laget tabellen nedenfor.
 
 >[!oppgave]
 >b) Bruk simulering til å bestemme forventningsverdien til summen av antall øyne Ane vil få på terningen i kastene hun bruker for å få det samme antallet øyne i to kast på rad.
-
-
 
 >[!question]- Fasit
 > 

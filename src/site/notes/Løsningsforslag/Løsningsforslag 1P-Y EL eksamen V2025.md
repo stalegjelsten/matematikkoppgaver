@@ -3,6 +3,27 @@
 ---
 
 
+# Del 1
+
+## Oppgave 1-2
+**Påstand 1**  
+Hvis påstand 1 stemmer så må $10 \cdot \sqrt{ 25 }$ bli lik $50$. Vi sjekker.
+$$
+10 \cdot \sqrt{ 25 }=10 \cdot 5 = 50
+$$
+**Påstand 1 stemmer, det tar 25 minutter å lade fra 0 % til 50 %.**
+
+**Påstand 2**  
+Vi vet at det tar 25 minutter å lade til 50 %. La oss tredoble tiden til 75 minutter og sjekke om dette gir oss 100 % lading.
+
+$10\cdot \sqrt{ 75 }$ er vanskelig å regne ut, men jeg vet at svaret må være mellom $8$ og $9$ siden $8^{2}=64$ og $9^{2}=81$. 
+$$
+10 \cdot \sqrt{ 75 } \approx  10 \cdot 8{,}7 =87
+$$
+
+**Påstand 2 stemmer ikke. Vi får ikke ladet mer enn omtrent 87 % på tre ganger så lang tid som fra 0 til 50 %.**
+
+# Del 2
 ## Oppgave 2-1
 
 ### 2-1a
@@ -46,3 +67,4 @@ $$
 >Denne oppgaven kan løses mye enklere ved å sette opp forholdet
 >
 >$$ \frac{230}{400} = \frac{x}{1{,}4} \implies x = \frac{230}{400}\cdot 1{,}4 = 0{,}8$$
+

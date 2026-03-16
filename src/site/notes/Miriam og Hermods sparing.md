@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-01-30","modified":"2024-01-31","aliases":null,"dg-publish":true,"temaer":["sparing","rekker"],"fag":["s2"],"eksamen":"h23","del":2,"oppgave":"2","title":"Miriam og Hermods sparing","source":null,"todo":["fasit","løsningsforslag"],"permalink":"/miriam-og-hermods-sparing/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-01-30","modified":"2024-01-31","aliases":null,"dg-publish":true,"temaer":["sparing","rekker"],"fag":["s2"],"eksamen":"h23","del":2,"oppgave":"2","title":"Miriam og Hermods sparing","source":null,"todo":["fasit","løsningsforslag"],"status":3,"permalink":"/miriam-og-hermods-sparing/","dgPassFrontmatter":true}
 ---
 
 # Miriam og Hermods sparing

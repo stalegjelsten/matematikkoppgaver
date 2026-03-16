@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-01-28","modified":"2024-01-28","aliases":null,"dg-publish":true,"temaer":["programmering"],"fag":["s2"],"eksamen":"h23","del":1,"oppgave":"4","title":"Ukjent program h23","source":null,"todo":null,"permalink":"/ukjent-program-h23/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-01-28","modified":"2024-01-28","aliases":null,"dg-publish":true,"temaer":["programmering"],"fag":["s2"],"eksamen":"h23","del":1,"oppgave":"4","title":"Ukjent program h23","source":null,"todo":null,"status":3,"permalink":"/ukjent-program-h23/","dgPassFrontmatter":true}
 ---
 
 

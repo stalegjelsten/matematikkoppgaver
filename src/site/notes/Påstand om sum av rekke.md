@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-12-04","modified":"2024-12-04","aliases":null,"dg-publish":true,"temaer":["rekker","uendelig rekke"],"fag":["s2"],"eksamen":"h24","del":2,"oppgave":"3a","title":"Påstand om sum av rekke","source":null,"todo":null,"permalink":"/pastand-om-sum-av-rekke/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-12-04","modified":"2024-12-04","aliases":null,"dg-publish":true,"temaer":["rekker","uendelig rekke"],"fag":["s2"],"eksamen":"h24","del":2,"oppgave":"3a","title":"Påstand om sum av rekke","source":null,"todo":null,"status":3,"permalink":"/pastand-om-sum-av-rekke/","dgPassFrontmatter":true}
 ---
 
 

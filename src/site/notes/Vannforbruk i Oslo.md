@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-10-08","modified":"2024-10-08","aliases":[],"dg-publish":true,"temaer":["standardform"],"fag":["2p-y"],"eksamen":"v24","del":1,"oppgave":"3","title":"Vannforbruk i Oslo","source":"Eksamen 2P-Y vår 2024","todo":null,"permalink":"/vannforbruk-i-oslo/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-10-08","modified":"2024-10-08","aliases":[],"dg-publish":true,"temaer":["standardform"],"fag":["2p-y"],"eksamen":"v24","del":1,"oppgave":3,"title":"Vannforbruk i Oslo","source":"Eksamen 2P-Y vår 2024","todo":null,"permalink":"/vannforbruk-i-oslo/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["rekker","uendelig rekke"],"fag":["s2"],"eksamen":"h25","del":1,"oppgave":2,"title":null,"source":null,"todo":null,"permalink":"/s2-h2025-ulike-rekker-del-1/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["rekker","uendelig rekke"],"fag":["s2"],"eksamen":"h25","del":1,"oppgave":2,"title":null,"source":null,"todo":null,"status":3,"permalink":"/s2-h2025-ulike-rekker-del-1/","dgPassFrontmatter":true}
 ---
 
 
@@ -23,6 +23,7 @@ $$
 > b) Bestem konvergensområdet til rekken.
 
 En ball faller fra 2 meters høyde. Hver gang ballen treffer bakken, spretter den opp til en høyde som er $75 \%$ av høyden den falt fra.
+
 >[!oppgave]
 > c) Hvor mange meter vil ballen bevege seg totalt?
 
