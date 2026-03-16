@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":null,"dg-publish":true,"temaer":["lån","sparing","excel","cas"],"fag":["s2"],"eksamen":"v25","del":2,"oppgave":4,"title":"Noras sparing og lån","source":"Eksamen S2 høst 2025","todo":null,"permalink":"/noras-sparing-og-lan/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":null,"dg-publish":true,"temaer":["lån","sparing","excel","cas"],"fag":["s2"],"eksamen":"v25","del":2,"oppgave":4,"title":"Noras sparing og lån","source":"Eksamen S2 høst 2025","todo":null,"status":3,"permalink":"/noras-sparing-og-lan/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["trigonometri","elektrofag","effekttrekant"],"fag":["1p-y el"],"eksamen":"h25","del":1,"oppgave":5,"title":null,"source":null,"todo":["løsningsforslag"],"status":2,"permalink":"/felix-sine-effektdiagrammer/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["trigonometri","elektrofag","effekttrekant"],"fag":["1p-y el"],"eksamen":"h25","del":1,"oppgave":5,"title":null,"source":null,"todo":["løsningsforslag"],"status":3,"permalink":"/felix-sine-effektdiagrammer/","dgPassFrontmatter":true}
 ---
 
 
@@ -15,12 +15,12 @@ Hvert diagram er en grafisk framstilling av de tre effektene som en elmotor har:
 
 Felix stiller seg selv noen spørsmål om de ulike motorene:
 
-> [!note] Spørsmål 1
+> [!green-box] Spørsmål 1
 > Hva er den aktive effekten $P$ for motor A når jeg bruker Pytagoras' setning for å regne den ut?
 
 Felix får vite for motor $B$ er $\sin \phi = 0{,}5$.
 
-> [!note] Spørsmål 2
+> [!yellow-box] Spørsmål 2
 > Hva er den reaktive $Q$ for motor B når jeg bruker trigonometri for
 å regne den ut?
 
@@ -30,4 +30,4 @@ Gjør beregninger og vurderinger, og svar på de spørsmålene som Felix stiller
 > 
 > a) 4 kW
 > b) 1,1 kVAr
-
+> [[Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 1-5\|Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 1-5]]

@@ -1,16 +1,13 @@
 ---
-{"tags":["oppgave"],"date":"2024-12-04","modified":"2024-12-14","aliases":null,"dg-publish":true,"temaer":["integral"],"fag":["s2"],"eksamen":"h24","del":1,"oppgave":"1a","title":"Ubestemt integral h24","source":null,"todo":[],"permalink":"/ubestemt-integral-h24/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-12-04","modified":"2024-12-14","aliases":null,"dg-publish":true,"temaer":["integral"],"fag":["s2"],"eksamen":"h24","del":1,"oppgave":"1a","title":"Ubestemt integral h24","source":null,"todo":[],"status":3,"permalink":"/ubestemt-integral-h24/","dgPassFrontmatter":true}
 ---
 
 
 # Ubestemt integral h24
 
-
-Regn ut integralet
-
-$$
-\int x^{2} \cdot \ln x \, \mathrm{d}x 
-$$
+> [!oppgave]
+>  a) Regn ut integralet
+>  $$ \int x^{2} \cdot \ln x \, \mathrm{d}x  $$
 
 >[!question]- Fasit
 > 

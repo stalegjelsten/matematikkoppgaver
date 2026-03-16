@@ -5,7 +5,7 @@
 
 # Areal av kvadrat som tangerer sirkel
 
-![](/img/user/_resources/areal-av-kvadrat-som-kvadrerer-sirkel.png)
+![Kvadrat og sirkel](/img/user/_resources/areal-av-kvadrat-som-kvadrerer-sirkel.png)
 
 > [!oppgave]
 >  Hva er arealet av kvadratet?

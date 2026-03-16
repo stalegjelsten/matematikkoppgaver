@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-10-14","modified":"2024-10-14","aliases":[],"dg-publish":true,"temaer":["grafisk framstilling","statistikk"],"fag":["2p-y"],"eksamen":"v24","del":2,"oppgave":"7","title":"Grafisk framstilling av læreplasser","source":null,"todo":null,"status":2,"permalink":"/grafisk-framstilling-av-laereplasser/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-10-14","modified":"2024-10-14","aliases":[],"dg-publish":true,"temaer":["grafisk framstilling","statistikk"],"fag":["2p-y"],"eksamen":"v24","del":2,"oppgave":7,"title":"Grafisk framstilling av læreplasser","source":null,"todo":null,"status":2,"permalink":"/grafisk-framstilling-av-laereplasser/","dgPassFrontmatter":true}
 ---
 
 
@@ -16,7 +16,8 @@ Nedenfor ser du en tabell som viser antallet lærlinger i Rogaland, i Oslo og to
 
 Tenk deg at du skal presentere dette datamaterialet for klassen din.
 
-Gjør sammenlikninger og beregninger og lag ulike framstillinger som du kan bruke i en presentasjon. Presentasjonen skal inneholde både beregninger og diagrammer.
+> [!oppgave]
+>  Gjør sammenlikninger og beregninger og lag ulike framstillinger som du kan bruke i en presentasjon. Presentasjonen skal inneholde både beregninger og diagrammer.
 
 >[!question]- Fasit
 > [[Løsningsforslag/Løsningsforslag 2P-Y eksamen V2024#2-7\|Løsningsforslag 2P-Y eksamen V2024#2-7]]

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-27","modified":"2024-05-27","aliases":null,"dg-publish":true,"temaer":["programmering","rekker"],"fag":["s2"],"eksamen":"v24","del":1,"oppgave":"3","title":"Ukjent program S2 v24","source":null,"todo":null,"permalink":"/ukjent-program-s2-v24/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-05-27","modified":"2024-05-27","aliases":null,"dg-publish":true,"temaer":["programmering","rekker"],"fag":["s2"],"eksamen":"v24","del":1,"oppgave":"3","title":"Ukjent program S2 v24","source":null,"todo":null,"status":3,"permalink":"/ukjent-program-s2-v24/","dgPassFrontmatter":true}
 ---
 
 

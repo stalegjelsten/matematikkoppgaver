@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-12-04","modified":"2024-12-14","aliases":null,"dg-publish":true,"temaer":["etterspørsel","økonomi"],"fag":["s2"],"eksamen":"h24","del":2,"oppgave":"6","title":"Etterspørsel av vare","source":null,"todo":[],"permalink":"/ettersporsel-av-vare/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-12-04","modified":"2024-12-14","aliases":null,"dg-publish":true,"temaer":["etterspørsel","økonomi"],"fag":["s2"],"eksamen":"h24","del":2,"oppgave":"6","title":"Etterspørsel av vare","source":null,"todo":[],"status":3,"permalink":"/ettersporsel-av-vare/","dgPassFrontmatter":true}
 ---
 
 
@@ -32,3 +32,5 @@ der $p$ er prisen per vare i kroner
 > 
 >a) 220 enheter.
 >b) $-100x \ln \left( \frac{x}{300} \right)$
+>
+>[[Løsningsforslag/Løsningsforslag S2 eksamen H2024#Oppgave 2-6\|Løsningsforslag S2 eksamen H2024#Oppgave 2-6]]

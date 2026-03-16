@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-28","modified":"2024-05-28","aliases":[],"dg-publish":true,"temaer":["standard normalfordeling","normalfordeling"],"fag":["s2"],"eksamen":"v24","del":1,"oppgave":"4","title":"Normalfordelt laks","source":null,"todo":null,"permalink":"/normalfordelt-laks/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-05-28","modified":"2024-05-28","aliases":[],"dg-publish":true,"temaer":["standard normalfordeling","normalfordeling"],"fag":["s2"],"eksamen":"v24","del":1,"oppgave":"4","title":"Normalfordelt laks","source":null,"todo":null,"status":3,"permalink":"/normalfordelt-laks/","dgPassFrontmatter":true}
 ---
 
 

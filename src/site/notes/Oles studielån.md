@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-12-14","modified":"2024-12-14","aliases":null,"dg-publish":true,"temaer":["lån"],"fag":["s2"],"eksamen":"h24","del":2,"oppgave":"5","title":"Oles studielån","source":null,"todo":null,"permalink":"/oles-studielan/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-12-14","modified":"2024-12-14","aliases":null,"dg-publish":true,"temaer":["lån"],"fag":["s2"],"eksamen":"h24","del":2,"oppgave":"5","title":"Oles studielån","source":null,"todo":null,"status":3,"permalink":"/oles-studielan/","dgPassFrontmatter":true}
 ---
 
 

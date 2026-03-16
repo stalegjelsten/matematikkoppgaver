@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-01-28","modified":"2024-01-28","aliases":null,"dg-publish":true,"temaer":["grenseinntekt og grensekostnad","enhetskostnad","tolke grafer"],"fag":["s2"],"eksamen":"h23","del":1,"oppgave":"3","title":"Grensekostnader og enhetskostnader fra graf","source":null,"todo":["fasit","løsningsforslag"],"permalink":"/grensekostnader-og-enhetskostnader-fra-graf/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-01-28","modified":"2024-01-28","aliases":null,"dg-publish":true,"temaer":["grenseinntekt og grensekostnad","enhetskostnad","tolke grafer"],"fag":["s2"],"eksamen":"h23","del":1,"oppgave":"3","title":"Grensekostnader og enhetskostnader fra graf","source":null,"todo":["fasit","løsningsforslag"],"status":3,"permalink":"/grensekostnader-og-enhetskostnader-fra-graf/","dgPassFrontmatter":true}
 ---
 
 

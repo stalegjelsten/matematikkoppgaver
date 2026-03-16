@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":null,"dg-publish":true,"temaer":["bevis","utforskning","integral"],"fag":["s2"],"eksamen":"v25","del":2,"oppgave":5,"title":"Vis at rekke blir ln 2","source":"Eksamen S2 vår 2025","todo":null,"permalink":"/vis-at-rekke-blir-ln-2/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":null,"dg-publish":true,"temaer":["bevis","utforskning","integral"],"fag":["s2"],"eksamen":"v25","del":2,"oppgave":5,"title":"Vis at rekke blir ln 2","source":"Eksamen S2 vår 2025","todo":null,"status":3,"permalink":"/vis-at-rekke-blir-ln-2/","dgPassFrontmatter":true}
 ---
 
 

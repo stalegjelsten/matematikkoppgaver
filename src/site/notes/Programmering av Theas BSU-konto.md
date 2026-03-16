@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-14","modified":"2026-03-14","aliases":[],"dg-publish":true,"temaer":["programmering","sparing"],"fag":["2p-y"],"eksamen":"v24","del":1,"oppgave":6,"title":"Programmering av Theas BSU-konto","source":null,"todo":null,"status":null,"permalink":"/programmering-av-theas-bsu-konto/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-14","modified":"2026-03-14","aliases":[],"dg-publish":true,"temaer":["programmering","sparing"],"fag":["2p-y"],"eksamen":"v24","del":1,"oppgave":6,"title":"Programmering av Theas BSU-konto","source":null,"todo":null,"status":1,"permalink":"/programmering-av-theas-bsu-konto/","dgPassFrontmatter":true}
 ---
 
 
@@ -15,7 +15,8 @@ Thea vil spare penger og har lest at det er lurt å opprette en BSU-konto i bank
 
 Thea har skrevet programkoden nedenfor. 
 
-Hva er det hun vil finne ut? Forklar hver linje i programkoden.
+> [!oppgave]
+> Hva er det hun vil finne ut? Forklar hver linje i programkoden.
 
 ```python ln
 innskudd = 27500
