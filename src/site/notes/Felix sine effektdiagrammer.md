@@ -30,4 +30,4 @@ Gjør beregninger og vurderinger, og svar på de spørsmålene som Felix stiller
 > 
 > a) 4 kW
 > b) 1,1 kVAr
-> [[Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 1-5\|Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 1-5]]
+> [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 1-5\|Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 1-5]]

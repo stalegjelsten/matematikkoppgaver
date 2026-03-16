@@ -30,4 +30,4 @@ Ella er gift med Sverre. Paret ønsker å kjøpe en leilighet som koster 5 600 0
 > 
 >a) –
 >b) 484 000 kr
->[[Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 2-3\|Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 2-3]]
+>[[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 2-3\|Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 2-3]]
