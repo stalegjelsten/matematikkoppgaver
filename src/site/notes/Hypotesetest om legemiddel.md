@@ -13,7 +13,9 @@ Et smertestillende legemiddel, A, er tilgjengelig på markedet. Legemiddelet dem
 - Legemiddel A virker på $X$ av disse pasientene.
  
 >[!oppgave]
->a) Hvilken sannsynlighetsfordeling har $X$? Begrunn svaret ditt. Regn ut $P(X=9)$ når $n=12$.
+>a) Hvilken sannsynlighetsfordeling har $X$? Begrunn svaret ditt.
+> 
+> Regn ut $P(X=9)$ når $n=12$.
 
 Et nytt legemiddel, B, skal også dempe smerte hos pasienter.
 

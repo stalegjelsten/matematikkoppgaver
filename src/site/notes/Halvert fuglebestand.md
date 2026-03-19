@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["eksponentialfunksjoner"],"fag":["2p-y"],"eksamen":"v25","del":2,"oppgave":6,"title":"Halvert fuglebestand","source":null,"todo":null,"permalink":"/halvert-fuglebestand/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["eksponentialfunksjoner"],"fag":["2p-y"],"eksamen":"v25","del":2,"oppgave":6,"title":"Halvert fuglebestand","source":null,"todo":null,"status":3,"permalink":"/halvert-fuglebestand/","dgPassFrontmatter":true}
 ---
 
 

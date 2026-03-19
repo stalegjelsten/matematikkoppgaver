@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-21","modified":"2025-05-21","aliases":[],"dg-publish":true,"temaer":["sentralmål"],"fag":"2p-y","eksamen":"v25","del":2,"oppgave":3,"title":"Påstander om gjennomsnitt og median i et rom","source":null,"todo":null,"permalink":"/pastander-om-gjennomsnitt-og-median-i-et-rom/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-21","modified":"2025-05-21","aliases":[],"dg-publish":true,"temaer":["sentralmål"],"fag":"2p-y","eksamen":"v25","del":2,"oppgave":3,"title":"Påstander om gjennomsnitt og median i et rom","source":null,"todo":null,"status":3,"permalink":"/pastander-om-gjennomsnitt-og-median-i-et-rom/","dgPassFrontmatter":true}
 ---
 
 

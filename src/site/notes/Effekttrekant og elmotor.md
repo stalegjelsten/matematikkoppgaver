@@ -93,3 +93,4 @@ I en annen enfaset elmotor er $\cos \phi$ større, og tilsynelatende effekt $S$ 
 > a) $S=2760 \mathrm{~VA}$ og $\phi=35\degree$
 > b) Pytagoras eller bruk av $\cos \phi=0{,}8192$. Begge gir 2261 W.
 > c) Hvis $\cos \phi$ øker så øker effektfaktoren. Mer av effekten brukes til det nyttige formålet, dermed øker $P$ og $Q$ minker.
+> [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen V2024#2-1\|Løsningsforslag 1P-Y EL eksamen V2024#2-1]]

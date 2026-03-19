@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-21","modified":"2025-05-21","aliases":null,"dg-publish":true,"temaer":["potensregning"],"fag":["2p-y"],"eksamen":"v25","del":1,"oppgave":5,"title":"Få størst mulig svar","source":null,"todo":null,"permalink":"/fa-storst-mulig-svar/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-21","modified":"2025-05-21","aliases":null,"dg-publish":true,"temaer":["potensregning"],"fag":["2p-y"],"eksamen":"v25","del":1,"oppgave":5,"title":"Få størst mulig svar","source":null,"todo":null,"status":3,"permalink":"/fa-storst-mulig-svar/","dgPassFrontmatter":true}
 ---
 
 

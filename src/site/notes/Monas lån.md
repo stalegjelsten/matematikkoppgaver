@@ -50,12 +50,13 @@ for i in range(antall_terminer):
 > c) Hvor mye skal Mona betale inn i renter totalt i hele nedbetalingsperioden?
 
 >[!question]- Fasit
-> a) Annuitetslån. Like terminbeløp.
-> b) 
-> ```python
-> restlån_start = lån
-> rentebeløp = restlån_start * rente
-> avdrag = terminbeløp - rentebeløp
-> lån = restlån_start - avdrag
-> ```
-> c) 172 305 kr
+> a) Alle terminebeløpene er like.  
+> **Dette er et annuitetslån.**
+> b) ```python
+>     restlån_start = lån
+>     rentebeløp = restlån_start * rente
+>     avdrag = terminbeløp - rentebeløp
+>     lån = restlån_start - avdrag
+>     ```
+> c) Vi kan legge sammen alle rentebeløpene, eller vi kan regne ut
+> $$10 \cdot 117\,230 - 1\,000\,000=1\,172\,300 - 1\,000\,000=\underline{\underline{ 172\,300 \mathrm{~kr} }}$$

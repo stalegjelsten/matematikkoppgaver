@@ -27,7 +27,7 @@ Felix får vite for motor $B$ er $\sin \phi = 0{,}5$.
 Gjør beregninger og vurderinger, og svar på de spørsmålene som Felix stiller.
 
 >[!question]- Fasit
-> 
-> a) 4 kW
-> b) 1,1 kVAr
+>
+> a) $P = 4 \, \mathrm{kW}$
+> b) $Q = 1{,}1 \, \mathrm{kVAr}$
 > [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 1-5\|Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 1-5]]

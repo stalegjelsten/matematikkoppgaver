@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["eksponentialfunksjoner","geogebra","funksjoner"],"fag":"2p-y","eksamen":"v25","del":2,"oppgave":1,"title":null,"source":null,"todo":null,"permalink":"/modell-for-reduksjon-av-utslipp/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["eksponentialfunksjoner","geogebra","funksjoner"],"fag":"2p-y","eksamen":"v25","del":2,"oppgave":1,"title":null,"source":null,"todo":null,"status":3,"permalink":"/modell-for-reduksjon-av-utslipp/","dgPassFrontmatter":true}
 ---
 
 

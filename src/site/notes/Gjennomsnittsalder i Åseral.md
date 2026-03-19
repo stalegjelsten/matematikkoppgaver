@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-12-19","aliases":[],"dg-publish":true,"temaer":["grupperte data","sentralmål"],"fag":["2p-y"],"eksamen":"h25","del":2,"oppgave":5,"title":"Gjennomsnittsalder i Åseral","source":"Eksamen 2P-Y høst 2025","todo":null,"permalink":"/gjennomsnittsalder-i-aseral/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-12-19","aliases":[],"dg-publish":true,"temaer":["grupperte data","sentralmål"],"fag":["2p-y"],"eksamen":"h25","del":2,"oppgave":5,"title":"Gjennomsnittsalder i Åseral","source":"Eksamen 2P-Y høst 2025","todo":null,"status":3,"permalink":"/gjennomsnittsalder-i-aseral/","dgPassFrontmatter":true}
 ---
 
 

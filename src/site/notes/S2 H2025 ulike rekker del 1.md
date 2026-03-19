@@ -30,7 +30,7 @@ En ball faller fra 2 meters høyde. Hver gang ballen treffer bakken, spretter de
 >[!question]- Fasit
 > 
 > a) 825
-> b) $x \in \left\langle -\frac{\frac{1}{2},3}{2} \right\rangle$
+> b) $x \in \left\langle - \frac{1}{2} ,\frac{3}{2} \right\rangle$
 > c) 14 meter
 >[[Løsningsforslag/Løsningsforslag S2 eksamen H2025#Oppgave 1-2\|Løsningsforslag S2 eksamen H2025#Oppgave 1-2]]
 

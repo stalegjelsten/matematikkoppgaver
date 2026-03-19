@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-13","modified":"2026-03-13","aliases":[],"dg-publish":true,"temaer":["excel"],"fag":["1p-y el","1p-y ba"],"eksamen":"h24","del":2,"oppgave":3,"title":"Eriks bilbruk","source":null,"todo":null,"status":1,"permalink":"/eriks-bilbruk/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-13","modified":"2026-03-13","aliases":[],"dg-publish":true,"temaer":["excel","økonomi","formler"],"fag":["1p-y el","1p-y ba"],"eksamen":"h24","del":2,"oppgave":3,"title":"Eriks bilbruk","source":null,"todo":null,"status":1,"permalink":"/eriks-bilbruk/","dgPassFrontmatter":true}
 ---
 
 
@@ -38,5 +38,8 @@ $$
 >  c) Hvor mye lengre tid bruker Erik på kjøreturen på mandagen sammenliknet med kjøreturen på fredagen?
 
 >[!question]- Fasit
-> 
 >
+> a) Totale kostnader: $141\,300 \, \mathrm{kr}$, per km: $9{,}42 \, \mathrm{kr/km}$
+> b) $2\,045 \, \mathrm{kr}$ til overs – ikke fornuftig å kjøpe bilen
+> c) $\approx 2 \, \mathrm{min}$ lengre tid på mandagen
+> [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen H2024#Oppgave 2-3\|Løsningsforslag 1P-Y EL eksamen H2024#Oppgave 2-3]]

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-01-28","modified":"2026-02-01","aliases":[],"dg-publish":true,"temaer":["trigonometri"],"fag":["1p-y el"],"eksamen":"h24","del":1,"oppgave":4,"title":"Bruke definisjonene av sinus og cosinus til å sette opp forhold","source":null,"todo":null,"status":1,"permalink":"/bruke-definisjonene-av-sinus-og-cosinus-til-a-sette-opp-forhold/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-01-28","modified":"2026-02-01","aliases":[],"dg-publish":true,"temaer":["trigonometri"],"fag":["1p-y el"],"eksamen":"h24","del":1,"oppgave":5,"title":"Bruke definisjonene av sinus og cosinus til å sette opp forhold","source":null,"todo":null,"status":2,"permalink":"/bruke-definisjonene-av-sinus-og-cosinus-til-a-sette-opp-forhold/","dgPassFrontmatter":true}
 ---
 
 
@@ -125,10 +125,10 @@ I en trekant med vinkler $30\degree$, $60\degree$ og $90\degree$ er hypotenusen 
 
 En elev ser på figuren og stiller seg to spørsmål:
 
->[!question] Spørsmål 1
+> [!yellow-box] Spørsmål 1
 >Hvordan kan jeg bruke opplysningene i oppgaven til å finne en tallverdi for $\sin 30 \degree$?
 
->[!question] Spørsmål 2
+> [!green-box] Spørsmål 2
 >Jeg vet at $\cos 30\degree$ er tilnærmet lik 0,87.
 >
 >Hvordan kan jeg bruke trigonometri til å finne lengden av siden $AB$?
@@ -136,6 +136,7 @@ En elev ser på figuren og stiller seg to spørsmål:
 Gjør beregninger og svar på spørsmålene til eleven. Husk å begrunne svarene dine.
 
 >[!question]- Fasit
-> 
-> a) $BC$ må være halvparten av $AC$ siden trekanten er 30-60-90. $BC=5 \mathrm{~cm}$.
-> b) $AB=\cos 30 \degree \cdot 10 =0{,}87 \cdot 10=8{,}7 \mathrm{~cm}$
+>
+> Spørsmål 1: $\sin 30° = \frac{BC}{AC} = \frac{5}{10} = 0{,}5$
+> Spørsmål 2: $AB = \cos 30° \cdot 10 = 0{,}87 \cdot 10 = 8{,}7 \, \mathrm{cm}$
+> [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen H2024#Oppgave 1-5\|Løsningsforslag 1P-Y EL eksamen H2024#Oppgave 1-5]]

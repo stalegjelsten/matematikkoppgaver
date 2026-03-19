@@ -20,3 +20,4 @@ Figuren viser en enhetssirkel med et linjestykke g som danner en vinkel $\alpha 
 > 
 > a) 0,8
 > b) $307\degree$
+> [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen V2024#1-4\|Løsningsforslag 1P-Y EL eksamen V2024#1-4]]
