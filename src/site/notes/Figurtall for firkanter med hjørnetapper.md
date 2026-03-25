@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-09-26","modified":"2025-09-26","aliases":[],"dg-publish":true,"temaer":["figurtall"],"fag":["2p-y"],"eksamen":"h24","del":1,"oppgave":4,"title":"Figurtall for firkanter med hjørnetapper","source":null,"todo":null,"permalink":"/figurtall-for-firkanter-med-hjornetapper/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-09-26","modified":"2025-09-26","aliases":[],"dg-publish":true,"temaer":["figurtall","mønstre"],"fag":["2p-y"],"eksamen":"h24","del":1,"oppgave":4,"title":"Figurtall for firkanter med hjørnetapper","source":null,"todo":null,"status":1,"permalink":"/figurtall-for-firkanter-med-hjornetapper/","dgPassFrontmatter":true}
 ---
 
 

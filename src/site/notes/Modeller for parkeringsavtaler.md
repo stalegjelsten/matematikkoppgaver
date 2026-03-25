@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["modellering","regresjon"],"fag":["2p-y"],"eksamen":"h24","del":2,"oppgave":4,"title":"Modeller for parkeringsavtaler","source":null,"todo":null,"permalink":"/modeller-for-parkeringsavtaler/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["modellering","regresjon"],"fag":["2p-y"],"eksamen":"h24","del":2,"oppgave":4,"title":"Modeller for parkeringsavtaler","source":null,"todo":null,"status":1,"permalink":"/modeller-for-parkeringsavtaler/","dgPassFrontmatter":true}
 ---
 
 
