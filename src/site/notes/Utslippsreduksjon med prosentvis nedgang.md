@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-09-26","modified":"2025-09-26","aliases":[],"dg-publish":true,"temaer":["prosentvis endring i flere perioder","programmering"],"fag":["2p-y"],"eksamen":"h24","del":1,"oppgave":5,"title":"Utslippsreduksjon med prosentvis nedgang","source":null,"todo":null,"permalink":"/utslippsreduksjon-med-prosentvis-nedgang/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-09-26","modified":"2025-09-26","aliases":[],"dg-publish":true,"temaer":["prosentvis endring i flere perioder","programmering"],"fag":["2p-y"],"eksamen":"h24","del":1,"oppgave":5,"title":"Utslippsreduksjon med prosentvis nedgang","source":null,"todo":null,"status":1,"permalink":"/utslippsreduksjon-med-prosentvis-nedgang/","dgPassFrontmatter":true}
 ---
 
 

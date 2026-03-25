@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["modellering","regresjon"],"fag":["2p-y"],"eksamen":"h24","del":2,"oppgave":6,"title":"Modell for Hannes løping","source":null,"todo":["fasit","løsningsforslag"],"permalink":"/modell-for-hannes-loping/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["modellering","regresjon"],"fag":["2p-y"],"eksamen":"h24","del":2,"oppgave":6,"title":"Modell for Hannes løping","source":null,"todo":["fasit","løsningsforslag"],"status":1,"permalink":"/modell-for-hannes-loping/","dgPassFrontmatter":true}
 ---
 
 
@@ -20,11 +20,7 @@ der $L(x)$ er antall minutter Hanne klarte å løpe sammenhengende på dag $x$.
 
 >[!oppgave]
 >a) Bruk opplysningene i tabellen til å bestemme tallene $a$ og $b$.  
-
->[!oppgave]
 >b) Hvor mange uker vil det ta før Hanne klarer å løpe 45 minutter sammenhengende ifølge modellen?  
-
->[!oppgave]
 >c) Hvor mange minutter har tiden Hanne klarer å løpe sammenhengende, økt med i gjennomsnitt per dag fra dag 1 til dag 60 ifølge modellen?  
 
 >[!question]- Fasit
