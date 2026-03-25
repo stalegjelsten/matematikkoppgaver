@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-12-19","aliases":[],"dg-publish":true,"temaer":["grupperte data","sentralmål"],"fag":["2p-y"],"eksamen":"h25","del":2,"oppgave":5,"title":"Gjennomsnittsalder i Åseral","source":"Eksamen 2P-Y høst 2025","todo":null,"status":3,"permalink":"/gjennomsnittsalder-i-aseral/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-12-19","aliases":[],"dg-publish":true,"temaer":["grupperte data","sentralmål"],"fag":["2p-y","2p"],"eksamen":"h25","del":2,"oppgave":5,"title":"Gjennomsnittsalder i Åseral","source":"Eksamen 2P-Y høst 2025","todo":null,"status":3,"permalink":"/gjennomsnittsalder-i-aseral/","dgPassFrontmatter":true}
 ---
 
 
@@ -8,14 +8,14 @@
 
 Tabellen nedenfor viser aldersfordelingen i Åseral kommune i 2024.
 
-| Alder (år)       | Antall personer |
-| ---------------- | :-------------: |
-| $[0, 18 \rangle$ |       188       |
-| $[18, 50\rangle$       |       347       |
-| $[50, 67\rangle$       |       237       |
-| $[67, 80\rangle$       |       103       |
-| $[80, 90\rangle$       |       33        |
-| $[90, 100\rangle$      |       15        |
+|    Alder (år)     | Antall personer |
+| :---------------: | :-------------: |
+| $[0, 18 \rangle$  |       188       |
+| $[18, 50\rangle$  |       347       |
+| $[50, 67\rangle$  |       237       |
+| $[67, 80\rangle$  |       103       |
+| $[80, 90\rangle$  |       33        |
+| $[90, 100\rangle$ |       15        |
 
 >[!oppgave]
 >a) Hvilke antagelser må du gjøre for å kunne bruke tabellen til å bestemme ulike sentralmål for innbyggerne i Åseral kommune i 2024?

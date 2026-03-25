@@ -9,8 +9,8 @@
 I trekanten $ABC$ er $A(3, 1)$, $B(2, -2)$ og $C(5, 2)$.
 
 >[!oppgave]
-> **a)** Avgjør ved hjelp av vektorregning hvilken side av trekanten som er kortest.
-> **b)** Avgjør ved hjelp av vektorregning om noen av vinklene er $90\degree$.
+> a) Avgjør ved hjelp av vektorregning hvilken side av trekanten som er kortest.
+> b) Avgjør ved hjelp av vektorregning om noen av vinklene er $90\degree$.
 
 >[!question]- Fasit
 > a) $BC$ er kortest

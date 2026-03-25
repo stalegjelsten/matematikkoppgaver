@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-09-26","modified":"2025-09-26","aliases":[],"dg-publish":true,"temaer":["proporsjonale størrelser","omvendt proporsjonal","tolke grafer"],"fag":["2p-y"],"eksamen":"h24","del":1,"oppgave":3,"title":"Proporsjonale og omvendt proporsjonale størrelser fra graf","source":null,"todo":null,"permalink":"/proporsjonale-og-omvendt-proporsjonale-storrelser-fra-graf/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-09-26","modified":"2025-09-26","aliases":[],"dg-publish":true,"temaer":["proporsjonalitet","omvendt proporsjonalitet","tolke grafer"],"fag":["2p-y"],"eksamen":"h24","del":1,"oppgave":3,"title":"Proporsjonale og omvendt proporsjonale størrelser fra graf","source":null,"todo":null,"permalink":"/proporsjonale-og-omvendt-proporsjonale-storrelser-fra-graf/","dgPassFrontmatter":true}
 ---
 
 

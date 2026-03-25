@@ -281,55 +281,48 @@ Siden minimumsavstanden $\approx 39{,}8 \, \mathrm{m} \gg 19 \, \mathrm{m}$, vil
 
 ### 2-2a
 
-Vi bruker sinusoidal regresjon på dataene. Fra tabellen leser vi av:
+Vi legger inn datapunktene i GeoGebra og bruker `RegSin` til å finne en sinusmodell:
 
-- **Amplitude:** $A \approx \dfrac{323 + 327}{2} = 325 \, \mathrm{V}$
-- **Periode:** Spenningen er tilnærmet $0$ ved $t = 0{,}0100 \, \mathrm{s}$ og $t = 0{,}0200 \, \mathrm{s}$, altså $T = 0{,}0200 \, \mathrm{s}$
-- **Vinkelfrekvens:** $\omega = \dfrac{2\pi}{T} = \dfrac{2\pi}{0{,}0200} = 100\pi$
-- **Fasevinkel:** Maksimum er ved $t = 0{,}0050 \, \mathrm{s}$, som svarer til $\sin\left(100\pi \cdot 0{,}005\right) = \sin\left(\dfrac{\pi}{2}\right) = 1$, altså $\phi = 0$.
+![Regresjonsmodell og datapunkter for oppgave 2-2a](/img/user/_resources/r2-h25-2-2-a-graf.png)
 
-Modellen er
+`RegSin` gir
 
-$$\boxed{U(t) = 325\sin(100\pi t)}$$
+$$U(t) \approx 323{,}47 \cdot \sin(314{,}81 \cdot t - 0{,}003) - 0{,}91$$
 
-Vi kontrollerer mot tabellen (utvalgte verdier):
+Siden fasevinkelen ($-0{,}003$) og konstantleddet ($-0{,}91$) er svært nær null, og $314{,}81 \approx 100\pi$, forenkler vi til
 
-| $t$ | Modell $U(t)$ | Målt $U$ |
-|:---:|:---:|:---:|
-| $0{,}0020$ | $325\sin(0{,}2\pi) \approx 191$ | $189$ |
-| $0{,}0050$ | $325\sin(0{,}5\pi) = 325$ | $323$ |
-| $0{,}0150$ | $325\sin(1{,}5\pi) = -325$ | $-327$ |
+$$U(t) \approx 323 \cdot \sin(100\pi t)$$
 
-**Modellen $\underline{\underline{U(t) = 325\sin(100\pi t)}}$ beskriver spenningen godt.**
+**Modellen $\underline{\underline{U(t) \approx 323\sin(100\pi t)}}$ beskriver spenningen godt.**
 
 ### 2-2b
 
 Vi løser $U(t) = 230$:
 
-$$325\sin(100\pi t) = 230 \implies \sin(100\pi t) = \frac{230}{325} \approx 0{,}7077$$
+$$323\sin(100\pi t) = 230 \implies \sin(100\pi t) = \frac{230}{323} \approx 0{,}7121$$
 
-$$100\pi t = \arcsin(0{,}7077) \approx 0{,}786 \, \mathrm{rad} \quad \text{eller} \quad 100\pi t = \pi - 0{,}786 \approx 2{,}356 \, \mathrm{rad}$$
+$$100\pi t = \arcsin(0{,}7121) \approx 0{,}789 \, \mathrm{rad} \quad \text{eller} \quad 100\pi t = \pi - 0{,}789 \approx 2{,}353 \, \mathrm{rad}$$
 
-$$t_1 = \frac{0{,}786}{100\pi} \approx 0{,}0025 \, \mathrm{s}, \qquad t_2 = \frac{2{,}356}{100\pi} \approx 0{,}0075 \, \mathrm{s}$$
+$$t_1 = \frac{0{,}789}{100\pi} \approx 0{,}0025 \, \mathrm{s}, \qquad t_2 = \frac{2{,}353}{100\pi} \approx 0{,}0075 \, \mathrm{s}$$
 
 **Spenningen er $230 \, \mathrm{V}$ ved $\underline{\underline{t \approx 0{,}0025 \, \mathrm{s}}}$ og $\underline{\underline{t \approx 0{,}0075 \, \mathrm{s}}}$.**
 
 ### 2-2c
 
-Vi bruker modellen $U(t) = 325\sin(100\pi t)$ med periode $T = 0{,}0200 \, \mathrm{s}$:
+Vi bruker modellen $U(t) = 323\sin(100\pi t)$ med periode $T = 0{,}0200 \, \mathrm{s}$:
 
 $$
 \begin{aligned}
 U_{\text{effektiv}} &= \sqrt{\frac{1}{T} \int_{0}^{T} [U(t)]^2 \, \mathrm{d}t} \\
-&= \sqrt{\frac{1}{T} \int_{0}^{T} 325^2 \sin^2(100\pi t) \, \mathrm{d}t}
+&= \sqrt{\frac{1}{T} \int_{0}^{T} 323^2 \sin^2(100\pi t) \, \mathrm{d}t}
 \end{aligned}
 $$
 
 Siden $\displaystyle\int_0^T \sin^2(\omega t)\, \mathrm{d}t = \dfrac{T}{2}$ for en hel periode:
 
-$$U_{\text{effektiv}} = \sqrt{\frac{325^2}{T} \cdot \frac{T}{2}} = \frac{325}{\sqrt{2}} \approx 229{,}8 \approx 230 \, \mathrm{V}$$
+$$U_{\text{effektiv}} = \sqrt{\frac{323^2}{T} \cdot \frac{T}{2}} = \frac{323}{\sqrt{2}} \approx 228{,}5 \approx 229 \, \mathrm{V}$$
 
-**Effektivverdien er $\approx 230 \, \mathrm{V}$, som stemmer med at nettspenningen i Norge er 230 V. Målingene kan være riktige.**
+**Effektivverdien er $\approx 229 \, \mathrm{V} \approx 230 \, \mathrm{V}$, som stemmer godt med at nettspenningen i Norge er 230 V. Målingene kan være riktige.**
 
 ## 2-3
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-11-14","aliases":[],"dg-publish":true,"temaer":["prosent","prosentvis endring"],"fag":["2p-y"],"eksamen":"h25","del":2,"oppgave":4,"title":"Investeringer og avkastning","source":"Eksamen 2P-Y høst 2025","todo":null,"permalink":"/investeringer-og-avkastning/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-11-14","aliases":[],"dg-publish":true,"temaer":["prosent","prosentvis endring"],"fag":["2p-y","2p"],"eksamen":"h25","del":2,"oppgave":4,"title":"Investeringer og avkastning","source":"Eksamen 2P-Y høst 2025","todo":null,"permalink":"/investeringer-og-avkastning/","dgPassFrontmatter":true}
 ---
 
 

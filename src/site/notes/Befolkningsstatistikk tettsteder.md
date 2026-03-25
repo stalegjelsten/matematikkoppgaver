@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-11-14","aliases":[],"dg-publish":true,"temaer":["statistikk","standardavvik","sentralmål"],"fag":["2p-y"],"eksamen":"h25","del":2,"oppgave":2,"title":"Befolkningsstatistikk tettsteder","source":"Eksamen 2P-Y høst 2025","todo":null,"permalink":"/befolkningsstatistikk-tettsteder/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-11-14","aliases":[],"dg-publish":true,"temaer":["statistikk","standardavvik","sentralmål"],"fag":["2p-y","2p"],"eksamen":"h25","del":2,"oppgave":2,"title":"Befolkningsstatistikk tettsteder","source":"Eksamen 2P-Y høst 2025","todo":null,"permalink":"/befolkningsstatistikk-tettsteder/","dgPassFrontmatter":true}
 ---
 
 
