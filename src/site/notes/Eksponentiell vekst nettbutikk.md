@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-12-19","aliases":[],"dg-publish":true,"temaer":["regresjon","modellering","eksponentialfunksjoner","prosentvis endring","prosentvis endring i flere perioder"],"fag":["2p-y"],"eksamen":"h25","del":2,"oppgave":1,"title":"Eksponentiell vekst nettbutikk","source":"Eksamen 2P-Y høst 2025","todo":null,"permalink":"/eksponentiell-vekst-nettbutikk/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-12-19","aliases":[],"dg-publish":true,"temaer":["regresjon","modellering","eksponentialfunksjoner","prosentvis endring","prosentvis endring i flere perioder"],"fag":["2p-y","2p"],"eksamen":"h25","del":2,"oppgave":1,"title":"Eksponentiell vekst nettbutikk","source":"Eksamen 2P-Y høst 2025","todo":null,"status":3,"permalink":"/eksponentiell-vekst-nettbutikk/","dgPassFrontmatter":true}
 ---
 
 

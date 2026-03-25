@@ -19,8 +19,9 @@ Du har et nett som er tregt. Det tar 16 sekunder for å laste ned en fil på 8 M
 
 
 >[!question]- Fasit
-> a) 48 Mbit
-> b) 4 Mbit/s
+>
+> a) $48 \, \mathrm{Mbit}$
+> b) $4 \, \mathrm{Mbit/s}$
 > [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 1-4\|Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 1-4]]
 >
 

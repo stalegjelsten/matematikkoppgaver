@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-21","modified":"2025-09-22","aliases":[],"dg-publish":true,"temaer":["proporsjonale størrelser"],"fag":"2p-y","eksamen":"v25","del":2,"oppgave":4,"title":"Proporsjonal pris på antibac","source":null,"todo":null,"permalink":"/proporsjonal-pris-pa-antibac/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-21","modified":"2025-09-22","aliases":[],"dg-publish":true,"temaer":["proporsjonalitet"],"fag":"2p-y","eksamen":"v25","del":2,"oppgave":4,"title":"Proporsjonal pris på antibac","source":null,"todo":null,"status":3,"permalink":"/proporsjonal-pris-pa-antibac/","dgPassFrontmatter":true}
 ---
 
 

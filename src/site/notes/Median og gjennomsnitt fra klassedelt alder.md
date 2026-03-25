@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-21","modified":"2025-05-21","aliases":null,"dg-publish":true,"temaer":["sentralmål"],"fag":["2p-y"],"eksamen":"v25","del":1,"oppgave":7,"title":"Median og gjennomsnitt fra klassedelt alder","source":null,"todo":null,"permalink":"/median-og-gjennomsnitt-fra-klassedelt-alder/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-21","modified":"2025-05-21","aliases":null,"dg-publish":true,"temaer":["sentralmål"],"fag":["2p-y"],"eksamen":"v25","del":1,"oppgave":7,"title":"Median og gjennomsnitt fra klassedelt alder","source":null,"todo":null,"status":3,"permalink":"/median-og-gjennomsnitt-fra-klassedelt-alder/","dgPassFrontmatter":true}
 ---
 
 

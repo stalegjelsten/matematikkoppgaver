@@ -1,18 +1,10 @@
 ---
-{"tags":["oppgave"],"temaer":["trigonometri"],"alias":[null],"del":1,"oppgave":1,"fag":"1t","eksamen":"h22","dg-publish":true,"title":"Vis at (sin u) / (cos u) = tan u","date":"2023-05-31","modified":"2023-05-31","permalink":"/vis-at-sin-u-delt-pa-cos-u-er-tan-u/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"temaer":["trigonometri"],"alias":[null],"del":1,"oppgave":1,"fag":"1t","eksamen":"h22","dg-publish":true,"title":"Vis at (sin u) / (cos u) = tan u","date":"2023-05-31","modified":"2023-05-31","status":3,"permalink":"/vis-at-sin-u-delt-pa-cos-u-er-tan-u/","dgPassFrontmatter":true}
 ---
-
-[[trigonometri\|trigonometri]] 
 
 # Vis at (sin u) / (cos u) = tan u
 
 Gitt trekanten under.
-
-Vis at
-
-$$
-\frac{\sin u}{\cos u}=\tan u
-$$
 
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="114pt" height="114pt" viewBox="0 0 114 114" version="1.1">
@@ -59,5 +51,22 @@ $$
 </svg>
 
 
+
+> [!oppgave] 
+> Vis at
+> $$
+> \frac{\sin u}{\cos u}=\tan u
+> $$
+
+
 >[!question]- Fasit
->
+> 
+> Vi vet at $\sin u= \frac{mk}{h}$ og $\cos u = \frac{hk}{h}$. Da er
+> $$
+> \frac{\sin u}{\cos u}=\frac{\frac{mk}{\cancel{ h }}}{\frac{hk}{\cancel{ h }}}=\frac{mk}{hk}
+> $$
+> Siden $\tan u = \frac{mk}{hk}$ så har vi vist at
+> $$
+> \frac{\sin u}{\cos u}=\tan u \qquad\qquad \blacksquare
+> $$
+

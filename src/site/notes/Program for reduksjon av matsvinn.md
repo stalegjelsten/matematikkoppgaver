@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-21","modified":"2025-05-21","aliases":null,"dg-publish":true,"temaer":["programmering","eksponentialfunksjoner"],"fag":["2p-y"],"eksamen":"v25","del":1,"oppgave":8,"title":"Program for reduksjon av matsvinn","source":null,"todo":null,"permalink":"/program-for-reduksjon-av-matsvinn/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-21","modified":"2025-05-21","aliases":null,"dg-publish":true,"temaer":["programmering","eksponentialfunksjoner"],"fag":["2p-y"],"eksamen":"v25","del":1,"oppgave":8,"title":"Program for reduksjon av matsvinn","source":null,"todo":null,"status":3,"permalink":"/program-for-reduksjon-av-matsvinn/","dgPassFrontmatter":true}
 ---
 
 

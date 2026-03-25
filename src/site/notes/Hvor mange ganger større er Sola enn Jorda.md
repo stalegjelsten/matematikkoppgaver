@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-10-08","modified":"2024-10-08","aliases":[],"dg-publish":true,"temaer":["standardform"],"fag":["2p-y"],"eksamen":"h23","del":1,"oppgave":3,"title":"Hvor mange ganger større er Sola enn Jorda?","source":null,"todo":null,"permalink":"/hvor-mange-ganger-storre-er-sola-enn-jorda/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-10-08","modified":"2024-10-08","aliases":[],"dg-publish":true,"temaer":["standardform","potenser"],"fag":["2p-y"],"eksamen":"h23","del":1,"oppgave":3,"title":"Hvor mange ganger større er Sola enn Jorda?","source":null,"todo":null,"permalink":"/hvor-mange-ganger-storre-er-sola-enn-jorda/","dgPassFrontmatter":true}
 ---
 
 

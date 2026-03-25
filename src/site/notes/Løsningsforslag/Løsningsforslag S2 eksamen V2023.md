@@ -204,14 +204,15 @@ H_{1}&: \quad p>0,5 \\
 \end{aligned}
 $$
 
-![](/img/user/_resources/s2-v23-del2-oppg-3b.png.png)
+![Bestemme $P(8\leq X)$ i GeoGebra](/img/user/_resources/s2-v23-del2-oppg-3b.png.png)
+
 Ved hjelp av GeoGebra finner jeg at $P(8\leq X)=0,0547$ gitt at $H_{0}$ er sann. 
 
 Siden sannsynligheten $P(8\leq X)=0,0547$ er større enn signifikansnivået $\alpha = 0.05$ så **kan vi *ikke* forkaste $H_0$.**
 
 ### 2-3c
-	
-![](/img/user/_resources/s2-v23-del2-oppg-3c.png)
+
+![Finne hvilken $a$ som gir $P(a\leq X)\leq 0{,}05$](/img/user/_resources/s2-v23-del2-oppg-3c.png)
 
 Jeg brukte sannsynlighetsverktøyet i GeoGebra og endret antallet, $n$, til 30. Deretter dro jeg den lille svarte pila den bortover langs $x$-aksen fram til den beregnede sannsynligheten var mindre enn $0.05$. Det skjedde ved $P(20\leq X)$.
 

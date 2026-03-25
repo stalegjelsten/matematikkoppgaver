@@ -23,6 +23,17 @@ $$
 
 **Påstand 2 stemmer ikke. Vi får ikke ladet mer enn omtrent 87 % på tre ganger så lang tid som fra 0 til 50 %.**
 
+## Oppgave 1-3
+
+### 1-3a
+Siden vi ikke betaler noe avdrag så blir rentene de samme hver måned.
+$$400\,000 \cdot 0{,}015 = \underline{\underline{ 6\,000 \mathrm{~kr} }}$$
+
+### 1-3b
+Det er 12 måneder med 6 000 kr i hver måned. I tillegg betaler vi 50 kr per måned i gebyr.
+$$12 \cdot 6\,000 + 12 \cdot 50 = 72\, 000 + 600 = \underline{\underline{ 72\,600 \mathrm{~kr}  }}$$
+
+
 # Del 2
 ## Oppgave 2-1
 

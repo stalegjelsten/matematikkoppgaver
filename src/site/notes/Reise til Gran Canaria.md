@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-14","modified":"2026-03-14","aliases":[],"dg-publish":true,"temaer":["excel","lån","kredittkort","oversikt"],"fag":["1p-y ba"],"eksamen":"h24","del":2,"oppgave":4,"title":"Reise til Gran Canaria","source":null,"todo":null,"status":1,"permalink":"/reise-til-gran-canaria/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-14","modified":"2026-03-14","aliases":[],"dg-publish":true,"temaer":["excel","lån","kredittkort","oversikt"],"fag":["1p-y ba","1p-y el"],"eksamen":"h24","del":2,"oppgave":4,"title":"Reise til Gran Canaria","source":null,"todo":null,"status":1,"permalink":"/reise-til-gran-canaria/","dgPassFrontmatter":true}
 ---
 
 
@@ -43,5 +43,9 @@ Ida og Alex gjør seg noen tanker og stiller noen spørsmål.
 > Ta utgangspunkt i spørsmålene til Ida og Alex. Gjør beregninger og vurderinger, og finn ut mest mulig om det Ida og Alex lurer på.
 
 >[!question]- Fasit
-> 
 >
+> Alex budsjett: $1\,540 \, \mathrm{euro}$, totalt $33\,107 \, \mathrm{kr}$ inkl. fly
+> Ida yen: $\approx 1\,347 \, \mathrm{yen}$ for $100 \, \mathrm{kr}$
+> Alex renter: $\approx 3\,253 \, \mathrm{kr}$ per år
+> Ida rente: effektiv rente $(1{,}0183)^{12}-1 \approx 24{,}3\,\%$ (banken har rett)
+> [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen H2024#Oppgave 2-4\|Løsningsforslag 1P-Y EL eksamen H2024#Oppgave 2-4]]

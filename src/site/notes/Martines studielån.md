@@ -45,6 +45,6 @@ Ta utgangspunkt i spørsmålene til Martine og gjør beregninger og vurderinger.
 
 
 >[!question]- Fasit
-> 
 >
-
+> Totalt betalt: $133\,623 \, \mathrm{kr}$, renter totalt: $5\,797 \, \mathrm{kr}$
+> [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen V2023#Oppgave 2-5\|Løsningsforslag 1P-Y EL eksamen V2023#Oppgave 2-5]]
