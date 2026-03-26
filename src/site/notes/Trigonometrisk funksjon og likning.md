@@ -1,0 +1,25 @@
+---
+{"tags":["oppgave"],"date":"2025-05-14","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["trigonometri","funksjoner","likninger"],"fag":["r2"],"eksamen":"v25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":4}],"poeng":6,"title":"Trigonometrisk funksjon og likning","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/trigonometrisk-funksjon-og-likning/","dgPassFrontmatter":true}
+---
+
+
+# Trigonometrisk funksjon og likning
+
+En funksjon $f$ er gitt ved
+
+$$f(x) = 2\sqrt{3} \cdot \sin\left(2x + \frac{\pi}{6}\right) \quad ,  \quad D_f = \left\langle 0, \frac{\pi}{2} \right\rangle$$
+
+>[!oppgave]
+>a) Bestem amplituden, likevektslinja, perioden og faseforskyvningen.
+>b) Løs likningen $f(x) = \sqrt{3}$
+
+En funksjon $g$ er gitt ved
+
+$$g(x) = 3\sin(2x) + \sqrt{3}\cos(2x) \quad , \quad  D_g = \langle 0, 2\pi \rangle$$
+
+>[!oppgave]
+>c) Løs likningen $g(x) = \sqrt{3}$
+
+>[!question]- Fasit
+>
+>[[Løsningsforslag R2 eksamen V2025#Oppgave 1-4\|Løsningsforslag R2 eksamen V2025#Oppgave 1-4]]

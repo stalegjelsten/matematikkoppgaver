@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-01-28","modified":"2026-03-14","aliases":[],"dg-publish":true,"temaer":["trigonometri"],"fag":["1p-y el"],"eksamen":"v25","del":1,"oppgave":5,"title":"Lukas sin ukjente trekant","source":null,"todo":null,"status":3,"permalink":"/lukas-sin-ukjente-trekant/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-01-28","modified":"2026-03-14","aliases":[],"dg-publish":true,"temaer":["trigonometri"],"fag":["1p-y el"],"eksamen":"v25","del":1,"oppgave":5,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":5}],"title":"Lukas sin ukjente trekant","source":null,"todo":null,"status":3,"permalink":"/lukas-sin-ukjente-trekant/","dgPassFrontmatter":true}
 ---
 
 

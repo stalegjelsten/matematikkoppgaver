@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"temaer":["programmering","integral","funksjoner","utforskning"],"alias":[null],"del":2,"oppgave":4,"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Areal under graf med programmering","date":"2023-06-01","modified":"2023-06-01","permalink":"/areal-under-graf-med-programmering/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"temaer":["programmering","integral","funksjoner","utforskning"],"alias":[null],"del":2,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":4}],"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Areal under graf med programmering","date":"2023-06-01","modified":"2023-06-01","permalink":"/areal-under-graf-med-programmering/","dgPassFrontmatter":true}
 ---
 
 

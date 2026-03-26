@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"temaer":["rekker"],"alias":[null],"del":1,"oppgave":2,"fag":"s2","eksamen":"h22","dg-publish":true,"title":"Begrunn at uendelig rekke konvergerer","date":"2023-05-31","modified":"2023-05-31","permalink":"/begrunn-at-uendelig-rekke-konvergerer/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"temaer":["rekker"],"alias":[null],"del":1,"oppgave":2,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":2}],"fag":"s2","eksamen":"h22","dg-publish":true,"title":"Begrunn at uendelig rekke konvergerer","date":"2023-05-31","modified":"2023-05-31","permalink":"/begrunn-at-uendelig-rekke-konvergerer/","dgPassFrontmatter":true}
 ---
 
 

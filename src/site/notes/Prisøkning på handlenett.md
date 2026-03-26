@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["prosentregning","økonomi"],"fag":["2p-y"],"eksamen":"h23","del":2,"oppgave":4,"title":"Prisøkning på handlenett","status":0,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"permalink":"/prisokning-pa-handlenett/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["prosentregning","økonomi"],"fag":["2p-y"],"eksamen":"h23","del":2,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":4}],"title":"Prisøkning på handlenett","status":0,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"permalink":"/prisokning-pa-handlenett/","dgPassFrontmatter":true}
 ---
 
 

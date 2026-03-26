@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["eksponentialfunksjoner"],"fag":["2p-y"],"eksamen":"v25","del":2,"oppgave":6,"title":"Halvert fuglebestand","source":null,"todo":null,"status":3,"permalink":"/halvert-fuglebestand/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["eksponentialfunksjoner"],"fag":["2p-y","2p"],"eksamen":"v25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":6},{"fag":"2p","del":2,"oppgave":4}],"title":"Halvert fuglebestand","source":null,"todo":null,"status":3,"permalink":"/halvert-fuglebestand/","dgPassFrontmatter":true}
 ---
 
 
@@ -25,3 +25,4 @@ Forskere mener bestanden vil fortsette å bli halvert hvert femte år framover.
 >a) –
 >b) 4527 fugler
 >c) 3 år
+>[[Løsningsforslag/Løsningsforslag 2P-Y eksamen V2025#Oppgave 2-6\|Løsningsforslag 2P-Y eksamen V2025#Oppgave 2-6]]

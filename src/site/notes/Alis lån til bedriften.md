@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["lån","excel"],"fag":["1p-y el"],"eksamen":"v25","del":2,"oppgave":3,"title":null,"source":null,"todo":null,"status":1,"permalink":"/alis-lan-til-bedriften/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["lån","excel"],"fag":["1p-y el"],"eksamen":"v25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":3}],"title":null,"source":null,"todo":null,"status":1,"permalink":"/alis-lan-til-bedriften/","dgPassFrontmatter":true}
 ---
 
 

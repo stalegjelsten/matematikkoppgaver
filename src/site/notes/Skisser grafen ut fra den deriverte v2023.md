@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave","derivasjon","funksjoner","funksjonsdrøfting"],"temaer":["derivasjon","funksjoner","funksjonsdrøfting"],"alias":[null],"del":1,"oppgave":5,"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Skisser grafen ut fra den deriverte v23","date":"2023-05-27","modified":"2023-05-29","permalink":"/skisser-grafen-ut-fra-den-deriverte-v2023/","dgPassFrontmatter":true}
+{"tags":["oppgave","derivasjon","funksjoner","funksjonsdrøfting"],"temaer":["derivasjon","funksjoner","funksjonsdrøfting"],"alias":[null],"del":1,"oppgave":5,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":5}],"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Skisser grafen ut fra den deriverte v23","date":"2023-05-27","modified":"2023-05-29","permalink":"/skisser-grafen-ut-fra-den-deriverte-v2023/","dgPassFrontmatter":true}
 ---
 
 

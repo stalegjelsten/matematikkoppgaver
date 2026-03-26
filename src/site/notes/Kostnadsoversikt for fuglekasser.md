@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-13","modified":"2026-03-13","aliases":[],"dg-publish":true,"temaer":["excel","økonomi"],"fag":["1p-y ba"],"eksamen":"h24","del":2,"oppgave":2,"title":"Kostnadsoversikt for fuglekasser","source":null,"todo":null,"status":1,"permalink":"/kostnadsoversikt-for-fuglekasser/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-13","modified":"2026-03-13","aliases":[],"dg-publish":true,"temaer":["excel","økonomi"],"fag":["1p-y ba"],"eksamen":"h24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y ba","del":2,"oppgave":2}],"title":"Kostnadsoversikt for fuglekasser","source":null,"todo":null,"status":1,"permalink":"/kostnadsoversikt-for-fuglekasser/","dgPassFrontmatter":true}
 ---
 
 

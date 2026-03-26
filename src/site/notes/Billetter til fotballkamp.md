@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"temaer":["sannsynlighet","binomisk","utforskning","programmering","excel"],"alias":[null],"del":2,"oppgave":5,"fag":"s1","eksamen":"v23","dg-publish":true,"title":"Billetter til fotballkamp","date":"2023-05-29","modified":"2023-05-29","permalink":"/billetter-til-fotballkamp/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"temaer":["sannsynlighet","binomisk","utforskning","programmering","excel"],"alias":[null],"del":2,"oppgave":5,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":5}],"fag":"s1","eksamen":"v23","dg-publish":true,"title":"Billetter til fotballkamp","date":"2023-05-29","modified":"2023-05-29","permalink":"/billetter-til-fotballkamp/","dgPassFrontmatter":true}
 ---
 
 

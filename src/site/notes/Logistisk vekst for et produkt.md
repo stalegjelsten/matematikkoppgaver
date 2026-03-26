@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-29","modified":"2024-05-29","aliases":null,"dg-publish":true,"temaer":["økonomi","logistisk funksjon","samlet mengde"],"fag":["s2"],"eksamen":"v24","del":2,"oppgave":"1","title":"Logistisk vekst for et produkt","source":null,"todo":null,"status":3,"permalink":"/logistisk-vekst-for-et-produkt/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-05-29","modified":"2024-05-29","aliases":null,"dg-publish":true,"temaer":["økonomi","logistisk funksjon","samlet mengde"],"fag":["s2"],"eksamen":"v24","del":2,"oppgave":"1","oppgavenummer":[{"fag":"s2","del":2,"oppgave":1}],"title":"Logistisk vekst for et produkt","source":null,"todo":null,"status":3,"permalink":"/logistisk-vekst-for-et-produkt/","dgPassFrontmatter":true}
 ---
 
 # Logistisk vekst for et produkt

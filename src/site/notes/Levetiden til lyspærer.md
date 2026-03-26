@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"temaer":["kontinuerlige sannsynlighetsfordelinger","forventningsverdi","sannsynlighet"],"aliases":null,"del":2,"oppgave":2,"fag":["s2"],"eksamen":"e22","dg-publish":true,"title":"Levetiden til lyspærer","date":"2023-06-06","modified":"2023-06-06","todo":[],"status":3,"permalink":"/levetiden-til-lyspaerer/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"temaer":["kontinuerlige sannsynlighetsfordelinger","forventningsverdi","sannsynlighet"],"aliases":null,"del":2,"oppgave":2,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":2}],"fag":["s2"],"eksamen":"e22","dg-publish":true,"title":"Levetiden til lyspærer","date":"2023-06-06","modified":"2023-06-06","todo":[],"status":3,"permalink":"/levetiden-til-lyspaerer/","dgPassFrontmatter":true}
 ---
 
 

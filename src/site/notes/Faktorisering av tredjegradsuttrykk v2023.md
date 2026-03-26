@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave","likninger","identiteter","polynomdivisjon"],"temaer":["likninger","identiteter","faktorisering","polynomdivisjon"],"alias":[null],"del":1,"oppgave":3,"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Faktorisering av tredjegradsuttrykk v23","date":"2023-05-27","modified":"2023-05-29","permalink":"/faktorisering-av-tredjegradsuttrykk-v2023/","dgPassFrontmatter":true}
+{"tags":["oppgave","likninger","identiteter","polynomdivisjon"],"temaer":["likninger","identiteter","faktorisering","polynomdivisjon"],"alias":[null],"del":1,"oppgave":3,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":3}],"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Faktorisering av tredjegradsuttrykk v23","date":"2023-05-27","modified":"2023-05-29","permalink":"/faktorisering-av-tredjegradsuttrykk-v2023/","dgPassFrontmatter":true}
 ---
 
 

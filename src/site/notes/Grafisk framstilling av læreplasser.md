@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-10-14","modified":"2024-10-14","aliases":[],"dg-publish":true,"temaer":["grafisk framstilling","statistikk"],"fag":["2p-y"],"eksamen":"v24","del":2,"oppgave":7,"title":"Grafisk framstilling av læreplasser","source":null,"todo":null,"status":2,"permalink":"/grafisk-framstilling-av-laereplasser/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-10-14","modified":"2024-10-14","aliases":[],"dg-publish":true,"temaer":["grafisk framstilling","statistikk"],"fag":["2p-y"],"eksamen":"v24","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":7}],"title":"Grafisk framstilling av læreplasser","source":null,"todo":null,"status":2,"permalink":"/grafisk-framstilling-av-laereplasser/","dgPassFrontmatter":true}
 ---
 
 

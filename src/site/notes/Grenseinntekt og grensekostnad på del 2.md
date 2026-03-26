@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":[],"dg-publish":true,"temaer":["regresjon","tolkning av integraler","samlet mengde","grenseinntekt og grensekostnad"],"fag":["s2"],"eksamen":"v25","del":2,"oppgave":1,"title":"Grenseinntekt og grensekostnad på del 2","source":"Eksamen S2 vår 2025","todo":null,"status":3,"permalink":"/grenseinntekt-og-grensekostnad-pa-del-2/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":[],"dg-publish":true,"temaer":["regresjon","tolkning av integraler","samlet mengde","grenseinntekt og grensekostnad"],"fag":["s2"],"eksamen":"v25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":1}],"title":"Grenseinntekt og grensekostnad på del 2","source":"Eksamen S2 vår 2025","todo":null,"status":3,"permalink":"/grenseinntekt-og-grensekostnad-pa-del-2/","dgPassFrontmatter":true}
 ---
 
 

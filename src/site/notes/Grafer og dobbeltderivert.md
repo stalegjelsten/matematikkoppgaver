@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["derivasjon","funksjonsdrøfting","eksponentialfunksjoner"],"fag":["r1"],"eksamen":"h25","del":2,"oppgave":6,"title":"Grafer og dobbeltderivert","status":1,"source":null,"todo":null,"permalink":"/grafer-og-dobbeltderivert/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["derivasjon","funksjonsdrøfting","eksponentialfunksjoner"],"fag":["r1"],"eksamen":"h25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":6}],"title":"Grafer og dobbeltderivert","status":1,"source":null,"todo":null,"permalink":"/grafer-og-dobbeltderivert/","dgPassFrontmatter":true}
 ---
 
 

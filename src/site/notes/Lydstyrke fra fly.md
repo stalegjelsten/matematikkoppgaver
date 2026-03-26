@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave","formler","cas","logaritmer","s1","del2"],"temaer":["formler","cas","logaritmer"],"alias":[null],"del":2,"oppgave":6,"fag":"s1","eksamen":"v23","dg-publish":true,"title":"Lydstyrke fra fly","date":"2023-05-29","modified":"2023-05-29","permalink":"/lydstyrke-fra-fly/","dgPassFrontmatter":true}
+{"tags":["oppgave","formler","cas","logaritmer","s1","del2"],"temaer":["formler","cas","logaritmer"],"alias":[null],"del":2,"oppgave":6,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":6}],"fag":"s1","eksamen":"v23","dg-publish":true,"title":"Lydstyrke fra fly","date":"2023-05-29","modified":"2023-05-29","permalink":"/lydstyrke-fra-fly/","dgPassFrontmatter":true}
 ---
 
 

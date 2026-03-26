@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"temaer":["nåverdi","sparing"],"aliases":["Ole Magnus' sparekonto"],"del":2,"oppgave":4,"fag":["s2"],"eksamen":"v16","dg-publish":true,"title":"Ole Magnus sin sparekonto","date":"2023-09-19","modified":"2023-09-19","status":3,"permalink":"/ole-magnus-sin-sparekonto/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"temaer":["nåverdi","sparing"],"aliases":["Ole Magnus' sparekonto"],"del":2,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":4}],"fag":["s2"],"eksamen":"v16","dg-publish":true,"title":"Ole Magnus sin sparekonto","date":"2023-09-19","modified":"2023-09-19","status":3,"permalink":"/ole-magnus-sin-sparekonto/","dgPassFrontmatter":true}
 ---
 
 

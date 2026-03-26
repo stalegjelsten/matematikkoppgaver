@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-12-04","modified":"2024-12-14","aliases":null,"dg-publish":true,"temaer":["logistisk funksjon","regresjon","samlet mengde"],"fag":["s2"],"eksamen":"h24","del":2,"oppgave":"1","title":"Marcos logistiske løpetrening","source":null,"todo":null,"status":3,"permalink":"/marcos-logistiske-lopetrening/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-12-04","modified":"2024-12-14","aliases":null,"dg-publish":true,"temaer":["logistisk funksjon","regresjon","samlet mengde"],"fag":["s2"],"eksamen":"h24","del":2,"oppgave":"1","oppgavenummer":[{"fag":"s2","del":2,"oppgave":1}],"title":"Marcos logistiske løpetrening","source":null,"todo":null,"status":3,"permalink":"/marcos-logistiske-lopetrening/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["trigonometri","effekttrekant"],"fag":["1p-y el"],"eksamen":"h24","del":2,"oppgave":1,"title":null,"source":null,"todo":null,"status":3,"permalink":"/effekttrekant-for-motor/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["trigonometri","effekttrekant"],"fag":["1p-y el"],"eksamen":"h24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":1}],"title":null,"source":null,"todo":null,"status":3,"permalink":"/effekttrekant-for-motor/","dgPassFrontmatter":true}
 ---
 
 

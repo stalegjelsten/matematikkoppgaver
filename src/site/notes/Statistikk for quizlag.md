@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["statistikk","utforskning"],"fag":["2p-y"],"eksamen":"h24","del":2,"oppgave":5,"title":null,"source":null,"todo":["fasit","løsningsforslag"],"status":1,"permalink":"/statistikk-for-quizlag/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["statistikk","utforskning"],"fag":["2p-y","2p"],"eksamen":"h24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":5},{"fag":"2p","del":2,"oppgave":4}],"title":null,"source":null,"todo":null,"status":1,"permalink":"/statistikk-for-quizlag/","dgPassFrontmatter":true}
 ---
 
 
@@ -27,6 +27,8 @@ Du får vite dette om alderen til personene som er med på hvert av de to andre 
 
 
 >[!question]- Fasit
-> 
 >
-
+> a) Median $= 34{,}5 \, \mathrm{år}$, gjennomsnitt $= 40 \, \mathrm{år}$, $\sigma \approx 23{,}2 \, \mathrm{år}$
+> b) Se løsningsforslag for beskrivelse
+> c) Se løsningsforslag for eksempel
+> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2024#Oppgave 2-5\|Løsningsforslag 2P-Y eksamen H2024#Oppgave 2-5]]

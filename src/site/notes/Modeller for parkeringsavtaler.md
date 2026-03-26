@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["modellering","regresjon"],"fag":["2p-y"],"eksamen":"h24","del":2,"oppgave":4,"title":"Modeller for parkeringsavtaler","source":null,"todo":null,"status":1,"permalink":"/modeller-for-parkeringsavtaler/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["modellering","regresjon"],"fag":["2p-y"],"eksamen":"h24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":4}],"title":"Modeller for parkeringsavtaler","source":null,"todo":null,"status":1,"permalink":"/modeller-for-parkeringsavtaler/","dgPassFrontmatter":true}
 ---
 
 
@@ -21,5 +21,7 @@ Hermann må betale for å parkere på jobb. Han kan velge mellom tre ulike parke
 >b) Hvor mange ganger må Hermann parkere i løpet av et år for at det skal lønne seg å velge avtale B?  
 
 >[!question]- Fasit
-> 
 >
+> a) $A(x)=50x$, $B(x)=1995+30x$, $C(x)=3490+24x$
+> b) Minst $100$ dager (og maks $249$ dager)
+> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2024#Oppgave 2-4\|Løsningsforslag 2P-Y eksamen H2024#Oppgave 2-4]]

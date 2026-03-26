@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-05-23","modified":"2023-05-23","aliases":[],"dg-publish":true,"temaer":["prosentregning","vekstfaktor","geometrisk vekst"],"fag":["2p-y"],"eksamen":"v23","del":2,"oppgave":3,"title":"Prisvekst og prisfall sammenligning","source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"status":0,"permalink":"/prisvekst-og-prisfall-sammenligning/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2023-05-23","modified":"2023-05-23","aliases":[],"dg-publish":true,"temaer":["prosentregning","vekstfaktor","geometrisk vekst"],"fag":["2p-y"],"eksamen":"v23","del":2,"oppgave":3,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":3}],"title":"Prisvekst og prisfall sammenligning","source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"status":0,"permalink":"/prisvekst-og-prisfall-sammenligning/","dgPassFrontmatter":true}
 ---
 
 
@@ -17,4 +17,5 @@ Gjør beregninger og undersøk om Malins påstand er riktig.
 
 >[!question]- Fasit
 >
->[[Løsningsforslag 2P-Y eksamen V2023#2-3\|Løsningsforslag 2P-Y eksamen V2023#2-3]]
+> Malins påstand er feil. Vare A i august: $P \cdot 1{,}07^3 \approx 1{,}225P$, vare B i februar: $P / 0{,}93^3 \approx 1{,}243P$.
+> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen V2023#Oppgave 2-3\|Løsningsforslag 2P-Y eksamen V2023#Oppgave 2-3]]

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-11-14","aliases":[],"dg-publish":true,"temaer":["statistikk","gjennomsnitt","median","kumulativ frekvens"],"fag":["2p-y","2p"],"eksamen":"h25","del":1,"oppgave":4,"title":"Pariserhjul statistikk 2P-Y H25","source":"Eksamen 2P-Y høst 2025","todo":null,"status":3,"permalink":"/pariserhjul-statistikk/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-11-14","aliases":[],"dg-publish":true,"temaer":["statistikk","gjennomsnitt","median","kumulativ frekvens"],"fag":["2p-y","2p"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":4},{"fag":"2p","del":1,"oppgave":4}],"title":"Pariserhjul statistikk 2P-Y H25","source":"Eksamen 2P-Y høst 2025","todo":null,"status":3,"permalink":"/pariserhjul-statistikk/","dgPassFrontmatter":true}
 ---
 
 

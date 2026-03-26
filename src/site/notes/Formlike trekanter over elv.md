@@ -1,0 +1,18 @@
+---
+{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["geometri"],"fag":["2p"],"eksamen":"v25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":3}],"title":"Formlike trekanter over elv","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/formlike-trekanter-over-elv/","dgPassFrontmatter":true}
+---
+
+
+# Formlike trekanter over elv
+
+![Skisse av elv med punktene A, B, C, D og E markert](/img/user/_resources/2p-v25-2-3.jpeg)
+
+Kari skal over en elv. Hun har laget skissen ovenfor. Avstanden fra $A$ til $D$ er $5 \mathrm{~m}$, avstanden fra $D$ til $E$ er $10 \mathrm{~m}$, og avstanden fra $B$ til $C$ er $40 \mathrm{~m}$.
+
+>[!oppgave]
+>a) Forklar at $\triangle ABC$ og $\triangle ADE$ er formlike.
+>b) Vis Kari hvordan hun kan regne ut avstanden fra $B$ til $D$.
+
+>[!question]- Fasit
+>
+>[[Løsningsforslag 2P eksamen V2025#Oppgave 2-3\|Løsningsforslag 2P eksamen V2025#Oppgave 2-3]]

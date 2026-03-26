@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["figurtall"],"fag":["2p-y"],"eksamen":"h23","del":1,"oppgave":5,"title":"Sirkelfigurer og figurmønster","status":1,"source":null,"todo":null,"permalink":"/sirkelfigurer-og-figurmonster/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["figurtall"],"fag":["2p-y"],"eksamen":"h23","del":1,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":5}],"title":"Sirkelfigurer og figurmønster","status":1,"source":null,"todo":null,"permalink":"/sirkelfigurer-og-figurmonster/","dgPassFrontmatter":true}
 ---
 
 

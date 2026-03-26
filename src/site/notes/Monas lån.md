@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"aliases":null,"dg-publish":true,"temaer":["programmering","lån"],"fag":["s2"],"eksamen":null,"del":2,"oppgave":"7","title":"Monas lån","source":"Mønster S2 terminprøve v23","date":"2024-01-01","modified":"2024-01-01","todo":["løsningsforslag"],"permalink":"/monas-lan/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"aliases":null,"dg-publish":true,"temaer":["programmering","lån"],"fag":["s2"],"eksamen":null,"del":2,"oppgave":"7","oppgavenummer":[{"fag":"s2","del":2,"oppgave":7}],"title":"Monas lån","source":"Mønster S2 terminprøve v23","date":"2024-01-01","modified":"2024-01-01","todo":["løsningsforslag"],"permalink":"/monas-lan/","dgPassFrontmatter":true}
 ---
 
 

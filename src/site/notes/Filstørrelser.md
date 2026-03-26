@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["bits og bytes"],"fag":["1p-y el"],"eksamen":"h25","del":1,"oppgave":4,"title":null,"source":"Eksamen 1P-Y EL H2025","todo":null,"status":3,"permalink":"/filstorrelser/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["bits og bytes"],"fag":["1p-y el"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":4}],"title":null,"source":"Eksamen 1P-Y EL H2025","todo":null,"status":3,"permalink":"/filstorrelser/","dgPassFrontmatter":true}
 ---
 
 

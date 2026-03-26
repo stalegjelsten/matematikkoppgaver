@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["proporsjonalitet","argumentasjon"],"fag":["2p-y"],"eksamen":"v24","del":1,"oppgave":1,"title":"Proporsjonale størrelser i kiosk","status":1,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"permalink":"/proporsjonale-storrelser-i-kiosk/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["proporsjonalitet","argumentasjon"],"fag":["2p-y"],"eksamen":"v24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":1}],"title":"Proporsjonale størrelser i kiosk","status":1,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"permalink":"/proporsjonale-storrelser-i-kiosk/","dgPassFrontmatter":true}
 ---
 
 

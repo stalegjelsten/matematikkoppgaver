@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["vektorer","geometri"],"fag":["r1"],"eksamen":"h25","del":1,"oppgave":4,"title":"Koordinater, linje og ortogonalitet","status":1,"source":null,"todo":null,"permalink":"/koordinater-linje-og-ortogonalitet/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["vektorer","geometri"],"fag":["r1"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":4}],"title":"Koordinater, linje og ortogonalitet","status":1,"source":null,"todo":null,"permalink":"/koordinater-linje-og-ortogonalitet/","dgPassFrontmatter":true}
 ---
 
 

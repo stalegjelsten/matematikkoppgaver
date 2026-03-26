@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave","normalfordeling","standard normalfordeling","kontinuerlige sannsynlighetsfordelinger","s2","del1"],"temaer":["normalfordeling","standard normalfordeling","kontinuerlige sannsynlighetsfordelinger","sannsynlighet"],"alias":[null],"del":1,"oppgave":6,"fag":"s2","eksamen":"v23","dg-publish":true,"title":"Levetiden til normalfordelte batterier","date":"2023-05-27","modified":"2023-06-06","permalink":"/levetiden-til-normalfordelte-batterier/","dgPassFrontmatter":true}
+{"tags":["oppgave","normalfordeling","standard normalfordeling","kontinuerlige sannsynlighetsfordelinger","s2","del1"],"temaer":["normalfordeling","standard normalfordeling","kontinuerlige sannsynlighetsfordelinger","sannsynlighet"],"alias":[null],"del":1,"oppgave":6,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":6}],"fag":"s2","eksamen":"v23","dg-publish":true,"title":"Levetiden til normalfordelte batterier","date":"2023-05-27","modified":"2023-06-06","permalink":"/levetiden-til-normalfordelte-batterier/","dgPassFrontmatter":true}
 ---
 
 

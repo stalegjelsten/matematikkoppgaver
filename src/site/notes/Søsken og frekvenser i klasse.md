@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-05-23","modified":"2023-05-23","aliases":[],"dg-publish":true,"temaer":["statistikk","frekvens","relativ frekvens","kumulativ frekvens"],"fag":["2p-y"],"eksamen":"v23","del":1,"oppgave":3,"title":"Søsken og frekvenser i klasse","source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"status":0,"permalink":"/sosken-og-frekvenser-i-klasse/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2023-05-23","modified":"2023-05-23","aliases":[],"dg-publish":true,"temaer":["statistikk","frekvens","relativ frekvens","kumulativ frekvens"],"fag":["2p-y"],"eksamen":"v23","del":1,"oppgave":3,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":3}],"title":"Søsken og frekvenser i klasse","source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"status":0,"permalink":"/sosken-og-frekvenser-i-klasse/","dgPassFrontmatter":true}
 ---
 
 
@@ -21,4 +21,6 @@ Alle elevene i klassen til Truls og Thea har svart at de har søsken. To av elev
 
 >[!question]- Fasit
 >
->[[Løsningsforslag 2P-Y eksamen V2023#1-3\|Løsningsforslag 2P-Y eksamen V2023#1-3]]
+> a) Rel.freq. 0,4 betyr 40 % av elevene har 2 søsken. Kum.freq. 16 betyr 16 elever har 0, 1 eller 2 søsken.
+> b) 30 elever
+> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen V2023#Oppgave 1-3\|Løsningsforslag 2P-Y eksamen V2023#Oppgave 1-3]]

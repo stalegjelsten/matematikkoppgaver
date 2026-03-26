@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["lån","excel"],"fag":["1p-y el"],"eksamen":"v23","del":2,"oppgave":5,"title":null,"source":null,"todo":null,"status":1,"permalink":"/martines-studielan/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["lån","excel"],"fag":["1p-y el"],"eksamen":"v23","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":5}],"title":null,"source":null,"todo":null,"status":1,"permalink":"/martines-studielan/","dgPassFrontmatter":true}
 ---
 
 

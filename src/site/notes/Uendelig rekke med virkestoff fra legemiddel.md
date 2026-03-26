@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave","uendelig rekke","rekker","del1","s2"],"temaer":["uendelig rekke","rekker"],"alias":[null],"del":1,"oppgave":4,"fag":"s2","eksamen":"v23","dg-publish":true,"title":"Uendelig rekke med virkestoff fra legemiddel","date":"2023-05-27","modified":"2023-05-29","permalink":"/uendelig-rekke-med-virkestoff-fra-legemiddel/","dgPassFrontmatter":true}
+{"tags":["oppgave","uendelig rekke","rekker","del1","s2"],"temaer":["uendelig rekke","rekker"],"alias":[null],"del":1,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":4}],"fag":"s2","eksamen":"v23","dg-publish":true,"title":"Uendelig rekke med virkestoff fra legemiddel","date":"2023-05-27","modified":"2023-05-29","permalink":"/uendelig-rekke-med-virkestoff-fra-legemiddel/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-05-23","modified":"2023-05-23","aliases":[],"dg-publish":true,"temaer":["formler","rekker","figurtall"],"fag":["2p-y"],"eksamen":"v23","del":1,"oppgave":4,"title":"Mønster med sirkler i figurer","source":null,"todo":null,"status":0,"permalink":"/monster-med-sirkler-i-figurer/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2023-05-23","modified":"2023-05-23","aliases":[],"dg-publish":true,"temaer":["formler","rekker","figurtall"],"fag":["2p-y"],"eksamen":"v23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":4}],"title":"Mønster med sirkler i figurer","source":null,"todo":null,"status":0,"permalink":"/monster-med-sirkler-i-figurer/","dgPassFrontmatter":true}
 ---
 
 
@@ -15,4 +15,6 @@ Ovenfor ser du tre figurer. Figurene er satt sammen av små sirkler. Tenk deg at
 
 >[!question]- Fasit
 >
->[[Løsningsforslag 2P-Y eksamen V2023#1-4\|Løsningsforslag 2P-Y eksamen V2023#1-4]]
+> a) Figur 4: 17 sirkler, figur 5: 21 sirkler
+> b) $a_n = 4n + 1$
+> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen V2023#Oppgave 1-4\|Løsningsforslag 2P-Y eksamen V2023#Oppgave 1-4]]

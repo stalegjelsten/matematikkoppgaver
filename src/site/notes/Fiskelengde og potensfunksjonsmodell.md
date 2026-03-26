@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-24","aliases":[],"dg-publish":true,"temaer":["potensfunksjon","regresjon","stigningstall"],"fag":["1p"],"eksamen":"h25","del":2,"oppgave":1,"title":"Fiskelengde og potensfunksjonsmodell","status":2,"source":null,"todo":null,"permalink":"/fiskelengde-og-potensfunksjonsmodell/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-24","aliases":[],"dg-publish":true,"temaer":["potensfunksjon","regresjon","stigningstall"],"fag":["1p"],"eksamen":"h25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":1}],"title":"Fiskelengde og potensfunksjonsmodell","status":2,"source":null,"todo":null,"permalink":"/fiskelengde-og-potensfunksjonsmodell/","dgPassFrontmatter":true}
 ---
 
 

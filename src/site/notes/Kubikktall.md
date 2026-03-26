@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-29","modified":"2024-05-29","aliases":null,"dg-publish":true,"temaer":["rekursiv sammenheng","figurtall","programmering"],"fag":["s2","r2"],"eksamen":"v24","del":2,"oppgave":"4","title":"Kubikktall","source":null,"todo":null,"status":3,"permalink":"/kubikktall/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-05-29","modified":"2024-05-29","aliases":null,"dg-publish":true,"temaer":["rekursiv sammenheng","figurtall","programmering"],"fag":["s2","r2"],"eksamen":"v24","del":2,"oppgave":"4","oppgavenummer":[{"fag":"s2","del":2,"oppgave":4},{"fag":"r2","del":2,"oppgave":4}],"title":"Kubikktall","source":null,"todo":null,"status":3,"permalink":"/kubikktall/","dgPassFrontmatter":true}
 ---
 
 

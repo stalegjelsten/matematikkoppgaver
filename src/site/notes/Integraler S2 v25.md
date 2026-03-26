@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":[],"dg-publish":true,"temaer":["integral"],"fag":["s2"],"eksamen":"v25","del":1,"oppgave":1,"title":"Integraler S2 v25","source":null,"todo":null,"status":3,"permalink":"/integraler-s2-v25/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":[],"dg-publish":true,"temaer":["integral"],"fag":["s2","r2"],"eksamen":"v25","del":1,"oppgave":1,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":1},{"fag":"r2","del":1,"oppgave":1}],"title":"Integraler S2 v25","source":null,"todo":null,"status":3,"permalink":"/integraler-s2-v25/","dgPassFrontmatter":true}
 ---
 
 
