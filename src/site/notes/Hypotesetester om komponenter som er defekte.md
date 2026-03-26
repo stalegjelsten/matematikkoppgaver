@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-22","modified":"2025-11-22","aliases":[],"dg-publish":true,"temaer":["hypotesetest"],"fag":["s2"],"eksamen":"h25","del":2,"oppgave":3,"title":"Hypotesetester om komponenter som er defekte","source":null,"todo":null,"status":2,"permalink":"/hypotesetester-om-komponenter-som-er-defekte/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-22","modified":"2025-11-22","aliases":[],"dg-publish":true,"temaer":["hypotesetest"],"fag":["s2"],"eksamen":"h25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":3}],"title":"Hypotesetester om komponenter som er defekte","source":null,"todo":null,"status":2,"permalink":"/hypotesetester-om-komponenter-som-er-defekte/","dgPassFrontmatter":true}
 ---
 
 

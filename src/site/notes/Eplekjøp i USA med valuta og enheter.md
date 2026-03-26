@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-24","aliases":[],"dg-publish":true,"temaer":["tallregning","prosentregning"],"fag":["1p"],"eksamen":"h25","del":2,"oppgave":4,"title":"Eplekjøp i USA med valuta og enheter","status":3,"source":null,"todo":null,"permalink":"/eplekjop-i-usa-med-valuta-og-enheter/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-24","aliases":[],"dg-publish":true,"temaer":["tallregning","prosentregning"],"fag":["1p"],"eksamen":"h25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":4}],"title":"Eplekjøp i USA med valuta og enheter","status":3,"source":null,"todo":null,"permalink":"/eplekjop-i-usa-med-valuta-og-enheter/","dgPassFrontmatter":true}
 ---
 
 

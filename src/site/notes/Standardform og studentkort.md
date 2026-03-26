@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-14","modified":"2026-01-17","aliases":[],"dg-publish":true,"temaer":["standardform"],"fag":["2p-y"],"eksamen":"h25","del":1,"oppgave":2,"title":"Standardform og studentkort 2P-Y H25","source":"Eksamen 2P-Y høst 2025","todo":null,"status":3,"permalink":"/standardform-og-studentkort/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-14","modified":"2026-01-17","aliases":[],"dg-publish":true,"temaer":["standardform"],"fag":["2p-y"],"eksamen":"h25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":2}],"title":"Standardform og studentkort 2P-Y H25","source":"Eksamen 2P-Y høst 2025","todo":null,"status":3,"permalink":"/standardform-og-studentkort/","dgPassFrontmatter":true}
 ---
 
 

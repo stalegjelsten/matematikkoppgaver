@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-05-23","modified":"2023-05-23","aliases":[],"dg-publish":true,"temaer":["statistikk","prosentregning","diagrammer","datapresentasjon"],"fag":["2p-y"],"eksamen":"v23","del":2,"oppgave":4,"title":"Sykkelhjelm og datapresentasjon","source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"status":0,"permalink":"/sykkelhjelm-og-datapresentasjon/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2023-05-23","modified":"2023-05-23","aliases":[],"dg-publish":true,"temaer":["statistikk","prosentregning","diagrammer","datapresentasjon"],"fag":["2p-y"],"eksamen":"v23","del":2,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":4}],"title":"Sykkelhjelm og datapresentasjon","source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"status":0,"permalink":"/sykkelhjelm-og-datapresentasjon/","dgPassFrontmatter":true}
 ---
 
 
@@ -21,4 +21,5 @@ Gjør beregninger og vis Madelen hvordan hun kan presentere datamaterialet. Pres
 
 >[!question]- Fasit
 >
->[[Løsningsforslag 2P-Y eksamen V2023#2-4\|Løsningsforslag 2P-Y eksamen V2023#2-4]]
+> Totalt 41 av 63 brukte hjelm (65,1 %). Daglig: man 70 %, tir 60 %, ons 54,5 %, tor 58,3 %, fre 80 %.
+> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen V2023#Oppgave 2-4\|Løsningsforslag 2P-Y eksamen V2023#Oppgave 2-4]]

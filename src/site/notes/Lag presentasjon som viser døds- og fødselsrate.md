@@ -1,15 +1,13 @@
 ---
-{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["presenter statistikk"],"fag":["2p-y"],"eksamen":"v25","del":2,"oppgave":7,"title":"Lag presentasjon som viser døds- og fødselsrate","source":null,"todo":null,"status":3,"permalink":"/lag-presentasjon-som-viser-dods-og-fodselsrate/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["presenter statistikk"],"fag":["2p-y","2p"],"eksamen":"v25","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":7},{"fag":"2p","del":2,"oppgave":6}],"title":"Lag presentasjon som viser døds- og fødselsrate","source":null,"todo":null,"status":3,"permalink":"/lag-presentasjon-som-viser-dods-og-fodselsrate/","dgPassFrontmatter":true}
 ---
 
 
 # Lag presentasjon som viser døds- og fødselsrate
 
 
-Oppgave 7 (4 poeng)
-
-|  År  | Antall<br> fødte | Antall døde | Fødselsrate | Dødsrate | Samlet<br> fruktbarhetstall |
-| :--: | :--------------: | :---------: | :---------: | :------: | :-------------------------: |
+|  År  | Antall<br> fødte | Antall døde | Fødselsrate | Dødsrate | Samlet fruktbarhetstall |
+| :--: | :--------------: | :---------: | :---------: | :------: | :-----------: |
 | 1983 |      49 937      |   42 224    |    12,1     |   10,2   |            1,66             |
 | 1993 |      59 678      |   46 597    |    13,8     |   10,8   |            1,86             |
 | 2003 |      56 458      |   42 478    |    12,4     |   9,3    |            1,80             |
@@ -17,14 +15,18 @@ Oppgave 7 (4 poeng)
 | 2023 |      51 980      |   43 803    |     9,4     |   7,9    |            1,40             |
 
 Datamaterialet ovenfor er hentet fra Statistisk sentralbyrås nettsider.
+
 - Fødselsrate og dødsrate er antall fødte og døde per 1000 innbyggere.
 - Samlet fruktbarhetstall forteller hvor mange barn som i gjennomsnitt fødes per kvinne.
 
 Tenk deg at du skal presentere dette datamaterialet i et foredrag.
 
-Gjør relevante sammenlikninger og beregninger, og lag ulike framstillinger som du kan bruke i en presentasjon.
+
+> [!oppgave] Title
+> Gjør relevante sammenlikninger og beregninger, og lag ulike framstillinger som du kan bruke i en presentasjon.
 
 Presentasjonen skal inneholde
+
 - diagrammer som illustrerer utviklingen gjennom perioden fra 1983 til 2023
 - beregninger som viser prosentvise endringer fra 1983 til 2023
 

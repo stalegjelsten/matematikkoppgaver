@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["modellering"],"fag":["2p-y"],"eksamen":"v25","del":2,"oppgave":5,"title":"Modell for lengde av skjerf","source":null,"todo":null,"status":3,"permalink":"/modell-for-lengde-av-skjerf/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["modellering"],"fag":["2p-y"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":5}],"title":"Modell for lengde av skjerf","source":null,"todo":null,"status":3,"permalink":"/modell-for-lengde-av-skjerf/","dgPassFrontmatter":true}
 ---
 
 

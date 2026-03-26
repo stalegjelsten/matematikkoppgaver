@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-12-13","aliases":[],"dg-publish":true,"temaer":["potenser","standardform","røtter","tallregning"],"fag":["2p-y"],"eksamen":"h25","del":1,"oppgave":3,"title":"Sortering av tall 2P-Y H25","source":"Eksamen 2P-Y høst 2025","todo":null,"status":3,"permalink":"/sortering-av-tall/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-12-13","aliases":[],"dg-publish":true,"temaer":["potenser","standardform","røtter","tallregning"],"fag":["2p-y"],"eksamen":"h25","del":1,"oppgave":3,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":3}],"title":"Sortering av tall 2P-Y H25","source":"Eksamen 2P-Y høst 2025","todo":null,"status":3,"permalink":"/sortering-av-tall/","dgPassFrontmatter":true}
 ---
 
 

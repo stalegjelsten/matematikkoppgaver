@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-09-26","modified":"2025-09-26","aliases":[],"dg-publish":true,"temaer":["prosentvis endring i flere perioder","programmering"],"fag":["2p-y"],"eksamen":"h24","del":1,"oppgave":5,"title":"Utslippsreduksjon med prosentvis nedgang","source":null,"todo":null,"status":1,"permalink":"/utslippsreduksjon-med-prosentvis-nedgang/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-09-26","modified":"2025-09-26","aliases":[],"dg-publish":true,"temaer":["prosentvis endring i flere perioder","programmering"],"fag":["2p-y","2p"],"eksamen":"h24","del":1,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":5},{"fag":"2p","del":1,"oppgave":5}],"title":"Utslippsreduksjon med prosentvis nedgang","source":null,"todo":null,"status":1,"permalink":"/utslippsreduksjon-med-prosentvis-nedgang/","dgPassFrontmatter":true}
 ---
 
 
@@ -31,5 +31,7 @@ print(s)
 > b) Hva vil verdien som skrives ut når programmet kjøres, fortelle Sara?  
 
 >[!question]- Fasit
-> 
 >
+> a) Uttrykket gir utslippet (tonn CO₂) $x$ år etter 2025
+> b) Det totale CO₂-utslippet i 2025–2029 ($\approx 951 \, \mathrm{tonn}$)
+> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2024#Oppgave 1-5\|Løsningsforslag 2P-Y eksamen H2024#Oppgave 1-5]]

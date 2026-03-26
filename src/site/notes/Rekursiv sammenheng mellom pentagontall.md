@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-01-30","modified":"2024-01-31","aliases":[],"dg-publish":true,"temaer":["rekursiv sammenheng","programmering","rekker"],"fag":["s2"],"eksamen":"h23","del":2,"oppgave":"4","title":"Rekursiv sammenheng mellom pentagontall","source":null,"todo":["fasit","løsningsforslag","figur"],"status":3,"permalink":"/rekursiv-sammenheng-mellom-pentagontall/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-01-30","modified":"2024-01-31","aliases":[],"dg-publish":true,"temaer":["rekursiv sammenheng","programmering","rekker"],"fag":["s2"],"eksamen":"h23","del":2,"oppgave":"4","oppgavenummer":[{"fag":"s2","del":2,"oppgave":4}],"title":"Rekursiv sammenheng mellom pentagontall","source":null,"todo":["fasit","løsningsforslag","figur"],"status":3,"permalink":"/rekursiv-sammenheng-mellom-pentagontall/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,0 +1,16 @@
+---
+{"tags":["oppgave"],"date":"2023-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["sannsynlighet","kombinatorikk"],"fag":["s1"],"eksamen":"h23","del":1,"oppgave":3,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":3}],"poeng":null,"title":"Sannsynlighet med tre terninger","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/sannsynlighet-med-tre-terninger/","dgPassFrontmatter":true}
+---
+
+
+# Sannsynlighet med tre terninger
+
+Du kaster tre terninger.
+
+>[!oppgave]
+>a) Bestem sannsynligheten for at alle terningene viser forskjellig antall øyne.
+>b) Bestem sannsynligheten for at nøyaktig to av terningene viser samme antall øyne.
+
+>[!question]- Fasit
+>
+>[[Løsningsforslag S1 eksamen H2023#Oppgave 1-3\|Løsningsforslag S1 eksamen H2023#Oppgave 1-3]]

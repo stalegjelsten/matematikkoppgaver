@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-01-30","modified":"2024-01-30","aliases":[],"dg-publish":true,"temaer":["programmering","simulering","normalfordeling"],"fag":["s2"],"eksamen":"h23","del":2,"oppgave":"5","title":"Simuler sannsynlighet for høyden til 24 måneder gammelt barn","source":null,"todo":["fasit","løsningsforslag"],"status":3,"permalink":"/simuler-sannsynlighet-for-hoyden-til-24-maneder-gammelt-barn/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-01-30","modified":"2024-01-30","aliases":[],"dg-publish":true,"temaer":["programmering","simulering","normalfordeling"],"fag":["s2"],"eksamen":"h23","del":2,"oppgave":"5","oppgavenummer":[{"fag":"s2","del":2,"oppgave":5}],"title":"Simuler sannsynlighet for høyden til 24 måneder gammelt barn","source":null,"todo":["fasit","løsningsforslag"],"status":3,"permalink":"/simuler-sannsynlighet-for-hoyden-til-24-maneder-gammelt-barn/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["røtter","formler","algebra"],"fag":["1p-y el"],"eksamen":"v25","del":1,"oppgave":2,"title":"Kvadratrotformel og mobilading","status":3,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/kvadratrotformel-og-mobilading/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["røtter","formler","algebra"],"fag":["1p-y el"],"eksamen":"v25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":2}],"title":"Kvadratrotformel og mobilading","status":3,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/kvadratrotformel-og-mobilading/","dgPassFrontmatter":true}
 ---
 
 

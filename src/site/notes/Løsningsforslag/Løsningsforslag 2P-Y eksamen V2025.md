@@ -102,7 +102,7 @@ Antallet hvite kvadrater øker med 3 for hver figur, og det starter på 1.
 
 ![Oppdeling av figur 3 i oppgave 1-6b](/img/user/_resources/2py-v25-1-6b.png)
 
-I figuren over har jeg delt opp figur nr 3 i 4 ulike deler. Jeg ser at vi har tre like deler med lengde 2 merket med lilla farge. Disse er altså 1 mindre enn figurtallet. I tillegg har vi en ekstra hvit rute som er fast i alle figurene, merket med rød farge. For figur 3 kunne vi altså skrevet opp antallet som $3 \cdot 2 + 1$ eller ved å bruke figurnummeret $\textcolor{dred}{3}$ kunne vi skrevet $3 \cdot (\textcolor{dred}{3}-1) + 1$. Et generelt uttrykk for hvite ruter i figur nummer $n$ blir derfor
+I figuren over har jeg delt opp figur nr 3 i 4 ulike deler. Jeg ser at vi har tre like deler med lengde 2 merket med lilla farge. Disse er altså 1 mindre enn figurtallet. I tillegg har vi en ekstra hvit rute som er fast i alle figurene, merket med rød farge. For figur 3 kunne vi altså skrevet opp antallet som $3 \cdot 2 + 1$ eller ved å bruke figurnummeret $\textcolor{seagreen}{3}$ kunne vi skrevet $3 \cdot (\textcolor{seagreen}{3}-1) + 1$. Et generelt uttrykk for hvite ruter i figur nummer $n$ blir derfor
 $$
 \underline{\underline{H_{n}=3 \cdot (n-1) + 1=3n-2}}
 $$
@@ -178,10 +178,10 @@ I programmet ser jeg følgende:
 
 ## Oppgave 2-1
 ### 2-1a
-$U(x)$ består av to ledd: $\textcolor{dred}{5000 \cdot 0{,}95^{x}}$ og $\textcolor{dblue}{1000}$. 
+$U(x)$ består av to ledd: $\textcolor{maroon}{5000 \cdot 0{,}95^{x}}$ og $\textcolor{seagreen}{1000}$. 
 
-1. $\textcolor{dred}{5000 \cdot 0{,}95^{x}}$ er en eksponentialfunksjon som synker med 5 % for hvert år. Dette viser at prosessen som i dag slipper ut 5000 tonn per år kommer til å reduseres med 5 %.
-2. $\textcolor{dblue}{1000}$ er en konstant funksjon, denne verdiene endrer seg altså ikke i framtiden. Dette viser at prosessen som i dag slipper ut 1000 tonn per år kommer til å fortsette på samme måte i framtiden.
+1. $\textcolor{maroon}{5000 \cdot 0{,}95^{x}}$ er en eksponentialfunksjon som synker med 5 % for hvert år. Dette viser at prosessen som i dag slipper ut 5000 tonn per år kommer til å reduseres med 5 %.
+2. $\textcolor{seagreen}{1000}$ er en konstant funksjon, denne verdiene endrer seg altså ikke i framtiden. Dette viser at prosessen som i dag slipper ut 1000 tonn per år kommer til å fortsette på samme måte i framtiden.
 
 **Ledelsen ønsker å minke utslippet fra den ene prosessen med 5 % per år, og ikke gjøre noe med den andre prosessen.**
 

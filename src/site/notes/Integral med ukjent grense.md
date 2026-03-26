@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-12-04","modified":"2025-05-12","aliases":[],"dg-publish":true,"temaer":["integral","likninger"],"fag":["s2"],"eksamen":"h24","del":1,"oppgave":"1b-c","title":"Integral med ukjent grense","source":null,"todo":[],"status":3,"permalink":"/integral-med-ukjent-grense/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-12-04","modified":"2025-05-12","aliases":[],"dg-publish":true,"temaer":["integral","likninger"],"fag":["s2"],"eksamen":"h24","del":1,"oppgave":"1b-c","oppgavenummer":[{"fag":"s2","del":1,"oppgave":"1b-c"}],"title":"Integral med ukjent grense","source":null,"todo":[],"status":3,"permalink":"/integral-med-ukjent-grense/","dgPassFrontmatter":true}
 ---
 
 

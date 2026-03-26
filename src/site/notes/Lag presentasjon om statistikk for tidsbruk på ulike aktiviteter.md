@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["presenter statistikk"],"fag":["2p-y"],"eksamen":"h24","del":2,"oppgave":7,"title":"Lag presentasjon om statistikk for tidsbruk på ulike aktiviteter","source":null,"todo":["fasit","løsningsforslag"],"status":1,"permalink":"/lag-presentasjon-om-statistikk-for-tidsbruk-pa-ulike-aktiviteter/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["presenter statistikk"],"fag":["2p-y","2p"],"eksamen":"h24","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":7},{"fag":"2p","del":2,"oppgave":6}],"title":"Lag presentasjon om statistikk for tidsbruk på ulike aktiviteter","source":null,"todo":null,"status":1,"permalink":"/lag-presentasjon-om-statistikk-for-tidsbruk-pa-ulike-aktiviteter/","dgPassFrontmatter":true}
 ---
 
 
@@ -28,5 +28,6 @@ Tenk deg at du skal presentere funn fra dette datamaterialet for klassen din.
 Gjør beregninger og sammenlikninger, og lag ulike framstillinger som du kan bruke i en presentasjon. Presentasjonen skal inneholde både beregninger, diagrammer og forklarende kommentarer.
 
 >[!question]- Fasit
-> 
 >
+> Åpen oppgave – se løsningsforslag for eksempel
+> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2024#Oppgave 2-7\|Løsningsforslag 2P-Y eksamen H2024#Oppgave 2-7]]

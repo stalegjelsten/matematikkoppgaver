@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"temaer":["programmering","utforskning","funksjoner"],"aliases":null,"del":1,"oppgave":7,"fag":["s2"],"eksamen":"e22","dg-publish":true,"title":"Ukjent programkode","date":"2023-06-06","modified":"2023-06-06","todo":["løsningsforslag"],"permalink":"/ukjent-programkode/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"temaer":["programmering","utforskning","funksjoner"],"aliases":null,"del":1,"oppgave":7,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":7}],"fag":["s2"],"eksamen":"e22","dg-publish":true,"title":"Ukjent programkode","date":"2023-06-06","modified":"2023-06-06","todo":["løsningsforslag"],"permalink":"/ukjent-programkode/","dgPassFrontmatter":true}
 ---
 
 

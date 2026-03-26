@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-16","aliases":[],"dg-publish":true,"temaer":["lineær vekst","formler","tallregning"],"fag":["1p-y el"],"eksamen":"h25","del":1,"oppgave":1,"title":"Løping og maraton","status":3,"source":null,"todo":null,"permalink":"/loping-og-maraton/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-16","aliases":[],"dg-publish":true,"temaer":["lineær vekst","formler","tallregning"],"fag":["1p-y el"],"eksamen":"h25","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":1}],"title":"Løping og maraton","status":3,"source":null,"todo":null,"permalink":"/loping-og-maraton/","dgPassFrontmatter":true}
 ---
 
 

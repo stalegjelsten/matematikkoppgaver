@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-01-28","modified":"2026-02-01","aliases":[],"dg-publish":true,"temaer":["trigonometri"],"fag":["1p-y el"],"eksamen":"h24","del":1,"oppgave":5,"title":"Bruke definisjonene av sinus og cosinus til å sette opp forhold","source":null,"todo":null,"status":2,"permalink":"/bruke-definisjonene-av-sinus-og-cosinus-til-a-sette-opp-forhold/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-01-28","modified":"2026-02-01","aliases":[],"dg-publish":true,"temaer":["trigonometri"],"fag":["1p-y el"],"eksamen":"h24","del":1,"oppgave":5,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":5}],"title":"Bruke definisjonene av sinus og cosinus til å sette opp forhold","source":null,"todo":null,"status":2,"permalink":"/bruke-definisjonene-av-sinus-og-cosinus-til-a-sette-opp-forhold/","dgPassFrontmatter":true}
 ---
 
 

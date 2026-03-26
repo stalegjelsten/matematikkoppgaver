@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-29","modified":"2024-05-29","aliases":null,"dg-publish":true,"temaer":["hypotesetest","binomisk"],"fag":["s2"],"eksamen":"v24","del":2,"oppgave":"2","title":"Hypotesetest om legemiddel","source":null,"todo":null,"status":3,"permalink":"/hypotesetest-om-legemiddel/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-05-29","modified":"2024-05-29","aliases":null,"dg-publish":true,"temaer":["hypotesetest","binomisk"],"fag":["s2"],"eksamen":"v24","del":2,"oppgave":"2","oppgavenummer":[{"fag":"s2","del":2,"oppgave":2}],"title":"Hypotesetest om legemiddel","source":null,"todo":null,"status":3,"permalink":"/hypotesetest-om-legemiddel/","dgPassFrontmatter":true}
 ---
 
 

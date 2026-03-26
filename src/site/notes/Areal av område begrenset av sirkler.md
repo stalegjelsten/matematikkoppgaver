@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"temaer":["utforskning","trigonometri","geometri"],"aliases":null,"del":null,"oppgave":null,"fag":["1t","r1","r2"],"eksamen":null,"dg-publish":true,"title":"Areal av område begrenset av sirkler","date":"2023-06-08","modified":"2023-06-08","todo":[],"source":"https://www.youtube.com/watch?v=cPNdvdYn05c","permalink":"/areal-av-omrade-begrenset-av-sirkler/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"temaer":["utforskning","trigonometri","geometri"],"aliases":null,"del":null,"oppgave":null,"oppgavenummer":[{"fag":"1t"},{"fag":"r1"},{"fag":"r2"}],"fag":["1t","r1","r2"],"eksamen":null,"dg-publish":true,"title":"Areal av område begrenset av sirkler","date":"2023-06-08","modified":"2023-06-08","todo":[],"source":"https://www.youtube.com/watch?v=cPNdvdYn05c","permalink":"/areal-av-omrade-begrenset-av-sirkler/","dgPassFrontmatter":true}
 ---
 
 

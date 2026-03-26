@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-24","aliases":[],"dg-publish":true,"temaer":["geometri","funksjoner","areal"],"fag":["1p"],"eksamen":"h25","del":2,"oppgave":7,"title":"Blomsterbed med halvsirkel","status":2,"source":null,"todo":null,"permalink":"/blomsterbed-med-halvsirkel/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-24","aliases":[],"dg-publish":true,"temaer":["geometri","funksjoner","areal"],"fag":["1p"],"eksamen":"h25","del":2,"oppgave":7,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":7}],"title":"Blomsterbed med halvsirkel","status":2,"source":null,"todo":null,"permalink":"/blomsterbed-med-halvsirkel/","dgPassFrontmatter":true}
 ---
 
 

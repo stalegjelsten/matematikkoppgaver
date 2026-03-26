@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["derivasjon","funksjonsdrøfting","programmering"],"fag":["r1"],"eksamen":"h25","del":1,"oppgave":5,"title":"Funksjonsdrøfting og halveringsmetode","status":1,"source":null,"todo":null,"permalink":"/funksjonsdrofting-og-halveringsmetode/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["derivasjon","funksjonsdrøfting","programmering"],"fag":["r1"],"eksamen":"h25","del":1,"oppgave":5,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":5}],"title":"Funksjonsdrøfting og halveringsmetode","status":1,"source":null,"todo":null,"permalink":"/funksjonsdrofting-og-halveringsmetode/","dgPassFrontmatter":true}
 ---
 
 

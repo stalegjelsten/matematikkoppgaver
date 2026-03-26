@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-14","modified":"2026-03-14","aliases":[],"dg-publish":true,"temaer":["eksponentialfunksjoner","geogebra","programmering","eksponentiell vekst"],"fag":["2p-y"],"eksamen":"v23","del":2,"oppgave":6,"title":"Eksponentialfunksjon for tomflasker","source":null,"todo":null,"status":1,"permalink":"/eksponentialfunksjon-for-tomflasker/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-14","modified":"2026-03-14","aliases":[],"dg-publish":true,"temaer":["eksponentialfunksjoner","geogebra","programmering","eksponentiell vekst"],"fag":["2p-y"],"eksamen":"v23","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":6}],"title":"Eksponentialfunksjon for tomflasker","source":null,"todo":null,"status":1,"permalink":"/eksponentialfunksjon-for-tomflasker/","dgPassFrontmatter":true}
 ---
 
 
@@ -38,6 +38,9 @@ print(sum_pant)
 > c) Bruk programmet til å vise at elevene ikke vil nå målet med den planen de har lagt. Foreslå justeringer av modellen som vil gjøre at de kan nå målet.
 
 >[!question]- Fasit
-> 
 >
+> a) Starter på 1600 kr i august, øker 4,5 % per måned
+> b) $P(9) \approx 2378 \, \mathrm{kr}$
+> c) Programmet summerer til ca. 19 661 kr < 25 000 kr. Øk startbeløpet til ca. 2034 kr.
+> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen V2023#Oppgave 2-6\|Løsningsforslag 2P-Y eksamen V2023#Oppgave 2-6]]
 

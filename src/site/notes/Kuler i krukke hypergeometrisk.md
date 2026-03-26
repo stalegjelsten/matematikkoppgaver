@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave","sannsynlighet","s1","del1","hypergeometrisk"],"temaer":["sannsynlighet","hypergeometrisk"],"alias":[null],"del":1,"oppgave":4,"fag":"s1","eksamen":"v23","dg-publish":true,"title":"Kuler i krukke hypergeometrisk","date":"2023-05-29","modified":"2023-05-29","permalink":"/kuler-i-krukke-hypergeometrisk/","dgPassFrontmatter":true}
+{"tags":["oppgave","sannsynlighet","s1","del1","hypergeometrisk"],"temaer":["sannsynlighet","hypergeometrisk"],"alias":[null],"del":1,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":4}],"fag":"s1","eksamen":"v23","dg-publish":true,"title":"Kuler i krukke hypergeometrisk","date":"2023-05-29","modified":"2023-05-29","permalink":"/kuler-i-krukke-hypergeometrisk/","dgPassFrontmatter":true}
 ---
 
 

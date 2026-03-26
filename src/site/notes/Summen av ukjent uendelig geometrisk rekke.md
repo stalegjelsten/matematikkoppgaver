@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"temaer":["rekker"],"aliases":null,"del":1,"oppgave":"3","fag":["s2"],"eksamen":"e22","dg-publish":true,"title":"Summen av ukjent uendelig geometrisk rekke","date":"2024-01-01","modified":"2024-01-01","permalink":"/summen-av-ukjent-uendelig-geometrisk-rekke/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"temaer":["rekker"],"aliases":null,"del":1,"oppgave":"3","oppgavenummer":[{"fag":"s2","del":1,"oppgave":3}],"fag":["s2"],"eksamen":"e22","dg-publish":true,"title":"Summen av ukjent uendelig geometrisk rekke","date":"2024-01-01","modified":"2024-01-01","permalink":"/summen-av-ukjent-uendelig-geometrisk-rekke/","dgPassFrontmatter":true}
 ---
 
 

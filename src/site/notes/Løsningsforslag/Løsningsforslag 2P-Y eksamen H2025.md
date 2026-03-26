@@ -191,10 +191,14 @@ Vi skal lage en formel for antallet pinner i figur $n$.
 
 Vi ser at:
 
-- Figur 1: $3 = 3 + 2 \cdot 0 = 3 + 2(1-1)$
-- Figur 2: $5 = 3 + 2 \cdot 1 = 3 + 2(2-1)$
-- Figur 3: $7 = 3 + 2 \cdot 2 = 3 + 2(3-1)$
-- Figur $n$: $3 + 2(n-1)$
+$$
+\begin{aligned}
+\text{Figur 1: } & 3 = 3 + 2 \cdot 0 = &&3 + 2(1-1) \\
+\text{Figur 2: } &5 = 3 + 2 \cdot 1 = &&3 + 2(2-1) \\
+\text{Figur 3: } &7 = 3 + 2 \cdot 2 = &&3 + 2(3-1) \\
+\text{Figur }n: & &&3 + 2(n-1)
+\end{aligned}
+$$
 
 Vi kan forenkle dette:
 $$P(n) = 3 + 2(n-1) = 3 + 2n - 2 = 2n + 1$$

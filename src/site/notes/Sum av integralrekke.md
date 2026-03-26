@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-29","modified":"2024-05-29","aliases":null,"dg-publish":true,"temaer":["rekker","uendelig rekke","utforskning","funksjoner","integral"],"fag":["r2"],"eksamen":"v24","del":2,"oppgave":"6","title":"Sum av integralrekke","source":null,"todo":null,"permalink":"/sum-av-integralrekke/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-05-29","modified":"2024-05-29","aliases":null,"dg-publish":true,"temaer":["rekker","uendelig rekke","utforskning","funksjoner","integral"],"fag":["r2"],"eksamen":"v24","del":2,"oppgave":"6","oppgavenummer":[{"fag":"r2","del":2,"oppgave":6}],"title":"Sum av integralrekke","source":null,"todo":null,"permalink":"/sum-av-integralrekke/","dgPassFrontmatter":true}
 ---
 
 

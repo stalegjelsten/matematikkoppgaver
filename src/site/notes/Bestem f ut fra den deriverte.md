@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":[],"dg-publish":true,"temaer":["integral","tolkning av integraler","areal under graf"],"fag":["s2"],"eksamen":"v25","del":1,"oppgave":2,"title":"Bestem f ut fra den deriverte","source":null,"todo":null,"status":3,"permalink":"/bestem-f-ut-fra-den-deriverte/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":[],"dg-publish":true,"temaer":["integral","tolkning av integraler","areal under graf"],"fag":["s2","r2"],"eksamen":"v25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":2},{"fag":"r2","del":1,"oppgave":2}],"title":"Bestem f ut fra den deriverte","source":null,"todo":null,"status":3,"permalink":"/bestem-f-ut-fra-den-deriverte/","dgPassFrontmatter":true}
 ---
 
 

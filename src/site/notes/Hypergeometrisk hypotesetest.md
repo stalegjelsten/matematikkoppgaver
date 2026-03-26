@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-12-14","modified":"2024-12-14","aliases":null,"dg-publish":true,"temaer":["hypotesetest","hypergeometrisk"],"fag":["s2"],"eksamen":"h24","del":2,"oppgave":"2","title":"Hypergeometrisk hypotesetest","source":null,"todo":["fasit","løsningsforslag"],"status":3,"permalink":"/hypergeometrisk-hypotesetest/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-12-14","modified":"2024-12-14","aliases":null,"dg-publish":true,"temaer":["hypotesetest","hypergeometrisk"],"fag":["s2"],"eksamen":"h24","del":2,"oppgave":"2","oppgavenummer":[{"fag":"s2","del":2,"oppgave":2}],"title":"Hypergeometrisk hypotesetest","source":null,"todo":["fasit","løsningsforslag"],"status":3,"permalink":"/hypergeometrisk-hypotesetest/","dgPassFrontmatter":true}
 ---
 
 

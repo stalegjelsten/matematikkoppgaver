@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-24","aliases":[],"dg-publish":true,"temaer":["lineær vekst","tolke grafer","likningssystem"],"fag":["1p"],"eksamen":"h25","del":1,"oppgave":5,"title":"Lønn og timelønn fra grafer","status":3,"source":null,"todo":null,"permalink":"/lonn-og-timelonn-fra-grafer/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-24","aliases":[],"dg-publish":true,"temaer":["lineær vekst","tolke grafer","likningssystem"],"fag":["1p"],"eksamen":"h25","del":1,"oppgave":5,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":5}],"title":"Lønn og timelønn fra grafer","status":3,"source":null,"todo":null,"permalink":"/lonn-og-timelonn-fra-grafer/","dgPassFrontmatter":true}
 ---
 
 

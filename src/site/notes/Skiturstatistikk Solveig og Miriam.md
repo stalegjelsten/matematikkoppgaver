@@ -1,11 +1,13 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["statistikk","kumulativ frekvens","sentralmål","spredningsmål"],"fag":["2p-y"],"eksamen":"v24","del":2,"oppgave":3,"title":"Skiturstatistikk Solveig og Miriam","status":1,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"permalink":"/skiturstatistikk-solveig-og-miriam/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["statistikk","kumulativ frekvens","sentralmål","spredningsmål"],"fag":["2p-y","2p"],"eksamen":"v24","del":2,"oppgave":3,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":3},{"fag":"2p","del":2,"oppgave":2}],"title":"Skiturstatistikk Solveig og Miriam","status":1,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"permalink":"/skiturstatistikk-solveig-og-miriam/","dgPassFrontmatter":true}
 ---
 
 
 # Skiturstatistikk Solveig og Miriam
 
 Nedenfor ser du hvor mange timer Solveig brukte på hver av de 20 skiturene hun gikk vinteren 2024.
+
+Table: Solveigs skiturer {.noborders}
 
 |  8  |  4  |  7  |  5  | 10  |  3  | 12  |  6  |  8  |  9  |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |

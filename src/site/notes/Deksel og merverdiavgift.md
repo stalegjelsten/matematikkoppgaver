@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-24","aliases":[],"dg-publish":true,"temaer":["prosentregning"],"fag":["1p"],"eksamen":"h25","del":1,"oppgave":2,"title":"Deksel og merverdiavgift","status":3,"source":null,"todo":null,"permalink":"/deksel-og-merverdiavgift/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-24","aliases":[],"dg-publish":true,"temaer":["prosentregning"],"fag":["1p"],"eksamen":"h25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":2}],"title":"Deksel og merverdiavgift","status":3,"source":null,"todo":null,"permalink":"/deksel-og-merverdiavgift/","dgPassFrontmatter":true}
 ---
 
 

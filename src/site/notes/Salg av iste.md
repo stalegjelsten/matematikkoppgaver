@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["eksponentialfunksjoner","prosentvis endring i flere perioder"],"fag":["2p-y"],"eksamen":"h24","del":2,"oppgave":1,"title":"Salg av iste","source":null,"todo":null,"status":1,"permalink":"/salg-av-iste/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["eksponentialfunksjoner","prosentvis endring i flere perioder"],"fag":["2p-y","2p"],"eksamen":"h24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":1},{"fag":"2p","del":2,"oppgave":1}],"title":"Salg av iste","source":null,"todo":null,"status":1,"permalink":"/salg-av-iste/","dgPassFrontmatter":true}
 ---
 
 
@@ -23,5 +23,7 @@ For å regne ut salget i desember 2024 kan vi sette $x = 0$, for å regne ut sal
 >b) Hvor mange prosent vil salget øke med fra desember 2024 til desember 2026 ifølge modellen?  
 
 >[!question]- Fasit
-> 
 >
+> a) Des. 2025: $\approx 1051$ flasker; selger $> 2000$ fra mars 2027 ($x = 27$)
+> b) $\approx 188 \,\%$ økning
+> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2024#Oppgave 2-1\|Løsningsforslag 2P-Y eksamen H2024#Oppgave 2-1]]

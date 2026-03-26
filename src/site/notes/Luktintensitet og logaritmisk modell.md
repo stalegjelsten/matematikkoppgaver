@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["logaritmer","modellering"],"fag":["r1"],"eksamen":"h25","del":2,"oppgave":3,"title":"Luktintensitet og logaritmisk modell","status":1,"source":null,"todo":null,"permalink":"/luktintensitet-og-logaritmisk-modell/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["logaritmer","modellering"],"fag":["r1"],"eksamen":"h25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":3}],"title":"Luktintensitet og logaritmisk modell","status":1,"source":null,"todo":null,"permalink":"/luktintensitet-og-logaritmisk-modell/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-29","modified":"2024-05-29","aliases":null,"dg-publish":true,"temaer":["sannsynlighet","hypergeometrisk","utforskning"],"fag":["s2"],"eksamen":"v24","del":2,"oppgave":"5","title":null,"source":null,"todo":null,"status":3,"permalink":"/sveins-kurv-med-baller/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-05-29","modified":"2024-05-29","aliases":null,"dg-publish":true,"temaer":["sannsynlighet","hypergeometrisk","utforskning"],"fag":["s2"],"eksamen":"v24","del":2,"oppgave":"5","oppgavenummer":[{"fag":"s2","del":2,"oppgave":5}],"title":null,"source":null,"todo":null,"status":3,"permalink":"/sveins-kurv-med-baller/","dgPassFrontmatter":true}
 ---
 
 

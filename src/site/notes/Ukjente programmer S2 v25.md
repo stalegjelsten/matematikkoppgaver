@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":[],"dg-publish":true,"temaer":["programmering","rekker"],"fag":["s2"],"eksamen":"v25","del":1,"oppgave":4,"title":"Ukjente programmer S2 v25","source":null,"todo":null,"status":3,"permalink":"/ukjente-programmer-s2-v25/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":[],"dg-publish":true,"temaer":["programmering","rekker"],"fag":["s2"],"eksamen":"v25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":4}],"title":"Ukjente programmer S2 v25","source":null,"todo":null,"status":3,"permalink":"/ukjente-programmer-s2-v25/","dgPassFrontmatter":true}
 ---
 
 
@@ -25,7 +25,7 @@ a = 2
 n = 5
 S = 0
 for i in range(1, n + 1):
-    S = 5 + a
+    S = S + a
     a = a + (i + 2)
 print(S)
 ```

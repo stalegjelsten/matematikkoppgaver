@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-12-04","modified":"2024-12-14","aliases":null,"dg-publish":true,"temaer":["etterspørsel","økonomi"],"fag":["s2"],"eksamen":"h24","del":2,"oppgave":"6","title":"Etterspørsel av vare","source":null,"todo":[],"status":3,"permalink":"/ettersporsel-av-vare/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-12-04","modified":"2024-12-14","aliases":null,"dg-publish":true,"temaer":["etterspørsel","økonomi"],"fag":["s2"],"eksamen":"h24","del":2,"oppgave":"6","oppgavenummer":[{"fag":"s2","del":2,"oppgave":6}],"title":"Etterspørsel av vare","source":null,"todo":[],"status":3,"permalink":"/ettersporsel-av-vare/","dgPassFrontmatter":true}
 ---
 
 

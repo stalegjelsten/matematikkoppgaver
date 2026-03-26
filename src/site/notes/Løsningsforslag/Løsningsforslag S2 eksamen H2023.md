@@ -15,6 +15,7 @@ Jeg setter inn grensene og får
 $$
 \left( \frac{1}{4}1^{4}+1^{2} \right) - \left( \frac{1}{4}(-1)^{4}+(-1)^{2} \right)=\underline{\underline{0}} 
 $$
+**Siden svaret på integralet er 0 så må det være like mye areal avgrenset av grafen på oversiden av $x$-aksen som på undersiden av $x$-aksen.**
 
 ## Oppgave 1-2 
 ### 1-2a

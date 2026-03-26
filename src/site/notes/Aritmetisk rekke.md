@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-01-28","modified":"2024-01-28","aliases":[],"dg-publish":true,"temaer":["rekker"],"fag":["s2"],"eksamen":"h23","del":1,"oppgave":"2b","title":"Aritmetisk rekke","source":null,"todo":null,"status":3,"permalink":"/aritmetisk-rekke/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-01-28","modified":"2024-01-28","aliases":[],"dg-publish":true,"temaer":["rekker"],"fag":["s2"],"eksamen":"h23","del":1,"oppgave":"2b","oppgavenummer":[{"fag":"s2","del":1,"oppgave":"2b"}],"title":"Aritmetisk rekke","source":null,"todo":null,"status":3,"permalink":"/aritmetisk-rekke/","dgPassFrontmatter":true}
 ---
 
 

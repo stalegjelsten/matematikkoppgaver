@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-09-21","aliases":[],"dg-publish":true,"temaer":["tolke grafer","enhetskostnad","grenseinntekt og grensekostnad"],"fag":["s2"],"eksamen":"v25","del":1,"oppgave":5,"title":"Enhetskostnader og grensekostnader fra graf v25","source":"Eksamen S2 vår 2025","todo":null,"status":3,"permalink":"/enhetskostnader-og-grensekostnader-fra-graf-v25/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-09-21","aliases":[],"dg-publish":true,"temaer":["tolke grafer","enhetskostnad","grenseinntekt og grensekostnad"],"fag":["s2"],"eksamen":"v25","del":1,"oppgave":5,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":5}],"title":"Enhetskostnader og grensekostnader fra graf v25","source":"Eksamen S2 vår 2025","todo":null,"status":3,"permalink":"/enhetskostnader-og-grensekostnader-fra-graf-v25/","dgPassFrontmatter":true}
 ---
 
 

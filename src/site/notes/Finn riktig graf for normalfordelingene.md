@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-22","modified":"2025-11-22","aliases":[],"dg-publish":true,"temaer":["normalfordeling","tolke grafer"],"fag":["s2"],"eksamen":"h25","del":1,"oppgave":5,"title":"Finn riktig graf for normalfordelingene","source":null,"todo":null,"status":3,"permalink":"/finn-riktig-graf-for-normalfordelingene/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-22","modified":"2025-11-22","aliases":[],"dg-publish":true,"temaer":["normalfordeling","tolke grafer"],"fag":["s2"],"eksamen":"h25","del":1,"oppgave":5,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":5}],"title":"Finn riktig graf for normalfordelingene","source":null,"todo":null,"status":3,"permalink":"/finn-riktig-graf-for-normalfordelingene/","dgPassFrontmatter":true}
 ---
 
 

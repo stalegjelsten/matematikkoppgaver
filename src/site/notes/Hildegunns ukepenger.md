@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["oppgave","excel","rekker","s2","r2","del2"],"temaer":["excel","rekker"],"alias":["Davids ukepenger"],"del":2,"oppgave":4,"fag":["s2","r2"],"eksamen":"v23","dg-publish":true,"title":"Hildegunns ukepenger","date":"2023-05-29","modified":"2024-09-03","permalink":"/hildegunns-ukepenger/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["oppgave","excel","rekker","s2","r2","del2"],"temaer":["excel","rekker"],"alias":["Davids ukepenger"],"del":2,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":4},{"fag":"r2","del":2,"oppgave":4}],"fag":["s2","r2"],"eksamen":"v23","dg-publish":true,"title":"Hildegunns ukepenger","date":"2023-05-29","modified":"2024-09-03","permalink":"/hildegunns-ukepenger/","dgPassFrontmatter":true}
 ---
 
 

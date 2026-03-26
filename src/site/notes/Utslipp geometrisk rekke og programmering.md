@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["eksponentiell vekst","eksponentialfunksjoner","programmering"],"fag":["2p-y"],"eksamen":"h23","del":2,"oppgave":7,"title":"Utslipp geometrisk rekke og programmering","status":0,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"permalink":"/utslipp-geometrisk-rekke-og-programmering/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["eksponentiell vekst","eksponentialfunksjoner","programmering"],"fag":["2p-y"],"eksamen":"h23","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":7}],"title":"Utslipp geometrisk rekke og programmering","status":0,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"permalink":"/utslipp-geometrisk-rekke-og-programmering/","dgPassFrontmatter":true}
 ---
 
 

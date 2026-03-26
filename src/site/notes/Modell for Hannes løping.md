@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["modellering","regresjon"],"fag":["2p-y"],"eksamen":"h24","del":2,"oppgave":6,"title":"Modell for Hannes løping","source":null,"todo":["fasit","løsningsforslag"],"status":1,"permalink":"/modell-for-hannes-loping/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["modellering","regresjon"],"fag":["2p-y"],"eksamen":"h24","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":6}],"title":"Modell for Hannes løping","source":null,"todo":null,"status":1,"permalink":"/modell-for-hannes-loping/","dgPassFrontmatter":true}
 ---
 
 
@@ -24,5 +24,8 @@ der $L(x)$ er antall minutter Hanne klarte å løpe sammenhengende på dag $x$.
 >c) Hvor mange minutter har tiden Hanne klarer å løpe sammenhengende, økt med i gjennomsnitt per dag fra dag 1 til dag 60 ifølge modellen?  
 
 >[!question]- Fasit
-> 
 >
+> a) $a \approx 10$, $b \approx 0{,}334$
+> b) Omtrent $13$ uker fra start (ca. 4 uker fra nå)
+> c) $\approx 0{,}5 \, \mathrm{min/dag}$
+> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2024#Oppgave 2-6\|Løsningsforslag 2P-Y eksamen H2024#Oppgave 2-6]]

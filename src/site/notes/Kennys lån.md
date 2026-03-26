@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["lån"],"fag":["1p-y el"],"eksamen":"v25","del":1,"oppgave":3,"title":null,"source":null,"todo":null,"status":3,"permalink":"/kennys-lan/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["lån"],"fag":["1p-y el"],"eksamen":"v25","del":1,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":3}],"title":null,"source":null,"todo":null,"status":3,"permalink":"/kennys-lan/","dgPassFrontmatter":true}
 ---
 
 
