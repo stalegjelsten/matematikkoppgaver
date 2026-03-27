@@ -11,23 +11,31 @@ function userMarkdownSetup(md) {
   md.renderer.rules.fence = function (tokens, idx, options, env, slf) {
     const token = tokens[idx];
     const infoParts = token.info.trim().split(/\s+/);
-    const lang = infoParts[0];
+    const lang = infoParts[0] || "text";
     const showLineNumbers = infoParts.includes("ln");
+
+    const escapeHtml = (str) =>
+      str
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;");
+
+    let codeHtml = "";
     if (showLineNumbers) {
-      const escapeHtml = (str) =>
-        str
-          .replace(/&/g, "&amp;")
-          .replace(/</g, "&lt;")
-          .replace(/>/g, "&gt;")
-          .replace(/"/g, "&quot;");
       const lines = token.content.split("\n");
       if (lines[lines.length - 1] === "") lines.pop();
       const lineNumbers = lines
         .map((_, i) => `<span>${i + 1}</span>`)
         .join("");
-      return `<pre class="has-line-numbers"><span class="line-numbers-col" aria-hidden="true">${lineNumbers}</span><code class="language-${lang || "text"}">${escapeHtml(token.content)}</code></pre>`;
+      codeHtml = `<pre class="has-line-numbers"><button class="copy-code-button" data-lang="${lang}" onclick="copyCode(this)"></button><span class="line-numbers-col" aria-hidden="true">${lineNumbers}</span><code class="language-${lang}">${escapeHtml(token.content)}</code></pre>`;
+    } else {
+      const originalCode = origFenceRule(tokens, idx, options, env, slf);
+      // Legger til knappen rett etter første '>' i <pre ...>
+      codeHtml = originalCode.replace(/>/, `><button class="copy-code-button" data-lang="${lang}" onclick="copyCode(this)"></button>`);
     }
-    return origFenceRule(tokens, idx, options, env, slf);
+
+    return codeHtml;
   };
 }
 function userEleventySetup(eleventyConfig) {

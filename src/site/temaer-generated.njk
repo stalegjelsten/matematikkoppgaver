@@ -5,8 +5,7 @@ pagination:
   alias: tema
 eleventyComputed:
   permalink: "/temaer/{{ tema | slugify }}/"
-  title: "{{ tema }}"
+  title: "{{ tema | capitalize }}"
 layout: layouts/note.njk
 tags: []
 ---
-# {{ tema | capitalize }}
