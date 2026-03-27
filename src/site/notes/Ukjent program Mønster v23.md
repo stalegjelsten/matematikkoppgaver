@@ -7,7 +7,7 @@
 
 Martin har skrevet følgende kode:
 
-```python
+```python ln
 import random
 
 N = 100000
@@ -24,9 +24,11 @@ for i in range(N):
 print(samlet_gevinst)
 ```
 
-a) Forklar hva Martin ønsker å simulere og regne ut.
-b) Hva blir det eksakte svaret på oppgaven Martin ønsker å løse?
+> [!oppgave]
+> 
+> a) Forklar hva Martin ønsker å simulere og regne ut.
+> b) Hva blir det eksakte svaret på oppgaven Martin ønsker å løse?
 
 >[!question]- Fasit
-> 
+> a) 
 >

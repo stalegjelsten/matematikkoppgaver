@@ -14,4 +14,4 @@ Nora skal kjøpe bagetter.
 
 >[!question]- Fasit
 >
->[[Løsningsforslag/Løsningsforslag 2P-Y eksamen V2024#1-2\|Løsningsforslag 2P-Y eksamen V2024#1-2]]
+>[[Løsningsforslag/Løsningsforslag 2P-Y eksamen V2024#Oppgave 2\|Løsningsforslag 2P-Y eksamen V2024#Oppgave 2]]

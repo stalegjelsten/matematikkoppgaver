@@ -7,7 +7,7 @@
 
 En elev har skrevet følgende kode
 
-```python
+```python ln
 from math import sqrt            # importerer kvadratrotfunksjon
 a = 0
 b = 2

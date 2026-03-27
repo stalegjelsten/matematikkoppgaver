@@ -10,8 +10,8 @@ Lag et program som du kan bruke til å simulere sannsynligheten for at en tilfel
 
 >[!tips]- Programmeringshjelp
 >*Denne hjelpen ble ikke gitt i oppgaveteksten!*
->For å trekke ut en tilfeldig normalfordelt elev så må du bruke et ekstern bibliotek som `numpy` eller `scipy.stats`. Med `import numpy as np` kan du bruke følgende kode lagre høyden til én tilfeldig jenteelev som `X`: 👇
->`X = np.random.normal(168, 6)`
+>For å trekke ut en tilfeldig normalfordelt elev så må du bruke et ekstern bibliotek som `numpy` eller `random`. Med `import random` kan du bruke følgende kode lagre høyden til én tilfeldig jenteelev som `X`: 👇  
+>`X = random.gauss(168, 6)`
 
 >[!question]- Fasit
 > Omtrent 41,6 %

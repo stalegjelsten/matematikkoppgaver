@@ -8,7 +8,7 @@
 
 En elev har laget programmet under. 
 
-```python
+```python ln
 n = 0
 s = 0
 
