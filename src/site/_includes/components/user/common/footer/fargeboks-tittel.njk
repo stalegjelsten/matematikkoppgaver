@@ -1,0 +1,18 @@
+<script>
+(function () {
+  const colorBoxTypes = ["green-box", "blue-box", "yellow-box"];
+  colorBoxTypes.forEach(function (type) {
+    document.querySelectorAll(`.callout[data-callout="${type}"]`).forEach(function (callout) {
+      const titleEl = callout.querySelector(".callout-title");
+      if (!titleEl) return;
+      const titleInner = callout.querySelector(".callout-title-inner");
+      if (!titleInner) return;
+      const text = titleInner.textContent.trim().toLowerCase();
+      const defaultTitle = type.charAt(0) + type.slice(1).toLowerCase();
+      if (text !== defaultTitle) {
+        titleEl.style.display = "flex";
+      }
+    });
+  });
+})();
+</script>
