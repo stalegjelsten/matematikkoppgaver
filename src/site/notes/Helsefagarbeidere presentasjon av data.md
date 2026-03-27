@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["statistikk","datapresentasjon","diagrammer"],"fag":["2p-y","2p"],"eksamen":"h23","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":6},{"fag":"2p","del":2,"oppgave":6}],"title":"Helsefagarbeidere presentasjon av data","status":1,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"permalink":"/helsefagarbeidere-presentasjon-av-data/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["statistikk","diagrammer","presentasjon av data"],"fag":["2p-y","2p"],"eksamen":"h23","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":6},{"fag":"2p","del":2,"oppgave":6}],"title":"Helsefagarbeidere presentasjon av data","status":1,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"permalink":"/helsefagarbeidere-presentasjon-av-data/","dgPassFrontmatter":true}
 ---
 
 

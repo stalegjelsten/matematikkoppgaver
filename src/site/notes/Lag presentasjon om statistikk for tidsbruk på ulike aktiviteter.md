@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["presenter statistikk"],"fag":["2p-y","2p"],"eksamen":"h24","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":7},{"fag":"2p","del":2,"oppgave":6}],"title":"Lag presentasjon om statistikk for tidsbruk på ulike aktiviteter","source":null,"todo":null,"status":1,"permalink":"/lag-presentasjon-om-statistikk-for-tidsbruk-pa-ulike-aktiviteter/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["presentasjon av data"],"fag":["2p-y","2p"],"eksamen":"h24","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":7},{"fag":"2p","del":2,"oppgave":6}],"title":"Lag presentasjon om statistikk for tidsbruk på ulike aktiviteter","source":null,"todo":null,"status":1,"permalink":"/lag-presentasjon-om-statistikk-for-tidsbruk-pa-ulike-aktiviteter/","dgPassFrontmatter":true}
 ---
 
 

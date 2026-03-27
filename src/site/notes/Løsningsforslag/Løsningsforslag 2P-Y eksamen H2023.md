@@ -3,6 +3,24 @@
 ---
 
 
+## Oppgave 1-1
+
+### 1-1a
+Siden $25 \cdot 4=100$ så må $25 \cdot 16 = 400$. Da må også $25\cdot 17 =425$.
+
+Hvis Selma kjører 16 reiser så vil hun altså betale mindre ved å kjøpe enkeltbilletter til 25 kr stk. 
+
+**Hvis Selma kjører 17 reiser så lønner det seg å kjøpe fleksikort med 20 reiser.**
+
+### 1-1b
+Prisen for 20 enkeltreiser er $25 \cdot 20=500$.
+
+Hun sparer altså $500-415=85 \mathrm{~kr}$. Det tilsvarer
+$$
+\frac{85}{500}=\frac{85:5}{500:5}= \frac{17}{100}=17 \,\%
+$$
+**Hun sparer 17 % på å kjøpe fleksikort hvis hun bruker 20 reiser.**
+
 ## Oppgave 2-1
 
 ### 2-1a

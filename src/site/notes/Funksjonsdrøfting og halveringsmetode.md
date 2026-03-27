@@ -14,29 +14,29 @@ $$f(x) = 4x^2 \cdot \ln x$$
 
 En elev jobber med funksjonen $f$ og har skrevet programmet nedenfor:
 
-```python
-1   from math import log              # log(x) er kode for ln(x)
-2
-3   a = 0.1
-4   b = 3
-5
-6   maks_avvik = 0.0001
-7
-8   def f(x):                         # definerer funksjonen
-9       return 4*x**2*log(x)
-10
-11  m = (a + b)/2
-12
-13  while abs(f(m)) >= maks_avvik:    # abs() finner absolutverdi
-14
-15      if f(a)*f(m) < 0:
-16          b = m
-17      else:
-18          a = m
-19
-20      m = (a + b)/2
-21
-22  print(m)
+```python ln
+from math import log              # log(x) er kode for ln(x)
+
+a = 0.1
+b = 3
+
+maks_avvik = 0.0001
+
+def f(x):                         # definerer funksjonen
+    return 4*x**2*log(x)
+
+m = (a + b)/2
+
+while abs(f(m)) >= maks_avvik:    # abs() finner absoluttverdi
+
+	if f(a)*f(m) < 0:
+		b = m
+    else:
+        a = m
+
+    m = (a + b)/2
+
+print(m)
 ```
 
 >[!oppgave]

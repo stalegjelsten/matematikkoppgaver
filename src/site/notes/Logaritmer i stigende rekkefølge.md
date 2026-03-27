@@ -8,7 +8,7 @@
 >[!oppgave]
 >Skriv uttrykkene nedenfor i stigende rekkefølge.
 >
->$$2\ln e^3 \qquad , \qquad 3\lg 70 \qquad , \qquad e^{3\ln 2}$$
+>$$2\ln e^3 \qquad  3\lg 70 \qquad e^{3\ln 2}$$
 >
 >Husk å begrunne svaret.
 

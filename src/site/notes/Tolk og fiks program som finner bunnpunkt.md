@@ -13,7 +13,7 @@ $$
 
 Egil ønsker å lage et program som regner ut koordinatene til bunnpunktet på grafen til $f$. Han har skrevet koden nedenfor.
 
-```python
+```python ln
 def f(x):
     return 2*x**2 - 9*x - 2
 

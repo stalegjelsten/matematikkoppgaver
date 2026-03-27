@@ -26,7 +26,7 @@ Et hagesenter ønsker å satse på salg av en ny type planter. De startet salget
 >[!oppgave]
 >c) Løs likningen
 >
->$$\int_0^x I(t) d t=65000$$
+>$$\int_0^x I(t) \mathrm{~d}t =65000$$
 >
 >Gi en praktisk tolkning av svaret.
 

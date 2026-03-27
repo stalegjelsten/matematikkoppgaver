@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-12","modified":"2026-03-12","aliases":[],"dg-publish":true,"temaer":["excel","lån","sparing"],"fag":["1p-y el","1p-y ba"],"eksamen":"v24","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":3},{"fag":"1p-y ba","del":2,"oppgave":3}],"title":"Chris lån og sparing for å ta førerkort","source":null,"todo":null,"status":3,"permalink":"/chris-lan-og-sparing-for-a-ta-forerkort/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-12","modified":"2026-03-12","aliases":[],"dg-publish":true,"temaer":["excel","lån","sparing","kredittkort"],"fag":["1p-y el","1p-y ba"],"eksamen":"v24","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":3},{"fag":"1p-y ba","del":2,"oppgave":3}],"title":"Chris lån og sparing for å ta førerkort","source":null,"todo":null,"status":3,"permalink":"/chris-lan-og-sparing-for-a-ta-forerkort/","dgPassFrontmatter":true}
 ---
 
 

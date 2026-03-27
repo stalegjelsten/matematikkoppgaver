@@ -13,7 +13,7 @@ $$
 
 Bedriften har laget følgende program.
 
-```python
+```python ln
 def K(x): 
 	return 0.2*x**2 + 140*x + 7000
 

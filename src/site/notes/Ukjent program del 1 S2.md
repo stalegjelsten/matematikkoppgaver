@@ -7,7 +7,7 @@
 
 En elev har skrevet følgende kode:
 
-```python
+```python ln
 a = 3
 d = 4
 
@@ -21,9 +21,9 @@ for i in range(N):
 print(S)
 ```
 
-a) Forklar hva eleven ønsker å regne ut.
-
-b) Hva blir resultatet når programmet kjøres, dersom N settes til 100 i linje 4 ? 
+> [!oppgave]
+> a) Forklar hva eleven ønsker å regne ut.
+> b) Hva blir resultatet når programmet kjøres, dersom N settes til 100 i linje 4 ? 
 
 >[!question]- Fasit
 >a) Summen av 10 første ledd av aritmetisk rekke med $a_{1}=3, d=4$
