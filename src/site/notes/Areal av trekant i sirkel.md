@@ -1,5 +1,5 @@
 ---
-{"tags":["1t","del2","trigonometri","arealsetning","cosinussetningen","cas","oppgave"],"temaer":["trigonometri","cosinussetningen","arealsetningen","cas"],"alias":[null],"del":2,"oppgave":5,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":5}],"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Areal av trekant i sirkel","date":"2023-05-27","modified":"2023-06-01","permalink":"/areal-av-trekant-i-sirkel/","dgPassFrontmatter":true}
+{"tags":["1t","del2","trigonometri","arealsetning","cosinussetningen","cas","oppgave"],"temaer":["trigonometri","cosinussetningen","arealsetningen","cas"],"alias":[null],"del":2,"oppgave":5,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":5}],"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Areal av trekant i sirkel","date":"2023-05-27","modified":"2023-06-01","status":1,"permalink":"/areal-av-trekant-i-sirkel/","dgPassFrontmatter":true}
 ---
 
 

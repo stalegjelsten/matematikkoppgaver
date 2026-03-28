@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-05-23","modified":"2023-05-23","aliases":[],"dg-publish":true,"temaer":["statistikk","gjennomsnitt","median","sentralmål","grupperte data"],"fag":["2p-y"],"eksamen":"v23","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":5}],"title":"Lønnsnivå og sentralmål","source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"status":0,"permalink":"/lonnsniva-og-sentralmal/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2023-05-23","modified":"2023-05-23","aliases":[],"dg-publish":true,"temaer":["statistikk","gjennomsnitt","median","sentralmål","grupperte data"],"fag":["2p-y","2p"],"eksamen":"v23","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":5},{"fag":"2p","del":2,"oppgave":5}],"poeng":null,"title":"Lønnsnivå og sentralmål","source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"status":0,"permalink":"/lonnsniva-og-sentralmal/","dgPassFrontmatter":true}
 ---
 
 

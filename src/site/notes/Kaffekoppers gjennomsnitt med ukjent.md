@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-05-23","modified":"2023-05-23","aliases":[],"dg-publish":true,"temaer":["statistikk","gjennomsnitt"],"fag":["2p-y"],"eksamen":"v23","del":2,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":2}],"title":"Kaffekoppers gjennomsnitt med ukjent","source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"status":0,"permalink":"/kaffekoppers-gjennomsnitt-med-ukjent/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2023-05-23","modified":"2023-05-23","aliases":[],"dg-publish":true,"temaer":["statistikk","gjennomsnitt"],"fag":["2p-y","2p"],"eksamen":"v23","del":2,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":2},{"fag":"2p","del":2,"oppgave":2}],"poeng":null,"title":"Kaffekoppers gjennomsnitt med ukjent","source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"status":0,"permalink":"/kaffekoppers-gjennomsnitt-med-ukjent/","dgPassFrontmatter":true}
 ---
 
 

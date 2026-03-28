@@ -20,4 +20,6 @@ Tenk deg at Selma kjøper et fleksikort med 20 reiser og bruker alle reisene.
 
 >[!question]- Fasit
 >
->[[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2023#1-1\|Løsningsforslag 2P-Y eksamen H2023#1-1]]
+>a) 17
+>b) 17 %
+>[[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2023#Oppgave 1-1\|Løsningsforslag 2P-Y eksamen H2023#Oppgave 1-1]]

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-16","modified":"2026-03-16","aliases":[],"dg-publish":true,"temaer":["prosentregning","prosentvis endring"],"fag":["1p-y el"],"eksamen":"h24","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":2}],"title":"Størst prosentvis prisøkning","status":1,"source":null,"todo":null,"permalink":"/storst-prosentvis-prisokning/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-16","modified":"2026-03-16","aliases":[],"dg-publish":true,"temaer":["prosentregning","prosentvis endring"],"fag":["1p-y el","1p"],"eksamen":"h24","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":2},{"fag":"1p","del":1,"oppgave":1}],"title":"Størst prosentvis prisøkning","status":1,"source":null,"todo":null,"poeng":2,"permalink":"/storst-prosentvis-prisokning/","dgPassFrontmatter":true}
 ---
 
 

@@ -10,7 +10,7 @@ En elev har laget programmet under.
 
 ```python ln
 n = 0
-s = 0
+S = 0
 
 while S <= 200:
 	n = n + 1

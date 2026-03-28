@@ -8,7 +8,7 @@
 
 Trine og Truls står i kø for å ta en skiheis. De teller hvor mange personer som blir med i hver av vognene som kjører forbi før det blir deres tur. Resultatene ser du nedenfor:
 
-$6,\,3,\,2,\,4,\,4,\,6,\,2,\,7,\,8,\,8$
+$$6\qquad 3\qquad 2\qquad 4\qquad 4\qquad 6\qquad 2\qquad 7\qquad 8\qquad 8$$
 
 a) Bestem medianen og gjennomsnittet.
 b) Bestem den kumulative frekvensen for $6$ personer, og gi en praktisk tolkning av svaret.
