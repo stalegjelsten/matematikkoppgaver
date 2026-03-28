@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["figurtall","programmering"],"fag":["1t","1p"],"eksamen":"h25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":6},{"fag":"1p","del":1,"oppgave":6}],"title":"Femkanttall og programmering","status":3,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/femkanttall-og-programmering/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["figurtall","programmering"],"fag":["1t","1p"],"eksamen":"h25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":6},{"fag":"1p","del":1,"oppgave":6}],"title":"Femkanttall og programmering","status":3,"source":null,"todo":["fasit","løsningsforslag"],"poeng":3,"permalink":"/femkanttall-og-programmering/","dgPassFrontmatter":true}
 ---
 
 

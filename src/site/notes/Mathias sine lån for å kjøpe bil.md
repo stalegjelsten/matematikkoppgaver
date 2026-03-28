@@ -9,10 +9,10 @@ Mathias ønsker å kjøpe seg en bil. Han går innom nærmeste bilforhandler, de
 
 Mathias har ingen egenkapital og må derfor låne hele beløpet. Bilforretningen gir Mathias følgende to tilbud for bilene:
 
-> [!yellow-box] Tilbud 1
+> [!yellow-box] Tilbud 1: Dieselbil
 > En brukt dieselbil. Pris 357 000 kroner. Nedbetalingstid 8 år, med én termin per år. Første innbetaling etter ett år. Rentesats 4 %.
 
-> [!green-box] Tilbud 2
+> [!green-box] Tilbud 2: Elbil
 > En ny elbil. Pris 450 000 kroner. Nedbetalingstid 10 år, med én termin per år og terminbeløp på 52 000 kroner. Første innbetaling etter ett år.
 
 >[!oppgave]

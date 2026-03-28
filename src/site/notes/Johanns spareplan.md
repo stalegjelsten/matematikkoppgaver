@@ -11,7 +11,7 @@ Johann har arvet penger. Han har en plan og har laget programmet nedenfor.
 ```python ln
 konto = 1500000
 uttak = 120000
-vf =  1.056
+vf = 1.056
 år = 0
 
 while konto >= 120000:
