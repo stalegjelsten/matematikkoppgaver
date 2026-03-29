@@ -94,8 +94,6 @@ function getPermalinkMeta(note, key) {
     if (note.data.noteIcon) {
       noteIcon = note.data.noteIcon;
     }
-    // Reason for adding the hide flag instead of removing completely from file tree is to
-    // allow users to use the filetree data elsewhere without the fear of losing any data.
     if (note.data.hide) {
       hide = note.data.hide;
     }
@@ -105,12 +103,11 @@ function getPermalinkMeta(note, key) {
     if (note.data["dg-path"]) {
       folders = note.data["dg-path"].split("/");
     } else {
-      // Ensure we extract everything after the LAST "notes/" occurrence
       const parts = note.filePathStem.split("/notes/");
       if (parts.length > 1) {
-        folders = parts.slice(-1)[0].split("/"); // Take the last part after "notes/"
+        folders = parts.slice(-1)[0].split("/");
       } else {
-        folders = []; // Handle unexpected cases gracefully
+        folders = [];
       }
     }
     folders[folders.length - 1]+= ".md";
@@ -133,12 +130,38 @@ function assignNested(obj, keyPath, value) {
   obj[keyPath[lastKeyIndex]] = value;
 }
 
+const slugify = require("@sindresorhus/slugify");
+
 function getFileTree(data) {
   const tree = {};
+  
+  // 1. Add regular notes
   (data.collections.note || []).forEach((note) => {
+    // Skip the generated topic pages if they accidentally have the 'note' tag,
+    // because we handle them separately to ensure they are all included.
+    if (note.inputPath.endsWith("temaer-generated.njk")) return;
+    
     const [meta, folders] = getPermalinkMeta(note);
     assignNested(tree, folders, { isNote: true, ...meta });
   });
+
+  // 2. Inject Temaer folder from unikeTemaer collection
+  if (data.collections.unikeTemaer) {
+    data.collections.unikeTemaer.forEach((tema) => {
+      const temaSlug = slugify(tema);
+      const name = tema.charAt(0).toUpperCase() + tema.slice(1);
+      const meta = {
+        permalink: `/temaer/${temaSlug}/`,
+        name: name,
+        noteIcon: process.env.NOTE_ICON_DEFAULT,
+        hide: false,
+        pinned: false
+      };
+      const folders = ["Temaer", `${temaSlug}.md`];
+      assignNested(tree, folders, { isNote: true, ...meta });
+    });
+  }
+
   const fileTree = sortTree(tree);
   return fileTree;
 }
