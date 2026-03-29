@@ -20,18 +20,21 @@ module.exports = function (content) {
     let mathBlock = null;
     let mathBlockInsideEl = false;
     
+    // 1. Check if the element itself is a math container
     if (el.tagName === "MJX-CONTAINER") {
       mathBlock = el;
     } else {
+      // 2. Check if there's a math container inside the element
       mathBlock = el.querySelector("mjx-container");
       if (mathBlock) {
           mathBlockInsideEl = true;
       }
       
       if (!mathBlock) {
-        // Look at previous siblings
+        // 3. Look at previous siblings (up to 2 steps to handle newlines/paragraphs)
         let prev = el.previousElementSibling;
-        while (prev) {
+        let steps = 0;
+        while (prev && steps < 3) {
           if (prev.tagName === "MJX-CONTAINER") {
             mathBlock = prev;
             break;
@@ -46,6 +49,7 @@ module.exports = function (content) {
           if (prev.classList && prev.classList.contains("numbered-equation")) break;
           
           prev = prev.previousElementSibling;
+          steps++;
         }
       }
     }

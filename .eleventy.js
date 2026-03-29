@@ -132,6 +132,16 @@ module.exports = function(eleventyConfig) {
         return '<a class="tag" onclick="toggleTagSearch(this)">';
       };
     })
+    .use(function(md) {
+      // Core rule to handle display math labels before mathjax3 processes them
+      md.core.ruler.before('block', 'handle_math_labels', function(state) {
+        // Find display math followed by a label: $$...$$ {#eq:label}
+        // Move the label to a new line so mathjax3 pairs the $$ correctly.
+        // We use a regex that matches $$ then any content (non-greedy) then $$ then the label.
+        state.src = state.src.replace(/(\$\$.*?\$\$)\s*(\{#eq:[\w-]+\})/gs, "$1\n$2");
+        return true;
+      });
+    })
     .use(require("markdown-it-mathjax3"), {
       tex: {
         inlineMath: [["$", "$"]],
@@ -147,11 +157,7 @@ module.exports = function(eleventyConfig) {
           // Strip blockquote markers
           tokens[idx].content = tokens[idx].content.replace(/^> /gm, "");
 
-          // If the content ends with $$ followed by optional label, strip it.
-          // markdown-it-mathjax3 includes the ending $$ in content if it's on the same line as opening.
-          tokens[idx].content = tokens[idx].content.replace(/\$\$\s*(\{#eq:[\w-]+\})?\s*$/g, "");
-
-          // Also handle cases where only the label is at the end
+          // Also handle cases where label might have ended up inside the token content
           tokens[idx].content = tokens[idx].content.replace(/\{#eq:[\w-]+\}\s*$/g, "");
 
           return origMathBlock(tokens, idx, options, env, self);
