@@ -72,13 +72,13 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
         <h1>{{ title if title else page.fileSlug }}</h1>
       {% endif %}
       {{ content | hideDataview | taggify | link | safe}}
+      </article>
       {% for imp in dynamics.common.afterContent %}
         {% include imp %}
       {% endfor %}
       {% for imp in dynamics.notes.afterContent %}
         {% include imp %}
       {% endfor %}
-      </article>
     </main>
 
     {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}
@@ -100,5 +100,6 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {% if contentClasses and "canvas-page" in contentClasses %}
       {%include "components/canvasScript.njk"%}
     {% endif %}
+    {% include "components/basesScript.njk" %}
   </body>
 </html>
