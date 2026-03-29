@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"dg-publish":true,"temaer":["tolke grafer"],"fag":["1p"],"eksamen":"h23","del":2,"oppgave":8,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":8}],"poeng":null,"title":"Racerbil og fartsgraf","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/racerbil-og-fartsgraf/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"dg-publish":true,"temaer":["tolke grafer"],"fag":["1p"],"eksamen":"h23","del":2,"oppgave":8,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":8}],"poeng":null,"title":"Racerbil og fartsgraf","status":3,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/racerbil-og-fartsgraf/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"temaer":["tolke grafer"],"fag":["1p"],"eksamen":"h23","del":2,"oppgave":8,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":8}],"poeng":null,"title":"Racerbil og fartsgraf","status":3,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 
@@ -17,5 +17,5 @@ Bilen har kjørt på en av banene nedenfor, og runden har startet ved den røde 
 >Hvilken bane har bilen kjørt på? Husk å argumentere for at svaret ditt er riktig.
 
 >[!question]- Fasit
->
->[[Løsningsforslag 1P eksamen H2023#2-8\|Løsningsforslag 1P eksamen H2023#2-8]]
+>a) B
+>[[Løsningsforslag/Løsningsforslag 1P eksamen H2023#Oppgave 2-8\|Løsningsforslag 1P eksamen H2023#Oppgave 2-8]]

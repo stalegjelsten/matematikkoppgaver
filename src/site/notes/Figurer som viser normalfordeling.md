@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-12-04","modified":"2024-12-14","aliases":[],"dg-publish":true,"temaer":["normalfordeling","standard normalfordeling","binomisk"],"fag":["s2"],"eksamen":"h24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":4}],"title":"Figurer som viser normalfordeling","source":null,"todo":null,"status":3,"permalink":"/figurer-som-viser-normalfordeling/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-12-04","modified":"2024-12-14","aliases":[],"dg-publish":true,"temaer":["normalfordeling","standard normalfordeling","binomisk"],"fag":["s2"],"eksamen":"h24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":4}],"title":"Figurer som viser normalfordeling","source":null,"todo":null,"status":3,"permalink":"/figurer-som-viser-normalfordeling/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-12-04","modified":"2024-12-14","aliases":[],"temaer":["normalfordeling","standard normalfordeling","binomisk"],"fag":["s2"],"eksamen":"h24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":4}],"title":"Figurer som viser normalfordeling","source":null,"todo":null,"status":3}}
 ---
 
 

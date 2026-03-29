@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"dg-publish":true,"temaer":["formler","proporsjonalitet"],"fag":["1p"],"eksamen":"h23","del":1,"oppgave":3,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":3}],"poeng":null,"title":"Ohms lov og proporsjonal sammenheng","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/ohms-lov-og-proporsjonal-sammenheng/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"dg-publish":true,"temaer":["formler","proporsjonalitet"],"fag":["1p"],"eksamen":"h23","del":1,"oppgave":3,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":3}],"poeng":null,"title":"Ohms lov og proporsjonal sammenheng","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/ohms-lov-og-proporsjonal-sammenheng/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"temaer":["formler","proporsjonalitet"],"fag":["1p"],"eksamen":"h23","del":1,"oppgave":3,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":3}],"poeng":null,"title":"Ohms lov og proporsjonal sammenheng","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 
@@ -15,4 +15,4 @@ Ohms lov sier at strømmen ($I$) gjennom en metallisk leder med konstant tempera
 
 >[!question]- Fasit
 >
->[[Løsningsforslag 1P eksamen H2023#1-3\|Løsningsforslag 1P eksamen H2023#1-3]]
+>[[Løsningsforslag/Løsningsforslag 1P eksamen H2023#1-3\|Løsningsforslag 1P eksamen H2023#1-3]]

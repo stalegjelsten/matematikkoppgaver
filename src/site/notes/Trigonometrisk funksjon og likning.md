@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-14","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["trigonometri","funksjoner","likninger"],"fag":["r2"],"eksamen":"v25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":4}],"poeng":6,"title":"Trigonometrisk funksjon og likning","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/trigonometrisk-funksjon-og-likning/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-14","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["trigonometri","funksjoner","likninger"],"fag":["r2"],"eksamen":"v25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":4}],"poeng":6,"title":"Trigonometrisk funksjon og likning","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/trigonometrisk-funksjon-og-likning/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-14","modified":"2026-03-25","aliases":[],"temaer":["trigonometri","funksjoner","likninger"],"fag":["r2"],"eksamen":"v25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":4}],"poeng":6,"title":"Trigonometrisk funksjon og likning","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

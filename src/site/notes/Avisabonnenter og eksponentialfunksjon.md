@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["eksponentialfunksjoner","stigningstall","geometrisk vekst"],"fag":["1p"],"eksamen":"h24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":1}],"poeng":6,"title":"Avisabonnenter og eksponentialfunksjon","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/avisabonnenter-og-eksponentialfunksjon/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["eksponentialfunksjoner","stigningstall","geometrisk vekst"],"fag":["1p"],"eksamen":"h24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":1}],"poeng":6,"title":"Avisabonnenter og eksponentialfunksjon","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/avisabonnenter-og-eksponentialfunksjon/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-28","aliases":[],"temaer":["eksponentialfunksjoner","stigningstall","geometrisk vekst"],"fag":["1p"],"eksamen":"h24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":1}],"poeng":6,"title":"Avisabonnenter og eksponentialfunksjon","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 
@@ -22,4 +22,4 @@ I 2019 abonnerte 1000 personer på den digitale utgaven av avisen. Antallet pers
 
 >[!question]- Fasit
 >
->[[Løsningsforslag 1P eksamen H2024#Oppgave 2-1\|Løsningsforslag 1P eksamen H2024#Oppgave 2-1]]
+>[[Løsningsforslag/Løsningsforslag 1P eksamen H2024#Oppgave 2-1\|Løsningsforslag 1P eksamen H2024#Oppgave 2-1]]

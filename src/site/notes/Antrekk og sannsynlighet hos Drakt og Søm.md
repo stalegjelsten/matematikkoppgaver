@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["kombinatorikk","sannsynlighet"],"fag":["s1"],"eksamen":"h24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":1}],"poeng":6,"title":"Antrekk og sannsynlighet hos Drakt og Søm","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/antrekk-og-sannsynlighet-hos-drakt-og-som/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["kombinatorikk","sannsynlighet"],"fag":["s1"],"eksamen":"h24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":1}],"poeng":6,"title":"Antrekk og sannsynlighet hos Drakt og Søm","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/antrekk-og-sannsynlighet-hos-drakt-og-som/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["kombinatorikk","sannsynlighet"],"fag":["s1"],"eksamen":"h24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":1}],"poeng":6,"title":"Antrekk og sannsynlighet hos Drakt og Søm","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

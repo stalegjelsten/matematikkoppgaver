@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-10-08","modified":"2024-10-08","aliases":[],"dg-publish":true,"temaer":["standardform"],"fag":["2p-y"],"eksamen":"v23","del":2,"oppgave":1,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":1}],"title":"Hvor mye ris spiser man i Kina og India?","source":null,"todo":null,"status":3,"permalink":"/hvor-mye-ris-spiser-man-i-kina-og-india/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-10-08","modified":"2024-10-08","aliases":[],"dg-publish":true,"temaer":["standardform"],"fag":["2p-y"],"eksamen":"v23","del":2,"oppgave":1,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":1}],"title":"Hvor mye ris spiser man i Kina og India?","source":null,"todo":null,"status":3,"permalink":"/hvor-mye-ris-spiser-man-i-kina-og-india/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-10-08","modified":"2024-10-08","aliases":[],"temaer":["standardform"],"fag":["2p-y"],"eksamen":"v23","del":2,"oppgave":1,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":1}],"title":"Hvor mye ris spiser man i Kina og India?","source":null,"todo":null,"status":3}}
 ---
 
 

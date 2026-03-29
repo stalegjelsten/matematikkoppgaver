@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["økonomi","derivasjon","enhetskostnad"],"fag":["s1"],"eksamen":"v24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":1}],"poeng":6,"title":"Edison biler – overskudd og enhetskostnad","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/edison-biler-overskudd-og-enhetskostnad/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["økonomi","derivasjon","enhetskostnad"],"fag":["s1"],"eksamen":"v24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":1}],"poeng":6,"title":"Edison biler – overskudd og enhetskostnad","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/edison-biler-overskudd-og-enhetskostnad/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"temaer":["økonomi","derivasjon","enhetskostnad"],"fag":["s1"],"eksamen":"v24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":1}],"poeng":6,"title":"Edison biler – overskudd og enhetskostnad","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

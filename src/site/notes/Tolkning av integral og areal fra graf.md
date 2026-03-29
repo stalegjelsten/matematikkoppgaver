@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["tolke grafer","tolkning av integraler","integral","areal under graf"],"fag":["s2","r2"],"eksamen":"h25","del":1,"oppgave":3,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":3},{"fag":"r2","del":1,"oppgave":3}],"title":null,"source":null,"todo":null,"status":3,"permalink":"/tolkning-av-integral-og-areal-fra-graf/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["tolke grafer","tolkning av integraler","integral","areal under graf"],"fag":["s2","r2"],"eksamen":"h25","del":1,"oppgave":3,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":3},{"fag":"r2","del":1,"oppgave":3}],"title":null,"source":null,"todo":null,"status":3,"permalink":"/tolkning-av-integral-og-areal-fra-graf/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"temaer":["tolke grafer","tolkning av integraler","integral","areal under graf"],"fag":["s2","r2"],"eksamen":"h25","del":1,"oppgave":3,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":3},{"fag":"r2","del":1,"oppgave":3}],"title":null,"source":null,"todo":null,"status":3}}
 ---
 
 

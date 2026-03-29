@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["bevis","rekker"],"fag":["r2"],"eksamen":"h25","del":1,"oppgave":8,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":8}],"title":"Induksjonsbevis for geometrisk rekke","status":0,"source":null,"todo":null,"permalink":"/induksjonsbevis-for-geometrisk-rekke/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["bevis","rekker"],"fag":["r2"],"eksamen":"h25","del":1,"oppgave":8,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":8}],"title":"Induksjonsbevis for geometrisk rekke","status":0,"source":null,"todo":null,"permalink":"/induksjonsbevis-for-geometrisk-rekke/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"temaer":["bevis","rekker"],"fag":["r2"],"eksamen":"h25","del":1,"oppgave":8,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":8}],"title":"Induksjonsbevis for geometrisk rekke","status":0,"source":null,"todo":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-01-28","modified":"2024-10-08","aliases":[],"dg-publish":true,"temaer":["uendelig rekke","rekker"],"fag":["s2"],"eksamen":"h23","del":1,"oppgave":"2a","oppgavenummer":[{"fag":"s2","del":1,"oppgave":"2a"}],"title":"Uendelig geometrisk rekke","source":null,"todo":["fasit","løsningsforslag"],"status":3,"permalink":"/uendelig-geometrisk-rekke/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-01-28","modified":"2024-10-08","aliases":[],"dg-publish":true,"temaer":["uendelig rekke","rekker"],"fag":["s2"],"eksamen":"h23","del":1,"oppgave":"2a","oppgavenummer":[{"fag":"s2","del":1,"oppgave":"2a"}],"title":"Uendelig geometrisk rekke","source":null,"todo":["fasit","løsningsforslag"],"status":3,"permalink":"/uendelig-geometrisk-rekke/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-01-28","modified":"2024-10-08","aliases":[],"temaer":["uendelig rekke","rekker"],"fag":["s2"],"eksamen":"h23","del":1,"oppgave":"2a","oppgavenummer":[{"fag":"s2","del":1,"oppgave":"2a"}],"title":"Uendelig geometrisk rekke","source":null,"todo":["fasit","løsningsforslag"],"status":3}}
 ---
 
 	

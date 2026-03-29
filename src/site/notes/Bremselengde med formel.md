@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["formler","modellering"],"fag":["1p-y el"],"eksamen":"v24","del":1,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":3}],"title":"Bremselengde med formel","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/bremselengde-med-formel/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["formler","modellering"],"fag":["1p-y el"],"eksamen":"v24","del":1,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":3}],"title":"Bremselengde med formel","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/bremselengde-med-formel/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["formler","modellering"],"fag":["1p-y el"],"eksamen":"v24","del":1,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":3}],"title":"Bremselengde med formel","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

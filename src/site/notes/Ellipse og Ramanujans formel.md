@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"dg-publish":true,"temaer":["formler","geometri"],"fag":["1p"],"eksamen":"h23","del":2,"oppgave":7,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":7}],"poeng":null,"title":"Ellipse og Ramanujans formel","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/ellipse-og-ramanujans-formel/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"dg-publish":true,"temaer":["formler","geometri"],"fag":["1p"],"eksamen":"h23","del":2,"oppgave":7,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":7}],"poeng":null,"title":"Ellipse og Ramanujans formel","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/ellipse-og-ramanujans-formel/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"temaer":["formler","geometri"],"fag":["1p"],"eksamen":"h23","del":2,"oppgave":7,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":7}],"poeng":null,"title":"Ellipse og Ramanujans formel","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 
@@ -26,4 +26,5 @@ Mari har tegnet en ellipse der $a = 3$ cm og $b = 2$ cm, ved hjelp av et digital
 
 >[!question]- Fasit
 >
->[[Løsningsforslag 1P eksamen H2023#2-7\|Løsningsforslag 1P eksamen H2023#2-7]]
+>[[Løsningsforslag/Løsningsforslag 1P eksamen H2023#Oppgave 2-7\|Løsningsforslag 1P eksamen H2023#Oppgave 2-7]]
+- [ ] vi

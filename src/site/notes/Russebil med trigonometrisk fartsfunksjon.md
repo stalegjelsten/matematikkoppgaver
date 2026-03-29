@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["trigonometri","integral","derivasjon"],"fag":["r2"],"eksamen":"h24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":4}],"poeng":6,"title":"Russebil med trigonometrisk fartsfunksjon","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/russebil-med-trigonometrisk-fartsfunksjon/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["trigonometri","integral","derivasjon"],"fag":["r2"],"eksamen":"h24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":4}],"poeng":6,"title":"Russebil med trigonometrisk fartsfunksjon","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/russebil-med-trigonometrisk-fartsfunksjon/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"temaer":["trigonometri","integral","derivasjon"],"fag":["r2"],"eksamen":"h24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":4}],"poeng":6,"title":"Russebil med trigonometrisk fartsfunksjon","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

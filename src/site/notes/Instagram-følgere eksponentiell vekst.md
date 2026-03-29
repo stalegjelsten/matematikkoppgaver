@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["eksponentiell vekst","vekstfaktor","prosentvis vekst"],"fag":["2p-y","2p"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":4},{"fag":"2p","del":2,"oppgave":1}],"title":"Instagram-følgere eksponentiell vekst","status":1,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"permalink":"/instagram-folgere-eksponentiell-vekst/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["eksponentiell vekst","vekstfaktor","prosentvis vekst"],"fag":["2p-y","2p"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":4},{"fag":"2p","del":2,"oppgave":1}],"title":"Instagram-følgere eksponentiell vekst","status":1,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"permalink":"/instagram-folgere-eksponentiell-vekst/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["eksponentiell vekst","vekstfaktor","prosentvis vekst"],"fag":["2p-y","2p"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":4},{"fag":"2p","del":2,"oppgave":1}],"title":"Instagram-følgere eksponentiell vekst","status":1,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"]}}
 ---
 
 
@@ -24,4 +24,6 @@ For å få antall følgere til å øke raskere vil Tuva gjøre noen endringer i 
 
 >[!question]- Fasit
 >
->[[Løsningsforslag/Løsningsforslag 2P-Y eksamen V2024#2-4\|Løsningsforslag 2P-Y eksamen V2024#2-4]]
+> a) $f(x) = 5244 \cdot 1{,}35^x$
+> c) 43,6 % flere følgere
+>[[Løsningsforslag/Løsningsforslag 2P-Y eksamen V2024#Oppgave 2-4\|Løsningsforslag 2P-Y eksamen V2024#Oppgave 2-4]]

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"temaer":["rekker"],"aliases":null,"del":2,"oppgave":null,"oppgavenummer":[{"fag":"s2","del":2}],"fag":["s2"],"eksamen":null,"dg-publish":true,"title":"Summen av repeterende brøker","date":"2023-08-28","disabled rules":["all"],"modified":"2023-08-28","source":"Sinus S2 lærebok","permalink":"/summen-av-repeterende-broker/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"temaer":["rekker"],"aliases":null,"del":2,"oppgave":null,"oppgavenummer":[{"fag":"s2","del":2}],"fag":["s2"],"eksamen":null,"dg-publish":true,"title":"Summen av repeterende brøker","date":"2023-08-28","disabled rules":["all"],"modified":"2023-08-28","source":"Sinus S2 lærebok","permalink":"/summen-av-repeterende-broker/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"temaer":["rekker"],"aliases":null,"del":2,"oppgave":null,"oppgavenummer":[{"fag":"s2","del":2}],"fag":["s2"],"eksamen":null,"title":"Summen av repeterende brøker","date":"2023-08-28","disabled rules":["all"],"modified":"2023-08-28","source":"Sinus S2 lærebok"}}
 ---
 
 

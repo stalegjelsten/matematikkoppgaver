@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["volum","optimering","funksjoner"],"fag":["1p"],"eksamen":"h24","del":2,"oppgave":8,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":8}],"poeng":7,"title":"Kasser av metallplater","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/kasser-av-metallplater/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["volum","optimering","funksjoner"],"fag":["1p"],"eksamen":"h24","del":2,"oppgave":8,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":8}],"poeng":7,"title":"Kasser av metallplater","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/kasser-av-metallplater/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-28","aliases":[],"temaer":["volum","optimering","funksjoner"],"fag":["1p"],"eksamen":"h24","del":2,"oppgave":8,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":8}],"poeng":7,"title":"Kasser av metallplater","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 
@@ -30,4 +30,4 @@ Sofie ønsker å lage en modell som viser volumet av de ulike kassene hun kan la
 
 >[!question]- Fasit
 >
->[[Løsningsforslag 1P eksamen H2024#Oppgave 2-8\|Løsningsforslag 1P eksamen H2024#Oppgave 2-8]]
+>[[Løsningsforslag/Løsningsforslag 1P eksamen H2024#Oppgave 2-8\|Løsningsforslag 1P eksamen H2024#Oppgave 2-8]]

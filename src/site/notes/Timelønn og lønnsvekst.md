@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave","prosent","eksponentialfunksjoner","regresjon","økonomi","s1","del2"],"temaer":["prosent","eksponentialfunksjoner","regresjon","økonomi"],"alias":[null],"del":2,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":1}],"fag":"s1","eksamen":"v23","dg-publish":true,"title":"Timelønn og lønnsvekst","date":"2023-05-29","modified":"2023-06-01","permalink":"/timelonn-og-lonnsvekst/","dgPassFrontmatter":true}
+{"tags":["oppgave","prosent","eksponentialfunksjoner","regresjon","økonomi","s1","del2"],"temaer":["prosent","eksponentialfunksjoner","regresjon","økonomi"],"alias":[null],"del":2,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":1}],"fag":"s1","eksamen":"v23","dg-publish":true,"title":"Timelønn og lønnsvekst","date":"2023-05-29","modified":"2023-06-01","permalink":"/timelonn-og-lonnsvekst/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave","prosent","eksponentialfunksjoner","regresjon","økonomi","s1","del2"],"temaer":["prosent","eksponentialfunksjoner","regresjon","økonomi"],"alias":[null],"del":2,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":1}],"fag":"s1","eksamen":"v23","title":"Timelønn og lønnsvekst","date":"2023-05-29","modified":"2023-06-01"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["standardform"],"fag":["2p-y"],"eksamen":"v25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":2}],"title":null,"source":null,"todo":null,"status":3,"permalink":"/burj-khalifa-standardform/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["standardform"],"fag":["2p-y"],"eksamen":"v25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":2}],"title":null,"source":null,"todo":null,"status":3,"permalink":"/burj-khalifa-standardform/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"temaer":["standardform"],"fag":["2p-y"],"eksamen":"v25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":2}],"title":null,"source":null,"todo":null,"status":3}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["statistikk","sentralmål"],"fag":["2p-y","2p"],"eksamen":"h23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":4},{"fag":"2p","del":1,"oppgave":3}],"title":"Joggeavstander med gitte sentralmål","status":1,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"permalink":"/joggeavstander-med-gitte-sentralmal/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["statistikk","sentralmål"],"fag":["2p-y","2p"],"eksamen":"h23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":4},{"fag":"2p","del":1,"oppgave":3}],"title":"Joggeavstander med gitte sentralmål","status":1,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"permalink":"/joggeavstander-med-gitte-sentralmal/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["statistikk","sentralmål"],"fag":["2p-y","2p"],"eksamen":"h23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":4},{"fag":"2p","del":1,"oppgave":3}],"title":"Joggeavstander med gitte sentralmål","status":1,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"]}}
 ---
 
 
@@ -15,4 +15,5 @@ Jonas har notert hvor mange kilometer han har jogget hver av de siste ti dagene.
 
 >[!question]- Fasit
 >
->[[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2023#1-4\|Løsningsforslag 2P-Y eksamen H2023#1-4]]
+> Mange mulige svar. Eks. alt. 1: 5, 5, 5, 7, 8, 8, 10, 12, 15, 15 | alt. 2: 3, 5, 5, 5, 6, 10, 11, 14, 15, 16
+> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2023#Oppgave 1-4\|Løsningsforslag 2P-Y eksamen H2023#Oppgave 1-4]]

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-05-23","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["funksjoner","grafisk framstilling","likninger"],"fag":["2p"],"eksamen":"v23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":4}],"poeng":null,"title":"Likninger og ulikheter fra grafer","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/likninger-og-ulikheter-fra-grafer/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2023-05-23","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["funksjoner","grafisk framstilling","likninger"],"fag":["2p"],"eksamen":"v23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":4}],"poeng":null,"title":"Likninger og ulikheter fra grafer","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/likninger-og-ulikheter-fra-grafer/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-05-23","modified":"2026-03-28","aliases":[],"temaer":["funksjoner","grafisk framstilling","likninger"],"fag":["2p"],"eksamen":"v23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":4}],"poeng":null,"title":"Likninger og ulikheter fra grafer","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

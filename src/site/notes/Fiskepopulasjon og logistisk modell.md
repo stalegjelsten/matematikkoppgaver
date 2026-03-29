@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["eksponentialfunksjoner","logistisk funksjon","derivasjon","modellering"],"fag":["r1"],"eksamen":"h24","del":2,"oppgave":3,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":3}],"poeng":8,"title":"Fiskepopulasjon og logistisk modell","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/fiskepopulasjon-og-logistisk-modell/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["eksponentialfunksjoner","logistisk funksjon","derivasjon","modellering"],"fag":["r1"],"eksamen":"h24","del":2,"oppgave":3,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":3}],"poeng":8,"title":"Fiskepopulasjon og logistisk modell","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/fiskepopulasjon-og-logistisk-modell/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["eksponentialfunksjoner","logistisk funksjon","derivasjon","modellering"],"fag":["r1"],"eksamen":"h24","del":2,"oppgave":3,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":3}],"poeng":8,"title":"Fiskepopulasjon og logistisk modell","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

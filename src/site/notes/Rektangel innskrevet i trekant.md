@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"dg-publish":true,"temaer":["geometri","areal","lineær vekst","optimering"],"fag":["1p"],"eksamen":"h23","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":5}],"poeng":null,"title":"Rektangel innskrevet i trekant","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/rektangel-innskrevet-i-trekant/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"dg-publish":true,"temaer":["geometri","areal","lineær vekst","optimering"],"fag":["1p"],"eksamen":"h23","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":5}],"poeng":null,"title":"Rektangel innskrevet i trekant","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/rektangel-innskrevet-i-trekant/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"temaer":["geometri","areal","lineær vekst","optimering"],"fag":["1p"],"eksamen":"h23","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":5}],"poeng":null,"title":"Rektangel innskrevet i trekant","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 
@@ -38,4 +38,4 @@ Martin og Maria diskuterer hvordan de skal komme i gang, og vurderer ulike strat
 
 >[!question]- Fasit
 >
->[[Løsningsforslag 1P eksamen H2023#2-5\|Løsningsforslag 1P eksamen H2023#2-5]]
+>[[Løsningsforslag/Løsningsforslag 1P eksamen H2023#2-5\|Løsningsforslag 1P eksamen H2023#2-5]]

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["logaritmer","likninger"],"fag":["s1"],"eksamen":"h25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":2}],"title":"Logaritmiske likninger og logbaser","status":3,"source":null,"todo":null,"permalink":"/logaritmiske-likninger-og-logbaser/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["logaritmer","likninger"],"fag":["s1"],"eksamen":"h25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":2}],"title":"Logaritmiske likninger og logbaser","status":3,"source":null,"todo":null,"permalink":"/logaritmiske-likninger-og-logbaser/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["logaritmer","likninger"],"fag":["s1"],"eksamen":"h25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":2}],"title":"Logaritmiske likninger og logbaser","status":3,"source":null,"todo":null}}
 ---
 
 

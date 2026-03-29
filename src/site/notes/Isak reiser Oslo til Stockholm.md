@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["økonomi","prosentregning","modellering"],"fag":["1p-y el"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":4}],"title":"Isak reiser Oslo til Stockholm","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/isak-reiser-oslo-til-stockholm/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["økonomi","prosentregning","modellering"],"fag":["1p-y el"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":4}],"title":"Isak reiser Oslo til Stockholm","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/isak-reiser-oslo-til-stockholm/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["økonomi","prosentregning","modellering"],"fag":["1p-y el"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":4}],"title":"Isak reiser Oslo til Stockholm","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

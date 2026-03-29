@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-21","modified":"2025-11-22","aliases":[],"dg-publish":true,"temaer":["rekursiv sammenheng","programmering"],"fag":["s2"],"eksamen":"h25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":5}],"title":"Programmering av Willys spareplan","source":null,"todo":null,"status":3,"permalink":"/programmering-av-wiggos-spareplan/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-21","modified":"2025-11-22","aliases":[],"dg-publish":true,"temaer":["rekursiv sammenheng","programmering"],"fag":["s2"],"eksamen":"h25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":5}],"title":"Programmering av Willys spareplan","source":null,"todo":null,"status":3,"permalink":"/programmering-av-wiggos-spareplan/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-21","modified":"2025-11-22","aliases":[],"temaer":["rekursiv sammenheng","programmering"],"fag":["s2"],"eksamen":"h25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":5}],"title":"Programmering av Willys spareplan","source":null,"todo":null,"status":3}}
 ---
 
 

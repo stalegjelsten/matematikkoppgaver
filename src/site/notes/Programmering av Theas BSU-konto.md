@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-14","modified":"2026-03-14","aliases":[],"dg-publish":true,"temaer":["programmering","sparing"],"fag":["2p-y"],"eksamen":"v24","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":6}],"title":"Programmering av Theas BSU-konto","source":null,"todo":null,"status":1,"permalink":"/programmering-av-theas-bsu-konto/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-14","modified":"2026-03-14","aliases":[],"dg-publish":true,"temaer":["programmering","sparing"],"fag":["2p-y"],"eksamen":"v24","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":6}],"title":"Programmering av Theas BSU-konto","source":null,"todo":null,"status":1,"permalink":"/programmering-av-theas-bsu-konto/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-14","modified":"2026-03-14","aliases":[],"temaer":["programmering","sparing"],"fag":["2p-y"],"eksamen":"v24","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":6}],"title":"Programmering av Theas BSU-konto","source":null,"todo":null,"status":1}}
 ---
 
 
@@ -39,5 +39,6 @@ for år in range(2024, 2034):
 
 
 >[!question]- Fasit
-> 
 >
+> Se forklaring i løsningsforslaget
+>[[Løsningsforslag/Løsningsforslag 2P-Y eksamen V2024#Oppgave 2-6\|Løsningsforslag 2P-Y eksamen V2024#Oppgave 2-6]]

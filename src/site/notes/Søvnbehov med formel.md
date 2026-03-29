@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-16","aliases":[],"dg-publish":true,"temaer":["formler","lineær vekst","algebra"],"fag":["1p-y el"],"eksamen":"h25","del":1,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":3}],"title":"Søvnbehov med formel","status":3,"source":null,"todo":null,"permalink":"/sovnbehov-med-formel/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-16","aliases":[],"dg-publish":true,"temaer":["formler","lineær vekst","algebra"],"fag":["1p-y el"],"eksamen":"h25","del":1,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":3}],"title":"Søvnbehov med formel","status":3,"source":null,"todo":null,"permalink":"/sovnbehov-med-formel/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-16","aliases":[],"temaer":["formler","lineær vekst","algebra"],"fag":["1p-y el"],"eksamen":"h25","del":1,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":3}],"title":"Søvnbehov med formel","status":3,"source":null,"todo":null}}
 ---
 
 

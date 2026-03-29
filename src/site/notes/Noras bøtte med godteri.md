@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["lineær vekst","funksjoner","tolke grafer"],"fag":["1p"],"eksamen":"v25","del":1,"oppgave":8,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":8}],"poeng":4,"title":"Noras bøtte med godteri","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/noras-botte-med-godteri/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["lineær vekst","funksjoner","tolke grafer"],"fag":["1p"],"eksamen":"v25","del":1,"oppgave":8,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":8}],"poeng":4,"title":"Noras bøtte med godteri","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/noras-botte-med-godteri/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"temaer":["lineær vekst","funksjoner","tolke grafer"],"fag":["1p"],"eksamen":"v25","del":1,"oppgave":8,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":8}],"poeng":4,"title":"Noras bøtte med godteri","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

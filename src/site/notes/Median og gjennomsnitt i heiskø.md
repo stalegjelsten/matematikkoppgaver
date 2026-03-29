@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-21","modified":"2025-05-21","aliases":[],"dg-publish":true,"temaer":["sentralmål","kumulativ frekvens"],"fag":["2p-y","2p"],"eksamen":"v25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":2},{"fag":"2p","del":1,"oppgave":2}],"title":"Median og gjennomsnitt i heiskø","source":null,"todo":null,"status":3,"permalink":"/median-og-gjennomsnitt-i-heisko/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-21","modified":"2025-05-21","aliases":[],"dg-publish":true,"temaer":["sentralmål","kumulativ frekvens"],"fag":["2p-y","2p"],"eksamen":"v25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":2},{"fag":"2p","del":1,"oppgave":2}],"title":"Median og gjennomsnitt i heiskø","source":null,"todo":null,"status":3,"permalink":"/median-og-gjennomsnitt-i-heisko/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-21","modified":"2025-05-21","aliases":[],"temaer":["sentralmål","kumulativ frekvens"],"fag":["2p-y","2p"],"eksamen":"v25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":2},{"fag":"2p","del":1,"oppgave":2}],"title":"Median og gjennomsnitt i heiskø","source":null,"todo":null,"status":3}}
 ---
 
 

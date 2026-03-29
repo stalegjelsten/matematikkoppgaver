@@ -1,5 +1,5 @@
 ---
-{"tags":["trigonometri","cosinussetningen","arealsetningen","oppgave","del2"],"temaer":["trigonometri","cosinussetningen","arealsetningen"],"alias":[null],"del":2,"oppgave":3,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":3}],"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Areal av firkant ved hjelp av trigonometri","date":"2023-05-31","modified":"2023-06-01","status":3,"permalink":"/areal-av-firkant-ved-hjelp-av-trigonometri/","dgPassFrontmatter":true}
+{"tags":["trigonometri","cosinussetningen","arealsetningen","oppgave","del2"],"temaer":["trigonometri","cosinussetningen","arealsetningen"],"alias":[null],"del":2,"oppgave":3,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":3}],"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Areal av firkant ved hjelp av trigonometri","date":"2023-05-31","modified":"2023-06-01","status":3,"permalink":"/areal-av-firkant-ved-hjelp-av-trigonometri/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["trigonometri","cosinussetningen","arealsetningen","oppgave","del2"],"temaer":["trigonometri","cosinussetningen","arealsetningen"],"alias":[null],"del":2,"oppgave":3,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":3}],"fag":"1t","eksamen":"v23","title":"Areal av firkant ved hjelp av trigonometri","date":"2023-05-31","modified":"2023-06-01","status":3}}
 ---
 
 

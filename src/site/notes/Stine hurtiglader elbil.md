@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["lineær vekst","modellering"],"fag":["1p-y el"],"eksamen":"v24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":2}],"title":"Stine hurtiglader elbil","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/stine-hurtiglader-elbil/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["lineær vekst","modellering"],"fag":["1p-y el"],"eksamen":"v24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":2}],"title":"Stine hurtiglader elbil","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/stine-hurtiglader-elbil/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["lineær vekst","modellering"],"fag":["1p-y el"],"eksamen":"v24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":2}],"title":"Stine hurtiglader elbil","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

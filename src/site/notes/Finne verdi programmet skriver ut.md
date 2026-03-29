@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["programmering","funksjonsdrøfting"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":2,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":2},{"fag":"r1","del":1,"oppgave":2}],"poeng":2,"title":"Finne verdi programmet skriver ut","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/finne-verdi-programmet-skriver-ut/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["programmering","funksjonsdrøfting"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":2,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":2},{"fag":"r1","del":1,"oppgave":2}],"poeng":2,"title":"Finne verdi programmet skriver ut","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/finne-verdi-programmet-skriver-ut/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["programmering","funksjonsdrøfting"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":2,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":2},{"fag":"r1","del":1,"oppgave":2}],"poeng":2,"title":"Finne verdi programmet skriver ut","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

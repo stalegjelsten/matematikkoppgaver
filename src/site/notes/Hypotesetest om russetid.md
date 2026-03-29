@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"temaer":["binomisk","normalfordeling","hypotesetest"],"aliases":null,"del":2,"oppgave":5,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":5}],"fag":["s2"],"eksamen":"v19","dg-publish":true,"title":"Hypotesetest om russetid","date":"2023-05-31","modified":"2023-05-31","status":3,"permalink":"/hypotesetest-om-russetid/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"temaer":["binomisk","normalfordeling","hypotesetest"],"aliases":null,"del":2,"oppgave":5,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":5}],"fag":["s2"],"eksamen":"v19","dg-publish":true,"title":"Hypotesetest om russetid","date":"2023-05-31","modified":"2023-05-31","status":3,"permalink":"/hypotesetest-om-russetid/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"temaer":["binomisk","normalfordeling","hypotesetest"],"aliases":null,"del":2,"oppgave":5,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":5}],"fag":["s2"],"eksamen":"v19","title":"Hypotesetest om russetid","date":"2023-05-31","modified":"2023-05-31","status":3}}
 ---
 
 

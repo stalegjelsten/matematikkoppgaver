@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["figurtall","programmering"],"fag":["1t"],"eksamen":"v25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":4}],"poeng":5,"title":"Figurtall og programmering","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/figurtall-og-programmering/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["figurtall","programmering"],"fag":["1t"],"eksamen":"v25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":4}],"poeng":5,"title":"Figurtall og programmering","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/figurtall-og-programmering/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"temaer":["figurtall","programmering"],"fag":["1t"],"eksamen":"v25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":4}],"poeng":5,"title":"Figurtall og programmering","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

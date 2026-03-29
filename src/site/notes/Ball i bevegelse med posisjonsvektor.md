@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["vektorer","derivasjon"],"fag":["r2"],"eksamen":"h24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":1}],"poeng":6,"title":"Ball i bevegelse med posisjonsvektor","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/ball-i-bevegelse-med-posisjonsvektor/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["vektorer","derivasjon"],"fag":["r2"],"eksamen":"h24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":1}],"poeng":6,"title":"Ball i bevegelse med posisjonsvektor","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/ball-i-bevegelse-med-posisjonsvektor/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"temaer":["vektorer","derivasjon"],"fag":["r2"],"eksamen":"h24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":1}],"poeng":6,"title":"Ball i bevegelse med posisjonsvektor","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

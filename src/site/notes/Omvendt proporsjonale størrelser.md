@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["omvendt proporsjonalitet","grafisk framstilling"],"fag":["1p"],"eksamen":"v25","del":1,"oppgave":3,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":3}],"poeng":3,"title":"Omvendt proporsjonale størrelser","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/omvendt-proporsjonale-storrelser/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["omvendt proporsjonalitet","grafisk framstilling"],"fag":["1p"],"eksamen":"v25","del":1,"oppgave":3,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":3}],"poeng":3,"title":"Omvendt proporsjonale størrelser","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/omvendt-proporsjonale-storrelser/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"temaer":["omvendt proporsjonalitet","grafisk framstilling"],"fag":["1p"],"eksamen":"v25","del":1,"oppgave":3,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":3}],"poeng":3,"title":"Omvendt proporsjonale størrelser","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

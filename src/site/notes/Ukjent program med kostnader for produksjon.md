@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave","programmering","økonomi","s2","del1"],"temaer":["programmering","økonomi","vekstfart"],"alias":[null],"del":1,"oppgave":5,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":5}],"fag":"s1","eksamen":"v23","dg-publish":true,"title":"Ukjent program med kostnader for produksjon","date":"2023-05-29","modified":"2023-05-29","permalink":"/ukjent-program-med-kostnader-for-produksjon/","dgPassFrontmatter":true}
+{"tags":["oppgave","programmering","økonomi","s2","del1"],"temaer":["programmering","økonomi","vekstfart"],"alias":[null],"del":1,"oppgave":5,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":5}],"fag":"s1","eksamen":"v23","dg-publish":true,"title":"Ukjent program med kostnader for produksjon","date":"2023-05-29","modified":"2023-05-29","permalink":"/ukjent-program-med-kostnader-for-produksjon/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave","programmering","økonomi","s2","del1"],"temaer":["programmering","økonomi","vekstfart"],"alias":[null],"del":1,"oppgave":5,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":5}],"fag":"s1","eksamen":"v23","title":"Ukjent program med kostnader for produksjon","date":"2023-05-29","modified":"2023-05-29"}}
 ---
 
 

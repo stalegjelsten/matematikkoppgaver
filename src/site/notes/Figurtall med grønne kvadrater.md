@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["figurtall","mønstre"],"fag":["1p"],"eksamen":"v25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":6}],"poeng":2,"title":"Figurtall med grønne kvadrater","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/figurtall-med-gronne-kvadrater/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["figurtall","mønstre"],"fag":["1p"],"eksamen":"v25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":6}],"poeng":2,"title":"Figurtall med grønne kvadrater","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/figurtall-med-gronne-kvadrater/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"temaer":["figurtall","mønstre"],"fag":["1p"],"eksamen":"v25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":6}],"poeng":2,"title":"Figurtall med grønne kvadrater","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

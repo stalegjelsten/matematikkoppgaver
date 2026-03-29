@@ -1,5 +1,5 @@
 ---
-{"tags":["fagside"],"temaer":null,"aliases":null,"del":null,"oppgave":null,"fag":"1p-y el","eksamen":null,"dg-publish":true,"title":"1P-Y EL","date":"2026-01-28","modified":"2026-01-28","permalink":"/fagsider/1-p-y-el/","dgPassFrontmatter":true}
+{"tags":["fagside"],"temaer":null,"aliases":null,"del":null,"oppgave":null,"fag":"1p-y el","eksamen":null,"dg-publish":true,"title":"1P-Y EL","date":"2026-01-28","modified":"2026-01-28","permalink":"/fagsider/1-p-y-el/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["fagside"],"temaer":null,"aliases":null,"del":null,"oppgave":null,"fag":"1p-y el","eksamen":null,"title":"1P-Y EL","date":"2026-01-28","modified":"2026-01-28"}}
 ---
 
 

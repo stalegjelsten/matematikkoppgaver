@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["derivasjon","funksjonsdrøfting"],"fag":["r1"],"eksamen":"v25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":2}],"poeng":5,"title":"Nullpunkter og ekstremalpunkter med produkt","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/nullpunkter-og-ekstremalpunkter-med-produkt/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["derivasjon","funksjonsdrøfting"],"fag":["r1"],"eksamen":"v25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":2}],"poeng":5,"title":"Nullpunkter og ekstremalpunkter med produkt","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/nullpunkter-og-ekstremalpunkter-med-produkt/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"temaer":["derivasjon","funksjonsdrøfting"],"fag":["r1"],"eksamen":"v25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":2}],"poeng":5,"title":"Nullpunkter og ekstremalpunkter med produkt","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

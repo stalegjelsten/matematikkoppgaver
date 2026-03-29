@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-01-30","modified":"2024-01-30","aliases":null,"dg-publish":true,"temaer":["etterspørsel","modellering","regresjon","grenseinntekt og grensekostnad"],"fag":["s2"],"eksamen":"h23","del":2,"oppgave":"1","oppgavenummer":[{"fag":"s2","del":2,"oppgave":1}],"title":"Modell for etterspørsel av vare","source":null,"todo":["fasit","løsningsforslag"],"status":3,"permalink":"/modell-for-ettersporsel-av-vare/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-01-30","modified":"2024-01-30","aliases":null,"dg-publish":true,"temaer":["etterspørsel","modellering","regresjon","grenseinntekt og grensekostnad"],"fag":["s2"],"eksamen":"h23","del":2,"oppgave":"1","oppgavenummer":[{"fag":"s2","del":2,"oppgave":1}],"title":"Modell for etterspørsel av vare","source":null,"todo":["fasit","løsningsforslag"],"status":3,"permalink":"/modell-for-ettersporsel-av-vare/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-01-30","modified":"2024-01-30","aliases":null,"temaer":["etterspørsel","modellering","regresjon","grenseinntekt og grensekostnad"],"fag":["s2"],"eksamen":"h23","del":2,"oppgave":"1","oppgavenummer":[{"fag":"s2","del":2,"oppgave":1}],"title":"Modell for etterspørsel av vare","source":null,"todo":["fasit","løsningsforslag"],"status":3}}
 ---
 
 

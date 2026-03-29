@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["sannsynlighet","programmering","diskrete sannsynlighetsfordelinger"],"fag":["s1"],"eksamen":"h25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":6}],"title":"Terningspill og forventningsverdi","status":1,"source":null,"todo":null,"permalink":"/terningspill-og-forventningsverdi/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["sannsynlighet","programmering","diskrete sannsynlighetsfordelinger"],"fag":["s1"],"eksamen":"h25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":6}],"title":"Terningspill og forventningsverdi","status":1,"source":null,"todo":null,"permalink":"/terningspill-og-forventningsverdi/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["sannsynlighet","programmering","diskrete sannsynlighetsfordelinger"],"fag":["s1"],"eksamen":"h25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":6}],"title":"Terningspill og forventningsverdi","status":1,"source":null,"todo":null}}
 ---
 
 

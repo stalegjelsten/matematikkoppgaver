@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["figurtall"],"fag":["2p-y"],"eksamen":"v24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":4}],"title":"Figurtall 2P-Y v2024","status":1,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"permalink":"/figurtall-2-p-y-v2024/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["figurtall"],"fag":["2p-y"],"eksamen":"v24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":4}],"title":"Figurtall 2P-Y v2024","status":1,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"permalink":"/figurtall-2-p-y-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["figurtall"],"fag":["2p-y"],"eksamen":"v24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":4}],"title":"Figurtall 2P-Y v2024","status":1,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"]}}
 ---
 
 
@@ -15,4 +15,6 @@ Ovenfor ser du tre figurer. Figurene er satt sammen av små sirkler. Tenk deg at
 
 >[!question]- Fasit
 >
->[[Løsningsforslag/Løsningsforslag 2P-Y eksamen V2024#1-4\|Løsningsforslag 2P-Y eksamen V2024#1-4]]
+> a) Figur 4: 49 sirkler, figur 9: 199 sirkler
+> b) $2(n+1)^2 - 1$
+>[[Løsningsforslag/Løsningsforslag 2P-Y eksamen V2024#Oppgave 1-4\|Løsningsforslag 2P-Y eksamen V2024#Oppgave 1-4]]

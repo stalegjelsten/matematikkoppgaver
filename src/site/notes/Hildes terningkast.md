@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-28","modified":"2024-05-28","aliases":null,"dg-publish":true,"temaer":["forventningsverdi","normalfordeling","standard normalfordeling","utforskning"],"fag":["s2"],"eksamen":"v24","del":1,"oppgave":"6","oppgavenummer":[{"fag":"s2","del":1,"oppgave":6}],"title":"Hildes terningkast","source":null,"todo":null,"status":3,"permalink":"/hildes-terningkast/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-05-28","modified":"2024-05-28","aliases":null,"dg-publish":true,"temaer":["forventningsverdi","normalfordeling","standard normalfordeling","utforskning"],"fag":["s2"],"eksamen":"v24","del":1,"oppgave":"6","oppgavenummer":[{"fag":"s2","del":1,"oppgave":6}],"title":"Hildes terningkast","source":null,"todo":null,"status":3,"permalink":"/hildes-terningkast/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-28","modified":"2024-05-28","aliases":null,"temaer":["forventningsverdi","normalfordeling","standard normalfordeling","utforskning"],"fag":["s2"],"eksamen":"v24","del":1,"oppgave":"6","oppgavenummer":[{"fag":"s2","del":1,"oppgave":6}],"title":"Hildes terningkast","source":null,"todo":null,"status":3}}
 ---
 
 

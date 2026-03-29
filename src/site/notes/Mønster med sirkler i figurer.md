@@ -1,11 +1,11 @@
 ---
-{"tags":["oppgave"],"date":"2023-05-23","modified":"2023-05-23","aliases":[],"dg-publish":true,"temaer":["formler","rekker","figurtall"],"fag":["2p-y"],"eksamen":"v23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":4}],"title":"Mønster med sirkler i figurer","source":null,"todo":null,"status":0,"permalink":"/monster-med-sirkler-i-figurer/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2023-05-23","modified":"2023-05-23","aliases":[],"dg-publish":true,"temaer":["formler","rekker","figurtall"],"fag":["2p-y"],"eksamen":"v23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":4}],"title":"Mønster med sirkler i figurer","source":null,"todo":null,"status":0,"permalink":"/monster-med-sirkler-i-figurer/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-05-23","modified":"2023-05-23","aliases":[],"temaer":["formler","rekker","figurtall"],"fag":["2p-y"],"eksamen":"v23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":4}],"title":"Mønster med sirkler i figurer","source":null,"todo":null,"status":0}}
 ---
 
 
 # Mønster med sirkler i figurer
 
-![](/img/user/_resources/2py-v23-1-4.png)
+![De første 3 figurene](/img/user/_resources/2py-v23-1-4.png)
 
 Ovenfor ser du tre figurer. Figurene er satt sammen av små sirkler. Tenk deg at du skal fortsette å lage figurer etter samme mønster.
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave","sannsynlighet","hypergeometrisk"],"temaer":["sannsynlighet","hypergeometrisk"],"alias":[null],"del":2,"oppgave":"2c","oppgavenummer":[{"fag":"s1","del":2,"oppgave":"2c"}],"fag":"s1","eksamen":"v23","dg-publish":true,"title":"Sannsynligheter ved lottospill","date":"2023-05-29","modified":"2023-05-29","permalink":"/sannsynligheter-ved-lottospill/","dgPassFrontmatter":true}
+{"tags":["oppgave","sannsynlighet","hypergeometrisk"],"temaer":["sannsynlighet","hypergeometrisk"],"alias":[null],"del":2,"oppgave":"2c","oppgavenummer":[{"fag":"s1","del":2,"oppgave":"2c"}],"fag":"s1","eksamen":"v23","dg-publish":true,"title":"Sannsynligheter ved lottospill","date":"2023-05-29","modified":"2023-05-29","permalink":"/sannsynligheter-ved-lottospill/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave","sannsynlighet","hypergeometrisk"],"temaer":["sannsynlighet","hypergeometrisk"],"alias":[null],"del":2,"oppgave":"2c","oppgavenummer":[{"fag":"s1","del":2,"oppgave":"2c"}],"fag":"s1","eksamen":"v23","title":"Sannsynligheter ved lottospill","date":"2023-05-29","modified":"2023-05-29"}}
 ---
 
 

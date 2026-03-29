@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["identiteter","algebra","areal"],"fag":["1t"],"eksamen":"v24","del":1,"oppgave":3,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":3}],"poeng":2,"title":"Matematisk identitet fra arealmodell","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/matematisk-identitet-fra-arealmodell/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["identiteter","algebra","areal"],"fag":["1t"],"eksamen":"v24","del":1,"oppgave":3,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":3}],"poeng":2,"title":"Matematisk identitet fra arealmodell","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/matematisk-identitet-fra-arealmodell/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-26","aliases":[],"temaer":["identiteter","algebra","areal"],"fag":["1t"],"eksamen":"v24","del":1,"oppgave":3,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":3}],"poeng":2,"title":"Matematisk identitet fra arealmodell","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-28","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["lån","økonomi","rekursiv sammenheng"],"fag":["2p"],"eksamen":"h23","del":2,"oppgave":4,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":4}],"poeng":null,"title":"Boliglån månedlige terminer","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/boliglan-manedlige-terminer/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2023-11-28","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["lån","økonomi","rekursiv sammenheng"],"fag":["2p"],"eksamen":"h23","del":2,"oppgave":4,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":4}],"poeng":null,"title":"Boliglån månedlige terminer","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/boliglan-manedlige-terminer/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-28","modified":"2026-03-26","aliases":[],"temaer":["lån","økonomi","rekursiv sammenheng"],"fag":["2p"],"eksamen":"h23","del":2,"oppgave":4,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":4}],"poeng":null,"title":"Boliglån månedlige terminer","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

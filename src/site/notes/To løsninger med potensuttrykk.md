@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["potenser","standardform"],"fag":["1p"],"eksamen":"v25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":4}],"poeng":2,"title":"To løsninger med potensuttrykk","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/to-losninger-med-potensuttrykk/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["potenser","standardform"],"fag":["1p"],"eksamen":"v25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":4}],"poeng":2,"title":"To løsninger med potensuttrykk","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/to-losninger-med-potensuttrykk/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"temaer":["potenser","standardform"],"fag":["1p"],"eksamen":"v25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":4}],"poeng":2,"title":"To løsninger med potensuttrykk","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

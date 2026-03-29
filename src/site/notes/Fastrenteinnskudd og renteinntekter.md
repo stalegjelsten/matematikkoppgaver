@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["sparing","prosentregning","prosentvis endring"],"fag":["2p-y"],"eksamen":"v24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":2}],"title":"Fastrenteinnskudd og renteinntekter","status":1,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"permalink":"/fastrenteinnskudd-og-renteinntekter/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["sparing","prosentregning","prosentvis endring"],"fag":["2p-y"],"eksamen":"v24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":2}],"title":"Fastrenteinnskudd og renteinntekter","status":1,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"permalink":"/fastrenteinnskudd-og-renteinntekter/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["sparing","prosentregning","prosentvis endring"],"fag":["2p-y"],"eksamen":"v24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":2}],"title":"Fastrenteinnskudd og renteinntekter","status":1,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"]}}
 ---
 
 
@@ -29,4 +29,6 @@ Malin vurderer om hun skal binde pengene i 3 måneder eller i 1 år.
 
 >[!question]- Fasit
 >
->[[Løsningsforslag/Løsningsforslag 2P-Y eksamen V2024#2-2\|Løsningsforslag 2P-Y eksamen V2024#2-2]]
+> a) 0,25 prosentpoeng, 4,76 % høyere
+> b) 24 300 kr
+>[[Løsningsforslag/Løsningsforslag 2P-Y eksamen V2024#Oppgave 2-2\|Løsningsforslag 2P-Y eksamen V2024#Oppgave 2-2]]

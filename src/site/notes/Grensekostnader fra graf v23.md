@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave","økonomi","derivasjon","funksjoner","del1","s2"],"temaer":["økonomi","derivasjon","funksjoner","grenseinntekt og grensekostnad"],"alias":[null],"del":1,"oppgave":2,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":2}],"fag":"s2","eksamen":"v23","dg-publish":true,"title":"Grensekostnader fra graf v23","date":"2023-05-27","modified":"2023-05-29","permalink":"/grensekostnader-fra-graf-v23/","dgPassFrontmatter":true}
+{"tags":["oppgave","økonomi","derivasjon","funksjoner","del1","s2"],"temaer":["økonomi","derivasjon","funksjoner","grenseinntekt og grensekostnad"],"alias":[null],"del":1,"oppgave":2,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":2}],"fag":"s2","eksamen":"v23","dg-publish":true,"title":"Grensekostnader fra graf v23","date":"2023-05-27","modified":"2023-05-29","permalink":"/grensekostnader-fra-graf-v23/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave","økonomi","derivasjon","funksjoner","del1","s2"],"temaer":["økonomi","derivasjon","funksjoner","grenseinntekt og grensekostnad"],"alias":[null],"del":1,"oppgave":2,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":2}],"fag":"s2","eksamen":"v23","title":"Grensekostnader fra graf v23","date":"2023-05-27","modified":"2023-05-29"}}
 ---
 
 

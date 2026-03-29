@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"dg-publish":true,"temaer":["tallregning","proporsjonalitet","måleenheter"],"fag":["1p"],"eksamen":"h23","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":4}],"poeng":null,"title":"Snorre og Miras sjokolade","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/snorre-og-miras-sjokolade/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"dg-publish":true,"temaer":["tallregning","proporsjonalitet","måleenheter"],"fag":["1p"],"eksamen":"h23","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":4}],"poeng":null,"title":"Snorre og Miras sjokolade","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/snorre-og-miras-sjokolade/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"temaer":["tallregning","proporsjonalitet","måleenheter"],"fag":["1p"],"eksamen":"h23","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":4}],"poeng":null,"title":"Snorre og Miras sjokolade","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 
@@ -21,4 +21,4 @@ Han finner informasjonen nedenfor på helsenorge.no
 
 >[!question]- Fasit
 >
->[[Løsningsforslag 1P eksamen H2023#2-4\|Løsningsforslag 1P eksamen H2023#2-4]]
+>[[Løsningsforslag/Løsningsforslag 1P eksamen H2023#2-4\|Løsningsforslag 1P eksamen H2023#2-4]]

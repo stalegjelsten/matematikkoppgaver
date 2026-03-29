@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"documentclass":"scrartcl","fontsize":"10.5pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}","\\usepackage[DIVS=18]{typearea}"],"toc":false,"highlight-style":"tango","numbersections":false,"tags":["løsningsforslag"],"dg-publish":true,"title":"Løsningsforslag 2P-Y eksamen H2025","author":"Ståle Gjelsten","date":"2025-12-02","modified":"2026-01-17","fag":["2p-y"],"eksamen":"h25","disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style","empty-line-around-math-blocks"],"permalink":"/losningsforslag/losningsforslag-2-p-y-eksamen-h2025/","dgPassFrontmatter":true}
+{"aliases":[],"documentclass":"scrartcl","fontsize":"10.5pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}","\\usepackage[DIVS=18]{typearea}"],"toc":false,"highlight-style":"tango","numbersections":false,"tags":["løsningsforslag"],"dg-publish":true,"title":"Løsningsforslag 2P-Y eksamen H2025","author":"Ståle Gjelsten","date":"2025-12-02","modified":"2026-01-17","fag":["2p-y"],"eksamen":"h25","disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style","empty-line-around-math-blocks"],"permalink":"/losningsforslag/losningsforslag-2-p-y-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":[],"documentclass":"scrartcl","fontsize":"10.5pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}","\\usepackage[DIVS=18]{typearea}"],"toc":false,"highlight-style":"tango","numbersections":false,"tags":["løsningsforslag"],"title":"Løsningsforslag 2P-Y eksamen H2025","author":"Ståle Gjelsten","date":"2025-12-02","modified":"2026-01-17","fag":["2p-y"],"eksamen":"h25","disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style","empty-line-around-math-blocks"]}}
 ---
 
 
@@ -377,7 +377,7 @@ La meg se på den årlige utviklingen:
 
 
 > [!danger] Løsningen nedenfor er laget med KI
-> Jeg har ikke kontrollert eller forbedredet denne løsningen enda.
+> Jeg har ikke kontrollert eller forbedret denne løsningen enda.
 
 Vi skal beregne hvor mye penger Fatima, Adrian og Vegard har ved starten av 2025.
 

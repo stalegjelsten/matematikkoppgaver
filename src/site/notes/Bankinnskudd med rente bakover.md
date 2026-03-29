@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["prosentregning","geometrisk vekst"],"fag":["1t"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":4}],"title":"Bankinnskudd med rente bakover","status":1,"source":null,"todo":["fasit","løsningsforslag"],"poeng":2,"permalink":"/bankinnskudd-med-rente-bakover/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["prosentregning","geometrisk vekst"],"fag":["1t"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":4}],"title":"Bankinnskudd med rente bakover","status":1,"source":null,"todo":["fasit","løsningsforslag"],"poeng":2,"permalink":"/bankinnskudd-med-rente-bakover/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-15","aliases":[],"temaer":["prosentregning","geometrisk vekst"],"fag":["1t"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":4}],"title":"Bankinnskudd med rente bakover","status":1,"source":null,"todo":["fasit","løsningsforslag"],"poeng":2}}
 ---
 
 

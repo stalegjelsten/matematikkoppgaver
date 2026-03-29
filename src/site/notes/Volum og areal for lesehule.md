@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-28","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["volum","areal","geometri"],"fag":["2p"],"eksamen":"h24","del":2,"oppgave":8,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":8}],"poeng":4,"title":"Volum og areal for lesehule","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/volum-og-areal-for-lesehule/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-11-28","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["volum","areal","geometri"],"fag":["2p"],"eksamen":"h24","del":2,"oppgave":8,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":8}],"poeng":4,"title":"Volum og areal for lesehule","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/volum-og-areal-for-lesehule/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-28","modified":"2026-03-26","aliases":[],"temaer":["volum","areal","geometri"],"fag":["2p"],"eksamen":"h24","del":2,"oppgave":8,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":8}],"poeng":4,"title":"Volum og areal for lesehule","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

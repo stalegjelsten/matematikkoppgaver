@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["volum","areal","optimering","funksjoner"],"fag":["1p"],"eksamen":"v25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":6}],"poeng":6,"title":"Isabels sylinderformede bokser","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/isabels-sylinderformede-bokser/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["volum","areal","optimering","funksjoner"],"fag":["1p"],"eksamen":"v25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":6}],"poeng":6,"title":"Isabels sylinderformede bokser","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/isabels-sylinderformede-bokser/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"temaer":["volum","areal","optimering","funksjoner"],"fag":["1p"],"eksamen":"v25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":6}],"poeng":6,"title":"Isabels sylinderformede bokser","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 
@@ -9,10 +9,10 @@ Isabel er industridesigner. Hun arbeider med et design på bokser med form som s
 
 ![Sylinder](/img/user/_resources/1p-v25-2-6.jpeg)
 
-| | |
-|---|---|
-| Formel for å regne ut volumet av en boks med radius $r$ og høyde $h$ | $V = \pi \cdot r^2 \cdot h$ |
-| Formel for å regne ut arealet av overflaten av boksen | $O = \pi \cdot r^2 + 2 \cdot \pi \cdot r \cdot h$ |
+> [!tip] Formler for sylinderboksene
+>
+> Formelen for å regne ut volumet av en boks med radius $r$ og høyde $h$ er $V = \pi \cdot r^2 \cdot h$  
+>Formelen for å regne ut arealet av overflaten av boksen er $O = \pi \cdot r^2 + 2 \cdot \pi \cdot r \cdot h$ 
 
 Isabel lurer på hvor stor radius hun bør velge og hvor høye boksene må være, når hver boks skal ha
 

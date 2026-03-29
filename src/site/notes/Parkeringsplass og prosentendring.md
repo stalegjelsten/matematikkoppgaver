@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-05-23","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["areal","prosentregning","argumentasjon"],"fag":["2p"],"eksamen":"v23","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":6}],"poeng":null,"title":"Parkeringsplass og prosentendring","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/parkeringsplass-og-prosentendring/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2023-05-23","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["areal","prosentregning","argumentasjon"],"fag":["2p"],"eksamen":"v23","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":6}],"poeng":null,"title":"Parkeringsplass og prosentendring","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/parkeringsplass-og-prosentendring/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-05-23","modified":"2026-03-28","aliases":[],"temaer":["areal","prosentregning","argumentasjon"],"fag":["2p"],"eksamen":"v23","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":6}],"poeng":null,"title":"Parkeringsplass og prosentendring","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["integral","geometri"],"fag":["r2"],"eksamen":"h25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":2}],"title":"Volum av omdreiningslegeme – kopp","status":0,"source":null,"todo":null,"permalink":"/volum-av-omdreiningslegeme-kopp/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["integral","geometri"],"fag":["r2"],"eksamen":"h25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":2}],"title":"Volum av omdreiningslegeme – kopp","status":0,"source":null,"todo":null,"permalink":"/volum-av-omdreiningslegeme-kopp/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"temaer":["integral","geometri"],"fag":["r2"],"eksamen":"h25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":2}],"title":"Volum av omdreiningslegeme – kopp","status":0,"source":null,"todo":null}}
 ---
 
 

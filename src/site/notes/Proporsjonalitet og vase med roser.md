@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["proporsjonalitet","omvendt proporsjonalitet","argumentasjon"],"fag":["2p-y"],"eksamen":"h23","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":5}],"title":"Proporsjonalitet og vase med roser","status":0,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"permalink":"/proporsjonalitet-og-vase-med-roser/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["proporsjonalitet","omvendt proporsjonalitet","argumentasjon"],"fag":["2p-y"],"eksamen":"h23","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":5}],"title":"Proporsjonalitet og vase med roser","status":0,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"permalink":"/proporsjonalitet-og-vase-med-roser/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["proporsjonalitet","omvendt proporsjonalitet","argumentasjon"],"fag":["2p-y"],"eksamen":"h23","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":5}],"title":"Proporsjonalitet og vase med roser","status":0,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"]}}
 ---
 
 
@@ -20,4 +20,5 @@ I matematikktimen jobber Emilie og Emma med proporsjonalitet og omvendt proporsj
 
 >[!question]- Fasit
 >
->[[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2023#2-5\|Løsningsforslag 2P-Y eksamen H2023#2-5]]
+> Emilie tar feil – antall roser og totalpris er ikke proporsjonale (vasekostnaden er fast). Emma har rett om sitt tilfelle (omvendt proporsjonalt), men hennes generelle forklaring er upresis.
+> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2023#Oppgave 2-5\|Løsningsforslag 2P-Y eksamen H2023#Oppgave 2-5]]

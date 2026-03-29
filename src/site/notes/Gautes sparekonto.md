@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["sparing","vekstfaktor"],"fag":["1p"],"eksamen":"v24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":2}],"poeng":4,"title":"Gautes sparekonto","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/gautes-sparekonto/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["sparing","vekstfaktor"],"fag":["1p"],"eksamen":"v24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":2}],"poeng":4,"title":"Gautes sparekonto","status":3,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/gautes-sparekonto/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-28","aliases":[],"temaer":["sparing","vekstfaktor"],"fag":["1p"],"eksamen":"v24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":2}],"poeng":4,"title":"Gautes sparekonto","status":3,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 
@@ -18,4 +18,6 @@ For fem år siden satte Gaute inn sparepengene sine på en konto med en fast ren
 
 >[!question]- Fasit
 >
->[[Løsningsforslag 1P eksamen V2024#2-2\|Løsningsforslag 1P eksamen V2024#2-2]]
+>a) 123 920 kr
+>b) 90 000 kr
+>[[Løsningsforslag/Løsningsforslag 1P eksamen V2024#Oppgave 2-2\|Løsningsforslag 1P eksamen V2024#Oppgave 2-2]]

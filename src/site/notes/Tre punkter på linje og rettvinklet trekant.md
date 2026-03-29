@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["vektorer","geometri","likninger"],"fag":["r1"],"eksamen":"v24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":4}],"poeng":4,"title":"Tre punkter på linje og rettvinklet trekant","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/tre-punkter-pa-linje-og-rettvinklet-trekant/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["vektorer","geometri","likninger"],"fag":["r1"],"eksamen":"v24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":4}],"poeng":4,"title":"Tre punkter på linje og rettvinklet trekant","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/tre-punkter-pa-linje-og-rettvinklet-trekant/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"temaer":["vektorer","geometri","likninger"],"fag":["r1"],"eksamen":"v24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":4}],"poeng":4,"title":"Tre punkter på linje og rettvinklet trekant","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

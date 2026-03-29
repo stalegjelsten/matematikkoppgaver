@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["likninger","polynomdivisjon","funksjoner"],"fag":["1t"],"eksamen":"v25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":4}],"poeng":4,"title":"Tredjegradslikning og grafvalg","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/tredjegradslikning-og-grafvalg/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["likninger","polynomdivisjon","funksjoner"],"fag":["1t"],"eksamen":"v25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":4}],"poeng":4,"title":"Tredjegradslikning og grafvalg","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/tredjegradslikning-og-grafvalg/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"temaer":["likninger","polynomdivisjon","funksjoner"],"fag":["1t"],"eksamen":"v25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":4}],"poeng":4,"title":"Tredjegradslikning og grafvalg","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

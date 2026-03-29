@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["logaritmer","likninger"],"fag":["r1"],"eksamen":"h25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":2}],"title":"Logaritmeligninger","status":1,"source":null,"todo":null,"permalink":"/logaritmeligninger/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["logaritmer","likninger"],"fag":["r1"],"eksamen":"h25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":2}],"title":"Logaritmeligninger","status":1,"source":null,"todo":null,"permalink":"/logaritmeligninger/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["logaritmer","likninger"],"fag":["r1"],"eksamen":"h25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":2}],"title":"Logaritmeligninger","status":1,"source":null,"todo":null}}
 ---
 
 

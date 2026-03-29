@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["sannsynlighet","kombinatorikk"],"fag":["s1"],"eksamen":"h25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":3}],"title":"Sannsynlighet med drops","status":1,"source":null,"todo":null,"permalink":"/sannsynlighet-med-drops/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["sannsynlighet","kombinatorikk"],"fag":["s1"],"eksamen":"h25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":3}],"title":"Sannsynlighet med drops","status":1,"source":null,"todo":null,"permalink":"/sannsynlighet-med-drops/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["sannsynlighet","kombinatorikk"],"fag":["s1"],"eksamen":"h25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":3}],"title":"Sannsynlighet med drops","status":1,"source":null,"todo":null}}
 ---
 
 

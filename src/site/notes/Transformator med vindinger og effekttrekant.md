@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-02-01","modified":"2026-02-01","aliases":[],"dg-publish":true,"temaer":["effekttrekant","formler"],"fag":["1p-y el"],"eksamen":"h23","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":3}],"title":"Transformator med vindinger og effekttrekant","source":null,"todo":null,"status":2,"permalink":"/transformator-med-vindinger-og-effekttrekant/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-02-01","modified":"2026-02-01","aliases":[],"dg-publish":true,"temaer":["effekttrekant","formler"],"fag":["1p-y el"],"eksamen":"h23","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":3}],"title":"Transformator med vindinger og effekttrekant","source":null,"todo":null,"status":2,"permalink":"/transformator-med-vindinger-og-effekttrekant/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-02-01","modified":"2026-02-01","aliases":[],"temaer":["effekttrekant","formler"],"fag":["1p-y el"],"eksamen":"h23","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":3}],"title":"Transformator med vindinger og effekttrekant","source":null,"todo":null,"status":2}}
 ---
 
 

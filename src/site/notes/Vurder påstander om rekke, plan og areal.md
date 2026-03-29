@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["rekker","vektorer","integral","argumentasjon"],"fag":["r2"],"eksamen":"h24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":2}],"poeng":6,"title":"Vurder påstander om rekke, plan og areal","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/vurder-pastander-om-rekke-plan-og-areal/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["rekker","vektorer","integral","argumentasjon"],"fag":["r2"],"eksamen":"h24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":2}],"poeng":6,"title":"Vurder påstander om rekke, plan og areal","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/vurder-pastander-om-rekke-plan-og-areal/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"temaer":["rekker","vektorer","integral","argumentasjon"],"fag":["r2"],"eksamen":"h24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":2}],"poeng":6,"title":"Vurder påstander om rekke, plan og areal","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

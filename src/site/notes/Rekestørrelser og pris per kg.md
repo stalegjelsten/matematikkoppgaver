@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["prosentregning"],"fag":["1p-y el"],"eksamen":"v24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":1}],"title":"Rekestørrelser og pris per kg","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/rekestorrelser-og-pris-per-kg/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["prosentregning"],"fag":["1p-y el"],"eksamen":"v24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":1}],"title":"Rekestørrelser og pris per kg","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/rekestorrelser-og-pris-per-kg/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["prosentregning"],"fag":["1p-y el"],"eksamen":"v24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":1}],"title":"Rekestørrelser og pris per kg","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

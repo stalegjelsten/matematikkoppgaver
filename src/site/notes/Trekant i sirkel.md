@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-25","modified":"2026-03-24","aliases":[],"dg-publish":true,"temaer":["geometri"],"fag":["2p"],"eksamen":"h25","del":1,"oppgave":5,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":5}],"title":"Trekant i sirkel","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/trekant-i-sirkel/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-25","modified":"2026-03-24","aliases":[],"dg-publish":true,"temaer":["geometri"],"fag":["2p"],"eksamen":"h25","del":1,"oppgave":5,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":5}],"title":"Trekant i sirkel","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/trekant-i-sirkel/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-25","modified":"2026-03-24","aliases":[],"temaer":["geometri"],"fag":["2p"],"eksamen":"h25","del":1,"oppgave":5,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":5}],"title":"Trekant i sirkel","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

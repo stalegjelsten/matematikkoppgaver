@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["integral","trigonometri"],"fag":["r2"],"eksamen":"h24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":1}],"poeng":6,"title":"Integral med delvis integrasjon og trigonometri","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/integral-med-delvis-integrasjon-og-trigonometri/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["integral","trigonometri"],"fag":["r2"],"eksamen":"h24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":1}],"poeng":6,"title":"Integral med delvis integrasjon og trigonometri","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/integral-med-delvis-integrasjon-og-trigonometri/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"temaer":["integral","trigonometri"],"fag":["r2"],"eksamen":"h24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":1}],"poeng":6,"title":"Integral med delvis integrasjon og trigonometri","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

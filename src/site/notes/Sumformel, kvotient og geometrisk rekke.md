@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["rekker","uendelig rekke"],"fag":["r2"],"eksamen":"h24","del":1,"oppgave":2,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":2}],"poeng":6,"title":"Sumformel, kvotient og geometrisk rekke","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/sumformel-kvotient-og-geometrisk-rekke/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["rekker","uendelig rekke"],"fag":["r2"],"eksamen":"h24","del":1,"oppgave":2,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":2}],"poeng":6,"title":"Sumformel, kvotient og geometrisk rekke","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/sumformel-kvotient-og-geometrisk-rekke/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"temaer":["rekker","uendelig rekke"],"fag":["r2"],"eksamen":"h24","del":1,"oppgave":2,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":2}],"poeng":6,"title":"Sumformel, kvotient og geometrisk rekke","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

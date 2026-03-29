@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["kombinatorikk"],"fag":["s1"],"eksamen":"v24","del":2,"oppgave":3,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":3}],"poeng":4,"title":"Kombinatorikk for passord","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/kombinatorikk-for-passord/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["kombinatorikk"],"fag":["s1"],"eksamen":"v24","del":2,"oppgave":3,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":3}],"poeng":4,"title":"Kombinatorikk for passord","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/kombinatorikk-for-passord/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"temaer":["kombinatorikk"],"fag":["s1"],"eksamen":"v24","del":2,"oppgave":3,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":3}],"poeng":4,"title":"Kombinatorikk for passord","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["formler","tallregning"],"fag":["1p-y el"],"eksamen":"h23","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":4}],"title":"Fart, distanse og gjennomsnittsfart","status":0,"source":null,"todo":null,"permalink":"/fart-distanse-og-gjennomsnittsfart/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["formler","tallregning"],"fag":["1p-y el"],"eksamen":"h23","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":4}],"title":"Fart, distanse og gjennomsnittsfart","status":0,"source":null,"todo":null,"permalink":"/fart-distanse-og-gjennomsnittsfart/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"temaer":["formler","tallregning"],"fag":["1p-y el"],"eksamen":"h23","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":4}],"title":"Fart, distanse og gjennomsnittsfart","status":0,"source":null,"todo":null}}
 ---
 
 

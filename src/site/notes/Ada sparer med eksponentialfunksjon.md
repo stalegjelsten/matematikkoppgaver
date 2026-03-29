@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["eksponentialfunksjoner","programmering"],"fag":["1p"],"eksamen":"v24","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":2}],"poeng":4,"title":"Ada sparer med eksponentialfunksjon","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/ada-sparer-med-eksponentialfunksjon/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["eksponentialfunksjoner","programmering"],"fag":["1p"],"eksamen":"v24","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":2}],"poeng":4,"title":"Ada sparer med eksponentialfunksjon","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/ada-sparer-med-eksponentialfunksjon/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-28","aliases":[],"temaer":["eksponentialfunksjoner","programmering"],"fag":["1p"],"eksamen":"v24","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":2}],"poeng":4,"title":"Ada sparer med eksponentialfunksjon","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 
@@ -33,4 +33,4 @@ print(v)
 
 >[!question]- Fasit
 >
->[[Løsningsforslag 1P eksamen V2024#1-2\|Løsningsforslag 1P eksamen V2024#1-2]]
+>[[Løsningsforslag/Løsningsforslag 1P eksamen V2024#1-2\|Løsningsforslag 1P eksamen V2024#1-2]]

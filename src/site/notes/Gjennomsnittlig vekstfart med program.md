@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["programmering","gjennomsnittlig vekstfart"],"fag":["1t"],"eksamen":"v24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":4}],"poeng":2,"title":"Gjennomsnittlig vekstfart med program","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/gjennomsnittlig-vekstfart-med-program/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["programmering","gjennomsnittlig vekstfart"],"fag":["1t"],"eksamen":"v24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":4}],"poeng":2,"title":"Gjennomsnittlig vekstfart med program","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/gjennomsnittlig-vekstfart-med-program/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-26","aliases":[],"temaer":["programmering","gjennomsnittlig vekstfart"],"fag":["1t"],"eksamen":"v24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":4}],"poeng":2,"title":"Gjennomsnittlig vekstfart med program","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

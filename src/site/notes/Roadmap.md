@@ -1,5 +1,5 @@
 ---
-{"tags":["meta"],"temaer":null,"alias":[null],"del":null,"oppgave":null,"fag":null,"eksamen":null,"dg-publish":true,"title":"Roadmap","date":"2023-05-29","modified":"2023-05-30","permalink":"/roadmap/","dgPassFrontmatter":true}
+{"tags":["meta"],"temaer":null,"alias":[null],"del":null,"oppgave":null,"fag":null,"eksamen":null,"dg-publish":true,"title":"Roadmap","date":"2023-05-29","modified":"2023-05-30","permalink":"/roadmap/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["meta"],"temaer":null,"alias":[null],"del":null,"oppgave":null,"fag":null,"eksamen":null,"title":"Roadmap","date":"2023-05-29","modified":"2023-05-30"}}
 ---
 
 

@@ -1,10 +1,10 @@
 ---
-{"oppgave":null,"aliases":null,"documentclass":"scrartcl","fontsize":"11pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}","\\usepackage[DIVS=18]{typearea}"],"toc":false,"highlight-style":"tango","numbersections":false,"shift-heading-level-by":-3,"pandoc-latex-environment":{"warning":["warning"],"danger":["danger"],"note":["note"],"tip":["tip"],"important":["important"],"info":["info"],"error":["error"],"fasit":["fasit"]},"tags":["løsningsforslag"],"dg-publish":true,"title":"Løsningsforslag 2P-Y eksamen V2024","author":"Ståle Gjelsten","date":"2024-05-24","modified":"2024-05-30","fag":["2p-y"],"eksamen":"v24","permalink":"/losningsforslag/losningsforslag-2-p-y-eksamen-v2024/","dgPassFrontmatter":true}
+{"oppgave":null,"aliases":null,"documentclass":"scrartcl","fontsize":"11pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}","\\usepackage[DIVS=18]{typearea}"],"toc":false,"highlight-style":"tango","numbersections":false,"shift-heading-level-by":-3,"pandoc-latex-environment":{"warning":["warning"],"danger":["danger"],"note":["note"],"tip":["tip"],"important":["important"],"info":["info"],"error":["error"],"fasit":["fasit"]},"tags":["løsningsforslag"],"dg-publish":true,"title":"Løsningsforslag 2P-Y eksamen V2024","author":"Ståle Gjelsten","date":"2024-05-24","modified":"2024-05-30","fag":["2p-y"],"eksamen":"v24","permalink":"/losningsforslag/losningsforslag-2-p-y-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"oppgave":null,"aliases":null,"documentclass":"scrartcl","fontsize":"11pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}","\\usepackage[DIVS=18]{typearea}"],"toc":false,"highlight-style":"tango","numbersections":false,"shift-heading-level-by":-3,"pandoc-latex-environment":{"warning":["warning"],"danger":["danger"],"note":["note"],"tip":["tip"],"important":["important"],"info":["info"],"error":["error"],"fasit":["fasit"]},"tags":["løsningsforslag"],"title":"Løsningsforslag 2P-Y eksamen V2024","author":"Ståle Gjelsten","date":"2024-05-24","modified":"2024-05-30","fag":["2p-y"],"eksamen":"v24"}}
 ---
 
 # Del 1
 
-## Oppgave 1
+## Oppgave 1-1
 Hvis prisene og antall sjokolader er proporsjonale størrelser, så skal vi få det samme svaret hvis vi deler pris på antall sjokolader for alle tilbudene
 
 | Pris | Sjokolader |  Forhold |
@@ -22,7 +22,7 @@ Prisen per sjokolade er 12,5 kroner uansett hvilket tilbud vi ser på.
 >
 >I denne oppgaveteksten så spør de om antall sjokolader og prisen du betaler for *hver* sjokolade. Disse to størrelsene er egentlig ikke proporsjonale siden prisen per sjokolade er 12,5 kroner uansett.
 
-## Oppgave 2
+## Oppgave 1-2
 
 - 32 kroner for 2 bagetter betyr at hver bagett koster 16 kroner.
 - 48 kroner for 4 bagetter betyr at hver bagett koster 12 kroner.
@@ -33,7 +33,7 @@ $$
  
 **Prisen per bagett blir 25 % lavere dersom hun kjøper 4 istedenfor 2 bagetter.**
 
-## Oppgave 3
+## Oppgave 1-3
 For å finne den totale mengden vann på en måned må vi regne ut
 $$
 \text{antall mennesker} \cdot \text{gjennomsnittlig vannforbruk per døgn} \cdot \text{30 dager}$$
@@ -48,7 +48,8 @@ $$
 $$
 **I Oslo bruker man $3{,}15 \cdot 10^{9}$ liter vann i måneden.**
 
-## Oppgave 4
+## Oppgave 1-4
+
 ### 1-4a
 Jeg fortsetter mønsteret, som jeg ser består av to kvadrater hvor kvadratene overlapper med en sirkel.
 
@@ -63,7 +64,8 @@ $$
 
 # Del 2
 
-## Oppgave 1
+## Oppgave 2-1
+
 ### 2-1a
 Hvis det bare 1 person som skal på hyttetur så blir prisen per person
 $$
@@ -87,7 +89,8 @@ Jeg setter ut punktene i koordinatsystemet ved å skrive dem inn slik de står i
 
 **Stigningstallet for linja er -250, se verdi $a$. Stigningstallet til linja forteller oss at prisen per deltaker i gjennomsnitt blir 250 kr rimeligere per person, dersom vi øker antallet deltakere fra 6 til 12.**
 
-## Oppgave 2
+## Oppgave 2-2
+
 ### 2-2a
 For å bestemme forskjellen i prosentpoeng finner jeg differansen mellom prosenttallene
 $$
@@ -106,7 +109,8 @@ $$
 $$
 **Renteinntektene er 24 300 kroner hvis hun binder pengene i ett år.**
 
-## Oppgave 3
+## Oppgave 2-3
+
 ### 2-3a
 Jeg beregnet gjennomsnittet og standardavviket til turene til Solveig ved å bruke formlene `=gjennomsnitt()` og `=stdav.p()` i Excel. Jeg oppsummerer opplysningene om gjennomsnitt og standardavvik til venninnene i tabellen
 
@@ -129,7 +133,8 @@ $$
 
 Ifølge datamaterialet i starten av oppgaven har Solveig gått 4 turer på 8 timer. Ifølge de kumulative frekvensene i tabellen har de to venninnene vært på $17-14=3$ turer sammen på 8 timer. Solveig har altså gått en skitur på 8 timer alene, og 3 sammen med Miriam.
 
-## Oppgave 4
+## Oppgave 2-4
+
 ### 2-4a
 Vi lar $x$ være antall måneder etter november og bruker regresjon i GeoGebra. Siden modellen skal stige med 35 % per måned bør vi velge eksponentiell modell, siden disse vokser med en fast prosent.
 
@@ -157,7 +162,8 @@ $$
 $$
 **Tuva vil ha 43,6 % flere følgere i august om hun klarer å nå det nye målet sitt.**
 
-## Oppgave 5
+## Oppgave 2-5
+
 ### Påstand 1
 Den første søylen i histogrammet har høyde 2 og bredde 40, altså er frekvensen $2 \cdot 40=80$. **Derfor stemmer det at 80 elever brukte 40 minutter eller mindre på lekser.**
 
@@ -181,7 +187,7 @@ $$
 $$
 Medianen vil være 3,33 minutter over bunnen av intervallet vårt, altså ved $40+3{,}33=43{,}33$ minutter. **Medianen 43,33 minutter er altså høyere enn gjennomsnittet på 38 minutter.**
 
-## Oppgave 6
+## Oppgave 2-6
 **Thea vil finne beløpet på BSU-kontoen for hvert år hvis hun setter inn 27 500 kr i 10 år fra 2024–2033.** Det ser ut til at programmet regner med at hun setter inn pengene i starten av året, og at rentene beregnes ved utgangen av året. 
 
 - Linje 1: Setter at innskuddet skal være 27 500 kr

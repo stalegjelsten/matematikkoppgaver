@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-28","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["proporsjonalitet","målestokk"],"fag":["2p"],"eksamen":"h23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":2}],"poeng":null,"title":"Kart og målestokk","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/kart-og-malestokk/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2023-11-28","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["proporsjonalitet","målestokk"],"fag":["2p"],"eksamen":"h23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":2}],"poeng":null,"title":"Kart og målestokk","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/kart-og-malestokk/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-28","modified":"2026-03-26","aliases":[],"temaer":["proporsjonalitet","målestokk"],"fag":["2p"],"eksamen":"h23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":2}],"poeng":null,"title":"Kart og målestokk","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

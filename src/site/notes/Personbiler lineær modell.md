@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["modellering","lineær vekst"],"fag":["2p-y"],"eksamen":"h23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":2}],"title":"Personbiler lineær modell","status":0,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"permalink":"/personbiler-lineaer-modell/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["modellering","lineær vekst"],"fag":["2p-y"],"eksamen":"h23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":2}],"title":"Personbiler lineær modell","status":0,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"permalink":"/personbiler-lineaer-modell/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["modellering","lineær vekst"],"fag":["2p-y"],"eksamen":"h23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":2}],"title":"Personbiler lineær modell","status":0,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"]}}
 ---
 
 
@@ -14,4 +14,5 @@ I 2002 var det registrert omtrent 1,9 millioner personbiler i Norge. I 2022 var 
 
 >[!question]- Fasit
 >
->[[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2023#1-2\|Løsningsforslag 2P-Y eksamen H2023#1-2]]
+> $P(x) = 1{,}9 + 0{,}05 \cdot x$. I 2030 ($x=28$): 3,3 millioner personbiler.
+> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2023#Oppgave 1-2\|Løsningsforslag 2P-Y eksamen H2023#Oppgave 1-2]]

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["prosentregning","prosentvis endring"],"fag":["1p"],"eksamen":"v25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":2}],"poeng":1,"title":"Prosentvis framgang for partier","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/prosentvis-framgang-for-partier/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["prosentregning","prosentvis endring"],"fag":["1p"],"eksamen":"v25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":2}],"poeng":1,"title":"Prosentvis framgang for partier","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/prosentvis-framgang-for-partier/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"temaer":["prosentregning","prosentvis endring"],"fag":["1p"],"eksamen":"v25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":2}],"poeng":1,"title":"Prosentvis framgang for partier","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

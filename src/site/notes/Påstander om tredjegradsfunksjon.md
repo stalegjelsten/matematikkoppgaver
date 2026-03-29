@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["funksjonsdrøfting","derivasjon"],"fag":["s1"],"eksamen":"h23","del":2,"oppgave":6,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":6}],"poeng":null,"title":"Påstander om tredjegradsfunksjon","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/pastander-om-tredjegradsfunksjon/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2023-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["funksjonsdrøfting","derivasjon"],"fag":["s1"],"eksamen":"h23","del":2,"oppgave":6,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":6}],"poeng":null,"title":"Påstander om tredjegradsfunksjon","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/pastander-om-tredjegradsfunksjon/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-14","modified":"2026-03-26","aliases":[],"temaer":["funksjonsdrøfting","derivasjon"],"fag":["s1"],"eksamen":"h23","del":2,"oppgave":6,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":6}],"poeng":null,"title":"Påstander om tredjegradsfunksjon","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

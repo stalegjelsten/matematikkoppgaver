@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-12-19","aliases":[],"dg-publish":true,"temaer":["proporsjonalitet","omvendt proporsjonalitet"],"fag":["2p-y"],"eksamen":"h25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":6}],"title":"Proporsjonalitet i julepynt","source":"Eksamen 2P-Y høst 2025","todo":null,"status":2,"permalink":"/proporsjonalitet-i-julepynt/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-12-19","aliases":[],"dg-publish":true,"temaer":["proporsjonalitet","omvendt proporsjonalitet"],"fag":["2p-y"],"eksamen":"h25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":6}],"title":"Proporsjonalitet i julepynt","source":"Eksamen 2P-Y høst 2025","todo":null,"status":2,"permalink":"/proporsjonalitet-i-julepynt/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-12-19","aliases":[],"temaer":["proporsjonalitet","omvendt proporsjonalitet"],"fag":["2p-y"],"eksamen":"h25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":6}],"title":"Proporsjonalitet i julepynt","source":"Eksamen 2P-Y høst 2025","todo":null,"status":2}}
 ---
 
 

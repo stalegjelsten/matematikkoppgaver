@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["gjennomsnittlig vekstfart","grenseverdi","argumentasjon"],"fag":["s1"],"eksamen":"h24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":2}],"poeng":6,"title":"Vurder påstander om funksjoner","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/vurder-pastander-om-funksjoner/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["gjennomsnittlig vekstfart","grenseverdi","argumentasjon"],"fag":["s1"],"eksamen":"h24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":2}],"poeng":6,"title":"Vurder påstander om funksjoner","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/vurder-pastander-om-funksjoner/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["gjennomsnittlig vekstfart","grenseverdi","argumentasjon"],"fag":["s1"],"eksamen":"h24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":2}],"poeng":6,"title":"Vurder påstander om funksjoner","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

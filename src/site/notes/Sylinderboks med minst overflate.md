@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["optimering","volum","funksjoner"],"fag":["1t"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":5}],"poeng":6,"title":"Sylinderboks med minst overflate","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/sylinderboks-med-minst-overflate/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["optimering","volum","funksjoner"],"fag":["1t"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":5}],"poeng":6,"title":"Sylinderboks med minst overflate","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/sylinderboks-med-minst-overflate/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"temaer":["optimering","volum","funksjoner"],"fag":["1t"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":5}],"poeng":6,"title":"Sylinderboks med minst overflate","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

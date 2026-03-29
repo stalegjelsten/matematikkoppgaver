@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["tolke grafer","formler","tallregning"],"fag":["1p-y el"],"eksamen":"h23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":2}],"title":"Ole sin høyde og vekstdiagram","status":0,"source":null,"todo":null,"permalink":"/ole-sin-hoyde-og-vekstdiagram/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["tolke grafer","formler","tallregning"],"fag":["1p-y el"],"eksamen":"h23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":2}],"title":"Ole sin høyde og vekstdiagram","status":0,"source":null,"todo":null,"permalink":"/ole-sin-hoyde-og-vekstdiagram/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"temaer":["tolke grafer","formler","tallregning"],"fag":["1p-y el"],"eksamen":"h23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":2}],"title":"Ole sin høyde og vekstdiagram","status":0,"source":null,"todo":null}}
 ---
 
 

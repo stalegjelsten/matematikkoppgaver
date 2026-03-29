@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["prosentvis endring i flere perioder","utforskning"],"fag":["2p-y"],"eksamen":"h24","del":2,"oppgave":8,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":8}],"title":"Tores sykkeltrening","source":null,"todo":null,"status":1,"permalink":"/tores-sykkeltrening/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["prosentvis endring i flere perioder","utforskning"],"fag":["2p-y"],"eksamen":"h24","del":2,"oppgave":8,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":8}],"title":"Tores sykkeltrening","source":null,"todo":null,"status":1,"permalink":"/tores-sykkeltrening/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"temaer":["prosentvis endring i flere perioder","utforskning"],"fag":["2p-y"],"eksamen":"h24","del":2,"oppgave":8,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":8}],"title":"Tores sykkeltrening","source":null,"todo":null,"status":1}}
 ---
 
 

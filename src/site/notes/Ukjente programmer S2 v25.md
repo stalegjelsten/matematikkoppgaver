@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":[],"dg-publish":true,"temaer":["programmering","rekker"],"fag":["s2"],"eksamen":"v25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":4}],"title":"Ukjente programmer S2 v25","source":null,"todo":null,"status":3,"permalink":"/ukjente-programmer-s2-v25/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":[],"dg-publish":true,"temaer":["programmering","rekker"],"fag":["s2"],"eksamen":"v25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":4}],"title":"Ukjente programmer S2 v25","source":null,"todo":null,"status":3,"permalink":"/ukjente-programmer-s2-v25/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":[],"temaer":["programmering","rekker"],"fag":["s2"],"eksamen":"v25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":4}],"title":"Ukjente programmer S2 v25","source":null,"todo":null,"status":3}}
 ---
 
 

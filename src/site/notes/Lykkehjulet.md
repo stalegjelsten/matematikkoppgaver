@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["oppgave"],"temaer":["sannsynlighet","normalfordeling","binomisk"],"alias":[],"del":1,"oppgave":8,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":8}],"fag":"s2","eksamen":"h22","dg-publish":true,"title":"Lykkehjulet","date":"2023-05-31","modified":"2024-04-05","permalink":"/lykkehjulet/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["oppgave"],"temaer":["sannsynlighet","normalfordeling","binomisk"],"alias":[],"del":1,"oppgave":8,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":8}],"fag":"s2","eksamen":"h22","dg-publish":true,"title":"Lykkehjulet","date":"2023-05-31","modified":"2024-04-05","permalink":"/lykkehjulet/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":null,"tags":["oppgave"],"temaer":["sannsynlighet","normalfordeling","binomisk"],"alias":[],"del":1,"oppgave":8,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":8}],"fag":"s2","eksamen":"h22","title":"Lykkehjulet","date":"2023-05-31","modified":"2024-04-05"}}
 ---
 
 

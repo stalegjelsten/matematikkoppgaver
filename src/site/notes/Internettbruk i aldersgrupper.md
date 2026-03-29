@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-11-14","aliases":[],"dg-publish":true,"temaer":["statistikk","presentasjon av data","diagram"],"fag":["2p-y","2p"],"eksamen":"h25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":3},{"fag":"2p","del":2,"oppgave":3}],"title":"Internettbruk i aldersgrupper","source":"Eksamen 2P-Y høst 2025","todo":null,"status":1,"permalink":"/internettbruk-i-aldersgrupper/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-11-14","aliases":[],"dg-publish":true,"temaer":["statistikk","presentasjon av data","diagram"],"fag":["2p-y","2p"],"eksamen":"h25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":3},{"fag":"2p","del":2,"oppgave":3}],"title":"Internettbruk i aldersgrupper","source":"Eksamen 2P-Y høst 2025","todo":null,"status":1,"permalink":"/internettbruk-i-aldersgrupper/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-11-14","aliases":[],"temaer":["statistikk","presentasjon av data","diagram"],"fag":["2p-y","2p"],"eksamen":"h25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":3},{"fag":"2p","del":2,"oppgave":3}],"title":"Internettbruk i aldersgrupper","source":"Eksamen 2P-Y høst 2025","todo":null,"status":1}}
 ---
 
 

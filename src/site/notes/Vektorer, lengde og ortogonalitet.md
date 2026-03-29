@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["vektorer","trigonometri"],"fag":["r1"],"eksamen":"h25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":5}],"title":"Vektorer, lengde og ortogonalitet","status":1,"source":null,"todo":null,"permalink":"/vektorer-lengde-og-ortogonalitet/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["vektorer","trigonometri"],"fag":["r1"],"eksamen":"h25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":5}],"title":"Vektorer, lengde og ortogonalitet","status":1,"source":null,"todo":null,"permalink":"/vektorer-lengde-og-ortogonalitet/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["vektorer","trigonometri"],"fag":["r1"],"eksamen":"h25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":5}],"title":"Vektorer, lengde og ortogonalitet","status":1,"source":null,"todo":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["grenseverdi","kontinuitet"],"fag":["r1"],"eksamen":"h25","del":1,"oppgave":3,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":3}],"title":"Grenseverdier","status":1,"source":null,"todo":null,"permalink":"/grenseverdier/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["grenseverdi","kontinuitet"],"fag":["r1"],"eksamen":"h25","del":1,"oppgave":3,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":3}],"title":"Grenseverdier","status":1,"source":null,"todo":null,"permalink":"/grenseverdier/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["grenseverdi","kontinuitet"],"fag":["r1"],"eksamen":"h25","del":1,"oppgave":3,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":3}],"title":"Grenseverdier","status":1,"source":null,"todo":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["statistikk","diagrammer","presentasjon av data"],"fag":["2p-y","2p"],"eksamen":"h23","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":6},{"fag":"2p","del":2,"oppgave":6}],"title":"Helsefagarbeidere presentasjon av data","status":1,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"permalink":"/helsefagarbeidere-presentasjon-av-data/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["statistikk","diagrammer","presentasjon av data"],"fag":["2p-y","2p"],"eksamen":"h23","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":6},{"fag":"2p","del":2,"oppgave":6}],"title":"Helsefagarbeidere presentasjon av data","status":1,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"permalink":"/helsefagarbeidere-presentasjon-av-data/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["statistikk","diagrammer","presentasjon av data"],"fag":["2p-y","2p"],"eksamen":"h23","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":6},{"fag":"2p","del":2,"oppgave":6}],"title":"Helsefagarbeidere presentasjon av data","status":1,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"]}}
 ---
 
 
@@ -23,4 +23,5 @@ Nedenfor ser du en tabell som viser antall helsefagarbeidere i Norge i perioden 
 
 >[!question]- Fasit
 >
->[[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2023#2-6\|Løsningsforslag 2P-Y eksamen H2023#2-6]]
+> Menn økte 228 %, kvinner 131 %, totalt 142 %. Andel menn økte fra 11,3 % til 15,3 %.
+> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2023#Oppgave 2-6\|Løsningsforslag 2P-Y eksamen H2023#Oppgave 2-6]]

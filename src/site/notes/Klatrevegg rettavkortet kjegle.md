@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["geometri","areal","volum"],"fag":["2p"],"eksamen":"v24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":5}],"poeng":4,"title":"Klatrevegg rettavkortet kjegle","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/klatrevegg-rettavkortet-kjegle/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["geometri","areal","volum"],"fag":["2p"],"eksamen":"v24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":5}],"poeng":4,"title":"Klatrevegg rettavkortet kjegle","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/klatrevegg-rettavkortet-kjegle/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"temaer":["geometri","areal","volum"],"fag":["2p"],"eksamen":"v24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":5}],"poeng":4,"title":"Klatrevegg rettavkortet kjegle","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

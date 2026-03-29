@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-12-04","modified":"2024-12-14","aliases":null,"dg-publish":true,"temaer":["integral"],"fag":["s2"],"eksamen":"h24","del":1,"oppgave":"1a","oppgavenummer":[{"fag":"s2","del":1,"oppgave":"1a"}],"title":"Ubestemt integral h24","source":null,"todo":[],"status":3,"permalink":"/ubestemt-integral-h24/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-12-04","modified":"2024-12-14","aliases":null,"dg-publish":true,"temaer":["integral"],"fag":["s2"],"eksamen":"h24","del":1,"oppgave":"1a","oppgavenummer":[{"fag":"s2","del":1,"oppgave":"1a"}],"title":"Ubestemt integral h24","source":null,"todo":[],"status":3,"permalink":"/ubestemt-integral-h24/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-12-04","modified":"2024-12-14","aliases":null,"temaer":["integral"],"fag":["s2"],"eksamen":"h24","del":1,"oppgave":"1a","oppgavenummer":[{"fag":"s2","del":1,"oppgave":"1a"}],"title":"Ubestemt integral h24","source":null,"todo":[],"status":3}}
 ---
 
 

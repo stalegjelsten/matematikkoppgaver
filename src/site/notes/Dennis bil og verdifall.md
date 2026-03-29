@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"dg-publish":true,"temaer":["prosentregning","prosentvis endring i flere perioder"],"fag":["1p"],"eksamen":"h23","del":1,"oppgave":5,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":5}],"poeng":null,"title":"Dennis bil og verdifall","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/dennis-bil-og-verdifall/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"dg-publish":true,"temaer":["prosentregning","prosentvis endring i flere perioder"],"fag":["1p"],"eksamen":"h23","del":1,"oppgave":5,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":5}],"poeng":null,"title":"Dennis bil og verdifall","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/dennis-bil-og-verdifall/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"temaer":["prosentregning","prosentvis endring i flere perioder"],"fag":["1p"],"eksamen":"h23","del":1,"oppgave":5,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":5}],"poeng":null,"title":"Dennis bil og verdifall","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 
@@ -22,4 +22,4 @@ Dennis vil kjøpe en ny bil som koster 490 000 kroner.
 
 >[!question]- Fasit
 >
->[[Løsningsforslag 1P eksamen H2023#1-5\|Løsningsforslag 1P eksamen H2023#1-5]]
+>[[Løsningsforslag/Løsningsforslag 1P eksamen H2023#1-5\|Løsningsforslag 1P eksamen H2023#1-5]]

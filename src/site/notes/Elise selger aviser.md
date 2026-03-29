@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["økonomi","lineær vekst","likningssystem"],"fag":["1p"],"eksamen":"v25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":3}],"poeng":3,"title":"Elise selger aviser","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/elise-selger-aviser/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["økonomi","lineær vekst","likningssystem"],"fag":["1p"],"eksamen":"v25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":3}],"poeng":3,"title":"Elise selger aviser","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/elise-selger-aviser/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"temaer":["økonomi","lineær vekst","likningssystem"],"fag":["1p"],"eksamen":"v25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":3}],"poeng":3,"title":"Elise selger aviser","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

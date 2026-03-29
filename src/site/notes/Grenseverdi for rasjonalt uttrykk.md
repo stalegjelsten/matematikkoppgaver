@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["grenseverdi","rasjonale funksjoner"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":4},{"fag":"r1","del":1,"oppgave":4}],"poeng":2,"title":"Grenseverdi for rasjonalt uttrykk","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/grenseverdi-for-rasjonalt-uttrykk/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["grenseverdi","rasjonale funksjoner"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":4},{"fag":"r1","del":1,"oppgave":4}],"poeng":2,"title":"Grenseverdi for rasjonalt uttrykk","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/grenseverdi-for-rasjonalt-uttrykk/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["grenseverdi","rasjonale funksjoner"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":4},{"fag":"r1","del":1,"oppgave":4}],"poeng":2,"title":"Grenseverdi for rasjonalt uttrykk","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

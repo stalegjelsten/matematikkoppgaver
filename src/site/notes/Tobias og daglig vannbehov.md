@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"dg-publish":true,"temaer":["tallregning","proporsjonalitet"],"fag":["1p"],"eksamen":"h23","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":1}],"poeng":null,"title":"Tobias og daglig vannbehov","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/tobias-og-daglig-vannbehov/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"dg-publish":true,"temaer":["tallregning","proporsjonalitet"],"fag":["1p"],"eksamen":"h23","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":1}],"poeng":null,"title":"Tobias og daglig vannbehov","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/tobias-og-daglig-vannbehov/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"temaer":["tallregning","proporsjonalitet"],"fag":["1p"],"eksamen":"h23","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":1}],"poeng":null,"title":"Tobias og daglig vannbehov","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 
@@ -17,4 +17,4 @@ Tobias veier 70 kg.
 
 >[!question]- Fasit
 >
->[[Løsningsforslag 1P eksamen H2023#1-1\|Løsningsforslag 1P eksamen H2023#1-1]]
+>[[Løsningsforslag/Løsningsforslag 1P eksamen H2023#1-1\|Løsningsforslag 1P eksamen H2023#1-1]]

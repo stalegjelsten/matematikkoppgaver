@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"temaer":["logaritmer"],"alias":null,"del":2,"oppgave":"2a","oppgavenummer":[{"fag":"s1","del":2,"oppgave":"2a"}],"fag":"s1","eksamen":"v23","dg-publish":true,"title":"Logaritmepåstand","date":"2023-05-29","modified":"2023-05-29","permalink":"/logaritmepastand/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"temaer":["logaritmer"],"alias":null,"del":2,"oppgave":"2a","oppgavenummer":[{"fag":"s1","del":2,"oppgave":"2a"}],"fag":"s1","eksamen":"v23","dg-publish":true,"title":"Logaritmepåstand","date":"2023-05-29","modified":"2023-05-29","permalink":"/logaritmepastand/","dgPassFrontmatter":true,"dg-note-properties":{"tags":"oppgave","temaer":["logaritmer"],"alias":null,"del":2,"oppgave":"2a","oppgavenummer":[{"fag":"s1","del":2,"oppgave":"2a"}],"fag":"s1","eksamen":"v23","title":"Logaritmepåstand","date":"2023-05-29","modified":"2023-05-29"}}
 ---
 
 

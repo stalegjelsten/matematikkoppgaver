@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-16","aliases":[],"dg-publish":true,"temaer":["formler","likninger"],"fag":["1p-y el"],"eksamen":"h25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":4}],"title":"Fritt fall fra stupeplattform","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/fritt-fall-fra-stupeplattform/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-16","aliases":[],"dg-publish":true,"temaer":["formler","likninger"],"fag":["1p-y el"],"eksamen":"h25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":4}],"title":"Fritt fall fra stupeplattform","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/fritt-fall-fra-stupeplattform/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-16","aliases":[],"temaer":["formler","likninger"],"fag":["1p-y el"],"eksamen":"h25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":4}],"title":"Fritt fall fra stupeplattform","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

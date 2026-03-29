@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["eksponentiell vekst","modellering","regresjon"],"fag":["s1"],"eksamen":"h25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":1}],"title":"Eksponentiell modell for befolkningsvekst","status":1,"source":null,"todo":null,"permalink":"/eksponentiell-modell-for-befolkningsvekst/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["eksponentiell vekst","modellering","regresjon"],"fag":["s1"],"eksamen":"h25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":1}],"title":"Eksponentiell modell for befolkningsvekst","status":1,"source":null,"todo":null,"permalink":"/eksponentiell-modell-for-befolkningsvekst/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["eksponentiell vekst","modellering","regresjon"],"fag":["s1"],"eksamen":"h25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":1}],"title":"Eksponentiell modell for befolkningsvekst","status":1,"source":null,"todo":null}}
 ---
 
 

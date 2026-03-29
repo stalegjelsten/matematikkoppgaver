@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["sannsynlighet","simulering","kombinatorikk"],"fag":["s1"],"eksamen":"v25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":1}],"poeng":3,"title":"Hengelåskode og simulering","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/hengelaskode-og-simulering/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["sannsynlighet","simulering","kombinatorikk"],"fag":["s1"],"eksamen":"v25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":1}],"poeng":3,"title":"Hengelåskode og simulering","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/hengelaskode-og-simulering/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"temaer":["sannsynlighet","simulering","kombinatorikk"],"fag":["s1"],"eksamen":"v25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":1}],"poeng":3,"title":"Hengelåskode og simulering","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

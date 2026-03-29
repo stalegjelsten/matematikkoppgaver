@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-22","modified":"2026-01-16","aliases":[],"dg-publish":true,"temaer":["sannsynlighet","varians","forventningsverdi","diskrete sannsynlighetsfordelinger"],"fag":["s2"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":4}],"title":"Sannsynlighet for poengtap ved poengspill","source":null,"todo":null,"status":3,"permalink":"/sannsynlighet-for-poengtap-ved-poengspill/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-22","modified":"2026-01-16","aliases":[],"dg-publish":true,"temaer":["sannsynlighet","varians","forventningsverdi","diskrete sannsynlighetsfordelinger"],"fag":["s2"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":4}],"title":"Sannsynlighet for poengtap ved poengspill","source":null,"todo":null,"status":3,"permalink":"/sannsynlighet-for-poengtap-ved-poengspill/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-22","modified":"2026-01-16","aliases":[],"temaer":["sannsynlighet","varians","forventningsverdi","diskrete sannsynlighetsfordelinger"],"fag":["s2"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":4}],"title":"Sannsynlighet for poengtap ved poengspill","source":null,"todo":null,"status":3}}
 ---
 
 

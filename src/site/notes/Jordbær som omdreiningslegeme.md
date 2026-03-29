@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["integral","volum","omdreiningslegeme"],"fag":["r2"],"eksamen":"h24","del":2,"oppgave":3,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":3}],"poeng":2,"title":"Jordbær som omdreiningslegeme","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/jordbaer-som-omdreiningslegeme/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["integral","volum","omdreiningslegeme"],"fag":["r2"],"eksamen":"h24","del":2,"oppgave":3,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":3}],"poeng":2,"title":"Jordbær som omdreiningslegeme","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/jordbaer-som-omdreiningslegeme/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"temaer":["integral","volum","omdreiningslegeme"],"fag":["r2"],"eksamen":"h24","del":2,"oppgave":3,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":3}],"poeng":2,"title":"Jordbær som omdreiningslegeme","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

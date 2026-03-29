@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-05-26","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["proporsjonalitet","prosentregning","enhetskostnad"],"fag":["1p-y el"],"eksamen":"v23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":2}],"title":"Sammenligne priser på hundemat","status":0,"source":null,"todo":null,"permalink":"/sammenligne-priser-pa-hundemat/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2023-05-26","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["proporsjonalitet","prosentregning","enhetskostnad"],"fag":["1p-y el"],"eksamen":"v23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":2}],"title":"Sammenligne priser på hundemat","status":0,"source":null,"todo":null,"permalink":"/sammenligne-priser-pa-hundemat/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-05-26","modified":"2026-03-15","aliases":[],"temaer":["proporsjonalitet","prosentregning","enhetskostnad"],"fag":["1p-y el"],"eksamen":"v23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":2}],"title":"Sammenligne priser på hundemat","status":0,"source":null,"todo":null}}
 ---
 
 

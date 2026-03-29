@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-21","modified":"2025-05-21","aliases":[],"dg-publish":true,"temaer":["prosent"],"fag":["2p-y"],"eksamen":"v25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":4}],"title":"Prosentvis framgang for to partier","source":null,"todo":null,"status":3,"permalink":"/prosentvis-framgang-for-to-partier/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-21","modified":"2025-05-21","aliases":[],"dg-publish":true,"temaer":["prosent"],"fag":["2p-y"],"eksamen":"v25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":4}],"title":"Prosentvis framgang for to partier","source":null,"todo":null,"status":3,"permalink":"/prosentvis-framgang-for-to-partier/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-21","modified":"2025-05-21","aliases":[],"temaer":["prosent"],"fag":["2p-y"],"eksamen":"v25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":4}],"title":"Prosentvis framgang for to partier","source":null,"todo":null,"status":3}}
 ---
 
 

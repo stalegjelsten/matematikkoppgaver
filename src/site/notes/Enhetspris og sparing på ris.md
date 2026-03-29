@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["enhetskostnad","prosentregning","økonomi"],"fag":["1p-y el"],"eksamen":"v25","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":1}],"title":"Enhetspris og sparing på ris","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/enhetspris-og-sparing-pa-ris/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["enhetskostnad","prosentregning","økonomi"],"fag":["1p-y el"],"eksamen":"v25","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":1}],"title":"Enhetspris og sparing på ris","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/enhetspris-og-sparing-pa-ris/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["enhetskostnad","prosentregning","økonomi"],"fag":["1p-y el"],"eksamen":"v25","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":1}],"title":"Enhetspris og sparing på ris","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

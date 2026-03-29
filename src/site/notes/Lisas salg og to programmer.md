@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["programmering","eksponentiell vekst","lineær vekst"],"fag":["1p"],"eksamen":"h24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":4}],"poeng":3,"title":"Lisas salg og to programmer","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/lisas-salg-og-to-programmer/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["programmering","eksponentiell vekst","lineær vekst"],"fag":["1p"],"eksamen":"h24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":4}],"poeng":3,"title":"Lisas salg og to programmer","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/lisas-salg-og-to-programmer/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-28","aliases":[],"temaer":["programmering","eksponentiell vekst","lineær vekst"],"fag":["1p"],"eksamen":"h24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":4}],"poeng":3,"title":"Lisas salg og to programmer","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 
@@ -54,4 +54,4 @@ print(t)
 
 >[!question]- Fasit
 >
->[[Løsningsforslag 1P eksamen H2024#Oppgave 1-4\|Løsningsforslag 1P eksamen H2024#Oppgave 1-4]]
+>[[Løsningsforslag/Løsningsforslag 1P eksamen H2024#Oppgave 1-4\|Løsningsforslag 1P eksamen H2024#Oppgave 1-4]]

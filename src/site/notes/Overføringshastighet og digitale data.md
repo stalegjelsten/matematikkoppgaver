@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["bits og bytes","store tall","tallregning"],"fag":["1p-y el"],"eksamen":"v25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":2}],"title":"Overføringshastighet og digitale data","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/overforingshastighet-og-digitale-data/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["bits og bytes","store tall","tallregning"],"fag":["1p-y el"],"eksamen":"v25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":2}],"title":"Overføringshastighet og digitale data","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/overforingshastighet-og-digitale-data/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["bits og bytes","store tall","tallregning"],"fag":["1p-y el"],"eksamen":"v25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":2}],"title":"Overføringshastighet og digitale data","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

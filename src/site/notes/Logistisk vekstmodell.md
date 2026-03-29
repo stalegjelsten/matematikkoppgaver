@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["logistisk funksjon","modellering","derivasjon"],"fag":["r1"],"eksamen":"h25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":1}],"title":"Logistisk vekstmodell","status":1,"source":null,"todo":null,"permalink":"/logistisk-vekstmodell/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["logistisk funksjon","modellering","derivasjon"],"fag":["r1"],"eksamen":"h25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":1}],"title":"Logistisk vekstmodell","status":1,"source":null,"todo":null,"permalink":"/logistisk-vekstmodell/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["logistisk funksjon","modellering","derivasjon"],"fag":["r1"],"eksamen":"h25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":1}],"title":"Logistisk vekstmodell","status":1,"source":null,"todo":null}}
 ---
 
 

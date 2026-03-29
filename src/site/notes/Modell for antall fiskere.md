@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"dg-publish":true,"temaer":["regresjon","lineær vekst","stigningstall"],"fag":["1p"],"eksamen":"h23","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":1}],"poeng":null,"title":"Modell for antall fiskere","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/modell-for-antall-fiskere/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"dg-publish":true,"temaer":["regresjon","lineær vekst","stigningstall"],"fag":["1p"],"eksamen":"h23","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":1}],"poeng":null,"title":"Modell for antall fiskere","status":1,"source":null,"todo":null,"permalink":"/modell-for-antall-fiskere/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"temaer":["regresjon","lineær vekst","stigningstall"],"fag":["1p"],"eksamen":"h23","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":1}],"poeng":null,"title":"Modell for antall fiskere","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -18,4 +18,7 @@ Tabellen nedenfor viser antall personer i Norge som hadde fiske som hovedyrke no
 
 >[!question]- Fasit
 >
->[[Løsningsforslag 1P eksamen H2023#2-1\|Løsningsforslag 1P eksamen H2023#2-1]]
+> a) $F(x) = 66\,360 \cdot 0{,}9714^{x}$
+> b) Ca. 3 658 fiskere i 2050
+> c) $a \approx -477$ fiskere per år
+> [[Løsningsforslag/Løsningsforslag 1P eksamen H2023#Oppgave 2-1\|Løsningsforslag 1P eksamen H2023#Oppgave 2-1]]

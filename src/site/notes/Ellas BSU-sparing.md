@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-03","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["sparing","excel"],"fag":["1p-y el"],"eksamen":"h25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":3}],"title":"Ellas BSU-sparing","source":null,"todo":null,"status":3,"permalink":"/ellas-bsu-sparing/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-03","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["sparing","excel"],"fag":["1p-y el"],"eksamen":"h25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":3}],"title":"Ellas BSU-sparing","source":null,"todo":null,"status":3,"permalink":"/ellas-bsu-sparing/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-03","modified":"2026-03-15","aliases":[],"temaer":["sparing","excel"],"fag":["1p-y el"],"eksamen":"h25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":3}],"title":"Ellas BSU-sparing","source":null,"todo":null,"status":3}}
 ---
 
 

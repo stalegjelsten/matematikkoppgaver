@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":[],"dg-publish":true,"temaer":["hypotesetest","standard normalfordeling","normalfordeling"],"fag":["s2"],"eksamen":"v25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":6}],"title":"Hypotesetest bensin","source":null,"todo":null,"status":3,"permalink":"/hypotesetest-bensin/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":[],"dg-publish":true,"temaer":["hypotesetest","standard normalfordeling","normalfordeling"],"fag":["s2"],"eksamen":"v25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":6}],"title":"Hypotesetest bensin","source":null,"todo":null,"status":3,"permalink":"/hypotesetest-bensin/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":[],"temaer":["hypotesetest","standard normalfordeling","normalfordeling"],"fag":["s2"],"eksamen":"v25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":6}],"title":"Hypotesetest bensin","source":null,"todo":null,"status":3}}
 ---
 
 

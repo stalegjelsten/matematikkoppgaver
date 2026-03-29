@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-16","modified":"2026-03-16","aliases":[],"dg-publish":true,"temaer":["formler","prosentregning"],"fag":["1p-y el"],"eksamen":"h24","del":1,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":3}],"title":"Merverdiavgift i Frankrike","status":1,"source":null,"todo":null,"permalink":"/merverdiavgift-i-frankrike/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-16","modified":"2026-03-16","aliases":[],"dg-publish":true,"temaer":["formler","prosentregning"],"fag":["1p-y el"],"eksamen":"h24","del":1,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":3}],"title":"Merverdiavgift i Frankrike","status":1,"source":null,"todo":null,"permalink":"/merverdiavgift-i-frankrike/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-16","modified":"2026-03-16","aliases":[],"temaer":["formler","prosentregning"],"fag":["1p-y el"],"eksamen":"h24","del":1,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":3}],"title":"Merverdiavgift i Frankrike","status":1,"source":null,"todo":null}}
 ---
 
 

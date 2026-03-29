@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"dg-publish":true,"temaer":["geometrisk vekst","rekker","programmering"],"fag":["1p"],"eksamen":"h23","del":2,"oppgave":6,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":6}],"poeng":null,"title":"Linjestykker og geometrisk vekst","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/linjestykker-og-geometrisk-vekst/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"dg-publish":true,"temaer":["geometrisk vekst","rekker","programmering"],"fag":["1p","1t"],"eksamen":"h23","del":2,"oppgave":6,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":6},{"fag":"1t","del":2,"oppgave":3}],"poeng":null,"title":"Linjestykker og geometrisk vekst","status":3,"source":null,"todo":null,"permalink":"/linjestykker-og-geometrisk-vekst/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"temaer":["geometrisk vekst","rekker","programmering"],"fag":["1p","1t"],"eksamen":"h23","del":2,"oppgave":6,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":6},{"fag":"1t","del":2,"oppgave":3}],"poeng":null,"title":"Linjestykker og geometrisk vekst","status":3,"source":null,"todo":null}}
 ---
 
 
@@ -19,4 +19,7 @@ Skissen nedenfor viser de 16 første linjestykkene i figuren. Lengden av et linj
 
 >[!question]- Fasit
 >
->[[Løsningsforslag 1P eksamen H2023#2-6\|Løsningsforslag 1P eksamen H2023#2-6]]
+>a) 569,5 cm
+>b) 22 linjestykker
+>c) 0,52 %
+>[[Løsningsforslag/Løsningsforslag 1P eksamen H2023#Oppgave 2-6\|Løsningsforslag 1P eksamen H2023#Oppgave 2-6]]

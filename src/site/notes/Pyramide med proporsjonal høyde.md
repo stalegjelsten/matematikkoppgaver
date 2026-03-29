@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-24","aliases":[],"dg-publish":true,"temaer":["geometri","proporsjonalitet"],"fag":["1p"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":4}],"title":"Pyramide med proporsjonal høyde","status":3,"source":null,"todo":null,"permalink":"/pyramide-med-proporsjonal-hoyde/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-24","aliases":[],"dg-publish":true,"temaer":["geometri","proporsjonalitet"],"fag":["1p"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":4}],"title":"Pyramide med proporsjonal høyde","status":3,"source":null,"todo":null,"permalink":"/pyramide-med-proporsjonal-hoyde/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-24","aliases":[],"temaer":["geometri","proporsjonalitet"],"fag":["1p"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":4}],"title":"Pyramide med proporsjonal høyde","status":3,"source":null,"todo":null}}
 ---
 
 

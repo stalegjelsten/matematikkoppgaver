@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["eksponentiell vekst","eksponentialfunksjoner","programmering"],"fag":["2p-y"],"eksamen":"h23","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":7}],"title":"Utslipp geometrisk rekke og programmering","status":0,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"permalink":"/utslipp-geometrisk-rekke-og-programmering/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["eksponentiell vekst","eksponentialfunksjoner","programmering"],"fag":["2p-y"],"eksamen":"h23","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":7}],"title":"Utslipp geometrisk rekke og programmering","status":0,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"permalink":"/utslipp-geometrisk-rekke-og-programmering/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["eksponentiell vekst","eksponentialfunksjoner","programmering"],"fag":["2p-y"],"eksamen":"h23","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":7}],"title":"Utslipp geometrisk rekke og programmering","status":0,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"]}}
 ---
 
 
@@ -24,4 +24,5 @@ Ole påstår at $T = \dfrac{u}{p} \cdot 100$ er en formel for å regne ut det sa
 
 >[!question]- Fasit
 >
->[[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2023#2-7\|Løsningsforslag 2P-Y eksamen H2023#2-7]]
+> a) 40 + 38 + 36,1 = 114,1 tonn ✓  b) Program med løkke → 800 tonn  c) T = 20u  d) Oles formel T = u/p · 100 er riktig
+> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2023#Oppgave 2-7\|Løsningsforslag 2P-Y eksamen H2023#Oppgave 2-7]]

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-28","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["trigonometri","geometri"],"fag":["2p"],"eksamen":"h23","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":5}],"poeng":null,"title":"Trekant med to løsninger","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/trekant-med-to-losninger/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2023-11-28","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["trigonometri","geometri"],"fag":["2p"],"eksamen":"h23","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":5}],"poeng":null,"title":"Trekant med to løsninger","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/trekant-med-to-losninger/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-28","modified":"2026-03-26","aliases":[],"temaer":["trigonometri","geometri"],"fag":["2p"],"eksamen":"h23","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":5}],"poeng":null,"title":"Trekant med to løsninger","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

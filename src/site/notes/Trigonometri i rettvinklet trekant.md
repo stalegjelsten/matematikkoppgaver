@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["trigonometri","bevis"],"fag":["1t"],"eksamen":"v24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":1}],"poeng":2,"title":"Trigonometri i rettvinklet trekant","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/trigonometri-i-rettvinklet-trekant/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["trigonometri","bevis"],"fag":["1t"],"eksamen":"v24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":1}],"poeng":2,"title":"Trigonometri i rettvinklet trekant","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/trigonometri-i-rettvinklet-trekant/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-26","aliases":[],"temaer":["trigonometri","bevis"],"fag":["1t"],"eksamen":"v24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":1}],"poeng":2,"title":"Trigonometri i rettvinklet trekant","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

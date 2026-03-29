@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["prosent","utforskning"],"fag":["2p-y","2p"],"eksamen":"h24","del":2,"oppgave":3,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":3},{"fag":"2p","del":2,"oppgave":3}],"title":"Argumenter for at prosentregnestykker gir samme svar","source":null,"todo":null,"status":1,"permalink":"/argumenter-for-at-prosentregnestykker-gir-samme-svar/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["prosent","utforskning"],"fag":["2p-y","2p"],"eksamen":"h24","del":2,"oppgave":3,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":3},{"fag":"2p","del":2,"oppgave":3}],"title":"Argumenter for at prosentregnestykker gir samme svar","source":null,"todo":null,"status":1,"permalink":"/argumenter-for-at-prosentregnestykker-gir-samme-svar/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"temaer":["prosent","utforskning"],"fag":["2p-y","2p"],"eksamen":"h24","del":2,"oppgave":3,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":3},{"fag":"2p","del":2,"oppgave":3}],"title":"Argumenter for at prosentregnestykker gir samme svar","source":null,"todo":null,"status":1}}
 ---
 
 

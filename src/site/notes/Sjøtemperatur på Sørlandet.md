@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-01-18","modified":"2024-01-18","aliases":null,"dg-publish":true,"temaer":["funksjoner","gjennomsnittlig vekstfart"],"fag":["2p-y"],"eksamen":"h23","del":2,"oppgave":1,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":1}],"title":"Sjøtemperatur på Sørlandet","source":null,"todo":["fasit","løsningsforslag"],"permalink":"/sjotemperatur-pa-sorlandet/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-01-18","modified":"2024-01-18","aliases":null,"dg-publish":true,"temaer":["funksjoner","gjennomsnittlig vekstfart"],"fag":["2p-y"],"eksamen":"h23","del":2,"oppgave":1,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":1}],"title":"Sjøtemperatur på Sørlandet","source":null,"todo":["fasit","løsningsforslag"],"status":3,"permalink":"/sjotemperatur-pa-sorlandet/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-01-18","modified":"2024-01-18","aliases":null,"temaer":["funksjoner","gjennomsnittlig vekstfart"],"fag":["2p-y"],"eksamen":"h23","del":2,"oppgave":1,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":1}],"title":"Sjøtemperatur på Sørlandet","source":null,"todo":["fasit","løsningsforslag"],"status":3}}
 ---
 
 

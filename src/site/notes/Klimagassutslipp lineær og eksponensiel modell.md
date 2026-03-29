@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["modellering","lineær vekst","eksponentialfunksjoner"],"fag":["2p-y"],"eksamen":"h23","del":2,"oppgave":8,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":8}],"title":"Klimagassutslipp lineær og eksponensiel modell","status":0,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"permalink":"/klimagassutslipp-lineaer-og-eksponensiel-modell/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["modellering","lineær vekst","eksponentialfunksjoner"],"fag":["2p-y"],"eksamen":"h23","del":2,"oppgave":8,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":8}],"title":"Klimagassutslipp lineær og eksponensiel modell","status":0,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"permalink":"/klimagassutslipp-lineaer-og-eksponensiel-modell/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["modellering","lineær vekst","eksponentialfunksjoner"],"fag":["2p-y"],"eksamen":"h23","del":2,"oppgave":8,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":8}],"title":"Klimagassutslipp lineær og eksponensiel modell","status":0,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"]}}
 ---
 
 
@@ -25,4 +25,6 @@ Norge har som mål å bli et lavutslippssamfunn innen 2050. Da må klimagassutsl
 
 >[!question]- Fasit
 >
->[[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2023#2-8\|Løsningsforslag 2P-Y eksamen H2023#2-8]]
+> a) $A(x) = 48{,}9 - 3{,}23 \cdot x$ (lineær), $F(x) = 48{,}9 \cdot 0{,}9104^{x}$ (eksponentiell, ca. 9 % reduksjon/år)
+> b) Lineær modell gir negativt utslipp i 2050 (urealistisk). Eksponentiell modell gir ca. 3,53 mill. tonn i 2050 ≈ 93 % reduksjon fra 1990, som er innenfor 90–95 %-målet.
+> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2023#Oppgave 2-8\|Løsningsforslag 2P-Y eksamen H2023#Oppgave 2-8]]

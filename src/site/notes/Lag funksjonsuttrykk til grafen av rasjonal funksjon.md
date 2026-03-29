@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"temaer":["rasjonale funksjoner","funksjoner","utforskning","tolke grafer","asymptoter"],"aliases":null,"del":1,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":4}],"fag":["1t"],"eksamen":"v23","dg-publish":true,"title":"Lag funksjonsuttrykk til grafen av rasjonal funksjon","date":"2023-05-31","modified":"2023-05-31","status":3,"permalink":"/lag-funksjonsuttrykk-til-grafen-av-rasjonal-funksjon/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"temaer":["rasjonale funksjoner","funksjoner","utforskning","tolke grafer","asymptoter"],"aliases":null,"del":1,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":4}],"fag":["1t"],"eksamen":"v23","dg-publish":true,"title":"Lag funksjonsuttrykk til grafen av rasjonal funksjon","date":"2023-05-31","modified":"2023-05-31","status":3,"permalink":"/lag-funksjonsuttrykk-til-grafen-av-rasjonal-funksjon/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"temaer":["rasjonale funksjoner","funksjoner","utforskning","tolke grafer","asymptoter"],"aliases":null,"del":1,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":4}],"fag":["1t"],"eksamen":"v23","title":"Lag funksjonsuttrykk til grafen av rasjonal funksjon","date":"2023-05-31","modified":"2023-05-31","status":3}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["formler","modellering","likninger"],"fag":["1p"],"eksamen":"v24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":4}],"poeng":4,"title":"Bremselengde og fart","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/bremselengde-og-fart/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["formler","modellering","likninger"],"fag":["1p"],"eksamen":"v24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":4}],"poeng":4,"title":"Bremselengde og fart","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/bremselengde-og-fart/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-28","aliases":[],"temaer":["formler","modellering","likninger"],"fag":["1p"],"eksamen":"v24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":4}],"poeng":4,"title":"Bremselengde og fart","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 
@@ -19,4 +19,4 @@ På nettsidene til Viking Redningstjeneste står det at en bil som kjører i $70
 
 >[!question]- Fasit
 >
->[[Løsningsforslag 1P eksamen V2024#1-4\|Løsningsforslag 1P eksamen V2024#1-4]]
+>[[Løsningsforslag/Løsningsforslag 1P eksamen V2024#1-4\|Løsningsforslag 1P eksamen V2024#1-4]]

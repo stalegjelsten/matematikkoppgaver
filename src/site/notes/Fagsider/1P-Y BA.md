@@ -1,5 +1,5 @@
 ---
-{"tags":["fagside"],"temaer":null,"aliases":[],"del":null,"oppgave":null,"fag":"1p-y ba","eksamen":null,"dg-publish":true,"title":"1P-Y BA","date":"2026-01-28","modified":"2026-03-14","permalink":"/fagsider/1-p-y-ba/","dgPassFrontmatter":true}
+{"tags":["fagside"],"temaer":null,"aliases":[],"del":null,"oppgave":null,"fag":"1p-y ba","eksamen":null,"dg-publish":true,"title":"1P-Y BA","date":"2026-01-28","modified":"2026-03-14","permalink":"/fagsider/1-p-y-ba/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["fagside"],"temaer":null,"aliases":[],"del":null,"oppgave":null,"fag":"1p-y ba","eksamen":null,"title":"1P-Y BA","date":"2026-01-28","modified":"2026-03-14"}}
 ---
 
 

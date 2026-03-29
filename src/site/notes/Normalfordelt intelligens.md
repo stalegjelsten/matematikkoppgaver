@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["oppgave","standard normalfordeling","normalfordeling","sannsynlighet","s2","del1"],"temaer":["standard normalfordeling","normalfordeling","sannsynlighet"],"alias":[],"del":1,"oppgave":8,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":8}],"fag":"s2","eksamen":"e15","dg-publish":true,"title":"Normalfordelt intelligens","date":"2023-05-31","modified":"2024-03-21","permalink":"/normalfordelt-intelligens/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["oppgave","standard normalfordeling","normalfordeling","sannsynlighet","s2","del1"],"temaer":["standard normalfordeling","normalfordeling","sannsynlighet"],"alias":[],"del":1,"oppgave":8,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":8}],"fag":"s2","eksamen":"e15","dg-publish":true,"title":"Normalfordelt intelligens","date":"2023-05-31","modified":"2024-03-21","permalink":"/normalfordelt-intelligens/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":null,"tags":["oppgave","standard normalfordeling","normalfordeling","sannsynlighet","s2","del1"],"temaer":["standard normalfordeling","normalfordeling","sannsynlighet"],"alias":[],"del":1,"oppgave":8,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":8}],"fag":"s2","eksamen":"e15","title":"Normalfordelt intelligens","date":"2023-05-31","modified":"2024-03-21"}}
 ---
 
 

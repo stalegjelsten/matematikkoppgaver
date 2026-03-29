@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["likningssystem","likninger"],"fag":["2p"],"eksamen":"v24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":4}],"poeng":2,"title":"Ispinner og mineralvann likningssystem","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/ispinner-og-mineralvann-likningssystem/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["likningssystem","likninger"],"fag":["2p"],"eksamen":"v24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":4}],"poeng":2,"title":"Ispinner og mineralvann likningssystem","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/ispinner-og-mineralvann-likningssystem/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"temaer":["likningssystem","likninger"],"fag":["2p"],"eksamen":"v24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":4}],"poeng":2,"title":"Ispinner og mineralvann likningssystem","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

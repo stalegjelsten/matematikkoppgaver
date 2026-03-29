@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["grenseverdi"],"fag":["s1"],"eksamen":"v25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":4}],"poeng":4,"title":"Grenseverdier med algebraisk forenkling","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/grenseverdier-med-algebraisk-forenkling/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["grenseverdi"],"fag":["s1"],"eksamen":"v25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":4}],"poeng":4,"title":"Grenseverdier med algebraisk forenkling","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/grenseverdier-med-algebraisk-forenkling/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"temaer":["grenseverdi"],"fag":["s1"],"eksamen":"v25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":4}],"poeng":4,"title":"Grenseverdier med algebraisk forenkling","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

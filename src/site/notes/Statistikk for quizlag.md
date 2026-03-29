@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["statistikk","utforskning"],"fag":["2p-y","2p"],"eksamen":"h24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":5},{"fag":"2p","del":2,"oppgave":4}],"title":null,"source":null,"todo":null,"status":1,"permalink":"/statistikk-for-quizlag/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["statistikk","utforskning"],"fag":["2p-y","2p"],"eksamen":"h24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":5},{"fag":"2p","del":2,"oppgave":4}],"title":null,"source":null,"todo":null,"status":1,"permalink":"/statistikk-for-quizlag/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"temaer":["statistikk","utforskning"],"fag":["2p-y","2p"],"eksamen":"h24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":5},{"fag":"2p","del":2,"oppgave":4}],"title":null,"source":null,"todo":null,"status":1}}
 ---
 
 

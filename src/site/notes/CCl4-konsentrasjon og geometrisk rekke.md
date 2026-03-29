@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["rekker","geometrisk vekst","modellering"],"fag":["r2"],"eksamen":"h25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":3}],"title":"CCl4-konsentrasjon og geometrisk rekke","status":0,"source":null,"todo":null,"permalink":"/c-cl4-konsentrasjon-og-geometrisk-rekke/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["rekker","geometrisk vekst","modellering"],"fag":["r2"],"eksamen":"h25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":3}],"title":"CCl4-konsentrasjon og geometrisk rekke","status":0,"source":null,"todo":null,"permalink":"/c-cl4-konsentrasjon-og-geometrisk-rekke/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"temaer":["rekker","geometrisk vekst","modellering"],"fag":["r2"],"eksamen":"h25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":3}],"title":"CCl4-konsentrasjon og geometrisk rekke","status":0,"source":null,"todo":null}}
 ---
 
 

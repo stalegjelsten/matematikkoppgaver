@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["trigonometri","likninger"],"fag":["r2"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":4}],"title":"Trigonometriske likninger og antall løsninger","status":1,"source":null,"todo":null,"permalink":"/trigonometriske-likninger-og-antall-losninger/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["trigonometri","likninger"],"fag":["r2"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":4}],"title":"Trigonometriske likninger og antall løsninger","status":1,"source":null,"todo":null,"permalink":"/trigonometriske-likninger-og-antall-losninger/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"temaer":["trigonometri","likninger"],"fag":["r2"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":4}],"title":"Trigonometriske likninger og antall løsninger","status":1,"source":null,"todo":null}}
 ---
 
 

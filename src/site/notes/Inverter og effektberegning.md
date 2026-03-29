@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["elektrofag","effekttrekant","formler"],"fag":["1p-y el"],"eksamen":"h23","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":1}],"title":"Inverter og effektberegning","status":0,"source":null,"todo":null,"permalink":"/inverter-og-effektberegning/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["elektrofag","effekttrekant","formler"],"fag":["1p-y el"],"eksamen":"h23","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":1}],"title":"Inverter og effektberegning","status":0,"source":null,"todo":null,"permalink":"/inverter-og-effektberegning/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"temaer":["elektrofag","effekttrekant","formler"],"fag":["1p-y el"],"eksamen":"h23","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":1}],"title":"Inverter og effektberegning","status":0,"source":null,"todo":null}}
 ---
 
 

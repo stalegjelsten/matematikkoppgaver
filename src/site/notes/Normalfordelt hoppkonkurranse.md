@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":null,"dg-publish":true,"temaer":["normalfordeling","simulering","programmering"],"fag":["s2"],"eksamen":"v25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":2}],"title":"Normalfordelt hoppkonkurranse","source":"Eksamen S2 vår 2025","todo":null,"status":3,"permalink":"/normalfordelt-hoppkonkurranse/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":null,"dg-publish":true,"temaer":["normalfordeling","simulering","programmering"],"fag":["s2"],"eksamen":"v25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":2}],"title":"Normalfordelt hoppkonkurranse","source":"Eksamen S2 vår 2025","todo":null,"status":3,"permalink":"/normalfordelt-hoppkonkurranse/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":null,"temaer":["normalfordeling","simulering","programmering"],"fag":["s2"],"eksamen":"v25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":2}],"title":"Normalfordelt hoppkonkurranse","source":"Eksamen S2 vår 2025","todo":null,"status":3}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-01-28","modified":"2024-01-28","aliases":null,"dg-publish":true,"temaer":["sannsynlighet","diskrete sannsynlighetsfordelinger","forventningsverdi","varians"],"fag":["s2"],"eksamen":"h23","del":1,"oppgave":"5","oppgavenummer":[{"fag":"s2","del":1,"oppgave":5}],"title":"Tunge kuler i kasse","source":null,"todo":["fasit","løsningsforslag"],"status":3,"permalink":"/tunge-kuler-i-kasse/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-01-28","modified":"2024-01-28","aliases":null,"dg-publish":true,"temaer":["sannsynlighet","diskrete sannsynlighetsfordelinger","forventningsverdi","varians"],"fag":["s2"],"eksamen":"h23","del":1,"oppgave":"5","oppgavenummer":[{"fag":"s2","del":1,"oppgave":5}],"title":"Tunge kuler i kasse","source":null,"todo":["fasit","løsningsforslag"],"status":3,"permalink":"/tunge-kuler-i-kasse/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-01-28","modified":"2024-01-28","aliases":null,"temaer":["sannsynlighet","diskrete sannsynlighetsfordelinger","forventningsverdi","varians"],"fag":["s2"],"eksamen":"h23","del":1,"oppgave":"5","oppgavenummer":[{"fag":"s2","del":1,"oppgave":5}],"title":"Tunge kuler i kasse","source":null,"todo":["fasit","løsningsforslag"],"status":3}}
 ---
 
 

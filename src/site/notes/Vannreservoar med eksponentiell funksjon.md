@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["eksponentialfunksjoner","derivasjon","modellering"],"fag":["r1"],"eksamen":"h24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":1}],"poeng":6,"title":"Vannreservoar med eksponentiell funksjon","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/vannreservoar-med-eksponentiell-funksjon/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["eksponentialfunksjoner","derivasjon","modellering"],"fag":["r1"],"eksamen":"h24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":1}],"poeng":6,"title":"Vannreservoar med eksponentiell funksjon","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/vannreservoar-med-eksponentiell-funksjon/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["eksponentialfunksjoner","derivasjon","modellering"],"fag":["r1"],"eksamen":"h24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":1}],"poeng":6,"title":"Vannreservoar med eksponentiell funksjon","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":null,"temaer":null,"aliases":[],"del":null,"oppgave":null,"fag":null,"eksamen":null,"dg-publish":true,"title":"Offlineversjon av dette nettstedet","date":"2025-09-15","modified":"2025-09-25","permalink":"/offlineversjon-av-dette-nettstedet/","dgPassFrontmatter":true}
+{"tags":null,"temaer":null,"aliases":[],"del":null,"oppgave":null,"fag":null,"eksamen":null,"dg-publish":true,"title":"Offlineversjon av dette nettstedet","date":"2025-09-15","modified":"2025-09-25","permalink":"/offlineversjon-av-dette-nettstedet/","dgPassFrontmatter":true,"dg-note-properties":{"tags":null,"temaer":null,"aliases":[],"del":null,"oppgave":null,"fag":null,"eksamen":null,"title":"Offlineversjon av dette nettstedet","date":"2025-09-15","modified":"2025-09-25"}}
 ---
 
 
