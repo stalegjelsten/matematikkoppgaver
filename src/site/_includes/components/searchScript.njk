@@ -450,8 +450,8 @@
         const searchResults = isTagSearch
             ? index.search(searchQuery.substring(1), [{ field: "tags" }])
             : index.search(searchQuery, [
-                { field: "title", limit: 5 },
-                { field: "content", limit: 10 }
+                { field: "title", limit: 20 },
+                { field: "content", limit: 20 }
             ]);
 
         const getByField = (field) => {
@@ -469,10 +469,19 @@
         const dataIds = [...allIds];
         const finalResults = dataIds.map((id) => {
             const result = { ...data[id] };
-            result.tags = result.tags.filter((x) => x !== "gardenEntry" && x !== "note");
+            if (result.tags) {
+                result.tags = result.tags.filter((x) => x !== "gardenEntry" && x !== "note");
+            }
             return result;
         });
 
-        return finalResults;
+        // Prioritize topic pages
+        return finalResults.sort((a, b) => {
+            const aIsTema = a.url && a.url.startsWith("/temaer/");
+            const bIsTema = b.url && b.url.startsWith("/temaer/");
+            if (aIsTema && !bIsTema) return -1;
+            if (!aIsTema && bIsTema) return 1;
+            return 0;
+        });
     }
 </script>

@@ -152,6 +152,23 @@ function userEleventySetup(eleventyConfig) {
       .sort((a, b) => a.key.localeCompare(b.key));
   });
 
+  // Returns items that should be included in the search index
+  eleventyConfig.addFilter("filterSearchItems", function(collection) {
+    return collection.filter(p => {
+      const ptags = p.data.tags || [];
+      const tagsArray = Array.isArray(ptags) ? ptags : [ptags];
+      
+      // Include if it's a regular note
+      if (tagsArray.includes("note")) return true;
+      
+      // Include if it's a generated topic page (check permalink or url)
+      const url = p.url || p.data.permalink;
+      if (url && url.startsWith("/temaer/")) return true;
+      
+      return false;
+    });
+  });
+
   eleventyConfig.addCollection("unikeTemaer", function(collectionApi) {
     const temaSet = new Set();
     collectionApi.getAll().forEach(p => {
