@@ -205,3 +205,42 @@ article .callout-fold svg * {
   padding-right: 60px;
 }
 
+/* Equation numbering */
+.numbered-equation {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin: 1em 0;
+}
+.numbered-equation::before {
+  content: "";
+  flex: 1;
+}
+.numbered-equation .eq-content {
+  flex: 0 1 auto;
+  display: flex;
+  justify-content: center;
+  overflow-x: auto;
+}
+.numbered-equation .eq-content mjx-container {
+  margin: 0 !important;
+}
+.numbered-equation .eq-number {
+  flex: 1;
+  text-align: right;
+  font-weight: bold;
+  padding-left: 10px;
+}
+
+.eq-ref {
+  text-decoration: none;
+  font-weight: bold;
+  color: var(--text-accent);
+}
+.eq-ref::before {
+  content: "(";
+}
+.eq-ref::after {
+  content: ")";
+}
+
