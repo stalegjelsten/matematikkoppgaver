@@ -1,0 +1,27 @@
+---
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["enhetskostnad","prosentregning","økonomi"],"fag":["1p-y el"],"eksamen":"v25","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":1}],"title":"Enhetspris og sparing på ris","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/enhetspris-og-sparing-pa-ris/","dgPassFrontmatter":true}
+---
+
+
+# Enhetspris og sparing på ris
+
+Sara skal handle ris i butikken. Hun kan velge mellom to ulike typer.
+
+| Kartong med boil-in-bag-ris | Sekk med ris |
+|---|---|
+| Vekt: 1 kg | Vekt: 4 kg |
+| Pris: 32 kroner | Pris: 80 kroner |
+
+I en kartong med boil-in-bag-ris er 1 kg ris fordelt på 8 poser.
+
+>[!oppgave]
+>a) Hvor mange gram ris er det i hver pose?
+
+I familien til Sara er de to voksne og to barn. Hver person spiser 5 kg ris hvert år.
+
+>[!oppgave]
+>b) Hvor mange kroner sparer familien i løpet av ett år dersom de kjøper sekker med ris i stedet for kartonger med boil-in-bag-ris?
+
+>[!question]- Fasit
+>
+>[[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen V2025#1-1\|Løsningsforslag 1P-Y EL eksamen V2025#1-1]]

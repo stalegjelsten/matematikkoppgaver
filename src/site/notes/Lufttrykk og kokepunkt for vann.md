@@ -1,14 +1,15 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["potensfunksjon","eksponentiell vekst","modellering"],"fag":["1t","1p"],"eksamen":"v24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":5},{"fag":"1p","del":2,"oppgave":6}],"poeng":8,"title":"Lufttrykk og kokepunkt for vann","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/lufttrykk-og-kokepunkt-for-vann/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-29","aliases":[],"dg-publish":true,"temaer":["potensfunksjon","eksponentiell vekst","modellering"],"fag":["1t","1p"],"eksamen":"v24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":5},{"fag":"1p","del":2,"oppgave":6}],"poeng":8,"title":"Lufttrykk og kokepunkt for vann","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/lufttrykk-og-kokepunkt-for-vann/","dgPassFrontmatter":true}
 ---
 
 
 # Lufttrykk og kokepunkt for vann
 
->[!yellow-box]
->Jo høyere over havet vi befinner oss, jo lavere er lufttrykket.
-
-Lufttrykk måles ofte i hektopascal (hPa). Lufttrykket ved havets overflate er ca. 1000 hPa.
+> [!tip] Info om lufttrykk
+>
+> - Lufttrykk måles ofte i hektopascal (hPa).
+> - Jo høyere over havet vi befinner oss, jo lavere er lufttrykket.
+> - Lufttrykket ved havets overflate er ca. 1000 hPa.
 
 Når lufttrykket er lavere enn 1000 hPa, vil kokepunktet for vann være lavere enn $100 \degree\mathrm{C}$. Se tabellen nedenfor.
 
