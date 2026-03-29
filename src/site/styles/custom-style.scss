@@ -87,6 +87,48 @@
   font-weight: 700;
 }
 
+/* Fargebokser: green-box, blue-box, yellow-box */
+/* Tydelig ramme, men bakgrunnsfargen er nesten usynlig (svært lav opasitet) */
+
+.callout[data-callout="green-box"] {
+  --callout-color: 8, 185, 78;
+  background-color: rgba(8, 185, 78, 0.1) !important;
+  background: none !important;
+  border: 2px solid rgba(8, 185, 78, 0.7);
+  border-radius: 5px;
+  padding: 1rem 1.5rem;
+}
+
+.callout[data-callout="blue-box"] {
+  --callout-color: 8, 109, 221;
+  background-color: rgba(8, 109, 221, 0.1) !important;
+  background: none !important;
+  border: 2px solid rgba(8, 109, 221, 0.7);
+  border-radius: 5px;
+  padding: 1rem 1.5rem;
+}
+
+.callout[data-callout="yellow-box"] {
+  --callout-color: 224, 172, 0;
+  background-color: rgba(224, 172, 0, 0.1) !important;
+  background: none !important;
+  border: 2px solid rgba(224, 172, 0, 0.7);
+  border-radius: 5px;
+  padding: 1rem 1.5rem;
+}
+
+/* Skjul tittel og ikon for fargebokser */
+.callout[data-callout="green-box"] .callout-title,
+.callout[data-callout="blue-box"] .callout-title,
+.callout[data-callout="yellow-box"] .callout-title {
+  display: none;
+}
+
+/* Fjern toppmargin for sideinnhold */
+.content {
+  padding-top: 0 !important;
+}
+
 /* Skjul tags i toppen av siden */
 .header-tags {
   display: none;
@@ -112,5 +154,93 @@ article .callout-fold svg * {
   display: unset;
   margin-left: unset;
   margin-right: unset;
+}
+
+/* Kopieringsknapp for kodesnutter */
+.markdown-rendered pre:not(:hover) > button.copy-code-button {
+  display: block !important;
+}
+
+.markdown-rendered button.copy-code-button {
+  background-color: transparent !important;
+  border: none !important;
+  color: transparent !important;
+  cursor: pointer;
+  z-index: 10;
+  position: absolute;
+  top: 0;
+  right: 0;
+  /* Juster størrelse for å dekke den eksisterende etiketten */
+  width: 100px;
+  height: 40px;
+  outline: none;
+}
+
+/* Vis "KOPIERT" over alt annet når den er trykket */
+.markdown-rendered button.copy-code-button.is-copied {
+  background-color: var(--background-secondary) !important;
+  border: 1px solid var(--code-border-color) !important;
+  color: var(--text-normal) !important;
+  font-size: 10px;
+  font-weight: bold;
+  height: auto;
+  width: auto;
+  padding: 4px 8px;
+  top: 6px;
+  right: 6px;
+  border-radius: 4px;
+}
+
+.markdown-rendered button.copy-code-button.is-copied::after {
+  content: "KOPIERT";
+}
+
+.markdown-rendered pre {
+  position: relative;
+}
+
+/* Forhindre at knappen overlapper tekst hvis koden er kort */
+.markdown-rendered pre code {
+  display: block;
+  padding-right: 60px;
+}
+
+/* Equation numbering */
+.numbered-equation {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin: 1em 0;
+}
+.numbered-equation::before {
+  content: "";
+  flex: 1;
+}
+.numbered-equation .eq-content {
+  flex: 0 1 auto;
+  display: flex;
+  justify-content: center;
+  overflow-x: auto;
+}
+.numbered-equation .eq-content mjx-container {
+  margin: 0 !important;
+}
+.numbered-equation .eq-number {
+  flex: 1;
+  text-align: right;
+  font-weight: bold;
+  padding-left: 10px;
+}
+
+.eq-ref {
+  text-decoration: none;
+  font-weight: bold;
+  color: var(--text-accent);
+}
+.eq-ref::before {
+  content: "(";
+}
+.eq-ref::after {
+  content: ")";
 }
 

@@ -140,6 +140,15 @@ module.exports = function(eleventyConfig) {
         skipHtmlTags: { "[-]": ["pre"] },
       },
     })
+    .use(function(md) {
+      const origMathBlock = md.renderer.rules.math_block;
+      if (origMathBlock) {
+        md.renderer.rules.math_block = (tokens, idx, options, env, self) => {
+          tokens[idx].content = tokens[idx].content.replace(/^> /gm, "");
+          return origMathBlock(tokens, idx, options, env, self);
+        };
+      }
+    })
     .use(require("markdown-it-attrs"))
     .use(require("markdown-it-task-checkbox"), {
       disabled: true,
@@ -484,6 +493,9 @@ module.exports = function(eleventyConfig) {
     transformCalloutBlockquotes(parsed.querySelectorAll("blockquote"));
     return str && parsed.innerHTML;
   });
+
+  const equationNumberingTransform = require("./src/helpers/equation-numbering");
+  eleventyConfig.addTransform("equation-numbering", equationNumberingTransform);
 
   function fillPictureSourceSets(src, cls, alt, meta, width, imageTag) {
     imageTag.tagName = "picture";

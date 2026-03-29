@@ -31,9 +31,7 @@
           <div class="header-tags">
             {% for tag in tags %}
               {% if tag != 'gardenEntry' and tag !='note' %}
-                <a class="tag" onclick="toggleTagSearch(this)">
-                  #{{tag}}
-                </a>
+                #{{tag}}
               {% endif %}
             {% endfor %}
           </div>
@@ -52,7 +50,9 @@
       {% for imp in dynamics.index.beforeContent %}
         {% include imp %}
       {% endfor %}
-      {{ content | hideDataview | taggify | link | safe}}
+      <article>
+        {{ content | hideDataview | taggify | link | safe}}
+      </article>
       {% for imp in dynamics.common.afterContent %}
         {% include imp %}
       {% endfor %}

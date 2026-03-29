@@ -1,4 +1,29 @@
 <script>
+    window.copyCode = (button) => {
+        const pre = button.closest("pre");
+        const codeElement = pre ? pre.querySelector("code") : null;
+        if (!codeElement) return;
+
+        // Vi må fjerne linjenummer hvis de finnes i teksten (span.line-numbers-col)
+        // codeElement.innerText i Prism med linjenummer kan inkludere dem.
+        // En tryggere måte er å klone og fjerne linjenummer-kolonnen før kopiering.
+        let text = "";
+        const lineNumbers = pre.querySelector(".line-numbers-col");
+        if (lineNumbers) {
+            const clone = codeElement.cloneNode(true);
+            text = clone.innerText;
+        } else {
+            text = codeElement.innerText;
+        }
+
+        navigator.clipboard.writeText(text).then(() => {
+            button.classList.add("is-copied");
+            setTimeout(() => {
+                button.classList.remove("is-copied");
+            }, 2000);
+        });
+    };
+
     // Create callout icons
     window.addEventListener("load", () => {
         document.querySelectorAll(".callout").forEach((elem) => {
