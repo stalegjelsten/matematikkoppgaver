@@ -144,7 +144,16 @@ module.exports = function(eleventyConfig) {
       const origMathBlock = md.renderer.rules.math_block;
       if (origMathBlock) {
         md.renderer.rules.math_block = (tokens, idx, options, env, self) => {
+          // Strip blockquote markers
           tokens[idx].content = tokens[idx].content.replace(/^> /gm, "");
+
+          // If the content ends with $$ followed by optional label, strip it.
+          // markdown-it-mathjax3 includes the ending $$ in content if it's on the same line as opening.
+          tokens[idx].content = tokens[idx].content.replace(/\$\$\s*(\{#eq:[\w-]+\})?\s*$/g, "");
+
+          // Also handle cases where only the label is at the end
+          tokens[idx].content = tokens[idx].content.replace(/\{#eq:[\w-]+\}\s*$/g, "");
+
           return origMathBlock(tokens, idx, options, env, self);
         };
       }
