@@ -1,0 +1,7 @@
+/* Tving all display-matte ($$ $$) til å vises sentrert som blokk */
+mjx-container[display="true"] {
+  display: block !important;
+  text-align: center !important;
+  margin: 0.5em auto !important;
+  overflow-x: auto;
+}

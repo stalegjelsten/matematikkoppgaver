@@ -1,0 +1,72 @@
+<script>
+(function () {
+  var btn = document.getElementById("toggle-losninger");
+  if (!btn) return;
+
+  var shown = false;
+  var wrappers = [];
+
+  function initExamPage() {
+    document.querySelectorAll(".transclusion .markdown-embed").forEach(function (embed) {
+      var nodes = Array.from(embed.childNodes);
+      var state = null; // null | "fasit" | "losning"
+      var losningNodes = [];
+
+      nodes.forEach(function (node) {
+        if (node.nodeType !== 1) return;
+
+        if (node.tagName === "H2") {
+          var text = node.textContent.trim();
+          if (text === "Fasit") {
+            state = "fasit";
+            node.style.display = "none";
+          } else if (text === "Løsningsforslag") {
+            state = "losning";
+            // H2 → H3 for korrekt semantisk hierarki
+            var h3 = document.createElement("h3");
+            h3.textContent = node.textContent;
+            h3.className = node.className;
+            node.parentNode.replaceChild(h3, node);
+            losningNodes.push(h3);
+          } else {
+            state = null;
+          }
+        } else if (node.tagName === "H3" && state === "losning") {
+          // H3 → H4 for underoverskrifter i løsningsforslaget
+          var h4 = document.createElement("h4");
+          h4.textContent = node.textContent;
+          h4.className = node.className;
+          node.parentNode.replaceChild(h4, node);
+          losningNodes.push(h4);
+        } else if (state === "fasit") {
+          node.style.display = "none";
+        } else if (state === "losning") {
+          losningNodes.push(node);
+        }
+      });
+
+      // Pakk løsningsforslaget inn i en wrapper-div
+      if (losningNodes.length > 0) {
+        var wrapper = document.createElement("div");
+        wrapper.className = "losningsforslag-innhold";
+        embed.insertBefore(wrapper, losningNodes[0]);
+        losningNodes.forEach(function (el) { wrapper.appendChild(el); });
+        wrappers.push(wrapper);
+      }
+    });
+
+    // Skjul løsningsforslag ved innlasting
+    wrappers.forEach(function (w) { w.style.display = "none"; });
+  }
+
+  window.addEventListener("load", initExamPage);
+
+  btn.addEventListener("click", function (e) {
+    e.preventDefault();
+    shown = !shown;
+    wrappers.forEach(function (w) { w.style.display = shown ? "" : "none"; });
+    btn.textContent = shown ? "Skjul løsningsforslag" : "Vis løsningsforslag";
+    btn.setAttribute("aria-pressed", shown ? "true" : "false");
+  });
+})();
+</script>

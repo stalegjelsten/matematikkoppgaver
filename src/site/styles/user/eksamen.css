@@ -1,0 +1,87 @@
+/* ===== Eksamenssider ===== */
+
+/* Gjør transclusion-divene usynlige – vis innholdet som om det hører til siden */
+.eksamen-side .transclusion {
+  padding: 0;
+}
+
+.eksamen-side .markdown-embed {
+  background-color: transparent;
+  border: none;
+  padding: 0;
+  font-style: normal;
+  position: static;
+}
+
+/* Skjul oppgavetittelen (h1) inne i transclusions */
+.eksamen-side .transclusion .markdown-embed > h1 {
+  display: none;
+}
+
+/* Skjul ekstern lenke-ikon */
+.eksamen-side .transclusion .markdown-embed-link {
+  display: none;
+}
+
+/* Visuell skillelinje mellom oppgaver – på overskriften, ikke transclusion */
+.eksamen-side article > h2 {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--background-modifier-border);
+}
+
+/* Ingen ekstra avstand mellom overskrift og oppgaveinnhold */
+.eksamen-side article > h2 + .transclusion {
+  margin-top: 0;
+}
+
+/* Venstre-stripe kun på løsningsforslagsdelen */
+.eksamen-side .losningsforslag-innhold {
+  border-left: 3px solid var(--text-accent);
+  padding-left: 1rem;
+  margin-top: 0.75rem;
+}
+
+/* Kontroller-rad */
+.eksamen-kontroller {
+  display: flex;
+  gap: 0.75rem;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 1.5rem;
+}
+
+.eksamen-toggle-btn,
+.eksamen-pdf-btn {
+  border-radius: 6px;
+  padding: 0.5rem 1.25rem;
+  font-size: 0.95rem;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+  transition: filter 0.15s ease;
+  white-space: nowrap;
+}
+
+.eksamen-toggle-btn {
+  /* Fast bredde slik at knappen ikke endrer størrelse når teksten bytter */
+  min-width: 12rem;
+  text-align: center;
+  background-color: var(--interactive-accent);
+  color: var(--text-on-accent) !important;
+  border: none;
+}
+
+.eksamen-toggle-btn:hover {
+  filter: brightness(0.85);
+}
+
+.eksamen-pdf-btn {
+  background-color: var(--background-modifier-hover);
+  color: var(--text-normal);
+  border: 1px solid var(--background-modifier-border);
+}
+
+.eksamen-pdf-btn:hover {
+  background-color: var(--background-modifier-border);
+}

@@ -1,0 +1,16 @@
+{% if "eksamen" in tags %}
+{% set pdfSlug = permalink | replace("/eksamener/", "") | replace("/", "") %}
+<div class="eksamen-kontroller">
+  <a id="toggle-losninger" class="eksamen-toggle-btn" role="button" href="#">
+    Vis løsningsforslag
+  </a>
+  {% if pdfSlug %}
+  <a href="/img/user/pdf/{{ pdfSlug }}.pdf" class="eksamen-pdf-btn">
+    Last ned oppgaver (PDF)
+  </a>
+  <a href="/img/user/pdf/{{ pdfSlug }}-losning.pdf" class="eksamen-pdf-btn">
+    Last ned løsningsforslag (PDF)
+  </a>
+  {% endif %}
+</div>
+{% endif %}

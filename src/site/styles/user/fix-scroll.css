@@ -1,3 +1,17 @@
 html, body {
   overscroll-behavior-x: auto;
 }
+
+/* TOC fyller tilgjengelig høyde i sidebar */
+.toc {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+}
+
+.toc-container {
+  flex: 1;
+  max-height: none !important;
+  overflow-y: auto;
+}
