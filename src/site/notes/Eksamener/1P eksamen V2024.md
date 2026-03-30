@@ -2,10 +2,9 @@
 {"tags":["eksamen"],"fag":["1p"],"eksamen":"v24","date":"2024-05-23","title":"1P eksamen V2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p"],"eksamen":"v24","date":"2024-05-23","title":"1P eksamen V2024","contentClasses":"eksamen-side","permalink":"/eksamener/1p-eksamen-v2024/"}}
 ---
 
-
 # Del 1
 
-## Oppgave 1
+## Oppgave 1-1
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/verdens-befolkning-og-promille/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -27,7 +26,7 @@ Anta at det på et tidspunkt vil bo 18 millioner mennesker i et land, og at dett
 </div></div>
 
 
-## Oppgave 2
+## Oppgave 1-2
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/ada-sparer-med-eksponentialfunksjon/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -70,51 +69,7 @@ print(v)
 </div></div>
 
 
-## Oppgave 3
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/proporsjonale-og-omvendt-proporsjonale-storrelser-fra-graf/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-
-# Proporsjonale og omvendt proporsjonale størrelser fra graf
-
-
-Her ser du grafene til fire funksjoner $f$, $g$, $p$ og $q$.  
-
-![Fire funksjoner](/img/user/_resources/1p-v24-1-3.jpeg)
-
-- Avgjør om en eller flere av grafene viser sammenhengen mellom to størrelser som er proporsjonale.  
-- Avgjør om en eller flere av grafene viser sammenhengen mellom to størrelser som er omvendt proporsjonale.  
-
-Husk å argumentere for svarene dine.  
-
-## Fasit
-
-$f$ er proporsjonal, $p$ er omvendt proporsjonal
-
-## Løsningsforslag
-
-For at to størrelser skal være **proporsjonale**, må sammenhengen kunne skrives som $y = k \cdot x$ for en konstant $k > 0$. Grafen vil da være en rett linje som går gjennom origo.
-
-For at to størrelser skal være **omvendt proporsjonale**, må sammenhengen kunne skrives som $y = \frac{k}{x}$ for en konstant $k > 0$. Grafen vil da være en hyperbel.
-
-Fra grafen:
-
-- **$f$ (grønn)** er en rett linje som går gjennom origo → $f$ viser **proporsjonale** størrelser.
-- **$p$ (blå)** er en kraftig avtagende kurve som ligner en hyperbel → $p$ viser **omvendt proporsjonale** størrelser.
-- **$q$ (rød)** er en avtagende kurve, men den er brattere enn en hyperbel ved lave $x$-verdier og flater mer ut – dette er ikke en ren hyperbel, og er verken proporsjonal eller omvendt proporsjonal.
-- **$g$ (lilla)** er en stigende kurve som ikke går gjennom origo med konstant stigningstall – verken proporsjonal eller omvendt proporsjonal.
-
-**$\underline{\underline{f}}$ viser proporsjonale størrelser, og $\underline{\underline{p}}$ viser omvendt proporsjonale størrelser.**
-
-
-</div></div>
-
-
-## Oppgave 4
+## Oppgave 1-4
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/bremselengde-og-fart/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -145,7 +100,7 @@ På nettsidene til Viking Redningstjeneste står det at en bil som kjører i $70
 
 # Del 2
 
-## Oppgave 1
+## Oppgave 2-1
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/modellering-av-bagettsalg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -176,7 +131,7 @@ Tabellen nedenfor viser hvor mange bagetter en kantine har solgt hver av de sist
 </div></div>
 
 
-## Oppgave 2
+## Oppgave 2-2
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/gautes-sparekonto/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -225,7 +180,7 @@ Vi runder av svarene til 90 000 kr og 123 920 kr.
 </div></div>
 
 
-## Oppgave 3
+## Oppgave 2-3
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/oljeproduksjon-pa-norsk-sokkel/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -256,7 +211,7 @@ I 2022 ble det i gjennomsnitt produsert $1{,}685$ millioner fat hvert døgn.
 </div></div>
 
 
-## Oppgave 4
+## Oppgave 2-4
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/jakob-ingebrigtsens-lopsrekorder/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -298,7 +253,7 @@ Da Jakob Ingebrigtsen satte personlig rekord på 1 engelsk mil, holdt han en gje
 </div></div>
 
 
-## Oppgave 5
+## Oppgave 2-5
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/knut-og-sabrina-tallfolge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -333,7 +288,7 @@ $2, 5, 11, 23, 47, \ldots$
 </div></div>
 
 
-## Oppgave 6
+## Oppgave 2-6
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/lufttrykk-og-kokepunkt-for-vann/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -389,7 +344,7 @@ Når lufttrykket er lavere enn 1000 hPa, vil kokepunktet for vann være lavere e
 </div></div>
 
 
-## Oppgave 7
+## Oppgave 2-7
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/skobutikk-ta-3-betal-for-2/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">

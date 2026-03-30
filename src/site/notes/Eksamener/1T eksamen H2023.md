@@ -2,10 +2,9 @@
 {"tags":["eksamen"],"fag":["1t"],"eksamen":"h23","date":"2023-11-20","title":"1T eksamen H2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-t-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1t"],"eksamen":"h23","date":"2023-11-20","title":"1T eksamen H2023","contentClasses":"eksamen-side","permalink":"/eksamener/1t-eksamen-h2023/"}}
 ---
 
-
 # Del 1
 
-## Oppgave 1
+## Oppgave 1-1
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -31,7 +30,7 @@ En likesidet trekant har sidelengder 2. Se figuren til høyre.
 </div></div>
 
 
-## Oppgave 2
+## Oppgave 1-2
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -55,7 +54,7 @@ $f(x) = x^3 + 2x^2 - 5x - 6$
 </div></div>
 
 
-## Oppgave 3
+## Oppgave 1-3
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -79,7 +78,7 @@ $f(x) = x^3 - 3x^2 - x + 4$
 </div></div>
 
 
-## Oppgave 4
+## Oppgave 1-4
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -103,7 +102,7 @@ $f(x) = x^3 - 3x^2 - x + 4$
 </div></div>
 
 
-## Oppgave 5
+## Oppgave 1-5
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -136,7 +135,7 @@ $g(x) = \frac{x^2 - 4}{(x - 3)(x + 3)}$
 
 # Del 2
 
-## Oppgave 1
+## Oppgave 2-1
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -164,7 +163,7 @@ for folketallet $F(x)$ tusen innbyggere i området $x$ år etter 1960.
 </div></div>
 
 
-## Oppgave 2
+## Oppgave 2-2
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -188,7 +187,7 @@ I denne oppgaven skal du vise at du kan bruke trigonometri til å bestemme areal
 </div></div>
 
 
-## Oppgave 3
+## Oppgave 2-3
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/linjestykker-og-geometrisk-vekst/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -286,7 +285,7 @@ Output: `0.52`
 </div></div>
 
 
-## Oppgave 4
+## Oppgave 2-4
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -313,7 +312,7 @@ Tabellen nedenfor viser antall personer i Norge som hadde fiske som hovedyrke no
 </div></div>
 
 
-## Oppgave 5
+## Oppgave 2-5
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -348,7 +347,7 @@ Sara skal tegne en ny linje $x = a$ der $a \in \langle 1, 3 \rangle$ i koordinat
 </div></div>
 
 
-## Oppgave 6
+## Oppgave 2-6
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -375,7 +374,7 @@ $f(x) = ax^3 + bx^2 + cx - 64$
 </div></div>
 
 
-## Oppgave 7
+## Oppgave 2-7
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
