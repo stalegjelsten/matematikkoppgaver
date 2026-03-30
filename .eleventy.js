@@ -347,6 +347,80 @@ module.exports = function(eleventyConfig) {
         return defaultLinkRule(tokens, idx, options, env, self);
       };
     })
+    .use(function(md) {
+      // Two-column layout plugin
+      // Converts <!-- two-column start [options] --> ... --- ... <!-- two-column stop -->
+      // into a CSS grid layout with two columns.
+      md.core.ruler.push("two_column", function(state) {
+        const tokens = state.tokens;
+        let i = 0;
+        while (i < tokens.length) {
+          const token = tokens[i];
+          if (
+            token.type === "html_block" &&
+            /<!--\s*two-column\s+start/i.test(token.content)
+          ) {
+            // Parse options from the start comment
+            const optionsStr = token.content;
+            const leftWidthMatch = optionsStr.match(/left-width\s*=\s*([\d.]+)/);
+            const rightWidthMatch = optionsStr.match(/right-width\s*=\s*([\d.]+)/);
+
+            let leftWidth = 50, rightWidth = 50;
+            if (leftWidthMatch) {
+              leftWidth = parseFloat(leftWidthMatch[1]);
+              rightWidth = 100 - leftWidth;
+            }
+            if (rightWidthMatch) {
+              rightWidth = parseFloat(rightWidthMatch[1]);
+            }
+
+            // Collect tokens until the stop comment
+            const startIdx = i;
+            let stopIdx = -1;
+            for (let j = i + 1; j < tokens.length; j++) {
+              if (
+                tokens[j].type === "html_block" &&
+                /<!--\s*two-column\s+stop\s*-->/i.test(tokens[j].content)
+              ) {
+                stopIdx = j;
+                break;
+              }
+            }
+            if (stopIdx === -1) {
+              i++;
+              continue;
+            }
+
+            // Collect inner tokens and find the hr separator
+            const innerTokens = tokens.slice(startIdx + 1, stopIdx);
+            const hrIdx = innerTokens.findIndex(t => t.type === "hr");
+
+            let leftTokens, rightTokens;
+            if (hrIdx === -1) {
+              leftTokens = innerTokens;
+              rightTokens = [];
+            } else {
+              leftTokens = innerTokens.slice(0, hrIdx);
+              rightTokens = innerTokens.slice(hrIdx + 1);
+            }
+
+            // Render inner tokens to HTML
+            const env = {};
+            const leftHtml = md.renderer.render(leftTokens, md.options, env);
+            const rightHtml = md.renderer.render(rightTokens, md.options, env);
+
+            // Build replacement token
+            const divToken = new state.Token("html_block", "", 0);
+            divToken.content = `<div class="two-column-layout" style="--left-width: ${leftWidth}%; --right-width: ${rightWidth}%"><div class="two-column-left">${leftHtml}</div><div class="two-column-right">${rightHtml}</div></div>`;
+
+            tokens.splice(startIdx, stopIdx - startIdx + 1, divToken);
+            i = startIdx + 1;
+          } else {
+            i++;
+          }
+        }
+      });
+    })
     .use(userMarkdownSetup);
 
   eleventyConfig.setLibrary("md", markdownLib);

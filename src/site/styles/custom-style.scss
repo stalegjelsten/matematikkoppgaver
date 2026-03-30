@@ -245,3 +245,20 @@ article .callout-fold svg * {
   content: ")";
 }
 
+/* Two-column layout */
+.two-column-layout {
+  display: grid;
+  grid-template-columns: var(--left-width, 50%) var(--right-width, 50%);
+  gap: 1em;
+  margin: 1em 0;
+
+  @media (max-width: 600px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.two-column-left,
+.two-column-right {
+  min-width: 0;
+}
+
