@@ -2,10 +2,9 @@
 {"tags":["eksamen"],"fag":["r1"],"eksamen":"h25","date":"2025-11-20","title":"R1 eksamen H2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r1"],"eksamen":"h25","date":"2025-11-20","title":"R1 eksamen H2025","contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-h2025/"}}
 ---
 
-
 # Del 1
 
-## Oppgave 1
+## Oppgave 1-1
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/derivasjon-og-graffortolkning/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -72,7 +71,7 @@ Siden $g'(2) > 0$ er $g$ stigende i $x = 2$, og siden $g'(3) < 0$ er $g$ avtagen
 </div></div>
 
 
-## Oppgave 2
+## Oppgave 1-2
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/logaritmeligninger/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -124,7 +123,7 @@ Likningen $\log_a \dfrac{1}{64} = -3$ betyr $a^{-3} = \dfrac{1}{64}$, altså $a^
 </div></div>
 
 
-## Oppgave 3
+## Oppgave 1-3
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/grenseverdier/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -189,7 +188,7 @@ $
 </div></div>
 
 
-## Oppgave 4
+## Oppgave 1-4
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/koordinater-linje-og-ortogonalitet/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -264,7 +263,7 @@ $
 </div></div>
 
 
-## Oppgave 5
+## Oppgave 1-5
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/funksjonsdrofting-og-halveringsmetode/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -367,7 +366,7 @@ Programmet halverer intervallet i hver iterasjon til $|f(m)|$ er tilstrekkelig l
 
 # Del 2
 
-## Oppgave 1
+## Oppgave 2-1
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/logistisk-vekstmodell/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -449,7 +448,7 @@ Siden $F'(t)$ stiger mot maksimum og deretter synker, er $F'(t) > 150$ for $t \i
 </div></div>
 
 
-## Oppgave 2
+## Oppgave 2-2
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/stykkevis-funksjon-og-deriverbarhet/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -533,7 +532,7 @@ og enten $\underline{\underline{k = \dfrac{1}{3},\ c = -\dfrac{10}{27}}}$ eller 
 </div></div>
 
 
-## Oppgave 3
+## Oppgave 2-3
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/luktintensitet-og-logaritmisk-modell/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -616,7 +615,7 @@ $
 </div></div>
 
 
-## Oppgave 4
+## Oppgave 2-4
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/parameterframstilling-og-motepunkt/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -743,7 +742,7 @@ Alternativt: Ina har gått $\dfrac{7}{20}$ av turen, så $\dfrac{7}{20} \cdot 10
 </div></div>
 
 
-## Oppgave 5
+## Oppgave 2-5
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/vektorer-lengde-og-ortogonalitet/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -815,7 +814,7 @@ $
 </div></div>
 
 
-## Oppgave 6
+## Oppgave 2-6
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/grafer-og-dobbeltderivert/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">

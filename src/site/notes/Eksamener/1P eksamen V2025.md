@@ -2,10 +2,9 @@
 {"tags":["eksamen"],"fag":["1p"],"eksamen":"v25","date":"2025-05-21","title":"1P eksamen V2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p"],"eksamen":"v25","date":"2025-05-21","title":"1P eksamen V2025","contentClasses":"eksamen-side","permalink":"/eksamener/1p-eksamen-v2025/"}}
 ---
 
-
 # Del 1
 
-## Oppgave 1
+## Oppgave 1-1
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/sjokoladeplate-pa-bensinstasjon/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -27,7 +26,7 @@ En sjokoladeplate koster 40 kroner i en butikk og 60 kroner på en bensinstasjon
 </div></div>
 
 
-## Oppgave 2
+## Oppgave 1-2
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/prosentvis-framgang-for-partier/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -68,7 +67,7 @@ $
 </div></div>
 
 
-## Oppgave 3
+## Oppgave 1-3
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/omvendt-proporsjonale-storrelser/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -90,7 +89,7 @@ $
 </div></div>
 
 
-## Oppgave 4
+## Oppgave 1-4
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/to-losninger-med-potensuttrykk/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -120,7 +119,7 @@ Elias påstår at det er mulig å bruke åtte av de ti tallene 0, 1, 2, 3, 4, 5,
 </div></div>
 
 
-## Oppgave 5
+## Oppgave 1-5
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/blodceller-i-standardform/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -144,7 +143,7 @@ I en liter blod er det $7 \cdot 10^9$ hvite blodceller, $5 \cdot 10^{12}$ røde 
 </div></div>
 
 
-## Oppgave 6
+## Oppgave 1-6
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/figurtall-med-gronne-kvadrater/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -192,7 +191,7 @@ $
 </div></div>
 
 
-## Oppgave 7
+## Oppgave 1-7
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/lars-sin-spareplan/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -233,7 +232,7 @@ print(konto)
 </div></div>
 
 
-## Oppgave 8
+## Oppgave 1-8
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/noras-botte-med-godteri/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -267,7 +266,7 @@ $G(x) = ax + b$
 
 # Del 2
 
-## Oppgave 1
+## Oppgave 2-1
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/kikhoste-som-eksponentiell-vekst/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -300,7 +299,7 @@ La $x$ være antall måneder etter desember 2022. Det vil si at $x = 1$ tilsvare
 </div></div>
 
 
-## Oppgave 2
+## Oppgave 2-2
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/stikk-ut-og-turstatistikk/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -325,7 +324,7 @@ Artikkelen ovenfor er hentet fra aesby.no.
 </div></div>
 
 
-## Oppgave 3
+## Oppgave 2-3
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/elise-selger-aviser/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -389,7 +388,7 @@ $
 </div></div>
 
 
-## Oppgave 4
+## Oppgave 2-4
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/dagbladet-lordag-uten-rabatt/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -413,7 +412,7 @@ Informasjonen ovenfor er hentet fra nettsidene til Bladkongen.
 </div></div>
 
 
-## Oppgave 5
+## Oppgave 2-5
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/pris-per-kvadratmeter-terrassebord/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -447,7 +446,7 @@ Hun finner informasjonen nedenfor på nettsiden til en byggevareforhandler. Tykk
 </div></div>
 
 
-## Oppgave 6
+## Oppgave 2-6
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/isabels-sylinderformede-bokser/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -496,7 +495,7 @@ Isabel ønsker å lage en modell som viser overflaten av ulike bokser hun kan la
 </div></div>
 
 
-## Oppgave 7
+## Oppgave 2-7
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/sofie-lager-bagetter-hjemme/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">

@@ -2,10 +2,9 @@
 {"tags":["eksamen"],"fag":["s1"],"eksamen":"h24","date":"2024-11-14","title":"S1 eksamen H2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s1"],"eksamen":"h24","date":"2024-11-14","title":"S1 eksamen H2024","contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-h2024/"}}
 ---
 
-
 # Del 1
 
-## Oppgave 1
+## Oppgave 1-1
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/derivasjon-av-eksponentialfunksjon/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -37,7 +36,7 @@ $
 </div></div>
 
 
-## Oppgave 2
+## Oppgave 1-2
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/finne-verdi-programmet-skriver-ut/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -85,7 +84,7 @@ $
 </div></div>
 
 
-## Oppgave 3
+## Oppgave 1-3
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/eksponentiallikning-med-substitusjon/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -130,7 +129,7 @@ $
 </div></div>
 
 
-## Oppgave 4
+## Oppgave 1-4
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/grenseverdi-for-rasjonalt-uttrykk/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -160,7 +159,7 @@ $
 </div></div>
 
 
-## Oppgave 5
+## Oppgave 1-5
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/sannsynlighet-for-kulefarge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -197,7 +196,7 @@ $
 </div></div>
 
 
-## Oppgave 6
+## Oppgave 1-6
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/identifiser-funksjon-fra-vekstfart-og-derivert/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -234,7 +233,7 @@ Det er litt vanskelig å lese av stigningstallet til tangenten til $f$ i $x=1$, 
 
 # Del 2
 
-## Oppgave 1
+## Oppgave 2-1
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/antrekk-og-sannsynlighet-hos-drakt-og-som/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -266,7 +265,7 @@ I byen Draktenburg bor det 542 000 mennesker.
 </div></div>
 
 
-## Oppgave 2
+## Oppgave 2-2
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/vurder-pastander-om-funksjoner/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -332,7 +331,7 @@ Hvis vi tolker at $0^{0}$ er en ubestemt form så vil likningen ha ingen løsnin
 </div></div>
 
 
-## Oppgave 3
+## Oppgave 2-3
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/bestem-grunntall-i-logaritmefunksjon/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -358,7 +357,7 @@ $f(x) = \log_a(x)$
 </div></div>
 
 
-## Oppgave 4
+## Oppgave 2-4
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/knekkebrod-gavekort-og-simulering/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -392,7 +391,7 @@ Hassan endrer vanene sine og kjøper vanlige knekkebrødpakker på hverdager og 
 </div></div>
 
 
-## Oppgave 5
+## Oppgave 2-5
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/optimalisering-av-parkeringsinntekt/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -415,7 +414,7 @@ Stephanie leier ut parkeringsplasser. Hun leier ut plasser for 1000 kroner per p
 </div></div>
 
 
-## Oppgave 6
+## Oppgave 2-6
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/overskuddsoptimalisering-for-batmotorer/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -448,7 +447,7 @@ Skipsmotor AS frykter at høy produksjon vil føre til dårligere kvalitet. De a
 </div></div>
 
 
-## Oppgave 7
+## Oppgave 2-7
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/sannsynlighet-for-covid-med-positiv-test/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">

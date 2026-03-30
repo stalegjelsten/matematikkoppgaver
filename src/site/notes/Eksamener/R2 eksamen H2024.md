@@ -1,11 +1,10 @@
 ---
-{"tags":["eksamen"],"fag":["r2"],"eksamen":"h24","date":"2024-11-20","title":"R2 eksamen H2024","showheader":true,"dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r2"],"eksamen":"h24","date":"2024-11-20","title":"R2 eksamen H2024","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-h2024/"}}
+{"tags":["eksamen"],"fag":["r2"],"eksamen":"h24","date":"2024-11-20","title":"R2 eksamen H2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r2"],"eksamen":"h24","date":"2024-11-20","title":"R2 eksamen H2024","contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-h2024/"}}
 ---
-
 
 # Del 1
 
-## Oppgave 1
+## Oppgave 1-1
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/integral-med-delvis-integrasjon-og-trigonometri/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -97,7 +96,7 @@ Hvis integralet av $\int_{0}^{x} f(t) \, dt$ skal være lik 0 så må vi ha nøy
 </div></div>
 
 
-## Oppgave 2
+## Oppgave 1-2
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/sumformel-kvotient-og-geometrisk-rekke/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -178,7 +177,7 @@ $
 </div></div>
 
 
-## Oppgave 3
+## Oppgave 1-3
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/telt-med-vektorer-i-rommet/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -262,7 +261,7 @@ Fra figuren skal toppunktet befinne seg over $xy$-planet, så vi velger $t=1$.
 </div></div>
 
 
-## Oppgave 4
+## Oppgave 1-4
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/radianer-og-eksakte-trigonometriske-verdier/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -319,7 +318,7 @@ $
 </div></div>
 
 
-## Oppgave 5
+## Oppgave 1-5
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/sinusfunksjon-og-cosinusfunksjon/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -379,7 +378,7 @@ Likningen har løsningene $x=\frac{8}{3}$ og $x=\frac{16}{3}$.
 
 # Del 2
 
-## Oppgave 1
+## Oppgave 2-1
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/ball-i-bevegelse-med-posisjonsvektor/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -474,7 +473,7 @@ Igjen kan vi se bort fra den negative løsningen.
 </div></div>
 
 
-## Oppgave 2
+## Oppgave 2-2
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/vurder-pastander-om-rekke-plan-og-areal/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -557,7 +556,7 @@ La oss undersøke arealet av områdene som er avgrenset. Jeg gjør dette i GeoGe
 </div></div>
 
 
-## Oppgave 3
+## Oppgave 2-3
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/jordbaer-som-omdreiningslegeme/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -611,7 +610,7 @@ Jeg beregner volumet som et omdreiningslegeme med $\pi \int_{a}^{b} \left( f(x) 
 </div></div>
 
 
-## Oppgave 4
+## Oppgave 2-4
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/russebil-med-trigonometrisk-fartsfunksjon/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -675,7 +674,7 @@ $
 </div></div>
 
 
-## Oppgave 5
+## Oppgave 2-5
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rekursiv-formel-og-programmering/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -762,7 +761,7 @@ Jeg brukte en `for`-løkke til å regne meg fram til delsummen til ledd nummer 3
 </div></div>
 
 
-## Oppgave 6
+## Oppgave 2-6
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/omdreiningslegeme-av-sirkel-om-y-aksen/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">

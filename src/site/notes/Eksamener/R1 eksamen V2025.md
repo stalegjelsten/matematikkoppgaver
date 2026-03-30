@@ -2,10 +2,9 @@
 {"tags":["eksamen"],"fag":["r1"],"eksamen":"v25","date":"2025-05-19","title":"R1 eksamen V2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r1"],"eksamen":"v25","date":"2025-05-19","title":"R1 eksamen V2025","contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-v2025/"}}
 ---
 
-
 # Del 1
 
-## Oppgave 1
+## Oppgave 1-1
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/derivasjon-av-eksponential-og-potensfunksjon/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -27,7 +26,7 @@
 </div></div>
 
 
-## Oppgave 2
+## Oppgave 1-2
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/nullpunkter-og-ekstremalpunkter-med-produkt/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -51,7 +50,7 @@ En funksjon $g$ er gitt ved $g(x) = \dfrac{1}{2}e^x \cdot (2x-1)^2$
 </div></div>
 
 
-## Oppgave 3
+## Oppgave 1-3
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/eksponential-og-logaritmelikninger/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -74,7 +73,7 @@ Løs likningene
 </div></div>
 
 
-## Oppgave 4
+## Oppgave 1-4
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/grenseverdier-med-algebraisk-forenkling/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -121,7 +120,7 @@ $
 </div></div>
 
 
-## Oppgave 5
+## Oppgave 1-5
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/kontinuitet-og-deriverbarhet-stykkevis/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -146,7 +145,7 @@ $f(x) = \begin{cases} x^2 + 2\text{,} \quad  & x < 0 \\ 2e^x\text{,} & x \ge 0 \
 </div></div>
 
 
-## Oppgave 6
+## Oppgave 1-6
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/vektorer-og-basketball/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -180,7 +179,7 @@ Nils flytter seg til et nytt punkt $M$. $M$ er det nærmeste punktet som er plas
 
 # Del 2
 
-## Oppgave 1
+## Oppgave 2-1
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/logistisk-vekstmodell-batteriteknologi/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -216,7 +215,7 @@ Etter å ha hørt om planene til BA3 antar PowBat at
 </div></div>
 
 
-## Oppgave 2
+## Oppgave 2-2
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/omvendt-funksjon-og-tangentlikninger/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -244,7 +243,7 @@ og har definisjonsmengden $I = [a, b]$ der $a, b \in \mathbb{R}$.
 </div></div>
 
 
-## Oppgave 3
+## Oppgave 2-3
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/stykkevis-funksjon-med-ukjent-uttrykk/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -274,7 +273,7 @@ Hun husker at $f$ er kontinuerlig og deriverbar for alle $x \in \mathbb{R}$. Hun
 </div></div>
 
 
-## Oppgave 4
+## Oppgave 2-4
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/fiskebat-og-vektorbevegelse/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -317,7 +316,7 @@ En annen fiskebåt er i punktet $(-2, 0)$ ved tiden $t = 0$ og holder konstant f
 </div></div>
 
 
-## Oppgave 5
+## Oppgave 2-5
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/tangent-til-ln-og-trekantareal/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
