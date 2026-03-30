@@ -20,7 +20,29 @@ Påstand 2: Dersom det kommer en ny person inn i rommet, kan gjennomsnittsaldere
 >[!oppgave]
 >b) Er denne påstanden riktig? Begrunn.
 
-> [!question]- Fasit
-> a) Det kommer an på alderen på den som kommer. Hvis den er 29 år så blir medianen uendret.
-> b) Ja, hvis personen er 17 år.
-> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen V2025#Oppgave 2-3\|Løsningsforslag 2P-Y eksamen V2025#Oppgave 2-3]]
+## Fasit
+
+a) Det kommer an på alderen på den som kommer. Hvis den er 29 år så blir medianen uendret.
+b) Ja, hvis personen er 17 år.
+
+## Løsningsforslag
+
+### 2-3a
+Akkurat nå er det 10 personer i rommet. Medianalderen blir da gjennomsnittet av aldrene til person nummer 5 og 6. Denne medianalderen er foreløpig $\frac{28+30}{2}=29$ år.
+
+Dersom det kommer en ellevte person inn så er det person nr. 6 som vil være medianalderen:
+
+- Hvis personen er yngre enn 29 år så vil medianalderen bli 28
+- Hvis personen er eldre enn 29 år så vil medianalderen bli 30
+- Hvis personen er 29 år så blir den nye medianalderen 29
+
+**Påstanden er riktig.**
+
+### 2-3b
+Hvis det kommer en ny person inn i rommet så blir det 11 personer i rommet. Hvis deres gjennomsnittsalder skal være 30 så må summen av alle aldrene være $11 \cdot 30 = 330$ år.
+
+Foreløpig er summen av aldrene 313 år. Hvis den siste personen er 17 år så blir blir summen 330 år, og dermed blir gjennomsnittet
+$$
+\frac{330 \text{ år}}{11}=30 \text{ år}
+$$
+**Påstanden er riktig.**

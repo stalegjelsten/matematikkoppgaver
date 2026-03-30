@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-16","aliases":[],"dg-publish":true,"temaer":["formler","likninger"],"fag":["1p-y el"],"eksamen":"h25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":4}],"title":"Fritt fall fra stupeplattform","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/fritt-fall-fra-stupeplattform/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-16","aliases":[],"temaer":["formler","likninger"],"fag":["1p-y el"],"eksamen":"h25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":4}],"title":"Fritt fall fra stupeplattform","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-16","aliases":[],"dg-publish":true,"temaer":["formler","likninger"],"fag":["1p-y el"],"eksamen":"h25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":4}],"title":"Fritt fall fra stupeplattform","status":1,"source":null,"todo":null,"permalink":"/fritt-fall-fra-stupeplattform/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-16","aliases":[],"temaer":["formler","likninger"],"fag":["1p-y el"],"eksamen":"h25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":4}],"title":"Fritt fall fra stupeplattform","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -11,11 +11,11 @@ For å regne ut farten Oscar og Maja treffer vannflaten med, kan vi bruke disse 
 
 Farten etter $t$ sekunder i lufta blir
 
-$$v = 9{,}8 \cdot t \qquad \text{(Formel 1)}$$
+$$v = 9{,}8 \cdot t $${#eq:fart1}
 
 Farten til en som hopper fra høyden $h$ meter, blir
 
-$$v = \sqrt{2 \cdot 9{,}8 \cdot h} \qquad \text{(Formel 2)}$$
+$$v = \sqrt{2 \cdot 9{,}8 \cdot h}$${#eq:fart2}
 
 - $v$ er farten i meter per sekund (m/s).
 - $t$ er tiden i sekunder (s).
@@ -35,7 +35,6 @@ Oscar og Maja stiller tre spørsmål:
 >[!oppgave]
 >Gjør beregninger og svar på spørsmålene Oscar og Maja stiller.
 
->[!question]- Fasit
->
-> Oscar: $v = 11{,}76 \, \mathrm{m/s}$; Maja: nei, $\sqrt{2}$ ganger (ikke dobbel); $t \approx 1{,}43 \, \mathrm{s}$
-> [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 2-4\|Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 2-4]]
+## Fasit
+
+Oscar: $v = 11{,}76 \, \mathrm{m/s}$; Maja: nei, $\sqrt{2}$ ganger (ikke dobbel); $t \approx 1{,}43 \, \mathrm{s}$

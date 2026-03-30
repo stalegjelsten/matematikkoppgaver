@@ -14,8 +14,33 @@
 >
 >$$\log_a \frac{1}{64} = -3$$
 
->[!question]- Fasit
->
-> a) $x = 10\,000$ og $x = 0{,}01$
-> b) $a = 4$
-> [[Løsningsforslag/Løsningsforslag S1 eksamen H2025#Oppgave 1-2\|Løsningsforslag S1 eksamen H2025#Oppgave 1-2]]
+## Fasit
+
+a) $x = 10\,000$ og $x = 0{,}01$
+b) $a = 4$
+
+## Løsningsforslag
+
+### 1-2a
+
+Vi setter $u = \lg x$ og skriver om likningen:
+
+$$\begin{aligned}
+u^2 - 2u - 8 &= 0\\
+(u-4)(u+2) &= 0 \\
+u = 4 \quad &\text{eller} \quad u = -2
+\end{aligned}$$
+
+**Tilbake til $x$:**
+
+$$\lg x = 4 \implies x = 10^4 = \underline{\underline{10\,000}}$$
+
+$$\lg x = -2 \implies x = 10^{-2} = \underline{\underline{0{,}01}}$$
+
+### 1-2b
+
+Vi bruker definisjonen av logaritme:
+
+$$\log_a \frac{1}{64} = -3 \implies a^{-3} = \frac{1}{64} \implies a^3 = 64 \implies a = \sqrt[3]{64}$$
+
+**$\underline{\underline{a = 4}}$**

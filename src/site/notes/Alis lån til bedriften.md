@@ -27,8 +27,8 @@ $$
 > [!oppgave]
 > b) Bruk formelen til å finne summen av renter Ali må betale for serielånet sitt.
 
->[!question]- Fasit
-> 
-> b) Vi vet at $L=800\,000$, $n=5$, $r=6{,}2$. Da kan vi regne ut $S$ med:
-> $$S=\frac{800000 \cdot 5 + 800000}{2} \cdot \frac{6{,}2}{100}=\frac{4\,800\,000}{2} \cdot 0{,}062 = 2\,400\,000 \cdot 0{,}062 = 148 \, 800 $$
->   **Ali betaler 148 800 kr i renter.**
+## Fasit
+
+b) Vi vet at $L=800\,000$, $n=5$, $r=6{,}2$. Da kan vi regne ut $S$ med:
+$$S=\frac{800000 \cdot 5 + 800000}{2} \cdot \frac{6{,}2}{100}=\frac{4\,800\,000}{2} \cdot 0{,}062 = 2\,400\,000 \cdot 0{,}062 = 148 \, 800 $$
+  **Ali betaler 148 800 kr i renter.**

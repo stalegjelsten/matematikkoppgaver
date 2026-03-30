@@ -12,6 +12,27 @@ $$ f(x)=x^{2}-2 x-8$$
 > [!oppgave]
 > I hvilke punkter skjærer grafen til funksjonen $x$-aksen?
 
->[!question]- Fasit
->$x=4 \vee x=-2$
->[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 1-2\|Løsningsforslag 1T eksamen V2023#Oppgave 1-2]]
+## Fasit
+
+$x=4 \vee x=-2$
+
+## Løsningsforslag
+
+Vi kan faktorisere ved hjelp av heltallsmetoden. Jeg ser at:
+
+$$
+f(x)=x^2-2x-8=(x-4)(x+2)
+$$
+
+Ved å sette funksjonen lik null finner jeg nullpunktene
+
+$$
+\begin{aligned}
+f(x)&=0\\
+(x-4)(x+2)&=0\\
+x-4=0 &\vee x+2=0\\
+x=4 &\vee x=-2
+\end{aligned}
+$$
+
+**Funksjonen krysser $x$-aksen ved $x=4$ og $x=-2$.**

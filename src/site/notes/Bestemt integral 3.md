@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-01-28","modified":"2024-01-28","aliases":null,"dg-publish":true,"temaer":["integral"],"fag":["s2"],"eksamen":"h23","del":1,"oppgave":1,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":1}],"title":"Bestemt integral 3","source":null,"todo":["fasit","løsningsforslag"],"status":3,"permalink":"/bestemt-integral-3/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-01-28","modified":"2024-01-28","aliases":null,"temaer":["integral"],"fag":["s2"],"eksamen":"h23","del":1,"oppgave":1,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":1}],"title":"Bestemt integral 3","source":null,"todo":["fasit","løsningsforslag"],"status":3}}
+{"tags":["oppgave"],"date":"2024-01-28","modified":"2024-01-28","aliases":null,"dg-publish":true,"temaer":["integral"],"fag":["s2"],"eksamen":"h23","del":1,"oppgave":1,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":1}],"title":"Bestemt integral 3","source":null,"todo":null,"status":3,"permalink":"/bestemt-integral-3/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-01-28","modified":"2024-01-28","aliases":null,"temaer":["integral"],"fag":["s2"],"eksamen":"h23","del":1,"oppgave":1,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":1}],"title":"Bestemt integral 3","source":null,"todo":null,"status":3}}
 ---
 
 
@@ -13,7 +13,21 @@ $$
 $$
 Hva forteller svaret deg?
 
->[!question]- Fasit
-> Svaret er 0.
-> [[Løsningsforslag/Løsningsforslag S2 eksamen H2023#Oppgave 1-1\|Løsningsforslag S2 eksamen H2023#Oppgave 1-1]]
->
+## Fasit
+
+Svaret er 0.
+
+## Løsningsforslag
+
+Dette integralet trenger ingen spesielle regler eller teknikker for å løses.
+
+$$
+\int_{-1}^{1} \left( x^{3}+2x \right)  \, dx = \left[ \frac{1}{4}x^{4}+\frac{2}{2}x^{2} \right]_{-1}^{1}
+$$
+
+Jeg setter inn grensene og får
+
+$$
+\left( \frac{1}{4}1^{4}+1^{2} \right) - \left( \frac{1}{4}(-1)^{4}+(-1)^{2} \right)=\underline{\underline{0}} 
+$$
+**Siden svaret på integralet er 0 så må det være like mye areal avgrenset av grafen på oversiden av $x$-aksen som på undersiden av $x$-aksen.**

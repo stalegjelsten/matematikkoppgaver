@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-29","aliases":[],"dg-publish":true,"temaer":["potensfunksjon","eksponentiell vekst","modellering"],"fag":["1t","1p"],"eksamen":"v24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":5},{"fag":"1p","del":2,"oppgave":6}],"poeng":8,"title":"Lufttrykk og kokepunkt for vann","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/lufttrykk-og-kokepunkt-for-vann/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-29","aliases":[],"temaer":["potensfunksjon","eksponentiell vekst","modellering"],"fag":["1t","1p"],"eksamen":"v24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":5},{"fag":"1p","del":2,"oppgave":6}],"poeng":8,"title":"Lufttrykk og kokepunkt for vann","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-29","aliases":[],"dg-publish":true,"temaer":["potensfunksjon","eksponentiell vekst","modellering"],"fag":["1t","1p"],"eksamen":"v24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":5},{"fag":"1p","del":2,"oppgave":6}],"poeng":8,"title":"Lufttrykk og kokepunkt for vann","status":1,"source":null,"todo":null,"permalink":"/lufttrykk-og-kokepunkt-for-vann/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-29","aliases":[],"temaer":["potensfunksjon","eksponentiell vekst","modellering"],"fag":["1t","1p"],"eksamen":"v24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":5},{"fag":"1p","del":2,"oppgave":6}],"poeng":8,"title":"Lufttrykk og kokepunkt for vann","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -44,6 +44,4 @@ Når lufttrykket er lavere enn 1000 hPa, vil kokepunktet for vann være lavere e
 >b) Lag modellene for Ari og Lisa.
 >c) Omtrent hvor høyt over havet er det mulig å få egg hardkokte?
 
->[!question]- Fasit
->
->[[Løsningsforslag 1T eksamen V2024#Oppgave 2-5\|Løsningsforslag 1T eksamen V2024#Oppgave 2-5]]
+## Fasit

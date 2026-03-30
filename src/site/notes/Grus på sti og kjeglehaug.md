@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-25","modified":"2026-03-24","aliases":[],"dg-publish":true,"temaer":["geometri"],"fag":["2p"],"eksamen":"h25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":6}],"title":"Grus på sti og kjeglehaug","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/grus-pa-sti-og-kjeglehaug/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-25","modified":"2026-03-24","aliases":[],"temaer":["geometri"],"fag":["2p"],"eksamen":"h25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":6}],"title":"Grus på sti og kjeglehaug","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2025-11-25","modified":"2026-03-24","aliases":[],"dg-publish":true,"temaer":["geometri"],"fag":["2p"],"eksamen":"h25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":6}],"title":"Grus på sti og kjeglehaug","status":1,"source":null,"todo":null,"permalink":"/grus-pa-sti-og-kjeglehaug/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-25","modified":"2026-03-24","aliases":[],"temaer":["geometri"],"fag":["2p"],"eksamen":"h25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":6}],"title":"Grus på sti og kjeglehaug","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -19,6 +19,4 @@ Når de kommer til hytta, ligger grusen de har bestilt, i en kjegleformet haug p
 >[!oppgave]
 >b) Gjør beregninger og avgjør om de har fått levert nok grus.
 
->[!question]- Fasit
->
->[[Løsningsforslag 2P eksamen H2025#2-6\|Løsningsforslag 2P eksamen H2025#2-6]]
+## Fasit

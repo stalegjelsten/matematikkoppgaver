@@ -42,8 +42,20 @@ En elev har beskrevet fire situasjoner og tegnet ni grafer. Se nedenfor.
 
 ![Ni grafer](/img/user/_resources/1p-h25-2-2.jpeg)
 
+## Fasit
 
->[!question]- Fasit
->
-> A → graf 4, B → graf 8, C → graf 2, D → graf 3
-> [[Løsningsforslag/Løsningsforslag 1P eksamen H2025#Oppgave 2-2\|Løsningsforslag 1P eksamen H2025#Oppgave 2-2]]
+A → graf 4, B → graf 8, C → graf 2, D → graf 3
+
+## Løsningsforslag
+
+Vi analyserer hver situasjon og finner den grafen som passer best:
+
+**Situasjon A** – Dyrebestand som avtar med fast prosent per år er *eksponentiell nedgang*. Det gir en jevnt avtagende kurve som flater ut mot $x$-aksen. Dette passer til **graf 4**.
+
+**Situasjon B** – Kostnad per person ved leie av badstue er *omvendt proporsjonal*: $\text{Pris} = \dfrac{k}{\text{antall}}$. For få deltakere er prisen svært høy, og den faller bratt. Dette passer til **graf 8** (starter svært høyt og avtar raskt).
+
+**Situasjon C** – Fuglebestand som øker eksponentielt, deretter lineært og deretter stabiliserer seg. Det gir en kurve med tre faser: først akselererende vekst, så tilnærmet rett linje, så flat. Dette passer til **graf 2** (S-formet kurve).
+
+**Situasjon D** – Pakkepriser med tre vektintervaller gir en *trappetrinnsfunksjon* – konstant verdi i hvert intervall. Dette passer til **graf 3**.
+
+**Svar: A → graf 4, B → graf 8, C → graf 2, D → graf 3.**

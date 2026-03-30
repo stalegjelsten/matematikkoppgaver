@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-28","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["prisindeks","prosentregning"],"fag":["2p"],"eksamen":"h24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":2}],"poeng":3,"title":"Kjøpekraft og konsumprisindeks","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/kjopekraft-og-konsumprisindeks/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-28","modified":"2026-03-26","aliases":[],"temaer":["prisindeks","prosentregning"],"fag":["2p"],"eksamen":"h24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":2}],"poeng":3,"title":"Kjøpekraft og konsumprisindeks","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-11-28","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["prisindeks","prosentregning"],"fag":["2p"],"eksamen":"h24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":2}],"poeng":3,"title":"Kjøpekraft og konsumprisindeks","status":1,"source":null,"todo":null,"permalink":"/kjopekraft-og-konsumprisindeks/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-28","modified":"2026-03-26","aliases":[],"temaer":["prisindeks","prosentregning"],"fag":["2p"],"eksamen":"h24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":2}],"poeng":3,"title":"Kjøpekraft og konsumprisindeks","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -15,6 +15,4 @@ Tabellen nedenfor viser gjennomsnittlig månedslønn for arbeidstakere i Norge i
 >[!oppgave]
 >Undersøk hvordan kjøpekraften har endret seg år for år i perioden 2015–2022. Presenter resultatet på en oversiktlig måte.
 
->[!question]- Fasit
->
->[[Løsningsforslag 2P eksamen H2024#Oppgave 2-2\|Løsningsforslag 2P eksamen H2024#Oppgave 2-2]]
+## Fasit

@@ -10,7 +10,25 @@ Antibac-hånddesinfeksjon selges i flere størrelser. Flasken med $600\text{ ml}
 
 Hva skulle den store kannen ($4\text{ l}$) og den lille sprayflasken ($100\text{ ml}$) ha kostet dersom pris og mengde var proporsjonale?
 
-> [!question]- Fasit
-> Kanne $4\text{ l}=4000\text{ ml}$: $114\cdot\frac{4000}{600}=760\text{ kr}$
-> Spray $100\text{ ml}$: $114\cdot\frac{100}{600}=19\text{ kr}$
-> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen V2025#Oppgave 2-4\|Løsningsforslag 2P-Y eksamen V2025#Oppgave 2-4]]
+## Fasit
+
+Kanne $4\text{ l}=4000\text{ ml}$: $114\cdot\frac{4000}{600}=760\text{ kr}$
+Spray $100\text{ ml}$: $114\cdot\frac{100}{600}=19\text{ kr}$
+
+## Løsningsforslag
+
+Hvis pris og mengde skal være proporsjonale størrelser så må det være en fast pris per liter eller milliliter med antibac.
+
+For den ene flasken er prisen per milliliter
+$$
+\frac{114 \text{ kr}}{600 \text{ ml}}=0{,}19 \text{ kr/ml}
+$$
+De andre flaskene må da koste
+$$
+\begin{aligned}
+P_{\text{stor flaske}}&=4000 \text{ ml} \cdot 0{,}19 \text{ kr/ml}=\underline{\underline{760 \text{ kr}}} \\
+P_{\text{liten flaske}}&=100 \text{ ml} \cdot 0{,}19 \text{ kr/ml}= \underline{\underline{19 \text{ kr}}}
+\end{aligned}
+$$
+
+**Den lille flasken må koste 19 kr og den store flasken må koste 760 kr for at prisene og mengde skal være proporsjonale størrelser.**

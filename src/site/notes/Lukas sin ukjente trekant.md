@@ -23,8 +23,25 @@ Lukas stiller seg to spørsmål:
 
 Svar på spørsmålene som Lukas stiller seg.
 
->[!question]- Fasit
-> Se løsningsforslag for skisse. $AC=15\mathrm{~cm}$.
-> [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen H2024#Oppgave 1-5\|Løsningsforslag 1P-Y EL eksamen H2024#Oppgave 1-5]]
+## Fasit
 
+Se løsningsforslag for skisse. $AC=15\mathrm{~cm}$.
 
+## Løsningsforslag
+
+I en 30-60-90-trekant er hypotenusen dobbelt så lang som den korteste kateten (siden motstående 30°).
+
+**Spørsmål 1 – finne $\sin 30°$:**
+
+Siden hypotenusen $AC = 10 \, \mathrm{cm}$ og er dobbelt så lang som den korteste kateten, må:
+$$BC = \frac{AC}{2} = \frac{10}{2} = 5 \, \mathrm{cm}$$
+
+Sinus er definert som motstående katet delt på hypotenus. Vinkelen ved $A$ er $30°$, og motstående katet er $BC$:
+$$\sin 30° = \frac{BC}{AC} = \frac{5}{10} = \underline{\underline{0{,}5}}$$
+
+**Spørsmål 2 – finne lengden $AB$:**
+
+Cosinus er hosliggende katet delt på hypotenus. Vinkelen ved $A$ er $30°$, og hosliggende katet er $AB$:
+$$\cos 30° = \frac{AB}{AC} \implies AB = \cos 30° \cdot AC = 0{,}87 \cdot 10 = \underline{\underline{8{,}7 \, \mathrm{cm}}}$$
+
+**Lengden $AB$ er $\underline{\underline{8{,}7 \, \mathrm{cm}}}$.**

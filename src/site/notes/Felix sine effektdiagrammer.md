@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["trigonometri","elektrofag","effekttrekant"],"fag":["1p-y el"],"eksamen":"h25","del":1,"oppgave":5,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":5}],"title":null,"source":null,"todo":["løsningsforslag"],"status":3,"permalink":"/felix-sine-effektdiagrammer/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"temaer":["trigonometri","elektrofag","effekttrekant"],"fag":["1p-y el"],"eksamen":"h25","del":1,"oppgave":5,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":5}],"title":null,"source":null,"todo":["løsningsforslag"],"status":3}}
+{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["trigonometri","elektrofag","effekttrekant"],"fag":["1p-y el"],"eksamen":"h25","del":1,"oppgave":5,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":5}],"title":null,"source":null,"todo":null,"status":3,"permalink":"/felix-sine-effektdiagrammer/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"temaer":["trigonometri","elektrofag","effekttrekant"],"fag":["1p-y el"],"eksamen":"h25","del":1,"oppgave":5,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":5}],"title":null,"source":null,"todo":null,"status":3}}
 ---
 
 
@@ -26,8 +26,7 @@ Felix får vite for motor $B$ er $\sin \phi = 0{,}5$.
 
 Gjør beregninger og vurderinger, og svar på de spørsmålene som Felix stiller.
 
->[!question]- Fasit
->
-> a) $P = 4 \, \mathrm{kW}$
-> b) $Q = 1{,}1 \, \mathrm{kVAr}$
-> [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 1-5\|Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 1-5]]
+## Fasit
+
+a) $P = 4 \, \mathrm{kW}$
+b) $Q = 1{,}1 \, \mathrm{kVAr}$

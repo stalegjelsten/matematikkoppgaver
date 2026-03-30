@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["prosentregning","prosentvis endring","prisindeks"],"fag":["2p"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":5}],"title":"Husleie regulert etter KPI","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/husleie-regulert-etter-kpi/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-25","aliases":[],"temaer":["prosentregning","prosentvis endring","prisindeks"],"fag":["2p"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":5}],"title":"Husleie regulert etter KPI","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["prosentregning","prosentvis endring","prisindeks"],"fag":["2p"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":5}],"title":"Husleie regulert etter KPI","status":1,"source":null,"todo":null,"permalink":"/husleie-regulert-etter-kpi/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-25","aliases":[],"temaer":["prosentregning","prosentvis endring","prisindeks"],"fag":["2p"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":5}],"title":"Husleie regulert etter KPI","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -25,6 +25,4 @@ I oktober 2024 fikk Felix varsel fra huseieren om at leien igjen skulle settes o
 >b) Lag en oversikt som viser hvor mange prosent konsumprisen økte med per år fra oktober 2021 til oktober 2024.
 >c) Gjør antakelser og beregninger, og finn ut hvor mye Felix må regne med å betale i husleie per måned fra og med oktober 2026.
 
->[!question]- Fasit
->
->[[Løsningsforslag 2P eksamen V2025#Oppgave 2-5\|Løsningsforslag 2P eksamen V2025#Oppgave 2-5]]
+## Fasit

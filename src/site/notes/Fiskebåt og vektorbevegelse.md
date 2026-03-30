@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["vektorer","modellering"],"fag":["r1"],"eksamen":"v25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":4}],"poeng":8,"title":"Fiskebåt og vektorbevegelse","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/fiskebat-og-vektorbevegelse/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"temaer":["vektorer","modellering"],"fag":["r1"],"eksamen":"v25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":4}],"poeng":8,"title":"Fiskebåt og vektorbevegelse","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["vektorer","modellering"],"fag":["r1"],"eksamen":"v25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":4}],"poeng":8,"title":"Fiskebåt og vektorbevegelse","status":0,"source":null,"todo":null,"permalink":"/fiskebat-og-vektorbevegelse/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"temaer":["vektorer","modellering"],"fag":["r1"],"eksamen":"v25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":4}],"poeng":8,"title":"Fiskebåt og vektorbevegelse","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -31,6 +31,4 @@ En annen fiskebåt er i punktet $(-2, 0)$ ved tiden $t = 0$ og holder konstant f
 >[!oppgave]
 >d) Bestem farten denne fiskebåten må holde for å treffe fiskestimen.
 
->[!question]- Fasit
->
->[[Løsningsforslag R1 eksamen V2025#Oppgave 2-4\|Løsningsforslag R1 eksamen V2025#Oppgave 2-4]]
+## Fasit

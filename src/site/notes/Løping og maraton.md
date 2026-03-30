@@ -15,8 +15,7 @@ En maraton er $42\,195 \mathrm{~m}$ lang. I 2023 løp Kelvin Kiptum fra Kenya en
 >[!oppgave]
 >b) Omtrent hvor mange minutter brukte han på hver kilometer han løp?
 
->[!question]- Fasit
->
-> a) $3 \, \mathrm{km}$
-> b) $\approx 3 \, \mathrm{min/km}$
-> [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 1-1\|Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 1-1]]
+## Fasit
+
+a) $3 \, \mathrm{km}$
+b) $\approx 3 \, \mathrm{min/km}$

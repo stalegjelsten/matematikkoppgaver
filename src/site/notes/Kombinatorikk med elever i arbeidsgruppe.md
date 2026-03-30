@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["kombinatorikk","sannsynlighet"],"fag":["s1"],"eksamen":"v25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":3}],"poeng":4,"title":"Kombinatorikk med elever i arbeidsgruppe","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/kombinatorikk-med-elever-i-arbeidsgruppe/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"temaer":["kombinatorikk","sannsynlighet"],"fag":["s1"],"eksamen":"v25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":3}],"poeng":4,"title":"Kombinatorikk med elever i arbeidsgruppe","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["kombinatorikk","sannsynlighet"],"fag":["s1"],"eksamen":"v25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":3}],"poeng":4,"title":"Kombinatorikk med elever i arbeidsgruppe","status":0,"source":null,"todo":null,"permalink":"/kombinatorikk-med-elever-i-arbeidsgruppe/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"temaer":["kombinatorikk","sannsynlighet"],"fag":["s1"],"eksamen":"v25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":3}],"poeng":4,"title":"Kombinatorikk med elever i arbeidsgruppe","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -20,6 +20,4 @@ Emma og Marie er to av jentene.
 >[!oppgave]
 >c) Bestem sannsynligheten for at bare én av de to jentene blir med i arbeidsgruppen.
 
->[!question]- Fasit
->
->[[Løsningsforslag S1 eksamen V2025#Oppgave 2-3\|Løsningsforslag S1 eksamen V2025#Oppgave 2-3]]
+## Fasit

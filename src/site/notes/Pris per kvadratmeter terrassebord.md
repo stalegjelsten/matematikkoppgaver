@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["areal","enhetskostnad","økonomi"],"fag":["1p"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":5}],"poeng":2,"title":"Pris per kvadratmeter terrassebord","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/pris-per-kvadratmeter-terrassebord/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"temaer":["areal","enhetskostnad","økonomi"],"fag":["1p"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":5}],"poeng":2,"title":"Pris per kvadratmeter terrassebord","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["areal","enhetskostnad","økonomi"],"fag":["1p"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":5}],"poeng":2,"title":"Pris per kvadratmeter terrassebord","status":1,"source":null,"todo":null,"permalink":"/pris-per-kvadratmeter-terrassebord/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"temaer":["areal","enhetskostnad","økonomi"],"fag":["1p"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":5}],"poeng":2,"title":"Pris per kvadratmeter terrassebord","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -22,6 +22,4 @@ Hun finner informasjonen nedenfor på nettsiden til en byggevareforhandler. Tykk
 >[!oppgave]
 >Hva blir prisen per kvadratmeter for hver av de to typene terrassebord?
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P eksamen V2025#2-5\|Løsningsforslag 1P eksamen V2025#2-5]]
+## Fasit

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["formler","tolkning","likningssystem"],"fag":["1p"],"eksamen":"h24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":4}],"poeng":3,"title":"Kjøretid og tidsforskjell","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/kjoretid-og-tidsforskjell/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-28","aliases":[],"temaer":["formler","tolkning","likningssystem"],"fag":["1p"],"eksamen":"h24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":4}],"poeng":3,"title":"Kjøretid og tidsforskjell","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["formler","tolkning","likningssystem"],"fag":["1p"],"eksamen":"h24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":4}],"poeng":3,"title":"Kjøretid og tidsforskjell","status":1,"source":null,"todo":null,"permalink":"/kjoretid-og-tidsforskjell/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-28","aliases":[],"temaer":["formler","tolkning","likningssystem"],"fag":["1p"],"eksamen":"h24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":4}],"poeng":3,"title":"Kjøretid og tidsforskjell","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -23,6 +23,4 @@ Camilla vil sammenlikne to andre dager hun kjørte til skolen. Den ene dagen var
 >[!oppgave]
 >b) Hvor lang tid brukte Camilla på hver av de to kjøreturene?
 
->[!question]- Fasit
->
->[[Løsningsforslag/Løsningsforslag 1P eksamen H2024#Oppgave 2-4\|Løsningsforslag 1P eksamen H2024#Oppgave 2-4]]
+## Fasit

@@ -13,6 +13,6 @@ $$
 
 Husk å begrunne svaret.
 
->[!question]- Fasit
-> $3 \lg 70$, $2 \ln e^{3}$, $e^{3 \ln 2}$.
->
+## Fasit
+
+$3 \lg 70$, $2 \ln e^{3}$, $e^{3 \ln 2}$.

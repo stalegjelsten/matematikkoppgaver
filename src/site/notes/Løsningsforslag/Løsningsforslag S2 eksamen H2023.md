@@ -4,20 +4,49 @@
 
 
 ## Oppgave 1-1
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/bestemt-integral-3/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Bestemt integral 3
+
+
+Regn ut integralet
+
+$
+\int_{-1}^{1} \left( x^{3}+2x \right)  \, dx 
+$
+Hva forteller svaret deg?
+
+## Fasit
+
+Svaret er 0.
+
+## Løsningsforslag
+
 Dette integralet trenger ingen spesielle regler eller teknikker for å løses.
 
-$$
+$
 \int_{-1}^{1} \left( x^{3}+2x \right)  \, dx = \left[ \frac{1}{4}x^{4}+\frac{2}{2}x^{2} \right]_{-1}^{1}
-$$
+$
 
 Jeg setter inn grensene og får
 
-$$
+$
 \left( \frac{1}{4}1^{4}+1^{2} \right) - \left( \frac{1}{4}(-1)^{4}+(-1)^{2} \right)=\underline{\underline{0}} 
-$$
+$
 **Siden svaret på integralet er 0 så må det være like mye areal avgrenset av grafen på oversiden av $x$-aksen som på undersiden av $x$-aksen.**
 
+
+</div></div>
+
+
 ## Oppgave 1-2 
+
 ### 1-2a
 Jeg bruker formelen for uendelig geometrisk rekke. Jeg setter inn kjente verdier for å bestemme $k$:
 
@@ -47,24 +76,64 @@ $$
 $\underline{\underline{a_{4} = 38}}$
 
 ## Oppgave 1-3
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/grensekostnader-og-enhetskostnader-fra-graf/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Grensekostnader og enhetskostnader fra graf
+
+
+I koordinatsystemet nedenfor ser du grafen til en kostnadsfunksjon $K$ sammen med tre rette linjer.
+
+De tre rette linjene er grafene til funksjonene $f$, $g$, $h$ der
+
+$
+\begin{aligned}
+f(x)&=31x+2030\\
+g(x)&=60x\\
+h(x)&=81{,}75x
+\end{aligned}
+$
+
+To av linjene tangerer grafen til $K$. Vi kaller tangeringspunktene $A$ og $B$.
+
+![s2-h23-1-3.png](/img/user/_resources/s2-h23-1-3.png)
+
+>[!oppgave]
+> a) Bestem enhetskostnaden ved produksjon av 40 enheter.
+> b) Forklar at grensekostnaden ved produksjon av 40 enheter er 31 kroner.
+> c) Bestem den minste enhetskostnaden.
+
+## Fasit
+
+a) 81,75 kr
+b) Se løsningsforslag. Hint: den deriverte til en funksjon i et punkt er lik stigningstallet til tangenten i punktet.
+c) 60 kr
+
+## Løsningsforslag
+
 ### 1-3a
 Enhetskostnadene er gitt ved
 
-$$
+$
 E(x)=\frac{K(x)}{x}
-$$
+$
 
 Jeg ser at punktet linja $f(x)=31x+2030$ tangerer $K$ ved $x=40$. Dermed har vi
 
-$$
+$
 K(40)=f(40)=31\cdot 40 + 2030=1240+2030=3270
-$$
+$
 
 Ved å sette inn i uttrykket for enhetskostnadene får vi
 
-$$
+$
 E(40)=\frac{K(40)}{40}=\frac{3270}{40}=81{,}75
-$$
+$
 
 **Enhetskostnadene ved produksjon av 40 enheter er 81,75 kr.**
 
@@ -78,32 +147,36 @@ Siden $A$ er et tangeringspunkt på grafen til $K$, og $A$ ligger på $x=40$, s�
 ### 1-3c
 Vi har lavest grensekostnader når $E'(x)=0$, og dette betyr
 
-$$
+$
 \begin{aligned}
 E'(x)&=0 \\
 \left( \frac{K(x)}{x} \right)'&=0  \\
 \frac{K'(x)\cdot x-K(x)}{x^{2}}&=0 \\
 K'(x) \cdot x &= K(x)
 \end{aligned}
-$$
+$
 
 Den nederste linja forteller oss at vi finner den laveste enhetskostnaden når den lineære funksjonen $y=K'(x)\cdot x$ skjærer $K(x)$. Enklere sagt vil det si at vi har lavest enhetskostnad når tangenten til $K$ går gjennom origo. Jeg ser fra grafen at dette gjelder den blå linja og punktet $B$.
 
 Hvis vi fortsetter likningsløsningen litt til får vi:
-$$
+$
 \begin{aligned}
 K'(x) \cdot x &= K(x)\\
 K'(x) &= \frac{K(x)}{x}\\
 K'(x) &= E(x)
 \end{aligned}
-$$
+$
 
 De laveste enhetskostnadene er altså $K'(x)$, eller stigningstallet til tangenten i punktet $B$. Tangenten i $B$ har funksjonsuttrykk $g(x)=60x$. 
 
 **De laveste enhetskostnadene er 60 kr per enhet.**
 
 
+</div></div>
+
+
 ## Oppgave 1-4
+
 ### 1-4a
 **Programmet forsøker å regne ut en tilnærmingsverdi for arealene mellom $x$-aksen, grafen til $f(x)=x^{2}-1$, linja $x=-2$ og linja $x=2$.** 
 
@@ -143,6 +216,7 @@ $$
 **Verdien eleven forsøkte å bestemme er 4.**
 
 ## Oppgave 1-5
+
 ### 1-5a
 Siden det kun er tre typer kuler så må sannsynligheten for å trekke en kule som veier 10 kg være 
 
@@ -190,6 +264,59 @@ P(Y>10)=P(Y=14)+P(Y=15)+P(Y=20)=\frac{1}{8}+\frac{1}{4}+\frac{1}{16}=\frac{2+4+1
 $$
 
 ## Oppgave 2-1
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/modell-for-ettersporsel-av-vare/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Modell for etterspørsel av vare
+
+
+Tabellen viser den daglige etterspørselen etter en vare for ulike priser.
+
+| Pris (kroner) | Etterspørsel |  
+| ---- | ---- | 
+| 10 | 237 | 
+| 20 | 111 |
+| 30 | 49 |
+| 40 | 22 |
+| 50 | 12 |
+
+>[!oppgave]
+>a) Lag en modell $q$ som kan brukes til å beskrive sammenhengen mellom prisen $p$ (i kroner) og den daglige etterspørselen. Vurder gyldighetsområdet til modellen.
+
+>[!oppgave]
+>b) Hva bør prisen for varen være dersom bedriften skal selge 70 enheter per dag?
+
+For en annen vare viser det seg at $p=79-12{,}2\ln x$.
+
+Her er $x$ den daglige etterspørselen når varen koster $p$ kroner.
+
+>[!oppgave]
+>c) Hva må prisen være dersom inntektene skal bli størst mulig?
+
+Kostnadene $K$ (i kroner) ved produksjon og salg av $x$ enheter per dag er gitt ved 
+
+$
+K(x) = 0{,}021x^{2}+10x+910
+$
+
+>[!oppgave]
+>d) Hvor mange enheter må produseres og selges per dag for at grenseinntektene skal bli lik grensekostnadene?
+>Gi en praktisk tolkning av svaret
+
+## Fasit
+
+a) $e(p)=495\cdot 0{,}927^{p}$ 
+b) 25,8 kr
+c) Etterspørsel 238,75 $\approx$ 239 enheter. Pris ca. 12,2 kr.
+d) 80 kr
+
+## Løsningsforslag
+
 ### 2-1a
 ![Eksponentiell modell til oppgave 2-1a](/img/user/_resources/s2-h23-2-1a.png)
 
@@ -207,9 +334,9 @@ Jeg brukte GeoGebra og løste $e(p)=70$ i CAS.
 
 Gitt at $p(x)=79-12{,}2 \ln x$ er en funksjon som angir prisen ved etterspørselen $x$, så er inntekten gitt ved
 
-$$
+$
 I(x)=p(x)\cdot x = (79-12{,}2 \ln x)\cdot x
-$$
+$
 
 Jeg brukte GeoGebra til å finne ekstremalpunktet til $I$ ved å derivere funksjonen og sette den deriverte lik null. Jeg sjekket også at dette punktet var et toppunkt i grafikkfeltet. 
 
@@ -222,7 +349,43 @@ Jeg la inn funksjonsuttrykket for $K(x)$ i CAS. CAS gir at $I'=K'$ ved $x\approx
 
 Grenseinntektene er lik grensekostnadene når det produseres og selges 80 enheter. Når grenseinntektene er lik grensekostnadene så har vi det største overskuddet – dette er altså den optimale produksjons- og salgsmengden.
 
+
+</div></div>
+
+
 ## Oppgave 2-2
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/miriam-og-hermods-sparing/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+# Miriam og Hermods sparing
+
+
+Miriam har bestemt seg for å sette inn 20 000 kroner på en konto i begynnelsen av hvert år. Det første sparebeløpet vil hun sette inn i begynnelsen av 2024, det andre beløpet i begynnelsen av 2025, og så videre. Anta at hun får en fast årlig rentesats på 3,5 prosent.
+
+>[!oppgave]
+>a) Vis at Miriam vil ha 565 594 kroner på kontoen like etter at hun har satt inn innskudd nummer 20.
+
+Hermod har også bestemt seg for å spare. Han vil sette inn et fast beløp i begynnelsen av hvert år. Det første sparebeløpet setter han inn i begynnelsen av 2024. Han får også en fast årlig rentesats på 3,5 prosent. Hermod har regnet ut at han vil ha 692 852 kroner på kontoen like etter at innskudd nummer 20 er satt inn.
+
+>[!oppgave]
+>b) Bestem beløpet Hermod må sette inn hvert år for at dette skal stemme. 
+
+Miriam ønsker at det skal være 1 000 000 kroner på kontoen like etter at hun har satt inn innskudd nummer 20. For å få til dette, vil hun øke innskuddet med et fast beløp hvert år. Første innskudd skal være 20 000 kroner. 
+
+>[!oppgave]
+>c) Hvor mye må hun øke innskuddet med hvert år?
+
+## Fasit
+
+a) –
+b) 24 500 kr
+c) 1 836,33 kr
+
+## Løsningsforslag
 
 ### 2-2a
 
@@ -248,7 +411,49 @@ Jeg brukte samme oppsett i Excel, men la til et ekstrabeløp i B52 som legges ti
 
 **Miriam må øke sparebeløpet med 1 836,33 kr hvert år.**
 
+
+</div></div>
+
+
 ## Oppgave 2-3
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/normalfordelte-vinterdekk/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Normalfordelte vinterdekk
+
+
+En dekkprodusent påstår at bremselengden for en type vinterdekk under bestemte forhold er 83 meter.
+
+La $X$ være bremselengden ved en tilfeldig måling under disse forholdene. Gå ut fra at $X$ er normalfordelt med $\mu=83 \,\text{m}$ og $\sigma=3{,}0\, \text{m}$.
+
+>[!oppgave]
+> a) Bestem sannsynligheten for at bremselengden ved en tilfeldig valgt måling er lengre enn 87 meter.
+> b) Bestem $k$ slik at $P(X<k)=0{,}9$. Gi en praktisk tolkning av svaret.
+> c) Bestem sannsynligheten for at gjennomsnittet av 15 målinger er mindre enn 84 meter.
+
+Noen mener at bremselengden er lengre enn 83 meter. De ville derfor gjennomføre en test under de samme bestemte forholdene, for å sjekke om det er hold i dekkprodusentens påstand.
+
+Det ble gjennomført 15 målinger. Resultatet av målingene (i meter) er gitt i tabellen nedenfor.
+
+|      |      |      |      |      |
+| ---- | ---- | ---- | ---- | ---- |
+| 86,4 | 85,5 | 82,9 | 81,9 | 84,0 |
+| 86,4 | 82,3 | 85,9 | 77,7 | 83,0 |
+| 86,9 | 88,3 | 86,2 | 80,5 | 84,8 |
+
+>[!oppgave]
+>d) Gjennomfør en hypotesetest med et signifikansnivå på 5 prosent til å avgjøre om det er hold i mistanken.
+
+## Fasit
+
+
+## Løsningsforslag
+
 ### 2-3a
 Jeg bestemmer $P(X>87)$ ved hjelp av sannsynlighetsvinduet i GeoGebra. 
 
@@ -287,14 +492,44 @@ Som vi ser fra GeoGebra-utklippet er sannsynligheten så er sannsynligheten 0,06
 
 **Vi kan ikke fastslå om bremselengden egentlig er lengre enn 83 meter med signifikansnivå 0,05.**
 
+
+</div></div>
+
+
 ## Oppgave 2-4
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rekursiv-sammenheng-mellom-pentagontall/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Rekursiv sammenheng mellom pentagontall
+
+
+Hver figur nedenfor består av kuler plassert på pentagoner. Antall kuler på hver av ytterkantene øker med én sammenlignet med antall kuler på ytterkanten i figuren før. La $P_{n}$ være antall kuler i figur $n$. 
+
+De fem første figurtallene er 1, 6, 16, 31 og 51
+
+![](/img/user/_resources/s2-h23-2-4.png)
+*Figurkilde: By HB - Own work, CC BY-SA 3.0, <https://commons.wikimedia.org/w/index.php?curid=872244>*
+
+>[!oppgave]
+>a) Beskriv en rekursiv sammenheng mellom $P_{n}$ og $P_{n-1}$.
+>b) Lag et program som regner ut $P_{1000}$ ved å bruke den rekursive sammenhengen du fant i oppgave a)
+
+## Fasit
+
+
+## Løsningsforslag
 
 ### 2-4a
 Jeg ser at differansen mellom antall kuler i figurene øker med 5, 10, 15, 20. La oss kalle denne differansen for $d$. Vi kan si at $P_{2}=P_{1}+5=P_{1}+d$ og $P_{3}=P_{2}+2d$. Vi ser dermed et mønster og kan sette opp følgende sammenheng for $n\geq 2$: 
 
-$$
+$
 P_{n}=P_{n-1}+(n-1)\cdot d
-$$
+$
 
 ### 2-4b
 ```python
@@ -310,7 +545,34 @@ print(f"Det er {a} kuler i figur {n}.")
 
 **Programmet gir at $P_{100}=24\,751$.**
 
+
+</div></div>
+
+
 ## Oppgave 2-5
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/simuler-sannsynlighet-for-hoyden-til-24-maneder-gammelt-barn/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Simuler sannsynlighet for høyden til 24 måneder gammelt barn
+
+
+Høyden $X$ til en tilfeldig valgt jente på 24 måneder er tilnærmet normalfordelt med forventningsverdi $E(X) = 87$ cm og standardavvik $\text{SD}(X) = 3{,}3$ cm.
+
+Høyden $Y$ til en tilfeldig valgt gutt på 24 måneder er tilnærmet normalfordelt med forventningsverdi $E(Y) = 88$ cm og standardavvik $\text{SD}(Y) = 3{,}1$ cm.
+
+Lag et program som du kan bruke til å anslå sannsynligheten for at høyden til et tilfeldig valgt barn på 24 måneder er mindre enn 84 cm. Gå ut ifra at det er like mange jenter som gutter i populasjonen.
+
+## Fasit
+
+Omtrent 14 %.
+
+## Løsningsforslag
+
 Jeg velger å gjøre oppgaven ved å simulere uttrekk i en populasjon på 10000.
 
 ```python
@@ -345,3 +607,7 @@ print(f"Sannsynligheten for at barnet er mindre enn {grenseverdi} cm ved 24 mån
 ```
 
 **Sannsynligheten er omtrent 0,14 for at et tilfeldig valgt barn på 24 måneder er under 84 cm.**
+
+
+</div></div>
+

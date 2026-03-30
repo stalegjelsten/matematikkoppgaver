@@ -20,8 +20,32 @@ Vi setter prisen per enhet til $p$ kroner, slik at inntekten $I(x)$ kroner er gi
 >[!oppgave]
 >b) Bestem prisen $p$ slik at overskuddet vil bli størst mulig ved produksjon og salg av 180 enheter
 
->[!question]- Fasit
->
->a) Enhetskostnaden er 82,89 kr/enhet og grensekostnaden er 138 kr/enhet.
->b) 138 kr
->[[Løsningsforslag/Løsningsforslag S2 eksamen V2025#Oppgave 1-5\|Løsningsforslag S2 eksamen V2025#Oppgave 1-5]]
+## Fasit
+
+a) Enhetskostnaden er 82,89 kr/enhet og grensekostnaden er 138 kr/enhet.
+b) 138 kr
+
+## Løsningsforslag
+
+### 1-5a
+Enhetskostnaden når det produseres 180 enheter er gitt ved
+$$
+E(180)=\frac{K(180)}{180}=\frac{14\,920}{180}=82{,}89
+$$
+
+> [!tip] Du trenger ikke regne ut delestykket over
+> 
+> Du trenger ikke regne ut $\frac{14920}{180}$ siden du har fått oppgitt en linje fra origo til punktet $(180, 14\,920)$. Stigningstallet til en rett linje er jo $\frac{\Delta y}{\Delta x}$, og i vårt tilfelle vil $K(180)=\Delta y$ og $180=\Delta x$. Denne linja har stigningstallet $82{,}89$, derfor må $\frac{\Delta y}{\Delta x}=\frac{14920}{180}=82{,}89$
+
+Grensekostnaden er den deriverte av kostnadsfunksjonen, og grensekostnaden ved 180 enheter er derfor lik stigningstallet til tangenten til $K$ ved $x=180$. Jeg leser av stigningstallet til tangenten og finner at grensekostnaden er 138.
+
+**Enhetskostnaden ved 180 enheter er 82,89 kr/enhet og grensekostnaden er 138 kr/enhet.**
+
+### 1-5b
+For at vi skal ha størst overskudd må $I'(x)=K'(x)$. Vi bestemmer grenseinntekten.
+$$
+I(x)=p \cdot x \implies I'(x)=p
+$$
+For å finne prisen som gir størst overskudd ved produksjon og salg av 180 enheter så setter vi opp $I'(180)=K'(180)$.
+$$I'(180)=K'(180) \iff p = 138$$
+**Prisen 138 kr gir oss størst overskudd ved produksjon og salg av 180 enheter.**

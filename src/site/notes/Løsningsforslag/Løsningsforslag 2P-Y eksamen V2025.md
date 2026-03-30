@@ -6,27 +6,77 @@
 Jeg blir veldig glad om du melder ifra om feil enten direkte til meg eller via forumet på [matematikk.net](https://matematikk.net/matteprat).
 
 ## Oppgave 1-1
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/elever-i-klassen-basert-pa-prosentandel/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Elever i klassen basert på prosentandel
+
+
+$88\,\%$ av elevene i en klasse deltar i en undersøkelse. Det er $3$ elever som ikke deltar i undersøkelsen.
+
+> [!oppgave]
+> Hvor mange elever er det i klassen?
+
+## Fasit
+
+25 elever i klassen.
+
+## Løsningsforslag
+
 Siden 88 % har svart, så må de gjenværende 12 prosentene tilsvare de 3 elevene. Vi kan gå veien om en ved å finne ut hvor mange elever 1 prosent tilsvarer.
-$$
+$
 \frac{3\text{ elever}}{12 \,\%}=\frac{\cancel{ 3 } \text{ elever}}{\cancel{ 3 } \cdot 4 \, \%}=\frac{1}{4} \text{ elever per \%} = 0{,}25 \text{ elever per \%}
-$$
+$
 1 % tilsvarer altså 0,25 elever, og dermed tilsvarer 100 % 25 elever.
 
 **Det er 25 elever i klassen.**
 
+
+</div></div>
+
+
 ## Oppgave 1-2
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/median-og-gjennomsnitt-i-heisko/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Median og gjennomsnitt i heiskø
+
+
+Trine og Truls står i kø for å ta en skiheis. De teller hvor mange personer som blir med i hver av vognene som kjører forbi før det blir deres tur. Resultatene ser du nedenfor:
+
+$6\qquad 3\qquad 2\qquad 4\qquad 4\qquad 6\qquad 2\qquad 7\qquad 8\qquad 8$
+
+a) Bestem medianen og gjennomsnittet.
+b) Bestem den kumulative frekvensen for $6$ personer, og gi en praktisk tolkning av svaret.
+
+## Fasit
+
+a) Medianen er $5$ og gjennomsnittet er $5$.
+b) Den kumulative frekvensen for $6$ personer er $7$ (det var 7 av de 10 observasjonene som var $\le6$).
+
+## Løsningsforslag
 
 ### 1-2a
 Medianen er det midterste tallet etter at vi har sortert dem stigende
-$$
+$
 2,2,3,4,\underbrace{ 4,6 }_{ \text{Median} },6,7,8,8
-$$
+$
 Siden både 4 og 6 står i midten så er medianen 5.
 
 Gjennomsnittet er summen av tallene delt på antallet observasjoner.
-$$
+$
 \frac{\text{Sum}}{\text{Antall observasjoner}}=\frac{2+2+3+4+4+6+6+7+8+8}{10}=\frac{50}{10}= \underline{\underline{5}}.
-$$
+$
 **Medianen er 5 og gjennomsnittet er 5.**
 
 ### 1-2b
@@ -34,7 +84,34 @@ Den kumulative frekvensen for 6 personer er antallet observasjoner som er 6 elle
 
 **Den kumulative frekvensen for 6 personer er 7, det betyr at det i 7 av de 10 tilfellene var 6 personer eller færre i vogna i skiheisen.**
 
+
+</div></div>
+
+
 ## Oppgave 1-3
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/omvendt-proporsjonal-klassefest/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Omvendt proporsjonal klassefest
+
+
+Elevene i klasse 3PBB vil leie et lokale for å arrangere klassefest. De vil spleise på utgiftene. Ovenfor ser du grafen til en funksjon $f$. Grafen viser sammenhengen mellom hvor mange elever som blir med på festen, og prisen hver elev må betale:
+
+>[!oppgave]
+>a) Hvor mye må hver elev betale dersom $20$ elever blir med på festen?
+>b) Bestem funksjonsuttrykket $f(x)$.
+
+## Fasit
+
+a) Det koster $400\text{ kr}$ per elev ved $20$ deltakere.
+b) $f(x)=\dfrac{8000}{x}$.
+
+## Løsningsforslag
 
 ### 1-3a
 Jeg ser at dette er en omvendt proporsjonal funksjon siden en dobling fra 2 til 4 deltakere gir en halvering av prisen per elev fra 4000 kr til 2000 kr.
@@ -45,38 +122,122 @@ Siden det koster 800 kr per person hvis de er 10 elever må det koste 400 kr per
 
 ### 1-3b
 Funksjonsuttrykkene for omvendt proporsjonale er på formen
-$$
+$
 f(x)=\frac{k}{x}
-$$
+$
 Der $k$ er prisen når $x=1$. I dette tilfellet må prisen være 8000 kr for å leie lokalet (siden det koster 4000 kr per person for 2 personer). Funksjonsuttrykket er derfor
-$$
+$
 \underline{\underline{f(x)=\frac{8000}{x}}}
-$$
+$
+
+
+</div></div>
+
 
 ## Oppgave 1-4
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/prosentvis-framgang-for-to-partier/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Prosentvis framgang for to partier
+
+
+I en kommune fikk Høyre $24\%$ av stemmene ved forrige valg. Fremskrittspartiet fikk $16\%$. En meningsmåling viser at begge partiene har økt sin oppslutning med $4$ prosentpoeng siden valget.
+
+Hvilket parti har hatt størst prosentvis framgang? Husk å begrunne svaret.
+
+## Fasit
+
+Fremskrittspartiet har størst prosentvis framgang (fra $16\%$ til $20\%$ gir $\tfrac{4}{16}\cdot100\%=25\%$, mens Høyre går fra $24\%$ til $28\%$ som gir $\tfrac{4}{24}\cdot100\%\approx16{,}7\%$).
+
+## Løsningsforslag
+
 Høyre sin framgang var fra 24 % til 28 %, det gir en prosentvis framgang på 
-$$
+$
 \text{Høyres prosentvise endring} = \frac{4 \,\%}{24 \,\%} \cdot 100 \,\%= \frac{\cancel{ 4 } \,\%}{\cancel{ 4 } \cdot 6 \,\%} \cdot 100 \,\%= \frac{100}{6} \,\%
-$$
+$
 Fremskrittspartiet sin framgang var fra 16 % til 20 %, det gir en prosentvis framgang på
-$$
+$
 \text{FrPs prosentvise endring} = \frac{4 \,\%}{16 \,\%} \cdot 100 \,\%= \frac{\cancel{ 4 } \,\%}{\cancel{ 4 } \cdot 4 \,\%} \cdot 100 \,\%= \frac{100}{4} \,\%
-$$
+$
 **Siden $\frac{100}{4}$ er mer enn $\frac{100}{6}$ må Fremskrittspartiet ha hatt den største prosentvise framgangen.**
 
 >[!tip] Andre måter å argumentere for oppgave 1-4
 >
 >Det er mulig at man kan få full uttelling (1 poeng) ved å argumentere for 4 prosentpoeng vil være mye mer verdt for et lite parti enn et stort parti (uten å gjøre beregninger). Hvis beregningene ovenfor er vanskelig så anbefaler jeg at du heller lager et enklere eksempel enn oppgaveteksten inneholder. Hvis du heller velger å sammenligne et parti som har 4 % og som får 4 prosentpoeng økning mot et parti som har 8 % og får 4 prosentpoeng økning, så får du mye enklere regnestykker. Da vil du ha gjort beregninger som viser at argumentet om at 4 prosentpoeng er «mest verdt» for et lite parti stemmer.
 
+
+</div></div>
+
+
 ## Oppgave 1-5
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/fa-storst-mulig-svar/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Få størst mulig svar
+
+
+I denne oppgaven skal du bruke fire av tallene $1,2,3,4,5,6,7,8,9$. Hvert tall kan bare brukes én gang.
+
+Skriv av og fyll inn ett tall i hver av de fire rutene i regnestykket nedenfor slik at svaret blir størst mulig:
+
+$
+10^{\Box}\times \Box \;-\; \Box\times 10^{\Box} \;=\;
+$
+
+## Fasit
+
+$8\cdot10^{9} - 2\cdot10^{1}$.
+
+## Løsningsforslag
+
 Vi ser et regnestykke med differansen mellom to ulike ledd. For at svaret skal bli størst mulig må det første leddet være så stort som mulig, og det andre leddet (det vi trekker fra) må være så lite som mulig.
 
 Siden potenser blir veldig store når eksponentene er høye så vil $8 \cdot 10 ^{9}$ være det største tallet vi kan skrive, og $2 \cdot 10^{1}$ være det minste tallet vi kan skrive, dermed vil det regnestykket som gir det høyeste svaret være
-$$
+$
 \underline{\underline{8\cdot 10 ^{9} - 2 \cdot 10^{1}}}
-$$
+$
+
+
+</div></div>
+
 
 ## Oppgave 1-6
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/figurtall-2-py-v2025/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Figurtall 2PY v2025
+
+
+![](/img/user/_resources/2py-v25-1-6-oppg.png)
+
+Ovenfor ser du tre figurer. Figurene er satt sammen av små hvite og grønne kvadrater. Tenk deg at du skal fortsette å lage figurer etter samme mønster.
+
+>[!oppgave]
+> a) Hvor mange små grønne kvadrater vil det være i figur $5$?
+> b) Lag en formel for antallet hvite kvadrater i figur $n$.  
+
+## Fasit
+
+a) $64$  
+b) $H_n=3n-2$  
+c) $G_n=2n^2+2n+4$
+
+## Løsningsforslag
 
 ### 1-6a
 >[!tip] Ulike måter å begrunne svaret på oppgave 1-6
@@ -103,19 +264,19 @@ Antallet hvite kvadrater øker med 3 for hver figur, og det starter på 1.
 ![Oppdeling av figur 3 i oppgave 1-6b](/img/user/_resources/2py-v25-1-6b.png)
 
 I figuren over har jeg delt opp figur nr 3 i 4 ulike deler. Jeg ser at vi har tre like deler med lengde 2 merket med lilla farge. Disse er altså 1 mindre enn figurtallet. I tillegg har vi en ekstra hvit rute som er fast i alle figurene, merket med rød farge. For figur 3 kunne vi altså skrevet opp antallet som $3 \cdot 2 + 1$ eller ved å bruke figurnummeret $\textcolor{seagreen}{3}$ kunne vi skrevet $3 \cdot (\textcolor{seagreen}{3}-1) + 1$. Et generelt uttrykk for hvite ruter i figur nummer $n$ blir derfor
-$$
+$
 \underline{\underline{H_{n}=3 \cdot (n-1) + 1=3n-2}}
-$$
+$
 
 ### 1-6c
 Jeg har allerede sett at det er mulig å finne størrelsen av hele rektangelet og trekke fra de hvite feltene for å finne ut hvor mange grønne ruter det er. Det store rektangelet øker med 2 i bredden og 1 i høyden, og vi ser at bredden er $2n+1$, mens høyden er $n+2$. Altså er antall ruter i hele rektangelet
-$$
+$
 \begin{aligned}
 \text{Antall ruter totalt} &= \left( 2n+1 \right) \cdot \left( n+2 \right)\\ &=2n \cdot n + 2n \cdot 2 + 1 \cdot n + 1 \cdot 2\\ &=2n^{2}+4n+n+2\\ &=2n^{2}+5n+2
 \end{aligned}
-$$
+$
 For å finne antallet grønne ruter så kan vi trekke fra antallet hvite ruter.
-$$
+$
 \begin{aligned}
 \text{Antall grønne} &= \text{Antall ruter totalt} - \text{Antall hvite} \\
 &=\left(  2n^{2}+5n+2 \right) - \left( 3n-2 \right) \\
@@ -123,17 +284,51 @@ $$
 &= 2n^{2}+5n-3n+2+2\\
 &= 2n^{2}+2n+4
 \end{aligned}
-$$
+$
 I figur nummer $n$ er antallet grønne kvadrater gitt ved:
-$$
+$
 \underline{\underline{G_{n}=2n^{2}+2n+4}}
-$$
+$
 
 ![Oppdeling av figur 3 i oppgave 1-6c](/img/user/_resources/2py-v25-1-6-a.png)
 
 Vi kunne også funnet formelen for antallet grønne felter ved å dele opp de grønne feltene i mindre deler, se figuren.
 
+
+</div></div>
+
+
 ## Oppgave 1-7
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/median-og-gjennomsnitt-fra-klassedelt-alder/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Median og gjennomsnitt fra klassedelt alder
+
+
+I tabellen nedenfor finner du informasjon om alderen til $100$ personer som er medlemmer på et treningssenter:
+
+|   Alder (år)    | Antall medlemmer |
+| :-------------: | :--------------: |
+| $[16,20\rangle$ |       $20$       |
+| $[20,40\rangle$ |       $40$       |
+| $[40,60\rangle$ |       $30$       |
+| $[60,90\rangle$ |       $10$       |
+
+Trine påstår at gjennomsnittsalderen er ca. $38$ år, og at medianalderen er ca. $35$ år.
+
+Gjør beregninger og vis at påstandene kan være riktige. Trine må ha gjort en antakelse for å kunne regne seg fram til disse verdiene. Gjør rede for en mulig antakelse. 
+
+## Fasit
+
+Gjennomsnitt ≈$38{,}1$ år, median ≈$35$ år (ved jevn fordeling i hver klasse).
+
+## Løsningsforslag
+
 Trine må ha antatt at det er omtrent like mange personer i hver alder i hver klasse, altså at det for eksempel er 5 16-åringer, 5 17-åringer, 5 18-årnger og 5 19-åringer i den første klassen.
 
 Hvis den antakelsen stemmer så kan vi finne gjennomsnittsalder ved å ta klassemidtpunktet for hver klasse og multiplisere med antallet medlemmer i klassen.
@@ -162,7 +357,55 @@ Hvis vi fordeler personene i klassen $[20, 40\rangle$ i 5-årsgrupper så finner
 > 
 > ![](/img/user/_resources/2py-v25-1-7.png)
 
+
+</div></div>
+
+
 ## Oppgave 1-8
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/program-for-reduksjon-av-matsvinn/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Program for reduksjon av matsvinn
+
+
+Et av FNs bærekraftsmål er å redusere matsvinn. Sofie har lest at en familie på fire kaster ca. $160\text{ kg}$ mat hvert år. Hun har laget programmet nedenfor.
+
+```python ln
+matsvinn = 160
+mål = matsvinn / 2
+vf = 0.87
+
+år = 2025
+
+while matsvinn > mål:
+    matsvinn = matsvinn * vf
+    år = år + 1
+
+print(år)
+print(matsvinn)
+```
+
+Når Sofie kjører programmet, blir disse verdiene skrevet ut:
+```
+2030
+79.74734731199999
+```
+
+>[!oppgave]
+>Forklar hva Sofie ønsker å finne ut.  
+>Hva forteller verdiene som blir skrevet ut når Sofie kjører programmet?
+
+## Fasit
+
+Sofie ønsker å finne ut hvor mange år det tar før matsvinnet er halvert (til under $80\text{ kg}$). Verdiene viser at målet nås i $2030$ med utslipp på $79{,}7\text{ kg}$.
+
+## Løsningsforslag
+
 I programmet ser jeg følgende:
 
 - Linje 1: matsvinnet starter på 160 kg
@@ -176,7 +419,53 @@ I programmet ser jeg følgende:
 
 **Verdiene som skrives ut forteller at vi når målet i 2030 dersom vi reduserer med 13 % per år, og at utslippet da vil være 79,7 kg per familie på fire.**
 
+
+</div></div>
+
+
 ## Oppgave 2-1
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/modell-for-reduksjon-av-utslipp/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+
+Ledelsen ved en bedrift ønsker å redusere utslippet av miljøskadelige stoffer de neste årene. I dag har bedriften to produksjonsprosesser:
+
+1. Den ene slipper ut $5000\text{~tonn}$ per år
+2. Den andre slipper ut $1000\text{~tonn}$ per år. 
+ 
+Ledelsen mener funksjonen
+$U(x)=5000\cdot0{,}95^x+1000$
+
+er en god modell for utslippet $U(x)$ tonn per år etter $x$ år.
+
+
+> [!oppgave]
+>
+> a) Forklar hva modellen forteller om ledelsens plan for å redusere utslippet.
+> b) Hvor lang tid vil det gå før bedriften har halvert det årlige utslippet ifølge modellen?
+> c) Hvor mange prosent er det årlige utslippet redusert med etter $10$ år ifølge modellen?
+> d) Bestem stigningstallet til den rette linjen som går gjennom punktene $(0,U(0))$ og $(30,U(30))$. Gi en praktisk tolkning av svaret.
+
+Myndighetene har krevd at utslippet skal reduseres til $800\text{ tonn}$ per år. 
+
+> [!oppgave]
+> Vurder om det ifølge modellen $U$ er mulig å oppfylle dette kravet.
+
+## Fasit
+
+a) Den ene prosessen reduseres med $5\%$ per år, den andre holdes konstant på $1000\text{ tonn}$.
+b) $18$ år.
+c) $33{,}4\%$ reduksjon.
+d) Stigningstallet ≈$-131$, som betyr en gjennomsnittlig årlig nedgang på $131\text{ tonn}$ de første 30 årene.  
+e) Nei, modellen har alltid $U(x)>1000$ og vil aldri nå $800$).
+
+## Løsningsforslag
+
 ### 2-1a
 $U(x)$ består av to ledd: $\textcolor{maroon}{5000 \cdot 0{,}95^{x}}$ og $\textcolor{seagreen}{1000}$. 
 
@@ -211,14 +500,73 @@ Jeg sjekket dette ved å lete etter skjæringen i mellom $y=800$ og $U(x)$ i Geo
 
 **Det er ikke mulig å komme ned til 800 tonn per år med dagens modell.**
 
+
+</div></div>
+
+
 ## Oppgave 2-2
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/burj-khalifa-standardform/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+
+
+Skyskraperen Burj Khalifa i Dubai er $825\text{ m}$ høy. Et kronestykke er $1{,}7\text{ mm}$ tykt. Tenk deg at du skal bygge et tårn av kronestykker like høyt som Burj Khalifa.
+
+Omtrent hvor mange kronestykker vil du trenge? Skriv svaret på standardform.
+
+## Fasit
+
+Ca. $4{,}86\cdot10^5$ kronestykker.
+
+## Løsningsforslag
+
 ![Kronestykker på høyde med Burj Khalifa](/img/user/_resources/2py-v25-2-2.png)
 
 Se utklippet over. 
 
 **Du vil trenge omtrent $\underline{\underline{4{,}86 \cdot 10 ^{5}}}$ kronestykker.**
 
+
+</div></div>
+
+
 ## Oppgave 2-3
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/pastander-om-gjennomsnitt-og-median-i-et-rom/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Påstander om gjennomsnitt og median i et rom
+
+
+I et rom er det $10$ personer. Nedenfor ser du alderen til hver person:
+
+$12,\,14,\,40,\,42,\,70,\,67,\,5,\,5,\,28,\,30$
+
+Påstand 1: Dersom det kommer en ny person inn i rommet, vil medianalderen endres.
+
+>[!oppgave]
+> a) Er denne påstanden riktig? Begrunn.
+
+Påstand 2: Dersom det kommer en ny person inn i rommet, kan gjennomsnittsalderen bli $30$ år.
+
+>[!oppgave]
+>b) Er denne påstanden riktig? Begrunn.
+
+## Fasit
+
+a) Det kommer an på alderen på den som kommer. Hvis den er 29 år så blir medianen uendret.
+b) Ja, hvis personen er 17 år.
+
+## Løsningsforslag
 
 ### 2-3a
 Akkurat nå er det 10 personer i rommet. Medianalderen blir da gjennomsnittet av aldrene til person nummer 5 og 6. Denne medianalderen er foreløpig $\frac{28+30}{2}=29$ år.
@@ -235,41 +583,101 @@ Dersom det kommer en ellevte person inn så er det person nr. 6 som vil være me
 Hvis det kommer en ny person inn i rommet så blir det 11 personer i rommet. Hvis deres gjennomsnittsalder skal være 30 så må summen av alle aldrene være $11 \cdot 30 = 330$ år.
 
 Foreløpig er summen av aldrene 313 år. Hvis den siste personen er 17 år så blir blir summen 330 år, og dermed blir gjennomsnittet
-$$
+$
 \frac{330 \text{ år}}{11}=30 \text{ år}
-$$
+$
 **Påstanden er riktig.**
 
+
+</div></div>
+
+
 ## Oppgave 2-4
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/proporsjonal-pris-pa-antibac/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Proporsjonal pris på antibac
+
+
+Antibac-hånddesinfeksjon selges i flere størrelser. Flasken med $600\text{ ml}$ koster $114\text{ kr}$.
+
+Hva skulle den store kannen ($4\text{ l}$) og den lille sprayflasken ($100\text{ ml}$) ha kostet dersom pris og mengde var proporsjonale?
+
+## Fasit
+
+Kanne $4\text{ l}=4000\text{ ml}$: $114\cdot\frac{4000}{600}=760\text{ kr}$
+Spray $100\text{ ml}$: $114\cdot\frac{100}{600}=19\text{ kr}$
+
+## Løsningsforslag
+
 Hvis pris og mengde skal være proporsjonale størrelser så må det være en fast pris per liter eller milliliter med antibac.
 
 For den ene flasken er prisen per milliliter
-$$
+$
 \frac{114 \text{ kr}}{600 \text{ ml}}=0{,}19 \text{ kr/ml}
-$$
+$
 De andre flaskene må da koste
-$$
+$
 \begin{aligned}
 P_{\text{stor flaske}}&=4000 \text{ ml} \cdot 0{,}19 \text{ kr/ml}=\underline{\underline{760 \text{ kr}}} \\
 P_{\text{liten flaske}}&=100 \text{ ml} \cdot 0{,}19 \text{ kr/ml}= \underline{\underline{19 \text{ kr}}}
 \end{aligned}
-$$
+$
 
 **Den lille flasken må koste 19 kr og den store flasken må koste 760 kr for at prisene og mengde skal være proporsjonale størrelser.**
 
+
+</div></div>
+
+
 ## Oppgave 2-5
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/modell-for-lengde-av-skjerf/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Modell for lengde av skjerf
+
+
+Elevene ved en folkehøyskole holder på å strikke et langt skjerf.
+
+I dag er skjerfet 8 meter langt.
+
+- Elevene ønsker å organisere strikkingen slik at lengden av skjerfet øker med like mange centimeter hver uke.
+- Målet er at skjerfet etter 25 uker skal være 40 meter langt.
+
+>[!oppgave]
+> a) Sett opp en modell som viser hvor langt skjerfet vil være etter $x$ dersom elevene klarer å organisere strikkingen slik de ønsker, og når målet.
+
+>[!oppgave]
+>b) Hvor mange uker vil det gå før skjerfet er 17 meter langt, ifølge modellen i oppgave a)?
+
+## Fasit
+
+a) $y=1{,}28x+8$
+b) 7 uker
+
+## Løsningsforslag
 
 ### 2-5a
 For at skjerfet skal øke med like mange centimeter per uke, så må vi bruke en lineær modell på formen $y=ax+b$. 
 
 Vi vet at skjerfet er 8 m i dag, og at det skal bli 40 meter etter 25 uker. Det skal altså øke med vekstfarten
-$$
+$
 \frac{40 \text{ m}-8\text{ m}}{25\text{ uke}}=1{,}28 \text{ meter per uke}
-$$
+$
 En lineær modell for lengden på skjerfet etter $x$ uker vil derfor være
-$$
+$
 y=1{,}28x+8
-$$
+$
 
 
 >[!note] Løsning med regresjon
@@ -278,9 +686,9 @@ $$
 
 ### 2-5b
 Jeg løser oppgaven i CAS. Vi skal finne ut når funksjonen vår passerer 17 m, vi skal altså løse likningen
-$$
+$
 1{,}28x+8=17
-$$
+$
 
 ![Løsning av 2-5b i CAS](/img/user/_resources/2py-v25-2-5b.png)
 
@@ -290,7 +698,43 @@ $$
 >
 > Vi kan tegne funksjonen i GeoGebra og finne skjæringen med linja $y=17$, men dette tar litt ekstra tid.
 
+
+</div></div>
+
+
 ## Oppgave 2-6
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/halvert-fuglebestand/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Halvert fuglebestand
+
+
+En fuglebestand i et område er blitt halvert i løpet av de fem siste årene.  
+I dag er det 12 000 fugler i bestanden.
+
+Forskere mener bestanden vil fortsette å bli halvert hvert femte år framover.
+
+>[!oppgave]
+> a) Vis at funksjonen $F$ gitt ved $F(x)=12\,000 \cdot 0{,}87^{x}$ er en god modell for antallet fugler etter $x$ år.
+
+>[!oppgave]
+> b) Hvor stor vil bestanden være etter 7 år ifølge modellen?
+
+>[!oppgave]
+> c) Hvor mange år vil det gå før bestanden er redusert med 35 % ifølge modellen?
+
+## Fasit
+
+a) –
+b) 4527 fugler
+c) 3 år
+
+## Løsningsforslag
 
 ### 2-6a
 Jeg bruker regresjon for å vise dette, se figuren.
@@ -313,8 +757,50 @@ Når bestanden er redusert med 35 % er det 65 % igjen, altså $12000 \cdot 0{,}6
 **Det tar 3 år før bestanden er redusert med 35 % ifølge modellen.**
 
 
+</div></div>
+
 
 ## Oppgave 2-7
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/lag-presentasjon-som-viser-dods-og-fodselsrate/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Lag presentasjon som viser døds- og fødselsrate
+
+
+|  År  | Antall<br> fødte | Antall døde | Fødselsrate | Dødsrate | Samlet fruktbarhetstall |
+| :--: | :--------------: | :---------: | :---------: | :------: | :-----------: |
+| 1983 |      49 937      |   42 224    |    12,1     |   10,2   |            1,66             |
+| 1993 |      59 678      |   46 597    |    13,8     |   10,8   |            1,86             |
+| 2003 |      56 458      |   42 478    |    12,4     |   9,3    |            1,80             |
+| 2013 |      58 995      |   41 282    |    11,6     |   8,1    |            1,78             |
+| 2023 |      51 980      |   43 803    |     9,4     |   7,9    |            1,40             |
+
+Datamaterialet ovenfor er hentet fra Statistisk sentralbyrås nettsider.
+
+- Fødselsrate og dødsrate er antall fødte og døde per 1000 innbyggere.
+- Samlet fruktbarhetstall forteller hvor mange barn som i gjennomsnitt fødes per kvinne.
+
+Tenk deg at du skal presentere dette datamaterialet i et foredrag.
+
+
+> [!oppgave] Title
+> Gjør relevante sammenlikninger og beregninger, og lag ulike framstillinger som du kan bruke i en presentasjon.
+
+Presentasjonen skal inneholde
+
+- diagrammer som illustrerer utviklingen gjennom perioden fra 1983 til 2023
+- beregninger som viser prosentvise endringer fra 1983 til 2023
+
+## Fasit
+
+
+## Løsningsforslag
+
 Figuren viser et eksempel på svar på denne oppgaven, hvor jeg viser ulike framstillinger og beregninger. 
 
 Siden vi skal skal vise utvikling over tid fra 1983 til 2023 så passer linjediagrammer best. Jeg lager tre ulike linjediagrammer, ett diagram som passer til hver måleenhet (antall, antall per 1000 og antall per kvinne). For å vise beregninger med prosentvise endringer så har jeg laget en tabell som viser prosentvis endring fra 1983 fram til hvert år, og jeg har også vist formlene for beregningene i presentasjonen.
@@ -332,3 +818,7 @@ Siden vi skal skal vise utvikling over tid fra 1983 til 2023 så passer linjedia
 >>Sensor skal også vurdere kandidatens digitale kompetanse, dvs. valg av egnede diagramtyper, og hvor tydelig informasjonen kommer fram i hvert diagram (bruk av overskrifter, aksetitler, dataetiketter osv.) Som et utgangspunkt kan de 4 poengene uttrykke høy måloppnåelse (4 poeng), middels måloppnåelse (2 - 3 poeng) og lav måloppnåelse (1 poeng). 
 > 
 > Jeg synes det er vanskelig å tolke fra oppgaveteksten om det er tilstrekkelig å bare ha med diagrammer som illustrerer utviklingen og beregningen som viser prosentvise endringer, eller om vi skal skal ta med *enda flere* relevante sammenligninger og beregninger.
+
+
+</div></div>
+

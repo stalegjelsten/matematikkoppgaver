@@ -21,10 +21,53 @@ Alex har som mål å omsette for 20 000 kroner per måned.
 >c) Når kommer Alex til å nå målet, ifølge modellen?
 >d) Hvor mange prosent må omsetningen øke med per måned etter juni 2025 dersom Alex skal nå målet i løpet av desember 2025?
 
->[!question]- Fasit
->
->a) $f(x)=1267 \cdot 1{,}124^{x}$
->b) 12,4 %
->c) I mars 2027 (24 måneder etter februar 2025)
->d) 54,7 %
->[[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2025#Oppgave 2-1\|Løsningsforslag 2P-Y eksamen H2025#Oppgave 2-1]]
+## Fasit
+
+a) $f(x)=1267 \cdot 1{,}124^{x}$
+b) 12,4 %
+c) I mars 2027 (24 måneder etter februar 2025)
+d) 54,7 %
+
+## Løsningsforslag
+
+### 2-1a
+![Regresjon for Alex sitt salg av hodepynt](/img/user/_resources/2py-h25-2-1-regr.png)
+
+Jeg la inn dataene i GeoGebra og brukte regresjon med en eksponentiell modell
+
+**Modellen $\underline{\underline{f(x) = 1271 \cdot 1{,}124^{x}}}$ der $x$ er antall måneder etter februar 2025 passer godt for Alex' omsetning.**
+
+### 2-1b
+
+Vekstfaktoren $b = 1{,}124$ tilsvarer $112{,}4 \,\%$. Siden utgangspunktet vårt er 100 %, så blir økningen 12,4 %.
+
+**Omsetningen øker med omtrent $\underline{\underline{12{,}4\,\%}}$ per måned ifølge modellen.**
+
+### 2-1c
+
+![$f$ skjærer $y=20000$ når omsetningen er 20 000 kr](/img/user/_resources/2py-h25-2-1c-graf.png)
+
+Vi kan enten løse likningen $f(x)=20000$ i CAS i GeoGebra, eller så kan vi finne skjæringen med linjen $y=20000$ slik jeg har gjort i figuren-1c-graf, se punkt $A$.
+
+**Alex kommer til å nå målet etter omtrent $\underline{\underline{23{,}5}}$ måneder, det vil si i $\underline{\underline{\text{januar 2027}}}$ ifølge modellen.**
+
+### 2-1d
+
+Vi skal finne hvor mange prosent omsetningen må øke med per måned etter juni 2025 for å nå målet i desember 2025.
+
+**Framgangsmåte:**
+
+- I juni (måned 4) er omsetningen: $2032$ kr
+- Fra juni til desember er det 6 måneder
+- Vi vil nå 20 000 kr i desember
+
+Vi kaller vekstfaktoren til økningen $x$ og setter opp likningen
+$$
+2032 \cdot x^{6}=20\,000
+$$
+
+![CAS-løsning av oppgave 2-1d](/img/user/_resources/2py-h25-2-1d.png)
+
+Denne vekstfaktoren tilsvarer 46,4 % økning.
+
+**Omsetningen må øke med omtrent $\underline{\underline{46{,}4\,\%}}$ per måned etter juni 2025 for at Alex skal nå målet i løpet av desember 2025.**

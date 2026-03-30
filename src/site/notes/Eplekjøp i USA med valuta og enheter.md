@@ -13,7 +13,24 @@ Synnøve er på ferie i USA. En dag går hun innom en butikk for å kjøpe epler
 >[!oppgave]
 >Hvor mange norske kroner kostet ett kilogram epler?
 
->[!question]- Fasit
->
-> $\approx 31 \, \mathrm{kr/kg}$
-> [[Løsningsforslag/Løsningsforslag 1P eksamen H2025#Oppgave 2-4\|Løsningsforslag 1P eksamen H2025#Oppgave 2-4]]
+## Fasit
+
+$\approx 31 \, \mathrm{kr/kg}$
+
+## Løsningsforslag
+
+Synnøve kjøper 3 pund epler for 4,18 dollar. Vi regner om til norske kroner per kilogram:
+
+Omregner fra pund til kilo:
+
+$$3 \, \mathrm{lb} = 3 \cdot 0{,}454 \, \mathrm{kg} = 1{,}362 \, \mathrm{kg}$$
+
+Pris per kilogram i dollar:
+
+$$\frac{4{,}18 \, \mathrm{USD}}{1{,}362 \, \mathrm{kg}} \approx 3{,}07 \, \mathrm{USD/kg}$$
+
+Omregner til norske kroner:
+
+$$3{,}07 \cdot 10{,}16 \approx 31{,}2$$
+
+**Ett kilogram epler kostet omtrent $\underline{\underline{31 \, \mathrm{kr/kg}}}$.**

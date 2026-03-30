@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-16","aliases":[],"dg-publish":true,"temaer":["formler","tallregning","samlet mengde"],"fag":["1p-y el"],"eksamen":"h25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":5}],"title":"Fylle svømmebasseng","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/fylle-svommebasseng/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-16","aliases":[],"temaer":["formler","tallregning","samlet mengde"],"fag":["1p-y el"],"eksamen":"h25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":5}],"title":"Fylle svømmebasseng","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-16","aliases":[],"dg-publish":true,"temaer":["formler","tallregning","samlet mengde"],"fag":["1p-y el"],"eksamen":"h25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":5}],"title":"Fylle svømmebasseng","status":1,"source":null,"todo":null,"permalink":"/fylle-svommebasseng/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-16","aliases":[],"temaer":["formler","tallregning","samlet mengde"],"fag":["1p-y el"],"eksamen":"h25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":5}],"title":"Fylle svømmebasseng","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -26,8 +26,7 @@ Tenk deg at
 >[!oppgave]
 >b) Gjør beregninger og vurder hvor mange arbeidsdager Trond ville brukt på å fylle bassenget på denne måten.
 
->[!question]- Fasit
->
-> a) $\approx 8{,}68 \, \mathrm{L/s}$ per brannslange
-> b) $\approx 4\,286 \, \text{arbeidsdager}$
-> [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 2-5\|Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 2-5]]
+## Fasit
+
+a) $\approx 8{,}68 \, \mathrm{L/s}$ per brannslange
+b) $\approx 4\,286 \, \text{arbeidsdager}$

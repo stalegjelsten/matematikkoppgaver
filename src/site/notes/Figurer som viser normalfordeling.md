@@ -24,8 +24,27 @@ En stokastisk variabel er normalfordelt med $E(X)=50$ og $\sigma=10$.
 
 ![](/img/user/_resources/s2-h24-1-4b.png)
 
->[!question]- Fasit
-> 
->a) Figur 2
->b) Figur 3
->[[Løsningsforslag/Løsningsforslag S2 eksamen H2024#Oppgave 1-4\|Løsningsforslag S2 eksamen H2024#Oppgave 1-4]]
+## Fasit
+
+a) Figur 2
+b) Figur 3
+
+## Løsningsforslag
+
+### 1-4a
+Vi kan bruke en binomisk sannsynlighetsmodell siden vi kan regne dette som 1000 uavhengige forsøk hvor frøene enten spirer eller ikke spirer. På grunn av sentralgrensesetningen kan vi også bruke normalfordeling som en tilnærming til den binomiske fordelingen. 
+$$\text{Var}(X)=np(1-p)=1000\cdot 0{,}7\cdot 0{,}3=210$$
+I dette tilfellet er normalfordelingen en svært god tilnærming til den binomiske fordelingen siden variansen er mye større enn 5.
+
+Vi bestemmer forventningsverdien og standardavviket
+$$
+E(X)=\mu=np=1000\cdot 0{,}7=700 \quad \text{og} \quad \sigma=\sqrt{ 210 } \approx 14
+$$
+Vi vet at omtrent 68 % av utfallene kommer til å havne innenfor ett standardavvik fra forventningsverdien, altså at $P(\mu-\sigma<X<\mu+\sigma)\approx 0{,}68$.
+
+Vi ser at figur 1 må ha et standardavvik på mer enn 100, **derfor må figur 2 være riktig figur.**
+
+### 1-4b
+Vi kan bruke samme tankegang som i forrige oppgave. Vi ser at figur 4 har mye mer enn 68 % av sitt skraverte areal innenfor intervallet $\left[ \mu-\sigma , \mu+\sigma \right]=\left[ 40 , 60 \right]$.
+
+**Figur 3 viser sannsynlighetstettheten.**

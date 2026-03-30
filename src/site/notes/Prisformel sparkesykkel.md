@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-05-26","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["lineær vekst","formler","likninger"],"fag":["1p-y el"],"eksamen":"v23","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":1}],"title":"Prisformel sparkesykkel","status":0,"source":null,"todo":null,"permalink":"/prisformel-sparkesykkel/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-05-26","modified":"2026-03-15","aliases":[],"temaer":["lineær vekst","formler","likninger"],"fag":["1p-y el"],"eksamen":"v23","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":1}],"title":"Prisformel sparkesykkel","status":0,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2023-05-26","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["lineær vekst","formler","likninger"],"fag":["1p-y el"],"eksamen":"v23","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":1}],"title":"Prisformel sparkesykkel","status":3,"source":null,"todo":null,"permalink":"/prisformel-sparkesykkel/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-05-26","modified":"2026-03-15","aliases":[],"temaer":["lineær vekst","formler","likninger"],"fag":["1p-y el"],"eksamen":"v23","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":1}],"title":"Prisformel sparkesykkel","status":3,"source":null,"todo":null}}
 ---
 
 
@@ -32,9 +32,28 @@ Du vil lage en formel for prisen $P$ du må betale for å leie en sparkesykkel i
 >
 >E. $P = 8x + 3x$
 
->[!question]- Fasit
->
-> a) $20 \, \mathrm{kr}$
-> b) $15 \, \mathrm{min}$
-> c) D: $P = 8 + 3x$
-> [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen V2023#Oppgave 1-1\|Løsningsforslag 1P-Y EL eksamen V2023#Oppgave 1-1]]
+## Fasit
+
+a) $20 \, \mathrm{kr}$
+b) $15 \, \mathrm{min}$
+c) D: $P = 8 + 3x$
+
+## Løsningsforslag
+
+a) Oppstartsprisen er 8 kr og leieprisen er 3 kr per minutt. For 4 minutter:
+
+   $$8 + 3 \cdot 4 = 8 + 12 = \underline{\underline{20 \, \mathrm{kr}}}$$
+
+b) Vi vet at prisen er 53 kr, og setter opp en likning:
+
+   $$\begin{aligned}
+   8 + 3x &= 53 \\
+   3x &= 45 \\
+   x &= \underline{\underline{15 \, \mathrm{min}}}
+   \end{aligned}$$
+
+c) Prisen er alltid 8 kr i oppstart pluss 3 kr for hvert minutt. Formelen for $x$ minutter er altså:
+
+   $$P = 8 + 3x$$
+
+   **Alternativ D er riktig.**

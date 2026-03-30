@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-13","modified":"2026-03-13","aliases":[],"dg-publish":true,"temaer":["excel","økonomi","formler"],"fag":["1p-y el","1p-y ba"],"eksamen":"h24","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":3},{"fag":"1p-y ba","del":2,"oppgave":3}],"title":"Eriks bilbruk","source":null,"todo":null,"status":1,"permalink":"/eriks-bilbruk/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-13","modified":"2026-03-13","aliases":[],"temaer":["excel","økonomi","formler"],"fag":["1p-y el","1p-y ba"],"eksamen":"h24","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":3},{"fag":"1p-y ba","del":2,"oppgave":3}],"title":"Eriks bilbruk","source":null,"todo":null,"status":1}}
+{"tags":["oppgave"],"date":"2026-03-13","modified":"2026-03-13","aliases":[],"dg-publish":true,"temaer":["excel","økonomi","formler"],"fag":["1p-y el","1p-y ba"],"eksamen":"h24","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":3},{"fag":"1p-y ba","del":2,"oppgave":3}],"title":"Eriks bilbruk","source":null,"todo":null,"status":3,"permalink":"/eriks-bilbruk/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-13","modified":"2026-03-13","aliases":[],"temaer":["excel","økonomi","formler"],"fag":["1p-y el","1p-y ba"],"eksamen":"h24","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":3},{"fag":"1p-y ba","del":2,"oppgave":3}],"title":"Eriks bilbruk","source":null,"todo":null,"status":3}}
 ---
 
 
@@ -37,9 +37,50 @@ $$
 > [!oppgave]
 >  c) Hvor mye lengre tid bruker Erik på kjøreturen på mandagen sammenliknet med kjøreturen på fredagen?
 
->[!question]- Fasit
->
-> a) Totale kostnader: $141\,300 \, \mathrm{kr}$, per km: $9{,}42 \, \mathrm{kr/km}$
-> b) $2\,045 \, \mathrm{kr}$ til overs – ikke fornuftig å kjøpe bilen
-> c) $\approx 2 \, \mathrm{min}$ lengre tid på mandagen
-> [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen H2024#Oppgave 2-3\|Løsningsforslag 1P-Y EL eksamen H2024#Oppgave 2-3]]
+## Fasit
+
+a) Totale kostnader: $141\,300 \, \mathrm{kr}$, per km: $9{,}42 \, \mathrm{kr/km}$
+b) $2\,045 \, \mathrm{kr}$ til overs – ikke fornuftig å kjøpe bilen
+c) $\approx 2 \, \mathrm{min}$ lengre tid på mandagen
+
+## Løsningsforslag
+
+### 2-3a
+
+> [!note] Excel-oppgave
+> Åpne filen `eriks-bilbruk-losning.xlsx` og ta skjermbilde av regnearket med formler.
+
+Regnearket skal inneholde disse formlene i de grønne cellene:
+
+- **Totale kostnader første år** (celle C11): `=SUM(C5:C10)`
+- **Kostnader per kjørte kilometer** (celle C12): `=C11/C2`
+
+Resultater:
+
+$$\text{Totale kostnader} = 64\,000 + 37\,900 + 14\,500 + 19\,100 + 3\,800 + 2\,000 = \underline{\underline{141\,300 \, \mathrm{kr}}}$$
+
+$$\text{Kostnader per km} = \frac{141\,300}{15\,000} = \underline{\underline{9{,}42 \, \mathrm{kr/km}}}$$
+
+### 2-3b
+
+Erik har en brutto månedslønn på 42 000 kr og betaler 29 % skatt:
+$$\text{Netto lønn} = 42\,000 \cdot (1 - 0{,}29) = 42\,000 \cdot 0{,}71 = 29\,820 \, \mathrm{kr/mnd}$$
+
+Bilkostnadene per måned er:
+$$\frac{141\,300}{12} = 11\,775 \, \mathrm{kr/mnd}$$
+
+Erik har til overs hver måned:
+$$29\,820 - 16\,000 - 11\,775 = \underline{\underline{2\,045 \, \mathrm{kr}}}$$
+
+**Erik vil ha $\underline{\underline{2\,045 \, \mathrm{kr}}}$ til overs per måned etter bil og leilighet.**
+
+Det er svært lite å leve av – bare til mat, klær og andre utgifter. Med en netto lønn på rundt 30 000 kr og faste utgifter til bil og leilighet på nesten 28 000 kr, vil de fleste mene at det ikke er fornuftig å kjøpe elbilen.
+
+### 2-3c
+
+Vi setter inn i formelen med $v_1 = 58 \, \mathrm{km/h}$, $v_2 = 65 \, \mathrm{km/h}$ og $s = 18 \, \mathrm{km}$:
+$$t = \left( \frac{1}{v_1} - \frac{1}{v_2} \right) \cdot s \cdot 60 = \left( \frac{1}{58} - \frac{1}{65} \right) \cdot 18 \cdot 60$$
+
+$$= \frac{65 - 58}{58 \cdot 65} \cdot 1080 = \frac{7}{3770} \cdot 1080 \approx \underline{\underline{2 \, \mathrm{min}}}$$
+
+**Erik bruker omtrent $\underline{\underline{2 \, \mathrm{minutt}}}$ lengre tid på mandagen enn på fredagen.**

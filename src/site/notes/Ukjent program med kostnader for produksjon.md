@@ -29,6 +29,6 @@ print(x)
 
 Hva blir resultatet når programmet kjøres? Hva forteller dette svaret bedriften?
 
->[!question]- Fasit
-> 300 fordi $K'(300) = 260$
->
+## Fasit
+
+300 fordi $K'(300) = 260$

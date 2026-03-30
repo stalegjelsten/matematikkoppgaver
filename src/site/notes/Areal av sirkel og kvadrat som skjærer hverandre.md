@@ -12,7 +12,6 @@ Et kvadrat har sidekant 1 m. En sirkel er tegnet på innsiden av kvadratet slik 
 
 ![](/img/user/_resources/sirkel-og-kvadrat.png)
 
->[!question]- Fasit
-> $8\sqrt{ 2 }-11 \,\text{m}$ 
->
+## Fasit
 
+$8\sqrt{ 2 }-11 \,\text{m}$

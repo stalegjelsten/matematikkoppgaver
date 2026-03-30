@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["eksponentiell vekst","modellering","gjennomsnittlig vekstfart"],"fag":["s1"],"eksamen":"v25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":6}],"poeng":6,"title":"Oljefondet og eksponentiell modell","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/oljefondet-og-eksponentiell-modell/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"temaer":["eksponentiell vekst","modellering","gjennomsnittlig vekstfart"],"fag":["s1"],"eksamen":"v25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":6}],"poeng":6,"title":"Oljefondet og eksponentiell modell","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["eksponentiell vekst","modellering","gjennomsnittlig vekstfart"],"fag":["s1"],"eksamen":"v25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":6}],"poeng":6,"title":"Oljefondet og eksponentiell modell","status":0,"source":null,"todo":null,"permalink":"/oljefondet-og-eksponentiell-modell/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"temaer":["eksponentiell vekst","modellering","gjennomsnittlig vekstfart"],"fag":["s1"],"eksamen":"v25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":6}],"poeng":6,"title":"Oljefondet og eksponentiell modell","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -24,6 +24,4 @@ som modell for den totale verdien av oljefondet i milliarder kroner $t$ år ette
 >b) Bestem $V(20)$ og $V'(20)$. Gi en praktisk tolkning av svarene.
 >c) Sammenlign den gjennomsnittlige vekstfarten i intervallene $[0, 10]$ og $[16, 26]$.
 
->[!question]- Fasit
->
->[[Løsningsforslag S1 eksamen V2025#Oppgave 2-6\|Løsningsforslag S1 eksamen V2025#Oppgave 2-6]]
+## Fasit

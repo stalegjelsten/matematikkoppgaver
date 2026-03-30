@@ -19,6 +19,4 @@ Tenk deg at du skal presentere dette datamaterialet for klassen din.
 > [!oppgave]
 >  Gjør sammenlikninger og beregninger og lag ulike framstillinger som du kan bruke i en presentasjon. Presentasjonen skal inneholde både beregninger og diagrammer.
 
->[!question]- Fasit
-> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen V2024#Oppgave 2-7\|Løsningsforslag 2P-Y eksamen V2024#Oppgave 2-7]]
->
+## Fasit

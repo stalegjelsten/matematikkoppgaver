@@ -19,10 +19,15 @@ Forskerne skal trekke ut 20 elever. For hver elev de skal trekke, trekker de fø
 
 >[!oppgave]
 >a) Lag et program som simulerer gjennomsnittskarakteren til 20 elever som er valgt ut på denne måten.
-
->[!oppgave]
 >b) Bruk simuleringer til å estimere sannsynligheten for at karaktersnittet til de 20 elevene er høyere enn 4. 
 
->[!question]- Fasit
->b) $P(X>4)\approx 0{,}205$
->[[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 2-5\|Løsningsforslag S2 eksamen V2023#Oppgave 2-5]]
+## Fasit
+
+b) $P(X>4)\approx 0{,}205$
+
+## Løsningsforslag
+
+### 2-5a
+Se programmet under. 
+```python
+from random import randint, gauss

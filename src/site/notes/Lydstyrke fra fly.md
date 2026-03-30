@@ -30,9 +30,68 @@ Lydstyrken fra et fly er $140 \mathrm{~dB}$ dersom du er $50 \mathrm{~m}$ fra fl
 >[!oppgave]
 >c) Bestem den minste avstanden til dette flyet der lydstyrken er lavere enn $130 \mathrm{~dB}$.
 
->[!question]- Fasit
-> a) 10 W/m²
-> b) 58,5 %
-> c) 158,12 m
-> [[Løsningsforslag/Løsningsforslag S1 eksamen V2023#Oppgave 2-6\|Løsningsforslag/Løsningsforslag S1 eksamen V2023#Oppgave 2-6]]
->
+## Fasit
+
+a) 10 W/m²
+b) 58,5 %
+c) 158,12 m
+
+## Løsningsforslag
+
+### 2-6a
+$$
+\begin{aligned}
+130 &= 120 + 10 \log I\\
+10\log I&=130-120\\
+\log I&=\cancelto{ 1 }{ \frac{10}{10} }\\
+{ 10^{\log I} }&=10^1\\
+I&=10
+\end{aligned}
+$$
+
+**Lydintensiteten er 10 W/m² når lydstyrken er 130 dB.**
+
+### 2-6b
+Når $L=132$ blir 
+
+$$
+I=10^{\frac{132-120}{10}}=10^{1{,}2}=15{,}85
+$$
+
+Økningen i prosent er 
+
+$$
+\frac{15{,}85-10}{10}=0{,}585=58{,}5 \,\%
+$$
+
+**Når lydstyrken øker fra 130 dB til 132 dB øker lydintensiteten med 58,5 %.**
+
+### 2-6c
+Vi vet at $L=140$ når $r=50$. Jeg løser for $E$ og finner (dette gjøres enklest i CAS)
+
+$$
+\begin{aligned}
+L&=120+10 \log I\\
+L&=120+10 \log \frac{E}{4\pi r^2}\\
+140&=120+10 \log \frac{E}{4\pi 50^2}\\
+E&=1 000 000\pi 
+\end{aligned}
+$$
+
+Jeg tolker formlene slik at et fly lager lyd med effekten $E=1\,000\,000\pi \,\text{W}$, mens lydintensiteten og lydstyrken avtar med avstanden. Vi setter opp en likning med lydstyrke lik 130 dB og finner avstanden som kreves (dette gjøres også enklest i CAS).
+
+$$
+\begin{aligned}
+130&=120+10 \log \frac{1000000\pi}{4\pi r^2}\\
+10&=10 \log \frac{1000000}{4r^2}\\
+1&=\log \frac{250000}{r^2}\\
+10&=\frac{250000}{r^2}\\
+r^2&=\frac{250000}{10}\\
+r^2&=25000\\
+r&=\vert 158{,}113\vert
+\end{aligned}
+$$
+
+Ved 158,113 m så er altså lydstyrken 130 dB. Siden vi skulle finne den minste avstanden hvor lydstyrken var *lavere* enn 130 dB så runder jeg opp i svaret mitt.
+
+**158,12 m fra flyet er den minste avstanden hvor lydstyrken er lavere enn 130 dB.**

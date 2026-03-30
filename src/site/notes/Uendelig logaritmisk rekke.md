@@ -22,13 +22,11 @@ $$
 >[!oppgave]
 >c) Bestem $k$ uttrykt ved $n$ når summen $b_{1}+b_{2}+b_{3}+\dots$ skal være størst mulig.
 
+## Fasit
 
-
->[!question]- Fasit
->a) $\ln k$
->b) Nei, da ville mange av leddene vært negative og $\ln x$ er kun definert for $x>0$.
->c) $k=\frac{n-1}{n+1}$
-
+a) $\ln k$
+b) Nei, da ville mange av leddene vært negative og $\ln x$ er kun definert for $x>0$.
+c) $k=\frac{n-1}{n+1}$
 
 >[!løsningsforslag]- Løsningsforslag oppgave c
 >

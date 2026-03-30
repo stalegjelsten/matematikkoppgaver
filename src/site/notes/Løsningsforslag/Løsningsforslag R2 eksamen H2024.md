@@ -1,11 +1,34 @@
 ---
-{"aliases":null,"documentclass":"scrartcl","fontsize":"11pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}","\\usepackage[DIVS=18]{typearea}","\\RedeclareSectionCommand[runin=false,afterskip=-.25\\baselineskip]{subsection}"],"toc":false,"highlight-style":"tango","numbersections":false,"shift-heading-level-by":-3,"pandoc-latex-environment":{"warning":["warning"],"danger":["danger"],"note":["note"],"tip":["tip"],"important":["important"],"info":["info"],"error":["error"],"fasit":["fasit"]},"tags":["løsningsforslag"],"dg-publish":true,"title":"Løsningsforslag R2 eksamen H2024","author":"Ståle Gjelsten","date":"2024-12-04","modified":"2024-12-06","fag":["r2"],"eksamen":"h24","disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style","empty-line-around-math-blocks"],"permalink":"/losningsforslag/losningsforslag-r2-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":null,"documentclass":"scrartcl","fontsize":"11pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}","\\usepackage[DIVS=18]{typearea}","\\RedeclareSectionCommand[runin=false,afterskip=-.25\\baselineskip]{subsection}"],"toc":false,"highlight-style":"tango","numbersections":false,"shift-heading-level-by":-3,"pandoc-latex-environment":{"warning":["warning"],"danger":["danger"],"note":["note"],"tip":["tip"],"important":["important"],"info":["info"],"error":["error"],"fasit":["fasit"]},"tags":["løsningsforslag"],"title":"Løsningsforslag R2 eksamen H2024","author":"Ståle Gjelsten","date":"2024-12-04","modified":"2024-12-06","fag":["r2"],"eksamen":"h24","disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style","empty-line-around-math-blocks"]}}
+{"aliases":null,"documentclass":"scrartcl","fontsize":"11pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}","\\usepackage[DIVS=18]{typearea}","\\RedeclareSectionCommand[runin=false,afterskip=-.25\\baselineskip]{subsection}"],"toc":false,"highlight-style":"tango","numbersections":false,"pandoc-latex-environment":{"warning":["warning"],"danger":["danger"],"note":["note"],"tip":["tip"],"important":["important"],"info":["info"],"error":["error"],"fasit":["fasit"]},"tags":["løsningsforslag"],"dg-publish":true,"title":"Løsningsforslag R2 eksamen H2024","author":"Ståle Gjelsten","date":"2024-12-04","modified":"2024-12-06","fag":["r2"],"eksamen":"h24","disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style","empty-line-around-math-blocks"],"showheader":true,"permalink":"/losningsforslag/losningsforslag-r2-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":null,"documentclass":"scrartcl","fontsize":"11pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}","\\usepackage[DIVS=18]{typearea}","\\RedeclareSectionCommand[runin=false,afterskip=-.25\\baselineskip]{subsection}"],"toc":false,"highlight-style":"tango","numbersections":false,"pandoc-latex-environment":{"warning":["warning"],"danger":["danger"],"note":["note"],"tip":["tip"],"important":["important"],"info":["info"],"error":["error"],"fasit":["fasit"]},"tags":["løsningsforslag"],"title":"Løsningsforslag R2 eksamen H2024","author":"Ståle Gjelsten","date":"2024-12-04","modified":"2024-12-06","fag":["r2"],"eksamen":"h24","disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style","empty-line-around-math-blocks"],"showheader":true}}
 ---
 
 
 Jeg blir veldig glad om du melder ifra om feil enten direkte til meg eller via forumet på [matematikk.net](https://matematikk.net/matteprat).
 
 ## Oppgave 1-1
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/integral-med-delvis-integrasjon-og-trigonometri/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Integral med delvis integrasjon og trigonometri
+
+>[!oppgave]
+>a) Regn ut integralet $\int x^2 \cdot \ln x \, dx$
+>b) Bestem $x$ når $\int_0^x \sin\left(\pi t + \frac{\pi}{4}\right) \, \mathrm{d}t = 0$ og $x \in \langle 0, \pi \rangle$.
+>c) Gi en praktisk tolkning av svaret i oppgave b).
+
+## Fasit
+
+a) $\dfrac{1}{3}x^3\left(\ln x - \dfrac{1}{3}\right) + C$
+b) $x = \dfrac{3}{2}$ og $x = 2$
+c) Like mye positivt og negativt areal mellom 0 og $x$
+
+## Løsningsforslag
+
 ### 1-1a
 Siden vi skal regne ut integralet til produktet av to ulike funksjoner vil jeg forsøke delvis integrasjon. Jeg benytter DI-metoden, og velger at $x^{2}$ er den faktoren som skal integreres, og $\ln x$ er faktoren som skal deriveres. 
 
@@ -15,7 +38,7 @@ Siden vi skal regne ut integralet til produktet av to ulike funksjoner vil jeg f
 |  -  | $\frac{1}{x}$ | $\frac{1}{3}x^{3}$ |
 
 Vi kan altså sette opp
-$$
+$
 \begin{aligned}
 \int x^{2} \ln x \, \mathrm{d}x &=
 \ln x \cdot \frac{1}{3}x^{3} - \int \frac{1}{x}\cdot \frac{1}{3} x^{3} \, \mathrm{d}x \\
@@ -23,19 +46,19 @@ $$
 &=\frac{1}{3} x^{3} \ln x - \frac{1}{3}\cdot \frac{1}{3} x^{3}+C\\
 &=\underline{\underline{\frac{1}{3}x^{3}\left( \ln x-\frac{1}{3} \right)+C}}
 \end{aligned}
-$$
+$
 
 ### 1-1b
 Vi løser først det tilhørende ubestemte integralet ved hjelp av variabelskiftet $u=\pi t+\frac{\pi}{4}$. Da er
-$$
+$
 \frac{du}{dt}=\pi \iff dt=\frac{du}{\pi}
-$$
+$
 Vi gjennomfører variabelskiftet
-$$
+$
 \int \sin \left( \pi t + \frac{\pi}{4} \right)  \, \mathrm{d}t=\int \sin u \, \frac{\mathrm{d}u}{\pi} =-\frac{1}{\pi}\cos(u)+C=-\frac{1}{\pi}\cos\left( \pi t + \frac{\pi}{4} \right)+C
-$$
+$
 Vi setter opp det bestemte integralet og setter lik 0.
-$$
+$
 \begin{aligned}
 -\frac{1}{\pi} \left[ \cos\left( \pi t + \frac{\pi}{4} \right) \right]_{0}^{x}&=0\\
 \left[ \cos\left( \pi t + \frac{\pi}{4} \right) \right]_{0}^{x}&=0\\
@@ -44,109 +67,180 @@ $$
 \cos\left( \pi x + \frac{\pi}{4}  \right)- \cos\left(\frac{\pi}{4} \right)  &=0\\
 \cos\left( \pi x + \frac{\pi}{4}  \right) &= \cos\left(\frac{\pi}{4} \right)
 \end{aligned}
-$$
+$
 Vi vet at vi at følgende uttrykk er like
-$$
+$
 \begin{aligned}
 \text{(1)} \quad \cos \left( \frac{\pi}{4} \right) &=\cos\left( 2k\pi+ \frac{\pi}{4}\right) \quad \text{der} \quad k\in \mathbb{Z}\\
 \text{(2)} \quad \cos \left( \frac{\pi}{4} \right) &=\cos\left( 2k\pi+\frac{7\pi}{4}\right) \quad \text{der} \quad k\in \mathbb{Z}
 \end{aligned}
-$$
+$
 $x$ er begrenset til intervallet $\langle 0, \pi\rangle$, derfor får vi kun en gyldig løsning fra likning $(1)$
-$$
+$
 x=2k \implies x=2
-$$
+$
 Fra likning $(2)$ får vi følgende løsning
-$$
+$
 \begin{aligned}
 \pi x + \frac{\pi}{4}&=2k \pi + \frac{7\pi}{4}\\
 \pi x&=2\pi k+\frac{6\pi}{4}\\
 x &=2k + \frac{3}{2}\\
 x&=\frac{3}{2} \quad \text{ hvis } x \in \langle 0, \pi \rangle
 \end{aligned}
-$$
+$
 **Løsningene er $\underline{\underline{x=\frac{3}{2}}}$ og $\underline{\underline{x=2}}$.**
 
 ### 1-1c
 Hvis integralet av $\int_{0}^{x} f(t) \, dt$ skal være lik 0 så må vi ha nøyaktig like mye areal mellom grafen og $x$-aksen på den positive og negative siden av $x$-aksen mellom $0$ og $x$. For en sinusfunksjon så vil vi like mye areal på begge sider av $x$-aksen når funksjonen har gjennomført et heltall antall perioder fra tiden $t=0$.
 
+
+</div></div>
+
+
 ## Oppgave 1-2
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/aritmetiske-og-geometriske-rekker-h24/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Aritmetiske og geometriske rekker h24
+
+> [!oppgave]
+>  a) Finn summen av den aritmetiske rekken $3+7+11+15+\dots+399$.
+>  b) Bestem kvotienten $k$ for en uendelig geometrisk rekke som konvergerer og som har $a_{1}=12$ og sum $= 18$.
+>  c) Vis at tallet $0{,}75757575\dots$ kan skrives som en uendelig geometrisk rekke. Bruk dette til å vise at $1{,}75757575\dots=\frac{58}{33}$.
+
+## Fasit
+
+a) 20 100
+b) $\frac{1}{3}$
+
+## Løsningsforslag
+
 ### 1-2a
 Summen av en aritmetisk rekke er gitt ved
-$$
+$
 s_{n}=\frac{a_{1}+a_{n}}{2}\cdot n
-$$
+$
 Vi ser at differansen $d=4$. For å finne ut hvor mange ledd det er i rekka vår kan vi løse
-$$
+$
 3+(n-1) \cdot 4=399 \implies n-1=\frac{399-3}{4} \implies n=100
-$$
+$
 Summen av de 100 første leddene blir altså
-$$
+$
 s_{100}=\frac{3+399}{2}\cdot 100=\frac{402}{2} \cdot 100= 201\cdot 100=\underline{\underline{20\,100}}
-$$
+$
 
 ### 1-2b
 Vi vet at summen av en uendelig geometrisk rekke som konvergerer er
-$$
+$
 s=\frac{a_{1}}{1-k} \iff 1-k=\frac{a_{1}}{s}\iff k=1-\frac{a_{1}}{s}
-$$
+$
 Vi setter inn verdiene i uttrykket for $k$
-$$
+$
 k=1-\frac{12}{18}=1-\frac{2}{3}=\underline{\underline{\frac{1}{3}}}
-$$
+$
 
 ### 1-2c
-Vi kan omskrive tallet som sum summen av uendelig rekke med ledd på denne måten $0{,}75757575\ldots=0{,}75+0{,}0075+0{,}000075+\cdots$
+Vi kan omskrive tallet som summen av en uendelig rekke med ledd på denne måten $0{,}75757575\ldots=0{,}75+0{,}0075+0{,}000075+\cdots$
 
 Hvert av disse leddene kan vi skrive om som brøker
-$$
+$
 \begin{aligned}
 0{,}75&=\frac{3}{4}\\
 0{,}0075&=\frac{\frac{3}{4}}{100}=\frac{3}{400}\\
 0{,}000075&=\frac{\frac{3}{4}}{10000}=\frac{3}{40000}
 \end{aligned}
-$$
+$
 Vi ser et mønster hvor hvert ledd er $\frac{1}{100}$ av det forrige, altså har vi
- $$
-\frac{3}{4}+\frac{3}{400}+\frac{3}{40000}+\dots=\frac{3}{4\cdot 100^0}+\frac{3}{4\cdot 100^1}+\frac{3}{4 \cdot 100^2}+ \cdots
-$$
+$
+\frac{3}{4}+\frac{3}{400}+\frac{3}{40000}+\dots=\frac{3}{4\cdot 100^0}+\frac{3}{4\cdot 100^1}+\frac{3}{4 \cdot 100^2}+ \dots
+$
 **Vi har altså vist at $0{,}75757575\dots$ kan skrives som en uendelig geometrisk rekke**, og med sumnotasjon blir rekka
-$$
+$
 \lim_{ n \to \infty }  \sum_{i=1}^n \frac{3}{4\cdot 100^{i-1}}=0{,}75757575\dots
-$$
+$
 Denne uendelig geometrisk rekka har $a_{1}=\frac{3}{4}$ og $k=\frac{1}{100}$. Summen av rekka er gitt ved
- $$
+$
 s=\frac{\frac{3}{4}}{1-\frac{1}{100}}=\frac{\frac{3}{4}}{\frac{99}{100}}=\frac{300}{396}=\frac{75}{99}=\frac{25}{33}
-$$
+$
 Siden vi nå vet at $0{,}75757575+\dots=\frac{25}{33}$ så kan vi vise følgende
-$$
+$
 1{,}75757575\ldots=1+0{,}75757575\ldots=1+\frac{25}{33}=\frac{58}{33}
-$$
- **Vi har altså vist at $1{,}75757575\ldots=\frac{58}{33}$**.
+$
+**Vi har altså vist at $1{,}75757575\ldots=\underline{\underline{\frac{58}{33}}}$**.
+
+
+</div></div>
+
 
 ## Oppgave 1-3
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/telt-med-vektorer-i-rommet/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Telt med vektorer i rommet
+
+Et telt står i en plan skråning. Teltet har tre rette teltstenger som er plassert i punktene $A(0, 0, 0)$, $B(3, 1, 2)$ og $C(-1, 3, 1)$. De tre teltstengene er samlet i toppunktet $T$.
+
+>[!oppgave]
+>a) Bestem arealet av bunnen i teltet.
+
+Lengden av teltstanga fra punkt $C$ til punkt $T$ er $\sqrt{17}$. Teltstanga fra punkt $A$ til punkt $T$ følger linja $\ell$, gitt ved
+
+$
+\ell: \begin{cases}
+x=t &\\
+y=t &\\
+z=4t &
+\end{cases}
+$
+
+>[!oppgave]
+>b) Bestem koordinatene til toppunktet $T$.
+
+## Fasit
+
+a) $\dfrac{5}{2}\sqrt{6}$
+b) $T(1,\ 1,\ 4)$
+
+## Løsningsforslag
+
+### 1-3a
 Jeg vet at arealet til et parallellogram utspent av $\vec{a}$ og $\vec{b}$ er gitt ved $\lvert \vec{a} \times \vec{b} \rvert$, derfor må arealet av  bunnen av teltet være gitt ved
-$$
+$
 A_{\triangle}=\frac{1}{2} \left| \vec{AB} \times \vec{AC} \right|
-$$
-$$
-\vec{AB} \times \vec{AC} =\begin{vmatrix}
+$
+$
+\begin{aligned}
+\vec{AB} \times \vec{AC} &=\begin{vmatrix}
 \vec{e}_{x} &\vec{e}_{y} & \vec{e}_{z}\\
 3 & 1 & 2\\
--1 & 3 & 1
-\end{vmatrix}=\vec{e}_{x} \left(   1 \cdot 1 - 2 \cdot 3 \right)- \vec{e}_{y} \left( 3 \cdot 1 - 2 \cdot (-1) \right)+ \vec{e}_{z} ( 3 \cdot 3 - 1 \cdot (-1) )=\begin{bmatrix}
--5,& -5,& 10
+-1 & 3 & 1 
+\end{vmatrix} \\
+&=
+\vec{e}_{x} \left(   1 \cdot 1 - 2 \cdot 3 \right)- \vec{e}_{y} \left( 3 \cdot 1 - 2 \cdot (-1) \right)+ \vec{e}_{z} ( 3 \cdot 3 - 1 \cdot (-1) ) \\
+&=\begin{bmatrix}
+-5, & -5, & 10
 \end{bmatrix}
-$$
+\end{aligned}
+$
 Arealet er derfor
-$$
+$
 A_{\triangle}=\frac{1}{2} \left| \vec{AB} \times \vec{AC} \right|=\frac{1}{2}\sqrt{ (-5)^{2}+(-5)^{2}+10^{2} }=\frac{1}{2}\sqrt{ 150 }=\frac{1}{2}\sqrt{ 25 \cdot 6 }=\frac{1}{2}5\cdot \sqrt{ 6 }=\underline{\underline{\frac{5}{2}\sqrt{ 6 }}}
-$$
+$
 **Arealet av bunnen av teltet er $\underline{\underline{\frac{5}{2}\sqrt{ 6 }}}$.**
 
 ### 1-3b
 $T$ ligger på linja $\ell$ med parameterframstillingen $T(t, t, 4t)$. Vi vet at lengden av teltstanga $CT$ er $\sqrt{17}$, altså $|\vec{CT}| = \sqrt{17}$. Vi setter opp:
-$$
+$
 \begin{aligned}
 |\vec{CT}|^{2} &= 17\\
 (t-(-1))^{2}+(t-3)^{2}+(4t-1)^{2} &= 17\\
@@ -158,121 +252,258 @@ t^{2}+2t+1+t^{2}-6t+9+16t^{2}-8t+1 &= 17\\
 (3t+1)(t-1) &= 0\\
 t &= 1 \quad \vee \quad t=-\frac{1}{3}
 \end{aligned}
-$$
+$
 Fra figuren skal toppunktet befinne seg over $xy$-planet, så vi velger $t=1$.
 
 **Koordinatene til toppunktet er $\underline{\underline{T(1,\,1,\,4)}}$.**
 
+
+</div></div>
+
+
 ## Oppgave 1-4
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/radianer-og-eksakte-trigonometriske-verdier/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Radianer og eksakte trigonometriske verdier
+
+>[!oppgave]
+>a) Hva er definisjonen av det absolutte vinkelmålet (radianen) til en vinkel? Hvor mange radianer er $80\degree$?
+>b) Finn de eksakte verdiene til $\cos v$ og $\tan v$ når $\sin v = -\dfrac{1}{4}$ og $v \in \left[\pi, \dfrac{3\pi}{2}\right]$.
+
+## Fasit
+
+a) $\dfrac{4}{9}\pi$ radianer
+b) $\cos v = -\dfrac{\sqrt{15}}{4}$, $\tan v = \dfrac{1}{\sqrt{15}}$
+
+## Løsningsforslag
+
 ### 1-4a
 
 Vi tar utgangspunkt i en sirkel med radius $r=1$ og legger toppunktet til en vinkel $\theta$ i sentrum av sirkelen. Vinkelbeina vil skjære sirkelperiferien og avgrense en sirkelbue $b$. 
 
 Det absolutte vinkelmålet er forholdet mellom sirkelbuen $b$ og omkretsen til hele sirkelen.
- $$
+ $
 \theta = \frac{b}{2\pi r}=\frac{b}{2\pi}
-$$
+$
 Vi kan bruke forholdet mellom et vinkelmål og en hel omdreining for å gjøre om fra grader til radianer. La $\theta$ være det absolutte vinkelmålet til $80^\circ$, da er
-$$\frac{\theta}{2\pi} =\frac{80^\circ}{360^\circ} \iff \theta=\frac{160}{360}\pi \iff \theta=\frac{4}{9}\pi$$
+$\frac{\theta}{2\pi} =\frac{80^\circ}{360^\circ} \iff \theta=\frac{160}{360}\pi \iff \theta=\frac{4}{9}\pi$
 **$80^\circ$ er $\frac{4}{9}\pi$ radianer.**
 
 ### 1-4b
 
-$$
-\sin v = -\frac{1}{4}=\frac{\text{motstående katet}}{\text{hypotenus}} $$
+$
+\sin v = -\frac{1}{4}=\frac{\text{motstående katet}}{\text{hypotenus}} $
 Vi vet at hypotenusen i en enhetssirkel er 1, derfor har vi $\text{mk}=-\frac{1}{4}$. Lengden av den siste kateten i en slik trekant må være
-$$
+$
 \text{hosliggende katet}=\sqrt{ h^{2}-\text{mk}^{2} }=\sqrt{ 1^{2}- \left( -\frac{1}{4} \right) ^{2} }=\sqrt{ 1-\frac{1}{16} }=\sqrt{ \frac{15}{16} }
-$$
+$
 
 Vi ser at vinkelen vår må befinne seg i tredje kvadrant siden $v \in \left[ \pi, \frac{3\pi}{2} \right]$. Det betyr at $\cos v=-\sqrt{ \frac{15}{16} }$.
 
 $\tan v$ er gitt ved
-$$
+$
 \tan v = \frac{\sin v}{\cos v}=\frac{-\frac{1}{4}}{-\sqrt{ \frac{15}{16} }}=\frac{1}{\sqrt{ 15 }}
-$$
-$$
+$
+$
 \underline{\underline{\cos v = -\sqrt{ \frac{15}{16} } \quad \text{og} \quad \tan v=\frac{1}{\sqrt{ 15 }}}}
-$$
+$
+
+
+</div></div>
+
 
 ## Oppgave 1-5
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/sinusfunksjon-og-cosinusfunksjon/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Sinusfunksjon og cosinusfunksjon
+
+Figuren viser grafen til funksjonen
+
+$f(x) = 2 \cdot \sin\left(\frac{\pi}{4}x - \frac{\pi}{2}\right) - 1$
+
+![Graf av f(x)](/img/user/_resources/r2-h24-1-5.jpeg)
+
+>[!oppgave]
+>a) Bestem en funksjon på formen $g(x) = A \cdot \cos(cx + \varphi) + d$, som passer til grafen.
+>
+>b) Løs likningen $\cos\left(\dfrac{\pi}{4}x - \pi\right) = \dfrac{1}{2}$, der $x \in [0, 3\pi]$. Forklar hvor på figuren løsningene ligger.
+
+## Fasit
+
+a) $g(x) = 2\cos\left(\dfrac{\pi}{4}x + \pi\right) - 1$
+b) $x = \dfrac{8}{3}$ og $x = \dfrac{16}{3}$
+
+## Løsningsforslag
+
 ### 1-5a
 Vi kan omskrive en sinusfunksjon til en cosinusfunksjon ved å endre på faseforksyvningen. Likevektslinje, periode og amplitude vil være lik som for sinusfunksjonen.
 
 Vi ser at $f$ har et bunnpunkt i $(0,-3)$. Vi vet at $\cos u$ har bunnpunkt når $u=\pi$, så vi kan faseforskyve med $\pi$
-$$
+$
 g(x)=2 \cdot \cos\left( \frac{\pi}{4}x+\pi \right)-1
-$$
+$
 
 ### 1-5b
 Vi vet at $\cos 60\degree=\cos \frac{\pi}{3}=\frac{1}{2}$, derfor må $\cos \left( \frac{\pi}{3}+2k\pi \right)=\frac{1}{2}=\cos \left(  \frac{5\pi}{3}+2k\pi \right)$ der $k \in \mathbb{Z}$. Vi kan løse for $x$ i to steg. Først setter vi opp likningen
-$$
+$
 \frac{\pi}{3}+2k\pi=\frac{\pi}{4}x-\pi \iff x=8k+\frac{16}{3}
-$$
+$
 Siden $x$ er begrenset til $\left[ 0,3\pi \right]$, så er det kun løsningen $x=\frac{16}{3}$ som er gyldig fra denne likningen.
 
 Deretter kan vi sette opp
-$$
+$
 \frac{5\pi}{3}+2k \pi=\frac{\pi}{4}x-\pi \iff x=8k+\frac{32}{3}
-$$
+$
 På grunn av avgresningen av $x$, så får vi kun en gyldig løsning hvis vi velger $k=-1$. 
-$$
+$
 x=8\cdot (-1)+\frac{32}{3}=\frac{8}{3}
-$$
+$
 Likningen har løsningene $x=\frac{8}{3}$ og $x=\frac{16}{3}$.
+
+
+</div></div>
+
+
 ## Oppgave 2-1
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/ball-i-bevegelse-med-posisjonsvektor/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Ball i bevegelse med posisjonsvektor
+
+En ball ruller av taket på et hus og ned på bakken. Vi plasserer et koordinatsystem slik at
+
+- $y$-aksen ligger på bakken parallelt med husveggen
+- $x$-aksen ligger på bakken, står vinkelrett på husveggen og skjærer $y$-aksen der ballen forlater hustaket
+- $z$-aksen angir høyden over bakken med positiv retning oppover
+
+![Koordinatsystem med hus og ball](/img/user/_resources/r2-h24-2-1.jpeg)
+
+Måleenheten på aksene er meter.
+
+Posisjonen til ballen er gitt ved
+
+$\vec{r}(t) = [2t,\ 4t,\ 6 - 0{,}7t - 4{,}9t^2]$
+
+der $t$ er antall sekunder etter at ballen forlater taket.
+
+>[!oppgave]
+>a) Hvor høyt over bakken er kanten på taket? Hva er posisjonen til ballen etter $0{,}5$ s?
+>b) Bestem farten til ballen når den treffer bakken.
+>c) Ved hvilket tidspunkt er farten til ballen $10 \mathrm{~m/s}$?
+
+## Fasit
+
+a) 6 m over bakken; posisjon $(1,\ 2,\ 4{,}425)$ etter 0,5 s
+b) $\approx 11{,}8 \, \mathrm{m/s}$
+c) $t \approx 0{,}84 \, \mathrm{s}$
+
+## Løsningsforslag
+
 ![Løsning av oppgave 1 del 2 i CAS](/img/user/_resources/r2-h24-2-1-cas.png)
 
 ### 2-1a
 $z$-komponenten til $\vec{r}(t)$ gir oss høyden ved tiden $t=0$
-$$
+$
 \vec{r}_{z}(0)=6-0{,}7 \cdot 0 - 4{,}9 \cdot 0^{2}=6
-$$
+$
 Posisjonen til ballen etter 0,5 s er gitt ved
-$$
+$
 \vec{r}(0{,}5)=\begin{bmatrix}
 2\cdot 0{,}5, & 4 \cdot 0{,}5, & 6-0{,}7\cdot 0{,}5-4{,}9\cdot 0{,}5^{2}
 \end{bmatrix}= \begin{bmatrix}
  1, &2, &4{,}425
 \end{bmatrix}
-$$
+$
 **Kanten av hustaket er 6 meter over bakken og ballen befinner seg i punktet $(1, 2, 4{,}425)$ etter 0,5 sekunder.**
 
 ### 2-1b
 Vi må først finne ut når ballen treffer bakken, altså når $\vec{r}_{z}(t)=0$, se linje 1 i GeoGebra. Vi kan se bort fra negative løsninger siden denne modellen kun er gyldig etter at ballen har forlatt kanten av taket.
-$$
+$
 \begin{aligned}
 \vec{r}_{z}(t)&=0\\
 6-0{,}7t-4{,}9t^{2}&=0\\
 t&=1{,}0374
 \end{aligned}
-$$
+$
 Farten til ballen er gitt ved
-$$
+$
 \vec{v}(t)=\dot{\vec{r}}(t)=\begin{bmatrix}
 2, &4, &-9{,}8t-0{,}7
 \end{bmatrix}
-$$
+$
 Jeg tolker oppgaven slik at vi kun er interessert i farten og ikke retningen til ballen i det den treffer bakken. Z-komponenten til fartsvektoren er $\frac{d}{dt}(6-0{,}7t-4{,}9t^{2})=-0{,}7-9{,}8t$. Farten er i så fall gitt ved
-$$
+$
 \lvert \vec{v}(t)\rvert=\sqrt{ 2^{2}+4^{2}+(0{,}7+9{,}8t)^{2} }=\sqrt{ (9{,}8t+0{,}7)^{2} +20 }
-$$
+$
 Farten når ballen treffer bakken vil være (se linje 2 i GeoGebra)
-$$
+$
 \lvert \vec{v}(1{,}0374)\rvert=\sqrt{ (9{,}8\cdot 1{,}0374+0{,}7)^{2} +20 }=\sqrt{138{,}1}\approx 11{,}75
-$$
+$
 **Farten er $\underline{\underline{\approx 11{,}8 \text{ m/s}}}$ når ballen treffer bakken.**
 
 ### 2-1c
 Vi løser likningen (se linje 3 i GeoGebra)
-$$
+$
 \sqrt{ (9{,}8t+0{,}7)^{2} +20 }=10 \implies 9{,}8t+0{,}7=\sqrt{80} \implies t=\frac{\sqrt{80}-0{,}7}{9{,}8}\approx 0{,}841
-$$
+$
 Igjen kan vi se bort fra den negative løsningen.
 
 **Farta til ballen er 10 m/s etter $\underline{\underline{0{,}84}}$ sekunder.**
 
+
+</div></div>
+
+
 ## Oppgave 2-2
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/vurder-pastander-om-rekke-plan-og-areal/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Vurder påstander om rekke, plan og areal
+
+Avgjør om hver enkelt påstand nedenfor er sann eller usann. Forklar tydelig hvordan du har resonnert.
+
+>[!oppgave]
+>a) **Påstand:** Likningen til et plan kan alltid bestemmes av 3 punkter i planet.
+
+>[!oppgave]
+>b) En uendelig geometrisk rekke er gitt ved $1 + (\ln x - 1) + (\ln x - 1)^2 + \cdots$
+>
+>    **Påstand:** Dersom $x = \dfrac{1}{e}$ vil summen av rekka være $\dfrac{1}{3}$.
+
+>[!oppgave]
+>c) To funksjoner er gitt ved $f(x) = x^3 - x^2 - ax$, der $a \in \mathbb{R}$, og $g(x) = -x^2 + x$.
+>
+>    **Påstand:** Grafene til $f$ og $g$ avgrenser to områder som er like store når $a > -1$.
+
+## Fasit
+
+a) Usann – tre kollineære punkter bestemmer ikke et entydig plan
+b) Usann – rekka divergerer for $x = \dfrac{1}{e}$
+c) Sann – de to arealene er like store
+
+## Løsningsforslag
 
 ### 2-2a
 **Påstand:** Likningen til et plan kan alltid bestemmes av 3 punkter i planet.
@@ -285,23 +516,23 @@ Påstanden er **usann**. Tre punkter bestemmer et entydig plan hvis og bare hvis
 
 ### 2-2b
 Jeg vet at summen av en uendelig geometrisk rekke er gitt ved
-$$
+$
 s=\frac{a_{1}}{1-k}
-$$
+$
 dersom $-1<k<1$.
 
 Hvis vi vi lar $x=\frac{1}{e}$ så vil rekka bli
-$$
+$
 1+ \left( \ln \frac{1}{e}-1 \right) + \left( \ln \frac{1}{e}-1 \right)^{2} + \dots
-$$
+$
 La oss se hva $\ln \frac{1}{e}-1$ blir
-$$
+$
 \ln \frac{1}{e}-1=\ln 1 - \ln e - 1=0-1-1=-2
-$$
+$
 Det første leddet i rekka er $a_{1}=1$ og det andre leddet er $a_{2}=-2$, det vil si at
-$$
+$
 k=\frac{-2}{1}=-2
-$$
+$
 $k$ ligger ikke i intervallet $\langle-1,1\rangle$, og dermed konvergerer ikke rekka.
 
 **Påstanden er usann, rekka konvergerer ikke når $x=\frac{1}{e}$.**
@@ -319,51 +550,97 @@ La oss undersøke arealet av områdene som er avgrenset. Jeg gjør dette i GeoGe
 
 **Påstanden stemmer. Vi ser at arealene mellom grafene er like store.**
 
+
+</div></div>
+
+
 ## Oppgave 2-3
 
-Jordbæret er avbildet i målestokk 1:1 med høyde $h = 4{,}4 \, \mathrm{cm}$. Vi plasserer origo ved spissen (bunnen) og lar $x$-aksen gå gjennom symmetriaksen mot stilkfestet.
 
-Vi måler radiusen $r$ ved ulike høyder fra bildet:
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/jordbaer-som-omdreiningslegeme/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-| $x$ (cm) | $0$ | $0{,}5$ | $1{,}0$ | $1{,}5$ | $2{,}0$ | $2{,}5$ | $3{,}0$ | $3{,}5$ | $4{,}0$ | $4{,}4$ |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $r$ (cm) | $0$ | $0{,}76$ | $1{,}34$ | $1{,}74$ | $1{,}96$ | $2{,}00$ | $1{,}86$ | $1{,}54$ | $1{,}03$ | $0{,}50$ |
 
-Siden $r(0)=0$ (spiss bunn) tilpasser vi en funksjon på formen
 
-$$r(x) = ax - bx^2$$
 
-Vi bruker to karakteristiske punkter: maksimal bredde $r(2{,}5) = 2{,}0$ og bredden nær stilken $r(4{,}4) = 0{,}5$. Dette gir likningssettet
 
-$$\begin{cases} 2{,}5a - 6{,}25b = 2{,}0 \\ 4{,}4a - 19{,}36b = 0{,}5 \end{cases}$$
+# Jordbær som omdreiningslegeme
 
-som løses til $a \approx 1{,}70$ og $b \approx 0{,}36$. Vi kontrollerer: $r'(x) = 1{,}70 - 0{,}72x = 0 \Rightarrow x \approx 2{,}36$, altså er størst bredde ved $r(2{,}36) \approx 2{,}0 \, \mathrm{cm}$.
 
-Formelen for volum av omdreiningslegeme om $x$-aksen gir
+> [!danger] Bildene er ikke i målestokk
+> I det originale eksamenssettet er bildene i målestokk 1:1, men det er vanskelig å få til her. Ved å måle på arket har jeg funnet av avstanden fra bunnen til toppen (i $y$-retning på arket) er omtrent 4,4 cm.
 
-$$V = \pi \int_0^{4{,}4} \left[ r(x) \right]^2 \, \mathrm{d}x = \pi \int_0^{4{,}4} \left( 1{,}70x - 0{,}36x^2 \right)^2 \, \mathrm{d}x$$
 
-Vi utvider integranden og integrerer ledd for ledd:
+<!-- two-column start left-width=50% -->
 
-$$
-\begin{aligned}
-V &= \pi \int_0^{4{,}4} \left( 1{,}70^2 x^2 - 2 \cdot 1{,}70 \cdot 0{,}36 \, x^3 + 0{,}36^2 x^4 \right) \mathrm{d}x \\
-&= \pi \int_0^{4{,}4} \left( 2{,}89 x^2 - 1{,}224 x^3 + 0{,}1296 x^4 \right) \mathrm{d}x \\
-&= \pi \left[ \frac{2{,}89}{3} x^3 - \frac{1{,}224}{4} x^4 + \frac{0{,}1296}{5} x^5 \right]_0^{4{,}4} \\
-&= \pi \left( 0{,}963 \cdot 85{,}18 - 0{,}306 \cdot 374{,}81 + 0{,}02592 \cdot 1649{,}16 \right) \\
-&= \pi \left( 82{,}04 - 114{,}69 + 42{,}76 \right) \\
-&= \pi \cdot 10{,}11 \approx \underline{\underline{31{,}8 \, \mathrm{cm}^3}}
-\end{aligned}
-$$
+<!-- gap:0.7cm -->
 
-**Volumet av jordbæret er $\underline{\underline{\approx 32 \, \mathrm{cm}^3}}$.**
+![Tverrsnitt av jordbær i målestokk 1:1](/img/user/_resources/r2-h24-2-3-1.jpeg)
 
-Omdreiningslegemet har en dråpeform – bredt i midten, smalner mot begge ender – som passer godt til formen på et jordbær. Til sammenligning er ett desiliter $= 100 \, \mathrm{cm}^3$, så volumet tilsvarer knapt en tredjedel desiliter. Et vanlig jordbær veier 15–25 g og har tetthet nær vann, altså volum $\approx 15\text{–}25 \, \mathrm{cm}^3$. Et stort jordbær kan godt ha volum $\approx 30\text{–}35 \, \mathrm{cm}^3$, så svaret virker rimelig.
+---
+![Linjal i målestokk 1:1](/img/user/_resources/r2-h24-2-3-2.jpeg)
 
->[!note] Merk
-> Siden svaret avhenger av målinger fra bildet vil ulike elever få litt ulike svar. Det viktigste er å vise riktig fremgangsmåte: sette opp koordinatsystem, lese av data, tilpasse en funksjon og beregne integralet.
+<!-- two-column stop -->
+
+
+>[!oppgave]
+>Bildet viser tverrsnittet av et jordbær i målestokk 1:1. Bruk integrasjon og omdreiningslegeme til å beregne volumet av hele jordbæret. Kommenter formen på omdreiningslegemet ditt og vurder svaret.
+
+## Fasit
+
+$V \approx 35 \, \mathrm{cm}^3$ (avhenger av målinger fra bildet)
+
+## Løsningsforslag
+
+Vi legger et koordinatsystem med origo spissen på jordbæret og måler avstanden fra $x$-aksen til kanten av jordbæret. Jeg har gjort dette i GeoGebra ved å sette ut punkter, se figuren-jordbar.
+
+Jeg valgte en andregradsmodell siden denne passet «godt nok». Vi ser at modellen følger omrisset av jordbæret relativt godt fram til punkt $H$. Vi underestimerer volumet mellom $C$ og $D$, men vi overestimerer mellom $D$ og $E$. Jeg setter integrasjonsgrensen til 3,65 cm siden toppen av jordbæret «bøyer seg tilbake» inn mot stilkfestet.
+
+![Regresjon og beregning av volum i GeoGebra](/img/user/_resources/r2-h24-2-3-regresjon.png)
+
+Jeg beregner volumet som et omdreiningslegeme med $\pi \int_{a}^{b} \left( f(x) \right)^{2} \, \mathrm{d}x$ i GeoGebra.
+
+> [!warning] Tolkning av oppgavetekst
+> Jeg tolker oppgaveteksten som at jeg skal finne volumet av jordbæret før det ble delt i to. Volumet av det halve jordbæret på bildet vil være omtrent halvparten av omdreiningslegemet.
+
+**Volumet av jordbæret er omtrent $\underline{\underline{ 35 \mathrm{~cm}^{3} }}$.**
+
+
+</div></div>
+
 
 ## Oppgave 2-4
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/russebil-med-trigonometrisk-fartsfunksjon/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Russebil med trigonometrisk fartsfunksjon
+
+Anders og Ivana har kjøpt seg russebil. De skal kjøre bilen til en garasje, men på turen begynner motoren å fuske. Farten $v$ følger funksjonen
+
+$v(t) = -6\sin\left(360t - \frac{\pi}{2}\right) + 54$
+
+Her er $v$ gitt i km/t, og $t$ er antall timer etter at motoren har begynt å fuske.
+
+>[!oppgave]
+>a) Bestem det første tidspunktet gjennomsnittsfarten blir 54 km/t.
+>b) På hvilke tidspunkt har bilen størst akselerasjon når den kjører med farten $v$? Hvor stor er denne akselerasjonen?
+
+Når bilen begynner å fuske, er det 2 km til garasjen som bilen skal parkeres i.
+
+>[!oppgave]
+>c) Hvor lenge må Anders og Ivana kjøre for å komme til garasjen, når bilen kjører med farten $v$?
+
+## Fasit
+
+a) Gjennomsnittsfart 54 km/t etter $\approx 0{,}00873 \, \mathrm{t}$ (≈ 31 s)
+b) Størst akselerasjon ved vendepunktene: $\approx 0{,}00436 \, \mathrm{t}$ og $\approx 0{,}01309 \, \mathrm{t}$
+c) $\approx 0{,}03684 \, \mathrm{t}$ (≈ 2 min 13 s)
+
+## Løsningsforslag
 
 ![Løsning av oppgave 4 del 2 i CAS](/img/user/_resources/r2-h24-2-4.png)
 
@@ -385,11 +662,15 @@ Perioden til funksjonen er 0,01745 timer eller 63 sekunder, se linja mellom $B$ 
 
 ### 2-4c
 Vi kan sette opp likningen (se linje 5 i CAS)
-$$
+$
 \int_{0}^{x} v(t) \, dt =2 \implies x=0{,}03684
-$$
+$
 
 **Anders og Ivana må kjøre i 0,03684 timer eller ca 2,21 minutter for å komme til garasjen.**
+
+
+</div></div>
+
 
 ## Oppgave 2-5
 
@@ -419,28 +700,48 @@ Jeg brukte en `for`-løkke til å summere de 30 første leddene. **Summen av de 
 
 ## Oppgave 2-6
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/omdreiningslegeme-av-sirkel-om-y-aksen/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Omdreiningslegeme av sirkel om y-aksen
+
+En sirkel har sentrum i $S(a, 0)$ og har radius $R < a$. Sirkelen roteres om $y$-aksen.
+
+>[!oppgave]
+>Vis at volumet av omdreiningslegemet blir $2\pi^2 R^2 a$.
+
+## Fasit
+
+$V = 2\pi^2 R^2 a$ (bevis)
+
+## Løsningsforslag
+
 ![Flytting av sirkelen i oppgave 6](/img/user/_resources/r2-h24-2-6-sirkler.png)
 
 For å gjøre jobben enklere for meg selv så vil jeg flytte sirkelen fra $S(a,0)$ til $S^*(0,a)$ og rotere sirkelen om $x$-aksen istedenfor om $y$-aksen. Sirkelens radius er fremdeles $R<a$.
 
 En sirkel har likningen $x^{2}+y^{2}=R^{2}$, eller omskrevet for $y$ får vi
-$$
+$
 y=\pm \sqrt{ R^{2} - x^{2} }
-$$
+$
 
 Der den positive løsningen vil gi oss den øvre halvsirkelen, og den negative løsningen gir oss den nedre halvsirkelen.
 
 Vår sirkel er forskjøvet med $a$ enheter i positiv $y$-retning, derfor er uttrykket for sirkelen vår
-$$
+$
 y=\pm \sqrt{ R^{2}-x^{2} }+a
-$$
+$
 
 Vi kan bruke formelen for omdreiningslegeme for å finne volumet. Vi bruker først formelen for den øvre halvsirkelen og finner dermed volumet av en slags smultring uten hull. Deretter lager vi et hull i smultringen ved å trekke fra volumet av omdreiningslegemet definert av den nedre halvsirkelen.
 
 Formelen for 360º omdreining rundt $x$-aksen er
-$$
+$
 V=\pi \int_{a}^{b} \left( f(x) \right) ^{2} \, dx 
-$$
+$
 
 Grensene for integrasjonen er $x=-R$ og $x=R$.
 
@@ -453,10 +754,14 @@ $R$ er positiv, så vi har $\text{sgn}(R)=1$ i vårt tilfelle (se faktaboks leng
 >[!warning] sgn-funksjonen
 >
 >GeoGebra gir oss en litt ukjent `sgn(R)`-funksjon i tillegg til uttrykket vi skulle finne. `sgn()`-funksjonen er definert slik >
->$$
+>$
 >\text{sgn}(x)=\begin{cases} 1 &\quad \text{hvis } x>0 \\ 
 > 0&\quad \text{hvis } x=0 \\ 
 > -1&\quad \text{hvis } x<0
 >\end{cases}
->$$
+>$
 >Hvis du møter på slike ukjente funksjoner på eksamen, prøv å skrive inn `sgn(2)` og `sgn(-5)` i GeoGebra og sjekk hva du får som svar, eller forsøk å tegne funksjonen.
+
+
+</div></div>
+

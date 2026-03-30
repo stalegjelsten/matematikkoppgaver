@@ -14,7 +14,39 @@ Like etter at Anders hadde betalt inn terminbeløp 24 ble bilen totalskadet, og 
 > [!oppgave]
 >  b) Var dette nok til å betale ned restlånet?
 
->[!question]- Fasit
->a) 4555,14 kr
->b) Ja
->[[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 2-1\|Løsningsforslag S2 eksamen V2023#Oppgave 2-1]]
+## Fasit
+
+a) 4555,14 kr
+b) Ja
+
+## Løsningsforslag
+
+### 2-1a
+Annuitetslån har faste terminbeløp slik at lånebeløpet er lik produktet terminfaktoren multiplisert med terminbeløpet: $L=F\cdot T$.
+Vi kan beregne terminfaktoren $F$ ved:
+
+$$
+\begin{aligned}
+F &= \frac{1-\frac{1}{v^n}}{v - 1}\\
+F &= \frac{1-\frac{1}{1,0049^{36}}}{1,0049 - 1}\\
+F &= 32,93\\
+\end{aligned}
+$$
+
+Og terminbeløpet blir da
+
+$$
+\begin{aligned}
+L &= F\cdot T\\
+T &= \frac{L}{F} = \frac{150\,000}{32,93}=\underline{\underline{4555,14}}
+\end{aligned}
+$$
+
+**Terminbeløpet er 4555,14 kr.**
+
+### 2-1b
+Jeg bruker en ferdig regnearkmodell jeg hadde liggende til å løse denne oppgaven. Fra regnearket ser jeg at restlånet *før* 25. innbetaling er 52 959,79 kr. **Dermed vil erstatningen fra forsikringsselskapet dekke restlånet** (gitt at han betaler restlånet med en gang han får erstatningen). Se utklippet under.
+
+![](/img/user/_resources/s2-v23-del2-oppg1a1.png)
+
+![](/img/user/_resources/s2-v23-del2-oppg1a2.png)

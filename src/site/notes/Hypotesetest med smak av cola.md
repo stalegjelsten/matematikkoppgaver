@@ -24,9 +24,51 @@ Birger synes 10 glass er litt lite i blindtesten. Han vil derfor gjøre en ny bl
 >[!oppgave]
 >c) Hvor mange riktige svar må Marte minst gi for å overbevise Birger om at hun kan gjenkjenne de to colatypene? Bruk også her et signifikansnivå på 5 prosent. 
 
->[!question]- Fasit
->a) $P(X=6)=0.205$
->b) $p=0.0547$. Ikke forkast.
->c) Trenger minst 20 glass.
->[[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 2-3\|Løsningsforslag S2 eksamen V2023#Oppgave 2-3]]
->
+## Fasit
+
+a) $P(X=6)=0.205$
+b) $p=0.0547$. Ikke forkast.
+c) Trenger minst 20 glass.
+
+## Løsningsforslag
+
+### 2-3a
+Vi starter med noen antagelser:
+
+- Birger velger *helt* tilfeldig om han fyller hvert enkelt glass med Pepsi-Cola eller Coca-Cola
+- Marte tipper *helt* tilfeldig for hvert colaglass
+- Marte glemmer hva hun har gjettet på de forrige glassene, og smaken setter seg ikke i munnen hennes slik at vi kan anta at forsøkene er uavhengige
+
+Vi kan da behandle dette som et binomisk forsøk med $n=10$ og $p=0.5$.
+
+Vi kan beregne denne sannsynligheten enkelt i GeoGebra, eller med formelen:
+
+$$
+P(X=6)=\binom{n}{k}\cdot p^k \cdot(1-p)^{n-k} = \frac{10!}{6!(10-6)!} \cdot {0}.5^6  \cdot 0.5^4= \underline{\underline{0{,}205}}
+$$
+
+### 2-3b
+Vi lar $p$ være sannsynligheten for at Marte klarer å gjette riktig og $X$, antall riktige gjetninger, er testobservator. 
+
+Det skal mye til at Marte er dårligere til å gjenkjenne colaene enn ved tilfeldig gjetting, og jeg er egentlig kun interessert i å finne ut om hun *bedre* enn tilfeldig gjetning. Derfor velger jeg en ensidig hypotesetest. Vi skal bruke signifikansnivået $\alpha=0{,}05$.
+
+$$
+\begin{aligned}
+H_{0}&: \quad p=0.5 \\ 
+H_{1}&: \quad p>0,5 \\
+\end{aligned}
+$$
+
+![Bestemme $P(8\leq X)$ i GeoGebra](/img/user/_resources/s2-v23-del2-oppg-3b.png.png)
+
+Ved hjelp av GeoGebra finner jeg at $P(8\leq X)=0,0547$ gitt at $H_{0}$ er sann. 
+
+Siden sannsynligheten $P(8\leq X)=0,0547$ er større enn signifikansnivået $\alpha = 0.05$ så **kan vi *ikke* forkaste $H_0$.**
+
+### 2-3c
+
+![Finne hvilken $a$ som gir $P(a\leq X)\leq 0{,}05$](/img/user/_resources/s2-v23-del2-oppg-3c.png)
+
+Jeg brukte sannsynlighetsverktøyet i GeoGebra og endret antallet, $n$, til 30. Deretter dro jeg den lille svarte pila den bortover langs $x$-aksen fram til den beregnede sannsynligheten var mindre enn $0.05$. Det skjedde ved $P(20\leq X)$.
+
+**Dersom Marte gjetter riktig på minst 20 glass så kan hun overbevise Birger om at hun er bedre til å gjenkjenne cola enn en tilfeldig gjetter med et signifikansnivå på 5 %.**

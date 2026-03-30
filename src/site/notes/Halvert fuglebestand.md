@@ -20,9 +20,30 @@ Forskere mener bestanden vil fortsette å bli halvert hvert femte år framover.
 >[!oppgave]
 > c) Hvor mange år vil det gå før bestanden er redusert med 35 % ifølge modellen?
 
->[!question]- Fasit
-> 
->a) –
->b) 4527 fugler
->c) 3 år
->[[Løsningsforslag/Løsningsforslag 2P-Y eksamen V2025#Oppgave 2-6\|Løsningsforslag 2P-Y eksamen V2025#Oppgave 2-6]]
+## Fasit
+
+a) –
+b) 4527 fugler
+c) 3 år
+
+## Løsningsforslag
+
+### 2-6a
+Jeg bruker regresjon for å vise dette, se figuren.
+
+![Regresjon på antall fugler](/img/user/_resources/2py-v25-2-6a.png)
+
+**Funksjonen $\underline{\underline{F(x)=12000\cdot 0{,}87^{x}}}$ er en god modell for utviklingen.**
+
+### 2-6b
+
+![Fuglebestand](/img/user/_resources/2py-v25-2-6b.png)
+
+Jeg sjekket verdien av $F(7)$ i GeoGebra, se skjermbildet. 
+
+**Etter 7 år vil det være 4527 fugler ifølge modellen.**
+
+### 2-6c
+Når bestanden er redusert med 35 % er det 65 % igjen, altså $12000 \cdot 0{,}65$. Jeg la inn linja $y=12000 \cdot 0{,}65$ og fant skjæringen i punktet $A$.
+
+**Det tar 3 år før bestanden er redusert med 35 % ifølge modellen.**

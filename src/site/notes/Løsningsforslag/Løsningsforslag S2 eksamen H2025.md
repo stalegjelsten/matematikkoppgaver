@@ -5,6 +5,29 @@
 
 
 ## Oppgave 1-1
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/ubestemt-integral-s2-h2025/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Ubestemt integral S2 H2025
+
+
+Regn ut integralet
+
+$
+\int e^{x} \cdot x \, \mathrm{d}x 
+$
+
+## Fasit
+
+$e^{x}(x-1)+C$
+
+## Løsningsforslag
+
 Jeg ser at integranden er produktet av to funksjoner, og jeg velger derfor å bruke delvis integrasjon med DI-metoden.
 
 |     |  D  |    I    |
@@ -12,12 +35,56 @@ Jeg ser at integranden er produktet av to funksjoner, og jeg velger derfor å br
 |  $+$  | $\textcolor{seagreen}{x}$ | $\textcolor{seagreen}{e^{x}}$ |
 |  $-$  | $\textcolor{tomato}{1}$ | $\textcolor{tomato}{e^{x}}$ |
 |  $+$  |  0  |         |
-$$\int e^{x} \cdot x \, \mathrm{d}x = \textcolor{seagreen}{x \cdot e^{x}} - \textcolor{tomato}{1 \cdot e^{x}} + C=\underline{\underline{e^{x}(x-1)+C}} $$
+$\int e^{x} \cdot x \, \mathrm{d}x = \textcolor{seagreen}{x \cdot e^{x}} - \textcolor{tomato}{1 \cdot e^{x}} + C=\underline{\underline{e^{x}(x-1)+C}} $
+
+
+</div></div>
+
 
 ## Oppgave 1-2
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/s2-h2025-ulike-rekker-del-1/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+
+Ta utgangspunkt i den aritmetiske rekken
+
+$
+-3+0+3+\ldots+69
+$
+
+>[!oppgave]
+> a) Bestem summen av rekken.
+
+Ta utgangspunkt i den uendelige geometriske rekken
+
+$
+5+5 \cdot\left(\frac{1}{2}-x\right)+5 \cdot\left(\frac{1}{2}-x\right)^2+\ldots
+$
+
+>[!oppgave]
+> b) Bestem konvergensområdet til rekken.
+
+En ball faller fra 2 meters høyde. Hver gang ballen treffer bakken, spretter den opp til en høyde som er $75 \%$ av høyden den falt fra.
+
+>[!oppgave]
+> c) Hvor mange meter vil ballen bevege seg totalt?
+
+## Fasit
+
+a) 825
+b) $x \in \left\langle - \frac{1}{2} ,\frac{3}{2} \right\rangle$
+c) 14 meter
+
+## Løsningsforslag
+
 ### 1-2a
 Vi kjenner $a_{1}=-3$ og $a_{n}=69$, men vi kjenner ikke $n$. Vi bruker derfor formelen for ledd i aritmetisk følge
-$$
+$
 \begin{aligned}
 a_{n}&=a_{1}+(n-1)\cdot d \\
 69&=-3 + (n-1)\cdot 3 \\
@@ -26,13 +93,13 @@ a_{n}&=a_{1}+(n-1)\cdot d \\
 23 + 1+1&=n \\
 n&=25
 \end{aligned}
-$$
+$
 Summen av den aritmetisk rekka er dermed
-$$s_{n}=\frac{a_{1}+a_{n}}{2}\cdot n =\frac{-3+69}{2}\cdot 25=\frac{66}{2}\cdot 25=33 \cdot 25 = \underline{\underline{825}}$$
+$s_{n}=\frac{a_{1}+a_{n}}{2}\cdot n =\frac{-3+69}{2}\cdot 25=\frac{66}{2}\cdot 25=33 \cdot 25 = \underline{\underline{825}}$
 
 ### 1-2b
 Konvergensområdet er de verdiene av $x$ som tilfredsstiller $-1<k(x)<1$, der $k(x)=\frac{1}{2}-x$.
-$$
+$
 \begin{aligned}
 -1&<k(x)<1 \\
 -1&< \frac{1}{2} -x < 1 \\
@@ -40,7 +107,7 @@ $$
 1 + \frac{1}{2} &> -\cancel{ \frac{1}{2} } + x + \cancel{ \frac{1}{2} } > -1 + \frac{1}{2}\\
 \frac{3}{2} &>  x > -\frac{1}{2}
 \end{aligned}
-$$
+$
 **Konvergensområdet for rekka er $\underline{\underline{x \in \left\langle-\frac{1}{2}, \frac{3}{2} \right\rangle}}$.**
 
 ### 1-2c
@@ -54,33 +121,82 @@ Ballen vil bevege seg på følgende måte:
 - Og så videre ...
 
 Ballens totale distanse kan altså modelleres ved hjelp av to geometriske rekker, $a$ for distansen nedover, og $b$ for distansen oppover. Vi har $k=0{,}75$, samt startverdiene $a_{1}=2$ og $b_{1}=1{,}5$
-$$
+$
 \begin{aligned}
 s_{a}&=\frac{a_{1}}{1-k}=\frac{2}{1-\frac{3}{4}}=\frac{2}{\frac{1}{4}}=\frac{2 \cdot 4}{\frac{1}{4}\cdot 4}=\frac{8}{1}=8 \\
 s_{b}&=\frac{b_{1}}{1-k}=\frac{1{,}5}{1-\frac{3}{4}}=\frac{1{,}5}{\frac{1}{4}}=\frac{1{,}5 \cdot 4}{\frac{1}{4}\cdot 4}=\frac{6}{1}=6 
 \end{aligned}
-$$
+$
 **Ballen vil totalt bevege seg 14 meter.**
 
+
+</div></div>
+
+
 ## Oppgave 1-3
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/tolkning-av-integral-og-areal-fra-graf/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+
+Nedenfor ser du grafen til funksjonen $f$ gitt ved $f(x)=x^3+x^2-2 x$.
+
+![Grafen til $f$](/img/user/_resources/r2-h25-1-3.jpeg)
+
+>[!oppgave]
+> a) Hvilket av uttrykkene nedenfor gir arealet av det markerte området på figuren? Husk å begrunne svaret ditt.
+
+
+::: {.grid cols=2}
+
+   1. $\int_{-2}^1 f(x) \mathrm{~d} x$
+   2. $\int_{-2}^1 f(x) \mathrm{~d} x-\int_0^1 f(x) \mathrm{~d} x$
+   3. $\int_{-2}^0 f(x) \mathrm{~d} x+\int_0^1 f(x) \mathrm{~d} x$
+   4. $\int_{-2}^0 f(x) \mathrm{~d} x-\int_0^1 f(x) \mathrm{~d} x$
+
+:::
+
+>[!oppgave]
+> b) Regn ut arealet av det markerte området på figuren.
+
+Kristian ønsker å finne en verdi $a<0$, som er slik at $\int_a^1 f(x) d x=0$.
+Han bruker en kalkulator og finner at $a \approx -0{,}6$.
+
+Unni påstår at likningen til Kristian har to løsninger.
+
+>[!oppgave]
+> c) Forklar hvorfor påstanden til Unni er riktig, og bruk figuren til å anslå omtrent hvilken verdi den andre løsningen kan ha.
+
+## Fasit
+
+a) 4
+b) $\frac{37}{12}$
+c) Mellom -3 og -2,5.
+
+## Løsningsforslag
+
 ### 1-3a
 Områder som ligger over $x$-aksen vil ha identisk areal og integral. Områder som ligger under $x$-aksen vil ha motsatt fortegn på integralet og arealet. 
 
 Vi deler derfor opp integrasjonen vår i to deler, en for området over $x$-aksen (fra $x=-2$ til $x=0$), og en annen del for området under $x$-aksen (fra $x=0$ til $x=1$).
 
 Området fra $x=-2$ til $x=0$ ligger over $x$-aksen, arealet og integralet er identiske. Området fra $x=0$ til $x=1$ ligger under $x$-aksen, så arealet og integralet vil ha motsatt fortegn. For å beregne det samlede arealet må vi derfor endre fortegnet til integralet fra $x=0$ til $x=1$, altså
-$$
+$
 \textcolor{seagreen}{\int_{-2}^{0} f(x) \, dx} - \textcolor{tomato}{\int_{0}^{1} f(x) \, dx}
-$$
+$
 **Uttrykk 4 gir arealet markert på figuren.**
 
 ### 1-3b
 Jeg finner først det ubestemte integralet
-$$
+$
 F(x)=\int \left(   x^{3}+x^{2}-2x  \right) \, \mathrm{d}x = \frac{1}{4}x^{4}+ \frac{1}{3}x^{3}- \frac{2}{2}x^{2} +C
-$$
+$
 Arealet er gitt ved
-$$
+$
 \begin{aligned}
 A&=\textcolor{seagreen}{\int_{-2}^{0} f(x) \, dx} - \textcolor{tomato}{\int_{0}^{1} f(x) \, dx} \\ &
 = \textcolor{seagreen}{\left[ F(x) \right]_{-2}^0} - \textcolor{tomato}{\left[ F(x) \right]_{0}^1} \\
@@ -91,7 +207,7 @@ A&=\textcolor{seagreen}{\int_{-2}^{0} f(x) \, dx} - \textcolor{tomato}{\int_{0}^
 &= \textcolor{seagreen}{\frac{8}{3}} - \textcolor{tomato}{\left( -\frac{5}{12} \right)} \\
 &= \textcolor{seagreen}{\frac{32}{12}} + \textcolor{tomato}{\frac{5}{12}}= \frac{37}{12}
 \end{aligned}
-$$
+$
 **Arealet er $\underline{\underline{\frac{37}{12}}}$.**
 
 ### 1-3c
@@ -108,7 +224,55 @@ Vi ser videre at $f(x)$ er negativ for $x<-2$, altså må det være mulig å vel
 
 **Likningen til Kristian krever like mye areal på oversiden og undersiden av $x$-aksen. Unni har rett i at det finnes to løsninger på likningen, der den andre løsningen ligger i intervallet $\langle -3, -2{,}5\rangle$.**
 
+
+</div></div>
+
+
 ## Oppgave 1-4
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/sannsynlighet-for-poengtap-ved-poengspill/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Sannsynlighet for poengtap ved poengspill
+
+I et spill kan du få poeng ved å kaste en terning med fire sider. De fire sidene har ulik farge. Den ene siden er gul, den andre grønn, den tredje rød og den fjerde blå.
+
+- Gul side gir ingen poeng.
+- Grønn side gir ett poeng.
+- Blå side gir to poeng.
+- Rød side gir tre poeng.
+
+Du starter med 10 poeng, og hvert kast koster 2 poeng.
+
+La $x$ være endringen i poeng for hvert kast, det vil si poengene fra kastet fratrukket de to poengene kastet koster.
+
+>[!oppgave]
+>a) Skriv av tabellen under og fyll inn det som mangler
+
+Table: {.tall}
+
+|   $x$    | $\Box$ |     $-1$      | $\Box$ | $\Box$ |
+| :------: | :-------: | :-----------: | :-------: | :-------: |
+| $P(X=x)$ | $\Box$ | $\frac{1}{4}$ | $\Box$ | $\Box$ |
+
+>[!oppgave]
+> b) Bestem $\text{E}(X)$. Hva forteller dette svaret?
+
+>[!oppgave]
+> c) Bestem $\text{Var}(X)$.
+
+## Fasit
+
+a)
+b) -0,5. Du taper 0,5 poeng i snitt per omgang ved å spille over lengre tid.
+c) 1,25
+
+## Løsningsforslag
+
 ### 1-4a
 
 Jeg forutsetter at sannsynligheten er lik for alle fire sidene av terningen.
@@ -122,20 +286,58 @@ Jeg forutsetter at sannsynligheten er lik for alle fire sidene av terningen.
 | $(x-\text{E}(X))^{2} \cdot P(X=x)$ | $\textcolor{orange}{\frac{9}{16}}$ | $\textcolor{seagreen}{\frac{1}{16}}$ | $\textcolor{steelblue}{\frac{1}{16}}$ | $\textcolor{tomato}{\frac{9}{16}}$ |
 
 ### 1-4b
-$$
+$
 \text{E}(X)=\sum x \cdot P(X=x)=\textcolor{orange}{-\frac{2}{4}}+ \textcolor{seagreen}{\left( -\frac{1}{4} \right)} + \textcolor{steelblue}{0} + \textcolor{tomato}{\frac{1}{4}}=-\frac{2}{4}=-\frac{1}{2}
-$$
+$
 **$\underline{\underline{\text{E}(X)=-\frac{1}{2}}}$. Det betyr at en spiller i gjennomsnitt vil tape 0,5 poeng per gang hen spiller i det lange løp.**
 
 ### 1-4c
-$$\text{Var}(X)=\sum (x-\text{E}(X))^{2} \cdot P(X=x)$$
+$\text{Var}(X)=\sum (x-\text{E}(X))^{2} \cdot P(X=x)$
 Jeg har regnet ut hvert kvadratavvik i tabellen over.
-$$
+$
 \text{Var}(X)=\textcolor{orange}{\frac{9}{16}}+\textcolor{seagreen}{\frac{1}{16}}+\textcolor{steelblue}{\frac{1}{16}}+\textcolor{tomato}{\frac{9}{16}}=\frac{20}{16}=\frac{5}{4}
-$$
+$
 **Variansen $\underline{\underline{\text{Var}(X)=\frac{5}{4}}}$.**
 
+
+</div></div>
+
+
 ## Oppgave 1-5
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/finn-riktig-graf-for-normalfordelingene/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Finn riktig graf for normalfordelingene
+
+
+På en skole med mange elever er høyden til elevene tilnærmet normalfordelt med en forventningsverdi på 170 cm og et standardavvik på 5 cm.
+
+Vi trekker ut én tilfeldig elev fra skolen og måler hvor høy eleven er.
+
+>[!oppgave]
+> a) Hvilken figur nedenfor viser sannsynlighetsfordelingen til denne hendelsen?
+
+Vi trekker ut 25 tilfeldige elever fra skolen, måler hvor høye elevene er, og regner ut gjennomsnittshøyden.
+
+>[!oppgave]
+> b) Hvilken figur nedenfor viser sannsynlighetsfordelingen til denne hendelsen?
+
+Husk å begrunne svarene dine.
+
+![](/img/user/_resources/s2-h25-1-5-normalfordelinger.png)
+
+## Fasit
+
+a) C
+b) B
+
+## Løsningsforslag
+
 ### 1-5a
 Når standardavviket er 5 cm så skal ca. 68 % av sannsynligheten ligge innenfor intervallet $\langle 165, 175 \rangle$ og normalfordelingsfunksjonen skal ha toppunktet sitt ved $170$ cm. Vendepunktene til normalfordelingsfunksjonen skal også ligge ved $x=165$ og $x=175$.
 
@@ -145,25 +347,73 @@ Figurene A og B viser fordelinger med standardavvik som er svært mye lavere enn
 
 ### 1-5b
 Vi lar $X$ være høyden til en tilfeldig valgt elev, og $\bar{X}$ være gjennomsnittshøyden til 25 tilfeldig valgte elever. Fra sentralgrensesetningen har vi at 
-$$
+$
 \begin{aligned}
 \text{E}(\bar{X})&=E(X) = 170\\
 \text{SD}(\bar{X}) &= \frac{\text{SD}(X)}{\sqrt{ n }}=\frac{5}{\sqrt{ 25 }}=\frac{5}{5}=1
 \end{aligned}
-$$
+$
 Vi ser at figur B har vendepunktene sine ved $x=169$ og $x=171$.
 
 **Figur B passer til beskrivelsen.**
 
+
+</div></div>
+
+
 ## Oppgave 2-1
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/logistisk-plantesalg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Logistisk plantesalg
+
+
+Et hagesenter ønsker å satse på salg av en ny type planter. De startet salget av plantene i uke 17. Utover våren økte salget. I tabellen nedenfor ser du inntekten fra salget av plantene de første ukene.
+
+| Uke              |  17  |  18  |   19   |   20   |   21   |  22   |   23   |   24   |
+| :--------------- | :--: | :--: | :----: | :----: | :----: | :---: | :----: | :----: |
+| Inntekt (kr/uke) | 2900 | 4400 | 12 200 | 23 400 | 28 800 | 34600 | 41 000 | 40 800 |
+
+>[!oppgave]
+>a) Bruk informasjonen i tabellen til å lage en modell I på formen
+>
+>$I(t)=\frac{B}{1+a \cdot e^{-k t}}$
+>
+>for inntekten $I(t)$ kroner per uke, $t$ uker etter uke 17.
+>Vurder modellens gyldighetsområde.
+
+>[!oppgave]
+>b) Når økte inntekten mest, ifølge modellen? Hvor mye økte inntekten med på dette tidspunktet?
+
+>[!oppgave]
+>c) Løs likningen
+>
+>$\int_0^x I(t) \mathrm{~d}t =65000$
+>
+>Gi en praktisk tolkning av svaret.
+
+## Fasit
+
+a) $I(t)=\frac{42\,000}{1+14{,}76 e ^{-0{,}9035t}}$  
+Gyldig fra uke 17 til 24.
+b) Uke 20. 9486 kr per uke.
+c) Uke 21.
+
+## Løsningsforslag
+
 ### 2-1a
 
 ![Regresjon i GeoGebra til oppgave 1 del 2](/img/user/L%C3%B8sningsforslag/s2-h25-2-1a-regresjon.png)
 
 Jeg brukte regresjon i GeoGebra for å finne en logistisk modell som passer til uttrykket i oppgaveteksten. Den modellen som passer best er
-$$
+$
 \underline{\underline{I(t)=\frac{42\,000}{1+14{,}76 e ^{-0{,}9035t}}}}
-$$
+$
 Salget starter i uke 17, så modellen er ikke gyldig før dette. I uke 24 så ser vi at salget minker noe fra uke 23, og det er naturlig med tanke på at uke 24 er starten av sommerferien. Sannsynligvis selger man ikke like mye planter på sommeren som man gjør i vekstperioden på våren.
 
 **Jeg vurderer modellens gyldighetsområde til å kun være fra uke 17 til og med uke 24, altså $t \in [0,7]$.** 
@@ -181,7 +431,48 @@ Se linje 4 i GeoGebra-utklippet. $x=4{,}3$ tilsvarer underveis i uke 21.
 
 **De samlede salgsinntektene for planten passerte 65 000 kr i uke 21.**
 
+
+</div></div>
+
+
 ## Oppgave 2-2
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/grensekostnader-enhetskostnader-og-overskudd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Grensekostnader, enhetskostnader og overskudd
+
+
+En bedrift produserer og selger en vare. Kostnaden $K(x)$ ved å produsere $x$ enheter av varen per dag er gitt ved
+
+$
+K(x)=700 \cdot e^{\frac{x}{200}}, \quad\quad x\in \left< 0,500 \right] 
+$
+
+>[!oppgave]
+> a) Bestem $K'(150)$. Gi en praktisk tolkning av svaret.
+> b) Bestem produksjonsmengden som gir den laveste enhetskostnaden. Hva blir denne enhetskostnaden?
+
+Bedriften selger alle varene den produserer. Inntekten $I(x)$ kroner ved salg av $x$ enheter av varen per dag er gitt ved
+
+$
+I(x)=80x-0{,}10x^{2}
+$
+
+>[!oppgave]
+>c) Hvor mange enheter av varen må bedriften produsere og selge for å gå med overskudd?
+
+## Fasit
+
+a) 7,41 kr. Ca kostnad for å øke produksjonen fra 150 til 151 enheter per dag.
+b) 200 enheter. Enhetskostnaden er 9,51 kr.
+c) $x \in \left< 10,500 \right]$
+
+## Løsningsforslag
 
 ![Løsning i CAS av oppgave 2 del 2](/img/user/L%C3%B8sningsforslag/s2-h25-2-2.png)
 
@@ -200,23 +491,56 @@ Jeg løser ulikheten $I>K$ i linje 7. Siden definisjonsmengden til $K$ er $D_{K}
 
 **Bedriften må produsere og selge fra og med 10 enheter til og 500 enheter for å gå med overskudd.**
 
+
+</div></div>
+
+
 ## Oppgave 2-3
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/hypotesetester-om-komponenter-som-er-defekte/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Hypotesetester om komponenter som er defekte
+
+
+En bedrift har en maskin som lager elektroniske komponenter. Firmaet MASK, som leverte maskinen til bedriften, oppgir at andelen feilproduserte komponenter vil være 1 % eller mindre.
+
+Bedriften tester maskinen ved å lage 20 komponenter. Det viser seg at det er feil på én komponent. Bedriften klager til MASK og påstår at maskinen lager en høyere andel feilproduserte komponenter enn oppgitt.
+
+>[!oppgave]
+> a) Bruk hypotesetesting og argumenter for om klagen er velbegrunnet.
+
+MASK sender en kontrollør til bedriften. Kontrolløren tester mange komponenter fra maskinen og finner også feil på én komponent. Kontrolløren påstår at med det antallet komponenter han har testet, så er det mer enn 95 % sannsynlighet for at andelen feilproduserte komponenter er 1 % eller mindre.
+
+>[!oppgave]
+> b) Hva er det minste antallet komponenter kontrolløren kan ha testet for å påstå dette?
+
+## Fasit
+
+a) Klagen er ikke velbegrunnet. 
+b) ??
+
+## Løsningsforslag
 
 ### 2-3a
 Vi lar $p$ være sannsynligheten for at en tilfeldig valgt komponent er defekt. Bedriften som klager påstår at $p>0{,}01$. Hypotesene våre er
-$$
+$
 \begin{aligned}
 H_{0}: \quad p\leq 0{,}01\\
 H_{A}: \quad p > 0{,}01
 \end{aligned}
-$$
+$
 
 ![Binomisk hypotesetest til oppgave 3a del 2](/img/user/L%C3%B8sningsforslag/s2-h25-2-3a-binomisk.png)
 
 Vi lar $X$ være antallet defekte komponenter når vi produserer 20 komponenter gitt at nullhypotesen vår er sann. Fra sannsynlighetsvinduet i GeoGebra har vi at
-$$
+$
 P(X\geq 1)=0{,}1821
-$$
+$
 Sannsynligheten for å finne 1 eller flere defekte komponenter gitt at nullhypotesen er sann er omtrent $18{,}21 \,\%$.
 
 **$p$-verdien er $0{,}1821$. Det er ikke grunnlag for forkaste nullhypotesen om at andelen er 1 % eller lavere. Klagen fra bedriften er ikke velbegrunnet.**
@@ -243,7 +567,48 @@ Hvis kontrolløren kontrollerte 473 komponenter, så er sannsynligheten for å k
 **Kontrolløren må minst ha kontrollert 473 komponenter.**
 
 
+</div></div>
+
+
 ## Oppgave 2-4
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/mathias-sine-lan-for-a-kjope-bil/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+
+
+Mathias ønsker å kjøpe seg en bil. Han går innom nærmeste bilforhandler, der han ser to ulike biler som vekker interesse.
+
+Mathias har ingen egenkapital og må derfor låne hele beløpet. Bilforretningen gir Mathias følgende to tilbud for bilene:
+
+> [!yellow-box] Tilbud 1: Dieselbil
+> En brukt dieselbil. Pris 357 000 kroner. Nedbetalingstid 8 år, med én termin per år. Første innbetaling etter ett år. Rentesats 4 %.
+
+> [!green-box] Tilbud 2: Elbil
+> En ny elbil. Pris 450 000 kroner. Nedbetalingstid 10 år, med én termin per år og terminbeløp på 52 000 kroner. Første innbetaling etter ett år.
+
+>[!oppgave]
+>a) Sett opp en geometrisk rekke som viser hvor mye Mathias må betale for den brukte dieselbilen.
+>
+>Bruk rekken til å bestemme terminbeløpene Mathias må betale dersom han kjøper bilen.
+
+>[!oppgave]
+> b) Bestem rentesatsen Mathias får dersom han velger å kjøpe elbilen.
+
+>[!oppgave]
+>c) Hvilket tilbud fører til at Mathias må betale mest renter totalt?
+
+## Fasit
+
+a) 53 024 kr
+b) 2,72 %
+c) Kjøp av elbil gir høyest rentekostnad.
+
+## Løsningsforslag
 
 ![Løsning av oppgave 4 del 2 i CAS](/img/user/L%C3%B8sningsforslag/s2-h25-2-4-cas.png)
 
@@ -251,9 +616,9 @@ Hvis kontrolløren kontrollerte 473 komponenter, så er sannsynligheten for å k
 Et annuitetslån passer godt til oppgaven siden den spør etter en geometrisk rekke som viser hvor mye Mathias må betale.
 
 I et annuitetslån må summen av nåverdiene til terminbeløpene tilsvare lånebeløpet, altså
-$$
+$
 \sum_{i=1}^8 \frac{T}{1{,}04^{i}}=357\,000
-$$
+$
 Jeg løser denne i CAS (se linje 1).
 
 **Terminbeløpene er 53 024 kr.**
@@ -270,7 +635,44 @@ Rentekostnadene er summen av terminbeløpene minus prisen på bilene. Disse har 
 
 **Å kjøpe elbilen vil gi høyest rentekostnader totalt, men det er først og fremst på grunn av at elbilen er dyrere og nedbetalingstiden er lengre. Rentesatsen er lavest for elbilen.**
 
+
+</div></div>
+
+
 ## Oppgave 2-5
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/programmering-av-wiggos-spareplan/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Programmering av Willys spareplan
+
+
+Wiggo har en spareplan. De fem første dagene sparer han følgende beløp:
+
+Dag 1: 1 krone  
+Dag 2: 5 kroner  
+Dag 3: 10 kroner  
+Dag 4: 16 kroner  
+Dag 5: 23 kroner  
+
+Etter disse fem dagene har han 55 kroner på konto. Wiggo ønsker å fortsette med denne sparingen i samme mønster i dagene framover.
+
+>[!oppgave]
+>Beskriv den rekursive sammenhengen mellom sparebeløpene.
+>Lag et program som bruker denne rekursive sammenhengen til å vise hvor mange dager Wiggo må spare før han har 100000 kroner på konto.
+
+Husk å legge ved skjermbilde av både programkoden og resultatet du får når du kjører programmet.
+
+## Fasit
+
+82 dager
+
+## Løsningsforslag
+
 Den rekursive sammenhengen kan skrive matematisk som $B_{n+1} = B_n + 3 + n$, der $n \ge 1$ og $B_1=1$.
 
 Vi kan også beskrive sammenhengen som at sparingen starter på 1 krone og at sparingen øker med 4 kroner til dag 2. Deretter øker sparingen med 1 krone mer per dag. Jeg velger å bruke dette mønsteret til programmeringen.
@@ -292,7 +694,44 @@ print(f"Etter {dag} dager har Wiggo spart over 100 000 kr. Han har da spart {sum
 
 Output: `Etter 82 dager har Wiggo spart over 100 000 kr. Han har da spart 101926 kr.`
 
+
+</div></div>
+
+
 ## Oppgave 2-6
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/simulering-av-antall-terningkast-for-a-fa-samme-antall-oyne-i-to-kast-pa-rad/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+Ane har en vanlig sekssidet terning. Hun ønsker å finne ut hvor mange ganger hun i gjennomsnitt må kaste terningen for å få det samme antallet øyne i to kast på rad.
+
+Hun har laget tabellen nedenfor.
+
+Table: Sannsynlighet for at et kast er nødvendig { .tall }
+
+| Kast nummer      |  1  |  2  | 3  | 4   |     5      |  6    | ... |
+| :--------------------------------------- | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| Sannsynlighet for at kastet er nødvendig |  1  |  1  | $\frac{5}{6}$ | $\left(\frac{5}{6}\right)^2$ | $\left(\frac{5}{6}\right)^3$ | $\left(\frac{5}{6}\right)^4$ |  ⋯  |
+
+>[!oppgave]
+>a) Forklar at
+>$1+1+\frac{5}{6}+\left(\frac{5}{6}\right)^2+\left(\frac{5}{6}\right)^3+\ldots$
+>vil gi det forventede antallet kast Ane må gjøre for å få det samme antallet øyne i to kast på rad.
+>Bestem denne verdien.
+
+>[!oppgave]
+>b) Bruk simulering til å bestemme forventningsverdien til summen av antall øyne Ane vil få på terningen i kastene hun bruker for å få det samme antallet øyne i to kast på rad.
+
+## Fasit
+
+a) –
+b) 24,5
+
+## Løsningsforslag
 
 ### 2-6a
 
@@ -312,22 +751,22 @@ Vi lar $X$ være antall kast som trengs før vi har fått 2 like terningkast på
 |   $5$   | $\left( \frac{5}{6} \right)^{3} \cdot \frac{1}{6}$ |
 
 Forventningsverdien til $X$ vil da være
-$$
+$
 \begin{aligned}
 \text{E}(X)&=\lim_{ n \to \infty } \sum_{i=1}^n x_{i} \cdot P(x_{i})\\
 &=1 \cdot 0 + 2 \cdot \frac{1}{6} + 3 \cdot \frac{5}{6} \cdot \frac{1}{6} +4 \cdot \left( \frac{5}{6} \right)^{2} \cdot \frac{1}{6}+5 \cdot \left( \frac{5}{6} \right)^{3} \cdot \frac{1}{6} + \cdots \\
 &= \frac{1}{6} \left(\underbrace{  2\left( \frac{5}{6} \right)^0 + 3\left( \frac{5}{6} \right)^{1} + 4\left( \frac{5}{6} \right)^{2} + 5\left( \frac{5}{6} \right)^{3}  + \cdots }_{ S } \right) 
 \end{aligned}
-$$
+$
 Vi kaller alt inni parentesen for $S$, og omskriver heltallene som står foran $\frac{5}{6}$ som en sum av enere:
-$$
+$
 \begin{aligned}
 S = \underbrace{ (\textcolor{seagreen}{1}+\textcolor{steelblue}{1}) }_{ 2 } \cdot \left( \frac{5}{6} \right)^{0} + \underbrace{ ( \textcolor{seagreen}{1} + \textcolor{steelblue}{1}+\textcolor{orange}{1}) }_{ 3 } \cdot \left( \frac{5}{6} \right)^{1}  \underbrace{ ( \textcolor{seagreen}{1} + \textcolor{steelblue}{1}+\textcolor{orange}{1} + \textcolor{tomato}{1}) }_{ 4 } \cdot \left( \frac{5}{6} \right)^{2} + \dots
 \end{aligned}
-$$
+$
 Vi deler nå opp denne summen i en rekke delsummer slik at $S = \lim_{ n \to \infty } S_{1} + S_{2} +  \dots + S_{n}$ hvor 
 
-$$
+$
 \begin{aligned}
 \color{seagreen} S_{1} & = \textcolor{seagreen}{1} \cdot \left( \frac{5}{6} \right)^{0} + \textcolor{seagreen}{1} \cdot \left( \frac{5}{6} \right)^{1}+ \textcolor{seagreen}{1} \cdot \left( \frac{5}{6} \right)^{2} + \dots = \frac{1}{1-\frac{5}{6}}=\frac{1}{\frac{1}{6}}=\textcolor{seagreen}{6}\\
 \color{steelblue} S_{2} & = \textcolor{steelblue}{1} \cdot \left( \frac{5}{6} \right)^{0} + \textcolor{steelblue}{1} \cdot \left( \frac{5}{6} \right)^{1}+ \textcolor{steelblue}{1} \cdot \left( \frac{5}{6} \right)^{2} + \dots = \frac{1}{1-\frac{5}{6}}=\frac{1}{\frac{1}{6}}= \textcolor{steelblue}{6}\\
@@ -335,23 +774,23 @@ $$
 \color{tomato} S_{4} & = \textcolor{tomato}{1} \cdot \left( \frac{5}{6} \right)^{2} + \textcolor{tomato}{1} \cdot \left( \frac{5}{6} \right)^{3}+ \textcolor{tomato}{1} \cdot \left( \frac{5}{6} \right)^{4} + \dots = \frac{\left( \frac{5}{6} \right)^{2}}{1-\frac{5}{6}}=\frac{\left( \frac{5}{6} \right)^{2}}{\frac{1}{6}}=\textcolor{tomato}{6 \cdot \left( \frac{5}{6} \right)^{2}}\\
 \color{maroon} S_{5} & = \textcolor{maroon}{1} \cdot \left( \frac{5}{6} \right)^{3} + \textcolor{maroon}{1} \cdot \left( \frac{5}{6} \right)^{4}+ \textcolor{maroon}{1} \cdot \left( \frac{5}{6} \right)^{5} + \dots = \frac{\left( \frac{5}{6} \right)^{3}}{1-\frac{5}{6}}=\frac{\left( \frac{5}{6} \right)^{3}}{\frac{1}{6}}=\textcolor{maroon}{6 \cdot \left( \frac{5}{6} \right)^{3}}
 \end{aligned}
-$$
+$
 Forventningsverdien er altså
-$$
+$
 \begin{aligned}
 \text{E}(X)&=\frac{1}{6}S \\
 &=\frac{1}{6}\left( \textcolor{seagreen}{S_{1}}+\textcolor{steelblue}{S_{2}} + \textcolor{orange}{S_{3}} + \textcolor{tomato}{S_{4}} + \textcolor{maroon}{S_{5}} + \cdots \right) \\
 &=\frac{1}{6} \left( \textcolor{seagreen}{6} + \textcolor{steelblue}{6} + \textcolor{orange}{5} + \textcolor{tomato}{6 \cdot \left( \frac{5}{6} \right)^{2} } + \textcolor{maroon}{6 \cdot \left( \frac{5}{6} \right)^{3}} + \cdots \right) \\
 &=  \textcolor{seagreen}{1} + \textcolor{steelblue}{1} + \textcolor{orange}{\frac{5}{6}}+\textcolor{tomato}{\left( \frac{5}{6} \right)^{2}} + \textcolor{maroon}{\left( \frac{5}{6} \right)^{3}} + \dots &&  \blacksquare
 \end{aligned}
-$$
+$
 
 Hvis vi ser bort fra det aller første leddet ($\textcolor{seagreen}{1}$), så er dette en uendelig geometrisk rekke med $a_{1}=1$ og $k=\frac{5}{6}$
-$$
+$
 s= \textcolor{steelblue}{1}+ \textcolor{orange}{\frac{5}{6}}+ \textcolor{tomato}{\left( \frac{5}{6} \right)^{2}} + \cdots
-$$
+$
 Vi kan finne summen av rekka $s$ med GeoGebra, eller med formelen for sum av uendelig geometrisk rekke:
-$$s=\frac{1}{1-\frac{5}{6}}= \frac{1}{\frac{1}{6}}= \frac{1\cdot 6}{\frac{1}{6}\cdot 6}= 6$$
+$s=\frac{1}{1-\frac{5}{6}}= \frac{1}{\frac{1}{6}}= \frac{1\cdot 6}{\frac{1}{6}\cdot 6}= 6$
 Til sammen blir altså $\text{E}(X)=\textcolor{seagreen}{1}+s=\textcolor{seagreen}{1}+6=7$.
 
 **Verdien av rekka er 7.**
@@ -383,3 +822,7 @@ Output: `Jeg estimerer forventningsverdien til å være 24.502 etter 100000 simu
 Etter å ha kjørt programmet flere ganger ser det ut til estimatet mitt er stabilt på rundt $24{,}5$. Det stemmer også godt med at forventningsverdien for en terning er $3{,}5$ og vi trenger i snitt $7$ kast før vi har fått to like på rad.
 
 **Jeg estimerer forventningsverdien til summen av antall øyne før Ane får to like terninger på rad til å være 24,5.**
+
+
+</div></div>
+

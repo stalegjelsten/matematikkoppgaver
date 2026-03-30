@@ -25,8 +25,25 @@ Teksten nedenfor er hentet fra nrk.no.
 >a) Hvor mye skylder hver person som har utestående betalingsanmerkninger, i gjennomsnitt?
 >b) Omtrent hvor mange personer i Norge er over 18 år?
 
->[!question]- Fasit
->
-> a) $\approx 248\,000 \, \mathrm{kr}$
-> b) $\approx 4{,}8 \, \mathrm{millioner}$
-> [[Løsningsforslag/Løsningsforslag 1P eksamen H2025#Oppgave 2-3\|Løsningsforslag 1P eksamen H2025#Oppgave 2-3]]
+## Fasit
+
+a) $\approx 248\,000 \, \mathrm{kr}$
+b) $\approx 4{,}8 \, \mathrm{millioner}$
+
+## Løsningsforslag
+
+### 2-3a
+
+$$\text{Gjennomsnitt} = \frac{57\,000\,000\,000}{229\,963} \approx 247\,866 \approx 248\,000$$
+
+**Hver person skylder i gjennomsnitt omtrent $\underline{\underline{248\,000 \, \mathrm{kr}}}$.**
+
+### 2-3b
+
+229 963 personer utgjør 4,8 % av befolkningen over 18 år. La $N$ være antall personer over 18 år:
+
+$$0{,}048 \cdot N = 229\,963$$
+
+$$N = \frac{229\,963}{0{,}048} \approx 4\,791\,000$$
+
+**Omtrent $\underline{\underline{4{,}8 \, \mathrm{millioner}}}$ nordmenn er over 18 år.**

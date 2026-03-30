@@ -17,9 +17,73 @@ Skissen nedenfor viser de 16 første linjestykkene i figuren. Lengden av et linj
 >Hvor mange linjestykker må vi ha med i figuren dersom summen av lengdene skal bli minst 9 meter?
 >c) Hvor mange prosent øker summen av lengdene dersom vi øker antall linjestykker i figuren fra 50 til 100?
 
->[!question]- Fasit
->
->a) 569,5 cm
->b) 22 linjestykker
->c) 0,52 %
->[[Løsningsforslag/Løsningsforslag 1P eksamen H2023#Oppgave 2-6\|Løsningsforslag 1P eksamen H2023#Oppgave 2-6]]
+## Fasit
+
+a) 569,5 cm
+b) 22 linjestykker
+c) 0,52 %
+
+## Løsningsforslag
+
+### 2-6a
+Lengden reduseres med 10 % per linjestykke og den begynner på 100 cm. Da blir lengden av linjestykke nummer $n$:
+
+$$
+L(n)=100 \cdot 0{,}9^{n-1}
+$$
+
+Jeg bruker et regneark til å legge sammen de 8 første linjestykkene.
+
+![Lengden av de 8 første linjestykkene](/img/user/_resources/1p-h23-2-6-excel.png)
+
+**Lengden av de 8 første linjestykkene er 569,5 cm.**
+
+
+> [!tip] Enklere beregning med regneark
+> Det ville vært enklere å bruke en formel som tar forrige lengde og multipliserer med 0,9.
+
+
+### 2-6b
+
+```python
+n = 1
+L = 100
+total = L
+
+while total < 900:      # Kjører så lenge totalen er under 900 cm
+    L = L * 0.9         # Beregner nytt linjestykke
+    total = total + L   # Legger til linjestykke på totallengden
+    n = n + 1           # Teller hvor mange linjestykker
+
+print("Etter", n, "linjestykker er lengden", round(total, 2), "cm.")
+```
+
+Output: `Etter 22 linjestykker er lengden 901.52 cm.`
+
+**Du må ha 22 linjestykker for at lengden skal bli minst 9 meter.**
+
+### 2-6c
+
+> [!tip] Andre løsningsmetoder
+> Det er minst like enkelt å løse denne oppgaven med regnearket fra oppgave a).
+
+```python
+L = 100
+total = L
+
+for n in range(1, 101):
+    if n == 50:            # Lagrer totallengden etter 50 figurer
+        lengde_50 = total
+    if n == 100:           # Lagrer totallengden etter 100 figurer
+        lengde_100 = total
+    L = L * 0.9            # Beregner nytt linjestykke
+    total = total + L      # Legger til linjestykke på totallengden
+
+prosent_endring = (lengde_100 - lengde_50) / (lengde_50) * 100
+
+print(round(prosent_endring, 2))
+```
+
+Output: `0.52`
+
+**Summen av lengdene øker med 0,52 % dersom vi øker antallet linjestykker fra 50 til 100.**

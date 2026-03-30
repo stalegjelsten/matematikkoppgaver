@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["funksjonsdrøfting","derivasjon","økonomi"],"fag":["s1"],"eksamen":"h24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":5}],"poeng":4,"title":"Optimalisering av parkeringsinntekt","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/optimalisering-av-parkeringsinntekt/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["funksjonsdrøfting","derivasjon","økonomi"],"fag":["s1"],"eksamen":"h24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":5}],"poeng":4,"title":"Optimalisering av parkeringsinntekt","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["funksjonsdrøfting","derivasjon","økonomi"],"fag":["s1"],"eksamen":"h24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":5}],"poeng":4,"title":"Optimalisering av parkeringsinntekt","status":0,"source":null,"todo":null,"permalink":"/optimalisering-av-parkeringsinntekt/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["funksjonsdrøfting","derivasjon","økonomi"],"fag":["s1"],"eksamen":"h24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":5}],"poeng":4,"title":"Optimalisering av parkeringsinntekt","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -11,6 +11,4 @@ Stephanie leier ut parkeringsplasser. Hun leier ut plasser for 1000 kroner per p
 >a) Vis at Stephanie har 30 parkeringsplasser.
 >b) Hva er den største mulige månedlige inntekten som Stephanie kan få?
 
->[!question]- Fasit
->
->[[Løsningsforslag/Løsningsforslag S1 eksamen H2024#Oppgave 2-5\|Løsningsforslag S1 eksamen H2024#Oppgave 2-5]]
+## Fasit

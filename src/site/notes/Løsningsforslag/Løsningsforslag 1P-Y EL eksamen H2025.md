@@ -1,5 +1,5 @@
 ---
-{"title":"Løsningsforslag 1P-Y EL eksamen H2025","aliases":null,"tags":["løsningsforslag"],"dg-publish":true,"date":"2026-03-16","modified":"2026-03-16","disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"fag":["1p-y el"],"eksamen":"h25","author":"Ståle Gjelsten","fontsize":"11pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","shift-heading-level-by":null,"permalink":"/losningsforslag/losningsforslag-1-p-y-el-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Løsningsforslag 1P-Y EL eksamen H2025","aliases":null,"tags":["løsningsforslag"],"date":"2026-03-16","modified":"2026-03-16","disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"fag":["1p-y el"],"eksamen":"h25","author":"Ståle Gjelsten","fontsize":"11pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","shift-heading-level-by":null}}
+{"title":"Løsningsforslag 1P-Y EL eksamen H2025","aliases":null,"tags":["løsningsforslag"],"dg-publish":true,"date":"2026-03-16","modified":"2026-03-16","disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"fag":["1p-y el"],"eksamen":"h25","author":"Ståle Gjelsten","fontsize":"11pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","shift-heading-level-by":0,"permalink":"/losningsforslag/losningsforslag-1-p-y-el-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Løsningsforslag 1P-Y EL eksamen H2025","aliases":null,"tags":["løsningsforslag"],"date":"2026-03-16","modified":"2026-03-16","disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"fag":["1p-y el"],"eksamen":"h25","author":"Ståle Gjelsten","fontsize":"11pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","shift-heading-level-by":0}}
 ---
 
 
@@ -7,7 +7,7 @@ Jeg blir veldig glad om du melder ifra om feil enten direkte til meg eller via f
 
 # Del 1
 
-## Oppgave 1-1
+## Oppgave 1
 
 a) Jens løper $12\mathrm{~km/h}$ i $15\mathrm{~min} = \frac{15}{60}\mathrm{~t} = 0{,}25\mathrm{~t}$:
 
@@ -16,7 +16,7 @@ $$s = 12 \cdot 0{,}25 = \underline{\underline{3\mathrm{~km}}}$$
 b) 2 timer er 120 minutter. Hvis vi runder av så kan vi si at et maraton er omtrent 40 km. Da er farten
 $$\dfrac{120}{40} = \underline{\underline{ 3\mathrm{~min/km} }}$$
 
-## Oppgave 1-2
+## Oppgave 2
 
 
 a) Fra figuren ser vi at avdraget (blå del) er like stort i alle 5 terminer. Det betyr at det er et $\underline{\underline{\text{serielån}}}$.
@@ -27,7 +27,7 @@ b) Avdraget er $10\,000\mathrm{~kr}$ per termin, og lånet betales over 5 termin
 
 $$\text{Lån} = 10\,000 \cdot 5 = \underline{\underline{50\,000\mathrm{~kr}}}$$
 
-## Oppgave 1-3
+## Oppgave 3
 
 Vi bruker formelen $t = 14 - \dfrac{a}{3}$.
 
@@ -37,9 +37,9 @@ $$t = 14 - \frac{6}{3} = 14 - 2 = \underline{\underline{12\mathrm{~timer}}}$$
 
 **Spørsmål 2:** Barnet trenger 10 timer søvn, vi løser for $a$:
 
-$$10 = 14 - \frac{a}{3} \implies \frac{a}{3} = 4 \implies a = \underline{\underline{12\mathrm{~år}}}$$
+$$10 = 14 - \frac{a}{3} \implies \frac{a}{3} = 4 \implies a = \underline{\underline{12\text{~år}}}$$
 
-## Oppgave 1-4
+## Oppgave 4
 
 a) Hver megabyte er 8 megabit. Derfor er $6 \mathrm{~MB} \cdot 8=\underline{\underline{ 48 \mathrm{~Mbit} }}$
 
@@ -47,7 +47,7 @@ b) $8 \mathrm{~MB}$ blir overført på $16 \mathrm{~s}$, det vil si $$\frac{8 \m
 
 	 Hver MB er fremdeles 8 Mbit, derfor får vi $0{,}5 \mathrm{~ MB/s} \cdot 8 =\underline{\underline{ 4 \mathrm{~ Mbit/s} }}$
 
-## Oppgave 1-5
+## Oppgave 5
 
 > [!green-box]
 >
@@ -77,7 +77,7 @@ b) $8 \mathrm{~MB}$ blir overført på $16 \mathrm{~s}$, det vil si $$\frac{8 \m
 
 # Del 2
 
-## Oppgave 2-1
+## Oppgave 6
 
 a) Total produksjon $624\mathrm{~MWh} = 624\,000\mathrm{~kWh}$ fordelt på 1400 paneler:
 
@@ -99,7 +99,7 @@ Maksimalt antall hele paneler:
 
 $$n = \frac{15\,000}{419{,}6} \approx 35{,}7 \implies \underline{\underline{35\text{ hele paneler}}}$$
 
-## Oppgave 2-2
+## Oppgave 7
 
 **Effekt:**
 
@@ -115,7 +115,7 @@ $$\text{Inntekt} = 858\,000 \cdot 0{,}40 \approx \underline{\underline{343\,000\
 
 $$Q = \frac{P}{\eta \cdot \rho \cdot g \cdot h} = \frac{25\,000\,000}{0{,}9 \cdot 1000 \cdot 9{,}81 \cdot 450} \approx \underline{\underline{6{,}29\mathrm{~m}^3/\mathrm{s}}}$$
 
-## Oppgave 2-3
+## Oppgave 8
 
 a) Se regnearket.
 
@@ -129,7 +129,7 @@ b) Vi kan sette opp
 
 	 **Ella må minst ha 484 000 kr i årslønn.**
 
-## Oppgave 2-4
+## Oppgave 9
 
 **Oscar:** $t = 1{,}2\mathrm{~s}$, Formel 1:
 
@@ -149,7 +149,7 @@ Farten er ikke dobbel – den er $\sqrt{2} \approx 1{,}41$ ganger så stor, ford
 
 $$v_{10} = 14\mathrm{~m/s} \implies t = \frac{v}{9{,}8} = \frac{14}{9{,}8} \approx \underline{\underline{1{,}43\mathrm{~s}}}$$
 
-## Oppgave 2-5
+## Oppgave 10
 
 a) To brannslanger, $3\,000\,000$ liter på $48\mathrm{~t} = 172\,800\mathrm{~s}$:
 

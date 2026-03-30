@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["sannsynlighet","diskrete sannsynlighetsfordelinger"],"fag":["s1"],"eksamen":"h23","del":2,"oppgave":2,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":2}],"poeng":null,"title":"Venstrehendte elever","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/venstrehendte-elever/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-14","modified":"2026-03-26","aliases":[],"temaer":["sannsynlighet","diskrete sannsynlighetsfordelinger"],"fag":["s1"],"eksamen":"h23","del":2,"oppgave":2,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":2}],"poeng":null,"title":"Venstrehendte elever","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2023-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["sannsynlighet","diskrete sannsynlighetsfordelinger"],"fag":["s1"],"eksamen":"h23","del":2,"oppgave":2,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":2}],"poeng":null,"title":"Venstrehendte elever","status":1,"source":null,"todo":null,"permalink":"/venstrehendte-elever/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-14","modified":"2026-03-26","aliases":[],"temaer":["sannsynlighet","diskrete sannsynlighetsfordelinger"],"fag":["s1"],"eksamen":"h23","del":2,"oppgave":2,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":2}],"poeng":null,"title":"Venstrehendte elever","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -18,6 +18,4 @@ I en klasse er det 13 gutter og 17 jenter.
 >[!oppgave]
 >c) Bestem sannsynligheten for at nøyaktig tre av elevene i klassen er venstrehendte.
 
->[!question]- Fasit
->
->[[Løsningsforslag S1 eksamen H2023#Oppgave 2-2\|Løsningsforslag S1 eksamen H2023#Oppgave 2-2]]
+## Fasit

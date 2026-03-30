@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["regresjon","modellering","derivasjon","optimering"],"fag":["1t","1p"],"eksamen":"v24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":1},{"fag":"1p","del":2,"oppgave":1}],"poeng":8,"title":"Modellering av bagettsalg","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/modellering-av-bagettsalg/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-28","aliases":[],"temaer":["regresjon","modellering","derivasjon","optimering"],"fag":["1t","1p"],"eksamen":"v24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":1},{"fag":"1p","del":2,"oppgave":1}],"poeng":8,"title":"Modellering av bagettsalg","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["regresjon","modellering","derivasjon","optimering"],"fag":["1t","1p"],"eksamen":"v24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":1},{"fag":"1p","del":2,"oppgave":1}],"poeng":8,"title":"Modellering av bagettsalg","status":1,"source":null,"todo":null,"permalink":"/modellering-av-bagettsalg/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-28","aliases":[],"temaer":["regresjon","modellering","derivasjon","optimering"],"fag":["1t","1p"],"eksamen":"v24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":1},{"fag":"1p","del":2,"oppgave":1}],"poeng":8,"title":"Modellering av bagettsalg","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -19,6 +19,4 @@ Tabellen nedenfor viser hvor mange bagetter en kantine har solgt hver av de sist
 >c) Bestem stigningstallet til den rette linjen som går gjennom punktene $(100, O(100))$ og $(200, O(200))$. Gi en praktisk tolkning av svaret du får.
 >d) Bestem den momentane vekstfarten når $x = 235$. Gi en praktisk tolkning av svaret du får.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1T eksamen V2024#Oppgave 2-1\|Løsningsforslag 1T eksamen V2024#Oppgave 2-1]]
+## Fasit

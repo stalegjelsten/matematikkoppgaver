@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-14","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["vektorer","derivasjon","modellering"],"fag":["r2"],"eksamen":"v25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":1}],"poeng":6,"title":"Bil på spiralvei i parkeringshus","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/bil-pa-spiralvei-i-parkeringshus/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-14","modified":"2026-03-25","aliases":[],"temaer":["vektorer","derivasjon","modellering"],"fag":["r2"],"eksamen":"v25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":1}],"poeng":6,"title":"Bil på spiralvei i parkeringshus","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2025-05-14","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["vektorer","derivasjon","modellering"],"fag":["r2"],"eksamen":"v25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":1}],"poeng":6,"title":"Bil på spiralvei i parkeringshus","status":1,"source":null,"todo":null,"permalink":"/bil-pa-spiralvei-i-parkeringshus/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-14","modified":"2026-03-25","aliases":[],"temaer":["vektorer","derivasjon","modellering"],"fag":["r2"],"eksamen":"v25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":1}],"poeng":6,"title":"Bil på spiralvei i parkeringshus","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -18,6 +18,4 @@ der bakkenivået er $xy$-planet i et koordinatsystem med meter som enhet langs a
 >b) Bestem fartsvektoren $\vec{v}(t)$ og farten til bilen etter 10 sekunder.
 >c) Gjør nødvendige antakelser og bestem en mulig avstand mellom etasjene i parkeringshuset.
 
->[!question]- Fasit
->
->[[Løsningsforslag R2 eksamen V2025#Oppgave 2-1\|Løsningsforslag R2 eksamen V2025#Oppgave 2-1]]
+## Fasit

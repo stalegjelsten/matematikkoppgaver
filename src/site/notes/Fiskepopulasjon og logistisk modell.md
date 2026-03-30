@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["eksponentialfunksjoner","logistisk funksjon","derivasjon","modellering"],"fag":["r1"],"eksamen":"h24","del":2,"oppgave":3,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":3}],"poeng":8,"title":"Fiskepopulasjon og logistisk modell","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/fiskepopulasjon-og-logistisk-modell/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["eksponentialfunksjoner","logistisk funksjon","derivasjon","modellering"],"fag":["r1"],"eksamen":"h24","del":2,"oppgave":3,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":3}],"poeng":8,"title":"Fiskepopulasjon og logistisk modell","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["eksponentialfunksjoner","logistisk funksjon","derivasjon","modellering"],"fag":["r1"],"eksamen":"h24","del":2,"oppgave":3,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":3}],"poeng":8,"title":"Fiskepopulasjon og logistisk modell","status":0,"source":null,"todo":null,"permalink":"/fiskepopulasjon-og-logistisk-modell/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["eksponentialfunksjoner","logistisk funksjon","derivasjon","modellering"],"fag":["r1"],"eksamen":"h24","del":2,"oppgave":3,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":3}],"poeng":8,"title":"Fiskepopulasjon og logistisk modell","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -31,6 +31,4 @@ $B$ er bæreevnen, $N_0$ er antall tusen fisk ved $t = 0$ og $r$ er vekstparamet
 >c) Bestem den deriverte til funksjonene du fant i oppgavene a) og b). Forklar hvordan vekstfarten endrer seg ifølge hver av de to modellene.
 >d) Hvilken modell mener du beskriver den praktiske situasjonen best? Hvor mange fisk vil det være 12 måneder etter første registrering, ifølge denne modellen?
 
->[!question]- Fasit
->
->[[Løsningsforslag R1 eksamen H2024#Oppgave 2-3\|Løsningsforslag R1 eksamen H2024#Oppgave 2-3]]
+## Fasit

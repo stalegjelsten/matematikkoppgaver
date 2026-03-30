@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["mønstre","rekursiv sammenheng","argumentasjon"],"fag":["1p"],"eksamen":"v24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":5}],"poeng":4,"title":"Knut og Sabrina tallfølge","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/knut-og-sabrina-tallfolge/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-28","aliases":[],"temaer":["mønstre","rekursiv sammenheng","argumentasjon"],"fag":["1p"],"eksamen":"v24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":5}],"poeng":4,"title":"Knut og Sabrina tallfølge","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["mønstre","rekursiv sammenheng","argumentasjon"],"fag":["1p"],"eksamen":"v24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":5}],"poeng":4,"title":"Knut og Sabrina tallfølge","status":1,"source":null,"todo":null,"permalink":"/knut-og-sabrina-tallfolge/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-28","aliases":[],"temaer":["mønstre","rekursiv sammenheng","argumentasjon"],"fag":["1p"],"eksamen":"v24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":5}],"poeng":4,"title":"Knut og Sabrina tallfølge","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -23,6 +23,4 @@ $$2, 5, 11, 23, 47, \ldots$$
 >- beskriv et mønster for tallfølgen
 >- argumenter for at alle leddene i tallfølgen bortsett fra det første er oddetall
 
->[!question]- Fasit
->
->[[Løsningsforslag/Løsningsforslag 1P eksamen V2024#2-5\|Løsningsforslag 1P eksamen V2024#2-5]]
+## Fasit

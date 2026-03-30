@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-28","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["geometrisk vekst","rekker","programmering"],"fag":["2p"],"eksamen":"h23","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":7}],"poeng":null,"title":"Kvadratserie geometrisk rekke","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/kvadratserie-geometrisk-rekke/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-28","modified":"2026-03-26","aliases":[],"temaer":["geometrisk vekst","rekker","programmering"],"fag":["2p"],"eksamen":"h23","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":7}],"poeng":null,"title":"Kvadratserie geometrisk rekke","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2023-11-28","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["geometrisk vekst","rekker","programmering"],"fag":["2p"],"eksamen":"h23","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":7}],"poeng":null,"title":"Kvadratserie geometrisk rekke","status":1,"source":null,"todo":null,"permalink":"/kvadratserie-geometrisk-rekke/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-28","modified":"2026-03-26","aliases":[],"temaer":["geometrisk vekst","rekker","programmering"],"fag":["2p"],"eksamen":"h23","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":7}],"poeng":null,"title":"Kvadratserie geometrisk rekke","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -30,6 +30,4 @@ Ole påstår at $T = \dfrac{4 \cdot s}{p} \cdot 100$ er en formel for å regne u
 >[!oppgave]
 >d) Undersøk om denne sammenhengen kan gjelde.
 
->[!question]- Fasit
->
->[[Løsningsforslag 2P eksamen H2023#2-7\|Løsningsforslag 2P eksamen H2023#2-7]]
+## Fasit

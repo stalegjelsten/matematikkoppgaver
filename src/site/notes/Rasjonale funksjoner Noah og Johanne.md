@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["rasjonale funksjoner","asymptoter","funksjoner"],"fag":["1t"],"eksamen":"v25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":6}],"poeng":4,"title":"Rasjonale funksjoner Noah og Johanne","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/rasjonale-funksjoner-noah-og-johanne/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"temaer":["rasjonale funksjoner","asymptoter","funksjoner"],"fag":["1t"],"eksamen":"v25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":6}],"poeng":4,"title":"Rasjonale funksjoner Noah og Johanne","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["rasjonale funksjoner","asymptoter","funksjoner"],"fag":["1t"],"eksamen":"v25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":6}],"poeng":4,"title":"Rasjonale funksjoner Noah og Johanne","status":0,"source":null,"todo":null,"permalink":"/rasjonale-funksjoner-noah-og-johanne/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"temaer":["rasjonale funksjoner","asymptoter","funksjoner"],"fag":["1t"],"eksamen":"v25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":6}],"poeng":4,"title":"Rasjonale funksjoner Noah og Johanne","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -28,6 +28,4 @@ Klassen til Noah og Johanne arbeider med rasjonale funksjoner. Læreren har tegn
 >
 >Husk å argumentere for dine valg av funksjonsuttrykk.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1T eksamen V2025#2-6\|Løsningsforslag 1T eksamen V2025#2-6]]
+## Fasit

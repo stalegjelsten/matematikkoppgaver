@@ -22,9 +22,9 @@ Inntekten fra salget av produktet har vært 1 000 000 kroner det første året.
 >[!oppgave]
 >c) Hvilken pris har butikken solgt produktet for?
 
->[!question]- Fasit
-> 
->a) Uke 25, 21 enheter per uke
->b) 18,83 uker
->c) 53 kr
->[[Løsningsforslag/Løsningsforslag S2 eksamen V2024#Oppgave 2-1\|Løsningsforslag S2 eksamen V2024]]
+## Fasit
+
+a) Uke 25, 21 enheter per uke
+b) 18,83 uker
+c) 53 kr
+[[Løsningsforslag/Løsningsforslag S2 eksamen V2024#Oppgave 2-1\|Løsningsforslag S2 eksamen V2024]]

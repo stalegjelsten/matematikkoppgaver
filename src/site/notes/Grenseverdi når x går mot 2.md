@@ -11,6 +11,14 @@ $$
 \lim_{ x \to 2 } \frac{x^3-8}{x^2-4}
 $$
 
->[!question]- Fasit
-> 3
->[[Løsningsforslag/Løsningsforslag S1 eksamen V2023#Oppgave 1-3\|Løsningsforslag S1 eksamen V2023#Oppgave 1-3]]
+## Fasit
+
+3
+
+## Løsningsforslag
+
+Ser at både teller og nevner går mot null når $x\to 2$. Vi kan derfor bruke L'Hopitals regel. 
+
+$$
+\lim_{ x \to 2 } \frac{f(x)}{g(x)} = \lim_{ x \to 2 } \frac{f'(x)}{g'(x)}=\lim_{ x \to 2 }  \frac{3x^2}{2x}=\lim_{ x \to 2 } \frac{3x}{2}=\frac{3\cdot2}{2}=\underline{\underline{3}}
+$$

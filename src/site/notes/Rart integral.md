@@ -9,6 +9,6 @@ $$
 \int \smallint  \, \mathrm{d}\smallint
 $$
 
->[!question]- Fasit
-> Bokstaven $\smallint$ må tolkes som en variabel som det skal integreres med hensyn på, slik at integralet rett og slett blir: $\frac{1}{2}\smallint^2+C$
->
+## Fasit
+
+Bokstaven $\smallint$ må tolkes som en variabel som det skal integreres med hensyn på, slik at integralet rett og slett blir: $\frac{1}{2}\smallint^2+C$

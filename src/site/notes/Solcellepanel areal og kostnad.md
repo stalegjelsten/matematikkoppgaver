@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-05-26","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["geometri","trigonometri","økonomi","elektrofag"],"fag":["1p-y el"],"eksamen":"v23","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":3}],"title":"Solcellepanel areal og kostnad","status":1,"source":null,"todo":null,"permalink":"/solcellepanel-areal-og-kostnad/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-05-26","modified":"2026-03-15","aliases":[],"temaer":["geometri","trigonometri","økonomi","elektrofag"],"fag":["1p-y el"],"eksamen":"v23","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":3}],"title":"Solcellepanel areal og kostnad","status":1,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2023-05-26","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["geometri","trigonometri","økonomi","elektrofag"],"fag":["1p-y el"],"eksamen":"v23","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":3}],"title":"Solcellepanel areal og kostnad","status":3,"source":null,"todo":null,"permalink":"/solcellepanel-areal-og-kostnad/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-05-26","modified":"2026-03-15","aliases":[],"temaer":["geometri","trigonometri","økonomi","elektrofag"],"fag":["1p-y el"],"eksamen":"v23","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":3}],"title":"Solcellepanel areal og kostnad","status":3,"source":null,"todo":null}}
 ---
 
 
@@ -34,9 +34,28 @@ På flate tak bør solcellepanel monteres med en vinkel på 63 grader for å gi 
 >[!oppgave]
 >c) Bruk informasjon fra tegningen over for å regne ut høyden $AC$ i millimeter i bakkant av panelet.
 
->[!question]- Fasit
->
-> a) $A = 1{,}94 \, \mathrm{m}^2$
-> b) Alternativ 2 gir lavest kostnad: $25\,000 \, \mathrm{kr}$ (10 paneler)
-> c) $AC \approx 884 \, \mathrm{mm}$
-> [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen V2023#Oppgave 2-3\|Løsningsforslag 1P-Y EL eksamen V2023#Oppgave 2-3]]
+## Fasit
+
+a) $A = 1{,}94 \, \mathrm{m}^2$
+b) Alternativ 2 gir lavest kostnad: $25\,000 \, \mathrm{kr}$ (10 paneler)
+c) $AC \approx 884 \, \mathrm{mm}$
+
+## Løsningsforslag
+
+a) Vi bruker formelen $A = l \cdot b$:
+
+   $$A = 1956 \cdot 992 = 1\,940\,352 \, \mathrm{mm}^2 = \underline{\underline{1{,}94 \, \mathrm{m}^2}}$$
+
+b) Vi finner antall paneler og kostnad for hvert alternativ:
+
+   **Alternativ 1** (200 W per panel): Trenger $\lceil 3500 / 200 \rceil = 18$ paneler.
+   Kostnad: $18 \cdot 1500 = 27\,000 \, \mathrm{kr}$
+
+   **Alternativ 2** (350 W per panel): Trenger $\lceil 3500 / 350 \rceil = 10$ paneler.
+   Kostnad: $10 \cdot 2500 = 25\,000 \, \mathrm{kr}$
+
+   **Alternativ 2 gir lavest totalkostnad med $\underline{\underline{25\,000 \, \mathrm{kr}}}$.**
+
+c) Fra tegningen ser vi at panelet (992 mm langt) er hypotenusen i en rettvinklet trekant, med vinkel 63° ved $B$. $AC$ er den loddrette høyden bak panelet.
+
+   $$AC = 992 \cdot \sin(63°) \approx 992 \cdot 0{,}891 \approx \underline{\underline{884 \, \mathrm{mm}}}$$

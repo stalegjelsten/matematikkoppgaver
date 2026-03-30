@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["proporsjonalitet","geometri"],"fag":["2p"],"eksamen":"v24","del":1,"oppgave":3,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":3}],"poeng":2,"title":"Kartmålestokk Oslo","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/kartmalestokk-oslo/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"temaer":["proporsjonalitet","geometri"],"fag":["2p"],"eksamen":"v24","del":1,"oppgave":3,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":3}],"poeng":2,"title":"Kartmålestokk Oslo","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["proporsjonalitet","geometri"],"fag":["2p"],"eksamen":"v24","del":1,"oppgave":3,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":3}],"poeng":2,"title":"Kartmålestokk Oslo","status":1,"source":null,"todo":null,"permalink":"/kartmalestokk-oslo/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"temaer":["proporsjonalitet","geometri"],"fag":["2p"],"eksamen":"v24","del":1,"oppgave":3,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":3}],"poeng":2,"title":"Kartmålestokk Oslo","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -14,6 +14,4 @@ Hun bestemmer seg for å gå 300 meter langs en av de rette gatene i byen. Etter
 >[!oppgave]
 >Forklar og vis Astrid hvordan hun kan finne målestokken til kartet.
 
->[!question]- Fasit
->
->[[Løsningsforslag 2P eksamen V2024#1-3\|Løsningsforslag 2P eksamen V2024#1-3]]
+## Fasit

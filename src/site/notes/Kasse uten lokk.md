@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["optimering","derivasjon","geometri"],"fag":["s1"],"eksamen":"h23","del":2,"oppgave":5,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":5}],"poeng":null,"title":"Kasse uten lokk","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/kasse-uten-lokk/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-14","modified":"2026-03-26","aliases":[],"temaer":["optimering","derivasjon","geometri"],"fag":["s1"],"eksamen":"h23","del":2,"oppgave":5,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":5}],"poeng":null,"title":"Kasse uten lokk","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2023-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["optimering","derivasjon","geometri"],"fag":["s1"],"eksamen":"h23","del":2,"oppgave":5,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":5}],"poeng":null,"title":"Kasse uten lokk","status":1,"source":null,"todo":null,"permalink":"/kasse-uten-lokk/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-14","modified":"2026-03-26","aliases":[],"temaer":["optimering","derivasjon","geometri"],"fag":["s1"],"eksamen":"h23","del":2,"oppgave":5,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":5}],"poeng":null,"title":"Kasse uten lokk","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -18,6 +18,4 @@ Du skal lage en slik kasse som rommer 80 $\mathrm{dm^3}$.
 >[!oppgave]
 >c) Hva er det minste samlede arealet platene kan ha, dersom du skal lage en slik kasse?
 
->[!question]- Fasit
->
->[[Løsningsforslag S1 eksamen H2023#Oppgave 2-5\|Løsningsforslag S1 eksamen H2023#Oppgave 2-5]]
+## Fasit

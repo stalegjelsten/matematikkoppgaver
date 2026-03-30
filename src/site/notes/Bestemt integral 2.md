@@ -9,7 +9,10 @@ $$
 \int_{0}^{1}\left(e^{x}+3 x^{2}\right) d x
 $$
 
->[!question]- Fasit
->$e$
->
->[[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 1-1\|Løsningsforslag S2 eksamen V2023#Oppgave 1-1]]
+## Fasit
+
+$e$
+
+## Løsningsforslag
+
+$$\int_0^1 \left( e^{ x }+2x^2 \right)  \,\mathrm{d}x = \left[e^x+ \cancel{ \frac{3}{3} }  x^3 \right]_0^1 = e^1+1^3- \left( \underbrace{ e^0 }_{ =1 }+0^3 \right) = e+1- 1 = \underline{\underline{e}}$$

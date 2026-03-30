@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["presentasjon av data"],"fag":["2p-y","2p"],"eksamen":"h24","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":7},{"fag":"2p","del":2,"oppgave":6}],"title":"Lag presentasjon om statistikk for tidsbruk på ulike aktiviteter","source":null,"todo":null,"status":1,"permalink":"/lag-presentasjon-om-statistikk-for-tidsbruk-pa-ulike-aktiviteter/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"temaer":["presentasjon av data"],"fag":["2p-y","2p"],"eksamen":"h24","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":7},{"fag":"2p","del":2,"oppgave":6}],"title":"Lag presentasjon om statistikk for tidsbruk på ulike aktiviteter","source":null,"todo":null,"status":1}}
+{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["presentasjon av data"],"fag":["2p-y","2p"],"eksamen":"h24","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":7},{"fag":"2p","del":2,"oppgave":6}],"title":"Lag presentasjon om statistikk for tidsbruk på ulike aktiviteter","source":null,"todo":null,"status":3,"permalink":"/lag-presentasjon-om-statistikk-for-tidsbruk-pa-ulike-aktiviteter/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"temaer":["presentasjon av data"],"fag":["2p-y","2p"],"eksamen":"h24","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":7},{"fag":"2p","del":2,"oppgave":6}],"title":"Lag presentasjon om statistikk for tidsbruk på ulike aktiviteter","source":null,"todo":null,"status":3}}
 ---
 
 
@@ -27,7 +27,28 @@ Tenk deg at du skal presentere funn fra dette datamaterialet for klassen din.
 
 Gjør beregninger og sammenlikninger, og lag ulike framstillinger som du kan bruke i en presentasjon. Presentasjonen skal inneholde både beregninger, diagrammer og forklarende kommentarer.
 
->[!question]- Fasit
->
-> Åpen oppgave – se løsningsforslag for eksempel
-> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2024#Oppgave 2-7\|Løsningsforslag 2P-Y eksamen H2024#Oppgave 2-7]]
+## Fasit
+
+Åpen oppgave – se løsningsforslag for eksempel
+
+## Løsningsforslag
+
+Dette er en åpen presentasjonsoppgave uten ett fasitsvar. Her er et eksempel på funn og framstillinger:
+
+**Beregninger:**
+
+Prosentvis endring i inntektsgivende arbeid for menn fra 1970 til 2010:
+
+$$\frac{4{,}17 - 5{,}48}{5{,}48} \cdot 100 \approx -23{,}9 \,\%$$
+
+Prosentvis endring i inntektsgivende arbeid for kvinner fra 1970 til 2010:
+
+$$\frac{3{,}02 - 1{,}93}{1{,}93} \cdot 100 \approx 56{,}5 \,\%$$
+
+**Interessante funn:**
+
+- Menns tid på inntektsgivende arbeid har gått ned med ca. 24 % fra 1970 til 2010, mens kvinners tid har økt med ca. 57 %.
+- Kvinner brukte i 1970 nesten tre ganger så mye tid på husholdsarbeid som menn (5,92 mot 2,22 timer), mens i 2010 er forskjellen mye mindre (3,83 mot 3,00 timer).
+- Menn og kvinner bruker omtrent like mye tid på utdanning i alle tre årstall.
+
+**Mulig diagram:** Et gruppert søylediagram der man sammenligner menn og kvinner for hvert år, eller et linjediagram som viser utviklingen fra 1970 til 2010 for hver kategori.

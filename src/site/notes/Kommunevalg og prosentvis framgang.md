@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["prosentregning","statistikk","prosentvis endring"],"fag":["1p"],"eksamen":"h24","del":2,"oppgave":7,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":7}],"poeng":3,"title":"Kommunevalg og prosentvis framgang","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/kommunevalg-og-prosentvis-framgang/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-28","aliases":[],"temaer":["prosentregning","statistikk","prosentvis endring"],"fag":["1p"],"eksamen":"h24","del":2,"oppgave":7,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":7}],"poeng":3,"title":"Kommunevalg og prosentvis framgang","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["prosentregning","statistikk","prosentvis endring"],"fag":["1p"],"eksamen":"h24","del":2,"oppgave":7,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":7}],"poeng":3,"title":"Kommunevalg og prosentvis framgang","status":1,"source":null,"todo":null,"permalink":"/kommunevalg-og-prosentvis-framgang/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-28","aliases":[],"temaer":["prosentregning","statistikk","prosentvis endring"],"fag":["1p"],"eksamen":"h24","del":2,"oppgave":7,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":7}],"poeng":3,"title":"Kommunevalg og prosentvis framgang","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -19,6 +19,4 @@ Tore mener at Høyre har hatt størst prosentvis framgang siden siste kommunesty
 >[!oppgave]
 >b) Forklar Tore hvorfor dette er feil, og gjør beregninger som viser hvilket parti som har hatt størst prosentvis framgang.
 
->[!question]- Fasit
->
->[[Løsningsforslag/Løsningsforslag 1P eksamen H2024#Oppgave 2-7\|Løsningsforslag 1P eksamen H2024#Oppgave 2-7]]
+## Fasit

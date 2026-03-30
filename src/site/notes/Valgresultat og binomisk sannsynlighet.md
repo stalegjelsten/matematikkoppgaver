@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["sannsynlighet","diskrete sannsynlighetsfordelinger","statistikk"],"fag":["s1"],"eksamen":"v25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":4}],"poeng":4,"title":"Valgresultat og binomisk sannsynlighet","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/valgresultat-og-binomisk-sannsynlighet/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"temaer":["sannsynlighet","diskrete sannsynlighetsfordelinger","statistikk"],"fag":["s1"],"eksamen":"v25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":4}],"poeng":4,"title":"Valgresultat og binomisk sannsynlighet","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["sannsynlighet","diskrete sannsynlighetsfordelinger","statistikk"],"fag":["s1"],"eksamen":"v25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":4}],"poeng":4,"title":"Valgresultat og binomisk sannsynlighet","status":0,"source":null,"todo":null,"permalink":"/valgresultat-og-binomisk-sannsynlighet/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"temaer":["sannsynlighet","diskrete sannsynlighetsfordelinger","statistikk"],"fag":["s1"],"eksamen":"v25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":4}],"poeng":4,"title":"Valgresultat og binomisk sannsynlighet","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -19,6 +19,4 @@ Også her skal vi plukke ut 10 tilfeldige personer blant dem som stemte.
 >[!oppgave]
 >b) Bestem sannsynligheten for at vi plukker ut minst 4 som stemte Arbeiderpartiet ved valget. Husk å begrunne valget av metoden du bruker for å regne ut sannsynligheten.
 
->[!question]- Fasit
->
->[[Løsningsforslag S1 eksamen V2025#Oppgave 2-4\|Løsningsforslag S1 eksamen V2025#Oppgave 2-4]]
+## Fasit

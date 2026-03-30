@@ -10,7 +10,14 @@ Sofie tok buss fra Mandal til Oslo. Bussen holdt en gjennomsnittsfart på $80 \m
 >[!oppgave]
 >Hvor lang er denne strekningen?
 
->[!question]- Fasit
->
-> $360 \, \mathrm{km}$
-> [[Løsningsforslag/Løsningsforslag 1P eksamen H2025#Oppgave 1-1\|Løsningsforslag 1P eksamen H2025#Oppgave 1-1]]
+## Fasit
+
+$360 \, \mathrm{km}$
+
+## Løsningsforslag
+
+Sofie brukte 4 timer og 30 minutter = $4{,}5 \, \mathrm{timer}$.
+
+$$s = v \cdot t = 80 \cdot 4{,}5 = 360$$
+
+**Strekningen er $\underline{\underline{360 \, \mathrm{km}}}$.**

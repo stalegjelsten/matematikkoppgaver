@@ -11,5 +11,6 @@ Hun sparer 100 kroner den første uken. Hun vil øke sparebeløpet med et fast b
 
 Hvor mye må Ida minst øke sparebeløpet med hver uke for å få råd til jakken?
 
->[!question]- Fasit
->20 kr
+## Fasit
+
+20 kr

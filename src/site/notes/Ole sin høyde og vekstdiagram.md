@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["tolke grafer","formler","tallregning"],"fag":["1p-y el"],"eksamen":"h23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":2}],"title":"Ole sin høyde og vekstdiagram","status":0,"source":null,"todo":null,"permalink":"/ole-sin-hoyde-og-vekstdiagram/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"temaer":["tolke grafer","formler","tallregning"],"fag":["1p-y el"],"eksamen":"h23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":2}],"title":"Ole sin høyde og vekstdiagram","status":0,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["tolke grafer","formler","tallregning"],"fag":["1p-y el"],"eksamen":"h23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":2}],"title":"Ole sin høyde og vekstdiagram","status":3,"source":null,"todo":null,"permalink":"/ole-sin-hoyde-og-vekstdiagram/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"temaer":["tolke grafer","formler","tallregning"],"fag":["1p-y el"],"eksamen":"h23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":2}],"title":"Ole sin høyde og vekstdiagram","status":3,"source":null,"todo":null}}
 ---
 
 
@@ -28,9 +28,57 @@ William sier at moren og faren hans er like høye.
 >[!oppgave]
 >c) Bruk formelen til å vurdere om William kan forvente å bli lavere enn faren, like høy som faren eller høyere enn faren. Husk å begrunne svaret ditt.
 
->[!question]- Fasit
->
-> a) $107 \, \mathrm{cm}$
-> b) $180 \, \mathrm{cm}$
-> c) William kan forvente å bli høyere enn faren (6,5 cm høyere)
-> [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen H2023#1-2\|Løsningsforslag 1P-Y EL eksamen H2023#1-2]]
+## Fasit
+
+a) $107 \, \mathrm{cm}$
+b) $180 \, \mathrm{cm}$
+c) William kan forvente å bli høyere enn faren (6,5 cm høyere)
+
+## Løsningsforslag
+
+### 1-2a
+
+Fra diagrammet leser vi av Ole sin vekst per år:
+
+| Periode | Vekst |
+|---------|-------|
+| 1–2 år  | 12 cm |
+| 2–3 år  | 7 cm  |
+| 3–4 år  | 7 cm  |
+| 4–5 år  | 6 cm  |
+
+Total vekst fra 1 til 5 år:
+
+$$
+12 + 7 + 7 + 6 = 32 \, \mathrm{cm}
+$$
+
+Høyde ved 5 år:
+
+$$
+75 + 32 = 107 \, \mathrm{cm}
+$$
+
+**Ole var $\underline{\underline{107 \, \mathrm{cm}}}$ høy da han ble 5 år.**
+
+### 1-2b
+
+Vi bruker formelen med mors høyde 167 cm og fars høyde 180 cm:
+
+$$
+\text{forventet høyde} = \frac{(167 + 13) + 180}{2} = \frac{180 + 180}{2} = \frac{360}{2} = 180 \, \mathrm{cm}
+$$
+
+**Ole kan forvente å bli $\underline{\underline{180 \, \mathrm{cm}}}$ høy som voksen.**
+
+### 1-2c
+
+William sier at mor og far er like høye. Vi kaller denne høyden $h$. Da gir formelen:
+
+$$
+\text{forventet høyde} = \frac{(h + 13) + h}{2} = \frac{2h + 13}{2} = h + 6{,}5
+$$
+
+William kan altså forvente å bli $6{,}5 \, \mathrm{cm}$ høyere enn foreldrene.
+
+**William kan forvente å bli høyere enn faren.**

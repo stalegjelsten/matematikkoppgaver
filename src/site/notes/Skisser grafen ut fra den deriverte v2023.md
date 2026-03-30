@@ -15,6 +15,20 @@ Lag en skisse som viser hvordan grafen til $f$ kan se ut.
 
 Husk å argumentere for hvorfor du mener skissen er riktig. 
 
->[!question]- Fasit
-> Se løsningsforslaget
->[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 1-5\|Løsningsforslag 1T eksamen V2023#Oppgave 1-5]]
+## Fasit
+
+Se løsningsforslaget
+
+## Løsningsforslag
+
+Jeg vet at den deriverte er null i de stasjonære punktene til en funksjon. Når den deriverte er positiv så vokser grafen. Når den deriverte er negativ så minker grafen.
+
+Jeg ser at $f$ har bunnpunkt i $x=-3,12$ og $x=5,12$ (det må være bunnpunkt siden den deriverte beveger seg fra den negative siden til den positive siden ved disse punktene). $f$ må, med samme begrunnelse, ha et toppunkt i $x=1$. 
+
+Vi har nullpunkter ved $x=-4$, $x=-2$, $x=4$ og $x=6$.[^2]
+
+For å skissere grafen så starter jeg med nullpunktene og tegner inn passende bunnpunkter og toppunkt ved $x$-verdiene jeg fant tidligere. 
+
+![Del 1 oppgave 5. Skisse av fjerdegradsfunksjon](/img/user/_resources/1t-v23-1-5.png)
+
+\clearpage

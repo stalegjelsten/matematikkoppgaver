@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["sannsynlighet","simulering","økonomi"],"fag":["s1"],"eksamen":"h24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":4}],"poeng":6,"title":"Knekkebrød, gavekort og simulering","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/knekkebrod-gavekort-og-simulering/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["sannsynlighet","simulering","økonomi"],"fag":["s1"],"eksamen":"h24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":4}],"poeng":6,"title":"Knekkebrød, gavekort og simulering","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["sannsynlighet","simulering","økonomi"],"fag":["s1"],"eksamen":"h24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":4}],"poeng":6,"title":"Knekkebrød, gavekort og simulering","status":0,"source":null,"todo":null,"permalink":"/knekkebrod-gavekort-og-simulering/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["sannsynlighet","simulering","økonomi"],"fag":["s1"],"eksamen":"h24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":4}],"poeng":6,"title":"Knekkebrød, gavekort og simulering","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -22,6 +22,4 @@ Hassan endrer vanene sine og kjøper vanlige knekkebrødpakker på hverdager og 
 >[!oppgave]
 >c) Bruk simulering til å bestemme sannsynligheten for at Hassan vinner minst én reise i løpet av 52 uker med de nye kjøpsvanene sine.
 
->[!question]- Fasit
->
->[[Løsningsforslag/Løsningsforslag S1 eksamen H2024#Oppgave 2-4\|Løsningsforslag S1 eksamen H2024#Oppgave 2-4]]
+## Fasit

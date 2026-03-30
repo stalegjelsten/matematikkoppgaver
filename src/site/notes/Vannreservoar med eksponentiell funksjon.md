@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["eksponentialfunksjoner","derivasjon","modellering"],"fag":["r1"],"eksamen":"h24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":1}],"poeng":6,"title":"Vannreservoar med eksponentiell funksjon","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/vannreservoar-med-eksponentiell-funksjon/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["eksponentialfunksjoner","derivasjon","modellering"],"fag":["r1"],"eksamen":"h24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":1}],"poeng":6,"title":"Vannreservoar med eksponentiell funksjon","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["eksponentialfunksjoner","derivasjon","modellering"],"fag":["r1"],"eksamen":"h24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":1}],"poeng":6,"title":"Vannreservoar med eksponentiell funksjon","status":0,"source":null,"todo":null,"permalink":"/vannreservoar-med-eksponentiell-funksjon/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["eksponentialfunksjoner","derivasjon","modellering"],"fag":["r1"],"eksamen":"h24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":1}],"poeng":6,"title":"Vannreservoar med eksponentiell funksjon","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -16,6 +16,4 @@ Her er $t$ antall timer etter lekkasjen startet, og mengden vann er målt i anta
 >b) Bestem $V'(12)$ og $V''(12)$. Gi en praktisk tolkning av svarene.
 >c) Undersøk om $V$ har asymptoter, og gi en praktisk tolkning av verdien til eventuelle asymptoter.
 
->[!question]- Fasit
->
->[[Løsningsforslag R1 eksamen H2024#Oppgave 2-1\|Løsningsforslag R1 eksamen H2024#Oppgave 2-1]]
+## Fasit

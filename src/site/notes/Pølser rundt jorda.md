@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"dg-publish":true,"temaer":["tallregning","prosentregning","store tall"],"fag":["1p"],"eksamen":"h23","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":3}],"poeng":null,"title":"Pølser rundt jorda","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/polser-rundt-jorda/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"temaer":["tallregning","prosentregning","store tall"],"fag":["1p"],"eksamen":"h23","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":3}],"poeng":null,"title":"Pølser rundt jorda","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"dg-publish":true,"temaer":["tallregning","prosentregning","store tall"],"fag":["1p"],"eksamen":"h23","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":3}],"poeng":null,"title":"Pølser rundt jorda","status":1,"source":null,"todo":null,"permalink":"/polser-rundt-jorda/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"temaer":["tallregning","prosentregning","store tall"],"fag":["1p"],"eksamen":"h23","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":3}],"poeng":null,"title":"Pølser rundt jorda","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -20,6 +20,4 @@ Jordens radius er 6378 km ved ekvator.
 >[!oppgave]
 >c) Omtrent hvor lang har NRK regnet at en pølse er?
 
->[!question]- Fasit
->
->[[Løsningsforslag/Løsningsforslag 1P eksamen H2023#2-3\|Løsningsforslag 1P eksamen H2023#2-3]]
+## Fasit

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-05-23","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["økonomi","prosentregning"],"fag":["2p"],"eksamen":"v23","del":1,"oppgave":3,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":3}],"poeng":null,"title":"Nominell lønn og reallønn","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/nominell-lonn-og-reallonn/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-05-23","modified":"2026-03-28","aliases":[],"temaer":["økonomi","prosentregning"],"fag":["2p"],"eksamen":"v23","del":1,"oppgave":3,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":3}],"poeng":null,"title":"Nominell lønn og reallønn","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2023-05-23","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["økonomi","prosentregning"],"fag":["2p"],"eksamen":"v23","del":1,"oppgave":3,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":3}],"poeng":null,"title":"Nominell lønn og reallønn","status":0,"source":null,"todo":null,"permalink":"/nominell-lonn-og-reallonn/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-05-23","modified":"2026-03-28","aliases":[],"temaer":["økonomi","prosentregning"],"fag":["2p"],"eksamen":"v23","del":1,"oppgave":3,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":3}],"poeng":null,"title":"Nominell lønn og reallønn","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -19,6 +19,4 @@ Truls og Thea diskuterer økonomi.
 >[!oppgave]
 >Hjelp Thea med å svare Truls og forklare hva han må ta hensyn til når han vurderer om han skal være fornøyd med hvor mye lønnen har økt.
 
->[!question]- Fasit
->
->[[Løsningsforslag 2P eksamen V2023#1-3\|Løsningsforslag 2P eksamen V2023#1-3]]
+## Fasit

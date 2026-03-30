@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-28","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["andregradslikninger","likninger"],"fag":["2p"],"eksamen":"h23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":4}],"poeng":null,"title":"Nullpunkter og andregradslikninger","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/nullpunkter-og-andregradslikninger/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-28","modified":"2026-03-26","aliases":[],"temaer":["andregradslikninger","likninger"],"fag":["2p"],"eksamen":"h23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":4}],"poeng":null,"title":"Nullpunkter og andregradslikninger","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2023-11-28","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["andregradslikninger","likninger"],"fag":["2p"],"eksamen":"h23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":4}],"poeng":null,"title":"Nullpunkter og andregradslikninger","status":1,"source":null,"todo":null,"permalink":"/nullpunkter-og-andregradslikninger/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-28","modified":"2026-03-26","aliases":[],"temaer":["andregradslikninger","likninger"],"fag":["2p"],"eksamen":"h23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":4}],"poeng":null,"title":"Nullpunkter og andregradslikninger","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -36,6 +36,4 @@ Selma og Tobine arbeider med likningene ovenfor.
 >[!oppgave]
 >Kommenter det Selma og Tobine sier, og løs likningen $(x+2)(x-3) = -6$
 
->[!question]- Fasit
->
->[[Løsningsforslag 2P eksamen H2023#1-4\|Løsningsforslag 2P eksamen H2023#1-4]]
+## Fasit

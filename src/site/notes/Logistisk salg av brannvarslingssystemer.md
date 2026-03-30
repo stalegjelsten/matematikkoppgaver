@@ -27,9 +27,54 @@ Etter å ha hørt om planene til UnSaif antar SaifY at
 >[!oppgave]
 >c) Bruk antakelsene ovenfor til å lage en ny logistisk modell $F$ for antallet husstander som har brannvarslingssystemet etter $t$ uker.
 
->[!question]- Fasit
-> 
-> a) 94 uker
-> b) 7827,7
-> c) $F(t)=\frac{1000000}{1+249e^{-0{,}0849t}}$
-> [[Løsningsforslag/Løsningsforslag S2 eksamen V2025#Oppgave 2-3\|Løsningsforslag S2 eksamen V2025#Oppgave 2-3]]
+## Fasit
+
+a) 94 uker
+b) 7827,7
+c) $F(t)=\frac{1000000}{1+249e^{-0{,}0849t}}$
+
+## Løsningsforslag
+
+![Logistisk modell for brannalarmer i by](/img/user/_resources/s2-v25-2-3a.png)
+
+### 2-3a
+Jeg la inn modellen i GeoGebra og la inn linja $y=1\,000\,000$ for å sjekke når halvparten hadde fått systemet. Jeg fant skjæringen med $B$ i punktet $A=(93{,}88, 1000000)$.
+
+**Det tar 94 uker før halvparten av husstandene i byen har brannvarslingssystemet ifølge modellen.**
+
+### 2-3b
+Se nederst i GeoGebra-utklippet.
+$$
+\underline{\underline{B'(52)=7827{,}7}}
+$$
+**Etter 52 uker (ett år) så selges brannvarslingssystemet til omtrent 7828 husstander per uke.**
+
+### 2-3c
+En logistisk modell er gitt ved
+$$
+f(x)=\frac{N}{1+a \cdot e ^{-kx}}
+$$
+
+- $N$ er «bæreevnen» eller maksimalverdien for funksjonen
+- $\frac{N}{1+a}$ vil være funksjonsverdien når $x=0$
+- Vi har raskest vekst i vendepunktet som vi finner i $\left( \frac{\ln a}{k} , \frac{N}{2}\right)$
+
+Med bakgrunn i opplysningene i oppgaveteksten kan vi bestemme $\textcolor{orange}{N=1\,000\,000}$ siden dette er antallet husstander de totalt selger til.
+
+Videre vet vi at det er 4000 husstander som har systemet ved $x=0$, derfor må
+$$\frac{\textcolor{orange}{N}}{1+a}=4000 \iff \frac{1000\cancel{ 000 }}{1+a}=4\cancel{ 000 } \iff \frac{1000}{4} = 1+a \iff \textcolor{seagreen}{a=250-1=249}$$
+
+Til sist vet vi at vendepunktet (den raskeste veksten) er i uke 65, altså må
+$$
+\frac{\ln \textcolor{seagreen}{a}}{k} =65 \iff \frac{\ln \textcolor{seagreen}{249}}{k}=65 \iff 5{,}517=65k \iff \textcolor{steelblue}{k=\frac{5{,}517}{65}=0{,}0849}
+$$
+En logistisk modell som passer til dataene vil være
+$$
+\underline{\underline{F(t)=\frac{1 \, 000 \, 000}{1+249e^{-0{,}0849t}}}}
+$$
+
+>[!note] Løsning av 2-4 i CAS
+>
+>Denne oppgaven kan også løses i CAS ved å sette opp 3 likninger for å bestemme $N$, $a$ og $k$, se skjermbildet under. Du kan også gjøre regresjon på punktene $(0, 4000)$, $(65, 500\,000)$ og $(200, \, 1\,000\,000)$ med logistisk modell.
+>
+>![](/img/user/_resources/s2-v25-2-3c-cas.png)
