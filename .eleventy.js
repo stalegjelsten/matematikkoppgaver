@@ -597,12 +597,20 @@ module.exports = function(eleventyConfig) {
       // Collect all following siblings until next h2/h3 or end
       const contentNodes = [];
       let sibling = h2.nextElementSibling;
-      while (sibling && !["H2", "H3"].includes(sibling.tagName)) {
+      while (sibling && sibling.tagName !== "H2") {
         contentNodes.push(sibling);
         sibling = sibling.nextElementSibling;
       }
 
       const contentHtml = contentNodes.map(n => n.outerHTML).join("\n");
+
+      // If no content, just remove the heading silently
+      if (!contentHtml.trim()) {
+        h2.remove();
+        for (const node of contentNodes) node.remove();
+        continue;
+      }
+
       const calloutHtml = `<div data-callout-metadata class="callout is-collapsible is-collapsed" data-callout="${calloutType}"><div class="callout-title"><div class="callout-title-inner">${headingText}</div><div class="callout-fold">${FOLD_SVG}</div></div><div class="callout-content">${contentHtml}</div></div>`;
 
       // Replace the h2 with the callout
@@ -619,7 +627,7 @@ module.exports = function(eleventyConfig) {
       return str;
     }
     // Only apply to oppgave pages (check for ## Fasit heading in content)
-    if (!str || (!str.includes("<h2>Fasit</h2>") && !str.includes("<h2>Løsningsforslag</h2>"))) {
+    if (!str || (!str.includes(">Fasit</h2>") && !str.includes(">Løsningsforslag</h2>"))) {
       return str;
     }
     const parsed = parse(str);
