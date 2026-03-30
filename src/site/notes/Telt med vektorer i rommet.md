@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["vektorer","areal"],"fag":["r2"],"eksamen":"h24","del":1,"oppgave":3,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":3}],"poeng":4,"title":"Telt med vektorer i rommet","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/telt-med-vektorer-i-rommet/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"temaer":["vektorer","areal"],"fag":["r2"],"eksamen":"h24","del":1,"oppgave":3,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":3}],"poeng":4,"title":"Telt med vektorer i rommet","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["vektorer","areal"],"fag":["r2"],"eksamen":"h24","del":1,"oppgave":3,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":3}],"poeng":4,"title":"Telt med vektorer i rommet","status":3,"source":null,"todo":null,"permalink":"/telt-med-vektorer-i-rommet/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"temaer":["vektorer","areal"],"fag":["r2"],"eksamen":"h24","del":1,"oppgave":3,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":3}],"poeng":4,"title":"Telt med vektorer i rommet","status":3,"source":null,"todo":null}}
 ---
 
 
@@ -19,4 +19,6 @@ $$\ell: \left\{ \begin{array}{l} x = t \\ y = t \\ z = 4t \end{array} \right.$$
 
 >[!question]- Fasit
 >
->[[Løsningsforslag/Løsningsforslag R2 eksamen H2024#Oppgave 1-3\|Løsningsforslag R2 eksamen H2024#Oppgave 1-3]]
+> a) $\dfrac{5}{2}\sqrt{6}$
+> b) $T(1,\ 1,\ 4)$
+> [[Løsningsforslag/Løsningsforslag R2 eksamen H2024#Oppgave 1-3\|Løsningsforslag R2 eksamen H2024#Oppgave 1-3]]

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["simulering","sannsynlighet","programmering"],"fag":["s2"],"eksamen":"h25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":6}],"title":null,"source":null,"todo":null,"status":2,"permalink":"/simulering-av-antall-terningkast-for-a-fa-samme-antall-oyne-i-to-kast-pa-rad/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["simulering","sannsynlighet","programmering"],"fag":["s2"],"eksamen":"h25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":6}],"title":null,"source":null,"todo":null,"status":2,"permalink":"/simulering-av-antall-terningkast-for-a-fa-samme-antall-oyne-i-to-kast-pa-rad/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"temaer":["simulering","sannsynlighet","programmering"],"fag":["s2"],"eksamen":"h25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":6}],"title":null,"source":null,"todo":null,"status":2}}
 ---
 
 

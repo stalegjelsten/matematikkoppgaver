@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-16","modified":"2026-03-16","aliases":[],"dg-publish":true,"temaer":["bits og bytes","store tall"],"fag":["1p-y el"],"eksamen":"h24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":2}],"title":"Trine og digitale lagringsmedier","status":1,"source":null,"todo":null,"permalink":"/trine-og-digitale-lagringsmedier/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2026-03-16","modified":"2026-03-16","aliases":[],"dg-publish":true,"temaer":["bits og bytes","store tall"],"fag":["1p-y el"],"eksamen":"h24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":2}],"title":"Trine og digitale lagringsmedier","status":1,"source":null,"todo":null,"permalink":"/trine-og-digitale-lagringsmedier/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-16","modified":"2026-03-16","aliases":[],"temaer":["bits og bytes","store tall"],"fag":["1p-y el"],"eksamen":"h24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":2}],"title":"Trine og digitale lagringsmedier","status":1,"source":null,"todo":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["rekker","uendelig rekke"],"fag":["r2"],"eksamen":"h24","del":1,"oppgave":2,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":2}],"poeng":6,"title":"Sumformel, kvotient og geometrisk rekke","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/sumformel-kvotient-og-geometrisk-rekke/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"temaer":["rekker","uendelig rekke"],"fag":["r2"],"eksamen":"h24","del":1,"oppgave":2,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":2}],"poeng":6,"title":"Sumformel, kvotient og geometrisk rekke","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["rekker","uendelig rekke"],"fag":["r2"],"eksamen":"h24","del":1,"oppgave":2,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":2}],"poeng":6,"title":"Sumformel, kvotient og geometrisk rekke","status":3,"source":null,"todo":null,"permalink":"/sumformel-kvotient-og-geometrisk-rekke/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"temaer":["rekker","uendelig rekke"],"fag":["r2"],"eksamen":"h24","del":1,"oppgave":2,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":2}],"poeng":6,"title":"Sumformel, kvotient og geometrisk rekke","status":3,"source":null,"todo":null}}
 ---
 
 
@@ -12,4 +12,7 @@
 
 >[!question]- Fasit
 >
->[[Løsningsforslag/Løsningsforslag R2 eksamen H2024#Oppgave 1-2\|Løsningsforslag R2 eksamen H2024#Oppgave 1-2]]
+> a) $s_{100} = 20\,100$
+> b) $k = \dfrac{1}{3}$
+> c) $1{,}75757575\ldots = \dfrac{58}{33}$ (bevis)
+> [[Løsningsforslag/Løsningsforslag R2 eksamen H2024#Oppgave 1-2\|Løsningsforslag R2 eksamen H2024#Oppgave 1-2]]
