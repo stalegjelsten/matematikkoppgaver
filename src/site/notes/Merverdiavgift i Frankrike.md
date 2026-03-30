@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-16","modified":"2026-03-16","aliases":[],"dg-publish":true,"temaer":["formler","prosentregning"],"fag":["1p-y el"],"eksamen":"h24","del":1,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":3}],"title":"Merverdiavgift i Frankrike","status":1,"source":null,"todo":null,"permalink":"/merverdiavgift-i-frankrike/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-16","modified":"2026-03-16","aliases":[],"temaer":["formler","prosentregning"],"fag":["1p-y el"],"eksamen":"h24","del":1,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":3}],"title":"Merverdiavgift i Frankrike","status":1,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2026-03-16","modified":"2026-03-16","aliases":[],"dg-publish":true,"temaer":["formler","prosentregning"],"fag":["1p-y el"],"eksamen":"h24","del":1,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":3}],"title":"Merverdiavgift i Frankrike","status":3,"source":null,"todo":null,"permalink":"/merverdiavgift-i-frankrike/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-16","modified":"2026-03-16","aliases":[],"temaer":["formler","prosentregning"],"fag":["1p-y el"],"eksamen":"h24","del":1,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":3}],"title":"Merverdiavgift i Frankrike","status":3,"source":null,"todo":null}}
 ---
 
 
@@ -22,7 +22,27 @@ Louise ser på formelen og stiller to spørsmål.
 >[!oppgave]
 >Svar på spørsmålene til Louise. Husk å begrunne svarene dine.
 
->[!question]- Fasit
->
-> Genser: $12 \, \mathrm{euro}$ med mva. Bukse: $25 \, \mathrm{euro}$ uten mva.
-> [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen H2024#Oppgave 1-3\|Løsningsforslag 1P-Y EL eksamen H2024#Oppgave 1-3]]
+## Fasit
+
+Genser: $12 \, \mathrm{euro}$ med mva. Bukse: $25 \, \mathrm{euro}$ uten mva.
+
+## Løsningsforslag
+
+Formelen er $P = \dfrac{6 \cdot U}{5}$.
+
+**Spørsmål 1 – genser:**
+
+Vi setter inn $U = 10$:
+$$P = \frac{6 \cdot 10}{5} = \frac{60}{5} = \underline{\underline{12 \, \mathrm{euro}}}$$
+
+**Genseren koster $\underline{\underline{12 \, \mathrm{euro}}}$ med merverdiavgift.**
+
+**Spørsmål 2 – bukse:**
+
+Vi kjenner $P = 30$ og løser for $U$:
+$$30 = \frac{6 \cdot U}{5} \implies U = \frac{30 \cdot 5}{6} = \frac{150}{6} = \underline{\underline{25 \, \mathrm{euro}}}$$
+
+**Prisen for buksen uten merverdiavgift er $\underline{\underline{25 \, \mathrm{euro}}}$.**
+
+>[!tip] Merk
+>Formelen $P = \frac{6U}{5}$ tilsvarer at prisen øker med $\frac{1}{5} = 20\,\%$. Merverdiavgiften i Frankrike er altså 20 %.

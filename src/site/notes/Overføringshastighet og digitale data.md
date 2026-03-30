@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["bits og bytes","store tall","tallregning"],"fag":["1p-y el"],"eksamen":"v25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":2}],"title":"Overføringshastighet og digitale data","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/overforingshastighet-og-digitale-data/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["bits og bytes","store tall","tallregning"],"fag":["1p-y el"],"eksamen":"v25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":2}],"title":"Overføringshastighet og digitale data","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["bits og bytes","store tall","tallregning"],"fag":["1p-y el"],"eksamen":"v25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":2}],"title":"Overføringshastighet og digitale data","status":0,"source":null,"todo":null,"permalink":"/overforingshastighet-og-digitale-data/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["bits og bytes","store tall","tallregning"],"fag":["1p-y el"],"eksamen":"v25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":2}],"title":"Overføringshastighet og digitale data","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -34,6 +34,4 @@ Voyager 2 har en datamaskin med et minne på $69{,}6 \mathrm{~kB}$.
 >[!oppgave]
 >Gjør beregninger og vurderinger, og finn ut mest mulig av det Omar lurer på.
 
->[!question]- Fasit
->
->[[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen V2025#2-2\|Løsningsforslag 1P-Y EL eksamen V2025#2-2]]
+## Fasit

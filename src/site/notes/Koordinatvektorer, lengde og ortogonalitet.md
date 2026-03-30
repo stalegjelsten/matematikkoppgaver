@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["vektorer"],"fag":["r1"],"eksamen":"h24","del":1,"oppgave":5,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":5}],"poeng":4,"title":"Koordinatvektorer, lengde og ortogonalitet","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/koordinatvektorer-lengde-og-ortogonalitet/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["vektorer"],"fag":["r1"],"eksamen":"h24","del":1,"oppgave":5,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":5}],"poeng":4,"title":"Koordinatvektorer, lengde og ortogonalitet","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["vektorer"],"fag":["r1"],"eksamen":"h24","del":1,"oppgave":5,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":5}],"poeng":4,"title":"Koordinatvektorer, lengde og ortogonalitet","status":0,"source":null,"todo":null,"permalink":"/koordinatvektorer-lengde-og-ortogonalitet/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["vektorer"],"fag":["r1"],"eksamen":"h24","del":1,"oppgave":5,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":5}],"poeng":4,"title":"Koordinatvektorer, lengde og ortogonalitet","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -17,6 +17,4 @@ En vektor er gitt ved $\vec{q} = [2a - 3,\ 1 + 3b]$
 >[!oppgave]
 >b) Bestem $a$ og $b$ slik at $\vec{u} + 2\vec{q} = [7, 5]$
 
->[!question]- Fasit
->
->[[Løsningsforslag R1 eksamen H2024#Oppgave 1-5\|Løsningsforslag R1 eksamen H2024#Oppgave 1-5]]
+## Fasit

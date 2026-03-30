@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["eksponentiell vekst","modellering","gjennomsnittlig vekstfart"],"fag":["1t"],"eksamen":"v25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":1}],"poeng":5,"title":"Kikhoste og eksponentiell modell","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/kikhoste-og-eksponentiell-modell/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"temaer":["eksponentiell vekst","modellering","gjennomsnittlig vekstfart"],"fag":["1t"],"eksamen":"v25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":1}],"poeng":5,"title":"Kikhoste og eksponentiell modell","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["eksponentiell vekst","modellering","gjennomsnittlig vekstfart"],"fag":["1t"],"eksamen":"v25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":1}],"poeng":5,"title":"Kikhoste og eksponentiell modell","status":0,"source":null,"todo":null,"permalink":"/kikhoste-og-eksponentiell-modell/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"temaer":["eksponentiell vekst","modellering","gjennomsnittlig vekstfart"],"fag":["1t"],"eksamen":"v25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":1}],"poeng":5,"title":"Kikhoste og eksponentiell modell","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -22,6 +22,4 @@ La $x$ være antall måneder etter desember 2022, det vil si at $x = 1$ tilsvare
 >b) Bestem stigningstallet til den rette linjen som går gjennom punktene $(4, K(4))$ og $(21, K(21))$. Gi en praktisk tolkning av svaret du får.
 >c) Hvor mange tilfeller av kikhoste vil bli registrert i Norge i mai 2025 ifølge modellen?
 
->[!question]- Fasit
->
->[[Løsningsforslag 1T eksamen V2025#2-1\|Løsningsforslag 1T eksamen V2025#2-1]]
+## Fasit

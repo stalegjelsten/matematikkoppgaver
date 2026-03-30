@@ -25,8 +25,26 @@ Ole tenker at han etter hvert kan klare å betale et større terminbeløp. Han s
 >[!oppgave]
 >c) Hvor mange år vil det ta før lånet er nedbetalt, dersom Ole klarer dette?
 
->[!question]- Fasit
-> 
->b) 4,416 %
->c) 24 år
->[[Løsningsforslag/Løsningsforslag S2 eksamen H2024#Oppgave 2-5\|Løsningsforslag S2 eksamen H2024#Oppgave 2-5]]
+## Fasit
+
+b) 4,416 %
+c) 24 år
+
+## Løsningsforslag
+
+![Løsning av oppgave 5 del 2 i CAS](/img/user/_resources/s2-h24-2-5-cas.png)
+
+a) Summen av nåverdiene til terminbeløpene skal være lik lånebeløpet ved annuitetslån. Terminbeløpet er ukjent, og dette ble funnet i linje 1 i GeoGebra. **Lånebeløpet er 53 437 kr.**
+b) Summen av nåverdiene til terminbeløpene skal være lik lånebeløpet ved annuitetslån. Vekstfaktoren er ukjent, og denne ble funnet i linje 2 i GeoGebra. **Rentesatsen må være 4,416 %.**
+c) Summen av nåverdiene til terminbeløpene skal være lik lånebeløpet ved annuitetslån. De 12 første årene bruker vi vanlig formel, de $b$ neste årene så vil terminbeløpet øke med 5 % per år. Antall ledd i rekka er ukjent, og dette ble bestemt i linje 3 i GeoGebra. **Det tar 24 år før lånet er nedbetalt.**
+
+### 2-5 med Excel
+Vi kan løse hele denne oppgaven med Excel og målsøking. Se utklippet av regnearket
+
+For å løse a) kan vi sette at alle terminbeløpene skal være lik det første terminbeløpet, og for å beregne nåverdien av terminbeløpet i celle D10 har jeg brukt formelen `=(C10/(1+$D$5)^B10)`. Vi kan da bruke målsøking på terminbeløpet og sjekke hva det må være for at summen skal bli lik lånebeløpet. (*Obs, jeg har rundet av svaret etter målsøking*.)
+
+For å løse b) kan vi gå ned til 25 terminer og bruke målsøking på renta hvis summen skal bli lik lånebløpet. (*Obs, jeg har rundet av svaret etter målsøking*.)
+
+I oppgave c) så har jeg satt at terminbeløpet skal fra år 13 skal være 1,05 ganger det forrige terminbeløpet. Ved å markere cellene i kolonne L så kunne jeg lett finne ut at etter 24 år ble summen mer enn lånebeløpet. Jeg fjernet terminbeløpene etter år 24.
+
+![Løsning av oppgave 5 del 2 i Excel](/img/user/_resources/s2-h24-2-5-excel.png)

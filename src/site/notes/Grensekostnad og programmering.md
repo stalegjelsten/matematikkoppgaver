@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["programmering","grenseinntekt og grensekostnad","økonomi"],"fag":["s1"],"eksamen":"h23","del":1,"oppgave":5,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":5}],"poeng":null,"title":"Grensekostnad og programmering","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/grensekostnad-og-programmering/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-14","modified":"2026-03-26","aliases":[],"temaer":["programmering","grenseinntekt og grensekostnad","økonomi"],"fag":["s1"],"eksamen":"h23","del":1,"oppgave":5,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":5}],"poeng":null,"title":"Grensekostnad og programmering","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2023-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["programmering","grenseinntekt og grensekostnad","økonomi"],"fag":["s1"],"eksamen":"h23","del":1,"oppgave":5,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":5}],"poeng":null,"title":"Grensekostnad og programmering","status":1,"source":null,"todo":null,"permalink":"/grensekostnad-og-programmering/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-14","modified":"2026-03-26","aliases":[],"temaer":["programmering","grenseinntekt og grensekostnad","økonomi"],"fag":["s1"],"eksamen":"h23","del":1,"oppgave":5,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":5}],"poeng":null,"title":"Grensekostnad og programmering","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -28,6 +28,4 @@ print(a)
 >[!oppgave]
 >Hva blir resultatet når programmet kjøres? Gi en praktisk tolkning av svaret.
 
->[!question]- Fasit
->
->[[Løsningsforslag S1 eksamen H2023#Oppgave 1-5\|Løsningsforslag S1 eksamen H2023#Oppgave 1-5]]
+## Fasit

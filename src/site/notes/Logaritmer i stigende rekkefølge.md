@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["logaritmer"],"fag":["s1"],"eksamen":"h23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":2}],"poeng":null,"title":"Logaritmer i stigende rekkefølge","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/logaritmer-i-stigende-rekkefolge/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-14","modified":"2026-03-26","aliases":[],"temaer":["logaritmer"],"fag":["s1"],"eksamen":"h23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":2}],"poeng":null,"title":"Logaritmer i stigende rekkefølge","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2023-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["logaritmer"],"fag":["s1"],"eksamen":"h23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":2}],"poeng":null,"title":"Logaritmer i stigende rekkefølge","status":1,"source":null,"todo":null,"permalink":"/logaritmer-i-stigende-rekkefolge/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-14","modified":"2026-03-26","aliases":[],"temaer":["logaritmer"],"fag":["s1"],"eksamen":"h23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":2}],"poeng":null,"title":"Logaritmer i stigende rekkefølge","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -12,6 +12,4 @@
 >
 >Husk å begrunne svaret.
 
->[!question]- Fasit
->
->[[Løsningsforslag S1 eksamen H2023#Oppgave 1-2\|Løsningsforslag S1 eksamen H2023#Oppgave 1-2]]
+## Fasit

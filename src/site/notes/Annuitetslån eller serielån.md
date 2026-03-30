@@ -14,8 +14,7 @@ Nora har tatt opp et lån med en fast årlig rente. Lånet skal betales tilbake 
 >
 >b) Hvor stort lån har Nora tatt opp?
 
->[!question]- Fasit
->
-> a) Serielån (avdraget er likt i alle terminer)
-> b) $50\,000 \, \mathrm{kr}$
-> [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 1-2\|Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 1-2]]
+## Fasit
+
+a) Serielån (avdraget er likt i alle terminer)
+b) $50\,000 \, \mathrm{kr}$

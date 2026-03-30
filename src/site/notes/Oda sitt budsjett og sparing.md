@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["økonomi","sparing"],"fag":["1p-y el"],"eksamen":"v24","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":2}],"title":"Oda sitt budsjett og sparing","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/oda-sitt-budsjett-og-sparing/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["økonomi","sparing"],"fag":["1p-y el"],"eksamen":"v24","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":2}],"title":"Oda sitt budsjett og sparing","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["økonomi","sparing"],"fag":["1p-y el"],"eksamen":"v24","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":2}],"title":"Oda sitt budsjett og sparing","status":3,"source":null,"todo":null,"permalink":"/oda-sitt-budsjett-og-sparing/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["økonomi","sparing"],"fag":["1p-y el"],"eksamen":"v24","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":2}],"title":"Oda sitt budsjett og sparing","status":3,"source":null,"todo":null}}
 ---
 
 
@@ -29,7 +29,24 @@ Oda vil spare 10 500 kroner i løpet av 11 måneder.
 >[!oppgave]
 >Gjør beregninger og vurder om Oda klarer dette hvis hun følger budsjettet.
 
->[!question]- Fasit
->
-> Månedlig overskudd er $1000 \, \mathrm{kr}$. Over 11 måneder sparer Oda $11\,000 \, \mathrm{kr}$, som er mer enn $10\,500 \, \mathrm{kr}$. Oda klarer sparemålet.
-> [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen V2024#1-2\|Løsningsforslag 1P-Y EL eksamen V2024#1-2]]
+## Fasit
+
+Månedlig overskudd er $1000 \, \mathrm{kr}$. Over 11 måneder sparer Oda $11\,000 \, \mathrm{kr}$, som er mer enn $10\,500 \, \mathrm{kr}$. Oda klarer sparemålet.
+
+## Løsningsforslag
+
+Vi beregner månedlig overskudd:
+
+| | Beløp |
+|---|---|
+| Inntekter | $4500 + 600 = 5100 \, \mathrm{kr}$ |
+| Utgifter | $500 + 1200 + 1550 + 350 + 500 = 4100 \, \mathrm{kr}$ |
+| **Overskudd per måned** | $5100 - 4100 = 1000 \, \mathrm{kr}$ |
+
+Sparing over 11 måneder:
+
+$$
+11 \cdot 1000 = 11\,000 \, \mathrm{kr}
+$$
+
+Siden $11\,000 \, \mathrm{kr} > 10\,500 \, \mathrm{kr}$, **klarer Oda sparemålet sitt hvis hun følger budsjettet.** Hun vil ha $\underline{\underline{500 \, \mathrm{kr}}}$ til overs.

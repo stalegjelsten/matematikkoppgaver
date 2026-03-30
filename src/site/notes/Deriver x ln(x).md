@@ -11,6 +11,6 @@ $$
 f(x)=x^{2} \cdot \ln(x)
 $$
 
->[!question]- Fasit
-> $f'(x)=x(2\ln (x)+1)$
->
+## Fasit
+
+$f'(x)=x(2\ln (x)+1)$

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["andregradslikninger","algebra"],"fag":["1t"],"eksamen":"h25","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":1}],"title":"Andregradsulikhet med faktorisering","status":1,"source":null,"todo":["fasit","løsningsforslag"],"poeng":2,"permalink":"/andregradsulikhet-med-faktorisering/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-15","aliases":[],"temaer":["andregradslikninger","algebra"],"fag":["1t"],"eksamen":"h25","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":1}],"title":"Andregradsulikhet med faktorisering","status":1,"source":null,"todo":["fasit","løsningsforslag"],"poeng":2}}
+{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["andregradslikninger","algebra"],"fag":["1t"],"eksamen":"h25","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":1}],"title":"Andregradsulikhet med faktorisering","status":1,"source":null,"todo":null,"poeng":2,"permalink":"/andregradsulikhet-med-faktorisering/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-15","aliases":[],"temaer":["andregradslikninger","algebra"],"fag":["1t"],"eksamen":"h25","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":1}],"title":"Andregradsulikhet med faktorisering","status":1,"source":null,"todo":null,"poeng":2}}
 ---
 
 
@@ -10,6 +10,4 @@
 >
 >$$x^2 + 4x - 5 < 0$$
 
->[!question]- Fasit
->
->[[Løsningsforslag/Løsningsforslag 1T eksamen H2025#1-1\|Løsningsforslag 1T eksamen H2025#1-1]]
+## Fasit

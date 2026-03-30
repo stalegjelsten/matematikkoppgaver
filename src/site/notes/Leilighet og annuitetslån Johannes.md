@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["lån","økonomi","prosentregning"],"fag":["2p"],"eksamen":"v24","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":6}],"poeng":8,"title":"Leilighet og annuitetslån Johannes","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/leilighet-og-annuitetslan-johannes/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"temaer":["lån","økonomi","prosentregning"],"fag":["2p"],"eksamen":"v24","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":6}],"poeng":8,"title":"Leilighet og annuitetslån Johannes","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["lån","økonomi","prosentregning"],"fag":["2p"],"eksamen":"v24","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":6}],"poeng":8,"title":"Leilighet og annuitetslån Johannes","status":1,"source":null,"todo":null,"permalink":"/leilighet-og-annuitetslan-johannes/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"temaer":["lån","økonomi","prosentregning"],"fag":["2p"],"eksamen":"v24","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":6}],"poeng":8,"title":"Leilighet og annuitetslån Johannes","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -48,6 +48,4 @@ Johannes har en brutto månedslønn på 52 000 kroner. Han betaler 1,2 % av brut
 >[!oppgave]
 >d) Gjør beregninger, og vurder om Johannes har råd til å kjøpe leiligheten.
 
->[!question]- Fasit
->
->[[Løsningsforslag 2P eksamen V2024#2-6\|Løsningsforslag 2P eksamen V2024#2-6]]
+## Fasit

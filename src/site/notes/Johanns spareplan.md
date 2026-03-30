@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-25","modified":"2026-03-24","aliases":[],"dg-publish":true,"temaer":["programmering","sparing"],"fag":["2p"],"eksamen":"h25","del":1,"oppgave":8,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":8}],"title":"Johanns spareplan","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/johanns-spareplan/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-25","modified":"2026-03-24","aliases":[],"temaer":["programmering","sparing"],"fag":["2p"],"eksamen":"h25","del":1,"oppgave":8,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":8}],"title":"Johanns spareplan","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2025-11-25","modified":"2026-03-24","aliases":[],"dg-publish":true,"temaer":["programmering","sparing"],"fag":["2p"],"eksamen":"h25","del":1,"oppgave":8,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":8}],"title":"Johanns spareplan","status":1,"source":null,"todo":null,"permalink":"/johanns-spareplan/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-25","modified":"2026-03-24","aliases":[],"temaer":["programmering","sparing"],"fag":["2p"],"eksamen":"h25","del":1,"oppgave":8,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":8}],"title":"Johanns spareplan","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -33,6 +33,4 @@ Resultat:
 >Hva forteller programmet om planen til Johann?  
 >Hva forteller verdiene som skrives ut når programmet kjøres?
 
->[!question]- Fasit
->
->[[Løsningsforslag 2P eksamen H2025#1-8\|Løsningsforslag 2P eksamen H2025#1-8]]
+## Fasit

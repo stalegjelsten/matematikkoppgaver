@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"dg-publish":true,"temaer":["lineær vekst","modellering","proporsjonalitet"],"fag":["1p"],"eksamen":"h23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":4}],"poeng":null,"title":"Sondres modell for hundeår","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/sondres-modell-for-hundear/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"temaer":["lineær vekst","modellering","proporsjonalitet"],"fag":["1p"],"eksamen":"h23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":4}],"poeng":null,"title":"Sondres modell for hundeår","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"dg-publish":true,"temaer":["lineær vekst","modellering","proporsjonalitet"],"fag":["1p"],"eksamen":"h23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":4}],"poeng":null,"title":"Sondres modell for hundeår","status":1,"source":null,"todo":null,"permalink":"/sondres-modell-for-hundear/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"temaer":["lineær vekst","modellering","proporsjonalitet"],"fag":["1p"],"eksamen":"h23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":4}],"poeng":null,"title":"Sondres modell for hundeår","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -44,6 +44,4 @@ Sondre påstår at modellen han har funnet, viser at alderen til en hund er prop
 >[!oppgave]
 >b) Stemmer påstanden til Sondre? Husk å argumentere for svaret ditt.
 
->[!question]- Fasit
->
->[[Løsningsforslag/Løsningsforslag 1P eksamen H2023#1-4\|Løsningsforslag 1P eksamen H2023#1-4]]
+## Fasit

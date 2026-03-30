@@ -11,10 +11,25 @@ $$
 \int \left( x^{2}+1 \right)^{3} \cdot 2x \, \mathrm{d}x 
 $$
 
+## Fasit
 
->[!question]- Fasit
->
-> $\frac{1}{4}(x^{2}+1)^{4}+C$
->[[Løsningsforslag/Løsningsforslag S2 eksamen V2024#Oppgave 1-2\|Løsningsforslag S2 eksamen V2024#Oppgave 1-2]]
+$\frac{1}{4}(x^{2}+1)^{4}+C$
 
+## Løsningsforslag
 
+Jeg ser at hvis jeg velger $u=x^{2}+1$ og bruker variabelskifte, så kan jeg forkorte bort $2x$-faktoren senere.
+
+$$
+\begin{aligned}
+\int (x^{2}+1)^{3} \cdot 2x \, \mathrm{d}x &= \int u \cdot 2x \, \mathrm{d}x \\
+u&=x^{2}+1\\
+\frac{du}{dx}&=2x\\
+dx&=\frac{du}{2x}
+\end{aligned}
+$$
+
+Jeg erstatter $dx$ i det opprinnelige integralet med $\frac{du}{2x}$
+
+$$
+\int u^{3} \cdot 2x \, \mathrm{d}x =\int u^{3}\cdot \cancel{ 2x } \, \frac{du}{\cancel{ 2x }} =\int u^{3} \, \mathrm{d}u=\frac{1}{4}u^{4}+C= \underline{\underline{\frac{1}{4}(x^{2}+1)^{4}+C}}
+$$

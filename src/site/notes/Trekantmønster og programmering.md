@@ -50,11 +50,91 @@ Resultat:
 >   Hva forteller verdiene som skrives ut?  
 >   Husk å begrunne svaret ditt.
 
->[!question]- Fasit
->
->a) Figur 4: 9 pinner. Figur 10: 21 pinner
->b) $f(n)=2n+1$
->c) Vivian vil finne den minste figuren som har mer enn 1000 pinner totalt. Figur 31 har 1023 pinner totalt.
->[[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2025#Oppgave 1-6\|Løsningsforslag 2P-Y eksamen H2025#Oppgave 1-6]]
+## Fasit
 
+a) Figur 4: 9 pinner. Figur 10: 21 pinner
+b) $f(n)=2n+1$
+c) Vivian vil finne den minste figuren som har mer enn 1000 pinner totalt. Figur 31 har 1023 pinner totalt.
 
+## Løsningsforslag
+
+### 1-6a
+
+Vi skal finne antall pinner i figur 4 og figur 10.
+
+**Framgangsmåte:**
+
+La oss først se på mønsteret:
+
+- Figur 1: 3 pinner (én trekant)
+- Figur 2: 5 pinner (3 + 2)
+- Figur 3: 7 pinner (5 + 2)
+
+Vi ser at hver ny figur får 2 flere pinner enn den forrige.
+
+**Figur 4:**
+$$\text{Pinner i figur 4} = 7 + 2 = 9$$
+
+**Figur 10:**
+
+Vi kan fortsette mønsteret:
+
+- Figur 4: 9 pinner
+- Figur 5: 11 pinner
+- Figur 6: 13 pinner
+- Figur 7: 15 pinner
+- Figur 8: 17 pinner
+- Figur 9: 19 pinner
+- Figur 10: 21 pinner
+
+**Det vil være $\underline{\underline{9}}$ pinner i figur 4 og $\underline{\underline{21}}$ pinner i figur 10.**
+
+### 1-6b
+
+Vi skal lage en formel for antallet pinner i figur $n$.
+
+**Framgangsmåte:**
+
+Vi ser at:
+
+$$
+\begin{aligned}
+\text{Figur 1: } & 3 = 3 + 2 \cdot 0 = &&3 + 2(1-1) \\
+\text{Figur 2: } &5 = 3 + 2 \cdot 1 = &&3 + 2(2-1) \\
+\text{Figur 3: } &7 = 3 + 2 \cdot 2 = &&3 + 2(3-1) \\
+\text{Figur }n: & &&3 + 2(n-1)
+\end{aligned}
+$$
+
+Vi kan forenkle dette:
+$$P(n) = 3 + 2(n-1) = 3 + 2n - 2 = 2n + 1$$
+
+**Formelen er $\underline{\underline{P(n) = 2n + 1}}$.**
+
+### 1-6c
+
+Vi skal forklare hva programmet finner ut og hva verdiene som skrives ut betyr.
+
+**Analyse av programmet:**
+
+Programmet starter med:
+
+- `n = 0` (figurnummer)
+- `total = 0` (totalt antall pinner brukt)
+- `figur = 3` (antall pinner i neste figur)
+- `grense = 1000` (grensen for total)
+
+I løkken:
+
+1. `n = n + 1`: Går til neste figur
+2. `total = total + figur`: Legger til pinnene fra denne figuren
+3. `figur = figur + 2`: Neste figur får 2 flere pinner
+
+Løkken fortsetter til `total > 1000`.
+
+**Resultat:**
+
+- `n = 31`: Dette er figurnummeret
+- `total = 1023`: Dette er totalt antall pinner brukt
+
+**Programmet finner ut hvor mange figurer Vivian kan lage før hun har brukt over 1000 pinner totalt. Verdiene viser at etter å ha laget $\underline{\underline{31}}$ figurer har hun brukt $\underline{\underline{1023}}$ pinner totalt, som er første gang totalen overskrider 1000.**

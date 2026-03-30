@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["funksjonsdrøfting","derivasjon","økonomi"],"fag":["s1"],"eksamen":"h24","del":2,"oppgave":6,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":6}],"poeng":6,"title":"Overskuddsoptimalisering for båtmotorer","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/overskuddsoptimalisering-for-batmotorer/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["funksjonsdrøfting","derivasjon","økonomi"],"fag":["s1"],"eksamen":"h24","del":2,"oppgave":6,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":6}],"poeng":6,"title":"Overskuddsoptimalisering for båtmotorer","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["funksjonsdrøfting","derivasjon","økonomi"],"fag":["s1"],"eksamen":"h24","del":2,"oppgave":6,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":6}],"poeng":6,"title":"Overskuddsoptimalisering for båtmotorer","status":0,"source":null,"todo":null,"permalink":"/overskuddsoptimalisering-for-batmotorer/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["funksjonsdrøfting","derivasjon","økonomi"],"fag":["s1"],"eksamen":"h24","del":2,"oppgave":6,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":6}],"poeng":6,"title":"Overskuddsoptimalisering for båtmotorer","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -21,6 +21,4 @@ Skipsmotor AS frykter at høy produksjon vil føre til dårligere kvalitet. De a
 >[!oppgave]
 >c) Bestem det største overskuddet Skipsmotor AS kan få dersom denne antakelsen er riktig.
 
->[!question]- Fasit
->
->[[Løsningsforslag/Løsningsforslag S1 eksamen H2024#Oppgave 2-6\|Løsningsforslag S1 eksamen H2024#Oppgave 2-6]]
+## Fasit

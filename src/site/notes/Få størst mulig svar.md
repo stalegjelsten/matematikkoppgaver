@@ -14,6 +14,15 @@ $$
 10^{\Box}\times \Box \;-\; \Box\times 10^{\Box} \;=\;
 $$
 
-> [!question]- Fasit  
-> $8\cdot10^{9} - 2\cdot10^{1}$.  
-> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen V2025#Oppgave 1-5\|Løsningsforslag 2P-Y eksamen V2025#Oppgave 1-5]]
+## Fasit
+
+$8\cdot10^{9} - 2\cdot10^{1}$.
+
+## Løsningsforslag
+
+Vi ser et regnestykke med differansen mellom to ulike ledd. For at svaret skal bli størst mulig må det første leddet være så stort som mulig, og det andre leddet (det vi trekker fra) må være så lite som mulig.
+
+Siden potenser blir veldig store når eksponentene er høye så vil $8 \cdot 10 ^{9}$ være det største tallet vi kan skrive, og $2 \cdot 10^{1}$ være det minste tallet vi kan skrive, dermed vil det regnestykket som gir det høyeste svaret være
+$$
+\underline{\underline{8\cdot 10 ^{9} - 2 \cdot 10^{1}}}
+$$

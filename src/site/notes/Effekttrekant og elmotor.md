@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-02-01","modified":"2026-03-14","aliases":[],"dg-publish":true,"temaer":["effekttrekant"],"fag":["1p-y el"],"eksamen":"v24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":1}],"title":"Effekttrekant og elmotor","source":null,"todo":null,"status":2,"permalink":"/effekttrekant-og-elmotor/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-02-01","modified":"2026-03-14","aliases":[],"temaer":["effekttrekant"],"fag":["1p-y el"],"eksamen":"v24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":1}],"title":"Effekttrekant og elmotor","source":null,"todo":null,"status":2}}
+{"tags":["oppgave"],"date":"2026-02-01","modified":"2026-03-14","aliases":[],"dg-publish":true,"temaer":["effekttrekant"],"fag":["1p-y el"],"eksamen":"v24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":1}],"title":"Effekttrekant og elmotor","source":null,"todo":null,"status":3,"permalink":"/effekttrekant-og-elmotor/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-02-01","modified":"2026-03-14","aliases":[],"temaer":["effekttrekant"],"fag":["1p-y el"],"eksamen":"v24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":1}],"title":"Effekttrekant og elmotor","source":null,"todo":null,"status":3}}
 ---
 
 
@@ -88,9 +88,57 @@ I en annen enfaset elmotor er $\cos \phi$ større, og tilsynelatende effekt $S$ 
 > [!oppgave]
 > c) Vurder, uten å gjøre utregninger, hvordan dette påvirker størrelsen av $Q$ og $P$ i denne motoren.
 
->[!question]- Fasit
-> 
-> a) $S=2760 \mathrm{~VA}$ og $\phi=35\degree$
-> b) Pytagoras eller bruk av $\cos \phi=0{,}8192$. Begge gir 2261 W.
-> c) Hvis $\cos \phi$ øker så øker effektfaktoren. Mer av effekten brukes til det nyttige formålet, dermed øker $P$ og $Q$ minker.
-> [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen V2024#2-1\|Løsningsforslag 1P-Y EL eksamen V2024#2-1]]
+## Fasit
+
+a) $S=2760 \mathrm{~VA}$ og $\phi=35\degree$
+b) Pytagoras eller bruk av $\cos \phi=0{,}8192$. Begge gir 2261 W.
+c) Hvis $\cos \phi$ øker så øker effektfaktoren. Mer av effekten brukes til det nyttige formålet, dermed øker $P$ og $Q$ minker.
+
+## Løsningsforslag
+
+### 2-1a
+
+Vi bruker formelen $S = U \cdot I$:
+
+$$
+S = 230 \cdot 12 = 2760 \, \mathrm{VA}
+$$
+
+Vi finner fasevinkelen ved hjelp av $\cos \phi = 0{,}8192$:
+
+$$
+\phi = \arccos(0{,}8192) \approx 35°
+$$
+
+**Tilsynelatende effekt er $\underline{\underline{S = 2760 \, \mathrm{VA}}}$ og fasevinkelen er $\underline{\underline{\phi = 35°}}$.**
+
+### 2-1b
+
+Vi har $S = 2760 \, \mathrm{VA}$, $Q = 1583 \, \mathrm{VAr}$ og $\cos \phi = 0{,}8192$.
+
+**Metode 1 – bruk av $\cos \phi$:**
+
+$$
+P = S \cdot \cos \phi = 2760 \cdot 0{,}8192 \approx 2261 \, \mathrm{W}
+$$
+
+**Metode 2 – Pytagoras:**
+
+Fra effekttrekanten gjelder $S^2 = P^2 + Q^2$, så:
+
+$$
+P = \sqrt{S^2 - Q^2} = \sqrt{2760^2 - 1583^2} = \sqrt{7\,617\,600 - 2\,505\,889} = \sqrt{5\,111\,711} \approx 2261 \, \mathrm{W}
+$$
+
+Begge metodene gir samme svar.
+
+**Den aktive effekten er $\underline{\underline{P \approx 2261 \, \mathrm{W}}}$.**
+
+### 2-1c
+
+Tilsynelatende effekt $S$ er den samme, men $\cos \phi$ er større (fasevinkelen $\phi$ er mindre).
+
+- $P = S \cdot \cos \phi$: Når $\cos \phi$ øker og $S$ er uendret, øker $P$.
+- Fra Pytagoras: $Q = \sqrt{S^2 - P^2}$: Når $P$ øker og $S$ er konstant, minker $Q$.
+
+**Aktiv effekt $P$ øker, og reaktiv effekt $Q$ minker.** En høyere effektfaktor betyr at en større andel av den tilsynelatende effekten brukes til nyttig arbeid.

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-10-08","modified":"2024-10-08","aliases":[],"dg-publish":true,"temaer":["standardform","potenser"],"fag":["2p-y"],"eksamen":"h23","del":1,"oppgave":3,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":3}],"title":"Hvor mange ganger større er Sola enn Jorda?","source":null,"todo":null,"status":1,"permalink":"/hvor-mange-ganger-storre-er-sola-enn-jorda/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-10-08","modified":"2024-10-08","aliases":[],"temaer":["standardform","potenser"],"fag":["2p-y"],"eksamen":"h23","del":1,"oppgave":3,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":3}],"title":"Hvor mange ganger større er Sola enn Jorda?","source":null,"todo":null,"status":1}}
+{"tags":["oppgave"],"date":"2024-10-08","modified":"2024-10-08","aliases":[],"dg-publish":true,"temaer":["standardform","potenser"],"fag":["2p-y"],"eksamen":"h23","del":1,"oppgave":3,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":3}],"title":"Hvor mange ganger større er Sola enn Jorda?","source":null,"todo":null,"status":3,"permalink":"/hvor-mange-ganger-storre-er-sola-enn-jorda/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-10-08","modified":"2024-10-08","aliases":[],"temaer":["standardform","potenser"],"fag":["2p-y"],"eksamen":"h23","del":1,"oppgave":3,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":3}],"title":"Hvor mange ganger større er Sola enn Jorda?","source":null,"todo":null,"status":3}}
 ---
 
 
@@ -11,7 +11,14 @@ Sola har en masse på ca. $2{,}0 \cdot 10^{30}$ kg. Jorda har en masse på $6{,}
 > [!oppgave]
 >  Gjør beregninger og finn ut hvilket tall som mangler i setningen ovenfor. Skriv tallet på standardform.
 
->[!question]- Fasit
-> Solas masse er $\underline{\underline{3{,}33\cdot 10^{5}}}$ ganger større enn Jordas
-> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2023#Oppgave 1-3\|Løsningsforslag 2P-Y eksamen H2023#Oppgave 1-3]]
+## Fasit
 
+Solas masse er $\underline{\underline{3{,}33\cdot 10^{5}}}$ ganger større enn Jordas
+
+## Løsningsforslag
+
+Vi deler massen til sola på massen til jorda:
+
+$$\frac{2{,}0 \cdot 10^{30}}{6{,}0 \cdot 10^{24}} = \frac{2{,}0}{6{,}0} \cdot 10^{30-24} = \frac{1}{3} \cdot 10^{6} \approx 3{,}3 \cdot 10^{5}$$
+
+**Solas masse er omtrent $\underline{\underline{3{,}3 \cdot 10^{5}}}$ ganger større enn Jordas masse.**

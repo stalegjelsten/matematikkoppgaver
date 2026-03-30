@@ -14,6 +14,18 @@ Oppgave a finner du her: [[Logaritmepåstand\|Logaritmepåstand]]
 
 Oppgave c finner du her: [[Sannsynligheter ved lottospill\|Sannsynligheter ved lottospill]]
 
->[!question]- Fasit
-> Påstanden stemmer
->[[Løsningsforslag/Løsningsforslag S1 eksamen V2023#2-2b\|Løsningsforslag/Løsningsforslag S1 eksamen V2023#2-2b]]
+## Fasit
+
+Påstanden stemmer
+
+## Løsningsforslag
+
+En fjerdegradsfunksjon $f(x)=ax^4+bx^3+cx^2+dx+e$ har minst ett stasjonært dersom $f'(x)=4ax^3+3bx^2+2cx+d$ har minst ett nullpunkt.
+
+Tredjegradsfunksjonen $f'$ vil alltid ha minst ett nullpunkt. $f'$ vil oppføre seg på en av to måter
+- $\lim_{ x \to \infty } f'(x) = \infty \wedge \lim_{ x \to -\infty } f'(x)=-\infty$. $f'$ vil altså gå fra $-\infty$ mot $+\infty$ når $x$ vokser.
+- $\lim_{ x \to \infty } f'(x) = -\infty \wedge \lim_{ x \to -\infty } f'(x)=\infty$. $f'$ vil altså bevege seg fra $+\infty$ mot $-\infty$ når $x$ vokser.
+
+Siden $f'$ må krysse $x$-aksen så må det stasjonære punktet være enten et toppunkt eller et bunnpunkt.
+
+**En fjerdegradsfunksjon har alltid minst ett toppunkt eller bunnpunkt.**

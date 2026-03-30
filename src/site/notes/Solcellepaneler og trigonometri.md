@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-16","aliases":[],"dg-publish":true,"temaer":["trigonometri","elektrofag","geometri","prosentregning"],"fag":["1p-y el"],"eksamen":"h25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":1}],"title":"Solcellepaneler og trigonometri","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/solcellepaneler-og-trigonometri/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-16","aliases":[],"temaer":["trigonometri","elektrofag","geometri","prosentregning"],"fag":["1p-y el"],"eksamen":"h25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":1}],"title":"Solcellepaneler og trigonometri","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-16","aliases":[],"dg-publish":true,"temaer":["trigonometri","elektrofag","geometri","prosentregning"],"fag":["1p-y el"],"eksamen":"h25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":1}],"title":"Solcellepaneler og trigonometri","status":1,"source":null,"todo":null,"permalink":"/solcellepaneler-og-trigonometri/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-16","aliases":[],"temaer":["trigonometri","elektrofag","geometri","prosentregning"],"fag":["1p-y el"],"eksamen":"h25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":1}],"title":"Solcellepaneler og trigonometri","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -16,7 +16,7 @@ Denne lengden kan ses på som hypotenusen i en trekant.
 
 Panelet skal monteres i en vinkel på $35\degree$.
 
-![Trekantskisse av solcellepanel](/img/user/_resources/1py-h25-2-1-2.jpeg)
+![Skisse av oppsett av solcellepanel](/img/user/_resources/1py-h25-2-1-2.jpeg)
 
 >[!oppgave]
 >b) Hva blir lengden av $AB$? Hva blir lengden av $AC$?
@@ -27,16 +27,17 @@ Det skal monteres solcellepaneler på et privat hustak:
 - maksimal solinnstråling: $1000 \mathrm{~W/m^2}$
 - virkningsgrad: 21 %
 
-**Virkningsgrad:** Hvor stor andel av energien i solinnstrålingen som solcellepanelet klarer å omdanne til elektrisk energi.
+
+> [!info] Virkningsgrad
+ > Virkningsgraden angir hvor stor andel av energien i solinnstrålingen som solcellepanelet klarer å omdanne til elektrisk energi.
 
 Anlegget panelene skal levere strømmen til, kan ikke motta mer enn 15 kW.
 
 >[!oppgave]
 >c) Hvor mange hele paneler kan maksimalt monteres i dette anlegget?
 
->[!question]- Fasit
->
-> a) $\approx 446 \, \mathrm{kWh}$
-> b) $AB \approx 929 \, \mathrm{mm}$, $AC \approx 650 \, \mathrm{mm}$
-> c) 35 hele paneler
-> [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 2-1\|Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 2-1]]
+## Fasit
+
+a) $\approx 446 \, \mathrm{kWh}$
+b) $AB \approx 929 \, \mathrm{mm}$, $AC \approx 650 \, \mathrm{mm}$
+c) 35 hele paneler

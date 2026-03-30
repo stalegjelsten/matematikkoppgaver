@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["eksponentialfunksjoner","modellering","gjennomsnittlig vekstfart"],"fag":["1p"],"eksamen":"v25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":1}],"poeng":6,"title":"Kikhoste som eksponentiell vekst","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/kikhoste-som-eksponentiell-vekst/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"temaer":["eksponentialfunksjoner","modellering","gjennomsnittlig vekstfart"],"fag":["1p"],"eksamen":"v25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":1}],"poeng":6,"title":"Kikhoste som eksponentiell vekst","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["eksponentialfunksjoner","modellering","gjennomsnittlig vekstfart"],"fag":["1p"],"eksamen":"v25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":1}],"poeng":6,"title":"Kikhoste som eksponentiell vekst","status":0,"source":null,"todo":null,"permalink":"/kikhoste-som-eksponentiell-vekst/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"temaer":["eksponentialfunksjoner","modellering","gjennomsnittlig vekstfart"],"fag":["1p"],"eksamen":"v25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":1}],"poeng":6,"title":"Kikhoste som eksponentiell vekst","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -21,6 +21,4 @@ La $x$ være antall måneder etter desember 2022. Det vil si at $x = 1$ tilsvare
 >c) Bestem stigningstallet til den rette linjen som går gjennom punktene $(4,\ K(4))$ og $(21,\ K(21))$. Gi en praktisk tolkning av svaret du får.
 >d) Hvor mange tilfeller av kikhoste vil bli registrert i Norge i mai 2025 ifølge modellen?
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P eksamen V2025#2-1\|Løsningsforslag 1P eksamen V2025#2-1]]
+## Fasit

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-28","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["prosentregning","økonomi"],"fag":["2p"],"eksamen":"h24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":5}],"poeng":3,"title":"Nettoinntekt med overtid","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/nettoinntekt-med-overtid/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-28","modified":"2026-03-26","aliases":[],"temaer":["prosentregning","økonomi"],"fag":["2p"],"eksamen":"h24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":5}],"poeng":3,"title":"Nettoinntekt med overtid","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-11-28","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["prosentregning","økonomi"],"fag":["2p"],"eksamen":"h24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":5}],"poeng":3,"title":"Nettoinntekt med overtid","status":1,"source":null,"todo":null,"permalink":"/nettoinntekt-med-overtid/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-28","modified":"2026-03-26","aliases":[],"temaer":["prosentregning","økonomi"],"fag":["2p"],"eksamen":"h24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":5}],"poeng":3,"title":"Nettoinntekt med overtid","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -16,6 +16,4 @@ En måned arbeidet hun 10 timer overtid.
 >[!oppgave]
 >Bestem nettoinntekten til Tobine denne måneden.
 
->[!question]- Fasit
->
->[[Løsningsforslag 2P eksamen H2024#Oppgave 2-5\|Løsningsforslag 2P eksamen H2024#Oppgave 2-5]]
+## Fasit

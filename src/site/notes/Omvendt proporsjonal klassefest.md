@@ -12,7 +12,26 @@ Elevene i klasse 3PBB vil leie et lokale for å arrangere klassefest. De vil spl
 >a) Hvor mye må hver elev betale dersom $20$ elever blir med på festen?
 >b) Bestem funksjonsuttrykket $f(x)$.
 
-> [!question]- Fasit
-> a) Det koster $400\text{ kr}$ per elev ved $20$ deltakere.
-> b) $f(x)=\dfrac{8000}{x}$.
-> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen V2025#Oppgave 1-3\|Løsningsforslag 2P-Y eksamen V2025#Oppgave 1-3]]
+## Fasit
+
+a) Det koster $400\text{ kr}$ per elev ved $20$ deltakere.
+b) $f(x)=\dfrac{8000}{x}$.
+
+## Løsningsforslag
+
+### 1-3a
+Jeg ser at dette er en omvendt proporsjonal funksjon siden en dobling fra 2 til 4 deltakere gir en halvering av prisen per elev fra 4000 kr til 2000 kr.
+
+Siden det koster 800 kr per person hvis de er 10 elever må det koste 400 kr per person dersom de er 20 elever.
+
+**Det koster 400 kr per person dersom det er 20 elever på festen.**
+
+### 1-3b
+Funksjonsuttrykkene for omvendt proporsjonale er på formen
+$$
+f(x)=\frac{k}{x}
+$$
+Der $k$ er prisen når $x=1$. I dette tilfellet må prisen være 8000 kr for å leie lokalet (siden det koster 4000 kr per person for 2 personer). Funksjonsuttrykket er derfor
+$$
+\underline{\underline{f(x)=\frac{8000}{x}}}
+$$

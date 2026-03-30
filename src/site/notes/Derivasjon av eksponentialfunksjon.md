@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["derivasjon","eksponentialfunksjoner"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":1},{"fag":"r1","del":1,"oppgave":1}],"poeng":2,"title":"Derivasjon av eksponentialfunksjon","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/derivasjon-av-eksponentialfunksjon/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["derivasjon","eksponentialfunksjoner"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":1},{"fag":"r1","del":1,"oppgave":1}],"poeng":2,"title":"Derivasjon av eksponentialfunksjon","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["derivasjon","eksponentialfunksjoner"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":1},{"fag":"r1","del":1,"oppgave":1}],"poeng":2,"title":"Derivasjon av eksponentialfunksjon","status":3,"source":null,"todo":null,"permalink":"/derivasjon-av-eksponentialfunksjon/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["derivasjon","eksponentialfunksjoner"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":1},{"fag":"r1","del":1,"oppgave":1}],"poeng":2,"title":"Derivasjon av eksponentialfunksjon","status":3,"source":null,"todo":null}}
 ---
 
 
@@ -9,6 +9,15 @@
 >Deriver funksjonen
 >$$f(x) = \frac{e^{2x}}{x}$$
 
->[!question]- Fasit
->
->[[Løsningsforslag/Løsningsforslag S1 eksamen H2024#Oppgave 1-1\|Løsningsforslag S1 eksamen H2024#Oppgave 1-1]]
+## Fasit
+
+
+## Løsningsforslag
+
+Funksjonen består av en brøk med funksjoner i både teller og nevner, så vi må bruke kvotientregelen når vi deriverer.
+$$
+f(x)=\frac{u}{v}\implies f'(x)=\frac{u'v+uv'}{v^{2}}
+$$
+$$
+f'(x)=\frac{2e^{2x} \cdot x + e^{2x}\cdot 1}{x^{2}}=\underline{\underline{e^{2x} \frac{2x+1}{x^{2}}}}
+$$

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["logaritmer","derivasjon","areal"],"fag":["r1"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":5}],"poeng":4,"title":"Tangent til ln og trekantareal","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/tangent-til-ln-og-trekantareal/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"temaer":["logaritmer","derivasjon","areal"],"fag":["r1"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":5}],"poeng":4,"title":"Tangent til ln og trekantareal","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["logaritmer","derivasjon","areal"],"fag":["r1"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":5}],"poeng":4,"title":"Tangent til ln og trekantareal","status":0,"source":null,"todo":null,"permalink":"/tangent-til-ln-og-trekantareal/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"temaer":["logaritmer","derivasjon","areal"],"fag":["r1"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":5}],"poeng":4,"title":"Tangent til ln og trekantareal","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -17,6 +17,4 @@ Punktet $C$ er plassert på linja $y = x$ slik at $\angle ACB = 90\degree$.
 >a) Bestem eksakte verdier for koordinatene til punktet $B$.
 >b) Bestem det eksakte arealet av trekant $ABC$.
 
->[!question]- Fasit
->
->[[Løsningsforslag R1 eksamen V2025#Oppgave 2-5\|Løsningsforslag R1 eksamen V2025#Oppgave 2-5]]
+## Fasit

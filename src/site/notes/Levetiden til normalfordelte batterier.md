@@ -20,8 +20,37 @@ Sannsynligheten er 75,8 prosent for at levetiden til et tilfeldig valgt batteri 
 
 ![](https://cdn.mathpix.com/cropped/2023_05_27_0e0b8d19e4104951d013g-12.jpg?height=666&width=1510&top_left_y=1636&top_left_x=318)
 
->[!question]- Fasit
->a) 0,0228
->b) 465 timer
->c) A
->[[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 1-6\|Løsningsforslag S2 eksamen V2023#Oppgave 1-6]]
+## Fasit
+
+a) 0,0228
+b) 465 timer
+c) A
+
+## Løsningsforslag
+
+### 1-6a
+Siden vi skal finne $P(X>600)$ og 600 ligger nøyaktig to standardavvik over forventningsverdien kan vi bare slå opp på $z=2.0$ i normalfordelingstabellen for å bestemme $P(X<600) = \Phi(2) = 0,9772$.
+
+$$P(X>600) = 1-P(X<600) = 1-0,9772 = \underline{ \underline{0,0228}}$$
+
+### 1-6b
+Sannsynligheten for at levetiden er *kortere* enn $t$ timer er 24,2 prosent. Jeg bruker normalfordelingstabellen og finner $\Phi(z) = 0,242 \implies z=-0,70$.
+
+$$
+\begin{aligned}
+z &= \frac{t-\mu}{\sigma}\\
+z\sigma + \mu &\overset{ \rightleftarrows  }{ = } t\\
+t &= -0,70\cdot 50 + 500\\
+t &= -35 + 500\\
+t &= 465
+\end{aligned}
+$$
+
+**Det er 75,8 % sannsynlighet for at et tilfeldig valgt batteri har levetid mer enn 465 timer.**
+
+### 1-6c
+Siden forventningsverdien er 500 må toppunktet til normalfordelingsfunksjonen ligge ved $x=500$. Det stemmer med graf A og D.
+
+I tillegg vet vi at standardavviket er 50. Hvis vi beveger oss et standardavvik mot høyre eller venstre fra forventningsverdien skal vi komme til vendepunktene til normalfordelingsfunksjonen. Det ser ut til å stemme bra med graf A, hvor vendepunktene ligger ved omtrent $x=450$ og $x=550$.
+
+**Graf A illustrerer $X$.**

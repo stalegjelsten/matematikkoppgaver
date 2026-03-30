@@ -10,7 +10,18 @@ Lukas har kjøpt et deksel til mobilen. Dekselet kostet 200 kroner inkludert mer
 >[!oppgave]
 >Hvor mye betalte Lukas i merverdiavgift?
 
->[!question]- Fasit
->
-> $40 \, \mathrm{kr}$
-> [[Løsningsforslag/Løsningsforslag 1P eksamen H2025#Oppgave 1-2\|Løsningsforslag 1P eksamen H2025#Oppgave 1-2]]
+## Fasit
+
+$40 \, \mathrm{kr}$
+
+## Løsningsforslag
+
+Prisen på 200 kroner inkluderer merverdiavgiften. Prisen uten avgift finner vi slik:
+
+$$\frac{200}{1{,}25} = 160 \, \mathrm{kr}$$
+
+Merverdiavgiften er da:
+
+$$200 - 160 = 40$$
+
+**Lukas betalte $\underline{\underline{40 \, \mathrm{kr}}}$ i merverdiavgift.**

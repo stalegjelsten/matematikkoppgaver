@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-09-26","modified":"2025-09-26","aliases":[],"dg-publish":true,"temaer":["prosentvis endring i flere perioder","programmering"],"fag":["2p-y","2p"],"eksamen":"h24","del":1,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":5},{"fag":"2p","del":1,"oppgave":5}],"title":"Utslippsreduksjon med prosentvis nedgang","source":null,"todo":null,"status":1,"permalink":"/utslippsreduksjon-med-prosentvis-nedgang/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-09-26","modified":"2025-09-26","aliases":[],"temaer":["prosentvis endring i flere perioder","programmering"],"fag":["2p-y","2p"],"eksamen":"h24","del":1,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":5},{"fag":"2p","del":1,"oppgave":5}],"title":"Utslippsreduksjon med prosentvis nedgang","source":null,"todo":null,"status":1}}
+{"tags":["oppgave"],"date":"2025-09-26","modified":"2025-09-26","aliases":[],"dg-publish":true,"temaer":["prosentvis endring i flere perioder","programmering"],"fag":["2p-y","2p"],"eksamen":"h24","del":1,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":5},{"fag":"2p","del":1,"oppgave":5}],"title":"Utslippsreduksjon med prosentvis nedgang","source":null,"todo":null,"status":3,"permalink":"/utslippsreduksjon-med-prosentvis-nedgang/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-09-26","modified":"2025-09-26","aliases":[],"temaer":["prosentvis endring i flere perioder","programmering"],"fag":["2p-y","2p"],"eksamen":"h24","del":1,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":5},{"fag":"2p","del":1,"oppgave":5}],"title":"Utslippsreduksjon med prosentvis nedgang","source":null,"todo":null,"status":3}}
 ---
 
 
@@ -30,8 +30,27 @@ print(s)
 > a) Gi en praktisk tolkning av uttrykket Sara har brukt i linje 2.  
 > b) Hva vil verdien som skrives ut når programmet kjøres, fortelle Sara?  
 
->[!question]- Fasit
->
-> a) Uttrykket gir utslippet (tonn CO₂) $x$ år etter 2025
-> b) Det totale CO₂-utslippet i 2025–2029 ($\approx 951 \, \mathrm{tonn}$)
-> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2024#Oppgave 1-5\|Løsningsforslag 2P-Y eksamen H2024#Oppgave 1-5]]
+## Fasit
+
+a) Uttrykket gir utslippet (tonn CO₂) $x$ år etter 2025
+b) Det totale CO₂-utslippet i 2025–2029 ($\approx 951 \, \mathrm{tonn}$)
+
+## Løsningsforslag
+
+### 1-5a
+
+Linje 2 i programmet er `return 200 * 0.975 ** x`.
+
+- $200$ er utslippet i tonn CO₂ i 2025
+- $0{,}975 = 1 - 0{,}025$ er vekstfaktoren når utslippet reduseres med $2{,}5 \,\%$ per år
+- $x$ er antall år etter 2025
+
+**Uttrykket $200 \cdot 0{,}975^x$ gir utslippet (i tonn CO₂) $x$ år etter 2025.**
+
+### 1-5b
+
+Programmet beregner $f(0) + f(1) + f(2) + f(3) + f(4)$, altså summen av utslippet for $x = 0, 1, 2, 3, 4$.
+
+Dette tilsvarer utslippet i 2025, 2026, 2027, 2028 og 2029.
+
+**Verdien som skrives ut ($\approx 951 \, \mathrm{tonn}$), er det totale CO₂-utslippet fra bedriften i perioden 2025–2029.**

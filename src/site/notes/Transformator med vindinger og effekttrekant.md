@@ -89,8 +89,8 @@ Den reaktive effekten $Q$ i transformatoren kan beregnes med to ulike matematisk
 >[!oppgave]
 > c) Forklar hvilke to metoder dette er, og bruk en av dem til å finne $Q$.
 
->[!question]- Fasit
-> 
-> a) 5750 vindinger
-> b) $39{,}7 \degree$
-> c) Pytagoras eller trigonometri med for eksempel tangens. 4153 VAr.
+## Fasit
+
+a) 5750 vindinger
+b) $39{,}7 \degree$
+c) Pytagoras eller trigonometri med for eksempel tangens. 4153 VAr.

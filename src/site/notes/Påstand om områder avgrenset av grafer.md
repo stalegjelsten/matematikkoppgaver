@@ -13,7 +13,20 @@ To funksjoner er gitt ved $f(x)=x^{3}-x^{2}-ax$, der $a \in \mathbb{R}$, og $g(x
 
 **Påstand**: Grafene til $f$ og $g$ avgrenser to områder som er like store når $a>-1$.
 
->[!question]- Fasit
-> 
->Påstanden er sann
->[[Løsningsforslag/Løsningsforslag S2 eksamen H2024#2-3b\|Løsningsforslag S2 eksamen H2024#2-3b]]
+## Fasit
+
+Påstanden er sann
+
+## Løsningsforslag
+
+$f$ og $g$ kommer til å avgrense maksimalt 2 områder siden $f$ er en tredjegradsfunksjon og $g$ er en andregradsfunksjon. For å finne disse to områdene må vi først finne skjæringspunktene mellom grafene.
+
+![Bestemmelse av skjæringspunktet mellom funksjoner i CAS](/img/user/_resources/s2-h24-2-3b-1.png)
+
+Jeg fant skjæringspunktene i GeoGebra. (*Vi ser her at kravet om at $a>-1$ gjør at vi får reelle løsninger*).
+
+La oss undersøke arealet av områdene som er avgrenset. Jeg gjør dette i GeoGebra ved å integrere fra skjæringspunkt til skjæringspunkt ved hjelp av `IntegralMellom`.
+
+![Bestemmelse av arealet mellom grafene](/img/user/_resources/s2-h24-2-3b-2.png)
+
+**Påstanden stemmer. Vi ser at arealene mellom grafene er like store.**

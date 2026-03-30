@@ -14,8 +14,29 @@ $$3\quad 3\quad 4\quad 5\quad 6\quad 8\quad 0\quad 3\quad 5\quad 5$$
 > a) Bestem gjennomsnittet og medianen.  
 > b) Bestem den kumulative frekvensen for 5 timer og forklar hva dette tallet betyr.
 
->[!question]- Fasit
->
-> a) Gjennomsnitt: 4,2 timer. Median: 4,5 timer.
-> b) 8
-> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2024#Oppgave 1-2\|Løsningsforslag 2P-Y eksamen H2024#Oppgave 1-2]]
+## Fasit
+
+a) Gjennomsnitt: 4,2 timer. Median: 4,5 timer.
+b) 8
+
+## Løsningsforslag
+
+### 1-2a
+
+Data sortert i stigende rekkefølge:
+
+$$0 \quad 3 \quad 3 \quad 3 \quad \underbrace{ \textcolor{steelblue}{4} \quad \textcolor{steelblue}{5} }_{ \text{Median} } \quad 5 \quad 5 \quad 6 \quad 8$$
+
+
+$$\text{Gjennomsnitt} = \frac{0 + 3 + 3 + 3 + 4 + 5 + 5 + 5 + 6 + 8}{10} = \frac{42}{10} = 4{,}2$$
+
+
+$$\text{median} = \frac{4 + 5}{2} = 4{,}5$$
+
+**Gjennomsnittet er 4,2 timer og medianen er 4,5 timer.**
+
+### 1-2b
+
+Den kumulative frekvensen for 5 timer er antall dager der Lars jobbet høyst 5 timer. Vi teller antall verdier som er mindre eller lik 5 timer: $0, 3, 3, 3, 4, 5, 5, 5$. 
+
+**Den kumulative frekvensen for 5 timer er 8. Det betyr at Lars jobbet høyst 5 timer på 8 av de 10 siste dagene.**

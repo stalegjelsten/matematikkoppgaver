@@ -27,9 +27,8 @@ To av linjene tangerer grafen til funksjonen $K(x)$ i henholdsvis $A$ og $B$.
 >[!kommentar]
 >Jeg har fjernet formel for enhetskostnad fra oppgaven, siden jeg mener at denne bør være kjent for dere.
 
+## Fasit
 
->[!question]- Fasit
-> 
->a) 4,46 kr per enhet
->b) Grensekostnaden er den deriverte av $K$. Tangenten ved $x=400$ har stigningstall 2,06 kr, derfor er grensekostnaden 2,06 kr.
->c) 3,43 kr per enhet
+a) 4,46 kr per enhet
+b) Grensekostnaden er den deriverte av $K$. Tangenten ved $x=400$ har stigningstall 2,06 kr, derfor er grensekostnaden 2,06 kr.
+c) 3,43 kr per enhet

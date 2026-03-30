@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-16","aliases":[],"dg-publish":true,"temaer":["formler","elektrofag","økonomi"],"fag":["1p-y el"],"eksamen":"h25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":2}],"title":"Effekt i vannkraftverk","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/effekt-i-vannkraftverk/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-16","aliases":[],"temaer":["formler","elektrofag","økonomi"],"fag":["1p-y el"],"eksamen":"h25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":2}],"title":"Effekt i vannkraftverk","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-16","aliases":[],"dg-publish":true,"temaer":["formler","elektrofag","økonomi"],"fag":["1p-y el"],"eksamen":"h25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":2}],"title":"Effekt i vannkraftverk","status":1,"source":null,"todo":null,"permalink":"/effekt-i-vannkraftverk/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-16","aliases":[],"temaer":["formler","elektrofag","økonomi"],"fag":["1p-y el"],"eksamen":"h25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":2}],"title":"Effekt i vannkraftverk","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -32,16 +32,21 @@ Kraftverket har en avtale om å selge strømmen de produserer, for $0{,}40$ kron
 
 Elevene stiller noen spørsmål:
 
+> [!blue-box]
+> Hvor mange watt leverer kraftverket når det produserer strøm?   Hvor mange kilowatt blir dette?
+
+> [!yellow-box]
+> Hvor stor blir energimengden i kWh hvis kraftverket produserer strøm i 48 timer?  
+> Hvor mye vil kraftverket få betalt for denne strømmen?
+
+> [!green-box]
+> Dersom kraftverket øker produksjonen slik at $P = 25\,000 \mathrm{~kW}$, må vannstrømmen $Q$ økes.  
+> Hva blir den nye verdien av $Q$?
+>
+
 >[!oppgave]
->Hvor mange watt leverer kraftverket når det produserer strøm? Hvor mange kilowatt blir dette?
->
->Hvor stor blir energimengden i kWh hvis kraftverket produserer strøm i 48 timer? Hvor mye vil kraftverket få betalt for denne strømmen?
->
->Dersom kraftverket øker produksjonen slik at $P = 25\,000 \mathrm{~kW}$, må vannstrømmen $Q$ økes. Hva blir den nye verdien av $Q$?
->
 >Gjør beregninger og vurderinger, og svar på spørsmålene elevene stiller.
 
->[!question]- Fasit
->
-> $P \approx 17\,879 \, \mathrm{kW}$; $E \approx 858\,000 \, \mathrm{kWh}$; inntekt $\approx 343\,000 \, \mathrm{kr}$; $Q \approx 6{,}29 \, \mathrm{m}^3/\mathrm{s}$
-> [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 2-2\|Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 2-2]]
+## Fasit
+
+$P \approx 17\,879 \, \mathrm{kW}$; $E \approx 858\,000 \, \mathrm{kWh}$; inntekt $\approx 343\,000 \, \mathrm{kr}$; $Q \approx 6{,}29 \, \mathrm{m}^3/\mathrm{s}$

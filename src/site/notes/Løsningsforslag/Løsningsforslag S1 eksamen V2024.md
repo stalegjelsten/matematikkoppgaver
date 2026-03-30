@@ -5,6 +5,45 @@
 
 # Løsningsforslag S1 eksamen V2024
 ## Oppgave 2-3
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/kombinatorikk-for-passord/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Kombinatorikk for passord
+
+En skole har regler for å lage passord.
+
+**Regelsett 1**
+
+- Passordet må ha nøyaktig 6 tegn.
+- Det er bare lov å bruke store og små bokstaver.
+- Det må være minst én stor bokstav i passordet.
+- Det må være minst én liten bokstav i passordet.
+
+>[!oppgave]
+>a) Hvor mange forskjellige passord er det mulig å lage ved å følge regelsett 1?
+
+Skolen vil øke sikkerheten og legger til flere krav for å lage passord. De lager et nytt sett med regler.
+
+**Regelsett 2**
+
+- Passordet må ha nøyaktig 6 tegn.
+- Det må være nøyaktig to store bokstaver i passordet.
+- Det må være nøyaktig to små bokstaver i passordet.
+- Det må være nøyaktig to sifre i passordet.
+
+>[!oppgave]
+>b) Gjør nødvendige beregninger for å vurdere effekten på sikkerheten av regelsett 2.
+
+## Fasit
+
+
+## Løsningsforslag
+
 - Passordet må ha 6 tegn
 - Kun store og små bokstaver
 - Minst 1 stor bokstav
@@ -15,9 +54,9 @@ Det er 29 små bokstaver og 29 store bokstaver, dette gir i utgangspunktet 58 ul
 
 Siden vi må minst ha 1 liten bokstav så kan vi ta bort de kombinasjonene som bare bruker store bokstaver ($29^6$) og de som bare bruker små bokstaver ($29^6$). Til sammen har vi da
 
-$$
+$
 58^6-29^6-29^6=58^6-2 \cdot 29^6=36 \, 879 \, 045 \, 902
-$$
+$
 
 **Det er 36,9 milliarder ulike passordet ifølge dette regelsettet.**
 
@@ -28,9 +67,9 @@ Hvis rekkefølgen ikke hadde spilt noen rolle ville vi fått $29^{2}\cdot 29^{2}
 
 Rekkefølgen på de ulike tegnene spiller en rolle, siden vi har 6 tegn («ledige plasser») og skal plassere 3 $\times$ 2 ulike typer tegn så kan vi finne antallet permutasjoner med
 
-$$
+$
 \frac{6!}{2!\cdot 2! \cdot 2!}=\frac{720}{8}=90
-$$
+$
 
 Det finnes altså $70\, 728\, 100 \cdot 90=6\, 365\, 529\, 000$ ulike passord.
 
@@ -48,4 +87,8 @@ Det finnes omtrent 6 ganger så mange mulige passord med regelsett 1 som med reg
 >- Vi vet at de to små bokstavene kan velge mellom de 4 gjenværende ledige plassene
 >- Sifrene må ta de siste to plassene
 >
->$$\text{Antall permutasjoner}=\binom{6}{2}\binom{4}{2}\binom{2}{2}=15 \cdot 6 \cdot 1=90$$
+>$\text{Antall permutasjoner}=\binom{6}{2}\binom{4}{2}\binom{2}{2}=15 \cdot 6 \cdot 1=90$
+
+
+</div></div>
+

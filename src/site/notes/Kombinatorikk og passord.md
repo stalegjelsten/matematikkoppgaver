@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["kombinatorikk"],"fag":["s1"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":4}],"title":"Kombinatorikk og passord","status":1,"source":null,"todo":null,"permalink":"/kombinatorikk-og-passord/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["kombinatorikk"],"fag":["s1"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":4}],"title":"Kombinatorikk og passord","status":1,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["kombinatorikk"],"fag":["s1"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":4}],"title":"Kombinatorikk og passord","status":3,"source":null,"todo":null,"permalink":"/kombinatorikk-og-passord/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["kombinatorikk"],"fag":["s1"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":4}],"title":"Kombinatorikk og passord","status":3,"source":null,"todo":null}}
 ---
 
 
@@ -20,8 +20,32 @@ Et annet passord skal også bestå av tre tegn.
 >[!oppgave]
 >b) Hvor mange ulike passord er det mulig å lage med disse betingelsene?
 
->[!question]- Fasit
->
-> a) $432$
-> b) $252$
-> [[Løsningsforslag/Løsningsforslag S1 eksamen H2025#Oppgave 1-4\|Løsningsforslag S1 eksamen H2025#Oppgave 1-4]]
+## Fasit
+
+a) $432$
+b) $252$
+
+## Løsningsforslag
+
+### 1-4a
+
+- Første tegn: én av bokstavene A–F → $6$ valg
+- Andre tegn: ett av sifrene 1–9 → $9$ valg
+- Tredje tegn: ett av de **resterende** 8 sifrene → $8$ valg
+
+$$6 \cdot 9 \cdot 8 = \underline{\underline{432}}$$
+
+**Det er mulig å lage $432$ ulike passord.**
+
+### 1-4b
+
+Totalt $7$ tegn: $\{1, 2, 3, 4, A, B, C\}$. Uten begrensninger: $7^3 = 343$ passord.
+
+Vi trekker fra de som **ikke** oppfyller kravet om minst én bokstav og minst ett siffer:
+
+- Kun siffer $\{1,2,3,4\}$: $4^3 = 64$ passord
+- Kun bokstav $\{A,B,C\}$: $3^3 = 27$ passord
+
+$$343 - 64 - 27 = \underline{\underline{252}}$$
+
+**Det er mulig å lage $252$ ulike passord.**

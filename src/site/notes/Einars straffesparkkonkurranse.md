@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["sannsynlighet","programmering"],"fag":["s1"],"eksamen":"h25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":6}],"title":"Einars straffesparkkonkurranse","status":1,"source":null,"todo":null,"permalink":"/einars-straffesparkkonkurranse/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["sannsynlighet","programmering"],"fag":["s1"],"eksamen":"h25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":6}],"title":"Einars straffesparkkonkurranse","status":1,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["sannsynlighet","programmering"],"fag":["s1"],"eksamen":"h25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":6}],"title":"Einars straffesparkkonkurranse","status":3,"source":null,"todo":null,"permalink":"/einars-straffesparkkonkurranse/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["sannsynlighet","programmering"],"fag":["s1"],"eksamen":"h25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":6}],"title":"Einars straffesparkkonkurranse","status":3,"source":null,"todo":null}}
 ---
 
 
@@ -34,9 +34,42 @@ Når Einar tar et straffespark, er sannsynligheten for at han scorer mål, $30\,
 >[!oppgave]
 >c) Hva er det minste antallet straffespark Einar må ta for at sannsynligheten for at han scorer minst ett mål, skal være $50\,\%$ eller mer?
 
->[!question]- Fasit
->
-> a) $0$, $\dfrac{1}{3}$, $\dfrac{2}{3}$, $1{,}0$
-> b) $\dfrac{8}{125}$
-> c) $2$ straffespark
-> [[Løsningsforslag/Løsningsforslag S1 eksamen H2025#Oppgave 1-6\|Løsningsforslag S1 eksamen H2025#Oppgave 1-6]]
+## Fasit
+
+a) 0, 0,333, 0,666 eller 1,0
+b) $\dfrac{8}{125}$
+c) $2$ straffespark
+
+## Løsningsforslag
+
+### 1-6a
+
+Programmet kjører løkken `for i in range(3)` tre ganger. Hvert skudd gir enten `"treff"` (sannsynlighet $\frac{2}{5}$) eller `"bom"`. Programmet skriver ut $\frac{\texttt{antall\_treff}}{3}$.
+
+**Programmet kan skrive ut: 0, 0,333, 0,666 eller 1,0.**
+
+
+### 1-6b
+
+Programmet skriver ut $1{,}0$ kun hvis alle tre skudd er treff:
+
+$$P(\text{alle tre treff}) = \left(\frac{2}{5}\right)^3 = \frac{8}{125}$$
+
+**$\underline{\underline{P = \dfrac{8}{125}}}$**
+
+### 1-6c
+
+Sannsynligheten for at Einar scorer minst ett mål på $n$ straffespark:
+
+$$P(\text{minst ett mål}) = 1 - 0{,}7^n \geq 0{,}5$$
+
+$$0{,}7^n \leq 0{,}5$$
+
+Vi prøver:
+
+- $n = 1$: $1 - 0{,}7 = 0{,}30 < 0{,}5$
+- $n = 2$: $1 - 0{,}49 = 0{,}51 \geq 0{,}5$ ✓
+
+**Einar må ta minst $\underline{\underline{2}}$ straffespark.**
+
+---

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-05-24","modified":"2026-03-30","aliases":[],"dg-publish":true,"temaer":["grenseverdi","trigonometri","bevis"],"fag":["r2"],"eksamen":"v23","del":1,"oppgave":5,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":5}],"poeng":null,"title":"Bevis for grenseverdien til sin v delt på v","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/bevis-for-grenseverdien-til-sin-v-delt-pa-v/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-05-24","modified":"2026-03-30","aliases":[],"temaer":["grenseverdi","trigonometri","bevis"],"fag":["r2"],"eksamen":"v23","del":1,"oppgave":5,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":5}],"poeng":null,"title":"Bevis for grenseverdien til sin v delt på v","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2023-05-24","modified":"2026-03-30","aliases":[],"dg-publish":true,"temaer":["grenseverdi","trigonometri","bevis"],"fag":["r2"],"eksamen":"v23","del":1,"oppgave":5,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":5}],"poeng":null,"title":"Bevis for grenseverdien til sin v delt på v","status":0,"source":null,"todo":null,"permalink":"/bevis-for-grenseverdien-til-sin-v-delt-pa-v/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-05-24","modified":"2026-03-30","aliases":[],"temaer":["grenseverdi","trigonometri","bevis"],"fag":["r2"],"eksamen":"v23","del":1,"oppgave":5,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":5}],"poeng":null,"title":"Bevis for grenseverdien til sin v delt på v","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -18,6 +18,4 @@ I figuren nedenfor er $AB = AD = 1$, og buen $BD$ er del av en sirkel med sentru
 >$$1 < \frac{v}{\sin v} < \frac{1}{\cos v}$$
 >c) Bruk ulikhetene fra oppgave b til å begrunne at $\lim_{v \to 0^+} \dfrac{\sin v}{v} = 1$.
 
->[!question]- Fasit
->
->[[Løsningsforslag/Løsningsforslag R2 eksamen V2023#Oppgave 1-5\|Løsningsforslag R2 eksamen V2023#Oppgave 1-5]]
+## Fasit

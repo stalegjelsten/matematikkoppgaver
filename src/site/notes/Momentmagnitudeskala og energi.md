@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["logaritmer","eksponentialfunksjoner","modellering"],"fag":["r1"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":4}],"poeng":4,"title":"Momentmagnitudeskala og energi","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/momentmagnitudeskala-og-energi/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"temaer":["logaritmer","eksponentialfunksjoner","modellering"],"fag":["r1"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":4}],"poeng":4,"title":"Momentmagnitudeskala og energi","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["logaritmer","eksponentialfunksjoner","modellering"],"fag":["r1"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":4}],"poeng":4,"title":"Momentmagnitudeskala og energi","status":0,"source":null,"todo":null,"permalink":"/momentmagnitudeskala-og-energi/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"temaer":["logaritmer","eksponentialfunksjoner","modellering"],"fag":["r1"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":4}],"poeng":4,"title":"Momentmagnitudeskala og energi","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -15,6 +15,4 @@ Energien $E$ måles i joule (J).
 >a) Bestem et uttrykk for energien $E$ som løses ut i et jordskjelv, uttrykt ved momentmagnituden $M$. Bruk dette uttrykket til å regne ut hvor mye energi som løses ut i et jordskjelv som måler $4{,}7$ på momentmagnitudeskalaen.
 >b) Hvor mange ganger så stor er energien som løses ut i et jordskjelv, dersom $M$ øker med 1?
 
->[!question]- Fasit
->
->[[Løsningsforslag R1 eksamen V2024#Oppgave 2-4\|Løsningsforslag R1 eksamen V2024#Oppgave 2-4]]
+## Fasit

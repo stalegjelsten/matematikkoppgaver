@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-01-28","modified":"2026-02-01","aliases":[],"dg-publish":true,"temaer":["trigonometri"],"fag":["1p-y el"],"eksamen":"h24","del":1,"oppgave":5,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":5}],"title":"Bruke definisjonene av sinus og cosinus til å sette opp forhold","source":null,"todo":null,"status":2,"permalink":"/bruke-definisjonene-av-sinus-og-cosinus-til-a-sette-opp-forhold/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-01-28","modified":"2026-02-01","aliases":[],"temaer":["trigonometri"],"fag":["1p-y el"],"eksamen":"h24","del":1,"oppgave":5,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":5}],"title":"Bruke definisjonene av sinus og cosinus til å sette opp forhold","source":null,"todo":null,"status":2}}
+{"tags":["oppgave"],"date":"2026-01-28","modified":"2026-02-01","aliases":[],"dg-publish":true,"temaer":["trigonometri"],"fag":["1p-y el"],"eksamen":"h24","del":1,"oppgave":5,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":5}],"title":"Bruke definisjonene av sinus og cosinus til å sette opp forhold","source":null,"todo":null,"status":3,"permalink":"/bruke-definisjonene-av-sinus-og-cosinus-til-a-sette-opp-forhold/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-01-28","modified":"2026-02-01","aliases":[],"temaer":["trigonometri"],"fag":["1p-y el"],"eksamen":"h24","del":1,"oppgave":5,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":5}],"title":"Bruke definisjonene av sinus og cosinus til å sette opp forhold","source":null,"todo":null,"status":3}}
 ---
 
 
@@ -135,8 +135,26 @@ En elev ser på figuren og stiller seg to spørsmål:
 
 Gjør beregninger og svar på spørsmålene til eleven. Husk å begrunne svarene dine.
 
->[!question]- Fasit
->
-> Spørsmål 1: $\sin 30° = \frac{BC}{AC} = \frac{5}{10} = 0{,}5$
-> Spørsmål 2: $AB = \cos 30° \cdot 10 = 0{,}87 \cdot 10 = 8{,}7 \, \mathrm{cm}$
-> [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen H2024#Oppgave 1-5\|Løsningsforslag 1P-Y EL eksamen H2024#Oppgave 1-5]]
+## Fasit
+
+Spørsmål 1: $\sin 30° = \frac{BC}{AC} = \frac{5}{10} = 0{,}5$
+Spørsmål 2: $AB = \cos 30° \cdot 10 = 0{,}87 \cdot 10 = 8{,}7 \, \mathrm{cm}$
+
+## Løsningsforslag
+
+I en 30-60-90-trekant er hypotenusen dobbelt så lang som den korteste kateten (siden motstående 30°).
+
+**Spørsmål 1 – finne $\sin 30°$:**
+
+Siden hypotenusen $AC = 10 \, \mathrm{cm}$ og er dobbelt så lang som den korteste kateten, må:
+$$BC = \frac{AC}{2} = \frac{10}{2} = 5 \, \mathrm{cm}$$
+
+Sinus er definert som motstående katet delt på hypotenus. Vinkelen ved $A$ er $30°$, og motstående katet er $BC$:
+$$\sin 30° = \frac{BC}{AC} = \frac{5}{10} = \underline{\underline{0{,}5}}$$
+
+**Spørsmål 2 – finne lengden $AB$:**
+
+Cosinus er hosliggende katet delt på hypotenus. Vinkelen ved $A$ er $30°$, og hosliggende katet er $AB$:
+$$\cos 30° = \frac{AB}{AC} \implies AB = \cos 30° \cdot AC = 0{,}87 \cdot 10 = \underline{\underline{8{,}7 \, \mathrm{cm}}}$$
+
+**Lengden $AB$ er $\underline{\underline{8{,}7 \, \mathrm{cm}}}$.**

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["vektorer","geometri"],"fag":["r1"],"eksamen":"v25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":6}],"poeng":6,"title":"Vektorer og basketball","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/vektorer-og-basketball/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"temaer":["vektorer","geometri"],"fag":["r1"],"eksamen":"v25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":6}],"poeng":6,"title":"Vektorer og basketball","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["vektorer","geometri"],"fag":["r1"],"eksamen":"v25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":6}],"poeng":6,"title":"Vektorer og basketball","status":0,"source":null,"todo":null,"permalink":"/vektorer-og-basketball/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"temaer":["vektorer","geometri"],"fag":["r1"],"eksamen":"v25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":6}],"poeng":6,"title":"Vektorer og basketball","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -20,6 +20,4 @@ Nils flytter seg til et nytt punkt $M$. $M$ er det nærmeste punktet som er plas
 >[!oppgave]
 >c) Bestem koordinatene til $M$.
 
->[!question]- Fasit
->
->[[Løsningsforslag R1 eksamen V2025#Oppgave 1-6\|Løsningsforslag R1 eksamen V2025#Oppgave 1-6]]
+## Fasit

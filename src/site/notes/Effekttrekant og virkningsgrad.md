@@ -107,9 +107,52 @@ $$
 >[!oppgave]
 >c) Bruk formelen og gjør beregninger for å finne den manglende verdien.
 
->[!question]- Fasit
+## Fasit
+
+a) $S=1725 \mathrm{~VA}$, $P=1380 \mathrm{~W}$
+b) Hvis $P$ og $Q$ er like store så er $\phi=45\degree$. $Q$ øker hvis $\cos \phi$ minker.
+c) 0,8 A
+
+## Løsningsforslag
+
+### 2-1a
+Vi bruker formlene i oppgaveteksten og beregner:
+
+$$
+S=U \cdot I = 230 \cdot 7{,}5 = \underline{\underline{ 1725 \mathrm{~VA} }}
+$$
+
+$$
+P=U \cdot I \cdot \cos \phi = 230 \cdot 7{,}5 \cdot 0{,}8 = \underline{\underline{ 1380 \mathrm{~W} }}
+$$
+
+### 2-1b
+Hvis $P$ og $Q$ skal være like store så blir begge katetene i effekttrekanten like store. I så fall må $\phi$ være $45 \degree$.
+
+Vi vet at motoren er mest effektiv når fasevinkelen er så nærme $0\degree$ som mulig, da er $\cos \phi$ nærme 1. Når $\cos \phi$ minker så øker $\phi$, altså vil den reaktive effekten øke hvis $\cos \phi$ minker.
+
+**Hvis $P$ og $Q$ er like store så er $\phi=45\degree$. $Q$ øker hvis $\cos \phi$ minker.**
+
+### 2-1c
+Hvis den avgitte effekten er lik uavhengig av om spenningen er 230 V eller 400 V så må strømmen endre seg. 
+
+Vi prøver først å beregne $P_{a}$ for 230 V:
+
+Siden strømmen er ukjent så løser vi formelen for $I$ ved å dele på alle faktorene på høyre side av likhetstegnet som ikke er $I$.
+
+$$
+\begin{aligned}
+P_{a} &=U \cdot I \cdot \cos \phi \cdot \sqrt{ 3 } \cdot \eta \\
+I &= \frac{P_{a}}{U \cdot \cos \phi \cdot \sqrt{ 3 } \cdot \eta} \\
+I &= \frac{250}{400 \cdot 0{,}7 \cdot \sqrt{ 3 } \cdot 0{,}64}\\
+I &=0{,}8 \mathrm{~A}
+\end{aligned}
+$$
+
+**Den ukjente verdien er 0,8 A.**
+
+>[!tip] Enklere løsning
 >
-> a) $S=1725 \mathrm{~VA}$, $P=1380 \mathrm{~W}$
-> b) Hvis $P$ og $Q$ er like store så er $\phi=45\degree$. $Q$ øker hvis $\cos \phi$ minker.
-> c) 0,8 A
->[[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen V2025#Oppgave 2-1\|Løsningsforslag 1P-Y EL eksamen V2025#Oppgave 2-1]]
+>Denne oppgaven kan løses mye enklere ved å sette opp forholdet
+>
+>$$ \frac{230}{400} = \frac{x}{1{,}4} \implies x = \frac{230}{400}\cdot 1{,}4 = 0{,}8$$

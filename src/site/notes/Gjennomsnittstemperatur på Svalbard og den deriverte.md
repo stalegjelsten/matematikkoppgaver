@@ -24,6 +24,28 @@ er en rimelig bra modell for gjennomsnittstemperaturen $T(x)^{\circ} \mathrm{C}$
 >
 >Gjør rede for hva koordinatene til hvert av punktene forteller om gjennomsnittstemperaturen utenfor huset til Lars. 
 
->[!question]- Fasit
->c) Se løsningforslaget
->[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#2-1c\|Løsningsforslag 1T eksamen V2023#2-1c]]
+## Fasit
+
+c) Se løsningforslaget
+
+## Løsningsforslag
+
+Jeg tegnet $T'$ sammen med $T$ i koordinatsystemet og fant nullpunkter og ekstremalpunkter til $T'$. 
+
+![Del 2 oppgave 1c. Vekstfarten til temperaturen på Svalbard](/img/user/_resources/1t-v23-2-1c.png)
+
+$$
+\begin{aligned}
+\text{Toppunkt (M)}:& \quad (4,69 , 6,94)\\
+\text{Bunnpunkt (N)}:& \quad (9,90 , -6,62)\\
+\text{Nullpunkter (G og H):}& \quad (2,76 , 0)\text{ og } (7,33 , 0)
+\end{aligned}
+$$
+
+Jeg sammenlignet disse punktene med tilsvarende punkter på grafen til $T$. 
+
+Nullpunktene til $T'$ ligger ved samme $x$-verdi som ekstremalpunktene til $T$. $y$-koordinatene til nullpunktene til $T'$ er selvsagt null, og det stemmer godt med at vekstfarten i ekstremalpunktene til $T$ er null. **Ved hjelp av nullpunktene til $T'$ finner vi den kaldeste temperaturen i bunnpunktet 23. februar og den varmeste temperaturen i toppunktet 10. juli.** 
+
+Toppunktet til $T'$ er er ved $x=4,69$ og $y=6,94$. Det vil si at rundt den 21. april vil temperaturen øke raskest. **Gjennomsnittstemperaturen stiger raskest med 6,94 grader per måned rundt 21. april.**
+
+Bunnpunktet til $T'$ er er ved $x=9,90$ og $y=-6,62$. Det vil si at rundt den 27. september vil temperaturen synke raskest. **Gjennomsnittstemperaturen synker raskest med 6,62 grader per måned rundt 27. september.**

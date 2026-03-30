@@ -349,10 +349,52 @@ De fem første kubikktallene er $1^{3}, 2^{3}, 3^{3}, 4^{3}$ og $5^{3}$, se figu
 >a) Beskriv den rekursive sammenhengen mellom $S_{n}$ og $S_{n+1}$. Bestem en eksplisitt formel for $S_{n}$.
 >b) Lag et program som regner ut den rekursive sammenhengen du fant i oppgave a.
 
->[!question]- Fasit
-> a) $S_{n+1}=S_{n}+(n+1)^{3}$ og $S_{n}=\frac{1}{4}\left( n^{4}+2n^{3}+n^{2} \right)$
-> b) $S_{50}=1625625$
->[[Løsningsforslag/Løsningsforslag S2 eksamen V2024#Oppgave 2-4\|Løsningsforslag S2 eksamen V2024#Oppgave 2-4]]
+## Fasit
+
+a) $S_{n+1}=S_{n}+(n+1)^{3}$ og $S_{n}=\frac{1}{4}\left( n^{4}+2n^{3}+n^{2} \right)$
+b) $S_{50}=1625625$
+
+## Løsningsforslag
+
+### 2-4a
+Jeg setter opp de første leddene og ser om jeg finner en rekursiv sammenheng som jeg kan bruke.
+
+$$
+\begin{aligned}
+S_{1}&=1^{3}\\
+S_{2}&=1^{3}+2^{3}=S_{1}+2^{3}\\
+S_{3}&=1^{3}+2^{3}+3^{3}=S_{2}+3^{3}
+\end{aligned}
+$$
+
+Jeg ser at hvert ledd er det forrige leddet, pluss det neste kubikktallet. En rekursiv sammenheng mellom summene er altså
+
+$$
+\underline{\underline{S_{n+1}=S_{n}+(n+1)^{3}}}
+$$
+
+For å bestemme en eksplisitt formel brukte jeg regresjon i GeoGebra. 
+
+![](/img/user/_resources/s2-v24-2-4a.png)
+
+En eksplisitt formel for summene er
+
+$$S_{n}=\underline{\underline{\frac{1}{4}\left( n^{4}+ 2n^{3}+n^{2} \right)}}$$
+
+### 2-4b
+Jeg bruker følgende program
+
+```python
+S = 0 # starter summen på 0
+
+for n in range(1, 51):
+	# kjører løkka 50 ganger
+	S = S + n**3 #legger n^3 til S
+
+print(S)
+```
+
+**Programmet gir at $S_{50}=1 \, 625 \, 625$.**
 
 <!--
 >[!tip]- TikZ-kode for å lage kuber

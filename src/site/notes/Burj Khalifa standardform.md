@@ -9,7 +9,14 @@ Skyskraperen Burj Khalifa i Dubai er $825\text{ m}$ høy. Et kronestykke er $1{,
 
 Omtrent hvor mange kronestykker vil du trenge? Skriv svaret på standardform.
 
-> [!question]- Fasit
-> Ca. $4{,}86\cdot10^5$ kronestykker.
-> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen V2025#Oppgave 2-2\|Løsningsforslag 2P-Y eksamen V2025#Oppgave 2-2]]
+## Fasit
 
+Ca. $4{,}86\cdot10^5$ kronestykker.
+
+## Løsningsforslag
+
+![Kronestykker på høyde med Burj Khalifa](/img/user/_resources/2py-v25-2-2.png)
+
+Se utklippet over. 
+
+**Du vil trenge omtrent $\underline{\underline{4{,}86 \cdot 10 ^{5}}}$ kronestykker.**

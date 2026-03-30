@@ -8,6 +8,22 @@
 
 La $K(x)$ være kostnadsfunksjonen til en bedrift som produserer $x$ enheter av en vare, og la $E(x)$ være enhetskostnaden. La $x_0$ være antallet enheter som gir den laveste enhetskostnaden. Vis at grensekostnaden er lik enhetskostnaden for $x=x_0$.
 
->[!question]- Fasit
-> [[Løsningsforslag/Løsningsforslag S2 eksamen V2024#Oppgave 1-5\|Løsningsforslag S2 eksamen V2024#Oppgave 1-5]] 
->
+## Fasit
+
+
+## Løsningsforslag
+
+Vi har de laveste enhetskostnadene når $E'(x)=0$. Vi kan altså sette opp
+
+$$
+\begin{aligned}
+E'(x)&=0\\
+\left(  \frac{K(x)}{x} \right)'&=0\\
+\frac{K'(x) \cdot x-K(x) \cdot 1}{x^{2}}&=0\\
+K'(x) \cdot x - K(x)&=0\\
+K'(x)&=\frac{K(x)}{x} \\
+K'(x)&=E(x)
+\end{aligned}
+$$
+
+Hvis $x_{0}$ er antallet enheter som gir lavest enhetskostnader så ser vi at dette må være lik grensekostnaden, altså $K'(x_{0})=E(x_{0})$.

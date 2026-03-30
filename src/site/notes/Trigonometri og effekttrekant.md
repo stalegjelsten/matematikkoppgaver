@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-05-26","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["trigonometri","effekttrekant","prosentregning","elektrofag"],"fag":["1p-y el"],"eksamen":"v23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":4}],"title":"Trigonometri og effekttrekant","status":0,"source":null,"todo":null,"permalink":"/trigonometri-og-effekttrekant/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-05-26","modified":"2026-03-15","aliases":[],"temaer":["trigonometri","effekttrekant","prosentregning","elektrofag"],"fag":["1p-y el"],"eksamen":"v23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":4}],"title":"Trigonometri og effekttrekant","status":0,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2023-05-26","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["trigonometri","effekttrekant","prosentregning","elektrofag"],"fag":["1p-y el"],"eksamen":"v23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":4}],"title":"Trigonometri og effekttrekant","status":3,"source":null,"todo":null,"permalink":"/trigonometri-og-effekttrekant/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-05-26","modified":"2026-03-15","aliases":[],"temaer":["trigonometri","effekttrekant","prosentregning","elektrofag"],"fag":["1p-y el"],"eksamen":"v23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":4}],"title":"Trigonometri og effekttrekant","status":3,"source":null,"todo":null}}
 ---
 
 
@@ -30,9 +30,26 @@ I denne trekanten er $P = 40 \mathrm{~W}$ og $\cos \varphi = \dfrac{40}{50}$.
 >[!oppgave]
 >c) Regn ut den reaktive effekten ($Q$).
 
->[!question]- Fasit
->
-> a) $\sin u = \frac{BC}{AC}$
-> b) $0{,}2\,\%$
-> c) $Q = 30 \, \mathrm{VAr}$
-> [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen V2023#Oppgave 1-4\|Løsningsforslag 1P-Y EL eksamen V2023#Oppgave 1-4]]
+## Fasit
+
+a) $\sin u = \frac{BC}{AC}$
+b) $0{,}2\,\%$
+c) $Q = 30 \, \mathrm{VAr}$
+
+## Løsningsforslag
+
+a) I trekanten $ABC$ er $u$ vinkelen ved $A$ og den rette vinkelen er ved $B$.
+
+   Sinus er forholdet mellom motstående katet og hypotenus:
+
+   $$\underline{\underline{\sin u = \frac{BC}{AC}}}$$
+
+b) Maksimalt avvik er $0{,}1 \, \mathrm{Hz}$ fra $50 \, \mathrm{Hz}$:
+
+   $$\frac{0{,}1}{50} \cdot 100 \, \% = \underline{\underline{0{,}2 \, \%}}$$
+
+c) Fra effekttrekanten ser vi at $\cos \varphi = \dfrac{P}{S}$, og vi vet at $P = 40 \, \mathrm{W}$ og $\cos \varphi = \dfrac{40}{50}$.
+
+   Dermed er $S = 50 \, \mathrm{VA}$. Vi bruker Pytagoras for å finne $Q$:
+
+   $$Q = \sqrt{S^2 - P^2} = \sqrt{50^2 - 40^2} = \sqrt{2500 - 1600} = \sqrt{900} = \underline{\underline{30 \, \mathrm{VAr}}}$$

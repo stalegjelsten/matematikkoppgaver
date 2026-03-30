@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["volum","optimering","funksjoner"],"fag":["1p"],"eksamen":"h24","del":2,"oppgave":8,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":8}],"poeng":7,"title":"Kasser av metallplater","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/kasser-av-metallplater/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-28","aliases":[],"temaer":["volum","optimering","funksjoner"],"fag":["1p"],"eksamen":"h24","del":2,"oppgave":8,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":8}],"poeng":7,"title":"Kasser av metallplater","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["volum","optimering","funksjoner"],"fag":["1p"],"eksamen":"h24","del":2,"oppgave":8,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":8}],"poeng":7,"title":"Kasser av metallplater","status":1,"source":null,"todo":null,"permalink":"/kasser-av-metallplater/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-28","aliases":[],"temaer":["volum","optimering","funksjoner"],"fag":["1p"],"eksamen":"h24","del":2,"oppgave":8,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":8}],"poeng":7,"title":"Kasser av metallplater","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -28,6 +28,4 @@ Sofie ønsker å lage en modell som viser volumet av de ulike kassene hun kan la
 >d) Hvor mye av hjørnene må Sofie skjære bort dersom hun vil lage kassene slik at volumet blir størst mulig? Hvor stort blir dette volumet?
 >e) Hva vil du si er modellens gyldighetsområde? Argumenter for svaret ditt.
 
->[!question]- Fasit
->
->[[Løsningsforslag/Løsningsforslag 1P eksamen H2024#Oppgave 2-8\|Løsningsforslag 1P eksamen H2024#Oppgave 2-8]]
+## Fasit

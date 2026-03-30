@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["figurtall","programmering","rekker"],"fag":["1t"],"eksamen":"h25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":4}],"title":"Gråmønster i likesidet trekant","status":1,"source":null,"todo":["fasit","løsningsforslag"],"poeng":3,"permalink":"/gramonster-i-likesidet-trekant/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-15","aliases":[],"temaer":["figurtall","programmering","rekker"],"fag":["1t"],"eksamen":"h25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":4}],"title":"Gråmønster i likesidet trekant","status":1,"source":null,"todo":["fasit","løsningsforslag"],"poeng":3}}
+{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["figurtall","programmering","rekker"],"fag":["1t"],"eksamen":"h25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":4}],"title":"Gråmønster i likesidet trekant","status":1,"source":null,"todo":null,"poeng":3,"permalink":"/gramonster-i-likesidet-trekant/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-15","aliases":[],"temaer":["figurtall","programmering","rekker"],"fag":["1t"],"eksamen":"h25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":4}],"title":"Gråmønster i likesidet trekant","status":1,"source":null,"todo":null,"poeng":3}}
 ---
 
 
@@ -16,6 +16,4 @@ Tenk deg at Maria fortsetter å dele opp trekanten og fargelegge etter samme mø
 >
 >b) Ta utgangspunkt i algoritmen og lag et program som regner ut summen av arealene dersom arealet av den likesidede trekanten hun starter med er 36.
 
->[!question]- Fasit
->
->[[Løsningsforslag/Løsningsforslag 1T eksamen H2025#2-4\|Løsningsforslag 1T eksamen H2025#2-4]]
+## Fasit

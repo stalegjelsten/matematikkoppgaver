@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["logistisk funksjon","modellering","derivasjon"],"fag":["r1"],"eksamen":"v25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":1}],"poeng":6,"title":"Logistisk vekstmodell batteriteknologi","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/logistisk-vekstmodell-batteriteknologi/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"temaer":["logistisk funksjon","modellering","derivasjon"],"fag":["r1"],"eksamen":"v25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":1}],"poeng":6,"title":"Logistisk vekstmodell batteriteknologi","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["logistisk funksjon","modellering","derivasjon"],"fag":["r1"],"eksamen":"v25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":1}],"poeng":6,"title":"Logistisk vekstmodell batteriteknologi","status":0,"source":null,"todo":null,"permalink":"/logistisk-vekstmodell-batteriteknologi/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"temaer":["logistisk funksjon","modellering","derivasjon"],"fag":["r1"],"eksamen":"v25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":1}],"poeng":6,"title":"Logistisk vekstmodell batteriteknologi","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -24,6 +24,4 @@ Etter å ha hørt om planene til BA3 antar PowBat at
 >[!oppgave]
 >c) Bruk antakelsene ovenfor til å finne en ny logistisk modell $F$ for antallet husstander som har batteriet etter $t$ uker.
 
->[!question]- Fasit
->
->[[Løsningsforslag R1 eksamen V2025#Oppgave 2-1\|Løsningsforslag R1 eksamen V2025#Oppgave 2-1]]
+## Fasit

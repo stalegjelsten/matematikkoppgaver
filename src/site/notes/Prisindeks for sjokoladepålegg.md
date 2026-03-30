@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-28","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["prisindeks","prosentregning"],"fag":["2p"],"eksamen":"h23","del":2,"oppgave":2,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":2}],"poeng":null,"title":"Prisindeks for sjokoladepålegg","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/prisindeks-for-sjokoladepalegg/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-28","modified":"2026-03-26","aliases":[],"temaer":["prisindeks","prosentregning"],"fag":["2p"],"eksamen":"h23","del":2,"oppgave":2,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":2}],"poeng":null,"title":"Prisindeks for sjokoladepålegg","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2023-11-28","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["prisindeks","prosentregning"],"fag":["2p"],"eksamen":"h23","del":2,"oppgave":2,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":2}],"poeng":null,"title":"Prisindeks for sjokoladepålegg","status":1,"source":null,"todo":null,"permalink":"/prisindeks-for-sjokoladepalegg/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-28","modified":"2026-03-26","aliases":[],"temaer":["prisindeks","prosentregning"],"fag":["2p"],"eksamen":"h23","del":2,"oppgave":2,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":2}],"poeng":null,"title":"Prisindeks for sjokoladepålegg","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -16,6 +16,4 @@ Prisen for ett bestemt merke sjokoladepålegg steg fra 35,90 kroner i 2019 til 3
 >[!oppgave]
 >Gjør beregninger og finn ut om prisen for dette sjokoladepålegget steg mer enn prisindeksen for sjokoladepålegg fra 2019 til 2022.
 
->[!question]- Fasit
->
->[[Løsningsforslag 2P eksamen H2023#2-2\|Løsningsforslag 2P eksamen H2023#2-2]]
+## Fasit

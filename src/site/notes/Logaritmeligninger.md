@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["logaritmer","likninger"],"fag":["r1"],"eksamen":"h25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":2}],"title":"Logaritmeligninger","status":1,"source":null,"todo":null,"permalink":"/logaritmeligninger/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["logaritmer","likninger"],"fag":["r1"],"eksamen":"h25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":2}],"title":"Logaritmeligninger","status":1,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["logaritmer","likninger"],"fag":["r1"],"eksamen":"h25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":2}],"title":"Logaritmeligninger","status":3,"source":null,"todo":null,"permalink":"/logaritmeligninger/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["logaritmer","likninger"],"fag":["r1"],"eksamen":"h25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":2}],"title":"Logaritmeligninger","status":3,"source":null,"todo":null}}
 ---
 
 
@@ -11,8 +11,33 @@
 >b) Bestem $a$ slik at
 >$$\log_a \frac{1}{64} = -3$$
 
->[!question]- Fasit
->
-> a) $x = 10000$ eller $x = 0{,}01$
-> b) $a = 4$
-> [[Løsningsforslag/Løsningsforslag R1 eksamen H2025#Oppgave 1-2\|Løsningsforslag R1 eksamen H2025#Oppgave 1-2]]
+## Fasit
+
+a) $x = 10000$ eller $x = 0{,}01$
+b) $a = 4$
+
+## Løsningsforslag
+
+### 1-2a
+
+Vi setter $u = \lg x$ og løser den kvadratiske likningen:
+
+$$
+u^2 - 2u - 8 = 0 \implies (u-4)(u+2) = 0
+$$
+
+Så $u = 4$ eller $u = -2$, det vil si
+
+$$
+\lg x = 4 \implies x = 10^4 = 10000
+\qquad \text{eller} \qquad
+\lg x = -2 \implies x = 10^{-2} = 0{,}01
+$$
+
+**$\underline{\underline{x = 10000}}$ eller $\underline{\underline{x = 0{,}01}}$**
+
+### 1-2b
+
+Likningen $\log_a \dfrac{1}{64} = -3$ betyr $a^{-3} = \dfrac{1}{64}$, altså $a^3 = 64$.
+
+**$\underline{\underline{a = 4}}$**

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["rekker","geometrisk vekst","modellering"],"fag":["r2"],"eksamen":"h25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":3}],"title":"CCl4-konsentrasjon og geometrisk rekke","status":0,"source":null,"todo":null,"permalink":"/c-cl4-konsentrasjon-og-geometrisk-rekke/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"temaer":["rekker","geometrisk vekst","modellering"],"fag":["r2"],"eksamen":"h25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":3}],"title":"CCl4-konsentrasjon og geometrisk rekke","status":0,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["rekker","geometrisk vekst","modellering"],"fag":["r2"],"eksamen":"h25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":3}],"title":"CCl4-konsentrasjon og geometrisk rekke","status":3,"source":null,"todo":null,"permalink":"/c-cl4-konsentrasjon-og-geometrisk-rekke/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"temaer":["rekker","geometrisk vekst","modellering"],"fag":["r2"],"eksamen":"h25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":3}],"title":"CCl4-konsentrasjon og geometrisk rekke","status":3,"source":null,"todo":null}}
 ---
 
 
@@ -21,8 +21,41 @@ Sofie leser en artikkel om $\text{CCl}_4$ der det blir påstått at en voksen pe
 >[!oppgave]
 >b) Regn ut hvor mange prosent av mengden $\text{CCl}_4$ artikkelen antar at en voksen person skiller ut fra kroppen per dag.
 
->[!question]- Fasit
->
-> a) 11 netter
-> b) 20 %
-> [[Løsningsforslag/Løsningsforslag R2 eksamen H2025#2-3\|Løsningsforslag R2 eksamen H2025#2-3]]
+## Fasit
+
+a) 11 netter
+b) 20 %
+
+## Løsningsforslag
+
+### 2-3a
+
+La $c_n$ være konsentrasjonen rett etter den $n$-te natten. Kroppen skiller ut 18 % per dag, så 82 % gjenstår. Hvert døgn tilføres 2 nye enheter:
+
+$$c_n = 2 + 2\cdot0{,}82 + 2\cdot0{,}82^2 + \ldots + 2\cdot0{,}82^{n-1}$$
+
+Dette er en geometrisk rekke med første ledd $a_1 = 2$ og kvotient $k = 0{,}82$, som gir sumformelen
+
+$$c(n) = 2 \cdot \frac{1 - 0{,}82^n}{1 - 0{,}82}$$
+
+Vi definerer $c(n)$, løser $c(n) = 10$ og kontrollerer $c(11)$ og $c(12)$ i GeoGebra CAS:
+
+![GeoGebra CAS: definisjon av c(n), løsning av c(n)=10, og kontroll av c(11) og c(12)](/img/user/L%C3%B8sningsforslag/r2-h25-2-3-a-CAS-numerisk.png)
+
+CAS gir $n \approx 11{,}6$, og vi ser at $c(11) \approx 9{,}86 < 10$ mens $c(12) \approx 10{,}08 > 10$.
+
+**Sofie kan sove $\underline{\underline{11 \text{ netter}}}$ på soverommet sitt før konsentrasjonen når et potensielt farlig nivå.**
+
+### 2-3b
+
+Grenseverdien til $c_n$ når $n \to \infty$ er $\dfrac{2}{1-k}$ der $k$ er andelen som gjenstår etter utskillelse. For at konsentrasjonen aldri skal overstige 10 enheter, må grenseverdien være $\leq 10$:
+
+$$\frac{2}{1-k} = 10$$
+
+Vi løser for $k$ i GeoGebra CAS:
+
+![GeoGebra CAS løsning for oppgave 2-3b](/img/user/_resources/r2-h25-2-3-b-CAS.png)
+
+CAS gir $k = \dfrac{4}{5}$, og utskillelsesprosenten er $1 - k = \dfrac{1}{5} = 20\,\%$.
+
+**Artikkelen antar at kroppen skiller ut $\underline{\underline{20 \,\%}}$ av $\text{CCl}_4$-mengden per dag.**

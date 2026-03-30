@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-02-01","modified":"2026-02-01","aliases":[],"dg-publish":true,"temaer":["enhetssirkel","trigonometri"],"fag":["1p-y el"],"eksamen":"v24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":4}],"title":"Bruk enhetssirkel til å finne sinus og cosinusverdier","source":null,"todo":["fasit","løsningsforslag"],"status":2,"permalink":"/bruk-enhetssirkel-til-a-finne-sinus-og-cosinusverdier/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-02-01","modified":"2026-02-01","aliases":[],"temaer":["enhetssirkel","trigonometri"],"fag":["1p-y el"],"eksamen":"v24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":4}],"title":"Bruk enhetssirkel til å finne sinus og cosinusverdier","source":null,"todo":["fasit","løsningsforslag"],"status":2}}
+{"tags":["oppgave"],"date":"2026-02-01","modified":"2026-02-01","aliases":[],"dg-publish":true,"temaer":["enhetssirkel","trigonometri"],"fag":["1p-y el"],"eksamen":"v24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":4}],"title":"Bruk enhetssirkel til å finne sinus og cosinusverdier","source":null,"todo":null,"status":3,"permalink":"/bruk-enhetssirkel-til-a-finne-sinus-og-cosinusverdier/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-02-01","modified":"2026-02-01","aliases":[],"temaer":["enhetssirkel","trigonometri"],"fag":["1p-y el"],"eksamen":"v24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":4}],"title":"Bruk enhetssirkel til å finne sinus og cosinusverdier","source":null,"todo":null,"status":3}}
 ---
 
 
@@ -16,8 +16,32 @@ Figuren viser en enhetssirkel med et linjestykke $g$ som danner en vinkel $\alph
 >b) Gjør beregninger og finn en vinkel mellom 0° og 360° som har samme cosinusverdi som vinkelen $\alpha$.
 Figuren viser en enhetssirkel med et linjestykke g som danner en vinkel $\alpha = 53 \degree$ med x-aksen.
 
->[!question]- Fasit
-> 
-> a) 0,8
-> b) $307\degree$
-> [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen V2024#1-4\|Løsningsforslag 1P-Y EL eksamen V2024#1-4]]
+## Fasit
+
+a) 0,8
+b) $307\degree$
+
+## Løsningsforslag
+
+### 1-4a
+
+I enhetssirkelen er $\sin \alpha$ lik $y$-koordinaten til punktet der linjestykket $g$ treffer sirkelen. For $\alpha = 53°$ kan vi lese av figuren at punktet ligger omtrent på $y = 0{,}8$.
+
+**$\underline{\underline{\sin 53° \approx 0{,}8}}$**
+
+>[!tip] Merk
+>Den eksakte verdien er $\sin 53° \approx 0{,}799$.
+
+### 1-4b
+
+Cosinus er $x$-koordinaten i enhetssirkelen. For $\alpha = 53°$ er $x$-koordinaten positiv (i første kvadrant).
+
+Vinkler med samme cosinusverdi finnes symmetrisk om $x$-aksen. Den andre vinkelen er:
+
+$$
+360° - 53° = 307°
+$$
+
+Vi kan verifisere: $\cos 307° = \cos(-53°) = \cos 53°$ ✓
+
+**Vinkelen $\underline{\underline{307°}}$ har samme cosinusverdi som $\alpha = 53°$.**

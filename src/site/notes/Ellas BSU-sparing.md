@@ -26,8 +26,7 @@ Ella er gift med Sverre. Paret ønsker å kjøpe en leilighet som koster 5 600 0
 > [!oppgave]
 >  b) Hvor mye må Ella minst ha i årslønn for at paret skal ha råd til å kjøpe leiligheten?
 
->[!question]- Fasit
->
-> a) –
-> b) $484\,000 \, \mathrm{kr}$
-> [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 2-3\|Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 2-3]]
+## Fasit
+
+a) –
+b) $484\,000 \, \mathrm{kr}$

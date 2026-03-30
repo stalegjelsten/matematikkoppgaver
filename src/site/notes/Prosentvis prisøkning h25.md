@@ -11,7 +11,18 @@ Prisen for en vare settes opp fra 300 kroner til 315 kroner.
 >[!oppgave]
 >Hvor mange prosent settes prisen opp med?
 
->[!question]- Fasit
->
->5 %
->[[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2025#Oppgave 1-1\|Løsningsforslag 2P-Y eksamen H2025#Oppgave 1-1]]
+## Fasit
+
+5 %
+
+## Løsningsforslag
+
+Vi skal finne hvor mange prosent prisen øker med når den går fra 300 kr til 315 kr.
+
+Først finner vi økningen i kroner:
+$$\text{Økning} = 315 - 300 = 15 \text{ kr}$$
+
+Deretter finner vi hvor mange prosent denne økningen utgjør av den opprinnelige prisen:
+$$\text{Prosentvis økning} = \frac{\text{Økning}}{\text{Opprinnelig pris}} \cdot 100\,\% = \frac{15}{300} \cdot 100\,\% = \frac{1500}{300}\,\% = 5\,\%$$
+
+**Prisen settes opp med $\underline{\underline{5\,\%}}$.**

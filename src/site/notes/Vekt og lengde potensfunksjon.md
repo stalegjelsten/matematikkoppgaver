@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["potensfunksjon","derivasjon","regresjon"],"fag":["1t"],"eksamen":"h25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":1}],"title":"Vekt og lengde potensfunksjon","status":1,"source":null,"todo":["fasit","løsningsforslag"],"poeng":8,"permalink":"/vekt-og-lengde-potensfunksjon/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-15","aliases":[],"temaer":["potensfunksjon","derivasjon","regresjon"],"fag":["1t"],"eksamen":"h25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":1}],"title":"Vekt og lengde potensfunksjon","status":1,"source":null,"todo":["fasit","løsningsforslag"],"poeng":8}}
+{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["potensfunksjon","derivasjon","regresjon"],"fag":["1t"],"eksamen":"h25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":1}],"title":"Vekt og lengde potensfunksjon","status":1,"source":null,"todo":null,"poeng":8,"permalink":"/vekt-og-lengde-potensfunksjon/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-15","aliases":[],"temaer":["potensfunksjon","derivasjon","regresjon"],"fag":["1t"],"eksamen":"h25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":1}],"title":"Vekt og lengde potensfunksjon","status":1,"source":null,"todo":null,"poeng":8}}
 ---
 
 
@@ -26,6 +26,4 @@ der $F(x)$ gram er vekten til en fisk som er $x$ centimeter lang.
 >
 >d) Hvor mange prosent vil vekten av en fisk øke med dersom lengden øker med $20\ \%$ ifølge modellen?
 
->[!question]- Fasit
->
->[[Løsningsforslag/Løsningsforslag 1T eksamen H2025#2-1\|Løsningsforslag 1T eksamen H2025#2-1]]
+## Fasit

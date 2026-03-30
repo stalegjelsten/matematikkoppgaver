@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["trigonometri","likninger"],"fag":["1t"],"eksamen":"v24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":2}],"poeng":3,"title":"Lysbrytning i vann","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/lysbrytning-i-vann/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-26","aliases":[],"temaer":["trigonometri","likninger"],"fag":["1t"],"eksamen":"v24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":2}],"poeng":3,"title":"Lysbrytning i vann","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["trigonometri","likninger"],"fag":["1t"],"eksamen":"v24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":2}],"poeng":3,"title":"Lysbrytning i vann","status":0,"source":null,"todo":null,"permalink":"/lysbrytning-i-vann/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-26","aliases":[],"temaer":["trigonometri","likninger"],"fag":["1t"],"eksamen":"v24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":2}],"poeng":3,"title":"Lysbrytning i vann","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -22,6 +22,4 @@ $$\sin u = 1{,}33 \cdot \sin v$$
 >
 >Husk å begrunne svarene dine.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1T eksamen V2024#Oppgave 2-2\|Løsningsforslag 1T eksamen V2024#Oppgave 2-2]]
+## Fasit
