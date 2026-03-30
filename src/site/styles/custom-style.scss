@@ -134,10 +134,9 @@
   display: none;
 }
 
-/* Lys bakgrunn bak bilder med transparens, sentrerte */
+/* Sentrerte bilder */
 article img,
 article svg {
-  background-color: #e8e4df;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -150,7 +149,6 @@ article .callout-icon svg,
 article .callout-icon svg *,
 article .callout-fold svg,
 article .callout-fold svg * {
-  background-color: unset;
   display: unset;
   margin-left: unset;
   margin-right: unset;
