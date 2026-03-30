@@ -13,3 +13,22 @@
 > $$f(x) = 4x^2 \cdot \ln(3x)$$
 
 ## Fasit
+
+$f'(x)=4x \left( 2 \ln (3x) + 1  \right)$
+
+## Løsningsforslag
+
+Vi ønsker å bruke produktregelen, men da må vi kunne derivere begge faktorene. Jeg må derivere $\ln(3x)$ ved å bruke kjerneregelen først ved å sette $u=3x$
+$$
+\left( \ln (3x) \right)'= \left( \ln u \right)' \cdot u'=\frac{1}{u} \cdot 3 = \frac{3}{3x}=\frac{1}{x} 
+$$
+
+Vi bruker produktregelen.
+$$
+\begin{aligned}
+f'(x)&=(4x^{2})' \cdot \ln(3x) + 4x^{2} \cdot  \left( \ln(3x) \right)' \\
+&= 8x \cdot \ln (3x) + 4x^{2} \cdot \frac{1}{x} \\
+&= 8x \cdot \ln (3x) + 4x \\
+&= 4x \left( 2 \ln (3x) + 1  \right)
+\end{aligned}
+$$

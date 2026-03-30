@@ -15,8 +15,9 @@ Tenk deg at du skal snurre lykkehjulet 100 ganger. La $X$ være antall ganger ly
 > c) Bestem sannsynligheten for at lykkehjulet stopper på det grønne feltet mer enn 25 ganger.
 > d) Bestem den minste verdien $k$ kan ha dersom $P(X \geq k) \leq 0{,}01$. Hva forteller dette svaret deg i denne situasjonen?
 
->[!question]- Fasit
->a) *Forklar* hvorfor binomisk. Deretter bruk formlene $\mu=np$ og $\sigma^2=np(1-p)$
->b) Forklar ved hjelp av sentralgrensesetningen og $Var(X)>5$ og $n\geq 30$ 
->c) 0,0838 (hvis man tilnærmer til normalfordeling med øvre grense 25,5)
->d) 30
+## Fasit
+
+a) *Forklar* hvorfor binomisk. Deretter bruk formlene $\mu=np$ og $\sigma^2=np(1-p)$
+b) Forklar ved hjelp av sentralgrensesetningen og $Var(X)>5$ og $n\geq 30$ 
+c) 0,0838 (hvis man tilnærmer til normalfordeling med øvre grense 25,5)
+d) 30

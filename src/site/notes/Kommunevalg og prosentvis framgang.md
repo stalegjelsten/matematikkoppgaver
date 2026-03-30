@@ -9,7 +9,7 @@ Oversikten nedenfor er hentet fra valgresultat.no etter kommunestyrevalget høst
 
 ![Resultat fra kommunestyrevalget 2023](/img/user/_resources/1p-h24-2-6-valgresultat.png)
 
-\* I oversikten er «pp» brukt som forkortelse for prosentpoeng.
+$^{\textcolor{tomato}{*}}$ *I oversikten er «pp» brukt som forkortelse for prosentpoeng.*
 
 >[!oppgave]
 >a) Hvor mange personer brukte ikke stemmeretten sin ved valget?
