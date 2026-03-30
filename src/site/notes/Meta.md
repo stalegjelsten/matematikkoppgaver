@@ -6,8 +6,8 @@
 # Meta
 - [[Unpublished notes\|Unpublished notes]]
 - [[Todo\|Todo]]
-- [[Ressurser\|Ressurser]]
 - [[Roadmap\|Roadmap]]
+- [[Ressurser\|Ressurser]]
 - [[Meta\|Meta]]
 - [[Alle oppgaver\|Alle oppgaver]]
 

@@ -12,9 +12,10 @@ f(x)=-x^{3}+3x
 $$
 
 >[!oppgave]
->a) Regn ut integralet
->$$\int_{-1}^{0} f(x) \, dx $$
->b) Bestem arealet av området som er avgrenset av grafen til $f$, $x$-aksen og linjene $x=-1$ og $x=1$
+>
+> a) Regn ut integralet
+> $$\int_{-1}^{0} f(x) \, dx $$
+> b) Bestem arealet av området som er avgrenset av grafen til $f$, $x$-aksen og linjene $x=-1$ og $x=1$
 
 ## Fasit
 

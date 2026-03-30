@@ -9,8 +9,6 @@ Klassen til Noah og Johanne arbeider med rasjonale funksjoner. Læreren har tegn
 
 ![Graf til f](/img/user/_resources/1t-v25-2-6-1.jpeg)
 
-![Graf til g](/img/user/_resources/1t-v25-2-6-2.jpeg)
-
 >[!green-box] Noah
 >Grafen til $f$ har to vertikale asymptoter. Hvordan må nevneren i brøken da se ut?
 

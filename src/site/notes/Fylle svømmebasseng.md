@@ -30,3 +30,23 @@ Tenk deg at
 
 a) $\approx 8{,}68 \, \mathrm{L/s}$ per brannslange
 b) $\approx 4\,286 \, \text{arbeidsdager}$
+
+## Løsningsforslag
+
+### a
+To brannslanger, $3\,000\,000$ liter på $48\mathrm{~t} = 172\,800\mathrm{~s}$:
+
+$$\frac{3\,000\,000}{172\,800 \cdot 2} \approx \underline{\underline{8{,}68\mathrm{~L/s}}}\ \text{per brannslange}$$
+
+### b
+Antall runder med vannkanne:
+
+$$\frac{3\,000\,000}{5} = 600\,000\text{ runder}$$
+
+Total tid: $600\,000 \cdot 3\mathrm{~min} = 1\,800\,000\mathrm{~min}$
+
+Trond arbeider $7\mathrm{~t} = 420\mathrm{~min}$ per dag:
+
+$$\frac{1\,800\,000}{420} \approx \underline{\underline{4\,286\text{ arbeidsdager}}}$$
+
+Det tilsvarer nesten 17 år – ikke gjennomførbart i praksis!

@@ -30,3 +30,14 @@ Ida stiller to spørsmål:
 ## Fasit
 
 $12 \, \mathrm{timer}$ for 6-åring; $12 \, \text{år}$ for 10 timers søvn
+
+## Løsningsforslag
+Vi bruker formelen $t = 14 - \dfrac{a}{3}$.
+
+**Spørsmål 1:** 6 år gammelt barn:
+
+$$t = 14 - \frac{6}{3} = 14 - 2 = \underline{\underline{12\mathrm{~timer}}}$$
+
+**Spørsmål 2:** Barnet trenger 10 timer søvn, vi løser for $a$:
+
+$$10 = 14 - \frac{a}{3} \implies \frac{a}{3} = 4 \implies a = \underline{\underline{12\text{~år}}}$$

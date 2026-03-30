@@ -333,7 +333,7 @@ Figuren viser grafen til funksjonen
 
 $f(x) = 2 \cdot \sin\left(\frac{\pi}{4}x - \frac{\pi}{2}\right) - 1$
 
-![Graf av f(x)](/img/user/_resources/r2-h24-1-5.jpeg)
+![Grafen til $f(x)$](/img/user/_resources/r2-h24-1-5.jpeg)
 
 >[!oppgave]
 >a) Bestem en funksjon på formen $g(x) = A \cdot \cos(cx + \varphi) + d$, som passer til grafen.

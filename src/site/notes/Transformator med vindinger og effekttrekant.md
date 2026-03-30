@@ -6,7 +6,7 @@
 # Transformator med vindinger og effekttrekant
 
 
-<!--![Merking på transformator](/img/user/_resources/1py-el-h23-2-3-transformator.png)-->
+![Merking på transformator](/img/user/_resources/1py-el-h23-2-3-transformator.png)
 
 En transformator har en kapasitet på 10 kVA. Primærspenningen på transformatoren er 400 V, og sekundærspenningen er 230 V. Primærspolen har 10 000 vindinger.
 
@@ -94,3 +94,65 @@ Den reaktive effekten $Q$ i transformatoren kan beregnes med to ulike matematisk
 a) 5750 vindinger
 b) $39{,}7 \degree$
 c) Pytagoras eller trigonometri med for eksempel tangens. 4153 VAr.
+
+## Løsningsforslag
+
+### a
+
+Vi bruker forholdet mellom spenning og antall vindinger:
+
+$$
+\frac{400}{230} = \frac{10\,000}{n_2}
+$$
+
+Vi løser for $n_2$:
+
+$$
+n_2 = \frac{10\,000 \cdot 230}{400} = \frac{2\,300\,000}{400} = 5750
+$$
+
+**Sekundærspolen har $\underline{\underline{5750 \, \text{vindinger}}}$.**
+
+### b
+
+Effekttrekanten har $P = 5000 \, \mathrm{W}$ og $S = 6500 \, \mathrm{VA}$.
+
+Vinkelen $\phi$ mellom $S$ og $P$ finnes ved:
+
+$$
+\cos \phi = \frac{P}{S} = \frac{5000}{6500} \approx 0{,}769
+$$
+
+$$
+\phi = \arccos(0{,}769) \approx 39{,}7°
+$$
+
+Effekttrekanten ser slik ut (med $Q$ beregnet i neste deloppgave):
+
+$$
+\begin{aligned}
+S &= 6500 \, \mathrm{VA} \\
+P &= 5000 \, \mathrm{W} \\
+\phi &\approx 39{,}7°
+\end{aligned}
+$$
+
+**Vinkelen mellom tilsynelatende og aktiv effekt er $\underline{\underline{\phi \approx 39{,}7°}}$.**
+
+### c
+
+Den reaktive effekten $Q$ kan beregnes med to metoder:
+
+**Metode 1 – Pytagoras:**
+
+$$
+Q = \sqrt{S^2 - P^2} = \sqrt{6500^2 - 5000^2} = \sqrt{42\,250\,000 - 25\,000\,000} = \sqrt{17\,250\,000} \approx 4153 \, \mathrm{VAr}
+$$
+
+**Metode 2 – Tangens:**
+
+$$
+Q = P \cdot \tan \phi = 5000 \cdot \tan(39{,}7°) \approx 5000 \cdot 0{,}831 \approx 4153 \, \mathrm{VAr}
+$$
+
+**Den reaktive effekten er $\underline{\underline{Q \approx 4153 \, \mathrm{VAr}}}$.**

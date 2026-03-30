@@ -39,6 +39,22 @@ Ut fra opplysningene våre kan vi se at $P(T_{S})=0{,}99$ og $P(T_{\bar{S}})=0{,
 
 Det er to ulike måter den tilfeldige valgte personen kan få utslag på testen, hen kan være smittet og få positiv test, eller hen kan være frisk og få en positiv test.
 
-Hvis vi tenker på sannsynlighet gunstige utfall / 
+Sannsynligheten for en hendelse er $\dfrac{\text{gunstige utfall}}{\text{mulige utfall}}$
 
-Vi kan si at de gunstige utfallene (at personen er smittet og positiv test) er 1 % ⋅ 99 %. De mulige utfallene (positiv test uavhengig av smittestatus) er (1 % ⋅ 99 % + 99% ⋅ 2 %) = 3 % ⋅ 99 Sannsynligheten for at han er smittet er altså ( 1 % ⋅ 99 %) / ( 3 % ⋅ 99 %) = 1/3
+- Vi kan si at de gunstige utfallene (at personen er smittet og positiv test) er $P(T_{S})= \textcolor{seagreen}{1 \,\%}  \cdot \textcolor{steelblue}{99 \,\%}$
+	- $\textcolor{seagreen}{1 \,\%}$ kommer fra sannsynligheten for å være smittet (i hele befolkningen)
+	- $\textcolor{steelblue}{99 \,\%}$ kommer fra sannsynligheten for at testen viser at du er smittet
+- Vi har flere mulige utfall som gir positiv test
+	- Smittet person og positiv test: $P(T_{S})=\textcolor{seagreen}{1 \,\%}  \cdot \textcolor{steelblue}{99 \,\%}$ 
+	- Ikke-smittet person og positiv test: $P(T_{\bar{S}})=\textcolor{tomato}{99 \,\%}  \cdot \textcolor{maroon}{2} \,\%$ 
+		- $\textcolor{tomato}{99 \,\%}$ er sannsynligheten for å ikke være smittet
+		- $\textcolor{maroon}{2} \,\%$ er sannsynligheten for å få positiv test selv om du ikke er smittet
+	- Når vi legger sammen alle mulighetene får vi
+$$
+P(T_{S})+P(T_{\bar{S}}) =\textcolor{seagreen}{1 \,\%}  \cdot \textcolor{steelblue}{99 \,\%} + \textcolor{tomato}{99 \,\%}  \cdot \textcolor{maroon}{2} \,\%= \textcolor{darkblue}{3\,\% \cdot 99 \,\%}
+$$
+
+Sannsynligheten for at en person med positiv test er smittet er altså
+$$
+\frac{\text{gunstige utfall}}{\text{mulige utfall}}= \frac{\textcolor{seagreen}{1 \,\%}  \cdot \textcolor{steelblue}{99 \,\%}}{\textcolor{darkblue}{3\,\% \cdot 99 \,\%}}= \frac{1}{3}\approx \underline{\underline{ 33{,}3 \, \% }}
+$$

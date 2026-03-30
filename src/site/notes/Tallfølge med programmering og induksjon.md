@@ -40,3 +40,30 @@ Tallene fra oppgave a) er starten på en rekke.
 >$$a_n = \frac{n(n+3)}{2}, \quad n \geq 1$$
 
 ## Fasit
+
+## Løsningsforslag
+
+### a
+Her setter vi opp en oversikt for å se hvordan variablene i programmet utvikler seg.
+
+| `i` | `a` |  Beregning av neste `a` |
+| :-: | :-: | ----------------------: |
+|  1  |  2  |   $2+1+2=\underline{5}$ |
+|  2  |  5  |   $5+2+2=\underline{9}$ |
+|  3  |  9  |  $9+3+2=\underline{14}$ |
+|  4  | 14  | $14+4+2=\underline{20}$ |
+|  5  | 20  |                         |
+
+Vi ser en tallfølge hvor differansene mellom leddene starter på 3, og deretter øker med 1 for hvert ledd. Matematisk kan dette uttrykkes med den rekursive sammenhengen
+$$
+a_{n+1}=a_{n}+n+2
+$$
+**Koden skriver ut leddene i tallfølgen 2, 5, 9, 14, 20.**
+
+### b
+Eleven har lagt til en variabel `S`. `S` gir en løpende sum av verdiene til `a`, derfor vil `S` være delsummen til rekka etter `n` ledd. 
+
+**Eleven ønsker å finne delsummen til rekka etter 5 ledd, altså $2+5+9+14+20=\underline{\underline{50}}$**
+
+### c
+Vi

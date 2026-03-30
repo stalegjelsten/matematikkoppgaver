@@ -71,13 +71,50 @@ $
 
 ## Oppgave 1-3
 
-### 1-3a
-Siden vi ikke betaler noe avdrag så blir rentene de samme hver måned.
-$$400\,000 \cdot 0{,}015 = \underline{\underline{ 6\,000 \mathrm{~kr} }}$$
 
-### 1-3b
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/kennys-lan/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Kennys lån
+
+Kenny har et kredittlån på 400 000 kroner.
+
+Han må betale renter og termingebyr hver måned. Han betaler ikke avdrag på lånet.  
+I rammen nedenfor ser du vilkårene for lånet til Kenny.
+
+>[!note] Kredittlån
+>
+> Lånebeløp: 400 000 kroner  
+> Rente: 1,5 % per måned  
+> Terminer per år: 12  
+> Termingebyr: 50 kroner  
+> Avdrag: 0 kroner  
+
+a) Hvor mange kroner må jeg betale i renter per måned?
+b) Hva blir kostnaden for lånet per år?
+
+## Fasit
+
+a) 6000 kr
+b) 72 600 kr
+
+## Løsningsforslag
+
+### a
+Siden vi ikke betaler noe avdrag så blir rentene de samme hver måned.
+
+	$400\,000 \cdot 0{,}015 = \underline{\underline{ 6\,000 \mathrm{~kr} }}$
+
+### b
 Det er 12 måneder med 6 000 kr i hver måned. I tillegg betaler vi 50 kr per måned i gebyr.
-$$12 \cdot 6\,000 + 12 \cdot 50 = 72\, 000 + 600 = \underline{\underline{ 72\,600 \mathrm{~kr}  }}$$
+
+	$12 \cdot 6\,000 + 12 \cdot 50 = 72\, 000 + 600 = \underline{\underline{ 72\,600 \mathrm{~kr}  }}$
+
+
+</div></div>
 
 
 # Del 2
