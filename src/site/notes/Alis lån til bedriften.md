@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["lån","excel"],"fag":["1p-y el"],"eksamen":"v25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":3}],"title":null,"source":null,"todo":null,"status":1,"permalink":"/alis-lan-til-bedriften/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"temaer":["lån","excel"],"fag":["1p-y el"],"eksamen":"v25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":3}],"title":null,"source":null,"todo":null,"status":1}}
+{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["lån","excel"],"fag":["1p-y el"],"eksamen":"v25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":3}],"title":null,"source":null,"todo":null,"status":2,"permalink":"/alis-lan-til-bedriften/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"temaer":["lån","excel"],"fag":["1p-y el"],"eksamen":"v25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":3}],"title":null,"source":null,"todo":null,"status":2}}
 ---
 
 
@@ -29,6 +29,12 @@ $$
 
 ## Fasit
 
-b) Vi vet at $L=800\,000$, $n=5$, $r=6{,}2$. Da kan vi regne ut $S$ med:
+a) –
+b) 148 800 kr
+
+## Løsningsforslag
+
+### b
+Vi vet at $L=800\,000$, $n=5$, $r=6{,}2$. Da kan vi regne ut $S$ med:
 $$S=\frac{800000 \cdot 5 + 800000}{2} \cdot \frac{6{,}2}{100}=\frac{4\,800\,000}{2} \cdot 0{,}062 = 2\,400\,000 \cdot 0{,}062 = 148 \, 800 $$
   **Ali betaler 148 800 kr i renter.**

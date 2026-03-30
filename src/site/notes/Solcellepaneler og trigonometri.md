@@ -41,3 +41,29 @@ Anlegget panelene skal levere strømmen til, kan ikke motta mer enn 15 kW.
 a) $\approx 446 \, \mathrm{kWh}$
 b) $AB \approx 929 \, \mathrm{mm}$, $AC \approx 650 \, \mathrm{mm}$
 c) 35 hele paneler
+
+## Løsningsforslag
+
+### a
+Total produksjon $624\mathrm{~MWh} = 624\,000\mathrm{~kWh}$ fordelt på 1400 paneler:
+
+$$\frac{624\,000}{1400} \approx \underline{\underline{446\mathrm{~kWh}}}$$
+
+
+### b
+Fra illustrasjonen er $CB = 1134\mathrm{~mm}$ hypotenusen i rettvinklet trekant $ACB$ med rett vinkel i $A$ og vinkel $35°$ ved $B$:
+
+$$AB = 1134 \cdot \cos(35°) \approx \underline{\underline{929\mathrm{~mm}}}$$
+$$AC = 1134 \cdot \sin(35°) \approx \underline{\underline{650\mathrm{~mm}}}$$
+
+
+### c
+Areal per panel: $1{,}762 \cdot 1{,}134 \approx 1{,}998\mathrm{~m}^2$
+
+Effekt per panel med maks solinnstråling og $21\,\%$ virkningsgrad:
+
+$$P_{\text{panel}} = 1{,}998 \cdot 1000 \cdot 0{,}21 \approx 419{,}6\mathrm{~W}$$
+
+Maksimalt antall hele paneler:
+
+$$n = \frac{15\,000}{419{,}6} \approx 35{,}7 \implies \underline{\underline{35\text{ hele paneler}}}$$

@@ -1,0 +1,485 @@
+---
+{"tags":["eksamen"],"fag":["2p"],"eksamen":"h23","date":"2023-11-28","title":"2P eksamen H2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p"],"eksamen":"h23","date":"2023-11-28","title":"2P eksamen H2023","contentClasses":"eksamen-side","permalink":"/eksamener/2p-eksamen-h2023/"}}
+---
+
+
+# Del 1
+
+## Oppgave 1
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/buss-enkeltbillett-eller-fleksikort/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Buss enkeltbillett eller fleksikort
+
+Selma er på ferie og vil bruke buss for å komme seg rundt i området. Hun vurderer om hun skal kjøpe en enkeltbillett for hver reise eller et fleksikort med 20 reiser.
+
+- Hver enkeltbillett koster 25 kroner.
+- Et fleksikort med 20 reiser koster 415 kroner.
+
+>[!oppgave]
+>a) Hvor mange reiser må hun ta med bussen for at det skal lønne seg å kjøpe et fleksikort med 20 reiser?
+
+Tenk deg at Selma kjøper et fleksikort med 20 reiser og bruker alle reisene.
+
+>[!oppgave]
+>b) Hvor mange prosent sparer hun sammenliknet med å kjøpe 20 enkeltbilletter?
+
+## Fasit
+
+a) 17
+b) 17 %
+
+## Løsningsforslag
+
+### 1-1a
+Siden $25 \cdot 4=100$ så må $25 \cdot 16 = 400$. Da må også $25\cdot 17 =425$.
+
+Hvis Selma kjører 16 reiser så vil hun altså betale mindre ved å kjøpe enkeltbilletter til 25 kr stk. 
+
+**Hvis Selma kjører 17 reiser så lønner det seg å kjøpe fleksikort med 20 reiser.**
+
+### 1-1b
+Prisen for 20 enkeltreiser er $25 \cdot 20=500$.
+
+Hun sparer altså $500-415=85 \mathrm{~kr}$. Det tilsvarer
+$
+\frac{85}{500}=\frac{85:5}{500:5}= \frac{17}{100}=17 \,\%
+$
+**Hun sparer 17 % på å kjøpe fleksikort hvis hun bruker 20 reiser.**
+
+
+</div></div>
+
+
+## Oppgave 2
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/kart-og-malestokk/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Kart og målestokk
+
+På et kart er avstanden mellom to byer 40 cm. I virkeligheten er avstanden 20 km.
+
+>[!oppgave]
+>Bestem målestokken til kartet.
+
+## Fasit
+
+
+</div></div>
+
+
+## Oppgave 3
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/joggeavstander-med-gitte-sentralmal/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Joggeavstander med gitte sentralmål
+
+Jonas har notert hvor mange kilometer han har jogget hver av de siste ti dagene. Han ser at typetallet er 5 km, medianen er 8 km og gjennomsnittet er 9 km.
+
+>[!oppgave]
+>Du skal sette opp to mulige alternativer som viser hvor mange kilometer han kan ha jogget hver av de ti dagene.
+>
+>- I det første alternativet skal du bruke 8 km minst én dag.
+>- I det andre alternativet skal du ikke bruke 8 km noen av dagene, og minst halvparten av tallene du bruker, skal være tall du ikke brukte i det første alternativet.
+
+## Fasit
+
+Mange mulige svar. Eks. alt. 1: 5, 5, 5, 7, 8, 8, 10, 12, 15, 15 | alt. 2: 3, 5, 5, 5, 6, 10, 11, 14, 15, 16
+
+## Løsningsforslag
+
+Vi trenger en tallrekke med 10 tall der:
+
+- typetallet er 5 (5 km forekommer flest ganger)
+- medianen er 8 km (gjennomsnittet av det 5. og 6. tallet i sortert rekkefølge er 8)
+- gjennomsnittet er 9 km (summen av alle tallene er $10 \cdot 9 = 90$)
+
+**Alternativ 1** (bruker 8 km minst én gang):
+
+$5, \; 5, \; 5, \; 7, \; \textcolor{seagreen}{8}, \; \textcolor{seagreen}{8}, \; 10, \; 12, \; 15, \; 15$
+
+- Typetall: 5 forekommer 3 ganger ✓
+- Median: $\dfrac{8+8}{2} = 8$ ✓
+- Gjennomsnitt: $\dfrac{5+5+5+7+8+8+10+12+15+15}{10} = \dfrac{90}{10} = 9$ ✓
+
+**Alternativ 2** (bruker ikke 8 km, minst halvparten nye tall):
+
+$3, \; 5, \; 5, \; 5, \; \textcolor{steelblue}{6}, \; \textcolor{steelblue}{10}, \; 11, \; 14, \; 15, \; 16$
+
+- Typetall: 5 forekommer 3 ganger ✓
+- Median: $\dfrac{6+10}{2} = 8$ ✓
+- Gjennomsnitt: $\dfrac{3+5+5+5+6+10+11+14+15+16}{10} = \dfrac{90}{10} = 9$ ✓
+- Ingen 8 km ✓
+- Nye tall (ikke i alt. 1): 3, 6, 11, 14, 16 – det er 5 av 10 tall som ikke ble brukt i alternativ 1 ✓
+
+
+</div></div>
+
+
+## Oppgave 4
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/nullpunkter-og-andregradslikninger/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Nullpunkter og andregradslikninger
+
+$
+(x+4)(x-1)=0
+$
+
+$
+(x+2)(x-3) = -6
+$
+
+Selma og Tobine arbeider med likningene ovenfor.
+
+>[!blue-box] Selma
+>Høyresiden i den første likningen er lik null. Jeg er usikker, men kan vi da bare finne ut hva $x$ må være for at det som står inne i en av parentesene skal bli lik null?
+>
+>Setter vi $x = -4$, får vi $(-4+4) \cdot (-4-1) = 0 \cdot (-5) = 0$
+>
+>Setter vi $x = 1$, blir $(x+4)(x-1)$ også lik null.
+>
+>Løsningene er derfor $x_1 = -4$ og $x_2 = 1$
+>
+>Dette stemmer, men jeg vet ikke hvorfor.
+
+>[!green-box] Tobine
+>Vil det alltid være slik?
+>
+>I den andre likningen er høyresiden lik minus seks. Da må det som står inne i en av parentesene, bli minus seks?
+>
+>Er da løsningene $x_1 = -8$ og $x_2 = -3$?
+
+>[!oppgave]
+>Kommenter det Selma og Tobine sier, og løs likningen $(x+2)(x-3) = -6$
+
+## Fasit
+
+
+</div></div>
+
+
+# Del 2
+
+## Oppgave 1
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/vase-og-roser-likningssystem/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Vase og roser likningssystem
+
+![Vaser og roser](/img/user/_resources/2p-h23-2-1.jpeg)
+
+>[!oppgave]
+>Hvor mye koster en vase?
+>Hvor mye koster en rose?
+
+## Fasit
+
+
+</div></div>
+
+
+## Oppgave 2
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/prisindeks-for-sjokoladepalegg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Prisindeks for sjokoladepålegg
+
+Tabellen viser prisindeksen for sjokoladepålegg i perioden 2015–2022.
+
+| År | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 |
+|-----------------|----|----|----|----|----|----|----|----|
+| Prisindeks for sjokoladepålegg | 100 | 97,0 | 98,1 | 98,7 | 99,9 | 112,3 | 110,2 | 119,8 |
+
+Prisen for ett bestemt merke sjokoladepålegg steg fra 35,90 kroner i 2019 til 39,90 kroner i 2022.
+
+>[!oppgave]
+>Gjør beregninger og finn ut om prisen for dette sjokoladepålegget steg mer enn prisindeksen for sjokoladepålegg fra 2019 til 2022.
+
+## Fasit
+
+
+</div></div>
+
+
+## Oppgave 3
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/malskarere-i-eliteserien-2022/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Målskårere i Eliteserien 2022
+
+
+Nedenfor ser du de 11 fotballspillerne skåret flest mål i Eliteserien 2022.
+
+| Rank | Spiller               | Klubb        | Mål |
+| ---- | --------------------- | ------------ | --- |
+| 1    | Amahl Pellegrino      | Bodø/Glimt   | 25  |
+| 2    | Hugo Vetlesen         | Bodø/Glimt   | 16  |
+| 3    | David Datro Fofana    | Molde        | 15  |
+| 3    | Casper Tengstedt      | Rosenborg    | 15  |
+| 3    | Tobias Heintz         | Sarpsborg 08 | 15  |
+| 6    | Ole Hammerfjell Sæter | Rosenborg    | 14  | 
+| 7    | Eric Bugalo Kitolano  | Tromsø       | 13  |
+| 8    | Runar Espejord        | Bodø/Glimt   | 12  |
+| 8    | Mohamed Ofkir         | Sandefjord   | 12  |
+| 10   | Ola Brynhildsen       | Molde        | 11  |
+| 10   | Johan Hove            | Strømsgodset | 11  |
+
+>[!oppgave]
+> a) Bestem typetallet, variasjonsbredden og medianen for antall mål.
+>
+> b) Bestem gjennomsnittet og standardavviket for antall mål.
+
+For de 11 fotballspillerne som skåret flest mål i sesongen 2021, var medianen 11, gjennomsnittet 14,5 og standardavviket 6,7.
+
+>[!oppgave]
+> c) Hva kan du ut fra dette og beregningene i oppgave a) og b) si om de 11 fotballspillerne fra 2021 sammenlignet med de 11 fotballspillerne fra 2022?
+
+## Fasit
+
+a) Typetall: 15, variasjonsbredde: 14, median: 14
+b) Gjennomsnitt: ≈ 14,5, standardavvik: ≈ 3,7
+c) Gjennomsnittet er likt (≈ 14,5), men medianen er høyere i 2022 (14 mot 11) og standardavviket er lavere (3,7 mot 6,7) – scoringene er mer jevnt fordelt i 2022.
+
+## Løsningsforslag
+
+### 2-2a
+
+Datamaterialet sortert: $11, 11, 12, 12, 13, \mathbf{14}, 15, 15, 15, 16, 25$
+
+- **Typetall:** $\underline{\underline{15}}$ (forekommer 3 ganger)
+- **Variasjonsbredde:** $25 - 11 = \underline{\underline{14}}$
+- **Median:** Det 6. tallet i sortert rekkefølge (11 tall) er $\underline{\underline{14}}$
+
+### 2-2b
+
+Vi beregner i GeoGebra med listen $\{11, 11, 12, 12, 13, 14, 15, 15, 15, 16, 25\}$.
+
+$\text{Gjennomsnitt} = \frac{11+11+12+12+13+14+15+15+15+16+25}{11} = \frac{159}{11} \approx \underline{\underline{14{,}5}}$
+
+Standardavvik (beregnet med GeoGebra): $\underline{\underline{\sigma \approx 3{,}7}}$
+
+### 2-2c
+
+I 2021 var medianen 11, gjennomsnittet 14,5 og standardavviket 6,7. Vi kan se følgende:
+
+- **Gjennomsnittet** er nesten likt i begge sesongene (≈ 14,5). De 11 beste spillerne scoret like mange mål totalt sett.
+- **Medianen** er høyere i 2022 (14 mot 11). I 2022 scoret minst 6 av de 11 spillerne 14 mål eller mer, mens i 2021 scoret minst 6 spillere 11 mål eller mer. Den typiske topp-11-spilleren scoret altså mer i 2022.
+- **Standardavviket** er lavere i 2022 (3,7 mot 6,7). Scoringene er mer jevnt fordelt i 2022 – ingen enkeltspiller dominerer like mye. I 2021 var det større forskjell mellom toppen og resten.
+
+
+</div></div>
+
+
+## Oppgave 4
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/boliglan-manedlige-terminer/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Boliglån månedlige terminer
+
+Adam har tatt opp et lån på 2 500 000 kroner for å kjøpe bolig.
+
+Han skal betale tilbake lånet i månedlige terminer. Renten er 0,33 % per måned. I tillegg må han betale et gebyr på 50 kroner per termin. Terminbeløpet skal være 13 385 kroner.
+
+>[!oppgave]
+>Lag en oversikt som viser hvor stort lånet hans vil være måned for måned de to første årene.
+
+## Fasit
+
+
+</div></div>
+
+
+## Oppgave 5
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/trekant-med-to-losninger/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Trekant med to løsninger
+
+Læreren har bedt elevene tegne en trekant $ABC$ slik at $\angle B = 60\degree$, $BC = 8 \mathrm{~cm}$ og $AC = 6 \mathrm{~cm}$.
+
+Trym og Torgeir mener begge at de har tegnet en trekant som er slik læreren har sagt den skal være, men de ser at trekantene de har tegnet, ikke er like.
+
+>[!oppgave]
+>Kan begge ha tegnet riktig? Lag skisser og forklar.
+
+## Fasit
+
+
+</div></div>
+
+
+## Oppgave 6
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/helsefagarbeidere-presentasjon-av-data/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Helsefagarbeidere presentasjon av data
+
+Nedenfor ser du en tabell som viser antall helsefagarbeidere i Norge i perioden 2015–2022, fordelt på kjønn.
+
+| År | Menn | Kvinner |
+|----|------|---------|
+| 2015 | 2 232 | 17 493 |
+| 2016 | 2 911 | 21 439 |
+| 2017 | 3 558 | 24 785 |
+| 2018 | 3 957 | 27 327 |
+| 2019 | 4 698 | 30 733 |
+| 2020 | 5 511 | 33 958 |
+| 2021 | 6 447 | 37 357 |
+| 2022 | 7 317 | 40 472 |
+
+>[!oppgave]
+>Tenk deg at du skal presentere dette datamaterialet i et foredrag. Gjør sammenlikninger og beregninger, og lag ulike fremstillinger som du kan bruke i en presentasjon. Presentasjonene skal inneholde både beregninger og diagrammer.
+
+## Fasit
+
+Menn økte 228 %, kvinner 131 %, totalt 142 %. Andel menn økte fra 11,3 % til 15,3 %.
+
+## Løsningsforslag
+
+Nedenfor presenteres datamaterialet med beregninger og to diagrammer.
+
+**Beregninger:**
+
+| | 2015 | 2022 | Økning |
+|---|---|---|---|
+| Menn | 2 232 | 7 317 | +228 % |
+| Kvinner | 17 493 | 40 472 | +131 % |
+| Totalt | 19 725 | 47 789 | +142 % |
+
+- Andelen menn økte fra $\dfrac{2\,232}{19\,725} \approx 11{,}3 \,\%$ i 2015 til $\dfrac{7\,317}{47\,789} \approx 15{,}3 \,\%$ i 2022.
+
+![Helsefagarbeidere 2015–2022](/img/user/_resources/2p-y-h23-2-6-graf.png)
+
+**Kommentarer til diagrammene:**
+
+- Linjediagrammet viser at antallet helsefagarbeidere økte kraftig for begge kjønn i perioden 2015–2022, og at veksten var sterkere for menn (228 %) enn for kvinner (131 %).
+- Det stablede søylediagrammet viser at andelen menn har økt fra ca. 11 % til ca. 15 %. Yrket er fortsatt sterkt dominert av kvinner, men stadig flere menn velger dette yrket.
+
+
+</div></div>
+
+
+## Oppgave 7
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/kvadratserie-geometrisk-rekke/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Kvadratserie geometrisk rekke
+
+![Kvadratserie](/img/user/_resources/2p-h23-2-7.jpeg)
+
+Tenk deg at du skal tegne en serie med kvadrater der
+
+- sidekantene i det største kvadratet er 10 cm
+- sidekantene i det neste kvadratet alltid er 10 % kortere enn sidekantene i det forrige du tegnet
+
+>[!oppgave]
+>a) Vis at den samlede omkretsen av de tre første kvadratene i serien vil bli 108,4 cm.
+
+Tenk deg at du har veldig mange kvadrater i serien.
+
+>[!oppgave]
+>b) Bruk programmering til å lage et program som finner samlet omkrets av alle kvadratene.
+
+Tenk deg at du lager nye serier med kvadrater. Du endrer størrelsen på det største kvadratet i hver serie og lar alltid sidekantene i det neste kvadratet i serien være 10 % kortere enn sidekantene i det forrige du tegnet.
+
+>[!oppgave]
+>c) Undersøk og beskriv sammenhengen mellom lengden av sidekantene i det største kvadratet og den samlede omkretsen av alle kvadratene i hver serie.
+
+Ole påstår at $T = \dfrac{4 \cdot s}{p} \cdot 100$ er en formel for å regne ut den samlede omkretsen $T$ av kvadratene i en serie når sidekanten i det største kvadratet er $s$ og sidekantene i det neste kvadratet er $p$ % kortere enn sidekantene i det forrige.
+
+>[!oppgave]
+>d) Undersøk om denne sammenhengen kan gjelde.
+
+## Fasit
+
+
+</div></div>
+
+
+## Oppgave 8
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/klimagassutslipp-eksponentiell-vekst/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Klimagassutslipp eksponentiell vekst
+
+- I 1990 var Norges klimagassutslipp på 51,3 millioner tonn CO₂-ekvivalenter.
+- I 2022 var Norges klimagassutslipp på 48,9 millioner tonn CO₂-ekvivalenter.
+
+Norske myndigheter har satt som mål at klimagassutslippet skal reduseres med 55 % innen 2030, sammenliknet med hva utslippet var i 1990.
+
+Arne ser for seg at utslippet reduseres med en fast prosent hvert år. Han ønsker å lage en modell som viser hvor mange prosent den årlige reduksjonen må være for å nå målet i 2030.
+
+>[!oppgave]
+>a) La $x$ være antall år etter 2022 og lag modellen.
+
+Norge har som mål å bli et lavutslippssamfunn innen 2050. Da må klimagassutslippet reduseres med 90–95 % sammenliknet med utslippet i 1990.
+
+>[!oppgave]
+>b) Bruk modellen du fant i oppgave a), og vurder den opp mot opplysningene om målet for klimagassutslipp i 2050.
+
+## Fasit
+
+
+</div></div>
+

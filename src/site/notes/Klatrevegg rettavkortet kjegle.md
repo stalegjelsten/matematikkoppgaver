@@ -7,7 +7,7 @@
 
 Henrik og Hanne arbeider i et byggefirma. Byggefirmaet har fått i oppdrag å lage en klatrevegg til en skolegård. Klatreveggen skal ha form som en rettavkortet kjegle slik at elevene kan klatre opp til en plattform på toppen. Firmaet vurderer å støpe klatreveggen i betong. Se skissen nedenfor.
 
-![Klatrevegg – rettavkortet kjegle](/img/user/_resources/2p-v24-2-5.jpeg)
+![Klatreveggen](/img/user/_resources/2p-v24-2-5.jpeg)
 
 Skolen har to krav når det gjelder utforming av klatreveggen.
 

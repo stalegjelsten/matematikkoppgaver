@@ -30,3 +30,21 @@ Ella er gift med Sverre. Paret ønsker å kjøpe en leilighet som koster 5 600 0
 
 a) –
 b) $484\,000 \, \mathrm{kr}$
+
+## Løsningsforslag
+{ #fba43a}
+
+
+### a
+Se regnearket.
+
+ ![Ellas sparing i BSU](/img/user/_resources/ellas-sparing.png)
+
+### b
+Vi kan sette opp
+
+- Lånebehov: $5\,600\,000 - 620 \, 000=4\,980\,000$
+- Minimum årslønn: $\frac{4\,980\,000}{5}=996\,000$
+- Ellas minste årslønn: $996\,000-512\,000=484\,000$
+
+**Ella må minst ha 484 000 kr i årslønn.**

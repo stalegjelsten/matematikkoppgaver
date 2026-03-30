@@ -28,5 +28,33 @@ Gjør beregninger og vurderinger, og svar på de spørsmålene som Felix stiller
 
 ## Fasit
 
-a) $P = 4 \, \mathrm{kW}$
-b) $Q = 1{,}1 \, \mathrm{kVAr}$
+1) $P = 4 \, \mathrm{kW}$
+2) $Q = 1{,}1 \, \mathrm{kVAr}$
+
+## Løsningsforslag
+
+> [!green-box]
+>
+> $$S^{2}=P^{2}+Q^{2} \iff P = \sqrt{ S^{2}-Q^{2} }$$
+>
+> For motor A så har vi altså
+>
+> $$P = \sqrt{ 5^{2}-3^{2} }=\sqrt{ 25 - 9 }= \sqrt{ 16 }= 4$$
+>
+> $$\underline{\underline{ P=4 \mathrm{~kW} }}$$
+
+> [!yellow-box]
+> Sinus er forholdet mellom motstående katet og hypotenus, altså forholdet mellom $Q$ og $S$:
+>
+> $$\sin \phi = \frac{Q}{S} = \frac{1}{2}$$
+>
+> Siden vi vet at $S=2{,}2\mathrm{~kVA}$ så har vi
+>
+> $$\begin{aligned}
+ \frac{Q}{S}&=\frac{1}{2} \\
+ Q &= \frac{1}{2}\cdot S \\
+ Q &= S / 2 \\
+ Q &= \frac{2{,}2}{2}\\
+ Q &= 1{,}1 \mathrm{~kVAr}
+ \end{aligned}$$
+ > **Den reaktive effekten $Q$ er 1,1 kVAr.**

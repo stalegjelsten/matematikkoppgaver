@@ -18,3 +18,17 @@ Nora har tatt opp et lån med en fast årlig rente. Lånet skal betales tilbake 
 
 a) Serielån (avdraget er likt i alle terminer)
 b) $50\,000 \, \mathrm{kr}$
+
+## Løsningsforslag
+
+### a
+Fra figuren ser vi at avdraget (blå del) er like stort i alle 5 terminer. Det betyr at det er et $\underline{\underline{\text{serielån}}}$.
+
+
+> [!tip] Serielån vs. annuitetslån
+> I et serielån er avdraget likt i alle terminer. I et annuitetslån er det terminbeløpet (avdrag + renter) som er likt.
+
+### b
+Avdraget er $10\,000\mathrm{~kr}$ per termin, og lånet betales over 5 terminer:
+
+$$\text{Lån} = 10\,000 \cdot 5 = \underline{\underline{50\,000\mathrm{~kr}}}$$

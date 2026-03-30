@@ -1,0 +1,377 @@
+---
+{"tags":["eksamen"],"fag":["1t"],"eksamen":"v24","date":"2024-05-23","title":"1T eksamen V2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-t-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1t"],"eksamen":"v24","date":"2024-05-23","title":"1T eksamen V2024","contentClasses":"eksamen-side","permalink":"/eksamener/1t-eksamen-v2024/"}}
+---
+
+
+# Del 1
+
+## Oppgave 1
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/trigonometri-i-rettvinklet-trekant/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Trigonometri i rettvinklet trekant
+
+![Rettvinklet trekant med sider 8, 6, 10 og vinkler u og v](/img/user/_resources/1t-v24-1-1.jpeg)
+
+Tom har arbeidet med trekanten ovenfor og påstår at $\tan u \cdot \tan v = 1$
+
+>[!oppgave]
+>a) Vis at Tom har rett.
+>b) Avgjør om påstanden stemmer for alle rettvinklede trekanter med to spisse vinkler $u$ og $v$.
+
+## Fasit
+
+
+</div></div>
+
+
+## Oppgave 2
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/polynomdivisjon-og-faktorisering/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Polynomdivisjon og faktorisering
+
+Guri har utført to ulike polynomdivisjoner og påstår at begge divisjonene viser at faktoriseringen nedenfor er riktig.
+
+$2x^3 + 3x^2 - 11x - 6 = (2x^2 + 7x + 3) \cdot (x - 2)$
+
+>[!oppgave]
+>Hvilke to polynomdivisjoner kan hun ha utført?
+>
+>Utfør de to polynomdivisjonene, og forklar at hver av dem viser at faktoriseringen er riktig.
+
+## Fasit
+
+
+</div></div>
+
+
+## Oppgave 3
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/matematisk-identitet-fra-arealmodell/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Matematisk identitet fra arealmodell
+
+![Rektangel der det grønne området har mål a−b og b](/img/user/_resources/1t-v24-1-3.jpeg)
+
+>[!oppgave]
+>Sett opp en matematisk identitet med utgangspunkt i arealet av det grønne området.
+
+## Fasit
+
+
+</div></div>
+
+
+## Oppgave 4
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/gjennomsnittlig-vekstfart-med-program/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Gjennomsnittlig vekstfart med program
+
+Ada har laget programmet nedenfor.
+
+```python ln
+def f(x):
+    return x ** 2 - 3 * x + 7
+
+a = 0
+b = 5
+
+v = (f(b) - f(a)) / (b - a)
+
+print(v)
+```
+
+>[!oppgave]
+>Hvilken verdi skrives ut når Ada kjører programmet, og hva forteller denne verdien?
+
+## Fasit
+
+
+</div></div>
+
+
+## Oppgave 5
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/andregradsuttrykk-og-ulikhet-fra-graf/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Andregradsuttrykk og ulikhet fra graf
+
+Figuren viser grafen til en funksjon $f$.
+
+![Graf til f med nullpunkter (−3, 0) og (4, 0) og toppunkt (0, 24)](/img/user/_resources/1t-v24-1-5.jpeg)
+
+>[!oppgave]
+>a) Bestem $f(x)$
+>b) Løs ulikheten $f(x) > 12$
+
+## Fasit
+
+
+</div></div>
+
+
+# Del 2
+
+## Oppgave 1
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/modellering-av-bagettsalg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Modellering av bagettsalg
+
+Tabellen nedenfor viser hvor mange bagetter en kantine har solgt hver av de siste sju ukene, og hvor stort overskudd salget har gitt.
+
+| Solgte bagetter    | 100  | 130  | 160  | 175  | 190  | 220  | 235  |
+| ------------------ | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Overskudd (kroner) | 1450 | 2300 | 3050 | 3365 | 3720 | 4140 | 4175 |
+
+>[!oppgave]
+>a) Bruk opplysningene ovenfor til å vise at funksjonen $O$ gitt ved
+>$O(x) = -0{,}09x^2 + 51{,}04x - 2776{,}98$
+>er en god modell for hvor stort overskuddet en uke blir når kantinen produserer og selger $x$ bagetter i løpet av uken.
+>b) Hvor mange bagetter må kantinen produsere og selge i løpet av en uke, ifølge modellen $O$, for at overskuddet skal bli størst mulig? Hvor stort blir dette overskuddet?
+>c) Bestem stigningstallet til den rette linjen som går gjennom punktene $(100, O(100))$ og $(200, O(200))$. Gi en praktisk tolkning av svaret du får.
+>d) Bestem den momentane vekstfarten når $x = 235$. Gi en praktisk tolkning av svaret du får.
+
+## Fasit
+
+
+</div></div>
+
+
+## Oppgave 2
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/lysbrytning-i-vann/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Lysbrytning i vann
+
+Når en lysstråle går fra luft til vann, skifter den retning.
+
+På figuren står linjen $m$ vinkelrett på vannoverflaten og lysstrålen går fra å danne en vinkel $u$ med $m$ til å danne en vinkel $v$ med $m$.
+
+Når lysstrålen går fra luft til vann, vil
+
+$\sin u = 1{,}33 \cdot \sin v$
+
+![Lysstråle som brytes fra luft til vann med vinkler u og v](/img/user/_resources/1t-v24-2-2.jpeg)
+
+>[!oppgave]
+>a) Hvor stor må vinkelen $u$ være for at vinkelen $v$ skal bli $39\degree$?
+>b) Hva vil skje med vinkelen $v$ dersom vinkelen $u$ nærmer seg $90\degree$?
+>c) Kan vinklene $u$ og $v$ bli like store?
+>
+>Husk å begrunne svarene dine.
+
+## Fasit
+
+
+</div></div>
+
+
+## Oppgave 3
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/trekant-med-arealsetning-og-cosinussetning/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Trekant med arealsetning og cosinussetning
+
+Du får vite følgende om en trekant $ABC$
+
+- $AB$ er 8
+- $\angle A = 120\degree$
+- Arealet av trekanten er $4\sqrt{3}$
+
+>[!oppgave]
+>Bestem lengdene av sidene $AC$ og $BC$ eksakt.
+
+## Fasit
+
+
+</div></div>
+
+
+## Oppgave 4
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/summer-av-oddetall-og-programmering/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Summer av oddetall og programmering
+
+I denne oppgaven skal du arbeide med summer av oddetall.
+
+$S_1 = 1$
+$S_2 = 1 + 3$
+$S_3 = 1 + 3 + 5$
+$S_4 = 1 + 3 + 5 + 7$
+$S_5 = 1 + 3 + 5 + 7 + 9$
+$S_6 = 1 + 3 + 5 + 7 + 9 + 11$
+$\ldots$
+
+>[!oppgave]
+>a) Lag et program som summerer og skriver ut summene $S_1$, $S_2$, $S_3$ … $S_{20}$
+>b) Beskriv sammenhengen du oppdager når du ser på summene som er skrevet ut. Bruk figuren nedenfor til å argumentere for at sammenhengen må være riktig.
+
+![Ruter med kuler som illustrerer summer av oddetall](/img/user/_resources/1t-v24-2-4.jpeg)
+
+## Fasit
+
+
+</div></div>
+
+
+## Oppgave 5
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/lufttrykk-og-kokepunkt-for-vann/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Lufttrykk og kokepunkt for vann
+
+> [!tip] Info om lufttrykk
+>
+> - Lufttrykk måles ofte i hektopascal (hPa).
+> - Jo høyere over havet vi befinner oss, jo lavere er lufttrykket.
+> - Lufttrykket ved havets overflate er ca. 1000 hPa.
+
+Når lufttrykket er lavere enn 1000 hPa, vil kokepunktet for vann være lavere enn $100 \degree\mathrm{C}$. Se tabellen nedenfor.
+
+| Lufttrykk (hPa) | Kokepunkt for vann ($\degree\mathrm{C}$) |
+| :-------------: | :--------------------------------------: |
+|      1000       |                   100                    |
+|       500       |                   81,4                   |
+|       200       |                   60,1                   |
+|       80        |                   41,5                   |
+|       40        |                    29                    |
+
+>[!oppgave]
+>a) Bestem en modell $K$ på formen
+>
+>$K(x) = a \cdot x^b$
+>
+>som tilnærmet viser sammenhengen mellom lufttrykket $x$ hPa og kokepunktet $K(x)$ $\degree\mathrm{C}$.
+
+>[!blue-box] Ari
+>Betyr dette at det ikke går an å få egg hardkokte oppe på et høyt fjell? Et egg blir ikke hardkokt dersom temperaturen i vannet er lavere enn $85 \degree\mathrm{C}$.
+
+>[!green-box] Lisa
+>Det kommer vel an på hvor høyt fjellet er?
+
+>[!blue-box] Ari
+>Jeg vil lage en modell som viser hvor høyt lufttrykket er $x$ kilometer over havets overflate. Jeg har lært at lufttrykket minker med ca. 12 % per km.
+
+>[!green-box] Lisa
+>Jeg har lært at lufttrykket halveres for hver 5,5 km. Jeg vil ta utgangspunkt i dette og lage en modell på samme form som den du lager, Ari.
+
+>[!oppgave]
+>b) Lag modellene for Ari og Lisa.
+>c) Omtrent hvor høyt over havet er det mulig å få egg hardkokte?
+
+## Fasit
+
+
+</div></div>
+
+
+## Oppgave 6
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/tangent-fra-derivertgraf/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Tangent fra derivertgraf
+
+![Graf til den deriverte f′ som er en rett linje i et koordinatsystem](/img/user/_resources/1t-v24-2-6.jpeg)
+
+Den rette linjen som er tegnet i koordinatsystemet ovenfor, er den deriverte av en funksjon $f$.
+
+Punktet $P(1, 2)$ ligger på grafen til $f$.
+
+>[!oppgave]
+>Bestem likningen for tangenten til grafen til $f$ i punktet $P$. Husk å argumentere for at svaret ditt er riktig.
+
+## Fasit
+
+
+</div></div>
+
+
+## Oppgave 7
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/lukket-kurve-med-tre-funksjoner/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Lukket kurve med tre funksjoner
+
+![Tre grafer som til sammen danner en lukket kurve med punkter A, B og C](/img/user/_resources/1t-v24-2-7.jpeg)
+
+Figuren ovenfor viser tre grafer som til sammen danner en lukket kurve.
+
+- To av grafene har bunnpunkter som ligger på $y$-aksen.
+- Punktet $A$ og punktet $B$ har samme $y$-koordinat.
+
+>[!oppgave]
+>Bruk tre ulike funksjoner og lag en tilsvarende figur slik at kravene i begge kulepunktene ovenfor er oppfylt.
+>
+>Det skal gå klart fram av besvarelsen hvilke funksjonsuttrykk du har brukt.
+>
+>Husk å forklare hvordan du har tenkt, og argumenter for at løsningen din er riktig.
+
+## Fasit
+
+
+</div></div>
+

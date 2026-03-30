@@ -21,3 +21,13 @@ Du har et nett som er tregt. Det tar 16 sekunder for å laste ned en fil på 8 M
 
 a) $48 \, \mathrm{Mbit}$
 b) $4 \, \mathrm{Mbit/s}$
+
+## Løsningsforslag
+
+### a
+Hver megabyte er 8 megabit. Derfor er $6 \mathrm{~MB} \cdot 8=\underline{\underline{ 48 \mathrm{~Mbit} }}$
+
+### b
+$8 \mathrm{~MB}$ blir overført på $16 \mathrm{~s}$, det vil si $$\frac{8 \mathrm{~MB}}{16\mathrm{~s}}=0{,}5 \mathrm{~ MB/s}$$
+
+Hver MB er fremdeles 8 Mbit, derfor får vi $0{,}5 \mathrm{~ MB/s} \cdot 8 =\underline{\underline{ 4 \mathrm{~ Mbit/s} }}$
