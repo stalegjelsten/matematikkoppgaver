@@ -40,7 +40,7 @@ $$c(n) = 2 \cdot \frac{1 - 0{,}82^n}{1 - 0{,}82}$$
 
 Vi definerer $c(n)$, løser $c(n) = 10$ og kontrollerer $c(11)$ og $c(12)$ i GeoGebra CAS:
 
-![GeoGebra CAS: definisjon av c(n), løsning av c(n)=10, og kontroll av c(11) og c(12)](/img/user/L%C3%B8sningsforslag/r2-h25-2-3-a-CAS-numerisk.png)
+![GeoGebra CAS: definisjon av c(n), løsning av c(n)=10, og kontroll av c(11) og c(12)](/img/user/_resources/r2-h25-2-3-a-CAS-numerisk.png)
 
 CAS gir $n \approx 11{,}6$, og vi ser at $c(11) \approx 9{,}86 < 10$ mens $c(12) \approx 10{,}08 > 10$.
 

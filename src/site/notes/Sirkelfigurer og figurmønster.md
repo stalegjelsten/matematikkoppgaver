@@ -12,6 +12,23 @@ Ovenfor ser du tre figurer. Figurene er satt sammen av små sirkler. Tenk deg at
 >[!oppgave]
 >Beskriv mønsteret, og bestem et uttrykk for antallet små sirkler i figur $n$.
 
->[!question]- Fasit
->
->[[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2023#Oppgave 1-5\|Løsningsforslag 2P-Y eksamen H2023#Oppgave 1-5]]
+## Fasit
+
+
+## Løsningsforslag
+
+> [!note] Ulike mønstre
+> Det finnes flere ulike mønstre man kan finne her, jeg velger det mønsteret som jeg synes det er enklest å regne med.
+
+Jeg ser at mønsteret ser ut som kvadrater hvor sirkelen oppe i høyre hjørne er tatt bort.  
+
+- Figur 1 er $2 \times 2$ kvadrat minus en sirkel i hjørnet
+- Figur 2 er $3 \times 3$ kvadrat minus en sirkel i hjørnet
+- Figur 3 er $4 \times 4$ kvadrat minus en sirkel i hjørnet
+
+Vi ser at kvadratet alltid har sidelengde $+1$ sammenlignet med figurnummeret. Vi kaller figurnummeret $n$ og finner sammenhengen: Figur $n$ er $(n+1) \times (n+1)$ minus en sirkel i hjørnet.
+
+Et uttrykk for denne sammenhengen er:
+$$
+\underline{\underline{ F_{n}=(n+1)^{2}-1 }}
+$$

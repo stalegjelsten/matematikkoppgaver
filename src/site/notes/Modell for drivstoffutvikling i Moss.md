@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["regresjon","modellering","eksponentiell vekst"],"fag":["s1","r1"],"eksamen":"v24","del":2,"oppgave":6,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":6},{"fag":"r1","del":2,"oppgave":5}],"poeng":4,"title":"Modell for drivstoffutvikling i Moss","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/modell-for-drivstoffutvikling-i-moss/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"temaer":["regresjon","modellering","eksponentiell vekst"],"fag":["s1","r1"],"eksamen":"v24","del":2,"oppgave":6,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":6},{"fag":"r1","del":2,"oppgave":5}],"poeng":4,"title":"Modell for drivstoffutvikling i Moss","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["regresjon","modellering","eksponentiell vekst"],"fag":["s1","r1"],"eksamen":"v24","del":2,"oppgave":6,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":6},{"fag":"r1","del":2,"oppgave":5}],"poeng":4,"title":"Modell for drivstoffutvikling i Moss","status":1,"source":null,"todo":null,"permalink":"/modell-for-drivstoffutvikling-i-moss/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"temaer":["regresjon","modellering","eksponentiell vekst"],"fag":["s1","r1"],"eksamen":"v24","del":2,"oppgave":6,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":6},{"fag":"r1","del":2,"oppgave":5}],"poeng":4,"title":"Modell for drivstoffutvikling i Moss","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -14,6 +14,4 @@ Det har vært en stor endring i hvilken type drivstoff bilene i Norge bruker. St
 
 ![Personbiler per drivstofftype i Moss. Kilde: Skjermdump av ssb.no, utdrag fra tabell 07849](/img/user/_resources/s1-v24-2-6-moss.png)
 
->[!question]- Fasit
->
->[[Løsningsforslag/Løsningsforslag S1 eksamen V2024#Oppgave 2-6\|Løsningsforslag S1 eksamen V2024#Oppgave 2-6]]
+## Fasit

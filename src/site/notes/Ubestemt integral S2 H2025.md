@@ -12,7 +12,17 @@ $$
 \int e^{x} \cdot x \, \mathrm{d}x 
 $$
 
->[!question]- Fasit
-> 
-> $e^{x}(x-1)+C$
->[[Løsningsforslag/Løsningsforslag S2 eksamen H2025#Oppgave 1-1\|Løsningsforslag S2 eksamen H2025#Oppgave 1-1]]
+## Fasit
+
+$e^{x}(x-1)+C$
+
+## Løsningsforslag
+
+Jeg ser at integranden er produktet av to funksjoner, og jeg velger derfor å bruke delvis integrasjon med DI-metoden.
+
+|     |  D  |    I    |
+| :-: | :-: | :-: |
+|  $+$  | $\textcolor{seagreen}{x}$ | $\textcolor{seagreen}{e^{x}}$ |
+|  $-$  | $\textcolor{tomato}{1}$ | $\textcolor{tomato}{e^{x}}$ |
+|  $+$  |  0  |         |
+$$\int e^{x} \cdot x \, \mathrm{d}x = \textcolor{seagreen}{x \cdot e^{x}} - \textcolor{tomato}{1 \cdot e^{x}} + C=\underline{\underline{e^{x}(x-1)+C}} $$

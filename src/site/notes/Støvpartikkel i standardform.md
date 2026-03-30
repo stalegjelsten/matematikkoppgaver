@@ -10,7 +10,14 @@ En støvpartikkel veier omtrent $0{,}000\,000\,005$ gram.
 >[!oppgave]
 >Hvor mange støvpartikler er det i 20 gram støv?
 
->[!question]- Fasit
->
-> $4 \cdot 10^9$ partikler
-> [[Løsningsforslag/Løsningsforslag 1P eksamen H2025#Oppgave 1-3\|Løsningsforslag 1P eksamen H2025#Oppgave 1-3]]
+## Fasit
+
+$4 \cdot 10^9$ partikler
+
+## Løsningsforslag
+
+En støvpartikkel veier $0{,}000\,000\,005 \, \mathrm{g} = 5 \cdot 10^{-9} \, \mathrm{g}$.
+
+$$\text{Antall} = \frac{20}{5 \cdot 10^{-9}} = \frac{2 \cdot 10^{1}}{5 \cdot 10^{-9}} =  \frac{2}{5} \cdot \frac{10^{1}}{10^{-9}}= \frac{20}{5} \cdot \frac{1}{10^{-9}}= 4 \cdot 10^{9}$$
+
+**Det er $\underline{\underline{4 \cdot 10^9}}$ støvpartikler i 20 gram støv** (4 milliarder partikler).
