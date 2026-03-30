@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-09-26","modified":"2025-09-26","aliases":[],"dg-publish":true,"temaer":["prosent"],"fag":["2p-y"],"eksamen":"h24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":1}],"title":"Prisstigning på vare","source":null,"todo":null,"status":1,"permalink":"/prisstigning-pa-vare/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-09-26","modified":"2025-09-26","aliases":[],"temaer":["prosent"],"fag":["2p-y"],"eksamen":"h24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":1}],"title":"Prisstigning på vare","source":null,"todo":null,"status":1}}
+{"tags":["oppgave"],"date":"2025-09-26","modified":"2025-09-26","aliases":[],"dg-publish":true,"temaer":["prosent"],"fag":["2p-y"],"eksamen":"h24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":1}],"title":"Prisstigning på vare","source":null,"todo":null,"status":3,"permalink":"/prisstigning-pa-vare/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-09-26","modified":"2025-09-26","aliases":[],"temaer":["prosent"],"fag":["2p-y"],"eksamen":"h24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":1}],"title":"Prisstigning på vare","source":null,"todo":null,"status":3}}
 ---
 
 
@@ -12,7 +12,16 @@ Dette tilsvarte en prisøkning på 30 %.
 >[!oppgave]
 > Hvor mye kostet varen før prisøkningen?
 
->[!question]- Fasit
->
-> $40 \, \mathrm{kr}$
-> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2024#Oppgave 1-1\|Løsningsforslag 2P-Y eksamen H2024#Oppgave 1-1]]
+## Fasit
+
+$40 \, \mathrm{kr}$
+
+## Løsningsforslag
+
+En økning på 30 % betyr at 30 % av den opprinnelige prisen er lik 12 kroner.
+
+$$0{,}30 \cdot x = 12$$
+
+$$x = \frac{12}{0{,}30} = 40$$
+
+**Varen kostet $\underline{\underline{40 \, \mathrm{kr}}}$ før prisøkningen.**

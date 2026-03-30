@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["programmering","likningssystem"],"fag":["2p"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":4}],"poeng":4,"title":"Programmering likningssystem Sara og Ole","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/programmering-likningssystem-sara-og-ole/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"temaer":["programmering","likningssystem"],"fag":["2p"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":4}],"poeng":4,"title":"Programmering likningssystem Sara og Ole","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["programmering","likningssystem"],"fag":["2p"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":4}],"poeng":4,"title":"Programmering likningssystem Sara og Ole","status":1,"source":null,"todo":null,"permalink":"/programmering-likningssystem-sara-og-ole/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"temaer":["programmering","likningssystem"],"fag":["2p"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":4}],"poeng":4,"title":"Programmering likningssystem Sara og Ole","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -41,6 +41,4 @@ $$\begin{bmatrix} 2x = y - 8 \\ x^2 + x - 48 = y \end{bmatrix}$$
 >[!oppgave]
 >b) Hvilke endringer må Ole gjøre i programmet til Sara for å finne løsningene på likningssystemet han arbeider med?
 
->[!question]- Fasit
->
->[[Løsningsforslag 2P eksamen V2024#2-4\|Løsningsforslag 2P eksamen V2024#2-4]]
+## Fasit

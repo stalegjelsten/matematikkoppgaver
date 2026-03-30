@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["gjennomsnitt","tallregning"],"fag":["1p"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":4}],"poeng":4,"title":"Jakob Ingebrigtsens løpsrekorder","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/jakob-ingebrigtsens-lopsrekorder/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-28","aliases":[],"temaer":["gjennomsnitt","tallregning"],"fag":["1p"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":4}],"poeng":4,"title":"Jakob Ingebrigtsens løpsrekorder","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["gjennomsnitt","tallregning"],"fag":["1p"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":4}],"poeng":4,"title":"Jakob Ingebrigtsens løpsrekorder","status":1,"source":null,"todo":null,"permalink":"/jakob-ingebrigtsens-lopsrekorder/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-28","aliases":[],"temaer":["gjennomsnitt","tallregning"],"fag":["1p"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":4}],"poeng":4,"title":"Jakob Ingebrigtsens løpsrekorder","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -30,6 +30,4 @@ Da Jakob Ingebrigtsen satte personlig rekord på 1 engelsk mil, holdt han en gje
 >[!oppgave]
 >b) Vis hvordan vi kan bruke opplysningene om Jakob sitt rekordløp til å avgjøre omtrent hvor mange meter det er i 1 engelsk mil.
 
->[!question]- Fasit
->
->[[Løsningsforslag/Løsningsforslag 1P eksamen V2024#2-4\|Løsningsforslag 1P eksamen V2024#2-4]]
+## Fasit

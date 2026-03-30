@@ -23,7 +23,7 @@ Julia kjøper en ny tørketrommel som tørker klærne like fort som den hun har:
 > [!oppgave]
 > b) Hvor mange kroner sparer Julia i løpet av 2000 timers bruk med den nye tørketrommelen sammenliknet med den gamle?
 
->[!question]- Fasit
-> 
-> a) $10 \mathrm{~A}$
-> b) 4000 kr
+## Fasit
+
+a) $10 \mathrm{~A}$
+b) 4000 kr

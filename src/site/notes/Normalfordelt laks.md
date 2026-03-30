@@ -12,6 +12,32 @@ Hos en lakseoppdretter er slaktevekten til laksen normalfordelt med forventnings
 >a) Vis at standardavviket for vekten til en vilkårlig laks er omtrent 500 gram.
 >b) Bestem sannsynligheten for at en vilkårlig laks veier mindre enn 4500 gram
 
->[!question]- Fasit
->b) 34,5 % 
->[[Løsningsforslag/Løsningsforslag S2 eksamen V2024#Oppgave 1-4\|Løsningsforslag S2 eksamen V2024#Oppgave 1-4]]
+## Fasit
+
+b) 34,5 %
+
+## Løsningsforslag
+
+### 1-4a
+La $X$ være vekten til en tilfeldig valgt fisk. Da er forventningsverdien $E(X)=4700$. 
+
+Vi vet at 88,5 % av fisken som slaktes veier mindre eller lik 5300 gram. Ifølge normalfordelingstabellen så er $0{,}885=\Phi(1{,}2) \implies z=1{,}2$.
+
+Vi kan da sette opp likningen
+
+$$
+z=\frac{x-\mu}{\sigma} \iff 1{,}2=\frac{5300-4700}{\sigma} \iff \sigma = \frac{600}{1{,}2}=500
+$$
+
+**Standardavviket for en vilkårlig valgt laks er 500 gram.**
+
+### 1-4b
+Vi gjør om til standard normalfordeling
+
+$$
+z=\frac{4500-4700}{500}=-\frac{200}{500}=-0{,}4
+$$
+
+Normalfordelingstabellen gir oss $\Phi(-0{,}4)=0{,}345$.
+
+**Sannsynligheten for at en vilkårlig valgt laks veier mindre enn 4500 gram er 34,5 %.**

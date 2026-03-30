@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["geometri","areal"],"fag":["2p"],"eksamen":"v25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":4}],"title":"Areal og omkrets av halvsirkel og trekant","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/areal-og-omkrets-av-halvsirkel-og-trekant/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-25","aliases":[],"temaer":["geometri","areal"],"fag":["2p"],"eksamen":"v25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":4}],"title":"Areal og omkrets av halvsirkel og trekant","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["geometri","areal"],"fag":["2p"],"eksamen":"v25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":4}],"title":"Areal og omkrets av halvsirkel og trekant","status":1,"source":null,"todo":null,"permalink":"/areal-og-omkrets-av-halvsirkel-og-trekant/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-25","aliases":[],"temaer":["geometri","areal"],"fag":["2p"],"eksamen":"v25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":4}],"title":"Areal og omkrets av halvsirkel og trekant","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -15,6 +15,4 @@ Et område har form som en halvsirkel med radius $r = 1{,}0 \mathrm{~m}$. Et ann
 >- hvilket av de to områdene som har størst areal
 >- hvilket av de to områdene som har størst omkrets
 
->[!question]- Fasit
->
->[[Løsningsforslag 2P eksamen V2025#Oppgave 1-4\|Løsningsforslag 2P eksamen V2025#Oppgave 1-4]]
+## Fasit

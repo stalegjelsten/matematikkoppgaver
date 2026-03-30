@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-05-26","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["formler","elektrofag","potensregning"],"fag":["1p-y el"],"eksamen":"v23","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":2}],"title":"Effektformel vindturbin","status":0,"source":null,"todo":null,"permalink":"/effektformel-vindturbin/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-05-26","modified":"2026-03-15","aliases":[],"temaer":["formler","elektrofag","potensregning"],"fag":["1p-y el"],"eksamen":"v23","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":2}],"title":"Effektformel vindturbin","status":0,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2023-05-26","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["formler","elektrofag","potensregning"],"fag":["1p-y el"],"eksamen":"v23","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":2}],"title":"Effektformel vindturbin","status":3,"source":null,"todo":null,"permalink":"/effektformel-vindturbin/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-05-26","modified":"2026-03-15","aliases":[],"temaer":["formler","elektrofag","potensregning"],"fag":["1p-y el"],"eksamen":"v23","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":2}],"title":"Effektformel vindturbin","status":3,"source":null,"todo":null}}
 ---
 
 
@@ -28,9 +28,38 @@ Vindturbinen er konstruert for drift med følgende verdier:
 >
 >c) Hva gir størst økning i effekt: en dobling av rotorarealet $A$ eller en dobling av vindhastigheten $v$? Gjør utregninger og begrunn svaret ditt.
 
->[!question]- Fasit
->
-> a) $P = 6500 \, \mathrm{W}$
-> b) $A = 29 \, \mathrm{m}^2$
-> c) Dobling av $v$ gir størst økning (faktor 8 mot faktor 2)
-> [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen V2023#Oppgave 2-2\|Løsningsforslag 1P-Y EL eksamen V2023#Oppgave 2-2]]
+## Fasit
+
+a) $P = 6500 \, \mathrm{W}$
+b) $A = 29 \, \mathrm{m}^2$
+c) Dobling av $v$ gir størst økning (faktor 8 mot faktor 2)
+
+## Løsningsforslag
+
+a) Vi setter inn de oppgitte verdiene i formelen:
+
+   $$P = \frac{v^3 \cdot A \cdot \rho \cdot \eta}{2} = \frac{10^3 \cdot 20 \cdot 1{,}3 \cdot 0{,}5}{2} = \frac{130\,000}{2} = \underline{\underline{6500 \, \mathrm{W}}}$$
+
+b) Vi løser for $A$ når $P = 9425 \, \mathrm{W}$:
+
+   $$\begin{aligned}
+   9425 &= \frac{10^3 \cdot A \cdot 1{,}3 \cdot 0{,}5}{2} \\
+   9425 &= 325 \cdot A \\
+   A &= \frac{9425}{325} = \underline{\underline{29 \, \mathrm{m}^2}}
+   \end{aligned}$$
+
+c) Vi beregner effekten ved dobling av $A$ og ved dobling av $v$:
+
+   **Dobling av $A$** (fra 20 til 40 m²):
+
+   $$P = \frac{10^3 \cdot 40 \cdot 1{,}3 \cdot 0{,}5}{2} = 13\,000 \, \mathrm{W}$$
+
+   Det er 2 ganger den opprinnelige effekten.
+
+   **Dobling av $v$** (fra 10 til 20 m/s):
+
+   $$P = \frac{20^3 \cdot 20 \cdot 1{,}3 \cdot 0{,}5}{2} = \frac{8000 \cdot 20 \cdot 0{,}65}{1} = 52\,000 \, \mathrm{W}$$
+
+   Det er 8 ganger den opprinnelige effekten.
+
+   **Dobling av vindhastigheten $v$ gir størst økning.** Fordi $v$ er opphøyd i tredje potens i formelen, gir en dobling av $v$ en økning med faktoren $2^3 = 8$, mens dobling av $A$ bare gir dobbel effekt.

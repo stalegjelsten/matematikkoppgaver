@@ -33,6 +33,21 @@ Når Sofie kjører programmet, blir disse verdiene skrevet ut:
 >Forklar hva Sofie ønsker å finne ut.  
 >Hva forteller verdiene som blir skrevet ut når Sofie kjører programmet?
 
-> [!question]- Fasit  
-> Sofie ønsker å finne ut hvor mange år det tar før matsvinnet er halvert (til under $80\text{ kg}$). Verdiene viser at målet nås i $2030$ med utslipp på $79{,}7\text{ kg}$.  
-> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen V2025#Oppgave 1-8\|Løsningsforslag 2P-Y eksamen V2025#Oppgave 1-8]]
+## Fasit
+
+Sofie ønsker å finne ut hvor mange år det tar før matsvinnet er halvert (til under $80\text{ kg}$). Verdiene viser at målet nås i $2030$ med utslipp på $79{,}7\text{ kg}$.
+
+## Løsningsforslag
+
+I programmet ser jeg følgende:
+
+- Linje 1: matsvinnet starter på 160 kg
+- Linje 2: Målet er å halvere matsvinnet til 80 kg
+- Linje 3: Vekstfaktoren er 0,87, altså 13 % nedgang.
+- Linje 7: Starter en løkke som kjører fram til matsvinnet er mindre enn målet vårt på 80 kg
+- Linje 8: Reduserer matsvinnet med 13 %
+- Linje 9: Beregner hvilket år vi er i
+
+**Sofie ønsker å finne ut hvor mange år det tar før vi har halvert matsvinnet vårt.** 
+
+**Verdiene som skrives ut forteller at vi når målet i 2030 dersom vi reduserer med 13 % per år, og at utslippet da vil være 79,7 kg per familie på fire.**

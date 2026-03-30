@@ -13,6 +13,7 @@ $$
 
 Begrunn at rekken konvergerer, og bestem summen av rekken.
 
->[!question]- Fasit
->Kort begrunnelse: $-1<k<1$
->Sum: $\frac{108}{5}$
+## Fasit
+
+Kort begrunnelse: $-1<k<1$
+Sum: $\frac{108}{5}$

@@ -13,8 +13,27 @@ $$6\qquad 3\qquad 2\qquad 4\qquad 4\qquad 6\qquad 2\qquad 7\qquad 8\qquad 8$$
 a) Bestem medianen og gjennomsnittet.
 b) Bestem den kumulative frekvensen for $6$ personer, og gi en praktisk tolkning av svaret.
 
-> [!question]- Fasit
->
-> a) Medianen er $5$ og gjennomsnittet er $5$.
-> b) Den kumulative frekvensen for $6$ personer er $7$ (det var 7 av de 10 observasjonene som var $\le6$).
-> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen V2025#Oppgave 1-2\|Løsningsforslag 2P-Y eksamen V2025#Oppgave 1-2]]
+## Fasit
+
+a) Medianen er $5$ og gjennomsnittet er $5$.
+b) Den kumulative frekvensen for $6$ personer er $7$ (det var 7 av de 10 observasjonene som var $\le6$).
+
+## Løsningsforslag
+
+### 1-2a
+Medianen er det midterste tallet etter at vi har sortert dem stigende
+$$
+2,2,3,4,\underbrace{ 4,6 }_{ \text{Median} },6,7,8,8
+$$
+Siden både 4 og 6 står i midten så er medianen 5.
+
+Gjennomsnittet er summen av tallene delt på antallet observasjoner.
+$$
+\frac{\text{Sum}}{\text{Antall observasjoner}}=\frac{2+2+3+4+4+6+6+7+8+8}{10}=\frac{50}{10}= \underline{\underline{5}}.
+$$
+**Medianen er 5 og gjennomsnittet er 5.**
+
+### 1-2b
+Den kumulative frekvensen for 6 personer er antallet observasjoner som er 6 eller mindre. Det er 7 av de 10 observasjonene som er på 6 personer eller mindre.
+
+**Den kumulative frekvensen for 6 personer er 7, det betyr at det i 7 av de 10 tilfellene var 6 personer eller færre i vogna i skiheisen.**

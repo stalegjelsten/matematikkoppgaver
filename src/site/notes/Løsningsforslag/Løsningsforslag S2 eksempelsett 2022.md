@@ -5,6 +5,7 @@
 
 # Løsningsforslag S2 eksempelsett 2022
 ## Oppgave 1-1
+
 ### 1-1a
 
 $$
@@ -22,6 +23,27 @@ $$
 
 ## Oppgave 1-3
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/summen-av-ukjent-uendelig-geometrisk-rekke/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Summen av ukjent uendelig geometrisk rekke
+
+Summen av en uendelig geometrisk rekke konvergerer mot 6.
+
+Summen av tre første leddene er $\frac{38}{9}$ .
+
+Bestem summen av de fire første leddene.
+
+## Fasit
+
+$\frac{130}{27}$
+
+## Løsningsforslag
+
 ### 1-3
 
 #### Om oppgaveteksten
@@ -37,131 +59,163 @@ Hva er sum av de fire første?
 #### Løsningsforslag
 Jeg kaller første ledd i rekka for $x$. Vet da at de tre første leddene må være:
 
-$$x+xk+xk^2=\frac{38}{9}$$
+$x+xk+xk^2=\frac{38}{9}$
 
 Som kan faktoriseres til 
 
-$$x(1+k+k^2)=\frac{38}{9}$$
+$x(1+k+k^2)=\frac{38}{9}$
 
 Summen for uendelig geometrisk rekke gir:
 
-$$\frac{x}{1-k}=6$$
+$\frac{x}{1-k}=6$
 
 Løser den likningen for $x$ og setter inn i uttrykket for sum av 3 første ledd 
 
-$$x=6(1-k)$$
+$x=6(1-k)$
 
-$$6(1-k)(1+k+k^2)=\frac{38}{9}$$
+$6(1-k)(1+k+k^2)=\frac{38}{9}$
 
-$$(1-k)(1+k+k^2)=\frac{38}{9\cdot 6}=\frac{38}{54}=\frac{19}{27}$$
+$(1-k)(1+k+k^2)=\frac{38}{9\cdot 6}=\frac{38}{54}=\frac{19}{27}$
 
-$$1+k+k^2-k-k^2-k^3=\frac{19}{27}$$
+$1+k+k^2-k-k^2-k^3=\frac{19}{27}$
 
-$$1-k^3=\frac{19}{27}$$
+$1-k^3=\frac{19}{27}$
 
-$$k^3=1-\frac{19}{27}=\frac{8}{27}\Rightarrow \underline{k=\frac{2}{3}}$$
+$k^3=1-\frac{19}{27}=\frac{8}{27}\Rightarrow \underline{k=\frac{2}{3}}$
 
 Vi har nå funnet $k$ og kan enkelt finne $x$:
 
-$$x=6 (1-k)=6\left( 1- \frac{2}{3} \right)=6 \frac{1}{3}=2$$
+$x=6 (1-k)=6\left( 1- \frac{2}{3} \right)=6 \frac{1}{3}=2$
 
 Ledd 4 må være:
 
-$$xk^3=2 \cdot \frac{8}{27}=\frac{16}{27}$$
+$xk^3=2 \cdot \frac{8}{27}=\frac{16}{27}$
 
 Summen av de fire første leddene blir da summen av de tre første pluss dette fjerde leddet
 
-$$\frac{38}{9}+\frac{16}{27}=\frac{114}{27}+\frac{16}{27}=\frac{130}{27}$$
+$\frac{38}{9}+\frac{16}{27}=\frac{114}{27}+\frac{16}{27}=\frac{130}{27}$
 
 Summen av fire første ledd er 
 
-$$\underline{\underline{\frac{130}{27}}}$$
+$\underline{\underline{\frac{130}{27}}}$
 
 #### Alternativ løsning
 Fra formel for sum av uendelig geometrisk rekke vet vi at
 
-$$
+$
 \frac{a_{1}}{1-k}=6
-$$
+$
 
 Samtidig kan sum av de tre første leddene uttrykkes som
 
-$$
+$
 \frac{38}{9}=a_{1}\cdot \frac{k^{3}-1}{k-1}
-$$
+$
 
 Vi har altså to likninger og to ukjente, $a_{1}$ og $k$.
 
 Vi kan løse den første likningen for $a_{1}$ og sette inn i den andre likningen
 
-$$
+$
 a_{1}=6(1-k)
-$$
+$
 
-$$
+$
 \frac{38}{9}=6(1-k) \cdot \frac{k^3-1}{k-1}=6\cdot \frac{(k^{3}-1)(1-k)}{k-1}
-$$
+$
 
 Siden $(1-k)=(-1)\cdot (k-1)$ så bytter jeg ut denne faktoren i telleren for å kunne forkorte brøken på høyre side. Samtidig deler jeg på 6 på begge sider.
 
-$$
+$
 \frac{38}{54}= \frac{(k^{3}-1)(-1)\cancel{ (k-1) }}{\cancel{ (k-1) }}=(k^{3}-1)(-1)=1-k^{3}
-$$
+$
 
 Vi kan nå løse likningen
 
-$$
+$
 \begin{aligned}
 \frac{38}{54}&=1-k^{3} \\
 k^3&=1-\frac{38}{54}=\frac{16}{54}=\frac{8}{27}\\
 k&=\sqrt[3]{ \frac{8}{27} }=\frac{2}{3}
 \end{aligned}
-$$
+$
 
 Når vi endelig har $k$ så kan vi finne $a_{1}$ med
 
-$$
+$
 a_{1}=6(1-k)=6\left( 1-\frac{2}{3} \right)=6 \cdot \frac{1}{3}=2
-$$
+$
 
 Og til slutt kan vi finne summen av de fire første leddene med sumformelen
 
-$$
+$
 s_{4}=a_{1} \cdot \frac{k^4-1}{k-1}=2 \cdot \frac{\left( \frac{2}{3} \right)^{4}-1}{\left( \frac{2}{3} \right)-1}=2 \cdot \frac{\frac{16}{81}-1}{\frac{2}{3}-1}=2\cdot \frac{-\frac{65}{81}}{-\frac{1}{3}}=2 \cdot \frac{\frac{65}{81}}{\frac{27}{81}}=\frac{130}{27}
-$$
+$
 
 **Summen av de fire første leddene er**
 
-$$
+$
 \underline{\underline{\frac{130}{27}}}
-$$
+$
+
+
+</div></div>
+
 
 ## Oppgave 1-4
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/forventningsverdi-og-varians-fra-sannsynlighetsfordeling/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Forventningsverdi og varians fra diskret sannsynlighetsfordeling
+
+En sannsynlighetsfordeling er gitt ved tabellen nedenfor.
+
+|   $x$    |    0    |  1  |  2   |  3   |
+|:--------:|:-------:|:---:|:----:|:----:|
+| $P(X=x)$ | $0{,}2$ | $k$ | $2k$ | $5k$ |
+
+> [!oppgave]
+> 
+> a) Forklar hvorfor $k$ må være 0,1. Bestem forventningsverdien $\text{E}(X)$.
+> b) Bestem variansen $\text{Var}(X)$
+
+## Fasit
+
+a) $E(X)=2$
+b) $Var(X)=1{,}4$
+
+## Løsningsforslag
+
 ### 1-4a
 Summen av sannsynlighetene for alle utfallene skal være 1. Vi har dermed at 
 
-$$
+$
 \begin{aligned}
 0{,}2+k+2k+5k&=1\\
 8k&=0{,}8\\
 k&=0{,}1
 \end{aligned}
-$$
+$
 
 Forventningsverdien er gitt ved
 
-$$
+$
 \sum x \cdot P(X=x)=0+1\cdot 0{,}1 + 2\cdot 0{,}2 + 3 \cdot 0,5=2{,}0
-$$
+$
 
 **$k$ må være lik 0,1 og forventningsverdien $\text{E}(X)=2$**.
 
 ### 1-4b
 Variansen til $X$ er gitt ved 
 
-$$
+$
 Var(X)=\sum_{i=1}^{n}(x_{i}-\mu)^{2} \cdot P(X=x)
-$$
+$
 
 Dette er enklest å regne ut ved å bruke sannsynlighetsfordelingen:
 
@@ -175,64 +229,118 @@ Summen av kvadratavvikene er 1,4.
 
 **Variansen $\underline{\underline{\text{Var}(X)=1{,}4}}$.**
 
+
+</div></div>
+
+
 ## Oppgave 2-2
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/levetiden-til-lyspaerer/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Levetiden til lyspærer
+
+Levetiden $T$ i timer til en tilfeldig lyspære av en bestemt type er en stokastisk variabel. Det viser seg at 
+
+$
+P(T\leq t)= \int_{-\infty}^{t} f(x) \, \mathrm{d}x 
+$
+
+der tetthetsfunksjonen $f$ er gitt ved
+
+$
+f(t)=\begin{cases}
+k\cdot e^{-0{,}005t}\text{,} \quad  & t>0 \\
+0\text{,} & t\leq 0
+\end{cases}
+$
+
+>[!oppgave]
+> a) Vis at $k=0{,}005$.
+> b) Hva er sannsynligheten for at lyspærens levetid er mer enn 400 timer?
+
+Forventningsverdien $\mu$ til en kontinuerlig stokastisk variabel med tetthetsfunksjonen $f$ er gitt ved
+
+$
+\mu=\int_{-\infty}^{\infty} x\cdot f(x) \, \mathrm{d}x 
+$
+
+>[!oppgave]
+> c) Bestem forventningsverdien til $T$.
+
+## Fasit
+
+a) Løs likningen $\int_{0}^{\infty} k\cdot e^{-0{,}005t} \, dt=1$
+b) $\frac{1}{e^{2}}$
+c) 200
+
+## Løsningsforslag
+
 ### 2-2a
 Siden $f(t)=0$ når $t\leq 0$ så vil
 
-$$
+$
 \int_{- \infty}^{0} f(t) \, dt =0
-$$
+$
 
 Vi trenger derfor kun å bry oss tilfellet hvor $t>0$.
 
 Vi vet at et krav til sannsynlighetsfordelinger er at summen av alle sannsynlighetene skal bli 1. For kontinuerlige sannsynlighetsfordelinger har vi altså
 
-$$
+$
 \int_{- \infty}^{\infty} f(x) \, dx =1
-$$
+$
 
 I vårt tilfelle ønsker vi altså å bestemme $k$ slik at den tilfredsstiller likningen
 
-$$
+$
 \int_{0}^{\infty} k \cdot e^{-0{,}005t} \, dt = 1
-$$
+$
 
 Vi kan løse denne i GeoGebra eller vi kan integrere for hånd:
 
-$$
+$
 \begin{aligned}
 \left[ \frac{k}{-0.005} \cdot e^{-0.005t} \right]_{0}^{\infty}&=1 \\
 \left(  \frac{k}{-0.005} \cdot  0 \right)-\left( \frac{k}{-0.005} \cdot 1 \right) &= 1\\
 \frac{-k}{-0.005}&=1\\
 k&=0.005
 \end{aligned}
-$$
+$
 
 **Jeg har vist at $k=0{,}005$**
 
 ### 2-2b
 Jeg kan bruke integralet av tetthetsfunksjonen til å beregne sannsynligheten. Sannsynligheten for at lyspæras levetid er mellom 0 og 400 timer er gitt ved
 
-$$
+$
 \int_{0}^{400} 0{,}005 \cdot e^{-0{,}005t} \, dt = 1-\frac{1}{e^{2}} 
-$$
+$
 
 Siden summen av sannsynlighetene for alle utfallene er 1 så kan vi finne sannsynligheten for at lyspæra varer mellom 400 og uendelig timer ved å ta
 
-$$
+$
 1-\left( 1-\frac{1}{e^{2}} \right)=\frac{1}{e^2}
-$$
+$
 
 **Sannsynligheten for at lyspæras levetid er mer enn 400 timer er $\frac{1}{e^{2}} \approx 0{,}135$.**
 
 ### 2-2c
 Jeg bruker uttrykket for forventningsverdi som står i oppgaveteksten og beregner ved hjelp av GeoGebra:
 
-$$
+$
 \mu_{T} = \int_{0}^{\infty} t \cdot 0{,}005 \cdot e^{-0{,}005t} \, dt = 200
-$$
+$
 
 **Forventningsverdien for $T$ er $\mu_{T}=200$ timer.**
+
+
+</div></div>
+
 
 ## Oppgave 2-6
 
@@ -276,4 +384,3 @@ print(f"Sannsynligheten for å trekke en tilfeldig eleve over 175 cm er "
       f"estimert til {(antall_gunstige / antall_simuleringer) * 100:.1f} "
       f"med {antall_simuleringer} simuleringer")
 ```
-

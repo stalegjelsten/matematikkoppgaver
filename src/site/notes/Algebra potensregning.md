@@ -12,6 +12,12 @@ $$
 \frac{\left( 2ab^{-1} \right)^3 \cdot \left( a^2b^{-2} \right)^{-1}  }{4a^2b^{-3}} 
 $$
 
->[!question]- Fasit
-> $\frac{2b}{a}$
->[[Løsningsforslag/Løsningsforslag S1 eksamen V2023#Oppgave 1-1\|Løsningsforslag/Løsningsforslag S1 eksamen V2023#Oppgave 1-1]]
+## Fasit
+
+$\frac{2b}{a}$
+
+## Løsningsforslag
+
+$$
+\frac{\left( 2ab^{-1} \right)^3 \cdot \left( a^2b^{-2} \right)^{-1}  }{4a^2b^{-3}} = \frac{2^3a^3b^{-1\cdot3}a^{2\cdot(-1)}b^{(-2)\cdot(-1)}a^{-2}b^{3}}{4}=\frac{8}{4}\cdot a^{(3-2-2)}\cdot b^{(-3+2+3)}=\underline{\underline{\frac{2b^2}{a}}}
+$$

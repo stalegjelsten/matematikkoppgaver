@@ -25,7 +25,17 @@ print(S)
 > a) Forklar hva eleven ønsker å regne ut.
 > b) Hva blir resultatet når programmet kjøres, dersom N settes til 100 i linje 4 ? 
 
->[!question]- Fasit
->a) Summen av 10 første ledd av aritmetisk rekke med $a_{1}=3, d=4$
->b) 20100
->[[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 1-4\|Løsningsforslag S2 eksamen V2023#Oppgave 1-4]]
+## Fasit
+
+a) Summen av 10 første ledd av aritmetisk rekke med $a_{1}=3, d=4$
+b) 20100
+
+## Løsningsforslag
+
+### 1-4a
+Det ser ut til at eleven forsøker å regne ut delsummer av en aritmetisk rekke. Helt konkret ser det ut til at eleven forsøker å regne ut summen av de ti første leddene når startverdien er 3 og differansen er 4, altså $S_{10},\, a_1=3,\, d=4$.
+
+### 1-4b
+Vi kan finne summen av denne aritmetiske rekka med:
+
+$$s_{100}= \frac{a_{1}+a_{100}}{2}\cdot 100 = \frac{3+(3+4\cdot 99)}{2}\cdot{100}=\frac{402}{2}\cdot {100}=\underline{\underline{20\,100}}$$

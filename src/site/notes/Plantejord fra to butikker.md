@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-16","modified":"2026-03-16","aliases":[],"dg-publish":true,"temaer":["prosentregning","enhetskostnad","økonomi"],"fag":["1p-y el"],"eksamen":"h24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":1}],"title":"Plantejord fra to butikker","status":1,"source":null,"todo":null,"permalink":"/plantejord-fra-to-butikker/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-16","modified":"2026-03-16","aliases":[],"temaer":["prosentregning","enhetskostnad","økonomi"],"fag":["1p-y el"],"eksamen":"h24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":1}],"title":"Plantejord fra to butikker","status":1,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2026-03-16","modified":"2026-03-16","aliases":[],"dg-publish":true,"temaer":["prosentregning","enhetskostnad","økonomi"],"fag":["1p-y el"],"eksamen":"h24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":1}],"title":"Plantejord fra to butikker","status":3,"source":null,"todo":null,"permalink":"/plantejord-fra-to-butikker/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-16","modified":"2026-03-16","aliases":[],"temaer":["prosentregning","enhetskostnad","økonomi"],"fag":["1p-y el"],"eksamen":"h24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":1}],"title":"Plantejord fra to butikker","status":3,"source":null,"todo":null}}
 ---
 
 
@@ -18,8 +18,29 @@ To butikker selger sekker med plantejord.
 >
 >b) I hvilken butikk blir det billigst å handle hvis du skal kjøpe 160 liter plantejord? Husk å begrunne svaret ditt.
 
->[!question]- Fasit
->
-> a) $177 \, \mathrm{kr}$
-> b) Butikk B: $192 \, \mathrm{kr}$ (billigst)
-> [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen H2024#Oppgave 1-1\|Løsningsforslag 1P-Y EL eksamen H2024#Oppgave 1-1]]
+## Fasit
+
+a) $177 \, \mathrm{kr}$
+b) Butikk B: $192 \, \mathrm{kr}$ (billigst)
+
+## Løsningsforslag
+
+### 1-1a
+
+120 liter plantejord tilsvarer $120 \div 40 = 3$ sekker.
+
+Tilbudet i butikk A gjelder kun ved kjøp av 4 sekker, så vi betaler ordinær pris:
+$$3 \cdot 59 = \underline{\underline{177 \, \mathrm{kr}}}$$
+
+**Du må betale $\underline{\underline{177 \, \mathrm{kr}}}$ for 120 liter plantejord i butikk A.**
+
+### 1-1b
+
+160 liter tilsvarer $160 \div 40 = 4$ sekker.
+
+**Butikk A** med tilbud: $\underline{\underline{199 \, \mathrm{kr}}}$
+
+**Butikk B** med 20 % rabatt:
+$$4 \cdot 60 \cdot (1 - 0{,}20) = 240 \cdot 0{,}80 = \underline{\underline{192 \, \mathrm{kr}}}$$
+
+**Det er billigst å handle i butikk B, hvor du betaler $\underline{\underline{192 \, \mathrm{kr}}}$ for 160 liter plantejord** (mot 199 kr i butikk A).

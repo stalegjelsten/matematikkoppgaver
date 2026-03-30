@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["programmering","rekker","argumentasjon"],"fag":["1t"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":4}],"poeng":4,"title":"Summer av oddetall og programmering","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/summer-av-oddetall-og-programmering/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-26","aliases":[],"temaer":["programmering","rekker","argumentasjon"],"fag":["1t"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":4}],"poeng":4,"title":"Summer av oddetall og programmering","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["programmering","rekker","argumentasjon"],"fag":["1t"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":4}],"poeng":4,"title":"Summer av oddetall og programmering","status":0,"source":null,"todo":null,"permalink":"/summer-av-oddetall-og-programmering/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-26","aliases":[],"temaer":["programmering","rekker","argumentasjon"],"fag":["1t"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":4}],"poeng":4,"title":"Summer av oddetall og programmering","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -21,6 +21,4 @@ $$\ldots$$
 
 ![Ruter med kuler som illustrerer summer av oddetall](/img/user/_resources/1t-v24-2-4.jpeg)
 
->[!question]- Fasit
->
->[[Løsningsforslag 1T eksamen V2024#Oppgave 2-4\|Løsningsforslag 1T eksamen V2024#Oppgave 2-4]]
+## Fasit

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["logaritmer","kombinatorikk","argumentasjon"],"fag":["s1"],"eksamen":"v24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":2}],"poeng":4,"title":"Logaritme- og binomialpåstander","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/logaritme-og-binomialpastander/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"temaer":["logaritmer","kombinatorikk","argumentasjon"],"fag":["s1"],"eksamen":"v24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":2}],"poeng":4,"title":"Logaritme- og binomialpåstander","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["logaritmer","kombinatorikk","argumentasjon"],"fag":["s1"],"eksamen":"v24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":2}],"poeng":4,"title":"Logaritme- og binomialpåstander","status":1,"source":null,"todo":null,"permalink":"/logaritme-og-binomialpastander/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"temaer":["logaritmer","kombinatorikk","argumentasjon"],"fag":["s1"],"eksamen":"v24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":2}],"poeng":4,"title":"Logaritme- og binomialpåstander","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -16,6 +16,4 @@ Avgjør om hver av påstandene nedenfor er sann eller usann. Forklar tydelig hvo
 >
 >$$\text{Når } 1 < a < \dfrac{b}{2} \text{, er } \binom{b}{a+1} > \binom{b}{a}$$
 
->[!question]- Fasit
->
->[[Løsningsforslag/Løsningsforslag S1 eksamen V2024#Oppgave 2-2\|Løsningsforslag S1 eksamen V2024#Oppgave 2-2]]
+## Fasit

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["diagram","trigonometri","elektrofag","prosentregning"],"fag":["1p-y el"],"eksamen":"h23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":4}],"title":"Strømproduksjon, trekant og resistans","status":0,"source":null,"todo":null,"permalink":"/stromproduksjon-trekant-og-resistans/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"temaer":["diagram","trigonometri","elektrofag","prosentregning"],"fag":["1p-y el"],"eksamen":"h23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":4}],"title":"Strømproduksjon, trekant og resistans","status":0,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["diagram","trigonometri","elektrofag","prosentregning"],"fag":["1p-y el"],"eksamen":"h23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":4}],"title":"Strømproduksjon, trekant og resistans","status":3,"source":null,"todo":null,"permalink":"/stromproduksjon-trekant-og-resistans/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"temaer":["diagram","trigonometri","elektrofag","prosentregning"],"fag":["1p-y el"],"eksamen":"h23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":4}],"title":"Strømproduksjon, trekant og resistans","status":3,"source":null,"todo":null}}
 ---
 
 
@@ -80,9 +80,42 @@ $$R_T = \frac{R_1 \cdot R_2}{R_1 + R_2}$$
 >[!oppgave]
 >c) Bruk den oppgitte formelen og regn ut $R_T$ når $R_1 = 16 \, \Omega$ og $R_2 = 4 \, \Omega$.
 
->[!question]- Fasit
->
-> a) 8 MW
-> b) $AC = 15 \, \mathrm{cm}$
-> c) $R_T = 3{,}2 \, \Omega$
-> [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen H2023#1-4\|Løsningsforslag 1P-Y EL eksamen H2023#1-4]]
+## Fasit
+
+a) 8 MW
+b) $AC = 15 \, \mathrm{cm}$
+c) $R_T = 3{,}2 \, \Omega$
+
+## Løsningsforslag
+
+### 1-4a
+
+Fra kakediagrammet ser vi at vannkraft utgjør 40 % av totalproduksjonen:
+
+$$
+0{,}40 \cdot 20 \, \mathrm{MW} = 8 \, \mathrm{MW}
+$$
+
+**$\underline{\underline{8 \, \mathrm{MW}}}$ kom fra vannkraft.**
+
+### 1-4b
+
+Sinus er definert som $\sin u = \dfrac{\text{motstående katet}}{\text{hypotenus}} = \dfrac{BC}{AC}$.
+
+Vi løser for $AC$:
+
+$$
+AC = \frac{BC}{\sin u} = \frac{7{,}5 \, \mathrm{cm}}{0{,}5} = 15 \, \mathrm{cm}
+$$
+
+**Hypotenusen er $\underline{\underline{AC = 15 \, \mathrm{cm}}}$.**
+
+### 1-4c
+
+Vi setter inn $R_1 = 16 \, \Omega$ og $R_2 = 4 \, \Omega$ i formelen:
+
+$$
+R_T = \frac{R_1 \cdot R_2}{R_1 + R_2} = \frac{16 \cdot 4}{16 + 4} = \frac{64}{20} = 3{,}2 \, \Omega
+$$
+
+**Totalresistansen er $\underline{\underline{R_T = 3{,}2 \, \Omega}}$.**

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["optimering","volum","funksjoner"],"fag":["1t"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":5}],"poeng":6,"title":"Sylinderboks med minst overflate","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/sylinderboks-med-minst-overflate/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"temaer":["optimering","volum","funksjoner"],"fag":["1t"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":5}],"poeng":6,"title":"Sylinderboks med minst overflate","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["optimering","volum","funksjoner"],"fag":["1t"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":5}],"poeng":6,"title":"Sylinderboks med minst overflate","status":0,"source":null,"todo":null,"permalink":"/sylinderboks-med-minst-overflate/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"temaer":["optimering","volum","funksjoner"],"fag":["1t"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":5}],"poeng":6,"title":"Sylinderboks med minst overflate","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -40,6 +40,4 @@ Isabel ønsker å lage en modell som viser overflaten av ulike bokser hun kan la
 >b) Sett opp et funksjonsuttrykk Isabel kan bruke, og lag en grafisk framstilling som viser sammenhengen mellom radius og overflate.
 >c) Hvor stor må radius i boksene være for at overflaten skal bli minst mulig? Hvor stor blir overflaten da?
 
->[!question]- Fasit
->
->[[Løsningsforslag 1T eksamen V2025#2-5\|Løsningsforslag 1T eksamen V2025#2-5]]
+## Fasit

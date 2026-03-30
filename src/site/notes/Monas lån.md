@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"aliases":null,"dg-publish":true,"temaer":["programmering","lån"],"fag":["s2"],"eksamen":null,"del":2,"oppgave":"7","oppgavenummer":[{"fag":"s2","del":2,"oppgave":7}],"title":"Monas lån","source":"Mønster S2 terminprøve v23","date":"2024-01-01","modified":"2024-01-01","todo":["løsningsforslag"],"permalink":"/monas-lan/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"aliases":null,"temaer":["programmering","lån"],"fag":["s2"],"eksamen":null,"del":2,"oppgave":"7","oppgavenummer":[{"fag":"s2","del":2,"oppgave":7}],"title":"Monas lån","source":"Mønster S2 terminprøve v23","date":"2024-01-01","modified":"2024-01-01","todo":["løsningsforslag"]}}
+{"tags":["oppgave"],"aliases":null,"dg-publish":true,"temaer":["programmering","lån"],"fag":["s2"],"eksamen":null,"del":2,"oppgave":"7","oppgavenummer":[{"fag":"s2","del":2,"oppgave":7}],"title":"Monas lån","source":"Mønster S2 terminprøve v23","date":"2024-01-01","modified":"2024-01-01","todo":null,"permalink":"/monas-lan/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"aliases":null,"temaer":["programmering","lån"],"fag":["s2"],"eksamen":null,"del":2,"oppgave":"7","oppgavenummer":[{"fag":"s2","del":2,"oppgave":7}],"title":"Monas lån","source":"Mønster S2 terminprøve v23","date":"2024-01-01","modified":"2024-01-01","todo":null}}
 ---
 
 
@@ -49,14 +49,15 @@ for i in range(antall_terminer):
 > b) Hjelp Mona med hva som skal stå i linjene 7, 8, 9 og 10.
 > c) Hvor mye skal Mona betale inn i renter totalt i hele nedbetalingsperioden?
 
->[!question]- Fasit
-> a) Alle terminebeløpene er like.  
-> **Dette er et annuitetslån.**
-> b) ```python
->     restlån_start = lån
->     rentebeløp = restlån_start * rente
->     avdrag = terminbeløp - rentebeløp
->     lån = restlån_start - avdrag
->     ```
-> c) Vi kan legge sammen alle rentebeløpene, eller vi kan regne ut
-> $$10 \cdot 117\,230 - 1\,000\,000=1\,172\,300 - 1\,000\,000=\underline{\underline{ 172\,300 \mathrm{~kr} }}$$
+## Fasit
+
+a) Alle terminebeløpene er like.  
+**Dette er et annuitetslån.**
+b) ```python
+    restlån_start = lån
+    rentebeløp = restlån_start * rente
+    avdrag = terminbeløp - rentebeløp
+    lån = restlån_start - avdrag
+    ```
+c) Vi kan legge sammen alle rentebeløpene, eller vi kan regne ut
+$$10 \cdot 117\,230 - 1\,000\,000=1\,172\,300 - 1\,000\,000=\underline{\underline{ 172\,300 \mathrm{~kr} }}$$

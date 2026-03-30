@@ -37,8 +37,41 @@ Ole påstår at høyde og volum er proporsjonale størrelser for pyramidene han 
 >[!oppgave]
 >b) Avgjør om påstanden er riktig. Husk å begrunne svaret ditt.
 
->[!question]- Fasit
->
-> a) $h = 3 \, \mathrm{dm}$
-> b) Nei – $V = h^3/3$, ikke proporsjonalt
-> [[Løsningsforslag/Løsningsforslag 1P eksamen H2025#Oppgave 1-4\|Løsningsforslag 1P eksamen H2025#Oppgave 1-4]]
+## Fasit
+
+a) $h = 3 \, \mathrm{dm}$
+b) Nei – $V = h^3/3$, ikke proporsjonalt
+
+## Løsningsforslag
+
+### 1-4a
+
+Grunnflaten er et kvadrat med side $s$, og høyden er $h = s$.
+
+$$V = \frac{1}{3} \cdot G \cdot h =  \frac{1}{3} \cdot s^2 \cdot s = \frac{s^3}{3}$$
+
+Setter inn $V = 9 \, \mathrm{dm^3}$:
+
+$$\frac{s^3}{3} = 9 \implies s^3 = 27 \implies s = 3$$
+
+Siden høyden er lik sidekanten, er $h = s = 3$.
+
+**Pyramiden er $\underline{\underline{3 \, \mathrm{dm}}}$ høy.**
+
+### 1-4b
+
+For at høyde og volum skal være proporsjonale, må forholdet $V/h$ være konstant.
+
+Uttrykket for volum er $V = \dfrac{h^3}{3}$, så
+
+$$\frac{V}{h} = \frac{h^3/3}{h} = \frac{h^2}{3}$$
+
+Dette avhenger av $h$ og er ikke konstant. Vi kan verifisere med noen verdier:
+
+| $h$ (dm) | $V = h^3/3$ (dm³) | $V/h$ |
+| :---: | :---: | :---: |
+| 1 | $0{,}33$ | $0{,}33$ |
+| 2 | $2{,}67$ | $1{,}33$ |
+| 3 | $9{,}00$ | $3{,}00$ |
+
+**Påstanden er feil.** Høyde og volum er ikke proporsjonale fordi forholdet $V/h$ ikke er konstant.

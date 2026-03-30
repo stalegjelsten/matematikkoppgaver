@@ -34,8 +34,31 @@ print(S)
 > b) Hva ønsker eleven nå å finne ut?  
 > Hva blir resultatet når koden kjøres?
 
->[!question]- Fasit
-> 
->a) 2, 5, 9, 14, 20
->b) Eleven ønsker å finne summen av de 5 første leddene. Summen blir 50.
->[[Løsningsforslag/Løsningsforslag S2 eksamen V2025#Oppgave 1-4\|Løsningsforslag S2 eksamen V2025#Oppgave 1-4]]
+## Fasit
+
+a) 2, 5, 9, 14, 20
+b) Eleven ønsker å finne summen av de 5 første leddene. Summen blir 50.
+
+## Løsningsforslag
+
+### 1-4a
+Her setter vi opp en oversikt for å se hvordan variablene i programmet utvikler seg.
+
+| `i` | `a` |  Beregning av neste `a` |
+| :-: | :-: | ----------------------: |
+|  1  |  2  |   $2+1+2=\underline{5}$ |
+|  2  |  5  |   $5+2+2=\underline{9}$ |
+|  3  |  9  |  $9+3+2=\underline{14}$ |
+|  4  | 14  | $14+4+2=\underline{20}$ |
+|  5  | 20  |                         |
+
+Vi ser en tallfølge hvor differansene mellom leddene starter på 3, og deretter øker med 1 for hvert ledd. Matematisk kan dette uttrykkes med den rekursive sammenhengen
+$$
+a_{n+1}=a_{n}+n+2
+$$
+**Koden skriver ut leddene i tallfølgen 2, 5, 9, 14, 20.**
+
+### 1-4b
+Eleven har lagt til en variabel `S`. `S` gir en løpende sum av verdiene til `a`, derfor vil `S` være delsummen til rekka etter `n` ledd. 
+
+**Eleven ønsker å finne delsummen til rekka etter 5 ledd, altså $2+5+9+14+20=\underline{\underline{50}}$**

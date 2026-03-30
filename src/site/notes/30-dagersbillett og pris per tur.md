@@ -23,9 +23,32 @@ En enkeltbillett med buss koster 80 kroner.
 >[!oppgave]
 >c) Vis grafisk hvor mange ganger Siri må ta bussen for at det skal lønne seg å kjøpe en 30-dagersbillett i stedet for enkeltbilletter.
 
->[!question]- Fasit
->
-> a) 300, 150, 60, 40 kr/tur
-> b) Graf av $f(x) = 1200/x$
-> c) $\geq 16$ turer
-> [[Løsningsforslag/Løsningsforslag 1P eksamen H2025#Oppgave 1-6\|Løsningsforslag 1P eksamen H2025#Oppgave 1-6]]
+## Fasit
+
+a) 300, 150, 60, 40 kr/tur
+b) Graf av $f(x) = 1200/x$
+c) $\geq 16$ turer
+
+## Løsningsforslag
+
+### 1-6a
+
+Prisen per busstur er $\dfrac{1200}{x}$ der $x$ er antall turer.
+
+| Antall bussturer | 4 | 8 | 20 | 30 |
+| :---: | :---: | :---: | :---: | :---: |
+| Pris per busstur | $300 \, \mathrm{kr}$ | $150 \, \mathrm{kr}$ | $60 \, \mathrm{kr}$ | $40 \, \mathrm{kr}$ |
+
+### 1-6b
+
+Grafen nedenfor viser sammenhengen mellom antall bussturer og prisen per busstur. Funksjonen er $f(x) = \dfrac{1200}{x}$.
+
+![Graf: pris per tur](/img/user/_resources/1p-h25-1-6-graf.png)
+
+### 1-6c
+
+En enkeltbillett koster 80 kroner. Vi tegner en horisontal linje ved $y = 80$ i samme koordinatsystem og finner skjæringen med $f$, se punkt $P$ i skjermbildet.
+
+Månedskortet koster altså 80 kr per tur dersom man tar 15 turer.
+
+**Det lønner seg å kjøpe 30-dagersbillett dersom Siri tar bussen $\underline{\underline{16 \, \mathrm{ganger}}}$ eller mer.**

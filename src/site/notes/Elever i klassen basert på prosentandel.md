@@ -11,7 +11,16 @@ $88\,\%$ av elevene i en klasse deltar i en undersøkelse. Det er $3$ elever som
 > [!oppgave]
 > Hvor mange elever er det i klassen?
 
->[!question]- Fasit  
-> 25 elever i klassen.  
-> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen V2025#Oppgave 1-1\|Løsningsforslag 2P-Y eksamen V2025#Oppgave 1-1]]  
+## Fasit
 
+25 elever i klassen.
+
+## Løsningsforslag
+
+Siden 88 % har svart, så må de gjenværende 12 prosentene tilsvare de 3 elevene. Vi kan gå veien om en ved å finne ut hvor mange elever 1 prosent tilsvarer.
+$$
+\frac{3\text{ elever}}{12 \,\%}=\frac{\cancel{ 3 } \text{ elever}}{\cancel{ 3 } \cdot 4 \, \%}=\frac{1}{4} \text{ elever per \%} = 0{,}25 \text{ elever per \%}
+$$
+1 % tilsvarer altså 0,25 elever, og dermed tilsvarer 100 % 25 elever.
+
+**Det er 25 elever i klassen.**

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["volum","areal","optimering","funksjoner"],"fag":["1p"],"eksamen":"v25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":6}],"poeng":6,"title":"Isabels sylinderformede bokser","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/isabels-sylinderformede-bokser/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"temaer":["volum","areal","optimering","funksjoner"],"fag":["1p"],"eksamen":"v25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":6}],"poeng":6,"title":"Isabels sylinderformede bokser","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["volum","areal","optimering","funksjoner"],"fag":["1p"],"eksamen":"v25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":6}],"poeng":6,"title":"Isabels sylinderformede bokser","status":0,"source":null,"todo":null,"permalink":"/isabels-sylinderformede-bokser/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"temaer":["volum","areal","optimering","funksjoner"],"fag":["1p"],"eksamen":"v25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":6}],"poeng":6,"title":"Isabels sylinderformede bokser","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -37,6 +37,4 @@ Isabel ønsker å lage en modell som viser overflaten av ulike bokser hun kan la
 >b) Sett opp et funksjonsuttrykk Isabel kan bruke, og lag en grafisk framstilling som viser sammenhengen mellom radius og overflate.
 >c) Hvor stor må radius i boksene være for at overflaten skal bli minst mulig? Hvor stor blir overflaten da?
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P eksamen V2025#2-6\|Løsningsforslag 1P eksamen V2025#2-6]]
+## Fasit

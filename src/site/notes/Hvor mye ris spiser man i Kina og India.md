@@ -10,6 +10,22 @@ I Kina og India bor det til sammen ca. 2,86 milliarder mennesker. Gjennomsnittsf
 
 Hvor mye ris blir dette totalt i løpet av 10 år? Skriv svaret på standardform.
 
->[!question]- Fasit
-> $2{,}6\cdot 10^{12}$
->[[Løsningsforslag/Løsningsforslag 2P-Y eksamen V2023#Oppgave 2-1\|Løsningsforslag 2P-Y eksamen V2023#Oppgave 2-1]]
+## Fasit
+
+$2{,}6\cdot 10^{12}$
+
+## Løsningsforslag
+
+Hver person spiser 91 kg hvert år og det er 2,86 milliarder mennesker. Altså spiser de hvert år
+
+$$
+91 \, \mathrm{kg} \cdot 2{,}86 \cdot 10^{9}= 2{,}6026 \cdot 10^{11} \, \mathrm{kg}
+$$
+
+I løpet av 10 år blir mengden
+
+$$
+2{,}6026 \cdot 10^{11} \, \mathrm{kg} \cdot 10 = 2{,}6026 \cdot 10^{11} \cdot 10^{1} \, \mathrm{kg} \approx 2{,}6 \cdot 10^{12} \, \mathrm{kg}
+$$
+
+**De spiser omtrent $\underline{\underline{2{,}6 \cdot 10^{12} \, \mathrm{kg}}}$ ris i løpet av 10 år.**

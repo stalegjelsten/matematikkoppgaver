@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-14","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["integral","derivasjon","modellering"],"fag":["r2"],"eksamen":"v25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":3}],"poeng":6,"title":"Harens fart og gjennomsnittsfart","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/harens-fart-og-gjennomsnittsfart/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-14","modified":"2026-03-25","aliases":[],"temaer":["integral","derivasjon","modellering"],"fag":["r2"],"eksamen":"v25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":3}],"poeng":6,"title":"Harens fart og gjennomsnittsfart","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2025-05-14","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["integral","derivasjon","modellering"],"fag":["r2"],"eksamen":"v25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":3}],"poeng":6,"title":"Harens fart og gjennomsnittsfart","status":0,"source":null,"todo":null,"permalink":"/harens-fart-og-gjennomsnittsfart/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-14","modified":"2026-03-25","aliases":[],"temaer":["integral","derivasjon","modellering"],"fag":["r2"],"eksamen":"v25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":3}],"poeng":6,"title":"Harens fart og gjennomsnittsfart","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -22,6 +22,4 @@ $$v_g(x) = \frac{1}{x} \int_{0}^{x} v(t) \, \mathrm{d}t$$
 >[!oppgave]
 >c) Bestem gjennomsnittsfarten til haren de første 200 meterne.
 
->[!question]- Fasit
->
->[[Løsningsforslag R2 eksamen V2025#Oppgave 2-3\|Løsningsforslag R2 eksamen V2025#Oppgave 2-3]]
+## Fasit

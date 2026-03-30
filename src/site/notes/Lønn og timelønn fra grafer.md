@@ -19,8 +19,35 @@ En uke arbeidet Nora og Nils like mange timer. Nora tjente 720 kroner mer enn Ni
 >[!oppgave]
 >b) Hvor mange timer arbeidet hver av dem denne uken?
 
->[!question]- Fasit
->
-> a) Nora: $200 \, \mathrm{kr/t}$, Nils: $180 \, \mathrm{kr/t}$
-> b) $36 \, \mathrm{timer}$
-> [[Løsningsforslag/Løsningsforslag 1P eksamen H2025#Oppgave 1-5\|Løsningsforslag 1P eksamen H2025#Oppgave 1-5]]
+## Fasit
+
+a) Nora: $200 \, \mathrm{kr/t}$, Nils: $180 \, \mathrm{kr/t}$
+b) $36 \, \mathrm{timer}$
+
+## Løsningsforslag
+
+### 1-5a
+
+Fra grafen leser vi av stigningstallet til hver linje. Begge linjer går gjennom origo.
+
+Den grønne linjen (Nora) går gjennom punktet $(10, 2000)$:
+
+$$\text{Timelønnen til Nora} = \frac{2000}{10} = 200 \, \mathrm{kr/t}$$
+
+Den blå linjen (Nils) går gjennom punktet $(10, 1800)$:
+
+$$\text{Timelønnen til Nils} = \frac{1800}{10} = 180 \, \mathrm{kr/t}$$
+
+**Noras timelønn er $\underline{\underline{200 \, \mathrm{kr/t}}}$ og Nils' timelønn er $\underline{\underline{180 \, \mathrm{kr/t}}}$.**
+
+### 1-5b
+
+La $t$ være antall timer de arbeidet. Da tjente Nora $200t$ kroner og Nils $180t$ kroner.
+
+$$200t - 180t = 720$$
+
+$$20t = 720$$
+
+$$t = 36$$
+
+**De arbeidet $\underline{\underline{36 \, \mathrm{timer}}}$ hver.**

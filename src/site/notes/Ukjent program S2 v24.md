@@ -23,10 +23,36 @@ print(n)
 >a) Forklar hva eleven prøver å finne ut.
 >b) Finn verdien eleven får skrevet ut når programmet kjøres.
 
+## Fasit
 
->[!question]- Fasit
-> a) Delsummer av aritmetisk rekke hvor hvert ledd er gitt ved $a_{n}=4n-2$
->b) 11
->[[Løsningsforslag/Løsningsforslag S2 eksamen V2024#Oppgave 1-3\|Løsningsforslag S2 eksamen V2024#Oppgave 1-3]]
+a) Delsummer av aritmetisk rekke hvor hvert ledd er gitt ved $a_{n}=4n-2$
+b) 11
 
+## Løsningsforslag
 
+### 1-3a
+Programmet viser en aritmetisk følge hvor hvert ledd er gitt av $a_{n}=4n-2$ for $n>0$. Programmet regner ut delsummene, $S_{n}$, til den tilhørende rekka. 
+
+**Programmet finner ut hvilket ledd i rekka som gjør at delsummen blir *over* 200.**
+
+### 1-3b
+Siden tallfølgen er aritmetisk kan vi regne ut summen av de $n$ første leddene med
+
+$$
+S_{n}=\frac{a_{1}+a_{n}}{2}n
+$$
+
+Jeg vet at summen skal være *over* 200, at $a_{1}=2$ og jeg kan erstatte $a_{n}$ med $4n-2$. Dette gir
+
+$$
+\begin{aligned}
+200&=\frac{2+4n-2}{2}n\\
+200&=2n^{2}\\
+100&=n^{2}\\
+10&=n
+\end{aligned}
+$$
+
+$n=10$ gir oss altså nøyaktig delsummen $S_{10}=200$. $n=11$ gir oss den første delsummen som er over 200.
+
+**Programmet skriver ut 11.**

@@ -11,8 +11,14 @@ $$
 f(x)=x\cdot \ln x
 $$
 
+## Fasit
 
->[!question]- Fasit
-> $\ln(x)+1$
->[[Løsningsforslag/Løsningsforslag S1 eksamen V2023#Oppgave 1-2\|Løsningsforslag/Løsningsforslag S1 eksamen V2023#Oppgave 1-2]]
+$\ln(x)+1$
 
+## Løsningsforslag
+
+Bruker produktregelen med $u=x, v=\ln x$.
+
+$$
+f'(x)=(u'\cdot v+u\cdot v')=1\cdot \ln x+\cancelto{ 1 }{ x\cdot \frac{1}{x} }=\underline{\underline{\ln x + 1}}
+$$

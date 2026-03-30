@@ -10,5 +10,6 @@ I en bygård er det 40 leiligheter med til sammen 90 rom. Hver leilighet har ent
 > [!oppgave]
 >  Hvor mange leiligheter har to rom, og hvor mange har tre rom?
 
->[!question]- Fasit
->30 med 2 rom, 10 med 3 rom
+## Fasit
+
+30 med 2 rom, 10 med 3 rom

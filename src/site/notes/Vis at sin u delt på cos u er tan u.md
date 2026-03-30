@@ -58,15 +58,13 @@ Gitt trekanten under.
 > \frac{\sin u}{\cos u}=\tan u
 > $$
 
+## Fasit
 
->[!question]- Fasit
-> 
-> Vi vet at $\sin u= \frac{mk}{h}$ og $\cos u = \frac{hk}{h}$. Da er
-> $$
-> \frac{\sin u}{\cos u}=\frac{\frac{mk}{\cancel{ h }}}{\frac{hk}{\cancel{ h }}}=\frac{mk}{hk}
-> $$
-> Siden $\tan u = \frac{mk}{hk}$ så har vi vist at
-> $$
-> \frac{\sin u}{\cos u}=\tan u \qquad\qquad \blacksquare
-> $$
-
+Vi vet at $\sin u= \frac{mk}{h}$ og $\cos u = \frac{hk}{h}$. Da er
+$$
+\frac{\sin u}{\cos u}=\frac{\frac{mk}{\cancel{ h }}}{\frac{hk}{\cancel{ h }}}=\frac{mk}{hk}
+$$
+Siden $\tan u = \frac{mk}{hk}$ så har vi vist at
+$$
+\frac{\sin u}{\cos u}=\tan u \qquad\qquad \blacksquare
+$$

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-28","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["lån","økonomi"],"fag":["2p"],"eksamen":"h24","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":7}],"poeng":3,"title":"Forbrukslån med betalingsplan","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/forbrukslan-med-betalingsplan/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-28","modified":"2026-03-26","aliases":[],"temaer":["lån","økonomi"],"fag":["2p"],"eksamen":"h24","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":7}],"poeng":3,"title":"Forbrukslån med betalingsplan","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-11-28","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["lån","økonomi"],"fag":["2p"],"eksamen":"h24","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":7}],"poeng":3,"title":"Forbrukslån med betalingsplan","status":1,"source":null,"todo":null,"permalink":"/forbrukslan-med-betalingsplan/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-28","modified":"2026-03-26","aliases":[],"temaer":["lån","økonomi"],"fag":["2p"],"eksamen":"h24","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":7}],"poeng":3,"title":"Forbrukslån med betalingsplan","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -32,6 +32,4 @@ Betalingsplanen ser slik ut:
 >- hvor mye penger Julia har lånt
 >- hvor mange prosent Julia betaler i månedlig rente
 
->[!question]- Fasit
->
->[[Løsningsforslag 2P eksamen H2024#Oppgave 2-7\|Løsningsforslag 2P eksamen H2024#Oppgave 2-7]]
+## Fasit

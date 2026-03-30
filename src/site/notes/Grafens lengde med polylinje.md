@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-05-24","modified":"2026-03-30","aliases":[],"dg-publish":true,"temaer":["integral","programmering"],"fag":["r2"],"eksamen":"v23","del":2,"oppgave":6,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":6}],"poeng":null,"title":"Grafens lengde med polylinje","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/grafens-lengde-med-polylinje/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-05-24","modified":"2026-03-30","aliases":[],"temaer":["integral","programmering"],"fag":["r2"],"eksamen":"v23","del":2,"oppgave":6,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":6}],"poeng":null,"title":"Grafens lengde med polylinje","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2023-05-24","modified":"2026-03-30","aliases":[],"dg-publish":true,"temaer":["integral","programmering"],"fag":["r2"],"eksamen":"v23","del":2,"oppgave":6,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":6}],"poeng":null,"title":"Grafens lengde med polylinje","status":0,"source":null,"todo":null,"permalink":"/grafens-lengde-med-polylinje/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-05-24","modified":"2026-03-30","aliases":[],"temaer":["integral","programmering"],"fag":["r2"],"eksamen":"v23","del":2,"oppgave":6,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":6}],"poeng":null,"title":"Grafens lengde med polylinje","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -26,6 +26,4 @@ $$g(x) = \sqrt{1 - x^2}, \quad D_g = [-1, 1]$$
 >[!oppgave]
 >b) Regn ut en god tilnærmet verdi for lengden av grafen til $g$ ved å bruke framgangsmåten beskrevet ovenfor. Vurder om svaret er rimelig.
 
->[!question]- Fasit
->
->[[Løsningsforslag/Løsningsforslag R2 eksamen V2023#Oppgave 2-6\|Løsningsforslag R2 eksamen V2023#Oppgave 2-6]]
+## Fasit

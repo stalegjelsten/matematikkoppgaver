@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["vektorer","derivasjon"],"fag":["r1"],"eksamen":"h24","del":2,"oppgave":6,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":6}],"poeng":8,"title":"Posisjonsvektorer for småfugler og rovfugl","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/posisjonsvektorer-for-smafugler-og-rovfugl/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["vektorer","derivasjon"],"fag":["r1"],"eksamen":"h24","del":2,"oppgave":6,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":6}],"poeng":8,"title":"Posisjonsvektorer for småfugler og rovfugl","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["vektorer","derivasjon"],"fag":["r1"],"eksamen":"h24","del":2,"oppgave":6,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":6}],"poeng":8,"title":"Posisjonsvektorer for småfugler og rovfugl","status":0,"source":null,"todo":null,"permalink":"/posisjonsvektorer-for-smafugler-og-rovfugl/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["vektorer","derivasjon"],"fag":["r1"],"eksamen":"h24","del":2,"oppgave":6,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":6}],"poeng":8,"title":"Posisjonsvektorer for småfugler og rovfugl","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -23,6 +23,4 @@ $$\vec{r}_R(t) = [7t - 10,\ 2t^2 - 6t + 5]$$
 >[!oppgave]
 >d) Gjør nødvendige beregninger og beskriv jakten rovfuglen har på småfuglene.
 
->[!question]- Fasit
->
->[[Løsningsforslag R1 eksamen H2024#Oppgave 2-6\|Løsningsforslag R1 eksamen H2024#Oppgave 2-6]]
+## Fasit

@@ -6,49 +6,155 @@
 # Løsningsforslag S1 eksamen V2023
 
 ## Oppgave 1-1
-$$
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/algebra-potensregning/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Algebra potensregning
+
+
+Skriv så enkelt som mulig
+
+$
+\frac{\left( 2ab^{-1} \right)^3 \cdot \left( a^2b^{-2} \right)^{-1}  }{4a^2b^{-3}} 
+$
+
+## Fasit
+
+$\frac{2b}{a}$
+
+## Løsningsforslag
+
+$
 \frac{\left( 2ab^{-1} \right)^3 \cdot \left( a^2b^{-2} \right)^{-1}  }{4a^2b^{-3}} = \frac{2^3a^3b^{-1\cdot3}a^{2\cdot(-1)}b^{(-2)\cdot(-1)}a^{-2}b^{3}}{4}=\frac{8}{4}\cdot a^{(3-2-2)}\cdot b^{(-3+2+3)}=\underline{\underline{\frac{2b^2}{a}}}
-$$
+$
+
+
+</div></div>
+
 
 ## Oppgave 1-2
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/deriver-logaritmefunksjon/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Deriver logaritmefunksjon
+
+Deriver funksjonen $f$ gitt ved
+
+$
+f(x)=x\cdot \ln x
+$
+
+## Fasit
+
+$\ln(x)+1$
+
+## Løsningsforslag
+
 Bruker produktregelen med $u=x, v=\ln x$.
 
-$$
+$
 f'(x)=(u'\cdot v+u\cdot v')=1\cdot \ln x+\cancelto{ 1 }{ x\cdot \frac{1}{x} }=\underline{\underline{\ln x + 1}}
-$$
+$
+
+
+</div></div>
+
 
 ## Oppgave 1-3
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/grenseverdi-nar-x-gar-mot-2/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Grenseverdi når x går mot 2
+
+Bestem grenseverdien
+
+$
+\lim_{ x \to 2 } \frac{x^3-8}{x^2-4}
+$
+
+## Fasit
+
+3
+
+## Løsningsforslag
+
 Ser at både teller og nevner går mot null når $x\to 2$. Vi kan derfor bruke L'Hopitals regel. 
 
-$$
+$
 \lim_{ x \to 2 } \frac{f(x)}{g(x)} = \lim_{ x \to 2 } \frac{f'(x)}{g'(x)}=\lim_{ x \to 2 }  \frac{3x^2}{2x}=\lim_{ x \to 2 } \frac{3x}{2}=\frac{3\cdot2}{2}=\underline{\underline{3}}
-$$
+$
+
+
+</div></div>
+
 
 ## Oppgave 1-4
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/kuler-i-krukke-hypergeometrisk/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Kuler i krukke hypergeometrisk
+
+I en krukke ligger det fire hvite og tre svarte kuler. Du trekker tilfeldig tre kuler uten tilbakelegging.
+
+a) Hva er sannsynligheten for at to av de tre kulene er svarte?
+
+b) Hva er sannsynligheten for at du trekker minst to hvite kuler?
+
+## Fasit
+
+a) $\frac{12}{35}$
+b) $\frac{22}{35}$
+
+## Løsningsforslag
 
 ### 1-4a
 Dette er et hypergeometrisk forsøk siden vi har to typer objekter og skal trekke $k_{1}=2$ av den ene typen og $k_{2}=1$ av den andre typen
 
-$$
+$
 \frac{ \binom{n_{1}}{k_{1}}\binom{n_{2}}{k_{2}}}{\binom{n}{k}} = \frac{ \binom{3}{2}\binom{4}{1}}{\binom{7}{3}} = \frac{\frac{3!}{2!\cdot 1!}\cdot4}{\frac{7!}{3!\cdot4!}}=\frac{3\cdot4}{\frac{7\cdot6\cdot 5}{3\cdot2}}=\frac{12\cdot3\cdot2}{210}=\frac{72}{210}=\frac{12}{35}
-$$
+$
 
 ### 1-4b
 La $X$ være antall hvite kuler. Da er 
 
-$$P(X\geq 2)=1-P(X\leq 1)=1-\left( P(X=1) +P(X=0)\right)$$
+$P(X\geq 2)=1-P(X\leq 1)=1-\left( P(X=1) +P(X=0)\right)$
 
 Vi har allerede bestemt sannsynligheten for $P(X=1)=\frac{12}{35}$ i oppgave a).
 
-$$
+$
 P(X=0)=\frac{3}{7}\cdot \frac{2}{6}\cdot \frac{1}{5} = \frac{3\cdot 2}{7\cdot6\cdot 5}=\frac{6}{210}=\frac{1}{35}
-$$
+$
 
-$$
+$
 P(X\geq 2)=1-\left(  \frac{12}{35}+\frac{1}{35} \right)=1- \frac{13}{35}=\underline{\underline{\frac{22}{35}}}
-$$
+$
+
+
+</div></div>
+
 
 ## Oppgave 1-5
+
 Programmet regner ut en tilnærmingsverdi for den deriverte av $K(x)=0{,}2x^2+140x+7000$ i punktet $x$ helt fram til den deriverte når verdien 260.
 
 Vi kan løse denne oppgaven for hånd ved å derivere $K$ og sette svaret lik 260.
@@ -69,25 +175,64 @@ $$
 
 ## Oppgave 2-1
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/timelonn-og-lonnsvekst/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Timelønn og lønnsvekst
+
+Tabellen nedenfor viser timelønnen til en yrkesgruppe for noen år i perioden 2008-2022.
+
+| Årstall  |  2008  |  2010  |  2013  |  2015  |  2019  |  2022  |
+| :------- | :----: | :----: | :----: | :----: | :----: | :----: |
+| Timelønn | 272,55 | 285,50 | 307,30 | 314,00 | 327,60 | 340,10 |
+
+>[!oppgave]
+>a) Hva har den gjennomsnittlige årlige prosentvise veksten i lønn vært i årene 2008-2022?
+
+>[!oppgave]
+>b) Bruk tallene i tabellen til å lage en eksponentiell funksjon $g$ som er en modell for timelønnen til denne yrkesgruppen $x$ år etter 2008.
+
+Per og Amalie hadde begge en timelønn på 272,55 kroner i 2008. Per har hatt en lønnsutvikling tilsvarende tabellen i starten av oppgaven, mens Amalies lønn har steget med 2,3 prosent per år. De har begge jobbet 1700 timer per år.
+
+>[!oppgave]
+>c) Bestem den samlede lønnen til Amalie i årene 2008 til 2022. Bestem også den samlede lønnen til Per i disse årene.
+
+Fagforeningen til Per krever at han i 2025 skal ha samme timelønn som Amalie. Vi går ut fra at Amalie fortsatt vil ha en lønnsvekst på 2,3 prosent per år.
+
+>[!oppgave]
+>d) Hvor mange prosent må lønnen til Per gå opp hvert år dersom dette kravet skal innfris?
+
+## Fasit
+
+a) 1,59 %
+b) $g(x)=277{,}8\cdot 1{,}0155^x$
+c) Her kan ulike svar godtas. Amalies samlede lønn er omtrent 8 188 600 kr i perioden. Pers samlede lønn er omtrent 7 906 600 kr
+d) Omtrent 2,19 %
+
+## Løsningsforslag
+
 ### 2-1a
 Timelønna har vokst med $340{,}10-272{,}55=67{,}55$ kr i løpet av disse 14 årene. Vi kan sette opp dette uttrykket for å bestemme vekstfaktoren $x$
 
-$$
+$
 \begin{aligned}
 272{,}55\cdot x^{14} &= 340{,}10\\
 x &= \sqrt[14]{ \frac{340{,}10}{272{,}55} }\\
 x &=1{,}01594
 \end{aligned}
-$$
+$
 
 **Den gjennomsnittlige årlige prosentvise økninga har vært 1,59 %.**
 
 ### 2-1b
 Jeg brukte regresjon i GeoGebra og fant at en god eksponentialmodell for lønnsveksten er 
 
-$$
-g(x)=277{,}8\cdot 1{,}0155^x
-$$
+$
+g(x)=277{,}8\cdot 1{,}0155$
 ![](/img/user/_resources/s1-v23-2-1-b.png)
 ### 2-1c
 Hvis man skal regne Per sin lønn riktig så må man egentlig vite lønna hvert år og summere opp årslønnene som ei rekke. Jeg bruker heller modell $g$ som en tilnærming til Pers lønn.
@@ -122,6 +267,10 @@ Igjen så er det enklest og raskest for meg å bruke målsøking i Excel for å 
 Vekstfaktoren ble endret til 1,02185.
 
 **Lønnen til Per må stige med omtrent 2,185 % hvert år for at de skal ha lik lønn i 2025.**
+
+
+</div></div>
+
 
 ## Oppgave 2-2
 
@@ -258,6 +407,28 @@ $$
 
 ## Oppgave 2-5
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/billetter-til-fotballkamp/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Billetter til fotballkamp
+
+I en kampanje deles det ut gratisbilletter til en fotballkamp. Av erfaring vet arrangøren at cirka 45 prosent av dem som får gratisbilletter, kommer på kampen.  
+
+> [!oppgave]
+> a) Det deles ut 1300 gratisbilletter. Bestem sannsynligheten for at minst 600 av disse billettene blir benyttet.  
+> b) Hvor mange gratisbilletter må de minst dele ut dersom sannsynligheten for at minst 600 av dem blir brukt skal være over 95 prosent?
+
+## Fasit
+
+a) 0,2094
+b) 1401 billetter
+
+## Løsningsforslag
+
 ### 2-5a
 Vi kan regne med en binomisk sannsynlighetsfordeling her med $n=1300$ og $p=0{,}45$ siden
 - billettmottakerne har to muligheter: de kommer på kamp, eller de kommer ikke på kamp
@@ -295,10 +466,56 @@ Siden jeg allerede var igang med programmering så programmerte jeg denne også.
 | 1       | Antall, $n$ | $P(X\leq n)$                            |
 | 2       | 1300        | ` =BINOM.FORDELING.N(599;A2;0,45;SANN)` |
 
+
+</div></div>
+
+
 ## Oppgave 2-6
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/lydstyrke-fra-fly/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Lydstyrke fra fly
+
+Sammenhengen mellom lydstyrken $L$ (målt i dB) og lydintensiteten $I$ (målt i $\mathrm{W} / \mathrm{m}^2$) er gitt ved
+
+$
+L=120+10 \cdot \lg I
+$
+
+Menneskets øre har en smertegrense for lydstyrke som ligger omkring $130 \mathrm{~dB}$.
+
+>[!oppgave]
+>a) Bestem lydintensiteten når lydstyrken er $130 \mathrm{~dB}$.
+
+>[!oppgave]
+>b) Hvor mange prosent øker lydintensiteten dersom lydstyrken øker med $2 \mathrm{~dB}$ ?
+
+Dersom effekten til lyden som sendes ut fra en lydkilde er $E$, vil lydintensiteten $I$ på en avstand $r$ (målt i m) fra denne lydkilden være
+
+$
+I=\frac{E}{4 \pi \cdot r^2}
+$
+
+Lydstyrken fra et fly er $140 \mathrm{~dB}$ dersom du er $50 \mathrm{~m}$ fra flyet.
+
+>[!oppgave]
+>c) Bestem den minste avstanden til dette flyet der lydstyrken er lavere enn $130 \mathrm{~dB}$.
+
+## Fasit
+
+a) 10 W/m²
+b) 58,5 %
+c) 158,12 m
+
+## Løsningsforslag
+
 ### 2-6a
-$$
+$
 \begin{aligned}
 130 &= 120 + 10 \log I\\
 10\log I&=130-120\\
@@ -306,40 +523,40 @@ $$
 { 10^{\log I} }&=10^1\\
 I&=10
 \end{aligned}
-$$
+$
 
 **Lydintensiteten er 10 W/m² når lydstyrken er 130 dB.**
 
 ### 2-6b
 Når $L=132$ blir 
 
-$$
+$
 I=10^{\frac{132-120}{10}}=10^{1{,}2}=15{,}85
-$$
+$
 
 Økningen i prosent er 
 
-$$
+$
 \frac{15{,}85-10}{10}=0{,}585=58{,}5 \,\%
-$$
+$
 
 **Når lydstyrken øker fra 130 dB til 132 dB øker lydintensiteten med 58,5 %.**
 
 ### 2-6c
 Vi vet at $L=140$ når $r=50$. Jeg løser for $E$ og finner (dette gjøres enklest i CAS)
 
-$$
+$
 \begin{aligned}
 L&=120+10 \log I\\
 L&=120+10 \log \frac{E}{4\pi r^2}\\
 140&=120+10 \log \frac{E}{4\pi 50^2}\\
 E&=1 000 000\pi 
 \end{aligned}
-$$
+$
 
 Jeg tolker formlene slik at et fly lager lyd med effekten $E=1\,000\,000\pi \,\text{W}$, mens lydintensiteten og lydstyrken avtar med avstanden. Vi setter opp en likning med lydstyrke lik 130 dB og finner avstanden som kreves (dette gjøres også enklest i CAS).
 
-$$
+$
 \begin{aligned}
 130&=120+10 \log \frac{1000000\pi}{4\pi r^2}\\
 10&=10 \log \frac{1000000}{4r^2}\\
@@ -349,8 +566,12 @@ r^2&=\frac{250000}{10}\\
 r^2&=25000\\
 r&=\vert 158{,}113\vert
 \end{aligned}
-$$
+$
 
 Ved 158,113 m så er altså lydstyrken 130 dB. Siden vi skulle finne den minste avstanden hvor lydstyrken var *lavere* enn 130 dB så runder jeg opp i svaret mitt.
 
 **158,12 m fra flyet er den minste avstanden hvor lydstyrken er lavere enn 130 dB.**
+
+
+</div></div>
+

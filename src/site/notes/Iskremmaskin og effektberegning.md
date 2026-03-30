@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-16","modified":"2026-03-16","aliases":[],"dg-publish":true,"temaer":["formler","elektrofag"],"fag":["1p-y el"],"eksamen":"h24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":4}],"title":"Iskremmaskin og effektberegning","status":1,"source":null,"todo":null,"permalink":"/iskremmaskin-og-effektberegning/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-16","modified":"2026-03-16","aliases":[],"temaer":["formler","elektrofag"],"fag":["1p-y el"],"eksamen":"h24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":4}],"title":"Iskremmaskin og effektberegning","status":1,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2026-03-16","modified":"2026-03-16","aliases":[],"dg-publish":true,"temaer":["formler","elektrofag"],"fag":["1p-y el"],"eksamen":"h24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":4}],"title":"Iskremmaskin og effektberegning","status":3,"source":null,"todo":null,"permalink":"/iskremmaskin-og-effektberegning/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-16","modified":"2026-03-16","aliases":[],"temaer":["formler","elektrofag"],"fag":["1p-y el"],"eksamen":"h24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":4}],"title":"Iskremmaskin og effektberegning","status":3,"source":null,"todo":null}}
 ---
 
 
@@ -19,8 +19,25 @@ En annen iskremmaskin har et effektbehov på 200 W. Strømmen koster omtrent 1 k
 >[!oppgave]
 >b) Hvor mye vil det koste om maskinen brukes i 1000 timer?
 
->[!question]- Fasit
->
-> a) $P = 115 \, \mathrm{W}$
-> b) $200 \, \mathrm{kr}$
-> [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen H2024#Oppgave 1-4\|Løsningsforslag 1P-Y EL eksamen H2024#Oppgave 1-4]]
+## Fasit
+
+a) $P = 115 \, \mathrm{W}$
+b) $200 \, \mathrm{kr}$
+
+## Løsningsforslag
+
+### 1-4a
+
+$$P = U \cdot I = 230 \cdot 0{,}5 = \underline{\underline{115 \, \mathrm{W}}}$$
+
+**Effektbehovet til iskremmaskinen er $\underline{\underline{115 \, \mathrm{W}}}$.**
+
+### 1-4b
+
+200 W = 0,2 kW. Energiforbruket over 1000 timer er:
+$$E = P \cdot t = 0{,}2 \, \mathrm{kW} \cdot 1000 \, \mathrm{h} = 200 \, \mathrm{kWh}$$
+
+Med en strømpris på 1 kr/kWh:
+$$\text{Kostnad} = 200 \, \mathrm{kWh} \cdot 1 \, \mathrm{kr/kWh} = \underline{\underline{200 \, \mathrm{kr}}}$$
+
+**Det vil koste $\underline{\underline{200 \, \mathrm{kr}}}$ om maskinen brukes i 1000 timer.**

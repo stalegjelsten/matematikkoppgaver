@@ -63,5 +63,30 @@ $$
 </svg>
 
 
->[!question]- Fasit
->[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 1-1\|Løsningsforslag 1T eksamen V2023#Oppgave 1-1]]
+## Fasit
+
+
+## Løsningsforslag
+
+### Alternativ 1
+Vi har at $\sin u=\frac{8}{10}$ og $\cos u =\frac{6}{10}$. 
+
+$$
+\sin^2u+\cos^2u=\left( \frac{8}{10} \right)^2+\left( \frac{6}{10} \right)^2=\frac{64}{100} +\frac{36}{100}=\frac{100}{100}=1
+$$
+
+### Alternativ 2: bruke pytagoras
+Vi har $\sin u=\frac{8}{10} \iff 8=10 \sin u$ og $\cos u=\frac{6}{10} \iff 6=10\cos u$
+
+Vi kan bruke pytagoras på trekanten og sette opp
+
+$$
+\begin{aligned}
+8^2+6^2&=10^2\\
+\left( 10\sin u \right)^2 + \left( 10\cos u \right)^2 &= 10^2 \\
+\cancel{ 10^2 }\sin^2 u+\cancel{ 10^2 } \cos^2u&=\cancel{ 10^2 }\\
+\sin^2 u + \cos^2 u&=1
+\end{aligned}
+$$
+
+**$\underline{\underline{\left( \sin u \right)^2 + \left( \cos u \right)^2 = 1}}$, som skulle vises.**[^1]

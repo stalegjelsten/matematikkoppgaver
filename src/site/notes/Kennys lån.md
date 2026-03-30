@@ -21,11 +21,9 @@ I rammen nedenfor ser du vilkårene for lånet til Kenny.
 a) Hvor mange kroner må jeg betale i renter per måned?
 b) Hva blir kostnaden for lånet per år?
 
->[!question]- Fasit
-> 
->a) Siden vi ikke betaler noe avdrag så blir rentene de samme hver måned.
->   $$400\,000 \cdot 0{,}015 = \underline{\underline{ 6\,000 \mathrm{~kr} }}$$
->b) Det er 12 måneder med 6 000 kr i hver måned. I tillegg betaler vi 50 kr per måned i gebyr.
->   $$12 \cdot 6\,000 + 12 \cdot 50 = 72\, 000 + 600 = \underline{\underline{ 72\,600 \mathrm{~kr}  }}$$
+## Fasit
 
-
+a) Siden vi ikke betaler noe avdrag så blir rentene de samme hver måned.
+  $$400\,000 \cdot 0{,}015 = \underline{\underline{ 6\,000 \mathrm{~kr} }}$$
+b) Det er 12 måneder med 6 000 kr i hver måned. I tillegg betaler vi 50 kr per måned i gebyr.
+  $$12 \cdot 6\,000 + 12 \cdot 50 = 72\, 000 + 600 = \underline{\underline{ 72\,600 \mathrm{~kr}  }}$$

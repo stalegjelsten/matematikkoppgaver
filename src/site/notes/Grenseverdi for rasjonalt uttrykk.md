@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["grenseverdi","rasjonale funksjoner"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":4},{"fag":"r1","del":1,"oppgave":4}],"poeng":2,"title":"Grenseverdi for rasjonalt uttrykk","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/grenseverdi-for-rasjonalt-uttrykk/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["grenseverdi","rasjonale funksjoner"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":4},{"fag":"r1","del":1,"oppgave":4}],"poeng":2,"title":"Grenseverdi for rasjonalt uttrykk","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["grenseverdi","rasjonale funksjoner"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":4},{"fag":"r1","del":1,"oppgave":4}],"poeng":2,"title":"Grenseverdi for rasjonalt uttrykk","status":3,"source":null,"todo":null,"permalink":"/grenseverdi-for-rasjonalt-uttrykk/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["grenseverdi","rasjonale funksjoner"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":4},{"fag":"r1","del":1,"oppgave":4}],"poeng":2,"title":"Grenseverdi for rasjonalt uttrykk","status":3,"source":null,"todo":null}}
 ---
 
 
@@ -9,6 +9,13 @@
 >Finn grenseverdien hvis den eksisterer.
 >$$\lim_{x \to \infty} \frac{x^2 + x - 12}{2x^2 - 18}$$
 
->[!question]- Fasit
->
->[[Løsningsforslag/Løsningsforslag S1 eksamen H2024#Oppgave 1-4\|Løsningsforslag S1 eksamen H2024#Oppgave 1-4]]
+## Fasit
+
+
+## Løsningsforslag
+
+Vi ser at både teller og nevner går mot uendelig når $x \to \infty$. Vi kan altså bruke L'Hopitals regel.
+$$
+\lim_{ x \to \infty } \frac{x^{2}+x-12}{2x^{2}-18}=\lim_{ x \to \infty } \frac{2x+1}{4x}=\lim_{ x \to \infty } \frac{2+\frac{1}{x}}{4}=\frac{2+0}{4}=\frac{1}{2}
+$$
+**Grenseverdien er $\underline{\underline{\frac{1}{2}}}$.**

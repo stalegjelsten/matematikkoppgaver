@@ -39,6 +39,4 @@ Elevene i ungdomsbedriften gjør seg noen tanker og stiller noen spørsmål:
 
 Gjør beregninger og vurderinger og finn ut mest mulig av det elevene lurer på.
 
->[!question]- Fasit
-> 
->
+## Fasit

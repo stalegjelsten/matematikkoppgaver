@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["geometri","areal","volum"],"fag":["2p"],"eksamen":"v24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":5}],"poeng":4,"title":"Klatrevegg rettavkortet kjegle","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/klatrevegg-rettavkortet-kjegle/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"temaer":["geometri","areal","volum"],"fag":["2p"],"eksamen":"v24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":5}],"poeng":4,"title":"Klatrevegg rettavkortet kjegle","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["geometri","areal","volum"],"fag":["2p"],"eksamen":"v24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":5}],"poeng":4,"title":"Klatrevegg rettavkortet kjegle","status":1,"source":null,"todo":null,"permalink":"/klatrevegg-rettavkortet-kjegle/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"temaer":["geometri","areal","volum"],"fag":["2p"],"eksamen":"v24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":5}],"poeng":4,"title":"Klatrevegg rettavkortet kjegle","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -29,6 +29,4 @@ Hanne og Henrik skal lage et forslag til hvordan klatreveggen kan utformes, og b
 >a) Lag en skisse som viser hvordan klatreveggen kan utformes for å oppfylle kravene fra skolen. Sett mål på skissen. Forklar hvordan du har tenkt, og vis utregningene dine.
 >b) Hvor mye betong vil gå med for å lage klatreveggen?
 
->[!question]- Fasit
->
->[[Løsningsforslag 2P eksamen V2024#2-5\|Løsningsforslag 2P eksamen V2024#2-5]]
+## Fasit

@@ -6186,8 +6186,48 @@ bredde =                                    # bredden av hvert rektangel
 
 c) Bruk programmet til å bestemme arealet dersom hun bruker 6000 rektangler.
 
->[!question]- Fasit
-> a)$\frac{196}{9}$
-> b) Se LF
-> c) 20,002
->[[Løsningsforslag/Løsningsforslag 1T eksamen V2023#Oppgave 2-4\|Løsningsforslag 1T eksamen V2023#Oppgave 2-4]]
+## Fasit
+
+a)$\frac{196}{9}$
+b) Se LF
+c) 20,002
+
+## Løsningsforslag
+
+### 2-4a
+Jeg ser at alle rektanglene har bredde 1. Arealet av hvert rektangel er derfor $A_{\square}=h\cdot  b=h\cdot 1=h$. Høyden til rektangelet er gitt ved $f(x)=\frac{1}{9}(x+1)(x-6)^2$ hvor $x\in \left\{ 0, 1, 2 , 3, 4, 5 \right\}$.
+
+![](/img/user/_resources/1t-v23-2-4a.png)
+
+Jeg legger sammen funksjonsverdiene i CAS og finner at det samlede arealet er 
+
+$$A=\underline{\underline{\frac{196}{9}}}$$
+
+### 2-4b
+```python
+def f(x):
+    return 1 / 9 * (x + 1) * (x - 6) ** 2   # Definerer funksjonen
+
+x_min = 0                                   # Startverdi for x
+x_maks = 6                                  # Sluttverdi for x
+
+n = 6000                                    # antall rektangler
+
+bredde = (x_maks - x_min) / n               # bredden av hvert rektangel
+
+x = x_min                                   # vi starter med å finne
+                                            # f(x) ved f(x_min)
+areal = 0                                   # lager en variabel som summerer
+                                            # arealet
+for i in range(n):
+    areal_rektangel = bredde * f(x)         # beregener arealet til rektangelet
+    areal = areal + areal_rektangel         # summerer arealet av rektangelet
+                                            # og det totale arealet
+    x = x + bredde                          # flytter x-verdien bortover langs
+                                            # x-aksen tilsvarende bredde av rekt
+print(f"Arealet av rektanglene er {areal:.3f}")
+
+```
+
+### 2-4c
+Bruker programmet jeg lagde i 4b. **Det gir utskriften `Arealet av rektanglene er 20.002`.**

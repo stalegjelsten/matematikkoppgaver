@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["programmering","integral"],"fag":["r2"],"eksamen":"h25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":4}],"title":"Programmering og numerisk integrasjon","status":1,"source":null,"todo":null,"permalink":"/programmering-og-numerisk-integrasjon/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"temaer":["programmering","integral"],"fag":["r2"],"eksamen":"h25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":4}],"title":"Programmering og numerisk integrasjon","status":1,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["programmering","integral"],"fag":["r2"],"eksamen":"h25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":4}],"title":"Programmering og numerisk integrasjon","status":3,"source":null,"todo":null,"permalink":"/programmering-og-numerisk-integrasjon/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"temaer":["programmering","integral"],"fag":["r2"],"eksamen":"h25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":4}],"title":"Programmering og numerisk integrasjon","status":3,"source":null,"todo":null}}
 ---
 
 
@@ -68,8 +68,46 @@ def bedre_metode():
 print(bedre_metode())
 ```
 
->[!question]- Fasit
->
-> a) `areal_til_hoyre` bruker venstre endepunkter (for lav), `areal_til_venstre` bruker høyre endepunkter (for høy)
-> b) Trapesmetode: `(f(x) + f(x+dx)) / 2 * dx`
-> [[Løsningsforslag/Løsningsforslag R2 eksamen H2025#2-4\|Løsningsforslag R2 eksamen H2025#2-4]]
+## Fasit
+
+a) `areal_til_hoyre` bruker venstre endepunkter (for lav), `areal_til_venstre` bruker høyre endepunkter (for høy)
+b) Trapesmetode: `(f(x) + f(x+dx)) / 2 * dx`
+
+## Løsningsforslag
+
+### 2-4a
+
+Funksjonen $f(x) = 3^{2x} = 9^x$ er strengt stigende på $[0, 2]$.
+
+For en stigende funksjon gjelder:
+
+- **`areal_til_hoyre()`** bruker venstre endepunkt ($x = 0, \Delta x, 2\Delta x, \ldots$) i hvert delintervall. Venstre endepunkt gir den minste funksjonsverdien → summerer **for lav** verdi.
+- **`areal_til_venstre()`** bruker høyre endepunkt ($x = \Delta x, 2\Delta x, \ldots, 2$). Høyre endepunkt gir den største funksjonsverdien → summerer **for høy** verdi.
+
+Det faktiske arealet (nøyaktig) er $\displaystyle\int_0^2 9^x \, \mathrm{d}x = \frac{9^2-1}{\ln 9} \approx 36{,}4$.
+
+### 2-4b
+
+En bedre metode er **trapesmetoden**: vi bruker gjennomsnittet av funksjonsverdiene i begge endepunktene av hvert delintervall.
+
+```python
+start = 0
+slutt = 2
+n = 100
+
+dx = (slutt-start)/n
+
+def f(x):
+    return 3**(2*x)
+
+def bedre_metode():
+    areal = 0
+    for i in range(n):
+        x = start + i*dx
+        areal = areal + (f(x) + f(x + dx)) / 2 * dx
+    return areal
+
+print(bedre_metode())
+```
+
+Trapesmetoden gir $\approx 36{,}415$, som er svært nær den eksakte verdien $\approx 36{,}410$.

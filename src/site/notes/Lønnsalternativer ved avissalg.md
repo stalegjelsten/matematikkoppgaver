@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["lineær vekst","funksjoner","økonomi"],"fag":["1p-y el"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":5}],"title":"Lønnsalternativer ved avissalg","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/lonnsalternativer-ved-avissalg/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["lineær vekst","funksjoner","økonomi"],"fag":["1p-y el"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":5}],"title":"Lønnsalternativer ved avissalg","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["lineær vekst","funksjoner","økonomi"],"fag":["1p-y el"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":5}],"title":"Lønnsalternativer ved avissalg","status":0,"source":null,"todo":null,"permalink":"/lonnsalternativer-ved-avissalg/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["lineær vekst","funksjoner","økonomi"],"fag":["1p-y el"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":5}],"title":"Lønnsalternativer ved avissalg","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -34,6 +34,4 @@ Elise gjør seg noen tanker og stiller noen spørsmål.
 >[!oppgave]
 >Svar på spørsmålene Elise stiller. Gjør beregninger og vurderinger, og gi Elise råd om hvilket tilbud hun bør velge.
 
->[!question]- Fasit
->
->[[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen V2025#2-5\|Løsningsforslag 1P-Y EL eksamen V2025#2-5]]
+## Fasit

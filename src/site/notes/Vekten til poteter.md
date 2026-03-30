@@ -27,9 +27,9 @@ Jostein tar opp 500 tilfeldige poteter fra kjøkkenhagen.
 >[!oppgave]
 >d) Hvor mange av disse potetene kan han regne med at den veier minst 300 gram?
 
->[!question]- Fasit
-> 
->a) 0,383
->b) 0,106. Dette er sannsynligheten for å trekke opp en potet som veier mindre enn 150 gram.
->c) –
->d) 3,1. Vi runder av til 3 poteter.
+## Fasit
+
+a) 0,383
+b) 0,106. Dette er sannsynligheten for å trekke opp en potet som veier mindre enn 150 gram.
+c) –
+d) 3,1. Vi runder av til 3 poteter.

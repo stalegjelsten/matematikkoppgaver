@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["økonomi","derivasjon","funksjonsdrøfting"],"fag":["s1"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":5}],"poeng":6,"title":"T-skjorter, inntekt og overskudd","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/t-skjorter-inntekt-og-overskudd/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"temaer":["økonomi","derivasjon","funksjonsdrøfting"],"fag":["s1"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":5}],"poeng":6,"title":"T-skjorter, inntekt og overskudd","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["økonomi","derivasjon","funksjonsdrøfting"],"fag":["s1"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":5}],"poeng":6,"title":"T-skjorter, inntekt og overskudd","status":0,"source":null,"todo":null,"permalink":"/t-skjorter-inntekt-og-overskudd/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-26","aliases":[],"temaer":["økonomi","derivasjon","funksjonsdrøfting"],"fag":["s1"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":5}],"poeng":6,"title":"T-skjorter, inntekt og overskudd","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -22,6 +22,4 @@ Bedriften ønsker å gjennomføre en kampanje hvor de en uke donerer 30 kroner p
 >[!oppgave]
 >c) Bestem det største antallet T-skjorter bedriften kan produsere og selge i en uke med kampanje uten å gå med underskudd.
 
->[!question]- Fasit
->
->[[Løsningsforslag S1 eksamen V2025#Oppgave 2-5\|Løsningsforslag S1 eksamen V2025#Oppgave 2-5]]
+## Fasit

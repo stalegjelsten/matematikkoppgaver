@@ -22,9 +22,42 @@ Oslo ligger på breddegrad $59{,}9\degree$, og Trondheim ligger på breddegrad $
 >[!oppgave]
 >c) Hvor stor prosentandel utgjør avstanden mellom Oslo og Trondheim av hele omkretsen av jorden?
 
->[!question]- Fasit
->
-> a) $111{,}12 \, \mathrm{km}$
-> b) $\approx 40\,000 \, \mathrm{km}$
-> c) $\approx 0{,}97 \, \%$
-> [[Løsningsforslag/Løsningsforslag 1P eksamen H2025#Oppgave 2-6\|Løsningsforslag 1P eksamen H2025#Oppgave 2-6]]
+## Fasit
+
+a) $111{,}12 \, \mathrm{km}$
+b) $\approx 40\,000 \, \mathrm{km}$
+c) $\approx 0{,}97 \, \%$
+
+## Løsningsforslag
+
+### 2-6a
+
+Én breddegrad er delt i 60 bueminutter, og hvert bueminutt tilsvarer én nautisk mil = 1852 m.
+
+$$60 \cdot 1852 \, \mathrm{m} = 111\,120 \, \mathrm{m} = 111{,}12 \, \mathrm{km}$$
+
+**Avstanden mellom hver breddegrad er $\underline{\underline{111{,}12 \, \mathrm{km}}}$.**
+
+### 2-6b
+
+En hel omdreining er $360\degree$:
+
+$$\text{Omkrets} = 360 \cdot 111{,}12 \, \mathrm{km} = 40\,003 \, \mathrm{km}$$
+
+**Jordens omkrets er omtrent $\underline{\underline{40\,000 \, \mathrm{km}}}$.**
+
+### 2-6c
+
+Breddegradsforskjellen mellom Oslo og Trondheim:
+
+$$63{,}4\degree - 59{,}9\degree = 3{,}5\degree$$
+
+Avstand:
+
+$$3{,}5 \cdot 111{,}12 \approx 388{,}9 \, \mathrm{km}$$
+
+Prosentandel av jordens omkrets:
+
+$$\frac{388{,}9}{40\,003} \cdot 100 \, \% \approx 0{,}97 \, \%$$
+
+**Avstanden mellom Oslo og Trondheim utgjør omtrent $\underline{\underline{0{,}97 \, \%}}$ av jordens omkrets.**

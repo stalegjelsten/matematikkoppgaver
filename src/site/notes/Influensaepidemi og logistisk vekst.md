@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["logistisk funksjon","derivasjon","asymptoter","modellering"],"fag":["r1"],"eksamen":"v24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":1}],"poeng":6,"title":"Influensaepidemi og logistisk vekst","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/influensaepidemi-og-logistisk-vekst/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"temaer":["logistisk funksjon","derivasjon","asymptoter","modellering"],"fag":["r1"],"eksamen":"v24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":1}],"poeng":6,"title":"Influensaepidemi og logistisk vekst","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["logistisk funksjon","derivasjon","asymptoter","modellering"],"fag":["r1"],"eksamen":"v24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":1}],"poeng":6,"title":"Influensaepidemi og logistisk vekst","status":0,"source":null,"todo":null,"permalink":"/influensaepidemi-og-logistisk-vekst/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"temaer":["logistisk funksjon","derivasjon","asymptoter","modellering"],"fag":["r1"],"eksamen":"v24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":1}],"poeng":6,"title":"Influensaepidemi og logistisk vekst","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -14,6 +14,4 @@ $$S(t) = \frac{300}{1 + 28 \cdot e^{-0{,}3t}}.$$
 >b) På hvilket tidspunkt blir flest elever smittet, og hvor raskt sprer smitten seg da?
 >c) Undersøk om $S$ har asymptoter, og forklar hvilken praktisk tolkning asymptotene eventuelt har.
 
->[!question]- Fasit
->
->[[Løsningsforslag R1 eksamen V2024#Oppgave 2-1\|Løsningsforslag R1 eksamen V2024#Oppgave 2-1]]
+## Fasit

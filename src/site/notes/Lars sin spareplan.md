@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["programmering","sparing","geometrisk vekst"],"fag":["1p"],"eksamen":"v25","del":1,"oppgave":7,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":7}],"poeng":3,"title":"Lars sin spareplan","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/lars-sin-spareplan/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"temaer":["programmering","sparing","geometrisk vekst"],"fag":["1p"],"eksamen":"v25","del":1,"oppgave":7,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":7}],"poeng":3,"title":"Lars sin spareplan","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["programmering","sparing","geometrisk vekst"],"fag":["1p"],"eksamen":"v25","del":1,"oppgave":7,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":7}],"poeng":3,"title":"Lars sin spareplan","status":0,"source":null,"todo":null,"permalink":"/lars-sin-spareplan/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"temaer":["programmering","sparing","geometrisk vekst"],"fag":["1p"],"eksamen":"v25","del":1,"oppgave":7,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":7}],"poeng":3,"title":"Lars sin spareplan","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -29,6 +29,4 @@ print(konto)
 >
 >Hva vil verdiene som skrives ut, fortelle Lars?
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P eksamen V2025#1-7\|Løsningsforslag 1P eksamen V2025#1-7]]
+## Fasit

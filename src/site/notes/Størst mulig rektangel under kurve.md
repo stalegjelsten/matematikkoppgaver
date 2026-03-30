@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["derivasjon","funksjoner","geometri"],"fag":["1t"],"eksamen":"h25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":5}],"title":"Størst mulig rektangel under kurve","status":1,"source":null,"todo":["fasit","løsningsforslag"],"poeng":4,"permalink":"/storst-mulig-rektangel-under-kurve/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-15","aliases":[],"temaer":["derivasjon","funksjoner","geometri"],"fag":["1t"],"eksamen":"h25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":5}],"title":"Størst mulig rektangel under kurve","status":1,"source":null,"todo":["fasit","løsningsforslag"],"poeng":4}}
+{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["derivasjon","funksjoner","geometri"],"fag":["1t"],"eksamen":"h25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":5}],"title":"Størst mulig rektangel under kurve","status":1,"source":null,"todo":null,"poeng":4,"permalink":"/storst-mulig-rektangel-under-kurve/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-15","aliases":[],"temaer":["derivasjon","funksjoner","geometri"],"fag":["1t"],"eksamen":"h25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":5}],"title":"Størst mulig rektangel under kurve","status":1,"source":null,"todo":null,"poeng":4}}
 ---
 
 
@@ -18,6 +18,4 @@ Punktene $A$, $B$, $C$ og $D$ danner et rektangel. Punktet $A$ ligger i origo, p
 >
 >b) Hvor på $x$-aksen må punktet $B$ ligge for at arealet av rektangelet $ABCD$ skal bli størst mulig?
 
->[!question]- Fasit
->
->[[Løsningsforslag/Løsningsforslag 1T eksamen H2025#2-5\|Løsningsforslag 1T eksamen H2025#2-5]]
+## Fasit

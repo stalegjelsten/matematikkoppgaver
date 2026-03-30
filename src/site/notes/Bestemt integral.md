@@ -11,6 +11,12 @@ $$
 \int _{0}^1 (4x^2+3) \, dx 
 $$
 
->[!question]- Fasit
-> $\frac{13}{3}$
->[[Løsningsforslag/Løsningsforslag S2 eksempelsett 2022#1-1a\|Løsningsforslag S2 eksempelsett 2022#1-1a]]
+## Fasit
+
+$\frac{13}{3}$
+
+## Løsningsforslag
+
+$$
+\int_{0}^{1} 4x^2+3 \, \mathrm{d}x =\left[ \frac{4}{3}x^3+3x \right]_{0}^{1}=\frac{4}{3}+3\cdot1-0=\frac{4}{3}+\frac{9}{3}=\underline{\underline{\frac{13}{3} }}
+$$

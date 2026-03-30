@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-05-23","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["lån","programmering"],"fag":["2p"],"eksamen":"v23","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":7}],"poeng":null,"title":"Sofies lån og nedbetalingsprogram","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/sofies-lan-og-nedbetalingsprogram/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-05-23","modified":"2026-03-28","aliases":[],"temaer":["lån","programmering"],"fag":["2p"],"eksamen":"v23","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":7}],"poeng":null,"title":"Sofies lån og nedbetalingsprogram","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2023-05-23","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["lån","programmering"],"fag":["2p"],"eksamen":"v23","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":7}],"poeng":null,"title":"Sofies lån og nedbetalingsprogram","status":0,"source":null,"todo":null,"permalink":"/sofies-lan-og-nedbetalingsprogram/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-05-23","modified":"2026-03-28","aliases":[],"temaer":["lån","programmering"],"fag":["2p"],"eksamen":"v23","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":7}],"poeng":null,"title":"Sofies lån og nedbetalingsprogram","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -46,6 +46,4 @@ Nedenfor ser du resultatet hun får når hun kjører programmet.
 >a) Du skal hjelpe Sofie med å endre programmet. Sett inn formler i stedet for tallet null i linje 12, 13 og 14, og gjør endringer slik at hele den riktige nedbetalingsplanen skrives ut.
 >b) Hvor mange måneder vil det ta før lånet er betalt ned?
 
->[!question]- Fasit
->
->[[Løsningsforslag 2P eksamen V2023#2-7\|Løsningsforslag 2P eksamen V2023#2-7]]
+## Fasit

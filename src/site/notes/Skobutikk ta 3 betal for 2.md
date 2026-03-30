@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["prosentregning","økonomi"],"fag":["1p"],"eksamen":"v24","del":2,"oppgave":7,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":7}],"poeng":4,"title":"Skobutikk ta 3 betal for 2","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/skobutikk-ta-3-betal-for-2/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-28","aliases":[],"temaer":["prosentregning","økonomi"],"fag":["1p"],"eksamen":"v24","del":2,"oppgave":7,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":7}],"poeng":4,"title":"Skobutikk ta 3 betal for 2","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-28","aliases":[],"dg-publish":true,"temaer":["prosentregning","økonomi"],"fag":["1p"],"eksamen":"v24","del":2,"oppgave":7,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":7}],"poeng":4,"title":"Skobutikk ta 3 betal for 2","status":1,"source":null,"todo":null,"permalink":"/skobutikk-ta-3-betal-for-2/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-23","modified":"2026-03-28","aliases":[],"temaer":["prosentregning","økonomi"],"fag":["1p"],"eksamen":"v24","del":2,"oppgave":7,"oppgavenummer":[{"fag":"1p","del":2,"oppgave":7}],"poeng":4,"title":"Skobutikk ta 3 betal for 2","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -17,6 +17,4 @@ Du velger et par sko som koster $800$ kroner, og et par sko som koster $1550$ kr
 >[!oppgave]
 >Vis hvordan du kan bruke prosentregning til å bestemme hvor mye hver av dere bør betale. Begrunn framgangsmåten din, og forklar hvordan du har tenkt.
 
->[!question]- Fasit
->
->[[Løsningsforslag/Løsningsforslag 1P eksamen V2024#2-7\|Løsningsforslag 1P eksamen V2024#2-7]]
+## Fasit

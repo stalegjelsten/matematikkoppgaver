@@ -27,7 +27,6 @@ Ida stiller to spørsmål:
 >[!oppgave]
 >Svar på spørsmålene Ida stiller. Husk å begrunne svarene.
 
->[!question]- Fasit
->
-> $12 \, \mathrm{timer}$ for 6-åring; $12 \, \mathrm{år}$ for 10 timers søvn
-> [[Løsningsforslag/Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 1-3\|Løsningsforslag 1P-Y EL eksamen H2025#Oppgave 1-3]]
+## Fasit
+
+$12 \, \mathrm{timer}$ for 6-åring; $12 \, \text{år}$ for 10 timers søvn

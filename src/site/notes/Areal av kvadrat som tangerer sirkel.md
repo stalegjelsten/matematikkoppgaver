@@ -10,6 +10,6 @@
 > [!oppgave]
 >  Hva er arealet av kvadratet?
 
->[!question]- Fasit
-> $A=16$
->
+## Fasit
+
+$A=16$

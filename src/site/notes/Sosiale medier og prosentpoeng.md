@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"dg-publish":true,"temaer":["prosentregning","argumentasjon"],"fag":["1p"],"eksamen":"h23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":2}],"poeng":null,"title":"Sosiale medier og prosentpoeng","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/sosiale-medier-og-prosentpoeng/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"temaer":["prosentregning","argumentasjon"],"fag":["1p"],"eksamen":"h23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":2}],"poeng":null,"title":"Sosiale medier og prosentpoeng","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"dg-publish":true,"temaer":["prosentregning","argumentasjon"],"fag":["1p"],"eksamen":"h23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":2}],"poeng":null,"title":"Sosiale medier og prosentpoeng","status":1,"source":null,"todo":null,"permalink":"/sosiale-medier-og-prosentpoeng/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"temaer":["prosentregning","argumentasjon"],"fag":["1p"],"eksamen":"h23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":2}],"poeng":null,"title":"Sosiale medier og prosentpoeng","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -18,6 +18,4 @@ Opplysningene ovenfor er hentet fra ssb.no.
 >
 >Hvor mange prosent tilsvarer økningen på 8 prosentpoeng?
 
->[!question]- Fasit
->
->[[Løsningsforslag/Løsningsforslag 1P eksamen H2023#1-2\|Løsningsforslag 1P eksamen H2023#1-2]]
+## Fasit

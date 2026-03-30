@@ -13,6 +13,4 @@ $$
 
 Bestem $a_{1}$ slik at den minste mulige summen blir 1.
 
->[!question]- Fasit
-> 
->
+## Fasit

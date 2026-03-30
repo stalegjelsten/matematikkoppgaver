@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["vektorer","geometri"],"fag":["r2"],"eksamen":"h25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":1}],"title":"Miniubåt, fart og kollisjon med fiskestim","status":1,"source":null,"todo":null,"permalink":"/miniubat-fart-og-kollisjon-med-fiskestim/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"temaer":["vektorer","geometri"],"fag":["r2"],"eksamen":"h25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":1}],"title":"Miniubåt, fart og kollisjon med fiskestim","status":1,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["vektorer","geometri"],"fag":["r2"],"eksamen":"h25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":1}],"title":"Miniubåt, fart og kollisjon med fiskestim","status":3,"source":null,"todo":null,"permalink":"/miniubat-fart-og-kollisjon-med-fiskestim/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"temaer":["vektorer","geometri"],"fag":["r2"],"eksamen":"h25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":1}],"title":"Miniubåt, fart og kollisjon med fiskestim","status":3,"source":null,"todo":null}}
 ---
 
 
@@ -24,9 +24,40 @@ Fiskestimen har en tilnærmet kuleform med radius på 15 meter. Miniubåten er 4
 >[!oppgave]
 >c) Gjør beregninger og vurder om miniubåten kommer til å kollidere med fiskestimen.
 
->[!question]- Fasit
->
-> a) $\approx 10{,}3 \, \mathrm{m/s}$
-> b) $312{,}5 \, \mathrm{m}$ under havoverflaten
-> c) Minimumsavstand $\approx 39{,}8 \, \mathrm{m}$ — ingen kollisjon
-> [[Løsningsforslag/Løsningsforslag R2 eksamen H2025#2-1\|Løsningsforslag R2 eksamen H2025#2-1]]
+## Fasit
+
+a) $\approx 10{,}3 \, \mathrm{m/s}$
+b) $312{,}5 \, \mathrm{m}$ under havoverflaten
+c) Minimumsavstand $\approx 39{,}8 \, \mathrm{m}$ — ingen kollisjon
+
+## Løsningsforslag
+
+### 2-1a
+
+Vi definerer posisjonsvektoren, deriverer og beregner farten ved $t = 2$ i GeoGebra CAS:
+
+![GeoGebra CAS](/img/user/_resources/r2-h25-2-1-a-CAS.png)
+
+**Farten til miniubåten etter 2 sekunder er $\underline{\underline{\approx 10{,}3 \, \mathrm{m/s}}}$.**
+
+### 2-1b
+
+Vi definerer $z$-koordinaten, løser $z'(t) = 0$ og evaluerer minimumsposisjonen i GeoGebra CAS:
+
+![GeoGebra CAS](/img/user/_resources/r2-h25-2-1-b-CAS.png)
+
+CAS gir $t = 25$ og $\mathrm{dyp}(25) = -\frac{625}{2} = -312{,}5$.
+
+**Miniubåten er dypest $\underline{\underline{312{,}5 \, \mathrm{m}}}$ under havoverflaten.**
+
+### 2-1c
+
+Vi definerer begge posisjonsvektorene, beregner differansevektoren $\vec{d}(t) = \vec{r}(t) - \vec{s}(t)$ og avstandsfunksjonen $A(t) = |\vec{d}(t)|$. Så bruker vi `Min(A, 0, 60)` for å finne minimumsavstanden numerisk:
+
+![GeoGebra CAS](/img/user/_resources/r2-h25-2-1-c-CAS.png)
+
+CAS gir minimumsavstand $\approx 39{,}83 \, \mathrm{m}$ ved $t \approx 8{,}39 \, \mathrm{s}$.
+
+For at miniubåten skal kollidere med fiskestimen, må avstanden mellom sentrene være mindre enn fiskestimens radius ($15 \, \mathrm{m}$) pluss halvparten av miniubåtens største tverrsnitt ($\approx 4 \, \mathrm{m}$), altså under $19 \, \mathrm{m}$.
+
+Siden minimumsavstanden $\approx 39{,}8 \, \mathrm{m} \gg 19 \, \mathrm{m}$, vil miniubåten **ikke** kollidere med fiskestimen.
