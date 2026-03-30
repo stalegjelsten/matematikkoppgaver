@@ -38,3 +38,23 @@ Oscar og Maja stiller tre spørsmål:
 ## Fasit
 
 Oscar: $v = 11{,}76 \, \mathrm{m/s}$; Maja: nei, $\sqrt{2}$ ganger (ikke dobbel); $t \approx 1{,}43 \, \mathrm{s}$
+
+
+## Løsningsforslag
+**Oscar:** $t = 1{,}2\mathrm{~s}$, Formel 1:
+
+$$v = 9{,}8 \cdot 1{,}2 = \underline{\underline{11{,}76\mathrm{~m/s}}}$$
+
+**Maja – dobbel fart?** Vi bruker Formel 2 for begge høyder:
+
+$$v_{10} = \sqrt{2 \cdot 9{,}8 \cdot 10} = \sqrt{196} = 14\mathrm{~m/s}$$
+
+$$v_5 = \sqrt{2 \cdot 9{,}8 \cdot 5} = \sqrt{98} \approx 9{,}90\mathrm{~m/s}$$
+
+$$\frac{v_{10}}{v_5} = \frac{14}{9{,}90} \approx 1{,}41 = \sqrt{2}$$
+
+Farten er ikke dobbel – den er $\sqrt{2} \approx 1{,}41$ ganger så stor, fordi farten øker med kvadratroten av høyden.
+
+**Maja – tid fra 10 m:**
+
+$$v_{10} = 14\mathrm{~m/s} \implies t = \frac{v}{9{,}8} = \frac{14}{9{,}8} \approx \underline{\underline{1{,}43\mathrm{~s}}}$$

@@ -77,3 +77,51 @@ b) Chris har lånt 25 000 kr og han betaler tilbake $12 \cdot 2321=27\,852 \math
 **Lånet koster 2852 kr.**
 c) ![](/img/user/_resources/chris-sparing-excel.png)  
 **Chris har 25 000 kr på kontoen etter han har satt inn sparebeløpet i måned 11.**
+
+## Løsningsforslag
+
+### a
+
+Vi beregner prisen for alternativ 1 med 8 kjøretimer:
+
+$$
+\begin{aligned}
+&3300 + 1580 + 5950 + 8500 + 8 \cdot 850 \\
+= \, &3300 + 1580 + 5950 + 8500 + 6800 \\
+= \, &26\,130 \, \mathrm{kr}
+\end{aligned}
+$$
+
+Alternativ 2 koster $25\,000 \, \mathrm{kr}$ og inkluderer de samme kursene med 8 kjøretimer.
+
+**Chris bør velge alternativ 2 (pakketilbudet). Det er $\underline{\underline{1\,130 \, \mathrm{kr}}}$ billigere enn alternativ 1.**
+
+### b
+
+Total innbetalt med lånet:
+
+$$
+12 \cdot 2321 = 27\,852 \, \mathrm{kr}
+$$
+
+Lånekostnad (det ekstra han betaler):
+
+$$
+27\,852 - 25\,000 = 2\,852 \, \mathrm{kr}
+$$
+
+**Den totale kostnaden for lånet er $\underline{\underline{2\,852 \, \mathrm{kr}}}$.**
+
+### c
+
+>[!note] Excel-oppgave
+>Denne oppgaven løses i Excel. Under er et eksempel på hvordan regnearket kan se ut.
+
+![Regneark for Chris' sparing](/img/user/_resources/chris-sparing-excel.png)
+
+Formlene i de grønne cellene er:
+
+- **Renter:** `= forrige saldo × 0,0035`
+- **Ny saldo:** `= forrige saldo + renter + innskudd`
+
+**Chris har 25 000 kroner på kontoen etter at han har satt inn sparebeløpet i måned 11** (saldo ≈ 25 747 kr).

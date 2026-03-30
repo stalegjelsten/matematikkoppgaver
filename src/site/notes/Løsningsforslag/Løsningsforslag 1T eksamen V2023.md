@@ -225,14 +225,14 @@ Nedenfor ser du grafen til en rasjonal funksjon $f$.
 
 Bestem $f(x)$. Husk å argumentere for at svaret ditt er riktig.
 
-![](https://cdn.mathpix.com/cropped/2023_05_27_a24cc63899b82eb58efdg-14.jpg?height=1103&width=1516&top_left_y=605&top_left_x=270)
+![Rasjonal funksjon $f$](/img/user/_resources/1t-v23-1-4-rasjonal.png)
 
 > [!info] Kommentar til oppgaven
 > Kommentar: det finnes uendelig mange ulike funksjonsuttrykk som passer. Det holder å finne et funksjonsuttrykk. Inkluder gjerne definisjonsmengden i svaret ditt.
 
 ## Fasit
 
-En mulighet er $f(x)=\frac{3x-6}{x-1}, \quad D_{f} = \mathbb{R} \setminus 1$
+En mulighet er $f(x)=\frac{3x-6}{x-1}, \quad D_{f} = \mathbb{R} \setminus \{ 1 \}$
 
 ## Løsningsforslag
 
@@ -266,7 +266,7 @@ $
 \underline{\underline{f(x)=\frac{3x-6}{x-1}, \quad D_{f}=\mathbb{R} \setminus 1}}
 $
 
-*Kommentar: Jeg tolker oppgaveteksten som at vi skal finne én funksjon $f(x)$ som passer til grafen. Generelt vil alle uttrykk på formen $\frac{3cx-6c}{cx-c}$ der $\left( c\in \mathbb{R} \right)\wedge\left( x\in \mathbb{R}\setminus 1 \right)$ passe til grafen, så det kan godt være at dette generelle uttrykket er et bedre svar på oppgaven.*
+*Kommentar: Jeg tolker oppgaveteksten som at vi skal finne én funksjon $f(x)$ som passer til grafen. Generelt vil alle uttrykk på formen $\frac{3cx-6c}{cx-c}$ der $\left( c\in \mathbb{R} \right)\wedge\left( x\in \mathbb{R}\setminus \left\{ 1 \right\} \right)$ passe til grafen, så det kan godt være at dette generelle uttrykket er et bedre svar på oppgaven.*
 
 
 </div></div>
@@ -6744,6 +6744,32 @@ print(f"Arealet av rektanglene er {areal:.3f}")
 
 ```
 
+
+> [!tip] Alternativ løsning med lister
+>
+> Denne løsningen er omtrent 3 ganger så kjapp og bruker lister istedenfor en løkke (men den krever også `numpy` biblioteket).
+>```python
+>import numpy as np
+>def f(x):
+>    return 1 / 9 * (x + 1) * (x - 6) ** 2 # Definerer funksjonen
+>
+>x_min = 0                           # Startverdi for x
+>x_maks = 6                          # Sluttverdi for x
+>
+>n = 6000                            # antall rektangler
+>
+>bredde = (x_maks - x_min) / n       # bredden av hvert rektangel
+>
+>x = np.linspace(x_min, x_maks, n+1) # lager array med x-verdier
+>y = f(x)                            # regner ut funksjonsverdien
+>                                     # f(x) for hver x
+>areal = sum(f(x)*bredde)            # multipliserer bredde med høyde
+>									   # og summerer til slutt
+>print(f"Arealet av rektanglene er {areal:.3f}")
+>```
+
+
+
 ### 2-4c
 Bruker programmet jeg lagde i 4b. **Det gir utskriften `Arealet av rektanglene er 20.002`.**
 
@@ -6902,27 +6928,6 @@ Vi kan også se at $b=0$ vil gi et terrassepunkt fra løsningene av $P'(x)=0$ so
 ## Alternative løsninger
 ## Del 2 oppgave 4b
 
-Denne løsningen er omtrent 3 ganger så kjapp og bruker lister istedenfor en løkke (men den krever også `numpy` biblioteket).
-```python
-import numpy as np
-def f(x):
-    return 1 / 9 * (x + 1) * (x - 6) ** 2   # Definerer funksjonen
-
-
-x_min = 0                                   # Startverdi for x
-x_maks = 6                                  # Sluttverdi for x
-
-n = 6000                                    # antall rektangler
-
-bredde = (x_maks - x_min) / n               # bredden av hvert rektangel
-
-x = np.linspace(x_min, x_maks, n+1)         # lager array med x-verdier
-y = f(x)                                    # regner ut funksjonsverdien
-                                            # f(x) for hver x
-areal = sum(f(x)*bredde)                    # multipliserer bredde med høyde
-											# og summerer til slutt
-print(f"Arealet av rektanglene er {areal:.3f}")
-```
 
 ## Om løsningsforslaget
 

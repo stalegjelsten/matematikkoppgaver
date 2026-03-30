@@ -19,3 +19,15 @@ En maraton er $42\,195 \mathrm{~m}$ lang. I 2023 løp Kelvin Kiptum fra Kenya en
 
 a) $3 \, \mathrm{km}$
 b) $\approx 3 \, \mathrm{min/km}$
+
+## Løsningsforslag
+
+### a
+Jens løper $12\mathrm{~km/h}$ i $15\mathrm{~min} = \frac{15}{60}\mathrm{~t} = 0{,}25\mathrm{~t}$:
+
+$$s = 12 \cdot 0{,}25 = \underline{\underline{3\mathrm{~km}}}$$
+
+
+### b
+2 timer er 120 minutter. Hvis vi runder av så kan vi si at et maraton er omtrent 40 km. Da er farten
+$$\dfrac{120}{40} = \underline{\underline{ 3\mathrm{~min/km} }}$$

@@ -50,3 +50,19 @@ Elevene stiller noen spørsmål:
 ## Fasit
 
 $P \approx 17\,879 \, \mathrm{kW}$; $E \approx 858\,000 \, \mathrm{kWh}$; inntekt $\approx 343\,000 \, \mathrm{kr}$; $Q \approx 6{,}29 \, \mathrm{m}^3/\mathrm{s}$
+
+## Løsningsforslag
+
+**Effekt:**
+
+$$P = \eta \cdot \rho \cdot g \cdot Q \cdot h = 0{,}9 \cdot 1000 \cdot 9{,}81 \cdot 4{,}5 \cdot 450 \approx \underline{\underline{17\,879\mathrm{~kW}}}$$
+
+**Energimengde og inntekt på 48 timer:**
+
+$$E = 17\,879\mathrm{~kW} \cdot 48\mathrm{~t} \approx 858\,000\mathrm{~kWh}$$
+
+$$\text{Inntekt} = 858\,000 \cdot 0{,}40 \approx \underline{\underline{343\,000\mathrm{~kr}}}$$
+
+**Ny $Q$ når $P = 25\,000\mathrm{~kW}$:**
+
+$$Q = \frac{P}{\eta \cdot \rho \cdot g \cdot h} = \frac{25\,000\,000}{0{,}9 \cdot 1000 \cdot 9{,}81 \cdot 450} \approx \underline{\underline{6{,}29\mathrm{~m}^3/\mathrm{s}}}$$

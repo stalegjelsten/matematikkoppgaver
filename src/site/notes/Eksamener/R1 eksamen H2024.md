@@ -1,0 +1,408 @@
+---
+{"tags":["eksamen"],"fag":["r1"],"eksamen":"h24","date":"2024-11-14","title":"R1 eksamen H2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r1"],"eksamen":"h24","date":"2024-11-14","title":"R1 eksamen H2024","contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-h2024/"}}
+---
+
+
+# Del 1
+
+## Oppgave 1
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/derivasjon-av-eksponentialfunksjon/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Derivasjon av eksponentialfunksjon
+
+>[!oppgave]
+>Deriver funksjonen
+>$f(x) = \frac{e^{2x}}{x}$
+
+## Fasit
+
+
+## Løsningsforslag
+
+Funksjonen består av en brøk med funksjoner i både teller og nevner, så vi må bruke kvotientregelen når vi deriverer.
+$
+f(x)=\frac{u}{v}\implies f'(x)=\frac{u'v+uv'}{v^{2}}
+$
+$
+f'(x)=\frac{2e^{2x} \cdot x + e^{2x}\cdot 1}{x^{2}}=\underline{\underline{e^{2x} \frac{2x+1}{x^{2}}}}
+$
+
+
+</div></div>
+
+
+## Oppgave 2
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/finne-verdi-programmet-skriver-ut/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Finne verdi programmet skriver ut
+
+Bruk en egnet strategi til å bestemme verdien som skrives ut når programmet nedenfor kjøres.
+
+
+```python ln
+def O(x):
+    return -0.1*x**2 + 2000*x - 50000
+
+x = 0
+
+while O(x + 1) > O(x):
+    x = x + 1
+
+print(x)
+```
+
+## Fasit
+
+
+## Løsningsforslag
+
+Jeg ser at programmet består av en funksjon $O(x)$ som muligens er en overskuddsfunksjon. `while`-løkka i programmet kjører så lenge $O(x+1)>O(x)$, altså kjører løkka så lenge $O(x)$ stiger. Inni løkka økes $x$-verdien med 1, altså vil programmet skrive ut $x$-koordinaten til toppunktet til $O(x)$.
+
+Den enkleste måten å bestemme toppunktet på er å derivere $O$ og sette lik null.
+$
+\begin{aligned}
+O'(x)&=-0{,}2x+2000 \\
+-0{,}2x+2000 &= 0\\
+0{,}2x&=2000\\
+x&=10\,000
+\end{aligned}
+$
+**Programmet skriver ut 10 000.**
+
+
+</div></div>
+
+
+## Oppgave 3
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/eksponentiallikning-med-substitusjon/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Eksponentiallikning med substitusjon
+
+>[!oppgave]
+>Løs likningen
+>$100^x - 3 \cdot 10^x = 4$
+
+## Fasit
+
+
+## Løsningsforslag
+
+Jeg ser at likningen består av tierpotenser.
+$
+\begin{aligned}
+100^{x}-3 \cdot 10^{x}&=4\\
+\left( 10^{x} \right)^{2}  -3 \cdot 10^{x} - 4&=0\\
+\end{aligned}
+$
+Dette ser jeg at kan skrives som en andregradslikning hvor $u=10^{x}$.
+$
+u^{2}-3u-4=0 \implies \underbrace{ (u-4)(u+1)=0 }_{ \text{Heltallsmetode} } \implies \underline{ u= 4 \vee u=-1} 
+$
+Vi bytter substituerer tilbake.
+$
+\begin{aligned}
+10^{x}&=4 \vee \underbrace{ \cancel{ 10^{x}=-1 } }_{ 10^{x} \text{ er positivt} } \\
+\log 10^{x} &= \log 4\\
+x&= \log 4
+\end{aligned}
+$
+**Løsningen er $\underline{\underline{x=\log 4}}$**.
+
+
+</div></div>
+
+
+## Oppgave 4
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/grenseverdi-for-rasjonalt-uttrykk/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Grenseverdi for rasjonalt uttrykk
+
+>[!oppgave]
+>Finn grenseverdien hvis den eksisterer.
+>$\lim_{x \to \infty} \frac{x^2 + x - 12}{2x^2 - 18}$
+
+## Fasit
+
+
+## Løsningsforslag
+
+Vi ser at både teller og nevner går mot uendelig når $x \to \infty$. Vi kan altså bruke L'Hopitals regel.
+$
+\lim_{ x \to \infty } \frac{x^{2}+x-12}{2x^{2}-18}=\lim_{ x \to \infty } \frac{2x+1}{4x}=\lim_{ x \to \infty } \frac{2+\frac{1}{x}}{4}=\frac{2+0}{4}=\frac{1}{2}
+$
+**Grenseverdien er $\underline{\underline{\frac{1}{2}}}$.**
+
+
+</div></div>
+
+
+## Oppgave 5
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/koordinatvektorer-lengde-og-ortogonalitet/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Koordinatvektorer, lengde og ortogonalitet
+
+Fire vektorer er gitt ved $\vec{u} = [3, -2]$, $\vec{v} = [4, -6]$, $\vec{w} = [2, -3]$ og $\vec{p} = [8, 12]$
+
+>[!oppgave]
+>a) Avgjør om noen av vektorene er
+>- like lange
+>- ortogonale
+
+En vektor er gitt ved $\vec{q} = [2a - 3,\ 1 + 3b]$
+
+>[!oppgave]
+>b) Bestem $a$ og $b$ slik at $\vec{u} + 2\vec{q} = [7, 5]$
+
+## Fasit
+
+
+</div></div>
+
+
+## Oppgave 6
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/identifiser-funksjon-fra-vekstfart-og-derivert/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Identifiser funksjon fra vekstfart og derivert
+
+I koordinatsystemet nedenfor ser du grafene til tre funksjoner, $f$, $g$ og $h$. En av funksjonene har gjennomsnittlig vekstfart lik $\frac{1}{2}$ i intervallet $\left[0, 4\right]$, og derivert lik 1 når $x = 1$.
+
+![Koordinatsystem med tre funksjoner f, g og h](/img/user/_resources/s1-h24-1-6.jpeg)
+
+>[!oppgave]
+>Hvilken av funksjonene er dette? Husk å begrunne svaret ditt.
+
+## Fasit
+
+
+## Løsningsforslag
+
+At den deriverte er lik 1 når $x=1$ vil si at stigningstallet til tangenten til grafen når $x=1$ skal være 1. Det utelukker funksjon $g$ som har stigningstall $\frac{1}{2}$.
+
+Funksjonen $h$ har gjennomsnittlig har null i gjennomsnittlig vekstfart i intervallet $[0,4]$, og dermed er også denne funksjonen utelukket.
+
+Det er litt vanskelig å lese av stigningstallet til tangenten til $f$ i $x=1$, men det kan godt stemme at stigningstallet er 1. Den gjennomsnittlige vekstfarten i intervallet $[0,4]$ er $\frac{2}{4}=\frac{1}{2}$.
+
+**Funksjon $\underline{\underline{f}}$ passer til beskrivelsen.**
+
+
+</div></div>
+
+
+# Del 2
+
+## Oppgave 1
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/vannreservoar-med-eksponentiell-funksjon/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Vannreservoar med eksponentiell funksjon
+
+Et gammelt vannreservoar lekker vann. Mengden vann i reservoaret $V$ er gitt ved
+
+$V(t) = 10000 \cdot e^{-0{,}07t} + 500$
+
+Her er $t$ antall timer etter lekkasjen startet, og mengden vann er målt i antall liter.
+
+>[!oppgave]
+>a) Hvor lang tid vil det gå før vannmengden er halvert?
+>b) Bestem $V'(12)$ og $V''(12)$. Gi en praktisk tolkning av svarene.
+>c) Undersøk om $V$ har asymptoter, og gi en praktisk tolkning av verdien til eventuelle asymptoter.
+
+## Fasit
+
+
+</div></div>
+
+
+## Oppgave 2
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/pastander-om-grenseverdi-og-deriverbarhet/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Påstander om grenseverdi og deriverbarhet
+
+Avgjør om hver enkelt påstand nedenfor er sann eller usann. Forklar tydelig hvordan du har resonnert.
+
+>[!oppgave]
+>a) **Påstand:** Hvis $\lim_{x\to\infty} f(x) = \lim_{x\to\infty} g(x)$ og $\lim_{x\to-\infty} f(x) = \lim_{x\to-\infty} g(x)$, så er $f(x) = g(x)$.
+>b) **Påstand:** Funksjonen $f(x) = |x|$ er deriverbar for alle $x \in \mathbb{R}$, bortsett fra i $x = 0$.
+>c) **Påstand:** For likningen $a^x = a^y$, der $a \in \mathbb{R}$, er løsningen alltid $x = y$.
+
+## Fasit
+
+
+</div></div>
+
+
+## Oppgave 3
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/fiskepopulasjon-og-logistisk-modell/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Fiskepopulasjon og logistisk modell
+
+Forskere har registrert en ny fiskeart i en innsjø. I tabellen nedenfor ser du hvor mange fisk av arten det var i innsjøen noen måneder etter at arten først ble registrert.
+
+| Måneder etter første registrering | 0 | 1   | 2   | 3 | 4  | 5  | 6  | 7  | 8  |
+|-----------------------------------|---|-----|-----|---|----|----|----|----|-----|
+| Antall tusen fisk                 | 1 | 2,5 | 5,5 | 9 | 14 | 22 | 32 | 45 | 60 |
+
+Fiskepopulasjonen kan beskrives med en modell på formen
+
+$A(t) = A_0 \cdot k^t$
+
+der $A(t)$ er antall tusen fisk $t$ måneder etter første registrering.
+
+>[!oppgave]
+>a) Bestem $A_0$ og $k$, og gi en praktisk tolkning av disse verdiene.
+
+Fiskepopulasjonen kan også beskrives med en logistisk modell på formen
+
+$N(t) = \frac{B}{1 + \dfrac{B - N_0}{N_0} e^{-r \cdot t}}$
+
+$B$ er bæreevnen, $N_0$ er antall tusen fisk ved $t = 0$ og $r$ er vekstparameteren.
+
+>[!oppgave]
+>b) Bestem $N_0$, $B$ og $r$.
+>c) Bestem den deriverte til funksjonene du fant i oppgavene a) og b). Forklar hvordan vekstfarten endrer seg ifølge hver av de to modellene.
+>d) Hvilken modell mener du beskriver den praktiske situasjonen best? Hvor mange fisk vil det være 12 måneder etter første registrering, ifølge denne modellen?
+
+## Fasit
+
+
+</div></div>
+
+
+## Oppgave 4
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/bestem-grunntall-i-logaritmefunksjon/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Bestem grunntall i logaritmefunksjon
+
+I koordinatsystemet nedenfor ser du grafen til en funksjon $f$ gitt ved
+
+$f(x) = \log_a(x)$
+
+![Graf av logaritmefunksjon med ukjent grunntall](/img/user/_resources/s1-h24-2-3.jpeg)
+
+>[!oppgave]
+>Bestem $a$. Husk å argumentere for at svaret ditt er riktig.
+
+## Fasit
+
+
+</div></div>
+
+
+## Oppgave 5
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/omvendt-funksjon-fra-graf/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Omvendt funksjon fra graf
+
+Nedenfor ser du grafene til funksjonene $f$, $g$ og $h$.
+
+![Grafene til f, g og h](/img/user/_resources/r1-h24-2-5.jpeg)
+
+>[!oppgave]
+>a) Avgjør og begrunn for hver av funksjonene om de har en omvendt funksjon.
+>b) Bestem funksjonsuttrykket og definisjonsmengden til den omvendte funksjonen i de tilfellene den eksisterer.
+
+## Fasit
+
+
+</div></div>
+
+
+## Oppgave 6
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/posisjonsvektorer-for-smafugler-og-rovfugl/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Posisjonsvektorer for småfugler og rovfugl
+
+To småfugler er ute og flyr. Posisjonen til de to fuglene er gitt ved
+
+$\vec{r}_1(t) = [-10 + 6t,\ 35 - 3t] \quad \text{og} \quad \vec{r}_2(t) = [2 + 5t,\ 4t]$
+
+Tiden $t$ er målt i sekunder, og enhetene langs aksene er målt i meter.
+
+>[!oppgave]
+>a) Hvor fort flyr hver av de to småfuglene?
+>b) Hvor stor er avstanden mellom småfuglene når $t = 0$?
+>c) På hvilket tidspunkt er småfuglene nærmest hverandre, og hvor langt unna hverandre er de da?
+
+En rovfugl er også ute og flyr og oppdager småfuglene ved tidspunktet $t = 0$. Posisjonen til rovfuglen de første 6 sekundene er gitt ved
+
+$\vec{r}_R(t) = [7t - 10,\ 2t^2 - 6t + 5]$
+
+>[!oppgave]
+>d) Gjør nødvendige beregninger og beskriv jakten rovfuglen har på småfuglene.
+
+## Fasit
+
+
+</div></div>
+

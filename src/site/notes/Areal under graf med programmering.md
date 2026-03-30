@@ -6229,5 +6229,31 @@ print(f"Arealet av rektanglene er {areal:.3f}")
 
 ```
 
+
+> [!tip] Alternativ løsning med lister
+>
+> Denne løsningen er omtrent 3 ganger så kjapp og bruker lister istedenfor en løkke (men den krever også `numpy` biblioteket).
+>```python
+>import numpy as np
+>def f(x):
+>    return 1 / 9 * (x + 1) * (x - 6) ** 2 # Definerer funksjonen
+>
+>x_min = 0                           # Startverdi for x
+>x_maks = 6                          # Sluttverdi for x
+>
+>n = 6000                            # antall rektangler
+>
+>bredde = (x_maks - x_min) / n       # bredden av hvert rektangel
+>
+>x = np.linspace(x_min, x_maks, n+1) # lager array med x-verdier
+>y = f(x)                            # regner ut funksjonsverdien
+>                                     # f(x) for hver x
+>areal = sum(f(x)*bredde)            # multipliserer bredde med høyde
+>									   # og summerer til slutt
+>print(f"Arealet av rektanglene er {areal:.3f}")
+>```
+
+
+
 ### 2-4c
 Bruker programmet jeg lagde i 4b. **Det gir utskriften `Arealet av rektanglene er 20.002`.**

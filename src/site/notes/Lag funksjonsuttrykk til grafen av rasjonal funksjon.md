@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"temaer":["rasjonale funksjoner","funksjoner","utforskning","tolke grafer","asymptoter"],"aliases":null,"del":1,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":4}],"fag":["1t"],"eksamen":"v23","dg-publish":true,"title":"Lag funksjonsuttrykk til grafen av rasjonal funksjon","date":"2023-05-31","modified":"2023-05-31","status":3,"permalink":"/lag-funksjonsuttrykk-til-grafen-av-rasjonal-funksjon/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"temaer":["rasjonale funksjoner","funksjoner","utforskning","tolke grafer","asymptoter"],"aliases":null,"del":1,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":4}],"fag":["1t"],"eksamen":"v23","title":"Lag funksjonsuttrykk til grafen av rasjonal funksjon","date":"2023-05-31","modified":"2023-05-31","status":3}}
+{"tags":["oppgave"],"temaer":["rasjonale funksjoner","funksjoner","utforskning","tolke grafer","asymptoter"],"aliases":[],"del":1,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":4}],"fag":["1t"],"eksamen":"v23","dg-publish":true,"title":"Lag funksjonsuttrykk til grafen av rasjonal funksjon","date":"2023-05-31","modified":"2026-03-30","status":3,"permalink":"/lag-funksjonsuttrykk-til-grafen-av-rasjonal-funksjon/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"temaer":["rasjonale funksjoner","funksjoner","utforskning","tolke grafer","asymptoter"],"aliases":[],"del":1,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":4}],"fag":["1t"],"eksamen":"v23","title":"Lag funksjonsuttrykk til grafen av rasjonal funksjon","date":"2023-05-31","modified":"2026-03-30","status":3}}
 ---
 
 
@@ -9,14 +9,14 @@ Nedenfor ser du grafen til en rasjonal funksjon $f$.
 
 Bestem $f(x)$. Husk å argumentere for at svaret ditt er riktig.
 
-![](https://cdn.mathpix.com/cropped/2023_05_27_a24cc63899b82eb58efdg-14.jpg?height=1103&width=1516&top_left_y=605&top_left_x=270)
+![Rasjonal funksjon $f$](/img/user/_resources/1t-v23-1-4-rasjonal.png)
 
 > [!info] Kommentar til oppgaven
 > Kommentar: det finnes uendelig mange ulike funksjonsuttrykk som passer. Det holder å finne et funksjonsuttrykk. Inkluder gjerne definisjonsmengden i svaret ditt.
 
 ## Fasit
 
-En mulighet er $f(x)=\frac{3x-6}{x-1}, \quad D_{f} = \mathbb{R} \setminus 1$
+En mulighet er $f(x)=\frac{3x-6}{x-1}, \quad D_{f} = \mathbb{R} \setminus \{ 1 \}$
 
 ## Løsningsforslag
 
@@ -50,4 +50,4 @@ $$
 \underline{\underline{f(x)=\frac{3x-6}{x-1}, \quad D_{f}=\mathbb{R} \setminus 1}}
 $$
 
-*Kommentar: Jeg tolker oppgaveteksten som at vi skal finne én funksjon $f(x)$ som passer til grafen. Generelt vil alle uttrykk på formen $\frac{3cx-6c}{cx-c}$ der $\left( c\in \mathbb{R} \right)\wedge\left( x\in \mathbb{R}\setminus 1 \right)$ passe til grafen, så det kan godt være at dette generelle uttrykket er et bedre svar på oppgaven.*
+*Kommentar: Jeg tolker oppgaveteksten som at vi skal finne én funksjon $f(x)$ som passer til grafen. Generelt vil alle uttrykk på formen $\frac{3cx-6c}{cx-c}$ der $\left( c\in \mathbb{R} \right)\wedge\left( x\in \mathbb{R}\setminus \left\{ 1 \right\} \right)$ passe til grafen, så det kan godt være at dette generelle uttrykket er et bedre svar på oppgaven.*
