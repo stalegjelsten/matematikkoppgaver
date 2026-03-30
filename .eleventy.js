@@ -626,8 +626,15 @@ module.exports = function(eleventyConfig) {
     if (!isMarkdownPage(this.page.inputPath)) {
       return str;
     }
-    // Only apply to oppgave pages (check for ## Fasit heading in content)
     if (!str || (!str.includes(">Fasit</h2>") && !str.includes(">Løsningsforslag</h2>"))) {
+      return str;
+    }
+    // Only apply to pages tagged #oppgave
+    try {
+      const src = fs.readFileSync(this.page.inputPath, "utf8");
+      const tags = matter(src).data.tags || [];
+      if (!tags.includes("oppgave")) return str;
+    } catch {
       return str;
     }
     const parsed = parse(str);
