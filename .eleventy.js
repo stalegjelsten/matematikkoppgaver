@@ -583,6 +583,51 @@ module.exports = function(eleventyConfig) {
     return str && parsed.innerHTML;
   });
 
+  // Transform ## Fasit and ## Løsningsforslag headings to collapsed callouts.
+  // ## Fasit        → >[!question]- Fasit  (collapsed)
+  // ## Løsningsforslag → >[!success]- Løsningsforslag  (collapsed)
+  // Only applied on oppgave pages.
+  const FOLD_SVG = `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg>`;
+
+  function wrapHeadingContentAsCallout(parsed, headingText, calloutType) {
+    const h2s = parsed.querySelectorAll("h2");
+    for (const h2 of h2s) {
+      if (h2.text.trim() !== headingText) continue;
+
+      // Collect all following siblings until next h2/h3 or end
+      const contentNodes = [];
+      let sibling = h2.nextElementSibling;
+      while (sibling && !["H2", "H3"].includes(sibling.tagName)) {
+        contentNodes.push(sibling);
+        sibling = sibling.nextElementSibling;
+      }
+
+      const contentHtml = contentNodes.map(n => n.outerHTML).join("\n");
+      const calloutHtml = `<div data-callout-metadata class="callout is-collapsible is-collapsed" data-callout="${calloutType}"><div class="callout-title"><div class="callout-title-inner">${headingText}</div><div class="callout-fold">${FOLD_SVG}</div></div><div class="callout-content">${contentHtml}</div></div>`;
+
+      // Replace the h2 with the callout
+      h2.replaceWith(calloutHtml);
+      // Remove the original content nodes
+      for (const node of contentNodes) {
+        node.remove();
+      }
+    }
+  }
+
+  eleventyConfig.addTransform("fasit-heading-to-callout", function(str) {
+    if (!isMarkdownPage(this.page.inputPath)) {
+      return str;
+    }
+    // Only apply to oppgave pages (check for ## Fasit heading in content)
+    if (!str || (!str.includes("<h2>Fasit</h2>") && !str.includes("<h2>Løsningsforslag</h2>"))) {
+      return str;
+    }
+    const parsed = parse(str);
+    wrapHeadingContentAsCallout(parsed, "Fasit", "question");
+    wrapHeadingContentAsCallout(parsed, "Løsningsforslag", "success");
+    return parsed.innerHTML;
+  });
+
   eleventyConfig.addTransform("oppgave-callout-list", function(str) {
     if (!isMarkdownPage(this.page.inputPath)) {
       return str;
