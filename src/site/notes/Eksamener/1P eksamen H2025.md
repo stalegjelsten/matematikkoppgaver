@@ -2,10 +2,9 @@
 {"tags":["eksamen"],"fag":["1p"],"eksamen":"h25","date":"2025-11-28","title":"1P eksamen H2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p"],"eksamen":"h25","date":"2025-11-28","title":"1P eksamen H2025","contentClasses":"eksamen-side","permalink":"/eksamener/1p-eksamen-h2025/"}}
 ---
 
-
 # Del 1
 
-## Oppgave 1
+## Oppgave 1-1
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/busstur-mandal-til-oslo/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -37,7 +36,7 @@ $s = v \cdot t = 80 \cdot 4{,}5 = 360$
 </div></div>
 
 
-## Oppgave 2
+## Oppgave 1-2
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/deksel-og-merverdiavgift/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -73,7 +72,7 @@ $200 - 160 = 40$
 </div></div>
 
 
-## Oppgave 3
+## Oppgave 1-3
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/stovpartikkel-i-standardform/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -105,7 +104,7 @@ $\text{Antall} = \frac{20}{5 \cdot 10^{-9}} = \frac{2 \cdot 10^{1}}{5 \cdot 10^{
 </div></div>
 
 
-## Oppgave 4
+## Oppgave 1-4
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/pyramide-med-proporsjonal-hoyde/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -191,7 +190,7 @@ Dette avhenger av $h$ og er ikke konstant. Vi kan verifisere med noen verdier:
 </div></div>
 
 
-## Oppgave 5
+## Oppgave 1-5
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/lonn-og-timelonn-fra-grafer/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -253,7 +252,61 @@ $t = 36$
 </div></div>
 
 
-## Oppgave 6
+## Oppgave 1-6
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/femkanttall-og-programmering/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Femkanttall og programmering
+
+![De 4 første femkanttallene](/img/user/_resources/1t-h25-1-6.jpeg)
+
+Siri arbeider med femkanttall. Hun har oppdaget en sammenheng og laget programmet nedenfor.
+
+```python ln
+tall = 1
+differanse = 4
+
+while tall <= 60:
+	print(tall)
+	tall = tall + differanse
+	differanse = differanse + 3
+```
+
+
+>[!oppgave]
+>Hvilke tall vil bli skrevet ut når programmet kjøres? Gjør rede for sammenhengen Siri har oppdaget.
+
+## Fasit
+
+
+## Løsningsforslag
+
+Variabelen `tall` inneholder antall sirkler i et femkanttall slik `tall` utvikler seg slik tabellen viser.
+
+| $n$ | tall | differanse |     |
+| :-: | :--: | :--------: | --- |
+|  1  |  1   |     4      |     |
+|  2  |  5   |     7      |     |
+|  3  |  12  |     10     |     |
+|  4  |  22  |     13     |     |
+|  5  |  35  |     16     |     |
+|  6  |  51  |     19     |     |
+|  7  |  70  |     22     |     |
+
+**Tallene 1, 5, 12, 22, 35, 51 og 70 skrives ut av programmet.** 
+
+**Siri har oppdaget at antallet nye sirkler i femkanttalene (de som er tegnet oppe mot høyre i figuren) øker med 3 for hvert femkanttall.**
+
+
+</div></div>
+
+
+## Oppgave 1-6
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-dagersbillett-og-pris-per-tur/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -316,63 +369,9 @@ Månedskortet koster altså 80 kr per tur dersom man tar 15 turer.
 </div></div>
 
 
-## Oppgave 7
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/femkanttall-og-programmering/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-
-# Femkanttall og programmering
-
-![De 4 første femkanttallene](/img/user/_resources/1t-h25-1-6.jpeg)
-
-Siri arbeider med femkanttall. Hun har oppdaget en sammenheng og laget programmet nedenfor.
-
-```python ln
-tall = 1
-differanse = 4
-
-while tall <= 60:
-	print(tall)
-	tall = tall + differanse
-	differanse = differanse + 3
-```
-
-
->[!oppgave]
->Hvilke tall vil bli skrevet ut når programmet kjøres? Gjør rede for sammenhengen Siri har oppdaget.
-
-## Fasit
-
-
-## Løsningsforslag
-
-Variabelen `tall` inneholder antall sirkler i et femkanttall slik `tall` utvikler seg slik tabellen viser.
-
-| $n$ | tall | differanse |     |
-| :-: | :--: | :--------: | --- |
-|  1  |  1   |     4      |     |
-|  2  |  5   |     7      |     |
-|  3  |  12  |     10     |     |
-|  4  |  22  |     13     |     |
-|  5  |  35  |     16     |     |
-|  6  |  51  |     19     |     |
-|  7  |  70  |     22     |     |
-
-**Tallene 1, 5, 12, 22, 35, 51 og 70 skrives ut av programmet.** 
-
-**Siri har oppdaget at antallet nye sirkler i femkanttalene (de som er tegnet oppe mot høyre i figuren) øker med 3 for hvert femkanttall.**
-
-
-</div></div>
-
-
 # Del 2
 
-## Oppgave 1
+## Oppgave 2-1
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/fiskelengde-og-potensfunksjonsmodell/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -469,7 +468,7 @@ Prosentvis økning: $(1{,}728 - 1) \cdot 100 \, \% = 72{,}8 \, \%$
 </div></div>
 
 
-## Oppgave 2
+## Oppgave 2-2
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/grafer-og-fire-situasjoner/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -539,7 +538,7 @@ Vi analyserer hver situasjon og finner den grafen som passer best:
 </div></div>
 
 
-## Oppgave 3
+## Oppgave 2-3
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/betalingsanmerkninger-og-gjennomsnitt/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -597,7 +596,7 @@ $N = \frac{229\,963}{0{,}048} \approx 4\,791\,000$
 </div></div>
 
 
-## Oppgave 4
+## Oppgave 2-4
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/eplekjop-i-usa-med-valuta-og-enheter/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -642,7 +641,7 @@ $3{,}07 \cdot 10{,}16 \approx 31{,}2$
 </div></div>
 
 
-## Oppgave 5
+## Oppgave 2-5
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/aksje-ned-og-opp-igjen/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -685,7 +684,7 @@ $\frac{1}{0{,}77} - 1 = \frac{0{,}23}{0{,}77} = \frac{23}{77} \approx 0{,}2987 \
 </div></div>
 
 
-## Oppgave 6
+## Oppgave 2-6
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/breddegrader-og-jordomkrets/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -757,7 +756,7 @@ $\frac{388{,}9}{40\,003} \cdot 100 \, \% \approx 0{,}97 \, \%$
 </div></div>
 
 
-## Oppgave 7
+## Oppgave 2-7
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/blomsterbed-med-halvsirkel/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">

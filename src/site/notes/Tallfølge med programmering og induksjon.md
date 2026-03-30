@@ -66,4 +66,24 @@ Eleven har lagt til en variabel `S`. `S` gir en løpende sum av verdiene til `a`
 **Eleven ønsker å finne delsummen til rekka etter 5 ledd, altså $2+5+9+14+20=\underline{\underline{50}}$**
 
 ### c
-Vi
+Påstanden vår er at
+$$a_n = \frac{n(n+3)}{2}, \quad n \geq 1$$
+
+Vi viser at dette gjelder for $n=1$
+$$
+a_{1} = \frac{1(1+3)}{2}=\frac{4}{2}=2 \quad \checkmark
+$$
+Vi antar at formelen gjelder for $n=k$ slik at
+$$
+a_{k}= \frac{k(k+3)}{2}
+$$
+Vi finner $a_{k+1}$ ved å bruke den rekursive sammenhengen fra b).
+$$
+a_{k+1}=a_{k}+k+2=\frac{k(k+3)}{2}+\frac{2k}{2}+\frac{4}{2}=\frac{k^{2}+3k+2k+4}{2}=\frac{k^{2}+5k+4}{2}
+$$
+
+Deretter finner vi $a_{k+1}$ ved å bruke formelen.
+$$
+a_{k+1}=\frac{(k+1)\left( (k+1) +3 \right) }{2}= \frac{k^{2}+2k+1+3k+3}{2}=\frac{k^{2}+5k+4}{2} \quad  \checkmark 
+$$
+ 
