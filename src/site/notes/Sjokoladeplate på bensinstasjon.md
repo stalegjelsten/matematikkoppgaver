@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["prosentregning"],"fag":["1p"],"eksamen":"v25","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":1}],"poeng":1,"title":"Sjokoladeplate på bensinstasjon","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/sjokoladeplate-pa-bensinstasjon/","dgPassFrontmatter":true}
+{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["prosentregning"],"fag":["1p"],"eksamen":"v25","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":1}],"poeng":1,"title":"Sjokoladeplate på bensinstasjon","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/sjokoladeplate-pa-bensinstasjon/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-21","modified":"2026-03-26","aliases":[],"temaer":["prosentregning"],"fag":["1p"],"eksamen":"v25","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":1}],"poeng":1,"title":"Sjokoladeplate på bensinstasjon","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"documentclass":"scrartcl","fontsize":"11pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}","\\usepackage[DIVS=18]{typearea}","\\RedeclareSectionCommand[runin=false,afterskip=-.25\\baselineskip]{subsection}"],"toc":false,"highlight-style":"tango","numbersections":false,"shift-heading-level-by":-3,"pandoc-latex-environment":{"warning":["warning"],"danger":["danger"],"note":["note"],"tip":["tip"],"important":["important"],"info":["info"],"error":["error"],"fasit":["fasit"]},"tags":["løsningsforslag"],"dg-publish":true,"title":"Løsningsforslag R2 eksamen H2024","author":"Ståle Gjelsten","date":"2024-12-04","modified":"2024-12-06","fag":["r2"],"eksamen":"h24","disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style","empty-line-around-math-blocks"],"permalink":"/losningsforslag/losningsforslag-r2-eksamen-h2024/","dgPassFrontmatter":true}
+{"aliases":null,"documentclass":"scrartcl","fontsize":"11pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}","\\usepackage[DIVS=18]{typearea}","\\RedeclareSectionCommand[runin=false,afterskip=-.25\\baselineskip]{subsection}"],"toc":false,"highlight-style":"tango","numbersections":false,"shift-heading-level-by":-3,"pandoc-latex-environment":{"warning":["warning"],"danger":["danger"],"note":["note"],"tip":["tip"],"important":["important"],"info":["info"],"error":["error"],"fasit":["fasit"]},"tags":["løsningsforslag"],"dg-publish":true,"title":"Løsningsforslag R2 eksamen H2024","author":"Ståle Gjelsten","date":"2024-12-04","modified":"2024-12-06","fag":["r2"],"eksamen":"h24","disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style","empty-line-around-math-blocks"],"permalink":"/losningsforslag/losningsforslag-r2-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":null,"documentclass":"scrartcl","fontsize":"11pt","papersize":"a4","linestretch":1.25,"lang":"nb-NO","header-includes":["\\usepackage{mathtools,cancel,tgpagella,mathpazo,icomma,siunitx}","\\sisetup{output-decimal-marker = {,}}","\\usepackage[DIVS=18]{typearea}","\\RedeclareSectionCommand[runin=false,afterskip=-.25\\baselineskip]{subsection}"],"toc":false,"highlight-style":"tango","numbersections":false,"shift-heading-level-by":-3,"pandoc-latex-environment":{"warning":["warning"],"danger":["danger"],"note":["note"],"tip":["tip"],"important":["important"],"info":["info"],"error":["error"],"fasit":["fasit"]},"tags":["løsningsforslag"],"title":"Løsningsforslag R2 eksamen H2024","author":"Ståle Gjelsten","date":"2024-12-04","modified":"2024-12-06","fag":["r2"],"eksamen":"h24","disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style","empty-line-around-math-blocks"]}}
 ---
 
 
@@ -145,17 +145,23 @@ $$
 **Arealet av bunnen av teltet er $\underline{\underline{\frac{5}{2}\sqrt{ 6 }}}$.**
 
 ### 1-3b
-$A$ ligger i origo. Vi vet at lengden av teltstanga $CT$ er $\sqrt{ 17 }$, og derfor må
+$T$ ligger på linja $\ell$ med parameterframstillingen $T(t, t, 4t)$. Vi vet at lengden av teltstanga $CT$ er $\sqrt{17}$, altså $|\vec{CT}| = \sqrt{17}$. Vi setter opp:
 $$
 \begin{aligned}
-\sqrt{ x^{2}+y^{2}+z^{2} }&=\sqrt{ 17 }\\
-\sqrt{ t^{2}+t^{2}+(4t)^{2} }&=\sqrt{ 17 }\\
-18t^{2}&=17\\
-t^{2}&=\frac{17}{18}\\
-t&=\sqrt{ \frac{17}{18} }
-
+|\vec{CT}|^{2} &= 17\\
+(t-(-1))^{2}+(t-3)^{2}+(4t-1)^{2} &= 17\\
+(t+1)^{2}+(t-3)^{2}+(4t-1)^{2} &= 17\\
+t^{2}+2t+1+t^{2}-6t+9+16t^{2}-8t+1 &= 17\\
+18t^{2}-12t+11 &= 17\\
+18t^{2}-12t-6 &= 0\\
+3t^{2}-2t-1 &= 0\\
+(3t+1)(t-1) &= 0\\
+t &= 1 \quad \vee \quad t=-\frac{1}{3}
 \end{aligned}
 $$
+Fra figuren skal toppunktet befinne seg over $xy$-planet, så vi velger $t=1$.
+
+**Koordinatene til toppunktet er $\underline{\underline{T(1,\,1,\,4)}}$.**
 
 ## Oppgave 1-4
 ### 1-4a
@@ -247,28 +253,37 @@ $$
 2, &4, &-9{,}8t-0{,}7
 \end{bmatrix}
 $$
-Jeg tolker oppgaven slik at vi kun er interessert i farten og ikke retningen til ballen i det den treffer bakken. Farten er i så fall gitt ved
+Jeg tolker oppgaven slik at vi kun er interessert i farten og ikke retningen til ballen i det den treffer bakken. Z-komponenten til fartsvektoren er $\frac{d}{dt}(6-0{,}7t-4{,}9t^{2})=-0{,}7-9{,}8t$. Farten er i så fall gitt ved
 $$
-\lvert \vec{v}(t)\rvert=\sqrt{ 2^{2}+4^{2}+(9{,}8t-0{,}7)^{2} }=\sqrt{ (9{,}8t-0{,}7)^{2} +20 }
+\lvert \vec{v}(t)\rvert=\sqrt{ 2^{2}+4^{2}+(0{,}7+9{,}8t)^{2} }=\sqrt{ (9{,}8t+0{,}7)^{2} +20 }
 $$
 Farten når ballen treffer bakken vil være (se linje 2 i GeoGebra)
 $$
-\lvert \vec{v}(1{,}0374)\rvert=\sqrt{ (9{,}8\cdot 1{,}0374-0{,}7)^{2} +20 }=10{,}5
+\lvert \vec{v}(1{,}0374)\rvert=\sqrt{ (9{,}8\cdot 1{,}0374+0{,}7)^{2} +20 }=\sqrt{138{,}1}\approx 11{,}75
 $$
-**Farten er $\underline{\underline{10{,}5 \text{ m/s}}}$ når ballen treffer bakken.**
+**Farten er $\underline{\underline{\approx 11{,}8 \text{ m/s}}}$ når ballen treffer bakken.**
 
 ### 2-1c
 Vi løser likningen (se linje 3 i GeoGebra)
 $$
-\sqrt{ (9{,}8t-0{,}7)^{2} +20 }=10 \implies t=0{,}984
+\sqrt{ (9{,}8t+0{,}7)^{2} +20 }=10 \implies 9{,}8t+0{,}7=\sqrt{80} \implies t=\frac{\sqrt{80}-0{,}7}{9{,}8}\approx 0{,}841
 $$
 Igjen kan vi se bort fra den negative løsningen.
 
-**Farta til ballen er 10 m/s etter 0,98 sekunder.**
+**Farta til ballen er 10 m/s etter $\underline{\underline{0{,}84}}$ sekunder.**
 
 ## Oppgave 2-2
 
 ### 2-2a
+**Påstand:** Likningen til et plan kan alltid bestemmes av 3 punkter i planet.
+
+Påstanden er **usann**. Tre punkter bestemmer et entydig plan hvis og bare hvis de ikke er kollineære (ikke ligger på samme rette linje). Hvis tre punkter er kollineære, spenner vektorene $\vec{AB}$ og $\vec{AC}$ over det samme retningsrommet, og kryssprodukt $\vec{AB} \times \vec{AC} = \vec{0}$. Vi får dermed ingen normalvektor og kan ikke bestemme planet entydig.
+
+**Moteksempel:** La $A=(0,0,0)$, $B=(1,0,0)$ og $C=(2,0,0)$. Disse tre punktene ligger på $x$-aksen, og uendelig mange plan inneholder denne linja (f.eks. $y=0$-planet, $z=0$-planet, $y=z$-planet m.fl.).
+
+**Påstanden er usann.**
+
+### 2-2b
 Jeg vet at summen av en uendelig geometrisk rekke er gitt ved
 $$
 s=\frac{a_{1}}{1-k}
@@ -277,7 +292,7 @@ dersom $-1<k<1$.
 
 Hvis vi vi lar $x=\frac{1}{e}$ så vil rekka bli
 $$
-1+ \left( \ln \frac{1}{e}-1 \right) + \left( \ln \frac{1}{e}-1 \right)^{2} + \dots 
+1+ \left( \ln \frac{1}{e}-1 \right) + \left( \ln \frac{1}{e}-1 \right)^{2} + \dots
 $$
 La oss se hva $\ln \frac{1}{e}-1$ blir
 $$
@@ -291,7 +306,7 @@ $k$ ligger ikke i intervallet $\langle-1,1\rangle$, og dermed konvergerer ikke r
 
 **Påstanden er usann, rekka konvergerer ikke når $x=\frac{1}{e}$.**
 
-### 2-2b
+### 2-2c
 $f$ og $g$ kommer til å avgrense maksimalt 2 områder siden $f$ er en tredjegradsfunksjon og $g$ er en andregradsfunksjon. For å finne disse to områdene må vi først finne skjæringspunktene mellom grafene.
 
 ![Bestemmelse av skjæringspunktet mellom funksjoner i CAS](/img/user/_resources/s2-h24-2-3b-1.png)
@@ -303,6 +318,50 @@ La oss undersøke arealet av områdene som er avgrenset. Jeg gjør dette i GeoGe
 ![Bestemmelse av arealet mellom grafene](/img/user/_resources/s2-h24-2-3b-2.png)
 
 **Påstanden stemmer. Vi ser at arealene mellom grafene er like store.**
+
+## Oppgave 2-3
+
+Jordbæret er avbildet i målestokk 1:1 med høyde $h = 4{,}4 \, \mathrm{cm}$. Vi plasserer origo ved spissen (bunnen) og lar $x$-aksen gå gjennom symmetriaksen mot stilkfestet.
+
+Vi måler radiusen $r$ ved ulike høyder fra bildet:
+
+| $x$ (cm) | $0$ | $0{,}5$ | $1{,}0$ | $1{,}5$ | $2{,}0$ | $2{,}5$ | $3{,}0$ | $3{,}5$ | $4{,}0$ | $4{,}4$ |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| $r$ (cm) | $0$ | $0{,}76$ | $1{,}34$ | $1{,}74$ | $1{,}96$ | $2{,}00$ | $1{,}86$ | $1{,}54$ | $1{,}03$ | $0{,}50$ |
+
+Siden $r(0)=0$ (spiss bunn) tilpasser vi en funksjon på formen
+
+$$r(x) = ax - bx^2$$
+
+Vi bruker to karakteristiske punkter: maksimal bredde $r(2{,}5) = 2{,}0$ og bredden nær stilken $r(4{,}4) = 0{,}5$. Dette gir likningssettet
+
+$$\begin{cases} 2{,}5a - 6{,}25b = 2{,}0 \\ 4{,}4a - 19{,}36b = 0{,}5 \end{cases}$$
+
+som løses til $a \approx 1{,}70$ og $b \approx 0{,}36$. Vi kontrollerer: $r'(x) = 1{,}70 - 0{,}72x = 0 \Rightarrow x \approx 2{,}36$, altså er størst bredde ved $r(2{,}36) \approx 2{,}0 \, \mathrm{cm}$.
+
+Formelen for volum av omdreiningslegeme om $x$-aksen gir
+
+$$V = \pi \int_0^{4{,}4} \left[ r(x) \right]^2 \, \mathrm{d}x = \pi \int_0^{4{,}4} \left( 1{,}70x - 0{,}36x^2 \right)^2 \, \mathrm{d}x$$
+
+Vi utvider integranden og integrerer ledd for ledd:
+
+$$
+\begin{aligned}
+V &= \pi \int_0^{4{,}4} \left( 1{,}70^2 x^2 - 2 \cdot 1{,}70 \cdot 0{,}36 \, x^3 + 0{,}36^2 x^4 \right) \mathrm{d}x \\
+&= \pi \int_0^{4{,}4} \left( 2{,}89 x^2 - 1{,}224 x^3 + 0{,}1296 x^4 \right) \mathrm{d}x \\
+&= \pi \left[ \frac{2{,}89}{3} x^3 - \frac{1{,}224}{4} x^4 + \frac{0{,}1296}{5} x^5 \right]_0^{4{,}4} \\
+&= \pi \left( 0{,}963 \cdot 85{,}18 - 0{,}306 \cdot 374{,}81 + 0{,}02592 \cdot 1649{,}16 \right) \\
+&= \pi \left( 82{,}04 - 114{,}69 + 42{,}76 \right) \\
+&= \pi \cdot 10{,}11 \approx \underline{\underline{31{,}8 \, \mathrm{cm}^3}}
+\end{aligned}
+$$
+
+**Volumet av jordbæret er $\underline{\underline{\approx 32 \, \mathrm{cm}^3}}$.**
+
+Omdreiningslegemet har en dråpeform – bredt i midten, smalner mot begge ender – som passer godt til formen på et jordbær. Til sammenligning er ett desiliter $= 100 \, \mathrm{cm}^3$, så volumet tilsvarer knapt en tredjedel desiliter. Et vanlig jordbær veier 15–25 g og har tetthet nær vann, altså volum $\approx 15\text{–}25 \, \mathrm{cm}^3$. Et stort jordbær kan godt ha volum $\approx 30\text{–}35 \, \mathrm{cm}^3$, så svaret virker rimelig.
+
+>[!note] Merk
+> Siden svaret avhenger av målinger fra bildet vil ulike elever få litt ulike svar. Det viktigste er å vise riktig fremgangsmåte: sette opp koordinatsystem, lese av data, tilpasse en funksjon og beregne integralet.
 
 ## Oppgave 2-4
 
@@ -348,13 +407,15 @@ $$
 *Det finnes også andre sammenhenger som den ekvivalente sammenhengen $a_{n}=a_{n-1}+(n-1)^{2}$ eller en sammenheng som ikke bruker $n$: $a_{n}=\left( \sqrt{ a_{n-1}-a_{n-2}  } +1 \right)^{2} + a_{n-1}$.*
 
 ### 2-5b
-![Program for å regne ut ledd i rekke](/img/user/_resources/s2-h24-2-4b.png)
+![Program for å regne ut summen av de 30 første leddene](/img/user/_resources/s2-h24-2-4b.png)
 
-Jeg brukte en `for`-løkke til å regne meg fram til ledd nummer 30 og skrev ut svarene i konsollen. **Ledd nummer 30 er 8556.**
+Jeg brukte en `for`-løkke til å summere de 30 første leddene. **Summen av de 30 første leddene er $\underline{\underline{67\,455}}$.**
+
+*(Ledd nummer 30 er 8556 – men oppgaven spør etter summen, ikke enkeltleddet.)*
 
 >[!tip] Ulike løsninger på denne oppgaven
 >
->Det finnes mange ulike løsninger på denne oppgaven – det viktigste er å passe på at ledd nr. 1 faktisk blir 1, ledd nr. 2 blir 2, ledd nr. 3 blir 6 og så videre. Derfor er det lurt å skrive ut alle leddene, og sjekke at de første leddene blir riktige sammelignet med oppgaveteksten.
+>Det finnes mange ulike løsninger på denne oppgaven – det viktigste er å passe på at ledd nr. 1 faktisk blir 1, ledd nr. 2 blir 2, ledd nr. 3 blir 6 og så videre. Derfor er det lurt å skrive ut alle leddene, og sjekke at de første leddene blir riktige sammenlignet med oppgaveteksten.
 
 ## Oppgave 2-6
 
