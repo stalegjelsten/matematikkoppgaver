@@ -22,10 +22,25 @@ $$
 >b) Hvor mange uker tar det før tilbud 2 vil gi mer ukelønn enn tilbud 1?
 >c) Hvor mange uker tar det før tilbud 2 til sammen vil gi mer lønn enn tilbud 1 ?
 
->[!question]- Fasit
-> a) Den fjerde uka får hen 130 kr og 115,76 kr (de andre beløpene kan du se i løsningforslaget)
-> b) I den 28. uka
-> c) I den 39. uka
-> [[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 2-4\|Løsningsforslag S2 eksamen V2023#Oppgave 2-4]]
+## Fasit
+
+a) Den fjerde uka får hen 130 kr og 115,76 kr (de andre beløpene kan du se i løsningforslaget)
+b) I den 28. uka
+c) I den 39. uka
+
+## Løsningsforslag
+
+Jeg gjorde disse oppgavene i Excel, se regnearket under.
+
+![](/img/user/_resources/s2-v23-del2-oppg-4a.png.png)
+
+### 2-4a
+De ukentlige beløpene for de fire første ukene er markert i blått i utklippet. Det venstre blå rektangelet viser beløpene for tilbud 1, det høyre blå rektangelet viser beløpene for tilbud 2. Vi kan se at tilbud 1 vokser fortere enn tilbud 2 i starten.
+
+### 2-4b
+**I uke 28 så vil tilbud 2 for første gang gi større utbetaling enn tilbud 1**, se den røde markering i Excel-arket.
+
+### 2-4c
+**I uke 39 så vil tilbud 2 for første gang ha gitt større *samlet utbetaling* enn tilbud 1**, se den gule markeringen i Excel-arket.
 
 [^1]: Oppgaven er både gitt [[Fagsider/S2\|S2]] og [[Fagsider/R2\|R2]] ved eksamen våren 2023. I S2-eksamen het personen Hildegunn, og i R2-eksamen het personen David. Derfor bruker jeg pronomenen hen i denne oppgaven.

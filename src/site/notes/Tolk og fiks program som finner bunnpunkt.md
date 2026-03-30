@@ -39,6 +39,6 @@ Svaret han får, er ikke riktig.
 >[!oppgave]
 > b) Foreslå en endring i koden som vil gi Egil et riktigere svar.
 
->[!question]- Fasit
-> b) Endre `a = a + 1` til `a = a + 0.01`
->
+## Fasit
+
+b) Endre `a = a + 1` til `a = a + 0.01`

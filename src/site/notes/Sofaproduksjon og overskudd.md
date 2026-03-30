@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["økonomi","andregradslikninger","modellering"],"fag":["s1"],"eksamen":"h23","del":2,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":1}],"poeng":null,"title":"Sofaproduksjon og overskudd","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/sofaproduksjon-og-overskudd/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-14","modified":"2026-03-26","aliases":[],"temaer":["økonomi","andregradslikninger","modellering"],"fag":["s1"],"eksamen":"h23","del":2,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":1}],"poeng":null,"title":"Sofaproduksjon og overskudd","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2023-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["økonomi","andregradslikninger","modellering"],"fag":["s1"],"eksamen":"h23","del":2,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":1}],"poeng":null,"title":"Sofaproduksjon og overskudd","status":1,"source":null,"todo":null,"permalink":"/sofaproduksjon-og-overskudd/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-14","modified":"2026-03-26","aliases":[],"temaer":["økonomi","andregradslikninger","modellering"],"fag":["s1"],"eksamen":"h23","del":2,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":1}],"poeng":null,"title":"Sofaproduksjon og overskudd","status":1,"source":null,"todo":null}}
 ---
 
 
@@ -26,6 +26,4 @@ Fabrikken ønsker at overskuddet skal være 1 million kroner per måned. De vil 
 >[!oppgave]
 >c) Bestem den laveste salgsprisen de kan sette per sofa, dersom de skal få dette overskuddet.
 
->[!question]- Fasit
->
->[[Løsningsforslag S1 eksamen H2023#Oppgave 2-1\|Løsningsforslag S1 eksamen H2023#Oppgave 2-1]]
+## Fasit

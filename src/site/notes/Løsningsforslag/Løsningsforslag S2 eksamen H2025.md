@@ -408,7 +408,7 @@ c) Uke 21.
 
 ### 2-1a
 
-![Regresjon i GeoGebra til oppgave 1 del 2](/img/user/L%C3%B8sningsforslag/s2-h25-2-1a-regresjon.png)
+![Regresjon i GeoGebra til oppgave 1 del 2](/img/user/_resources/s2-h25-2-1a-regresjon.png)
 
 Jeg brukte regresjon i GeoGebra for å finne en logistisk modell som passer til uttrykket i oppgaveteksten. Den modellen som passer best er
 $
@@ -420,7 +420,7 @@ Salget starter i uke 17, så modellen er ikke gyldig før dette. I uke 24 så se
 
 ### 2-1b
 
-![CAS løsning av oppgave 1 del 2](/img/user/L%C3%B8sningsforslag/s2-h25-2-1bc.png)
+![CAS løsning av oppgave 1 del 2](/img/user/_resources/s2-h25-2-1bc.png)
 
 Inntekten øker mest ved vendepunktet $t=3$ (etter 20 uker), se linje 2 i utklippet. Den deriverte til $I(t)$ gir oss vekstfarten etter 20 uker i linje 3.
 
@@ -474,7 +474,7 @@ c) $x \in \left< 10,500 \right]$
 
 ## Løsningsforslag
 
-![Løsning i CAS av oppgave 2 del 2](/img/user/L%C3%B8sningsforslag/s2-h25-2-2.png)
+![Løsning i CAS av oppgave 2 del 2](/img/user/_resources/s2-h25-2-2.png)
 
 ### 2-2a
 Se linje 2 i utklippet.
@@ -535,7 +535,7 @@ H_{A}: \quad p > 0{,}01
 \end{aligned}
 $
 
-![Binomisk hypotesetest til oppgave 3a del 2](/img/user/L%C3%B8sningsforslag/s2-h25-2-3a-binomisk.png)
+![Binomisk hypotesetest til oppgave 3a del 2](/img/user/_resources/s2-h25-2-3a-binomisk.png)
 
 Vi lar $X$ være antallet defekte komponenter når vi produserer 20 komponenter gitt at nullhypotesen vår er sann. Fra sannsynlighetsvinduet i GeoGebra har vi at
 $
@@ -555,7 +555,7 @@ Nullhypotesen er fremdeles  $H_{0}: \; p\leq 0{,}01$.
 
 Kontrolløren har kontrollert $n$ komponenter. Det skal maksimalt være 5 % sannsynlighet for at han «var så heldig» at han bare fant 0 eller 1 defekt komponent. Vi skal altså finne den minste verdi for $n$ som gjør at $P(X\leq 1)<0{,}05$, gitt at $p=0{,}01$.
 
-![Binomisk hypotesetest til oppgave 3b del 2](/img/user/L%C3%B8sningsforslag/s2-h25-2-3b.png)
+![Binomisk hypotesetest til oppgave 3b del 2](/img/user/_resources/s2-h25-2-3b.png)
 
 Ved å endre på $n$ finner jeg fort ut at
 
@@ -610,7 +610,7 @@ c) Kjøp av elbil gir høyest rentekostnad.
 
 ## Løsningsforslag
 
-![Løsning av oppgave 4 del 2 i CAS](/img/user/L%C3%B8sningsforslag/s2-h25-2-4-cas.png)
+![Løsning av oppgave 4 del 2 i CAS](/img/user/_resources/s2-h25-2-4-cas.png)
 
 ### 2-4a
 Et annuitetslån passer godt til oppgaven siden den spør etter en geometrisk rekke som viser hvor mye Mathias må betale.
@@ -738,7 +738,7 @@ b) 24,5
 
 *I denne oppgaven er jeg veldig usikker på hva som kreves for å forklare at uttrykket i oppgaveteksten er det samme som forventningsverdien. Jeg tror ikke det er meningen at elever skal gjøre det samme som jeg har gjort her – men jeg klarer ikke helt å se en enklere måte å argumentere for at forventningsverdien er eksakt lik summen av «antall kast nødvendig».*
 
-![Valgtre til oppgave 6 del 2](/img/user/L%C3%B8sningsforslag/s2-h25-2-6a-valgtre2.png)
+![Valgtre til oppgave 6 del 2](/img/user/_resources/s2-h25-2-6a-valgtre2.png)
 
 Vi lar $X$ være antall kast som trengs før vi har fått 2 like terningkast på rad. Sannsynligheten for å at et terningkast har samme antall øyne som det forrige er $1/6$, og sannsynligheten for at antall øyne er ulikt er $5/6$. Vi kan bruke multiplikasjonsprinsippet og sette opp følgende sannsynlighetsfordeling for $X$:
 

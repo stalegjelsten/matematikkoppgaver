@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["proporsjonalitet","omvendt proporsjonalitet","argumentasjon"],"fag":["2p-y"],"eksamen":"h23","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":5}],"title":"Proporsjonalitet og vase med roser","status":0,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"permalink":"/proporsjonalitet-og-vase-med-roser/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["proporsjonalitet","omvendt proporsjonalitet","argumentasjon"],"fag":["2p-y"],"eksamen":"h23","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":5}],"title":"Proporsjonalitet og vase med roser","status":0,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"]}}
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["proporsjonalitet","omvendt proporsjonalitet","argumentasjon"],"fag":["2p-y"],"eksamen":"h23","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":5}],"title":"Proporsjonalitet og vase med roser","status":3,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"permalink":"/proporsjonalitet-og-vase-med-roser/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["proporsjonalitet","omvendt proporsjonalitet","argumentasjon"],"fag":["2p-y"],"eksamen":"h23","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":5}],"title":"Proporsjonalitet og vase med roser","status":3,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"]}}
 ---
 
 
@@ -18,7 +18,26 @@ I matematikktimen jobber Emilie og Emma med proporsjonalitet og omvendt proporsj
 >[!oppgave]
 >Kommenter det Emilie og Emma sier.
 
->[!question]- Fasit
->
-> Emilie tar feil – antall roser og totalpris er ikke proporsjonale (vasekostnaden er fast). Emma har rett om sitt tilfelle (omvendt proporsjonalt), men hennes generelle forklaring er upresis.
-> [[Løsningsforslag/Løsningsforslag 2P-Y eksamen H2023#Oppgave 2-5\|Løsningsforslag 2P-Y eksamen H2023#Oppgave 2-5]]
+## Fasit
+
+Emilie tar feil – antall roser og totalpris er ikke proporsjonale (vasekostnaden er fast). Emma har rett om sitt tilfelle (omvendt proporsjonalt), men hennes generelle forklaring er upresis.
+
+## Løsningsforslag
+
+**Kommentar til Emilie:**
+
+Emilie har delvis rett i at den totale prisen øker når de kjøper flere roser. Men størrelsene er **ikke proporsjonale**. For proporsjonalitet må forholdet mellom størrelsene alltid være konstant, og grafen må gå gjennom origo.
+
+Totalprisen er: $\text{totalpris} = \text{vasepris} + \text{antall roser} \cdot \text{pris per rose}$
+
+Siden vasepris er en fast kostnad, vil grafen starte over null (ikke i origo). Dermed er størrelsene **ikke proporsjonale**, men lineære.
+
+**Kommentar til Emma:**
+
+Emma har rett i at beløpet per person avtar når flere er med. Og hvis totalprisen er fast (de har bestemt antall roser), er produktet:
+
+$$\text{beløp per person} \cdot \text{antall personer} = \text{totalpris (konstant)}$$
+
+Det er nettopp kravet for omvendt proporsjonalitet – produktet av de to størrelsene er konstant. **Emma har altså rett**, forutsatt at det totale beløpet er bestemt på forhånd.
+
+Emmas generelle forklaring («når en størrelse blir mindre og en annen øker, er de omvendt proporsjonale») er imidlertid ikke alltid riktig. For omvendt proporsjonalitet kreves det at *produktet* er konstant, ikke bare at størrelsene beveger seg i motsatte retninger.

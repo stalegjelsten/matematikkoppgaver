@@ -9,6 +9,20 @@ Knut må hver dag ta en tablett som inneholder $7 \,\mathrm{mg}$ av et virkestof
 
 Avgjør om det legen sier, stemmer.
 
->[!question]- Fasit
->Legen har rett. Vil aldri overstige 70 mg.
->[[Løsningsforslag/Løsningsforslag S2 eksamen V2023#Oppgave 1-5\|Løsningsforslag S2 eksamen V2023#Oppgave 1-5]]
+## Fasit
+
+Legen har rett. Vil aldri overstige 70 mg.
+
+## Løsningsforslag
+
+Den første dagen får Knut tilført 7 mg virkestoff, andre dag så er mengden virkestoff redusert til $7 \,\text{mg}\cdot 0.9 = 6.3 \,\text{mg}$, samtidig som han får tilført nye $7$ mg. 
+
+På dag $n$ så vil derfor Knut ha den samlede mengden:
+
+$$\sum_{i=0}^n 7\cdot 0{,}9^i$$
+
+Dette er en geometrisk rekke som konvergerer når $n\to \infty$, siden $-1<k<1$. Derfor kan vi finne summen av rekka med:
+
+$$s_n = \frac{a_1}{1-k}=\frac{7}{1-0,9}=70$$
+
+Mengden virkestoff hos Knut vil aldri overstige 70 mg. **Legens påstand er riktig**.

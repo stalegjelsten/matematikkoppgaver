@@ -19,7 +19,8 @@ I denne fordelingen er 10 % av elevene lavere enn 173 cm og 10 % er høyere enn 
 >[!info] Kommentar
 >Denne oppgaven ble egentlig gitt til del 2, men jeg har satt den opp som en del 1 oppgave her, siden den absolutt kan gis på del 1 til eksamen så lenge dere har normalfordelingstabell tilgjengelig.
 
->[!question]- Fasit
-> a) 178 cm
-> b) 90 %
-> c) 3,9 cm
+## Fasit
+
+a) 178 cm
+b) 90 %
+c) 3,9 cm
