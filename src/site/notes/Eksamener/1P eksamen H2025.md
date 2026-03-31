@@ -1,6 +1,32 @@
 ---
-{"tags":["eksamen"],"fag":["1p"],"eksamen":"h25","date":"2025-11-28","title":"1P eksamen H2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p"],"eksamen":"h25","date":"2025-11-28","title":"1P eksamen H2025","contentClasses":"eksamen-side","permalink":"/eksamener/1p-eksamen-h2025/"}}
+{"tags":["eksamen"],"fag":["1p"],"eksamen":"h25","date":"2025-11-28","del1_tid":2,"del2_tid":3,"title":"1P eksamen H2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p"],"eksamen":"h25","date":"2025-11-28","del1_tid":2,"del2_tid":3,"title":"1P eksamen H2025","contentClasses":"eksamen-side","permalink":"/eksamener/1p-eksamen-h2025/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 2 timer — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Busstur Mandal til Oslo\|Busstur Mandal til Oslo]] | tallregning | ✔︎ |
+| 1-2 | [[Deksel og merverdiavgift\|Deksel og merverdiavgift]] | prosentregning | ✔︎ |
+| 1-3 | [[Støvpartikkel i standardform\|Støvpartikkel i standardform]] | standardform, store tall | ✔︎ |
+| 1-4 | [[Pyramide med proporsjonal høyde\|Pyramide med proporsjonal høyde]] | geometri, proporsjonalitet | ✔︎ |
+| 1-5 | [[Lønn og timelønn fra grafer\|Lønn og timelønn fra grafer]] | lineær vekst, tolke grafer, likningssystem | ✔︎ |
+| 1-6 | [[Femkanttall og programmering\|Femkanttall og programmering]] | figurtall, programmering | ✔︎ |
+| 1-6 | [[30-dagersbillett og pris per tur\|30-dagersbillett og pris per tur]] | omvendt proporsjonalitet, grafisk framstilling | ✔︎ |
+
+**Del 2** — 3 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Fiskelengde og potensfunksjonsmodell\|Fiskelengde og potensfunksjonsmodell]] | potensfunksjon, regresjon, stigningstall | ✔︎ |
+| 2-2 | [[Grafer og fire situasjoner\|Grafer og fire situasjoner]] | funksjoner, tolke grafer, eksponentiell vekst, omvendt proporsjonalitet | ✔︎ |
+| 2-3 | [[Betalingsanmerkninger og gjennomsnitt\|Betalingsanmerkninger og gjennomsnitt]] | statistikk, gjennomsnitt, prosentregning | ✔︎ |
+| 2-4 | [[Eplekjøp i USA med valuta og enheter\|Eplekjøp i USA med valuta og enheter]] | tallregning, prosentregning | ✔︎ |
+| 2-5 | [[Aksje ned og opp igjen\|Aksje ned og opp igjen]] | prosentregning, prosentvis endring | ✔︎ |
+| 2-6 | [[Breddegrader og jordomkrets\|Breddegrader og jordomkrets]] | geometri, tallregning | ✔︎ |
+| 2-7 | [[Blomsterbed med halvsirkel\|Blomsterbed med halvsirkel]] | geometri, funksjoner, areal | ✔︎ |
 
 # Del 1
 

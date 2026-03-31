@@ -1,6 +1,30 @@
 ---
-{"tags":["eksamen"],"fag":["r1"],"eksamen":"h24","date":"2024-11-14","title":"R1 eksamen H2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r1"],"eksamen":"h24","date":"2024-11-14","title":"R1 eksamen H2024","contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-h2024/"}}
+{"tags":["eksamen"],"fag":["r1"],"eksamen":"h24","date":"2024-11-14","del1_tid":1,"del2_tid":4,"title":"R1 eksamen H2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r1"],"eksamen":"h24","date":"2024-11-14","del1_tid":1,"del2_tid":4,"title":"R1 eksamen H2024","contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-h2024/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 1 time — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Derivasjon av eksponentialfunksjon\|Derivasjon av eksponentialfunksjon]] | derivasjon, eksponentialfunksjoner | ✔︎ |
+| 1-2 | [[Finne verdi programmet skriver ut\|Finne verdi programmet skriver ut]] | programmering, funksjonsdrøfting | ✔︎ |
+| 1-3 | [[Eksponentiallikning med substitusjon\|Eksponentiallikning med substitusjon]] | eksponentialfunksjoner, logaritmer, likninger | ✔︎ |
+| 1-4 | [[Grenseverdi for rasjonalt uttrykk\|Grenseverdi for rasjonalt uttrykk]] | grenseverdi, rasjonale funksjoner | ✔︎ |
+| 1-5 | [[Koordinatvektorer, lengde og ortogonalitet\|Koordinatvektorer, lengde og ortogonalitet]] | vektorer | ❌ |
+| 1-6 | [[Identifiser funksjon fra vekstfart og derivert\|Identifiser funksjon fra vekstfart og derivert]] | gjennomsnittlig vekstfart, derivasjon, tolke grafer | ✔︎ |
+
+**Del 2** — 4 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Vannreservoar med eksponentiell funksjon\|Vannreservoar med eksponentiell funksjon]] | eksponentialfunksjoner, derivasjon, modellering | ❌ |
+| 2-2 | [[Påstander om grenseverdi og deriverbarhet\|Påstander om grenseverdi og deriverbarhet]] | grenseverdi, derivasjon, eksponentialfunksjoner | ❌ |
+| 2-3 | [[Fiskepopulasjon og logistisk modell\|Fiskepopulasjon og logistisk modell]] | eksponentialfunksjoner, logistisk funksjon, derivasjon, modellering | ❌ |
+| 2-4 | [[Bestem grunntall i logaritmefunksjon\|Bestem grunntall i logaritmefunksjon]] | logaritmer, tolke grafer | ❌ |
+| 2-5 | [[Omvendt funksjon fra graf\|Omvendt funksjon fra graf]] | funksjoner, funksjonsdrøfting | ❌ |
+| 2-6 | [[Posisjonsvektorer for småfugler og rovfugl\|Posisjonsvektorer for småfugler og rovfugl]] | vektorer, derivasjon | ❌ |
 
 # Del 1
 

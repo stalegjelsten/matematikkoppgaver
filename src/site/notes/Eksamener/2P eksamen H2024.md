@@ -1,6 +1,31 @@
 ---
-{"tags":["eksamen"],"fag":["2p"],"eksamen":"h24","date":"2024-11-28","title":"2P eksamen H2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p"],"eksamen":"h24","date":"2024-11-28","title":"2P eksamen H2024","contentClasses":"eksamen-side","permalink":"/eksamener/2p-eksamen-h2024/"}}
+{"tags":["eksamen"],"fag":["2p"],"eksamen":"h24","date":"2024-11-28","del1_tid":1,"del2_tid":4,"title":"2P eksamen H2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p"],"eksamen":"h24","date":"2024-11-28","del1_tid":1,"del2_tid":4,"title":"2P eksamen H2024","contentClasses":"eksamen-side","permalink":"/eksamener/2p-eksamen-h2024/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 1 time — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Bestem målestokk fra kart\|Bestem målestokk fra kart]] | proporsjonalitet, målestokk | ❌ |
+| 1-2 | [[Statistikk på Lars arbeidstid\|Statistikk på Lars arbeidstid]] | statistikk | ✔︎ |
+| 1-3 | [[Formlike trekanter og areal\|Formlike trekanter og areal]] | geometri, areal | ❌ |
+| 1-4 | [[Løse likningssystem for Markus\|Løse likningssystem for Markus]] | likningssystem | ❌ |
+| 1-5 | [[Utslippsreduksjon med prosentvis nedgang\|Utslippsreduksjon med prosentvis nedgang]] | prosentvis endring i flere perioder, programmering | ✔︎ |
+
+**Del 2** — 4 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Salg av iste\|Salg av iste]] | eksponentialfunksjoner, prosentvis endring i flere perioder | ✔︎ |
+| 2-2 | [[Kjøpekraft og konsumprisindeks\|Kjøpekraft og konsumprisindeks]] | prisindeks, prosentregning | ❌ |
+| 2-3 | [[Argumenter for at prosentregnestykker gir samme svar\|Argumenter for at prosentregnestykker gir samme svar]] | prosent, utforskning | ✔︎ |
+| 2-4 | [[Statistikk for quizlag\|Statistikk for quizlag]] | statistikk, utforskning | ✔︎ |
+| 2-5 | [[Nettoinntekt med overtid\|Nettoinntekt med overtid]] | prosentregning, økonomi | ❌ |
+| 2-6 | [[Lag presentasjon om statistikk for tidsbruk på ulike aktiviteter\|Lag presentasjon om statistikk for tidsbruk på ulike aktiviteter]] | presentasjon av data | ✔︎ |
+| 2-7 | [[Forbrukslån med betalingsplan\|Forbrukslån med betalingsplan]] | lån, økonomi | ❌ |
+| 2-8 | [[Volum og areal for lesehule\|Volum og areal for lesehule]] | volum, areal, geometri | ❌ |
 
 # Del 1
 

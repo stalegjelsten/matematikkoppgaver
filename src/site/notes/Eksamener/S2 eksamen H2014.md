@@ -1,6 +1,14 @@
 ---
-{"tags":["eksamen"],"fag":["s2"],"eksamen":"h14","title":"S2 eksamen H2014","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2014/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"h14","title":"S2 eksamen H2014","contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2014/"}}
+{"tags":["eksamen"],"fag":["s2"],"eksamen":"h14","del1_tid":2,"title":"S2 eksamen H2014","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2014/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"h14","del1_tid":2,"title":"S2 eksamen H2014","contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2014/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 2 timer — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-5 | [[Enhetskostnader fra graf\|Enhetskostnader fra graf]] | enhetskostnad, økonomi, tolke grafer | ❌ |
 
 # Del 1
 

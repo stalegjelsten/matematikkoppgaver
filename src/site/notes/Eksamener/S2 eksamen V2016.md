@@ -1,6 +1,14 @@
 ---
-{"tags":["eksamen"],"fag":["s2"],"eksamen":"v16","title":"S2 eksamen V2016","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2016/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"v16","title":"S2 eksamen V2016","contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2016/"}}
+{"tags":["eksamen"],"fag":["s2"],"eksamen":"v16","del2_tid":3,"title":"S2 eksamen V2016","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2016/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"v16","del2_tid":3,"title":"S2 eksamen V2016","contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2016/"}}
 ---
+
+## Oversikt
+
+**Del 2** — 3 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-4 | [[Ole Magnus sin sparekonto\|Ole Magnus sin sparekonto]] | nåverdi, sparing | ✔︎ |
 
 # Del 2
 

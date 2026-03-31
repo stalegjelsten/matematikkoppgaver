@@ -1,6 +1,30 @@
 ---
-{"tags":["eksamen"],"fag":["1t"],"eksamen":"v24","date":"2024-05-23","title":"1T eksamen V2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-t-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1t"],"eksamen":"v24","date":"2024-05-23","title":"1T eksamen V2024","contentClasses":"eksamen-side","permalink":"/eksamener/1t-eksamen-v2024/"}}
+{"tags":["eksamen"],"fag":["1t"],"eksamen":"v24","date":"2024-05-23","del1_tid":1,"del2_tid":4,"title":"1T eksamen V2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-t-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1t"],"eksamen":"v24","date":"2024-05-23","del1_tid":1,"del2_tid":4,"title":"1T eksamen V2024","contentClasses":"eksamen-side","permalink":"/eksamener/1t-eksamen-v2024/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 1 time — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Trigonometri i rettvinklet trekant\|Trigonometri i rettvinklet trekant]] | trigonometri, bevis | ❌ |
+| 1-2 | [[Polynomdivisjon og faktorisering\|Polynomdivisjon og faktorisering]] | polynomdivisjon, faktorisering, algebra | ❌ |
+| 1-3 | [[Matematisk identitet fra arealmodell\|Matematisk identitet fra arealmodell]] | identiteter, algebra, areal | ❌ |
+| 1-4 | [[Gjennomsnittlig vekstfart med program\|Gjennomsnittlig vekstfart med program]] | programmering, gjennomsnittlig vekstfart | ❌ |
+| 1-5 | [[Andregradsuttrykk og ulikhet fra graf\|Andregradsuttrykk og ulikhet fra graf]] | andregradslikninger, funksjoner | ❌ |
+
+**Del 2** — 4 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Modellering av bagettsalg\|Modellering av bagettsalg]] | regresjon, modellering, derivasjon, optimering | ❌ |
+| 2-2 | [[Lysbrytning i vann\|Lysbrytning i vann]] | trigonometri, likninger | ❌ |
+| 2-3 | [[Trekant med arealsetning og cosinussetning\|Trekant med arealsetning og cosinussetning]] | arealsetningen, cosinussetningen, trigonometri | ❌ |
+| 2-4 | [[Summer av oddetall og programmering\|Summer av oddetall og programmering]] | programmering, rekker, argumentasjon | ❌ |
+| 2-5 | [[Lufttrykk og kokepunkt for vann\|Lufttrykk og kokepunkt for vann]] | potensfunksjon, eksponentiell vekst, modellering | ❌ |
+| 2-6 | [[Tangent fra derivertgraf\|Tangent fra derivertgraf]] | derivasjon, funksjoner | ❌ |
+| 2-7 | [[Lukket kurve med tre funksjoner\|Lukket kurve med tre funksjoner]] | funksjoner, funksjonsdrøfting, argumentasjon | ❌ |
 
 # Del 1
 

@@ -1,6 +1,31 @@
 ---
-{"tags":["eksamen"],"fag":["1p"],"eksamen":"h23","date":"2023-11-20","title":"1P eksamen H2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p"],"eksamen":"h23","date":"2023-11-20","title":"1P eksamen H2023","contentClasses":"eksamen-side","permalink":"/eksamener/1p-eksamen-h2023/"}}
+{"tags":["eksamen"],"fag":["1p"],"eksamen":"h23","date":"2023-11-20","del1_tid":1,"del2_tid":4,"title":"1P eksamen H2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p"],"eksamen":"h23","date":"2023-11-20","del1_tid":1,"del2_tid":4,"title":"1P eksamen H2023","contentClasses":"eksamen-side","permalink":"/eksamener/1p-eksamen-h2023/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 1 time — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Tobias og daglig vannbehov\|Tobias og daglig vannbehov]] | tallregning, proporsjonalitet | ❌ |
+| 1-2 | [[Sosiale medier og prosentpoeng\|Sosiale medier og prosentpoeng]] | prosentregning, argumentasjon | ❌ |
+| 1-3 | [[Ohms lov og proporsjonal sammenheng\|Ohms lov og proporsjonal sammenheng]] | formler, proporsjonalitet | ❌ |
+| 1-4 | [[Sondres modell for hundeår\|Sondres modell for hundeår]] | lineær vekst, modellering, proporsjonalitet | ❌ |
+| 1-5 | [[Dennis bil og verdifall\|Dennis bil og verdifall]] | prosentregning, prosentvis endring i flere perioder | ❌ |
+
+**Del 2** — 4 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Modell for antall fiskere\|Modell for antall fiskere]] | regresjon, lineær vekst, stigningstall | ✔︎ |
+| 2-2 | [[Sofie og prosentvis arealendring\|Sofie og prosentvis arealendring]] | prosentregning, areal, prosentvis endring | ❌ |
+| 2-3 | [[Pølser rundt jorda\|Pølser rundt jorda]] | tallregning, prosentregning, store tall | ❌ |
+| 2-4 | [[Snorre og Miras sjokolade\|Snorre og Miras sjokolade]] | tallregning, proporsjonalitet, måleenheter | ❌ |
+| 2-5 | [[Rektangel innskrevet i trekant\|Rektangel innskrevet i trekant]] | geometri, areal, lineær vekst, optimering | ❌ |
+| 2-6 | [[Linjestykker og geometrisk vekst\|Linjestykker og geometrisk vekst]] | geometrisk vekst, rekker, programmering | ✔︎ |
+| 2-7 | [[Ellipse og Ramanujans formel\|Ellipse og Ramanujans formel]] | formler, geometri | ✔︎ |
+| 2-8 | [[Racerbil og fartsgraf\|Racerbil og fartsgraf]] | tolke grafer | ✔︎ |
 
 # Del 1
 

@@ -1,6 +1,14 @@
 ---
-{"tags":["eksamen"],"fag":["s2"],"eksamen":"h13","title":"S2 eksamen H2013","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2013/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"h13","title":"S2 eksamen H2013","contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2013/"}}
+{"tags":["eksamen"],"fag":["s2"],"eksamen":"h13","del1_tid":2,"title":"S2 eksamen H2013","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2013/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"h13","del1_tid":2,"title":"S2 eksamen H2013","contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2013/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 2 timer — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-2 | [[Forventningsverdi og varians fra graf av normalfordeling\|Forventningsverdi og varians fra graf av normalfordeling]] | normalfordeling, standard normalfordeling | ❌ |
 
 # Del 1
 

@@ -1,6 +1,29 @@
 ---
-{"tags":["eksamen"],"fag":["r2"],"eksamen":"v25","date":"2025-05-14","title":"R2 eksamen V2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r2"],"eksamen":"v25","date":"2025-05-14","title":"R2 eksamen V2025","contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-v2025/"}}
+{"tags":["eksamen"],"fag":["r2"],"eksamen":"v25","date":"2025-05-14","del1_tid":3,"del2_tid":2,"title":"R2 eksamen V2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r2"],"eksamen":"v25","date":"2025-05-14","del1_tid":3,"del2_tid":2,"title":"R2 eksamen V2025","contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-v2025/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 3 timer — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Integraler S2 v25\|Integraler S2 v25]] | integral | ✔︎ |
+| 1-2 | [[Bestem f ut fra den deriverte\|Bestem f ut fra den deriverte]] | integral, tolkning av integraler, areal under graf | ✔︎ |
+| 1-3 | [[Tallfølge med programmering og induksjon\|Tallfølge med programmering og induksjon]] | programmering, rekker, bevis | ❌ |
+| 1-4 | [[Trigonometrisk funksjon og likning\|Trigonometrisk funksjon og likning]] | trigonometri, funksjoner, likninger | ❌ |
+| 1-5 | [[Bordplate som trekant i 3D\|Bordplate som trekant i 3D]] | vektorer, geometri, areal | ❌ |
+| 1-6 | [[Caspers kode\|Caspers kode]] | programmering | ❌ |
+| 1-7 | [[Vinkel i sirkel og trigonometri\|Vinkel i sirkel og trigonometri]] | trigonometri, enhetssirkel | ✔︎ |
+
+**Del 2** — 2 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Bil på spiralvei i parkeringshus\|Bil på spiralvei i parkeringshus]] | vektorer, derivasjon, modellering | ❌ |
+| 2-2 | [[Noras sparing og lån\|Noras sparing og lån]] | lån, sparing, excel, cas | ✔︎ |
+| 2-3 | [[Harens fart og gjennomsnittsfart\|Harens fart og gjennomsnittsfart]] | integral, derivasjon, modellering | ❌ |
+| 2-4 | [[Vis at rekke blir ln 2\|Vis at rekke blir ln 2]] | bevis, utforskning, integral | ✔︎ |
 
 # Del 1
 

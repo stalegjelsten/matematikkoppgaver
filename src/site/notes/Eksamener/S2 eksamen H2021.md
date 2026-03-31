@@ -1,6 +1,14 @@
 ---
-{"tags":["eksamen"],"fag":["s2"],"eksamen":"h21","title":"S2 eksamen H2021","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2021/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"h21","title":"S2 eksamen H2021","contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2021/"}}
+{"tags":["eksamen"],"fag":["s2"],"eksamen":"h21","del1_tid":2,"title":"S2 eksamen H2021","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2021/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"h21","del1_tid":2,"title":"S2 eksamen H2021","contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2021/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 2 timer — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-6 | [[Vekten til poteter\|Vekten til poteter]] | sannsynlighet, normalfordeling | ❌ |
 
 # Del 1
 

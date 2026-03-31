@@ -1,6 +1,27 @@
 ---
-{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"v23","title":"1P-Y EL eksamen V2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-y-el-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"v23","title":"1P-Y EL eksamen V2023","contentClasses":"eksamen-side","permalink":"/eksamener/1p-y-el-eksamen-v2023/"}}
+{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"v23","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen V2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-y-el-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"v23","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen V2023","contentClasses":"eksamen-side","permalink":"/eksamener/1p-y-el-eksamen-v2023/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 1 time — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Prisformel sparkesykkel\|Prisformel sparkesykkel]] | lineær vekst, formler, likninger | ✔︎ |
+| 1-2 | [[Sammenligne priser på hundemat\|Sammenligne priser på hundemat]] | proporsjonalitet, prosentregning, enhetskostnad | ✔︎ |
+| 1-3 | [[Prosentvis prisforskjell sjokolade\|Prosentvis prisforskjell sjokolade]] | prosentregning, prosentvis endring, argumentasjon | ✔︎ |
+| 1-4 | [[Trigonometri og effekttrekant\|Trigonometri og effekttrekant]] | trigonometri, effekttrekant, prosentregning, elektrofag | ✔︎ |
+
+**Del 2** — 3 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Strøm og virkningsgrad elektromotor\|Strøm og virkningsgrad elektromotor]] | effekttrekant, formler, elektrofag | ✔︎ |
+| 2-2 | [[Effektformel vindturbin\|Effektformel vindturbin]] | formler, elektrofag, potensregning | ✔︎ |
+| 2-3 | [[Solcellepanel areal og kostnad\|Solcellepanel areal og kostnad]] | geometri, trigonometri, økonomi, elektrofag | ✔︎ |
+| 2-4 | [[Ludvigs dusjregnskap\|Ludvigs dusjregnskap]] | excel | ✔︎ |
+| 2-5 | [[Martines studielån\|Martines studielån]] | lån, excel | ✔︎ |
 
 # Del 1
 

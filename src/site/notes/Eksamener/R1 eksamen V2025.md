@@ -1,6 +1,29 @@
 ---
-{"tags":["eksamen"],"fag":["r1"],"eksamen":"v25","date":"2025-05-19","title":"R1 eksamen V2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r1"],"eksamen":"v25","date":"2025-05-19","title":"R1 eksamen V2025","contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-v2025/"}}
+{"tags":["eksamen"],"fag":["r1"],"eksamen":"v25","date":"2025-05-19","del1_tid":2,"del2_tid":3,"title":"R1 eksamen V2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r1"],"eksamen":"v25","date":"2025-05-19","del1_tid":2,"del2_tid":3,"title":"R1 eksamen V2025","contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-v2025/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 2 timer — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Derivasjon av eksponential og potensfunksjon\|Derivasjon av eksponential og potensfunksjon]] | derivasjon, eksponentialfunksjoner | ❌ |
+| 1-2 | [[Nullpunkter og ekstremalpunkter med produkt\|Nullpunkter og ekstremalpunkter med produkt]] | derivasjon, funksjonsdrøfting | ❌ |
+| 1-3 | [[Eksponential- og logaritmelikninger\|Eksponential- og logaritmelikninger]] | eksponentialfunksjoner, logaritmer | ❌ |
+| 1-4 | [[Grenseverdier med algebraisk forenkling\|Grenseverdier med algebraisk forenkling]] | grenseverdi | ❌ |
+| 1-5 | [[Kontinuitet og deriverbarhet stykkevis\|Kontinuitet og deriverbarhet stykkevis]] | kontinuitet, derivasjon | ❌ |
+| 1-6 | [[Vektorer og basketball\|Vektorer og basketball]] | vektorer, geometri | ❌ |
+
+**Del 2** — 3 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Logistisk vekstmodell batteriteknologi\|Logistisk vekstmodell batteriteknologi]] | logistisk funksjon, modellering, derivasjon | ❌ |
+| 2-2 | [[Omvendt funksjon og tangentlikninger\|Omvendt funksjon og tangentlikninger]] | funksjoner, derivasjon | ❌ |
+| 2-3 | [[Stykkevis funksjon med ukjent uttrykk\|Stykkevis funksjon med ukjent uttrykk]] | kontinuitet, derivasjon, funksjoner, delt forskrift | ❌ |
+| 2-4 | [[Fiskebåt og vektorbevegelse\|Fiskebåt og vektorbevegelse]] | vektorer, modellering | ❌ |
+| 2-5 | [[Tangent til ln og trekantareal\|Tangent til ln og trekantareal]] | logaritmer, derivasjon, areal | ❌ |
 
 # Del 1
 

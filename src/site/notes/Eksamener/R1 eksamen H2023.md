@@ -1,6 +1,17 @@
 ---
-{"tags":["eksamen"],"fag":["r1"],"eksamen":"h23","title":"R1 eksamen H2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r1"],"eksamen":"h23","title":"R1 eksamen H2023","contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-h2023/"}}
+{"tags":["eksamen"],"fag":["r1"],"eksamen":"h23","del1_tid":1,"title":"R1 eksamen H2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r1"],"eksamen":"h23","del1_tid":1,"title":"R1 eksamen H2023","contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-h2023/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 1 time — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Deriver x ln(x)\|Deriver x ln(x)]] | derivasjon, logaritmer | ❌ |
+| 1-2 | [[Sorter tallene i riktig rekkefølge\|Sorter tallene i riktig rekkefølge]] | logaritmer | ❌ |
+| 1-3 | [[Vektorer til å bestemme sidekanter og vinkler i trekant\|Vektorer til å bestemme sidekanter og vinkler i trekant]] | vektorer | ❌ |
+| 1-4 | [[Tolk og fiks program som finner bunnpunkt\|Tolk og fiks program som finner bunnpunkt]] | programmering, derivasjon | ❌ |
 
 # Del 1
 

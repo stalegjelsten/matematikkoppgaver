@@ -1,6 +1,27 @@
 ---
-{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"h24","title":"1P-Y EL eksamen H2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-y-el-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"h24","title":"1P-Y EL eksamen H2024","contentClasses":"eksamen-side","permalink":"/eksamener/1p-y-el-eksamen-h2024/"}}
+{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"h24","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen H2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-y-el-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"h24","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen H2024","contentClasses":"eksamen-side","permalink":"/eksamener/1p-y-el-eksamen-h2024/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 1 time — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Plantejord fra to butikker\|Plantejord fra to butikker]] | prosentregning, enhetskostnad, økonomi | ✔︎ |
+| 1-2 | [[Størst prosentvis prisøkning\|Størst prosentvis prisøkning]] | prosentregning, prosentvis endring | ✔︎ |
+| 1-3 | [[Merverdiavgift i Frankrike\|Merverdiavgift i Frankrike]] | formler, prosentregning | ✔︎ |
+| 1-4 | [[Iskremmaskin og effektberegning\|Iskremmaskin og effektberegning]] | formler, elektrofag | ✔︎ |
+| 1-5 | [[Bruke definisjonene av sinus og cosinus til å sette opp forhold\|Bruke definisjonene av sinus og cosinus til å sette opp forhold]] | trigonometri | ✔︎ |
+
+**Del 2** — 3 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Effekttrekant for motor\|Effekttrekant for motor]] | trigonometri, effekttrekant | ✔︎ |
+| 2-2 | [[Trine og digitale lagringsmedier\|Trine og digitale lagringsmedier]] | bits og bytes, store tall | ✔︎ |
+| 2-3 | [[Eriks bilbruk\|Eriks bilbruk]] | excel, økonomi, formler | ✔︎ |
+| 2-4 | [[Reise til Gran Canaria\|Reise til Gran Canaria]] | excel, lån, kredittkort, oversikt | ✔︎ |
 
 # Del 1
 

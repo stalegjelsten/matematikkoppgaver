@@ -1,6 +1,16 @@
 ---
-{"tags":["eksamen"],"fag":["s2"],"eksamen":"h22","title":"S2 eksamen H2022","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2022/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"h22","title":"S2 eksamen H2022","contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2022/"}}
+{"tags":["eksamen"],"fag":["s2"],"eksamen":"h22","del1_tid":2,"title":"S2 eksamen H2022","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2022/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"h22","del1_tid":2,"title":"S2 eksamen H2022","contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2022/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 2 timer — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-2 | [[Begrunn at uendelig rekke konvergerer\|Begrunn at uendelig rekke konvergerer]] | rekker | ❌ |
+| 1-5 | [[Idas jakke\|Idas jakke]] | rekker | ❌ |
+| 1-8 | [[Lykkehjulet\|Lykkehjulet]] | sannsynlighet, normalfordeling, binomisk | ❌ |
 
 # Del 1
 

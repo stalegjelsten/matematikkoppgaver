@@ -1,6 +1,33 @@
 ---
-{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"v25","title":"2P-Y eksamen V2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-y-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"v25","title":"2P-Y eksamen V2025","contentClasses":"eksamen-side","permalink":"/eksamener/2p-y-eksamen-v2025/"}}
+{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"v25","del1_tid":2,"del2_tid":3,"title":"2P-Y eksamen V2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-y-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"v25","del1_tid":2,"del2_tid":3,"title":"2P-Y eksamen V2025","contentClasses":"eksamen-side","permalink":"/eksamener/2p-y-eksamen-v2025/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 2 timer — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Elever i klassen basert på prosentandel\|Elever i klassen basert på prosentandel]] | prosent | ✔︎ |
+| 1-2 | [[Median og gjennomsnitt i heiskø\|Median og gjennomsnitt i heiskø]] | sentralmål, kumulativ frekvens | ✔︎ |
+| 1-3 | [[Omvendt proporsjonal klassefest\|Omvendt proporsjonal klassefest]] | omvendt proporsjonalitet, funksjoner | ✔︎ |
+| 1-4 | [[Prosentvis framgang for to partier\|Prosentvis framgang for to partier]] | prosent | ✔︎ |
+| 1-5 | [[Få størst mulig svar\|Få størst mulig svar]] | potensregning | ✔︎ |
+| 1-6 | [[Figurtall 2PY v2025\|Figurtall 2PY v2025]] | figurtall | ✔︎ |
+| 1-7 | [[Median og gjennomsnitt fra klassedelt alder\|Median og gjennomsnitt fra klassedelt alder]] | sentralmål | ✔︎ |
+| 1-8 | [[Program for reduksjon av matsvinn\|Program for reduksjon av matsvinn]] | programmering, eksponentialfunksjoner | ✔︎ |
+
+**Del 2** — 3 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Modell for reduksjon av utslipp\|Modell for reduksjon av utslipp]] | eksponentialfunksjoner, geogebra, funksjoner | ✔︎ |
+| 2-2 | [[Burj Khalifa standardform\|Burj Khalifa standardform]] | standardform | ✔︎ |
+| 2-3 | [[Påstander om gjennomsnitt og median i et rom\|Påstander om gjennomsnitt og median i et rom]] | sentralmål | ✔︎ |
+| 2-4 | [[Proporsjonal pris på antibac\|Proporsjonal pris på antibac]] | proporsjonalitet | ✔︎ |
+| 2-5 | [[Modell for lengde av skjerf\|Modell for lengde av skjerf]] | modellering | ✔︎ |
+| 2-6 | [[Halvert fuglebestand\|Halvert fuglebestand]] | eksponentialfunksjoner | ✔︎ |
+| 2-7 | [[Lag presentasjon som viser døds- og fødselsrate\|Lag presentasjon som viser døds- og fødselsrate]] | presentasjon av data | ✔︎ |
 
 # Del 1
 

@@ -1,6 +1,29 @@
 ---
-{"tags":["eksamen"],"fag":["2p"],"eksamen":"v24","date":"2024-05-24","title":"2P eksamen V2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p"],"eksamen":"v24","date":"2024-05-24","title":"2P eksamen V2024","contentClasses":"eksamen-side","permalink":"/eksamener/2p-eksamen-v2024/"}}
+{"tags":["eksamen"],"fag":["2p"],"eksamen":"v24","date":"2024-05-24","del1_tid":1,"del2_tid":4,"title":"2P eksamen V2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p"],"eksamen":"v24","date":"2024-05-24","del1_tid":1,"del2_tid":4,"title":"2P eksamen V2024","contentClasses":"eksamen-side","permalink":"/eksamener/2p-eksamen-v2024/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 1 time — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Gjennomsnitt og median sosiale medier\|Gjennomsnitt og median sosiale medier]] | statistikk, gjennomsnitt, median | ❌ |
+| 1-2 | [[Konsumprisindeks vare 2015–2023\|Konsumprisindeks vare 2015–2023]] | prisindeks, prosentregning | ❌ |
+| 1-3 | [[Kartmålestokk Oslo\|Kartmålestokk Oslo]] | proporsjonalitet, geometri | ✔︎ |
+| 1-4 | [[Ispinner og mineralvann likningssystem\|Ispinner og mineralvann likningssystem]] | likningssystem, likninger | ✔︎ |
+| 1-5 | [[Prosentvis prisreduksjon bagetter\|Prosentvis prisreduksjon bagetter]] | prosentregning, enhetskostnad | ✔︎ |
+
+**Del 2** — 4 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Instagram-følgere eksponentiell vekst\|Instagram-følgere eksponentiell vekst]] | eksponentiell vekst, vekstfaktor, prosentvis vekst | ✔︎ |
+| 2-2 | [[Skiturstatistikk Solveig og Miriam\|Skiturstatistikk Solveig og Miriam]] | statistikk, kumulativ frekvens, sentralmål, spredningsmål | ✔︎ |
+| 2-3 | [[Tid brukt på lekser histogram\|Tid brukt på lekser histogram]] | statistikk, diagram, gjennomsnitt, median | ✔︎ |
+| 2-4 | [[Programmering likningssystem Sara og Ole\|Programmering likningssystem Sara og Ole]] | programmering, likningssystem | ❌ |
+| 2-5 | [[Klatrevegg rettavkortet kjegle\|Klatrevegg rettavkortet kjegle]] | geometri, areal, volum | ❌ |
+| 2-6 | [[Leilighet og annuitetslån Johannes\|Leilighet og annuitetslån Johannes]] | lån, økonomi, prosentregning | ❌ |
 
 # Del 1
 
