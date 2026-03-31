@@ -1,29 +1,29 @@
 ---
-{"tags":["eksamen"],"fag":["s2"],"eksamen":"h23","del1_tid":2,"del2_tid":3,"title":"S2 eksamen H2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"h23","del1_tid":2,"del2_tid":3,"title":"S2 eksamen H2023","contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2023/"}}
+{"tags":["eksamen"],"fag":["s2"],"eksamen":"h23","del1_tid":2,"del2_tid":3,"title":"S2 eksamen H2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"h23","del1_tid":2,"del2_tid":3,"title":"S2 eksamen H2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2023/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Bestemt integral 3\|Bestemt integral 3]] | integral | ✔︎ |
-| 1-2a | [[Uendelig geometrisk rekke\|Uendelig geometrisk rekke]] | uendelig rekke, rekker | ✔︎ |
-| 1-2b | [[Aritmetisk rekke\|Aritmetisk rekke]] | rekker | ✔︎ |
-| 1-3 | [[Grensekostnader og enhetskostnader fra graf\|Grensekostnader og enhetskostnader fra graf]] | grenseinntekt og grensekostnad, enhetskostnad, tolke grafer | ✔︎ |
-| 1-4 | [[Ukjent program h23\|Ukjent program h23]] | programmering | ✔︎ |
-| 1-5 | [[Tunge kuler i kasse\|Tunge kuler i kasse]] | sannsynlighet, diskrete sannsynlighetsfordelinger, forventningsverdi, varians | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Bestemt integral 3](https://matematikkoppgaver.vercel.app/bestemt-integral-3/) | integral | ✔︎ |
+| [1-2a](#oppgave-1-2a) | [Uendelig geometrisk rekke](https://matematikkoppgaver.vercel.app/uendelig-geometrisk-rekke/) | uendelig rekke, rekker | ✔︎ |
+| [1-2b](#oppgave-1-2b) | [Aritmetisk rekke](https://matematikkoppgaver.vercel.app/aritmetisk-rekke/) | rekker | ✔︎ |
+| [1-3](#oppgave-1-3) | [Grensekostnader og enhetskostnader fra graf](https://matematikkoppgaver.vercel.app/grensekostnader-og-enhetskostnader-fra-graf/) | grenseinntekt og grensekostnad, enhetskostnad, tolke grafer | ✔︎ |
+| [1-4](#oppgave-1-4) | [Ukjent program h23](https://matematikkoppgaver.vercel.app/ukjent-program-h23/) | programmering | ✔︎ |
+| [1-5](#oppgave-1-5) | [Tunge kuler i kasse](https://matematikkoppgaver.vercel.app/tunge-kuler-i-kasse/) | sannsynlighet, diskrete sannsynlighetsfordelinger, forventningsverdi, varians | ✔︎ |
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Modell for etterspørsel av vare\|Modell for etterspørsel av vare]] | etterspørsel, modellering, regresjon, grenseinntekt og grensekostnad | ✔︎ |
-| 2-2 | [[Miriam og Hermods sparing\|Miriam og Hermods sparing]] | sparing, rekker | ✔︎ |
-| 2-3 | [[Normalfordelte vinterdekk\|Normalfordelte vinterdekk]] | normalfordeling, hypotesetest | ✔︎ |
-| 2-4 | [[Rekursiv sammenheng mellom pentagontall\|Rekursiv sammenheng mellom pentagontall]] | rekursiv sammenheng, programmering, rekker | ✔︎ |
-| 2-5 | [[Simuler sannsynlighet for høyden til 24 måneder gammelt barn\|Simuler sannsynlighet for høyden til 24 måneder gammelt barn]] | programmering, simulering, normalfordeling | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Modell for etterspørsel av vare](https://matematikkoppgaver.vercel.app/modell-for-ettersporsel-av-vare/) | etterspørsel, modellering, regresjon, grenseinntekt og grensekostnad | ✔︎ |
+| [2-2](#oppgave-2-2) | [Miriam og Hermods sparing](https://matematikkoppgaver.vercel.app/miriam-og-hermods-sparing/) | sparing, rekker | ✔︎ |
+| [2-3](#oppgave-2-3) | [Normalfordelte vinterdekk](https://matematikkoppgaver.vercel.app/normalfordelte-vinterdekk/) | normalfordeling, hypotesetest | ✔︎ |
+| [2-4](#oppgave-2-4) | [Rekursiv sammenheng mellom pentagontall](https://matematikkoppgaver.vercel.app/rekursiv-sammenheng-mellom-pentagontall/) | rekursiv sammenheng, programmering, rekker | ✔︎ |
+| [2-5](#oppgave-2-5) | [Simuler sannsynlighet for høyden til 24 måneder gammelt barn](https://matematikkoppgaver.vercel.app/simuler-sannsynlighet-for-hoyden-til-24-maneder-gammelt-barn/) | programmering, simulering, normalfordeling | ✔︎ |
 
 # Del 1
 

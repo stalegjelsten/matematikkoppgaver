@@ -1,28 +1,28 @@
 ---
-{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"v25","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen V2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-y-el-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"v25","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen V2025","contentClasses":"eksamen-side","permalink":"/eksamener/1p-y-el-eksamen-v2025/"}}
+{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"v25","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen V2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-y-el-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"v25","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen V2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1p-y-el-eksamen-v2025/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Enhetspris og sparing på ris\|Enhetspris og sparing på ris]] | enhetskostnad, prosentregning, økonomi | ❌ |
-| 1-2 | [[Kvadratrotformel og mobilading\|Kvadratrotformel og mobilading]] | røtter, formler, algebra | ✔︎ |
-| 1-3 | [[Kennys lån\|Kennys lån]] | lån | ✔︎ |
-| 1-4 | [[Strømforbruk på vaskemaskin\|Strømforbruk på vaskemaskin]] | formler | ❌ |
-| 1-5 | [[Lukas sin ukjente trekant\|Lukas sin ukjente trekant]] | trigonometri | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Enhetspris og sparing på ris](https://matematikkoppgaver.vercel.app/enhetspris-og-sparing-pa-ris/) | enhetskostnad, prosentregning, økonomi | × |
+| [1-2](#oppgave-1-2) | [Kvadratrotformel og mobilading](https://matematikkoppgaver.vercel.app/kvadratrotformel-og-mobilading/) | røtter, formler, algebra | ✔︎ |
+| [1-3](#oppgave-1-3) | [Kennys lån](https://matematikkoppgaver.vercel.app/kennys-lan/) | lån | ✔︎ |
+| [1-4](#oppgave-1-4) | [Strømforbruk på vaskemaskin](https://matematikkoppgaver.vercel.app/stromforbruk-pa-vaskemaskin/) | formler | × |
+| [1-5](#oppgave-1-5) | [Lukas sin ukjente trekant](https://matematikkoppgaver.vercel.app/lukas-sin-ukjente-trekant/) | trigonometri | ✔︎ |
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Effekttrekant og virkningsgrad\|Effekttrekant og virkningsgrad]] | formler, effekttrekant | ✔︎ |
-| 2-2 | [[Overføringshastighet og digitale data\|Overføringshastighet og digitale data]] | bits og bytes, store tall, tallregning | ❌ |
-| 2-3 | [[Alis lån til bedriften\|Alis lån til bedriften]] | lån, excel | ❌ |
-| 2-4 | [[Energisammenlikning ved og strøm\|Energisammenlikning ved og strøm]] | enhetskostnad, økonomi, formler | ✔︎ |
-| 2-5 | [[Lønnsalternativer ved avissalg\|Lønnsalternativer ved avissalg]] | lineær vekst, funksjoner, økonomi | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Effekttrekant og virkningsgrad](https://matematikkoppgaver.vercel.app/effekttrekant-og-virkningsgrad/) | formler, effekttrekant | ✔︎ |
+| [2-2](#oppgave-2-2) | [Overføringshastighet og digitale data](https://matematikkoppgaver.vercel.app/overforingshastighet-og-digitale-data/) | bits og bytes, store tall, tallregning | × |
+| [2-3](#oppgave-2-3) | [Alis lån til bedriften](https://matematikkoppgaver.vercel.app/alis-lan-til-bedriften/) | lån, excel | × |
+| [2-4](#oppgave-2-4) | [Energisammenlikning ved og strøm](https://matematikkoppgaver.vercel.app/energisammenlikning-ved-og-strom/) | enhetskostnad, økonomi, formler | ✔︎ |
+| [2-5](#oppgave-2-5) | [Lønnsalternativer ved avissalg](https://matematikkoppgaver.vercel.app/lonnsalternativer-ved-avissalg/) | lineær vekst, funksjoner, økonomi | × |
 
 # Del 1
 

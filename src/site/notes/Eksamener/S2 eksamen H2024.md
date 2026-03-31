@@ -1,31 +1,31 @@
 ---
-{"tags":["eksamen"],"fag":["s2"],"eksamen":"h24","del1_tid":2,"del2_tid":3,"title":"S2 eksamen H2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"h24","del1_tid":2,"del2_tid":3,"title":"S2 eksamen H2024","contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2024/"}}
+{"tags":["eksamen"],"fag":["s2"],"eksamen":"h24","del1_tid":2,"del2_tid":3,"title":"S2 eksamen H2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"h24","del1_tid":2,"del2_tid":3,"title":"S2 eksamen H2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2024/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1a | [[Ubestemt integral h24\|Ubestemt integral h24]] | integral | ✔︎ |
-| 1-1b-c | [[Integral med ukjent grense\|Integral med ukjent grense]] | integral, likninger | ✔︎ |
-| 1-2 | [[Aritmetiske og geometriske rekker h24\|Aritmetiske og geometriske rekker h24]] | rekker, uendelig rekke | ✔︎ |
-| 1-3 | [[Varians i diskret sannsynlighetsfordeling\|Varians i diskret sannsynlighetsfordeling]] | diskrete sannsynlighetsfordelinger, varians | ✔︎ |
-| 1-4 | [[Figurer som viser normalfordeling\|Figurer som viser normalfordeling]] | normalfordeling, standard normalfordeling, binomisk | ✔︎ |
-| 1-5 | [[Grensekostnad og enhetskostnad del 1\|Grensekostnad og enhetskostnad del 1]] | økonomi, grenseinntekt og grensekostnad, enhetskostnad | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1a](#oppgave-1-1a) | [Ubestemt integral h24](https://matematikkoppgaver.vercel.app/ubestemt-integral-h24/) | integral | ✔︎ |
+| [1-1b-c](#oppgave-1-1b-c) | [Integral med ukjent grense](https://matematikkoppgaver.vercel.app/integral-med-ukjent-grense/) | integral, likninger | ✔︎ |
+| [1-2](#oppgave-1-2) | [Aritmetiske og geometriske rekker h24](https://matematikkoppgaver.vercel.app/aritmetiske-og-geometriske-rekker-h24/) | rekker, uendelig rekke | ✔︎ |
+| [1-3](#oppgave-1-3) | [Varians i diskret sannsynlighetsfordeling](https://matematikkoppgaver.vercel.app/varians-i-diskret-sannsynlighetsfordeling/) | diskrete sannsynlighetsfordelinger, varians | ✔︎ |
+| [1-4](#oppgave-1-4) | [Figurer som viser normalfordeling](https://matematikkoppgaver.vercel.app/figurer-som-viser-normalfordeling/) | normalfordeling, standard normalfordeling, binomisk | ✔︎ |
+| [1-5](#oppgave-1-5) | [Grensekostnad og enhetskostnad del 1](https://matematikkoppgaver.vercel.app/grensekostnad-og-enhetskostnad-del-1/) | økonomi, grenseinntekt og grensekostnad, enhetskostnad | ✔︎ |
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Marcos logistiske løpetrening\|Marcos logistiske løpetrening]] | logistisk funksjon, regresjon, samlet mengde | ✔︎ |
-| 2-2 | [[Hypergeometrisk hypotesetest\|Hypergeometrisk hypotesetest]] | hypotesetest, hypergeometrisk | ✔︎ |
-| 2-3a | [[Påstand om sum av rekke\|Påstand om sum av rekke]] | rekker, uendelig rekke | ✔︎ |
-| 2-3b | [[Påstand om områder avgrenset av grafer\|Påstand om områder avgrenset av grafer]] | funksjoner, areal under graf, integral | ✔︎ |
-| 2-4 | [[Rekursiv formel og programmering\|Rekursiv formel og programmering]] | programmering, rekursiv sammenheng | ✔︎ |
-| 2-5 | [[Oles studielån\|Oles studielån]] | lån | ✔︎ |
-| 2-6 | [[Etterspørsel av vare\|Etterspørsel av vare]] | etterspørsel, økonomi | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Marcos logistiske løpetrening](https://matematikkoppgaver.vercel.app/marcos-logistiske-lopetrening/) | logistisk funksjon, regresjon, samlet mengde | ✔︎ |
+| [2-2](#oppgave-2-2) | [Hypergeometrisk hypotesetest](https://matematikkoppgaver.vercel.app/hypergeometrisk-hypotesetest/) | hypotesetest, hypergeometrisk | ✔︎ |
+| [2-3a](#oppgave-2-3a) | [Påstand om sum av rekke](https://matematikkoppgaver.vercel.app/pastand-om-sum-av-rekke/) | rekker, uendelig rekke | ✔︎ |
+| [2-3b](#oppgave-2-3b) | [Påstand om områder avgrenset av grafer](https://matematikkoppgaver.vercel.app/pastand-om-omrader-avgrenset-av-grafer/) | funksjoner, areal under graf, integral | ✔︎ |
+| [2-4](#oppgave-2-4) | [Rekursiv formel og programmering](https://matematikkoppgaver.vercel.app/rekursiv-formel-og-programmering/) | programmering, rekursiv sammenheng | ✔︎ |
+| [2-5](#oppgave-2-5) | [Oles studielån](https://matematikkoppgaver.vercel.app/oles-studielan/) | lån | ✔︎ |
+| [2-6](#oppgave-2-6) | [Etterspørsel av vare](https://matematikkoppgaver.vercel.app/ettersporsel-av-vare/) | etterspørsel, økonomi | ✔︎ |
 
 # Del 1
 

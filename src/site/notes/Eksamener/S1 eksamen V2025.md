@@ -1,30 +1,30 @@
 ---
-{"tags":["eksamen"],"fag":["s1"],"eksamen":"v25","date":"2025-05-19","del1_tid":2,"del2_tid":3,"title":"S1 eksamen V2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s1"],"eksamen":"v25","date":"2025-05-19","del1_tid":2,"del2_tid":3,"title":"S1 eksamen V2025","contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-v2025/"}}
+{"tags":["eksamen"],"fag":["s1"],"eksamen":"v25","del1_tid":2,"del2_tid":3,"title":"S1 eksamen V2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s1"],"eksamen":"v25","del1_tid":2,"del2_tid":3,"title":"S1 eksamen V2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-v2025/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Derivasjon av eksponential og potensfunksjon\|Derivasjon av eksponential og potensfunksjon]] | derivasjon, eksponentialfunksjoner | ❌ |
-| 1-2 | [[Nullpunkter og ekstremalpunkter for g\|Nullpunkter og ekstremalpunkter for g]] | derivasjon, funksjonsdrøfting | ❌ |
-| 1-3 | [[Eksponential- og logaritmelikninger\|Eksponential- og logaritmelikninger]] | eksponentialfunksjoner, logaritmer | ❌ |
-| 1-4 | [[Grenseverdier med algebraisk forenkling\|Grenseverdier med algebraisk forenkling]] | grenseverdi | ❌ |
-| 1-5 | [[Sannsynlighet for skytter Arne Treff\|Sannsynlighet for skytter Arne Treff]] | sannsynlighet, diskrete sannsynlighetsfordelinger | ❌ |
-| 1-6 | [[Kontinuitet av funksjoner med delt forskrift\|Kontinuitet av funksjoner med delt forskrift]] | kontinuitet, funksjoner | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Derivasjon av eksponential og potensfunksjon](https://matematikkoppgaver.vercel.app/derivasjon-av-eksponential-og-potensfunksjon/) | derivasjon, eksponentialfunksjoner | × |
+| [1-2](#oppgave-1-2) | [Nullpunkter og ekstremalpunkter for g](https://matematikkoppgaver.vercel.app/nullpunkter-og-ekstremalpunkter-for-g/) | derivasjon, funksjonsdrøfting | × |
+| [1-3](#oppgave-1-3) | [Eksponential- og logaritmelikninger](https://matematikkoppgaver.vercel.app/eksponential-og-logaritmelikninger/) | eksponentialfunksjoner, logaritmer | × |
+| [1-4](#oppgave-1-4) | [Grenseverdier med algebraisk forenkling](https://matematikkoppgaver.vercel.app/grenseverdier-med-algebraisk-forenkling/) | grenseverdi | × |
+| [1-5](#oppgave-1-5) | [Sannsynlighet for skytter Arne Treff](https://matematikkoppgaver.vercel.app/sannsynlighet-for-skytter-arne-treff/) | sannsynlighet, diskrete sannsynlighetsfordelinger | × |
+| [1-6](#oppgave-1-6) | [Kontinuitet av funksjoner med delt forskrift](https://matematikkoppgaver.vercel.app/kontinuitet-av-funksjoner-med-delt-forskrift/) | kontinuitet, funksjoner | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Hengelåskode og simulering\|Hengelåskode og simulering]] | sannsynlighet, simulering, kombinatorikk | ❌ |
-| 2-2 | [[Funksjon med delt forskrift og ukjent ledd\|Funksjon med delt forskrift og ukjent ledd]] | kontinuitet, derivasjon, funksjoner | ✔︎ |
-| 2-3 | [[Kombinatorikk med elever i arbeidsgruppe\|Kombinatorikk med elever i arbeidsgruppe]] | kombinatorikk, sannsynlighet | ❌ |
-| 2-4 | [[Valgresultat og binomisk sannsynlighet\|Valgresultat og binomisk sannsynlighet]] | sannsynlighet, diskrete sannsynlighetsfordelinger, statistikk | ❌ |
-| 2-5 | [[T-skjorter, inntekt og overskudd\|T-skjorter, inntekt og overskudd]] | økonomi, derivasjon, funksjonsdrøfting | ❌ |
-| 2-6 | [[Oljefondet og eksponentiell modell\|Oljefondet og eksponentiell modell]] | eksponentiell vekst, modellering, gjennomsnittlig vekstfart | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Hengelåskode og simulering](https://matematikkoppgaver.vercel.app/hengelaskode-og-simulering/) | sannsynlighet, simulering, kombinatorikk | × |
+| [2-2](#oppgave-2-2) | [Funksjon med delt forskrift og ukjent ledd](https://matematikkoppgaver.vercel.app/funksjon-med-delt-forskrift-og-ukjent-ledd/) | kontinuitet, derivasjon, funksjoner | ✔︎ |
+| [2-3](#oppgave-2-3) | [Kombinatorikk med elever i arbeidsgruppe](https://matematikkoppgaver.vercel.app/kombinatorikk-med-elever-i-arbeidsgruppe/) | kombinatorikk, sannsynlighet | × |
+| [2-4](#oppgave-2-4) | [Valgresultat og binomisk sannsynlighet](https://matematikkoppgaver.vercel.app/valgresultat-og-binomisk-sannsynlighet/) | sannsynlighet, diskrete sannsynlighetsfordelinger, statistikk | × |
+| [2-5](#oppgave-2-5) | [T-skjorter, inntekt og overskudd](https://matematikkoppgaver.vercel.app/t-skjorter-inntekt-og-overskudd/) | økonomi, derivasjon, funksjonsdrøfting | × |
+| [2-6](#oppgave-2-6) | [Oljefondet og eksponentiell modell](https://matematikkoppgaver.vercel.app/oljefondet-og-eksponentiell-modell/) | eksponentiell vekst, modellering, gjennomsnittlig vekstfart | × |
 
 # Del 1
 

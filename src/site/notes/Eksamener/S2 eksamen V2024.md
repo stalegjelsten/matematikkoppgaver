@@ -1,29 +1,29 @@
 ---
-{"tags":["eksamen"],"fag":["s2"],"eksamen":"v24","del1_tid":2,"del2_tid":3,"title":"S2 eksamen V2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"v24","del1_tid":2,"del2_tid":3,"title":"S2 eksamen V2024","contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2024/"}}
+{"tags":["eksamen"],"fag":["s2"],"eksamen":"v24","del1_tid":2,"del2_tid":3,"title":"S2 eksamen V2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"v24","del1_tid":2,"del2_tid":3,"title":"S2 eksamen V2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2024/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Bestemt integral og areal\|Bestemt integral og areal]] | integral, areal under graf | ✔︎ |
-| 1-2 | [[Ubestemt integral v24\|Ubestemt integral v24]] | integral | ✔︎ |
-| 1-3 | [[Ukjent program S2 v24\|Ukjent program S2 v24]] | programmering, rekker | ✔︎ |
-| 1-4 | [[Normalfordelt laks\|Normalfordelt laks]] | standard normalfordeling, normalfordeling | ✔︎ |
-| 1-5 | [[Vis at enhetskostnad er like grensekostnad ved laveste enhetskostnad\|Vis at enhetskostnad er like grensekostnad ved laveste enhetskostnad]] | bevis, enhetskostnad, grenseinntekt og grensekostnad, økonomi | ✔︎ |
-| 1-6 | [[Hildes terningkast\|Hildes terningkast]] | forventningsverdi, normalfordeling, standard normalfordeling, utforskning | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Bestemt integral og areal](https://matematikkoppgaver.vercel.app/bestemt-integral-og-areal/) | integral, areal under graf | ✔︎ |
+| [1-2](#oppgave-1-2) | [Ubestemt integral v24](https://matematikkoppgaver.vercel.app/ubestemt-integral-v24/) | integral | ✔︎ |
+| [1-3](#oppgave-1-3) | [Ukjent program S2 v24](https://matematikkoppgaver.vercel.app/ukjent-program-s2-v24/) | programmering, rekker | ✔︎ |
+| [1-4](#oppgave-1-4) | [Normalfordelt laks](https://matematikkoppgaver.vercel.app/normalfordelt-laks/) | standard normalfordeling, normalfordeling | ✔︎ |
+| [1-5](#oppgave-1-5) | [Vis at enhetskostnad er like grensekostnad ved laveste enhetskostnad](https://matematikkoppgaver.vercel.app/vis-at-enhetskostnad-er-like-grensekostnad-ved-laveste-enhetskostnad/) | bevis, enhetskostnad, grenseinntekt og grensekostnad, økonomi | ✔︎ |
+| [1-6](#oppgave-1-6) | [Hildes terningkast](https://matematikkoppgaver.vercel.app/hildes-terningkast/) | forventningsverdi, normalfordeling, standard normalfordeling, utforskning | ✔︎ |
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Logistisk vekst for et produkt\|Logistisk vekst for et produkt]] | økonomi, logistisk funksjon, samlet mengde | ✔︎ |
-| 2-2 | [[Hypotesetest om legemiddel\|Hypotesetest om legemiddel]] | hypotesetest, binomisk | ✔︎ |
-| 2-3 | [[Olivias annuitetslån\|Olivias annuitetslån]] | lån, rekker, excel, cas | ✔︎ |
-| 2-4 | [[Kubikktall\|Kubikktall]] | rekursiv sammenheng, figurtall, programmering | ✔︎ |
-| 2-5 | [[Sveins kurv med baller\|Sveins kurv med baller]] | sannsynlighet, hypergeometrisk, utforskning | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Logistisk vekst for et produkt](https://matematikkoppgaver.vercel.app/logistisk-vekst-for-et-produkt/) | økonomi, logistisk funksjon, samlet mengde | ✔︎ |
+| [2-2](#oppgave-2-2) | [Hypotesetest om legemiddel](https://matematikkoppgaver.vercel.app/hypotesetest-om-legemiddel/) | hypotesetest, binomisk | ✔︎ |
+| [2-3](#oppgave-2-3) | [Olivias annuitetslån](https://matematikkoppgaver.vercel.app/olivias-annuitetslan/) | lån, rekker, excel, cas | ✔︎ |
+| [2-4](#oppgave-2-4) | [Kubikktall](https://matematikkoppgaver.vercel.app/kubikktall/) | rekursiv sammenheng, figurtall, programmering | ✔︎ |
+| [2-5](#oppgave-2-5) | [Sveins kurv med baller](https://matematikkoppgaver.vercel.app/sveins-kurv-med-baller/) | sannsynlighet, hypergeometrisk, utforskning | ✔︎ |
 
 # Del 1
 

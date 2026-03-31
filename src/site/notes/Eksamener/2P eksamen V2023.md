@@ -1,29 +1,29 @@
 ---
-{"tags":["eksamen"],"fag":["2p"],"eksamen":"v23","date":"2023-05-23","del1_tid":1,"del2_tid":4,"title":"2P eksamen V2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p"],"eksamen":"v23","date":"2023-05-23","del1_tid":1,"del2_tid":4,"title":"2P eksamen V2023","contentClasses":"eksamen-side","permalink":"/eksamener/2p-eksamen-v2023/"}}
+{"tags":["eksamen"],"fag":["2p"],"eksamen":"v23","del1_tid":1,"del2_tid":4,"title":"2P eksamen V2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p"],"eksamen":"v23","del1_tid":1,"del2_tid":4,"title":"2P eksamen V2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2p-eksamen-v2023/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Prisindeks og brødpris\|Prisindeks og brødpris]] | prisindeks, prosentregning, argumentasjon | ❌ |
-| 1-2 | [[Likebeinte og formlike trekanter\|Likebeinte og formlike trekanter]] | geometri, argumentasjon | ✔︎ |
-| 1-3 | [[Nominell lønn og reallønn\|Nominell lønn og reallønn]] | økonomi, prosentregning | ❌ |
-| 1-4 | [[Likninger og ulikheter fra grafer\|Likninger og ulikheter fra grafer]] | funksjoner, grafisk framstilling, likninger | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Prisindeks og brødpris](https://matematikkoppgaver.vercel.app/prisindeks-og-brodpris/) | prisindeks, prosentregning, argumentasjon | × |
+| [1-2](#oppgave-1-2) | [Likebeinte og formlike trekanter](https://matematikkoppgaver.vercel.app/likebeinte-og-formlike-trekanter/) | geometri, argumentasjon | ✔︎ |
+| [1-3](#oppgave-1-3) | [Nominell lønn og reallønn](https://matematikkoppgaver.vercel.app/nominell-lonn-og-reallonn/) | økonomi, prosentregning | × |
+| [1-4](#oppgave-1-4) | [Likninger og ulikheter fra grafer](https://matematikkoppgaver.vercel.app/likninger-og-ulikheter-fra-grafer/) | funksjoner, grafisk framstilling, likninger | ✔︎ |
 
 **Del 2** — 4 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Pris på T-skjorte og bukse\|Pris på T-skjorte og bukse]] | likningssystem | ❌ |
-| 2-2 | [[Kaffekoppers gjennomsnitt med ukjent\|Kaffekoppers gjennomsnitt med ukjent]] | statistikk, gjennomsnitt | ✔︎ |
-| 2-3 | [[Prisvekst og prisfall sammenligning\|Prisvekst og prisfall sammenligning]] | prosentregning, vekstfaktor, geometrisk vekst | ✔︎ |
-| 2-4 | [[Sykkelhjelm og datapresentasjon\|Sykkelhjelm og datapresentasjon]] | statistikk, prosentregning, diagrammer, presentasjon av data | ✔︎ |
-| 2-5 | [[Lønnsnivå og sentralmål\|Lønnsnivå og sentralmål]] | statistikk, gjennomsnitt, median, sentralmål, grupperte data | ✔︎ |
-| 2-6 | [[Parkeringsplass og prosentendring\|Parkeringsplass og prosentendring]] | areal, prosentregning, argumentasjon | ❌ |
-| 2-7 | [[Sofies lån og nedbetalingsprogram\|Sofies lån og nedbetalingsprogram]] | lån, programmering | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Pris på T-skjorte og bukse](https://matematikkoppgaver.vercel.app/pris-pa-t-skjorte-og-bukse/) | likningssystem | × |
+| [2-2](#oppgave-2-2) | [Kaffekoppers gjennomsnitt med ukjent](https://matematikkoppgaver.vercel.app/kaffekoppers-gjennomsnitt-med-ukjent/) | statistikk, gjennomsnitt | ✔︎ |
+| [2-3](#oppgave-2-3) | [Prisvekst og prisfall sammenligning](https://matematikkoppgaver.vercel.app/prisvekst-og-prisfall-sammenligning/) | prosentregning, vekstfaktor, geometrisk vekst | ✔︎ |
+| [2-4](#oppgave-2-4) | [Sykkelhjelm og datapresentasjon](https://matematikkoppgaver.vercel.app/sykkelhjelm-og-datapresentasjon/) | statistikk, prosentregning, diagrammer, presentasjon av data | ✔︎ |
+| [2-5](#oppgave-2-5) | [Lønnsnivå og sentralmål](https://matematikkoppgaver.vercel.app/lonnsniva-og-sentralmal/) | statistikk, gjennomsnitt, median, sentralmål, grupperte data | ✔︎ |
+| [2-6](#oppgave-2-6) | [Parkeringsplass og prosentendring](https://matematikkoppgaver.vercel.app/parkeringsplass-og-prosentendring/) | areal, prosentregning, argumentasjon | × |
+| [2-7](#oppgave-2-7) | [Sofies lån og nedbetalingsprogram](https://matematikkoppgaver.vercel.app/sofies-lan-og-nedbetalingsprogram/) | lån, programmering | × |
 
 # Del 1
 

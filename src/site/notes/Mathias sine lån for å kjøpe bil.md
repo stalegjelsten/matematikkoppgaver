@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["lån","rekker"],"fag":["s2"],"eksamen":"h25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":4}],"title":null,"source":null,"todo":null,"status":3,"permalink":"/mathias-sine-lan-for-a-kjope-bil/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"temaer":["lån","rekker"],"fag":["s2"],"eksamen":"h25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":4}],"title":null,"source":null,"todo":null,"status":3}}
+{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["lån","rekker"],"fag":["s2"],"eksamen":"h25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":4}],"title":null,"source":null,"todo":null,"status":3,"permalink":"/mathias-sine-lan-for-a-kjope-bil/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"temaer":["lån","rekker"],"fag":["s2"],"eksamen":"h25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":4}],"title":null,"source":null,"todo":null,"status":3,"permalink":"/mathias-sine-lan-for-a-kjope-bil/"}}
 ---
 
 

@@ -1,30 +1,30 @@
 ---
-{"tags":["eksamen"],"fag":["2p"],"eksamen":"h23","date":"2023-11-28","del1_tid":1,"del2_tid":4,"title":"2P eksamen H2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p"],"eksamen":"h23","date":"2023-11-28","del1_tid":1,"del2_tid":4,"title":"2P eksamen H2023","contentClasses":"eksamen-side","permalink":"/eksamener/2p-eksamen-h2023/"}}
+{"tags":["eksamen"],"fag":["2p"],"eksamen":"h23","del1_tid":1,"del2_tid":4,"title":"2P eksamen H2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p"],"eksamen":"h23","del1_tid":1,"del2_tid":4,"title":"2P eksamen H2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2p-eksamen-h2023/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Buss enkeltbillett eller fleksikort\|Buss enkeltbillett eller fleksikort]] | prosentregning | ✔︎ |
-| 1-2 | [[Kart og målestokk\|Kart og målestokk]] | proporsjonalitet, målestokk | ❌ |
-| 1-3 | [[Joggeavstander med gitte sentralmål\|Joggeavstander med gitte sentralmål]] | statistikk, sentralmål | ✔︎ |
-| 1-4 | [[Nullpunkter og andregradslikninger\|Nullpunkter og andregradslikninger]] | andregradslikninger, likninger | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Buss enkeltbillett eller fleksikort](https://matematikkoppgaver.vercel.app/buss-enkeltbillett-eller-fleksikort/) | prosentregning | ✔︎ |
+| [1-2](#oppgave-1-2) | [Kart og målestokk](https://matematikkoppgaver.vercel.app/kart-og-malestokk/) | proporsjonalitet, målestokk | × |
+| [1-3](#oppgave-1-3) | [Joggeavstander med gitte sentralmål](https://matematikkoppgaver.vercel.app/joggeavstander-med-gitte-sentralmal/) | statistikk, sentralmål | ✔︎ |
+| [1-4](#oppgave-1-4) | [Nullpunkter og andregradslikninger](https://matematikkoppgaver.vercel.app/nullpunkter-og-andregradslikninger/) | andregradslikninger, likninger | × |
 
 **Del 2** — 4 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Vase og roser likningssystem\|Vase og roser likningssystem]] | likningssystem, økonomi | ❌ |
-| 2-2 | [[Prisindeks for sjokoladepålegg\|Prisindeks for sjokoladepålegg]] | prisindeks, prosentregning | ❌ |
-| 2-3 | [[Målskårere i Eliteserien 2022\|Målskårere i Eliteserien 2022]] | statistikk, sentralmål, spredningsmål | ✔︎ |
-| 2-4 | [[Boliglån månedlige terminer\|Boliglån månedlige terminer]] | lån, økonomi, rekursiv sammenheng | ❌ |
-| 2-5 | [[Trekant med to løsninger\|Trekant med to løsninger]] | trigonometri, geometri | ❌ |
-| 2-6 | [[Helsefagarbeidere presentasjon av data\|Helsefagarbeidere presentasjon av data]] | statistikk, diagrammer, presentasjon av data | ✔︎ |
-| 2-7 | [[Kvadratserie geometrisk rekke\|Kvadratserie geometrisk rekke]] | geometrisk vekst, rekker, programmering | ❌ |
-| 2-8 | [[Klimagassutslipp eksponentiell vekst\|Klimagassutslipp eksponentiell vekst]] | modellering, eksponentialfunksjoner | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Vase og roser likningssystem](https://matematikkoppgaver.vercel.app/vase-og-roser-likningssystem/) | likningssystem, økonomi | × |
+| [2-2](#oppgave-2-2) | [Prisindeks for sjokoladepålegg](https://matematikkoppgaver.vercel.app/prisindeks-for-sjokoladepalegg/) | prisindeks, prosentregning | × |
+| [2-3](#oppgave-2-3) | [Målskårere i Eliteserien 2022](https://matematikkoppgaver.vercel.app/malskarere-i-eliteserien-2022/) | statistikk, sentralmål, spredningsmål | ✔︎ |
+| [2-4](#oppgave-2-4) | [Boliglån månedlige terminer](https://matematikkoppgaver.vercel.app/boliglan-manedlige-terminer/) | lån, økonomi, rekursiv sammenheng | × |
+| [2-5](#oppgave-2-5) | [Trekant med to løsninger](https://matematikkoppgaver.vercel.app/trekant-med-to-losninger/) | trigonometri, geometri | × |
+| [2-6](#oppgave-2-6) | [Helsefagarbeidere presentasjon av data](https://matematikkoppgaver.vercel.app/helsefagarbeidere-presentasjon-av-data/) | statistikk, diagrammer, presentasjon av data | ✔︎ |
+| [2-7](#oppgave-2-7) | [Kvadratserie geometrisk rekke](https://matematikkoppgaver.vercel.app/kvadratserie-geometrisk-rekke/) | geometrisk vekst, rekker, programmering | × |
+| [2-8](#oppgave-2-8) | [Klimagassutslipp eksponentiell vekst](https://matematikkoppgaver.vercel.app/klimagassutslipp-eksponentiell-vekst/) | modellering, eksponentialfunksjoner | × |
 
 # Del 1
 

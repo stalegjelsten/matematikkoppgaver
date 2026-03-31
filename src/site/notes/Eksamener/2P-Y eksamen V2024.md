@@ -1,29 +1,29 @@
 ---
-{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"v24","del1_tid":1,"del2_tid":4,"title":"2P-Y eksamen V2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-y-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"v24","del1_tid":1,"del2_tid":4,"title":"2P-Y eksamen V2024","contentClasses":"eksamen-side","permalink":"/eksamener/2p-y-eksamen-v2024/"}}
+{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"v24","del1_tid":1,"del2_tid":4,"title":"2P-Y eksamen V2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-y-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"v24","del1_tid":1,"del2_tid":4,"title":"2P-Y eksamen V2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2p-y-eksamen-v2024/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Proporsjonale størrelser i kiosk\|Proporsjonale størrelser i kiosk]] | proporsjonalitet, argumentasjon | ✔︎ |
-| 1-2 | [[Prosentvis prisreduksjon bagetter\|Prosentvis prisreduksjon bagetter]] | prosentregning, enhetskostnad | ✔︎ |
-| 1-3 | [[Vannforbruk i Oslo\|Vannforbruk i Oslo]] | standardform | ✔︎ |
-| 1-4 | [[Figurtall 2P-Y v2024\|Figurtall 2P-Y v2024]] | figurtall | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Proporsjonale størrelser i kiosk](https://matematikkoppgaver.vercel.app/proporsjonale-storrelser-i-kiosk/) | proporsjonalitet, argumentasjon | ✔︎ |
+| [1-2](#oppgave-1-2) | [Prosentvis prisreduksjon bagetter](https://matematikkoppgaver.vercel.app/prosentvis-prisreduksjon-bagetter/) | prosentregning, enhetskostnad | ✔︎ |
+| [1-3](#oppgave-1-3) | [Vannforbruk i Oslo](https://matematikkoppgaver.vercel.app/vannforbruk-i-oslo/) | standardform | ✔︎ |
+| [1-4](#oppgave-1-4) | [Figurtall 2P-Y v2024](https://matematikkoppgaver.vercel.app/figurtall-2-p-y-v2024/) | figurtall | ✔︎ |
 
 **Del 2** — 4 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Hytteleie omvendt proporsjonal funksjon\|Hytteleie omvendt proporsjonal funksjon]] | omvendt proporsjonalitet, funksjoner, tolke grafer, stigningstall | ✔︎ |
-| 2-2 | [[Fastrenteinnskudd og renteinntekter\|Fastrenteinnskudd og renteinntekter]] | sparing, prosentregning, prosentvis endring | ✔︎ |
-| 2-3 | [[Skiturstatistikk Solveig og Miriam\|Skiturstatistikk Solveig og Miriam]] | statistikk, kumulativ frekvens, sentralmål, spredningsmål | ✔︎ |
-| 2-4 | [[Instagram-følgere eksponentiell vekst\|Instagram-følgere eksponentiell vekst]] | eksponentiell vekst, vekstfaktor, prosentvis vekst | ✔︎ |
-| 2-5 | [[Tid brukt på lekser histogram\|Tid brukt på lekser histogram]] | statistikk, diagram, gjennomsnitt, median | ✔︎ |
-| 2-6 | [[Programmering av Theas BSU-konto\|Programmering av Theas BSU-konto]] | programmering, sparing | ✔︎ |
-| 2-7 | [[Grafisk framstilling av læreplasser\|Grafisk framstilling av læreplasser]] | grafisk framstilling, statistikk | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Hytteleie omvendt proporsjonal funksjon](https://matematikkoppgaver.vercel.app/hytteleie-omvendt-proporsjonal-funksjon/) | omvendt proporsjonalitet, funksjoner, tolke grafer, stigningstall | ✔︎ |
+| [2-2](#oppgave-2-2) | [Fastrenteinnskudd og renteinntekter](https://matematikkoppgaver.vercel.app/fastrenteinnskudd-og-renteinntekter/) | sparing, prosentregning, prosentvis endring | ✔︎ |
+| [2-3](#oppgave-2-3) | [Skiturstatistikk Solveig og Miriam](https://matematikkoppgaver.vercel.app/skiturstatistikk-solveig-og-miriam/) | statistikk, kumulativ frekvens, sentralmål, spredningsmål | ✔︎ |
+| [2-4](#oppgave-2-4) | [Instagram-følgere eksponentiell vekst](https://matematikkoppgaver.vercel.app/instagram-folgere-eksponentiell-vekst/) | eksponentiell vekst, vekstfaktor, prosentvis vekst | ✔︎ |
+| [2-5](#oppgave-2-5) | [Tid brukt på lekser histogram](https://matematikkoppgaver.vercel.app/tid-brukt-pa-lekser-histogram/) | statistikk, diagram, gjennomsnitt, median | ✔︎ |
+| [2-6](#oppgave-2-6) | [Programmering av Theas BSU-konto](https://matematikkoppgaver.vercel.app/programmering-av-theas-bsu-konto/) | programmering, sparing | ✔︎ |
+| [2-7](#oppgave-2-7) | [Grafisk framstilling av læreplasser](https://matematikkoppgaver.vercel.app/grafisk-framstilling-av-laereplasser/) | grafisk framstilling, statistikk | × |
 
 # Del 1
 

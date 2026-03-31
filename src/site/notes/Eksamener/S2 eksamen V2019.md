@@ -1,14 +1,14 @@
 ---
-{"tags":["eksamen"],"fag":["s2"],"eksamen":"v19","del2_tid":3,"title":"S2 eksamen V2019","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2019/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"v19","del2_tid":3,"title":"S2 eksamen V2019","contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2019/"}}
+{"tags":["eksamen"],"fag":["s2"],"eksamen":"v19","del2_tid":3,"title":"S2 eksamen V2019","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2019/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"v19","del2_tid":3,"title":"S2 eksamen V2019","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2019/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-5 | [[Hypotesetest om russetid\|Hypotesetest om russetid]] | binomisk, normalfordeling, hypotesetest | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-5](#oppgave-2-5) | [Hypotesetest om russetid](https://matematikkoppgaver.vercel.app/hypotesetest-om-russetid/) | binomisk, normalfordeling, hypotesetest | ✔︎ |
 
 # Del 2
 

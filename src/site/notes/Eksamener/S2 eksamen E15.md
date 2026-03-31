@@ -1,14 +1,14 @@
 ---
-{"tags":["eksamen"],"fag":["s2"],"eksamen":"e15","del1_tid":2,"title":"S2 eksamen E15","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-e15/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"e15","del1_tid":2,"title":"S2 eksamen E15","contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-e15/"}}
+{"tags":["eksamen"],"fag":["s2"],"eksamen":"e15","del1_tid":2,"title":"S2 eksamen E15","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-e15/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"e15","del1_tid":2,"title":"S2 eksamen E15","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-e15/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-8 | [[Normalfordelt intelligens\|Normalfordelt intelligens]] | standard normalfordeling, normalfordeling, sannsynlighet | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-8](#oppgave-1-8) | [Normalfordelt intelligens](https://matematikkoppgaver.vercel.app/normalfordelt-intelligens/) | standard normalfordeling, normalfordeling, sannsynlighet | × |
 
 # Del 1
 

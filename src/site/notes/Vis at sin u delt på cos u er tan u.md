@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"temaer":["trigonometri"],"alias":[null],"del":1,"oppgave":1,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":1}],"fag":"1t","eksamen":"h22","dg-publish":true,"title":"Vis at (sin u) / (cos u) = tan u","date":"2023-05-31","modified":"2023-05-31","status":3,"permalink":"/vis-at-sin-u-delt-pa-cos-u-er-tan-u/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"temaer":["trigonometri"],"alias":[null],"del":1,"oppgave":1,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":1}],"fag":"1t","eksamen":"h22","title":"Vis at (sin u) / (cos u) = tan u","date":"2023-05-31","modified":"2023-05-31","status":3}}
+{"tags":["oppgave"],"temaer":["trigonometri"],"alias":[null],"del":1,"oppgave":1,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":1}],"fag":"1t","eksamen":"h22","dg-publish":true,"title":"Vis at (sin u) / (cos u) = tan u","date":"2023-05-31","modified":"2023-05-31","status":3,"permalink":"/vis-at-sin-u-delt-pa-cos-u-er-tan-u/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"temaer":["trigonometri"],"alias":[null],"del":1,"oppgave":1,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":1}],"fag":"1t","eksamen":"h22","title":"Vis at (sin u) / (cos u) = tan u","date":"2023-05-31","modified":"2023-05-31","status":3,"permalink":"/vis-at-sin-u-delt-pa-cos-u-er-tan-u/"}}
 ---
 
 # Vis at (sin u) / (cos u) = tan u

@@ -1,29 +1,29 @@
 ---
-{"tags":["eksamen"],"fag":["s2"],"eksamen":"v23","del1_tid":2,"del2_tid":3,"title":"S2 eksamen V2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"v23","del1_tid":2,"del2_tid":3,"title":"S2 eksamen V2023","contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2023/"}}
+{"tags":["eksamen"],"fag":["s2"],"eksamen":"v23","del1_tid":2,"del2_tid":3,"title":"S2 eksamen V2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"v23","del1_tid":2,"del2_tid":3,"title":"S2 eksamen V2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2023/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Bestemt integral 2\|Bestemt integral 2]] | integral | ❌ |
-| 1-2 | [[Grensekostnader fra graf v23\|Grensekostnader fra graf v23]] | økonomi, derivasjon, funksjoner, grenseinntekt og grensekostnad | ❌ |
-| 1-3 | [[Forventningsverdi og varians fra sannsynlighetsfordeling 2\|Forventningsverdi og varians fra sannsynlighetsfordeling 2]] | sannsynlighet, diskrete sannsynlighetsfordelinger, varians, forventningsverdi | ❌ |
-| 1-4 | [[Ukjent program del 1 S2\|Ukjent program del 1 S2]] | programmering, rekker | ❌ |
-| 1-4 | [[Uendelig rekke med virkestoff fra legemiddel\|Uendelig rekke med virkestoff fra legemiddel]] | uendelig rekke, rekker | ❌ |
-| 1-6 | [[Levetiden til normalfordelte batterier\|Levetiden til normalfordelte batterier]] | normalfordeling, standard normalfordeling, kontinuerlige sannsynlighetsfordelinger, sannsynlighet | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Bestemt integral 2](https://matematikkoppgaver.vercel.app/bestemt-integral-2/) | integral | × |
+| [1-2](#oppgave-1-2) | [Grensekostnader fra graf v23](https://matematikkoppgaver.vercel.app/grensekostnader-fra-graf-v23/) | økonomi, derivasjon, funksjoner, grenseinntekt og grensekostnad | × |
+| [1-3](#oppgave-1-3) | [Forventningsverdi og varians fra sannsynlighetsfordeling 2](https://matematikkoppgaver.vercel.app/forventningsverdi-og-varians-fra-sannsynlighetsfordeling-2/) | sannsynlighet, diskrete sannsynlighetsfordelinger, varians, forventningsverdi | × |
+| [1-4](#oppgave-1-4) | [Ukjent program del 1 S2](https://matematikkoppgaver.vercel.app/ukjent-program-del-1-s2/) | programmering, rekker | × |
+| [1-4](#oppgave-1-4) | [Uendelig rekke med virkestoff fra legemiddel](https://matematikkoppgaver.vercel.app/uendelig-rekke-med-virkestoff-fra-legemiddel/) | uendelig rekke, rekker | × |
+| [1-6](#oppgave-1-6) | [Levetiden til normalfordelte batterier](https://matematikkoppgaver.vercel.app/levetiden-til-normalfordelte-batterier/) | normalfordeling, standard normalfordeling, kontinuerlige sannsynlighetsfordelinger, sannsynlighet | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Annuitetslån\|Annuitetslån]] | lån, rekker, excel | ❌ |
-| 2-2 | [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] | regresjon, logistisk funksjon, derivasjon, funksjoner, tolkning av integraler, integral, samlet mengde | ❌ |
-| 2-3 | [[Hypotesetest med smak av cola\|Hypotesetest med smak av cola]] | hypotesetest, binomisk, diskrete sannsynlighetsfordelinger | ❌ |
-| 2-4 | [[Hildegunns ukepenger\|Hildegunns ukepenger]] | excel, rekker | ❌ |
-| 2-5 | [[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole]] | programmering, simulering, sannsynlighet, normalfordeling, kontinuerlige sannsynlighetsfordelinger | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Annuitetslån](https://matematikkoppgaver.vercel.app/annuitetslan/) | lån, rekker, excel | × |
+| [2-2](#oppgave-2-2) | [Regresjon på størrelsen av det norske musikkstrømmemarkedet](https://matematikkoppgaver.vercel.app/regresjon-pa-storrelsen-av-det-norske-musikkstrommemarkedet/) | regresjon, logistisk funksjon, derivasjon, funksjoner, tolkning av integraler, integral, samlet mengde | × |
+| [2-3](#oppgave-2-3) | [Hypotesetest med smak av cola](https://matematikkoppgaver.vercel.app/hypotesetest-med-smak-av-cola/) | hypotesetest, binomisk, diskrete sannsynlighetsfordelinger | × |
+| [2-4](#oppgave-2-4) | [Hildegunns ukepenger](https://matematikkoppgaver.vercel.app/hildegunns-ukepenger/) | excel, rekker | × |
+| [2-5](#oppgave-2-5) | [Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole](https://matematikkoppgaver.vercel.app/simulere-uttrekk-av-elevers-karakter-fra-tilfeldig-normalfordelt-skole/) | programmering, simulering, sannsynlighet, normalfordeling, kontinuerlige sannsynlighetsfordelinger | × |
 
 # Del 1
 
@@ -346,8 +346,8 @@ Vi kan beregne terminfaktoren $F$ ved:
 $$
 \begin{aligned}
 F &= \frac{1-\frac{1}{v^n}}{v - 1}\\
-F &= \frac{1-\frac{1}{1,0049^{36}}}{1,0049 - 1}\\
-F &= 32,93\\
+F &= \frac{1-\frac{1}{1{,}0049^{36}}}{1{,}0049 - 1}\\
+F &= 32{,}93
 \end{aligned}
 $$
 
@@ -356,7 +356,7 @@ Og terminbeløpet blir da
 $$
 \begin{aligned}
 L &= F\cdot T\\
-T &= \frac{L}{F} = \frac{150\,000}{32,93}=\underline{\underline{4555,14}}
+T &= \frac{L}{F} = \frac{150\,000}{32{,}93}=\underline{\underline{4555{,}14}}
 \end{aligned}
 $$
 
@@ -365,9 +365,9 @@ $$
 ### 2-1b
 Jeg bruker en ferdig regnearkmodell jeg hadde liggende til å løse denne oppgaven. Fra regnearket ser jeg at restlånet *før* 25. innbetaling er 52 959,79 kr. **Dermed vil erstatningen fra forsikringsselskapet dekke restlånet** (gitt at han betaler restlånet med en gang han får erstatningen). Se utklippet under.
 
-![](/img/user/_resources/s2-v23-del2-oppg1a1.png)
+![Regneark for å beregne lån](/img/user/_resources/s2-v23-del2-oppg1a1.png)
 
-![](/img/user/_resources/s2-v23-del2-oppg1a2.png)
+![Formler til regnearket](/img/user/_resources/s2-v23-del2-oppg1a2.png)
 
 
 </div></div>
@@ -396,7 +396,7 @@ Tabellen nedenfor viser hvor mange millioner kroner som ble brukt på strømming
 Nedenfor ser du fire formler.
 
 $$
-I=\int_{-0,5}^{10,5} F(x) \mathrm{d} x, \quad G=\frac{1}{5} \int_{2,5}^{7,5} F(x) \mathrm{d} x, \quad S=\sum_{i=0}^{10} F(i), \quad D=\frac{F(5,001)-F(5)}{0,001}
+I=\int_{-0{,}5}^{10{,}5} F(x) \mathrm{d} x, \quad G=\frac{1}{5} \int_{2{,}5}^{7{,}5} F(x) \mathrm{d} x, \quad S=\sum_{i=0}^{10} F(i), \quad D=\frac{F(5{,}001)-F(5)}{0{,}001}
 $$
 
 >[!oppgave]
@@ -420,30 +420,30 @@ Logistiske funksjoner flater ut ved en horisontal asymptote (i dette tilfellet 6
 
 *Kommentar: Man kan også argumentere for andre regresjonsmodeller, f.eks. vil en tredjegradsmodell passe fint. Vær imidlertid klar over at tredjegradsmodellen sannsynligvis vil ha et mindre gyldighetsområde siden denne har negativ vekstfart både før 2008 og etter 2018. Sensorveiledninga sier at flere ulike modeller kan gi full uttelling så lenge de begrunnes godt.* 
 
-![](/img/user/_resources/s2-v23-del2-oppg-2a.png)
+![Regresjon på størrelsen av musikkmarkedet](/img/user/_resources/s2-v23-del2-oppg-2a.png)
 
 ### 2-2b
 Se utklippet fra CAS.
 
-![](/img/user/_resources/s2-v23-del2-oppg-2b.png.png)
+![Beregning av verdier i CAS](/img/user/_resources/s2-v23-del2-oppg-2b.png.png)
 
 $$
 \begin{aligned}
-I&=3729,0\\
-G&=344,5\\
-S&=3729,1\\
-D&=116,3
+I&=3729{,}0\\
+G&=344{,}5\\
+S&=3729{,}1\\
+D&=116{,}3
 \end{aligned}
 $$
 
 ### 2-2c
-$I$ beregner integralet under $F$ fra $x=-0.5$ til $x=10.5$. Dette gir en tilnærmingsverdi for de samlede inntektene fra musikkstrømming i Norge fra og med 2008 til og med 2018. De samlede inntektene er omtrent 3729 millioner kr.
+$I$ beregner integralet under $F$ fra $x=-0{,}5$ til $x=10{,}5$. Dette gir en tilnærmingsverdi for de samlede inntektene fra musikkstrømming i Norge fra og med 2008 til og med 2018. De samlede inntektene er omtrent 3729 millioner kr.
 
 $G$ finner en tilnærmingsverdi de samlede inntektene fra og med 2011 til og med 2015 ved å integrere, deretter divideres svaret med 5. $G$ finner altså de gjennomsnittlige årlige inntektene mellom år 2011 og 2015. De gjennomsnittlige årlige inntektene i perioden er 344,5 millioner kr.
 
 $S$ gir oss de samlede inntektene fra 2008 til 2018 beregnet som summen av en rekke, altså ved å legge sammen inntektene i hvert år. De samlede inntektene i perioden er omtrent 3729 millioner kr.
 
-$D$ gir oss omtrent momentan vekstfart i 2013. Vi kjenner igjen uttrykket for den deriverte hvor vi har $f'(x)=\lim_{ h \to 0 } \frac{f(x+h)-f(x)}{h}$. Her er $x=5$ og $h=0.001$. Den momentane vekstfarten i 2013 er omtrent 116,3 millioner kr per år.
+$D$ gir oss omtrent momentan vekstfart i 2013. Vi kjenner igjen uttrykket for den deriverte hvor vi har $f'(x)=\lim_{ h \to 0 } \frac{f(x+h)-f(x)}{h}$. Her er $x=5$ og $h=0{,}001$. Den momentane vekstfarten i 2013 er omtrent 116,3 millioner kr per år.
 
 
 </div></div>

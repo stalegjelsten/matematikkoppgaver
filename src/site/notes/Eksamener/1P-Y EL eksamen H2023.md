@@ -1,27 +1,27 @@
 ---
-{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"h23","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen H2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-y-el-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"h23","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen H2023","contentClasses":"eksamen-side","permalink":"/eksamener/1p-y-el-eksamen-h2023/"}}
+{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"h23","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen H2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-y-el-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"h23","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen H2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1p-y-el-eksamen-h2023/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Kjøttdeig, pris og prosent\|Kjøttdeig, pris og prosent]] | proporsjonalitet, prosentregning, tallregning | ✔︎ |
-| 1-2 | [[Ole sin høyde og vekstdiagram\|Ole sin høyde og vekstdiagram]] | tolke grafer, formler, tallregning | ✔︎ |
-| 1-3 | [[Brus i glass og daglig væskebehov\|Brus i glass og daglig væskebehov]] | tallregning, proporsjonalitet | ✔︎ |
-| 1-4 | [[Strømproduksjon, trekant og resistans\|Strømproduksjon, trekant og resistans]] | diagram, trigonometri, elektrofag, prosentregning | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Kjøttdeig, pris og prosent](https://matematikkoppgaver.vercel.app/kjottdeig-pris-og-prosent/) | proporsjonalitet, prosentregning, tallregning | ✔︎ |
+| [1-2](#oppgave-1-2) | [Ole sin høyde og vekstdiagram](https://matematikkoppgaver.vercel.app/ole-sin-hoyde-og-vekstdiagram/) | tolke grafer, formler, tallregning | ✔︎ |
+| [1-3](#oppgave-1-3) | [Brus i glass og daglig væskebehov](https://matematikkoppgaver.vercel.app/brus-i-glass-og-daglig-vaeskebehov/) | tallregning, proporsjonalitet | ✔︎ |
+| [1-4](#oppgave-1-4) | [Strømproduksjon, trekant og resistans](https://matematikkoppgaver.vercel.app/stromproduksjon-trekant-og-resistans/) | diagram, trigonometri, elektrofag, prosentregning | ✔︎ |
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Inverter og effektberegning\|Inverter og effektberegning]] | elektrofag, effekttrekant, formler | ✔︎ |
-| 2-2 | [[Mobiltelefon, lagring og abonnement\|Mobiltelefon, lagring og abonnement]] | bits og bytes, tallregning | ✔︎ |
-| 2-3 | [[Transformator med vindinger og effekttrekant\|Transformator med vindinger og effekttrekant]] | effekttrekant, formler | ❌ |
-| 2-4 | [[Fart, distanse og gjennomsnittsfart\|Fart, distanse og gjennomsnittsfart]] | formler, tallregning | ✔︎ |
-| 2-5 | [[Sara vurderer å kjøpe mopedbil\|Sara vurderer å kjøpe mopedbil]] | økonomi, prosentregning, lån, excel | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Inverter og effektberegning](https://matematikkoppgaver.vercel.app/inverter-og-effektberegning/) | elektrofag, effekttrekant, formler | ✔︎ |
+| [2-2](#oppgave-2-2) | [Mobiltelefon, lagring og abonnement](https://matematikkoppgaver.vercel.app/mobiltelefon-lagring-og-abonnement/) | bits og bytes, tallregning | ✔︎ |
+| [2-3](#oppgave-2-3) | [Transformator med vindinger og effekttrekant](https://matematikkoppgaver.vercel.app/transformator-med-vindinger-og-effekttrekant/) | effekttrekant, formler | × |
+| [2-4](#oppgave-2-4) | [Fart, distanse og gjennomsnittsfart](https://matematikkoppgaver.vercel.app/fart-distanse-og-gjennomsnittsfart/) | formler, tallregning | ✔︎ |
+| [2-5](#oppgave-2-5) | [Sara vurderer å kjøpe mopedbil](https://matematikkoppgaver.vercel.app/sara-vurderer-a-kjope-mopedbil/) | økonomi, prosentregning, lån, excel | ✔︎ |
 
 # Del 1
 

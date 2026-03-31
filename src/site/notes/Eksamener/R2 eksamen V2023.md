@@ -1,29 +1,29 @@
 ---
-{"tags":["eksamen"],"fag":["r2"],"eksamen":"v23","date":"2023-05-24","del1_tid":2,"del2_tid":3,"title":"R2 eksamen V2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r2"],"eksamen":"v23","date":"2023-05-24","del1_tid":2,"del2_tid":3,"title":"R2 eksamen V2023","contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-v2023/"}}
+{"tags":["eksamen"],"fag":["r2"],"eksamen":"v23","del1_tid":2,"del2_tid":3,"title":"R2 eksamen V2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r2"],"eksamen":"v23","del1_tid":2,"del2_tid":3,"title":"R2 eksamen V2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-v2023/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[To bestemte integraler\|To bestemte integraler]] | integral | ❌ |
-| 1-2 | [[Tangens, derivert og integral\|Tangens, derivert og integral]] | trigonometri, derivasjon, integral | ❌ |
-| 1-3 | [[Pyramide med fire punkter i rommet\|Pyramide med fire punkter i rommet]] | vektorer, geometri, volum, areal | ❌ |
-| 1-4 | [[Sum av aritmetisk rekke med kode\|Sum av aritmetisk rekke med kode]] | programmering, rekker | ❌ |
-| 1-5 | [[Bevis for grenseverdien til sin v delt på v\|Bevis for grenseverdien til sin v delt på v]] | grenseverdi, trigonometri, bevis | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [To bestemte integraler](https://matematikkoppgaver.vercel.app/to-bestemte-integraler/) | integral | × |
+| [1-2](#oppgave-1-2) | [Tangens, derivert og integral](https://matematikkoppgaver.vercel.app/tangens-derivert-og-integral/) | trigonometri, derivasjon, integral | × |
+| [1-3](#oppgave-1-3) | [Pyramide med fire punkter i rommet](https://matematikkoppgaver.vercel.app/pyramide-med-fire-punkter-i-rommet/) | vektorer, geometri, volum, areal | × |
+| [1-4](#oppgave-1-4) | [Sum av aritmetisk rekke med kode](https://matematikkoppgaver.vercel.app/sum-av-aritmetisk-rekke-med-kode/) | programmering, rekker | × |
+| [1-5](#oppgave-1-5) | [Bevis for grenseverdien til sin v delt på v](https://matematikkoppgaver.vercel.app/bevis-for-grenseverdien-til-sin-v-delt-pa-v/) | grenseverdi, trigonometri, bevis | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] | regresjon, logistisk funksjon, derivasjon, funksjoner, tolkning av integraler, integral, samlet mengde | ❌ |
-| 2-2 | [[Parallelle plan og kule\|Parallelle plan og kule]] | vektorer, geometri | ❌ |
-| 2-3 | [[Banefart til 3D-printer\|Banefart til 3D-printer]] | vektorer, derivasjon | ❌ |
-| 2-4 | [[Hildegunns ukepenger\|Hildegunns ukepenger]] | excel, rekker | ❌ |
-| 2-5 | [[Omdreiingslegeme til trigonometrisk funksjon\|Omdreiingslegeme til trigonometrisk funksjon]] | integral, omdreiningslegeme, trigonometri | ❌ |
-| 2-6 | [[Grafens lengde med polylinje\|Grafens lengde med polylinje]] | integral, programmering | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Regresjon på størrelsen av det norske musikkstrømmemarkedet](https://matematikkoppgaver.vercel.app/regresjon-pa-storrelsen-av-det-norske-musikkstrommemarkedet/) | regresjon, logistisk funksjon, derivasjon, funksjoner, tolkning av integraler, integral, samlet mengde | × |
+| [2-2](#oppgave-2-2) | [Parallelle plan og kule](https://matematikkoppgaver.vercel.app/parallelle-plan-og-kule/) | vektorer, geometri | × |
+| [2-3](#oppgave-2-3) | [Banefart til 3D-printer](https://matematikkoppgaver.vercel.app/banefart-til-3-d-printer/) | vektorer, derivasjon | × |
+| [2-4](#oppgave-2-4) | [Hildegunns ukepenger](https://matematikkoppgaver.vercel.app/hildegunns-ukepenger/) | excel, rekker | × |
+| [2-5](#oppgave-2-5) | [Omdreiingslegeme til trigonometrisk funksjon](https://matematikkoppgaver.vercel.app/omdreiingslegeme-til-trigonometrisk-funksjon/) | integral, omdreiningslegeme, trigonometri | × |
+| [2-6](#oppgave-2-6) | [Grafens lengde med polylinje](https://matematikkoppgaver.vercel.app/grafens-lengde-med-polylinje/) | integral, programmering | × |
 
 # Del 1
 
@@ -190,7 +190,7 @@ Tabellen nedenfor viser hvor mange millioner kroner som ble brukt på strømming
 Nedenfor ser du fire formler.
 
 $$
-I=\int_{-0,5}^{10,5} F(x) \mathrm{d} x, \quad G=\frac{1}{5} \int_{2,5}^{7,5} F(x) \mathrm{d} x, \quad S=\sum_{i=0}^{10} F(i), \quad D=\frac{F(5,001)-F(5)}{0,001}
+I=\int_{-0{,}5}^{10{,}5} F(x) \mathrm{d} x, \quad G=\frac{1}{5} \int_{2{,}5}^{7{,}5} F(x) \mathrm{d} x, \quad S=\sum_{i=0}^{10} F(i), \quad D=\frac{F(5{,}001)-F(5)}{0{,}001}
 $$
 
 >[!oppgave]
@@ -214,30 +214,30 @@ Logistiske funksjoner flater ut ved en horisontal asymptote (i dette tilfellet 6
 
 *Kommentar: Man kan også argumentere for andre regresjonsmodeller, f.eks. vil en tredjegradsmodell passe fint. Vær imidlertid klar over at tredjegradsmodellen sannsynligvis vil ha et mindre gyldighetsområde siden denne har negativ vekstfart både før 2008 og etter 2018. Sensorveiledninga sier at flere ulike modeller kan gi full uttelling så lenge de begrunnes godt.* 
 
-![](/img/user/_resources/s2-v23-del2-oppg-2a.png)
+![Regresjon på størrelsen av musikkmarkedet](/img/user/_resources/s2-v23-del2-oppg-2a.png)
 
 ### 2-2b
 Se utklippet fra CAS.
 
-![](/img/user/_resources/s2-v23-del2-oppg-2b.png.png)
+![Beregning av verdier i CAS](/img/user/_resources/s2-v23-del2-oppg-2b.png.png)
 
 $$
 \begin{aligned}
-I&=3729,0\\
-G&=344,5\\
-S&=3729,1\\
-D&=116,3
+I&=3729{,}0\\
+G&=344{,}5\\
+S&=3729{,}1\\
+D&=116{,}3
 \end{aligned}
 $$
 
 ### 2-2c
-$I$ beregner integralet under $F$ fra $x=-0.5$ til $x=10.5$. Dette gir en tilnærmingsverdi for de samlede inntektene fra musikkstrømming i Norge fra og med 2008 til og med 2018. De samlede inntektene er omtrent 3729 millioner kr.
+$I$ beregner integralet under $F$ fra $x=-0{,}5$ til $x=10{,}5$. Dette gir en tilnærmingsverdi for de samlede inntektene fra musikkstrømming i Norge fra og med 2008 til og med 2018. De samlede inntektene er omtrent 3729 millioner kr.
 
 $G$ finner en tilnærmingsverdi de samlede inntektene fra og med 2011 til og med 2015 ved å integrere, deretter divideres svaret med 5. $G$ finner altså de gjennomsnittlige årlige inntektene mellom år 2011 og 2015. De gjennomsnittlige årlige inntektene i perioden er 344,5 millioner kr.
 
 $S$ gir oss de samlede inntektene fra 2008 til 2018 beregnet som summen av en rekke, altså ved å legge sammen inntektene i hvert år. De samlede inntektene i perioden er omtrent 3729 millioner kr.
 
-$D$ gir oss omtrent momentan vekstfart i 2013. Vi kjenner igjen uttrykket for den deriverte hvor vi har $f'(x)=\lim_{ h \to 0 } \frac{f(x+h)-f(x)}{h}$. Her er $x=5$ og $h=0.001$. Den momentane vekstfarten i 2013 er omtrent 116,3 millioner kr per år.
+$D$ gir oss omtrent momentan vekstfart i 2013. Vi kjenner igjen uttrykket for den deriverte hvor vi har $f'(x)=\lim_{ h \to 0 } \frac{f(x+h)-f(x)}{h}$. Her er $x=5$ og $h=0{,}001$. Den momentane vekstfarten i 2013 er omtrent 116,3 millioner kr per år.
 
 
 </div></div>
