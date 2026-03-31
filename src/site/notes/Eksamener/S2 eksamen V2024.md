@@ -17,14 +17,14 @@
 
 
 En funksjon $f$ er gitt ved
-$
+$$
 f(x)=-x^{3}+3x
-$
+$$
 
 >[!oppgave]
 >
 > a) Regn ut integralet
-> $\int_{-1}^{0} f(x) \, dx $
+> $$\int_{-1}^{0} f(x) \, dx $$
 > b) Bestem arealet av området som er avgrenset av grafen til $f$, $x$-aksen og linjene $x=-1$ og $x=1$
 
 ## Fasit
@@ -36,44 +36,44 @@ b) $\frac{5}{2}$
 
 ### 1-1a
 
-$
+$$
 \begin{aligned}
 \int_{-1}^{0} \left( -x^{3}+3x \right)  \, dx& \\
 \left[ -\frac{1}{4}x^{4}+\frac{3}{2}x^{2} \right]_{-1}^0& \\
 0-\left( -\frac{1}{4}(-1)^{4} + \frac{3}{2}(-1)^{2} \right)& \\
 -\left( -\frac{1}{4} + \frac{3}{2} \right)&=-\frac{5}{4} 
 \end{aligned}
-$
+$$
 
 **Integralet er $\underline{\underline{-\frac{5}{4}}}$.** 
 
 ### 1-1b
 Jeg finner først nullpunktene ved å faktorisere uttrykket.
 
-$
+$$
 f(x)=-x^{3}+3x=-x(x^{2}-3)=-x\left(x^{2}-\left(  \sqrt{ 3 } \right)^{2} \right) = -x(x+\sqrt{ 3 })(x-\sqrt{ 3 })
-$
+$$
 
 Vi har nullpunkter når $f(x)=0$. Det vil si at vi har nullpunkter når $x=-\sqrt{ 3 }, x=0, x=\sqrt{ 3 }$. Det er kun nullpunktet $x=0$ som ligger mellom $x=-1$ og $x=1$. 
 
 For å finne ut om funksjonen er positiv eller negativ i intervallene så sjekker jeg funksjonsverdien i $x=-1$ og $x=1$.
 
-$f(-1)=-(-1)^{3}+3(-1)=1-3=-2$
+$$f(-1)=-(-1)^{3}+3(-1)=1-3=-2$$
 
-$f(1)=-(1)^{3}+3 \cdot 1=-1+3=2$
+$$f(1)=-(1)^{3}+3 \cdot 1=-1+3=2$$
 >[!tip]- Alternativ måte å sjekke hvor funksjonen er positiv og negativ
 >
 >Siden integralet $\int_{-1}^{0} f(x) \, d < 0$ og det ikke finnes noen nullpunkter for $x \in \langle-1, 0 \rangle$, så må $f$ være negativ når $x \in \langle-1, 0 \rangle$
 
 $f$ er altså negativ i intervallet $[-1, 0\rangle$ og positiv i intervallet $\langle 0 , 1]$. Vi finner arealet ved å ta integralene av hver del (og husker minustegn foran integralet til området som ligger under $x$-aksen).
 
-$
+$$
 \begin{aligned}
 A&=-\int_{-1}^{0} f(x) \, dx + \int_{0}^{1} f(x) \, dx  \\
 A&=- \left( -\frac{5}{4} \right) +\left[ -\frac{1}{4}x^{4}+\frac{3}{2}x^{2} \right]_{0}^1 \\
 A&=\frac{5}{4} + -\frac{1}{4}+\frac{3}{2}=\frac{10}{4}=\frac{5}{2}
 \end{aligned}
-$
+$$
 
 **Arealet av området er $\underline{\underline{\frac{5}{2}}}$.**
 
@@ -98,9 +98,9 @@ $
 
 
 Regn ut integralet
-$
+$$
 \int \left( x^{2}+1 \right)^{3} \cdot 2x \, \mathrm{d}x 
-$
+$$
 
 ## Fasit
 
@@ -110,20 +110,20 @@ $\frac{1}{4}(x^{2}+1)^{4}+C$
 
 Jeg ser at hvis jeg velger $u=x^{2}+1$ og bruker variabelskifte, så kan jeg forkorte bort $2x$-faktoren senere.
 
-$
+$$
 \begin{aligned}
 \int (x^{2}+1)^{3} \cdot 2x \, \mathrm{d}x &= \int u \cdot 2x \, \mathrm{d}x \\
 u&=x^{2}+1\\
 \frac{du}{dx}&=2x\\
 dx&=\frac{du}{2x}
 \end{aligned}
-$
+$$
 
 Jeg erstatter $dx$ i det opprinnelige integralet med $\frac{du}{2x}$
 
-$
+$$
 \int u^{3} \cdot 2x \, \mathrm{d}x =\int u^{3}\cdot \cancel{ 2x } \, \frac{du}{\cancel{ 2x }} =\int u^{3} \, \mathrm{d}u=\frac{1}{4}u^{4}+C= \underline{\underline{\frac{1}{4}(x^{2}+1)^{4}+C}}
-$
+$$
 
 
 </div></div>
@@ -173,20 +173,20 @@ Programmet viser en aritmetisk følge hvor hvert ledd er gitt av $a_{n}=4n-2$ fo
 ### 1-3b
 Siden tallfølgen er aritmetisk kan vi regne ut summen av de $n$ første leddene med
 
-$
+$$
 S_{n}=\frac{a_{1}+a_{n}}{2}n
-$
+$$
 
 Jeg vet at summen skal være *over* 200, at $a_{1}=2$ og jeg kan erstatte $a_{n}$ med $4n-2$. Dette gir
 
-$
+$$
 \begin{aligned}
 200&=\frac{2+4n-2}{2}n\\
 200&=2n^{2}\\
 100&=n^{2}\\
 10&=n
 \end{aligned}
-$
+$$
 
 $n=10$ gir oss altså nøyaktig delsummen $S_{10}=200$. $n=11$ gir oss den første delsummen som er over 200.
 
@@ -227,18 +227,18 @@ Vi vet at 88,5 % av fisken som slaktes veier mindre eller lik 5300 gram. Ifølge
 
 Vi kan da sette opp likningen
 
-$
+$$
 z=\frac{x-\mu}{\sigma} \iff 1{,}2=\frac{5300-4700}{\sigma} \iff \sigma = \frac{600}{1{,}2}=500
-$
+$$
 
 **Standardavviket for en vilkårlig valgt laks er 500 gram.**
 
 ### 1-4b
 Vi gjør om til standard normalfordeling
 
-$
+$$
 z=\frac{4500-4700}{500}=-\frac{200}{500}=-0{,}4
-$
+$$
 
 Normalfordelingstabellen gir oss $\Phi(-0{,}4)=0{,}345$.
 
@@ -269,7 +269,7 @@ La $K(x)$ være kostnadsfunksjonen til en bedrift som produserer $x$ enheter av 
 
 Vi har de laveste enhetskostnadene når $E'(x)=0$. Vi kan altså sette opp
 
-$
+$$
 \begin{aligned}
 E'(x)&=0\\
 \left(  \frac{K(x)}{x} \right)'&=0\\
@@ -278,7 +278,7 @@ K'(x) \cdot x - K(x)&=0\\
 K'(x)&=\frac{K(x)}{x} \\
 K'(x)&=E(x)
 \end{aligned}
-$
+$$
 
 Hvis $x_{0}$ er antallet enheter som gir lavest enhetskostnader så ser vi at dette må være lik grensekostnaden, altså $K'(x_{0})=E(x_{0})$.
 
@@ -335,15 +335,15 @@ Standardavviket til ett kast er $SD(X)=1{,}7$.
 
 Vi lar $S$ være summen av $n$ forsøk med $X$ slik at
 
-$
+$$
 S=X_{1}+X_{2}+X_{3}+ \dots + X_{n}
-$
+$$
 
 Sentralgrensesetningen sier at $S$ vil være tilnærmet normalfordelt med variansen og standardavviket:
 
-$
+$$
 \text{Var}(S)=n \cdot \text{Var}(X) \implies SD(S)=\sqrt{ n } \cdot SD(X)
-$
+$$
 
 Fra normalfordelingstabellen så kan jeg finne ut at 68 % av arealet under normalfordelingskurven ligger innenfor pluss/minus ett standardavvik fra forventningsverdien. Altså må det være 32 % sannsynlighet for å få observasjon *mer enn* ett standardavvik fra forventningsverdien.
 
@@ -351,7 +351,7 @@ Fra normalfordelingstabellen så kan jeg finne ut at 68 % av arealet under norma
 
 Siden vi vet at 32 % tilsvarer mer enn ett standardavvik fra forventningsverdien, må 17 øyne være ett standardavvik.
 
-$
+$$
 \begin{aligned}
 SD(S)&=17\\
 \sqrt{ n } \cdot SD(X)&=17 \\
@@ -359,7 +359,7 @@ SD(S)&=17\\
 \sqrt{ n }&=10\\
 n&=100
 \end{aligned}
-$
+$$
 
 **Hilde må kaste terningen 100 ganger før det er omtrent 32 % sannsynlighet for at summen av antall øyne er mer enn 17 unna forventningsverdien for summen.**
 
@@ -382,9 +382,9 @@ $
 
 For et år siden begynte en butikk å selge et nytt produkt. Funksjonen $f$ gitt ved
 
-$
+$$
 f(t)=\frac{700}{1+20e^{-0{,}12t}}
-$
+$$
 
 er en god modell for antallet enheter butikken har solgt av produktet per uke, $t$ uker etter at produktet kom i salg.
 
@@ -421,9 +421,9 @@ Vi kan finne det samlede salget ved å bestemme arealet under grafen til $f$.
 
 I linje 4 setter jeg opp likningen
 
-$
+$$
 \int_{0}^{x} f(t) \, dt=2000 
-$
+$$
 
 **Det tok nesten 19 uker før salget passerte 2000 enheter.**
 
@@ -432,9 +432,9 @@ Inntektene fra salget må være gitt ved antall enheter solgt $\times$ pris per 
 
 I linje 5 setter jeg opp likningen
 
-$
+$$
 \int_{0}^{52} f(t) \, dt \cdot p = 1\, 000 \, 000 
-$
+$$
 
 der $p$ er den ukjente prisen per enhet.
 
@@ -498,27 +498,27 @@ Jeg bruker GeoGebras sannsynlighetskalkulator til å bestemme $P(X=9)$.
 
 ![Utklipp til oppgave 2-2a](/img/user/_resources/s2-v24-2-2a.png)
 
-$
+$$
 P(X=9)=\underline{\underline{0{,}258}}
-$
+$$
 
 >[!tip] Utregning med formel for binomisk
 >
 >Du kan også finne denne punktsannsynligheten enkelt med formelen for binomisk sannsynlighetsfordeling
 >
->$P(X=k)=\binom{n}{k} \cdot p^{k}\cdot (1-p)^{n-k}$
+>$$P(X=k)=\binom{n}{k} \cdot p^{k}\cdot (1-p)^{n-k}$$
 >
->$P(X=9)=\binom{12}{9}\cdot 0{,}75^{9} \cdot 0{,}25^{3}=0{,}2581$
+>$$P(X=9)=\binom{12}{9}\cdot 0{,}75^{9} \cdot 0{,}25^{3}=0{,}2581$$
 
 ### 2-2b
 Nullhypotesen vår er at begge legemidlene er like effektive, mens den alternative hypotesen er at legemiddel B er bedre.
 
-$
+$$
 \begin{aligned}
 H_{0}: \quad p=0{,}75\\
 H_{A}: \quad p>0{,}75
 \end{aligned}
-$
+$$
 
 Jeg finner sannsynligheten for at legemiddel B skal ha fungert på 9 av 10 pasienter gitt at $H_{0}$ er sann ved hjelp av GeoGebra.
 
@@ -969,11 +969,11 @@ I linje 5 så setter jeg opp en likning. På venstre side har vi summen av nåve
 </svg>
 
 
-De fem første kubikktallene er $1^{3}, 2^{3}, 3^{3}, 4^{3}$ og $5^{3}$, se figuren over. La $S_{n}$ være summen av de $n$ første kubikktallene. 
+De fem første kubikktallene er $1^{3}, 2^{3}, 3^{3}, 4^{3}$ og $5^{3}$, se figuren over. La $S_{n}$ være summen av de $n$ første kubikktallene.
 
 >[!oppgave]
 >a) Beskriv den rekursive sammenhengen mellom $S_{n}$ og $S_{n+1}$. Bestem en eksplisitt formel for $S_{n}$.
->b) Lag et program som regner ut den rekursive sammenhengen du fant i oppgave a.
+>b) Lag et program som regner ut $S_{50}$ ved å bruke den rekursive sammenhengen du fant i oppgave a.
 
 ## Fasit
 
@@ -985,27 +985,27 @@ b) $S_{50}=1625625$
 ### 2-4a
 Jeg setter opp de første leddene og ser om jeg finner en rekursiv sammenheng som jeg kan bruke.
 
-$
+$$
 \begin{aligned}
 S_{1}&=1^{3}\\
 S_{2}&=1^{3}+2^{3}=S_{1}+2^{3}\\
 S_{3}&=1^{3}+2^{3}+3^{3}=S_{2}+3^{3}
 \end{aligned}
-$
+$$
 
 Jeg ser at hvert ledd er det forrige leddet, pluss det neste kubikktallet. En rekursiv sammenheng mellom summene er altså
 
-$
+$$
 \underline{\underline{S_{n+1}=S_{n}+(n+1)^{3}}}
-$
+$$
 
-For å bestemme en eksplisitt formel brukte jeg regresjon i GeoGebra. 
+For å bestemme en eksplisitt formel brukte jeg regresjon i GeoGebra.
 
 ![](/img/user/_resources/s2-v24-2-4a.png)
 
 En eksplisitt formel for summene er
 
-$S_{n}=\underline{\underline{\frac{1}{4}\left( n^{4}+ 2n^{3}+n^{2} \right)}}$
+$$S_{n}=\underline{\underline{\frac{1}{4}\left( n^{4}+ 2n^{3}+n^{2} \right)}}$$
 
 ### 2-4b
 Jeg bruker følgende program
@@ -1039,18 +1039,18 @@ print(S)
 >	    \foreach \x in {0,...,\smallCube}
 >	        \foreach \y in {0,...,\smallCube}
 >	            \draw[thick] (\x*\cubesize, \y*\cubesize, 0) -- ++(\cubesize,0,0) -- ++(0,\cubesize,0) -- ++(-\cubesize,0,0) -- cycle;
->	
+>
 >	    % Draw the horizontal connections on the right face
 >	    \foreach \y in {0,...,\cube}
 >	        \foreach \z in {0,...,\smallCube}
 >	            \draw[thick] (\cube*\cubesize, \y*\cubesize, -\z*\cubesize) -- ++(0, 0, -\cubesize);
 >	    \foreach \x in {0,...,\smallCube}
 >	        \draw[thick] (\x*\cubesize,\cube*\cubesize,0) -- ++(0,0,-\cube);
->	
+>
 >		% draw all horizontal lines on top
 >		\foreach \z in {1,...,\cube}
 >			\draw[thick] (0,\cube*\cubesize,-\z*\cubesize) -- ++({\cube*\cubesize}, 0, 0);
->		
+>
 >		\foreach \z in {1,...,\cube}
 >			\draw[thick] (\cube,0,-\z*\cubesize) -- (\cube*\cubesize,\cube*\cubesize,-\z*\cubesize);
 >        \end{scope}
@@ -1058,6 +1058,7 @@ print(S)
 >\end{tikzpicture}
 >\end{document}
 -->
+
 
 </div></div>
 
@@ -1090,9 +1091,9 @@ b) 34 eller 36 baller
 ### 2-5a
 Vi har et forsøk uten tilbakelegging med to typer baller, så vi kan bruke en hypergeometrisk sannsynlighetsfordeling. Hvis det er 15 baller av hver type er sannsynligheten for å trekke 9 røde og 6 blå baller gitt ved
 
-$
+$$
 P(R=9)=\frac{\binom{15}{9}\binom{15}{6}}{\binom{30}{15}}=0{,}161
-$
+$$
 
 **Sannsynligheten for å trekke 9 røde og 6 blå baller er 16,1 %.**
 
@@ -1126,9 +1127,9 @@ for n in range(18, 201, 2):
 #### Løsningsmetode 2: Funksjon
 Jeg lager en funksjon hvor antall baller i kurva er ukjent.
 
-$
+$$
 f(x)= \frac{\binom{\frac{x}{2}}{9}\binom{\frac{x}{2}}{6}}{\binom{x}{15}}
-$
+$$
 
 Denne funksjonen er egentlig bare gyldig for partallene fra 18 og oppover, men jeg velger å tegne den uten begrensning i GeoGebra for å kunne finne ekstremalpunkter enkelt.
 

@@ -18,9 +18,9 @@
 
 Regn ut integralet
 
-$
+$$
 \int e^{x} \cdot x \, \mathrm{d}x 
-$
+$$
 
 ## Fasit
 
@@ -35,7 +35,7 @@ Jeg ser at integranden er produktet av to funksjoner, og jeg velger derfor å br
 |  $+$  | $\textcolor{seagreen}{x}$ | $\textcolor{seagreen}{e^{x}}$ |
 |  $-$  | $\textcolor{tomato}{1}$ | $\textcolor{tomato}{e^{x}}$ |
 |  $+$  |  0  |         |
-$\int e^{x} \cdot x \, \mathrm{d}x = \textcolor{seagreen}{x \cdot e^{x}} - \textcolor{tomato}{1 \cdot e^{x}} + C=\underline{\underline{e^{x}(x-1)+C}} $
+$$\int e^{x} \cdot x \, \mathrm{d}x = \textcolor{seagreen}{x \cdot e^{x}} - \textcolor{tomato}{1 \cdot e^{x}} + C=\underline{\underline{e^{x}(x-1)+C}} $$
 
 
 </div></div>
@@ -53,18 +53,18 @@ $\int e^{x} \cdot x \, \mathrm{d}x = \textcolor{seagreen}{x \cdot e^{x}} - \text
 
 Ta utgangspunkt i den aritmetiske rekken
 
-$
+$$
 -3+0+3+\ldots+69
-$
+$$
 
 >[!oppgave]
 > a) Bestem summen av rekken.
 
 Ta utgangspunkt i den uendelige geometriske rekken
 
-$
+$$
 5+5 \cdot\left(\frac{1}{2}-x\right)+5 \cdot\left(\frac{1}{2}-x\right)^2+\ldots
-$
+$$
 
 >[!oppgave]
 > b) Bestem konvergensområdet til rekken.
@@ -84,7 +84,7 @@ c) 14 meter
 
 ### 1-2a
 Vi kjenner $a_{1}=-3$ og $a_{n}=69$, men vi kjenner ikke $n$. Vi bruker derfor formelen for ledd i aritmetisk følge
-$
+$$
 \begin{aligned}
 a_{n}&=a_{1}+(n-1)\cdot d \\
 69&=-3 + (n-1)\cdot 3 \\
@@ -93,13 +93,13 @@ a_{n}&=a_{1}+(n-1)\cdot d \\
 23 + 1+1&=n \\
 n&=25
 \end{aligned}
-$
+$$
 Summen av den aritmetisk rekka er dermed
-$s_{n}=\frac{a_{1}+a_{n}}{2}\cdot n =\frac{-3+69}{2}\cdot 25=\frac{66}{2}\cdot 25=33 \cdot 25 = \underline{\underline{825}}$
+$$s_{n}=\frac{a_{1}+a_{n}}{2}\cdot n =\frac{-3+69}{2}\cdot 25=\frac{66}{2}\cdot 25=33 \cdot 25 = \underline{\underline{825}}$$
 
 ### 1-2b
 Konvergensområdet er de verdiene av $x$ som tilfredsstiller $-1<k(x)<1$, der $k(x)=\frac{1}{2}-x$.
-$
+$$
 \begin{aligned}
 -1&<k(x)<1 \\
 -1&< \frac{1}{2} -x < 1 \\
@@ -107,7 +107,7 @@ $
 1 + \frac{1}{2} &> -\cancel{ \frac{1}{2} } + x + \cancel{ \frac{1}{2} } > -1 + \frac{1}{2}\\
 \frac{3}{2} &>  x > -\frac{1}{2}
 \end{aligned}
-$
+$$
 **Konvergensområdet for rekka er $\underline{\underline{x \in \left\langle-\frac{1}{2}, \frac{3}{2} \right\rangle}}$.**
 
 ### 1-2c
@@ -121,12 +121,12 @@ Ballen vil bevege seg på følgende måte:
 - Og så videre ...
 
 Ballens totale distanse kan altså modelleres ved hjelp av to geometriske rekker, $a$ for distansen nedover, og $b$ for distansen oppover. Vi har $k=0{,}75$, samt startverdiene $a_{1}=2$ og $b_{1}=1{,}5$
-$
+$$
 \begin{aligned}
 s_{a}&=\frac{a_{1}}{1-k}=\frac{2}{1-\frac{3}{4}}=\frac{2}{\frac{1}{4}}=\frac{2 \cdot 4}{\frac{1}{4}\cdot 4}=\frac{8}{1}=8 \\
 s_{b}&=\frac{b_{1}}{1-k}=\frac{1{,}5}{1-\frac{3}{4}}=\frac{1{,}5}{\frac{1}{4}}=\frac{1{,}5 \cdot 4}{\frac{1}{4}\cdot 4}=\frac{6}{1}=6 
 \end{aligned}
-$
+$$
 **Ballen vil totalt bevege seg 14 meter.**
 
 
@@ -153,10 +153,10 @@ Nedenfor ser du grafen til funksjonen $f$ gitt ved $f(x)=x^3+x^2-2 x$.
 
 ::: {.grid cols=2}
 
-   1. $\int_{-2}^1 f(x) \mathrm{~d} x$
-   2. $\int_{-2}^1 f(x) \mathrm{~d} x-\int_0^1 f(x) \mathrm{~d} x$
-   3. $\int_{-2}^0 f(x) \mathrm{~d} x+\int_0^1 f(x) \mathrm{~d} x$
-   4. $\int_{-2}^0 f(x) \mathrm{~d} x-\int_0^1 f(x) \mathrm{~d} x$
+   1. $$\int_{-2}^1 f(x) \mathrm{~d} x$$
+   2. $$\int_{-2}^1 f(x) \mathrm{~d} x-\int_0^1 f(x) \mathrm{~d} x$$
+   3. $$\int_{-2}^0 f(x) \mathrm{~d} x+\int_0^1 f(x) \mathrm{~d} x$$
+   4. $$\int_{-2}^0 f(x) \mathrm{~d} x-\int_0^1 f(x) \mathrm{~d} x$$
 
 :::
 
@@ -185,18 +185,18 @@ Områder som ligger over $x$-aksen vil ha identisk areal og integral. Områder s
 Vi deler derfor opp integrasjonen vår i to deler, en for området over $x$-aksen (fra $x=-2$ til $x=0$), og en annen del for området under $x$-aksen (fra $x=0$ til $x=1$).
 
 Området fra $x=-2$ til $x=0$ ligger over $x$-aksen, arealet og integralet er identiske. Området fra $x=0$ til $x=1$ ligger under $x$-aksen, så arealet og integralet vil ha motsatt fortegn. For å beregne det samlede arealet må vi derfor endre fortegnet til integralet fra $x=0$ til $x=1$, altså
-$
+$$
 \textcolor{seagreen}{\int_{-2}^{0} f(x) \, dx} - \textcolor{tomato}{\int_{0}^{1} f(x) \, dx}
-$
+$$
 **Uttrykk 4 gir arealet markert på figuren.**
 
 ### 1-3b
 Jeg finner først det ubestemte integralet
-$
+$$
 F(x)=\int \left(   x^{3}+x^{2}-2x  \right) \, \mathrm{d}x = \frac{1}{4}x^{4}+ \frac{1}{3}x^{3}- \frac{2}{2}x^{2} +C
-$
+$$
 Arealet er gitt ved
-$
+$$
 \begin{aligned}
 A&=\textcolor{seagreen}{\int_{-2}^{0} f(x) \, dx} - \textcolor{tomato}{\int_{0}^{1} f(x) \, dx} \\ &
 = \textcolor{seagreen}{\left[ F(x) \right]_{-2}^0} - \textcolor{tomato}{\left[ F(x) \right]_{0}^1} \\
@@ -207,7 +207,7 @@ A&=\textcolor{seagreen}{\int_{-2}^{0} f(x) \, dx} - \textcolor{tomato}{\int_{0}^
 &= \textcolor{seagreen}{\frac{8}{3}} - \textcolor{tomato}{\left( -\frac{5}{12} \right)} \\
 &= \textcolor{seagreen}{\frac{32}{12}} + \textcolor{tomato}{\frac{5}{12}}= \frac{37}{12}
 \end{aligned}
-$
+$$
 **Arealet er $\underline{\underline{\frac{37}{12}}}$.**
 
 ### 1-3c
@@ -286,17 +286,17 @@ Jeg forutsetter at sannsynligheten er lik for alle fire sidene av terningen.
 | $(x-\text{E}(X))^{2} \cdot P(X=x)$ | $\textcolor{orange}{\frac{9}{16}}$ | $\textcolor{seagreen}{\frac{1}{16}}$ | $\textcolor{steelblue}{\frac{1}{16}}$ | $\textcolor{tomato}{\frac{9}{16}}$ |
 
 ### 1-4b
-$
+$$
 \text{E}(X)=\sum x \cdot P(X=x)=\textcolor{orange}{-\frac{2}{4}}+ \textcolor{seagreen}{\left( -\frac{1}{4} \right)} + \textcolor{steelblue}{0} + \textcolor{tomato}{\frac{1}{4}}=-\frac{2}{4}=-\frac{1}{2}
-$
+$$
 **$\underline{\underline{\text{E}(X)=-\frac{1}{2}}}$. Det betyr at en spiller i gjennomsnitt vil tape 0,5 poeng per gang hen spiller i det lange løp.**
 
 ### 1-4c
-$\text{Var}(X)=\sum (x-\text{E}(X))^{2} \cdot P(X=x)$
+$$\text{Var}(X)=\sum (x-\text{E}(X))^{2} \cdot P(X=x)$$
 Jeg har regnet ut hvert kvadratavvik i tabellen over.
-$
+$$
 \text{Var}(X)=\textcolor{orange}{\frac{9}{16}}+\textcolor{seagreen}{\frac{1}{16}}+\textcolor{steelblue}{\frac{1}{16}}+\textcolor{tomato}{\frac{9}{16}}=\frac{20}{16}=\frac{5}{4}
-$
+$$
 **Variansen $\underline{\underline{\text{Var}(X)=\frac{5}{4}}}$.**
 
 
@@ -347,12 +347,12 @@ Figurene A og B viser fordelinger med standardavvik som er svært mye lavere enn
 
 ### 1-5b
 Vi lar $X$ være høyden til en tilfeldig valgt elev, og $\bar{X}$ være gjennomsnittshøyden til 25 tilfeldig valgte elever. Fra sentralgrensesetningen har vi at 
-$
+$$
 \begin{aligned}
 \text{E}(\bar{X})&=E(X) = 170\\
 \text{SD}(\bar{X}) &= \frac{\text{SD}(X)}{\sqrt{ n }}=\frac{5}{\sqrt{ 25 }}=\frac{5}{5}=1
 \end{aligned}
-$
+$$
 Vi ser at figur B har vendepunktene sine ved $x=169$ og $x=171$.
 
 **Figur B passer til beskrivelsen.**
@@ -384,7 +384,7 @@ Et hagesenter ønsker å satse på salg av en ny type planter. De startet salget
 >[!oppgave]
 >a) Bruk informasjonen i tabellen til å lage en modell I på formen
 >
->$I(t)=\frac{B}{1+a \cdot e^{-k t}}$
+>$$I(t)=\frac{B}{1+a \cdot e^{-k t}}$$
 >
 >for inntekten $I(t)$ kroner per uke, $t$ uker etter uke 17.
 >Vurder modellens gyldighetsområde.
@@ -395,7 +395,7 @@ Et hagesenter ønsker å satse på salg av en ny type planter. De startet salget
 >[!oppgave]
 >c) Løs likningen
 >
->$\int_0^x I(t) \mathrm{~d}t =65000$
+>$$\int_0^x I(t) \mathrm{~d}t =65000$$
 >
 >Gi en praktisk tolkning av svaret.
 
@@ -413,9 +413,9 @@ c) Uke 21.
 ![Regresjon i GeoGebra til oppgave 1 del 2](/img/user/_resources/s2-h25-2-1a-regresjon.png)
 
 Jeg brukte regresjon i GeoGebra for å finne en logistisk modell som passer til uttrykket i oppgaveteksten. Den modellen som passer best er
-$
+$$
 \underline{\underline{I(t)=\frac{42\,000}{1+14{,}76 e ^{-0{,}9035t}}}}
-$
+$$
 Salget starter i uke 17, så modellen er ikke gyldig før dette. I uke 24 så ser vi at salget minker noe fra uke 23, og det er naturlig med tanke på at uke 24 er starten av sommerferien. Sannsynligvis selger man ikke like mye planter på sommeren som man gjør i vekstperioden på våren.
 
 **Jeg vurderer modellens gyldighetsområde til å kun være fra uke 17 til og med uke 24, altså $t \in [0,7]$.** 
@@ -451,9 +451,9 @@ Se linje 4 i GeoGebra-utklippet. $x=4{,}3$ tilsvarer underveis i uke 21.
 
 En bedrift produserer og selger en vare. Kostnaden $K(x)$ ved å produsere $x$ enheter av varen per dag er gitt ved
 
-$
+$$
 K(x)=700 \cdot e^{\frac{x}{200}}, \quad\quad x\in \left< 0,500 \right] 
-$
+$$
 
 >[!oppgave]
 > a) Bestem $K'(150)$. Gi en praktisk tolkning av svaret.
@@ -461,9 +461,9 @@ $
 
 Bedriften selger alle varene den produserer. Inntekten $I(x)$ kroner ved salg av $x$ enheter av varen per dag er gitt ved
 
-$
+$$
 I(x)=80x-0{,}10x^{2}
-$
+$$
 
 >[!oppgave]
 >c) Hvor mange enheter av varen må bedriften produsere og selge for å gå med overskudd?
@@ -530,19 +530,19 @@ b) ??
 
 ### 2-3a
 Vi lar $p$ være sannsynligheten for at en tilfeldig valgt komponent er defekt. Bedriften som klager påstår at $p>0{,}01$. Hypotesene våre er
-$
+$$
 \begin{aligned}
 H_{0}: \quad p\leq 0{,}01\\
 H_{A}: \quad p > 0{,}01
 \end{aligned}
-$
+$$
 
 ![Binomisk hypotesetest til oppgave 3a del 2](/img/user/_resources/s2-h25-2-3a-binomisk.png)
 
 Vi lar $X$ være antallet defekte komponenter når vi produserer 20 komponenter gitt at nullhypotesen vår er sann. Fra sannsynlighetsvinduet i GeoGebra har vi at
-$
+$$
 P(X\geq 1)=0{,}1821
-$
+$$
 Sannsynligheten for å finne 1 eller flere defekte komponenter gitt at nullhypotesen er sann er omtrent $18{,}21 \,\%$.
 
 **$p$-verdien er $0{,}1821$. Det er ikke grunnlag for forkaste nullhypotesen om at andelen er 1 % eller lavere. Klagen fra bedriften er ikke velbegrunnet.**
@@ -618,9 +618,9 @@ c) Kjøp av elbil gir høyest rentekostnad.
 Et annuitetslån passer godt til oppgaven siden den spør etter en geometrisk rekke som viser hvor mye Mathias må betale.
 
 I et annuitetslån må summen av nåverdiene til terminbeløpene tilsvare lånebeløpet, altså
-$
+$$
 \sum_{i=1}^8 \frac{T}{1{,}04^{i}}=357\,000
-$
+$$
 Jeg løser denne i CAS (se linje 1).
 
 **Terminbeløpene er 53 024 kr.**
@@ -721,7 +721,7 @@ Table: Sannsynlighet for at et kast er nødvendig { .tall }
 
 >[!oppgave]
 >a) Forklar at
->$1+1+\frac{5}{6}+\left(\frac{5}{6}\right)^2+\left(\frac{5}{6}\right)^3+\ldots$
+>$$1+1+\frac{5}{6}+\left(\frac{5}{6}\right)^2+\left(\frac{5}{6}\right)^3+\ldots$$
 >vil gi det forventede antallet kast Ane må gjøre for å få det samme antallet øyne i to kast på rad.
 >Bestem denne verdien.
 
@@ -753,22 +753,22 @@ Vi lar $X$ være antall kast som trengs før vi har fått 2 like terningkast på
 |   $5$   | $\left( \frac{5}{6} \right)^{3} \cdot \frac{1}{6}$ |
 
 Forventningsverdien til $X$ vil da være
-$
+$$
 \begin{aligned}
 \text{E}(X)&=\lim_{ n \to \infty } \sum_{i=1}^n x_{i} \cdot P(x_{i})\\
 &=1 \cdot 0 + 2 \cdot \frac{1}{6} + 3 \cdot \frac{5}{6} \cdot \frac{1}{6} +4 \cdot \left( \frac{5}{6} \right)^{2} \cdot \frac{1}{6}+5 \cdot \left( \frac{5}{6} \right)^{3} \cdot \frac{1}{6} + \cdots \\
 &= \frac{1}{6} \left(\underbrace{  2\left( \frac{5}{6} \right)^0 + 3\left( \frac{5}{6} \right)^{1} + 4\left( \frac{5}{6} \right)^{2} + 5\left( \frac{5}{6} \right)^{3}  + \cdots }_{ S } \right) 
 \end{aligned}
-$
+$$
 Vi kaller alt inni parentesen for $S$, og omskriver heltallene som står foran $\frac{5}{6}$ som en sum av enere:
-$
+$$
 \begin{aligned}
 S = \underbrace{ (\textcolor{seagreen}{1}+\textcolor{steelblue}{1}) }_{ 2 } \cdot \left( \frac{5}{6} \right)^{0} + \underbrace{ ( \textcolor{seagreen}{1} + \textcolor{steelblue}{1}+\textcolor{orange}{1}) }_{ 3 } \cdot \left( \frac{5}{6} \right)^{1}  \underbrace{ ( \textcolor{seagreen}{1} + \textcolor{steelblue}{1}+\textcolor{orange}{1} + \textcolor{tomato}{1}) }_{ 4 } \cdot \left( \frac{5}{6} \right)^{2} + \dots
 \end{aligned}
-$
+$$
 Vi deler nå opp denne summen i en rekke delsummer slik at $S = \lim_{ n \to \infty } S_{1} + S_{2} +  \dots + S_{n}$ hvor 
 
-$
+$$
 \begin{aligned}
 \color{seagreen} S_{1} & = \textcolor{seagreen}{1} \cdot \left( \frac{5}{6} \right)^{0} + \textcolor{seagreen}{1} \cdot \left( \frac{5}{6} \right)^{1}+ \textcolor{seagreen}{1} \cdot \left( \frac{5}{6} \right)^{2} + \dots = \frac{1}{1-\frac{5}{6}}=\frac{1}{\frac{1}{6}}=\textcolor{seagreen}{6}\\
 \color{steelblue} S_{2} & = \textcolor{steelblue}{1} \cdot \left( \frac{5}{6} \right)^{0} + \textcolor{steelblue}{1} \cdot \left( \frac{5}{6} \right)^{1}+ \textcolor{steelblue}{1} \cdot \left( \frac{5}{6} \right)^{2} + \dots = \frac{1}{1-\frac{5}{6}}=\frac{1}{\frac{1}{6}}= \textcolor{steelblue}{6}\\
@@ -776,23 +776,23 @@ $
 \color{tomato} S_{4} & = \textcolor{tomato}{1} \cdot \left( \frac{5}{6} \right)^{2} + \textcolor{tomato}{1} \cdot \left( \frac{5}{6} \right)^{3}+ \textcolor{tomato}{1} \cdot \left( \frac{5}{6} \right)^{4} + \dots = \frac{\left( \frac{5}{6} \right)^{2}}{1-\frac{5}{6}}=\frac{\left( \frac{5}{6} \right)^{2}}{\frac{1}{6}}=\textcolor{tomato}{6 \cdot \left( \frac{5}{6} \right)^{2}}\\
 \color{maroon} S_{5} & = \textcolor{maroon}{1} \cdot \left( \frac{5}{6} \right)^{3} + \textcolor{maroon}{1} \cdot \left( \frac{5}{6} \right)^{4}+ \textcolor{maroon}{1} \cdot \left( \frac{5}{6} \right)^{5} + \dots = \frac{\left( \frac{5}{6} \right)^{3}}{1-\frac{5}{6}}=\frac{\left( \frac{5}{6} \right)^{3}}{\frac{1}{6}}=\textcolor{maroon}{6 \cdot \left( \frac{5}{6} \right)^{3}}
 \end{aligned}
-$
+$$
 Forventningsverdien er altså
-$
+$$
 \begin{aligned}
 \text{E}(X)&=\frac{1}{6}S \\
 &=\frac{1}{6}\left( \textcolor{seagreen}{S_{1}}+\textcolor{steelblue}{S_{2}} + \textcolor{orange}{S_{3}} + \textcolor{tomato}{S_{4}} + \textcolor{maroon}{S_{5}} + \cdots \right) \\
 &=\frac{1}{6} \left( \textcolor{seagreen}{6} + \textcolor{steelblue}{6} + \textcolor{orange}{5} + \textcolor{tomato}{6 \cdot \left( \frac{5}{6} \right)^{2} } + \textcolor{maroon}{6 \cdot \left( \frac{5}{6} \right)^{3}} + \cdots \right) \\
 &=  \textcolor{seagreen}{1} + \textcolor{steelblue}{1} + \textcolor{orange}{\frac{5}{6}}+\textcolor{tomato}{\left( \frac{5}{6} \right)^{2}} + \textcolor{maroon}{\left( \frac{5}{6} \right)^{3}} + \dots &&  \blacksquare
 \end{aligned}
-$
+$$
 
 Hvis vi ser bort fra det aller første leddet ($\textcolor{seagreen}{1}$), så er dette en uendelig geometrisk rekke med $a_{1}=1$ og $k=\frac{5}{6}$
-$
+$$
 s= \textcolor{steelblue}{1}+ \textcolor{orange}{\frac{5}{6}}+ \textcolor{tomato}{\left( \frac{5}{6} \right)^{2}} + \cdots
-$
+$$
 Vi kan finne summen av rekka $s$ med GeoGebra, eller med formelen for sum av uendelig geometrisk rekke:
-$s=\frac{1}{1-\frac{5}{6}}= \frac{1}{\frac{1}{6}}= \frac{1\cdot 6}{\frac{1}{6}\cdot 6}= 6$
+$$s=\frac{1}{1-\frac{5}{6}}= \frac{1}{\frac{1}{6}}= \frac{1\cdot 6}{\frac{1}{6}\cdot 6}= 6$$
 Til sammen blir altså $\text{E}(X)=\textcolor{seagreen}{1}+s=\textcolor{seagreen}{1}+6=7$.
 
 **Verdien av rekka er 7.**

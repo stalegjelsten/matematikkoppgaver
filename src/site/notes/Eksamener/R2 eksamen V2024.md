@@ -1,10 +1,11 @@
 ---
-{"tags":["eksamen"],"fag":["r2"],"eksamen":"v24","title":"R2 eksamen V2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r2"],"eksamen":"v24","title":"R2 eksamen V2024","contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-v2024/"}}
+{"tags":["eksamen"],"fag":["r2"],"eksamen":"v24","date":"2024-05-27","title":"R2 eksamen V2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r2"],"eksamen":"v24","date":"2024-05-27","title":"R2 eksamen V2024","contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-v2024/"}}
 ---
+
 
 # Del 1
 
-## Oppgave 1-1
+## Oppgave 1
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/bestemt-integral-og-areal/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -17,14 +18,14 @@
 
 
 En funksjon $f$ er gitt ved
-$
+$$
 f(x)=-x^{3}+3x
-$
+$$
 
 >[!oppgave]
 >
 > a) Regn ut integralet
-> $\int_{-1}^{0} f(x) \, dx $
+> $$\int_{-1}^{0} f(x) \, dx $$
 > b) Bestem arealet av området som er avgrenset av grafen til $f$, $x$-aksen og linjene $x=-1$ og $x=1$
 
 ## Fasit
@@ -36,44 +37,44 @@ b) $\frac{5}{2}$
 
 ### 1-1a
 
-$
+$$
 \begin{aligned}
 \int_{-1}^{0} \left( -x^{3}+3x \right)  \, dx& \\
 \left[ -\frac{1}{4}x^{4}+\frac{3}{2}x^{2} \right]_{-1}^0& \\
 0-\left( -\frac{1}{4}(-1)^{4} + \frac{3}{2}(-1)^{2} \right)& \\
 -\left( -\frac{1}{4} + \frac{3}{2} \right)&=-\frac{5}{4} 
 \end{aligned}
-$
+$$
 
 **Integralet er $\underline{\underline{-\frac{5}{4}}}$.** 
 
 ### 1-1b
 Jeg finner først nullpunktene ved å faktorisere uttrykket.
 
-$
+$$
 f(x)=-x^{3}+3x=-x(x^{2}-3)=-x\left(x^{2}-\left(  \sqrt{ 3 } \right)^{2} \right) = -x(x+\sqrt{ 3 })(x-\sqrt{ 3 })
-$
+$$
 
 Vi har nullpunkter når $f(x)=0$. Det vil si at vi har nullpunkter når $x=-\sqrt{ 3 }, x=0, x=\sqrt{ 3 }$. Det er kun nullpunktet $x=0$ som ligger mellom $x=-1$ og $x=1$. 
 
 For å finne ut om funksjonen er positiv eller negativ i intervallene så sjekker jeg funksjonsverdien i $x=-1$ og $x=1$.
 
-$f(-1)=-(-1)^{3}+3(-1)=1-3=-2$
+$$f(-1)=-(-1)^{3}+3(-1)=1-3=-2$$
 
-$f(1)=-(1)^{3}+3 \cdot 1=-1+3=2$
+$$f(1)=-(1)^{3}+3 \cdot 1=-1+3=2$$
 >[!tip]- Alternativ måte å sjekke hvor funksjonen er positiv og negativ
 >
 >Siden integralet $\int_{-1}^{0} f(x) \, d < 0$ og det ikke finnes noen nullpunkter for $x \in \langle-1, 0 \rangle$, så må $f$ være negativ når $x \in \langle-1, 0 \rangle$
 
 $f$ er altså negativ i intervallet $[-1, 0\rangle$ og positiv i intervallet $\langle 0 , 1]$. Vi finner arealet ved å ta integralene av hver del (og husker minustegn foran integralet til området som ligger under $x$-aksen).
 
-$
+$$
 \begin{aligned}
 A&=-\int_{-1}^{0} f(x) \, dx + \int_{0}^{1} f(x) \, dx  \\
 A&=- \left( -\frac{5}{4} \right) +\left[ -\frac{1}{4}x^{4}+\frac{3}{2}x^{2} \right]_{0}^1 \\
 A&=\frac{5}{4} + -\frac{1}{4}+\frac{3}{2}=\frac{10}{4}=\frac{5}{2}
 \end{aligned}
-$
+$$
 
 **Arealet av området er $\underline{\underline{\frac{5}{2}}}$.**
 
@@ -85,18 +86,257 @@ $
 </div></div>
 
 
+## Oppgave 2
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+# Ubestemt integral med substitusjon
+
+>[!oppgave]
+>Regn ut integralet.
+>
+>$$\int \sin^3(x) \cdot \cos(x) \, \mathrm{d}x$$
+
+>[!question]- Fasit
+>
+>[[Løsningsforslag/Løsningsforslag R2 eksamen V2024#Oppgave 1-2\|Løsningsforslag R2 eksamen V2024#Oppgave 1-2]]
+
+
+</div></div>
+
+
+## Oppgave 3
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/ukjent-program-s2-v24/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Ukjent program S2 v24
+
+
+En elev har laget programmet under. 
+
+```python ln
+n = 0
+S = 0
+
+while S <= 200:
+	n = n + 1
+	S = S + 4*n - 2
+
+print(n)
+```
+
+>[!oppgave]
+>a) Forklar hva eleven prøver å finne ut.
+>b) Finn verdien eleven får skrevet ut når programmet kjøres.
+
+## Fasit
+
+a) Delsummer av aritmetisk rekke hvor hvert ledd er gitt ved $a_{n}=4n-2$
+b) 11
+
+## Løsningsforslag
+
+### 1-3a
+Programmet viser en aritmetisk følge hvor hvert ledd er gitt av $a_{n}=4n-2$ for $n>0$. Programmet regner ut delsummene, $S_{n}$, til den tilhørende rekka. 
+
+**Programmet finner ut hvilket ledd i rekka som gjør at delsummen blir *over* 200.**
+
+### 1-3b
+Siden tallfølgen er aritmetisk kan vi regne ut summen av de $n$ første leddene med
+
+$$
+S_{n}=\frac{a_{1}+a_{n}}{2}n
+$$
+
+Jeg vet at summen skal være *over* 200, at $a_{1}=2$ og jeg kan erstatte $a_{n}$ med $4n-2$. Dette gir
+
+$$
+\begin{aligned}
+200&=\frac{2+4n-2}{2}n\\
+200&=2n^{2}\\
+100&=n^{2}\\
+10&=n
+\end{aligned}
+$$
+
+$n=10$ gir oss altså nøyaktig delsummen $S_{10}=200$. $n=11$ gir oss den første delsummen som er over 200.
+
+**Programmet skriver ut 11.**
+
+
+</div></div>
+
+
+## Oppgave 4
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+# Trekant og plan i rommet
+
+Vi har gitt punktene $A(1, 1, 0)$, $B(4, 1, 1)$ og $C(2, 0, -1)$.
+
+>[!oppgave]
+>a) Bestem arealet av trekanten $\triangle ABC$.
+>b) Bestem avstanden fra punktet $C$ til linja gjennom $A$ og $B$.
+
+$A$, $B$ og $C$ ligger i planet $\alpha$. Punktet $P$ har koordinatene $P(-2, 1, 4)$.
+
+>[!oppgave]
+>c) Lag en parameterframstilling for linja $\ell$ som går gjennom punktet $P$ og står vinkelrett på planet $\alpha$.
+
+En rett linje $m$ går gjennom punktet $P$, er parallell med planet $\alpha$ og skjærer $z$-aksen i punktet $D$.
+
+>[!oppgave]
+>d) Bestem koordinatene til $D$.
+
+>[!question]- Fasit
+>
+>[[Løsningsforslag/Løsningsforslag R2 eksamen V2024#Oppgave 1-4\|Løsningsforslag R2 eksamen V2024#Oppgave 1-4]]
+
+
+</div></div>
+
+
+## Oppgave 5
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+# Sinusfunksjon og egenskaper
+
+Funksjonen $f$ er gitt ved
+
+$$f(x) = 2 \cdot \sin\!\left(\frac{\pi}{6}x - \frac{\pi}{3}\right) - 1, \quad D_f = \langle 0, 20 \rangle.$$
+
+>[!oppgave]
+>a) Løs likningen $f(x) = 0$.
+>b) Finn amplituden, likevektslinja, perioden og forskyvningen langs likevektslinja.
+
+>[!question]- Fasit
+>
+>[[Løsningsforslag/Løsningsforslag R2 eksamen V2024#Oppgave 1-5\|Løsningsforslag R2 eksamen V2024#Oppgave 1-5]]
+
+
+</div></div>
+
+
 # Del 2
 
-## Oppgave 2-4
+## Oppgave 1
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/kubikktall/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
 
 
-# Kubikktall
+# Fotball hjørnespark og vektorer
+
+En fotballspiller skal ta et hjørnespark (corner) på en fotballbane. Posisjonen $\vec{r}$ til ballen etter $t$ sekunder er gitt ved
+
+$$\vec{r}(t) = [30t,\ 5t,\ 7t - 4{,}9t^2].$$
+
+Her er posisjonen gitt i meter, og koordinatsystemet er lagt slik at origo er i hjørnet av fotballbanen, $x$-aksen går langs kortsiden og $y$-aksen går langs langsiden.
+
+>[!oppgave]
+>a) Hvor stor er farten til ballen idet den blir skutt?
+>b) Hvor langt fra hjørnemerket er ballen når den treffer fotballbanen igjen?
+>c) Hvor stor er farten til ballen når den er på sitt høyeste? Hvor høyt over fotballbanen er ballen da?
+
+>[!question]- Fasit
+>
+>[[Løsningsforslag/Løsningsforslag R2 eksamen V2024#Oppgave 2-1\|Løsningsforslag R2 eksamen V2024#Oppgave 2-1]]
+
+
+</div></div>
+
+
+## Oppgave 2
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+# Volum av pære med omdreiningslegeme
+
+Bildet nedenfor viser halve snittflaten til en pære som er skåret over på midten. Bildet er satt inn i et koordinatsystem. Enheten langs begge aksene er centimeter.
+
+![Pæresnitt i koordinatsystem](/img/user/_resources/r2-v24-2-2.jpeg)
+
+>[!oppgave]
+>Bruk informasjonen i bildet til å bestemme det omtrentlige volumet av pæra.
+
+>[!question]- Fasit
+>
+>[[Løsningsforslag/Løsningsforslag R2 eksamen V2024#Oppgave 2-2\|Løsningsforslag R2 eksamen V2024#Oppgave 2-2]]
+
+
+</div></div>
+
+
+## Oppgave 3
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+# Sensor for utelys og trigonometri
+
+En sensor skal slå på utelyset foran ytterdøra til et hus. Lyset blir slått på $T(x)$ timer etter midnatt. $T(x)$ er gitt ved
+
+$$T(x) = 4 \cdot \sin(0{,}0055\pi \cdot x - 0{,}5\pi) + 19.$$
+
+$x$ er antall dager etter 31. desember 2023 slik at $x = 1$ svarer til 1. januar 2024. Tidspunktet sensoren slår på utelyset, varierer fra kl. 15:00 til kl. 23:00, og det varierer periodisk i løpet av et år. Den 1. april slår lyset seg på kl. 19:00.
+
+>[!oppgave]
+>a) Forklar hvordan de ulike verdiene i modellen $T(x)$ passer med opplysningene gitt ovenfor.
+>b) Når i 2024 vil tidspunktet da lyset slår seg på, flytte seg 3 minutter per dag?
+>c) Når endrer dette tidspunktet seg raskest, og hvor stor er endringen da?
+
+>[!question]- Fasit
+>
+>[[Løsningsforslag/Løsningsforslag R2 eksamen V2024#Oppgave 2-3\|Løsningsforslag R2 eksamen V2024#Oppgave 2-3]]
+
+
+</div></div>
+
+
+## Oppgave 4
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+# Kubikktall og induksjonsbevis
 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -436,11 +676,12 @@ $
 </svg>
 
 
-De fem første kubikktallene er $1^{3}, 2^{3}, 3^{3}, 4^{3}$ og $5^{3}$, se figuren over. La $S_{n}$ være summen av de $n$ første kubikktallene. 
+De fem første kubikktallene er $1^{3}, 2^{3}, 3^{3}, 4^{3}$ og $5^{3}$, se figuren over. La $S_{n}$ være summen av de $n$ første kubikktallene.
 
 >[!oppgave]
 >a) Beskriv den rekursive sammenhengen mellom $S_{n}$ og $S_{n+1}$. Bestem en eksplisitt formel for $S_{n}$.
->b) Lag et program som regner ut den rekursive sammenhengen du fant i oppgave a.
+>b) Lag et program som regner ut $S_{50}$ ved å bruke den rekursive sammenhengen du fant i oppgave a.
+>c) Bruk induksjonsbevis til å bevise den eksplisitte formelen for $S_{n}$.
 
 ## Fasit
 
@@ -452,27 +693,27 @@ b) $S_{50}=1625625$
 ### 2-4a
 Jeg setter opp de første leddene og ser om jeg finner en rekursiv sammenheng som jeg kan bruke.
 
-$
+$$
 \begin{aligned}
 S_{1}&=1^{3}\\
 S_{2}&=1^{3}+2^{3}=S_{1}+2^{3}\\
 S_{3}&=1^{3}+2^{3}+3^{3}=S_{2}+3^{3}
 \end{aligned}
-$
+$$
 
 Jeg ser at hvert ledd er det forrige leddet, pluss det neste kubikktallet. En rekursiv sammenheng mellom summene er altså
 
-$
+$$
 \underline{\underline{S_{n+1}=S_{n}+(n+1)^{3}}}
-$
+$$
 
-For å bestemme en eksplisitt formel brukte jeg regresjon i GeoGebra. 
+For å bestemme en eksplisitt formel brukte jeg regresjon i GeoGebra.
 
 ![](/img/user/_resources/s2-v24-2-4a.png)
 
 En eksplisitt formel for summene er
 
-$S_{n}=\underline{\underline{\frac{1}{4}\left( n^{4}+ 2n^{3}+n^{2} \right)}}$
+$$S_{n}=\underline{\underline{\frac{1}{4}\left( n^{4}+ 2n^{3}+n^{2} \right)}}$$
 
 ### 2-4b
 Jeg bruker følgende program
@@ -489,47 +730,40 @@ print(S)
 
 **Programmet gir at $S_{50}=1 \, 625 \, 625$.**
 
-<!--
->[!tip]- TikZ-kode for å lage kuber
->
->```tikz
->\begin{document}
->
->\begin{tikzpicture}
->    % Define the size of each small cube
->    \def\cubesize{1}
->	% Define how many cubes you want to generate
->    \foreach \cube [evaluate=\cube as \smallCube using int(\cube-1)] in {1,...,4}{
->     \begin{scope}[shift={(\cube^1.9,0)}]
->
->	    % Draw the front face
->	    \foreach \x in {0,...,\smallCube}
->	        \foreach \y in {0,...,\smallCube}
->	            \draw[thick] (\x*\cubesize, \y*\cubesize, 0) -- ++(\cubesize,0,0) -- ++(0,\cubesize,0) -- ++(-\cubesize,0,0) -- cycle;
->	
->	    % Draw the horizontal connections on the right face
->	    \foreach \y in {0,...,\cube}
->	        \foreach \z in {0,...,\smallCube}
->	            \draw[thick] (\cube*\cubesize, \y*\cubesize, -\z*\cubesize) -- ++(0, 0, -\cubesize);
->	    \foreach \x in {0,...,\smallCube}
->	        \draw[thick] (\x*\cubesize,\cube*\cubesize,0) -- ++(0,0,-\cube);
->	
->		% draw all horizontal lines on top
->		\foreach \z in {1,...,\cube}
->			\draw[thick] (0,\cube*\cubesize,-\z*\cubesize) -- ++({\cube*\cubesize}, 0, 0);
->		
->		\foreach \z in {1,...,\cube}
->			\draw[thick] (\cube,0,-\z*\cubesize) -- (\cube*\cubesize,\cube*\cubesize,-\z*\cubesize);
->        \end{scope}
->   }
->\end{tikzpicture}
->\end{document}
--->
 
 </div></div>
 
 
-## Oppgave 2-6
+## Oppgave 5
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+# Kuleflate og plan
+
+Punktene $A(1, 2, 1)$ og $B(3, 0, -3)$ ligger på en kuleflate. $AB$ er en diameter til kuleflaten. Planet $\gamma$ er gitt ved likningen $x + 2y + 2z = 14$.
+
+>[!oppgave]
+>a) Finn den minste avstanden fra kuleflaten til planet $\gamma$.
+
+Et plan $\alpha$ har samme avstand til kuleflaten og er parallelt med planet $\gamma$.
+
+>[!oppgave]
+>b) Bestem en likning for planet $\alpha$.
+
+>[!question]- Fasit
+>
+>[[Løsningsforslag/Løsningsforslag R2 eksamen V2024#Oppgave 2-5\|Løsningsforslag R2 eksamen V2024#Oppgave 2-5]]
+
+
+</div></div>
+
+
+## Oppgave 6
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/sum-av-integralrekke/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -542,9 +776,9 @@ print(S)
 
 
 La $a_{1}>0$ og la $S(x)$ være summen av ei rekke gitt ved 
-$
+$$
 S(x)=\sum_{n=0}^{\infty}a_{1} \cdot \left( \int_{0}^{x} e^{-t} \, \mathrm{d}t  \right)^{n}
-$
+$$
 
 Bestem $a_{1}$ slik at den minste mulige summen blir 1.
 

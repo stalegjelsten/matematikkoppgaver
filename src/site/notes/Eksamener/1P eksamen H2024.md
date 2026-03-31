@@ -29,10 +29,10 @@ Vare B øker prosentvis mest med $62{,}5 \, \%$ (vare A: $50 \, \%$)
 Vi regner ut den prosentvise prisøkningen for begge varene:
 
 **Vare A:**
-$\frac{180 - 120}{120} \cdot 100 \, \% = \frac{60}{120} \cdot 100 \, \% = 50 \, \%$
+$$\frac{180 - 120}{120} \cdot 100 \, \% = \frac{60}{120} \cdot 100 \, \% = 50 \, \%$$
 
 **Vare B:**
-$\frac{26 - 16}{16} \cdot 100 \, \% = \frac{10}{16} \cdot 100 \, \% = 62{,}5 \, \%$
+$$\frac{26 - 16}{16} \cdot 100 \, \% = \frac{10}{16} \cdot 100 \, \% = 62{,}5 \, \%$$
 
 **Vare B har størst prosentvis prisøkning med $\underline{\underline{62{,}5 \, \%}}$**, selv om den nominelle økningen (10 kr) er lavere enn for vare A (60 kr).
 
@@ -74,11 +74,11 @@ b) Mellom $1{,}4 \, \mathrm{kg}$ og $2{,}7 \, \mathrm{kg}$
 
 En billiard er tusen millioner millioner:
 
-$1 \text{ billiard} = 1\,000 \cdot 1\,000\,000 \cdot 1\,000\,000 = 10^{15}$
+$$1 \text{ billiard} = 1\,000 \cdot 1\,000\,000 \cdot 1\,000\,000 = 10^{15}$$
 
 Dermed er 20 billiarder:
 
-$20 \cdot 10^{15} = \underline{\underline{2 \cdot 10^{16}}}$
+$$20 \cdot 10^{15} = \underline{\underline{2 \cdot 10^{16}}}$$
 
 ### b
 
@@ -86,11 +86,11 @@ Antallet maur i en normalt stor maurtue er mellom 200 000 og 300 000. En maur ve
 
 **Laveste vekt** (200 000 maur à 7 mg):
 
-$200\,000 \cdot 7 \, \mathrm{mg} = 1\,400\,000 \, \mathrm{mg} = 1{,}4 \, \mathrm{kg}$
+$$200\,000 \cdot 7 \, \mathrm{mg} = 1\,400\,000 \, \mathrm{mg} = 1{,}4 \, \mathrm{kg}$$
 
 **Høyeste vekt** (300 000 maur à 9 mg):
 
-$300\,000 \cdot 9 \, \mathrm{mg} = 2\,700\,000 \, \mathrm{mg} = 2{,}7 \, \mathrm{kg}$
+$$300\,000 \cdot 9 \, \mathrm{mg} = 2\,700\,000 \, \mathrm{mg} = 2{,}7 \, \mathrm{kg}$$
 
 **Alle maurene i en normalt stor maurtue veier til sammen omtrent $\underline{\underline{1{,}4 \, \mathrm{kg} \text{ til } 2{,}7 \, \mathrm{kg}}}$.**
 
@@ -320,13 +320,13 @@ Vi leser av to punkter fra koordinatsystemet: $(0,\ 32)$ og $(100,\ 212)$.
 
 Stigningstallet:
 
-$a = \frac{212 - 32}{100 - 0} = \frac{180}{100} = \frac{9}{5}$
+$$a = \frac{212 - 32}{100 - 0} = \frac{180}{100} = \frac{9}{5}$$
 
 Siden punktet $(0,\ 32)$ ligger på $y$-aksen, er konstantleddet $b = 32$.
 
 Formelen er:
 
-$\underline{\underline{F = \frac{9}{5} \cdot C + 32}}$
+$$\underline{\underline{F = \frac{9}{5} \cdot C + 32}}$$
 
 Vi kan sjekke med punktet $(-40,\ -40)$: $\frac{9}{5} \cdot (-40) + 32 = -72 + 32 = -40$ ✓
 
@@ -334,13 +334,13 @@ Vi kan sjekke med punktet $(-40,\ -40)$: $\frac{9}{5} \cdot (-40) + 32 = -72 + 3
 
 Vi setter $F = 68$ og løser for $C$:
 
-$68 = \frac{9}{5} \cdot C + 32$
+$$68 = \frac{9}{5} \cdot C + 32$$
 
-$68 - 32 = \frac{9}{5} \cdot C$
+$$68 - 32 = \frac{9}{5} \cdot C$$
 
-$36 = \frac{9}{5} \cdot C$
+$$36 = \frac{9}{5} \cdot C$$
 
-$C = 36 \cdot \frac{5}{9} = \underline{\underline{20 \, \degree\mathrm{C}}}$
+$$C = 36 \cdot \frac{5}{9} = \underline{\underline{20 \, \degree\mathrm{C}}}$$
 
 
 </div></div>
@@ -361,7 +361,7 @@ $C = 36 \cdot \frac{5}{9} = \underline{\underline{20 \, \degree\mathrm{C}}}$
 
 Funksjonen $P$ gitt ved
 
-$P(x) = 3600 \cdot 0{,}85^x + 600$
+$$P(x) = 3600 \cdot 0{,}85^x + 600$$
 
 er en modell som viser hvor mange personer som abonnerte på papirutgaven av en avis $x$ år etter 2010.
 
@@ -386,7 +386,7 @@ c) 2022
 
 **Metode 1 – sett inn $x = 0$:**
 
-$P(0) = 3600 \cdot 0{,}85^0 + 600 = 3600 \cdot 1 + 600 = \underline{\underline{4\,200}}$
+$$P(0) = 3600 \cdot 0{,}85^0 + 600 = 3600 \cdot 1 + 600 = \underline{\underline{4\,200}}$$
 
 **Metode 2 – bruk at $0{,}85^x \to 0$ når $x \to \infty$:**
 
@@ -396,13 +396,13 @@ Modellen har 600 som nedre grense (bunnlinje). I 2010 var det 3600 abonnenter *o
 
 Vi beregner funksjonsverdiene i de to punktene:
 
-$P(4) = 3600 \cdot 0{,}85^4 + 600 \approx 2\,479$
+$$P(4) = 3600 \cdot 0{,}85^4 + 600 \approx 2\,479$$
 
-$P(14) = 3600 \cdot 0{,}85^{14} + 600 \approx 970$
+$$P(14) = 3600 \cdot 0{,}85^{14} + 600 \approx 970$$
 
 Stigningstallet til sekantlinjen:
 
-$a = \frac{P(14) - P(4)}{14 - 4} = \frac{970 - 2\,479}{10} \approx \underline{\underline{-150{,}9}}$
+$$a = \frac{P(14) - P(4)}{14 - 4} = \frac{970 - 2\,479}{10} \approx \underline{\underline{-150{,}9}}$$
 
 **Praktisk tolkning:** Antallet papirabonnenter gikk i gjennomsnitt ned med ca. 151 personer per år i perioden fra 2014 til 2024.
 
@@ -410,7 +410,7 @@ $a = \frac{P(14) - P(4)}{14 - 4} = \frac{970 - 2\,479}{10} \approx \underline{\u
 
 Vi definerer funksjonen for digitale abonnenter, der $x$ er år etter 2010 (digitalt startet i 2019, altså ved $x = 9$):
 
-$D(x) = 1000 \cdot 1{,}055^{x - 9}$
+$$D(x) = 1000 \cdot 1{,}055^{x - 9}$$
 
 Vi plotter $P(x)$ og $D(x)$ i GeoGebra og finner skjæringspunktet:
 
@@ -457,15 +457,15 @@ $62{,}5 \, \mathrm{ml}$ per dose
 
 Pasienten skal ha 15 mg pulver per kg kroppsvekt per døgn:
 
-$75 \, \mathrm{kg} \cdot 15 \, \frac{\mathrm{mg}}{\mathrm{kg}} = 1\,125 \, \mathrm{mg} \text{ per døgn}$
+$$75 \, \mathrm{kg} \cdot 15 \, \frac{\mathrm{mg}}{\mathrm{kg}} = 1\,125 \, \mathrm{mg} \text{ per døgn}$$
 
 Fordelt på tre like store doser:
 
-$\frac{1\,125 \, \mathrm{mg}}{3} = 375 \, \mathrm{mg} \text{ per dose}$
+$$\frac{1\,125 \, \mathrm{mg}}{3} = 375 \, \mathrm{mg} \text{ per dose}$$
 
 Medisinen inneholder 6 mg pulver per ml. Antall milliliter per dose:
 
-$\frac{375 \, \mathrm{mg}}{6 \, \frac{\mathrm{mg}}{\mathrm{ml}}} = \underline{\underline{62{,}5 \, \mathrm{ml}}}$
+$$\frac{375 \, \mathrm{mg}}{6 \, \frac{\mathrm{mg}}{\mathrm{ml}}} = \underline{\underline{62{,}5 \, \mathrm{ml}}}$$
 
 
 </div></div>
@@ -495,13 +495,13 @@ Varen koster nå **mindre** – den er blitt $7{,}6 \, \%$ billigere.
 
 Vi finner den samlede vekstfaktoren ved å multiplisere vekstfaktorene for hver endring:
 
-$1{,}10 \cdot 1{,}20 \cdot 0{,}70 = 0{,}924$
+$$1{,}10 \cdot 1{,}20 \cdot 0{,}70 = 0{,}924$$
 
 Siden vekstfaktoren er $0{,}924 < 1$, koster varen nå **$\underline{\underline{\text{mindre}}}$** enn før den første prisøkningen.
 
 Den samlede endringen er:
 
-$(0{,}924 - 1) \cdot 100 \, \% = -7{,}6 \, \%$
+$$(0{,}924 - 1) \cdot 100 \, \% = -7{,}6 \, \%$$
 
 Varen er blitt $7{,}6 \, \%$ billigere totalt sett, selv om den ble satt opp to ganger.
 
@@ -522,7 +522,7 @@ Varen er blitt $7{,}6 \, \%$ billigere totalt sett, selv om den ble satt opp to 
 
 Når en strekning på $s$ kilometer kjøres to ganger, er tidsforskjellen $t$ minutter gitt ved
 
-$t = \left(\frac{1}{v_1} - \frac{1}{v_2}\right) \cdot s \cdot 60$
+$$t = \left(\frac{1}{v_1} - \frac{1}{v_2}\right) \cdot s \cdot 60$$
 
 der $v_1$ kilometer per time er gjennomsnittsfarten den første gangen strekningen kjøres, og $v_2$ kilometer per time er gjennomsnittsfarten andre gangen.
 
@@ -549,7 +549,7 @@ b) 40 minutter (langsom dag) og 20 minutter (rask dag)
 
 Vi setter inn $s = 18$, $v_1 = 58$ og $v_2 = 65$:
 
-$t = \left(\frac{1}{58} - \frac{1}{65}\right) \cdot 18 \cdot 60 = \frac{65 - 58}{58 \cdot 65} \cdot 1080 = \frac{7}{3770} \cdot 1080 \approx \underline{\underline{2 \text{ minutter}}}$
+$$t = \left(\frac{1}{58} - \frac{1}{65}\right) \cdot 18 \cdot 60 = \frac{65 - 58}{58 \cdot 65} \cdot 1080 = \frac{7}{3770} \cdot 1080 \approx \underline{\underline{2 \text{ minutter}}}$$
 
 Camilla brukte ca. 2 minutter lengre på kjøreturen på mandagen.
 
@@ -557,17 +557,17 @@ Camilla brukte ca. 2 minutter lengre på kjøreturen på mandagen.
 
 La $v_1$ være farten den langsomme dagen. Da er $v_2 = 2v_1$. Vi setter inn $t = 20$ og $s = 18$:
 
-$20 = \left(\frac{1}{v_1} - \frac{1}{2v_1}\right) \cdot 18 \cdot 60 = \frac{1}{2v_1} \cdot 1080 = \frac{540}{v_1}$
+$$20 = \left(\frac{1}{v_1} - \frac{1}{2v_1}\right) \cdot 18 \cdot 60 = \frac{1}{2v_1} \cdot 1080 = \frac{540}{v_1}$$
 
-$v_1 = \frac{540}{20} = 27 \, \mathrm{km/t} \qquad v_2 = 54 \, \mathrm{km/t}$
+$$v_1 = \frac{540}{20} = 27 \, \mathrm{km/t} \qquad v_2 = 54 \, \mathrm{km/t}$$
 
 Kjøretid den langsomme dagen:
 
-$\frac{18}{27} \cdot 60 = \underline{\underline{40 \text{ minutter}}}$
+$$\frac{18}{27} \cdot 60 = \underline{\underline{40 \text{ minutter}}}$$
 
 Kjøretid den raske dagen:
 
-$\frac{18}{54} \cdot 60 = \underline{\underline{20 \text{ minutter}}}$
+$$\frac{18}{54} \cdot 60 = \underline{\underline{20 \text{ minutter}}}$$
 
 
 </div></div>
@@ -607,9 +607,9 @@ Startverdi: $b = 290\,000$
 
 Økning per måned:
 
-$a = \frac{340\,000 - 290\,000}{8} = \frac{50\,000}{8} = 6\,250$
+$$a = \frac{340\,000 - 290\,000}{8} = \frac{50\,000}{8} = 6\,250$$
 
-$\underline{\underline{f(x) = 290\,000 + 6\,250x}}$
+$$\underline{\underline{f(x) = 290\,000 + 6\,250x}}$$
 
 ### b
 
@@ -619,15 +619,15 @@ Startverdi: $b = 290\,000$
 
 Vi finner vekstfaktoren $k$ fra $g(8) = 340\,000$:
 
-$290\,000 \cdot k^8 = 340\,000$
+$$290\,000 \cdot k^8 = 340\,000$$
 
-$k^8 = \frac{340\,000}{290\,000} = \frac{34}{29}$
+$$k^8 = \frac{340\,000}{290\,000} = \frac{34}{29}$$
 
-$k = \left(\frac{34}{29}\right)^{\frac{1}{8}} \approx 1{,}020$
+$$k = \left(\frac{34}{29}\right)^{\frac{1}{8}} \approx 1{,}020$$
 
 Antallet følgere øker med ca. $2{,}0 \, \%$ per måned.
 
-$\underline{\underline{g(x) = 290\,000 \cdot 1{,}020^x}}$
+$$\underline{\underline{g(x) = 290\,000 \cdot 1{,}020^x}}$$
 
 
 </div></div>
@@ -681,9 +681,9 @@ Med 3 reiseoppdrag:
 
 Vi setter opp funksjoner for årslønn med $n$ reiseoppdrag:
 
-$A(n) = 384\,000 + 20\,000n$
-$B(n) = 756\,000 + 16\,000n$
-$C(n) = 900\,000 + 8\,000n$
+$$A(n) = 384\,000 + 20\,000n$$
+$$B(n) = 756\,000 + 16\,000n$$
+$$C(n) = 900\,000 + 8\,000n$$
 
 Vi plotter funksjonene i GeoGebra og leser av skjæringspunktene:
 
@@ -693,11 +693,11 @@ Fra grafen (se `BC`, `AC` og `AB`):
 
 **B og C er like gode** ved $n = 18$ oppdrag (se punkt `BC = (18, 1\,044\,000)`):
 
-$756\,000 + 16\,000 \cdot 18 = 900\,000 + 8\,000 \cdot 18 = 1\,044\,000 \text{ kr}$
+$$756\,000 + 16\,000 \cdot 18 = 900\,000 + 8\,000 \cdot 18 = 1\,044\,000 \text{ kr}$$
 
 **A og B er like gode** ved $n = 93$ oppdrag (se punkt `AB = (93, 2\,244\,000)`):
 
-$384\,000 + 20\,000 \cdot 93 = 756\,000 + 16\,000 \cdot 93 = 2\,244\,000 \text{ kr}$
+$$384\,000 + 20\,000 \cdot 93 = 756\,000 + 16\,000 \cdot 93 = 2\,244\,000 \text{ kr}$$
 
 **Konklusjon:**
 
@@ -747,11 +747,11 @@ Fra oversikten: 4 341 850 stemmeberettigede, fremmøteprosent 62,4 %.
 
 Antall som stemte:
 
-$4\,341\,850 \cdot 0{,}624 \approx 2\,709\,314$
+$$4\,341\,850 \cdot 0{,}624 \approx 2\,709\,314$$
 
 Antall som **ikke** brukte stemmeretten:
 
-$4\,341\,850 - 2\,709\,314 = \underline{\underline{1\,632\,536 \text{ personer}}}$
+$$4\,341\,850 - 2\,709\,314 = \underline{\underline{1\,632\,536 \text{ personer}}}$$
 
 ### b
 
@@ -759,7 +759,7 @@ Tore forveksler **prosentpoeng** (pp) med **prosentvis endring**. Høyre økte m
 
 Prosentvis framgang beregnes som:
 
-$\text{prosentvis framgang} = \frac{\text{endring i pp}}{\text{oppslutning ved forrige valg}} \cdot 100 \, \%$
+$$\text{prosentvis framgang} = \frac{\text{endring i pp}}{\text{oppslutning ved forrige valg}} \cdot 100 \, \%$$
 
 Vi regner ut for partiene med positiv pp-endring:
 
@@ -827,11 +827,11 @@ Med sidelengde $x = 100 \, \mathrm{mm}$ på hvert utskåret kvadrat:
 - Bredde: $800 - 2 \cdot 100 = 600 \, \mathrm{mm}$
 - Høyde: $100 \, \mathrm{mm}$
 
-$V = 1000 \cdot 600 \cdot 100 = 60\,000\,000 \, \mathrm{mm}^3$
+$$V = 1000 \cdot 600 \cdot 100 = 60\,000\,000 \, \mathrm{mm}^3$$
 
 Vi omregner til liter ($1 \, \mathrm{L} = 1\,000\,000 \, \mathrm{mm}^3$):
 
-$V = \frac{60\,000\,000}{1\,000\,000} = \underline{\underline{60 \, \mathrm{L}}} \quad \checkmark$
+$$V = \frac{60\,000\,000}{1\,000\,000} = \underline{\underline{60 \, \mathrm{L}}} \quad \checkmark$$
 
 ### b
 
@@ -859,7 +859,7 @@ Når Sofie skjærer bort kvadrater med sidelengde $x$ mm, får kassen:
 
 Funksjonsuttrykket (volum i L):
 
-$\underline{\underline{V(x) = \frac{(1200 - 2x)(800 - 2x) \cdot x}{1\,000\,000}}}$
+$$\underline{\underline{V(x) = \frac{(1200 - 2x)(800 - 2x) \cdot x}{1\,000\,000}}}$$
 
 Vi tegner grafen i GeoGebra:
 

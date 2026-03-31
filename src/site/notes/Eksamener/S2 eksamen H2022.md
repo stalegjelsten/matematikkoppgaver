@@ -17,9 +17,9 @@
 
 En uendelig geometrisk rekke er gitt ved
 
-$
+$$
 36-24+16-\frac{32}{3}+\cdots
-$
+$$
 
 Begrunn at rekken konvergerer, og bestem summen av rekken.
 

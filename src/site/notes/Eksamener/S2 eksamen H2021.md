@@ -24,9 +24,9 @@ Jostein skal ta opp poteter. Han plukker en tilfeldig potet fra kjøkkenhagen.
 > a) Bestem sannsynligheten for at poteten veier mellom 180 gram og 220 gram
 
 Normalfordelingskurven til $X$ er grafen til funksjonen $f$ gitt ved
-$
+$$
 f(x)=\frac{1}{40\sqrt{ 2\pi }}\cdot e^{-\frac{(x-200)^{2}}{3200}}
-$
+$$
 
 >[!oppgave]
 > b) Bestem $\int_{0}^{150} f(x) \, dx$ og gi en praktisk tolkning av svaret.

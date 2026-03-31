@@ -124,7 +124,7 @@ Hunder utvikler seg raskere enn mennesker. Når en hund er 1 år gammel, tilsvar
 
 Sondre har en hund som er 2 år gammel. Han mener funksjonen $H$ gitt ved
 
-$H(x) = 6x + 12$
+$$H(x) = 6x + 12$$
 
 kan brukes som en modell for hvor mange menneskeår $H(x)$ en stor hund er når den er $x$ hundeår.
 
@@ -201,7 +201,7 @@ Tabellen nedenfor viser antall personer i Norge som hadde fiske som hovedyrke no
 ## Fasit
 
 a) $F(x) = 66\,360 \cdot 0{,}9714^{x}$
-b) Ca. 3 658 fiskere i 2050
+b) Ca. 3 645 fiskere i 2050
 c) $a \approx -477$ fiskere per år
 
 ## Løsningsforslag
@@ -400,9 +400,9 @@ c) 0,52 %
 ### 2-6a
 Lengden reduseres med 10 % per linjestykke og den begynner på 100 cm. Da blir lengden av linjestykke nummer $n$:
 
-$
+$$
 L(n)=100 \cdot 0{,}9^{n-1}
-$
+$$
 
 Jeg bruker et regneark til å legge sammen de 8 første linjestykkene.
 
@@ -484,7 +484,7 @@ Nedenfor ser du en ellipse med sentrum i $S$. Linjestykket $SA = a$ kalles den s
 >
 >Ifølge formelen er omkretsen $O$ tilnærmet gitt ved
 >
->$O \approx \pi(a+b)\left(1 + \frac{3h}{10 + \sqrt{4 - 3h}}\right)$
+>$$O \approx \pi(a+b)\left(1 + \frac{3h}{10 + \sqrt{4 - 3h}}\right)$$
 >
 >der $h = \left(\dfrac{a-b}{a+b}\right)^2$ og $a$ og $b$ er store og lille halvakse.
 
@@ -504,9 +504,9 @@ b) Ja, den gjelder.
 ### 2-7a
 Vi beregner først $h$ med $a=3$ og $b=2$:
 
-$
+$$
 h = \left(\frac{a-b}{a+b}\right)^2= \left( \frac{3-2}{3+2} \right) ^{2}=\left( \frac{1}{5} \right) ^{2}=\frac{1^{2}}{5^{2}}=\frac{1}{25}
-$
+$$
 
 Så regner vi ut omkretsen $O$ ved hjelp av formelen (jeg bruker CAS i GeoGebra som kalkulator).
 
@@ -519,15 +519,15 @@ En sirkel har omkretsen $O_{\text{sirkel}}=\pi \cdot d$, der $d$ er diameteren, 
 
 I en sirkel vil begge halvaksene være like lange, og begge vil være lik radius i sirkelen, formelen for $h$ blir derfor:
 
-$
+$$
 h = \left(\frac{a-b}{a+b}\right)^2= \left( \frac{r-r}{r+r} \right) ^{2}=\left( \frac{0}{2r} \right) ^{2}=0
-$
+$$
 
 Vi setter inn $a=b=r$ og $h=0$ Ramanujans formel:
 
-$
+$$
 O \approx \pi \left( r+r \right) \left( 1+ \underbrace{ \frac{3 \cdot 0}{10 + \sqrt{ 4- 3 \cdot 0 }} }_{ \text{Telleren blir 0} } \right) = \pi (r+r) \cdot 1= \pi \cdot 2r = 2\pi r
-$
+$$
 
 **Ramanujans formel gjelder for spesialtilfellet der ellipsen er en sirkel.**
 

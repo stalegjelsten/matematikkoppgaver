@@ -19,7 +19,7 @@ Tabellen nedenfor viser antall personer i Norge som hadde fiske som hovedyrke no
 ## Fasit
 
 a) $F(x) = 66\,360 \cdot 0{,}9714^{x}$
-b) Ca. 3 658 fiskere i 2050
+b) Ca. 3 645 fiskere i 2050
 c) $a \approx -477$ fiskere per år
 
 ## Løsningsforslag

@@ -18,7 +18,7 @@
 >[!oppgave]
 >Deriver funksjonen $f$ gitt ved
 >
->$f(x) = e^{-2x} + \frac{1}{5}x^5 - 2\pi$
+>$$f(x) = e^{-2x} + \frac{1}{5}x^5 - 2\pi$$
 
 ## Fasit
 
@@ -100,20 +100,20 @@ Løs likningene
 Vi ser at nevneren går mot null når $x\to 3$, mens telleren går mot $3 \cdot (9-3)=3\cdot 6 = 18$. 
 
 La oss se hva som skjer når vi nærmer oss $3$ fra venstre side. Jeg velger $x=2{,}5$ for å få en følelse for tallene.
-$
-\frac{3(2{,}5^{2}-3)}{2{,}5-3}=\frac{3(6{,}25-3)}{-0{,}5}=\frac{3 \cdot 3{,}25}{-0{,}5} = -19{,}5$
+$$
+\frac{3(2{,}5^{2}-3)}{2{,}5-3}=\frac{3(6{,}25-3)}{-0{,}5}=\frac{3 \cdot 3{,}25}{-0{,}5} = -19{,}5$$
 Hvis vi hadde valgt en verdi nærmere $3$ ville fått et enda mer ekstremt negativt svar. 
-$
+$$
 \lim_{ x \to 3^{-} } \frac{3(x^{2}-3)}{x-3}= -\infty
-$
+$$
 
 Når vi nærmer oss 3 fra høyre side så får vi (vi velger 3,5)
-$
-\frac{3(3{,}5^{2}-3)}{3{,}5-3}=\frac{3(12{,}25-3)}{0{,}5}=\frac{3 \cdot 9{,}25}{0{,}5} \approx 55$
+$$
+\frac{3(3{,}5^{2}-3)}{3{,}5-3}=\frac{3(12{,}25-3)}{0{,}5}=\frac{3 \cdot 9{,}25}{0{,}5} \approx 55$$
 Hvis vi hadde valgt et tall nærmere 3 ville vi fått et enda mer ekstremt positivt svar.
-$
+$$
 \lim_{ x \to 3^{+} } \frac{3(x^{2}-3)}{x-3}= \infty
-$
+$$
 
 **Grenseverdien eksisterer ikke siden grenseverdiene fra venstre og høyre side ikke stemmer overens.**
 
@@ -157,11 +157,11 @@ Skiskytter Arne Treff skal skyte en serie på tre skudd. Det har tidligere vist 
 
 Funksjonene $f$ og $g$ er gitt ved
 
-$f(x) = \begin{cases} x^2 + 2\text{,} \quad  & x < 0 \\ 2e^x\text{,} & x \ge 0 \end{cases}$
+$$f(x) = \begin{cases} x^2 + 2\text{,} \quad  & x < 0 \\ 2e^x\text{,} & x \ge 0 \end{cases}$$
 
 og
 
-$g(x) = \begin{cases} x^2 + 2\text{,} \quad  & x < 0 \\ 1\text{,} & x = 0 \\ 2e^x\text{,} & x > 0 \end{cases}$
+$$g(x) = \begin{cases} x^2 + 2\text{,} \quad  & x < 0 \\ 1\text{,} & x = 0 \\ 2e^x\text{,} & x > 0 \end{cases}$$
 
 >[!oppgave]
 >a) Avgjør om $f$ er kontinuerlig i $x = 0$.
@@ -211,11 +211,11 @@ Peder har glemt koden på hengelåsen sin. Koden består av tre sifre. Peder hus
 
 Amalie arbeider med en funksjon $f$ med delt forskrift og skal vise funksjonsuttrykket til de andre i klassen. Dessverre har hun sølt på arket sitt og klarer ikke å lese alt som står der.
 
-$
+$$
 f(x) = \begin{cases} 
 -9x - 15\text{,} & x \le -2 \\
 \blacksquare\blacksquare\blacksquare\blacksquare \text{,} & -2 < x < 1 \\ 
-\dfrac{x^2}{2} - x - \dfrac{7}{2}\text{,} \quad  & x \ge 1 \end{cases}$
+\dfrac{x^2}{2} - x - \dfrac{7}{2}\text{,} \quad  & x \ge 1 \end{cases}$$
 
 Hun husker at $f$ er kontinuerlig for alle $x \in \mathbb{R}$. Hun husker også at uttrykket i midten er et tredjegradspolynom. I tillegg husker hun at $f'(-2) = -9$ og $f'(1) = 0$.
 
@@ -228,12 +228,12 @@ Delen som mangler er $-\dfrac{13}{27}x^{3} + \frac{7}{9}x^{2}- \frac{1}{9}x - \f
 
 ## Løsningsforslag
 For at $f$ skal være kontinuerlig så må funksjonsverdien for $f(-2)=\lim_{ x \to -2^{+} }f(x)$ og $f(1)=\lim_{ x \to 1^{-} }f(x)$. Vi sjekker funksjonsverdiene.
-$
+$$
 \begin{aligned}
 f(-2)&=-9 \cdot (-2)-15=18-15=3 \\
 f(1)&= \frac{1^{2}}{2}-1-\frac{7}{2}=\frac{1}{2}-\frac{2}{2}-\frac{7}{2}=-\frac{8}{2}=-4
 \end{aligned}
-$
+$$
 Tredjegradsfunksjonen vår bør altså gå mot $3$ når $x\to-2^{+}$ og $-4$ når $x\to 1^{-}$. 
 
 I tillegg skal $f'(-2)=-9$ og $f'(1)=0$. Disse opplysningen sier oss at $f$ må være deriverbar i $x=-2$ og $x=1$. Jeg setter opp uttrykket for en tredjegradsfunksjon i CAS i GeoGebra i linje 1 og legger inn de fire opplysningene våre i linje 2.
@@ -241,12 +241,12 @@ I tillegg skal $f'(-2)=-9$ og $f'(1)=0$. Disse opplysningen sier oss at $f$ må 
 ![Løsning i CAS](/img/user/_resources/s1-v25-2-2-cas.png)
 
 **Det fullstendige funksjonsuttrykket for $f$ er**
-$
+$$
 \underline{\underline{ f(x) = \begin{cases} 
 -9x - 15\text{,} & x \le -2 \\
 -\dfrac{13}{27}x^{3} + \frac{7}{9}x^{2}- \frac{1}{9}x - \frac{113}{27}  \text{,} & -2 < x < 1 \\ 
 \dfrac{x^2}{2} - x - \dfrac{7}{2}\text{,} \quad  & x \ge 1 \end{cases} }}
-$
+$$
 
 
 
@@ -330,11 +330,11 @@ Også her skal vi plukke ut 10 tilfeldige personer blant dem som stemte.
 
 En bedrift produserer og selger T-skjorter. Prisen $p(x)$ kroner per T-skjorte ved produksjon og salg av $x$ T-skjorter per uke er gitt ved
 
-$p(x) = -0{,}001x^2 + 0{,}2x + 100$
+$$p(x) = -0{,}001x^2 + 0{,}2x + 100$$
 
 De totale kostnadene $K(x)$ kroner per uke er gitt ved
 
-$K(x) = 0{,}1x^2 + 8000$
+$$K(x) = 0{,}1x^2 + 8000$$
 
 >[!oppgave]
 >a) Bestem den største mulige inntekten bedriften kan få per uke.
@@ -373,7 +373,7 @@ Figuren nedenfor viser utviklingen av oljefondet fra og med 1998 til og med 2024
 
 I resten av oppgaven skal du bruke funksjonen $V$ gitt ved
 
-$V(t) = 330 \cdot 1{,}1787^{t}$
+$$V(t) = 330 \cdot 1{,}1787^{t}$$
 
 som modell for den totale verdien av oljefondet i milliarder kroner $t$ år etter 1998.
 

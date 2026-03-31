@@ -20,9 +20,9 @@ En rettvinklet trekant har sidelengder 8, 6 og 10. Se figuren under.
 
 Vis at 
 
-$
+$$
 (\sin u)^2 + (\cos u)^2 = 1
-$
+$$
 
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="114pt" height="114pt" viewBox="0 0 114 114" version="1.1">
@@ -81,23 +81,23 @@ $
 ### Alternativ 1
 Vi har at $\sin u=\frac{8}{10}$ og $\cos u =\frac{6}{10}$. 
 
-$
+$$
 \sin^2u+\cos^2u=\left( \frac{8}{10} \right)^2+\left( \frac{6}{10} \right)^2=\frac{64}{100} +\frac{36}{100}=\frac{100}{100}=1
-$
+$$
 
 ### Alternativ 2: bruke pytagoras
 Vi har $\sin u=\frac{8}{10} \iff 8=10 \sin u$ og $\cos u=\frac{6}{10} \iff 6=10\cos u$
 
 Vi kan bruke pytagoras på trekanten og sette opp
 
-$
+$$
 \begin{aligned}
 8^2+6^2&=10^2\\
 \left( 10\sin u \right)^2 + \left( 10\cos u \right)^2 &= 10^2 \\
 \cancel{ 10^2 }\sin^2 u+\cancel{ 10^2 } \cos^2u&=\cancel{ 10^2 }\\
 \sin^2 u + \cos^2 u&=1
 \end{aligned}
-$
+$$
 
 **$\underline{\underline{\left( \sin u \right)^2 + \left( \cos u \right)^2 = 1}}$, som skulle vises.**[^1]
 
@@ -118,7 +118,7 @@ $
 
 Funksjonen $f$ er gitt ved
 
-$ f(x)=x^{2}-2 x-8$
+$$ f(x)=x^{2}-2 x-8$$
 
 > [!oppgave]
 > I hvilke punkter skjærer grafen til funksjonen $x$-aksen?
@@ -131,20 +131,20 @@ $x=4 \vee x=-2$
 
 Vi kan faktorisere ved hjelp av heltallsmetoden. Jeg ser at:
 
-$
+$$
 f(x)=x^2-2x-8=(x-4)(x+2)
-$
+$$
 
 Ved å sette funksjonen lik null finner jeg nullpunktene
 
-$
+$$
 \begin{aligned}
 f(x)&=0\\
 (x-4)(x+2)&=0\\
 x-4=0 &\vee x+2=0\\
 x=4 &\vee x=-2
 \end{aligned}
-$
+$$
 
 **Funksjonen krysser $x$-aksen ved $x=4$ og $x=-2$.**
 
@@ -165,7 +165,7 @@ $
 
 Gitt likningen
 
-$x^{3}-5 x^{2}-8 x+12=(x-1)(x+a)(x-b)$
+$$x^{3}-5 x^{2}-8 x+12=(x-1)(x+a)(x-b)$$
 
 > [!oppgave]
 >  Bestem $a$ og $b$ slik at likningen blir en identitet. 
@@ -180,7 +180,7 @@ Hvis likningen skal være en identitet så må uttrykkene på høyre side og ven
 
 Vi ser av faktoriseringen at $(x-1)$ er en faktor i $x^3-5x^2-8x+12$. Det enkleste er nok derfor å dividere begge sider av likningen med $(x-1)$.[^3] Venstre side blir da:
 
-$
+$$
 \begin{aligned}
 (x^3-5x^2-8x+12&):(x-1)= \underline{x^2-4x+12}\\
 \underline{x^3 -1x^2+0x+\,0}&\\
@@ -190,17 +190,17 @@ $
 \underline{12x+12}&\\
 0&
 \end{aligned}
-$
+$$
 
 Jeg utfører divisjonen på begge sider av den opprinnelige likningen og får
 
-$
+$$
 \begin{aligned}
 (x^3-5x^2-8x+12):(x-1)&= \cancel{ (x-1) }(x+a)(x-b):\cancel{ (x-1) }\\
 \underbrace{ x^2-4x+12}_{ \text{heltallsmetoden gir }(x+2)(x-6) }&=(x+a)(x-b)\\
 (x+2)(x-6)&=(x+a)(x-b)
 \end{aligned}
-$
+$$
 
 **Jeg ser at $\underline{\underline{a=2\wedge b=6}}$ for at likningen skal bli en identitet.**
 
@@ -250,19 +250,19 @@ Vi har nå tre krav til $P(x)$:
 
 For å oppfylle det siste kravet må $P$ være på formen $P(x)=3x+b$, der $b$ må være slik at $P(2)=0$.
 
-$
+$$
 \begin{aligned}
 P(2)&=0\\
 3\cdot 2+b&=0\\
 b&=-6
 \end{aligned}
-$
+$$
 
 Et funksjonsuttrykk som passer til grafen er
 
-$
+$$
 \underline{\underline{f(x)=\frac{3x-6}{x-1}, \quad D_{f}=\mathbb{R} \setminus 1}}
-$
+$$
 
 *Kommentar: Jeg tolker oppgaveteksten som at vi skal finne én funksjon $f(x)$ som passer til grafen. Generelt vil alle uttrykk på formen $\frac{3cx-6c}{cx-c}$ der $\left( c\in \mathbb{R} \right)\wedge\left( x\in \mathbb{R}\setminus \left\{ 1 \right\} \right)$ passe til grafen, så det kan godt være at dette generelle uttrykket er et bedre svar på oppgaven.*
 
@@ -330,9 +330,9 @@ De siste årene har Lars bodd på Svalbard fra 1. februar til 1. oktober. Hvert 
 
 Han har funnet at funksjonen $T$ gitt ved
 
-$
+$$
 T(x)=0{,}048 x^{4}-1{,}4 x^{3}+13{,}36 x^{2}-45{,}8 x+35{,}2 \quad, \quad x \in[2,10]
-$
+$$
 
 er en rimelig bra modell for gjennomsnittstemperaturen $T(x)^{\circ} \mathrm{C}$ hvert døgn de månedene han bor på Svalbard, når han lar $x=2$ svare til 1. februar, $x=3$ til 1. mars, $x=4$ til 1 . april og så videre.
 
@@ -358,9 +358,9 @@ Jeg tegnet grafen til funksjonen og fant skjæringspunktene ved $x$-aksen, hvor 
 
 Det er $8,906-5,772=3,134$ måneder mellom skjæringspunktene. Jeg setter at det er 30,5 døgn i hver måned slik at vi får:
 
-$
+$$
 3,134\cdot 30,5=95,6 \approx  \underline{\underline{96}}
-$
+$$
 
 **Temperaturen er over 0 °C i omtrent 96 døgn**
 
@@ -378,13 +378,13 @@ Jeg tegnet $T'$ sammen med $T$ i koordinatsystemet og fant nullpunkter og ekstre
 
 ![Del 2 oppgave 1c. Vekstfarten til temperaturen på Svalbard](/img/user/_resources/1t-v23-2-1c.png)
 
-$
+$$
 \begin{aligned}
 \text{Toppunkt (M)}:& \quad (4,69 , 6,94)\\
 \text{Bunnpunkt (N)}:& \quad (9,90 , -6,62)\\
 \text{Nullpunkter (G og H):}& \quad (2,76 , 0)\text{ og } (7,33 , 0)
 \end{aligned}
-$
+$$
 
 Jeg sammenlignet disse punktene med tilsvarende punkter på grafen til $T$. 
 
@@ -417,9 +417,9 @@ De siste årene har Lars bodd på Svalbard fra 1. februar til 1. oktober. Hvert 
 
 Han har funnet at funksjonen $T$ gitt ved
 
-$
+$$
 T(x)=0{,}048 x^{4}-1{,}4 x^{3}+13{,}36 x^{2}-45{,}8 x+35{,}2 \quad, \quad x \in[2,10]
-$
+$$
 
 er en rimelig bra modell for gjennomsnittstemperaturen $T(x)^{\circ} \mathrm{C}$ hvert døgn de månedene han bor på Svalbard, når han lar $x=2$ svare til 1. februar, $x=3$ til 1. mars, $x=4$ til 1 . april og så videre.
 
@@ -438,13 +438,13 @@ Jeg tegnet $T'$ sammen med $T$ i koordinatsystemet og fant nullpunkter og ekstre
 
 ![Del 2 oppgave 1c. Vekstfarten til temperaturen på Svalbard](/img/user/_resources/1t-v23-2-1c.png)
 
-$
+$$
 \begin{aligned}
 \text{Toppunkt (M)}:& \quad (4,69 , 6,94)\\
 \text{Bunnpunkt (N)}:& \quad (9,90 , -6,62)\\
 \text{Nullpunkter (G og H):}& \quad (2,76 , 0)\text{ og } (7,33 , 0)
 \end{aligned}
-$
+$$
 
 Jeg sammenlignet disse punktene med tilsvarende punkter på grafen til $T$. 
 
@@ -497,9 +497,9 @@ c) En mulighet er $A(x)=x\cdot (80-2x)$
 ### 2-2a
 Med 80 m tau og et område med lengde 60 m så har de 20 m igjen å fordele til de to siste sidene. Matematisk kan vi skrive $\frac{80-60}{2}=10$. Bredden blir altså 10 m.
 
-$
+$$
 A=10\cdot 60=600
-$
+$$
 
 **Arealet av området er 600 m².**
 
@@ -513,9 +513,9 @@ Jeg satte opp en oversikt i Excel, se formlene i formelutklippet. Vi ser at area
 ### 2-2c
 La oss kalle bredden i meter for $x$. Da må lengden i meter være $80-2x$. Vi kan sette opp et funksjonsuttrykk for arealet $A(x)$ der bredden er $x$ meter.
 
-$
+$$
 A(x)=(80-2x)\cdot x
-$
+$$
 
 ![Del 2 oppgave 2c. Areal av teltplass som funksjon av bredden](/img/user/_resources/1t-v23-2-2c.png) \ 
 
@@ -582,7 +582,7 @@ For å finne arealet av $\square ABCD$ brukte jeg arealsetningen på begge treka
 
 Nedenfor ser du grafen til funksjonen $f$ gitt ved 
 
-$f(x)=\frac{1}{9}(x+1)(x-6)^2$
+$$f(x)=\frac{1}{9}(x+1)(x-6)^2$$
 
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
@@ -6776,7 +6776,7 @@ Jeg ser at alle rektanglene har bredde 1. Arealet av hvert rektangel er derfor $
 
 Jeg legger sammen funksjonsverdiene i CAS og finner at det samlede arealet er 
 
-$A=\underline{\underline{\frac{196}{9}}}$
+$$A=\underline{\underline{\frac{196}{9}}}$$
 
 ### 2-4b
 ```python
@@ -6880,9 +6880,9 @@ For å bestemme $AB$ fant jeg først vinkelen $\angle SAB=\angle SBA=30\degree$ 
 
 Siden $\triangle SBC$ er rettvinklet og likebeint må $\angle SBC=45\degree$. Jeg satt derfor opp arealsetningen på $\triangle ABC$ i linje 3 og løste likningen med det oppgitte arealet i linje 4.
 
-$
+$$
 \underline{\underline{r=2\sqrt{ 2 }}}
-$
+$$
 
 
 </div></div>
@@ -6904,7 +6904,7 @@ Trym og Eira arbeider med oppgaven nedenfor.
 >[!oppgave]
 >Funksjonen $f$ er gitt ved
 >
->$f(x)=x^{3}-3 x^{2}+2$
+>$$f(x)=x^{3}-3 x^{2}+2$$
 >
 >Bestem koordinatene til eventuelle topp- og bunnpunkter på grafen til $f$.
 
@@ -6952,13 +6952,13 @@ Jeg tegnet grafen til $f$ i GeoGebra og fant ekstremalpunktene, se $A$ og $B$ i 
 ### 2-6b
 Tredjegradsfunksjoner uten førstegradsledd har den generelle formen
 
-$
+$$
 P(x)=ax^3+bx^2+c
-$
+$$
 
 Den deriverte $P'(x)$ gir oss den momentane vekstfarten for hver $x$-verdi. Når den momentane vekstfarten er lik null så verken vokser eller minker funksjonen $\implies$ vi må da befinne oss i et stasjonært punkt.
 
-$
+$$
 \begin{aligned}
 P'(x)&=3ax^2+2bx\\
 0&=3ax^2+2bx\\
@@ -6967,7 +6967,7 @@ P'(x)&=3ax^2+2bx\\
 3ax=-2b &\vee x=0\\
 x=\frac{-2b}{3a} &\vee x=0\\
 \end{aligned}
-$
+$$
 
 Vi ser at $x=0$ alltid vil gi et stasjonært punkt i $(0, P(0))$ for slike tredjegradsfunksjoner. Stasjonære punkter er ikke bare topp- eller bunnpunkter, det kan også være terrassepunkter slik som grafen til $x^3$ viser.
 

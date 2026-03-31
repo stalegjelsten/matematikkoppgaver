@@ -62,9 +62,9 @@ Du får vite følgende om $\triangle ABC$ og $\triangle DEF$:
 ## Løsningsforslag
 
 Hvis arealet av $\triangle DEF$ skal være 4 ganger så stort så kan for eksempel både grunnlinjen og høyden være dobbelt så lange. Vi kan vise dette matematisk.
-$
+$$
 A_{\triangle ABC}=\frac{g\cdot h}{2} \quad \text{og} \quad A_{\triangle DEF}=\frac{2g \cdot 2h}{2}=4 \cdot \frac{g \cdot h}{2}=4 \cdot A_{\triangle ABC}
-$
+$$
 
 En enkel type likebeint trekant er rettvinklet med to like lange kateter. Da er det enkelt å lage trekantene formlike også. Se skissen under.
 
@@ -119,11 +119,11 @@ Truls og Thea diskuterer økonomi.
 
 I koordinatsystemet nedenfor ser du grafene til tre funksjoner $f$, $g$ og $h$.
 
-$f(x) = x + 1$
+$$f(x) = x + 1$$
 
-$g(x) = x^2 - 4x + 5$
+$$g(x) = x^2 - 4x + 5$$
 
-$h(x) = -x + 5$
+$$h(x) = -x + 5$$
 
 ![Graf med funksjonene f, g og h](/img/user/_resources/2p-v23-1-4.jpeg)
 
@@ -210,21 +210,21 @@ Det skjulte tallet er 2, og gjennomsnittet er nøyaktig 4 – Tores antakelse st
 
 Tore spurte 12 kolleger. De synlige verdiene fra arket er:
 
-$
+$$
 4, \; 5, \; 0, \; 4, \; 2, \; 6, \; ?, \; 5, \; 7, \; 5, \; 5, \; 3
-$
+$$
 
 Summen av de 11 kjente verdiene er
 
-$
+$$
 4+5+0+4+2+6+5+7+5+5+3 = 46
-$
+$$
 
 For at gjennomsnittet skal være **nøyaktig 4** med 12 verdier, må totalsummen være $4 \cdot 12 = 48$. Det skjulte tallet er altså
 
-$
+$$
 48 - 46 = 2
-$
+$$
 
 Med det skjulte tallet lik 2 blir gjennomsnittet $\frac{48}{12} = 4$ – **nøyaktig 4, ikke mer enn 4**.
 
@@ -267,21 +267,21 @@ La prisen for begge varer i mai være $P$.
 
 **Vare A i august** (tre måneder etter mai):
 
-$
+$$
 P \cdot 1{,}07^3 = P \cdot 1{,}225
-$
+$$
 
 **Vare B i februar** (tre måneder før mai): vi går tre måneder bakover fra mai. Siden B synker med 7 % per måned, betyr å gå bakover i tid at vi deler på $0{,}93$ per måned:
 
-$
+$$
 \frac{P}{0{,}93^3} = P \cdot \frac{1}{0{,}8044} \approx P \cdot 1{,}243
-$
+$$
 
 Vi sammenligner:
 
-$
+$$
 1{,}07^3 \approx 1{,}225 \qquad \text{og} \qquad \frac{1}{0{,}93^3} \approx 1{,}243
-$
+$$
 
 Disse er ikke like: $1{,}225 \neq 1{,}243$.
 
@@ -401,9 +401,9 @@ Vi regner med at alle i hvert intervall tjener midtpunktet i intervallet (midtpu
 | $\langle 1000 - 2000 \rangle$| 1 500    | 15       | 22 500               |
 | **Totalt**                  |           | **146**  | **83 975**           |
 
-$
+$$
 \bar{x} = \frac{83\,975}{146} \approx 575 \text{ (tusen kr)}
-$
+$$
 
 **Gjennomsnittslønnen er omtrent $\underline{\underline{575\,000 \, \mathrm{kr}}}$.**
 
@@ -415,9 +415,9 @@ Medianen er den midterste verdien. Med 146 ansatte er medianen mellom den 73. og
 
 Vi interpolerer i intervallet $\langle 450, 500 \rangle$:
 
-$
+$$
 450 + \frac{73{,}5 - 50}{40} \cdot 50 = 450 + \frac{23{,}5}{40} \cdot 50 \approx 450 + 29 = 479 \text{ (tusen kr)}
-$
+$$
 
 **Medianlønnen er omtrent $\underline{\underline{479\,000 \, \mathrm{kr}}}$.**
 

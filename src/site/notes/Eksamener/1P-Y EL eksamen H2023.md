@@ -52,9 +52,9 @@ c) Fredrik tar feil – karbonadedeig er ca. 33,3 % dyrere per pakke, ikke 25 %
 
 Karbonadedeig koster 80 kr for 400 g. Vi finner prisen for de ulike mengdene:
 
-$
+$$
 \frac{80 \, \mathrm{kr}}{400 \, \mathrm{g}} = 0{,}20 \, \mathrm{kr/g}
-$
+$$
 
 | Karbonadedeig |     |     |     |      |
 |---------------|-----|-----|-----|------|
@@ -76,9 +76,9 @@ Siden $200 = 2 \cdot 100$, er karbonadedeig nøyaktig dobbelt så dyrt per kilog
 
 Vi finner hvor mange prosent dyrere karbonadedeig er enn kyllingkjøttdeig per pakke:
 
-$
+$$
 \frac{80 - 60}{60} \cdot 100 \, \% = \frac{20}{60} \cdot 100 \, \% \approx 33{,}3 \, \%
-$
+$$
 
 En pakke karbonadedeig koster omtrent 33,3 % mer enn en pakke kyllingkjøttdeig.
 
@@ -110,7 +110,7 @@ Da Ole ble ett år, var han 75 cm høy.
 
 Formelen under brukes til å beregne hvor høy en gutt kan forvente å bli som voksen.
 
-$\text{forventet høyde} = \frac{(\text{mors høyde} + 13 \text{ cm}) + \text{fars høyde}}{2}$
+$$\text{forventet høyde} = \frac{(\text{mors høyde} + 13 \text{ cm}) + \text{fars høyde}}{2}$$
 
 Moren til Ole er 167 cm høy, og faren er 180 cm høy.
 
@@ -143,15 +143,15 @@ Fra diagrammet leser vi av Ole sin vekst per år:
 
 Total vekst fra 1 til 5 år:
 
-$
+$$
 12 + 7 + 7 + 6 = 32 \, \mathrm{cm}
-$
+$$
 
 Høyde ved 5 år:
 
-$
+$$
 75 + 32 = 107 \, \mathrm{cm}
-$
+$$
 
 **Ole var $\underline{\underline{107 \, \mathrm{cm}}}$ høy da han ble 5 år.**
 
@@ -159,9 +159,9 @@ $
 
 Vi bruker formelen med mors høyde 167 cm og fars høyde 180 cm:
 
-$
+$$
 \text{forventet høyde} = \frac{(167 + 13) + 180}{2} = \frac{180 + 180}{2} = \frac{360}{2} = 180 \, \mathrm{cm}
-$
+$$
 
 **Ole kan forvente å bli $\underline{\underline{180 \, \mathrm{cm}}}$ høy som voksen.**
 
@@ -169,9 +169,9 @@ $
 
 William sier at mor og far er like høye. Vi kaller denne høyden $h$. Da gir formelen:
 
-$
+$$
 \text{forventet høyde} = \frac{(h + 13) + h}{2} = \frac{2h + 13}{2} = h + 6{,}5
-$
+$$
 
 William kan altså forvente å bli $6{,}5 \, \mathrm{cm}$ høyere enn foreldrene.
 
@@ -218,9 +218,9 @@ b) 2,1 L
 
 Vi gjør om til samme enhet. $1{,}5 \, \mathrm{L} = 15 \, \mathrm{dL}$. Deretter deler vi:
 
-$
+$$
 \frac{15 \, \mathrm{dL}}{2{,}5 \, \mathrm{dL}} = 6
-$
+$$
 
 **Kari kan fylle $\underline{\underline{6 \, \mathrm{glass}}}$.**
 
@@ -228,9 +228,9 @@ $
 
 Vi bruker formelen fra nettsiden:
 
-$
+$$
 30 \, \mathrm{mL/kg} \cdot 70 \, \mathrm{kg} = 2100 \, \mathrm{mL} = 2{,}1 \, \mathrm{L}
-$
+$$
 
 **Tobias bør drikke $\underline{\underline{2{,}1 \, \mathrm{L}}}$ vann per døgn ifølge nettsiden.**
 
@@ -319,7 +319,7 @@ Figuren under viser en rettvinklet trekant hvor $\sin u = 0{,}5$ og den minste k
 
 Totalresistansen $R_T$ i en parallellkobling med to motstander $R_1$ og $R_2$ er gitt ved denne formelen:
 
-$R_T = \frac{R_1 \cdot R_2}{R_1 + R_2}$
+$$R_T = \frac{R_1 \cdot R_2}{R_1 + R_2}$$
 
 >[!oppgave]
 >c) Bruk den oppgitte formelen og regn ut $R_T$ når $R_1 = 16 \, \Omega$ og $R_2 = 4 \, \Omega$.
@@ -336,9 +336,9 @@ c) $R_T = 3{,}2 \, \Omega$
 
 Fra kakediagrammet ser vi at vannkraft utgjør 40 % av totalproduksjonen:
 
-$
+$$
 0{,}40 \cdot 20 \, \mathrm{MW} = 8 \, \mathrm{MW}
-$
+$$
 
 **$\underline{\underline{8 \, \mathrm{MW}}}$ kom fra vannkraft.**
 
@@ -348,9 +348,9 @@ Sinus er definert som $\sin u = \dfrac{\text{motstående katet}}{\text{hypotenus
 
 Vi løser for $AC$:
 
-$
+$$
 AC = \frac{BC}{\sin u} = \frac{7{,}5 \, \mathrm{cm}}{0{,}5} = 15 \, \mathrm{cm}
-$
+$$
 
 **Hypotenusen er $\underline{\underline{AC = 15 \, \mathrm{cm}}}$.**
 
@@ -358,9 +358,9 @@ $
 
 Vi setter inn $R_1 = 16 \, \Omega$ og $R_2 = 4 \, \Omega$ i formelen:
 
-$
+$$
 R_T = \frac{R_1 \cdot R_2}{R_1 + R_2} = \frac{16 \cdot 4}{16 + 4} = \frac{64}{20} = 3{,}2 \, \Omega
-$
+$$
 
 **Totalresistansen er $\underline{\underline{R_T = 3{,}2 \, \Omega}}$.**
 
@@ -385,7 +385,7 @@ $
 
 En inverter omformer 12 V likestrøm, for eksempel fra et bilbatteri, til 230 V vekselstrøm. I denne oppgaven kan du få behov for formelen
 
-$P = U \cdot I$
+$$P = U \cdot I$$
 
 - $P$ er effekt i watt.
 - $U$ er spenning i volt.
@@ -414,9 +414,9 @@ b) Batteriet må oppgraderes – det trengs 58,8 A, men batteriet leverer maks 5
 
 Vi bruker formelen $P = U \cdot I$ og løser for $I$:
 
-$
+$$
 I = \frac{P}{U} = \frac{300 \, \mathrm{W}}{12 \, \mathrm{V}} = 25 \, \mathrm{A}
-$
+$$
 
 **Det går $\underline{\underline{25 \, \mathrm{A}}}$ fra $12 \, \mathrm{V}$-batteriet.**
 
@@ -424,15 +424,15 @@ $
 
 Vi trenger 600 W ut fra inverteren. Med virkningsgrad på 85 % må batteriet levere mer inn enn det vi får ut:
 
-$
+$$
 P_{\text{inn}} = \frac{600 \, \mathrm{W}}{0{,}85} \approx 705{,}9 \, \mathrm{W}
-$
+$$
 
 Strømstyrken som trengs fra batteriet:
 
-$
+$$
 I = \frac{P_{\text{inn}}}{U} = \frac{705{,}9 \, \mathrm{W}}{12 \, \mathrm{V}} \approx 58{,}8 \, \mathrm{A}
-$
+$$
 
 Batteriet leverer maksimalt $55 \, \mathrm{A}$, men vi trenger $58{,}8 \, \mathrm{A}$.
 
@@ -492,15 +492,15 @@ c) Large (16 GB) til 299 kr/måned
 
 Vi gjør om 152 GB til MB (1 GB = 1000 MB):
 
-$
+$$
 152 \, \mathrm{GB} = 152 \cdot 1000 \, \mathrm{MB} = 152\,000 \, \mathrm{MB}
-$
+$$
 
 Antall bilder:
 
-$
+$$
 \frac{152\,000 \, \mathrm{MB}}{7{,}5 \, \mathrm{MB}} \approx 20\,267
-$
+$$
 
 **Petter får plass til maksimalt $\underline{\underline{20\,267 \, \text{bilder}}}$ til.**
 
@@ -508,15 +508,15 @@ $
 
 100 bilder opptar $100 \cdot 7{,}5 = 750 \, \mathrm{MB}$ lagringsplass. Vi gjør om til megabit (1 MB = 8 Mbit):
 
-$
+$$
 750 \, \mathrm{MB} = 750 \cdot 8 = 6000 \, \mathrm{Mbit}
-$
+$$
 
 Under 2 minutter betyr under 120 sekunder. Nødvendig overføringshastighet:
 
-$
+$$
 \frac{6000 \, \mathrm{Mbit}}{120 \, \mathrm{s}} = 50 \, \mathrm{Mbit/s}
-$
+$$
 
 **Petter trenger en internettilkobling på minst $\underline{\underline{50 \, \mathrm{Mbit/s}}}$.**
 
@@ -526,27 +526,27 @@ Vi finner Petters dataforbruk per dag:
 
 **Sosiale medier og surfing:**
 
-$
+$$
 300 \, \mathrm{MB/dag}
-$
+$$
 
 **Musikk:** 120 kbit/s i 3 timer = 3 timer = $3 \cdot 3600 = 10\,800$ sekunder:
 
-$
+$$
 120 \, \mathrm{kbit/s} \cdot 10\,800 \, \mathrm{s} = 1\,296\,000 \, \mathrm{kbit} = \frac{1\,296\,000}{8 \cdot 1000} \, \mathrm{MB} = 162 \, \mathrm{MB/dag}
-$
+$$
 
 **Totalt per dag:**
 
-$
+$$
 300 + 162 = 462 \, \mathrm{MB/dag}
-$
+$$
 
 **Totalt per måned (30 dager):**
 
-$
+$$
 462 \cdot 30 = 13\,860 \, \mathrm{MB} = 13{,}86 \, \mathrm{GB}
-$
+$$
 
 Petter bruker ca. 13,9 GB per måned, så Medium (8 GB) er ikke nok. Large (16 GB) til 299 kr er det billigste abonnementet som dekker behovet.
 
@@ -574,9 +574,9 @@ En transformator har en kapasitet på 10 kVA. Primærspenningen på transformato
 
 I en transformator er sammenhengen mellom spenninger og antall vindinger slik:
 
-$
+$$
 \frac{\text{spenning primærside}}{\text{spenning sekunderside}}= \frac{\text{antall primærvindinger}}{\text{antall sekundærvindinger}}
-$
+$$
 
 >[!oppgave]
 > a) Hvor mange vindinger har sekundærspolen?
@@ -663,15 +663,15 @@ c) Pytagoras eller trigonometri med for eksempel tangens. 4153 VAr.
 
 Vi bruker forholdet mellom spenning og antall vindinger:
 
-$
+$$
 \frac{400}{230} = \frac{10\,000}{n_2}
-$
+$$
 
 Vi løser for $n_2$:
 
-$
+$$
 n_2 = \frac{10\,000 \cdot 230}{400} = \frac{2\,300\,000}{400} = 5750
-$
+$$
 
 **Sekundærspolen har $\underline{\underline{5750 \, \text{vindinger}}}$.**
 
@@ -681,23 +681,23 @@ Effekttrekanten har $P = 5000 \, \mathrm{W}$ og $S = 6500 \, \mathrm{VA}$.
 
 Vinkelen $\phi$ mellom $S$ og $P$ finnes ved:
 
-$
+$$
 \cos \phi = \frac{P}{S} = \frac{5000}{6500} \approx 0{,}769
-$
+$$
 
-$
+$$
 \phi = \arccos(0{,}769) \approx 39{,}7°
-$
+$$
 
 Effekttrekanten ser slik ut (med $Q$ beregnet i neste deloppgave):
 
-$
+$$
 \begin{aligned}
 S &= 6500 \, \mathrm{VA} \\
 P &= 5000 \, \mathrm{W} \\
 \phi &\approx 39{,}7°
 \end{aligned}
-$
+$$
 
 **Vinkelen mellom tilsynelatende og aktiv effekt er $\underline{\underline{\phi \approx 39{,}7°}}$.**
 
@@ -707,15 +707,15 @@ Den reaktive effekten $Q$ kan beregnes med to metoder:
 
 **Metode 1 – Pytagoras:**
 
-$
+$$
 Q = \sqrt{S^2 - P^2} = \sqrt{6500^2 - 5000^2} = \sqrt{42\,250\,000 - 25\,000\,000} = \sqrt{17\,250\,000} \approx 4153 \, \mathrm{VAr}
-$
+$$
 
 **Metode 2 – Tangens:**
 
-$
+$$
 Q = P \cdot \tan \phi = 5000 \cdot \tan(39{,}7°) \approx 5000 \cdot 0{,}831 \approx 4153 \, \mathrm{VAr}
-$
+$$
 
 **Den reaktive effekten er $\underline{\underline{Q \approx 4153 \, \mathrm{VAr}}}$.**
 
@@ -736,7 +736,7 @@ $
 
 Sammenhengen mellom strekning $s$ kilometer (km), gjennomsnittsfart $v$ kilometer per time (km/h) og tid $t$ timer (h) er gitt ved formelen
 
-$s = v \cdot t$
+$$s = v \cdot t$$
 
 Camilla kjører moped til skolen. En dag kjører hun med en gjennomsnittsfart på $40 \mathrm{~km/h}$ og bruker 15 minutter.
 
@@ -770,9 +770,9 @@ c) 2 minutter lenger
 
 Vi setter inn i formelen $s = v \cdot t$. Merk at 15 minutter = $\dfrac{15}{60} = 0{,}25 \, \mathrm{h}$:
 
-$
+$$
 s = 40 \, \mathrm{km/h} \cdot 0{,}25 \, \mathrm{h} = 10 \, \mathrm{km}
-$
+$$
 
 **Strekningen Camilla kjører til skolen er $\underline{\underline{10 \, \mathrm{km}}}$.** Dette virker rimelig – 10 km er en typisk avstand mellom et sted med moped på 15 minutter.
 
@@ -785,9 +785,9 @@ Vi finner distansen og tidsbruken:
 
 Gjennomsnittsfarten:
 
-$
+$$
 v = \frac{s}{t} = \frac{42 \, \mathrm{km}}{\dfrac{38}{60} \, \mathrm{h}} = \frac{42 \cdot 60}{38} \approx 66{,}3 \, \mathrm{km/h}
-$
+$$
 
 **Gjennomsnittsfarten var $\underline{\underline{\approx 66{,}3 \, \mathrm{km/h}}}$.**
 
@@ -795,13 +795,13 @@ $
 
 Vi beregner tidsbruken ved begge fartsgrenser for en strekning på 8 km:
 
-$
+$$
 t_{80} = \frac{8 \, \mathrm{km}}{80 \, \mathrm{km/h}} = 0{,}1 \, \mathrm{h} = 6 \, \mathrm{min}
-$
+$$
 
-$
+$$
 t_{60} = \frac{8 \, \mathrm{km}}{60 \, \mathrm{km/h}} = \frac{8}{60} \, \mathrm{h} = 8 \, \mathrm{min}
-$
+$$
 
 Kasper bruker 2 minutter lenger ved 60 km/h.
 
@@ -862,9 +862,9 @@ Vi går gjennom Saras spørsmål ett for ett.
 
 Sara har 50 000 kr. Mopedbilen koster 162 000 kr:
 
-$
+$$
 162\,000 - 50\,000 = 112\,000 \, \mathrm{kr}
-$
+$$
 
 Sara må låne 112 000 kr av onkelen.
 
@@ -888,9 +888,9 @@ Sara må låne 112 000 kr av onkelen.
 
 **Hvor mye har Sara igjen til andre ting?**
 
-$
+$$
 4\,275 - 3\,916 = 359 \, \mathrm{kr/mnd}
-$
+$$
 
 Det er lite å leve på. Sara har bare 359 kr igjen per måned til alt annet.
 
@@ -898,12 +898,12 @@ Det er lite å leve på. Sara har bare 359 kr igjen per måned til alt annet.
 
 Onkelen sier at verdien går ned med 20 % det første året, og 14 % det andre:
 
-$
+$$
 \begin{aligned}
 \text{Etter år 1} &= 162\,000 \cdot 0{,}80 = 129\,600 \, \mathrm{kr} \\
 \text{Etter år 2} &= 129\,600 \cdot 0{,}86 = 111\,456 \, \mathrm{kr}
 \end{aligned}
-$
+$$
 
 Sara kan forvente å selge bilen for ca. 111 500 kr.
 
@@ -911,15 +911,15 @@ Sara kan forvente å selge bilen for ca. 111 500 kr.
 
 Sara betaler totalt til onkelen:
 
-$
+$$
 2\,200 \cdot 24 + 60\,000 = 52\,800 + 60\,000 = 112\,800 \, \mathrm{kr}
-$
+$$
 
 Onkelen lånte ut 112 000 kr og får tilbake 112 800 kr:
 
-$
+$$
 112\,800 - 112\,000 = 800 \, \mathrm{kr}
-$
+$$
 
 **Onkelen tjener $\underline{\underline{800 \, \mathrm{kr}}}$ på å låne Sara penger.** Det er et svært beskjedent beløp for et to-årig lån på 112 000 kr, noe som viser at onkelens avtale er gunstig for Sara.
 

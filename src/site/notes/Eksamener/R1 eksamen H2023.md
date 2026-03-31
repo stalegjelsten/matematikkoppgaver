@@ -17,9 +17,9 @@
 
 Deriver funksjonen
 
-$
+$$
 f(x)=x^{2} \cdot \ln(x)
-$
+$$
 
 ## Fasit
 
@@ -42,9 +42,9 @@ $f'(x)=x(2\ln (x)+1)$
 
 Skriv uttrykkene nedenfor i stigende rekkefølge.
 
-$
+$$
 2 \ln e^{3}\quad, \quad 3 \lg 70 \quad,\quad e^{3 \ln 2}
-$
+$$
 
 Husk å begrunne svaret.
 
@@ -96,9 +96,9 @@ b) Nei, ingen av vinklene er $90\degree$.
 
 Funksjonen $f$ er gitt ved
 
-$
+$$
 f(x)=2x^{2}-9x-2
-$
+$$
 
 Egil ønsker å lage et program som regner ut koordinatene til bunnpunktet på grafen til $f$. Han har skrevet koden nedenfor.
 

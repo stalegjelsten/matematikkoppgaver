@@ -18,7 +18,7 @@
 >[!oppgave]
 >Løs ulikheten
 >
->$x^2 + 4x - 5 < 0$
+>$$x^2 + 4x - 5 < 0$$
 
 ## Fasit
 
@@ -40,7 +40,7 @@
 >[!oppgave]
 >Bestem nullpunktene til funksjonen gitt ved $f$
 >
->$f(x) = x^3 - 5x^2 - 8x + 12$
+>$$f(x) = x^3 - 5x^2 - 8x + 12$$
 
 ## Fasit
 
@@ -61,7 +61,7 @@
 
 En rasjonal funksjon $f$ er gitt ved
 
-$f(x) = \frac{2x+6}{x^2+4}$
+$$f(x) = \frac{2x+6}{x^2+4}$$
 
 >[!oppgave]
 >Hvilke av påstandene nedenfor er riktige? Husk å begrunne svarene dine.
@@ -98,12 +98,12 @@ For fem år siden vant Oskar i Lotto. Han satte pengene i banken og har fått $4
 
 ::: {.grid cols=3}
 
-1) $250\,000 \cdot 0{,}955^5$
-2) $\dfrac{250\,000}{1{,}045^5}$
-3) $250\,000 \cdot 1{,}045^5$
-4) $250\,000 \cdot 0{,}955^{-5}$
-5) $\dfrac{250\,000}{0{,}955^5}$
-6) $250\,000 \cdot 1{,}045^{-5}$
+1) $$250\,000 \cdot 0{,}955^5$$
+2) $$\dfrac{250\,000}{1{,}045^5}$$
+3) $$250\,000 \cdot 1{,}045^5$$
+4) $$250\,000 \cdot 0{,}955^{-5}$$
+5) $$\dfrac{250\,000}{0{,}955^5}$$
+6) $$250\,000 \cdot 1{,}045^{-5}$$
 
 :::
 
@@ -220,7 +220,7 @@ Tabellen nedenfor viser sammenhengen mellom lengde og vekt for en type fisk.
 
 Sammenhengen kan beskrives med en modell gitt på formen
 
-$F(x) = a \cdot x^b$
+$$F(x) = a \cdot x^b$$
 
 der $F(x)$ gram er vekten til en fisk som er $x$ centimeter lang.
 
@@ -330,7 +330,7 @@ Tenk deg at Maria fortsetter å dele opp trekanten og fargelegge etter samme mø
 
 Funksjonen $f$ er gitt ved
 
-$f(x) = \frac{10}{x^2 + 3}, \quad x > 0$
+$$f(x) = \frac{10}{x^2 + 3}, \quad x > 0$$
 
 Punktene $A$, $B$, $C$ og $D$ danner et rektangel. Punktet $A$ ligger i origo, punktet $B$ ligger på $x$-aksen, punktet $C$ ligger på grafen til $f$, og punktet $D$ ligger på $y$-aksen. Se figuren nedenfor.
 
@@ -362,7 +362,7 @@ Punktene $A$, $B$, $C$ og $D$ danner et rektangel. Punktet $A$ ligger i origo, p
 
 En arkitekt har tegnet et snitt av en lagerhall. Lagerhallen er 20 meter høy og har form som en parabel gitt ved
 
-$p(x) = -\frac{1}{12}x^2 + 20$
+$$p(x) = -\frac{1}{12}x^2 + 20$$
 
 På taket av lagerhallen skal det plasseres et webkamera. Webkameraet skal festes på en stang som er 3 meter lang.
 

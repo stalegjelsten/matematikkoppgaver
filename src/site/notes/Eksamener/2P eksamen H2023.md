@@ -46,9 +46,9 @@ Hvis Selma kjører 16 reiser så vil hun altså betale mindre ved å kjøpe enke
 Prisen for 20 enkeltreiser er $25 \cdot 20=500$.
 
 Hun sparer altså $500-415=85 \mathrm{~kr}$. Det tilsvarer
-$
+$$
 \frac{85}{500}=\frac{85:5}{500:5}= \frac{17}{100}=17 \,\%
-$
+$$
 **Hun sparer 17 % på å kjøpe fleksikort hvis hun bruker 20 reiser.**
 
 
@@ -110,7 +110,7 @@ Vi trenger en tallrekke med 10 tall der:
 
 **Alternativ 1** (bruker 8 km minst én gang):
 
-$5, \; 5, \; 5, \; 7, \; \textcolor{seagreen}{8}, \; \textcolor{seagreen}{8}, \; 10, \; 12, \; 15, \; 15$
+$$5, \; 5, \; 5, \; 7, \; \textcolor{seagreen}{8}, \; \textcolor{seagreen}{8}, \; 10, \; 12, \; 15, \; 15$$
 
 - Typetall: 5 forekommer 3 ganger ✓
 - Median: $\dfrac{8+8}{2} = 8$ ✓
@@ -118,7 +118,7 @@ $5, \; 5, \; 5, \; 7, \; \textcolor{seagreen}{8}, \; \textcolor{seagreen}{8}, \;
 
 **Alternativ 2** (bruker ikke 8 km, minst halvparten nye tall):
 
-$3, \; 5, \; 5, \; 5, \; \textcolor{steelblue}{6}, \; \textcolor{steelblue}{10}, \; 11, \; 14, \; 15, \; 16$
+$$3, \; 5, \; 5, \; 5, \; \textcolor{steelblue}{6}, \; \textcolor{steelblue}{10}, \; 11, \; 14, \; 15, \; 16$$
 
 - Typetall: 5 forekommer 3 ganger ✓
 - Median: $\dfrac{6+10}{2} = 8$ ✓
@@ -141,13 +141,13 @@ $3, \; 5, \; 5, \; 5, \; \textcolor{steelblue}{6}, \; \textcolor{steelblue}{10},
 
 # Nullpunkter og andregradslikninger
 
-$
+$$
 (x+4)(x-1)=0
-$
+$$
 
-$
+$$
 (x+2)(x-3) = -6
-$
+$$
 
 Selma og Tobine arbeider med likningene ovenfor.
 
@@ -289,7 +289,7 @@ Datamaterialet sortert: $11, 11, 12, 12, 13, \mathbf{14}, 15, 15, 15, 16, 25$
 
 Vi beregner i GeoGebra med listen $\{11, 11, 12, 12, 13, 14, 15, 15, 15, 16, 25\}$.
 
-$\text{Gjennomsnitt} = \frac{11+11+12+12+13+14+15+15+15+16+25}{11} = \frac{159}{11} \approx \underline{\underline{14{,}5}}$
+$$\text{Gjennomsnitt} = \frac{11+11+12+12+13+14+15+15+15+16+25}{11} = \frac{159}{11} \approx \underline{\underline{14{,}5}}$$
 
 Standardavvik (beregnet med GeoGebra): $\underline{\underline{\sigma \approx 3{,}7}}$
 

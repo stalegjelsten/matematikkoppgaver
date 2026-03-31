@@ -30,9 +30,9 @@ $40 \, \mathrm{kr}$
 
 En økning på 30 % betyr at 30 % av den opprinnelige prisen er lik 12 kroner.
 
-$0{,}30 \cdot x = 12$
+$$0{,}30 \cdot x = 12$$
 
-$x = \frac{12}{0{,}30} = 40$
+$$x = \frac{12}{0{,}30} = 40$$
 
 **Varen kostet $\underline{\underline{40 \, \mathrm{kr}}}$ før prisøkningen.**
 
@@ -54,7 +54,7 @@ $x = \frac{12}{0{,}30} = 40$
 
 Lars arbeider i en butikk etter skoletid og i helgene. Nedenfor ser du hvor mange timer han har arbeidet hver av de 10 siste dagene:  
 
-$3\quad 3\quad 4\quad 5\quad 6\quad 8\quad 0\quad 3\quad 5\quad 5$
+$$3\quad 3\quad 4\quad 5\quad 6\quad 8\quad 0\quad 3\quad 5\quad 5$$
 
 >[!oppgave]
 > a) Bestem gjennomsnittet og medianen.  
@@ -71,13 +71,13 @@ b) 8
 
 Data sortert i stigende rekkefølge:
 
-$0 \quad 3 \quad 3 \quad 3 \quad \underbrace{ \textcolor{steelblue}{4} \quad \textcolor{steelblue}{5} }_{ \text{Median} } \quad 5 \quad 5 \quad 6 \quad 8$
+$$0 \quad 3 \quad 3 \quad 3 \quad \underbrace{ \textcolor{steelblue}{4} \quad \textcolor{steelblue}{5} }_{ \text{Median} } \quad 5 \quad 5 \quad 6 \quad 8$$
 
 
-$\text{Gjennomsnitt} = \frac{0 + 3 + 3 + 3 + 4 + 5 + 5 + 5 + 6 + 8}{10} = \frac{42}{10} = 4{,}2$
+$$\text{Gjennomsnitt} = \frac{0 + 3 + 3 + 3 + 4 + 5 + 5 + 5 + 6 + 8}{10} = \frac{42}{10} = 4{,}2$$
 
 
-$\text{median} = \frac{4 + 5}{2} = 4{,}5$
+$$\text{median} = \frac{4 + 5}{2} = 4{,}5$$
 
 **Gjennomsnittet er 4,2 timer og medianen er 4,5 timer.**
 
@@ -176,11 +176,11 @@ Mønsteret øker med $4$ sirkler for hvert figurnummer.
 
 **Figur 4:**
 
-$12 + 3 \cdot 4 = 24$
+$$12 + 3 \cdot 4 = 24$$
 
 **Figur 10:**
 
-$12 + 9 \cdot 4 = 48$
+$$12 + 9 \cdot 4 = 48$$
 
 **Figur 4 har $\underline{\underline{24}}$ sirkler og figur 10 har $\underline{\underline{48}}$ sirkler.**
 
@@ -275,7 +275,7 @@ Dette tilsvarer utslippet i 2025, 2026, 2027, 2028 og 2029.
 
 En bedrift produserer iste. Funksjonen gitt ved  
 
-$F(x) = 620 \cdot 1{,}045^x$
+$$F(x) = 620 \cdot 1{,}045^x$$
 
 er en modell som viser hvor mange flasker av isteen bedriften regner med å selge hver måned fra og med desember 2024.  
 
@@ -302,13 +302,13 @@ b) $\approx 188 \,\%$ økning
 
 Desember 2025 er 12 måneder etter desember 2024, så vi setter $x = 12$:
 
-$F(12) = 620 \cdot 1{,}045^{12} \approx 1051 \text{ flasker}$
+$$F(12) = 620 \cdot 1{,}045^{12} \approx 1051 \text{ flasker}$$
 
 For å finne når salget overstiger 2000 flasker løser vi $F(x) > 2000$:
 
-$620 \cdot 1{,}045^x = 2000 \implies 1{,}045^x = \frac{2000}{620} \approx 3{,}226$
+$$620 \cdot 1{,}045^x = 2000 \implies 1{,}045^x = \frac{2000}{620} \approx 3{,}226$$
 
-$x = \frac{\lg 3{,}226}{\lg 1{,}045} \approx 26{,}6$
+$$x = \frac{\lg 3{,}226}{\lg 1{,}045} \approx 26{,}6$$
 
 Det vil si at fra og med $x = 27$ (mars 2027) vil salget overstige 2000 flasker.
 
@@ -328,9 +328,9 @@ Fra grafen leser vi av:
 
 Fra desember 2024 ($x = 0$) til desember 2026 ($x = 24$):
 
-$F(0) = 620 \qquad F(24) = 620 \cdot 1{,}045^{24} \approx 1783$
+$$F(0) = 620 \qquad F(24) = 620 \cdot 1{,}045^{24} \approx 1783$$
 
-$\text{Prosentvis økning} = \frac{F(24) - F(0)}{F(0)} \cdot 100 = \frac{1783 - 620}{620} \cdot 100 \approx 187{,}6 \,\%$
+$$\text{Prosentvis økning} = \frac{F(24) - F(0)}{F(0)} \cdot 100 = \frac{1783 - 620}{620} \cdot 100 \approx 187{,}6 \,\%$$
 
 Vi kan også bruke at vekstfaktoren over 24 måneder er $1{,}045^{24} \approx 2{,}876$, dvs. $188 \,\%$ økning.
 
@@ -380,7 +380,7 @@ Kjøkkensvampen har volum $150 \, \mathrm{cm^3}$, og det er mellom $25$ og $54$ 
 
 Vi bruker midtverdien som overslag: omtrent $40$ milliarder $= 4 \times 10^{10}$ bakterier per cm³.
 
-$4 \times 10^{10} \cdot 150 = 6 \times 10^{12}$
+$$4 \times 10^{10} \cdot 150 = 6 \times 10^{12}$$
 
 **Det er omtrent $\underline{\underline{6 \times 10^{12}}}$ bakterier i kjøkkensvampen.**
 
@@ -390,7 +390,7 @@ De fleste bakterier er mellom $0{,}2$ og $2$ mikrometer, omtrent $1 \, \mathrm{\
 
 Med $6 \times 10^{12}$ bakterier, hver på omtrent $1 \, \mathrm{\mu m}$:
 
-$6 \times 10^{12} \cdot 10^{-6} \, \mathrm{m} = 6 \times 10^{6} \, \mathrm{m}$
+$$6 \times 10^{12} \cdot 10^{-6} \, \mathrm{m} = 6 \times 10^{6} \, \mathrm{m}$$
 
 **Rekken ville bli omtrent $\underline{\underline{6 \times 10^{6} \, \mathrm{m}}}$ lang – det tilsvarer $6\,000 \, \mathrm{km}$!**
 
@@ -429,7 +429,7 @@ $a \,\%$ av $b$ $=$ $\frac{a \cdot b}{100}$ $=$ $b \,\%$ av $a$ (multiplikasjon 
 
 Siden multiplikasjon er kommutativ ($a \cdot b = b \cdot a$), gir de to regnestykket alltid det samme svaret:
 
-$\frac{a \cdot b}{100} = \frac{b \cdot a}{100}$
+$$\frac{a \cdot b}{100} = \frac{b \cdot a}{100}$$
 
 **Vi kan bytte om tallene i prosentoppgaver: $a \,\%$ av $b$ gir alltid samme svar som $b \,\%$ av $a$, fordi vi i begge tilfeller deler produktet $a \cdot b$ på $100$. Multiplikasjon er kommutativ.**
 
@@ -474,11 +474,11 @@ b) Minst $100$ dager (og maks $249$ dager)
 
 La $x$ = antall dager Hermann parkerer i løpet av et år.
 
-$\textcolor{tomato}{A(x) = 50x}$
+$$\textcolor{tomato}{A(x) = 50x}$$
 
-$\textcolor{steelblue}{B(x) = 1995 + 30x}$
+$$\textcolor{steelblue}{B(x) = 1995 + 30x}$$
 
-$\textcolor{seagreen}{C(x) = 3490 + 24x}$
+$$\textcolor{seagreen}{C(x) = 3490 + 24x}$$
 
 ### 2-4b
 
@@ -513,7 +513,7 @@ En fotoklubb arrangerer quiz hver torsdag. Det er tre lag som alltid deltar på 
 
 Nedenfor ser du alderen til de seks personene på lag A:  
 
-$15\text{~år}\quad 60\text{~år}\quad 24\text{~år}\quad 18\text{~år}\quad 45\text{~år}\quad 78\text{~år}$  
+$$15\text{~år}\quad 60\text{~år}\quad 24\text{~år}\quad 18\text{~år}\quad 45\text{~år}\quad 78\text{~år}$$  
 
 >[!oppgave]
 > a) Bestem medianalderen, gjennomsnittsalderen og standardavviket for alderen til de seks personene på laget.  
@@ -546,15 +546,15 @@ Lag A sortert: $15, 18, 24, 45, 60, 78$
 
 Seks personer → gjennomsnittet av den 3. og 4. verdien:
 
-$\text{median} = \frac{24 + 45}{2} = 34{,}5 \, \text{år}$
+$$\text{median} = \frac{24 + 45}{2} = 34{,}5 \, \text{år}$$
 
 **Gjennomsnittsalder:**
 
-$\bar{x} = \frac{15 + 60 + 24 + 18 + 45 + 78}{6} = \frac{240}{6} = 40 \, \text{år}$
+$$\bar{x} = \frac{15 + 60 + 24 + 18 + 45 + 78}{6} = \frac{240}{6} = 40 \, \text{år}$$
 
 **Standardavvik** (beregnet med kalkulator):
 
-$\sigma \approx 23{,}2 \, \text{år}$
+$$\sigma \approx 23{,}2 \, \text{år}$$
 
 **$\underline{\underline{\text{Median} = 34{,}5 \, \text{år}, \; \bar{x} = 40 \, \text{år}, \; \sigma \approx 23{,}2 \, \text{år}}}$**
 
@@ -568,7 +568,7 @@ $\sigma \approx 23{,}2 \, \text{år}$
 
 **Eksempel på lag B** (median > 34,5, gjennomsnitt > 40, SD < 23,2):
 
-$38, \; 40, \; 42, \; 45, \; 50, \; 55$
+$$38, \; 40, \; 42, \; 45, \; 50, \; 55$$
 
 - Median: $\frac{42+45}{2} = 43{,}5 > 34{,}5$ ✓
 - Gjennomsnitt: $\frac{270}{6} = 45 > 40$ ✓
@@ -576,7 +576,7 @@ $38, \; 40, \; 42, \; 45, \; 50, \; 55$
 
 **Eksempel på lag C** (median < 34,5, gjennomsnitt > 40, SD > 23,2):
 
-$10, \; 15, \; 30, \; 35, \; 60, \; 100$
+$$10, \; 15, \; 30, \; 35, \; 60, \; 100$$
 
 - Median: $\frac{30+35}{2} = 32{,}5 < 34{,}5$ ✓
 - Gjennomsnitt: $\frac{250}{6} \approx 41{,}7 > 40$ ✓
@@ -606,7 +606,7 @@ For ni uker siden begynte Hanne å løpe. Tabellen nedenfor viser hvor lenge hun
 
 Utviklingen kan beskrives med en modell gitt på formen  
 
-$L(x) = a \cdot x^b \quad , \quad x \geq 1$
+$$L(x) = a \cdot x^b \quad , \quad x \geq 1$$
 
 der $L(x)$ er antall minutter Hanne klarte å løpe sammenhengende på dag $x$.  
 
@@ -657,7 +657,7 @@ $91$ dager $\approx 13$ uker fra dag 1. Hanne begynte for 9 uker siden, så det 
 
 Gjennomsnittlig økning per dag fra dag 1 til dag 60:
 
-$\frac{L(60) - L(1)}{60 - 1} = \frac{10 \cdot 60^{0{,}334} - 10 \cdot 1^{0{,}334}}{59} \approx \frac{39{,}2 - 10{,}0}{59} \approx 0{,}495$
+$$\frac{L(60) - L(1)}{60 - 1} = \frac{10 \cdot 60^{0{,}334} - 10 \cdot 1^{0{,}334}}{59} \approx \frac{39{,}2 - 10{,}0}{59} \approx 0{,}495$$
 
 **Hanne har i gjennomsnitt økt løpetiden med omtrent $\underline{\underline{0{,}5 \, \mathrm{min/dag}}}$ fra dag 1 til dag 60 ifølge modellen.**
 
@@ -710,11 +710,11 @@ Dette er en åpen presentasjonsoppgave uten ett fasitsvar. Her er et eksempel p�
 
 Prosentvis endring i inntektsgivende arbeid for menn fra 1970 til 2010:
 
-$\frac{4{,}17 - 5{,}48}{5{,}48} \cdot 100 \approx -23{,}9 \,\%$
+$$\frac{4{,}17 - 5{,}48}{5{,}48} \cdot 100 \approx -23{,}9 \,\%$$
 
 Prosentvis endring i inntektsgivende arbeid for kvinner fra 1970 til 2010:
 
-$\frac{3{,}02 - 1{,}93}{1{,}93} \cdot 100 \approx 56{,}5 \,\%$
+$$\frac{3{,}02 - 1{,}93}{1{,}93} \cdot 100 \approx 56{,}5 \,\%$$
 
 **Interessante funn:**
 
@@ -763,7 +763,7 @@ Tores treningsplan er en geometrisk rekke med $a_1 = 40 \, \mathrm{km}$ og kvoti
 
 Distansen i uke 50 er det 50. leddet i rekken:
 
-$a_{50} = a_1 \cdot k^{49} = 40 \cdot 1{,}05^{49} \approx 40 \cdot 10{,}921 \approx 436{,}9$
+$$a_{50} = a_1 \cdot k^{49} = 40 \cdot 1{,}05^{49} \approx 40 \cdot 10{,}921 \approx 436{,}9$$
 
 **Tore vil sykle omtrent $\underline{\underline{437 \, \mathrm{km}}}$ i uke 50 dersom han klarer å følge planen.**
 
@@ -771,7 +771,7 @@ $a_{50} = a_1 \cdot k^{49} = 40 \cdot 1{,}05^{49} \approx 40 \cdot 10{,}921 \app
 
 Den totale distansen over 50 uker er summen av de 50 første leddene:
 
-$s_{50} = a_1 \cdot \frac{k^{50} - 1}{k - 1} = 40 \cdot \frac{1{,}05^{50} - 1}{1{,}05 - 1} = 40 \cdot \frac{11{,}467 - 1}{0{,}05} \approx 40 \cdot 209{,}35 \approx 8374$
+$$s_{50} = a_1 \cdot \frac{k^{50} - 1}{k - 1} = 40 \cdot \frac{1{,}05^{50} - 1}{1{,}05 - 1} = 40 \cdot \frac{11{,}467 - 1}{0{,}05} \approx 40 \cdot 209{,}35 \approx 8374$$
 
 **Tore vil til sammen ha syklet omtrent $\underline{\underline{8374 \, \mathrm{km}}}$ i løpet av 50 uker.**
 

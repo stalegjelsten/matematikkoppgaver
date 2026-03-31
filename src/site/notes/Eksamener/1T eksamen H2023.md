@@ -22,7 +22,7 @@ En likesidet trekant har sidelengder 2. Se figuren til høyre.
 >[!oppgave]
 >Bruk trekanten til å vise at
 >
->$\cos 60\degree = \frac{1}{2}$
+>$$\cos 60\degree = \frac{1}{2}$$
 
 ## Fasit
 
@@ -43,7 +43,7 @@ En likesidet trekant har sidelengder 2. Se figuren til høyre.
 
 Funksjonen $f$ er gitt ved
 
-$f(x) = x^3 + 2x^2 - 5x - 6$
+$$f(x) = x^3 + 2x^2 - 5x - 6$$
 
 >[!oppgave]
 >I hvilke punkter skjærer grafen til funksjonen $x$-aksen?
@@ -67,7 +67,7 @@ $f(x) = x^3 + 2x^2 - 5x - 6$
 
 Funksjonen $f$ er gitt ved
 
-$f(x) = x^3 - 3x^2 - x + 4$
+$$f(x) = x^3 - 3x^2 - x + 4$$
 
 >[!oppgave]
 >Bestem likningen for tangenten til grafen til $f$ i punktet $(1, f(1))$.
@@ -115,9 +115,9 @@ $f(x) = x^3 - 3x^2 - x + 4$
 
 Funksjonene $f$ og $g$ er gitt ved
 
-$f(x) = \frac{2x - 8}{x + 2}$
+$$f(x) = \frac{2x - 8}{x + 2}$$
 
-$g(x) = \frac{x^2 - 4}{(x - 3)(x + 3)}$
+$$g(x) = \frac{x^2 - 4}{(x - 3)(x + 3)}$$
 
 ![Grafer A–F for rasjonale funksjoner](/img/user/_resources/1t-h23-1-5.jpeg)
 
@@ -148,7 +148,7 @@ $g(x) = \frac{x^2 - 4}{(x - 3)(x + 3)}$
 
 En gruppe statistikere har sett på hvordan folketallet i et område har endret seg siden 1960, og laget en modell $F$ gitt ved
 
-$F(x) = \frac{1}{1000} \cdot \left(0{,}027x^3 - 5{,}8x^2 + 220x + 7900\right), \quad x \in [0, 80]$
+$$F(x) = \frac{1}{1000} \cdot \left(0{,}027x^3 - 5{,}8x^2 + 220x + 7900\right), \quad x \in [0, 80]$$
 
 for folketallet $F(x)$ tusen innbyggere i området $x$ år etter 1960.
 
@@ -221,9 +221,9 @@ c) 0,52 %
 ### 2-6a
 Lengden reduseres med 10 % per linjestykke og den begynner på 100 cm. Da blir lengden av linjestykke nummer $n$:
 
-$
+$$
 L(n)=100 \cdot 0{,}9^{n-1}
-$
+$$
 
 Jeg bruker et regneark til å legge sammen de 8 første linjestykkene.
 
@@ -324,8 +324,9 @@ Vi kan bruke modellen for å finne ut hvor mange fiskere det vil være i 1950. V
 
 ![Beregning av antall fiskere i 2050](/img/user/_resources/1t-h23-2-4-beregning.png)
 
-**Det er omtrent 3645 fiskere i 2050 ifølge modellen vår.**
+Det er vanskelig å vurdere gydligheten til denne modellen. Jeg vurderer at vi ikke bør bruke den lenger fram i framtida enn 2050. For eksempel er det kun 854 fiskere igjen i 2100 ifølge modellen. Det høres lite ut. Et fornuftig gyldighetsområde kan være $x \in \left[ 0,100 \right]$.
 
+**Det er omtrent 3645 fiskere i 2050 ifølge modellen vår. Jeg vurderer at modellen er gyldig fra 1950 til 2050.**
 
 </div></div>
 
@@ -343,9 +344,9 @@ Vi kan bruke modellen for å finne ut hvor mange fiskere det vil være i 1950. V
 
 Ovenfor har Sara tegnet grafene til funksjonene $f$ og $g$ gitt ved
 
-$f(x) = 2x + 8$
+$$f(x) = 2x + 8$$
 
-$g(x) = x^3 - x^2 - 4x + 8$
+$$g(x) = x^3 - x^2 - 4x + 8$$
 
 ![Sara sine grafer til f og g](/img/user/_resources/1t-h23-2-5.jpeg)
 
@@ -378,7 +379,7 @@ Sara skal tegne en ny linje $x = a$ der $a \in \langle 1, 3 \rangle$ i koordinat
 
 En tredjegradsfunksjon $f$ er gitt ved
 
-$f(x) = ax^3 + bx^2 + cx - 64$
+$$f(x) = ax^3 + bx^2 + cx - 64$$
 
 - Punktet $(-8, 0)$ er et toppunkt på grafen til $f$.
 - Den gjennomsnittlige vekstfarten til $f$ i intervallet $[0, 5]$ er $\dfrac{64}{5}$.
@@ -405,7 +406,7 @@ $f(x) = ax^3 + bx^2 + cx - 64$
 
 Nedenfor ser du grafen til funksjonen $f$ gitt ved
 
-$f(x) = \frac{8}{x^2 + 20}$
+$$f(x) = \frac{8}{x^2 + 20}$$
 
 ![Graf til f med rektangel innskrevet](/img/user/_resources/1t-h23-2-7.jpeg)
 
