@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-14","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["trigonometri","funksjoner","likninger"],"fag":["r2"],"eksamen":"v25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":4}],"poeng":6,"title":"Trigonometrisk funksjon og likning","status":1,"source":null,"todo":null,"permalink":"/trigonometrisk-funksjon-og-likning/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-14","modified":"2026-03-25","aliases":[],"temaer":["trigonometri","funksjoner","likninger"],"fag":["r2"],"eksamen":"v25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":4}],"poeng":6,"title":"Trigonometrisk funksjon og likning","status":1,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2025-05-14","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["trigonometri","funksjoner","likninger"],"fag":["r2"],"eksamen":"v25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":4}],"poeng":6,"title":"Trigonometrisk funksjon og likning","status":1,"source":null,"todo":null,"permalink":"/trigonometrisk-funksjon-og-likning/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-14","modified":"2026-03-25","aliases":[],"temaer":["trigonometri","funksjoner","likninger"],"fag":["r2"],"eksamen":"v25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":4}],"poeng":6,"title":"Trigonometrisk funksjon og likning","status":1,"source":null,"todo":null,"permalink":"/trigonometrisk-funksjon-og-likning/"}}
 ---
 
 
@@ -35,4 +35,4 @@ $$
 $$
 Når $k=2$ så har sinusfunksjonen dobbelt så «tette» svingninger og perioden blir derfor $T=\frac{2\pi}{k}=\frac{2\pi}{2}=\pi$. Da blir også faseforskyvningen $\frac{\phi}{2}=\frac{\pi}{12}$.
 
-**Amplituden er $2\sqrt{ 3 }$, likevektslinja er $y=0$, perioden er $\pi$ og faseforskyvningen er $\frac{\pi}{12}$ mot venstre.e**
+**Amplituden er $2\sqrt{ 3 }$, likevektslinja er $y=0$, perioden er $\pi$ og faseforskyvningen er $\frac{\pi}{12}$ mot venstre.**

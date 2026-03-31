@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["geometri"],"fag":["2p"],"eksamen":"v25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":3}],"title":"Formlike trekanter over elv","status":1,"source":null,"todo":null,"permalink":"/formlike-trekanter-over-elv/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-25","aliases":[],"temaer":["geometri"],"fag":["2p"],"eksamen":"v25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":3}],"title":"Formlike trekanter over elv","status":1,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["geometri"],"fag":["2p"],"eksamen":"v25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":3}],"title":"Formlike trekanter over elv","status":1,"source":null,"todo":null,"permalink":"/formlike-trekanter-over-elv/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-19","modified":"2026-03-25","aliases":[],"temaer":["geometri"],"fag":["2p"],"eksamen":"v25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"2p","del":2,"oppgave":3}],"title":"Formlike trekanter over elv","status":1,"source":null,"todo":null,"permalink":"/formlike-trekanter-over-elv/"}}
 ---
 
 

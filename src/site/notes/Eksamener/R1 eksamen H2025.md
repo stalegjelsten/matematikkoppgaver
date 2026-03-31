@@ -1,29 +1,29 @@
 ---
-{"tags":["eksamen"],"fag":["r1"],"eksamen":"h25","date":"2025-11-20","del1_tid":2,"del2_tid":3,"title":"R1 eksamen H2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r1"],"eksamen":"h25","date":"2025-11-20","del1_tid":2,"del2_tid":3,"title":"R1 eksamen H2025","contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-h2025/"}}
+{"tags":["eksamen"],"fag":["r1"],"eksamen":"h25","del1_tid":2,"del2_tid":3,"title":"R1 eksamen H2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r1"],"eksamen":"h25","del1_tid":2,"del2_tid":3,"title":"R1 eksamen H2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-h2025/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Derivasjon og graffortolkning\|Derivasjon og graffortolkning]] | derivasjon, funksjoner | ✔︎ |
-| 1-2 | [[Logaritmeligninger\|Logaritmeligninger]] | logaritmer, likninger | ✔︎ |
-| 1-3 | [[Grenseverdier\|Grenseverdier]] | grenseverdi, kontinuitet | ✔︎ |
-| 1-4 | [[Koordinater, linje og ortogonalitet\|Koordinater, linje og ortogonalitet]] | vektorer, geometri | ✔︎ |
-| 1-5 | [[Funksjonsdrøfting og halveringsmetode\|Funksjonsdrøfting og halveringsmetode]] | derivasjon, funksjonsdrøfting, programmering | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Derivasjon og graffortolkning](https://matematikkoppgaver.vercel.app/derivasjon-og-graffortolkning/) | derivasjon, funksjoner | ✔︎ |
+| [1-2](#oppgave-1-2) | [Logaritmeligninger](https://matematikkoppgaver.vercel.app/logaritmeligninger/) | logaritmer, likninger | ✔︎ |
+| [1-3](#oppgave-1-3) | [Grenseverdier](https://matematikkoppgaver.vercel.app/grenseverdier/) | grenseverdi, kontinuitet | ✔︎ |
+| [1-4](#oppgave-1-4) | [Koordinater, linje og ortogonalitet](https://matematikkoppgaver.vercel.app/koordinater-linje-og-ortogonalitet/) | vektorer, geometri | ✔︎ |
+| [1-5](#oppgave-1-5) | [Funksjonsdrøfting og halveringsmetode](https://matematikkoppgaver.vercel.app/funksjonsdrofting-og-halveringsmetode/) | derivasjon, funksjonsdrøfting, programmering | ✔︎ |
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Logistisk vekstmodell\|Logistisk vekstmodell]] | logistisk funksjon, modellering, derivasjon | ✔︎ |
-| 2-2 | [[Stykkevis funksjon og deriverbarhet\|Stykkevis funksjon og deriverbarhet]] | kontinuitet, derivasjon, funksjoner, delt forskrift | ✔︎ |
-| 2-3 | [[Luktintensitet og logaritmisk modell\|Luktintensitet og logaritmisk modell]] | logaritmer, modellering | ✔︎ |
-| 2-4 | [[Parameterframstilling og møtepunkt\|Parameterframstilling og møtepunkt]] | vektorer, geometri | ✔︎ |
-| 2-5 | [[Vektorer, lengde og ortogonalitet\|Vektorer, lengde og ortogonalitet]] | vektorer, trigonometri | ✔︎ |
-| 2-6 | [[Grafer og dobbeltderivert\|Grafer og dobbeltderivert]] | derivasjon, funksjonsdrøfting, eksponentialfunksjoner | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Logistisk vekstmodell](https://matematikkoppgaver.vercel.app/logistisk-vekstmodell/) | logistisk funksjon, modellering, derivasjon | ✔︎ |
+| [2-2](#oppgave-2-2) | [Stykkevis funksjon og deriverbarhet](https://matematikkoppgaver.vercel.app/stykkevis-funksjon-og-deriverbarhet/) | kontinuitet, derivasjon, funksjoner, delt forskrift | ✔︎ |
+| [2-3](#oppgave-2-3) | [Luktintensitet og logaritmisk modell](https://matematikkoppgaver.vercel.app/luktintensitet-og-logaritmisk-modell/) | logaritmer, modellering | ✔︎ |
+| [2-4](#oppgave-2-4) | [Parameterframstilling og møtepunkt](https://matematikkoppgaver.vercel.app/parameterframstilling-og-motepunkt/) | vektorer, geometri | ✔︎ |
+| [2-5](#oppgave-2-5) | [Vektorer, lengde og ortogonalitet](https://matematikkoppgaver.vercel.app/vektorer-lengde-og-ortogonalitet/) | vektorer, trigonometri | ✔︎ |
+| [2-6](#oppgave-2-6) | [Grafer og dobbeltderivert](https://matematikkoppgaver.vercel.app/grafer-og-dobbeltderivert/) | derivasjon, funksjonsdrøfting, eksponentialfunksjoner | ✔︎ |
 
 # Del 1
 
@@ -493,7 +493,7 @@ $$f(x) = \begin{cases} ax + b & x \le -2 \\ 2x^3 + 2x^2 - 2x \quad  & -2 < x < k
 ## Fasit
 
 a) Ikke kontinuerlig ($f(-2) = -6$, midtdel $\to -4$)
-b) $a = 14$, $b = 24$; enten $k = \tfrac{1}{3}$, $c = -\tfrac{10}{27}$ eller $k = -1$, $c = 2$
+b) $a = 14$, $b = 24$.  Enten $k = \frac{1}{3}$, $c = -\frac{10}{27}$ eller $k = -1$, $c = 2$
 
 ## Løsningsforslag
 
@@ -545,7 +545,7 @@ Begge verdiene er i $\langle -2, \rightarrow \rangle$. Vi beregner $c$ for begge
 
 **Svar:**
 
-$$\underline{\underline{a = 14, \quad b = 24}}$$
+$$\underline{\underline{a = 14 \wedge b = 24}}$$
 
 og enten $\underline{\underline{k = \dfrac{1}{3},\ c = -\dfrac{10}{27}}}$ eller $\underline{\underline{k = -1,\ c = 2}}$.
 

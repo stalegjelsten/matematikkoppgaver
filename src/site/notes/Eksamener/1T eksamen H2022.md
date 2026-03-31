@@ -1,20 +1,20 @@
 ---
-{"tags":["eksamen"],"fag":["1t"],"eksamen":"h22","del1_tid":1,"del2_tid":4,"title":"1T eksamen H2022","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-t-eksamen-h2022/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1t"],"eksamen":"h22","del1_tid":1,"del2_tid":4,"title":"1T eksamen H2022","contentClasses":"eksamen-side","permalink":"/eksamener/1t-eksamen-h2022/"}}
+{"tags":["eksamen"],"fag":["1t"],"eksamen":"h22","del1_tid":1,"del2_tid":4,"title":"1T eksamen H2022","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-t-eksamen-h2022/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1t"],"eksamen":"h22","del1_tid":1,"del2_tid":4,"title":"1T eksamen H2022","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1t-eksamen-h2022/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Vis at sin u delt på cos u er tan u\|Vis at sin u delt på cos u er tan u]] | trigonometri | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Vis at sin u delt på cos u er tan u](https://matematikkoppgaver.vercel.app/vis-at-sin-u-delt-pa-cos-u-er-tan-u/) | trigonometri | ✔︎ |
 
 **Del 2** — 4 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-2 | [[Leiligheter i bygård\|Leiligheter i bygård]] | likningssystem | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-2](#oppgave-2-2) | [Leiligheter i bygård](https://matematikkoppgaver.vercel.app/leiligheter-i-bygard/) | likningssystem | × |
 
 # Del 1
 

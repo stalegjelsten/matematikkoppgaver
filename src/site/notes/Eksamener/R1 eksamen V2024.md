@@ -1,30 +1,30 @@
 ---
-{"tags":["eksamen"],"fag":["r1"],"eksamen":"v24","date":"2024-05-24","del1_tid":1,"del2_tid":4,"title":"R1 eksamen V2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r1"],"eksamen":"v24","date":"2024-05-24","del1_tid":1,"del2_tid":4,"title":"R1 eksamen V2024","contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-v2024/"}}
+{"tags":["eksamen"],"fag":["r1"],"eksamen":"v24","del1_tid":1,"del2_tid":4,"title":"R1 eksamen V2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r1"],"eksamen":"v24","del1_tid":1,"del2_tid":4,"title":"R1 eksamen V2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-v2024/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Derivasjon med produktregel og ln\|Derivasjon med produktregel og ln]] | derivasjon, logaritmer | ❌ |
-| 1-2 | [[Logaritmeligningen med substitusjon\|Logaritmeligningen med substitusjon]] | logaritmer, likninger | ❌ |
-| 1-3 | [[Grenseverdier av eksponentialfunksjon\|Grenseverdier av eksponentialfunksjon]] | eksponentialfunksjoner, grenseverdi | ❌ |
-| 1-4 | [[Tre punkter på linje og rettvinklet trekant\|Tre punkter på linje og rettvinklet trekant]] | vektorer, geometri, likninger | ❌ |
-| 1-5 | [[Kontinuerlig funksjon med størst mulig definisjonsmengde\|Kontinuerlig funksjon med størst mulig definisjonsmengde]] | kontinuitet, funksjoner, delt forskrift | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Derivasjon med produktregel og ln](https://matematikkoppgaver.vercel.app/derivasjon-med-produktregel-og-ln/) | derivasjon, logaritmer | × |
+| [1-2](#oppgave-1-2) | [Logaritmeligningen med substitusjon](https://matematikkoppgaver.vercel.app/logaritmeligningen-med-substitusjon/) | logaritmer, likninger | × |
+| [1-3](#oppgave-1-3) | [Grenseverdier av eksponentialfunksjon](https://matematikkoppgaver.vercel.app/grenseverdier-av-eksponentialfunksjon/) | eksponentialfunksjoner, grenseverdi | × |
+| [1-4](#oppgave-1-4) | [Tre punkter på linje og rettvinklet trekant](https://matematikkoppgaver.vercel.app/tre-punkter-pa-linje-og-rettvinklet-trekant/) | vektorer, geometri, likninger | × |
+| [1-5](#oppgave-1-5) | [Kontinuerlig funksjon med størst mulig definisjonsmengde](https://matematikkoppgaver.vercel.app/kontinuerlig-funksjon-med-storst-mulig-definisjonsmengde/) | kontinuitet, funksjoner, delt forskrift | × |
 
 **Del 2** — 4 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Influensaepidemi og logistisk vekst\|Influensaepidemi og logistisk vekst]] | logistisk funksjon, derivasjon, asymptoter, modellering | ❌ |
-| 2-2 | [[Påstander om logaritme, derivasjon og invers\|Påstander om logaritme, derivasjon og invers]] | logaritmer, derivasjon, funksjoner, argumentasjon, delt forskrift | ❌ |
-| 2-3 | [[To biler på kryss og motorvei\|To biler på kryss og motorvei]] | vektorer, derivasjon, modellering | ❌ |
-| 2-4 | [[Momentmagnitudeskala og energi\|Momentmagnitudeskala og energi]] | logaritmer, eksponentialfunksjoner, modellering | ❌ |
-| 2-5 | [[Modell for drivstoffutvikling i Moss\|Modell for drivstoffutvikling i Moss]] | regresjon, modellering, eksponentiell vekst | ❌ |
-| 2-6 | [[Innskrevet rektangel og Lars sitt program\|Innskrevet rektangel og Lars sitt program]] | derivasjon, programmering, funksjonsdrøfting | ❌ |
-| 2-7 | [[Pyramide i halvkule – størst mulig volum\|Pyramide i halvkule – størst mulig volum]] | geometri, derivasjon | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Influensaepidemi og logistisk vekst](https://matematikkoppgaver.vercel.app/influensaepidemi-og-logistisk-vekst/) | logistisk funksjon, derivasjon, asymptoter, modellering | × |
+| [2-2](#oppgave-2-2) | [Påstander om logaritme, derivasjon og invers](https://matematikkoppgaver.vercel.app/pastander-om-logaritme-derivasjon-og-invers/) | logaritmer, derivasjon, funksjoner, argumentasjon, delt forskrift | × |
+| [2-3](#oppgave-2-3) | [To biler på kryss og motorvei](https://matematikkoppgaver.vercel.app/to-biler-pa-kryss-og-motorvei/) | vektorer, derivasjon, modellering | × |
+| [2-4](#oppgave-2-4) | [Momentmagnitudeskala og energi](https://matematikkoppgaver.vercel.app/momentmagnitudeskala-og-energi/) | logaritmer, eksponentialfunksjoner, modellering | × |
+| [2-5](#oppgave-2-5) | [Modell for drivstoffutvikling i Moss](https://matematikkoppgaver.vercel.app/modell-for-drivstoffutvikling-i-moss/) | regresjon, modellering, eksponentiell vekst | × |
+| [2-6](#oppgave-2-6) | [Innskrevet rektangel og Lars sitt program](https://matematikkoppgaver.vercel.app/innskrevet-rektangel-og-lars-sitt-program/) | derivasjon, programmering, funksjonsdrøfting | × |
+| [2-7](#oppgave-2-7) | [Pyramide i halvkule – størst mulig volum](https://matematikkoppgaver.vercel.app/pyramide-i-halvkule-storst-mulig-volum/) | geometri, derivasjon | × |
 
 # Del 1
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["rekker","uendelig rekke"],"fag":["s2"],"eksamen":"h25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":2}],"title":null,"source":null,"todo":null,"status":3,"permalink":"/s2-h2025-ulike-rekker-del-1/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"temaer":["rekker","uendelig rekke"],"fag":["s2"],"eksamen":"h25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":2}],"title":null,"source":null,"todo":null,"status":3}}
+{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["rekker","uendelig rekke"],"fag":["s2"],"eksamen":"h25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":2}],"title":null,"source":null,"todo":null,"status":3,"permalink":"/s2-h2025-ulike-rekker-del-1/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"temaer":["rekker","uendelig rekke"],"fag":["s2"],"eksamen":"h25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":2}],"title":null,"source":null,"todo":null,"status":3,"permalink":"/s2-h2025-ulike-rekker-del-1/"}}
 ---
 
 

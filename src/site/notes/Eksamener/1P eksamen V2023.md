@@ -1,15 +1,15 @@
 ---
-{"tags":["eksamen"],"fag":["1p"],"eksamen":"v23","del2_tid":4,"title":"1P eksamen V2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p"],"eksamen":"v23","del2_tid":4,"title":"1P eksamen V2023","contentClasses":"eksamen-side","permalink":"/eksamener/1p-eksamen-v2023/"}}
+{"tags":["eksamen"],"fag":["1p"],"eksamen":"v23","del2_tid":4,"title":"1P eksamen V2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p"],"eksamen":"v23","del2_tid":4,"title":"1P eksamen V2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1p-eksamen-v2023/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 2** — 4 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Gjennomsnittstemperatur på Svalbard\|Gjennomsnittstemperatur på Svalbard]] | geogebra, gjennomsnittlig vekstfart | ✔︎ |
-| 2-2 | [[Bredden av teltplassen\|Bredden av teltplassen]] | excel, utforskning | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Gjennomsnittstemperatur på Svalbard](https://matematikkoppgaver.vercel.app/gjennomsnittstemperatur-pa-svalbard/) | geogebra, gjennomsnittlig vekstfart | ✔︎ |
+| [2-2](#oppgave-2-2) | [Bredden av teltplassen](https://matematikkoppgaver.vercel.app/bredden-av-teltplassen/) | excel, utforskning | ✔︎ |
 
 # Del 2
 
@@ -32,10 +32,10 @@ $$
 T(x)=0{,}048 x^{4}-1{,}4 x^{3}+13{,}36 x^{2}-45{,}8 x+35{,}2 \quad, \quad x \in[2,10]
 $$
 
-er en rimelig bra modell for gjennomsnittstemperaturen $T(x)^{\circ} \mathrm{C}$ hvert døgn de månedene han bor på Svalbard, når han lar $x=2$ svare til 1. februar, $x=3$ til 1. mars, $x=4$ til 1 . april og så videre.
+er en rimelig bra modell for gjennomsnittstemperaturen $T(x) \degree \mathrm{C}$ hvert døgn de månedene han bor på Svalbard, når han lar $x=2$ svare til 1. februar, $x=3$ til 1. mars, $x=4$ til 1 . april og så videre.
 
 >[!oppgave]
->a) Omtrent hvor mange døgn i perioden 1. februar-1. oktober er gjennomsnittstemperaturen over $0^{\circ} \mathrm{C}$ ifølge modellen?
+>a) Omtrent hvor mange døgn i perioden 1. februar-1. oktober er gjennomsnittstemperaturen over $0 \degree \mathrm{C}$ ifølge modellen?
 
 >[!oppgave]
 >b) Bestem stigningstallet til den rette linjen som går gjennom punktene $(3, T(3))$ og $(7, T(7))$. Gi en praktisk tolkning av dette stigningstallet.
@@ -54,16 +54,16 @@ Jeg tegnet grafen til funksjonen og fant skjæringspunktene ved $x$-aksen, hvor 
 
 ![Del 2 oppgave 1. Gjennomsnittemperatur på Svalbard 1. februar–1. oktober](/img/user/_resources/1t-v2023-2-1a.png)
 
-Det er $8,906-5,772=3,134$ måneder mellom skjæringspunktene. Jeg setter at det er 30,5 døgn i hver måned slik at vi får:
+Det er $8{,}906-5{,}772=3{,}134$ måneder mellom skjæringspunktene. Jeg setter at det er 30,5 døgn i hver måned slik at vi får:
 
 $$
-3,134\cdot 30,5=95,6 \approx  \underline{\underline{96}}
+3{,}134\cdot 30{,}5=95{,}6 \approx  \underline{\underline{96}}
 $$
 
 **Temperaturen er over 0 °C i omtrent 96 døgn**
 
 ### 2-1b
-Jeg la inn punktene i GeoGebra, dro en linje mellom dem og fant stigningstallet, se $b=5.04$ i utklippet.
+Jeg la inn punktene i GeoGebra, dro en linje mellom dem og fant stigningstallet, se $b=5{,}04$ i utklippet.
 
 ![Del 2 oppgave 1b. Gjennomsnittlig vekstfart fra mars til juli](/img/user/_resources/1t-v23-2-1b.png)
 
@@ -78,9 +78,9 @@ Jeg tegnet $T'$ sammen med $T$ i koordinatsystemet og fant nullpunkter og ekstre
 
 $$
 \begin{aligned}
-\text{Toppunkt (M)}:& \quad (4,69 , 6,94)\\
-\text{Bunnpunkt (N)}:& \quad (9,90 , -6,62)\\
-\text{Nullpunkter (G og H):}& \quad (2,76 , 0)\text{ og } (7,33 , 0)
+\text{Toppunkt (M)}:& \quad (4{,}69 , 6{,}94)\\
+\text{Bunnpunkt (N)}:& \quad (9{,}90 , -6{,}62)\\
+\text{Nullpunkter (G og H):}& \quad (2{,}76 , 0)\text{ og } (7{,}33 , 0)
 \end{aligned}
 $$
 

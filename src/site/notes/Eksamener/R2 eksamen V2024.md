@@ -1,29 +1,29 @@
 ---
-{"tags":["eksamen"],"fag":["r2"],"eksamen":"v24","date":"2024-05-27","del1_tid":2,"del2_tid":3,"title":"R2 eksamen V2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r2"],"eksamen":"v24","date":"2024-05-27","del1_tid":2,"del2_tid":3,"title":"R2 eksamen V2024","contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-v2024/"}}
+{"tags":["eksamen"],"fag":["r2"],"eksamen":"v24","del1_tid":2,"del2_tid":3,"title":"R2 eksamen V2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r2"],"eksamen":"v24","del1_tid":2,"del2_tid":3,"title":"R2 eksamen V2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-v2024/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Bestemt integral og areal\|Bestemt integral og areal]] | integral, areal under graf | ✔︎ |
-| 1-2 | [[Ubestemt integral med substitusjon\|Ubestemt integral med substitusjon]] | integral | ❌ |
-| 1-3 | [[Ukjent program S2 v24\|Ukjent program S2 v24]] | programmering, rekker | ✔︎ |
-| 1-4 | [[Trekant og plan i rommet\|Trekant og plan i rommet]] | vektorer, geometri | ❌ |
-| 1-5 | [[Sinusfunksjon og egenskaper\|Sinusfunksjon og egenskaper]] | trigonometri, funksjoner | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Bestemt integral og areal](https://matematikkoppgaver.vercel.app/bestemt-integral-og-areal/) | integral, areal under graf | ✔︎ |
+| [1-2](#oppgave-1-2) | [Ubestemt integral med substitusjon](https://matematikkoppgaver.vercel.app/ubestemt-integral-med-substitusjon/) | integral | × |
+| [1-3](#oppgave-1-3) | [Ukjent program S2 v24](https://matematikkoppgaver.vercel.app/ukjent-program-s2-v24/) | programmering, rekker | ✔︎ |
+| [1-4](#oppgave-1-4) | [Trekant og plan i rommet](https://matematikkoppgaver.vercel.app/trekant-og-plan-i-rommet/) | vektorer, geometri | × |
+| [1-5](#oppgave-1-5) | [Sinusfunksjon og egenskaper](https://matematikkoppgaver.vercel.app/sinusfunksjon-og-egenskaper/) | trigonometri, funksjoner | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Fotball hjørnespark og vektorer\|Fotball hjørnespark og vektorer]] | vektorer, modellering | ❌ |
-| 2-2 | [[Volum av pære med omdreiningslegeme\|Volum av pære med omdreiningslegeme]] | omdreiningslegeme, integral, volum | ❌ |
-| 2-3 | [[Sensor for utelys og trigonometri\|Sensor for utelys og trigonometri]] | trigonometri, modellering, derivasjon | ❌ |
-| 2-4 | [[Kubikktall og induksjonsbevis\|Kubikktall og induksjonsbevis]] | rekursiv sammenheng, figurtall, programmering, bevis | ❌ |
-| 2-5 | [[Kuleflate og plan\|Kuleflate og plan]] | vektorer, geometri | ❌ |
-| 2-6 | [[Sum av integralrekke\|Sum av integralrekke]] | rekker, uendelig rekke, utforskning, funksjoner, integral | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Fotball hjørnespark og vektorer](https://matematikkoppgaver.vercel.app/fotball-hjornespark-og-vektorer/) | vektorer, modellering | × |
+| [2-2](#oppgave-2-2) | [Volum av pære med omdreiningslegeme](https://matematikkoppgaver.vercel.app/volum-av-paere-med-omdreiningslegeme/) | omdreiningslegeme, integral, volum | × |
+| [2-3](#oppgave-2-3) | [Sensor for utelys og trigonometri](https://matematikkoppgaver.vercel.app/sensor-for-utelys-og-trigonometri/) | trigonometri, modellering, derivasjon | × |
+| [2-4](#oppgave-2-4) | [Kubikktall og induksjonsbevis](https://matematikkoppgaver.vercel.app/kubikktall-og-induksjonsbevis/) | rekursiv sammenheng, figurtall, programmering, bevis | × |
+| [2-5](#oppgave-2-5) | [Kuleflate og plan](https://matematikkoppgaver.vercel.app/kuleflate-og-plan/) | vektorer, geometri | × |
+| [2-6](#oppgave-2-6) | [Sum av integralrekke](https://matematikkoppgaver.vercel.app/sum-av-integralrekke/) | rekker, uendelig rekke, utforskning, funksjoner, integral | × |
 
 # Del 1
 

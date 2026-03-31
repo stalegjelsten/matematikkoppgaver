@@ -1,33 +1,33 @@
 ---
-{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"v25","del1_tid":2,"del2_tid":3,"title":"2P-Y eksamen V2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-y-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"v25","del1_tid":2,"del2_tid":3,"title":"2P-Y eksamen V2025","contentClasses":"eksamen-side","permalink":"/eksamener/2p-y-eksamen-v2025/"}}
+{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"v25","del1_tid":2,"del2_tid":3,"title":"2P-Y eksamen V2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-y-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"v25","del1_tid":2,"del2_tid":3,"title":"2P-Y eksamen V2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2p-y-eksamen-v2025/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Elever i klassen basert på prosentandel\|Elever i klassen basert på prosentandel]] | prosent | ✔︎ |
-| 1-2 | [[Median og gjennomsnitt i heiskø\|Median og gjennomsnitt i heiskø]] | sentralmål, kumulativ frekvens | ✔︎ |
-| 1-3 | [[Omvendt proporsjonal klassefest\|Omvendt proporsjonal klassefest]] | omvendt proporsjonalitet, funksjoner | ✔︎ |
-| 1-4 | [[Prosentvis framgang for to partier\|Prosentvis framgang for to partier]] | prosent | ✔︎ |
-| 1-5 | [[Få størst mulig svar\|Få størst mulig svar]] | potensregning | ✔︎ |
-| 1-6 | [[Figurtall 2PY v2025\|Figurtall 2PY v2025]] | figurtall | ✔︎ |
-| 1-7 | [[Median og gjennomsnitt fra klassedelt alder\|Median og gjennomsnitt fra klassedelt alder]] | sentralmål | ✔︎ |
-| 1-8 | [[Program for reduksjon av matsvinn\|Program for reduksjon av matsvinn]] | programmering, eksponentialfunksjoner | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Elever i klassen basert på prosentandel](https://matematikkoppgaver.vercel.app/elever-i-klassen-basert-pa-prosentandel/) | prosent | ✔︎ |
+| [1-2](#oppgave-1-2) | [Median og gjennomsnitt i heiskø](https://matematikkoppgaver.vercel.app/median-og-gjennomsnitt-i-heisko/) | sentralmål, kumulativ frekvens | ✔︎ |
+| [1-3](#oppgave-1-3) | [Omvendt proporsjonal klassefest](https://matematikkoppgaver.vercel.app/omvendt-proporsjonal-klassefest/) | omvendt proporsjonalitet, funksjoner | ✔︎ |
+| [1-4](#oppgave-1-4) | [Prosentvis framgang for to partier](https://matematikkoppgaver.vercel.app/prosentvis-framgang-for-to-partier/) | prosent | ✔︎ |
+| [1-5](#oppgave-1-5) | [Få størst mulig svar](https://matematikkoppgaver.vercel.app/fa-storst-mulig-svar/) | potensregning | ✔︎ |
+| [1-6](#oppgave-1-6) | [Figurtall 2PY v2025](https://matematikkoppgaver.vercel.app/figurtall-2-py-v2025/) | figurtall | ✔︎ |
+| [1-7](#oppgave-1-7) | [Median og gjennomsnitt fra klassedelt alder](https://matematikkoppgaver.vercel.app/median-og-gjennomsnitt-fra-klassedelt-alder/) | sentralmål | ✔︎ |
+| [1-8](#oppgave-1-8) | [Program for reduksjon av matsvinn](https://matematikkoppgaver.vercel.app/program-for-reduksjon-av-matsvinn/) | programmering, eksponentialfunksjoner | ✔︎ |
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Modell for reduksjon av utslipp\|Modell for reduksjon av utslipp]] | eksponentialfunksjoner, geogebra, funksjoner | ✔︎ |
-| 2-2 | [[Burj Khalifa standardform\|Burj Khalifa standardform]] | standardform | ✔︎ |
-| 2-3 | [[Påstander om gjennomsnitt og median i et rom\|Påstander om gjennomsnitt og median i et rom]] | sentralmål | ✔︎ |
-| 2-4 | [[Proporsjonal pris på antibac\|Proporsjonal pris på antibac]] | proporsjonalitet | ✔︎ |
-| 2-5 | [[Modell for lengde av skjerf\|Modell for lengde av skjerf]] | modellering | ✔︎ |
-| 2-6 | [[Halvert fuglebestand\|Halvert fuglebestand]] | eksponentialfunksjoner | ✔︎ |
-| 2-7 | [[Lag presentasjon som viser døds- og fødselsrate\|Lag presentasjon som viser døds- og fødselsrate]] | presentasjon av data | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Modell for reduksjon av utslipp](https://matematikkoppgaver.vercel.app/modell-for-reduksjon-av-utslipp/) | eksponentialfunksjoner, geogebra, funksjoner | ✔︎ |
+| [2-2](#oppgave-2-2) | [Burj Khalifa standardform](https://matematikkoppgaver.vercel.app/burj-khalifa-standardform/) | standardform | ✔︎ |
+| [2-3](#oppgave-2-3) | [Påstander om gjennomsnitt og median i et rom](https://matematikkoppgaver.vercel.app/pastander-om-gjennomsnitt-og-median-i-et-rom/) | sentralmål | ✔︎ |
+| [2-4](#oppgave-2-4) | [Proporsjonal pris på antibac](https://matematikkoppgaver.vercel.app/proporsjonal-pris-pa-antibac/) | proporsjonalitet | ✔︎ |
+| [2-5](#oppgave-2-5) | [Modell for lengde av skjerf](https://matematikkoppgaver.vercel.app/modell-for-lengde-av-skjerf/) | modellering | ✔︎ |
+| [2-6](#oppgave-2-6) | [Halvert fuglebestand](https://matematikkoppgaver.vercel.app/halvert-fuglebestand/) | eksponentialfunksjoner | ✔︎ |
+| [2-7](#oppgave-2-7) | [Lag presentasjon som viser døds- og fødselsrate](https://matematikkoppgaver.vercel.app/lag-presentasjon-som-viser-dods-og-fodselsrate/) | presentasjon av data | ✔︎ |
 
 # Del 1
 

@@ -1,29 +1,29 @@
 ---
-{"tags":["eksamen"],"fag":["s1"],"eksamen":"v23","del1_tid":1,"del2_tid":4,"title":"S1 eksamen V2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s1"],"eksamen":"v23","del1_tid":1,"del2_tid":4,"title":"S1 eksamen V2023","contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-v2023/"}}
+{"tags":["eksamen"],"fag":["s1"],"eksamen":"v23","del1_tid":1,"del2_tid":4,"title":"S1 eksamen V2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s1"],"eksamen":"v23","del1_tid":1,"del2_tid":4,"title":"S1 eksamen V2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-v2023/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Algebra potensregning\|Algebra potensregning]] | potenser, algebra | ❌ |
-| 1-2 | [[Deriver logaritmefunksjon\|Deriver logaritmefunksjon]] | derivasjon, logaritmer | ❌ |
-| 1-3 | [[Grenseverdi når x går mot 2\|Grenseverdi når x går mot 2]] | grenseverdi, derivasjon, funksjoner, asymptoter | ❌ |
-| 1-4 | [[Kuler i krukke hypergeometrisk\|Kuler i krukke hypergeometrisk]] | sannsynlighet, hypergeometrisk | ❌ |
-| 1-5 | [[Ukjent program med kostnader for produksjon\|Ukjent program med kostnader for produksjon]] | programmering, økonomi, vekstfart | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Algebra potensregning](https://matematikkoppgaver.vercel.app/algebra-potensregning/) | potenser, algebra | × |
+| [1-2](#oppgave-1-2) | [Deriver logaritmefunksjon](https://matematikkoppgaver.vercel.app/deriver-logaritmefunksjon/) | derivasjon, logaritmer | × |
+| [1-3](#oppgave-1-3) | [Grenseverdi når x går mot 2](https://matematikkoppgaver.vercel.app/grenseverdi-nar-x-gar-mot-2/) | grenseverdi, derivasjon, funksjoner, asymptoter | × |
+| [1-4](#oppgave-1-4) | [Kuler i krukke hypergeometrisk](https://matematikkoppgaver.vercel.app/kuler-i-krukke-hypergeometrisk/) | sannsynlighet, hypergeometrisk | × |
+| [1-5](#oppgave-1-5) | [Ukjent program med kostnader for produksjon](https://matematikkoppgaver.vercel.app/ukjent-program-med-kostnader-for-produksjon/) | programmering, økonomi, vekstfart | × |
 
 **Del 2** — 4 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]] | prosent, eksponentialfunksjoner, regresjon, økonomi | ❌ |
-| 2-2a | [[Logaritmepåstand\|Logaritmepåstand]] | logaritmer | ❌ |
-| 2-2b | [[Har alle fjerdegradsfunksjoner ekstremalpunkt\|Har alle fjerdegradsfunksjoner ekstremalpunkt]] | funksjoner, funksjonsdrøfting | ❌ |
-| 2-2c | [[Sannsynligheter ved lottospill\|Sannsynligheter ved lottospill]] | sannsynlighet, hypergeometrisk | ❌ |
-| 2-5 | [[Billetter til fotballkamp\|Billetter til fotballkamp]] | sannsynlighet, binomisk, utforskning, programmering, excel | ❌ |
-| 2-6 | [[Lydstyrke fra fly\|Lydstyrke fra fly]] | formler, cas, logaritmer | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Timelønn og lønnsvekst](https://matematikkoppgaver.vercel.app/timelonn-og-lonnsvekst/) | prosent, eksponentialfunksjoner, regresjon, økonomi | × |
+| [2-2a](#oppgave-2-2a) | [Logaritmepåstand](https://matematikkoppgaver.vercel.app/logaritmepastand/) | logaritmer | × |
+| [2-2b](#oppgave-2-2b) | [Har alle fjerdegradsfunksjoner ekstremalpunkt](https://matematikkoppgaver.vercel.app/har-alle-fjerdegradsfunksjoner-ekstremalpunkt/) | funksjoner, funksjonsdrøfting | × |
+| [2-2c](#oppgave-2-2c) | [Sannsynligheter ved lottospill](https://matematikkoppgaver.vercel.app/sannsynligheter-ved-lottospill/) | sannsynlighet, hypergeometrisk | × |
+| [2-5](#oppgave-2-5) | [Billetter til fotballkamp](https://matematikkoppgaver.vercel.app/billetter-til-fotballkamp/) | sannsynlighet, binomisk, utforskning, programmering, excel | × |
+| [2-6](#oppgave-2-6) | [Lydstyrke fra fly](https://matematikkoppgaver.vercel.app/lydstyrke-fra-fly/) | formler, cas, logaritmer | × |
 
 # Del 1
 

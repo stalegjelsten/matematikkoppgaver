@@ -1,29 +1,29 @@
 ---
-{"tags":["eksamen"],"fag":["r2"],"eksamen":"v25","date":"2025-05-14","del1_tid":3,"del2_tid":2,"title":"R2 eksamen V2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r2"],"eksamen":"v25","date":"2025-05-14","del1_tid":3,"del2_tid":2,"title":"R2 eksamen V2025","contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-v2025/"}}
+{"tags":["eksamen"],"fag":["r2"],"eksamen":"v25","del1_tid":3,"del2_tid":2,"title":"R2 eksamen V2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r2"],"eksamen":"v25","del1_tid":3,"del2_tid":2,"title":"R2 eksamen V2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-v2025/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 3 timer — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Integraler S2 v25\|Integraler S2 v25]] | integral | ✔︎ |
-| 1-2 | [[Bestem f ut fra den deriverte\|Bestem f ut fra den deriverte]] | integral, tolkning av integraler, areal under graf | ✔︎ |
-| 1-3 | [[Tallfølge med programmering og induksjon\|Tallfølge med programmering og induksjon]] | programmering, rekker, bevis | ❌ |
-| 1-4 | [[Trigonometrisk funksjon og likning\|Trigonometrisk funksjon og likning]] | trigonometri, funksjoner, likninger | ❌ |
-| 1-5 | [[Bordplate som trekant i 3D\|Bordplate som trekant i 3D]] | vektorer, geometri, areal | ❌ |
-| 1-6 | [[Caspers kode\|Caspers kode]] | programmering | ❌ |
-| 1-7 | [[Vinkel i sirkel og trigonometri\|Vinkel i sirkel og trigonometri]] | trigonometri, enhetssirkel | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Integraler S2 v25](https://matematikkoppgaver.vercel.app/integraler-s2-v25/) | integral | ✔︎ |
+| [1-2](#oppgave-1-2) | [Bestem f ut fra den deriverte](https://matematikkoppgaver.vercel.app/bestem-f-ut-fra-den-deriverte/) | integral, tolkning av integraler, areal under graf | ✔︎ |
+| [1-3](#oppgave-1-3) | [Tallfølge med programmering og induksjon](https://matematikkoppgaver.vercel.app/tallfolge-med-programmering-og-induksjon/) | programmering, rekker, bevis | × |
+| [1-4](#oppgave-1-4) | [Trigonometrisk funksjon og likning](https://matematikkoppgaver.vercel.app/trigonometrisk-funksjon-og-likning/) | trigonometri, funksjoner, likninger | × |
+| [1-5](#oppgave-1-5) | [Bordplate som trekant i 3D](https://matematikkoppgaver.vercel.app/bordplate-som-trekant-i-3-d/) | vektorer, geometri, areal | × |
+| [1-6](#oppgave-1-6) | [Caspers kode](https://matematikkoppgaver.vercel.app/caspers-kode/) | programmering | × |
+| [1-7](#oppgave-1-7) | [Vinkel i sirkel og trigonometri](https://matematikkoppgaver.vercel.app/vinkel-i-sirkel-og-trigonometri/) | trigonometri, enhetssirkel | ✔︎ |
 
 **Del 2** — 2 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Bil på spiralvei i parkeringshus\|Bil på spiralvei i parkeringshus]] | vektorer, derivasjon, modellering | ❌ |
-| 2-2 | [[Noras sparing og lån\|Noras sparing og lån]] | lån, sparing, excel, cas | ✔︎ |
-| 2-3 | [[Harens fart og gjennomsnittsfart\|Harens fart og gjennomsnittsfart]] | integral, derivasjon, modellering | ❌ |
-| 2-4 | [[Vis at rekke blir ln 2\|Vis at rekke blir ln 2]] | bevis, utforskning, integral | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Bil på spiralvei i parkeringshus](https://matematikkoppgaver.vercel.app/bil-pa-spiralvei-i-parkeringshus/) | vektorer, derivasjon, modellering | × |
+| [2-2](#oppgave-2-2) | [Noras sparing og lån](https://matematikkoppgaver.vercel.app/noras-sparing-og-lan/) | lån, sparing, excel, cas | ✔︎ |
+| [2-3](#oppgave-2-3) | [Harens fart og gjennomsnittsfart](https://matematikkoppgaver.vercel.app/harens-fart-og-gjennomsnittsfart/) | integral, derivasjon, modellering | × |
+| [2-4](#oppgave-2-4) | [Vis at rekke blir ln 2](https://matematikkoppgaver.vercel.app/vis-at-rekke-blir-ln-2/) | bevis, utforskning, integral | ✔︎ |
 
 # Del 1
 
@@ -268,7 +268,7 @@ $$
 $$
 Når $k=2$ så har sinusfunksjonen dobbelt så «tette» svingninger og perioden blir derfor $T=\frac{2\pi}{k}=\frac{2\pi}{2}=\pi$. Da blir også faseforskyvningen $\frac{\phi}{2}=\frac{\pi}{12}$.
 
-**Amplituden er $2\sqrt{ 3 }$, likevektslinja er $y=0$, perioden er $\pi$ og faseforskyvningen er $\frac{\pi}{12}$ mot venstre.e**
+**Amplituden er $2\sqrt{ 3 }$, likevektslinja er $y=0$, perioden er $\pi$ og faseforskyvningen er $\frac{\pi}{12}$ mot venstre.**
 
 </div></div>
 

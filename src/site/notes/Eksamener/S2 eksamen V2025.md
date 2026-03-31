@@ -1,29 +1,29 @@
 ---
-{"tags":["eksamen"],"fag":["s2"],"eksamen":"v25","del1_tid":2,"del2_tid":3,"title":"S2 eksamen V2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"v25","del1_tid":2,"del2_tid":3,"title":"S2 eksamen V2025","contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2025/"}}
+{"tags":["eksamen"],"fag":["s2"],"eksamen":"v25","del1_tid":2,"del2_tid":3,"title":"S2 eksamen V2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"v25","del1_tid":2,"del2_tid":3,"title":"S2 eksamen V2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2025/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Integraler S2 v25\|Integraler S2 v25]] | integral | ✔︎ |
-| 1-2 | [[Bestem f ut fra den deriverte\|Bestem f ut fra den deriverte]] | integral, tolkning av integraler, areal under graf | ✔︎ |
-| 1-3 | [[Sannsynlighetsfordeling til brettspill\|Sannsynlighetsfordeling til brettspill]] | diskrete sannsynlighetsfordelinger, varians, forventningsverdi | ✔︎ |
-| 1-4 | [[Ukjente programmer S2 v25\|Ukjente programmer S2 v25]] | programmering, rekker | ✔︎ |
-| 1-5 | [[Enhetskostnader og grensekostnader fra graf v25\|Enhetskostnader og grensekostnader fra graf v25]] | tolke grafer, enhetskostnad, grenseinntekt og grensekostnad | ✔︎ |
-| 1-6 | [[Hypotesetest bensin\|Hypotesetest bensin]] | hypotesetest, standard normalfordeling, normalfordeling | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Integraler S2 v25](https://matematikkoppgaver.vercel.app/integraler-s2-v25/) | integral | ✔︎ |
+| [1-2](#oppgave-1-2) | [Bestem f ut fra den deriverte](https://matematikkoppgaver.vercel.app/bestem-f-ut-fra-den-deriverte/) | integral, tolkning av integraler, areal under graf | ✔︎ |
+| [1-3](#oppgave-1-3) | [Sannsynlighetsfordeling til brettspill](https://matematikkoppgaver.vercel.app/sannsynlighetsfordeling-til-brettspill/) | diskrete sannsynlighetsfordelinger, varians, forventningsverdi | ✔︎ |
+| [1-4](#oppgave-1-4) | [Ukjente programmer S2 v25](https://matematikkoppgaver.vercel.app/ukjente-programmer-s2-v25/) | programmering, rekker | ✔︎ |
+| [1-5](#oppgave-1-5) | [Enhetskostnader og grensekostnader fra graf v25](https://matematikkoppgaver.vercel.app/enhetskostnader-og-grensekostnader-fra-graf-v25/) | tolke grafer, enhetskostnad, grenseinntekt og grensekostnad | ✔︎ |
+| [1-6](#oppgave-1-6) | [Hypotesetest bensin](https://matematikkoppgaver.vercel.app/hypotesetest-bensin/) | hypotesetest, standard normalfordeling, normalfordeling | ✔︎ |
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Grenseinntekt og grensekostnad på del 2\|Grenseinntekt og grensekostnad på del 2]] | regresjon, tolkning av integraler, samlet mengde, grenseinntekt og grensekostnad | ✔︎ |
-| 2-2 | [[Normalfordelt hoppkonkurranse\|Normalfordelt hoppkonkurranse]] | normalfordeling, simulering, programmering | ✔︎ |
-| 2-3 | [[Logistisk salg av brannvarslingssystemer\|Logistisk salg av brannvarslingssystemer]] | logistisk funksjon | ✔︎ |
-| 2-4 | [[Noras sparing og lån\|Noras sparing og lån]] | lån, sparing, excel, cas | ✔︎ |
-| 2-5 | [[Vis at rekke blir ln 2\|Vis at rekke blir ln 2]] | bevis, utforskning, integral | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Grenseinntekt og grensekostnad på del 2](https://matematikkoppgaver.vercel.app/grenseinntekt-og-grensekostnad-pa-del-2/) | regresjon, tolkning av integraler, samlet mengde, grenseinntekt og grensekostnad | ✔︎ |
+| [2-2](#oppgave-2-2) | [Normalfordelt hoppkonkurranse](https://matematikkoppgaver.vercel.app/normalfordelt-hoppkonkurranse/) | normalfordeling, simulering, programmering | ✔︎ |
+| [2-3](#oppgave-2-3) | [Logistisk salg av brannvarslingssystemer](https://matematikkoppgaver.vercel.app/logistisk-salg-av-brannvarslingssystemer/) | logistisk funksjon | ✔︎ |
+| [2-4](#oppgave-2-4) | [Noras sparing og lån](https://matematikkoppgaver.vercel.app/noras-sparing-og-lan/) | lån, sparing, excel, cas | ✔︎ |
+| [2-5](#oppgave-2-5) | [Vis at rekke blir ln 2](https://matematikkoppgaver.vercel.app/vis-at-rekke-blir-ln-2/) | bevis, utforskning, integral | ✔︎ |
 
 # Del 1
 
