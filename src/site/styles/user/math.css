@@ -14,4 +14,5 @@ mjx-container[display="true"] {
   text-align: center !important;
   margin: 0.5em auto !important;
   overflow-x: auto;
+  font-size: 90%;
 }
