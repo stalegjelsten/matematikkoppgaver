@@ -24,3 +24,32 @@ Camilla vil sammenlikne to andre dager hun kjørte til skolen. Den ene dagen var
 >b) Hvor lang tid brukte Camilla på hver av de to kjøreturene?
 
 ## Fasit
+
+a) Ca. $2$ minutter lengre på mandagen
+b) 40 minutter (langsom dag) og 20 minutter (rask dag)
+
+## Løsningsforslag
+
+### a
+
+Vi setter inn $s = 18$, $v_1 = 58$ og $v_2 = 65$:
+
+$$t = \left(\frac{1}{58} - \frac{1}{65}\right) \cdot 18 \cdot 60 = \frac{65 - 58}{58 \cdot 65} \cdot 1080 = \frac{7}{3770} \cdot 1080 \approx \underline{\underline{2 \text{ minutter}}}$$
+
+Camilla brukte ca. 2 minutter lengre på kjøreturen på mandagen.
+
+### b
+
+La $v_1$ være farten den langsomme dagen. Da er $v_2 = 2v_1$. Vi setter inn $t = 20$ og $s = 18$:
+
+$$20 = \left(\frac{1}{v_1} - \frac{1}{2v_1}\right) \cdot 18 \cdot 60 = \frac{1}{2v_1} \cdot 1080 = \frac{540}{v_1}$$
+
+$$v_1 = \frac{540}{20} = 27 \, \mathrm{km/t} \qquad v_2 = 54 \, \mathrm{km/t}$$
+
+Kjøretid den langsomme dagen:
+
+$$\frac{18}{27} \cdot 60 = \underline{\underline{40 \text{ minutter}}}$$
+
+Kjøretid den raske dagen:
+
+$$\frac{18}{54} \cdot 60 = \underline{\underline{20 \text{ minutter}}}$$

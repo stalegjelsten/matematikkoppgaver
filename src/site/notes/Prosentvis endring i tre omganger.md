@@ -11,3 +11,19 @@ Prisen for en vare ble satt opp med 10 % i juni og med 20 % i august. I oktober 
 >Vil varen nå koste mer, mindre eller like mye som den gjorde før prisen ble satt opp første gang? Husk å begrunne svaret ditt.
 
 ## Fasit
+
+Varen koster nå **mindre** – den er blitt $7{,}6 \, \%$ billigere.
+
+## Løsningsforslag
+
+Vi finner den samlede vekstfaktoren ved å multiplisere vekstfaktorene for hver endring:
+
+$$1{,}10 \cdot 1{,}20 \cdot 0{,}70 = 0{,}924$$
+
+Siden vekstfaktoren er $0{,}924 < 1$, koster varen nå **$\underline{\underline{\text{mindre}}}$** enn før den første prisøkningen.
+
+Den samlede endringen er:
+
+$$(0{,}924 - 1) \cdot 100 \, \% = -7{,}6 \, \%$$
+
+Varen er blitt $7{,}6 \, \%$ billigere totalt sett, selv om den ble satt opp to ganger.

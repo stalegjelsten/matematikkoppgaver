@@ -108,11 +108,13 @@ b) $a = 4$
 
 Vi setter $u = \lg x$ og skriver om likningen:
 
-$\begin{aligned}
+$
+\begin{aligned}
 u^2 - 2u - 8 &= 0\\
 (u-4)(u+2) &= 0 \\
 u = 4 \quad &\text{eller} \quad u = -2
-\end{aligned}$
+\end{aligned}
+$
 
 **Tilbake til $x$:**
 

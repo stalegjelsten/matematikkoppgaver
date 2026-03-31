@@ -206,55 +206,29 @@ c) $a \approx -477$ fiskere per år
 
 ## Løsningsforslag
 
-### 2-1a
+### a
+Jeg la inn årstallene, antall år etter 1950 og antallet fiskere i regnearket i GeoGebra. Se figuren.
 
-Jeg lar $x$ være antall år etter 1950, og setter inn datapunktene fra tabellen:
+![Regresjon i GeoGebra](/img/user/_resources/1t-h23-2-4-regresjon.png)
 
-| $x$ | $2$ | $32$ | $42$ | $52$ | $62$ | $72$ |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Antall fiskere | $65\,956$ | $25\,289$ | $19\,780$ | $13\,841$ | $9\,825$ | $9\,591$ |
+Punktene så ut til å passe godt med en eksponentiell modell, og det virker fornuftig at antallet fiskere minker med en relativt fast prosentandel hvert år. Den eksponentielle modellen vil også aldri treffe 0, slik at den kan brukes langt fram i tid.
 
-Siden antallet fiskere faller raskt i begynnelsen og deretter flater ut, passer en **eksponentiell modell** bedre enn en lineær. Jeg bruker GeoGebra til å finne eksponentiell regresjon gjennom datapunktene og får:
+**$\underline{\underline{ F(x)=66\,360 \cdot 0{,}9714^{x} }}$ er en god modell for antall fiskere i denne perioden.**
 
-$F(x) = 66\,360 \cdot 0{,}9714^{x}$
+### b
+Vi kan bruke modellen for å finne ut hvor mange fiskere det vil være i 1950. Vi regner ut $F(100)$ i GeoGebra siden 2050 tilsvarer 
+$x=100$. Se linje 2 (merket med `a`) i utklippet.
 
-![Regresjonsmodell og datapunkter for oppgave 2-1a](/img/user/_resources/1p-h23-2-1-a-graf.png)
+![Beregning av antall fiskere i 2050 og stigningstall](/img/user/_resources/1tp-h23-2-4-b.png)
 
-Modellen passer godt til datapunktene ($R^2 \approx 0{,}99$).
+Det er vanskelig å vurdere gydligheten til denne modellen. Jeg vurderer at vi ikke bør bruke den lenger fram i framtida enn 2050. For eksempel er det kun 854 fiskere igjen i 2100 ifølge modellen. Det høres lite ut. Et fornuftig gyldighetsområde kan være $x \in \left[ 0,100 \right]$.
 
-**Modellen for antall fiskere er $\underline{\underline{F(x) = 66\,360 \cdot 0{,}9714^{x}}}$**, der $x$ er antall år etter 1950.
+**Det er omtrent 3645 fiskere i 2050 ifølge modellen vår. Jeg vurderer at modellen er gyldig fra 1950 til 2050.**
 
-### 2-1b
+### c
+Se figuren. Jeg la inn punktene og trakk en linje mellom dem. Deretter målte jeg stigningen med stigningsverktøyet.
 
-I 2050 er $x = 2050 - 1950 = 100$. Vi setter inn i modellen:
-
-$F(100) = 66\,360 \cdot 0{,}9714^{100} \approx 3\,658$
-
-**Ifølge modellen vil det være omtrent $\underline{\underline{3\,658}}$ fiskere i 2050.**
-
-Modellen er laget for å beskrive perioden 1952–2022, og det er usikkert om den gir et godt bilde utenfor dette området. Antallet fiskere kan ikke bli negativt, og modellen kan ikke brukes til å si noe sikkert om situasjonen i 2050.
-
-### 2-1c
-
-Vi beregner $F(30)$ og $F(70)$:
-
-$
-\begin{aligned}
-F(30) &= 66\,360 \cdot 0{,}9714^{30} \approx 27\,817 \\
-F(70) &= 66\,360 \cdot 0{,}9714^{70} \approx 8\,727
-\end{aligned}
-$
-
-Stigningstallet til linjen gjennom $(30, F(30))$ og $(70, F(70))$ er:
-
-$
-a = \frac{F(70) - F(30)}{70 - 30} = \frac{8\,727 - 27\,817}{40} = \frac{-19\,090}{40} \approx -477
-$
-
-**Stigningstallet er $\underline{\underline{\approx -477}}$.**
-
-Dette betyr at modellen viser en gjennomsnittlig nedgang på omtrent 477 fiskere per år i perioden fra 1980 ($x=30$) til 2020 ($x=70$).
-
+**Stigningstallet til den rette linjen er $-477$. Det betyr at i gjennomsnitt sluttet 477 (netto) i yrket sitt mellom årene 1980 $(x=30)$ og 2020 $(x=70)$.**
 
 </div></div>
 

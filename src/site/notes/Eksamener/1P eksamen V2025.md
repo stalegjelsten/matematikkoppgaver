@@ -115,6 +115,24 @@ Elias påstår at det er mulig å bruke åtte av de ti tallene 0, 1, 2, 3, 4, 5,
 
 ## Fasit
 
+$\underline{\underline{ \textcolor{seagreen}{8} \cdot 10^\textcolor{steelblue}{5} \cdot \textcolor{tomato}{1} \cdot 10^\textcolor{maroon}{3} \text{ og }
+\textcolor{seagreen}{4} \cdot 10^\textcolor{steelblue}{9} \cdot \textcolor{tomato}{2} \cdot 10^\textcolor{maroon}{0}   }}$
+
+## Løsningsforslag
+Vi skal få svaret 8 000 000 000 fra $\textcolor{seagreen}{\Box} \cdot 10^{\textcolor{steelblue}{\Box}} \cdot \textcolor{tomato}{\Box} \cdot 10^{\textcolor{maroon}{\Box}}$
+
+Vi begynner med på se på faktorene som skal i den første (grønne) og tredje (oransje) ruten. Produktet av disse to faktorene må bli 8, det vil si at vi har to ulike muligheter for tallene i første og tredje rute: enten kan vi bruke 1 og 8 (siden $1 \cdot 8 = 8$) eller så kan vi bruke 2 og 4 siden $2\cdot 4=8$. 
+
+- $\textcolor{seagreen}{8} \cdot 10^{\textcolor{steelblue}{\Box}} \cdot \textcolor{tomato}{1} \cdot 10^{\textcolor{maroon}{\Box}}$
+- $\textcolor{seagreen}{4} \cdot 10^{\textcolor{steelblue}{\Box}} \cdot \textcolor{tomato}{2} \cdot 10^{\textcolor{maroon}{\Box}}$.
+
+Når det gjelder de to potensene så må produktet av disse bli $1\,000 \,000 \,000=10^{9}$. Vi husker at $a^{m} \cdot a^{n}=a^{m+n}$, slik at vi kan skrive $10^{9}$ som for eksempel $10^{3+5}$ og $10^{0+9}$.
+
+Vi har dermed 2 løsninger ved å bruke 8 av tallene fra 0 til 9:
+$
+\underline{\underline{ \textcolor{seagreen}{8} \cdot 10^\textcolor{steelblue}{5} \cdot \textcolor{tomato}{1} \cdot 10^\textcolor{maroon}{3} \text{ og }
+\textcolor{seagreen}{4} \cdot 10^\textcolor{steelblue}{9} \cdot \textcolor{tomato}{2} \cdot 10^\textcolor{maroon}{0}   }}
+$
 
 </div></div>
 
@@ -407,6 +425,20 @@ Informasjonen ovenfor er hentet fra nettsidene til Bladkongen.
 >Hvor mye koster Dagbladet Lørdag uten rabatt?
 
 ## Fasit
+49 kr
+
+## Løsningsforslag
+Vi ser på det første tilbudet først: «4 aviser for 99 kroner, spar 49 %». 
+
+Å spare 49 % betyr at vi fremdeles betaler 51 % av prisen. Vi kan finne full pris for avisene ved å gå veien om en:
+$
+\frac{99 \mathrm{~kr}}{51 \,\%}\cdot 100 \,\% = 1{,}94 \mathrm{~kr} \cdot 100 \, \%=194 \mathrm{~kr}
+$
+**Prisen per avis er $\frac{194 \mathrm{~kr}}{4}=\underline{\underline{ 48{,}5 \mathrm{~kr} }}$.**
+
+
+> [!tip] Ulike svar på denne oppgaven
+> Hvis man tar utgangspunkt i prisen for 52 aviser så vil man finne at prisen uten rabatt var 49 kr.
 
 
 </div></div>

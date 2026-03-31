@@ -42,11 +42,13 @@ a) Vi setter inn de oppgitte verdiene i formelen:
 
 b) Vi løser for $A$ når $P = 9425 \, \mathrm{W}$:
 
-   $$\begin{aligned}
+   $$
+   \begin{aligned}
    9425 &= \frac{10^3 \cdot A \cdot 1{,}3 \cdot 0{,}5}{2} \\
    9425 &= 325 \cdot A \\
    A &= \frac{9425}{325} = \underline{\underline{29 \, \mathrm{m}^2}}
-   \end{aligned}$$
+   \end{aligned}
+   $$
 
 c) Vi beregner effekten ved dobling av $A$ og ved dobling av $v$:
 

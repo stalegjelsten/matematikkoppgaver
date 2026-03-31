@@ -46,11 +46,13 @@ a) Oppstartsprisen er 8 kr og leieprisen er 3 kr per minutt. For 4 minutter:
 
 b) Vi vet at prisen er 53 kr, og setter opp en likning:
 
-   $$\begin{aligned}
+   $$
+   \begin{aligned}
    8 + 3x &= 53 \\
    3x &= 45 \\
    x &= \underline{\underline{15 \, \mathrm{min}}}
-   \end{aligned}$$
+   \end{aligned}
+   $$
 
 c) Prisen er alltid 8 kr i oppstart pluss 3 kr for hvert minutt. Formelen for $x$ minutter er altså:
 

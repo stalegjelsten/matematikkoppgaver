@@ -46,8 +46,10 @@ b) Vi bruker de to formlene. Først finner vi tilført effekt fra virkningsgrade
 
    Deretter setter vi inn i formelen for tilført effekt og løser for $\cos \varphi$:
 
-   $$\begin{aligned}
+   $$
+   \begin{aligned}
    P_t &= \sqrt{3} \cdot U \cdot I \cdot \cos \varphi \\
    1150 &= \sqrt{3} \cdot 230 \cdot 5 \cdot \cos \varphi \\
    \cos \varphi &= \frac{1150}{\sqrt{3} \cdot 230 \cdot 5} \approx \underline{\underline{0{,}58}}
-   \end{aligned}$$
+   \end{aligned}
+   $$

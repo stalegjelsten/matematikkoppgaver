@@ -1,5 +1,5 @@
 ---
-{"tags":["eksamen"],"fag":["s2"],"eksamen":"e15","title":"S2 eksamen E15","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-e15/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"e15","title":"S2 eksamen E15","contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-e15/"}}
+{"tags":["eksamen"],"fag":["s2"],"eksamen":"e15","title":"S2 eksamen E15","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-e2015/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"e15","title":"S2 eksamen E15","contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-e15/"}}
 ---
 
 # Del 1
