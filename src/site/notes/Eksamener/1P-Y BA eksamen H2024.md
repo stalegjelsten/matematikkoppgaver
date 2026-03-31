@@ -91,9 +91,9 @@ En mandag kjører han til jobb med en gjennomsnittsfart $v_{1}=58 \mathrm{~km/h}
 En fredag kjører han til jobb med en gjennomsnittsfart $v_{2}=65 \mathrm{~km/h}$
 
 Tidsforskjellen $t$ minutter mellom de to turene er gitt ved formelen
-$
+$$
 t=\left( \frac{1}{v_{1}}- \frac{1}{v_{2}} \right)  \cdot s \cdot 60
-$
+$$
 
 > [!oppgave]
 >  c) Hvor mye lengre tid bruker Erik på kjøreturen på mandagen sammenliknet med kjøreturen på fredagen?
@@ -118,20 +118,20 @@ Regnearket skal inneholde disse formlene i de grønne cellene:
 
 Resultater:
 
-$\text{Totale kostnader} = 64\,000 + 37\,900 + 14\,500 + 19\,100 + 3\,800 + 2\,000 = \underline{\underline{141\,300 \, \mathrm{kr}}}$
+$$\text{Totale kostnader} = 64\,000 + 37\,900 + 14\,500 + 19\,100 + 3\,800 + 2\,000 = \underline{\underline{141\,300 \, \mathrm{kr}}}$$
 
-$\text{Kostnader per km} = \frac{141\,300}{15\,000} = \underline{\underline{9{,}42 \, \mathrm{kr/km}}}$
+$$\text{Kostnader per km} = \frac{141\,300}{15\,000} = \underline{\underline{9{,}42 \, \mathrm{kr/km}}}$$
 
 ### 2-3b
 
 Erik har en brutto månedslønn på 42 000 kr og betaler 29 % skatt:
-$\text{Netto lønn} = 42\,000 \cdot (1 - 0{,}29) = 42\,000 \cdot 0{,}71 = 29\,820 \, \mathrm{kr/mnd}$
+$$\text{Netto lønn} = 42\,000 \cdot (1 - 0{,}29) = 42\,000 \cdot 0{,}71 = 29\,820 \, \mathrm{kr/mnd}$$
 
 Bilkostnadene per måned er:
-$\frac{141\,300}{12} = 11\,775 \, \mathrm{kr/mnd}$
+$$\frac{141\,300}{12} = 11\,775 \, \mathrm{kr/mnd}$$
 
 Erik har til overs hver måned:
-$29\,820 - 16\,000 - 11\,775 = \underline{\underline{2\,045 \, \mathrm{kr}}}$
+$$29\,820 - 16\,000 - 11\,775 = \underline{\underline{2\,045 \, \mathrm{kr}}}$$
 
 **Erik vil ha $\underline{\underline{2\,045 \, \mathrm{kr}}}$ til overs per måned etter bil og leilighet.**
 
@@ -140,9 +140,9 @@ Det er svært lite å leve av – bare til mat, klær og andre utgifter. Med en 
 ### 2-3c
 
 Vi setter inn i formelen med $v_1 = 58 \, \mathrm{km/h}$, $v_2 = 65 \, \mathrm{km/h}$ og $s = 18 \, \mathrm{km}$:
-$t = \left( \frac{1}{v_1} - \frac{1}{v_2} \right) \cdot s \cdot 60 = \left( \frac{1}{58} - \frac{1}{65} \right) \cdot 18 \cdot 60$
+$$t = \left( \frac{1}{v_1} - \frac{1}{v_2} \right) \cdot s \cdot 60 = \left( \frac{1}{58} - \frac{1}{65} \right) \cdot 18 \cdot 60$$
 
-$= \frac{65 - 58}{58 \cdot 65} \cdot 1080 = \frac{7}{3770} \cdot 1080 \approx \underline{\underline{2 \, \mathrm{min}}}$
+$$= \frac{65 - 58}{58 \cdot 65} \cdot 1080 = \frac{7}{3770} \cdot 1080 \approx \underline{\underline{2 \, \mathrm{min}}}$$
 
 **Erik bruker omtrent $\underline{\underline{2 \, \mathrm{minutt}}}$ lengre tid på mandagen enn på fredagen.**
 
@@ -220,20 +220,20 @@ Daglige utgifter per person: $35 + 6 + 15 + 12 = 68 \, \mathrm{euro}$
 | **Total euro** | | **$1\,540 \, \mathrm{euro}$** |
 
 I norske kroner (kurs $1 \, \mathrm{euro} = 11{,}88 \, \mathrm{kr}$):
-$1\,540 \cdot 11{,}88 = 18\,295 \, \mathrm{kr}$
+$$1\,540 \cdot 11{,}88 = 18\,295 \, \mathrm{kr}$$
 
 Inkludert flyreisen:
-$18\,295 + 14\,812 = \underline{\underline{33\,107 \, \mathrm{kr}}}$
+$$18\,295 + 14\,812 = \underline{\underline{33\,107 \, \mathrm{kr}}}$$
 
 **Ferien vil koste dem til sammen $\underline{\underline{33\,107 \, \mathrm{kr}}}$.**
 
 **Ida: Yen for 100 kroner**
 
 $100 \, \mathrm{kr}$ omregnes til euro:
-$\frac{100}{11{,}88} \approx 8{,}42 \, \mathrm{euro}$
+$$\frac{100}{11{,}88} \approx 8{,}42 \, \mathrm{euro}$$
 
 Deretter til yen ($1 \, \mathrm{euro} = 160 \, \mathrm{yen}$):
-$8{,}42 \cdot 160 \approx \underline{\underline{1\,347 \, \mathrm{yen}}}$
+$$8{,}42 \cdot 160 \approx \underline{\underline{1\,347 \, \mathrm{yen}}}$$
 
 **100 kr tilsvarer omtrent $\underline{\underline{1\,347 \, \mathrm{yen}}}$.**
 
@@ -242,17 +242,17 @@ $8{,}42 \cdot 160 \approx \underline{\underline{1\,347 \, \mathrm{yen}}}$
 Renteberegning per måned: $14\,812 \cdot 0{,}0183 \approx 271 \, \mathrm{kr}$
 
 Over 12 måneder:
-$271 \cdot 12 \approx \underline{\underline{3\,253 \, \mathrm{kr}}}$
+$$271 \cdot 12 \approx \underline{\underline{3\,253 \, \mathrm{kr}}}$$
 
 **De må til sammen betale omtrent $\underline{\underline{3\,253 \, \mathrm{kr}}}$ i renter i løpet av ett år.**
 
 **Ida: Nominell vs. effektiv rente**
 
 Ida multipliserer månedlig rente med 12 og får *nominell årsrente*:
-$1{,}83 \, \% \cdot 12 = 21{,}96 \, \%$
+$$1{,}83 \, \% \cdot 12 = 21{,}96 \, \%$$
 
 Banken oppgir *effektiv årsrente*, som tar hensyn til renters rente (månedlig compounding):
-$(1{,}0183)^{12} - 1 \approx 0{,}2431 = 24{,}31 \, \%$
+$$(1{,}0183)^{12} - 1 \approx 0{,}2431 = 24{,}31 \, \%$$
 
 **Banken har rett.** Effektiv rente på 24,3 % er riktig fordi renter legges til saldoen hver måned og det påløper renter på rentene. Idas beregning på 21,96 % er den nominelle renten, som ikke tar hensyn til denne renteeffekten.
 

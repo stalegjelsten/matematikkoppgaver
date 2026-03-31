@@ -54,12 +54,12 @@ Begge partiene har økt med 5 prosentpoeng, det betyr at:
 - Senterpartiet må ha økt fra 20 % til 25 %
 
 Vi finner den prosentvise økningen
-$
+$$
 \begin{aligned}
 \text{Ap}:& \quad \frac{5 \,\%}{40\,\%}=\frac{5:5}{40:5}=\frac{1}{8}=\frac{100}{8}\, \% \\
 \text{Sp}:& \quad \frac{5\,\%}{20\,\%}= \frac{5:5}{20:5}  = \frac{1}{4}=\frac{100}{4}\,\%
 \end{aligned}
-$
+$$
 
 **Siden $\frac{100}{4}$ er et større tall enn $\frac{100}{8}$ så må Senterpartiet ha den største prosentvise økningen.**
 
@@ -105,7 +105,7 @@ Klassen til Elias arbeider med oppgaven nedenfor.
 > [!blue-box] Oppgave
 > 
 >
->$\Box \cdot 10^{\Box} \cdot \Box \cdot 10^{\Box} =$
+>$$\Box \cdot 10^{\Box} \cdot \Box \cdot 10^{\Box} =$$
 > Skriv av og fyll inn ett tall i hver av de fire rutene i uttrykket ovenfor slik at svaret blir 8 000 000 000. Du kan ikke bruke det samme tallet flere ganger.
 
 Elias påstår at det er mulig å bruke åtte av de ti tallene 0, 1, 2, 3, 4, 5, 6, 7, 8 og 9 og sette opp to ulike løsninger av oppgaven.
@@ -115,8 +115,8 @@ Elias påstår at det er mulig å bruke åtte av de ti tallene 0, 1, 2, 3, 4, 5,
 
 ## Fasit
 
-$\underline{\underline{ \textcolor{seagreen}{8} \cdot 10^\textcolor{steelblue}{5} \cdot \textcolor{tomato}{1} \cdot 10^\textcolor{maroon}{3} \text{ og }
-\textcolor{seagreen}{4} \cdot 10^\textcolor{steelblue}{9} \cdot \textcolor{tomato}{2} \cdot 10^\textcolor{maroon}{0}   }}$
+$$\underline{\underline{ \textcolor{seagreen}{8} \cdot 10^\textcolor{steelblue}{5} \cdot \textcolor{tomato}{1} \cdot 10^\textcolor{maroon}{3} \text{ og }
+\textcolor{seagreen}{4} \cdot 10^\textcolor{steelblue}{9} \cdot \textcolor{tomato}{2} \cdot 10^\textcolor{maroon}{0}   }}$$
 
 ## Løsningsforslag
 Vi skal få svaret 8 000 000 000 fra $\textcolor{seagreen}{\Box} \cdot 10^{\textcolor{steelblue}{\Box}} \cdot \textcolor{tomato}{\Box} \cdot 10^{\textcolor{maroon}{\Box}}$
@@ -129,10 +129,10 @@ Vi begynner med på se på faktorene som skal i den første (grønne) og tredje 
 Når det gjelder de to potensene så må produktet av disse bli $1\,000 \,000 \,000=10^{9}$. Vi husker at $a^{m} \cdot a^{n}=a^{m+n}$, slik at vi kan skrive $10^{9}$ som for eksempel $10^{3+5}$ og $10^{0+9}$.
 
 Vi har dermed 2 løsninger ved å bruke 8 av tallene fra 0 til 9:
-$
+$$
 \underline{\underline{ \textcolor{seagreen}{8} \cdot 10^\textcolor{steelblue}{5} \cdot \textcolor{tomato}{1} \cdot 10^\textcolor{maroon}{3} \text{ og }
 \textcolor{seagreen}{4} \cdot 10^\textcolor{steelblue}{9} \cdot \textcolor{tomato}{2} \cdot 10^\textcolor{maroon}{0}   }}
-$
+$$
 
 </div></div>
 
@@ -201,9 +201,9 @@ Jeg deler opp figuren i tre deler, se figuren
 ![Oppdeling av figurtall](/img/user/_resources/1p-v25-1-6-losn.png)
 
 Jeg ser at kvadratet har størrelse $\textcolor{maroon}{n^{2}}$, den høyre siden har lengde $\textcolor{tomato}{n}$ og den siste delen har lengde $\textcolor{seagreen}{n+1}$. Antall kvadrater er summen av disse 3 delene.
-$
+$$
 F_{n}=\textcolor{maroon}{n^{2}}+\textcolor{tomato}{n}+\textcolor{seagreen}{n+1}=\underline{\underline{ n^{2}+2n+1 }}
-$
+$$
 
 
 </div></div>
@@ -269,7 +269,7 @@ Nedenfor ser du en modell som illustrerer dette.
 
 Modellen kan uttrykkes på formen
 
-$G(x) = ax + b$
+$$G(x) = ax + b$$
 
 >[!oppgave]
 >a) Bestem $a$ og $b$.
@@ -305,7 +305,7 @@ La $x$ være antall måneder etter desember 2022. Det vil si at $x = 1$ tilsvare
 
 >[!oppgave]
 >a) Bruk opplysningene ovenfor til å vise at funksjonen $K$ gitt ved
->$K(x) = 27{,}8 \cdot 1{,}2^{x}$
+>$$K(x) = 27{,}8 \cdot 1{,}2^{x}$$
 >er en god modell for antall registrerte tilfeller av kikhoste i Norge i perioden januar 2023–oktober 2024.
 >b) Gi en praktisk tolkning av tallet $1{,}2$ i modellen.
 >c) Bestem stigningstallet til den rette linjen som går gjennom punktene $(4,\ K(4))$ og $(21,\ K(21))$. Gi en praktisk tolkning av svaret du får.
@@ -381,17 +381,17 @@ Hun bør velge tilbud 2 hvis hun selger under 21 aviser. Hvis hun selger minst 2
 ## Løsningsforslag
 
 Vi kan lage en modell for hvert tilbud. Hvis vi sier at Elise selger $x$ aviser så har vi for tilbud 1
-$
+$$
 f(x)=0{,}35 \cdot 49 \cdot x=17{,}15x
-$
+$$
 
 For tilbud 2 så har vi
-$
+$$
 g(x)=150 + 10x
-$
+$$
 
 Vi ser umiddelbart at Elise bør velge tilbud 2 dersom hun selger veldig få aviser – da er hun jo garantert 150 kr uansett! Men vi bør undersøke *hvor mye* hun må selge for at det skal lønne seg å velge tilbud 1. Det kan vi gjøre ved å løse likningen
-$
+$$
 \begin{aligned}
 f(x)&=g(x) \\
 17{,}15x&=150+10x \\
@@ -399,7 +399,7 @@ f(x)&=g(x) \\
 \frac{\cancel{ 7{,}15 }x}{\cancel{ 7{,}15 }} &= \frac{150}{7{,}15} \\
 x &= 20{,}98
 \end{aligned}
-$
+$$
 
 **Hvis Elise regner med å selge minst 21 aviser så bør hun velge tilbud 1. Hvis hun selger mindre enn dette bør hun velge tilbud 2.**
 
@@ -431,9 +431,9 @@ Informasjonen ovenfor er hentet fra nettsidene til Bladkongen.
 Vi ser på det første tilbudet først: «4 aviser for 99 kroner, spar 49 %». 
 
 Å spare 49 % betyr at vi fremdeles betaler 51 % av prisen. Vi kan finne full pris for avisene ved å gå veien om en:
-$
+$$
 \frac{99 \mathrm{~kr}}{51 \,\%}\cdot 100 \,\% = 1{,}94 \mathrm{~kr} \cdot 100 \, \%=194 \mathrm{~kr}
-$
+$$
 **Prisen per avis er $\frac{194 \mathrm{~kr}}{4}=\underline{\underline{ 48{,}5 \mathrm{~kr} }}$.**
 
 

@@ -46,9 +46,9 @@ Hvis Selma kjører 16 reiser så vil hun altså betale mindre ved å kjøpe enke
 Prisen for 20 enkeltreiser er $25 \cdot 20=500$.
 
 Hun sparer altså $500-415=85 \mathrm{~kr}$. Det tilsvarer
-$
+$$
 \frac{85}{500}=\frac{85:5}{500:5}= \frac{17}{100}=17 \,\%
-$
+$$
 **Hun sparer 17 % på å kjøpe fleksikort hvis hun bruker 20 reiser.**
 
 
@@ -81,7 +81,7 @@ $P(x) = 1{,}9 + 0{,}05 \cdot x$. I 2030 ($x=28$): 3,3 millioner personbiler.
 
 La $x$ være antall år etter 2002. Vi kjenner to punkt på grafen: $(0, 1{,}9)$ i 2002 og $(20, 2{,}9)$ i 2022. Stigningstallet er:
 
-$d = \frac{2{,}9 - 1{,}9}{20 - 0} = \frac{1{,}0}{20} = 0{,}05$
+$$d = \frac{2{,}9 - 1{,}9}{20 - 0} = \frac{1{,}0}{20} = 0{,}05$$
 
 **Modellen er $\underline{\underline{P(x) = 1{,}9 + 0{,}05 \cdot x}}$, der $P$ er antall millioner personbiler og $x$ er antall år etter 2002.**
 
@@ -89,7 +89,7 @@ Det betyr at antallet personbiler øker med 0,05 millioner (50 000) per år.
 
 I 2030 er $x = 28$:
 
-$P(28) = 1{,}9 + 0{,}05 \cdot 28 = 1{,}9 + 1{,}4 = 3{,}3$
+$$P(28) = 1{,}9 + 0{,}05 \cdot 28 = 1{,}9 + 1{,}4 = 3{,}3$$
 
 ![Lineær modell for personbiler](/img/user/_resources/2p-y-h23-1-2-graf.png)
 
@@ -124,7 +124,7 @@ Solas masse er $\underline{\underline{3{,}33\cdot 10^{5}}}$ ganger større enn J
 
 Vi deler massen til sola på massen til jorda:
 
-$\frac{2{,}0 \cdot 10^{30}}{6{,}0 \cdot 10^{24}} = \frac{2{,}0}{6{,}0} \cdot 10^{30-24} = \frac{1}{3} \cdot 10^{6} \approx 3{,}3 \cdot 10^{5}$
+$$\frac{2{,}0 \cdot 10^{30}}{6{,}0 \cdot 10^{24}} = \frac{2{,}0}{6{,}0} \cdot 10^{30-24} = \frac{1}{3} \cdot 10^{6} \approx 3{,}3 \cdot 10^{5}$$
 
 **Solas masse er omtrent $\underline{\underline{3{,}3 \cdot 10^{5}}}$ ganger større enn Jordas masse.**
 
@@ -165,7 +165,7 @@ Vi trenger en tallrekke med 10 tall der:
 
 **Alternativ 1** (bruker 8 km minst én gang):
 
-$5, \; 5, \; 5, \; 7, \; \textcolor{seagreen}{8}, \; \textcolor{seagreen}{8}, \; 10, \; 12, \; 15, \; 15$
+$$5, \; 5, \; 5, \; 7, \; \textcolor{seagreen}{8}, \; \textcolor{seagreen}{8}, \; 10, \; 12, \; 15, \; 15$$
 
 - Typetall: 5 forekommer 3 ganger ✓
 - Median: $\dfrac{8+8}{2} = 8$ ✓
@@ -173,7 +173,7 @@ $5, \; 5, \; 5, \; 7, \; \textcolor{seagreen}{8}, \; \textcolor{seagreen}{8}, \;
 
 **Alternativ 2** (bruker ikke 8 km, minst halvparten nye tall):
 
-$3, \; 5, \; 5, \; 5, \; \textcolor{steelblue}{6}, \; \textcolor{steelblue}{10}, \; 11, \; 14, \; 15, \; 16$
+$$3, \; 5, \; 5, \; 5, \; \textcolor{steelblue}{6}, \; \textcolor{steelblue}{10}, \; 11, \; 14, \; 15, \; 16$$
 
 - Typetall: 5 forekommer 3 ganger ✓
 - Median: $\dfrac{6+10}{2} = 8$ ✓
@@ -220,9 +220,9 @@ Jeg ser at mønsteret ser ut som kvadrater hvor sirkelen oppe i høyre hjørne e
 Vi ser at kvadratet alltid har sidelengde $+1$ sammenlignet med figurnummeret. Vi kaller figurnummeret $n$ og finner sammenhengen: Figur $n$ er $(n+1) \times (n+1)$ minus en sirkel i hjørnet.
 
 Et uttrykk for denne sammenhengen er:
-$
+$$
 \underline{\underline{ F_{n}=(n+1)^{2}-1 }}
-$
+$$
 
 
 </div></div>
@@ -243,9 +243,9 @@ $
 
 Funksjonen $T$ gitt ved
 
-$
+$$
 T(x)=-\frac{1}{1000}(0{,}0028x^{3}-x^{2}+25x-380) \quad {,}\quad 0\leq x\leq 300
-$
+$$
 
 er en modell for temperaturen $T(x)$ grader celsius i sjøen ett sted på Sørlandet $x$ døgn etter 31. desember 2020.
 
@@ -273,18 +273,18 @@ Måneden mars tilsvarer omtrent dagene $x=59$ til $x=90$.
 
 Vi regner ut temperaturen for disse dagene i GeoGebra:
 
-$
+$$
 \begin{aligned}
 T(59)&=1{,}81 \, \degree\text{C}\\
 T(90)&=4{,}19 \, \degree\text{C}\\
 \end{aligned}
-$
+$$
 
 I løpet av de 31 dagene i mars er altså gjennomsnittsstigningen:
 
-$
+$$
 \frac{4{,}19-1{,}81}{31}=\underline{\underline{ 0{,}0767 \, \degree \text{C per dag} }}
-$
+$$
 
 **Temperaturen stiger med 0,0767 ºC per dag i mars.**
 
@@ -350,7 +350,7 @@ Datamaterialet sortert: $11, 11, 12, 12, 13, \mathbf{14}, 15, 15, 15, 16, 25$
 
 Vi beregner i GeoGebra med listen $\{11, 11, 12, 12, 13, 14, 15, 15, 15, 16, 25\}$.
 
-$\text{Gjennomsnitt} = \frac{11+11+12+12+13+14+15+15+15+16+25}{11} = \frac{159}{11} \approx \underline{\underline{14{,}5}}$
+$$\text{Gjennomsnitt} = \frac{11+11+12+12+13+14+15+15+15+16+25}{11} = \frac{159}{11} \approx \underline{\underline{14{,}5}}$$
 
 Standardavvik (beregnet med GeoGebra): $\underline{\underline{\sigma \approx 3{,}7}}$
 
@@ -390,11 +390,11 @@ Mona eier en butikk. Hun setter opp prisen for en vare i butikken med 160 kroner
 
 Vi finner først den opprinnelige prisen på varen. En økning på 160 kr tilsvarer 2,5 %:
 
-$\text{Opprinnelig pris} = \frac{160}{0{,}025} = 6400 \text{ kr}$
+$$\text{Opprinnelig pris} = \frac{160}{0{,}025} = 6400 \text{ kr}$$
 
 Dersom Mona hever prisen med 240 kr i stedet:
 
-$\frac{240}{6400} = 0{,}0375 = 3{,}75 \,\%$
+$$\frac{240}{6400} = 0{,}0375 = 3{,}75 \,\%$$
 
 **Prisøkningen hadde vært $\underline{\underline{3{,}75 \,\%}}$ dersom Mona hadde satt opp prisen med 240 kroner.**
 
@@ -430,15 +430,15 @@ La oss si at opprinnelig pris per handlenett er $p$ kr, og at bedriften selger 1
 
 Inntekt **før** prisøkning:
 
-$1 \cdot p + 2 \cdot p + 3 \cdot p = 6p$
+$$1 \cdot p + 2 \cdot p + 3 \cdot p = 6p$$
 
 Inntekt **etter** prisøkning (blå +15 %, svart +10 %, grønn +5 %):
 
-$1 \cdot 1{,}15p + 2 \cdot 1{,}10p + 3 \cdot 1{,}05p = 1{,}15p + 2{,}20p + 3{,}15p = 6{,}50p$
+$$1 \cdot 1{,}15p + 2 \cdot 1{,}10p + 3 \cdot 1{,}05p = 1{,}15p + 2{,}20p + 3{,}15p = 6{,}50p$$
 
 Prosentvis økning i inntekten:
 
-$\frac{6{,}50p - 6p}{6p} = \frac{0{,}50p}{6p} = \frac{1}{12} \approx 8{,}3 \,\%$
+$$\frac{6{,}50p - 6p}{6p} = \frac{0{,}50p}{6p} = \frac{1}{12} \approx 8{,}3 \,\%$$
 
 **Inntektene vil øke med $\underline{\underline{\frac{1}{12} \approx 8{,}3 \,\%}}$.**
 
@@ -488,7 +488,7 @@ Siden vasepris er en fast kostnad, vil grafen starte over null (ikke i origo). D
 
 Emma har rett i at beløpet per person avtar når flere er med. Og hvis totalprisen er fast (de har bestemt antall roser), er produktet:
 
-$\text{beløp per person} \cdot \text{antall personer} = \text{totalpris (konstant)}$
+$$\text{beløp per person} \cdot \text{antall personer} = \text{totalpris (konstant)}$$
 
 Det er nettopp kravet for omvendt proporsjonalitet – produktet av de to størrelsene er konstant. **Emma har altså rett**, forutsatt at det totale beløpet er bestemt på forhånd.
 
@@ -598,7 +598,7 @@ Utslippet i år er $u_0 = 40$ tonn. Det reduseres med 5 % hvert år, så vekstfa
 
 Samlet utslipp over tre år:
 
-$40 + 38 + 36{,}1 = \underline{\underline{114{,}1 \text{ tonn}}} \quad \checkmark$
+$$40 + 38 + 36{,}1 = \underline{\underline{114{,}1 \text{ tonn}}} \quad \checkmark$$
 
 ### 2-7b
 
@@ -636,11 +636,11 @@ Oles formel er $T = \dfrac{u}{p} \cdot 100$.
 
 Med $u = 40$ og $p = 5$:
 
-$T = \frac{40}{5} \cdot 100 = 8 \cdot 100 = 800 \text{ tonn}$
+$$T = \frac{40}{5} \cdot 100 = 8 \cdot 100 = 800 \text{ tonn}$$
 
 Dette stemmer med svaret i b) og c). La oss sjekke at formelen er generell: En uendelig geometrisk rekke med første ledd $u$ og kvotient $k = 1 - \frac{p}{100}$ har summen
 
-$T = \frac{u}{1 - k} = \frac{u}{1 - \left(1 - \frac{p}{100}\right)} = \frac{u}{\frac{p}{100}} = \frac{u \cdot 100}{p}$
+$$T = \frac{u}{1 - k} = \frac{u}{1 - \left(1 - \frac{p}{100}\right)} = \frac{u}{\frac{p}{100}} = \frac{u \cdot 100}{p}$$
 
 **Oles formel $T = \dfrac{u}{p} \cdot 100$ er riktig** – den gir det samlede utslippet når utslippet reduseres med $p$ % hvert år.
 
@@ -688,7 +688,7 @@ b) Lineær modell gir negativt utslipp i 2050 (urealistisk). Eksponentiell model
 
 Norske myndigheter ønsker at klimagassutslippet skal reduseres med 55 % fra 1990-nivå innen 2030. Det betyr at målet for 2030 er:
 
-$51{,}3 \cdot (1 - 0{,}55) = 51{,}3 \cdot 0{,}45 = 23{,}085 \text{ millioner tonn}$
+$$51{,}3 \cdot (1 - 0{,}55) = 51{,}3 \cdot 0{,}45 = 23{,}085 \text{ millioner tonn}$$
 
 Siden $x$ er antall år etter 2022, tilsvarer 2030 $x = 8$.
 
@@ -696,18 +696,18 @@ Siden $x$ er antall år etter 2022, tilsvarer 2030 $x = 8$.
 
 Vi vet at modellen skal starte i $A(0) = 48{,}9$ og nå $A(8) = 23{,}085$. Den lineære modellen er:
 
-$A(x) = 48{,}9 - d \cdot x$
+$$A(x) = 48{,}9 - d \cdot x$$
 
 Vi finner den faste reduksjonen $d$ per år:
 
-$
+$$
 \begin{aligned}
 A(8) &= 23{,}085 \\
 48{,}9 - 8d &= 23{,}085 \\
 8d &= 48{,}9 - 23{,}085 = 25{,}815 \\
 d &= \frac{25{,}815}{8} \approx 3{,}23
 \end{aligned}
-$
+$$
 
 **Anders sin lineære modell er $\underline{\underline{A(x) = 48{,}9 - 3{,}23 \cdot x}}$.**
 
@@ -717,18 +717,18 @@ Det betyr at utslippet må reduseres med omtrent 3,23 millioner tonn per år.
 
 Vi vet at modellen skal starte i $F(0) = 48{,}9$ og nå $F(8) = 23{,}085$. Den eksponentielle modellen er:
 
-$F(x) = 48{,}9 \cdot k^{x}$
+$$F(x) = 48{,}9 \cdot k^{x}$$
 
 Vi finner vekstfaktoren $k$:
 
-$
+$$
 \begin{aligned}
 F(8) &= 23{,}085 \\
 48{,}9 \cdot k^{8} &= 23{,}085 \\
 k^{8} &= \frac{23{,}085}{48{,}9} \approx 0{,}4721 \\
 k &= 0{,}4721^{\frac{1}{8}} \approx 0{,}9104
 \end{aligned}
-$
+$$
 
 **Arne sin eksponentielle modell er $\underline{\underline{F(x) = 48{,}9 \cdot 0{,}9104^{x}}}$.**
 
@@ -738,9 +738,9 @@ Det betyr at utslippet må reduseres med omtrent $1 - 0{,}9104 \approx 8{,}96 \,
 
 Vi bruker modellene til å beregne utslippet i 2050 ($x = 28$):
 
-$A(28) = 48{,}9 - 3{,}23 \cdot 28 \approx -41{,}5 \text{ millioner tonn}$
+$$A(28) = 48{,}9 - 3{,}23 \cdot 28 \approx -41{,}5 \text{ millioner tonn}$$
 
-$F(28) = 48{,}9 \cdot 0{,}9104^{28} \approx 3{,}53 \text{ millioner tonn}$
+$$F(28) = 48{,}9 \cdot 0{,}9104^{28} \approx 3{,}53 \text{ millioner tonn}$$
 
 Målet for 2050 er 90–95 % reduksjon fra 1990, altså mellom 2,565 og 5,13 millioner tonn.
 
@@ -752,7 +752,7 @@ Anders sin lineære modell gir et negativt utslipp i 2050 (ca. −41,5 millioner
 
 Arne sin eksponentielle modell gir ca. 3,53 millioner tonn i 2050. Det tilsvarer en reduksjon på
 
-$\frac{51{,}3 - 3{,}53}{51{,}3} \approx 93{,}1 \,\%$
+$$\frac{51{,}3 - 3{,}53}{51{,}3} \approx 93{,}1 \,\%$$
 
 fra 1990-nivå, som er innenfor målet på 90–95 %. **Den eksponentielle modellen viser at det er mulig å nå lavutslippsmålet i 2050 dersom utslippet reduseres med ca. 9 % hvert år.**
 

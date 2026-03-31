@@ -17,7 +17,7 @@
 
 >[!oppgave]
 >Deriver funksjonen
->$f(x) = \frac{e^{2x}}{x}$
+>$$f(x) = \frac{e^{2x}}{x}$$
 
 ## Fasit
 
@@ -25,12 +25,12 @@
 ## Løsningsforslag
 
 Funksjonen består av en brøk med funksjoner i både teller og nevner, så vi må bruke kvotientregelen når vi deriverer.
-$
+$$
 f(x)=\frac{u}{v}\implies f'(x)=\frac{u'v+uv'}{v^{2}}
-$
-$
+$$
+$$
 f'(x)=\frac{2e^{2x} \cdot x + e^{2x}\cdot 1}{x^{2}}=\underline{\underline{e^{2x} \frac{2x+1}{x^{2}}}}
-$
+$$
 
 
 </div></div>
@@ -70,14 +70,14 @@ print(x)
 Jeg ser at programmet består av en funksjon $O(x)$ som muligens er en overskuddsfunksjon. `while`-løkka i programmet kjører så lenge $O(x+1)>O(x)$, altså kjører løkka så lenge $O(x)$ stiger. Inni løkka økes $x$-verdien med 1, altså vil programmet skrive ut $x$-koordinaten til toppunktet til $O(x)$.
 
 Den enkleste måten å bestemme toppunktet på er å derivere $O$ og sette lik null.
-$
+$$
 \begin{aligned}
 O'(x)&=-0{,}2x+2000 \\
 -0{,}2x+2000 &= 0\\
 0{,}2x&=2000\\
 x&=10\,000
 \end{aligned}
-$
+$$
 **Programmet skriver ut 10 000.**
 
 
@@ -97,7 +97,7 @@ $
 
 >[!oppgave]
 >Løs likningen
->$100^x - 3 \cdot 10^x = 4$
+>$$100^x - 3 \cdot 10^x = 4$$
 
 ## Fasit
 
@@ -105,24 +105,24 @@ $
 ## Løsningsforslag
 
 Jeg ser at likningen består av tierpotenser.
-$
+$$
 \begin{aligned}
 100^{x}-3 \cdot 10^{x}&=4\\
 \left( 10^{x} \right)^{2}  -3 \cdot 10^{x} - 4&=0\\
 \end{aligned}
-$
+$$
 Dette ser jeg at kan skrives som en andregradslikning hvor $u=10^{x}$.
-$
+$$
 u^{2}-3u-4=0 \implies \underbrace{ (u-4)(u+1)=0 }_{ \text{Heltallsmetode} } \implies \underline{ u= 4 \vee u=-1} 
-$
+$$
 Vi bytter substituerer tilbake.
-$
+$$
 \begin{aligned}
 10^{x}&=4 \vee \underbrace{ \cancel{ 10^{x}=-1 } }_{ 10^{x} \text{ er positivt} } \\
 \log 10^{x} &= \log 4\\
 x&= \log 4
 \end{aligned}
-$
+$$
 **Løsningen er $\underline{\underline{x=\log 4}}$**.
 
 
@@ -142,7 +142,7 @@ $
 
 >[!oppgave]
 >Finn grenseverdien hvis den eksisterer.
->$\lim_{x \to \infty} \frac{x^2 + x - 12}{2x^2 - 18}$
+>$$\lim_{x \to \infty} \frac{x^2 + x - 12}{2x^2 - 18}$$
 
 ## Fasit
 
@@ -150,9 +150,9 @@ $
 ## Løsningsforslag
 
 Vi ser at både teller og nevner går mot uendelig når $x \to \infty$. Vi kan altså bruke L'Hopitals regel.
-$
+$$
 \lim_{ x \to \infty } \frac{x^{2}+x-12}{2x^{2}-18}=\lim_{ x \to \infty } \frac{2x+1}{4x}=\lim_{ x \to \infty } \frac{2+\frac{1}{x}}{4}=\frac{2+0}{4}=\frac{1}{2}
-$
+$$
 **Grenseverdien er $\underline{\underline{\frac{1}{2}}}$.**
 
 
@@ -183,13 +183,13 @@ I en kasse ligger det 4 røde, 3 blå og 2 gule kuler. Audun tar tilfeldig to ku
 
 ### 1-5a
 For å ta to kuler av samme farge må Audun enten ta to røde ($R$), to blå ($B$) eller to gule ($G$) kuler. Det er 9 kuler i kassa.
-$
+$$
 \begin{aligned}
 P(\text{To samme farge})&=P(2R)+P(2B)+(2G)\\
 &=\frac{4}{9} \cdot \frac{3}{8} + \frac{3}{9} \cdot \frac{2}{8} + \frac{2}{9}\cdot \frac{1}{8}\\
 &=\frac{12+6+2}{72}=\frac{5}{18}
 \end{aligned}
-$
+$$
 **Sannsynligheten for å ta to kuler av samme farge er $\underline{\underline{\frac{5}{18}}}$**
 
 
@@ -290,9 +290,9 @@ Avgjør om hver enkelt påstand nedenfor er sann eller usann. Forklar tydelig hv
 
 ### 2-2a
 Vi kan finne gjennomsnittlig vekstfart i intervallet ved å beregne
-$
+$$
 \frac{f(4)-f(1)}{3}=\frac{4^{2}+2-\left( 1^{2}+2 \right) }{3}=\frac{16+2-1-2}{3}=\frac{15}{3}=\underline{\underline{5}}
-$
+$$
 **Påstanden stemmer. Den gjennomsnittlige vekstfarten i intervallet er 5.**
 
 ### Oppgave 2-2b
@@ -344,7 +344,7 @@ Hvis vi tolker at $0^{0}$ er en ubestemt form så vil likningen ha ingen løsnin
 
 I koordinatsystemet nedenfor ser du grafen til en funksjon $f$ gitt ved
 
-$f(x) = \log_a(x)$
+$$f(x) = \log_a(x)$$
 
 ![Graf av logaritmefunksjon med ukjent grunntall](/img/user/_resources/s1-h24-2-3.jpeg)
 
@@ -427,8 +427,8 @@ Stephanie leier ut parkeringsplasser. Hun leier ut plasser for 1000 kroner per p
 
 Bedriften Skipsmotor AS ønsker å optimalisere produksjonen av båtmotorer i Norge. Inntektene og kostnadene ved produksjon og salg av $x$ båtmotorer per år er gitt ved
 
-$I(x) = 250x - 0{,}5x^2$
-$K(x) = 70x + 600$
+$$I(x) = 250x - 0{,}5x^2$$
+$$K(x) = 70x + 600$$
 
 $I(x)$ og $K(x)$ er gitt i 1000 kroner.
 
@@ -476,7 +476,7 @@ Anta at 99 % av befolkningen ikke er smittet. En tilfeldig valgt person tar en t
 >[!tip] Bayes setning
 >
 >Denne oppgaven er enklest å løse dersom du kjenner til Bayes setning:
-> $ P(A\vert B )= \frac{P(B \vert A) \cdot P(A)}{P(B)} $
+> $$ P(A\vert B )= \frac{P(B \vert A) \cdot P(A)}{P(B)} $$
 > Der $P(A\vert B)$ betyr sannsynligheten for at $A$ inntreffer, gitt at vi har fått vite at $B$ inntreffer.
 >
 >I mitt løsningsforslag velger jeg å løse oppgaven uten å bruke Bayes setning
@@ -503,14 +503,14 @@ Sannsynligheten for en hendelse er $\dfrac{\text{gunstige utfall}}{\text{mulige 
 		- $\textcolor{tomato}{99 \,\%}$ er sannsynligheten for å ikke være smittet
 		- $\textcolor{maroon}{2} \,\%$ er sannsynligheten for å få positiv test selv om du ikke er smittet
 	- Når vi legger sammen alle mulighetene får vi
-$
+$$
 P(T_{S})+P(T_{\bar{S}}) =\textcolor{seagreen}{1 \,\%}  \cdot \textcolor{steelblue}{99 \,\%} + \textcolor{tomato}{99 \,\%}  \cdot \textcolor{maroon}{2} \,\%= \textcolor{darkblue}{3\,\% \cdot 99 \,\%}
-$
+$$
 
 Sannsynligheten for at en person med positiv test er smittet er altså
-$
+$$
 \frac{\text{gunstige utfall}}{\text{mulige utfall}}= \frac{\textcolor{seagreen}{1 \,\%}  \cdot \textcolor{steelblue}{99 \,\%}}{\textcolor{darkblue}{3\,\% \cdot 99 \,\%}}= \frac{1}{3}\approx \underline{\underline{ 33{,}3 \, \% }}
-$
+$$
 
 
 </div></div>

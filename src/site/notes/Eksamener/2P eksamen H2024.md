@@ -40,7 +40,7 @@ På et kart er avstanden mellom to byer 10 cm. I virkeligheten er denne avstande
 
 Lars arbeider i en butikk etter skoletid og i helgene. Nedenfor ser du hvor mange timer han har arbeidet hver av de 10 siste dagene:  
 
-$3\quad 3\quad 4\quad 5\quad 6\quad 8\quad 0\quad 3\quad 5\quad 5$
+$$3\quad 3\quad 4\quad 5\quad 6\quad 8\quad 0\quad 3\quad 5\quad 5$$
 
 >[!oppgave]
 > a) Bestem gjennomsnittet og medianen.  
@@ -57,13 +57,13 @@ b) 8
 
 Data sortert i stigende rekkefølge:
 
-$0 \quad 3 \quad 3 \quad 3 \quad \underbrace{ \textcolor{steelblue}{4} \quad \textcolor{steelblue}{5} }_{ \text{Median} } \quad 5 \quad 5 \quad 6 \quad 8$
+$$0 \quad 3 \quad 3 \quad 3 \quad \underbrace{ \textcolor{steelblue}{4} \quad \textcolor{steelblue}{5} }_{ \text{Median} } \quad 5 \quad 5 \quad 6 \quad 8$$
 
 
-$\text{Gjennomsnitt} = \frac{0 + 3 + 3 + 3 + 4 + 5 + 5 + 5 + 6 + 8}{10} = \frac{42}{10} = 4{,}2$
+$$\text{Gjennomsnitt} = \frac{0 + 3 + 3 + 3 + 4 + 5 + 5 + 5 + 6 + 8}{10} = \frac{42}{10} = 4{,}2$$
 
 
-$\text{median} = \frac{4 + 5}{2} = 4{,}5$
+$$\text{median} = \frac{4 + 5}{2} = 4{,}5$$
 
 **Gjennomsnittet er 4,2 timer og medianen er 4,5 timer.**
 
@@ -112,12 +112,12 @@ Even har tegnet en rettvinklet trekant. Den ene kateten er 10 cm, og den andre k
 
 Markus arbeider med likningssystemet nedenfor.
 
-$
+$$
 \begin{bmatrix}
 \quad  2x  -6  =  y  \quad  \\
 4x  +2y = 12
 \end{bmatrix}
-$
+$$
 
 >[!oppgave]
 >Vis Markus hvordan han kan løse likningssystemet.
@@ -209,7 +209,7 @@ Dette tilsvarer utslippet i 2025, 2026, 2027, 2028 og 2029.
 
 En bedrift produserer iste. Funksjonen gitt ved  
 
-$F(x) = 620 \cdot 1{,}045^x$
+$$F(x) = 620 \cdot 1{,}045^x$$
 
 er en modell som viser hvor mange flasker av isteen bedriften regner med å selge hver måned fra og med desember 2024.  
 
@@ -236,13 +236,13 @@ b) $\approx 188 \,\%$ økning
 
 Desember 2025 er 12 måneder etter desember 2024, så vi setter $x = 12$:
 
-$F(12) = 620 \cdot 1{,}045^{12} \approx 1051 \text{ flasker}$
+$$F(12) = 620 \cdot 1{,}045^{12} \approx 1051 \text{ flasker}$$
 
 For å finne når salget overstiger 2000 flasker løser vi $F(x) > 2000$:
 
-$620 \cdot 1{,}045^x = 2000 \implies 1{,}045^x = \frac{2000}{620} \approx 3{,}226$
+$$620 \cdot 1{,}045^x = 2000 \implies 1{,}045^x = \frac{2000}{620} \approx 3{,}226$$
 
-$x = \frac{\lg 3{,}226}{\lg 1{,}045} \approx 26{,}6$
+$$x = \frac{\lg 3{,}226}{\lg 1{,}045} \approx 26{,}6$$
 
 Det vil si at fra og med $x = 27$ (mars 2027) vil salget overstige 2000 flasker.
 
@@ -262,9 +262,9 @@ Fra grafen leser vi av:
 
 Fra desember 2024 ($x = 0$) til desember 2026 ($x = 24$):
 
-$F(0) = 620 \qquad F(24) = 620 \cdot 1{,}045^{24} \approx 1783$
+$$F(0) = 620 \qquad F(24) = 620 \cdot 1{,}045^{24} \approx 1783$$
 
-$\text{Prosentvis økning} = \frac{F(24) - F(0)}{F(0)} \cdot 100 = \frac{1783 - 620}{620} \cdot 100 \approx 187{,}6 \,\%$
+$$\text{Prosentvis økning} = \frac{F(24) - F(0)}{F(0)} \cdot 100 = \frac{1783 - 620}{620} \cdot 100 \approx 187{,}6 \,\%$$
 
 Vi kan også bruke at vekstfaktoren over 24 måneder er $1{,}045^{24} \approx 2{,}876$, dvs. $188 \,\%$ økning.
 
@@ -332,7 +332,7 @@ $a \,\%$ av $b$ $=$ $\frac{a \cdot b}{100}$ $=$ $b \,\%$ av $a$ (multiplikasjon 
 
 Siden multiplikasjon er kommutativ ($a \cdot b = b \cdot a$), gir de to regnestykket alltid det samme svaret:
 
-$\frac{a \cdot b}{100} = \frac{b \cdot a}{100}$
+$$\frac{a \cdot b}{100} = \frac{b \cdot a}{100}$$
 
 **Vi kan bytte om tallene i prosentoppgaver: $a \,\%$ av $b$ gir alltid samme svar som $b \,\%$ av $a$, fordi vi i begge tilfeller deler produktet $a \cdot b$ på $100$. Multiplikasjon er kommutativ.**
 
@@ -354,7 +354,7 @@ En fotoklubb arrangerer quiz hver torsdag. Det er tre lag som alltid deltar på 
 
 Nedenfor ser du alderen til de seks personene på lag A:  
 
-$15\text{~år}\quad 60\text{~år}\quad 24\text{~år}\quad 18\text{~år}\quad 45\text{~år}\quad 78\text{~år}$  
+$$15\text{~år}\quad 60\text{~år}\quad 24\text{~år}\quad 18\text{~år}\quad 45\text{~år}\quad 78\text{~år}$$  
 
 >[!oppgave]
 > a) Bestem medianalderen, gjennomsnittsalderen og standardavviket for alderen til de seks personene på laget.  
@@ -387,15 +387,15 @@ Lag A sortert: $15, 18, 24, 45, 60, 78$
 
 Seks personer → gjennomsnittet av den 3. og 4. verdien:
 
-$\text{median} = \frac{24 + 45}{2} = 34{,}5 \, \text{år}$
+$$\text{median} = \frac{24 + 45}{2} = 34{,}5 \, \text{år}$$
 
 **Gjennomsnittsalder:**
 
-$\bar{x} = \frac{15 + 60 + 24 + 18 + 45 + 78}{6} = \frac{240}{6} = 40 \, \text{år}$
+$$\bar{x} = \frac{15 + 60 + 24 + 18 + 45 + 78}{6} = \frac{240}{6} = 40 \, \text{år}$$
 
 **Standardavvik** (beregnet med kalkulator):
 
-$\sigma \approx 23{,}2 \, \text{år}$
+$$\sigma \approx 23{,}2 \, \text{år}$$
 
 **$\underline{\underline{\text{Median} = 34{,}5 \, \text{år}, \; \bar{x} = 40 \, \text{år}, \; \sigma \approx 23{,}2 \, \text{år}}}$**
 
@@ -409,7 +409,7 @@ $\sigma \approx 23{,}2 \, \text{år}$
 
 **Eksempel på lag B** (median > 34,5, gjennomsnitt > 40, SD < 23,2):
 
-$38, \; 40, \; 42, \; 45, \; 50, \; 55$
+$$38, \; 40, \; 42, \; 45, \; 50, \; 55$$
 
 - Median: $\frac{42+45}{2} = 43{,}5 > 34{,}5$ ✓
 - Gjennomsnitt: $\frac{270}{6} = 45 > 40$ ✓
@@ -417,7 +417,7 @@ $38, \; 40, \; 42, \; 45, \; 50, \; 55$
 
 **Eksempel på lag C** (median < 34,5, gjennomsnitt > 40, SD > 23,2):
 
-$10, \; 15, \; 30, \; 35, \; 60, \; 100$
+$$10, \; 15, \; 30, \; 35, \; 60, \; 100$$
 
 - Median: $\frac{30+35}{2} = 32{,}5 < 34{,}5$ ✓
 - Gjennomsnitt: $\frac{250}{6} \approx 41{,}7 > 40$ ✓
@@ -500,11 +500,11 @@ Dette er en åpen presentasjonsoppgave uten ett fasitsvar. Her er et eksempel p�
 
 Prosentvis endring i inntektsgivende arbeid for menn fra 1970 til 2010:
 
-$\frac{4{,}17 - 5{,}48}{5{,}48} \cdot 100 \approx -23{,}9 \,\%$
+$$\frac{4{,}17 - 5{,}48}{5{,}48} \cdot 100 \approx -23{,}9 \,\%$$
 
 Prosentvis endring i inntektsgivende arbeid for kvinner fra 1970 til 2010:
 
-$\frac{3{,}02 - 1{,}93}{1{,}93} \cdot 100 \approx 56{,}5 \,\%$
+$$\frac{3{,}02 - 1{,}93}{1{,}93} \cdot 100 \approx 56{,}5 \,\%$$
 
 **Interessante funn:**
 

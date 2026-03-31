@@ -20,7 +20,7 @@
 > 
 > Deriver funksjonen.
 > 
-> $f(x) = 4x^2 \cdot \ln(3x)$
+> $$f(x) = 4x^2 \cdot \ln(3x)$$
 
 ## Fasit
 
@@ -29,19 +29,19 @@ $f'(x)=4x \left( 2 \ln (3x) + 1  \right)$
 ## Løsningsforslag
 
 Vi ønsker å bruke produktregelen, men da må vi kunne derivere begge faktorene. Jeg må derivere $\ln(3x)$ ved å bruke kjerneregelen først ved å sette $u=3x$
-$
+$$
 \left( \ln (3x) \right)'= \left( \ln u \right)' \cdot u'=\frac{1}{u} \cdot 3 = \frac{3}{3x}=\frac{1}{x} 
-$
+$$
 
 Vi bruker produktregelen.
-$
+$$
 \begin{aligned}
 f'(x)&=(4x^{2})' \cdot \ln(3x) + 4x^{2} \cdot  \left( \ln(3x) \right)' \\
 &= 8x \cdot \ln (3x) + 4x^{2} \cdot \frac{1}{x} \\
 &= 8x \cdot \ln (3x) + 4x \\
 &= 4x \left( 2 \ln (3x) + 1  \right)
 \end{aligned}
-$
+$$
 
 
 </div></div>
@@ -61,7 +61,7 @@ $
 >[!oppgave]
 >Løs likningen.
 >
->$(\ln x)^2 - \ln x = 6$
+>$$(\ln x)^2 - \ln x = 6$$
 
 ## Fasit
 
@@ -82,7 +82,7 @@ $
 
 Funksjonen $f$ er gitt ved
 
-$f(x) = e^{-x+1}, \quad D_f = \mathbb{R}.$
+$$f(x) = e^{-x+1}, \quad D_f = \mathbb{R}.$$
 
 >[!oppgave]
 >Bestem grenseverdiene $\lim_{x\to\infty} f(x)$ og $\lim_{x\to-\infty} f(x)$ dersom de eksisterer.
@@ -129,7 +129,7 @@ Vi har gitt tre punkter $A(3, 4)$, $B(-1, -2)$ og $C(3+t, 2t)$ der $t \in \mathb
 
 En funksjon $f$ er definert ved
 
-$f(x) = \begin{cases} x\text{,}  & 0 \le x \le 2 \\ 5 - x\text{,} \quad  & 2 < x \le 5 \end{cases}$
+$$f(x) = \begin{cases} x\text{,}  & 0 \le x \le 2 \\ 5 - x\text{,} \quad  & 2 < x \le 5 \end{cases}$$
 
 >[!oppgave]
 >Gi funksjonen $f$ en ny definisjonsmengde slik at følgende er oppfylt samtidig:
@@ -159,7 +159,7 @@ $f(x) = \begin{cases} x\text{,}  & 0 \le x \le 2 \\ 5 - x\text{,} \quad  & 2 < x
 
 En influensaepidemi bryter ut på en videregående skole med 1000 elever. I starten er det få smittede, men antallet øker raskt. Antallet smittede elever $S(t)$ etter $t$ dager er tilnærmet gitt ved
 
-$S(t) = \frac{300}{1 + 28 \cdot e^{-0{,}3t}}.$
+$$S(t) = \frac{300}{1 + 28 \cdot e^{-0{,}3t}}.$$
 
 >[!oppgave]
 >a) Hvor lang tid tar det før 100 elever er smittet?
@@ -189,7 +189,7 @@ Avgjør om hver av påstandene nedenfor er sann eller usann. Forklar tydelig hvo
 >a) **Påstand:** Når $x > 0$, er $e^{k \cdot \ln(x)} = x^k$.
 >
 >b) En funksjon $f$ er gitt ved
->$f(x) = \begin{cases} x^3 - 2\text{,} & x < 2 \\ 3x^2 - 4\text{,} & x \ge 2 \end{cases}$
+>$$f(x) = \begin{cases} x^3 - 2\text{,} & x < 2 \\ 3x^2 - 4\text{,} & x \ge 2 \end{cases}$$
 >**Påstand:** Funksjonen er deriverbar i $x = 2$.
 >
 >c) **Påstand:** En funksjon som er både minkende og voksende i definisjonsmengden sin, kan ha en omvendt funksjon.
@@ -213,7 +213,7 @@ Avgjør om hver av påstandene nedenfor er sann eller usann. Forklar tydelig hvo
 
 To biler, A og B, kjører på hver sin vei. Posisjonen til bil A er gitt ved $\overrightarrow{r_A}(t)$, og posisjonen til bil B er gitt ved $\overrightarrow{r_B}(t)$, der
 
-$\overrightarrow{r_A}(t) = \left[\frac{1}{2}(t-4),\ t\right] \quad \text{og} \quad \overrightarrow{r_B}(t) = \left[\frac{1}{2}t,\ \frac{3}{2}\left(t-\frac{1}{5}\right)\right].$
+$$\overrightarrow{r_A}(t) = \left[\frac{1}{2}(t-4),\ t\right] \quad \text{og} \quad \overrightarrow{r_B}(t) = \left[\frac{1}{2}t,\ \frac{3}{2}\left(t-\frac{1}{5}\right)\right].$$
 
 Her er $t$ tiden målt i minutter, og avstandene er målt i kilometer.
 
@@ -249,7 +249,7 @@ Veiene krysser hverandre i et veikryss.
 
 Momentmagnitudeskalaen er en skala for å måle størrelsen på jordskjelv. Sammenhengen mellom momentmagnituden $M$ og energien $E$ er
 
-$M = \frac{2}{3} \lg(E) - 3{,}2.$
+$$M = \frac{2}{3} \lg(E) - 3{,}2.$$
 
 Energien $E$ måles i joule (J).
 
@@ -302,7 +302,7 @@ Det har vært en stor endring i hvilken type drivstoff bilene i Norge bruker. St
 
 En funksjon $f$ er gitt ved
 
-$f(x) = -x^2 + 4, \quad 0 \le x \le 2.$
+$$f(x) = -x^2 + 4, \quad 0 \le x \le 2.$$
 
 Lars har tegnet grafen til $f$ med et innskrevet rektangel $ABCD$. Lars har også skrevet et program.
 
@@ -362,7 +362,7 @@ En kule med radius $r$ deles i to like deler. Vi skal skjære ut en pyramide med
 
 Volumet av en pyramide er gitt ved
 
-$V = \frac{h \cdot G}{3},$
+$$V = \frac{h \cdot G}{3},$$
 
 der $G$ er grunnflaten og $h$ er høyden til pyramiden.
 

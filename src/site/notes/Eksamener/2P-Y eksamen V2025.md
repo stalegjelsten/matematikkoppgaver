@@ -28,9 +28,9 @@ $88\,\%$ av elevene i en klasse deltar i en undersøkelse. Det er $3$ elever som
 ## Løsningsforslag
 
 Siden 88 % har svart, så må de gjenværende 12 prosentene tilsvare de 3 elevene. Vi kan gå veien om en ved å finne ut hvor mange elever 1 prosent tilsvarer.
-$
+$$
 \frac{3\text{ elever}}{12 \,\%}=\frac{\cancel{ 3 } \text{ elever}}{\cancel{ 3 } \cdot 4 \, \%}=\frac{1}{4} \text{ elever per \%} = 0{,}25 \text{ elever per \%}
-$
+$$
 1 % tilsvarer altså 0,25 elever, og dermed tilsvarer 100 % 25 elever.
 
 **Det er 25 elever i klassen.**
@@ -53,7 +53,7 @@ $
 
 Trine og Truls står i kø for å ta en skiheis. De teller hvor mange personer som blir med i hver av vognene som kjører forbi før det blir deres tur. Resultatene ser du nedenfor:
 
-$6\qquad 3\qquad 2\qquad 4\qquad 4\qquad 6\qquad 2\qquad 7\qquad 8\qquad 8$
+$$6\qquad 3\qquad 2\qquad 4\qquad 4\qquad 6\qquad 2\qquad 7\qquad 8\qquad 8$$
 
 a) Bestem medianen og gjennomsnittet.
 b) Bestem den kumulative frekvensen for $6$ personer, og gi en praktisk tolkning av svaret.
@@ -67,15 +67,15 @@ b) Den kumulative frekvensen for $6$ personer er $7$ (det var 7 av de 10 observa
 
 ### 1-2a
 Medianen er det midterste tallet etter at vi har sortert dem stigende
-$
+$$
 2,2,3,4,\underbrace{ 4,6 }_{ \text{Median} },6,7,8,8
-$
+$$
 Siden både 4 og 6 står i midten så er medianen 5.
 
 Gjennomsnittet er summen av tallene delt på antallet observasjoner.
-$
+$$
 \frac{\text{Sum}}{\text{Antall observasjoner}}=\frac{2+2+3+4+4+6+6+7+8+8}{10}=\frac{50}{10}= \underline{\underline{5}}.
-$
+$$
 **Medianen er 5 og gjennomsnittet er 5.**
 
 ### 1-2b
@@ -121,13 +121,13 @@ Siden det koster 800 kr per person hvis de er 10 elever må det koste 400 kr per
 
 ### 1-3b
 Funksjonsuttrykkene for omvendt proporsjonale er på formen
-$
+$$
 f(x)=\frac{k}{x}
-$
+$$
 Der $k$ er prisen når $x=1$. I dette tilfellet må prisen være 8000 kr for å leie lokalet (siden det koster 4000 kr per person for 2 personer). Funksjonsuttrykket er derfor
-$
+$$
 \underline{\underline{f(x)=\frac{8000}{x}}}
-$
+$$
 
 
 </div></div>
@@ -156,13 +156,13 @@ Fremskrittspartiet har størst prosentvis framgang (fra $16\%$ til $20\%$ gir $\
 ## Løsningsforslag
 
 Høyre sin framgang var fra 24 % til 28 %, det gir en prosentvis framgang på 
-$
+$$
 \text{Høyres prosentvise endring} = \frac{4 \,\%}{24 \,\%} \cdot 100 \,\%= \frac{\cancel{ 4 } \,\%}{\cancel{ 4 } \cdot 6 \,\%} \cdot 100 \,\%= \frac{100}{6} \,\%
-$
+$$
 Fremskrittspartiet sin framgang var fra 16 % til 20 %, det gir en prosentvis framgang på
-$
+$$
 \text{FrPs prosentvise endring} = \frac{4 \,\%}{16 \,\%} \cdot 100 \,\%= \frac{\cancel{ 4 } \,\%}{\cancel{ 4 } \cdot 4 \,\%} \cdot 100 \,\%= \frac{100}{4} \,\%
-$
+$$
 **Siden $\frac{100}{4}$ er mer enn $\frac{100}{6}$ må Fremskrittspartiet ha hatt den største prosentvise framgangen.**
 
 >[!tip] Andre måter å argumentere for oppgave 1-4
@@ -189,9 +189,9 @@ I denne oppgaven skal du bruke fire av tallene $1,2,3,4,5,6,7,8,9$. Hvert tall k
 
 Skriv av og fyll inn ett tall i hver av de fire rutene i regnestykket nedenfor slik at svaret blir størst mulig:
 
-$
+$$
 10^{\Box}\times \Box \;-\; \Box\times 10^{\Box} \;=\;
-$
+$$
 
 ## Fasit
 
@@ -202,9 +202,9 @@ $8\cdot10^{9} - 2\cdot10^{1}$.
 Vi ser et regnestykke med differansen mellom to ulike ledd. For at svaret skal bli størst mulig må det første leddet være så stort som mulig, og det andre leddet (det vi trekker fra) må være så lite som mulig.
 
 Siden potenser blir veldig store når eksponentene er høye så vil $8 \cdot 10 ^{9}$ være det største tallet vi kan skrive, og $2 \cdot 10^{1}$ være det minste tallet vi kan skrive, dermed vil det regnestykket som gir det høyeste svaret være
-$
+$$
 \underline{\underline{8\cdot 10 ^{9} - 2 \cdot 10^{1}}}
-$
+$$
 
 
 </div></div>
@@ -263,19 +263,19 @@ Antallet hvite kvadrater øker med 3 for hver figur, og det starter på 1.
 ![Oppdeling av figur 3 i oppgave 1-6b](/img/user/_resources/2py-v25-1-6b.png)
 
 I figuren over har jeg delt opp figur nr 3 i 4 ulike deler. Jeg ser at vi har tre like deler med lengde 2 merket med lilla farge. Disse er altså 1 mindre enn figurtallet. I tillegg har vi en ekstra hvit rute som er fast i alle figurene, merket med rød farge. For figur 3 kunne vi altså skrevet opp antallet som $3 \cdot 2 + 1$ eller ved å bruke figurnummeret $\textcolor{seagreen}{3}$ kunne vi skrevet $3 \cdot (\textcolor{seagreen}{3}-1) + 1$. Et generelt uttrykk for hvite ruter i figur nummer $n$ blir derfor
-$
+$$
 \underline{\underline{H_{n}=3 \cdot (n-1) + 1=3n-2}}
-$
+$$
 
 ### 1-6c
 Jeg har allerede sett at det er mulig å finne størrelsen av hele rektangelet og trekke fra de hvite feltene for å finne ut hvor mange grønne ruter det er. Det store rektangelet øker med 2 i bredden og 1 i høyden, og vi ser at bredden er $2n+1$, mens høyden er $n+2$. Altså er antall ruter i hele rektangelet
-$
+$$
 \begin{aligned}
 \text{Antall ruter totalt} &= \left( 2n+1 \right) \cdot \left( n+2 \right)\\ &=2n \cdot n + 2n \cdot 2 + 1 \cdot n + 1 \cdot 2\\ &=2n^{2}+4n+n+2\\ &=2n^{2}+5n+2
 \end{aligned}
-$
+$$
 For å finne antallet grønne ruter så kan vi trekke fra antallet hvite ruter.
-$
+$$
 \begin{aligned}
 \text{Antall grønne} &= \text{Antall ruter totalt} - \text{Antall hvite} \\
 &=\left(  2n^{2}+5n+2 \right) - \left( 3n-2 \right) \\
@@ -283,11 +283,11 @@ $
 &= 2n^{2}+5n-3n+2+2\\
 &= 2n^{2}+2n+4
 \end{aligned}
-$
+$$
 I figur nummer $n$ er antallet grønne kvadrater gitt ved:
-$
+$$
 \underline{\underline{G_{n}=2n^{2}+2n+4}}
-$
+$$
 
 ![Oppdeling av figur 3 i oppgave 1-6c](/img/user/_resources/2py-v25-1-6-a.png)
 
@@ -440,7 +440,7 @@ Ledelsen ved en bedrift ønsker å redusere utslippet av miljøskadelige stoffer
 2. Den andre slipper ut $1000\text{~tonn}$ per år. 
  
 Ledelsen mener funksjonen
-$U(x)=5000\cdot0{,}95^x+1000$
+$$U(x)=5000\cdot0{,}95^x+1000$$
 
 er en god modell for utslippet $U(x)$ tonn per år etter $x$ år.
 
@@ -584,9 +584,9 @@ Dersom det kommer en ellevte person inn så er det person nr. 6 som vil være me
 Hvis det kommer en ny person inn i rommet så blir det 11 personer i rommet. Hvis deres gjennomsnittsalder skal være 30 så må summen av alle aldrene være $11 \cdot 30 = 330$ år.
 
 Foreløpig er summen av aldrene 313 år. Hvis den siste personen er 17 år så blir blir summen 330 år, og dermed blir gjennomsnittet
-$
+$$
 \frac{330 \text{ år}}{11}=30 \text{ år}
-$
+$$
 **Påstanden er riktig.**
 
 
@@ -619,16 +619,16 @@ Spray $100\text{ ml}$: $114\cdot\frac{100}{600}=19\text{ kr}$
 Hvis pris og mengde skal være proporsjonale størrelser så må det være en fast pris per liter eller milliliter med antibac.
 
 For den ene flasken er prisen per milliliter
-$
+$$
 \frac{114 \text{ kr}}{600 \text{ ml}}=0{,}19 \text{ kr/ml}
-$
+$$
 De andre flaskene må da koste
-$
+$$
 \begin{aligned}
 P_{\text{stor flaske}}&=4000 \text{ ml} \cdot 0{,}19 \text{ kr/ml}=\underline{\underline{760 \text{ kr}}} \\
 P_{\text{liten flaske}}&=100 \text{ ml} \cdot 0{,}19 \text{ kr/ml}= \underline{\underline{19 \text{ kr}}}
 \end{aligned}
-$
+$$
 
 **Den lille flasken må koste 19 kr og den store flasken må koste 760 kr for at prisene og mengde skal være proporsjonale størrelser.**
 
@@ -672,13 +672,13 @@ b) 7 uker
 For at skjerfet skal øke med like mange centimeter per uke, så må vi bruke en lineær modell på formen $y=ax+b$. 
 
 Vi vet at skjerfet er 8 m i dag, og at det skal bli 40 meter etter 25 uker. Det skal altså øke med vekstfarten
-$
+$$
 \frac{40 \text{ m}-8\text{ m}}{25\text{ uke}}=1{,}28 \text{ meter per uke}
-$
+$$
 En lineær modell for lengden på skjerfet etter $x$ uker vil derfor være
-$
+$$
 y=1{,}28x+8
-$
+$$
 
 
 >[!note] Løsning med regresjon
@@ -687,9 +687,9 @@ $
 
 ### 2-5b
 Jeg løser oppgaven i CAS. Vi skal finne ut når funksjonen vår passerer 17 m, vi skal altså løse likningen
-$
+$$
 1{,}28x+8=17
-$
+$$
 
 ![Løsning av 2-5b i CAS](/img/user/_resources/2py-v25-2-5b.png)
 

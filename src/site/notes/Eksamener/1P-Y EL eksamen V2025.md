@@ -53,7 +53,7 @@ Mina har undersøkt hvor lang tid det tar å lade mobiltelefonen.
 
 Hun har funnet ut at når telefonen er helt utladet, kan hun bruke formelen nedenfor til å regne ut omtrent hvor mange prosent $P$ den lades i løpet av $m$ minutter.
 
-$P = 10 \cdot \sqrt{m}$
+$$P = 10 \cdot \sqrt{m}$$
 
 - $P$ er hvor mange prosent mobilen lades opp
 - $m$ er antall minutter med lading
@@ -83,18 +83,18 @@ Påstand 1 stemmer. Påstand 2 stemmer ikke.
 
 **Påstand 1**  
 Hvis påstand 1 stemmer så må $10 \cdot \sqrt{ 25 }$ bli lik $50$. Vi sjekker.
-$
+$$
 10 \cdot \sqrt{ 25 }=10 \cdot 5 = 50
-$
+$$
 **Påstand 1 stemmer, det tar 25 minutter å lade fra 0 % til 50 %.**
 
 **Påstand 2**  
 Vi vet at det tar 25 minutter å lade til 50 %. La oss tredoble tiden til 75 minutter og sjekke om dette gir oss 100 % lading.
 
 $10\cdot \sqrt{ 75 }$ er vanskelig å regne ut, men jeg vet at svaret må være mellom $8$ og $9$ siden $8^{2}=64$ og $9^{2}=81$. 
-$
+$$
 10 \cdot \sqrt{ 75 } \approx  10 \cdot 8{,}7 =87
-$
+$$
 
 **Påstand 2 stemmer ikke. Vi får ikke ladet mer enn omtrent 87 % på tre ganger så lang tid som fra 0 til 50 %.**
 
@@ -139,12 +139,12 @@ b) 72 600 kr
 ### a
 Siden vi ikke betaler noe avdrag så blir rentene de samme hver måned.
 
-	$400\,000 \cdot 0{,}015 = \underline{\underline{ 6\,000 \mathrm{~kr} }}$
+	$$400\,000 \cdot 0{,}015 = \underline{\underline{ 6\,000 \mathrm{~kr} }}$$
 
 ### b
 Det er 12 måneder med 6 000 kr i hver måned. I tillegg betaler vi 50 kr per måned i gebyr.
 
-	$12 \cdot 6\,000 + 12 \cdot 50 = 72\, 000 + 600 = \underline{\underline{ 72\,600 \mathrm{~kr}  }}$
+	$$12 \cdot 6\,000 + 12 \cdot 50 = 72\, 000 + 600 = \underline{\underline{ 72\,600 \mathrm{~kr}  }}$$
 
 
 </div></div>
@@ -228,15 +228,15 @@ I en 30-60-90-trekant er hypotenusen dobbelt så lang som den korteste kateten (
 **Spørsmål 1 – finne $\sin 30°$:**
 
 Siden hypotenusen $AC = 10 \, \mathrm{cm}$ og er dobbelt så lang som den korteste kateten, må:
-$BC = \frac{AC}{2} = \frac{10}{2} = 5 \, \mathrm{cm}$
+$$BC = \frac{AC}{2} = \frac{10}{2} = 5 \, \mathrm{cm}$$
 
 Sinus er definert som motstående katet delt på hypotenus. Vinkelen ved $A$ er $30°$, og motstående katet er $BC$:
-$\sin 30° = \frac{BC}{AC} = \frac{5}{10} = \underline{\underline{0{,}5}}$
+$$\sin 30° = \frac{BC}{AC} = \frac{5}{10} = \underline{\underline{0{,}5}}$$
 
 **Spørsmål 2 – finne lengden $AB$:**
 
 Cosinus er hosliggende katet delt på hypotenus. Vinkelen ved $A$ er $30°$, og hosliggende katet er $AB$:
-$\cos 30° = \frac{AB}{AC} \implies AB = \cos 30° \cdot AC = 0{,}87 \cdot 10 = \underline{\underline{8{,}7 \, \mathrm{cm}}}$
+$$\cos 30° = \frac{AB}{AC} \implies AB = \cos 30° \cdot AC = 0{,}87 \cdot 10 = \underline{\underline{8{,}7 \, \mathrm{cm}}}$$
 
 **Lengden $AB$ er $\underline{\underline{8{,}7 \, \mathrm{cm}}}$.**
 
@@ -323,12 +323,12 @@ Figuren over viser en effekttrekant. Den viser forholdet mellom de tre ulike eff
 
 For en enfase-elmotor er sammenhengene mellom tilsynelatende effekt $S$, aktiv effekt $P$, spenning $U$, strøm $I$ og effektfaktor $\cos \phi$ bestemt av følgende to formler
 
-$
+$$
 S=U \cdot I
-$
-$
+$$
+$$
 P=U \cdot I \cdot \cos \phi
-$
+$$
 
 For en enfase-elmotor leser du på merkeskiltet at $U=230 \mathrm{~V}$, $I=7{,}5 \mathrm{~A}$ og $\cos \phi=0{,}8$.
 
@@ -352,9 +352,9 @@ Table: Merkeskilt {.grid}
 Den avgitte effekten $P_{a}$ som er effekten som er oppgitt på merkeskiltet, er lik uavhengig av om spenningen er 230 V eller 400 V.
 
 Formel for avgitt effkt:
-$
+$$
 P_{a}=U \cdot I \cdot \cos \phi \cdot \sqrt{  3 } \cdot \eta
-$
+$$
 
 >[!oppgave]
 >c) Bruk formelen og gjør beregninger for å finne den manglende verdien.
@@ -370,13 +370,13 @@ c) 0,8 A
 ### 2-1a
 Vi bruker formlene i oppgaveteksten og beregner:
 
-$
+$$
 S=U \cdot I = 230 \cdot 7{,}5 = \underline{\underline{ 1725 \mathrm{~VA} }}
-$
+$$
 
-$
+$$
 P=U \cdot I \cdot \cos \phi = 230 \cdot 7{,}5 \cdot 0{,}8 = \underline{\underline{ 1380 \mathrm{~W} }}
-$
+$$
 
 ### 2-1b
 Hvis $P$ og $Q$ skal være like store så blir begge katetene i effekttrekanten like store. I så fall må $\phi$ være $45 \degree$.
@@ -392,14 +392,14 @@ Vi prøver først å beregne $P_{a}$ for 230 V:
 
 Siden strømmen er ukjent så løser vi formelen for $I$ ved å dele på alle faktorene på høyre side av likhetstegnet som ikke er $I$.
 
-$
+$$
 \begin{aligned}
 P_{a} &=U \cdot I \cdot \cos \phi \cdot \sqrt{ 3 } \cdot \eta \\
 I &= \frac{P_{a}}{U \cdot \cos \phi \cdot \sqrt{ 3 } \cdot \eta} \\
 I &= \frac{250}{400 \cdot 0{,}7 \cdot \sqrt{ 3 } \cdot 0{,}64}\\
 I &=0{,}8 \mathrm{~A}
 \end{aligned}
-$
+$$
 
 **Den ukjente verdien er 0,8 A.**
 
@@ -407,7 +407,7 @@ $
 >
 >Denne oppgaven kan løses mye enklere ved å sette opp forholdet
 >
->$ \frac{230}{400} = \frac{x}{1{,}4} \implies x = \frac{230}{400}\cdot 1{,}4 = 0{,}8$
+>$$ \frac{230}{400} = \frac{x}{1{,}4} \implies x = \frac{230}{400}\cdot 1{,}4 = 0{,}8$$
 
 
 </div></div>
@@ -431,8 +431,8 @@ Han tar utgangspunkt i romsonden Voyager 2, som ble skutt opp i verdensrommet i 
 Voyager 2 har en datamaskin med et minne på $69{,}6 \mathrm{~kB}$.
 
 >[!tip] Husk
->$\text{overføringshastighet} = \frac{\text{datamengde}}{\text{tid}}$
->$1 \, \mathrm{B} = 8 \, \mathrm{bit}$
+>$$\text{overføringshastighet} = \frac{\text{datamengde}}{\text{tid}}$$
+>$$1 \, \mathrm{B} = 8 \, \mathrm{bit}$$
 
 >[!green-box] Omars grønne spørsmål
 >- Hvor mange bit er minnet til Voyager 2?
@@ -480,9 +480,9 @@ Ali vil bruke et regneark til å lage en nedbetalingsplan. Nedenfor ser du hva h
 > a) Lag et regneark som vist ovenfor. Lag formler i de grønne cellene slik at utregningene blir riktige. Husk å vise formlene du bruker i regnearket.
 
 For å regne ut summen $S$ av renter du må betale for et serielån, kan du bruke formelen
-$
+$$
 S= \frac{L \cdot n + L}{2} \cdot \frac{r}{100}
-$
+$$
 
 - $S$ er summen av renter
 - $L$ er lånebeløpet
@@ -501,7 +501,7 @@ b) 148 800 kr
 
 ### b
 Vi vet at $L=800\,000$, $n=5$, $r=6{,}2$. Da kan vi regne ut $S$ med:
-$S=\frac{800000 \cdot 5 + 800000}{2} \cdot \frac{6{,}2}{100}=\frac{4\,800\,000}{2} \cdot 0{,}062 = 2\,400\,000 \cdot 0{,}062 = 148 \, 800 $
+$$S=\frac{800000 \cdot 5 + 800000}{2} \cdot \frac{6{,}2}{100}=\frac{4\,800\,000}{2} \cdot 0{,}062 = 2\,400\,000 \cdot 0{,}062 = 148 \, 800 $$
   **Ali betaler 148 800 kr i renter.**
 
 
@@ -532,7 +532,7 @@ Lars vil kjøpe ved. Han finner tilbudet vist nedenfor.
 
 Lars ser på tilbudet og gjør denne utregningen:
 
-$\frac{79}{15} = 5{,}27$
+$$\frac{79}{15} = 5{,}27$$
 
 >[!oppgave]
 >b) Forklar hva tallet $5{,}27$ forteller om tilbudet.
@@ -554,15 +554,15 @@ c) Strøm er billigst
 
 ### a
 Siden 40 L veier 15 kg så må 1 kg ved ha volumet
-$
+$$
 \frac{40 \mathrm{~L}}{15}=\underline{\underline{ 2{,}67 \mathrm{~L }}}
-$
+$$
 
 ### b
 Lars har regnet ut 
-$
+$$
 \frac{\text{Pris (kr)}}{\text{Vekt (kg)}} = \underline{\underline{ \text{Pris i kroner per kg ved} }}
-$
+$$
 
 ### c
 Vi må sammenligne prisen per kWh for strøm og ved.
@@ -572,9 +572,9 @@ Strømmen koster $1{,}50 \mathrm{~kr/kWh}$.
 
 **Ved**  
 Vi beregner prisen for hver kWh. Siden det bare er 75 % som går til faktisk oppvarming så multipliserer vi energien i veden med 0,75.
-$
+$$
 \frac{79 \mathrm{~kr}}{63 \mathrm{~kWh} \cdot 0{,}75}=1{,}67 \mathrm{~kr/kWh}
-$
+$$
 
 **Det er rimeligst å velge strøm for å varme opp boligen denne dagen. Det er 0,17 kr/kWh rimeligere enn å fyre med ved.**
 

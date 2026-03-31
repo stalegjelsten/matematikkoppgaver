@@ -20,7 +20,7 @@
 > 
 > Deriver funksjonen.
 > 
-> $f(x) = 4x^2 \cdot \ln(3x)$
+> $$f(x) = 4x^2 \cdot \ln(3x)$$
 
 ## Fasit
 
@@ -29,19 +29,19 @@ $f'(x)=4x \left( 2 \ln (3x) + 1  \right)$
 ## Løsningsforslag
 
 Vi ønsker å bruke produktregelen, men da må vi kunne derivere begge faktorene. Jeg må derivere $\ln(3x)$ ved å bruke kjerneregelen først ved å sette $u=3x$
-$
+$$
 \left( \ln (3x) \right)'= \left( \ln u \right)' \cdot u'=\frac{1}{u} \cdot 3 = \frac{3}{3x}=\frac{1}{x} 
-$
+$$
 
 Vi bruker produktregelen.
-$
+$$
 \begin{aligned}
 f'(x)&=(4x^{2})' \cdot \ln(3x) + 4x^{2} \cdot  \left( \ln(3x) \right)' \\
 &= 8x \cdot \ln (3x) + 4x^{2} \cdot \frac{1}{x} \\
 &= 8x \cdot \ln (3x) + 4x \\
 &= 4x \left( 2 \ln (3x) + 1  \right)
 \end{aligned}
-$
+$$
 
 
 </div></div>
@@ -61,7 +61,7 @@ $
 >[!oppgave]
 >Løs likningen.
 >
->$(\ln x)^2 - \ln x = 6$
+>$$(\ln x)^2 - \ln x = 6$$
 
 ## Fasit
 
@@ -82,7 +82,7 @@ $
 
 Funksjonen $f$ er gitt ved
 
-$f(x) = e^{-x+1}, \quad D_f = \mathbb{R}.$
+$$f(x) = e^{-x+1}, \quad D_f = \mathbb{R}.$$
 
 >[!oppgave]
 >Bestem grenseverdiene $\lim_{x\to\infty} f(x)$ og $\lim_{x\to-\infty} f(x)$ dersom de eksisterer.
@@ -129,7 +129,7 @@ I en skuff ligger det 6 gule, 5 svarte og 4 hvite sokker.
 
 En funksjon $f$ er definert ved
 
-$f(x) = \begin{cases} x\text{,}  & 0 \le x \le 2 \\ 5 - x\text{,} \quad  & 2 < x \le 5 \end{cases}$
+$$f(x) = \begin{cases} x\text{,}  & 0 \le x \le 2 \\ 5 - x\text{,} \quad  & 2 < x \le 5 \end{cases}$$
 
 >[!oppgave]
 >Gi funksjonen $f$ en ny definisjonsmengde slik at følgende er oppfylt samtidig:
@@ -159,7 +159,7 @@ $f(x) = \begin{cases} x\text{,}  & 0 \le x \le 2 \\ 5 - x\text{,} \quad  & 2 < x
 
 Bedriften Edison produserer biler. Kostnaden (oppgitt i 1000 kroner) ved å produsere $x$ biler per måned er gitt ved
 
-$K(x) = 200x \cdot 1{,}015^{x} + 200.$
+$$K(x) = 200x \cdot 1{,}015^{x} + 200.$$
 
 Edison selger alle bilene de produserer. Hver bil selges for 600 000 kroner.
 
@@ -194,11 +194,11 @@ Avgjør om hver av påstandene nedenfor er sann eller usann. Forklar tydelig hvo
 >[!oppgave]
 >a) **Påstand:**  
 >
-> $\text{Når } x > 0 \text{, er } e^{k \cdot \ln(x)}=x^{k}$
+> $$\text{Når } x > 0 \text{, er } e^{k \cdot \ln(x)}=x^{k}$$
 >
 >b) **Påstand:**  
 >
->$\text{Når } 1 < a < \dfrac{b}{2} \text{, er } \binom{b}{a+1} > \binom{b}{a}$
+>$$\text{Når } 1 < a < \dfrac{b}{2} \text{, er } \binom{b}{a+1} > \binom{b}{a}$$
 
 ## Fasit
 
@@ -256,9 +256,9 @@ Det er 29 små bokstaver og 29 store bokstaver, dette gir i utgangspunktet 58 ul
 
 Siden vi må minst ha 1 liten bokstav så kan vi ta bort de kombinasjonene som bare bruker store bokstaver ($29^6$) og de som bare bruker små bokstaver ($29^6$). Til sammen har vi da
 
-$
+$$
 58^6-29^6-29^6=58^6-2 \cdot 29^6=36 \, 879 \, 045 \, 902
-$
+$$
 
 **Det er 36,9 milliarder ulike passordet ifølge dette regelsettet.**
 
@@ -269,9 +269,9 @@ Hvis rekkefølgen ikke hadde spilt noen rolle ville vi fått $29^{2}\cdot 29^{2}
 
 Rekkefølgen på de ulike tegnene spiller en rolle, siden vi har 6 tegn («ledige plasser») og skal plassere 3 $\times$ 2 ulike typer tegn så kan vi finne antallet permutasjoner med
 
-$
+$$
 \frac{6!}{2!\cdot 2! \cdot 2!}=\frac{720}{8}=90
-$
+$$
 
 Det finnes altså $70\, 728\, 100 \cdot 90=6\, 365\, 529\, 000$ ulike passord.
 
@@ -289,7 +289,7 @@ Det finnes omtrent 6 ganger så mange mulige passord med regelsett 1 som med reg
 >- Vi vet at de to små bokstavene kan velge mellom de 4 gjenværende ledige plassene
 >- Sifrene må ta de siste to plassene
 >
->$\text{Antall permutasjoner}=\binom{6}{2}\binom{4}{2}\binom{2}{2}=15 \cdot 6 \cdot 1=90$
+>$$\text{Antall permutasjoner}=\binom{6}{2}\binom{4}{2}\binom{2}{2}=15 \cdot 6 \cdot 1=90$$
 
 
 </div></div>
@@ -379,7 +379,7 @@ Det har vært en stor endring i hvilken type drivstoff bilene i Norge bruker. St
 
 En funksjon $f$ er gitt ved
 
-$f(x) = -x^2 + 4, \quad 0 \le x \le 2.$
+$$f(x) = -x^2 + 4, \quad 0 \le x \le 2.$$
 
 Lars har tegnet grafen til $f$ med et innskrevet rektangel $ABCD$. Lars har også skrevet et program.
 
@@ -439,7 +439,7 @@ En kule med radius $r$ deles i to like deler. Vi skal skjære ut en pyramide med
 
 Volumet av en pyramide er gitt ved
 
-$V = \frac{h \cdot G}{3},$
+$$V = \frac{h \cdot G}{3},$$
 
 der $G$ er grunnflaten og $h$ er høyden til pyramiden.
 

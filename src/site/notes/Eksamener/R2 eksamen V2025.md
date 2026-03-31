@@ -21,12 +21,12 @@ Regn ut integralene
 >[!oppgave]
 >a)
 >
->$\int_{0}^{1} (2e^{x}+2x^{2}) \, \mathrm{d}x $
+>$$\int_{0}^{1} (2e^{x}+2x^{2}) \, \mathrm{d}x $$
 
 >[!oppgave]
 >b)
 >
->$\int \frac{2x-1}{x^{2}-x-6} \, \mathrm{d}x $
+>$$\int \frac{2x-1}{x^{2}-x-6} \, \mathrm{d}x $$
 
 ## Fasit
 
@@ -36,24 +36,24 @@ b) $\ln \left| x^{2}-x-6 \right|+C$
 ## Løsningsforslag
 
 ### 1-1a
-$
+$$
 \int_{0}^{1} \left( 2e^{x}+2x^{2} \right)  \, \mathrm{d}x = \left[  2e^{x}+\frac{2}{3}x^{3} \right]_{0}^{1}= \left( 2e^{1}+\frac{2}{3}1^{3}  \right)  -\left(  2e^{0}  +\frac{2}{3}0^{3} \right) =2e+\frac{2}{3}-2=\underline{\underline{2e-\frac{4}{3}}}
-$
+$$
 
 ### 1-1b
 Vi ser at den deriverte av uttrykket i nevneren er det samme som telleren, og det er derfor lurt å forsøke variabelskiftet $\textcolor{tomato}{u=x^{2}-x-6}$.
-$
+$$
 \textcolor{tomato}{u=x^{2}-x-6} \implies \frac{du}{dx}=\textcolor{seagreen}{2x-1} \iff \frac{du}{\textcolor{seagreen}{2x-1}}=dx
-$
+$$
 Vi substituerer inn i det opprinnelige uttrykket
-$
+$$
 \int \frac{\textcolor{seagreen}{2x-1}}{\textcolor{tomato}{x^{2}-x-6}} \, \mathrm{d}x=\int \frac{\cancel{ \textcolor{seagreen}{2x-1} }}{\textcolor{tomato}{u}} \, \frac{\mathrm{d}u}{\cancel{ \textcolor{seagreen}{2x-1} }}  = \int \frac{1}{\textcolor{tomato}{u}} \, \mathrm{d}u=\ln \left| \textcolor{tomato}{u} \right| +C=\underline{\underline{\ln \left| x^{2} -x -6\right| + C}} 
-$
+$$
 
 >[!tip] Løsning med delbrøkoppspalting
 >
 >Hvis du velger å løse ved hjelp av delbrøkoppspalting så vil du etter faktorisering få følgende likning
->$2x-1=A(x+2)+B(x-3)$
+>$$2x-1=A(x+2)+B(x-3)$$
 >Etter integrasjon får du svaret $\ln \left| x+2 \right| + \ln \left| x-3 \right|+C$, som er det samme svaret som vi får med variabelskiftet skrevet på en annen form.
 
 
@@ -84,11 +84,11 @@ $f(x)=\frac{1}{x^{2}}+\frac{2}{7}$
 ## Løsningsforslag
 
 Vi vet at $f'(x)=-\frac{2}{x^{3}}$ vil ha uendelig mange antideriverte med ulike konstantledd
-$
+$$
 \int -\frac{2}{x^{3}} \, \mathrm{d}x =\int -2x^{-3} \, \mathrm{d}x = \frac{-2}{-2}x^{-2}+C=\frac{1}{x^{2}}+C
-$
+$$
 Her er $C$ et hvilket som helst tall. Siden vi har fått vite at arealet av området som avgrenses av grafen til $f$, $x=1$, $x=2$ og $x$-aksen er lik $\frac{11}{14}$, samt at hele arealet ligger over $x$-aksen, kan vi bruke et bestemt integral for å finne verdien av $C$.
-$
+$$
 \begin{aligned}
 \int_{1}^{2} \left(  \frac{1}{x^{2}} +C  \right)\, \mathrm{d}x &=\frac{11}{14} \\
 \int_{1}^{2} \left(  x ^{ -2}+C  \right)\, \mathrm{d}x &=\frac{11}{14} \\
@@ -97,11 +97,11 @@ $
 \textcolor{orange}{-\frac{1}{2}+2C} + \textcolor{seagreen}{\frac{1}{1}-C} &=\frac{11}{14} \\
 C&=\frac{11}{14}-\frac{1}{2}=\frac{2}{7} \\
 \end{aligned}
-$
+$$
 Vår antideriverte til $f'(x)$ har altså $C=\frac{2}{7}$, derfor har vi for alle $x\neq 0$:
-$
+$$
 \underline{\underline{f(x)=\frac{1}{x^{2}}+\frac{2}{7}}}
-$
+$$
 
 
 </div></div>
@@ -150,7 +150,7 @@ Tallene fra oppgave a) er starten på en rekke.
 
 >[!oppgave]
 >c) Bruk induksjon til å vise at et ledd i rekken kan uttrykkes som
->$a_n = \frac{n(n+3)}{2}, \quad n \geq 1$
+>$$a_n = \frac{n(n+3)}{2}, \quad n \geq 1$$
 
 ## Fasit
 
@@ -168,9 +168,9 @@ Her setter vi opp en oversikt for å se hvordan variablene i programmet utvikler
 |  5  | 20  |                         |
 
 Vi ser en tallfølge hvor differansene mellom leddene starter på 3, og deretter øker med 1 for hvert ledd. Matematisk kan dette uttrykkes med den rekursive sammenhengen
-$
+$$
 a_{n+1}=a_{n}+n+2
-$
+$$
 **Koden skriver ut leddene i tallfølgen 2, 5, 9, 14, 20.**
 
 ### b
@@ -180,25 +180,25 @@ Eleven har lagt til en variabel `S`. `S` gir en løpende sum av verdiene til `a`
 
 ### c
 Påstanden vår er at
-$a_n = \frac{n(n+3)}{2}, \quad n \geq 1$
+$$a_n = \frac{n(n+3)}{2}, \quad n \geq 1$$
 
 Vi viser at dette gjelder for $n=1$
-$
+$$
 a_{1} = \frac{1(1+3)}{2}=\frac{4}{2}=2 \quad \checkmark
-$
+$$
 Vi antar at formelen gjelder for $n=k$ slik at
-$
+$$
 a_{k}= \frac{k(k+3)}{2}
-$
+$$
 Vi finner $a_{k+1}$ ved å bruke den rekursive sammenhengen fra b).
-$
+$$
 a_{k+1}=a_{k}+k+2=\frac{k(k+3)}{2}+\frac{2k}{2}+\frac{4}{2}=\frac{k^{2}+3k+2k+4}{2}=\frac{k^{2}+5k+4}{2}
-$
+$$
 
 Deretter finner vi $a_{k+1}$ ved å bruke formelen.
-$
+$$
 a_{k+1}=\frac{(k+1)\left( (k+1) +3 \right) }{2}= \frac{k^{2}+2k+1+3k+3}{2}=\frac{k^{2}+5k+4}{2} \quad  \checkmark 
-$
+$$
  
 
 </div></div>
@@ -217,7 +217,7 @@ $
 
 En funksjon $f$ er gitt ved
 
-$f(x) = 2\sqrt{3} \cdot \sin\left(2x + \frac{\pi}{6}\right) \quad ,  \quad D_f = \left\langle 0, \frac{\pi}{2} \right\rangle$
+$$f(x) = 2\sqrt{3} \cdot \sin\left(2x + \frac{\pi}{6}\right) \quad ,  \quad D_f = \left\langle 0, \frac{\pi}{2} \right\rangle$$
 
 >[!oppgave]
 >a) Bestem amplituden, likevektslinja, perioden og faseforskyvningen.
@@ -225,7 +225,7 @@ $f(x) = 2\sqrt{3} \cdot \sin\left(2x + \frac{\pi}{6}\right) \quad ,  \quad D_f =
 
 En funksjon $g$ er gitt ved
 
-$g(x) = 3\sin(2x) + \sqrt{3}\cos(2x) \quad , \quad  D_g = \langle 0, 2\pi \rangle$
+$$g(x) = 3\sin(2x) + \sqrt{3}\cos(2x) \quad , \quad  D_g = \langle 0, 2\pi \rangle$$
 
 >[!oppgave]
 >c) Løs likningen $g(x) = \sqrt{3}$
@@ -236,13 +236,13 @@ $g(x) = 3\sin(2x) + \sqrt{3}\cos(2x) \quad , \quad  D_g = \langle 0, 2\pi \rangl
 
 ### a
 Vi sammenligner med det generelle uttrykket for sinusfunksjoner
-$
+$$
 \textcolor{seagreen}{A} \sin(\textcolor{steelblue}{k}x + \textcolor{tomato}{\phi})+\textcolor{maroon}{d}
-$
+$$
 Vi ser fra funksjonsuttrykket til $g$ at
-$
+$$
 \textcolor{seagreen}{A=2\sqrt{ 3 }}, \quad  \textcolor{steelblue}{k=2}, \quad \textcolor{tomato}{\phi=\frac{\pi}{6}}, \quad \textcolor{maroon}{d=0}
-$
+$$
 Når $k=2$ så har sinusfunksjonen dobbelt så «tette» svingninger og perioden blir derfor $T=\frac{2\pi}{k}=\frac{2\pi}{2}=\pi$. Da blir også faseforskyvningen $\frac{\phi}{2}=\frac{\pi}{12}$.
 
 **Amplituden er $2\sqrt{ 3 }$, likevektslinja er $y=0$, perioden er $\pi$ og faseforskyvningen er $\frac{\pi}{12}$ mot venstre.e**
@@ -355,22 +355,22 @@ b) $\sin u = \frac{2}{\sqrt{ 3 }}$ og $\cos u =\frac{1}{\sqrt{ 3 }}$
 
 ### a
 Radius $r=3$ og buelengden $b=4$. 
-$v=\frac{b}{r}=\frac{4}{3}$
+$$v=\frac{b}{r}=\frac{4}{3}$$
 Det går $360\degree$ på $2\pi$ radianer.
-$
+$$
 v_{\text{grader}}=\frac{4}{3} \cdot \frac{360}{2\pi}=\frac{4}{2} \cdot \frac{360}{3\pi}=2 \cdot \frac{120}{\pi}=\frac{240}{\pi} \approx 75 \degree
-$
+$$
 **Vinkelen er $\underline{\underline{ \frac{4}{3} }}$ radianer og omtrent $\underline{\underline{ 75 \degree }}$.**
 
 ### b
 Hvis $\tan u =2$ så er $\frac{mk}{hk}=2$. Hvis vi gir hosliggende katet lengden 1, så blir motstående katet 2. Da blir hypotenusen
-$
+$$
 h=\sqrt{ 1+ 2}=\sqrt{ 3 }
-$
+$$
 Vi kan dermed sette opp eksakte verdier for $\sin u$ og $\cos u$.
-$
+$$
 \sin u = \frac{mk}{h}=\underline{\underline{ \frac{2}{\sqrt{ 3 }} }} \quad \text{og} \quad \cos u = \frac{hk}{h}=\underline{\underline{ \frac{1}{\sqrt{ 3 }} }}
-$
+$$
 
 </div></div>
 
@@ -392,7 +392,7 @@ En bil kjører opp en spiralformet vei inne i et parkeringshus.
 
 Posisjonen til bilen etter $t$ sekunder er gitt ved
 
-$\vec{r}(t) = \left[ 4\cos\left(\frac{\pi}{5}t\right),\ 4\sin\left(\frac{\pi}{5}t\right) + 2,\ 5 + \frac{1}{3}t \right], \qquad t \in [0, 20]$
+$$\vec{r}(t) = \left[ 4\cos\left(\frac{\pi}{5}t\right),\ 4\sin\left(\frac{\pi}{5}t\right) + 2,\ 5 + \frac{1}{3}t \right], \qquad t \in [0, 20]$$
 
 der bakkenivået er $xy$-planet i et koordinatsystem med meter som enhet langs aksene.
 
@@ -456,26 +456,26 @@ c) Nei, 149 581 kr
 Vi kaller det ukjente beløpet $B$. Nora skal sette inn $B$ på konto 30 ganger. Det siste beløpet skal ha fått renter i 1 år, mens det første beløpet skal ha fått renter i 30 år. 
 
 For å ha 3 750 000 kr på konto etter 30 år så kan vi altså sette opp en likning med ei rekke. Likningen er løst i linje 1 i GeoGebra.
-$
+$$
 \underbrace{ \textcolor{tomato}{B\cdot 1{,}025^{1}} }_{ \text{År 2055} }+\underbrace{ \textcolor{seagreen}{B\cdot 1{,}025^{2}} }_{ \text{År 2054} }+\dots+ \underbrace{ \textcolor{maroon}{B\cdot 1{,}025^{30}} }_{ \text{År 2026} }=3\,750\,000
-$
+$$
 
 **Nora må sette inn 83 333 kr hvert år for å nå målet.**
 
 ### 2-4b
 Vi kaller den ukjente vekstfaktoren til renta $v$. Nora skal betale inn lånet over 33 terminer med første termin 1. januar 2026. Nåverdien (NV) til terminbeløpene vil være:
-$
+$$
 \underbrace{ \textcolor{orange}{\frac{150\,000}{v^{0}}} }_{ \text{NV til 2026-beløpet} }+\underbrace{ \textcolor{seagreen}{\frac{150\,000}{v^{1}}} }_{ \text{NV til 2027-beløpet} }+\dots+\underbrace{ \textcolor{tomato}{\frac{150\,000}{v^{32}}} }_{ \text{NV til 2058-beløpet} }=3\,000\,000
-$
+$$
 Likningen er løst i linje 2 i GeoGebra.
 
 **Nora har regnet med at den årlige rentesatsen er 3,528 %.**
 
 ### 2-4c
 Sparebeløpene til Nora kan sees på som en rekke der det første beløpet er 10000 kr og får renter i 10 år, mens det siste beløpet er $10000\cdot 1{,}06^{9}$ og får renter i ett år.
-$
+$$
 \underbrace{ \textcolor{tomato}{10000 \cdot 1{,}06^{0}\cdot 1{,}025^{10}} }_{ \text{Beløp år 0} } + \underbrace{ \textcolor{seagreen}{10000 \cdot 1{,}06^{1}\cdot 1{,}025^{9}} }_{ \text{Beløp år 1} } + \dots + \underbrace{ \textcolor{maroon}{10000 \cdot 1{,}06^{9}\cdot 1{,}025^{1}} }_{ \text{ Beløp år 9 } }
-$
+$$
 Beløpet er beregnet i linje 3 i GeoGebra.
 
 **Nora vil ikke nå målet på 150 000 kr. Hun vil ha 149 581 kr på kontoen etter 10 år.**
@@ -511,7 +511,7 @@ Beløpet er beregnet i linje 3 i GeoGebra.
 
 En hare løper vekk fra en rev som angriper den. Farten $v$ til haren er gitt ved
 
-$v(t) = 8{,}3 - 17{,}4 \cdot e^{-5t} + 9{,}1 \cdot e^{-0{,}08t}$
+$$v(t) = 8{,}3 - 17{,}4 \cdot e^{-5t} + 9{,}1 \cdot e^{-0{,}08t}$$
 
 Her er $v$ meter per sekund, og $t$ er antall sekunder etter at haren starter å løpe.
 
@@ -521,7 +521,7 @@ Her er $v$ meter per sekund, og $t$ er antall sekunder etter at haren starter å
 
 Gjennomsnittsfarten $v_g$ til haren de første $x$ sekundene er gitt ved
 
-$v_g(x) = \frac{1}{x} \int_{0}^{x} v(t) \, \mathrm{d}t$
+$$v_g(x) = \frac{1}{x} \int_{0}^{x} v(t) \, \mathrm{d}t$$
 
 >[!oppgave]
 >c) Bestem gjennomsnittsfarten til haren de første 200 meterne.
@@ -547,11 +547,11 @@ $v_g(x) = \frac{1}{x} \int_{0}^{x} v(t) \, \mathrm{d}t$
 En uendelig geometrisk rekke er gitt ved $1+x+x^{2}+x^{3}+\dots$
 
 Det kan vises at 
-$ \int 1 \, \mathrm{d}x + \int x \, \mathrm{d}x + \int x^{2} \, \mathrm{d}x + \int x^{3} \, \mathrm{d}x + \dots= \int \frac{1}{1-x} \, \mathrm{d}x   $
+$$ \int 1 \, \mathrm{d}x + \int x \, \mathrm{d}x + \int x^{2} \, \mathrm{d}x + \int x^{3} \, \mathrm{d}x + \dots= \int \frac{1}{1-x} \, \mathrm{d}x $$
 
 Bruk denne sammenhengen til å vise at
 
-$ \frac{1}{2^{1}}+\frac{1}{2} \cdot \frac{1}{2^{2}} +\frac{1}{3} \cdot \frac{1}{2^{3}} +\frac{1}{4} \cdot \frac{1}{2^{4}} + \dots = \ln 2 $
+$$ \frac{1}{2^{1}}+\frac{1}{2} \cdot \frac{1}{2^{2}} +\frac{1}{3} \cdot \frac{1}{2^{3}} +\frac{1}{4} \cdot \frac{1}{2^{4}} + \dots = \ln 2 $$
 
 I denne oppgaven kan du se bort fra integrasjonskonstantene.
 
@@ -562,7 +562,7 @@ I denne oppgaven kan du se bort fra integrasjonskonstantene.
 
 Vi har fått oppgitt at
 
-$\int 1 \, \mathrm{d}x + \int x \, \mathrm{d}x + \int  x^{2} \, \mathrm{d}x + \int  x^{3} \, \mathrm{d}x + \dots= \int \frac{1}{1-x} \, \mathrm{d}x${#eq:opprinnelig}
+$$\int 1 \, \mathrm{d}x + \int x \, \mathrm{d}x + \int  x^{2} \, \mathrm{d}x + \int  x^{3} \, \mathrm{d}x + \dots= \int \frac{1}{1-x} \, \mathrm{d}x$${#eq:opprinnelig}
 
 Vi gjennomfører resonnementet vårt i flere steg.
 
@@ -571,51 +571,51 @@ Vi ser først på høyre side av likning &eq:opprinnelig. Vi ser at vi kan integ
 
 Integralet blir (sett bort fra integrasjonskonstantene)
 
-$
+$$
 \int \frac{1}{1-x} \, \mathrm{d}x  = \int \frac{1}{u} \cdot (-1)\, \mathrm{d}u = -\int \frac{1}{u}\, \mathrm{d}u = -\ln \left| 1-x \right| 
-$
+$$
 
 ### Integrasjon av venstre side
 Vi gjennomfører så integrasjonene på venstre side av likning &eq:opprinnelig og får
 
-$
+$$
 \int 1 \, \mathrm{d}x + \int x \, \mathrm{d}x + \int  x^{2} \, \mathrm{d}x + \int  x^{3} \, \mathrm{d}x + \dots =\textcolor{orange}{x}+\textcolor{seagreen}{\frac{1}{2}x^{2}}+\textcolor{steelblue}{\frac{1}{3}x^{3}}+ \textcolor{tomato}{\frac{1}{4}x^{4}} + \dots
-$
+$$
 
 Ved å integrere begge sidene av likning &eq:opprinnelig har vi altså foreløpig vist at:
 
-$
+$$
 x+\frac{1}{2}x^{2}+\frac{1}{3}x^{3}+ \frac{1}{4}x^{4} + \dots = -\ln \left| 1-x \right|
-$
+$$
 
 ### Vise at rekka er lik $\ln 2$
 Vi skal vise at
 
-$\textcolor{orange}{\frac{1}{2^{1}}}+\textcolor{seagreen}{\frac{1}{2} \cdot \frac{1}{2^{2}}} +\textcolor{steelblue}{\frac{1}{3} \cdot \frac{1}{2^{3}}} +\textcolor{tomato}{\frac{1}{4} \cdot \frac{1}{2^{4}}} + \dots = \ln 2 $ {#eq:lik2}
+$$\textcolor{orange}{\frac{1}{2^{1}}}+\textcolor{seagreen}{\frac{1}{2} \cdot \frac{1}{2^{2}}} +\textcolor{steelblue}{\frac{1}{3} \cdot \frac{1}{2^{3}}} +\textcolor{tomato}{\frac{1}{4} \cdot \frac{1}{2^{4}}} + \dots = \ln 2 $$ {#eq:lik2}
 
 Vi sammenligner venstre side i likning &eq:lik2 med svaret vi fikk da vi integrerte venstre side i likning &eq:opprinnelig.
 
-$
+$$
 \textcolor{orange}{x}+\textcolor{seagreen}{\frac{1}{2}x^{2}}+\textcolor{steelblue}{\frac{1}{3}x^{3}}+ \textcolor{tomato}{\frac{1}{4}x^{4}} + \dots=\textcolor{orange}{\frac{1}{2^{1}}}+\textcolor{seagreen}{\frac{1}{2} \cdot \frac{1}{2^{2}}} +\textcolor{steelblue}{\frac{1}{3} \cdot \frac{1}{2^{3}}} +\textcolor{tomato}{\frac{1}{4} \cdot \frac{1}{2^{4}}} + \dots
-${#eq:sammenligning}
+$${#eq:sammenligning}
 
 Ved sammenligning av leddene ser vi at $x=\frac{1}{2}$ er en løsning av likning &eq:sammenligning.
 
 Siden $x=\frac{1}{2}$, så sjekker vi hva $-\ln \left| 1-x \right|$ gir oss når $x=\frac{1}{2}$
 
-$-\ln \left| 1-x \right| = - \ln \left| 1-\frac{1}{2} \right| =-\ln \underbrace{ \left| \frac{1}{2} \right| }_{ \left| \frac{1}{2} \right| = \frac{1}{2} } = \underbrace{ {- \ln \left( \frac{1}{2} \right) =-\left( \cancelto{ 0 }{ \ln 1 } - \ln 2 \right)}}_{\text{Regel:} \ln\left( \frac{a}{b} \right) = \ln a - \ln b} =\ln 2$
+$$-\ln \left| 1-x \right| = - \ln \left| 1-\frac{1}{2} \right| =-\ln \underbrace{ \left| \frac{1}{2} \right| }_{ \left| \frac{1}{2} \right| = \frac{1}{2} } = \underbrace{ {- \ln \left( \frac{1}{2} \right) =-\left( \cancelto{ 0 }{ \ln 1 } - \ln 2 \right)}}_{\text{Regel:} \ln\left( \frac{a}{b} \right) = \ln a - \ln b} =\ln 2$$
 
 Vi har altså vist at
 
-$
+$$
 x+\frac{1}{2}x^{2}+\frac{1}{3}x^{3}+ \frac{1}{4}x^{4} + \dots = -\ln \left| 1-x \right|
-$
+$$
 
 Og for $x=\frac{1}{2}$ gjelder derfor:
 
-$
+$$
 \frac{1}{2^{1}}+\frac{1}{2} \cdot \frac{1}{2^{2}} +\frac{1}{3} \cdot \frac{1}{2^{3}} +\frac{1}{4} \cdot \frac{1}{2^{4}} + \dots = \ln 2 \qquad  \blacksquare
-$
+$$
 
 
 </div></div>

@@ -28,9 +28,9 @@ $88\,\%$ av elevene i en klasse deltar i en undersøkelse. Det er $3$ elever som
 ## Løsningsforslag
 
 Siden 88 % har svart, så må de gjenværende 12 prosentene tilsvare de 3 elevene. Vi kan gå veien om en ved å finne ut hvor mange elever 1 prosent tilsvarer.
-$
+$$
 \frac{3\text{ elever}}{12 \,\%}=\frac{\cancel{ 3 } \text{ elever}}{\cancel{ 3 } \cdot 4 \, \%}=\frac{1}{4} \text{ elever per \%} = 0{,}25 \text{ elever per \%}
-$
+$$
 1 % tilsvarer altså 0,25 elever, og dermed tilsvarer 100 % 25 elever.
 
 **Det er 25 elever i klassen.**
@@ -53,7 +53,7 @@ $
 
 Trine og Truls står i kø for å ta en skiheis. De teller hvor mange personer som blir med i hver av vognene som kjører forbi før det blir deres tur. Resultatene ser du nedenfor:
 
-$6\qquad 3\qquad 2\qquad 4\qquad 4\qquad 6\qquad 2\qquad 7\qquad 8\qquad 8$
+$$6\qquad 3\qquad 2\qquad 4\qquad 4\qquad 6\qquad 2\qquad 7\qquad 8\qquad 8$$
 
 a) Bestem medianen og gjennomsnittet.
 b) Bestem den kumulative frekvensen for $6$ personer, og gi en praktisk tolkning av svaret.
@@ -67,15 +67,15 @@ b) Den kumulative frekvensen for $6$ personer er $7$ (det var 7 av de 10 observa
 
 ### 1-2a
 Medianen er det midterste tallet etter at vi har sortert dem stigende
-$
+$$
 2,2,3,4,\underbrace{ 4,6 }_{ \text{Median} },6,7,8,8
-$
+$$
 Siden både 4 og 6 står i midten så er medianen 5.
 
 Gjennomsnittet er summen av tallene delt på antallet observasjoner.
-$
+$$
 \frac{\text{Sum}}{\text{Antall observasjoner}}=\frac{2+2+3+4+4+6+6+7+8+8}{10}=\frac{50}{10}= \underline{\underline{5}}.
-$
+$$
 **Medianen er 5 og gjennomsnittet er 5.**
 
 ### 1-2b
@@ -304,7 +304,7 @@ Ledelsen ved en bedrift ønsker å redusere utslippet av miljøskadelige stoffer
 2. Den andre slipper ut $1000\text{~tonn}$ per år. 
  
 Ledelsen mener funksjonen
-$U(x)=5000\cdot0{,}95^x+1000$
+$$U(x)=5000\cdot0{,}95^x+1000$$
 
 er en god modell for utslippet $U(x)$ tonn per år etter $x$ år.
 
@@ -417,9 +417,9 @@ Dersom det kommer en ellevte person inn så er det person nr. 6 som vil være me
 Hvis det kommer en ny person inn i rommet så blir det 11 personer i rommet. Hvis deres gjennomsnittsalder skal være 30 så må summen av alle aldrene være $11 \cdot 30 = 330$ år.
 
 Foreløpig er summen av aldrene 313 år. Hvis den siste personen er 17 år så blir blir summen 330 år, og dermed blir gjennomsnittet
-$
+$$
 \frac{330 \text{ år}}{11}=30 \text{ år}
-$
+$$
 **Påstanden er riktig.**
 
 

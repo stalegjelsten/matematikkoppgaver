@@ -17,7 +17,7 @@
 
 > [!oppgave]
 >  a) Regn ut integralet
->  $ \int x^{2} \cdot \ln x \, \mathrm{d}x  $
+>  $$ \int x^{2} \cdot \ln x \, \mathrm{d}x  $$
 
 ## Fasit
 
@@ -39,7 +39,7 @@ Siden vi skal regne ut integralet til produktet av to ulike funksjoner vil jeg f
 Vi ser at produktet i rad 2 er $\frac{1}{x} \cdot \frac{1}{3}x^{3}$, som vi kan integrere.
 
 Vi kan altså sette opp
-$
+$$
 \begin{aligned}
 \int x^{2} \ln x \, \mathrm{d}x &=
 \ln x \cdot \frac{1}{3}x^{3} - \int \frac{1}{x}\cdot \frac{1}{3} x^{3} \, \mathrm{d}x \\
@@ -47,7 +47,7 @@ $
 &=\frac{1}{3} x^{3} \ln x - \frac{1}{3}\cdot \frac{1}{3} x^{3}+C\\
 &=\underline{\underline{\frac{1}{3}x^{3}\left( \ln x-\frac{1}{3} \right)+C}}
 \end{aligned}
-$
+$$
 
 
 </div></div>
@@ -67,7 +67,7 @@ $
 
 b) Bestem $x$ når 
 
- $\int_{-1}^{x} \left( 3t^{2}-1 \right)  \, \mathrm{d}t = 0, \quad x>-1$
+ $$\int_{-1}^{x} \left( 3t^{2}-1 \right)  \, \mathrm{d}t = 0, \quad x>-1$$
 
  c) Gi en praktisk tolkning av svaret i oppgave b).
 
@@ -78,7 +78,7 @@ b) $x=0 \vee x=1$
 ## Løsningsforslag
 
 Vi setter opp likningen og løser
-$
+$$
 \begin{aligned}
 \int _{-1}^{x} \left( 3t^{2}-1 \right)  \, \mathrm{d}t &= 0 \\
 \left[ t^{3}-t \right]_{-1}^{x} &= 0\\
@@ -88,11 +88,11 @@ $
 x^{3}-x&=0\\
 x(x^{2}-1)&=0
 \end{aligned}
-$
+$$
 Denne likningen har tre løsninger: $x=0 \vee x=-1 \vee x=1$. Vi forkaster løsningen $x=-1$ siden vi har fått oppgitt at $x>-1$ i oppgaveteksten.
-$
+$$
 \underline{\underline{x=0 \vee x=1}}
-$
+$$
 
 
 </div></div>
@@ -123,55 +123,55 @@ b) $\frac{1}{3}$
 
 ### 1-2a
 Summen av en aritmetisk rekke er gitt ved
-$
+$$
 s_{n}=\frac{a_{1}+a_{n}}{2}\cdot n
-$
+$$
 Vi ser at differansen $d=4$. For å finne ut hvor mange ledd det er i rekka vår kan vi løse
-$
+$$
 3+(n-1) \cdot 4=399 \implies n-1=\frac{399-3}{4} \implies n=100
-$
+$$
 Summen av de 100 første leddene blir altså
-$
+$$
 s_{100}=\frac{3+399}{2}\cdot 100=\frac{402}{2} \cdot 100= 201\cdot 100=\underline{\underline{20\,100}}
-$
+$$
 
 ### 1-2b
 Vi vet at summen av en uendelig geometrisk rekke som konvergerer er
-$
+$$
 s=\frac{a_{1}}{1-k} \iff 1-k=\frac{a_{1}}{s}\iff k=1-\frac{a_{1}}{s}
-$
+$$
 Vi setter inn verdiene i uttrykket for $k$
-$
+$$
 k=1-\frac{12}{18}=1-\frac{2}{3}=\underline{\underline{\frac{1}{3}}}
-$
+$$
 
 ### 1-2c
 Vi kan omskrive tallet som summen av en uendelig rekke med ledd på denne måten $0{,}75757575\ldots=0{,}75+0{,}0075+0{,}000075+\cdots$
 
 Hvert av disse leddene kan vi skrive om som brøker
-$
+$$
 \begin{aligned}
 0{,}75&=\frac{3}{4}\\
 0{,}0075&=\frac{\frac{3}{4}}{100}=\frac{3}{400}\\
 0{,}000075&=\frac{\frac{3}{4}}{10000}=\frac{3}{40000}
 \end{aligned}
-$
+$$
 Vi ser et mønster hvor hvert ledd er $\frac{1}{100}$ av det forrige, altså har vi
-$
+$$
 \frac{3}{4}+\frac{3}{400}+\frac{3}{40000}+\dots=\frac{3}{4\cdot 100^0}+\frac{3}{4\cdot 100^1}+\frac{3}{4 \cdot 100^2}+ \dots
-$
+$$
 **Vi har altså vist at $0{,}75757575\dots$ kan skrives som en uendelig geometrisk rekke**, og med sumnotasjon blir rekka
-$
+$$
 \lim_{ n \to \infty }  \sum_{i=1}^n \frac{3}{4\cdot 100^{i-1}}=0{,}75757575\dots
-$
+$$
 Denne uendelig geometrisk rekka har $a_{1}=\frac{3}{4}$ og $k=\frac{1}{100}$. Summen av rekka er gitt ved
-$
+$$
 s=\frac{\frac{3}{4}}{1-\frac{1}{100}}=\frac{\frac{3}{4}}{\frac{99}{100}}=\frac{300}{396}=\frac{75}{99}=\frac{25}{33}
-$
+$$
 Siden vi nå vet at $0{,}75757575+\dots=\frac{25}{33}$ så kan vi vise følgende
-$
+$$
 1{,}75757575\ldots=1+0{,}75757575\ldots=1+\frac{25}{33}=\frac{58}{33}
-$
+$$
 **Vi har altså vist at $1{,}75757575\ldots=\underline{\underline{\frac{58}{33}}}$**.
 
 
@@ -216,18 +216,18 @@ $\mathrm{Var}(X)=4$
 | $(x-\mu)^{2} \cdot P(X=x)$ | $4\cdot 0{,}30 =1{,}2$ | $1 \cdot 0{,}40=0{,}40$ | $4 \cdot 0{,}10=0{,}40$ | $16 \cdot 0{,}20=3{,}2$ |
 
 Vi vet at forventningsverdien er summen av produktene av $x \cdot P(X=x)$, se rad 2 i tabellen. Det betyr at
-$
+$$
 0+0{,}40+0{,}40+0{,}20b = 2 \iff 0{,}20 b = 1{,}2 \iff b=6
-$
+$$
 **Vi har vist at $\underline{\underline{b=6}}$.**
 
 Variansen til $X$ er gitt ved
-$
+$$
 \begin{aligned}
 \text{Var}(X)&=\sum_{i=1}^{N}\left( ( x_{i}-\mu)^{2}\cdot P(X=x_{i}) \right)\\
 \text{Var}(X)&=1{,}2+0{,}40+0{,}40+3{,}2=\underline{\underline{5{,}2}}\\
 \end{aligned}
-$
+$$
 **Variansen $\underline{\underline{\mathrm{Var}(X)=5{,}2}}$.**
 
 
@@ -273,13 +273,13 @@ b) Figur 3
 
 ### 1-4a
 Vi kan bruke en binomisk sannsynlighetsmodell siden vi kan regne dette som 1000 uavhengige forsøk hvor frøene enten spirer eller ikke spirer. På grunn av sentralgrensesetningen kan vi også bruke normalfordeling som en tilnærming til den binomiske fordelingen. 
-$\text{Var}(X)=np(1-p)=1000\cdot 0{,}7\cdot 0{,}3=210$
+$$\text{Var}(X)=np(1-p)=1000\cdot 0{,}7\cdot 0{,}3=210$$
 I dette tilfellet er normalfordelingen en svært god tilnærming til den binomiske fordelingen siden variansen er mye større enn 5.
 
 Vi bestemmer forventningsverdien og standardavviket
-$
+$$
 E(X)=\mu=np=1000\cdot 0{,}7=700 \quad \text{og} \quad \sigma=\sqrt{ 210 } \approx 14
-$
+$$
 Vi vet at omtrent 68 % av utfallene kommer til å havne innenfor ett standardavvik fra forventningsverdien, altså at $P(\mu-\sigma<X<\mu+\sigma)\approx 0{,}68$.
 
 Vi ser at figur 1 må ha et standardavvik på mer enn 100, **derfor må figur 2 være riktig figur.**
@@ -307,9 +307,9 @@ Vi kan bruke samme tankegang som i forrige oppgave. Vi ser at figur 4 har mye me
 
 En bedrift produserer og selger en vare. Kostnaden $K(x)$ i kroner er gitt ved
 
-$
+$$
 K(x)=0{,}3x^{2}+10x+3000
-$
+$$
 
 Her er $x$ antall enheter produsert og solgt per uke.
 
@@ -330,15 +330,15 @@ b) 650 enheter
 
 ### 1-5a
 Vi kan finne grensekostnaden ved å derivere kostnadsfunksjonen
-$
+$$
 K'(x)=2 \cdot 0{,}3x+10=0{,}6x+10
-$
+$$
 Enhetskostnaden er gitt ved
-$
+$$
 E(x)=\frac{K(x)}{x}=\frac{0{,}3x^{2}+10x+3000}{x}=0{,}3x+10+\frac{3000}{x}
-$
+$$
 Vi setter disse lik hverandre
-$
+$$
 \begin{aligned}
 K'(x)&=E(x)\\
 0{,}6x+10 &= 0{,}3x+10+\frac{3000}{x}\\
@@ -348,18 +348,18 @@ x^{2} &= \frac{3000}{0{,}3}\\
 x^{2} &= 10\,000\\
 x&=100
 \end{aligned}
-$
+$$
 Vi ser bort fra den negative løsningen av likningen siden vi snakker om produksjon av $x$ enheter.
 
 **Grensekostnaden er lik enhetskostnaden ved produksjon av 100 enheter. Dette er også den produksjonsmengden som gir de laveste enhetskostnadene.**
 
 ### 1-5b
 Inntektene fra salget er gitt ved
-$
+$$
 I(x)=\text{pris} \cdot x =400x \implies I'(x)=400
-$
+$$
 Vi har største overskudd når grensekostnaden er lik grenseinntekten
-$
+$$
 \begin{aligned}
 K'(x)&=I'(x)\\
 0{,}6x+10&=400\\
@@ -368,7 +368,7 @@ x&=\frac{390}{0{,}6}\\
 x&=\frac{3900}{6}\\
 x&=650\
 \end{aligned}
-$
+$$
 **Bedriften må produsere og selge 650 enheter for at overskuddet skal bli størst mulig.**
 
 
@@ -398,7 +398,7 @@ Marco skal løpe maraton og starter løpetrening. I tabellen nedenfor ser du hvo
 >[!oppgave]
 >a) Vis at funksjonen $L$ gitt ved
 >
->$L(t)=\frac{156{,}31}{1+12{,}21 e^{-0{,}24 t}}$
+>$$L(t)=\frac{156{,}31}{1+12{,}21 e^{-0{,}24 t}}$$
 >
 >er en god modell for sammenhengen mellom uker etter treningsstart ($t$) og antall kilometer løpt per uke ($L$).
 >
@@ -424,9 +424,9 @@ c) Litt under 12 uker, med 43–45 km per uke i gjennomsnitt avhengig av hvordan
 
 ### 2-1a
 Jeg la inn dataene i GeoGebra og gjorde en regresjonsanalyse med logistisk modell. Som vi ser fra funksjonen som GeoGebra foreslår, så passer funksjonen $L(t)$ godt til denne situasjonen.
-$
+$$
 L(t)=\frac{156{,}31}{1+12{,}21e^{-0{,}24t}}
-$
+$$
 
 ![Regresjon av logistisk funksjon i GeoGebra](/img/user/_resources/s2-h24-2-1a.png)
 
@@ -446,13 +446,13 @@ Vi kan løse denne oppgaven på flere måter, men oppgaveteksten legger på mang
 Å anta at $L(t)$ har tilnærmet kontinuerlig endring kan være en god tilnærming siden Marco sannsynligvis løper flere ganger i uka,
 
 Vi kan finne en god tilnærming til svaret ved å løse likningen
-$
+$$
 \int _{0}^{b}L(t) \, \mathrm{d}t=500 
-$
+$$
 og deretter finne gjennomsnittet ved å dividere 500 km med antall uker $b$.
 
 Vi kan finne en enda bedre tilnærming til svaret dersom vi forskyver grensene for integrasjonen med 0,5 mot høyre
- $\int _{0{,}5}^{b+0{,}5} L(t) \, \mathrm{d}t = 500 $
+ $$\int _{0{,}5}^{b+0{,}5} L(t) \, \mathrm{d}t = 500 $$
 
 Vi løser likningen i linje 4 i GeoGebra, og finner at **det tar omtrent 11,19 uker før Marco har løpt 500 km og kjøper nye sko. I gjennomsnitt har han da løpt 44,7 km i uka**, se linje 5.
 
@@ -502,17 +502,17 @@ b) Ja, vi kan forkaste $H_{0}$ siden $p=0{,}038$.
 Vi har en situasjon hvor vi har to ulike grupper og vi tenker oss at vi skal trekke 20 kandidater tilfeldig blant disse. Vi kan selvsagt ikke trekke den samme kandidaten til intervju 2 ganger, så dette blir en trekning uten tilbakelegging. Derfor passer en hypergeometrisk sannsynnlighetsfordeling godt i dette tilfellet.
 
 Hvis trekningen hadde vært tilfeldig burde sannsynligheten for å trekke en mann på første trekning være $p_{m}=\frac{40}{100}=0{,}4$. Altså kan vi sette opp følgende hypoteser
-$
+$$
 \begin{aligned}
 H_{0}:& \quad p_{m}=0{,}4 \\
 H_{1}:& \quad p_{m}>0{,}4
 \end{aligned}
-$
+$$
 
 >[!info] Andre hypoteser
 >
 >Vi kan selvsagt bruke andelen kvinner som utgangspunkt for hypotesene våre. Ved tilfeldig trekning burde sannsynligheten for kvinne på første trekning være $p_{k}=0{,}6$. Dette gir hypotesene
->$H_{0}: \quad p_{k}=0{,}6 \quad \text{mot} \quad H_{1}: \quad p_{k}<0{,}6$
+>$$H_{0}: \quad p_{k}=0{,}6 \quad \text{mot} \quad H_{1}: \quad p_{k}<0{,}6$$
 
 ### 2-2b
 
@@ -554,23 +554,23 @@ Påstanden er usann. $k=-2$ og rekka konvergerer ikke.
 ## Løsningsforslag
 
 Jeg vet at summen av en uendelig geometrisk rekke er gitt ved
-$
+$$
 s=\frac{a_{1}}{1-k}
-$
+$$
 dersom $-1<k<1$.
 
 Hvis vi vi lar $x=\frac{1}{e}$ så vil rekka bli
-$
+$$
 1+ \left( \ln \frac{1}{e}-1 \right) + \left( \ln \frac{1}{e}-1 \right)^{2} + \dots 
-$
+$$
 La oss se hva $\ln \frac{1}{e}-1$ blir
-$
+$$
 \ln \frac{1}{e}-1=\ln 1 - \ln e - 1=0-1-1=-2
-$
+$$
 Det første leddet i rekka er $a_{1}=1$ og det andre leddet er $a_{2}=-2$, det vil si at
-$
+$$
 k=\frac{-2}{1}=-2
-$
+$$
 $k$ ligger ikke i intervallet $\langle-1,1\rangle$, og dermed konvergerer ikke rekka.
 
 **Påstanden er usann, rekka konvergerer ikke når $\boldsymbol{x=\frac{1}{e}}$.**
@@ -648,11 +648,11 @@ b) 67 455
 Jeg setter opp tallene i følgen og sjekker differansene mellom hvert ledd (*det er alltid et godt tips for å finne mønstre!*). Jeg fant ut at differansene mellom tallene var 1, 4, 9, 16, 25, og disse tallene kjenner jeg igjen som kvadrattallene.
 
 Jeg sjekker om jeg finner en god sammenheng for et av leddene
-$a_{5}=31=15+16=15+4^2=a_{4}+4^{2}$
+$$a_{5}=31=15+16=15+4^2=a_{4}+4^{2}$$
 Jeg ser at jeg kan generalisere denne sammenhengen som
-$
+$$
 \underline{\underline{a_{n+1}=a_{n}+n^{2}}}
-$
+$$
 
 >[!tip] Alternative rekursive sammenhenger
 >
@@ -780,17 +780,17 @@ I oppgave c) så har jeg satt at terminbeløpet skal fra år 13 skal være 1,05 
 
 En bedrift produserer og selger en vare. Kostnaden $K(x)$ i kroner er gitt ved
 
-$
+$$
 K(x)=0{,}2x^{2}+50x+1500
-$
+$$
 
 der $x$ er antall enheter.
 
 Etterspørselen etter varen er gitt ved
 
-$
+$$
 E(p)=300e^{-0{,}01p}
-$
+$$
 
 der $p$ er prisen per vare i kroner
 
@@ -812,9 +812,9 @@ b) $-100x \ln \left( \frac{x}{300} \right)$
 > I oppgaven får vi oppgitt en kostnadsfunksjon $K(x)$, men jeg kan ikke se at vi har noen som helst bruk for den i løsningen.
 
 ### 2-6a
-$
+$$
 E(30)=300e^{-0{,}01 \cdot 30}=\underline{\underline{222{,}2}}
-$
+$$
 **Etterspørselen etter varen er 222,2 enheter når prisen er 30 kr per vare. Det betyr at vi kan forvente å selge 222 enheter dersom vi prisen varen til 30 kr.**
 
 ### 2-6b
@@ -823,9 +823,9 @@ Vi lar etterspørselen $E(p)$ være lik $x$ (antall solgte varer), og løser med
 ![Løsning av oppgave 6 del 2 i CAS](/img/user/_resources/s2-h24-2-6.png)
 
 Inntektene er gitt ved antall solgte varer $\times$ prisen per vare.
-$
+$$
 I(x)= x \cdot p = x \cdot \left( -100 \ln \left( \frac{x}{300} \right)  \right)= \underline{\underline{-100x \ln \left( \frac{x}{300} \right) }}
-$
+$$
 
 
 </div></div>

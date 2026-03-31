@@ -39,7 +39,7 @@ Anta at det på et tidspunkt vil bo 18 millioner mennesker i et land, og at dett
 
 Ada vil spare penger og har funnet ut at hun kan bruke funksjonen $f$ gitt ved
 
-$f(x) = 20000 \cdot 1{,}0485^{x}$
+$$f(x) = 20000 \cdot 1{,}0485^{x}$$
 
 for å regne ut hvor mye penger hun vil ha i banken om $x$ år.
 
@@ -82,7 +82,7 @@ print(v)
 
 For å regne ut bremselengder på sommerføre kan vi bruke formelen
 
-$B = \frac{x^2}{2}$
+$$B = \frac{x^2}{2}$$
 
 Her er $B$ bremselengde (meter), og $x$ er fart (km/h) delt på 10.
 
@@ -119,7 +119,7 @@ Tabellen nedenfor viser hvor mange bagetter en kantine har solgt hver av de sist
 
 >[!oppgave]
 >a) Bruk opplysningene ovenfor til å vise at funksjonen $O$ gitt ved
->$O(x) = -0{,}09x^2 + 51{,}04x - 2776{,}98$
+>$$O(x) = -0{,}09x^2 + 51{,}04x - 2776{,}98$$
 >er en god modell for hvor stort overskuddet en uke blir når kantinen produserer og selger $x$ bagetter i løpet av uken.
 >b) Hvor mange bagetter må kantinen produsere og selge i løpet av en uke, ifølge modellen $O$, for at overskuddet skal bli størst mulig? Hvor stort blir dette overskuddet?
 >c) Bestem stigningstallet til den rette linjen som går gjennom punktene $(100, O(100))$ og $(200, O(200))$. Gi en praktisk tolkning av svaret du får.
@@ -266,7 +266,7 @@ Da Jakob Ingebrigtsen satte personlig rekord på 1 engelsk mil, holdt han en gje
 
 Knut og Sabrina jobber med tallfølgen
 
-$2, 5, 11, 23, 47, \ldots$
+$$2, 5, 11, 23, 47, \ldots$$
 
 >[!blue-box] Knut
 >Jeg tror jeg har oppdaget et mønster, og jeg er nokså sikker på at alle leddene bortsett fra det første er oddetall.
@@ -318,7 +318,7 @@ Når lufttrykket er lavere enn 1000 hPa, vil kokepunktet for vann være lavere e
 >[!oppgave]
 >a) Bestem en modell $K$ på formen
 >
->$K(x) = a \cdot x^b$
+>$$K(x) = a \cdot x^b$$
 >
 >som tilnærmet viser sammenhengen mellom lufttrykket $x$ hPa og kokepunktet $K(x)$ $\degree\mathrm{C}$.
 

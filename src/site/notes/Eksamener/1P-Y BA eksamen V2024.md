@@ -81,7 +81,7 @@ Chris finner ut at han heller vil spare 2300 kroner hver måned. Han har en spar
 ## Fasit
 
 a) Vi sjekker prisen for alternativ 1 med 8 kjøretimer.
-  $3300+1580+5950+8500+8 \cdot 850=26\,130 \mathrm{~kr}$
+  $$3300+1580+5950+8500+8 \cdot 850=26\,130 \mathrm{~kr}$$
   **Pakkeløsningen i alternativ 2 er rimeligere.**
 b) Chris har lånt 25 000 kr og han betaler tilbake $12 \cdot 2321=27\,852 \mathrm{~kr}$. Differansen er $27\,852-25000=2852 \mathrm{~kr}$.  
 **Lånet koster 2852 kr.**
@@ -94,13 +94,13 @@ c) ![](/img/user/_resources/chris-sparing-excel.png)
 
 Vi beregner prisen for alternativ 1 med 8 kjøretimer:
 
-$
+$$
 \begin{aligned}
 &3300 + 1580 + 5950 + 8500 + 8 \cdot 850 \\
 = \, &3300 + 1580 + 5950 + 8500 + 6800 \\
 = \, &26\,130 \, \mathrm{kr}
 \end{aligned}
-$
+$$
 
 Alternativ 2 koster $25\,000 \, \mathrm{kr}$ og inkluderer de samme kursene med 8 kjøretimer.
 
@@ -110,15 +110,15 @@ Alternativ 2 koster $25\,000 \, \mathrm{kr}$ og inkluderer de samme kursene med 
 
 Total innbetalt med lånet:
 
-$
+$$
 12 \cdot 2321 = 27\,852 \, \mathrm{kr}
-$
+$$
 
 Lånekostnad (det ekstra han betaler):
 
-$
+$$
 27\,852 - 25\,000 = 2\,852 \, \mathrm{kr}
-$
+$$
 
 **Den totale kostnaden for lånet er $\underline{\underline{2\,852 \, \mathrm{kr}}}$.**
 

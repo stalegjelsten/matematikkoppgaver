@@ -35,12 +35,12 @@ b) $\approx 3 \, \mathrm{min/km}$
 ### a
 Jens løper $12\mathrm{~km/h}$ i $15\mathrm{~min} = \frac{15}{60}\mathrm{~t} = 0{,}25\mathrm{~t}$:
 
-$s = 12 \cdot 0{,}25 = \underline{\underline{3\mathrm{~km}}}$
+$$s = 12 \cdot 0{,}25 = \underline{\underline{3\mathrm{~km}}}$$
 
 
 ### b
 2 timer er 120 minutter. Hvis vi runder av så kan vi si at et maraton er omtrent 40 km. Da er farten
-$\dfrac{120}{40} = \underline{\underline{ 3\mathrm{~min/km} }}$
+$$\dfrac{120}{40} = \underline{\underline{ 3\mathrm{~min/km} }}$$
 
 </div></div>
 
@@ -82,7 +82,7 @@ Fra figuren ser vi at avdraget (blå del) er like stort i alle 5 terminer. Det b
 ### b
 Avdraget er $10\,000\mathrm{~kr}$ per termin, og lånet betales over 5 terminer:
 
-$\text{Lån} = 10\,000 \cdot 5 = \underline{\underline{50\,000\mathrm{~kr}}}$
+$$\text{Lån} = 10\,000 \cdot 5 = \underline{\underline{50\,000\mathrm{~kr}}}$$
 
 </div></div>
 
@@ -102,7 +102,7 @@ Ida har sett på tall som viser hvor mange timer søvn barn fra 3 til 15 år tre
 
 Hun har funnet ut at formelen
 
-$t=14-\frac{a}{3}$
+$$t=14-\frac{a}{3}$$
 
 gir omtrentlig antall timer søvn som er anbefalt for et barn som er $a$ år gammelt.
 
@@ -129,11 +129,11 @@ Vi bruker formelen $t = 14 - \dfrac{a}{3}$.
 
 **Spørsmål 1:** 6 år gammelt barn:
 
-$t = 14 - \frac{6}{3} = 14 - 2 = \underline{\underline{12\mathrm{~timer}}}$
+$$t = 14 - \frac{6}{3} = 14 - 2 = \underline{\underline{12\mathrm{~timer}}}$$
 
 **Spørsmål 2:** Barnet trenger 10 timer søvn, vi løser for $a$:
 
-$10 = 14 - \frac{a}{3} \implies \frac{a}{3} = 4 \implies a = \underline{\underline{12\text{~år}}}$
+$$10 = 14 - \frac{a}{3} \implies \frac{a}{3} = 4 \implies a = \underline{\underline{12\text{~år}}}$$
 
 </div></div>
 
@@ -172,7 +172,7 @@ b) $4 \, \mathrm{Mbit/s}$
 Hver megabyte er 8 megabit. Derfor er $6 \mathrm{~MB} \cdot 8=\underline{\underline{ 48 \mathrm{~Mbit} }}$
 
 ### b
-$8 \mathrm{~MB}$ blir overført på $16 \mathrm{~s}$, det vil si $\frac{8 \mathrm{~MB}}{16\mathrm{~s}}=0{,}5 \mathrm{~ MB/s}$
+$8 \mathrm{~MB}$ blir overført på $16 \mathrm{~s}$, det vil si $$\frac{8 \mathrm{~MB}}{16\mathrm{~s}}=0{,}5 \mathrm{~ MB/s}$$
 
 Hver MB er fremdeles 8 Mbit, derfor får vi $0{,}5 \mathrm{~ MB/s} \cdot 8 =\underline{\underline{ 4 \mathrm{~ Mbit/s} }}$
 
@@ -220,28 +220,28 @@ Gjør beregninger og vurderinger, og svar på de spørsmålene som Felix stiller
 
 > [!green-box]
 >
-> $S^{2}=P^{2}+Q^{2} \iff P = \sqrt{ S^{2}-Q^{2} }$
+> $$S^{2}=P^{2}+Q^{2} \iff P = \sqrt{ S^{2}-Q^{2} }$$
 >
 > For motor A så har vi altså
 >
-> $P = \sqrt{ 5^{2}-3^{2} }=\sqrt{ 25 - 9 }= \sqrt{ 16 }= 4$
+> $$P = \sqrt{ 5^{2}-3^{2} }=\sqrt{ 25 - 9 }= \sqrt{ 16 }= 4$$
 >
-> $\underline{\underline{ P=4 \mathrm{~kW} }}$
+> $$\underline{\underline{ P=4 \mathrm{~kW} }}$$
 
 > [!yellow-box]
 > Sinus er forholdet mellom motstående katet og hypotenus, altså forholdet mellom $Q$ og $S$:
 >
-> $\sin \phi = \frac{Q}{S} = \frac{1}{2}$
+> $$\sin \phi = \frac{Q}{S} = \frac{1}{2}$$
 >
 > Siden vi vet at $S=2{,}2\mathrm{~kVA}$ så har vi
 >
-> $\begin{aligned}
+> $$\begin{aligned}
  \frac{Q}{S}&=\frac{1}{2} \\
  Q &= \frac{1}{2}\cdot S \\
  Q &= S / 2 \\
  Q &= \frac{2{,}2}{2}\\
  Q &= 1{,}1 \mathrm{~kVAr}
- \end{aligned}$
+ \end{aligned}$$
  > **Den reaktive effekten $Q$ er 1,1 kVAr.**
 
 </div></div>
@@ -302,14 +302,14 @@ c) 35 hele paneler
 ### a
 Total produksjon $624\mathrm{~MWh} = 624\,000\mathrm{~kWh}$ fordelt på 1400 paneler:
 
-$\frac{624\,000}{1400} \approx \underline{\underline{446\mathrm{~kWh}}}$
+$$\frac{624\,000}{1400} \approx \underline{\underline{446\mathrm{~kWh}}}$$
 
 
 ### b
 Fra illustrasjonen er $CB = 1134\mathrm{~mm}$ hypotenusen i rettvinklet trekant $ACB$ med rett vinkel i $A$ og vinkel $35°$ ved $B$:
 
-$AB = 1134 \cdot \cos(35°) \approx \underline{\underline{929\mathrm{~mm}}}$
-$AC = 1134 \cdot \sin(35°) \approx \underline{\underline{650\mathrm{~mm}}}$
+$$AB = 1134 \cdot \cos(35°) \approx \underline{\underline{929\mathrm{~mm}}}$$
+$$AC = 1134 \cdot \sin(35°) \approx \underline{\underline{650\mathrm{~mm}}}$$
 
 
 ### c
@@ -317,11 +317,11 @@ Areal per panel: $1{,}762 \cdot 1{,}134 \approx 1{,}998\mathrm{~m}^2$
 
 Effekt per panel med maks solinnstråling og $21\,\%$ virkningsgrad:
 
-$P_{\text{panel}} = 1{,}998 \cdot 1000 \cdot 0{,}21 \approx 419{,}6\mathrm{~W}$
+$$P_{\text{panel}} = 1{,}998 \cdot 1000 \cdot 0{,}21 \approx 419{,}6\mathrm{~W}$$
 
 Maksimalt antall hele paneler:
 
-$n = \frac{15\,000}{419{,}6} \approx 35{,}7 \implies \underline{\underline{35\text{ hele paneler}}}$
+$$n = \frac{15\,000}{419{,}6} \approx 35{,}7 \implies \underline{\underline{35\text{ hele paneler}}}$$
 
 </div></div>
 
@@ -341,7 +341,7 @@ Det meste av strømmen i Norge blir produsert med vannkraft.
 
 For å beregne hvor mye effekt et vannkraftverk produserer, brukes denne formelen:
 
-$P = \eta \cdot \rho \cdot g \cdot Q \cdot h$
+$$P = \eta \cdot \rho \cdot g \cdot Q \cdot h$$
 
 der
 
@@ -352,7 +352,7 @@ der
 - $Q$ er vannstrøm ($\mathrm{m^3/s}$)
 - $h$ er fallhøyde (m)
 
-$\text{energimengde} = \text{effekt} \cdot \text{tid}$
+$$\text{energimengde} = \text{effekt} \cdot \text{tid}$$
 
 En elektroklasse har besøkt et kraftverk hvor virkningsgrad, vannstrøm og fallhøyde er
 
@@ -387,17 +387,17 @@ $P \approx 17\,879 \, \mathrm{kW}$; $E \approx 858\,000 \, \mathrm{kWh}$; inntek
 
 **Effekt:**
 
-$P = \eta \cdot \rho \cdot g \cdot Q \cdot h = 0{,}9 \cdot 1000 \cdot 9{,}81 \cdot 4{,}5 \cdot 450 \approx \underline{\underline{17\,879\mathrm{~kW}}}$
+$$P = \eta \cdot \rho \cdot g \cdot Q \cdot h = 0{,}9 \cdot 1000 \cdot 9{,}81 \cdot 4{,}5 \cdot 450 \approx \underline{\underline{17\,879\mathrm{~kW}}}$$
 
 **Energimengde og inntekt på 48 timer:**
 
-$E = 17\,879\mathrm{~kW} \cdot 48\mathrm{~t} \approx 858\,000\mathrm{~kWh}$
+$$E = 17\,879\mathrm{~kW} \cdot 48\mathrm{~t} \approx 858\,000\mathrm{~kWh}$$
 
-$\text{Inntekt} = 858\,000 \cdot 0{,}40 \approx \underline{\underline{343\,000\mathrm{~kr}}}$
+$$\text{Inntekt} = 858\,000 \cdot 0{,}40 \approx \underline{\underline{343\,000\mathrm{~kr}}}$$
 
 **Ny $Q$ når $P = 25\,000\mathrm{~kW}$:**
 
-$Q = \frac{P}{\eta \cdot \rho \cdot g \cdot h} = \frac{25\,000\,000}{0{,}9 \cdot 1000 \cdot 9{,}81 \cdot 450} \approx \underline{\underline{6{,}29\mathrm{~m}^3/\mathrm{s}}}$
+$$Q = \frac{P}{\eta \cdot \rho \cdot g \cdot h} = \frac{25\,000\,000}{0{,}9 \cdot 1000 \cdot 9{,}81 \cdot 450} \approx \underline{\underline{6{,}29\mathrm{~m}^3/\mathrm{s}}}$$
 
 
 </div></div>
@@ -478,11 +478,11 @@ For å regne ut farten Oscar og Maja treffer vannflaten med, kan vi bruke disse 
 
 Farten etter $t$ sekunder i lufta blir
 
-$v = 9{,}8 \cdot t ${#eq:fart1}
+$$v = 9{,}8 \cdot t $${#eq:fart1}
 
 Farten til en som hopper fra høyden $h$ meter, blir
 
-$v = \sqrt{2 \cdot 9{,}8 \cdot h}${#eq:fart2}
+$$v = \sqrt{2 \cdot 9{,}8 \cdot h}$${#eq:fart2}
 
 - $v$ er farten i meter per sekund (m/s).
 - $t$ er tiden i sekunder (s).
@@ -510,21 +510,21 @@ Oscar: $v = 11{,}76 \, \mathrm{m/s}$; Maja: nei, $\sqrt{2}$ ganger (ikke dobbel)
 ## Løsningsforslag
 **Oscar:** $t = 1{,}2\mathrm{~s}$, Formel 1:
 
-$v = 9{,}8 \cdot 1{,}2 = \underline{\underline{11{,}76\mathrm{~m/s}}}$
+$$v = 9{,}8 \cdot 1{,}2 = \underline{\underline{11{,}76\mathrm{~m/s}}}$$
 
 **Maja – dobbel fart?** Vi bruker Formel 2 for begge høyder:
 
-$v_{10} = \sqrt{2 \cdot 9{,}8 \cdot 10} = \sqrt{196} = 14\mathrm{~m/s}$
+$$v_{10} = \sqrt{2 \cdot 9{,}8 \cdot 10} = \sqrt{196} = 14\mathrm{~m/s}$$
 
-$v_5 = \sqrt{2 \cdot 9{,}8 \cdot 5} = \sqrt{98} \approx 9{,}90\mathrm{~m/s}$
+$$v_5 = \sqrt{2 \cdot 9{,}8 \cdot 5} = \sqrt{98} \approx 9{,}90\mathrm{~m/s}$$
 
-$\frac{v_{10}}{v_5} = \frac{14}{9{,}90} \approx 1{,}41 = \sqrt{2}$
+$$\frac{v_{10}}{v_5} = \frac{14}{9{,}90} \approx 1{,}41 = \sqrt{2}$$
 
 Farten er ikke dobbel – den er $\sqrt{2} \approx 1{,}41$ ganger så stor, fordi farten øker med kvadratroten av høyden.
 
 **Maja – tid fra 10 m:**
 
-$v_{10} = 14\mathrm{~m/s} \implies t = \frac{v}{9{,}8} = \frac{14}{9{,}8} \approx \underline{\underline{1{,}43\mathrm{~s}}}$
+$$v_{10} = 14\mathrm{~m/s} \implies t = \frac{v}{9{,}8} = \frac{14}{9{,}8} \approx \underline{\underline{1{,}43\mathrm{~s}}}$$
 
 
 </div></div>
@@ -572,18 +572,18 @@ b) $\approx 4\,286 \, \text{arbeidsdager}$
 ### a
 To brannslanger, $3\,000\,000$ liter på $48\mathrm{~t} = 172\,800\mathrm{~s}$:
 
-$\frac{3\,000\,000}{172\,800 \cdot 2} \approx \underline{\underline{8{,}68\mathrm{~L/s}}}\ \text{per brannslange}$
+$$\frac{3\,000\,000}{172\,800 \cdot 2} \approx \underline{\underline{8{,}68\mathrm{~L/s}}}\ \text{per brannslange}$$
 
 ### b
 Antall runder med vannkanne:
 
-$\frac{3\,000\,000}{5} = 600\,000\text{ runder}$
+$$\frac{3\,000\,000}{5} = 600\,000\text{ runder}$$
 
 Total tid: $600\,000 \cdot 3\mathrm{~min} = 1\,800\,000\mathrm{~min}$
 
 Trond arbeider $7\mathrm{~t} = 420\mathrm{~min}$ per dag:
 
-$\frac{1\,800\,000}{420} \approx \underline{\underline{4\,286\text{ arbeidsdager}}}$
+$$\frac{1\,800\,000}{420} \approx \underline{\underline{4\,286\text{ arbeidsdager}}}$$
 
 Det tilsvarer nesten 17 år – ikke gjennomførbart i praksis!
 

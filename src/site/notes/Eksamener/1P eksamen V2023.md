@@ -19,9 +19,9 @@ De siste årene har Lars bodd på Svalbard fra 1. februar til 1. oktober. Hvert 
 
 Han har funnet at funksjonen $T$ gitt ved
 
-$
+$$
 T(x)=0{,}048 x^{4}-1{,}4 x^{3}+13{,}36 x^{2}-45{,}8 x+35{,}2 \quad, \quad x \in[2,10]
-$
+$$
 
 er en rimelig bra modell for gjennomsnittstemperaturen $T(x)^{\circ} \mathrm{C}$ hvert døgn de månedene han bor på Svalbard, når han lar $x=2$ svare til 1. februar, $x=3$ til 1. mars, $x=4$ til 1 . april og så videre.
 
@@ -47,9 +47,9 @@ Jeg tegnet grafen til funksjonen og fant skjæringspunktene ved $x$-aksen, hvor 
 
 Det er $8,906-5,772=3,134$ måneder mellom skjæringspunktene. Jeg setter at det er 30,5 døgn i hver måned slik at vi får:
 
-$
+$$
 3,134\cdot 30,5=95,6 \approx  \underline{\underline{96}}
-$
+$$
 
 **Temperaturen er over 0 °C i omtrent 96 døgn**
 
@@ -67,13 +67,13 @@ Jeg tegnet $T'$ sammen med $T$ i koordinatsystemet og fant nullpunkter og ekstre
 
 ![Del 2 oppgave 1c. Vekstfarten til temperaturen på Svalbard](/img/user/_resources/1t-v23-2-1c.png)
 
-$
+$$
 \begin{aligned}
 \text{Toppunkt (M)}:& \quad (4,69 , 6,94)\\
 \text{Bunnpunkt (N)}:& \quad (9,90 , -6,62)\\
 \text{Nullpunkter (G og H):}& \quad (2,76 , 0)\text{ og } (7,33 , 0)
 \end{aligned}
-$
+$$
 
 Jeg sammenlignet disse punktene med tilsvarende punkter på grafen til $T$. 
 
@@ -126,9 +126,9 @@ c) En mulighet er $A(x)=x\cdot (80-2x)$
 ### 2-2a
 Med 80 m tau og et område med lengde 60 m så har de 20 m igjen å fordele til de to siste sidene. Matematisk kan vi skrive $\frac{80-60}{2}=10$. Bredden blir altså 10 m.
 
-$
+$$
 A=10\cdot 60=600
-$
+$$
 
 **Arealet av området er 600 m².**
 
@@ -142,9 +142,9 @@ Jeg satte opp en oversikt i Excel, se formlene i formelutklippet. Vi ser at area
 ### 2-2c
 La oss kalle bredden i meter for $x$. Da må lengden i meter være $80-2x$. Vi kan sette opp et funksjonsuttrykk for arealet $A(x)$ der bredden er $x$ meter.
 
-$
+$$
 A(x)=(80-2x)\cdot x
-$
+$$
 
 ![Del 2 oppgave 2c. Areal av teltplass som funksjon av bredden](/img/user/_resources/1t-v23-2-2c.png) \ 
 

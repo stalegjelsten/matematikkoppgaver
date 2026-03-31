@@ -17,7 +17,7 @@
 
 >[!oppgave]
 >Deriver funksjonen
->$f(x) = \frac{e^{2x}}{x}$
+>$$f(x) = \frac{e^{2x}}{x}$$
 
 ## Fasit
 
@@ -25,12 +25,12 @@
 ## Løsningsforslag
 
 Funksjonen består av en brøk med funksjoner i både teller og nevner, så vi må bruke kvotientregelen når vi deriverer.
-$
+$$
 f(x)=\frac{u}{v}\implies f'(x)=\frac{u'v+uv'}{v^{2}}
-$
-$
+$$
+$$
 f'(x)=\frac{2e^{2x} \cdot x + e^{2x}\cdot 1}{x^{2}}=\underline{\underline{e^{2x} \frac{2x+1}{x^{2}}}}
-$
+$$
 
 
 </div></div>
@@ -70,14 +70,14 @@ print(x)
 Jeg ser at programmet består av en funksjon $O(x)$ som muligens er en overskuddsfunksjon. `while`-løkka i programmet kjører så lenge $O(x+1)>O(x)$, altså kjører løkka så lenge $O(x)$ stiger. Inni løkka økes $x$-verdien med 1, altså vil programmet skrive ut $x$-koordinaten til toppunktet til $O(x)$.
 
 Den enkleste måten å bestemme toppunktet på er å derivere $O$ og sette lik null.
-$
+$$
 \begin{aligned}
 O'(x)&=-0{,}2x+2000 \\
 -0{,}2x+2000 &= 0\\
 0{,}2x&=2000\\
 x&=10\,000
 \end{aligned}
-$
+$$
 **Programmet skriver ut 10 000.**
 
 
@@ -97,7 +97,7 @@ $
 
 >[!oppgave]
 >Løs likningen
->$100^x - 3 \cdot 10^x = 4$
+>$$100^x - 3 \cdot 10^x = 4$$
 
 ## Fasit
 
@@ -105,24 +105,24 @@ $
 ## Løsningsforslag
 
 Jeg ser at likningen består av tierpotenser.
-$
+$$
 \begin{aligned}
 100^{x}-3 \cdot 10^{x}&=4\\
 \left( 10^{x} \right)^{2}  -3 \cdot 10^{x} - 4&=0\\
 \end{aligned}
-$
+$$
 Dette ser jeg at kan skrives som en andregradslikning hvor $u=10^{x}$.
-$
+$$
 u^{2}-3u-4=0 \implies \underbrace{ (u-4)(u+1)=0 }_{ \text{Heltallsmetode} } \implies \underline{ u= 4 \vee u=-1} 
-$
+$$
 Vi bytter substituerer tilbake.
-$
+$$
 \begin{aligned}
 10^{x}&=4 \vee \underbrace{ \cancel{ 10^{x}=-1 } }_{ 10^{x} \text{ er positivt} } \\
 \log 10^{x} &= \log 4\\
 x&= \log 4
 \end{aligned}
-$
+$$
 **Løsningen er $\underline{\underline{x=\log 4}}$**.
 
 
@@ -142,7 +142,7 @@ $
 
 >[!oppgave]
 >Finn grenseverdien hvis den eksisterer.
->$\lim_{x \to \infty} \frac{x^2 + x - 12}{2x^2 - 18}$
+>$$\lim_{x \to \infty} \frac{x^2 + x - 12}{2x^2 - 18}$$
 
 ## Fasit
 
@@ -150,9 +150,9 @@ $
 ## Løsningsforslag
 
 Vi ser at både teller og nevner går mot uendelig når $x \to \infty$. Vi kan altså bruke L'Hopitals regel.
-$
+$$
 \lim_{ x \to \infty } \frac{x^{2}+x-12}{2x^{2}-18}=\lim_{ x \to \infty } \frac{2x+1}{4x}=\lim_{ x \to \infty } \frac{2+\frac{1}{x}}{4}=\frac{2+0}{4}=\frac{1}{2}
-$
+$$
 **Grenseverdien er $\underline{\underline{\frac{1}{2}}}$.**
 
 
@@ -238,7 +238,7 @@ Det er litt vanskelig å lese av stigningstallet til tangenten til $f$ i $x=1$, 
 
 Et gammelt vannreservoar lekker vann. Mengden vann i reservoaret $V$ er gitt ved
 
-$V(t) = 10000 \cdot e^{-0{,}07t} + 500$
+$$V(t) = 10000 \cdot e^{-0{,}07t} + 500$$
 
 Her er $t$ antall timer etter lekkasjen startet, og mengden vann er målt i antall liter.
 
@@ -296,7 +296,7 @@ Forskere har registrert en ny fiskeart i en innsjø. I tabellen nedenfor ser du 
 
 Fiskepopulasjonen kan beskrives med en modell på formen
 
-$A(t) = A_0 \cdot k^t$
+$$A(t) = A_0 \cdot k^t$$
 
 der $A(t)$ er antall tusen fisk $t$ måneder etter første registrering.
 
@@ -305,7 +305,7 @@ der $A(t)$ er antall tusen fisk $t$ måneder etter første registrering.
 
 Fiskepopulasjonen kan også beskrives med en logistisk modell på formen
 
-$N(t) = \frac{B}{1 + \dfrac{B - N_0}{N_0} e^{-r \cdot t}}$
+$$N(t) = \frac{B}{1 + \dfrac{B - N_0}{N_0} e^{-r \cdot t}}$$
 
 $B$ er bæreevnen, $N_0$ er antall tusen fisk ved $t = 0$ og $r$ er vekstparameteren.
 
@@ -333,7 +333,7 @@ $B$ er bæreevnen, $N_0$ er antall tusen fisk ved $t = 0$ og $r$ er vekstparamet
 
 I koordinatsystemet nedenfor ser du grafen til en funksjon $f$ gitt ved
 
-$f(x) = \log_a(x)$
+$$f(x) = \log_a(x)$$
 
 ![Graf av logaritmefunksjon med ukjent grunntall](/img/user/_resources/s1-h24-2-3.jpeg)
 
@@ -384,7 +384,7 @@ Nedenfor ser du grafene til funksjonene $f$, $g$ og $h$.
 
 To småfugler er ute og flyr. Posisjonen til de to fuglene er gitt ved
 
-$\vec{r}_1(t) = [-10 + 6t,\ 35 - 3t] \quad \text{og} \quad \vec{r}_2(t) = [2 + 5t,\ 4t]$
+$$\vec{r}_1(t) = [-10 + 6t,\ 35 - 3t] \quad \text{og} \quad \vec{r}_2(t) = [2 + 5t,\ 4t]$$
 
 Tiden $t$ er målt i sekunder, og enhetene langs aksene er målt i meter.
 
@@ -395,7 +395,7 @@ Tiden $t$ er målt i sekunder, og enhetene langs aksene er målt i meter.
 
 En rovfugl er også ute og flyr og oppdager småfuglene ved tidspunktet $t = 0$. Posisjonen til rovfuglen de første 6 sekundene er gitt ved
 
-$\vec{r}_R(t) = [7t - 10,\ 2t^2 - 6t + 5]$
+$$\vec{r}_R(t) = [7t - 10,\ 2t^2 - 6t + 5]$$
 
 >[!oppgave]
 >d) Gjør nødvendige beregninger og beskriv jakten rovfuglen har på småfuglene.

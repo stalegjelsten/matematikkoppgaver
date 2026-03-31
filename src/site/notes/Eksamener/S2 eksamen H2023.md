@@ -18,9 +18,9 @@
 
 Regn ut integralet
 
-$
+$$
 \int_{-1}^{1} \left( x^{3}+2x \right)  \, dx 
-$
+$$
 Hva forteller svaret deg?
 
 ## Fasit
@@ -31,15 +31,15 @@ Svaret er 0.
 
 Dette integralet trenger ingen spesielle regler eller teknikker for å løses.
 
-$
+$$
 \int_{-1}^{1} \left( x^{3}+2x \right)  \, dx = \left[ \frac{1}{4}x^{4}+\frac{2}{2}x^{2} \right]_{-1}^{1}
-$
+$$
 
 Jeg setter inn grensene og får
 
-$
+$$
 \left( \frac{1}{4}1^{4}+1^{2} \right) - \left( \frac{1}{4}(-1)^{4}+(-1)^{2} \right)=\underline{\underline{0}} 
-$
+$$
 **Siden svaret på integralet er 0 så må det være like mye areal avgrenset av grafen på oversiden av $x$-aksen som på undersiden av $x$-aksen.**
 
 
@@ -69,9 +69,9 @@ $s_{4}=7{,}5$
 
 Jeg bruker formelen for uendelig geometrisk rekke. Jeg setter inn kjente verdier for å bestemme $k$:
 
-$
+$$
 \frac{a_{1}}{1-k}=\frac{4}{1-k}=8 \iff \frac{4}{8}=1-k \iff k=\frac{1}{2}
-$
+$$
 
 Summen av de fire første leddene er $4+2+1+\frac{1}{2}=\frac{15}{2}$
 
@@ -105,17 +105,17 @@ $a_{4}=38$
 
 Jeg vet at i en aritmetisk rekke er 
 
-$
+$$
 a_{n+1}=a_{n}+d
-$
+$$
 
 Vi kan dermed si at $a_{1}=a_{4}-3d$ og $a_{7}=a_{4}+3d$.
 
 Jeg setter inn for $a_{1}$ og $a_{7}$ i uttrykket og får
 
-$
+$$
 a_{4}-3d+a_{4}+a_{4}+3d=114 \iff 3a_{4}=114 \iff a_{4}=38
-$
+$$
 
 $\underline{\underline{a_{4} = 38}}$
 
@@ -139,13 +139,13 @@ I koordinatsystemet nedenfor ser du grafen til en kostnadsfunksjon $K$ sammen me
 
 De tre rette linjene er grafene til funksjonene $f$, $g$, $h$ der
 
-$
+$$
 \begin{aligned}
 f(x)&=31x+2030\\
 g(x)&=60x\\
 h(x)&=81{,}75x
 \end{aligned}
-$
+$$
 
 To av linjene tangerer grafen til $K$. Vi kaller tangeringspunktene $A$ og $B$.
 
@@ -167,21 +167,21 @@ c) 60 kr
 ### 1-3a
 Enhetskostnadene er gitt ved
 
-$
+$$
 E(x)=\frac{K(x)}{x}
-$
+$$
 
 Jeg ser at punktet linja $f(x)=31x+2030$ tangerer $K$ ved $x=40$. Dermed har vi
 
-$
+$$
 K(40)=f(40)=31\cdot 40 + 2030=1240+2030=3270
-$
+$$
 
 Ved å sette inn i uttrykket for enhetskostnadene får vi
 
-$
+$$
 E(40)=\frac{K(40)}{40}=\frac{3270}{40}=81{,}75
-$
+$$
 
 **Enhetskostnadene ved produksjon av 40 enheter er 81,75 kr.**
 
@@ -195,25 +195,25 @@ Siden $A$ er et tangeringspunkt på grafen til $K$, og $A$ ligger på $x=40$, s�
 ### 1-3c
 Vi har lavest grensekostnader når $E'(x)=0$, og dette betyr
 
-$
+$$
 \begin{aligned}
 E'(x)&=0 \\
 \left( \frac{K(x)}{x} \right)'&=0  \\
 \frac{K'(x)\cdot x-K(x)}{x^{2}}&=0 \\
 K'(x) \cdot x &= K(x)
 \end{aligned}
-$
+$$
 
 Den nederste linja forteller oss at vi finner den laveste enhetskostnaden når den lineære funksjonen $y=K'(x)\cdot x$ skjærer $K(x)$. Enklere sagt vil det si at vi har lavest enhetskostnad når tangenten til $K$ går gjennom origo. Jeg ser fra grafen at dette gjelder den blå linja og punktet $B$.
 
 Hvis vi fortsetter likningsløsningen litt til får vi:
-$
+$$
 \begin{aligned}
 K'(x) \cdot x &= K(x)\\
 K'(x) &= \frac{K(x)}{x}\\
 K'(x) &= E(x)
 \end{aligned}
-$
+$$
 
 De laveste enhetskostnadene er altså $K'(x)$, eller stigningstallet til tangenten i punktet $B$. Tangenten i $B$ har funksjonsuttrykk $g(x)=60x$. 
 
@@ -271,25 +271,25 @@ Ved å bruke absoluttverdifunksjonen så tar programmet hensyn til at $f<0$ i de
 ### 1-4b
 Jeg ser at $f(x)$ har nullpunkter i $x=1$ og $x=-1$. På grunn av symmetri vil 
 
-$
+$$
 \int_{-2}^{1} f(x) \, dx = \int_{1}^{2} f(x) \, dx 
-$
+$$
 
 For å regne ut det samlede arealet kan jeg derfor bruke uttrykket (minustegn foran integral nummer 2, siden grafen ligger under $x$-aksen i dette intervallet)
 
-$
+$$
 2\int_{1}^{2} \left( x^{2}-1 \right)  \, dx - \int_{-1}^{1} \left( x^{2}-1 \right)  \, dx 
-$
+$$
 
 Jeg finner først det ubestemte integralet
 
-$
+$$
 F(x)=\int (x^{2}-1) \, \mathrm{d}x =\frac{1}{3}x^{3}-x+C
-$
+$$
 
 Jeg finner så arealet ved
 
-$
+$$
 \begin{aligned}
 2\cdot \left( F(2)-F(1) \right) - \left( F(1)-F(-1) \right) \\
 2\cdot F(2)- 3\cdot F(1)+F(-1) \\
@@ -297,7 +297,7 @@ $
 \left( \frac{16}{3}-4 \right) -\left( \frac{3}{3}-3 \right) +\left( \frac{-1}{3}+1 \right)\\
 -4+3+1+\frac{16}{3}-\frac{3}{3}-\frac{1}{3}=\frac{12}{3}=4
 \end{aligned}
-$
+$$
 
 **Verdien eleven forsøkte å bestemme er 4.**
 
@@ -338,15 +338,15 @@ c) $\frac{7}{16}$
 ### 1-5a
 Siden det kun er tre typer kuler så må sannsynligheten for å trekke en kule som veier 10 kg være 
 
-$
+$$
 P(\text{10 kg})=1-\frac{1}{4}-\frac{1}{2}=\frac{1}{4}
-$
+$$
 
 Forventningsverdien er summen av produktene av sannsynlighet $\times$ verdi. Altså:
 
-$
+$$
 E(X)=\frac{1}{4} \cdot 4 + \frac{1}{2}\cdot 5 + \frac{1}{4} \cdot 10=\frac{2}{2}+\frac{5}{2}+\frac{5}{2} =\frac{12}{2}=6
-$
+$$
 
 For å finne variansen må vi finne differansen til gjennomsnittet for hver verdi, kvadrere denne differansen og multiplisere den med sannsynligheten for observasjonsverdien.
 
@@ -377,9 +377,9 @@ Se valgtreet over. Jeg ser at utfallene for $Y=X_{1}+X_{2}$ er 8, 9, 10, 14, 15 
 ### 1-5c
 $P(Y>10)$ betyr sannsynligheten for at $Y$ er større 10. Det stemmer når $Y=14$, $Y=15$ og $Y=20$.
 
-$
+$$
 P(Y>10)=P(Y=14)+P(Y=15)+P(Y=20)=\frac{1}{8}+\frac{1}{4}+\frac{1}{16}=\frac{2+4+1}{16}=\underline{\underline{\frac{7}{16}}}
-$
+$$
 
 
 </div></div>
@@ -424,9 +424,9 @@ Her er $x$ den daglige etterspørselen når varen koster $p$ kroner.
 
 Kostnadene $K$ (i kroner) ved produksjon og salg av $x$ enheter per dag er gitt ved 
 
-$
+$$
 K(x) = 0{,}021x^{2}+10x+910
-$
+$$
 
 >[!oppgave]
 >d) Hvor mange enheter må produseres og selges per dag for at grenseinntektene skal bli lik grensekostnadene?
@@ -458,9 +458,9 @@ Jeg brukte GeoGebra og løste $e(p)=70$ i CAS.
 
 Gitt at $p(x)=79-12{,}2 \ln x$ er en funksjon som angir prisen ved etterspørselen $x$, så er inntekten gitt ved
 
-$
+$$
 I(x)=p(x)\cdot x = (79-12{,}2 \ln x)\cdot x
-$
+$$
 
 Jeg brukte GeoGebra til å finne ekstremalpunktet til $I$ ved å derivere funksjonen og sette den deriverte lik null. Jeg sjekket også at dette punktet var et toppunkt i grafikkfeltet. 
 
@@ -651,9 +651,9 @@ De fem første figurtallene er 1, 6, 16, 31 og 51
 ### 2-4a
 Jeg ser at differansen mellom antall kuler i figurene øker med 5, 10, 15, 20. La oss kalle denne differansen for $d$. Vi kan si at $P_{2}=P_{1}+5=P_{1}+d$ og $P_{3}=P_{2}+2d$. Vi ser dermed et mønster og kan sette opp følgende sammenheng for $n\geq 2$: 
 
-$
+$$
 P_{n}=P_{n-1}+(n-1)\cdot d
-$
+$$
 
 ### 2-4b
 ```python

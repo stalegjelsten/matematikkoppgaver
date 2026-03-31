@@ -52,21 +52,21 @@ c) D: $P = 8 + 3x$
 
 a) Oppstartsprisen er 8 kr og leieprisen er 3 kr per minutt. For 4 minutter:
 
-   $8 + 3 \cdot 4 = 8 + 12 = \underline{\underline{20 \, \mathrm{kr}}}$
+   $$8 + 3 \cdot 4 = 8 + 12 = \underline{\underline{20 \, \mathrm{kr}}}$$
 
 b) Vi vet at prisen er 53 kr, og setter opp en likning:
 
-   $
+   $$
    \begin{aligned}
    8 + 3x &= 53 \\
    3x &= 45 \\
    x &= \underline{\underline{15 \, \mathrm{min}}}
    \end{aligned}
-   $
+   $$
 
 c) Prisen er alltid 8 kr i oppstart pluss 3 kr for hvert minutt. Formelen for $x$ minutter er altså:
 
-   $P = 8 + 3x$
+   $$P = 8 + 3x$$
 
    **Alternativ D er riktig.**
 
@@ -177,11 +177,11 @@ Begge har rett. Marko: $\frac{30}{20} \cdot 100\,\% = 150\,\%$ (grunnlag: butikk
 
 Marko regner ut hvor mye dyrere bensinstasjonen er sammenlignet med butikken (bruker butikkprisen 20 kr som grunnlag):
 
-$\frac{50 - 20}{20} \cdot 100 \, \% = \frac{30}{20} \cdot 100 \, \% = 150 \, \%$
+$$\frac{50 - 20}{20} \cdot 100 \, \% = \frac{30}{20} \cdot 100 \, \% = 150 \, \%$$
 
 Mari regner ut hvor mye billigere butikken er sammenlignet med bensinstasjonen (bruker bensinstasjonsprisen 50 kr som grunnlag):
 
-$\frac{50 - 20}{50} \cdot 100 \, \% = \frac{30}{50} \cdot 100 \, \% = 60 \, \%$
+$$\frac{50 - 20}{50} \cdot 100 \, \% = \frac{30}{50} \cdot 100 \, \% = 60 \, \%$$
 
 **Begge har regnet riktig.** De får ulike prosenttall fordi de har brukt forskjellige grunnlag. Marko regner prosentvis økning fra butikkpris (20 kr), mens Mari regner prosentvis reduksjon fra bensinstasjonspris (50 kr).
 
@@ -238,17 +238,17 @@ a) I trekanten $ABC$ er $u$ vinkelen ved $A$ og den rette vinkelen er ved $B$.
 
    Sinus er forholdet mellom motstående katet og hypotenus:
 
-   $\underline{\underline{\sin u = \frac{BC}{AC}}}$
+   $$\underline{\underline{\sin u = \frac{BC}{AC}}}$$
 
 b) Maksimalt avvik er $0{,}1 \, \mathrm{Hz}$ fra $50 \, \mathrm{Hz}$:
 
-   $\frac{0{,}1}{50} \cdot 100 \, \% = \underline{\underline{0{,}2 \, \%}}$
+   $$\frac{0{,}1}{50} \cdot 100 \, \% = \underline{\underline{0{,}2 \, \%}}$$
 
 c) Fra effekttrekanten ser vi at $\cos \varphi = \dfrac{P}{S}$, og vi vet at $P = 40 \, \mathrm{W}$ og $\cos \varphi = \dfrac{40}{50}$.
 
    Dermed er $S = 50 \, \mathrm{VA}$. Vi bruker Pytagoras for å finne $Q$:
 
-   $Q = \sqrt{S^2 - P^2} = \sqrt{50^2 - 40^2} = \sqrt{2500 - 1600} = \sqrt{900} = \underline{\underline{30 \, \mathrm{VAr}}}$
+   $$Q = \sqrt{S^2 - P^2} = \sqrt{50^2 - 40^2} = \sqrt{2500 - 1600} = \sqrt{900} = \underline{\underline{30 \, \mathrm{VAr}}}$$
 
 
 </div></div>
@@ -271,7 +271,7 @@ En terrassevarmer er merket med $P = 1725 \mathrm{~W}$ og $U = 230 \mathrm{~V}$.
 
 Formelen for effekt for en slik terrassevarmer er
 
-$P = U \cdot I$
+$$P = U \cdot I$$
 
 $P$ er effekten i watt, $U$ er spenningen i volt, og $I$ er strømstyrken i ampere.
 
@@ -286,7 +286,7 @@ Formelen for tilført effekt $(P_t)$ er $P_t = \sqrt{3} \cdot U \cdot I \cdot \c
 
 Formelen for virkningsgraden til en elektromotor er
 
-$\eta = \frac{P_a}{P_t}$
+$$\eta = \frac{P_a}{P_t}$$
 
 >[!oppgave]
 >b) Bruk de oppgitte formlene og finn $\cos \varphi$ dersom $\eta = {,}8$, $U = 230 \mathrm{~V}$, $I = 5 \mathrm{~A}$ og $P_a = 920 \mathrm{~W}$.
@@ -300,21 +300,21 @@ b) $\cos \varphi \approx 0{,}58$
 
 a) Vi løser $P = U \cdot I$ for $I$:
 
-   $I = \frac{P}{U} = \frac{1725}{230} = \underline{\underline{7{,}5 \, \mathrm{A}}}$
+   $$I = \frac{P}{U} = \frac{1725}{230} = \underline{\underline{7{,}5 \, \mathrm{A}}}$$
 
 b) Vi bruker de to formlene. Først finner vi tilført effekt fra virkningsgraden:
 
-   $\eta = \frac{P_a}{P_t} \implies P_t = \frac{P_a}{\eta} = \frac{920}{0{,}8} = 1150 \, \mathrm{W}$
+   $$\eta = \frac{P_a}{P_t} \implies P_t = \frac{P_a}{\eta} = \frac{920}{0{,}8} = 1150 \, \mathrm{W}$$
 
    Deretter setter vi inn i formelen for tilført effekt og løser for $\cos \varphi$:
 
-   $
+   $$
    \begin{aligned}
    P_t &= \sqrt{3} \cdot U \cdot I \cdot \cos \varphi \\
    1150 &= \sqrt{3} \cdot 230 \cdot 5 \cdot \cos \varphi \\
    \cos \varphi &= \frac{1150}{\sqrt{3} \cdot 230 \cdot 5} \approx \underline{\underline{0{,}58}}
    \end{aligned}
-   $
+   $$
 
 
 </div></div>
@@ -335,7 +335,7 @@ En vindturbin henter energi fra luft i bevegelse.
 
 Formelen for hvor mye effekt en vindturbin leverer, ser slik ut:
 
-$P = \frac{v^3 \cdot A \cdot \rho \cdot \eta}{2}$
+$$P = \frac{v^3 \cdot A \cdot \rho \cdot \eta}{2}$$
 
 $P$ er effekt i watt, $v$ er vindhastighet i meter i sekundet, $A$ er arealet som bladene dekker på én rotasjon, $\rho$ er egenvekten til luft, og $\eta$ er virkningsgraden til turbinen.
 
@@ -364,29 +364,29 @@ c) Dobling av $v$ gir størst økning (faktor 8 mot faktor 2)
 
 a) Vi setter inn de oppgitte verdiene i formelen:
 
-   $P = \frac{v^3 \cdot A \cdot \rho \cdot \eta}{2} = \frac{10^3 \cdot 20 \cdot 1{,}3 \cdot 0{,}5}{2} = \frac{130\,000}{2} = \underline{\underline{6500 \, \mathrm{W}}}$
+   $$P = \frac{v^3 \cdot A \cdot \rho \cdot \eta}{2} = \frac{10^3 \cdot 20 \cdot 1{,}3 \cdot 0{,}5}{2} = \frac{130\,000}{2} = \underline{\underline{6500 \, \mathrm{W}}}$$
 
 b) Vi løser for $A$ når $P = 9425 \, \mathrm{W}$:
 
-   $
+   $$
    \begin{aligned}
    9425 &= \frac{10^3 \cdot A \cdot 1{,}3 \cdot 0{,}5}{2} \\
    9425 &= 325 \cdot A \\
    A &= \frac{9425}{325} = \underline{\underline{29 \, \mathrm{m}^2}}
    \end{aligned}
-   $
+   $$
 
 c) Vi beregner effekten ved dobling av $A$ og ved dobling av $v$:
 
    **Dobling av $A$** (fra 20 til 40 m²):
 
-   $P = \frac{10^3 \cdot 40 \cdot 1{,}3 \cdot 0{,}5}{2} = 13\,000 \, \mathrm{W}$
+   $$P = \frac{10^3 \cdot 40 \cdot 1{,}3 \cdot 0{,}5}{2} = 13\,000 \, \mathrm{W}$$
 
    Det er 2 ganger den opprinnelige effekten.
 
    **Dobling av $v$** (fra 10 til 20 m/s):
 
-   $P = \frac{20^3 \cdot 20 \cdot 1{,}3 \cdot 0{,}5}{2} = \frac{8000 \cdot 20 \cdot 0{,}65}{1} = 52\,000 \, \mathrm{W}$
+   $$P = \frac{20^3 \cdot 20 \cdot 1{,}3 \cdot 0{,}5}{2} = \frac{8000 \cdot 20 \cdot 0{,}65}{1} = 52\,000 \, \mathrm{W}$$
 
    Det er 8 ganger den opprinnelige effekten.
 
@@ -446,7 +446,7 @@ c) $AC \approx 884 \, \mathrm{mm}$
 
 a) Vi bruker formelen $A = l \cdot b$:
 
-   $A = 1956 \cdot 992 = 1\,940\,352 \, \mathrm{mm}^2 = \underline{\underline{1{,}94 \, \mathrm{m}^2}}$
+   $$A = 1956 \cdot 992 = 1\,940\,352 \, \mathrm{mm}^2 = \underline{\underline{1{,}94 \, \mathrm{m}^2}}$$
 
 b) Vi finner antall paneler og kostnad for hvert alternativ:
 
@@ -460,7 +460,7 @@ b) Vi finner antall paneler og kostnad for hvert alternativ:
 
 c) Fra tegningen ser vi at panelet (992 mm langt) er hypotenusen i en rettvinklet trekant, med vinkel 63° ved $B$. $AC$ er den loddrette høyden bak panelet.
 
-   $AC = 992 \cdot \sin(63°) \approx 992 \cdot 0{,}891 \approx \underline{\underline{884 \, \mathrm{mm}}}$
+   $$AC = 992 \cdot \sin(63°) \approx 992 \cdot 0{,}891 \approx \underline{\underline{884 \, \mathrm{mm}}}$$
 
 
 </div></div>
@@ -532,7 +532,7 @@ a) Regnearket for 2022 fylles inn slik:
 
 b) Formelen `=B3*B5/60` gir:
 
-   $15 \cdot 365 \div 60 = \underline{\underline{91{,}25}}$
+   $$15 \cdot 365 \div 60 = \underline{\underline{91{,}25}}$$
 
    En passende tekst i celle A11 er: **«Total tid brukt på dusj per år (timer)»**
 
@@ -625,9 +625,9 @@ Fra 15.06.2023 til 15.08.2028 er det 63 terminbetalinger:
 - 2024–2027: $4 \times 12 = 48$ terminer
 - 2028: januar–august = 8 terminer
 
-$\text{Totalt betalt} = 63 \cdot 2121 = 133\,623 \, \mathrm{kr}$
+$$\text{Totalt betalt} = 63 \cdot 2121 = 133\,623 \, \mathrm{kr}$$
 
-$\text{Renter totalt} = 133\,623 - 127\,826 = \underline{\underline{5\,797 \, \mathrm{kr}}}$
+$$\text{Renter totalt} = 133\,623 - 127\,826 = \underline{\underline{5\,797 \, \mathrm{kr}}}$$
 
 Det er altså drøyt 5 800 kr mer enn selve lånet – ikke veldig mye.
 
