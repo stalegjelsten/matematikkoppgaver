@@ -1,6 +1,30 @@
 ---
-{"tags":["eksamen"],"fag":["s1"],"eksamen":"h25","date":"2025-11-20","title":"S1 eksamen H2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s1"],"eksamen":"h25","date":"2025-11-20","title":"S1 eksamen H2025","contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-h2025/"}}
+{"tags":["eksamen"],"fag":["s1"],"eksamen":"h25","date":"2025-11-20","del1_tid":2,"del2_tid":3,"title":"S1 eksamen H2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s1"],"eksamen":"h25","date":"2025-11-20","del1_tid":2,"del2_tid":3,"title":"S1 eksamen H2025","contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-h2025/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 2 timer — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Derivasjon og tolkning av stigningstall\|Derivasjon og tolkning av stigningstall]] | derivasjon, funksjoner | ✔︎ |
+| 1-2 | [[Logaritmiske likninger og logbaser\|Logaritmiske likninger og logbaser]] | logaritmer, likninger | ✔︎ |
+| 1-3 | [[Grenseverdier og eksistens\|Grenseverdier og eksistens]] | grenseverdi, kontinuitet | ✔︎ |
+| 1-4 | [[Kombinatorikk og passord\|Kombinatorikk og passord]] | kombinatorikk | ✔︎ |
+| 1-5 | [[Topp- og bunnpunkter med ln\|Topp- og bunnpunkter med ln]] | derivasjon, funksjoner, logaritmer | ✔︎ |
+| 1-6 | [[Einars straffesparkkonkurranse\|Einars straffesparkkonkurranse]] | sannsynlighet, programmering | ✔︎ |
+
+**Del 2** — 3 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Eksponentiell modell for befolkningsvekst\|Eksponentiell modell for befolkningsvekst]] | eksponentiell vekst, modellering, regresjon | ✔︎ |
+| 2-2 | [[Stykkevis funksjon og kontinuitet\|Stykkevis funksjon og kontinuitet]] | kontinuitet, funksjoner, delt forskrift | ✔︎ |
+| 2-3 | [[Sannsynlighet med drops\|Sannsynlighet med drops]] | sannsynlighet, kombinatorikk | ✔︎ |
+| 2-4 | [[Kostnad, pris og overskudd\|Kostnad, pris og overskudd]] | økonomi, derivasjon, funksjoner | ✔︎ |
+| 2-5 | [[Luktintensitet og logaritmer\|Luktintensitet og logaritmer]] | logaritmer, modellering | ✔︎ |
+| 2-6 | [[Terningspill og forventningsverdi\|Terningspill og forventningsverdi]] | sannsynlighet, programmering, diskrete sannsynlighetsfordelinger | ✔︎ |
 
 # Del 1
 

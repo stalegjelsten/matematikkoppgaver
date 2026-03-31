@@ -1,6 +1,29 @@
 ---
-{"tags":["eksamen"],"fag":["s2"],"eksamen":"v23","title":"S2 eksamen V2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"v23","title":"S2 eksamen V2023","contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2023/"}}
+{"tags":["eksamen"],"fag":["s2"],"eksamen":"v23","del1_tid":2,"del2_tid":3,"title":"S2 eksamen V2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"v23","del1_tid":2,"del2_tid":3,"title":"S2 eksamen V2023","contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2023/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 2 timer — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Bestemt integral 2\|Bestemt integral 2]] | integral | ❌ |
+| 1-2 | [[Grensekostnader fra graf v23\|Grensekostnader fra graf v23]] | økonomi, derivasjon, funksjoner, grenseinntekt og grensekostnad | ❌ |
+| 1-3 | [[Forventningsverdi og varians fra sannsynlighetsfordeling 2\|Forventningsverdi og varians fra sannsynlighetsfordeling 2]] | sannsynlighet, diskrete sannsynlighetsfordelinger, varians, forventningsverdi | ❌ |
+| 1-4 | [[Ukjent program del 1 S2\|Ukjent program del 1 S2]] | programmering, rekker | ❌ |
+| 1-4 | [[Uendelig rekke med virkestoff fra legemiddel\|Uendelig rekke med virkestoff fra legemiddel]] | uendelig rekke, rekker | ❌ |
+| 1-6 | [[Levetiden til normalfordelte batterier\|Levetiden til normalfordelte batterier]] | normalfordeling, standard normalfordeling, kontinuerlige sannsynlighetsfordelinger, sannsynlighet | ❌ |
+
+**Del 2** — 3 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Annuitetslån\|Annuitetslån]] | lån, rekker, excel | ❌ |
+| 2-2 | [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] | regresjon, logistisk funksjon, derivasjon, funksjoner, tolkning av integraler, integral, samlet mengde | ❌ |
+| 2-3 | [[Hypotesetest med smak av cola\|Hypotesetest med smak av cola]] | hypotesetest, binomisk, diskrete sannsynlighetsfordelinger | ❌ |
+| 2-4 | [[Hildegunns ukepenger\|Hildegunns ukepenger]] | excel, rekker | ❌ |
+| 2-5 | [[Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole\|Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole]] | programmering, simulering, sannsynlighet, normalfordeling, kontinuerlige sannsynlighetsfordelinger | ❌ |
 
 # Del 1
 

@@ -1,6 +1,27 @@
 ---
-{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"h23","title":"1P-Y EL eksamen H2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-y-el-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"h23","title":"1P-Y EL eksamen H2023","contentClasses":"eksamen-side","permalink":"/eksamener/1p-y-el-eksamen-h2023/"}}
+{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"h23","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen H2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-y-el-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"h23","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen H2023","contentClasses":"eksamen-side","permalink":"/eksamener/1p-y-el-eksamen-h2023/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 1 time — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Kjøttdeig, pris og prosent\|Kjøttdeig, pris og prosent]] | proporsjonalitet, prosentregning, tallregning | ✔︎ |
+| 1-2 | [[Ole sin høyde og vekstdiagram\|Ole sin høyde og vekstdiagram]] | tolke grafer, formler, tallregning | ✔︎ |
+| 1-3 | [[Brus i glass og daglig væskebehov\|Brus i glass og daglig væskebehov]] | tallregning, proporsjonalitet | ✔︎ |
+| 1-4 | [[Strømproduksjon, trekant og resistans\|Strømproduksjon, trekant og resistans]] | diagram, trigonometri, elektrofag, prosentregning | ✔︎ |
+
+**Del 2** — 3 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Inverter og effektberegning\|Inverter og effektberegning]] | elektrofag, effekttrekant, formler | ✔︎ |
+| 2-2 | [[Mobiltelefon, lagring og abonnement\|Mobiltelefon, lagring og abonnement]] | bits og bytes, tallregning | ✔︎ |
+| 2-3 | [[Transformator med vindinger og effekttrekant\|Transformator med vindinger og effekttrekant]] | effekttrekant, formler | ❌ |
+| 2-4 | [[Fart, distanse og gjennomsnittsfart\|Fart, distanse og gjennomsnittsfart]] | formler, tallregning | ✔︎ |
+| 2-5 | [[Sara vurderer å kjøpe mopedbil\|Sara vurderer å kjøpe mopedbil]] | økonomi, prosentregning, lån, excel | ✔︎ |
 
 # Del 1
 

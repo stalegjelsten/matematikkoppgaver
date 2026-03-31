@@ -1,6 +1,30 @@
 ---
-{"tags":["eksamen"],"fag":["r2"],"eksamen":"h25","title":"R2 eksamen H2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r2"],"eksamen":"h25","title":"R2 eksamen H2025","contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-h2025/"}}
+{"tags":["eksamen"],"fag":["r2"],"eksamen":"h25","del1_tid":3,"del2_tid":2,"title":"R2 eksamen H2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r2"],"eksamen":"h25","del1_tid":3,"del2_tid":2,"title":"R2 eksamen H2025","contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-h2025/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 3 timer — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Ubestemt integral med delvis integrasjon\|Ubestemt integral med delvis integrasjon]] | integral | ✔︎ |
+| 1-2 | [[Volum av omdreiningslegeme – kopp\|Volum av omdreiningslegeme – kopp]] | integral, geometri | ✔︎ |
+| 1-3 | [[Tolkning av integral og areal fra graf\|Tolkning av integral og areal fra graf]] | tolke grafer, tolkning av integraler, integral, areal under graf | ✔︎ |
+| 1-4 | [[Trigonometriske likninger og antall løsninger\|Trigonometriske likninger og antall løsninger]] | trigonometri, likninger | ✔︎ |
+| 1-5 | [[Sanne og usanne påstander om fart og vinkel\|Sanne og usanne påstander om fart og vinkel]] | tolkning, trigonometri | ✔︎ |
+| 1-6 | [[Aritmetisk og geometrisk rekke\|Aritmetisk og geometrisk rekke]] | rekker, geometrisk vekst | ✔︎ |
+| 1-7 | [[Kuleflate og tangentplan\|Kuleflate og tangentplan]] | vektorer, geometri | ✔︎ |
+| 1-8 | [[Induksjonsbevis for geometrisk rekke\|Induksjonsbevis for geometrisk rekke]] | bevis, rekker | ✔︎ |
+
+**Del 2** — 2 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Miniubåt, fart og kollisjon med fiskestim\|Miniubåt, fart og kollisjon med fiskestim]] | vektorer, geometri | ✔︎ |
+| 2-2 | [[Sinusmodell for elektrisk spenning\|Sinusmodell for elektrisk spenning]] | regresjon, trigonometri, integral | ✔︎ |
+| 2-3 | [[CCl4-konsentrasjon og geometrisk rekke\|CCl4-konsentrasjon og geometrisk rekke]] | rekker, geometrisk vekst, modellering | ✔︎ |
+| 2-4 | [[Programmering og numerisk integrasjon\|Programmering og numerisk integrasjon]] | programmering, integral | ✔︎ |
 
 # Del 1
 

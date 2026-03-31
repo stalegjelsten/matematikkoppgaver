@@ -1,6 +1,31 @@
 ---
-{"tags":["eksamen"],"fag":["s1"],"eksamen":"v24","date":"2024-05-24","title":"S1 eksamen V2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s1"],"eksamen":"v24","date":"2024-05-24","title":"S1 eksamen V2024","contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-v2024/"}}
+{"tags":["eksamen"],"fag":["s1"],"eksamen":"v24","date":"2024-05-24","del1_tid":1,"del2_tid":4,"title":"S1 eksamen V2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s1"],"eksamen":"v24","date":"2024-05-24","del1_tid":1,"del2_tid":4,"title":"S1 eksamen V2024","contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-v2024/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 1 time — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Derivasjon med produktregel og ln\|Derivasjon med produktregel og ln]] | derivasjon, logaritmer | ❌ |
+| 1-2 | [[Logaritmeligningen med substitusjon\|Logaritmeligningen med substitusjon]] | logaritmer, likninger | ❌ |
+| 1-3 | [[Grenseverdier av eksponentialfunksjon\|Grenseverdier av eksponentialfunksjon]] | eksponentialfunksjoner, grenseverdi | ❌ |
+| 1-4 | [[Sokker trukket fra skuff\|Sokker trukket fra skuff]] | sannsynlighet, kombinatorikk | ❌ |
+| 1-5 | [[Kontinuerlig funksjon med størst mulig definisjonsmengde\|Kontinuerlig funksjon med størst mulig definisjonsmengde]] | kontinuitet, funksjoner, delt forskrift | ❌ |
+
+**Del 2** — 4 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Edison biler – overskudd og enhetskostnad\|Edison biler – overskudd og enhetskostnad]] | økonomi, derivasjon, enhetskostnad | ❌ |
+| 2-2 | [[Logaritme- og binomialpåstander\|Logaritme- og binomialpåstander]] | logaritmer, kombinatorikk, argumentasjon | ❌ |
+| 2-3 | [[Kombinatorikk for passord\|Kombinatorikk for passord]] | kombinatorikk | ✔︎ |
+| 2-4 | [[Kuler i boks og hypergeometrisk sannsynlighet\|Kuler i boks og hypergeometrisk sannsynlighet]] | sannsynlighet, kombinatorikk | ❌ |
+| 2-5 | [[Terninger – alle ulike og simulering\|Terninger – alle ulike og simulering]] | sannsynlighet, simulering | ❌ |
+| 2-6 | [[Modell for drivstoffutvikling i Moss\|Modell for drivstoffutvikling i Moss]] | regresjon, modellering, eksponentiell vekst | ❌ |
+| 2-7 | [[Innskrevet rektangel og Lars sitt program\|Innskrevet rektangel og Lars sitt program]] | derivasjon, programmering, funksjonsdrøfting | ❌ |
+| 2-8 | [[Pyramide i halvkule – størst mulig volum\|Pyramide i halvkule – størst mulig volum]] | geometri, derivasjon | ❌ |
 
 # Del 1
 

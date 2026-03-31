@@ -1,6 +1,15 @@
 ---
-{"tags":["eksamen"],"fag":["1p"],"eksamen":"v23","title":"1P eksamen V2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p"],"eksamen":"v23","title":"1P eksamen V2023","contentClasses":"eksamen-side","permalink":"/eksamener/1p-eksamen-v2023/"}}
+{"tags":["eksamen"],"fag":["1p"],"eksamen":"v23","del2_tid":4,"title":"1P eksamen V2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p"],"eksamen":"v23","del2_tid":4,"title":"1P eksamen V2023","contentClasses":"eksamen-side","permalink":"/eksamener/1p-eksamen-v2023/"}}
 ---
+
+## Oversikt
+
+**Del 2** — 4 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Gjennomsnittstemperatur på Svalbard\|Gjennomsnittstemperatur på Svalbard]] | geogebra, gjennomsnittlig vekstfart | ✔︎ |
+| 2-2 | [[Bredden av teltplassen\|Bredden av teltplassen]] | excel, utforskning | ✔︎ |
 
 # Del 2
 

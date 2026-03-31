@@ -1,6 +1,30 @@
 ---
-{"tags":["eksamen"],"fag":["1t"],"eksamen":"h23","date":"2023-11-20","title":"1T eksamen H2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-t-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1t"],"eksamen":"h23","date":"2023-11-20","title":"1T eksamen H2023","contentClasses":"eksamen-side","permalink":"/eksamener/1t-eksamen-h2023/"}}
+{"tags":["eksamen"],"fag":["1t"],"eksamen":"h23","date":"2023-11-20","del1_tid":1,"del2_tid":4,"title":"1T eksamen H2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-t-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1t"],"eksamen":"h23","date":"2023-11-20","del1_tid":1,"del2_tid":4,"title":"1T eksamen H2023","contentClasses":"eksamen-side","permalink":"/eksamener/1t-eksamen-h2023/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 1 time — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Likesidet trekant og cos 60°\|Likesidet trekant og cos 60°]] | trigonometri, bevis, argumentasjon | ❌ |
+| 1-2 | [[Skjæringspunkter med x-aksen\|Skjæringspunkter med x-aksen]] | faktorisering, polynomdivisjon, røtter | ❌ |
+| 1-3 | [[Tangent til tredjegradsfunksjon\|Tangent til tredjegradsfunksjon]] | derivasjon | ❌ |
+| 1-4 | [[To trekanter og størst areal\|To trekanter og størst areal]] | arealsetningen, trigonometri, argumentasjon | ❌ |
+| 1-5 | [[Rasjonale funksjoner og grafvalg\|Rasjonale funksjoner og grafvalg]] | rasjonale funksjoner, asymptoter, tolke grafer | ❌ |
+
+**Del 2** — 4 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Folketall i et område\|Folketall i et område]] | modellering, derivasjon, gjennomsnittlig vekstfart | ❌ |
+| 2-2 | [[Areal av firekantet figur\|Areal av firekantet figur]] | trigonometri, areal, arealsetningen, cosinussetningen | ❌ |
+| 2-3 | [[Linjestykker og geometrisk vekst\|Linjestykker og geometrisk vekst]] | geometrisk vekst, rekker, programmering | ✔︎ |
+| 2-4 | [[Antall fiskere og regresjon\|Antall fiskere og regresjon]] | regresjon, modellering | ❌ |
+| 2-5 | [[Avstand mellom to funksjoner\|Avstand mellom to funksjoner]] | derivasjon, optimering, funksjoner | ❌ |
+| 2-6 | [[Tredjegradsfunksjon med ukjente koeffisienter\|Tredjegradsfunksjon med ukjente koeffisienter]] | derivasjon, gjennomsnittlig vekstfart, likningssystem | ❌ |
+| 2-7 | [[Rektangel under graf\|Rektangel under graf]] | optimering, derivasjon, funksjoner | ❌ |
 
 # Del 1
 

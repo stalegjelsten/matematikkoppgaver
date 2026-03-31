@@ -1,6 +1,29 @@
 ---
-{"tags":["eksamen"],"fag":["s2"],"eksamen":"h25","title":"S2 eksamen H2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"h25","title":"S2 eksamen H2025","contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2025/"}}
+{"tags":["eksamen"],"fag":["s2"],"eksamen":"h25","del1_tid":2,"del2_tid":3,"title":"S2 eksamen H2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"h25","del1_tid":2,"del2_tid":3,"title":"S2 eksamen H2025","contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2025/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 2 timer — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Ubestemt integral S2 H2025\|Ubestemt integral S2 H2025]] | integral | ✔︎ |
+| 1-2 | [[S2 H2025 ulike rekker del 1\|S2 H2025 ulike rekker del 1]] | rekker, uendelig rekke | ✔︎ |
+| 1-3 | [[Tolkning av integral og areal fra graf\|Tolkning av integral og areal fra graf]] | tolke grafer, tolkning av integraler, integral, areal under graf | ✔︎ |
+| 1-4 | [[Sannsynlighet for poengtap ved poengspill\|Sannsynlighet for poengtap ved poengspill]] | sannsynlighet, varians, forventningsverdi, diskrete sannsynlighetsfordelinger | ✔︎ |
+| 1-5 | [[Finn riktig graf for normalfordelingene\|Finn riktig graf for normalfordelingene]] | normalfordeling, tolke grafer | ✔︎ |
+
+**Del 2** — 3 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Logistisk plantesalg\|Logistisk plantesalg]] | regresjon, logistisk funksjon, tolkning av integraler | ✔︎ |
+| 2-2 | [[Grensekostnader, enhetskostnader og overskudd\|Grensekostnader, enhetskostnader og overskudd]] | økonomi, grenseinntekt og grensekostnad, enhetskostnad | ✔︎ |
+| 2-3 | [[Hypotesetester om komponenter som er defekte\|Hypotesetester om komponenter som er defekte]] | hypotesetest | ✔︎ |
+| 2-4 | [[Mathias sine lån for å kjøpe bil\|Mathias sine lån for å kjøpe bil]] | lån, rekker | ✔︎ |
+| 2-5 | [[Programmering av Wiggos spareplan\|Programmering av Wiggos spareplan]] | rekursiv sammenheng, programmering | ✔︎ |
+| 2-6 | [[Simulering av antall terningkast for å få samme antall øyne i to kast på rad\|Simulering av antall terningkast for å få samme antall øyne i to kast på rad]] | simulering, sannsynlighet, programmering | ✔︎ |
 
 # Del 1
 

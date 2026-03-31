@@ -1,6 +1,30 @@
 ---
-{"tags":["eksamen"],"fag":["1t"],"eksamen":"h25","title":"1T eksamen H2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-t-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1t"],"eksamen":"h25","title":"1T eksamen H2025","contentClasses":"eksamen-side","permalink":"/eksamener/1t-eksamen-h2025/"}}
+{"tags":["eksamen"],"fag":["1t"],"eksamen":"h25","del1_tid":2,"del2_tid":3,"title":"1T eksamen H2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-t-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1t"],"eksamen":"h25","del1_tid":2,"del2_tid":3,"title":"1T eksamen H2025","contentClasses":"eksamen-side","permalink":"/eksamener/1t-eksamen-h2025/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 2 timer — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Andregradsulikhet med faktorisering\|Andregradsulikhet med faktorisering]] | andregradslikninger, algebra | ❌ |
+| 1-2 | [[Nullpunkter til tredjegradsfunksjon\|Nullpunkter til tredjegradsfunksjon]] | algebra, polynomdivisjon | ❌ |
+| 1-3 | [[Påstander om rasjonal funksjon\|Påstander om rasjonal funksjon]] | rasjonale funksjoner, asymptoter | ❌ |
+| 1-4 | [[Bankinnskudd med rente bakover\|Bankinnskudd med rente bakover]] | prosentregning, geometrisk vekst | ❌ |
+| 1-5 | [[Trekantareal og sin 45 grader\|Trekantareal og sin 45 grader]] | trigonometri, arealsetningen | ❌ |
+| 1-6 | [[Femkanttall og programmering\|Femkanttall og programmering]] | figurtall, programmering | ✔︎ |
+
+**Del 2** — 3 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Vekt og lengde potensfunksjon\|Vekt og lengde potensfunksjon]] | potensfunksjon, derivasjon, regresjon | ❌ |
+| 2-2 | [[Aldersregnestykke med likningssystem\|Aldersregnestykke med likningssystem]] | likningssystem, algebra | ❌ |
+| 2-3 | [[Areal av firkant med trigonometri\|Areal av firkant med trigonometri]] | geometri, trigonometri | ❌ |
+| 2-4 | [[Gråmønster i likesidet trekant\|Gråmønster i likesidet trekant]] | figurtall, programmering, rekker | ❌ |
+| 2-5 | [[Størst mulig rektangel under kurve\|Størst mulig rektangel under kurve]] | derivasjon, funksjoner, geometri | ❌ |
+| 2-6 | [[Tangent til parabel og lagerhall\|Tangent til parabel og lagerhall]] | derivasjon, modellering, geometri | ❌ |
 
 # Del 1
 

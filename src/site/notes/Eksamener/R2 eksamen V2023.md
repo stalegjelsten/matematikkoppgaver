@@ -1,6 +1,29 @@
 ---
-{"tags":["eksamen"],"fag":["r2"],"eksamen":"v23","date":"2023-05-24","title":"R2 eksamen V2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r2"],"eksamen":"v23","date":"2023-05-24","title":"R2 eksamen V2023","contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-v2023/"}}
+{"tags":["eksamen"],"fag":["r2"],"eksamen":"v23","date":"2023-05-24","del1_tid":2,"del2_tid":3,"title":"R2 eksamen V2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r2"],"eksamen":"v23","date":"2023-05-24","del1_tid":2,"del2_tid":3,"title":"R2 eksamen V2023","contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-v2023/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 2 timer — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[To bestemte integraler\|To bestemte integraler]] | integral | ❌ |
+| 1-2 | [[Tangens, derivert og integral\|Tangens, derivert og integral]] | trigonometri, derivasjon, integral | ❌ |
+| 1-3 | [[Pyramide med fire punkter i rommet\|Pyramide med fire punkter i rommet]] | vektorer, geometri, volum, areal | ❌ |
+| 1-4 | [[Sum av aritmetisk rekke med kode\|Sum av aritmetisk rekke med kode]] | programmering, rekker | ❌ |
+| 1-5 | [[Bevis for grenseverdien til sin v delt på v\|Bevis for grenseverdien til sin v delt på v]] | grenseverdi, trigonometri, bevis | ❌ |
+
+**Del 2** — 3 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Regresjon på størrelsen av det norske musikkstrømmemarkedet\|Regresjon på størrelsen av det norske musikkstrømmemarkedet]] | regresjon, logistisk funksjon, derivasjon, funksjoner, tolkning av integraler, integral, samlet mengde | ❌ |
+| 2-2 | [[Parallelle plan og kule\|Parallelle plan og kule]] | vektorer, geometri | ❌ |
+| 2-3 | [[Banefart til 3D-printer\|Banefart til 3D-printer]] | vektorer, derivasjon | ❌ |
+| 2-4 | [[Hildegunns ukepenger\|Hildegunns ukepenger]] | excel, rekker | ❌ |
+| 2-5 | [[Omdreiingslegeme til trigonometrisk funksjon\|Omdreiingslegeme til trigonometrisk funksjon]] | integral, omdreiningslegeme, trigonometri | ❌ |
+| 2-6 | [[Grafens lengde med polylinje\|Grafens lengde med polylinje]] | integral, programmering | ❌ |
 
 # Del 1
 

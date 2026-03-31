@@ -1,6 +1,16 @@
 ---
-{"tags":["eksamen"],"fag":["1p-y ba"],"eksamen":"h24","title":"1P-Y BA eksamen H2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-y-ba-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y ba"],"eksamen":"h24","title":"1P-Y BA eksamen H2024","contentClasses":"eksamen-side","permalink":"/eksamener/1p-y-ba-eksamen-h2024/"}}
+{"tags":["eksamen"],"fag":["1p-y ba"],"eksamen":"h24","del2_tid":3,"title":"1P-Y BA eksamen H2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-y-ba-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y ba"],"eksamen":"h24","del2_tid":3,"title":"1P-Y BA eksamen H2024","contentClasses":"eksamen-side","permalink":"/eksamener/1p-y-ba-eksamen-h2024/"}}
 ---
+
+## Oversikt
+
+**Del 2** — 3 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-2 | [[Kostnadsoversikt for fuglekasser\|Kostnadsoversikt for fuglekasser]] | excel, økonomi | ❌ |
+| 2-3 | [[Eriks bilbruk\|Eriks bilbruk]] | excel, økonomi, formler | ✔︎ |
+| 2-4 | [[Reise til Gran Canaria\|Reise til Gran Canaria]] | excel, lån, kredittkort, oversikt | ✔︎ |
 
 # Del 2
 

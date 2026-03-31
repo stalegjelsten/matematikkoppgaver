@@ -1,6 +1,31 @@
 ---
-{"tags":["eksamen"],"fag":["1t"],"eksamen":"v25","date":"2025-05-21","title":"1T eksamen V2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-t-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1t"],"eksamen":"v25","date":"2025-05-21","title":"1T eksamen V2025","contentClasses":"eksamen-side","permalink":"/eksamener/1t-eksamen-v2025/"}}
+{"tags":["eksamen"],"fag":["1t"],"eksamen":"v25","date":"2025-05-21","del1_tid":2,"del2_tid":3,"title":"1T eksamen V2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-t-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1t"],"eksamen":"v25","date":"2025-05-21","del1_tid":2,"del2_tid":3,"title":"1T eksamen V2025","contentClasses":"eksamen-side","permalink":"/eksamener/1t-eksamen-v2025/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 2 timer — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Asymptoter til rasjonal funksjon\|Asymptoter til rasjonal funksjon]] | asymptoter, rasjonale funksjoner | ❌ |
+| 1-2 | [[Andregradsulikhet\|Andregradsulikhet]] | andregradslikninger, algebra | ❌ |
+| 1-3 | [[Andregradsfunksjon med ett nullpunkt\|Andregradsfunksjon med ett nullpunkt]] | andregradslikninger, funksjoner | ✔︎ |
+| 1-4 | [[Tredjegradslikning og grafvalg\|Tredjegradslikning og grafvalg]] | likninger, polynomdivisjon, funksjoner | ❌ |
+| 1-5 | [[Trigonometri med arealsetning og cosinus\|Trigonometri med arealsetning og cosinus]] | trigonometri, arealsetningen, cosinussetningen | ❌ |
+| 1-6 | [[Identitet i CAS-verktøy\|Identitet i CAS-verktøy]] | identiteter, cas, algebra | ❌ |
+| 1-7 | [[Minimumsverdi med while-løkke\|Minimumsverdi med while-løkke]] | programmering, funksjoner | ❌ |
+
+**Del 2** — 3 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Kikhoste og eksponentiell modell\|Kikhoste og eksponentiell modell]] | eksponentiell vekst, modellering, gjennomsnittlig vekstfart | ❌ |
+| 2-2 | [[Sekker hundemat og likningssystem\|Sekker hundemat og likningssystem]] | likningssystem | ❌ |
+| 2-3 | [[Tolvkant innskrevet i sirkel\|Tolvkant innskrevet i sirkel]] | geometri, trigonometri, areal | ❌ |
+| 2-4 | [[Figurtall og programmering\|Figurtall og programmering]] | figurtall, programmering | ✔︎ |
+| 2-5 | [[Sylinderboks med minst overflate\|Sylinderboks med minst overflate]] | optimering, volum, funksjoner | ❌ |
+| 2-6 | [[Rasjonale funksjoner Noah og Johanne\|Rasjonale funksjoner Noah og Johanne]] | rasjonale funksjoner, asymptoter, funksjoner | ❌ |
 
 # Del 1
 

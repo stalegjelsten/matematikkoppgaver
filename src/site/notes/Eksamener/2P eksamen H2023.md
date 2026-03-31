@@ -1,6 +1,30 @@
 ---
-{"tags":["eksamen"],"fag":["2p"],"eksamen":"h23","date":"2023-11-28","title":"2P eksamen H2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p"],"eksamen":"h23","date":"2023-11-28","title":"2P eksamen H2023","contentClasses":"eksamen-side","permalink":"/eksamener/2p-eksamen-h2023/"}}
+{"tags":["eksamen"],"fag":["2p"],"eksamen":"h23","date":"2023-11-28","del1_tid":1,"del2_tid":4,"title":"2P eksamen H2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p"],"eksamen":"h23","date":"2023-11-28","del1_tid":1,"del2_tid":4,"title":"2P eksamen H2023","contentClasses":"eksamen-side","permalink":"/eksamener/2p-eksamen-h2023/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 1 time — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Buss enkeltbillett eller fleksikort\|Buss enkeltbillett eller fleksikort]] | prosentregning | ✔︎ |
+| 1-2 | [[Kart og målestokk\|Kart og målestokk]] | proporsjonalitet, målestokk | ❌ |
+| 1-3 | [[Joggeavstander med gitte sentralmål\|Joggeavstander med gitte sentralmål]] | statistikk, sentralmål | ✔︎ |
+| 1-4 | [[Nullpunkter og andregradslikninger\|Nullpunkter og andregradslikninger]] | andregradslikninger, likninger | ❌ |
+
+**Del 2** — 4 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Vase og roser likningssystem\|Vase og roser likningssystem]] | likningssystem, økonomi | ❌ |
+| 2-2 | [[Prisindeks for sjokoladepålegg\|Prisindeks for sjokoladepålegg]] | prisindeks, prosentregning | ❌ |
+| 2-3 | [[Målskårere i Eliteserien 2022\|Målskårere i Eliteserien 2022]] | statistikk, sentralmål, spredningsmål | ✔︎ |
+| 2-4 | [[Boliglån månedlige terminer\|Boliglån månedlige terminer]] | lån, økonomi, rekursiv sammenheng | ❌ |
+| 2-5 | [[Trekant med to løsninger\|Trekant med to løsninger]] | trigonometri, geometri | ❌ |
+| 2-6 | [[Helsefagarbeidere presentasjon av data\|Helsefagarbeidere presentasjon av data]] | statistikk, diagrammer, presentasjon av data | ✔︎ |
+| 2-7 | [[Kvadratserie geometrisk rekke\|Kvadratserie geometrisk rekke]] | geometrisk vekst, rekker, programmering | ❌ |
+| 2-8 | [[Klimagassutslipp eksponentiell vekst\|Klimagassutslipp eksponentiell vekst]] | modellering, eksponentialfunksjoner | ❌ |
 
 # Del 1
 

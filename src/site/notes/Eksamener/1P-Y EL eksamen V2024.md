@@ -1,6 +1,27 @@
 ---
-{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"v24","title":"1P-Y EL eksamen V2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-y-el-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"v24","title":"1P-Y EL eksamen V2024","contentClasses":"eksamen-side","permalink":"/eksamener/1p-y-el-eksamen-v2024/"}}
+{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"v24","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen V2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-y-el-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"v24","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen V2024","contentClasses":"eksamen-side","permalink":"/eksamener/1p-y-el-eksamen-v2024/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 1 time — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Rekestørrelser og pris per kg\|Rekestørrelser og pris per kg]] | prosentregning | ✔︎ |
+| 1-2 | [[Oda sitt budsjett og sparing\|Oda sitt budsjett og sparing]] | økonomi, sparing | ✔︎ |
+| 1-3 | [[Bremselengde med formel\|Bremselengde med formel]] | formler, modellering | ✔︎ |
+| 1-4 | [[Bruk enhetssirkel til å finne sinus og cosinusverdier\|Bruk enhetssirkel til å finne sinus og cosinusverdier]] | enhetssirkel, trigonometri | ✔︎ |
+| 1-5 | [[Lise velger iPhone-modell\|Lise velger iPhone-modell]] | økonomi, lineær vekst | ✔︎ |
+
+**Del 2** — 3 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Effekttrekant og elmotor\|Effekttrekant og elmotor]] | effekttrekant | ✔︎ |
+| 2-2 | [[Stine hurtiglader elbil\|Stine hurtiglader elbil]] | lineær vekst, modellering | ✔︎ |
+| 2-3 | [[Chris lån og sparing for å ta førerkort\|Chris lån og sparing for å ta førerkort]] | excel, lån, sparing, kredittkort | ✔︎ |
+| 2-4 | [[Isak reiser Oslo til Stockholm\|Isak reiser Oslo til Stockholm]] | økonomi, prosentregning, modellering | ✔︎ |
 
 # Del 1
 

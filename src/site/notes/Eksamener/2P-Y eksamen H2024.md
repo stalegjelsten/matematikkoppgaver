@@ -1,6 +1,31 @@
 ---
-{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"h24","title":"2P-Y eksamen H2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-y-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"h24","title":"2P-Y eksamen H2024","contentClasses":"eksamen-side","permalink":"/eksamener/2p-y-eksamen-h2024/"}}
+{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"h24","del1_tid":1,"del2_tid":4,"title":"2P-Y eksamen H2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-y-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"h24","del1_tid":1,"del2_tid":4,"title":"2P-Y eksamen H2024","contentClasses":"eksamen-side","permalink":"/eksamener/2p-y-eksamen-h2024/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 1 time — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Prisstigning på vare\|Prisstigning på vare]] | prosent | ✔︎ |
+| 1-2 | [[Statistikk på Lars arbeidstid\|Statistikk på Lars arbeidstid]] | statistikk | ✔︎ |
+| 1-3 | [[Proporsjonale og omvendt proporsjonale størrelser fra graf\|Proporsjonale og omvendt proporsjonale størrelser fra graf]] | proporsjonalitet, omvendt proporsjonalitet, tolke grafer, argumentasjon | ✔︎ |
+| 1-4 | [[Figurtall for firkanter med hjørnetapper\|Figurtall for firkanter med hjørnetapper]] | figurtall, mønstre | ✔︎ |
+| 1-5 | [[Utslippsreduksjon med prosentvis nedgang\|Utslippsreduksjon med prosentvis nedgang]] | prosentvis endring i flere perioder, programmering | ✔︎ |
+
+**Del 2** — 4 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Salg av iste\|Salg av iste]] | eksponentialfunksjoner, prosentvis endring i flere perioder | ✔︎ |
+| 2-2 | [[Bakterier i kjøkkensvamp\|Bakterier i kjøkkensvamp]] | standardform | ✔︎ |
+| 2-3 | [[Argumenter for at prosentregnestykker gir samme svar\|Argumenter for at prosentregnestykker gir samme svar]] | prosent, utforskning | ✔︎ |
+| 2-4 | [[Modeller for parkeringsavtaler\|Modeller for parkeringsavtaler]] | modellering, regresjon | ✔︎ |
+| 2-5 | [[Statistikk for quizlag\|Statistikk for quizlag]] | statistikk, utforskning | ✔︎ |
+| 2-6 | [[Modell for Hannes løping\|Modell for Hannes løping]] | modellering, regresjon | ✔︎ |
+| 2-7 | [[Lag presentasjon om statistikk for tidsbruk på ulike aktiviteter\|Lag presentasjon om statistikk for tidsbruk på ulike aktiviteter]] | presentasjon av data | ✔︎ |
+| 2-8 | [[Tores sykkeltrening\|Tores sykkeltrening]] | prosentvis endring i flere perioder, utforskning | ✔︎ |
 
 # Del 1
 

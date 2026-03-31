@@ -1,6 +1,29 @@
 ---
-{"tags":["eksamen"],"fag":["r1"],"eksamen":"h25","date":"2025-11-20","title":"R1 eksamen H2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r1"],"eksamen":"h25","date":"2025-11-20","title":"R1 eksamen H2025","contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-h2025/"}}
+{"tags":["eksamen"],"fag":["r1"],"eksamen":"h25","date":"2025-11-20","del1_tid":2,"del2_tid":3,"title":"R1 eksamen H2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r1"],"eksamen":"h25","date":"2025-11-20","del1_tid":2,"del2_tid":3,"title":"R1 eksamen H2025","contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-h2025/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 2 timer — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Derivasjon og graffortolkning\|Derivasjon og graffortolkning]] | derivasjon, funksjoner | ✔︎ |
+| 1-2 | [[Logaritmeligninger\|Logaritmeligninger]] | logaritmer, likninger | ✔︎ |
+| 1-3 | [[Grenseverdier\|Grenseverdier]] | grenseverdi, kontinuitet | ✔︎ |
+| 1-4 | [[Koordinater, linje og ortogonalitet\|Koordinater, linje og ortogonalitet]] | vektorer, geometri | ✔︎ |
+| 1-5 | [[Funksjonsdrøfting og halveringsmetode\|Funksjonsdrøfting og halveringsmetode]] | derivasjon, funksjonsdrøfting, programmering | ✔︎ |
+
+**Del 2** — 3 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Logistisk vekstmodell\|Logistisk vekstmodell]] | logistisk funksjon, modellering, derivasjon | ✔︎ |
+| 2-2 | [[Stykkevis funksjon og deriverbarhet\|Stykkevis funksjon og deriverbarhet]] | kontinuitet, derivasjon, funksjoner, delt forskrift | ✔︎ |
+| 2-3 | [[Luktintensitet og logaritmisk modell\|Luktintensitet og logaritmisk modell]] | logaritmer, modellering | ✔︎ |
+| 2-4 | [[Parameterframstilling og møtepunkt\|Parameterframstilling og møtepunkt]] | vektorer, geometri | ✔︎ |
+| 2-5 | [[Vektorer, lengde og ortogonalitet\|Vektorer, lengde og ortogonalitet]] | vektorer, trigonometri | ✔︎ |
+| 2-6 | [[Grafer og dobbeltderivert\|Grafer og dobbeltderivert]] | derivasjon, funksjonsdrøfting, eksponentialfunksjoner | ✔︎ |
 
 # Del 1
 

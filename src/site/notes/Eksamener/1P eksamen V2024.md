@@ -1,6 +1,28 @@
 ---
-{"tags":["eksamen"],"fag":["1p"],"eksamen":"v24","date":"2024-05-23","title":"1P eksamen V2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p"],"eksamen":"v24","date":"2024-05-23","title":"1P eksamen V2024","contentClasses":"eksamen-side","permalink":"/eksamener/1p-eksamen-v2024/"}}
+{"tags":["eksamen"],"fag":["1p"],"eksamen":"v24","date":"2024-05-23","del1_tid":1,"del2_tid":4,"title":"1P eksamen V2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p"],"eksamen":"v24","date":"2024-05-23","del1_tid":1,"del2_tid":4,"title":"1P eksamen V2024","contentClasses":"eksamen-side","permalink":"/eksamener/1p-eksamen-v2024/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 1 time — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Verdens befolkning og promille\|Verdens befolkning og promille]] | prosentregning, store tall | ❌ |
+| 1-2 | [[Ada sparer med eksponentialfunksjon\|Ada sparer med eksponentialfunksjon]] | eksponentialfunksjoner, programmering | ❌ |
+| 1-4 | [[Bremselengde og fart\|Bremselengde og fart]] | formler, modellering, likninger | ❌ |
+
+**Del 2** — 4 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Modellering av bagettsalg\|Modellering av bagettsalg]] | regresjon, modellering, derivasjon, optimering | ❌ |
+| 2-2 | [[Gautes sparekonto\|Gautes sparekonto]] | sparing, vekstfaktor | ✔︎ |
+| 2-3 | [[Oljeproduksjon på norsk sokkel\|Oljeproduksjon på norsk sokkel]] | standardform, store tall, prosentvis endring | ❌ |
+| 2-4 | [[Jakob Ingebrigtsens løpsrekorder\|Jakob Ingebrigtsens løpsrekorder]] | gjennomsnitt, tallregning | ❌ |
+| 2-5 | [[Knut og Sabrina tallfølge\|Knut og Sabrina tallfølge]] | mønstre, rekursiv sammenheng, argumentasjon | ❌ |
+| 2-6 | [[Lufttrykk og kokepunkt for vann\|Lufttrykk og kokepunkt for vann]] | potensfunksjon, eksponentiell vekst, modellering | ❌ |
+| 2-7 | [[Skobutikk ta 3 betal for 2\|Skobutikk ta 3 betal for 2]] | prosentregning, økonomi | ❌ |
 
 # Del 1
 

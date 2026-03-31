@@ -1,6 +1,30 @@
 ---
-{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"h25","title":"2P-Y eksamen H2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-y-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"h25","title":"2P-Y eksamen H2025","contentClasses":"eksamen-side","permalink":"/eksamener/2p-y-eksamen-h2025/"}}
+{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"h25","del1_tid":2,"del2_tid":3,"title":"2P-Y eksamen H2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-y-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"h25","del1_tid":2,"del2_tid":3,"title":"2P-Y eksamen H2025","contentClasses":"eksamen-side","permalink":"/eksamener/2p-y-eksamen-h2025/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 2 timer — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Prosentvis prisøkning h25\|Prosentvis prisøkning h25]] | prosentvis endring, prosent | ✔︎ |
+| 1-2 | [[Standardform og studentkort\|Standardform og studentkort]] | standardform | ✔︎ |
+| 1-3 | [[Sortering av tall\|Sortering av tall]] | potenser, standardform, røtter, tallregning | ✔︎ |
+| 1-4 | [[Pariserhjul statistikk\|Pariserhjul statistikk]] | statistikk, gjennomsnitt, median, kumulativ frekvens | ✔︎ |
+| 1-5 | [[Proporsjonalitet fra grafer h25\|Proporsjonalitet fra grafer h25]] | proporsjonalitet, funksjoner, tolke grafer, omvendt proporsjonalitet | ✔︎ |
+| 1-6 | [[Trekantmønster og programmering\|Trekantmønster og programmering]] | rekker, programmering, figurtall | ✔︎ |
+
+**Del 2** — 3 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Eksponentiell vekst nettbutikk\|Eksponentiell vekst nettbutikk]] | regresjon, modellering, eksponentialfunksjoner, prosentvis endring, prosentvis endring i flere perioder | ✔︎ |
+| 2-2 | [[Befolkningsstatistikk tettsteder\|Befolkningsstatistikk tettsteder]] | statistikk, standardavvik, sentralmål | ✔︎ |
+| 2-3 | [[Internettbruk i aldersgrupper\|Internettbruk i aldersgrupper]] | statistikk, presentasjon av data, diagram | ✔︎ |
+| 2-4 | [[Investeringer og avkastning\|Investeringer og avkastning]] | prosent, prosentvis endring | ✔︎ |
+| 2-5 | [[Gjennomsnittsalder i Åseral\|Gjennomsnittsalder i Åseral]] | grupperte data, sentralmål | ✔︎ |
+| 2-6 | [[Proporsjonalitet i julepynt\|Proporsjonalitet i julepynt]] | proporsjonalitet, omvendt proporsjonalitet | ✔︎ |
 
 # Del 1
 
