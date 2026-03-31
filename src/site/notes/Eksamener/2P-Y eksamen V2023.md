@@ -1,6 +1,30 @@
 ---
-{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"v23","title":"2P-Y eksamen V2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-y-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"v23","title":"2P-Y eksamen V2023","contentClasses":"eksamen-side","permalink":"/eksamener/2p-y-eksamen-v2023/"}}
+{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"v23","del1_tid":1,"del2_tid":4,"title":"2P-Y eksamen V2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-y-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"v23","del1_tid":1,"del2_tid":4,"title":"2P-Y eksamen V2023","contentClasses":"eksamen-side","permalink":"/eksamener/2p-y-eksamen-v2023/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 1 time — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Brødpris og prosentvis vekst\|Brødpris og prosentvis vekst]] | prosentvis vekst, prosent, argumentasjon | ✔︎ |
+| 1-2 | [[Deig fordelt på personer\|Deig fordelt på personer]] | grafisk framstilling, proporsjonalitet, funksjoner | ✔︎ |
+| 1-3 | [[Søsken og frekvenser i klasse\|Søsken og frekvenser i klasse]] | statistikk, frekvens, relativ frekvens, kumulativ frekvens | ✔︎ |
+| 1-4 | [[Mønster med sirkler i figurer\|Mønster med sirkler i figurer]] | formler, rekker, figurtall | ✔︎ |
+
+**Del 2** — 4 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Risforbruk på standardform\|Risforbruk på standardform]] | standardform, store tall, multiplikasjon | ✔︎ |
+| 2-1 | [[Hvor mye ris spiser man i Kina og India\|Hvor mye ris spiser man i Kina og India]] | standardform | ✔︎ |
+| 2-2 | [[Kaffekoppers gjennomsnitt med ukjent\|Kaffekoppers gjennomsnitt med ukjent]] | statistikk, gjennomsnitt | ✔︎ |
+| 2-3 | [[Prisvekst og prisfall sammenligning\|Prisvekst og prisfall sammenligning]] | prosentregning, vekstfaktor, geometrisk vekst | ✔︎ |
+| 2-4 | [[Sykkelhjelm og datapresentasjon\|Sykkelhjelm og datapresentasjon]] | statistikk, prosentregning, diagrammer, presentasjon av data | ✔︎ |
+| 2-5 | [[Lønnsnivå og sentralmål\|Lønnsnivå og sentralmål]] | statistikk, gjennomsnitt, median, sentralmål, grupperte data | ✔︎ |
+| 2-6 | [[Eksponentialfunksjon for tomflasker\|Eksponentialfunksjon for tomflasker]] | eksponentialfunksjoner, geogebra, programmering, eksponentiell vekst | ✔︎ |
+| 2-7 | [[Grønnsaksporsjoner og potensfunksjon\|Grønnsaksporsjoner og potensfunksjon]] | modellering, potensfunksjon, stigningstall, derivasjon, tolkning | ✔︎ |
 
 # Del 1
 

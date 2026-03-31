@@ -1,6 +1,33 @@
 ---
-{"tags":["eksamen"],"fag":["1p"],"eksamen":"v25","date":"2025-05-21","title":"1P eksamen V2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p"],"eksamen":"v25","date":"2025-05-21","title":"1P eksamen V2025","contentClasses":"eksamen-side","permalink":"/eksamener/1p-eksamen-v2025/"}}
+{"tags":["eksamen"],"fag":["1p"],"eksamen":"v25","date":"2025-05-21","del1_tid":2,"del2_tid":3,"title":"1P eksamen V2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p"],"eksamen":"v25","date":"2025-05-21","del1_tid":2,"del2_tid":3,"title":"1P eksamen V2025","contentClasses":"eksamen-side","permalink":"/eksamener/1p-eksamen-v2025/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 2 timer — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Sjokoladeplate på bensinstasjon\|Sjokoladeplate på bensinstasjon]] | prosentregning | ❌ |
+| 1-2 | [[Prosentvis framgang for partier\|Prosentvis framgang for partier]] | prosentregning, prosentvis endring | ✔︎ |
+| 1-3 | [[Omvendt proporsjonale størrelser\|Omvendt proporsjonale størrelser]] | omvendt proporsjonalitet, grafisk framstilling | ❌ |
+| 1-4 | [[To løsninger med potensuttrykk\|To løsninger med potensuttrykk]] | potenser, standardform | ✔︎ |
+| 1-5 | [[Blodceller i standardform\|Blodceller i standardform]] | store tall, standardform | ❌ |
+| 1-6 | [[Figurtall med grønne kvadrater\|Figurtall med grønne kvadrater]] | figurtall, mønstre | ✔︎ |
+| 1-7 | [[Lars sin spareplan\|Lars sin spareplan]] | programmering, sparing, geometrisk vekst | ❌ |
+| 1-8 | [[Noras bøtte med godteri\|Noras bøtte med godteri]] | lineær vekst, funksjoner, tolke grafer | ❌ |
+
+**Del 2** — 3 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Kikhoste som eksponentiell vekst\|Kikhoste som eksponentiell vekst]] | eksponentialfunksjoner, modellering, gjennomsnittlig vekstfart | ❌ |
+| 2-2 | [[Stikk UT! og turstatistikk\|Stikk UT! og turstatistikk]] | gjennomsnitt, store tall | ❌ |
+| 2-3 | [[Elise selger aviser\|Elise selger aviser]] | økonomi, lineær vekst, likningssystem | ✔︎ |
+| 2-4 | [[Dagbladet Lørdag uten rabatt\|Dagbladet Lørdag uten rabatt]] | prosentregning, økonomi | ✔︎ |
+| 2-5 | [[Pris per kvadratmeter terrassebord\|Pris per kvadratmeter terrassebord]] | areal, enhetskostnad, økonomi | ❌ |
+| 2-6 | [[Isabels sylinderformede bokser\|Isabels sylinderformede bokser]] | volum, areal, optimering, funksjoner | ❌ |
+| 2-7 | [[Sofie lager bagetter hjemme\|Sofie lager bagetter hjemme]] | økonomi, modellering | ❌ |
 
 # Del 1
 

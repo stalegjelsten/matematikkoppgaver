@@ -1,11 +1,33 @@
 ---
-{"tags":["eksamen"],"fag":["r2"],"eksamen":"v24","date":"2024-05-27","title":"R2 eksamen V2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r2"],"eksamen":"v24","date":"2024-05-27","title":"R2 eksamen V2024","contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-v2024/"}}
+{"tags":["eksamen"],"fag":["r2"],"eksamen":"v24","date":"2024-05-27","del1_tid":2,"del2_tid":3,"title":"R2 eksamen V2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r2"],"eksamen":"v24","date":"2024-05-27","del1_tid":2,"del2_tid":3,"title":"R2 eksamen V2024","contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-v2024/"}}
 ---
 
+## Oversikt
+
+**Del 1** — 2 timer — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Bestemt integral og areal\|Bestemt integral og areal]] | integral, areal under graf | ✔︎ |
+| 1-2 | [[Ubestemt integral med substitusjon\|Ubestemt integral med substitusjon]] | integral | ❌ |
+| 1-3 | [[Ukjent program S2 v24\|Ukjent program S2 v24]] | programmering, rekker | ✔︎ |
+| 1-4 | [[Trekant og plan i rommet\|Trekant og plan i rommet]] | vektorer, geometri | ❌ |
+| 1-5 | [[Sinusfunksjon og egenskaper\|Sinusfunksjon og egenskaper]] | trigonometri, funksjoner | ❌ |
+
+**Del 2** — 3 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Fotball hjørnespark og vektorer\|Fotball hjørnespark og vektorer]] | vektorer, modellering | ❌ |
+| 2-2 | [[Volum av pære med omdreiningslegeme\|Volum av pære med omdreiningslegeme]] | omdreiningslegeme, integral, volum | ❌ |
+| 2-3 | [[Sensor for utelys og trigonometri\|Sensor for utelys og trigonometri]] | trigonometri, modellering, derivasjon | ❌ |
+| 2-4 | [[Kubikktall og induksjonsbevis\|Kubikktall og induksjonsbevis]] | rekursiv sammenheng, figurtall, programmering, bevis | ❌ |
+| 2-5 | [[Kuleflate og plan\|Kuleflate og plan]] | vektorer, geometri | ❌ |
+| 2-6 | [[Sum av integralrekke\|Sum av integralrekke]] | rekker, uendelig rekke, utforskning, funksjoner, integral | ❌ |
 
 # Del 1
 
-## Oppgave 1
+## Oppgave 1-1
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/bestemt-integral-og-areal/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -86,10 +108,10 @@ $$
 </div></div>
 
 
-## Oppgave 2
+## Oppgave 1-2
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/ubestemt-integral-med-substitusjon/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -110,7 +132,7 @@ $$
 </div></div>
 
 
-## Oppgave 3
+## Oppgave 1-3
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/ukjent-program-s2-v24/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -177,10 +199,10 @@ $n=10$ gir oss altså nøyaktig delsummen $S_{10}=200$. $n=11$ gir oss den førs
 </div></div>
 
 
-## Oppgave 4
+## Oppgave 1-4
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/trekant-og-plan-i-rommet/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -212,10 +234,10 @@ En rett linje $m$ går gjennom punktet $P$, er parallell med planet $\alpha$ og 
 </div></div>
 
 
-## Oppgave 5
+## Oppgave 1-5
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/sinusfunksjon-og-egenskaper/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -241,10 +263,10 @@ $$f(x) = 2 \cdot \sin\!\left(\frac{\pi}{6}x - \frac{\pi}{3}\right) - 1, \quad D_
 
 # Del 2
 
-## Oppgave 1
+## Oppgave 2-1
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/fotball-hjornespark-og-vektorer/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -271,10 +293,10 @@ Her er posisjonen gitt i meter, og koordinatsystemet er lagt slik at origo er i 
 </div></div>
 
 
-## Oppgave 2
+## Oppgave 2-2
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/volum-av-paere-med-omdreiningslegeme/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -297,10 +319,10 @@ Bildet nedenfor viser halve snittflaten til en pære som er skåret over på mid
 </div></div>
 
 
-## Oppgave 3
+## Oppgave 2-3
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/sensor-for-utelys-og-trigonometri/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -327,10 +349,10 @@ $x$ er antall dager etter 31. desember 2023 slik at $x = 1$ svarer til 1. januar
 </div></div>
 
 
-## Oppgave 4
+## Oppgave 2-4
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/kubikktall-og-induksjonsbevis/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -734,10 +756,10 @@ print(S)
 </div></div>
 
 
-## Oppgave 5
+## Oppgave 2-5
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/kuleflate-og-plan/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -763,7 +785,7 @@ Et plan $\alpha$ har samme avstand til kuleflaten og er parallelt med planet $\g
 </div></div>
 
 
-## Oppgave 6
+## Oppgave 2-6
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/sum-av-integralrekke/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">

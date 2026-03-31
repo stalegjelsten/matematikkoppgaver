@@ -1,6 +1,30 @@
 ---
-{"tags":["eksamen"],"fag":["1t"],"eksamen":"v23","title":"1T eksamen V2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-t-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1t"],"eksamen":"v23","title":"1T eksamen V2023","contentClasses":"eksamen-side","permalink":"/eksamener/1t-eksamen-v2023/"}}
+{"tags":["eksamen"],"fag":["1t"],"eksamen":"v23","del1_tid":1,"del2_tid":4,"title":"1T eksamen V2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-t-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1t"],"eksamen":"v23","del1_tid":1,"del2_tid":4,"title":"1T eksamen V2023","contentClasses":"eksamen-side","permalink":"/eksamener/1t-eksamen-v2023/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 1 time — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Begrunn hvorfor sin2 u + cos2 u = 1\|Begrunn hvorfor sin2 u + cos2 u = 1]] | trigonometri, algebra | ✔︎ |
+| 1-2 | [[Andregradsuttrykk skjæringspunkter med x-aksen\|Andregradsuttrykk skjæringspunkter med x-aksen]] | funksjoner, faktorisering, likninger, andregradslikninger | ✔︎ |
+| 1-3 | [[Faktorisering av tredjegradsuttrykk v2023\|Faktorisering av tredjegradsuttrykk v2023]] | likninger, identiteter, faktorisering, polynomdivisjon | ✔︎ |
+| 1-4 | [[Lag funksjonsuttrykk til grafen av rasjonal funksjon\|Lag funksjonsuttrykk til grafen av rasjonal funksjon]] | rasjonale funksjoner, funksjoner, utforskning, tolke grafer, asymptoter | ✔︎ |
+| 1-5 | [[Skisser grafen ut fra den deriverte v2023\|Skisser grafen ut fra den deriverte v2023]] | derivasjon, funksjoner, funksjonsdrøfting | ✔︎ |
+
+**Del 2** — 4 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Gjennomsnittstemperatur på Svalbard\|Gjennomsnittstemperatur på Svalbard]] | geogebra, gjennomsnittlig vekstfart | ✔︎ |
+| 2-1 | [[Gjennomsnittstemperatur på Svalbard og den deriverte\|Gjennomsnittstemperatur på Svalbard og den deriverte]] | derivasjon, funksjonsdrøfting, funksjoner | ✔︎ |
+| 2-2 | [[Bredden av teltplassen\|Bredden av teltplassen]] | excel, utforskning | ✔︎ |
+| 2-3 | [[Areal av firkant ved hjelp av trigonometri\|Areal av firkant ved hjelp av trigonometri]] | trigonometri, cosinussetningen, arealsetningen | ✔︎ |
+| 2-4 | [[Areal under graf med programmering\|Areal under graf med programmering]] | programmering, integral, funksjoner, utforskning | ✔︎ |
+| 2-5 | [[Areal av trekant i sirkel\|Areal av trekant i sirkel]] | trigonometri, cosinussetningen, arealsetningen, cas | ✔︎ |
+| 2-6 | [[Tredjegradsfunksjoner uten førstegradsledd\|Tredjegradsfunksjoner uten førstegradsledd]] | utforskning, glidere, cas, funksjoner, geogebra | ✔︎ |
 
 # Del 1
 

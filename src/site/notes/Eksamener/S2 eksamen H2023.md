@@ -1,6 +1,29 @@
 ---
-{"tags":["eksamen"],"fag":["s2"],"eksamen":"h23","title":"S2 eksamen H2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"h23","title":"S2 eksamen H2023","contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2023/"}}
+{"tags":["eksamen"],"fag":["s2"],"eksamen":"h23","del1_tid":2,"del2_tid":3,"title":"S2 eksamen H2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"h23","del1_tid":2,"del2_tid":3,"title":"S2 eksamen H2023","contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2023/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 2 timer — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Bestemt integral 3\|Bestemt integral 3]] | integral | ✔︎ |
+| 1-2a | [[Uendelig geometrisk rekke\|Uendelig geometrisk rekke]] | uendelig rekke, rekker | ✔︎ |
+| 1-2b | [[Aritmetisk rekke\|Aritmetisk rekke]] | rekker | ✔︎ |
+| 1-3 | [[Grensekostnader og enhetskostnader fra graf\|Grensekostnader og enhetskostnader fra graf]] | grenseinntekt og grensekostnad, enhetskostnad, tolke grafer | ✔︎ |
+| 1-4 | [[Ukjent program h23\|Ukjent program h23]] | programmering | ✔︎ |
+| 1-5 | [[Tunge kuler i kasse\|Tunge kuler i kasse]] | sannsynlighet, diskrete sannsynlighetsfordelinger, forventningsverdi, varians | ✔︎ |
+
+**Del 2** — 3 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Modell for etterspørsel av vare\|Modell for etterspørsel av vare]] | etterspørsel, modellering, regresjon, grenseinntekt og grensekostnad | ✔︎ |
+| 2-2 | [[Miriam og Hermods sparing\|Miriam og Hermods sparing]] | sparing, rekker | ✔︎ |
+| 2-3 | [[Normalfordelte vinterdekk\|Normalfordelte vinterdekk]] | normalfordeling, hypotesetest | ✔︎ |
+| 2-4 | [[Rekursiv sammenheng mellom pentagontall\|Rekursiv sammenheng mellom pentagontall]] | rekursiv sammenheng, programmering, rekker | ✔︎ |
+| 2-5 | [[Simuler sannsynlighet for høyden til 24 måneder gammelt barn\|Simuler sannsynlighet for høyden til 24 måneder gammelt barn]] | programmering, simulering, normalfordeling | ✔︎ |
 
 # Del 1
 

@@ -1,6 +1,14 @@
 ---
-{"tags":["eksamen"],"fag":["s2"],"eksamen":"v15","title":"S2 eksamen V2015","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2015/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"v15","title":"S2 eksamen V2015","contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2015/"}}
+{"tags":["eksamen"],"fag":["s2"],"eksamen":"v15","del1_tid":2,"title":"S2 eksamen V2015","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2015/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"v15","del1_tid":2,"title":"S2 eksamen V2015","contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2015/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 2 timer — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-7 | [[Normalfordelte hjortebukker\|Normalfordelte hjortebukker]] | standard normalfordeling, normalfordeling, sannsynlighet | ❌ |
 
 # Del 1
 

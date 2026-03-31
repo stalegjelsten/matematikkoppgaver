@@ -1,6 +1,31 @@
 ---
-{"tags":["eksamen"],"fag":["s1"],"eksamen":"h24","date":"2024-11-14","title":"S1 eksamen H2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s1"],"eksamen":"h24","date":"2024-11-14","title":"S1 eksamen H2024","contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-h2024/"}}
+{"tags":["eksamen"],"fag":["s1"],"eksamen":"h24","date":"2024-11-14","del1_tid":1,"del2_tid":4,"title":"S1 eksamen H2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s1"],"eksamen":"h24","date":"2024-11-14","del1_tid":1,"del2_tid":4,"title":"S1 eksamen H2024","contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-h2024/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 1 time — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Derivasjon av eksponentialfunksjon\|Derivasjon av eksponentialfunksjon]] | derivasjon, eksponentialfunksjoner | ✔︎ |
+| 1-2 | [[Finne verdi programmet skriver ut\|Finne verdi programmet skriver ut]] | programmering, funksjonsdrøfting | ✔︎ |
+| 1-3 | [[Eksponentiallikning med substitusjon\|Eksponentiallikning med substitusjon]] | eksponentialfunksjoner, logaritmer, likninger | ✔︎ |
+| 1-4 | [[Grenseverdi for rasjonalt uttrykk\|Grenseverdi for rasjonalt uttrykk]] | grenseverdi, rasjonale funksjoner | ✔︎ |
+| 1-5 | [[Sannsynlighet for kulefarge\|Sannsynlighet for kulefarge]] | sannsynlighet, kombinatorikk | ✔︎ |
+| 1-6 | [[Identifiser funksjon fra vekstfart og derivert\|Identifiser funksjon fra vekstfart og derivert]] | gjennomsnittlig vekstfart, derivasjon, tolke grafer | ✔︎ |
+
+**Del 2** — 4 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Antrekk og sannsynlighet hos Drakt og Søm\|Antrekk og sannsynlighet hos Drakt og Søm]] | kombinatorikk, sannsynlighet | ❌ |
+| 2-2 | [[Vurder påstander om funksjoner\|Vurder påstander om funksjoner]] | gjennomsnittlig vekstfart, grenseverdi, argumentasjon | ✔︎ |
+| 2-3 | [[Bestem grunntall i logaritmefunksjon\|Bestem grunntall i logaritmefunksjon]] | logaritmer, tolke grafer | ❌ |
+| 2-4 | [[Knekkebrød, gavekort og simulering\|Knekkebrød, gavekort og simulering]] | sannsynlighet, simulering, økonomi | ❌ |
+| 2-5 | [[Optimalisering av parkeringsinntekt\|Optimalisering av parkeringsinntekt]] | funksjonsdrøfting, derivasjon, økonomi | ❌ |
+| 2-6 | [[Overskuddsoptimalisering for båtmotorer\|Overskuddsoptimalisering for båtmotorer]] | funksjonsdrøfting, derivasjon, økonomi | ❌ |
+| 2-7 | [[Sannsynlighet for covid med positiv test\|Sannsynlighet for covid med positiv test]] | sannsynlighet | ✔︎ |
 
 # Del 1
 

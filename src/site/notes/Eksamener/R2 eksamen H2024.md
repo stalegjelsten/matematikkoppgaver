@@ -1,6 +1,29 @@
 ---
-{"tags":["eksamen"],"fag":["r2"],"eksamen":"h24","date":"2024-11-20","title":"R2 eksamen H2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r2"],"eksamen":"h24","date":"2024-11-20","title":"R2 eksamen H2024","contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-h2024/"}}
+{"tags":["eksamen"],"fag":["r2"],"eksamen":"h24","date":"2024-11-20","del1_tid":2,"del2_tid":3,"title":"R2 eksamen H2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r2"],"eksamen":"h24","date":"2024-11-20","del1_tid":2,"del2_tid":3,"title":"R2 eksamen H2024","contentClasses":"eksamen-side","permalink":"/eksamener/r2-eksamen-h2024/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 2 timer — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Integral med delvis integrasjon og trigonometri\|Integral med delvis integrasjon og trigonometri]] | integral, trigonometri | ✔︎ |
+| 1-2 | [[Sumformel, kvotient og geometrisk rekke\|Sumformel, kvotient og geometrisk rekke]] | rekker, uendelig rekke | ✔︎ |
+| 1-3 | [[Telt med vektorer i rommet\|Telt med vektorer i rommet]] | vektorer, areal | ✔︎ |
+| 1-4 | [[Radianer og eksakte trigonometriske verdier\|Radianer og eksakte trigonometriske verdier]] | trigonometri, enhetssirkel | ✔︎ |
+| 1-5 | [[Sinusfunksjon og cosinusfunksjon\|Sinusfunksjon og cosinusfunksjon]] | trigonometri, funksjoner | ✔︎ |
+
+**Del 2** — 3 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Ball i bevegelse med posisjonsvektor\|Ball i bevegelse med posisjonsvektor]] | vektorer, derivasjon | ✔︎ |
+| 2-2 | [[Vurder påstander om rekke, plan og areal\|Vurder påstander om rekke, plan og areal]] | rekker, vektorer, integral, argumentasjon | ✔︎ |
+| 2-3 | [[Jordbær som omdreiningslegeme\|Jordbær som omdreiningslegeme]] | integral, volum, omdreiningslegeme | ✔︎ |
+| 2-4 | [[Russebil med trigonometrisk fartsfunksjon\|Russebil med trigonometrisk fartsfunksjon]] | trigonometri, integral, derivasjon | ✔︎ |
+| 2-5 | [[Rekursiv formel og programmering\|Rekursiv formel og programmering]] | programmering, rekursiv sammenheng | ✔︎ |
+| 2-6 | [[Omdreiningslegeme av sirkel om y-aksen\|Omdreiningslegeme av sirkel om y-aksen]] | integral, volum, omdreiningslegeme, bevis | ✔︎ |
 
 # Del 1
 

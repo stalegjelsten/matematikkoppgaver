@@ -1,6 +1,31 @@
 ---
-{"tags":["eksamen"],"fag":["2p"],"eksamen":"v25","date":"2025-05-19","title":"2P eksamen V2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p"],"eksamen":"v25","date":"2025-05-19","title":"2P eksamen V2025","contentClasses":"eksamen-side","permalink":"/eksamener/2p-eksamen-v2025/"}}
+{"tags":["eksamen"],"fag":["2p"],"eksamen":"v25","date":"2025-05-19","del1_tid":2,"del2_tid":3,"title":"2P eksamen V2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p"],"eksamen":"v25","date":"2025-05-19","del1_tid":2,"del2_tid":3,"title":"2P eksamen V2025","contentClasses":"eksamen-side","permalink":"/eksamener/2p-eksamen-v2025/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 2 timer — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Elever i klassen basert på prosentandel\|Elever i klassen basert på prosentandel]] | prosent | ✔︎ |
+| 1-2 | [[Median og gjennomsnitt i heiskø\|Median og gjennomsnitt i heiskø]] | sentralmål, kumulativ frekvens | ✔︎ |
+| 1-3 | [[Vekt på sekker med hundemat\|Vekt på sekker med hundemat]] | likningssystem | ❌ |
+| 1-4 | [[Areal og omkrets av halvsirkel og trekant\|Areal og omkrets av halvsirkel og trekant]] | geometri, areal | ❌ |
+| 1-5 | [[Nedbetalingsplan for Marcos lån\|Nedbetalingsplan for Marcos lån]] | lån | ❌ |
+| 1-6 | [[Median og gjennomsnitt fra klassedelt alder\|Median og gjennomsnitt fra klassedelt alder]] | sentralmål | ✔︎ |
+| 1-7 | [[Program for reduksjon av matsvinn\|Program for reduksjon av matsvinn]] | programmering, eksponentialfunksjoner | ✔︎ |
+
+**Del 2** — 3 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Modell for reduksjon av utslipp\|Modell for reduksjon av utslipp]] | eksponentialfunksjoner, geogebra, funksjoner | ✔︎ |
+| 2-2 | [[Påstander om gjennomsnitt og median i et rom\|Påstander om gjennomsnitt og median i et rom]] | sentralmål | ✔︎ |
+| 2-3 | [[Formlike trekanter over elv\|Formlike trekanter over elv]] | geometri | ❌ |
+| 2-4 | [[Halvert fuglebestand\|Halvert fuglebestand]] | eksponentialfunksjoner | ✔︎ |
+| 2-5 | [[Husleie regulert etter KPI\|Husleie regulert etter KPI]] | prosentregning, prosentvis endring, prisindeks | ❌ |
+| 2-6 | [[Lag presentasjon som viser døds- og fødselsrate\|Lag presentasjon som viser døds- og fødselsrate]] | presentasjon av data | ✔︎ |
 
 # Del 1
 

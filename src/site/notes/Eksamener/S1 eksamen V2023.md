@@ -1,6 +1,29 @@
 ---
-{"tags":["eksamen"],"fag":["s1"],"eksamen":"v23","title":"S1 eksamen V2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s1"],"eksamen":"v23","title":"S1 eksamen V2023","contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-v2023/"}}
+{"tags":["eksamen"],"fag":["s1"],"eksamen":"v23","del1_tid":1,"del2_tid":4,"title":"S1 eksamen V2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s1"],"eksamen":"v23","del1_tid":1,"del2_tid":4,"title":"S1 eksamen V2023","contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-v2023/"}}
 ---
+
+## Oversikt
+
+**Del 1** — 1 time — uten hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 1-1 | [[Algebra potensregning\|Algebra potensregning]] | potenser, algebra | ❌ |
+| 1-2 | [[Deriver logaritmefunksjon\|Deriver logaritmefunksjon]] | derivasjon, logaritmer | ❌ |
+| 1-3 | [[Grenseverdi når x går mot 2\|Grenseverdi når x går mot 2]] | grenseverdi, derivasjon, funksjoner, asymptoter | ❌ |
+| 1-4 | [[Kuler i krukke hypergeometrisk\|Kuler i krukke hypergeometrisk]] | sannsynlighet, hypergeometrisk | ❌ |
+| 1-5 | [[Ukjent program med kostnader for produksjon\|Ukjent program med kostnader for produksjon]] | programmering, økonomi, vekstfart | ❌ |
+
+**Del 2** — 4 timer — med hjelpemidler
+
+| Oppgave | Navn | Temaer | Løsningsforslag |
+| ------- | ---- | ------ | --------------- |
+| 2-1 | [[Timelønn og lønnsvekst\|Timelønn og lønnsvekst]] | prosent, eksponentialfunksjoner, regresjon, økonomi | ❌ |
+| 2-2a | [[Logaritmepåstand\|Logaritmepåstand]] | logaritmer | ❌ |
+| 2-2b | [[Har alle fjerdegradsfunksjoner ekstremalpunkt\|Har alle fjerdegradsfunksjoner ekstremalpunkt]] | funksjoner, funksjonsdrøfting | ❌ |
+| 2-2c | [[Sannsynligheter ved lottospill\|Sannsynligheter ved lottospill]] | sannsynlighet, hypergeometrisk | ❌ |
+| 2-5 | [[Billetter til fotballkamp\|Billetter til fotballkamp]] | sannsynlighet, binomisk, utforskning, programmering, excel | ❌ |
+| 2-6 | [[Lydstyrke fra fly\|Lydstyrke fra fly]] | formler, cas, logaritmer | ❌ |
 
 # Del 1
 
