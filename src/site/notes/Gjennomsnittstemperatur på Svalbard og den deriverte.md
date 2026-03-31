@@ -1,5 +1,5 @@
 ---
-{"tags":["matematikk","1t","geogebra","derivasjon","funksjoner","del2","oppgave"],"temaer":["derivasjon","funksjonsdrøfting","funksjoner"],"alias":[null],"dg-publish":true,"title":"Gjennomsnittstemperatur på Svalbard og den deriverte","fag":"1t","oppgave":1,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":1}],"eksamen":"v23","del":2,"date":"2023-05-27","modified":"2023-05-29","status":3,"permalink":"/gjennomsnittstemperatur-pa-svalbard-og-den-deriverte/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["matematikk","1t","geogebra","derivasjon","funksjoner","del2","oppgave"],"temaer":["derivasjon","funksjonsdrøfting","funksjoner"],"alias":[null],"title":"Gjennomsnittstemperatur på Svalbard og den deriverte","fag":"1t","oppgave":1,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":1}],"eksamen":"v23","del":2,"date":"2023-05-27","modified":"2023-05-29","status":3}}
+{"tags":["matematikk","1t","geogebra","derivasjon","funksjoner","del2","oppgave"],"temaer":["derivasjon","funksjonsdrøfting","funksjoner"],"alias":[null],"dg-publish":true,"title":"Gjennomsnittstemperatur på Svalbard og den deriverte","fag":"1t","oppgave":1,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":1}],"eksamen":"v23","del":2,"date":"2023-05-27","modified":"2023-05-29","status":3,"permalink":"/gjennomsnittstemperatur-pa-svalbard-og-den-deriverte/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["matematikk","1t","geogebra","derivasjon","funksjoner","del2","oppgave"],"temaer":["derivasjon","funksjonsdrøfting","funksjoner"],"alias":[null],"title":"Gjennomsnittstemperatur på Svalbard og den deriverte","fag":"1t","oppgave":1,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":1}],"eksamen":"v23","del":2,"date":"2023-05-27","modified":"2023-05-29","status":3,"permalink":"/gjennomsnittstemperatur-pa-svalbard-og-den-deriverte/"}}
 ---
 
 
@@ -17,7 +17,7 @@ $$
 T(x)=0{,}048 x^{4}-1{,}4 x^{3}+13{,}36 x^{2}-45{,}8 x+35{,}2 \quad, \quad x \in[2,10]
 $$
 
-er en rimelig bra modell for gjennomsnittstemperaturen $T(x)^{\circ} \mathrm{C}$ hvert døgn de månedene han bor på Svalbard, når han lar $x=2$ svare til 1. februar, $x=3$ til 1. mars, $x=4$ til 1 . april og så videre.
+er en rimelig bra modell for gjennomsnittstemperaturen $T(x) \degree\mathrm{C}$ hvert døgn de månedene han bor på Svalbard, når han lar $x=2$ svare til 1. februar, $x=3$ til 1. mars, $x=4$ til 1 . april og så videre.
 
 >[!oppgave]
 >c) Bestem nullpunkter og ekstremalpunkter til den deriverte funksjonen $T^{\prime}$.
@@ -29,16 +29,15 @@ er en rimelig bra modell for gjennomsnittstemperaturen $T(x)^{\circ} \mathrm{C}$
 c) Se løsningforslaget
 
 ## Løsningsforslag
-
 Jeg tegnet $T'$ sammen med $T$ i koordinatsystemet og fant nullpunkter og ekstremalpunkter til $T'$. 
 
 ![Del 2 oppgave 1c. Vekstfarten til temperaturen på Svalbard](/img/user/_resources/1t-v23-2-1c.png)
 
 $$
 \begin{aligned}
-\text{Toppunkt (M)}:& \quad (4,69 , 6,94)\\
-\text{Bunnpunkt (N)}:& \quad (9,90 , -6,62)\\
-\text{Nullpunkter (G og H):}& \quad (2,76 , 0)\text{ og } (7,33 , 0)
+\text{Toppunkt (M)}:& \quad (4{,}69 , 6{,}94)\\
+\text{Bunnpunkt (N)}:& \quad (9{,}90 , -6{,}62)\\
+\text{Nullpunkter (G og H):}& \quad (2{,}76 , 0)\text{ og } (7{,}33 , 0)
 \end{aligned}
 $$
 

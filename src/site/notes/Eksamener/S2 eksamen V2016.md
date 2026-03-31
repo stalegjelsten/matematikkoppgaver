@@ -1,14 +1,14 @@
 ---
-{"tags":["eksamen"],"fag":["s2"],"eksamen":"v16","del2_tid":3,"title":"S2 eksamen V2016","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2016/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"v16","del2_tid":3,"title":"S2 eksamen V2016","contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2016/"}}
+{"tags":["eksamen"],"fag":["s2"],"eksamen":"v16","del2_tid":3,"title":"S2 eksamen V2016","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2016/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"v16","del2_tid":3,"title":"S2 eksamen V2016","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2016/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-4 | [[Ole Magnus sin sparekonto\|Ole Magnus sin sparekonto]] | nåverdi, sparing | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-4](#oppgave-2-4) | [Ole Magnus sin sparekonto](https://matematikkoppgaver.vercel.app/ole-magnus-sin-sparekonto/) | nåverdi, sparing | ✔︎ |
 
 # Del 2
 
@@ -52,7 +52,7 @@ For å finne ut hvor stort engangsbeløp foreldrene må betale så kan jeg sette
 $$
 \begin{aligned}
 x\cdot 1{,}025^{18} &=100\,000 \\
-x&= \frac{100\,000}{1{,}025^{18}}=64\,116{,}16\\
+x&= \frac{100\,000}{1{,}025^{18}}=64\,116{,}16
 \end{aligned}
 $$
 
@@ -82,9 +82,7 @@ Jeg bruker `Sum`-funksjonen i <abbr>CAS</abbr> og skriver inn `Sum(x*1.025^(i),i
 >[!tip] Løsning med sumformel
 >Oppgaveteksten ber oss løse oppgaven med <abbr>CAS</abbr>. Jeg tolker dette som at jeg skal bruke `Sum`-funksjonen i <abbr>CAS</abbr>, men det er også mulig å bruke sumformel for geometrisk rekke og sette opp likningen 
 >
->$$
->x \cdot 1.025 \cdot \frac{1.025^{18} - 1}{1.025 - 1} = 100000
->$$
+>$$x \cdot 1.025 \cdot \frac{1.025^{18} - 1}{1.025 - 1} = 100000$$
 
 #### Løsning med Excel
 For å løse denne oppgaven i Excel satte jeg opp et regneark med 18 innbetalinger. Jeg tok også med en rad for det året Ole Magnus fylte 18 år, men dette året var uten innbetaling. 
@@ -93,7 +91,7 @@ For hvert år regnet jeg ut ny saldo med renter ved å multiplisere forrige års
 
 For å finne riktig årlig beløp brukte jeg *Målsøking*-funksjonen, og ba Excel finne ut hva celle *C5* måtte endres til slik at celle *G23* ble 100 000 kr.
 
-![s2-v16-2-4.png](/img/user/_resources/s2-v16-2-4.png)
+![Løsning i Excel](/img/user/_resources/s2-v16-2-4.png)
 
 ### 2-4c
 
@@ -103,7 +101,7 @@ Jeg lar $x$ kr være det første beløpet som settes inn. Jeg ser at det vil for
 $$
 \begin{aligned}
 x\cdot 1{,}025^{17}\cdot 1{,}02^{1}\\
-x\cdot 1{,}025^{16}\cdot 1{,}02^{2}\\
+x\cdot 1{,}025^{16}\cdot 1{,}02^{2}
 \end{aligned}
 $$
 

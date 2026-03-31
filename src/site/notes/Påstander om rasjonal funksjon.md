@@ -21,3 +21,15 @@ $$f(x) = \frac{2x+6}{x^2+4}$$
 >**Påstand 4:** Grafen til $f$ har horisontal asymptote $y = 2$.
 
 ## Fasit
+
+Påstand 1 og 2 er riktige.
+
+## Løsningsforslag
+
+**Påstand 1 (riktig):** Nullpunkt der $2x+6=0 \Rightarrow x=-3$. Nevneren $x^2+4>0$ alltid, så $x=-3$ er gyldig og eneste nullpunkt.
+
+**Påstand 2 (riktig):** Vertikale asymptoter der $x^2+4=0$, men $x^2=-4$ har ingen reelle løsninger.
+
+**Påstand 3 (feil):** $f(0) = 6/4 = 3/2$, grafen skjærer $y$-aksen.
+
+**Påstand 4 (feil):** Telleren har lavere grad enn nevneren, så $f(x) \to 0$. Horisontal asymptote er $y=0$.

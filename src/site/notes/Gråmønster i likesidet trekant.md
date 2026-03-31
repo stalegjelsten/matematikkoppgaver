@@ -17,3 +17,42 @@ Tenk deg at Maria fortsetter å dele opp trekanten og fargelegge etter samme mø
 >b) Ta utgangspunkt i algoritmen og lag et program som regner ut summen av arealene dersom arealet av den likesidede trekanten hun starter med er 36.
 
 ## Fasit
+
+a) Se algoritme
+b) $12$
+
+## Løsningsforslag
+
+### a
+
+Maria tar hvert steg den største hvite trekanten, deler den i 4 like trekanter og farger den midterste (inverterte) grå. Grå trekant nummer $n$ har areal $S/4^n$. Arealene danner en geometrisk rekke med kvotient $1/4$.
+
+**Algoritme:**
+
+```
+S_start = 36
+total = 0
+grå_areal = S_start / 4
+
+gjenta 100 ganger:
+    total = total + grå_areal
+    grå_areal = grå_areal / 4
+
+skriv ut total
+```
+
+### b
+
+```python
+S_start = 36
+total = 0
+graa_areal = S_start / 4
+
+for i in range(100):
+    total += graa_areal
+    graa_areal /= 4
+
+print(total)
+```
+
+Programmet skriver ut **$\underline{\underline{12{,}0}}$**.

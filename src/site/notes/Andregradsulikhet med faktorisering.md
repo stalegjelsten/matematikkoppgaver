@@ -11,3 +11,13 @@
 >$$x^2 + 4x - 5 < 0$$
 
 ## Fasit
+
+$-5 < x < 1$
+
+## Løsningsforslag
+
+$$x^2 + 4x - 5 = (x + 5)(x - 1)$$
+
+$(x+5)(x-1) < 0$ når faktorene har motsatt fortegn. Nullpunktene er $x = -5$ og $x = 1$. Parabelen er konveks, så uttrykket er negativt mellom nullpunktene.
+
+**Løsning: $\underline{\underline{-5 < x < 1}}$**

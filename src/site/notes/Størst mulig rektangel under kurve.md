@@ -19,3 +19,22 @@ Punktene $A$, $B$, $C$ og $D$ danner et rektangel. Punktet $A$ ligger i origo, p
 >b) Hvor på $x$-aksen må punktet $B$ ligge for at arealet av rektangelet $ABCD$ skal bli størst mulig?
 
 ## Fasit
+
+a) $5/2$
+b) $x = \sqrt{3}$
+
+## Løsningsforslag
+
+### a
+
+$$f(3) = \frac{10}{9+3} = \frac{5}{6}, \quad A = 3 \cdot \frac{5}{6} = \underline{\underline{\frac{5}{2}}}$$
+
+### b
+
+Arealet er $A(x) = x \cdot f(x) = \dfrac{10x}{x^2 + 3}$.
+
+$$A'(x) = \frac{30 - 10x^2}{(x^2+3)^2} = 0 \implies x^2 = 3 \implies x = \sqrt{3}$$
+
+Siden $A'(x) > 0$ for $x < \sqrt{3}$ og $A'(x) < 0$ for $x > \sqrt{3}$, er $x = \sqrt{3}$ et maksimumspunkt.
+
+**$B$ må ligge i $\underline{\underline{x = \sqrt{3}}}$.**

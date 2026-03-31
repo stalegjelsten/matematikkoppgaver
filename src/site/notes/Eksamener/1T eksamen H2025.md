@@ -1,30 +1,30 @@
 ---
-{"tags":["eksamen"],"fag":["1t"],"eksamen":"h25","del1_tid":2,"del2_tid":3,"title":"1T eksamen H2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-t-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1t"],"eksamen":"h25","del1_tid":2,"del2_tid":3,"title":"1T eksamen H2025","contentClasses":"eksamen-side","permalink":"/eksamener/1t-eksamen-h2025/"}}
+{"tags":["eksamen"],"fag":["1t"],"eksamen":"h25","del1_tid":2,"del2_tid":3,"title":"1T eksamen H2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-t-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1t"],"eksamen":"h25","del1_tid":2,"del2_tid":3,"title":"1T eksamen H2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1t-eksamen-h2025/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Andregradsulikhet med faktorisering\|Andregradsulikhet med faktorisering]] | andregradslikninger, algebra | ❌ |
-| 1-2 | [[Nullpunkter til tredjegradsfunksjon\|Nullpunkter til tredjegradsfunksjon]] | algebra, polynomdivisjon | ❌ |
-| 1-3 | [[Påstander om rasjonal funksjon\|Påstander om rasjonal funksjon]] | rasjonale funksjoner, asymptoter | ❌ |
-| 1-4 | [[Bankinnskudd med rente bakover\|Bankinnskudd med rente bakover]] | prosentregning, geometrisk vekst | ❌ |
-| 1-5 | [[Trekantareal og sin 45 grader\|Trekantareal og sin 45 grader]] | trigonometri, arealsetningen | ❌ |
-| 1-6 | [[Femkanttall og programmering\|Femkanttall og programmering]] | figurtall, programmering | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Andregradsulikhet med faktorisering](https://matematikkoppgaver.vercel.app/andregradsulikhet-med-faktorisering/) | andregradslikninger, algebra | × |
+| [1-2](#oppgave-1-2) | [Nullpunkter til tredjegradsfunksjon](https://matematikkoppgaver.vercel.app/nullpunkter-til-tredjegradsfunksjon/) | algebra, polynomdivisjon | × |
+| [1-3](#oppgave-1-3) | [Påstander om rasjonal funksjon](https://matematikkoppgaver.vercel.app/pastander-om-rasjonal-funksjon/) | rasjonale funksjoner, asymptoter | × |
+| [1-4](#oppgave-1-4) | [Bankinnskudd med rente bakover](https://matematikkoppgaver.vercel.app/bankinnskudd-med-rente-bakover/) | prosentregning, geometrisk vekst | × |
+| [1-5](#oppgave-1-5) | [Trekantareal og sin 45 grader](https://matematikkoppgaver.vercel.app/trekantareal-og-sin-45-grader/) | trigonometri, arealsetningen | × |
+| [1-6](#oppgave-1-6) | [Femkanttall og programmering](https://matematikkoppgaver.vercel.app/femkanttall-og-programmering/) | figurtall, programmering | ✔︎ |
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Vekt og lengde potensfunksjon\|Vekt og lengde potensfunksjon]] | potensfunksjon, derivasjon, regresjon | ❌ |
-| 2-2 | [[Aldersregnestykke med likningssystem\|Aldersregnestykke med likningssystem]] | likningssystem, algebra | ❌ |
-| 2-3 | [[Areal av firkant med trigonometri\|Areal av firkant med trigonometri]] | geometri, trigonometri | ❌ |
-| 2-4 | [[Gråmønster i likesidet trekant\|Gråmønster i likesidet trekant]] | figurtall, programmering, rekker | ❌ |
-| 2-5 | [[Størst mulig rektangel under kurve\|Størst mulig rektangel under kurve]] | derivasjon, funksjoner, geometri | ❌ |
-| 2-6 | [[Tangent til parabel og lagerhall\|Tangent til parabel og lagerhall]] | derivasjon, modellering, geometri | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Vekt og lengde potensfunksjon](https://matematikkoppgaver.vercel.app/vekt-og-lengde-potensfunksjon/) | potensfunksjon, derivasjon, regresjon | × |
+| [2-2](#oppgave-2-2) | [Aldersregnestykke med likningssystem](https://matematikkoppgaver.vercel.app/aldersregnestykke-med-likningssystem/) | likningssystem, algebra | × |
+| [2-3](#oppgave-2-3) | [Areal av firkant med trigonometri](https://matematikkoppgaver.vercel.app/areal-av-firkant-med-trigonometri/) | geometri, trigonometri | × |
+| [2-4](#oppgave-2-4) | [Gråmønster i likesidet trekant](https://matematikkoppgaver.vercel.app/gramonster-i-likesidet-trekant/) | figurtall, programmering, rekker | × |
+| [2-5](#oppgave-2-5) | [Størst mulig rektangel under kurve](https://matematikkoppgaver.vercel.app/storst-mulig-rektangel-under-kurve/) | derivasjon, funksjoner, geometri | × |
+| [2-6](#oppgave-2-6) | [Tangent til parabel og lagerhall](https://matematikkoppgaver.vercel.app/tangent-til-parabel-og-lagerhall/) | derivasjon, modellering, geometri | × |
 
 # Del 1
 
@@ -45,6 +45,16 @@
 >$$x^2 + 4x - 5 < 0$$
 
 ## Fasit
+
+$-5 < x < 1$
+
+## Løsningsforslag
+
+$$x^2 + 4x - 5 = (x + 5)(x - 1)$$
+
+$(x+5)(x-1) < 0$ når faktorene har motsatt fortegn. Nullpunktene er $x = -5$ og $x = 1$. Parabelen er konveks, så uttrykket er negativt mellom nullpunktene.
+
+**Løsning: $\underline{\underline{-5 < x < 1}}$**
 
 
 </div></div>
@@ -67,6 +77,18 @@
 >$$f(x) = x^3 - 5x^2 - 8x + 12$$
 
 ## Fasit
+
+$x = -2$, $x = 1$, $x = 6$
+
+## Løsningsforslag
+
+$f(1) = 1 - 5 - 8 + 12 = 0$, så $(x-1)$ er en faktor.
+
+Polynomdivisjon: $f(x) = (x-1)(x^2 - 4x - 12)$
+
+$x^2 - 4x - 12 = 0 \implies x = \dfrac{4 \pm \sqrt{64}}{2} = \dfrac{4 \pm 8}{2}$, som gir $x = 6$ eller $x = -2$.
+
+**Nullpunktene er $\underline{\underline{x = -2}}$, $\underline{\underline{x = 1}}$ og $\underline{\underline{x = 6}}$.**
 
 
 </div></div>
@@ -99,6 +121,18 @@ $$f(x) = \frac{2x+6}{x^2+4}$$
 >**Påstand 4:** Grafen til $f$ har horisontal asymptote $y = 2$.
 
 ## Fasit
+
+Påstand 1 og 2 er riktige.
+
+## Løsningsforslag
+
+**Påstand 1 (riktig):** Nullpunkt der $2x+6=0 \Rightarrow x=-3$. Nevneren $x^2+4>0$ alltid, så $x=-3$ er gyldig og eneste nullpunkt.
+
+**Påstand 2 (riktig):** Vertikale asymptoter der $x^2+4=0$, men $x^2=-4$ har ingen reelle løsninger.
+
+**Påstand 3 (feil):** $f(0) = 6/4 = 3/2$, grafen skjærer $y$-aksen.
+
+**Påstand 4 (feil):** Telleren har lavere grad enn nevneren, så $f(x) \to 0$. Horisontal asymptote er $y=0$.
 
 
 </div></div>
@@ -133,6 +167,16 @@ For fem år siden vant Oskar i Lotto. Han satte pengene i banken og har fått $4
 
 ## Fasit
 
+2) og 6)
+
+## Løsningsforslag
+
+$V_0 \cdot 1{,}045^5 = 250\,000 \implies V_0 = \dfrac{250\,000}{1{,}045^5} = 250\,000 \cdot 1{,}045^{-5}$
+
+**Uttrykk 2) og 6) er riktige.**
+
+Merk: $0{,}955 \neq \tfrac{1}{1{,}045}$, så 4) og 5) er ikke ekvivalente med 2) og 6).
+
 
 </div></div>
 
@@ -164,6 +208,30 @@ Gitt en trekant $PQR$ der $PQ = 3\sqrt{2}$, $PR = 8$ og $\angle P = 140\degree$.
 >c) Hvilken av trekantene $ABC$ og $PQR$ har størst areal? Husk å argumentere for svaret ditt.
 
 ## Fasit
+
+a) Vis ved hjelp av trekanten
+b) $T = 12$
+c) Trekant $ABC$
+
+## Løsningsforslag
+
+### a
+
+Trekanten er rettvinklet og likebeint med kateter $= 1$ og hypotenus $= \sqrt{2}$.
+
+$$\sin 45\degree = \frac{\text{motstående katet}}{\text{hypotenuse}} = \frac{1}{\sqrt{2}} \qquad \square$$
+
+### b
+
+$$T = \frac{1}{2} \cdot AB \cdot AC \cdot \sin A = \frac{1}{2} \cdot 3\sqrt{2} \cdot 8 \cdot \frac{1}{\sqrt{2}} = \underline{\underline{12}}$$
+
+### c
+
+$$T_{PQR} = \frac{1}{2} \cdot 3\sqrt{2} \cdot 8 \cdot \sin 140\degree$$
+
+$\sin 140\degree = \sin 40\degree \approx 0{,}643 < \sin 45\degree \approx 0{,}707$
+
+Siden sidene er like men $\sin 45\degree > \sin 140\degree$, har **trekant $ABC$** størst areal.
 
 
 </div></div>
@@ -259,6 +327,39 @@ der $F(x)$ gram er vekten til en fisk som er $x$ centimeter lang.
 
 ## Fasit
 
+a) $F(x) \approx 0{,}00966 \cdot x^{3{,}00}$
+b) $\approx 210 \mathrm{~gram/cm}$
+c) $\approx 289 \mathrm{~gram/cm}$
+d) $\approx 72{,}8\ \%$
+
+## Løsningsforslag
+
+### a
+
+Legger inn datapunktene i GeoGebra og bruker PotensRegresjon. GeoGebra gir:
+
+$$F(x) \approx 0{,}00966 \cdot x^{3{,}00}$$
+
+![1t-h25-2-1.png](/img/user/_resources/1t-h25-2-1.png)
+
+### b
+
+$$k = \frac{F(95) - F(75)}{95 - 75} \approx \frac{8219 - 4105}{20} \approx \underline{\underline{210 \mathrm{~gram/cm}}}$$
+
+Gjennomsnittlig øker vekten med omtrent $210\ \mathrm{gram}$ per centimeter ekstra lengde i intervallet $75$–$95\ \mathrm{cm}$.
+
+### c
+
+$F'(100) = a \cdot b \cdot 100^{b-1} \approx 0{,}00966 \cdot 3{,}00 \cdot 100^{2{,}00} \approx \underline{\underline{289 \mathrm{~gram/cm}}}$
+
+Når fisken er $100\ \mathrm{cm}$, øker vekten med omtrent $289\ \mathrm{gram}$ per centimeter ekstra lengde.
+
+### d
+
+$$\frac{F(1{,}2x)}{F(x)} = \frac{a(1{,}2x)^b}{ax^b} = 1{,}2^b \approx 1{,}2^3 = 1{,}728$$
+
+**Vekten øker med omtrent $\underline{\underline{72{,}8\ \%}}$.**
+
 
 </div></div>
 
@@ -282,6 +383,22 @@ Om tre år vil Abid være dobbelt så gammel som Harald.
 >Hvor gamle er Abid, Therese og Harald i dag?
 
 ## Fasit
+
+Abid: 21 år, Therese: 38 år, Harald: 9 år
+
+## Løsningsforslag
+
+La $a$, $t$, $h$ være alderen til Abid, Therese og Harald. Likningssystemet:
+
+$$\begin{aligned} a + t + h &= 68 \\ t &= a + 17 \\ a + 3 &= 2(h + 3) \end{aligned}$$
+
+Fra ligning 3: $a = 2h + 3$. Fra ligning 2: $t = 2h + 20$. Inn i ligning 1:
+
+$(2h+3) + (2h+20) + h = 68 \implies 5h = 45 \implies h = 9$
+
+Dermed $a = 21$ og $t = 38$.
+
+**$\underline{\underline{\text{Abid er 21 år, Therese er 38 år og Harald er 9 år.}}}$**
 
 
 </div></div>
@@ -308,6 +425,37 @@ Gitt figuren ovenfor.
 >b) Bestem arealet av firkanten $ABCD$. Gi svaret eksakt.
 
 ## Fasit
+
+a) Vis ved beregning
+b) $\dfrac{9 + 6\sqrt{3}}{4}$
+
+## Løsningsforslag
+
+### a
+
+I trekant $ADC$: $\angle D = 120\degree$, $\angle DCA = 30\degree$, $DC = \sqrt{3}$.
+
+$\angle DAC = 180\degree - 120\degree - 30\degree = 30\degree$
+
+Sinussetningen: $\dfrac{AC}{\sin 120\degree} = \dfrac{\sqrt{3}}{\sin 30\degree} \implies AC = \dfrac{\sqrt{3} \cdot \frac{\sqrt{3}}{2}}{\frac{1}{2}} = 3 \qquad \square$
+
+### b
+
+**Areal av $ADC$:** Siden $\angle DAC = \angle DCA = 30\degree$ er $AD = DC = \sqrt{3}$.
+
+$$T_{ADC} = \frac{1}{2} \cdot \sqrt{3} \cdot \sqrt{3} \cdot \sin 120\degree = \frac{3\sqrt{3}}{4}$$
+
+**Areal av $ABC$:** $BC = \sqrt{6}$, $AC = 3$, $\angle BAC = 45\degree$.
+
+$$\sin(\angle ABC) = \frac{AC \cdot \sin 45\degree}{BC} = \frac{3 \cdot \frac{1}{\sqrt{2}}}{\sqrt{6}} = \frac{\sqrt{3}}{2} \implies \angle ABC = 60\degree$$
+
+$\angle ACB = 180\degree - 45\degree - 60\degree = 75\degree$
+
+$$T_{ABC} = \frac{1}{2} \cdot \sqrt{6} \cdot 3 \cdot \sin 75\degree = \frac{3\sqrt{6}}{2} \cdot \frac{\sqrt{3}+1}{2\sqrt{2}} = \frac{9 + 3\sqrt{3}}{4}$$
+
+**Totalt:**
+
+$$T_{ABCD} = \frac{3\sqrt{3}}{4} + \frac{9 + 3\sqrt{3}}{4} = \underline{\underline{\frac{9 + 6\sqrt{3}}{4}}}$$
 
 
 </div></div>
@@ -336,6 +484,45 @@ Tenk deg at Maria fortsetter å dele opp trekanten og fargelegge etter samme mø
 >b) Ta utgangspunkt i algoritmen og lag et program som regner ut summen av arealene dersom arealet av den likesidede trekanten hun starter med er 36.
 
 ## Fasit
+
+a) Se algoritme
+b) $12$
+
+## Løsningsforslag
+
+### a
+
+Maria tar hvert steg den største hvite trekanten, deler den i 4 like trekanter og farger den midterste (inverterte) grå. Grå trekant nummer $n$ har areal $S/4^n$. Arealene danner en geometrisk rekke med kvotient $1/4$.
+
+**Algoritme:**
+
+```
+S_start = 36
+total = 0
+grå_areal = S_start / 4
+
+gjenta 100 ganger:
+    total = total + grå_areal
+    grå_areal = grå_areal / 4
+
+skriv ut total
+```
+
+### b
+
+```python
+S_start = 36
+total = 0
+graa_areal = S_start / 4
+
+for i in range(100):
+    total += graa_areal
+    graa_areal /= 4
+
+print(total)
+```
+
+Programmet skriver ut **$\underline{\underline{12{,}0}}$**.
 
 
 </div></div>
@@ -366,6 +553,25 @@ Punktene $A$, $B$, $C$ og $D$ danner et rektangel. Punktet $A$ ligger i origo, p
 >b) Hvor på $x$-aksen må punktet $B$ ligge for at arealet av rektangelet $ABCD$ skal bli størst mulig?
 
 ## Fasit
+
+a) $5/2$
+b) $x = \sqrt{3}$
+
+## Løsningsforslag
+
+### a
+
+$$f(3) = \frac{10}{9+3} = \frac{5}{6}, \quad A = 3 \cdot \frac{5}{6} = \underline{\underline{\frac{5}{2}}}$$
+
+### b
+
+Arealet er $A(x) = x \cdot f(x) = \dfrac{10x}{x^2 + 3}$.
+
+$$A'(x) = \frac{30 - 10x^2}{(x^2+3)^2} = 0 \implies x^2 = 3 \implies x = \sqrt{3}$$
+
+Siden $A'(x) > 0$ for $x < \sqrt{3}$ og $A'(x) < 0$ for $x > \sqrt{3}$, er $x = \sqrt{3}$ et maksimumspunkt.
+
+**$B$ må ligge i $\underline{\underline{x = \sqrt{3}}}$.**
 
 
 </div></div>
@@ -398,6 +604,31 @@ Den rette linjen på figuren går gjennom punktet $(0, 23)$ og er en tangent til
 >b) Hvor langt fra veggen på lagerhallen kan en tyv bevege seg uten å bli fotografert av webkameraet?
 
 ## Fasit
+
+a) $y = -x + 23$
+b) $21 - 4\sqrt{15} \approx 5{,}5 \mathrm{~m}$
+
+## Løsningsforslag
+
+### a
+
+$p'(x) = -x/6$. La tangentpunktet være $(c, p(c))$ og tangenten gå gjennom $(0, 23)$:
+
+$$23 - p(c) = -p'(c) \cdot c = \frac{c^2}{6}$$
+
+$$3 + \frac{c^2}{12} = \frac{c^2}{6} \implies 3 = \frac{c^2}{12} \implies c = \pm 6$$
+
+For $c = 6$: $m = -1$, tangent: $y = -(x-6) + 17 = \underline{\underline{-x + 23}}$
+
+### b
+
+Veggen er der $p(x) = 0$: $x = 4\sqrt{15} \approx 15{,}5\ \mathrm{m}$ fra senter.
+
+Kameraet i $(0, 23)$ ser langs tangenten. En tyv på $2\ \mathrm{m}$ er skjult når linjen fra kameraet til hodet $(x_t, 2)$ tangerer bygget i $x = 6$:
+
+$$23 - \frac{126}{x_t} = 17 \implies x_t = 21\ \mathrm{m}$$
+
+Avstand fra vegg: $21 - 4\sqrt{15} \approx \underline{\underline{5{,}5\ \mathrm{m}}}$.
 
 
 </div></div>

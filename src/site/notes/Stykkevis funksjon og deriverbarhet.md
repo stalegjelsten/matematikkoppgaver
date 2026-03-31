@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["kontinuitet","derivasjon","funksjoner","delt forskrift"],"fag":["r1"],"eksamen":"h25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":2}],"title":"Stykkevis funksjon og deriverbarhet","status":3,"source":null,"todo":null,"permalink":"/stykkevis-funksjon-og-deriverbarhet/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["kontinuitet","derivasjon","funksjoner","delt forskrift"],"fag":["r1"],"eksamen":"h25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":2}],"title":"Stykkevis funksjon og deriverbarhet","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["kontinuitet","derivasjon","funksjoner","delt forskrift"],"fag":["r1"],"eksamen":"h25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":2}],"title":"Stykkevis funksjon og deriverbarhet","status":3,"source":null,"todo":null,"permalink":"/stykkevis-funksjon-og-deriverbarhet/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["kontinuitet","derivasjon","funksjoner","delt forskrift"],"fag":["r1"],"eksamen":"h25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":2}],"title":"Stykkevis funksjon og deriverbarhet","status":3,"source":null,"todo":null,"permalink":"/stykkevis-funksjon-og-deriverbarhet/"}}
 ---
 
 
@@ -16,7 +16,7 @@ $$f(x) = \begin{cases} ax + b & x \le -2 \\ 2x^3 + 2x^2 - 2x \quad  & -2 < x < k
 ## Fasit
 
 a) Ikke kontinuerlig ($f(-2) = -6$, midtdel $\to -4$)
-b) $a = 14$, $b = 24$; enten $k = \tfrac{1}{3}$, $c = -\tfrac{10}{27}$ eller $k = -1$, $c = 2$
+b) $a = 14$, $b = 24$.  Enten $k = \frac{1}{3}$, $c = -\frac{10}{27}$ eller $k = -1$, $c = 2$
 
 ## Løsningsforslag
 
@@ -68,7 +68,7 @@ Begge verdiene er i $\langle -2, \rightarrow \rangle$. Vi beregner $c$ for begge
 
 **Svar:**
 
-$$\underline{\underline{a = 14, \quad b = 24}}$$
+$$\underline{\underline{a = 14 \wedge b = 24}}$$
 
 og enten $\underline{\underline{k = \dfrac{1}{3},\ c = -\dfrac{10}{27}}}$ eller $\underline{\underline{k = -1,\ c = 2}}$.
 

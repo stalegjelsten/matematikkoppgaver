@@ -1,11 +1,15 @@
 ---
-{"tags":null,"temaer":null,"aliases":[],"del":null,"oppgave":null,"fag":null,"eksamen":null,"dg-publish":true,"title":"Offlineversjon av dette nettstedet","date":"2025-09-15","modified":"2025-09-25","permalink":"/offlineversjon-av-dette-nettstedet/","dgPassFrontmatter":true,"dg-note-properties":{"tags":null,"temaer":null,"aliases":[],"del":null,"oppgave":null,"fag":null,"eksamen":null,"title":"Offlineversjon av dette nettstedet","date":"2025-09-15","modified":"2025-09-25"}}
+{"tags":null,"temaer":null,"aliases":[],"del":null,"oppgave":null,"fag":null,"eksamen":null,"dg-publish":true,"title":"Offlineversjon av dette nettstedet","date":"2025-09-15","modified":"2025-09-25","permalink":"/offlineversjon-av-dette-nettstedet/","dgPassFrontmatter":true,"dg-note-properties":{"tags":null,"temaer":null,"aliases":[],"del":null,"oppgave":null,"fag":null,"eksamen":null,"title":"Offlineversjon av dette nettstedet","date":"2025-09-15","modified":"2025-09-25","permalink":"/offlineversjon-av-dette-nettstedet/"}}
 ---
 
 
 # Offlineversjon av dette nettstedet
 
 Det er mulig å bruke denne nettsiden uten internettilkobling hvis du følger instruksjonene på denne siden. Det betyr at du kan ha med deg en løsningsforslag til mange ulike oppgaver på prøver og på eksamen.
+
+
+> [!warning] Det det tar svært lang tid å bygge nettsiden
+> Etter mars 2026 så er nettstedet blitt mye større og mer komplekst. Selve byggingen av nettstedet tar nok et sted mellom 3 og 10 minutter avhengig av hvilken maskin du har. 
 
 ## Oppsett i Windows
 For å sette opp nettsiden med Windows 11 så må du gjennomføre stegene

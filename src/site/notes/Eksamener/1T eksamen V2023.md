@@ -1,30 +1,30 @@
 ---
-{"tags":["eksamen"],"fag":["1t"],"eksamen":"v23","del1_tid":1,"del2_tid":4,"title":"1T eksamen V2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-t-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1t"],"eksamen":"v23","del1_tid":1,"del2_tid":4,"title":"1T eksamen V2023","contentClasses":"eksamen-side","permalink":"/eksamener/1t-eksamen-v2023/"}}
+{"tags":["eksamen"],"fag":["1t"],"eksamen":"v23","del1_tid":1,"del2_tid":4,"title":"1T eksamen V2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-t-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1t"],"eksamen":"v23","del1_tid":1,"del2_tid":4,"title":"1T eksamen V2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1t-eksamen-v2023/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Begrunn hvorfor sin2 u + cos2 u = 1\|Begrunn hvorfor sin2 u + cos2 u = 1]] | trigonometri, algebra | ✔︎ |
-| 1-2 | [[Andregradsuttrykk skjæringspunkter med x-aksen\|Andregradsuttrykk skjæringspunkter med x-aksen]] | funksjoner, faktorisering, likninger, andregradslikninger | ✔︎ |
-| 1-3 | [[Faktorisering av tredjegradsuttrykk v2023\|Faktorisering av tredjegradsuttrykk v2023]] | likninger, identiteter, faktorisering, polynomdivisjon | ✔︎ |
-| 1-4 | [[Lag funksjonsuttrykk til grafen av rasjonal funksjon\|Lag funksjonsuttrykk til grafen av rasjonal funksjon]] | rasjonale funksjoner, funksjoner, utforskning, tolke grafer, asymptoter | ✔︎ |
-| 1-5 | [[Skisser grafen ut fra den deriverte v2023\|Skisser grafen ut fra den deriverte v2023]] | derivasjon, funksjoner, funksjonsdrøfting | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Begrunn hvorfor sin2 u + cos2 u = 1](https://matematikkoppgaver.vercel.app/begrunn-hvorfor-sin2-u-cos2-u-1/) | trigonometri, algebra | ✔︎ |
+| [1-2](#oppgave-1-2) | [Andregradsuttrykk skjæringspunkter med x-aksen](https://matematikkoppgaver.vercel.app/andregradsuttrykk-skjaeringspunkter-med-x-aksen/) | funksjoner, faktorisering, likninger, andregradslikninger | ✔︎ |
+| [1-3](#oppgave-1-3) | [Faktorisering av tredjegradsuttrykk v2023](https://matematikkoppgaver.vercel.app/faktorisering-av-tredjegradsuttrykk-v2023/) | likninger, identiteter, faktorisering, polynomdivisjon | ✔︎ |
+| [1-4](#oppgave-1-4) | [Lag funksjonsuttrykk til grafen av rasjonal funksjon](https://matematikkoppgaver.vercel.app/lag-funksjonsuttrykk-til-grafen-av-rasjonal-funksjon/) | rasjonale funksjoner, funksjoner, utforskning, tolke grafer, asymptoter | ✔︎ |
+| [1-5](#oppgave-1-5) | [Skisser grafen ut fra den deriverte v2023](https://matematikkoppgaver.vercel.app/skisser-grafen-ut-fra-den-deriverte-v2023/) | derivasjon, funksjoner, funksjonsdrøfting | ✔︎ |
 
 **Del 2** — 4 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Gjennomsnittstemperatur på Svalbard\|Gjennomsnittstemperatur på Svalbard]] | geogebra, gjennomsnittlig vekstfart | ✔︎ |
-| 2-1 | [[Gjennomsnittstemperatur på Svalbard og den deriverte\|Gjennomsnittstemperatur på Svalbard og den deriverte]] | derivasjon, funksjonsdrøfting, funksjoner | ✔︎ |
-| 2-2 | [[Bredden av teltplassen\|Bredden av teltplassen]] | excel, utforskning | ✔︎ |
-| 2-3 | [[Areal av firkant ved hjelp av trigonometri\|Areal av firkant ved hjelp av trigonometri]] | trigonometri, cosinussetningen, arealsetningen | ✔︎ |
-| 2-4 | [[Areal under graf med programmering\|Areal under graf med programmering]] | programmering, integral, funksjoner, utforskning | ✔︎ |
-| 2-5 | [[Areal av trekant i sirkel\|Areal av trekant i sirkel]] | trigonometri, cosinussetningen, arealsetningen, cas | ✔︎ |
-| 2-6 | [[Tredjegradsfunksjoner uten førstegradsledd\|Tredjegradsfunksjoner uten førstegradsledd]] | utforskning, glidere, cas, funksjoner, geogebra | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Gjennomsnittstemperatur på Svalbard](https://matematikkoppgaver.vercel.app/gjennomsnittstemperatur-pa-svalbard/) | geogebra, gjennomsnittlig vekstfart | ✔︎ |
+| [2-1](#oppgave-2-1) | [Gjennomsnittstemperatur på Svalbard og den deriverte](https://matematikkoppgaver.vercel.app/gjennomsnittstemperatur-pa-svalbard-og-den-deriverte/) | derivasjon, funksjonsdrøfting, funksjoner | ✔︎ |
+| [2-2](#oppgave-2-2) | [Bredden av teltplassen](https://matematikkoppgaver.vercel.app/bredden-av-teltplassen/) | excel, utforskning | ✔︎ |
+| [2-3](#oppgave-2-3) | [Areal av firkant ved hjelp av trigonometri](https://matematikkoppgaver.vercel.app/areal-av-firkant-ved-hjelp-av-trigonometri/) | trigonometri, cosinussetningen, arealsetningen | ✔︎ |
+| [2-4](#oppgave-2-4) | [Areal under graf med programmering](https://matematikkoppgaver.vercel.app/areal-under-graf-med-programmering/) | programmering, integral, funksjoner, utforskning | ✔︎ |
+| [2-5](#oppgave-2-5) | [Areal av trekant i sirkel](https://matematikkoppgaver.vercel.app/areal-av-trekant-i-sirkel/) | trigonometri, cosinussetningen, arealsetningen, cas | ✔︎ |
+| [2-6](#oppgave-2-6) | [Tredjegradsfunksjoner uten førstegradsledd](https://matematikkoppgaver.vercel.app/tredjegradsfunksjoner-uten-forstegradsledd/) | utforskning, glidere, cas, funksjoner, geogebra | ✔︎ |
 
 # Del 1
 
@@ -285,7 +285,7 @@ $$
 Et funksjonsuttrykk som passer til grafen er
 
 $$
-\underline{\underline{f(x)=\frac{3x-6}{x-1}, \quad D_{f}=\mathbb{R} \setminus 1}}
+\underline{\underline{f(x)=\frac{3x-6}{x-1}, \quad  D_{f} = \mathbb{R} \setminus \left\{ 1 \right\} }}
 $$
 
 *Kommentar: Jeg tolker oppgaveteksten som at vi skal finne én funksjon $f(x)$ som passer til grafen. Generelt vil alle uttrykk på formen $\frac{3cx-6c}{cx-c}$ der $\left( c\in \mathbb{R} \right)\wedge\left( x\in \mathbb{R}\setminus \left\{ 1 \right\} \right)$ passe til grafen, så det kan godt være at dette generelle uttrykket er et bedre svar på oppgaven.*
@@ -358,10 +358,10 @@ $$
 T(x)=0{,}048 x^{4}-1{,}4 x^{3}+13{,}36 x^{2}-45{,}8 x+35{,}2 \quad, \quad x \in[2,10]
 $$
 
-er en rimelig bra modell for gjennomsnittstemperaturen $T(x)^{\circ} \mathrm{C}$ hvert døgn de månedene han bor på Svalbard, når han lar $x=2$ svare til 1. februar, $x=3$ til 1. mars, $x=4$ til 1 . april og så videre.
+er en rimelig bra modell for gjennomsnittstemperaturen $T(x) \degree \mathrm{C}$ hvert døgn de månedene han bor på Svalbard, når han lar $x=2$ svare til 1. februar, $x=3$ til 1. mars, $x=4$ til 1 . april og så videre.
 
 >[!oppgave]
->a) Omtrent hvor mange døgn i perioden 1. februar-1. oktober er gjennomsnittstemperaturen over $0^{\circ} \mathrm{C}$ ifølge modellen?
+>a) Omtrent hvor mange døgn i perioden 1. februar-1. oktober er gjennomsnittstemperaturen over $0 \degree \mathrm{C}$ ifølge modellen?
 
 >[!oppgave]
 >b) Bestem stigningstallet til den rette linjen som går gjennom punktene $(3, T(3))$ og $(7, T(7))$. Gi en praktisk tolkning av dette stigningstallet.
@@ -380,16 +380,16 @@ Jeg tegnet grafen til funksjonen og fant skjæringspunktene ved $x$-aksen, hvor 
 
 ![Del 2 oppgave 1. Gjennomsnittemperatur på Svalbard 1. februar–1. oktober](/img/user/_resources/1t-v2023-2-1a.png)
 
-Det er $8,906-5,772=3,134$ måneder mellom skjæringspunktene. Jeg setter at det er 30,5 døgn i hver måned slik at vi får:
+Det er $8{,}906-5{,}772=3{,}134$ måneder mellom skjæringspunktene. Jeg setter at det er 30,5 døgn i hver måned slik at vi får:
 
 $$
-3,134\cdot 30,5=95,6 \approx  \underline{\underline{96}}
+3{,}134\cdot 30{,}5=95{,}6 \approx  \underline{\underline{96}}
 $$
 
 **Temperaturen er over 0 °C i omtrent 96 døgn**
 
 ### 2-1b
-Jeg la inn punktene i GeoGebra, dro en linje mellom dem og fant stigningstallet, se $b=5.04$ i utklippet.
+Jeg la inn punktene i GeoGebra, dro en linje mellom dem og fant stigningstallet, se $b=5{,}04$ i utklippet.
 
 ![Del 2 oppgave 1b. Gjennomsnittlig vekstfart fra mars til juli](/img/user/_resources/1t-v23-2-1b.png)
 
@@ -404,9 +404,9 @@ Jeg tegnet $T'$ sammen med $T$ i koordinatsystemet og fant nullpunkter og ekstre
 
 $$
 \begin{aligned}
-\text{Toppunkt (M)}:& \quad (4,69 , 6,94)\\
-\text{Bunnpunkt (N)}:& \quad (9,90 , -6,62)\\
-\text{Nullpunkter (G og H):}& \quad (2,76 , 0)\text{ og } (7,33 , 0)
+\text{Toppunkt (M)}:& \quad (4{,}69 , 6{,}94)\\
+\text{Bunnpunkt (N)}:& \quad (9{,}90 , -6{,}62)\\
+\text{Nullpunkter (G og H):}& \quad (2{,}76 , 0)\text{ og } (7{,}33 , 0)
 \end{aligned}
 $$
 
@@ -445,7 +445,7 @@ $$
 T(x)=0{,}048 x^{4}-1{,}4 x^{3}+13{,}36 x^{2}-45{,}8 x+35{,}2 \quad, \quad x \in[2,10]
 $$
 
-er en rimelig bra modell for gjennomsnittstemperaturen $T(x)^{\circ} \mathrm{C}$ hvert døgn de månedene han bor på Svalbard, når han lar $x=2$ svare til 1. februar, $x=3$ til 1. mars, $x=4$ til 1 . april og så videre.
+er en rimelig bra modell for gjennomsnittstemperaturen $T(x) \degree\mathrm{C}$ hvert døgn de månedene han bor på Svalbard, når han lar $x=2$ svare til 1. februar, $x=3$ til 1. mars, $x=4$ til 1 . april og så videre.
 
 >[!oppgave]
 >c) Bestem nullpunkter og ekstremalpunkter til den deriverte funksjonen $T^{\prime}$.
@@ -457,16 +457,15 @@ er en rimelig bra modell for gjennomsnittstemperaturen $T(x)^{\circ} \mathrm{C}$
 c) Se løsningforslaget
 
 ## Løsningsforslag
-
 Jeg tegnet $T'$ sammen med $T$ i koordinatsystemet og fant nullpunkter og ekstremalpunkter til $T'$. 
 
 ![Del 2 oppgave 1c. Vekstfarten til temperaturen på Svalbard](/img/user/_resources/1t-v23-2-1c.png)
 
 $$
 \begin{aligned}
-\text{Toppunkt (M)}:& \quad (4,69 , 6,94)\\
-\text{Bunnpunkt (N)}:& \quad (9,90 , -6,62)\\
-\text{Nullpunkter (G og H):}& \quad (2,76 , 0)\text{ og } (7,33 , 0)
+\text{Toppunkt (M)}:& \quad (4{,}69 , 6{,}94)\\
+\text{Bunnpunkt (N)}:& \quad (9{,}90 , -6{,}62)\\
+\text{Nullpunkter (G og H):}& \quad (2{,}76 , 0)\text{ og } (7{,}33 , 0)
 \end{aligned}
 $$
 

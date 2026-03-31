@@ -1,27 +1,27 @@
 ---
-{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"v24","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen V2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-y-el-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"v24","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen V2024","contentClasses":"eksamen-side","permalink":"/eksamener/1p-y-el-eksamen-v2024/"}}
+{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"v24","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen V2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-y-el-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"v24","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen V2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1p-y-el-eksamen-v2024/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Rekestørrelser og pris per kg\|Rekestørrelser og pris per kg]] | prosentregning | ✔︎ |
-| 1-2 | [[Oda sitt budsjett og sparing\|Oda sitt budsjett og sparing]] | økonomi, sparing | ✔︎ |
-| 1-3 | [[Bremselengde med formel\|Bremselengde med formel]] | formler, modellering | ✔︎ |
-| 1-4 | [[Bruk enhetssirkel til å finne sinus og cosinusverdier\|Bruk enhetssirkel til å finne sinus og cosinusverdier]] | enhetssirkel, trigonometri | ✔︎ |
-| 1-5 | [[Lise velger iPhone-modell\|Lise velger iPhone-modell]] | økonomi, lineær vekst | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Rekestørrelser og pris per kg](https://matematikkoppgaver.vercel.app/rekestorrelser-og-pris-per-kg/) | prosentregning | ✔︎ |
+| [1-2](#oppgave-1-2) | [Oda sitt budsjett og sparing](https://matematikkoppgaver.vercel.app/oda-sitt-budsjett-og-sparing/) | økonomi, sparing | ✔︎ |
+| [1-3](#oppgave-1-3) | [Bremselengde med formel](https://matematikkoppgaver.vercel.app/bremselengde-med-formel/) | formler, modellering | ✔︎ |
+| [1-4](#oppgave-1-4) | [Bruk enhetssirkel til å finne sinus og cosinusverdier](https://matematikkoppgaver.vercel.app/bruk-enhetssirkel-til-a-finne-sinus-og-cosinusverdier/) | enhetssirkel, trigonometri | ✔︎ |
+| [1-5](#oppgave-1-5) | [Lise velger iPhone-modell](https://matematikkoppgaver.vercel.app/lise-velger-i-phone-modell/) | økonomi, lineær vekst | ✔︎ |
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Effekttrekant og elmotor\|Effekttrekant og elmotor]] | effekttrekant | ✔︎ |
-| 2-2 | [[Stine hurtiglader elbil\|Stine hurtiglader elbil]] | lineær vekst, modellering | ✔︎ |
-| 2-3 | [[Chris lån og sparing for å ta førerkort\|Chris lån og sparing for å ta førerkort]] | excel, lån, sparing, kredittkort | ✔︎ |
-| 2-4 | [[Isak reiser Oslo til Stockholm\|Isak reiser Oslo til Stockholm]] | økonomi, prosentregning, modellering | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Effekttrekant og elmotor](https://matematikkoppgaver.vercel.app/effekttrekant-og-elmotor/) | effekttrekant | ✔︎ |
+| [2-2](#oppgave-2-2) | [Stine hurtiglader elbil](https://matematikkoppgaver.vercel.app/stine-hurtiglader-elbil/) | lineær vekst, modellering | ✔︎ |
+| [2-3](#oppgave-2-3) | [Chris lån og sparing for å ta førerkort](https://matematikkoppgaver.vercel.app/chris-lan-og-sparing-for-a-ta-forerkort/) | excel, lån, sparing, kredittkort | ✔︎ |
+| [2-4](#oppgave-2-4) | [Isak reiser Oslo til Stockholm](https://matematikkoppgaver.vercel.app/isak-reiser-oslo-til-stockholm/) | økonomi, prosentregning, modellering | ✔︎ |
 
 # Del 1
 

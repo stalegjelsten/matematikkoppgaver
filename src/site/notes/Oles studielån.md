@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-12-14","modified":"2024-12-14","aliases":null,"dg-publish":true,"temaer":["lån"],"fag":["s2"],"eksamen":"h24","del":2,"oppgave":"5","oppgavenummer":[{"fag":"s2","del":2,"oppgave":5}],"title":"Oles studielån","source":null,"todo":null,"status":3,"permalink":"/oles-studielan/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-12-14","modified":"2024-12-14","aliases":null,"temaer":["lån"],"fag":["s2"],"eksamen":"h24","del":2,"oppgave":"5","oppgavenummer":[{"fag":"s2","del":2,"oppgave":5}],"title":"Oles studielån","source":null,"todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2024-12-14","modified":"2024-12-14","aliases":null,"dg-publish":true,"temaer":["lån"],"fag":["s2"],"eksamen":"h24","del":2,"oppgave":"5","oppgavenummer":[{"fag":"s2","del":2,"oppgave":5}],"title":"Oles studielån","source":null,"todo":null,"status":3,"permalink":"/oles-studielan/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-12-14","modified":"2024-12-14","aliases":null,"temaer":["lån"],"fag":["s2"],"eksamen":"h24","del":2,"oppgave":"5","oppgavenummer":[{"fag":"s2","del":2,"oppgave":5}],"title":"Oles studielån","source":null,"todo":null,"status":3,"permalink":"/oles-studielan/"}}
 ---
 
 
