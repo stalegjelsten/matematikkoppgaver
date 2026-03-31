@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-21","modified":"2025-05-21","aliases":[],"dg-publish":true,"temaer":["figurtall"],"fag":["2p-y"],"eksamen":"v25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":6}],"title":"Figurtall 2PY v2025","source":null,"todo":null,"status":3,"permalink":"/figurtall-2-py-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-21","modified":"2025-05-21","aliases":[],"temaer":["figurtall"],"fag":["2p-y"],"eksamen":"v25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":6}],"title":"Figurtall 2PY v2025","source":null,"todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2025-05-21","modified":"2025-05-21","aliases":[],"dg-publish":true,"temaer":["figurtall"],"fag":["2p-y"],"eksamen":"v25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":6}],"title":"Figurtall 2PY v2025","source":null,"todo":null,"status":3,"permalink":"/figurtall-2-py-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-21","modified":"2025-05-21","aliases":[],"temaer":["figurtall"],"fag":["2p-y"],"eksamen":"v25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":6}],"title":"Figurtall 2PY v2025","source":null,"todo":null,"status":3,"permalink":"/figurtall-2-py-v2025/"}}
 ---
 
 

@@ -1,30 +1,30 @@
 ---
-{"tags":["eksamen"],"fag":["s1"],"eksamen":"h25","date":"2025-11-20","del1_tid":2,"del2_tid":3,"title":"S1 eksamen H2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s1"],"eksamen":"h25","date":"2025-11-20","del1_tid":2,"del2_tid":3,"title":"S1 eksamen H2025","contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-h2025/"}}
+{"tags":["eksamen"],"fag":["s1"],"eksamen":"h25","del1_tid":2,"del2_tid":3,"title":"S1 eksamen H2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s1"],"eksamen":"h25","del1_tid":2,"del2_tid":3,"title":"S1 eksamen H2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-h2025/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Derivasjon og tolkning av stigningstall\|Derivasjon og tolkning av stigningstall]] | derivasjon, funksjoner | ✔︎ |
-| 1-2 | [[Logaritmiske likninger og logbaser\|Logaritmiske likninger og logbaser]] | logaritmer, likninger | ✔︎ |
-| 1-3 | [[Grenseverdier og eksistens\|Grenseverdier og eksistens]] | grenseverdi, kontinuitet | ✔︎ |
-| 1-4 | [[Kombinatorikk og passord\|Kombinatorikk og passord]] | kombinatorikk | ✔︎ |
-| 1-5 | [[Topp- og bunnpunkter med ln\|Topp- og bunnpunkter med ln]] | derivasjon, funksjoner, logaritmer | ✔︎ |
-| 1-6 | [[Einars straffesparkkonkurranse\|Einars straffesparkkonkurranse]] | sannsynlighet, programmering | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Derivasjon og tolkning av stigningstall](https://matematikkoppgaver.vercel.app/derivasjon-og-tolkning-av-stigningstall/) | derivasjon, funksjoner | ✔︎ |
+| [1-2](#oppgave-1-2) | [Logaritmiske likninger og logbaser](https://matematikkoppgaver.vercel.app/logaritmiske-likninger-og-logbaser/) | logaritmer, likninger | ✔︎ |
+| [1-3](#oppgave-1-3) | [Grenseverdier og eksistens](https://matematikkoppgaver.vercel.app/grenseverdier-og-eksistens/) | grenseverdi, kontinuitet | ✔︎ |
+| [1-4](#oppgave-1-4) | [Kombinatorikk og passord](https://matematikkoppgaver.vercel.app/kombinatorikk-og-passord/) | kombinatorikk | ✔︎ |
+| [1-5](#oppgave-1-5) | [Topp- og bunnpunkter med ln](https://matematikkoppgaver.vercel.app/topp-og-bunnpunkter-med-ln/) | derivasjon, funksjoner, logaritmer | ✔︎ |
+| [1-6](#oppgave-1-6) | [Einars straffesparkkonkurranse](https://matematikkoppgaver.vercel.app/einars-straffesparkkonkurranse/) | sannsynlighet, programmering | ✔︎ |
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Eksponentiell modell for befolkningsvekst\|Eksponentiell modell for befolkningsvekst]] | eksponentiell vekst, modellering, regresjon | ✔︎ |
-| 2-2 | [[Stykkevis funksjon og kontinuitet\|Stykkevis funksjon og kontinuitet]] | kontinuitet, funksjoner, delt forskrift | ✔︎ |
-| 2-3 | [[Sannsynlighet med drops\|Sannsynlighet med drops]] | sannsynlighet, kombinatorikk | ✔︎ |
-| 2-4 | [[Kostnad, pris og overskudd\|Kostnad, pris og overskudd]] | økonomi, derivasjon, funksjoner | ✔︎ |
-| 2-5 | [[Luktintensitet og logaritmer\|Luktintensitet og logaritmer]] | logaritmer, modellering | ✔︎ |
-| 2-6 | [[Terningspill og forventningsverdi\|Terningspill og forventningsverdi]] | sannsynlighet, programmering, diskrete sannsynlighetsfordelinger | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Eksponentiell modell for befolkningsvekst](https://matematikkoppgaver.vercel.app/eksponentiell-modell-for-befolkningsvekst/) | eksponentiell vekst, modellering, regresjon | ✔︎ |
+| [2-2](#oppgave-2-2) | [Stykkevis funksjon og kontinuitet](https://matematikkoppgaver.vercel.app/stykkevis-funksjon-og-kontinuitet/) | kontinuitet, funksjoner, delt forskrift | ✔︎ |
+| [2-3](#oppgave-2-3) | [Sannsynlighet med drops](https://matematikkoppgaver.vercel.app/sannsynlighet-med-drops/) | sannsynlighet, kombinatorikk | ✔︎ |
+| [2-4](#oppgave-2-4) | [Kostnad, pris og overskudd](https://matematikkoppgaver.vercel.app/kostnad-pris-og-overskudd/) | økonomi, derivasjon, funksjoner | ✔︎ |
+| [2-5](#oppgave-2-5) | [Luktintensitet og logaritmer](https://matematikkoppgaver.vercel.app/luktintensitet-og-logaritmer/) | logaritmer, modellering | ✔︎ |
+| [2-6](#oppgave-2-6) | [Terningspill og forventningsverdi](https://matematikkoppgaver.vercel.app/terningspill-og-forventningsverdi/) | sannsynlighet, programmering, diskrete sannsynlighetsfordelinger | ✔︎ |
 
 # Del 1
 

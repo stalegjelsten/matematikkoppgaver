@@ -1,14 +1,14 @@
 ---
-{"tags":["eksamen"],"fag":["s2"],"eksamen":"h14","del1_tid":2,"title":"S2 eksamen H2014","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2014/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"h14","del1_tid":2,"title":"S2 eksamen H2014","contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2014/"}}
+{"tags":["eksamen"],"fag":["s2"],"eksamen":"h14","del1_tid":2,"title":"S2 eksamen H2014","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2014/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"h14","del1_tid":2,"title":"S2 eksamen H2014","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2014/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-5 | [[Enhetskostnader fra graf\|Enhetskostnader fra graf]] | enhetskostnad, økonomi, tolke grafer | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-5](#oppgave-1-5) | [Enhetskostnader fra graf](https://matematikkoppgaver.vercel.app/enhetskostnader-fra-graf/) | enhetskostnad, økonomi, tolke grafer | × |
 
 # Del 1
 

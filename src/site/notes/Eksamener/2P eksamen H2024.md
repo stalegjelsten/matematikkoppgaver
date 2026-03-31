@@ -1,31 +1,31 @@
 ---
-{"tags":["eksamen"],"fag":["2p"],"eksamen":"h24","date":"2024-11-28","del1_tid":1,"del2_tid":4,"title":"2P eksamen H2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p"],"eksamen":"h24","date":"2024-11-28","del1_tid":1,"del2_tid":4,"title":"2P eksamen H2024","contentClasses":"eksamen-side","permalink":"/eksamener/2p-eksamen-h2024/"}}
+{"tags":["eksamen"],"fag":["2p"],"eksamen":"h24","del1_tid":1,"del2_tid":4,"title":"2P eksamen H2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p"],"eksamen":"h24","del1_tid":1,"del2_tid":4,"title":"2P eksamen H2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2p-eksamen-h2024/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Bestem målestokk fra kart\|Bestem målestokk fra kart]] | proporsjonalitet, målestokk | ❌ |
-| 1-2 | [[Statistikk på Lars arbeidstid\|Statistikk på Lars arbeidstid]] | statistikk | ✔︎ |
-| 1-3 | [[Formlike trekanter og areal\|Formlike trekanter og areal]] | geometri, areal | ❌ |
-| 1-4 | [[Løse likningssystem for Markus\|Løse likningssystem for Markus]] | likningssystem | ❌ |
-| 1-5 | [[Utslippsreduksjon med prosentvis nedgang\|Utslippsreduksjon med prosentvis nedgang]] | prosentvis endring i flere perioder, programmering | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Bestem målestokk fra kart](https://matematikkoppgaver.vercel.app/bestem-malestokk-fra-kart/) | proporsjonalitet, målestokk | × |
+| [1-2](#oppgave-1-2) | [Statistikk på Lars arbeidstid](https://matematikkoppgaver.vercel.app/statistikk-pa-lars-arbeidstid/) | statistikk | ✔︎ |
+| [1-3](#oppgave-1-3) | [Formlike trekanter og areal](https://matematikkoppgaver.vercel.app/formlike-trekanter-og-areal/) | geometri, areal | × |
+| [1-4](#oppgave-1-4) | [Løse likningssystem for Markus](https://matematikkoppgaver.vercel.app/lose-likningssystem-for-markus/) | likningssystem | × |
+| [1-5](#oppgave-1-5) | [Utslippsreduksjon med prosentvis nedgang](https://matematikkoppgaver.vercel.app/utslippsreduksjon-med-prosentvis-nedgang/) | prosentvis endring i flere perioder, programmering | ✔︎ |
 
 **Del 2** — 4 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Salg av iste\|Salg av iste]] | eksponentialfunksjoner, prosentvis endring i flere perioder | ✔︎ |
-| 2-2 | [[Kjøpekraft og konsumprisindeks\|Kjøpekraft og konsumprisindeks]] | prisindeks, prosentregning | ❌ |
-| 2-3 | [[Argumenter for at prosentregnestykker gir samme svar\|Argumenter for at prosentregnestykker gir samme svar]] | prosent, utforskning | ✔︎ |
-| 2-4 | [[Statistikk for quizlag\|Statistikk for quizlag]] | statistikk, utforskning | ✔︎ |
-| 2-5 | [[Nettoinntekt med overtid\|Nettoinntekt med overtid]] | prosentregning, økonomi | ❌ |
-| 2-6 | [[Lag presentasjon om statistikk for tidsbruk på ulike aktiviteter\|Lag presentasjon om statistikk for tidsbruk på ulike aktiviteter]] | presentasjon av data | ✔︎ |
-| 2-7 | [[Forbrukslån med betalingsplan\|Forbrukslån med betalingsplan]] | lån, økonomi | ❌ |
-| 2-8 | [[Volum og areal for lesehule\|Volum og areal for lesehule]] | volum, areal, geometri | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Salg av iste](https://matematikkoppgaver.vercel.app/salg-av-iste/) | eksponentialfunksjoner, prosentvis endring i flere perioder | ✔︎ |
+| [2-2](#oppgave-2-2) | [Kjøpekraft og konsumprisindeks](https://matematikkoppgaver.vercel.app/kjopekraft-og-konsumprisindeks/) | prisindeks, prosentregning | × |
+| [2-3](#oppgave-2-3) | [Argumenter for at prosentregnestykker gir samme svar](https://matematikkoppgaver.vercel.app/argumenter-for-at-prosentregnestykker-gir-samme-svar/) | prosent, utforskning | ✔︎ |
+| [2-4](#oppgave-2-4) | [Statistikk for quizlag](https://matematikkoppgaver.vercel.app/statistikk-for-quizlag/) | statistikk, utforskning | × |
+| [2-5](#oppgave-2-5) | [Nettoinntekt med overtid](https://matematikkoppgaver.vercel.app/nettoinntekt-med-overtid/) | prosentregning, økonomi | × |
+| [2-6](#oppgave-2-6) | [Lag presentasjon om statistikk for tidsbruk på ulike aktiviteter](https://matematikkoppgaver.vercel.app/lag-presentasjon-om-statistikk-for-tidsbruk-pa-ulike-aktiviteter/) | presentasjon av data | ✔︎ |
+| [2-7](#oppgave-2-7) | [Forbrukslån med betalingsplan](https://matematikkoppgaver.vercel.app/forbrukslan-med-betalingsplan/) | lån, økonomi | × |
+| [2-8](#oppgave-2-8) | [Volum og areal for lesehule](https://matematikkoppgaver.vercel.app/volum-og-areal-for-lesehule/) | volum, areal, geometri | × |
 
 # Del 1
 
@@ -422,7 +422,7 @@ $$\bar{x} = \frac{15 + 60 + 24 + 18 + 45 + 78}{6} = \frac{240}{6} = 40 \, \text{
 
 $$\sigma \approx 23{,}2 \, \text{år}$$
 
-**$\underline{\underline{\text{Median} = 34{,}5 \, \text{år}, \; \bar{x} = 40 \, \text{år}, \; \sigma \approx 23{,}2 \, \text{år}}}$**
+**Medianen er 34,5 år, gjennomsnittsalderen er 40 år og standardavviket er 23,2 år.**
 
 ### 2-5b
 

@@ -1,17 +1,17 @@
 ---
-{"tags":["eksamen"],"fag":["r1"],"eksamen":"h23","del1_tid":1,"title":"R1 eksamen H2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r1"],"eksamen":"h23","del1_tid":1,"title":"R1 eksamen H2023","contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-h2023/"}}
+{"tags":["eksamen"],"fag":["r1"],"eksamen":"h23","del1_tid":1,"title":"R1 eksamen H2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r1"],"eksamen":"h23","del1_tid":1,"title":"R1 eksamen H2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-h2023/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Deriver x ln(x)\|Deriver x ln(x)]] | derivasjon, logaritmer | ❌ |
-| 1-2 | [[Sorter tallene i riktig rekkefølge\|Sorter tallene i riktig rekkefølge]] | logaritmer | ❌ |
-| 1-3 | [[Vektorer til å bestemme sidekanter og vinkler i trekant\|Vektorer til å bestemme sidekanter og vinkler i trekant]] | vektorer | ❌ |
-| 1-4 | [[Tolk og fiks program som finner bunnpunkt\|Tolk og fiks program som finner bunnpunkt]] | programmering, derivasjon | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Deriver x ln(x)](https://matematikkoppgaver.vercel.app/deriver-x-ln-x/) | derivasjon, logaritmer | × |
+| [1-2](#oppgave-1-2) | [Sorter tallene i riktig rekkefølge](https://matematikkoppgaver.vercel.app/sorter-tallene-i-riktig-rekkefolge/) | logaritmer | × |
+| [1-3](#oppgave-1-3) | [Vektorer til å bestemme sidekanter og vinkler i trekant](https://matematikkoppgaver.vercel.app/vektorer-til-a-bestemme-sidekanter-og-vinkler-i-trekant/) | vektorer | × |
+| [1-4](#oppgave-1-4) | [Tolk og fiks program som finner bunnpunkt](https://matematikkoppgaver.vercel.app/tolk-og-fiks-program-som-finner-bunnpunkt/) | programmering, derivasjon | × |
 
 # Del 1
 

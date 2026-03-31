@@ -1,27 +1,27 @@
 ---
-{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"h24","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen H2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-y-el-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"h24","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen H2024","contentClasses":"eksamen-side","permalink":"/eksamener/1p-y-el-eksamen-h2024/"}}
+{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"h24","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen H2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-y-el-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"h24","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen H2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1p-y-el-eksamen-h2024/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Plantejord fra to butikker\|Plantejord fra to butikker]] | prosentregning, enhetskostnad, økonomi | ✔︎ |
-| 1-2 | [[Størst prosentvis prisøkning\|Størst prosentvis prisøkning]] | prosentregning, prosentvis endring | ✔︎ |
-| 1-3 | [[Merverdiavgift i Frankrike\|Merverdiavgift i Frankrike]] | formler, prosentregning | ✔︎ |
-| 1-4 | [[Iskremmaskin og effektberegning\|Iskremmaskin og effektberegning]] | formler, elektrofag | ✔︎ |
-| 1-5 | [[Bruke definisjonene av sinus og cosinus til å sette opp forhold\|Bruke definisjonene av sinus og cosinus til å sette opp forhold]] | trigonometri | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Plantejord fra to butikker](https://matematikkoppgaver.vercel.app/plantejord-fra-to-butikker/) | prosentregning, enhetskostnad, økonomi | ✔︎ |
+| [1-2](#oppgave-1-2) | [Størst prosentvis prisøkning](https://matematikkoppgaver.vercel.app/storst-prosentvis-prisokning/) | prosentregning, prosentvis endring | ✔︎ |
+| [1-3](#oppgave-1-3) | [Merverdiavgift i Frankrike](https://matematikkoppgaver.vercel.app/merverdiavgift-i-frankrike/) | formler, prosentregning | ✔︎ |
+| [1-4](#oppgave-1-4) | [Iskremmaskin og effektberegning](https://matematikkoppgaver.vercel.app/iskremmaskin-og-effektberegning/) | formler, elektrofag | ✔︎ |
+| [1-5](#oppgave-1-5) | [Bruke definisjonene av sinus og cosinus til å sette opp forhold](https://matematikkoppgaver.vercel.app/bruke-definisjonene-av-sinus-og-cosinus-til-a-sette-opp-forhold/) | trigonometri | ✔︎ |
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Effekttrekant for motor\|Effekttrekant for motor]] | trigonometri, effekttrekant | ✔︎ |
-| 2-2 | [[Trine og digitale lagringsmedier\|Trine og digitale lagringsmedier]] | bits og bytes, store tall | ✔︎ |
-| 2-3 | [[Eriks bilbruk\|Eriks bilbruk]] | excel, økonomi, formler | ✔︎ |
-| 2-4 | [[Reise til Gran Canaria\|Reise til Gran Canaria]] | excel, lån, kredittkort, oversikt | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Effekttrekant for motor](https://matematikkoppgaver.vercel.app/effekttrekant-for-motor/) | trigonometri, effekttrekant | ✔︎ |
+| [2-2](#oppgave-2-2) | [Trine og digitale lagringsmedier](https://matematikkoppgaver.vercel.app/trine-og-digitale-lagringsmedier/) | bits og bytes, store tall | ✔︎ |
+| [2-3](#oppgave-2-3) | [Eriks bilbruk](https://matematikkoppgaver.vercel.app/eriks-bilbruk/) | excel, økonomi, formler | ✔︎ |
+| [2-4](#oppgave-2-4) | [Reise til Gran Canaria](https://matematikkoppgaver.vercel.app/reise-til-gran-canaria/) | excel, lån, kredittkort, oversikt | ✔︎ |
 
 # Del 1
 

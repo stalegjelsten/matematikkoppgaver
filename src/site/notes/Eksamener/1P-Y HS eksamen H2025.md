@@ -1,28 +1,28 @@
 ---
-{"tags":["eksamen"],"fag":["1p-y hs"],"eksamen":"h25","date":"2025-11-28","del1_tid":1,"del2_tid":3,"title":"1P-Y HS eksamen H2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-y-hs-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y hs"],"eksamen":"h25","date":"2025-11-28","del1_tid":1,"del2_tid":3,"title":"1P-Y HS eksamen H2025","contentClasses":"eksamen-side","permalink":"/eksamener/1p-y-hs-eksamen-h2025/"}}
+{"tags":["eksamen"],"fag":["1p-y hs"],"eksamen":"h25","del1_tid":1,"del2_tid":3,"title":"1P-Y HS eksamen H2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-y-hs-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y hs"],"eksamen":"h25","del1_tid":1,"del2_tid":3,"title":"1P-Y HS eksamen H2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1p-y-hs-eksamen-h2025/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Løping og maraton\|Løping og maraton]] | lineær vekst, formler, tallregning | ✔︎ |
-| 1-2 | [[Annuitetslån eller serielån\|Annuitetslån eller serielån]] | lån, diagram, tolke grafer | ✔︎ |
-| 1-3 | [[Søvnbehov med formel\|Søvnbehov med formel]] | formler, lineær vekst, algebra | ✔︎ |
-| 1-4 | [[Helseutgifter og prosent\|Helseutgifter og prosent]] | diagram, prosentregning | ❌ |
-| 1-5 | [[Saras matprisundersøkelse\|Saras matprisundersøkelse]] | prosentregning, statistikk | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Løping og maraton](https://matematikkoppgaver.vercel.app/loping-og-maraton/) | lineær vekst, formler, tallregning | ✔︎ |
+| [1-2](#oppgave-1-2) | [Annuitetslån eller serielån](https://matematikkoppgaver.vercel.app/annuitetslan-eller-serielan/) | lån, diagram, tolke grafer | ✔︎ |
+| [1-3](#oppgave-1-3) | [Søvnbehov med formel](https://matematikkoppgaver.vercel.app/sovnbehov-med-formel/) | formler, lineær vekst, algebra | ✔︎ |
+| [1-4](#oppgave-1-4) | [Helseutgifter og prosent](https://matematikkoppgaver.vercel.app/helseutgifter-og-prosent/) | diagram, prosentregning | × |
+| [1-5](#oppgave-1-5) | [Saras matprisundersøkelse](https://matematikkoppgaver.vercel.app/saras-matprisundersokelse/) | prosentregning, statistikk | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Boligbranner og Parkland-formelen\|Boligbranner og Parkland-formelen]] | diagram, formler, grafisk framstilling | ❌ |
-| 2-2 | [[Grovbrød og makrell til barnehage\|Grovbrød og makrell til barnehage]] | formler, økonomi, prosentregning | ❌ |
-| 2-3 | [[Ellas BSU-sparing\|Ellas BSU-sparing]] | sparing, excel | ✔︎ |
-| 2-4 | [[Fritt fall fra stupeplattform\|Fritt fall fra stupeplattform]] | formler, likninger | ❌ |
-| 2-5 | [[Fylle svømmebasseng\|Fylle svømmebasseng]] | formler, tallregning, samlet mengde | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Boligbranner og Parkland-formelen](https://matematikkoppgaver.vercel.app/boligbranner-og-parkland-formelen/) | diagram, formler, grafisk framstilling | × |
+| [2-2](#oppgave-2-2) | [Grovbrød og makrell til barnehage](https://matematikkoppgaver.vercel.app/grovbrod-og-makrell-til-barnehage/) | formler, økonomi, prosentregning | × |
+| [2-3](#oppgave-2-3) | [Ellas BSU-sparing](https://matematikkoppgaver.vercel.app/ellas-bsu-sparing/) | sparing, excel | ✔︎ |
+| [2-4](#oppgave-2-4) | [Fritt fall fra stupeplattform](https://matematikkoppgaver.vercel.app/fritt-fall-fra-stupeplattform/) | formler, likninger | × |
+| [2-5](#oppgave-2-5) | [Fylle svømmebasseng](https://matematikkoppgaver.vercel.app/fylle-svommebasseng/) | formler, tallregning, samlet mengde | × |
 
 # Del 1
 

@@ -1,31 +1,31 @@
 ---
-{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"h23","del1_tid":1,"del2_tid":4,"title":"2P-Y eksamen H2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-y-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"h23","del1_tid":1,"del2_tid":4,"title":"2P-Y eksamen H2023","contentClasses":"eksamen-side","permalink":"/eksamener/2p-y-eksamen-h2023/"}}
+{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"h23","del1_tid":1,"del2_tid":4,"title":"2P-Y eksamen H2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-y-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"h23","del1_tid":1,"del2_tid":4,"title":"2P-Y eksamen H2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2p-y-eksamen-h2023/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Buss enkeltbillett eller fleksikort\|Buss enkeltbillett eller fleksikort]] | prosentregning | ✔︎ |
-| 1-2 | [[Personbiler lineær modell\|Personbiler lineær modell]] | modellering, lineær vekst | ✔︎ |
-| 1-3 | [[Hvor mange ganger større er Sola enn Jorda\|Hvor mange ganger større er Sola enn Jorda]] | standardform, potenser | ✔︎ |
-| 1-4 | [[Joggeavstander med gitte sentralmål\|Joggeavstander med gitte sentralmål]] | statistikk, sentralmål | ✔︎ |
-| 1-5 | [[Sirkelfigurer og figurmønster\|Sirkelfigurer og figurmønster]] | figurtall | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Buss enkeltbillett eller fleksikort](https://matematikkoppgaver.vercel.app/buss-enkeltbillett-eller-fleksikort/) | prosentregning | ✔︎ |
+| [1-2](#oppgave-1-2) | [Personbiler lineær modell](https://matematikkoppgaver.vercel.app/personbiler-lineaer-modell/) | modellering, lineær vekst | ✔︎ |
+| [1-3](#oppgave-1-3) | [Hvor mange ganger større er Sola enn Jorda](https://matematikkoppgaver.vercel.app/hvor-mange-ganger-storre-er-sola-enn-jorda/) | standardform, potenser | ✔︎ |
+| [1-4](#oppgave-1-4) | [Joggeavstander med gitte sentralmål](https://matematikkoppgaver.vercel.app/joggeavstander-med-gitte-sentralmal/) | statistikk, sentralmål | ✔︎ |
+| [1-5](#oppgave-1-5) | [Sirkelfigurer og figurmønster](https://matematikkoppgaver.vercel.app/sirkelfigurer-og-figurmonster/) | figurtall | ✔︎ |
 
 **Del 2** — 4 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Sjøtemperatur på Sørlandet\|Sjøtemperatur på Sørlandet]] | funksjoner, gjennomsnittlig vekstfart | ✔︎ |
-| 2-2 | [[Målskårere i Eliteserien 2022\|Målskårere i Eliteserien 2022]] | statistikk, sentralmål, spredningsmål | ✔︎ |
-| 2-3 | [[Monas prisøkning\|Monas prisøkning]] | prosent | ✔︎ |
-| 2-4 | [[Prisøkning på handlenett\|Prisøkning på handlenett]] | prosentregning, økonomi | ✔︎ |
-| 2-5 | [[Proporsjonalitet og vase med roser\|Proporsjonalitet og vase med roser]] | proporsjonalitet, omvendt proporsjonalitet, argumentasjon | ✔︎ |
-| 2-6 | [[Helsefagarbeidere presentasjon av data\|Helsefagarbeidere presentasjon av data]] | statistikk, diagrammer, presentasjon av data | ✔︎ |
-| 2-7 | [[Utslipp geometrisk rekke og programmering\|Utslipp geometrisk rekke og programmering]] | eksponentiell vekst, eksponentialfunksjoner, programmering | ✔︎ |
-| 2-8 | [[Klimagassutslipp lineær og eksponensiel modell\|Klimagassutslipp lineær og eksponensiel modell]] | modellering, lineær vekst, eksponentialfunksjoner | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Sjøtemperatur på Sørlandet](https://matematikkoppgaver.vercel.app/sjotemperatur-pa-sorlandet/) | funksjoner, gjennomsnittlig vekstfart | ✔︎ |
+| [2-2](#oppgave-2-2) | [Målskårere i Eliteserien 2022](https://matematikkoppgaver.vercel.app/malskarere-i-eliteserien-2022/) | statistikk, sentralmål, spredningsmål | ✔︎ |
+| [2-3](#oppgave-2-3) | [Monas prisøkning](https://matematikkoppgaver.vercel.app/monas-prisokning/) | prosent | ✔︎ |
+| [2-4](#oppgave-2-4) | [Prisøkning på handlenett](https://matematikkoppgaver.vercel.app/prisokning-pa-handlenett/) | prosentregning, økonomi | ✔︎ |
+| [2-5](#oppgave-2-5) | [Proporsjonalitet og vase med roser](https://matematikkoppgaver.vercel.app/proporsjonalitet-og-vase-med-roser/) | proporsjonalitet, omvendt proporsjonalitet, argumentasjon | ✔︎ |
+| [2-6](#oppgave-2-6) | [Helsefagarbeidere presentasjon av data](https://matematikkoppgaver.vercel.app/helsefagarbeidere-presentasjon-av-data/) | statistikk, diagrammer, presentasjon av data | ✔︎ |
+| [2-7](#oppgave-2-7) | [Utslipp geometrisk rekke og programmering](https://matematikkoppgaver.vercel.app/utslipp-geometrisk-rekke-og-programmering/) | eksponentiell vekst, eksponentialfunksjoner, programmering | ✔︎ |
+| [2-8](#oppgave-2-8) | [Klimagassutslipp lineær og eksponensiel modell](https://matematikkoppgaver.vercel.app/klimagassutslipp-lineaer-og-eksponensiel-modell/) | modellering, lineær vekst, eksponentialfunksjoner | ✔︎ |
 
 # Del 1
 

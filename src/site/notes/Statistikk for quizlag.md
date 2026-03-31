@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["statistikk","utforskning"],"fag":["2p-y","2p"],"eksamen":"h24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":5},{"fag":"2p","del":2,"oppgave":4}],"title":null,"source":null,"todo":null,"status":3,"permalink":"/statistikk-for-quizlag/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"temaer":["statistikk","utforskning"],"fag":["2p-y","2p"],"eksamen":"h24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":5},{"fag":"2p","del":2,"oppgave":4}],"title":null,"source":null,"todo":null,"status":3}}
+{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["statistikk","utforskning"],"fag":["2p-y","2p"],"eksamen":"h24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":5},{"fag":"2p","del":2,"oppgave":4}],"title":null,"source":null,"todo":null,"status":1,"permalink":"/statistikk-for-quizlag/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"temaer":["statistikk","utforskning"],"fag":["2p-y","2p"],"eksamen":"h24","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":5},{"fag":"2p","del":2,"oppgave":4}],"title":null,"source":null,"todo":null,"status":1,"permalink":"/statistikk-for-quizlag/"}}
 ---
 
 
@@ -51,7 +51,7 @@ $$\bar{x} = \frac{15 + 60 + 24 + 18 + 45 + 78}{6} = \frac{240}{6} = 40 \, \text{
 
 $$\sigma \approx 23{,}2 \, \text{år}$$
 
-**$\underline{\underline{\text{Median} = 34{,}5 \, \text{år}, \; \bar{x} = 40 \, \text{år}, \; \sigma \approx 23{,}2 \, \text{år}}}$**
+**Medianen er 34,5 år, gjennomsnittsalderen er 40 år og standardavviket er 23,2 år.**
 
 ### 2-5b
 

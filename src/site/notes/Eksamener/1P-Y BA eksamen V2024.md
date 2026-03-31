@@ -1,14 +1,14 @@
 ---
-{"tags":["eksamen"],"fag":["1p-y ba"],"eksamen":"v24","del2_tid":3,"title":"1P-Y BA eksamen V2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-y-ba-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y ba"],"eksamen":"v24","del2_tid":3,"title":"1P-Y BA eksamen V2024","contentClasses":"eksamen-side","permalink":"/eksamener/1p-y-ba-eksamen-v2024/"}}
+{"tags":["eksamen"],"fag":["1p-y ba"],"eksamen":"v24","del2_tid":3,"title":"1P-Y BA eksamen V2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-y-ba-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y ba"],"eksamen":"v24","del2_tid":3,"title":"1P-Y BA eksamen V2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1p-y-ba-eksamen-v2024/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-3 | [[Chris lån og sparing for å ta førerkort\|Chris lån og sparing for å ta førerkort]] | excel, lån, sparing, kredittkort | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-3](#oppgave-2-3) | [Chris lån og sparing for å ta førerkort](https://matematikkoppgaver.vercel.app/chris-lan-og-sparing-for-a-ta-forerkort/) | excel, lån, sparing, kredittkort | ✔︎ |
 
 # Del 2
 

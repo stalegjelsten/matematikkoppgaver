@@ -1,29 +1,29 @@
 ---
-{"tags":["eksamen"],"fag":["s1"],"eksamen":"h23","date":"2023-11-14","del1_tid":1,"del2_tid":4,"title":"S1 eksamen H2023","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s1"],"eksamen":"h23","date":"2023-11-14","del1_tid":1,"del2_tid":4,"title":"S1 eksamen H2023","contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-h2023/"}}
+{"tags":["eksamen"],"fag":["s1"],"eksamen":"h23","del1_tid":1,"del2_tid":4,"title":"S1 eksamen H2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s1"],"eksamen":"h23","del1_tid":1,"del2_tid":4,"title":"S1 eksamen H2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-h2023/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Forenkle algebraisk uttrykk\|Forenkle algebraisk uttrykk]] | algebra, potensregning | ✔︎ |
-| 1-2 | [[Logaritmer i stigende rekkefølge\|Logaritmer i stigende rekkefølge]] | logaritmer | ❌ |
-| 1-3 | [[Sannsynlighet med tre terninger\|Sannsynlighet med tre terninger]] | sannsynlighet, kombinatorikk | ❌ |
-| 1-4 | [[Kontinuerlig stykkevis funksjon\|Kontinuerlig stykkevis funksjon]] | kontinuitet, funksjoner | ❌ |
-| 1-5 | [[Grensekostnad og programmering\|Grensekostnad og programmering]] | programmering, grenseinntekt og grensekostnad, økonomi | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Forenkle algebraisk uttrykk](https://matematikkoppgaver.vercel.app/forenkle-algebraisk-uttrykk/) | algebra, potensregning | ✔︎ |
+| [1-2](#oppgave-1-2) | [Logaritmer i stigende rekkefølge](https://matematikkoppgaver.vercel.app/logaritmer-i-stigende-rekkefolge/) | logaritmer | × |
+| [1-3](#oppgave-1-3) | [Sannsynlighet med tre terninger](https://matematikkoppgaver.vercel.app/sannsynlighet-med-tre-terninger/) | sannsynlighet, kombinatorikk | × |
+| [1-4](#oppgave-1-4) | [Kontinuerlig stykkevis funksjon](https://matematikkoppgaver.vercel.app/kontinuerlig-stykkevis-funksjon/) | kontinuitet, funksjoner | × |
+| [1-5](#oppgave-1-5) | [Grensekostnad og programmering](https://matematikkoppgaver.vercel.app/grensekostnad-og-programmering/) | programmering, grenseinntekt og grensekostnad, økonomi | × |
 
 **Del 2** — 4 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Sofaproduksjon og overskudd\|Sofaproduksjon og overskudd]] | økonomi, andregradslikninger, modellering | ❌ |
-| 2-2 | [[Venstrehendte elever\|Venstrehendte elever]] | sannsynlighet, diskrete sannsynlighetsfordelinger | ❌ |
-| 2-3 | [[Renter og dobbelttid\|Renter og dobbelttid]] | geometrisk vekst, logaritmer, sparing | ❌ |
-| 2-4 | [[Sannsynlighet med fem terninger\|Sannsynlighet med fem terninger]] | sannsynlighet, programmering, kombinatorikk | ❌ |
-| 2-5 | [[Kasse uten lokk\|Kasse uten lokk]] | optimering, derivasjon, geometri | ❌ |
-| 2-6 | [[Påstander om tredjegradsfunksjon\|Påstander om tredjegradsfunksjon]] | funksjonsdrøfting, derivasjon, argumentasjon | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Sofaproduksjon og overskudd](https://matematikkoppgaver.vercel.app/sofaproduksjon-og-overskudd/) | økonomi, andregradslikninger, modellering | × |
+| [2-2](#oppgave-2-2) | [Venstrehendte elever](https://matematikkoppgaver.vercel.app/venstrehendte-elever/) | sannsynlighet, diskrete sannsynlighetsfordelinger | × |
+| [2-3](#oppgave-2-3) | [Renter og dobbelttid](https://matematikkoppgaver.vercel.app/renter-og-dobbelttid/) | geometrisk vekst, logaritmer, sparing | × |
+| [2-4](#oppgave-2-4) | [Sannsynlighet med fem terninger](https://matematikkoppgaver.vercel.app/sannsynlighet-med-fem-terninger/) | sannsynlighet, programmering, kombinatorikk | × |
+| [2-5](#oppgave-2-5) | [Kasse uten lokk](https://matematikkoppgaver.vercel.app/kasse-uten-lokk/) | optimering, derivasjon, geometri | × |
+| [2-6](#oppgave-2-6) | [Påstander om tredjegradsfunksjon](https://matematikkoppgaver.vercel.app/pastander-om-tredjegradsfunksjon/) | funksjonsdrøfting, derivasjon, argumentasjon | ✔︎ |
 
 # Del 1
 

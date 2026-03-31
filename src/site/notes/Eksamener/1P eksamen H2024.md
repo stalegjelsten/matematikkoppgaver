@@ -1,31 +1,31 @@
 ---
-{"tags":["eksamen"],"fag":["1p"],"eksamen":"h24","date":"2024-11-20","del1_tid":1,"del2_tid":4,"title":"1P eksamen H2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p"],"eksamen":"h24","date":"2024-11-20","del1_tid":1,"del2_tid":4,"title":"1P eksamen H2024","contentClasses":"eksamen-side","permalink":"/eksamener/1p-eksamen-h2024/"}}
+{"tags":["eksamen"],"fag":["1p"],"eksamen":"h24","del1_tid":1,"del2_tid":4,"title":"1P eksamen H2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p"],"eksamen":"h24","del1_tid":1,"del2_tid":4,"title":"1P eksamen H2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1p-eksamen-h2024/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Størst prosentvis prisøkning\|Størst prosentvis prisøkning]] | prosentregning, prosentvis endring | ✔︎ |
-| 1-2 | [[Maur i standardform og vekt\|Maur i standardform og vekt]] | standardform, store tall, tallregning | ❌ |
-| 1-3 | [[Proporsjonale og omvendt proporsjonale størrelser\|Proporsjonale og omvendt proporsjonale størrelser]] | proporsjonalitet, omvendt proporsjonalitet, argumentasjon | ❌ |
-| 1-4 | [[Lisas salg og to programmer\|Lisas salg og to programmer]] | programmering, eksponentiell vekst, lineær vekst | ❌ |
-| 1-5 | [[Celsius og fahrenheit, lineær sammenheng\|Celsius og fahrenheit, lineær sammenheng]] | lineær vekst, formler, stigningstall | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Størst prosentvis prisøkning](https://matematikkoppgaver.vercel.app/storst-prosentvis-prisokning/) | prosentregning, prosentvis endring | ✔︎ |
+| [1-2](#oppgave-1-2) | [Maur i standardform og vekt](https://matematikkoppgaver.vercel.app/maur-i-standardform-og-vekt/) | standardform, store tall, tallregning | × |
+| [1-3](#oppgave-1-3) | [Proporsjonale og omvendt proporsjonale størrelser](https://matematikkoppgaver.vercel.app/proporsjonale-og-omvendt-proporsjonale-storrelser/) | proporsjonalitet, omvendt proporsjonalitet, argumentasjon | × |
+| [1-4](#oppgave-1-4) | [Lisas salg og to programmer](https://matematikkoppgaver.vercel.app/lisas-salg-og-to-programmer/) | programmering, eksponentiell vekst, lineær vekst | × |
+| [1-5](#oppgave-1-5) | [Celsius og fahrenheit, lineær sammenheng](https://matematikkoppgaver.vercel.app/celsius-og-fahrenheit-lineaer-sammenheng/) | lineær vekst, formler, stigningstall | × |
 
 **Del 2** — 4 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Avisabonnenter og eksponentialfunksjon\|Avisabonnenter og eksponentialfunksjon]] | eksponentialfunksjoner, stigningstall, geometrisk vekst | ❌ |
-| 2-2 | [[Medisindosering til pasient\|Medisindosering til pasient]] | prosentregning, tallregning | ❌ |
-| 2-3 | [[Prosentvis endring i tre omganger\|Prosentvis endring i tre omganger]] | prosentvis endring i flere perioder, vekstfaktor | ❌ |
-| 2-4 | [[Kjøretid og tidsforskjell\|Kjøretid og tidsforskjell]] | formler, tolkning, likningssystem | ❌ |
-| 2-5 | [[Isabels Snapchat-følgere\|Isabels Snapchat-følgere]] | lineær vekst, eksponentiell vekst, funksjoner | ❌ |
-| 2-6 | [[Lønnstilbud fra tre bedrifter\|Lønnstilbud fra tre bedrifter]] | likningssystem, økonomi, lineær vekst | ❌ |
-| 2-7 | [[Kommunevalg og prosentvis framgang\|Kommunevalg og prosentvis framgang]] | prosentregning, statistikk, prosentvis endring | ❌ |
-| 2-8 | [[Kasser av metallplater\|Kasser av metallplater]] | volum, optimering, funksjoner | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Avisabonnenter og eksponentialfunksjon](https://matematikkoppgaver.vercel.app/avisabonnenter-og-eksponentialfunksjon/) | eksponentialfunksjoner, stigningstall, geometrisk vekst | × |
+| [2-2](#oppgave-2-2) | [Medisindosering til pasient](https://matematikkoppgaver.vercel.app/medisindosering-til-pasient/) | prosentregning, tallregning | × |
+| [2-3](#oppgave-2-3) | [Prosentvis endring i tre omganger](https://matematikkoppgaver.vercel.app/prosentvis-endring-i-tre-omganger/) | prosentvis endring i flere perioder, vekstfaktor | × |
+| [2-4](#oppgave-2-4) | [Kjøretid og tidsforskjell](https://matematikkoppgaver.vercel.app/kjoretid-og-tidsforskjell/) | formler, tolkning, likningssystem | × |
+| [2-5](#oppgave-2-5) | [Isabels Snapchat-følgere](https://matematikkoppgaver.vercel.app/isabels-snapchat-folgere/) | lineær vekst, eksponentiell vekst, funksjoner | × |
+| [2-6](#oppgave-2-6) | [Lønnstilbud fra tre bedrifter](https://matematikkoppgaver.vercel.app/lonnstilbud-fra-tre-bedrifter/) | likningssystem, økonomi, lineær vekst | × |
+| [2-7](#oppgave-2-7) | [Kommunevalg og prosentvis framgang](https://matematikkoppgaver.vercel.app/kommunevalg-og-prosentvis-framgang/) | prosentregning, statistikk, prosentvis endring | × |
+| [2-8](#oppgave-2-8) | [Kasser av metallplater](https://matematikkoppgaver.vercel.app/kasser-av-metallplater/) | volum, optimering, funksjoner | × |
 
 # Del 1
 
