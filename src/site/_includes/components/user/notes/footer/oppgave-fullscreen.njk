@@ -1,0 +1,376 @@
+{% if "oppgave" in tags or "eksamen" in tags %}
+<div id="fullskjerm-knapper">
+  <button id="fullskjerm-tema" class="fullskjerm-fab" title="Bytt fargetema" aria-label="Bytt fargetema">
+    <span id="fullskjerm-tema-icon-light"><i data-lucide="sun"></i></span>
+    <span id="fullskjerm-tema-icon-dark" style="display:none"><i data-lucide="moon"></i></span>
+  </button>
+  <button class="fullskjerm-fab fullskjerm-fab--tekst" id="tekst-storr-btn" title="Større tekst" aria-label="Større tekst" style="display:none">A+</button>
+  <button class="fullskjerm-fab fullskjerm-fab--tekst" id="tekst-min-btn" title="Mindre tekst" aria-label="Mindre tekst" style="display:none">A−</button>
+  <button class="fullskjerm-fab" id="tavle-toggle-btn" title="Åpne tavle" aria-label="Åpne tavle" style="display:none">
+    <i data-lucide="pencil-line"></i>
+  </button>
+  <button class="fullskjerm-fab" id="fullskjerm-toggle-btn" title="Vis i fullskjerm" aria-label="Vis i fullskjerm">
+    <span id="fullskjerm-icon-expand"><i data-lucide="maximize-2"></i></span>
+    <span id="fullskjerm-icon-collapse" style="display:none"><i data-lucide="minimize-2"></i></span>
+  </button>
+</div>
+
+<div id="tavle-panel"></div>
+<div id="tavle-deler" aria-hidden="true"></div>
+
+<div id="fullskjerm-nav" role="navigation" aria-label="Navigasjon i fullskjerm">
+  <button class="fullskjerm-nav-btn" id="fullskjerm-forrige" disabled>← Forrige</button>
+  <span id="fullskjerm-seksjon-label"></span>
+  <button class="fullskjerm-nav-btn" id="fullskjerm-neste">Neste →</button>
+  <button id="fullskjerm-lukk" class="fullskjerm-icon-btn" title="Lukk fullskjerm" aria-label="Lukk fullskjerm">✕</button>
+</div>
+
+<script>
+(function () {
+  var toggleBtn = document.getElementById("fullskjerm-toggle-btn");
+  if (!toggleBtn) return;
+
+  var nav = document.getElementById("fullskjerm-nav");
+  var forrigeBtn = document.getElementById("fullskjerm-forrige");
+  var nesteBtn = document.getElementById("fullskjerm-neste");
+  var lukkBtn = document.getElementById("fullskjerm-lukk");
+  var seksjonLabel = document.getElementById("fullskjerm-seksjon-label");
+  var iconExpand = document.getElementById("fullskjerm-icon-expand");
+  var iconCollapse = document.getElementById("fullskjerm-icon-collapse");
+  var temaBtn = document.getElementById("fullskjerm-tema");
+  var temaIconLight = document.getElementById("fullskjerm-tema-icon-light");
+  var temaIconDark = document.getElementById("fullskjerm-tema-icon-dark");
+  var tavleBtn = document.getElementById("tavle-toggle-btn");
+  var tavlePanel = document.getElementById("tavle-panel");
+  var tavleDeler = document.getElementById("tavle-deler");
+  var tekstStorrBtn = document.getElementById("tekst-storr-btn");
+  var tekstMinBtn = document.getElementById("tekst-min-btn");
+
+  var erEksamen = !!document.querySelector("main.content.eksamen-side");
+  var seksjoner = [];
+  var currentIndex = 0;
+  var isFullscreen = false;
+  var originalTheme = null;
+  var fsStoerrelse = 1.4;
+  var tavleAktiv = false;
+  var tavleIframe = null;
+  var tavleBreddeVw = 50;
+  var drar = false;
+
+  // ── Font size ──────────────────────────────────────────────────────────────
+  function setFontSize(rem) {
+    fsStoerrelse = Math.max(0.8, Math.min(2.4, Math.round(rem * 10) / 10));
+    document.documentElement.style.setProperty("--fs-oppgave", fsStoerrelse + "rem");
+  }
+  tekstStorrBtn.addEventListener("click", function () { setFontSize(fsStoerrelse + 0.1); });
+  tekstMinBtn.addEventListener("click", function () { setFontSize(fsStoerrelse - 0.1); });
+
+  // ── Tavle (tldraw) ─────────────────────────────────────────────────────────
+  function sendTema() {
+    if (!tavleIframe) return;
+    var dark = document.body.classList.contains("theme-dark");
+    tavleIframe.contentWindow.postMessage({ type: "theme", dark: dark }, "*");
+  }
+  window.addEventListener("message", function (e) {
+    if (e.data && e.data.type === "tavle-ready") sendTema();
+  });
+  function setTavleBredde(vwPct) {
+    tavleBreddeVw = Math.max(15, Math.min(85, vwPct));
+    document.documentElement.style.setProperty("--tavle-bredde", tavleBreddeVw + "vw");
+  }
+  tavleDeler.addEventListener("pointerdown", function (e) {
+    e.preventDefault();
+    drar = true;
+    tavleDeler.setPointerCapture(e.pointerId);
+    tavleDeler.classList.add("drar");
+    document.body.style.userSelect = "none";
+  });
+  tavleDeler.addEventListener("pointermove", function (e) {
+    if (!drar) return;
+    setTavleBredde(((window.innerWidth - e.clientX) / window.innerWidth) * 100);
+  });
+  tavleDeler.addEventListener("pointerup", function () {
+    drar = false;
+    tavleDeler.classList.remove("drar");
+    document.body.style.userSelect = "";
+  });
+  function toggleTavle() {
+    tavleAktiv = !tavleAktiv;
+    document.body.classList.toggle("tavle-aktiv", tavleAktiv);
+    if (tavleAktiv && !tavleIframe) {
+      var dark = document.body.classList.contains("theme-dark") ? "1" : "0";
+      tavleIframe = document.createElement("iframe");
+      tavleIframe.src = "/tavle/?dark=" + dark;
+      tavlePanel.appendChild(tavleIframe);
+    }
+    tavleBtn.setAttribute("title", tavleAktiv ? "Lukk tavle" : "Åpne tavle");
+    tavleBtn.setAttribute("aria-label", tavleAktiv ? "Lukk tavle" : "Åpne tavle");
+  }
+
+  // ── Alpine.js bruker x-show.important (inline !important) ─────────────────
+  function hideEl(el) { if (el) el.style.setProperty("display", "none", "important"); }
+  function restoreEl(el) { if (el) el.style.removeProperty("display"); }
+
+  // ── Seksjons-splitting: oppgave-sider ─────────────────────────────────────
+  function splitSectionsOppgave() {
+    var article = document.querySelector("main.content article");
+    if (!article) return;
+    var children = Array.from(article.children);
+    var current = [];
+    children.forEach(function (el) {
+      if (el.hasAttribute("data-callout-metadata")) {
+        if (current.length > 0) seksjoner.push({ type: "oppgave", els: current });
+        seksjoner.push({ type: "callout", els: [el] });
+        current = [];
+      } else {
+        current.push(el);
+      }
+    });
+    if (current.length > 0) seksjoner.push({ type: "oppgave", els: current });
+  }
+
+  // ── Seksjons-splitting: eksamen-sider ─────────────────────────────────────
+  function splitSectionsEksamen() {
+    var article = document.querySelector("main.content article");
+    if (!article) return;
+    var children = Array.from(article.children);
+
+    // Find first transclusion
+    var firstTransIdx = -1;
+    for (var fi = 0; fi < children.length; fi++) {
+      if (children[fi].classList.contains("transclusion")) { firstTransIdx = fi; break; }
+    }
+    if (firstTransIdx === -1) return;
+
+    // Oversikt: alle elementer før første translusjon
+    var oversiktEls = children.slice(0, firstTransIdx);
+    if (oversiktEls.length > 0) {
+      seksjoner.push({ type: "oversikt", outerEls: oversiktEls, label: "Oversikt" });
+    }
+
+    // prevBoundary: indeksen etter siste "brukte" element
+    var prevBoundary = firstTransIdx;
+
+    for (var i = firstTransIdx; i < children.length; i++) {
+      var el = children[i];
+      if (!el.classList.contains("transclusion")) continue;
+      var embed = el.querySelector(".markdown-embed");
+      if (!embed) continue;
+
+      // Headers mellom forrige grense og denne transusjonen
+      var headerEls = children.slice(prevBoundary, i);
+      prevBoundary = i + 1;
+
+      // Finn siste overskrift i alt som er passert (for seksjonsnavn)
+      var lastHeader = null;
+      for (var k = i - 1; k >= 0; k--) {
+        if (/^H\d$/.test(children[k].tagName)) { lastHeader = children[k]; break; }
+      }
+
+      // Parse embed: separate question / fasit / løsningsforslag nodes
+      var questionNodes = [];
+      var fasitNodes = [];
+      var losningWrapper = embed.querySelector(".losningsforslag-innhold");
+      var state = "question";
+      Array.from(embed.children).forEach(function (node) {
+        if (node === losningWrapper) return;
+        if (node.tagName === "H2" && node.textContent.trim() === "Fasit") {
+          state = "fasit";
+          fasitNodes.push(node);
+        } else if (state === "question") {
+          questionNodes.push(node);
+        } else if (state === "fasit") {
+          fasitNodes.push(node);
+        }
+      });
+
+      // Snapshot original visibility for restoration on exit
+      fasitNodes.forEach(function (n) { n._fs_orig = n.style.display; });
+      if (losningWrapper) losningWrapper._fs_orig = losningWrapper.style.display;
+
+      var baseLabel = lastHeader ? lastHeader.textContent.trim() : ("Oppgave " + (i + 1));
+      var shared = { embedEl: embed, questionNodes: questionNodes, fasitNodes: fasitNodes, losningWrapper: losningWrapper };
+
+      seksjoner.push(Object.assign({}, shared, {
+        type: "eks-oppgave",
+        outerEls: headerEls.concat([el]),
+        label: baseLabel
+      }));
+      if (fasitNodes.length > 0) {
+        seksjoner.push(Object.assign({}, shared, {
+          type: "eks-fasit",
+          outerEls: (lastHeader ? [lastHeader] : []).concat([el]),
+          label: "Fasit \u2014 " + baseLabel
+        }));
+      }
+      if (losningWrapper) {
+        seksjoner.push(Object.assign({}, shared, {
+          type: "eks-losning",
+          outerEls: (lastHeader ? [lastHeader] : []).concat([el]),
+          label: "L\u00f8sningsforslag \u2014 " + baseLabel
+        }));
+      }
+    }
+  }
+
+  function splitSections() {
+    if (seksjoner.length > 0) return;
+    if (erEksamen) splitSectionsEksamen();
+    else splitSectionsOppgave();
+  }
+
+  // ── Vis seksjon ───────────────────────────────────────────────────────────
+  function showSection(idx) {
+    var article = document.querySelector("main.content article");
+    if (!article) return;
+    Array.from(article.children).forEach(function (el) { el.style.display = "none"; });
+
+    var sek = seksjoner[idx];
+
+    if (erEksamen) {
+      sek.outerEls.forEach(function (el) { el.style.display = ""; });
+      if (sek.type === "oversikt") {
+        // Bare vis elementene – ingen embed-manipulasjon
+      } else if (sek.type === "eks-oppgave") {
+        sek.questionNodes.forEach(function (n) { n.style.display = ""; });
+        sek.fasitNodes.forEach(function (n) { n.style.display = "none"; });
+        if (sek.losningWrapper) sek.losningWrapper.style.display = "none";
+      } else if (sek.type === "eks-fasit") {
+        sek.questionNodes.forEach(function (n) { n.style.display = "none"; });
+        sek.fasitNodes.forEach(function (n) { n.style.display = ""; });
+        if (sek.losningWrapper) sek.losningWrapper.style.display = "none";
+      } else if (sek.type === "eks-losning") {
+        sek.questionNodes.forEach(function (n) { n.style.display = "none"; });
+        sek.fasitNodes.forEach(function (n) { n.style.display = "none"; });
+        if (sek.losningWrapper) sek.losningWrapper.style.display = "";
+      }
+    } else {
+      sek.els.forEach(function (el) {
+        el.style.display = "";
+        if (el.hasAttribute("data-callout-metadata")) el.classList.remove("is-collapsed");
+      });
+    }
+
+    currentIndex = idx;
+    var main = document.querySelector("main.content");
+    if (main) main.scrollTop = 0;
+
+    var navn = erEksamen ? sek.label : getSeksjonNavnOppgave(idx);
+    seksjonLabel.textContent = navn + " (" + (idx + 1) + "\u00a0/\u00a0" + seksjoner.length + ")";
+    forrigeBtn.disabled = idx === 0;
+    nesteBtn.disabled = idx === seksjoner.length - 1;
+  }
+
+  function getSeksjonNavnOppgave(idx) {
+    var first = seksjoner[idx].els[0];
+    if (first && first.hasAttribute("data-callout-metadata")) {
+      var titleEl = first.querySelector(".callout-title-inner");
+      return titleEl ? titleEl.textContent.trim() : "Seksjon";
+    }
+    return "Oppgave";
+  }
+
+  // ── Tema ──────────────────────────────────────────────────────────────────
+  function updateTemaIcon() {
+    var isLight = document.body.classList.contains("theme-light");
+    temaIconLight.style.display = isLight ? "none" : "";
+    temaIconDark.style.display = isLight ? "" : "none";
+    temaBtn.setAttribute("title", isLight ? "Bytt til mørkt tema" : "Bytt til lyst tema");
+  }
+  function toggleTema() {
+    var isLight = document.body.classList.contains("theme-light");
+    document.body.classList.toggle("theme-light", !isLight);
+    document.body.classList.toggle("theme-dark", isLight);
+    updateTemaIcon();
+    sendTema();
+  }
+
+  // ── Enter / exit fullscreen ───────────────────────────────────────────────
+  function enterFullscreen() {
+    splitSections();
+    originalTheme = document.body.classList.contains("theme-light") ? "light" : "dark";
+    hideEl(document.querySelector("nav.navbar"));
+    hideEl(document.querySelector(".filetree-wrapper"));
+    hideEl(document.querySelector("aside"));
+    document.body.classList.add("oppgave-fullskjerm");
+    showSection(0);
+    isFullscreen = true;
+    toggleBtn.setAttribute("title", "Avslutt fullskjerm");
+    toggleBtn.setAttribute("aria-label", "Avslutt fullskjerm");
+    iconExpand.style.display = "none";
+    iconCollapse.style.display = "";
+    tavleBtn.style.display = "";
+    tekstStorrBtn.style.display = "";
+    tekstMinBtn.style.display = "";
+    updateTemaIcon();
+  }
+
+  function exitFullscreen() {
+    if (tavleAktiv) toggleTavle();
+    tavleBtn.style.display = "none";
+    tekstStorrBtn.style.display = "none";
+    tekstMinBtn.style.display = "none";
+    restoreEl(document.querySelector("nav.navbar"));
+    restoreEl(document.querySelector(".filetree-wrapper"));
+    restoreEl(document.querySelector("aside"));
+    document.body.classList.remove("oppgave-fullskjerm");
+    document.body.classList.toggle("theme-light", originalTheme === "light");
+    document.body.classList.toggle("theme-dark", originalTheme === "dark");
+
+    var article = document.querySelector("main.content article");
+    if (article) {
+      Array.from(article.children).forEach(function (el) { el.style.display = ""; });
+      if (erEksamen) {
+        // Gjenopprett fasit/løsningsforslag til opprinnelig tilstand
+        seksjoner.forEach(function (sek) {
+          if (sek.type === "oversikt") return;
+          sek.questionNodes.forEach(function (n) { n.style.display = ""; });
+          sek.fasitNodes.forEach(function (n) {
+            n.style.display = n._fs_orig !== undefined ? n._fs_orig : "none";
+          });
+          if (sek.losningWrapper) {
+            sek.losningWrapper.style.display = sek.losningWrapper._fs_orig !== undefined
+              ? sek.losningWrapper._fs_orig : "none";
+          }
+        });
+      } else {
+        article.querySelectorAll("[data-callout-metadata]").forEach(function (el) {
+          el.classList.add("is-collapsed");
+        });
+      }
+    }
+
+    isFullscreen = false;
+    toggleBtn.setAttribute("title", "Vis i fullskjerm");
+    toggleBtn.setAttribute("aria-label", "Vis i fullskjerm");
+    iconExpand.style.display = "";
+    iconCollapse.style.display = "none";
+  }
+
+  // ── Event listeners ───────────────────────────────────────────────────────
+  toggleBtn.addEventListener("click", function () {
+    isFullscreen ? exitFullscreen() : enterFullscreen();
+  });
+  forrigeBtn.addEventListener("click", function () {
+    if (currentIndex > 0) showSection(currentIndex - 1);
+  });
+  nesteBtn.addEventListener("click", function () {
+    if (currentIndex < seksjoner.length - 1) showSection(currentIndex + 1);
+  });
+  lukkBtn.addEventListener("click", exitFullscreen);
+  temaBtn.addEventListener("click", toggleTema);
+  tavleBtn.addEventListener("click", toggleTavle);
+
+  document.addEventListener("keydown", function (e) {
+    if (!isFullscreen) return;
+    if (e.key === "Escape") {
+      exitFullscreen();
+    } else if (e.key === "ArrowRight" || e.key === "ArrowDown") {
+      if (currentIndex < seksjoner.length - 1) showSection(currentIndex + 1);
+    } else if (e.key === "ArrowLeft" || e.key === "ArrowUp") {
+      if (currentIndex > 0) showSection(currentIndex - 1);
+    }
+  });
+})();
+</script>
+{% endif %}
