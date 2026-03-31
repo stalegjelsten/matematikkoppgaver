@@ -13,3 +13,17 @@ Informasjonen ovenfor er hentet fra nettsidene til Bladkongen.
 >Hvor mye koster Dagbladet Lørdag uten rabatt?
 
 ## Fasit
+49 kr
+
+## Løsningsforslag
+Vi ser på det første tilbudet først: «4 aviser for 99 kroner, spar 49 %». 
+
+Å spare 49 % betyr at vi fremdeles betaler 51 % av prisen. Vi kan finne full pris for avisene ved å gå veien om en:
+$$
+\frac{99 \mathrm{~kr}}{51 \,\%}\cdot 100 \,\% = 1{,}94 \mathrm{~kr} \cdot 100 \, \%=194 \mathrm{~kr}
+$$
+**Prisen per avis er $\frac{194 \mathrm{~kr}}{4}=\underline{\underline{ 48{,}5 \mathrm{~kr} }}$.**
+
+
+> [!tip] Ulike svar på denne oppgaven
+> Hvis man tar utgangspunkt i prisen for 52 aviser så vil man finne at prisen uten rabatt var 49 kr.

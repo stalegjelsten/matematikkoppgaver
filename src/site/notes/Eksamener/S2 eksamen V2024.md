@@ -404,6 +404,41 @@ b) 18,83 uker
 c) 53 kr
 [[Løsningsforslag/Løsningsforslag S2 eksamen V2024#Oppgave 2-1\|Løsningsforslag S2 eksamen V2024]]
 
+## Løsningsforslag
+
+
+![CAS-utklipp til oppgave 2-1](/img/user/_resources/s2-v24-2-1.png)
+
+### a
+Jeg ser at funksjonen er logistisk og jeg vet at den største vekstfarten er i vendepunktet.
+
+Jeg finner vendepunktet i GeoGebra, se linje 2 i utklippet, vendepunktet er ved 25 enheter solgt. Vekstfarten ved 25 solgte enheter finner jeg ved å bestemme $f'(25)$ i linje 3.
+
+**Salget økte raskest i uke 25, da økte salget med 21 enheter per uke.**
+
+### b
+Vi kan finne det samlede salget ved å bestemme arealet under grafen til $f$.
+
+I linje 4 setter jeg opp likningen
+
+$
+\int_{0}^{x} f(t) \, dt=2000 
+$
+
+**Det tok nesten 19 uker før salget passerte 2000 enheter.**
+
+### c
+Inntektene fra salget må være gitt ved antall enheter solgt $\times$ pris per enhet.
+
+I linje 5 setter jeg opp likningen
+
+$
+\int_{0}^{52} f(t) \, dt \cdot p = 1\, 000 \, 000 
+$
+
+der $p$ er den ukjente prisen per enhet.
+
+**Butikken har solgt produktet for 53 kr.**
 
 </div></div>
 

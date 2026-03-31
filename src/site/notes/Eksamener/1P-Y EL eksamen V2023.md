@@ -56,11 +56,13 @@ a) Oppstartsprisen er 8 kr og leieprisen er 3 kr per minutt. For 4 minutter:
 
 b) Vi vet at prisen er 53 kr, og setter opp en likning:
 
-   $\begin{aligned}
+   $
+   \begin{aligned}
    8 + 3x &= 53 \\
    3x &= 45 \\
    x &= \underline{\underline{15 \, \mathrm{min}}}
-   \end{aligned}$
+   \end{aligned}
+   $
 
 c) Prisen er alltid 8 kr i oppstart pluss 3 kr for hvert minutt. Formelen for $x$ minutter er altså:
 
@@ -216,6 +218,7 @@ Maksimalt tillatt avvik er $\pm {,}1 \mathrm{~Hz}$.
 
 Figuren under viser en effekttrekant som viser sammenhengen mellom reaktiv effekt ($Q$), tilført effekt ($P$), tilsynelatende effekt ($S$) og fasevinkel ($\varphi$) i en elmotor.
 
+
 ![Effekttrekant elmotor](/img/user/_resources/1pyel-v23-1-4-3.jpeg)
 
 I denne trekanten er $P = 40 \mathrm{~W}$ og $\cos \varphi = \dfrac{40}{50}$.
@@ -305,11 +308,13 @@ b) Vi bruker de to formlene. Først finner vi tilført effekt fra virkningsgrade
 
    Deretter setter vi inn i formelen for tilført effekt og løser for $\cos \varphi$:
 
-   $\begin{aligned}
+   $
+   \begin{aligned}
    P_t &= \sqrt{3} \cdot U \cdot I \cdot \cos \varphi \\
    1150 &= \sqrt{3} \cdot 230 \cdot 5 \cdot \cos \varphi \\
    \cos \varphi &= \frac{1150}{\sqrt{3} \cdot 230 \cdot 5} \approx \underline{\underline{0{,}58}}
-   \end{aligned}$
+   \end{aligned}
+   $
 
 
 </div></div>
@@ -363,11 +368,13 @@ a) Vi setter inn de oppgitte verdiene i formelen:
 
 b) Vi løser for $A$ når $P = 9425 \, \mathrm{W}$:
 
-   $\begin{aligned}
+   $
+   \begin{aligned}
    9425 &= \frac{10^3 \cdot A \cdot 1{,}3 \cdot 0{,}5}{2} \\
    9425 &= 325 \cdot A \\
    A &= \frac{9425}{325} = \underline{\underline{29 \, \mathrm{m}^2}}
-   \end{aligned}$
+   \end{aligned}
+   $
 
 c) Vi beregner effekten ved dobling av $A$ og ved dobling av $v$:
 

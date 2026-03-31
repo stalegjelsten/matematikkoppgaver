@@ -77,8 +77,9 @@ Nora skal kjøpe bagetter.
 - 48 kroner for 4 bagetter betyr at hver bagett koster 12 kroner.
 
 For å regne den prosentvise forskjellen kan vi sammenligne differansen mellom de to tilbudene og den dyreste prisen.
+$ 
+\frac{\text{differanse}}{\text{det vi sammenligner med}}=\frac{16-12}{16}=\frac{4}{16}=\frac{1}{4}=25 \,\% 
 $
-\frac{\text{differanse}}{\text{det vi sammenligner med}}=\frac{16-12}{16}=\frac{4}{16}=\frac{1}{4}=25 \,\% $
  
 **Prisen per bagett blir 25 % lavere dersom hun kjøper 4 istedenfor 2 bagetter.**
 

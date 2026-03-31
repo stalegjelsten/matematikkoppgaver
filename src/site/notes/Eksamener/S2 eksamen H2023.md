@@ -149,7 +149,7 @@ $
 
 To av linjene tangerer grafen til $K$. Vi kaller tangeringspunktene $A$ og $B$.
 
-![s2-h23-1-3.png](/img/user/_resources/s2-h23-1-3.png)
+![Kostnadsfunksjonen $K(x)$](/img/user/_resources/s2-h23-1-3.png)
 
 >[!oppgave]
 > a) Bestem enhetskostnaden ved produksjon av 40 enheter.
@@ -260,6 +260,46 @@ print(S)
 
 ## Fasit
 
+## Løsningsforslag
+
+
+### 1-4a
+**Programmet forsøker å regne ut en tilnærmingsverdi for arealene mellom $x$-aksen, grafen til $f(x)=x^{2}-1$, linja $x=-2$ og linja $x=2$.** 
+
+Ved å bruke absoluttverdifunksjonen så tar programmet hensyn til at $f<0$ i deler av intervallet.
+
+### 1-4b
+Jeg ser at $f(x)$ har nullpunkter i $x=1$ og $x=-1$. På grunn av symmetri vil 
+
+$
+\int_{-2}^{1} f(x) \, dx = \int_{1}^{2} f(x) \, dx 
+$
+
+For å regne ut det samlede arealet kan jeg derfor bruke uttrykket (minustegn foran integral nummer 2, siden grafen ligger under $x$-aksen i dette intervallet)
+
+$
+2\int_{1}^{2} \left( x^{2}-1 \right)  \, dx - \int_{-1}^{1} \left( x^{2}-1 \right)  \, dx 
+$
+
+Jeg finner først det ubestemte integralet
+
+$
+F(x)=\int (x^{2}-1) \, \mathrm{d}x =\frac{1}{3}x^{3}-x+C
+$
+
+Jeg finner så arealet ved
+
+$
+\begin{aligned}
+2\cdot \left( F(2)-F(1) \right) - \left( F(1)-F(-1) \right) \\
+2\cdot F(2)- 3\cdot F(1)+F(-1) \\
+2\left(\frac{1}{3}2^{3}-2 \right)- 3\left( \frac{1}{3}1^{3}- 1 \right) +\left( \frac{1}{3}(-1)^{3}-(-1) \right)  \\
+\left( \frac{16}{3}-4 \right) -\left( \frac{3}{3}-3 \right) +\left( \frac{-1}{3}+1 \right)\\
+-4+3+1+\frac{16}{3}-\frac{3}{3}-\frac{1}{3}=\frac{12}{3}=4
+\end{aligned}
+$
+
+**Verdien eleven forsøkte å bestemme er 4.**
 
 </div></div>
 
@@ -292,6 +332,54 @@ Vi trekker tilfeldig en kule og legger den tilbake igjen. Dette gjør vi to gang
 a) $\mu=6, \sigma=5{,}5$
 b) Se LF
 c) $\frac{7}{16}$
+
+## Løsningsforslag
+
+### 1-5a
+Siden det kun er tre typer kuler så må sannsynligheten for å trekke en kule som veier 10 kg være 
+
+$
+P(\text{10 kg})=1-\frac{1}{4}-\frac{1}{2}=\frac{1}{4}
+$
+
+Forventningsverdien er summen av produktene av sannsynlighet $\times$ verdi. Altså:
+
+$
+E(X)=\frac{1}{4} \cdot 4 + \frac{1}{2}\cdot 5 + \frac{1}{4} \cdot 10=\frac{2}{2}+\frac{5}{2}+\frac{5}{2} =\frac{12}{2}=6
+$
+
+For å finne variansen må vi finne differansen til gjennomsnittet for hver verdi, kvadrere denne differansen og multiplisere den med sannsynligheten for observasjonsverdien.
+
+| $x$ | $E(x)-x$ | $P(X=x)$      | $(E(x)-x)^{2}\cdot P(X=x)$            |
+| --- | -------- | ------------- | ------------------------------------- |
+| 4   | 2        | $\frac{1}{4}$ | $2^{2}\cdot \frac{1}{4}=1$            |
+| 5   | 1        | $\frac{1}{2}$ | $1^{2}\cdot \frac{1}{2}= \frac{1}{2}$ |
+| 10  | 4        | $\frac{1}{4}$ | $4^{2}\cdot \frac{1}{4}=4$            |
+| Sum |          |               | 5,5                                   |
+
+**Jeg har vist at forventningsverdien er 6 kg og at variansen er 5,5 kg.**
+
+### 1-5b
+
+![Valgtre til oppgave 1-5](/img/user/_resources/mermaid-diagram-2025-11-26-182719.png)
+
+Se valgtreet over. Jeg ser at utfallene for $Y=X_{1}+X_{2}$ er 8, 9, 10, 14, 15 og 20. Jeg bruker valgtreet til å beregne sannsynligheten for hvert utfall
+
+| $y$ |                      $P(Y=y)$                       |
+| :-: | :-------------------------------------------------: |
+|  8  |     $\frac{1}{4}\cdot \frac{1}{4}=\frac{1}{16}$     |
+|  9  |  $\frac{1}{4}\cdot \frac{1}{2}\cdot 2=\frac{1}{4}$  |
+| 10  |     $\frac{1}{2} \cdot \frac{1}{2}=\frac{1}{4}$     |
+| 14  | $\frac{1}{4} \cdot \frac{1}{4} \cdot 2=\frac{1}{8}$ |
+| 15  |  $\frac{1}{4}\cdot \frac{1}{2}\cdot 2=\frac{1}{4}$  |
+| 20  |   $\frac{1}{4} \cdot \frac{1}{4} = \frac{1}{16}$    |
+
+### 1-5c
+$P(Y>10)$ betyr sannsynligheten for at $Y$ er større 10. Det stemmer når $Y=14$, $Y=15$ og $Y=20$.
+
+$
+P(Y>10)=P(Y=14)+P(Y=15)+P(Y=20)=\frac{1}{8}+\frac{1}{4}+\frac{1}{16}=\frac{2+4+1}{16}=\underline{\underline{\frac{7}{16}}}
+$
 
 
 </div></div>

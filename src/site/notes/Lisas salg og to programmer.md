@@ -53,3 +53,25 @@ print(t)
 >b) Hva vil verdiene som skrives ut fortelle Lisa?
 
 ## Fasit
+
+a) P1 linje 7: salget øker med 4 % hver måned. P2 linje 7: salget øker med 40 enheter hver måned.
+b) Totalt antall solgte enheter i løpet av de 12 månedene. Program 1: 15 026, Program 2: 14 640.
+
+## Løsningsforslag
+
+### a
+
+**Program 1, linje 7:** `e = e * 1.04`
+
+Dette betyr at salget for neste måned er 4 % høyere enn salget denne måneden. Lisa antar at salget vokser **eksponentielt** – med samme prosentsats hver måned.
+
+**Program 2, linje 7:** `e = e + 40`
+
+Dette betyr at salget for neste måned er 40 enheter høyere enn salget denne måneden. Lisa antar at salget vokser **lineært** – med samme antall enheter hver måned.
+
+### b
+
+Variabelen `t` akkumulerer salget for alle 12 månedene. Verdiene som skrives ut, forteller Lisa det **totale antallet solgte enheter** i løpet av året (januar–desember):
+
+- **Program 1** (eksponentiell vekst): $\underline{\underline{15\,026 \text{ enheter}}}$
+- **Program 2** (lineær vekst): $\underline{\underline{14\,640 \text{ enheter}}}$

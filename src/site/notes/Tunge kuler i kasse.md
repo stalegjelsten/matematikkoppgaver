@@ -22,3 +22,51 @@ Vi trekker tilfeldig en kule og legger den tilbake igjen. Dette gjør vi to gang
 a) $\mu=6, \sigma=5{,}5$
 b) Se LF
 c) $\frac{7}{16}$
+
+## Løsningsforslag
+
+### 1-5a
+Siden det kun er tre typer kuler så må sannsynligheten for å trekke en kule som veier 10 kg være 
+
+$$
+P(\text{10 kg})=1-\frac{1}{4}-\frac{1}{2}=\frac{1}{4}
+$$
+
+Forventningsverdien er summen av produktene av sannsynlighet $\times$ verdi. Altså:
+
+$$
+E(X)=\frac{1}{4} \cdot 4 + \frac{1}{2}\cdot 5 + \frac{1}{4} \cdot 10=\frac{2}{2}+\frac{5}{2}+\frac{5}{2} =\frac{12}{2}=6
+$$
+
+For å finne variansen må vi finne differansen til gjennomsnittet for hver verdi, kvadrere denne differansen og multiplisere den med sannsynligheten for observasjonsverdien.
+
+| $x$ | $E(x)-x$ | $P(X=x)$      | $(E(x)-x)^{2}\cdot P(X=x)$            |
+| --- | -------- | ------------- | ------------------------------------- |
+| 4   | 2        | $\frac{1}{4}$ | $2^{2}\cdot \frac{1}{4}=1$            |
+| 5   | 1        | $\frac{1}{2}$ | $1^{2}\cdot \frac{1}{2}= \frac{1}{2}$ |
+| 10  | 4        | $\frac{1}{4}$ | $4^{2}\cdot \frac{1}{4}=4$            |
+| Sum |          |               | 5,5                                   |
+
+**Jeg har vist at forventningsverdien er 6 kg og at variansen er 5,5 kg.**
+
+### 1-5b
+
+![Valgtre til oppgave 1-5](/img/user/_resources/mermaid-diagram-2025-11-26-182719.png)
+
+Se valgtreet over. Jeg ser at utfallene for $Y=X_{1}+X_{2}$ er 8, 9, 10, 14, 15 og 20. Jeg bruker valgtreet til å beregne sannsynligheten for hvert utfall
+
+| $y$ |                      $P(Y=y)$                       |
+| :-: | :-------------------------------------------------: |
+|  8  |     $\frac{1}{4}\cdot \frac{1}{4}=\frac{1}{16}$     |
+|  9  |  $\frac{1}{4}\cdot \frac{1}{2}\cdot 2=\frac{1}{4}$  |
+| 10  |     $\frac{1}{2} \cdot \frac{1}{2}=\frac{1}{4}$     |
+| 14  | $\frac{1}{4} \cdot \frac{1}{4} \cdot 2=\frac{1}{8}$ |
+| 15  |  $\frac{1}{4}\cdot \frac{1}{2}\cdot 2=\frac{1}{4}$  |
+| 20  |   $\frac{1}{4} \cdot \frac{1}{4} = \frac{1}{16}$    |
+
+### 1-5c
+$P(Y>10)$ betyr sannsynligheten for at $Y$ er større 10. Det stemmer når $Y=14$, $Y=15$ og $Y=20$.
+
+$$
+P(Y>10)=P(Y=14)+P(Y=15)+P(Y=20)=\frac{1}{8}+\frac{1}{4}+\frac{1}{16}=\frac{2+4+1}{16}=\underline{\underline{\frac{7}{16}}}
+$$
