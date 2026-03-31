@@ -1,3 +1,13 @@
+/* Radial gradient bak gjennomsiktige PNG/SVG-bilder (ikke inline-SVG) */
+article img {
+  background: radial-gradient(ellipse at center, rgba(255, 255, 255, 0.5) 0%, transparent 80%);
+}
+
+/* Inverter figurer med svart-på-transparent bakgrunn: ![tekst](fil){.invertert} */
+img.invertert {
+  filter: invert(1);
+}
+
 /* Tving all display-matte ($$ $$) til å vises sentrert som blokk */
 mjx-container[display="true"] {
   display: block !important;

@@ -133,6 +133,36 @@ module.exports = function(eleventyConfig) {
       };
     })
     .use(function(md) {
+      // Core rule to restore display math in transcluded content.
+      // The Obsidian digital garden plugin strips one $ from each side when
+      // expanding transclusions, turning $$...$$ into $...$. We detect
+      // standalone $...$ on its own paragraph (blank lines before and after)
+      // and convert back to $$...$$
+      md.core.ruler.before('block', 'fix_transcluded_display_math', function(state) {
+        // The Obsidian digital garden plugin strips one $ from each side of $$...$$
+        // when expanding transclusions, turning $$...$$ into $...$.
+        //
+        // Fix 1: multi-line display math. $$\n...\n$$ becomes $\n...\n$ —
+        // lone $ on their own lines (opener AND closer). Allows > and spaces
+        // before $ (blockquote context). Only converts matched pairs with no
+        // other $ characters in the content between them.
+        state.src = state.src.replace(
+          /^([ \t>]*)\$[ \t]*\n((?:[ \t>]*[^$\n]*\n)*?)([ \t>]*)\$[ \t]*$/gm,
+          (match, indent1, content, indent2) => `${indent1}$$\n${content}${indent2}$$`
+        );
+        // Fix 2: single-line display math inside blockquotes/callouts.
+        // $$x=y$$ inside >[!oppgave] becomes >$x=y$ after plugin stripping.
+        // Only apply when the line has a > prefix — this avoids incorrectly
+        // converting fasit inline math ($f(x)$, no > prefix) to display math.
+        // Optionally followed by an equation label like {#eq:label}.
+        state.src = state.src.replace(
+          /^([ \t]*>[ \t>]*)\$([^$\n]+)\$([ \t]*\{[^}\n]*\})?[ \t]*$/gm,
+          (match, prefix, content, label) => `${prefix}$$${content}$$${label || ''}`
+        );
+        return true;
+      });
+    })
+    .use(function(md) {
       // Core rule to handle display math labels before mathjax3 processes them
       md.core.ruler.before('block', 'handle_math_labels', function(state) {
         // Find display math followed by a label: $$...$$ {#eq:label}
@@ -589,7 +619,7 @@ module.exports = function(eleventyConfig) {
   // Only applied on oppgave pages.
   const FOLD_SVG = `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg>`;
 
-  function wrapHeadingContentAsCallout(parsed, headingText, calloutType) {
+  function wrapHeadingContentAsCallout(parsed, headingText, calloutType, prependHtml = "") {
     const h2s = parsed.querySelectorAll("h2");
     for (const h2 of h2s) {
       if (h2.text.trim() !== headingText) continue;
@@ -611,7 +641,7 @@ module.exports = function(eleventyConfig) {
         continue;
       }
 
-      const calloutHtml = `<div data-callout-metadata class="callout is-collapsible is-collapsed" data-callout="${calloutType}"><div class="callout-title"><div class="callout-title-inner">${headingText}</div><div class="callout-fold">${FOLD_SVG}</div></div><div class="callout-content">${contentHtml}</div></div>`;
+      const calloutHtml = `<div data-callout-metadata class="callout is-collapsible is-collapsed" data-callout="${calloutType}"><div class="callout-title"><div class="callout-title-inner">${headingText}</div><div class="callout-fold">${FOLD_SVG}</div></div><div class="callout-content">${prependHtml}${contentHtml}</div></div>`;
 
       // Replace the h2 with the callout
       h2.replaceWith(calloutHtml);
@@ -622,6 +652,8 @@ module.exports = function(eleventyConfig) {
     }
   }
 
+  const KI_ADVARSEL_HTML = `<div class="ki-advarsel">Dette løsningsforslaget er laget av KI og er ikke kvalitetssikret.</div>`;
+
   eleventyConfig.addTransform("fasit-heading-to-callout", function(str) {
     if (!isMarkdownPage(this.page.inputPath)) {
       return str;
@@ -630,16 +662,70 @@ module.exports = function(eleventyConfig) {
       return str;
     }
     // Only apply to pages tagged #oppgave
+    let status;
     try {
       const src = fs.readFileSync(this.page.inputPath, "utf8");
-      const tags = matter(src).data.tags || [];
-      if (!tags.includes("oppgave")) return str;
+      const fm = matter(src).data;
+      if (!fm.tags || !fm.tags.includes("oppgave")) return str;
+      status = fm.status;
     } catch {
       return str;
     }
     const parsed = parse(str);
     wrapHeadingContentAsCallout(parsed, "Fasit", "question");
-    wrapHeadingContentAsCallout(parsed, "Løsningsforslag", "success");
+    const losningWarning = status !== 3 ? KI_ADVARSEL_HTML : "";
+    wrapHeadingContentAsCallout(parsed, "Løsningsforslag", "success", losningWarning);
+    return parsed.innerHTML;
+  });
+
+  // Build a cache of permalink → status for all notes (lazily initialized).
+  const _permalinkStatusCache = {};
+  let _permalinkStatusCacheBuilt = false;
+  function buildPermalinkStatusCache() {
+    if (_permalinkStatusCacheBuilt) return;
+    _permalinkStatusCacheBuilt = true;
+    function scanDir(dir) {
+      let entries;
+      try { entries = fs.readdirSync(dir, { withFileTypes: true }); } catch { return; }
+      for (const entry of entries) {
+        const fullPath = `${dir}/${entry.name}`;
+        if (entry.isDirectory()) {
+          scanDir(fullPath);
+        } else if (entry.name.endsWith(".md")) {
+          try {
+            const fm = matter(fs.readFileSync(fullPath, "utf8")).data;
+            if (fm.permalink !== undefined) {
+              _permalinkStatusCache[fm.permalink] = fm.status;
+            }
+          } catch {}
+        }
+      }
+    }
+    scanDir("./src/site/notes");
+  }
+
+  // Add data-status attribute to .markdown-embed divs on eksamen pages so the
+  // toggle script can show a KI-warning for unverified løsningsforslag.
+  eleventyConfig.addTransform("transclusion-status", function(str) {
+    if (!isMarkdownPage(this.page.inputPath)) return str;
+    if (!str || !str.includes("markdown-embed-link")) return str;
+    try {
+      const tags = matter(fs.readFileSync(this.page.inputPath, "utf8")).data.tags || [];
+      if (!tags.includes("eksamen")) return str;
+    } catch {
+      return str;
+    }
+    buildPermalinkStatusCache();
+    const parsed = parse(str);
+    for (const tc of parsed.querySelectorAll(".transclusion")) {
+      const link = tc.querySelector(".markdown-embed-link");
+      const embed = tc.querySelector(".markdown-embed");
+      if (!link || !embed) continue;
+      const href = link.getAttribute("href");
+      if (!href) continue;
+      const status = _permalinkStatusCache[href];
+      embed.setAttribute("data-status", status !== undefined ? String(status) : "");
+    }
     return parsed.innerHTML;
   });
 

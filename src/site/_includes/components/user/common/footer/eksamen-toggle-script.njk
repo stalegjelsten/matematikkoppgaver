@@ -49,6 +49,15 @@
       if (losningNodes.length > 0) {
         var wrapper = document.createElement("div");
         wrapper.className = "losningsforslag-innhold";
+
+        var dataStatus = embed.getAttribute("data-status");
+        if (dataStatus !== "3") {
+          var advarsel = document.createElement("p");
+          advarsel.className = "ki-advarsel";
+          advarsel.textContent = "Dette løsningsforslaget er laget av KI og er ikke kvalitetssikret.";
+          wrapper.appendChild(advarsel);
+        }
+
         embed.insertBefore(wrapper, losningNodes[0]);
         losningNodes.forEach(function (el) { wrapper.appendChild(el); });
         wrappers.push(wrapper);

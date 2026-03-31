@@ -85,3 +85,13 @@
 .eksamen-pdf-btn:hover {
   background-color: var(--background-modifier-border);
 }
+
+/* Advarsel for KI-genererte løsningsforslag som ikke er kvalitetssikret */
+.ki-advarsel {
+  background-color: rgba(255, 193, 7, 0.15);
+  border-left: 3px solid #ffc107;
+  padding: 0.5rem 0.75rem;
+  margin-bottom: 0.75rem;
+  border-radius: 0 4px 4px 0;
+  font-size: 0.9rem;
+}
