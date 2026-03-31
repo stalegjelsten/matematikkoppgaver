@@ -1037,6 +1037,28 @@ module.exports = function(eleventyConfig) {
     return toc.html();
   });
 
+  // TOC for eksamen pages: only show Del (# → h2) and Oppgave (## → h3), hide everything inside transclusions.
+  eleventyConfig.addFilter("tocEksamen", (content, opts) => {
+    const $ = cheerioForToc.load(content);
+
+    // Exclude all headings inside transclusions
+    $(".transclusion h1, .transclusion h2, .transclusion h3, .transclusion h4, .transclusion h5, .transclusion h6")
+      .attr("data-toc-exclude", "");
+
+    // Shift non-transclusion headings down one level (h1→h2, h2→h3)
+    [["h2", "h3"], ["h1", "h2"]].forEach(([from, to]) => {
+      $(from).filter(function () {
+        return $(this).closest(".transclusion").length === 0;
+      }).each(function () {
+        const $h = $(this);
+        $h.replaceWith(`<${to} id="${$h.attr("id") || ""}">${$h.html()}</${to}>`);
+      });
+    });
+
+    const toc = new TocClass($.html(), { ul: true, tags: ["h2", "h3"], ...opts });
+    return toc.html();
+  });
+
   // Canvas files are pre-compiled HTML by the plugin - don't process as markdown
   eleventyConfig.addExtension("canvas", {
     read: true,

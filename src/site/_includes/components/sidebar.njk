@@ -9,7 +9,11 @@
                   {%endif%}
 
                   {%if settings.dgShowToc === true%}
-                        {%set tocHtml= (content and (content | hideDataview | link | tocNested)) %}
+                        {% if contentClasses and "eksamen-side" in contentClasses %}
+                          {%set tocHtml= (content and (content | hideDataview | link | tocEksamen)) %}
+                        {% else %}
+                          {%set tocHtml= (content and (content | hideDataview | link | tocNested)) %}
+                        {% endif %}
                         {%if tocHtml %}
                               <div class="toc">
                                     <div class="toc-title-container">

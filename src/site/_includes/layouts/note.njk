@@ -68,7 +68,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
         {% include imp %}
       {% endfor %}
       <article>
-      {% if '<h1' not in content %}
+      {% if '<h1' not in content or (contentClasses and "eksamen-side" in contentClasses) %}
         <h1>{{ title if title else page.fileSlug }}</h1>
       {% endif %}
       {{ content | hideDataview | taggify | link | safe}}
