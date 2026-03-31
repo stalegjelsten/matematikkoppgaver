@@ -133,36 +133,6 @@ module.exports = function(eleventyConfig) {
       };
     })
     .use(function(md) {
-      // Core rule to restore display math in transcluded content.
-      // The Obsidian digital garden plugin strips one $ from each side when
-      // expanding transclusions, turning $$...$$ into $...$. We detect
-      // standalone $...$ on its own paragraph (blank lines before and after)
-      // and convert back to $$...$$
-      md.core.ruler.before('block', 'fix_transcluded_display_math', function(state) {
-        // The Obsidian digital garden plugin strips one $ from each side of $$...$$
-        // when expanding transclusions, turning $$...$$ into $...$.
-        //
-        // Fix 1: multi-line display math. $$\n...\n$$ becomes $\n...\n$ —
-        // lone $ on their own lines (opener AND closer). Allows > and spaces
-        // before $ (blockquote context). Only converts matched pairs with no
-        // other $ characters in the content between them.
-        state.src = state.src.replace(
-          /^([ \t>]*)\$[ \t]*\n((?:[ \t>]*[^$\n]*\n)*?)([ \t>]*)\$[ \t]*$/gm,
-          (match, indent1, content, indent2) => `${indent1}$$\n${content}${indent2}$$`
-        );
-        // Fix 2: single-line display math inside blockquotes/callouts.
-        // $$x=y$$ inside >[!oppgave] becomes >$x=y$ after plugin stripping.
-        // Only apply when the line has a > prefix — this avoids incorrectly
-        // converting fasit inline math ($f(x)$, no > prefix) to display math.
-        // Optionally followed by an equation label like {#eq:label}.
-        state.src = state.src.replace(
-          /^([ \t]*>[ \t>]*)\$([^$\n]+)\$([ \t]*\{[^}\n]*\})?[ \t]*$/gm,
-          (match, prefix, content, label) => `${prefix}$$${content}$$${label || ''}`
-        );
-        return true;
-      });
-    })
-    .use(function(md) {
       // Core rule to handle display math labels before mathjax3 processes them
       md.core.ruler.before('block', 'handle_math_labels', function(state) {
         // Find display math followed by a label: $$...$$ {#eq:label}
@@ -1024,6 +994,47 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(tocPlugin, {
     ul: true,
     tags: ["h1", "h2", "h3", "h4", "h5", "h6"],
+  });
+
+  // Override toc filter:
+  // - All headings outside transclusions are shifted down one level (h1→h2, h2→h3, ...)
+  //   so the page title h1 is excluded from the TOC while Del/Oppgave headings
+  //   appear at h2/h3 without changing the source files.
+  // - Inside transclusions: h1 (task titles) are excluded, and h2/h3 are shifted
+  //   an extra level (total +2) so Fasit/Løsningsforslag nest under Oppgave in the TOC.
+  const cheerioForToc = require("cheerio");
+  const TocClass = require("./node_modules/eleventy-plugin-nesting-toc/toc");
+  eleventyConfig.addFilter("toc", (content, opts) => {
+    const $ = cheerioForToc.load(content);
+
+    // Inside transclusions: exclude h1, shift h2→h4, h3→h5, h4→h6
+    $(".transclusion h1").attr("data-toc-exclude", "");
+    $(".transclusion h4").each(function () {
+      const $h = $(this);
+      $h.replaceWith(`<h6 id="${$h.attr("id") || ""}">${$h.html()}</h6>`);
+    });
+    $(".transclusion h3").each(function () {
+      const $h = $(this);
+      $h.replaceWith(`<h5 id="${$h.attr("id") || ""}">${$h.html()}</h5>`);
+    });
+    $(".transclusion h2").each(function () {
+      const $h = $(this);
+      $h.replaceWith(`<h4 id="${$h.attr("id") || ""}">${$h.html()}</h4>`);
+    });
+
+    // Outside transclusions: shift all headings down by one level (h1→h2, h2→h3, ...)
+    // Process deepest first to avoid double-shifting
+    [["h5", "h6"], ["h4", "h5"], ["h3", "h4"], ["h2", "h3"], ["h1", "h2"]].forEach(([from, to]) => {
+      $(from).filter(function () {
+        return $(this).closest(".transclusion").length === 0;
+      }).each(function () {
+        const $h = $(this);
+        $h.replaceWith(`<${to} id="${$h.attr("id") || ""}">${$h.html()}</${to}>`);
+      });
+    });
+
+    const toc = new TocClass($.html(), { ul: true, tags: ["h2", "h3", "h4", "h5", "h6"], ...opts });
+    return toc.html();
   });
 
   // Canvas files are pre-compiled HTML by the plugin - don't process as markdown
