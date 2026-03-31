@@ -15,9 +15,9 @@
 
 # Bestemt integral 2
 
-$
+$$
 \int_{0}^{1}\left(e^{x}+3 x^{2}\right) d x
-$
+$$
 
 ## Fasit
 
@@ -25,7 +25,7 @@ $e$
 
 ## Løsningsforslag
 
-$\int_0^1 \left( e^{ x }+2x^2 \right)  \,\mathrm{d}x = \left[e^x+ \cancel{ \frac{3}{3} }  x^3 \right]_0^1 = e^1+1^3- \left( \underbrace{ e^0 }_{ =1 }+0^3 \right) = e+1- 1 = \underline{\underline{e}}$
+$$\int_0^1 \left( e^{ x }+2x^2 \right)  \,\mathrm{d}x = \left[e^x+ \cancel{ \frac{3}{3} }  x^3 \right]_0^1 = e^1+1^3- \left( \underbrace{ e^0 }_{ =1 }+0^3 \right) = e+1- 1 = \underline{\underline{e}}$$
 
 
 </div></div>
@@ -62,7 +62,7 @@ Når det blir produsert 40 enheter kan vi finne en tilnærmet verdi for grenseko
 
 Jeg forsøkte å legge en tangent i punktet, og fikk stigningstallet $a=\frac{9000}{120}=75$. 
 
-$\underline{\underline{K'(40)\approx 75 \, \mathrm{kr/enhet}}}$
+$$\underline{\underline{K'(40)\approx 75 \, \mathrm{kr/enhet}}}$$
 
 ### 1-2b
 Jeg vet at overskuddet blir størst når $O'(x)=I'(x)-K'(x)=0 \iff I'(x)=K'(x)$, altså når stigningstallene til inntektsfunksjonen og kostnadsfunksjonen er like store. 
@@ -107,7 +107,7 @@ b) Begge er 1
 ### 1-3a
 Siden summen av sannsynlighetene skal være lik 1 må
 
-$
+$$
 \begin{aligned}
 \sum P(X=x) &= 1\\
 k+0{,}3+k-0{,}2+0{,}1&=1\\
@@ -115,11 +115,11 @@ k+0{,}3+k-0{,}2+0{,}1&=1\\
 2k &=0{,}8\\
 k &= 0{,}4
 \end{aligned}
-$
+$$
 
 Dermed er:
 
-$P(X>1)=P(X=2)+P(X=3)=(0.4-0.2) + 0.1 = \underline{\underline{0,3}}$
+$$P(X>1)=P(X=2)+P(X=3)=(0.4-0.2) + 0.1 = \underline{\underline{0,3}}$$
 
 ### 1-3b
 |           $x$            |  0  |  1  |  2  |  3  | Sum |
@@ -179,7 +179,7 @@ Det ser ut til at eleven forsøker å regne ut delsummer av en aritmetisk rekke.
 ### 1-4b
 Vi kan finne summen av denne aritmetiske rekka med:
 
-$s_{100}= \frac{a_{1}+a_{100}}{2}\cdot 100 = \frac{3+(3+4\cdot 99)}{2}\cdot{100}=\frac{402}{2}\cdot {100}=\underline{\underline{20\,100}}$
+$$s_{100}= \frac{a_{1}+a_{100}}{2}\cdot 100 = \frac{3+(3+4\cdot 99)}{2}\cdot{100}=\frac{402}{2}\cdot {100}=\underline{\underline{20\,100}}$$
 
 
 </div></div>
@@ -210,11 +210,11 @@ Den første dagen får Knut tilført 7 mg virkestoff, andre dag så er mengden v
 
 På dag $n$ så vil derfor Knut ha den samlede mengden:
 
-$\sum_{i=0}^n 7\cdot 0{,}9^i$
+$$\sum_{i=0}^n 7\cdot 0{,}9^i$$
 
 Dette er en geometrisk rekke som konvergerer når $n\to \infty$, siden $-1<k<1$. Derfor kan vi finne summen av rekka med:
 
-$s_n = \frac{a_1}{1-k}=\frac{7}{1-0,9}=70$
+$$s_n = \frac{a_1}{1-k}=\frac{7}{1-0,9}=70$$
 
 Mengden virkestoff hos Knut vil aldri overstige 70 mg. **Legens påstand er riktig**.
 
@@ -259,12 +259,12 @@ c) A
 ### 1-6a
 Siden vi skal finne $P(X>600)$ og 600 ligger nøyaktig to standardavvik over forventningsverdien kan vi bare slå opp på $z=2.0$ i normalfordelingstabellen for å bestemme $P(X<600) = \Phi(2) = 0,9772$.
 
-$P(X>600) = 1-P(X<600) = 1-0,9772 = \underline{ \underline{0,0228}}$
+$$P(X>600) = 1-P(X<600) = 1-0,9772 = \underline{ \underline{0,0228}}$$
 
 ### 1-6b
 Sannsynligheten for at levetiden er *kortere* enn $t$ timer er 24,2 prosent. Jeg bruker normalfordelingstabellen og finner $\Phi(z) = 0,242 \implies z=-0,70$.
 
-$
+$$
 \begin{aligned}
 z &= \frac{t-\mu}{\sigma}\\
 z\sigma + \mu &\overset{ \rightleftarrows  }{ = } t\\
@@ -272,7 +272,7 @@ t &= -0,70\cdot 50 + 500\\
 t &= -35 + 500\\
 t &= 465
 \end{aligned}
-$
+$$
 
 **Det er 75,8 % sannsynlighet for at et tilfeldig valgt batteri har levetid mer enn 465 timer.**
 
@@ -320,22 +320,22 @@ b) Ja
 Annuitetslån har faste terminbeløp slik at lånebeløpet er lik produktet terminfaktoren multiplisert med terminbeløpet: $L=F\cdot T$.
 Vi kan beregne terminfaktoren $F$ ved:
 
-$
+$$
 \begin{aligned}
 F &= \frac{1-\frac{1}{v^n}}{v - 1}\\
 F &= \frac{1-\frac{1}{1,0049^{36}}}{1,0049 - 1}\\
 F &= 32,93\\
 \end{aligned}
-$
+$$
 
 Og terminbeløpet blir da
 
-$
+$$
 \begin{aligned}
 L &= F\cdot T\\
 T &= \frac{L}{F} = \frac{150\,000}{32,93}=\underline{\underline{4555,14}}
 \end{aligned}
-$
+$$
 
 **Terminbeløpet er 4555,14 kr.**
 
@@ -372,9 +372,9 @@ Tabellen nedenfor viser hvor mange millioner kroner som ble brukt på strømming
 
 Nedenfor ser du fire formler.
 
-$
+$$
 I=\int_{-0,5}^{10,5} F(x) \mathrm{d} x, \quad G=\frac{1}{5} \int_{2,5}^{7,5} F(x) \mathrm{d} x, \quad S=\sum_{i=0}^{10} F(i), \quad D=\frac{F(5,001)-F(5)}{0,001}
-$
+$$
 
 >[!oppgave]
 >b) Bestem $I, G, S$ og $D$.
@@ -391,7 +391,7 @@ Mange modeller og ulike tolkninger kan fungere. Se løsningsforslaget.
 ### 2-2a
 Jeg brukte regresjonsverktøyet i GeoGebra valgte den logistiske modellen:
 
-$\underline{\underline{F(x)=\frac{660{,}37}{1+30{,}72\,e^{-0{,}7066x}}}}$
+$$\underline{\underline{F(x)=\frac{660{,}37}{1+30{,}72\,e^{-0{,}7066x}}}}$$
 
 Logistiske funksjoner flater ut ved en horisontal asymptote (i dette tilfellet 660,37 millioner kr). Selv om det kanskje høres usannsynlig ut at markedet for musikkstrømming ikke kommer til å vokse, så tror jeg at nærmest all musikklytting *allerede* er blitt flyttet fra formater som CD og nedlasting, til strømming. Derfor er det usannsynlig veksten kommer til å fortsette i samme tempo. En logistisk modell har også asymptote ved $y=0$. Det stemmer også godt med at strømmemarkedet var svært lite (kanskje ikke-eksisterende?) i Norge før Spotify ble lansert i 2008.
 
@@ -404,14 +404,14 @@ Se utklippet fra CAS.
 
 ![](/img/user/_resources/s2-v23-del2-oppg-2b.png.png)
 
-$
+$$
 \begin{aligned}
 I&=3729,0\\
 G&=344,5\\
 S&=3729,1\\
 D&=116,3
 \end{aligned}
-$
+$$
 
 ### 2-2c
 $I$ beregner integralet under $F$ fra $x=-0.5$ til $x=10.5$. Dette gir en tilnærmingsverdi for de samlede inntektene fra musikkstrømming i Norge fra og med 2008 til og med 2018. De samlede inntektene er omtrent 3729 millioner kr.
@@ -475,21 +475,21 @@ Vi kan da behandle dette som et binomisk forsøk med $n=10$ og $p=0.5$.
 
 Vi kan beregne denne sannsynligheten enkelt i GeoGebra, eller med formelen:
 
-$
+$$
 P(X=6)=\binom{n}{k}\cdot p^k \cdot(1-p)^{n-k} = \frac{10!}{6!(10-6)!} \cdot {0}.5^6  \cdot 0.5^4= \underline{\underline{0{,}205}}
-$
+$$
 
 ### 2-3b
 Vi lar $p$ være sannsynligheten for at Marte klarer å gjette riktig og $X$, antall riktige gjetninger, er testobservator. 
 
 Det skal mye til at Marte er dårligere til å gjenkjenne colaene enn ved tilfeldig gjetting, og jeg er egentlig kun interessert i å finne ut om hun *bedre* enn tilfeldig gjetning. Derfor velger jeg en ensidig hypotesetest. Vi skal bruke signifikansnivået $\alpha=0{,}05$.
 
-$
+$$
 \begin{aligned}
 H_{0}&: \quad p=0.5 \\ 
 H_{1}&: \quad p>0,5 \\
 \end{aligned}
-$
+$$
 
 ![Bestemme $P(8\leq X)$ i GeoGebra](/img/user/_resources/s2-v23-del2-oppg-3b.png.png)
 
@@ -522,15 +522,15 @@ Jeg brukte sannsynlighetsverktøyet i GeoGebra og endret antallet, $n$, til 30. 
 
 Foreldrene til Hildegunn/David[^1] vil gi hen ukepenger. De gir hen to ulike tilbud. I tilbud 1 får hen 100 kroner den første uken. Beløpet $a_{n}$ som hen får i uke $n$, er gitt ved den rekursive formelen
 
-$
+$$
 a_{n}=a_{n-1}+10
-$
+$$
 
 I tilbud 2 får hen 100 kroner den første uken. Beløpet $b_{n}$ som hen får i uke $n$, er gitt ved den rekursive formelen
 
-$
+$$
 b_{n}=b_{n-1} \cdot 1,05
-$
+$$
 
 >[!oppgave]
 >a) Bestem det ukentlige beløpet hen får de fire første ukene med hvert av de to tilbudene.

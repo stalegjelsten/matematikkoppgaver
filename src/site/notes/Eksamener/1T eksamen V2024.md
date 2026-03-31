@@ -42,7 +42,7 @@ Tom har arbeidet med trekanten ovenfor og påstår at $\tan u \cdot \tan v = 1$
 
 Guri har utført to ulike polynomdivisjoner og påstår at begge divisjonene viser at faktoriseringen nedenfor er riktig.
 
-$2x^3 + 3x^2 - 11x - 6 = (2x^2 + 7x + 3) \cdot (x - 2)$
+$$2x^3 + 3x^2 - 11x - 6 = (2x^2 + 7x + 3) \cdot (x - 2)$$
 
 >[!oppgave]
 >Hvilke to polynomdivisjoner kan hun ha utført?
@@ -157,7 +157,7 @@ Tabellen nedenfor viser hvor mange bagetter en kantine har solgt hver av de sist
 
 >[!oppgave]
 >a) Bruk opplysningene ovenfor til å vise at funksjonen $O$ gitt ved
->$O(x) = -0{,}09x^2 + 51{,}04x - 2776{,}98$
+>$$O(x) = -0{,}09x^2 + 51{,}04x - 2776{,}98$$
 >er en god modell for hvor stort overskuddet en uke blir når kantinen produserer og selger $x$ bagetter i løpet av uken.
 >b) Hvor mange bagetter må kantinen produsere og selge i løpet av en uke, ifølge modellen $O$, for at overskuddet skal bli størst mulig? Hvor stort blir dette overskuddet?
 >c) Bestem stigningstallet til den rette linjen som går gjennom punktene $(100, O(100))$ og $(200, O(200))$. Gi en praktisk tolkning av svaret du får.
@@ -186,7 +186,7 @@ På figuren står linjen $m$ vinkelrett på vannoverflaten og lysstrålen går f
 
 Når lysstrålen går fra luft til vann, vil
 
-$\sin u = 1{,}33 \cdot \sin v$
+$$\sin u = 1{,}33 \cdot \sin v$$
 
 ![Lysstråle som brytes fra luft til vann med vinkler u og v](/img/user/_resources/1t-v24-2-2.jpeg)
 
@@ -242,13 +242,13 @@ Du får vite følgende om en trekant $ABC$
 
 I denne oppgaven skal du arbeide med summer av oddetall.
 
-$S_1 = 1$
-$S_2 = 1 + 3$
-$S_3 = 1 + 3 + 5$
-$S_4 = 1 + 3 + 5 + 7$
-$S_5 = 1 + 3 + 5 + 7 + 9$
-$S_6 = 1 + 3 + 5 + 7 + 9 + 11$
-$\ldots$
+$$S_1 = 1$$
+$$S_2 = 1 + 3$$
+$$S_3 = 1 + 3 + 5$$
+$$S_4 = 1 + 3 + 5 + 7$$
+$$S_5 = 1 + 3 + 5 + 7 + 9$$
+$$S_6 = 1 + 3 + 5 + 7 + 9 + 11$$
+$$\ldots$$
 
 >[!oppgave]
 >a) Lag et program som summerer og skriver ut summene $S_1$, $S_2$, $S_3$ … $S_{20}$
@@ -292,7 +292,7 @@ Når lufttrykket er lavere enn 1000 hPa, vil kokepunktet for vann være lavere e
 >[!oppgave]
 >a) Bestem en modell $K$ på formen
 >
->$K(x) = a \cdot x^b$
+>$$K(x) = a \cdot x^b$$
 >
 >som tilnærmet viser sammenhengen mellom lufttrykket $x$ hPa og kokepunktet $K(x)$ $\degree\mathrm{C}$.
 

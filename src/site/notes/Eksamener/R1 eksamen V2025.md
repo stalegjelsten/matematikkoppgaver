@@ -18,7 +18,7 @@
 >[!oppgave]
 >Deriver funksjonen $f$ gitt ved
 >
->$f(x) = e^{-2x} + \frac{1}{5}x^5 - 2\pi$
+>$$f(x) = e^{-2x} + \frac{1}{5}x^5 - 2\pi$$
 
 ## Fasit
 
@@ -100,20 +100,20 @@ Løs likningene
 Vi ser at nevneren går mot null når $x\to 3$, mens telleren går mot $3 \cdot (9-3)=3\cdot 6 = 18$. 
 
 La oss se hva som skjer når vi nærmer oss $3$ fra venstre side. Jeg velger $x=2{,}5$ for å få en følelse for tallene.
-$
-\frac{3(2{,}5^{2}-3)}{2{,}5-3}=\frac{3(6{,}25-3)}{-0{,}5}=\frac{3 \cdot 3{,}25}{-0{,}5} = -19{,}5$
+$$
+\frac{3(2{,}5^{2}-3)}{2{,}5-3}=\frac{3(6{,}25-3)}{-0{,}5}=\frac{3 \cdot 3{,}25}{-0{,}5} = -19{,}5$$
 Hvis vi hadde valgt en verdi nærmere $3$ ville fått et enda mer ekstremt negativt svar. 
-$
+$$
 \lim_{ x \to 3^{-} } \frac{3(x^{2}-3)}{x-3}= -\infty
-$
+$$
 
 Når vi nærmer oss 3 fra høyre side så får vi (vi velger 3,5)
-$
-\frac{3(3{,}5^{2}-3)}{3{,}5-3}=\frac{3(12{,}25-3)}{0{,}5}=\frac{3 \cdot 9{,}25}{0{,}5} \approx 55$
+$$
+\frac{3(3{,}5^{2}-3)}{3{,}5-3}=\frac{3(12{,}25-3)}{0{,}5}=\frac{3 \cdot 9{,}25}{0{,}5} \approx 55$$
 Hvis vi hadde valgt et tall nærmere 3 ville vi fått et enda mer ekstremt positivt svar.
-$
+$$
 \lim_{ x \to 3^{+} } \frac{3(x^{2}-3)}{x-3}= \infty
-$
+$$
 
 **Grenseverdien eksisterer ikke siden grenseverdiene fra venstre og høyre side ikke stemmer overens.**
 
@@ -133,7 +133,7 @@ $
 
 Funksjonen $f$ er gitt ved
 
-$f(x) = \begin{cases} x^2 + 2\text{,} \quad  & x < 0 \\ 2e^x\text{,} & x \ge 0 \end{cases}$
+$$f(x) = \begin{cases} x^2 + 2\text{,} \quad  & x < 0 \\ 2e^x\text{,} & x \ge 0 \end{cases}$$
 
 >[!oppgave]
 >a) Avgjør om $f$ er kontinuerlig i $x = 0$.
@@ -192,7 +192,7 @@ Nils flytter seg til et nytt punkt $M$. $M$ er det nærmeste punktet som er plas
 
 Teknologiselskapet PowBat skal lansere en ny batteriteknologi i en by med 3 millioner husstander. PowBat regner med at antallet husstander som har batteriet $t$ uker etter lanseringen, vil følge modellen $S$ gitt ved
 
-$S(t) = \frac{2\ 500\ 000}{1 + 2500 \cdot e^{-0{,}08t}}$
+$$S(t) = \frac{2\ 500\ 000}{1 + 2500 \cdot e^{-0{,}08t}}$$
 
 >[!oppgave]
 >a) Hvor lang tid vil det ta før halvparten av husstandene i byen har batteriet, ifølge modellen?
@@ -228,7 +228,7 @@ Etter å ha hørt om planene til BA3 antar PowBat at
 
 Funksjonen $f$ er gitt ved
 
-$f(x) = \frac{1}{3}x^3 - 2x^2 - 1$
+$$f(x) = \frac{1}{3}x^3 - 2x^2 - 1$$
 
 og har definisjonsmengden $I = [a, b]$ der $a, b \in \mathbb{R}$.
 
@@ -256,11 +256,11 @@ og har definisjonsmengden $I = [a, b]$ der $a, b \in \mathbb{R}$.
 
 Amalie arbeider med en funksjon $f$ med delt forskrift og skal vise funksjonsuttrykket til de andre i klassen. Dessverre har hun sølt på arket sitt og klarer ikke å lese alt som står der.
 
-$
+$$
 f(x) = \begin{cases} 
 -9x - 15\text{,} & x \le -2 \\ 
 \blacksquare\blacksquare\blacksquare\blacksquare \text{,} & -2 < x < 1 \\  
-\dfrac{x^2}{2} - x - \dfrac{7}{2}\text{,} \quad  & x \ge 1 \end{cases}$
+\dfrac{x^2}{2} - x - \dfrac{7}{2}\text{,} \quad  & x \ge 1 \end{cases}$$
 
 Hun husker at $f$ er kontinuerlig og deriverbar for alle $x \in \mathbb{R}$. Hun husker også at det midterste uttrykket er et tredjegradspolynom.
 
@@ -286,7 +286,7 @@ Hun husker at $f$ er kontinuerlig og deriverbar for alle $x \in \mathbb{R}$. Hun
 
 Posisjonen $\vec{r}$ til en fiskebåt $t$ timer etter at den drar fra land, er gitt ved
 
-$\vec{r}(t) = [1+5t,\ 4+8t]$
+$$\vec{r}(t) = [1+5t,\ 4+8t]$$
 
 Enhetene langs aksene er kilometer.
 

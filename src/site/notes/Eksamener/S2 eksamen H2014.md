@@ -19,13 +19,13 @@
 
 I koordinatsystemet ser du grafen til en kostnadsfunksjon $K$, markert med rødt på figuren. Det er også tegnet inn tre rette linjer. Disse har likningene
 
-$
+$$
 \begin{aligned}
 y&=4{,}46x\\
 y&=3{,}43x\\
 y&=2{,}06x+960
 \end{aligned}
-$
+$$
 
 To av linjene tangerer grafen til funksjonen $K(x)$ i henholdsvis $A$ og $B$.
 

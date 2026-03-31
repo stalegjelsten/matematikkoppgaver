@@ -17,9 +17,9 @@
 
 Nedenfor ser du hvor mange timer 10 ungdommer brukte på sosiale medier i løpet av en dag.
 
-$
+$$
 1   \qquad3   \qquad4   \qquad0   \qquad4   \qquad5   \qquad2   \qquad7   \qquad12   \qquad2
-$
+$$
 
 >[!oppgave]
 >Bestem gjennomsnittet og medianen.
@@ -78,6 +78,10 @@ Hun bestemmer seg for å gå 300 meter langs en av de rette gatene i byen. Etter
 >Forklar og vis Astrid hvordan hun kan finne målestokken til kartet.
 
 ## Fasit
+1:15000
+
+## Løsningsforslag
+Hvis $2 \mathrm{~cm}$ på kartet tilsvarer 300 meter så må 1 cm tilsvare 150 meter eller 15 000 cm. Da er målestokken 1 : 15 000.
 
 
 </div></div>
@@ -100,6 +104,31 @@ Elevene i 2STA kjøpte 30 ispinner og 30 bokser med mineralvann til en sommeravs
 >Hvor mye kostet en ispinne, og hvor mye kostet en boks med mineralvann?
 
 ## Fasit
+
+Is: 12 kr  
+Mineralvann: 18 kr
+
+## Løsningsforslag
+
+Det er lurt å løse dette som et likningssystem. La $i$ være antall ispinner og $m$ være antall bokser mineralvann. Da er
+$$
+\begin{bmatrix}
+\quad 30i + 30m = 900 \quad  \\
+i+6=m
+\end{bmatrix}
+$$
+Vi har to likninger med 2 ukjente. Det ser enkelt ut å bruke innsettingsmetoden med $m=i+6$ i den andre likningen.
+$$
+\begin{aligned}
+30i+30\left( i+6 \right) &=900  \\
+i+(i+6)&=30 \\
+2i+6&=30 \\
+2i &= 24 \\
+i &= 12 \\
+m &= i+6=12+6=18
+\end{aligned}
+$$
+**En ispinne kostet 12 kroner og en boks mineralvann kostet 18 kroner.**
 
 
 </div></div>
@@ -133,9 +162,9 @@ Nora skal kjøpe bagetter.
 - 48 kroner for 4 bagetter betyr at hver bagett koster 12 kroner.
 
 For å regne den prosentvise forskjellen kan vi sammenligne differansen mellom de to tilbudene og den dyreste prisen.
-$ 
+$$ 
 \frac{\text{differanse}}{\text{det vi sammenligner med}}=\frac{16-12}{16}=\frac{4}{16}=\frac{1}{4}=25 \,\% 
-$
+$$
  
 **Prisen per bagett blir 25 % lavere dersom hun kjøper 4 istedenfor 2 bagetter.**
 
@@ -194,17 +223,17 @@ I juni øker økningen med enda 5 prosentpoeng til 45 %. Antall følgere i juni 
 
 ### 2-4c
 Vi kan bruke modellen $f(x)=5244 \cdot 1{,}35^{x}$ til å beregne hvor mange følgere hun har i august med 35 % økning. August tilsvarer $x=9$
-$
+$$
 f(9)=5244 \cdot 1{,}35^9=78 \,922
-$
+$$
 
 Dersom Tuva klarer å holde målet sitt med 5 prosentpoeng økning vil hun i juli ha
 $48 \, 736 \cdot 1{,}50=73 \, 104$ følgere, og i august $73 \, 104 \cdot 1{,}55=113 \, 311$ følgere.
 
 Vi finner den prosentvise forskjellen
-$
+$$
 \frac{113 \,311-78\,922}{78\,922} = \frac{34 \,389}{78\,922}=43{,}6 \,\%
-$
+$$
 **Tuva vil ha 43,6 % flere følgere i august om hun klarer å nå det nye målet sitt.**
 
 
@@ -274,9 +303,9 @@ Solveig har et mye lavere standardavvik enn Miriam, nesten 2 timer eller kun$\fr
 Den kumulative frekvensen for turer på 5 timer er 14, og den kumulative frekvensen for turer på 3 timer er 11. De har ikke gått noen turer sammen på 4 timer.
 
 Siden kumulativ frekvens er summen av alle frekvenser for observasjoner som er mindre eller lik den aktuelle observasjonen, kan vi finne frekvensen for antall turer på 5 timer slik:
-$
+$$
 14-11=3
-$
+$$
 
 Ifølge datamaterialet i starten av oppgaven har Solveig gått 4 turer på 8 timer. Ifølge de kumulative frekvensene i tabellen har de to venninnene vært på $17-14=3$ turer sammen på 8 timer. Solveig har altså gått en skitur på 8 timer alene, og 3 sammen med Miriam.
 
@@ -328,19 +357,19 @@ Søylen mellom 100 og 150 minutter har høyde 2, altså er frekvensen $2 \cdot 5
 
 ### Påstand 3
 Det er 80 elever som vi kan regne med at har brukt 20 minutter i gjennomsnitt (siden 20 ligger midt i intervallet $[0,40\rangle$). Det er 120 elever som i gjennomsnitt har brukt 50 minutter. Til sammen har disse elevene brukt
-$
+$$
 80 \cdot 20 + 120 \cdot 50 = 1600 + 6000= 7600 \text{ minutter}
-$
+$$
 Hvis vi fordeler tiden på de 200 elevene får vi gjennomsnittet
-$
+$$
 \frac{7600 \text{ min}}{200 \text{ elever}}=\underline{\underline{38}} \text{ min per elev}
-$
+$$
 
 ### Påstand 4
 Medianeleven blant de som brukte under 60 minutter er omtrent elev nummer 100. Siden det er 80 elever i det første intervallet, så må vår medianelev være elev nummer 20 av 120 i det andre intervallet. Med andre ord finner vi medianen vår $\frac{20}{120}=\frac{1}{6}$ ut i intervallet. For å finne ut hvor mange minutter dette tilsvarer så kan jeg ta bredden av intervallet og gange med $\frac{1}{6}$
-$
+$$
 20 \cdot \frac{1}{6}=3{,}33
-$
+$$
 Medianen vil være 3,33 minutter over bunnen av intervallet vårt, altså ved $40+3{,}33=43{,}33$ minutter. **Medianen 43,33 minutter er altså høyere enn gjennomsnittet på 38 minutter.**
 
 
@@ -362,7 +391,7 @@ Sara og Ole jobber med å løse likningssystemer.
 
 For å prøve å løse likningssystemet
 
-$\begin{bmatrix} 4x = -12 + y \\ 2x + 24 - y = 2x^2 \end{bmatrix}$
+$$\begin{bmatrix} 4x = -12 + y \\ 2x + 24 - y = 2x^2 \end{bmatrix}$$
 
 har Sara laget programmet nedenfor.
 
@@ -389,7 +418,7 @@ Jeg har funnet løsningen x = 2 og y = 20
 
 Ole arbeider med likningssystemet
 
-$\begin{bmatrix} 2x = y - 8 \\ x^2 + x - 48 = y \end{bmatrix}$
+$$\begin{bmatrix} 2x = y - 8 \\ x^2 + x - 48 = y \end{bmatrix}$$
 
 >[!oppgave]
 >b) Hvilke endringer må Ole gjøre i programmet til Sara for å finne løsningene på likningssystemet han arbeider med?
@@ -474,7 +503,7 @@ Johannes lurer på hvordan han kan finne ut hvor mye en rente på $5{,}49 \,\%$ 
 > [!info] Månedsrente til årsrente
 > En rente på $1{,}5 \%$ per måned tilsvarer en rente på $19{,}56 \,\%$ per år. Regnestykket blir
 >
-> $(1+0{,}015)^{12} = 1{,}1956$
+> $$(1+0{,}015)^{12} = 1{,}1956$$
 
 >[!oppgave]
 >b) Forklar utregningen som er gjort ovenfor, og vis hvordan du kan bruke en likning for å regne ut hvor mye en rente på $5{,}49 \,\%$ per år tilsvarer per måned.

@@ -17,7 +17,7 @@
 
 En funksjon $f$ er gitt ved
 
-$f(x) = \frac{12x-3}{2x+1}$
+$$f(x) = \frac{12x-3}{2x+1}$$
 
 >[!oppgave]
 >Bestem likningene for eventuelle asymptoter til grafen til $f$.
@@ -42,7 +42,7 @@ $f(x) = \frac{12x-3}{2x+1}$
 >[!oppgave]
 >Løs ulikheten
 >
->$x^2 - 4x - 12 < 0$
+>$$x^2 - 4x - 12 < 0$$
 
 ## Fasit
 
@@ -76,23 +76,23 @@ For eksempel $f(x)=x^{2}+6x+9$ eller $f(x)=x^{2}-6x+9$.
 - Grafen skal skjære i $(0,9)$ → $a$ må være positiv og $f(0)=9$
 
 Vi setter opp det generelle uttrykket.
-$
+$$
 f(x)=ax^{2}+bx+c
-$
+$$
 Siden diskriminanten må være null kan vi utnytte at $b^{2}=4ac$ og forenkle. Vi er kun ute etter en mulig løsning her, så jeg bruker kvadratroten slik at $b=\sqrt{ 4ac }$
-$
+$$
 f(x)=ax^{2}+\sqrt{ 4ac }x+c
-$
+$$
 Vi utnytter at $f(0)=9$ som gir oss
-$a \cdot 0^{2}+ \sqrt{ 4ac } \cdot 0+c=9 \implies \underline{c=9}$
+$$a \cdot 0^{2}+ \sqrt{ 4ac } \cdot 0+c=9 \implies \underline{c=9}$$
 Vi har altså
-$
+$$
 f(x)=ax^{2}+\sqrt{ 4a \cdot9 }x +9=ax^{2}+\sqrt{ 36a }x+9=ax^{2}+6\sqrt{ a }x+9
-$
+$$
 Den enkleste løsningen her vil være $a=1$ slik at funksjonen vår blir:
-$
+$$
 \underline{\underline{ f(x)=x^{2}+6x+9 }}
-$
+$$
 
 
 
@@ -113,11 +113,11 @@ $
 >[!oppgave]
 >a) Løs likningen
 >
->$x^3 - 7x^2 - 10x + 16 = 0$
+>$$x^3 - 7x^2 - 10x + 16 = 0$$
 
 Funksjonen $f$ er gitt ved
 
-$f(x) = x^3 - 7x^2 - 10x + 16$
+$$f(x) = x^3 - 7x^2 - 10x + 16$$
 
 >[!oppgave]
 >b) Hvilken av grafene nedenfor kan være grafen til $f$? Husk å begrunne svaret.
@@ -175,7 +175,7 @@ Gitt en trekant $PQR$ der $PQ = 8$, $PR = 3$ og $\angle P = 60\degree$
 
 Kari arbeider med algebraiske uttrykk, likninger og identiteter. Hun prøver å løse likningen
 
-$x^2 - 4 = (x+2)(x-2)$
+$$x^2 - 4 = (x+2)(x-2)$$
 
 i et CAS-verktøy og får resultatet $x = x$. Se nedenfor.
 
@@ -255,7 +255,7 @@ La $x$ være antall måneder etter desember 2022, det vil si at $x = 1$ tilsvare
 >[!oppgave]
 >a) Bruk opplysningene ovenfor til å vise at funksjonen $K$ gitt ved
 >
->$K(x) = 27{,}8 \cdot 1{,}2^x$
+>$$K(x) = 27{,}8 \cdot 1{,}2^x$$
 >
 >er en god modell for antall registrerte tilfeller av kikhoste i Norge i perioden januar 2023–oktober 2024.
 >b) Bestem stigningstallet til den rette linjen som går gjennom punktene $(4, K(4))$ og $(21, K(21))$. Gi en praktisk tolkning av svaret du får.
@@ -428,11 +428,11 @@ Isabel er industridesigner. Hun arbeider med et design på bokser med form som s
 
 Formel for å regne ut volumet av en boks med radius $r$ og høyde $h$
 
-$V = \pi \cdot r^2 \cdot h$
+$$V = \pi \cdot r^2 \cdot h$$
 
 Formel for å regne ut arealet av overflaten av boksen
 
-$O = \pi \cdot r^2 + 2 \cdot \pi \cdot r \cdot h$
+$$O = \pi \cdot r^2 + 2 \cdot \pi \cdot r \cdot h$$
 
 ![Sylindrisk boks](/img/user/_resources/1t-v25-2-5.jpeg)
 

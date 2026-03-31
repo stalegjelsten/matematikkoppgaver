@@ -33,4 +33,6 @@ Vi kan bruke modellen for å finne ut hvor mange fiskere det vil være i 1950. V
 
 ![Beregning av antall fiskere i 2050](/img/user/_resources/1t-h23-2-4-beregning.png)
 
-**Det er omtrent 3645 fiskere i 2050 ifølge modellen vår.**
+Det er vanskelig å vurdere gydligheten til denne modellen. Jeg vurderer at vi ikke bør bruke den lenger fram i framtida enn 2050. For eksempel er det kun 854 fiskere igjen i 2100 ifølge modellen. Det høres lite ut. Et fornuftig gyldighetsområde kan være $x \in \left[ 0,100 \right]$.
+
+**Det er omtrent 3645 fiskere i 2050 ifølge modellen vår. Jeg vurderer at modellen er gyldig fra 1950 til 2050.**

@@ -37,9 +37,9 @@ b) Påstand 2 er riktig: prisen vil stige med mindre enn $5 \,\%$ hvert år.
 
 ### 1-1a
 
-$
+$$
 \frac{42}{40}=\frac{105}{100}=1{,}05
-$
+$$
 
 En økning på én til én komma null fem svarer til en økning på 5 %.
 
@@ -49,9 +49,9 @@ En økning på én til én komma null fem svarer til en økning på 5 %.
 
 Anta at prisen fortsetter å stige med 2 kr hvert år. Det andre året blir prisen
 
-$
+$$
 42 \cdot 1{,}05 = 44{,}1
-$
+$$
 
 Dette er en økning på 2,1 kr. For hvert år vil den absolutte stigningen i kroner bli større enn 2 kr, siden prisen øker. Men prosentvis vekst = 2 kr / stigende pris, som gir en stadig lavere prosent.
 
@@ -84,9 +84,9 @@ Graf av $f(x) = \frac{6}{x}$ (omvendt proporsjonal kurve).
 
 Solveig har 6 kg deig som skal fordeles likt mellom $x$ personer. Mengden deig per person er
 
-$
+$$
 f(x) = \frac{6}{x}
-$
+$$
 
 Nedenfor ser du en grafisk framstilling av sammenhengen:
 
@@ -147,13 +147,13 @@ Til sammen har altså 4 elever nøyaktig 1 søsken.
 
 Siden den kumulative frekvensen for to søsken er 16, gjelder:
 
-$
+$$
 \underbrace{4}_{\text{1 søsken}} + \underbrace{0{,}4 \cdot x}_{\text{2 søsken}} = 16
-$
+$$
 
-$
+$$
 0{,}4 \cdot x = 12 \implies x = 30
-$
+$$
 
 **Det er $\underline{\underline{30 \text{ elever}}}$ i klassen.**
 
@@ -200,9 +200,9 @@ Figur 1 har 5 sirkler, figur 2 har 9 sirkler, figur 3 har 13 sirkler. For hver n
 
 Figur 1 har 5 sirkler, og for hver ny figur øker antallet med 4. Dette er en aritmetisk rekke med første ledd $a_1 = 5$ og differanse $d = 4$:
 
-$
+$$
 a_n = a_1 + (n-1) \cdot d = 5 + (n-1) \cdot 4 = 5 + 4n - 4 = 4n + 1
-$
+$$
 
 **Antall sirkler i figur $n$ er $\underline{\underline{4n + 1}}$.**
 
@@ -235,15 +235,15 @@ $2{,}6 \cdot 10^{12} \, \mathrm{kg}$
 
 Hver person spiser 91 kg hvert år og det er 2,86 milliarder mennesker. Altså spiser de hvert år
 
-$
+$$
 91 \, \mathrm{kg} \cdot 2{,}86 \cdot 10^{9}= 2{,}6026 \cdot 10^{11} \, \mathrm{kg}
-$
+$$
 
 I løpet av 10 år blir mengden
 
-$
+$$
 2{,}6026 \cdot 10^{11} \, \mathrm{kg} \cdot 10 = 2{,}6026 \cdot 10^{11} \cdot 10^{1} \, \mathrm{kg} \approx 2{,}6 \cdot 10^{12} \, \mathrm{kg}
-$
+$$
 
 **De spiser omtrent $\underline{\underline{2{,}6 \cdot 10^{12} \, \mathrm{kg}}}$ ris i løpet av 10 år.**
 
@@ -275,15 +275,15 @@ $2{,}6\cdot 10^{12}$
 
 Hver person spiser 91 kg hvert år og det er 2,86 milliarder mennesker. Altså spiser de hvert år
 
-$
+$$
 91 \, \mathrm{kg} \cdot 2{,}86 \cdot 10^{9}= 2{,}6026 \cdot 10^{11} \, \mathrm{kg}
-$
+$$
 
 I løpet av 10 år blir mengden
 
-$
+$$
 2{,}6026 \cdot 10^{11} \, \mathrm{kg} \cdot 10 = 2{,}6026 \cdot 10^{11} \cdot 10^{1} \, \mathrm{kg} \approx 2{,}6 \cdot 10^{12} \, \mathrm{kg}
-$
+$$
 
 **De spiser omtrent $\underline{\underline{2{,}6 \cdot 10^{12} \, \mathrm{kg}}}$ ris i løpet av 10 år.**
 
@@ -316,21 +316,21 @@ Det skjulte tallet er 2, og gjennomsnittet er nøyaktig 4 – Tores antakelse st
 
 Tore spurte 12 kolleger. De synlige verdiene fra arket er:
 
-$
+$$
 4, \; 5, \; 0, \; 4, \; 2, \; 6, \; ?, \; 5, \; 7, \; 5, \; 5, \; 3
-$
+$$
 
 Summen av de 11 kjente verdiene er
 
-$
+$$
 4+5+0+4+2+6+5+7+5+5+3 = 46
-$
+$$
 
 For at gjennomsnittet skal være **nøyaktig 4** med 12 verdier, må totalsummen være $4 \cdot 12 = 48$. Det skjulte tallet er altså
 
-$
+$$
 48 - 46 = 2
-$
+$$
 
 Med det skjulte tallet lik 2 blir gjennomsnittet $\frac{48}{12} = 4$ – **nøyaktig 4, ikke mer enn 4**.
 
@@ -373,21 +373,21 @@ La prisen for begge varer i mai være $P$.
 
 **Vare A i august** (tre måneder etter mai):
 
-$
+$$
 P \cdot 1{,}07^3 = P \cdot 1{,}225
-$
+$$
 
 **Vare B i februar** (tre måneder før mai): vi går tre måneder bakover fra mai. Siden B synker med 7 % per måned, betyr å gå bakover i tid at vi deler på $0{,}93$ per måned:
 
-$
+$$
 \frac{P}{0{,}93^3} = P \cdot \frac{1}{0{,}8044} \approx P \cdot 1{,}243
-$
+$$
 
 Vi sammenligner:
 
-$
+$$
 1{,}07^3 \approx 1{,}225 \qquad \text{og} \qquad \frac{1}{0{,}93^3} \approx 1{,}243
-$
+$$
 
 Disse er ikke like: $1{,}225 \neq 1{,}243$.
 
@@ -507,9 +507,9 @@ Vi regner med at alle i hvert intervall tjener midtpunktet i intervallet (midtpu
 | $\langle 1000 - 2000 \rangle$| 1 500    | 15       | 22 500               |
 | **Totalt**                  |           | **146**  | **83 975**           |
 
-$
+$$
 \bar{x} = \frac{83\,975}{146} \approx 575 \text{ (tusen kr)}
-$
+$$
 
 **Gjennomsnittslønnen er omtrent $\underline{\underline{575\,000 \, \mathrm{kr}}}$.**
 
@@ -521,9 +521,9 @@ Medianen er den midterste verdien. Med 146 ansatte er medianen mellom den 73. og
 
 Vi interpolerer i intervallet $\langle 450, 500 \rangle$:
 
-$
+$$
 450 + \frac{73{,}5 - 50}{40} \cdot 50 = 450 + \frac{23{,}5}{40} \cdot 50 \approx 450 + 29 = 479 \text{ (tusen kr)}
-$
+$$
 
 **Medianlønnen er omtrent $\underline{\underline{479\,000 \, \mathrm{kr}}}$.**
 
@@ -551,9 +551,9 @@ Medianen på 479 000 kr påvirkes ikke av de høye lønningene, og gir et mer re
 # Eksponentialfunksjon for tomflasker
 
 I august 2022 satte elevene i 3PBB seg som mål å samle inn tomflasker for 25 000 kroner før 1. juni 2023. De brukte funksjonen $P$ gitt ved 
-$
+$$
 P(x)=1600 \cdot 1{,}045^{x} \quad , \quad 0\leq x\leq 9
-$
+$$
 som en modell for hvor stort beløp kroner de måtte samle inn hver måned for å nå målet. 
 
 I modellen svarte $x=0$ til august, $x=1$ til september og så videre. 
@@ -602,9 +602,9 @@ Funksjonen $P(x) = 1600 \cdot 1{,}045^x$ beskriver planen slik:
 
 Mai svarer til $x = 9$:
 
-$
+$$
 P(9) = 1600 \cdot 1{,}045^9 \approx 1600 \cdot 1{,}486 \approx 2378 \, \mathrm{kr}
-$
+$$
 
 **Ifølge modellen regnet elevene med å samle inn ca. $\underline{\underline{2378 \, \mathrm{kr}}}$ i mai 2023.**
 
@@ -644,7 +644,7 @@ Nedenfor ser du noen resultater fra perioden januar–mai.
 
 >[!oppgave]
 >a) Bestem en modell på formen
->$P(x) = a \cdot x^b$
+>$$P(x) = a \cdot x^b$$
 >som kan brukes for å beskrive sammenhengen mellom ukenummer og antall registrerte porsjoner.
 
 >[!oppgave]
@@ -671,9 +671,9 @@ Vi bruker potensregresjon på dataene:
 
 Regresjonsanalysen gir modellen
 
-$
+$$
 P(x) = 2060 \cdot x^{0{,}64}
-$
+$$
 
 Modellen passer svært godt til dataene ($R^2 \approx 1{,}00$):
 
@@ -685,17 +685,17 @@ Modellen passer svært godt til dataene ($R^2 \approx 1{,}00$):
 
 Stigningstallet til sekanten gjennom $(1, P(1))$ og $(20, P(20))$:
 
-$
+$$
 P(1) = 2060 \cdot 1^{0{,}64} = 2060
-$
+$$
 
-$
+$$
 P(20) = 2060 \cdot 20^{0{,}64} \approx 14\,009
-$
+$$
 
-$
+$$
 a = \frac{P(20) - P(1)}{20 - 1} = \frac{14\,009 - 2060}{19} \approx 629
-$
+$$
 
 **Stigningstallet er omtrent $\underline{\underline{629 \text{ porsjoner per uke}}}$.**
 
@@ -705,13 +705,13 @@ Det betyr at antall registrerte porsjoner økte i gjennomsnitt med ca. 629 per u
 
 Stigningstallet til tangenten i $(6, P(6))$ er den deriverte $P'(6)$:
 
-$
+$$
 P'(x) = 2060 \cdot 0{,}64 \cdot x^{0{,}64 - 1} = 1318{,}4 \cdot x^{-0{,}36}
-$
+$$
 
-$
+$$
 P'(6) = 1318{,}4 \cdot 6^{-0{,}36} \approx 692
-$
+$$
 
 **Stigningstallet til tangenten i uke 6 er omtrent $\underline{\underline{692 \text{ porsjoner per uke}}}$.**
 

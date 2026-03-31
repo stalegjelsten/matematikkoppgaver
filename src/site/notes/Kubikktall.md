@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-29","modified":"2024-05-29","aliases":null,"dg-publish":true,"temaer":["rekursiv sammenheng","figurtall","programmering"],"fag":["s2","r2"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":4},{"fag":"r2","del":2,"oppgave":4}],"title":"Kubikktall","source":null,"todo":null,"status":3,"permalink":"/kubikktall/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-29","modified":"2024-05-29","aliases":null,"temaer":["rekursiv sammenheng","figurtall","programmering"],"fag":["s2","r2"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":4},{"fag":"r2","del":2,"oppgave":4}],"title":"Kubikktall","source":null,"todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2024-05-29","modified":"2026-03-31","aliases":null,"dg-publish":true,"temaer":["rekursiv sammenheng","figurtall","programmering"],"fag":["s2"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":4}],"title":"Kubikktall","source":null,"todo":null,"status":3,"permalink":"/kubikktall/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-29","modified":"2026-03-31","aliases":null,"temaer":["rekursiv sammenheng","figurtall","programmering"],"fag":["s2"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":4}],"title":"Kubikktall","source":null,"todo":null,"status":3}}
 ---
 
 
@@ -343,11 +343,11 @@
 </svg>
 
 
-De fem første kubikktallene er $1^{3}, 2^{3}, 3^{3}, 4^{3}$ og $5^{3}$, se figuren over. La $S_{n}$ være summen av de $n$ første kubikktallene. 
+De fem første kubikktallene er $1^{3}, 2^{3}, 3^{3}, 4^{3}$ og $5^{3}$, se figuren over. La $S_{n}$ være summen av de $n$ første kubikktallene.
 
 >[!oppgave]
 >a) Beskriv den rekursive sammenhengen mellom $S_{n}$ og $S_{n+1}$. Bestem en eksplisitt formel for $S_{n}$.
->b) Lag et program som regner ut den rekursive sammenhengen du fant i oppgave a.
+>b) Lag et program som regner ut $S_{50}$ ved å bruke den rekursive sammenhengen du fant i oppgave a.
 
 ## Fasit
 
@@ -373,7 +373,7 @@ $$
 \underline{\underline{S_{n+1}=S_{n}+(n+1)^{3}}}
 $$
 
-For å bestemme en eksplisitt formel brukte jeg regresjon i GeoGebra. 
+For å bestemme en eksplisitt formel brukte jeg regresjon i GeoGebra.
 
 ![](/img/user/_resources/s2-v24-2-4a.png)
 
@@ -413,18 +413,18 @@ print(S)
 >	    \foreach \x in {0,...,\smallCube}
 >	        \foreach \y in {0,...,\smallCube}
 >	            \draw[thick] (\x*\cubesize, \y*\cubesize, 0) -- ++(\cubesize,0,0) -- ++(0,\cubesize,0) -- ++(-\cubesize,0,0) -- cycle;
->	
+>
 >	    % Draw the horizontal connections on the right face
 >	    \foreach \y in {0,...,\cube}
 >	        \foreach \z in {0,...,\smallCube}
 >	            \draw[thick] (\cube*\cubesize, \y*\cubesize, -\z*\cubesize) -- ++(0, 0, -\cubesize);
 >	    \foreach \x in {0,...,\smallCube}
 >	        \draw[thick] (\x*\cubesize,\cube*\cubesize,0) -- ++(0,0,-\cube);
->	
+>
 >		% draw all horizontal lines on top
 >		\foreach \z in {1,...,\cube}
 >			\draw[thick] (0,\cube*\cubesize,-\z*\cubesize) -- ++({\cube*\cubesize}, 0, 0);
->		
+>
 >		\foreach \z in {1,...,\cube}
 >			\draw[thick] (\cube,0,-\z*\cubesize) -- (\cube*\cubesize,\cube*\cubesize,-\z*\cubesize);
 >        \end{scope}

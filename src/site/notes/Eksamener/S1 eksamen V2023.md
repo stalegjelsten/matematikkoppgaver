@@ -18,9 +18,9 @@
 
 Skriv så enkelt som mulig
 
-$
+$$
 \frac{\left( 2ab^{-1} \right)^3 \cdot \left( a^2b^{-2} \right)^{-1}  }{4a^2b^{-3}} 
-$
+$$
 
 ## Fasit
 
@@ -28,9 +28,9 @@ $\frac{2b}{a}$
 
 ## Løsningsforslag
 
-$
+$$
 \frac{\left( 2ab^{-1} \right)^3 \cdot \left( a^2b^{-2} \right)^{-1}  }{4a^2b^{-3}} = \frac{2^3a^3b^{-1\cdot3}a^{2\cdot(-1)}b^{(-2)\cdot(-1)}a^{-2}b^{3}}{4}=\frac{8}{4}\cdot a^{(3-2-2)}\cdot b^{(-3+2+3)}=\underline{\underline{\frac{2b^2}{a}}}
-$
+$$
 
 
 </div></div>
@@ -49,9 +49,9 @@ $
 
 Deriver funksjonen $f$ gitt ved
 
-$
+$$
 f(x)=x\cdot \ln x
-$
+$$
 
 ## Fasit
 
@@ -61,9 +61,9 @@ $\ln(x)+1$
 
 Bruker produktregelen med $u=x, v=\ln x$.
 
-$
+$$
 f'(x)=(u'\cdot v+u\cdot v')=1\cdot \ln x+\cancelto{ 1 }{ x\cdot \frac{1}{x} }=\underline{\underline{\ln x + 1}}
-$
+$$
 
 
 </div></div>
@@ -82,9 +82,9 @@ $
 
 Bestem grenseverdien
 
-$
+$$
 \lim_{ x \to 2 } \frac{x^3-8}{x^2-4}
-$
+$$
 
 ## Fasit
 
@@ -94,9 +94,9 @@ $
 
 Ser at både teller og nevner går mot null når $x\to 2$. Vi kan derfor bruke L'Hopitals regel. 
 
-$
+$$
 \lim_{ x \to 2 } \frac{f(x)}{g(x)} = \lim_{ x \to 2 } \frac{f'(x)}{g'(x)}=\lim_{ x \to 2 }  \frac{3x^2}{2x}=\lim_{ x \to 2 } \frac{3x}{2}=\frac{3\cdot2}{2}=\underline{\underline{3}}
-$
+$$
 
 
 </div></div>
@@ -129,24 +129,24 @@ b) $\frac{22}{35}$
 ### 1-4a
 Dette er et hypergeometrisk forsøk siden vi har to typer objekter og skal trekke $k_{1}=2$ av den ene typen og $k_{2}=1$ av den andre typen
 
-$
+$$
 \frac{ \binom{n_{1}}{k_{1}}\binom{n_{2}}{k_{2}}}{\binom{n}{k}} = \frac{ \binom{3}{2}\binom{4}{1}}{\binom{7}{3}} = \frac{\frac{3!}{2!\cdot 1!}\cdot4}{\frac{7!}{3!\cdot4!}}=\frac{3\cdot4}{\frac{7\cdot6\cdot 5}{3\cdot2}}=\frac{12\cdot3\cdot2}{210}=\frac{72}{210}=\frac{12}{35}
-$
+$$
 
 ### 1-4b
 La $X$ være antall hvite kuler. Da er 
 
-$P(X\geq 2)=1-P(X\leq 1)=1-\left( P(X=1) +P(X=0)\right)$
+$$P(X\geq 2)=1-P(X\leq 1)=1-\left( P(X=1) +P(X=0)\right)$$
 
 Vi har allerede bestemt sannsynligheten for $P(X=1)=\frac{12}{35}$ i oppgave a).
 
-$
+$$
 P(X=0)=\frac{3}{7}\cdot \frac{2}{6}\cdot \frac{1}{5} = \frac{3\cdot 2}{7\cdot6\cdot 5}=\frac{6}{210}=\frac{1}{35}
-$
+$$
 
-$
+$$
 P(X\geq 2)=1-\left(  \frac{12}{35}+\frac{1}{35} \right)=1- \frac{13}{35}=\underline{\underline{\frac{22}{35}}}
-$
+$$
 
 
 </div></div>
@@ -165,9 +165,9 @@ $
 
 For en bedrift er kostnaden $K$ i kroner ved produksjon av $x$ enheter per uke av en varetype gitt ved
 
-$
+$$
 K(x)=0{,}2x^2+140x+7000
-$
+$$
 
 Bedriften har laget følgende program.
 
@@ -242,21 +242,21 @@ d) Omtrent 2,19 %
 ### 2-1a
 Timelønna har vokst med $340{,}10-272{,}55=67{,}55$ kr i løpet av disse 14 årene. Vi kan sette opp dette uttrykket for å bestemme vekstfaktoren $x$
 
-$
+$$
 \begin{aligned}
 272{,}55\cdot x^{14} &= 340{,}10\\
 x &= \sqrt[14]{ \frac{340{,}10}{272{,}55} }\\
 x &=1{,}01594
 \end{aligned}
-$
+$$
 
 **Den gjennomsnittlige årlige prosentvise økninga har vært 1,59 %.**
 
 ### 2-1b
 Jeg brukte regresjon i GeoGebra og fant at en god eksponentialmodell for lønnsveksten er 
 
-$
-g(x)=277{,}8\cdot 1{,}0155$
+$$
+g(x)=277{,}8\cdot 1{,}0155$$
 ![](/img/user/_resources/s1-v23-2-1-b.png)
 ### 2-1c
 Hvis man skal regne Per sin lønn riktig så må man egentlig vite lønna hvert år og summere opp årslønnene som ei rekke. Jeg bruker heller modell $g$ som en tilnærming til Pers lønn.
@@ -326,15 +326,15 @@ Påstanden er feil
 
 $(\ln x)^4$ er det samme som $\ln x \cdot \ln x \cdot \ln x \cdot \ln x$, og dette er ikke nødvendigvis det samme som $4 \ln x$. Som et konkret moteksempel lar vi $x=e$.
 
-$
+$$
 (\ln x)^4 =(\ln e)^4=1^4=1
-$
+$$
 
 Hvis vi sjekker $4 \ln x$ får vi
 
-$
+$$
 4 \ln x = 4 \ln e=4\cdot1=4
-$
+$$
 
 **$(\ln x)^4 \neq 4 \ln x$. Påstanden er ikke riktig.**
 
@@ -411,21 +411,21 @@ Påstanden stemmer
 
 La den stokastiske variabelen $X_{1}$ være resultatet av første trekning fra de 34 tallene. Sannsynligheten for hvert tall er like stor. Det er 17 tall som er mindre enn 18, altså
 
-$
+$$
 P(X_{1}<18)=\frac{17}{34}=\frac{1}{2}
-$
+$$
 
 La den stokastiske variabelen $X_2$ være resultatet av andre trekning fra de 33 tallene. $P(X_{2}<18)=\frac{16}{33}$. For hvert tall vi trekker vil tallene i teller og nevner reduseres med 1. 
 
 Vi får det samme mønsteret for at ingen tall er mindre enn 18. 
 Sannsynligheten for tallet ikke er mindre enn 18 er gitt ved
 
-$
+$$
 \begin{aligned}
 P(X_{1}\geq 18)&=\frac{17}{34}=\frac{1}{2}\\
 P(X_{2}\geq18)&= \frac{16}{33}
 \end{aligned}
-$
+$$
 
 Mønsterne vil utvikle seg på samme måte.
 
@@ -513,9 +513,9 @@ Siden jeg allerede var igang med programmering så programmerte jeg denne også.
 
 Sammenhengen mellom lydstyrken $L$ (målt i dB) og lydintensiteten $I$ (målt i $\mathrm{W} / \mathrm{m}^2$) er gitt ved
 
-$
+$$
 L=120+10 \cdot \lg I
-$
+$$
 
 Menneskets øre har en smertegrense for lydstyrke som ligger omkring $130 \mathrm{~dB}$.
 
@@ -527,9 +527,9 @@ Menneskets øre har en smertegrense for lydstyrke som ligger omkring $130 \mathr
 
 Dersom effekten til lyden som sendes ut fra en lydkilde er $E$, vil lydintensiteten $I$ på en avstand $r$ (målt i m) fra denne lydkilden være
 
-$
+$$
 I=\frac{E}{4 \pi \cdot r^2}
-$
+$$
 
 Lydstyrken fra et fly er $140 \mathrm{~dB}$ dersom du er $50 \mathrm{~m}$ fra flyet.
 
@@ -545,7 +545,7 @@ c) 158,12 m
 ## Løsningsforslag
 
 ### 2-6a
-$
+$$
 \begin{aligned}
 130 &= 120 + 10 \log I\\
 10\log I&=130-120\\
@@ -553,40 +553,40 @@ $
 { 10^{\log I} }&=10^1\\
 I&=10
 \end{aligned}
-$
+$$
 
 **Lydintensiteten er 10 W/m² når lydstyrken er 130 dB.**
 
 ### 2-6b
 Når $L=132$ blir 
 
-$
+$$
 I=10^{\frac{132-120}{10}}=10^{1{,}2}=15{,}85
-$
+$$
 
 Økningen i prosent er 
 
-$
+$$
 \frac{15{,}85-10}{10}=0{,}585=58{,}5 \,\%
-$
+$$
 
 **Når lydstyrken øker fra 130 dB til 132 dB øker lydintensiteten med 58,5 %.**
 
 ### 2-6c
 Vi vet at $L=140$ når $r=50$. Jeg løser for $E$ og finner (dette gjøres enklest i CAS)
 
-$
+$$
 \begin{aligned}
 L&=120+10 \log I\\
 L&=120+10 \log \frac{E}{4\pi r^2}\\
 140&=120+10 \log \frac{E}{4\pi 50^2}\\
 E&=1 000 000\pi 
 \end{aligned}
-$
+$$
 
 Jeg tolker formlene slik at et fly lager lyd med effekten $E=1\,000\,000\pi \,\text{W}$, mens lydintensiteten og lydstyrken avtar med avstanden. Vi setter opp en likning med lydstyrke lik 130 dB og finner avstanden som kreves (dette gjøres også enklest i CAS).
 
-$
+$$
 \begin{aligned}
 130&=120+10 \log \frac{1000000\pi}{4\pi r^2}\\
 10&=10 \log \frac{1000000}{4r^2}\\
@@ -596,7 +596,7 @@ r^2&=\frac{250000}{10}\\
 r^2&=25000\\
 r&=\vert 158{,}113\vert
 \end{aligned}
-$
+$$
 
 Ved 158,113 m så er altså lydstyrken 130 dB. Siden vi skulle finne den minste avstanden hvor lydstyrken var *lavere* enn 130 dB så runder jeg opp i svaret mitt.
 

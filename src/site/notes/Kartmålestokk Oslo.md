@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["proporsjonalitet","geometri"],"fag":["2p"],"eksamen":"v24","del":1,"oppgave":3,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":3}],"poeng":2,"title":"Kartmålestokk Oslo","status":1,"source":null,"todo":null,"permalink":"/kartmalestokk-oslo/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"temaer":["proporsjonalitet","geometri"],"fag":["2p"],"eksamen":"v24","del":1,"oppgave":3,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":3}],"poeng":2,"title":"Kartmålestokk Oslo","status":1,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["proporsjonalitet","geometri"],"fag":["2p"],"eksamen":"v24","del":1,"oppgave":3,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":3}],"poeng":2,"title":"Kartmålestokk Oslo","status":3,"source":null,"todo":null,"permalink":"/kartmalestokk-oslo/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"temaer":["proporsjonalitet","geometri"],"fag":["2p"],"eksamen":"v24","del":1,"oppgave":3,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":3}],"poeng":2,"title":"Kartmålestokk Oslo","status":3,"source":null,"todo":null}}
 ---
 
 
@@ -15,3 +15,7 @@ Hun bestemmer seg for å gå 300 meter langs en av de rette gatene i byen. Etter
 >Forklar og vis Astrid hvordan hun kan finne målestokken til kartet.
 
 ## Fasit
+1:15000
+
+## Løsningsforslag
+Hvis $2 \mathrm{~cm}$ på kartet tilsvarer 300 meter så må 1 cm tilsvare 150 meter eller 15 000 cm. Da er målestokken 1 : 15 000.

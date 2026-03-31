@@ -18,11 +18,11 @@
 >[!oppgave]
 >a) Deriver funksjonen $f$ gitt ved
 >
->$f(x) = \frac{1}{3}x^3 + \sqrt{x} + 2$
+>$$f(x) = \frac{1}{3}x^3 + \sqrt{x} + 2$$
 
 Funksjon $g$ gitt ved
 
-$g(x) = \frac{2x-3}{e^x}$
+$$g(x) = \frac{2x-3}{e^x}$$
 
 er kontinuerlig og deriverbar for alle $x \in \mathbb{R}$.
 
@@ -42,9 +42,9 @@ c) Grafen til $g$ har et toppunkt i intervallet $\langle 2, 3 \rangle$
 
 Vi bruker potensregler og derivasjonsregler:
 
-$f(x) = \frac{1}{3}x^3 + x^{1/2} + 2$
+$$f(x) = \frac{1}{3}x^3 + x^{1/2} + 2$$
 
-$f'(x) = x^2 + \frac{1}{2}x^{-1/2} = x^2 + \frac{1}{2\sqrt{x}}$
+$$f'(x) = x^2 + \frac{1}{2}x^{-1/2} = x^2 + \frac{1}{2\sqrt{x}}$$
 
 **$\underline{\underline{f'(x) = x^2 + \dfrac{1}{2\sqrt{x}}}}$**
 
@@ -52,16 +52,16 @@ $f'(x) = x^2 + \frac{1}{2}x^{-1/2} = x^2 + \frac{1}{2\sqrt{x}}$
 
 Vi bruker kvotientregelen på $g(x) = \dfrac{2x-3}{e^x}$:
 
-$g'(x) = \frac{2 \cdot e^x - (2x-3) \cdot e^x}{(e^x)^2} = \frac{e^x(2 - 2x + 3)}{e^{2x}} = \frac{5-2x}{e^x}$
+$$g'(x) = \frac{2 \cdot e^x - (2x-3) \cdot e^x}{(e^x)^2} = \frac{e^x(2 - 2x + 3)}{e^{2x}} = \frac{5-2x}{e^x}$$
 
 Dermed:
 
-$
+$$
 \begin{aligned}
 g'(2) &= \frac{5- 2\cdot 2 }{e^2} = \frac{1}{e^2} \\[6pt]
 g'(3) &= \frac{5- 2 \cdot 3}{e^3} = -\frac{1}{e^3}
 \end{aligned}
-$
+$$
 
 **$\underline{\underline{g'(2) = \dfrac{1}{e^2}}}$ og $\underline{\underline{g'(3) = -\dfrac{1}{e^3}}}$**
 
@@ -91,11 +91,11 @@ Fordi $g'$ er kontinuerlig og skifter fortegn fra positivt til negativt i interv
 >[!oppgave]
 >a) Løs likningen
 >
->$(\lg x)^2 - 2\lg x = 8$
+>$$(\lg x)^2 - 2\lg x = 8$$
 >
 >b) Bestem $a$ slik at
 >
->$\log_a \frac{1}{64} = -3$
+>$$\log_a \frac{1}{64} = -3$$
 
 ## Fasit
 
@@ -108,25 +108,25 @@ b) $a = 4$
 
 Vi setter $u = \lg x$ og skriver om likningen:
 
-$
+$$
 \begin{aligned}
 u^2 - 2u - 8 &= 0\\
 (u-4)(u+2) &= 0 \\
 u = 4 \quad &\text{eller} \quad u = -2
 \end{aligned}
-$
+$$
 
 **Tilbake til $x$:**
 
-$\lg x = 4 \implies x = 10^4 = \underline{\underline{10\,000}}$
+$$\lg x = 4 \implies x = 10^4 = \underline{\underline{10\,000}}$$
 
-$\lg x = -2 \implies x = 10^{-2} = \underline{\underline{0{,}01}}$
+$$\lg x = -2 \implies x = 10^{-2} = \underline{\underline{0{,}01}}$$
 
 ### 1-2b
 
 Vi bruker definisjonen av logaritme:
 
-$\log_a \frac{1}{64} = -3 \implies a^{-3} = \frac{1}{64} \implies a^3 = 64 \implies a = \sqrt[3]{64}$
+$$\log_a \frac{1}{64} = -3 \implies a^{-3} = \frac{1}{64} \implies a^3 = 64 \implies a = \sqrt[3]{64}$$
 
 **$\underline{\underline{a = 4}}$**
 
@@ -148,12 +148,12 @@ $\log_a \frac{1}{64} = -3 \implies a^{-3} = \frac{1}{64} \implies a^3 = 64 \impl
 >[!oppgave]
 >a) Bestem grenseverdien dersom den eksisterer:
 >
->$\lim_{x \to -2} \frac{x^2 - 4x + 2}{x^2 - 2x - 8}$
+>$$\lim_{x \to -2} \frac{x^2 - 4x + 2}{x^2 - 2x - 8}$$
 >
 >b)
 >    1) Bestem $a$ slik at grenseverdien eksisterer:
 >    
->    $\lim_{x \to -2} \frac{x^2 + ax + 2}{x^2 - 2x - 8}$
+>    $$\lim_{x \to -2} \frac{x^2 + ax + 2}{x^2 - 2x - 8}$$
 >    
 >    2) Bestem grenseverdien for denne verdien av $a$.
 
@@ -168,11 +168,11 @@ b) $a = 3$, grenseverdi $= \dfrac{1}{6}$
 
 Vi sjekker nevneren i $x = -2$:
 
-$x^2 - 2x - 8 = (x-4)(x+2) \implies \text{nevner} = 0 \text{ når } x = -2$
+$$x^2 - 2x - 8 = (x-4)(x+2) \implies \text{nevner} = 0 \text{ når } x = -2$$
 
 Telleren i $x = -2$:
 
-$(-2)^2 - 4 \cdot (-2) + 2 = 4 + 8 + 2 = 14 \neq 0$
+$$(-2)^2 - 4 \cdot (-2) + 2 = 4 + 8 + 2 = 14 \neq 0$$
 
 Siden nevneren er $0$ og telleren er $\neq 0$ i $x = -2$, **eksisterer ikke grenseverdien**.
 
@@ -182,17 +182,17 @@ Siden nevneren er $0$ og telleren er $\neq 0$ i $x = -2$, **eksisterer ikke gren
 
 For at grenseverdien skal eksistere, må telleren også være $0$ i $x = -2$:
 
-$(-2)^2 + a \cdot (-2) + 2 = 0 \implies 6 - 2a = 0 \implies \underline{\underline{a = 3}}$
+$$(-2)^2 + a \cdot (-2) + 2 = 0 \implies 6 - 2a = 0 \implies \underline{\underline{a = 3}}$$
 
 **Del 2 – bestem grenseverdien:**
 
 Med $a = 3$ faktoriserer vi teller og nevner:
 
-$\frac{x^2 + 3x + 2}{x^2 - 2x - 8} = \frac{(x+1)(x+2)}{(x-4)(x+2)}$
+$$\frac{x^2 + 3x + 2}{x^2 - 2x - 8} = \frac{(x+1)(x+2)}{(x-4)(x+2)}$$
 
 Kansellerer $(x+2)$ (vi ser bort fra $x = -2$ siden vi tar grenseverdi):
 
-$\lim_{x \to -2} \frac{(x+1)\cancel{(x+2)}}{(x-4)\cancel{(x+2)}} = \frac{-2+1}{-2-4} = \frac{-1}{-6}$
+$$\lim_{x \to -2} \frac{(x+1)\cancel{(x+2)}}{(x-4)\cancel{(x+2)}} = \frac{-2+1}{-2-4} = \frac{-1}{-6}$$
 
 **Grenseverdien er $\underline{\underline{\dfrac{1}{6}}}$.**
 
@@ -239,7 +239,7 @@ b) $252$
 - Andre tegn: ett av sifrene 1–9 → $9$ valg
 - Tredje tegn: ett av de **resterende** 8 sifrene → $8$ valg
 
-$6 \cdot 9 \cdot 8 = \underline{\underline{432}}$
+$$6 \cdot 9 \cdot 8 = \underline{\underline{432}}$$
 
 **Det er mulig å lage $432$ ulike passord.**
 
@@ -252,7 +252,7 @@ Vi trekker fra de som **ikke** oppfyller kravet om minst én bokstav og minst et
 - Kun siffer $\{1,2,3,4\}$: $4^3 = 64$ passord
 - Kun bokstav $\{A,B,C\}$: $3^3 = 27$ passord
 
-$343 - 64 - 27 = \underline{\underline{252}}$
+$$343 - 64 - 27 = \underline{\underline{252}}$$
 
 **Det er mulig å lage $252$ ulike passord.**
 
@@ -273,7 +273,7 @@ $343 - 64 - 27 = \underline{\underline{252}}$
 
 En funksjon $f$ er gitt ved
 
-$f(x) = 4x^2 \cdot \ln x$
+$$f(x) = 4x^2 \cdot \ln x$$
 
 >[!oppgave]
 >Bestem koordinatene til eventuelle topp- og bunnpunkter på grafen til $f$.
@@ -286,11 +286,11 @@ Bunnpunkt: $\left(\dfrac{1}{\sqrt{e}},\ -\dfrac{2}{e}\right)$
 
 Vi har $f(x) = 4x^2 \cdot \ln x$ definert for $x > 0$. Deriverer med produktregelen:
 
-$f'(x) = 8x \cdot \ln x + 4x^2 \cdot \frac{1}{x} = 8x\ln x + 4x = 4x(2\ln x + 1)$
+$$f'(x) = 8x \cdot \ln x + 4x^2 \cdot \frac{1}{x} = 8x\ln x + 4x = 4x(2\ln x + 1)$$
 
 For $x > 0$ er $4x > 0$ alltid, så $f'(x) = 0$ krever:
 
-$2\ln x + 1 = 0 \implies \ln x = -\frac{1}{2} \implies x = e^{-1/2} = \frac{1}{\sqrt{e}}$
+$$2\ln x + 1 = 0 \implies \ln x = -\frac{1}{2} \implies x = e^{-1/2} = \frac{1}{\sqrt{e}}$$
 
 **Fortegnsskjema for $f'(x)$:**
 
@@ -303,7 +303,7 @@ $f'$ skifter fortegn fra $-$ til $+$, så det er et **bunnpunkt**.
 
 Funksjonsverdien:
 
-$f\left(\frac{1}{\sqrt{e}}\right) = 4 \cdot \frac{1}{e} \cdot \left(-\frac{1}{2}\right) = -\frac{2}{e}$
+$$f\left(\frac{1}{\sqrt{e}}\right) = 4 \cdot \frac{1}{e} \cdot \left(-\frac{1}{2}\right) = -\frac{2}{e}$$
 
 **Grafen til $f$ har et bunnpunkt i $\underline{\underline{\left(\dfrac{1}{\sqrt{e}},\; -\dfrac{2}{e}\right)}}$.**
 
@@ -370,7 +370,7 @@ Programmet kjører løkken `for i in range(3)` tre ganger. Hvert skudd gir enten
 
 Programmet skriver ut $1{,}0$ kun hvis alle tre skudd er treff:
 
-$P(\text{alle tre treff}) = \left(\frac{2}{5}\right)^3 = \frac{8}{125}$
+$$P(\text{alle tre treff}) = \left(\frac{2}{5}\right)^3 = \frac{8}{125}$$
 
 **$\underline{\underline{P = \dfrac{8}{125}}}$**
 
@@ -378,9 +378,9 @@ $P(\text{alle tre treff}) = \left(\frac{2}{5}\right)^3 = \frac{8}{125}$
 
 Sannsynligheten for at Einar scorer minst ett mål på $n$ straffespark:
 
-$P(\text{minst ett mål}) = 1 - 0{,}7^n \geq 0{,}5$
+$$P(\text{minst ett mål}) = 1 - 0{,}7^n \geq 0{,}5$$
 
-$0{,}7^n \leq 0{,}5$
+$$0{,}7^n \leq 0{,}5$$
 
 Vi prøver:
 
@@ -417,7 +417,7 @@ Tabellen nedenfor viser folketallet i en bygd, noen år i perioden 1910–1935.
 >[!oppgave]
 >a) Bruk informasjonen til å lage en modell på formen
 >
->$F(t) = a \cdot b^t$
+>$$F(t) = a \cdot b^t$$
 >
 >for antall personer $F(t)$ som bodde i bygda $t$ år etter 1910.
 >
@@ -443,7 +443,7 @@ Vi setter $t = 0$ i 1910 og bruker eksponentiell regresjon på datapunktene:
 
 Eksponentiell regresjon (f.eks. i GeoGebra) gir:
 
-$\underline{\underline{F(t) \approx 820{,}6 \cdot 1{,}051^t}}$
+$$\underline{\underline{F(t) \approx 820{,}6 \cdot 1{,}051^t}}$$
 
 Grafen under viser at kurven passer godt til datapunktene ($R^2 \approx 0{,}99$):
 
@@ -455,7 +455,7 @@ Grafen under viser at kurven passer godt til datapunktene ($R^2 \approx 0{,}99$)
 
 Vekstfarten er den deriverte av $F$:
 
-$F'(t) = 820{,}6 \cdot 1{,}051^t \cdot \ln(1{,}051)$
+$$F'(t) = 820{,}6 \cdot 1{,}051^t \cdot \ln(1{,}051)$$
 
 Vi løser $F'(t) = 80$ i GeoGebra CAS:
 
@@ -469,7 +469,7 @@ CAS gir $t \approx 13{,}5$, dvs. fra og med $t = 14$ (år **1924**).
 
 Gjennomsnittlig befolkningsvekst fra 1910 til år $t$ er $\dfrac{F(t) - F(0)}{t}$. Vi løser:
 
-$\frac{F(t) - 820{,}6}{t} = 80$
+$$\frac{F(t) - 820{,}6}{t} = 80$$
 
 i GeoGebra CAS:
 
@@ -496,7 +496,7 @@ CAS gir $t \approx 24{,}6$, så vi runder opp til $t = 25$.
 
 En funksjon $f$ er gitt ved
 
-$f(x) = \begin{cases} 2x - 2 & x \le -2 \\ 2x^3 + 2x^2 - 4x \quad   & -2 < x < k \\ 4 & x \ge k \end{cases} \quad \text{der } k \in \langle -2, \rightarrow \rangle$
+$$f(x) = \begin{cases} 2x - 2 & x \le -2 \\ 2x^3 + 2x^2 - 4x \quad   & -2 < x < k \\ 4 & x \ge k \end{cases} \quad \text{der } k \in \langle -2, \rightarrow \rangle$$
 
 >[!oppgave]
 >a) Avgjør om $f$ er kontinuerlig når $x=-2$.
@@ -513,9 +513,9 @@ b) $k = -1$, $k = -\sqrt{2}$ eller $k = \sqrt{2}$
 
 Vi sjekker grenser fra venstre og høyre i $x = -2$:
 
-$\lim_{x \to -2^-} (2x - 2) = 2(-2) - 2 = -6$
+$$\lim_{x \to -2^-} (2x - 2) = 2(-2) - 2 = -6$$
 
-$\lim_{x \to -2^+} (2x^3 + 2x^2 - 4x) = 2(-8) + 2(4) - 4(-2) = -16 + 8 + 8 = 0$
+$$\lim_{x \to -2^+} (2x^3 + 2x^2 - 4x) = 2(-8) + 2(4) - 4(-2) = -16 + 8 + 8 = 0$$
 
 Siden $\lim_{x \to -2^-} f(x) = -6 \neq 0 = \lim_{x \to -2^+} f(x)$ eksisterer ikke grenseverdien i $x = -2$.
 
@@ -525,17 +525,17 @@ Siden $\lim_{x \to -2^-} f(x) = -6 \neq 0 = \lim_{x \to -2^+} f(x)$ eksisterer i
 
 For at $f$ skal være kontinuerlig i $x = k$ må:
 
-$\lim_{x \to k^-} (2x^3 + 2x^2 - 4x) = 4$
+$$\lim_{x \to k^-} (2x^3 + 2x^2 - 4x) = 4$$
 
-$2k^3 + 2k^2 - 4k = 4$
+$$2k^3 + 2k^2 - 4k = 4$$
 
-$k^3 + k^2 - 2k - 2 = 0$
+$$k^3 + k^2 - 2k - 2 = 0$$
 
 Vi faktoriserer:
 
-$k^2(k+1) - 2(k+1) = (k^2-2)(k+1) = 0$
+$$k^2(k+1) - 2(k+1) = (k^2-2)(k+1) = 0$$
 
-$k = \sqrt{2}, \quad k = -\sqrt{2}, \quad k = -1$
+$$k = \sqrt{2}, \quad k = -\sqrt{2}, \quad k = -1$$
 
 Alle tre verdiene er større enn $-2$ og dermed i gyldighetsområdet $k \in \langle -2, \rightarrow \rangle$.
 
@@ -587,7 +587,7 @@ Hver pose inneholder $3 + 8 + 7 = 18$ drops.
 
 Sander tar $2$ drops. Sannsynligheten for $2$ gule:
 
-$P(\text{2 gule}) = \frac{\binom{8}{2}}{\binom{18}{2}} = \frac{28}{153}$
+$$P(\text{2 gule}) = \frac{\binom{8}{2}}{\binom{18}{2}} = \frac{28}{153}$$
 
 **$\underline{\underline{P = \dfrac{28}{153}}}$**
 
@@ -595,7 +595,7 @@ $P(\text{2 gule}) = \frac{\binom{8}{2}}{\binom{18}{2}} = \frac{28}{153}$
 
 Henny tar $3$ drops. Sannsynligheten for én av hver farge:
 
-$P(\text{en av hver}) = \frac{\binom{3}{1}\binom{8}{1}\binom{7}{1}}{\binom{18}{3}} = \frac{3 \cdot 8 \cdot 7}{816} = \frac{168}{816} = \frac{7}{34}$
+$$P(\text{en av hver}) = \frac{\binom{3}{1}\binom{8}{1}\binom{7}{1}}{\binom{18}{3}} = \frac{3 \cdot 8 \cdot 7}{816} = \frac{168}{816} = \frac{7}{34}$$
 
 **$\underline{\underline{P = \dfrac{7}{34}}}$**
 
@@ -603,9 +603,9 @@ $P(\text{en av hver}) = \frac{\binom{3}{1}\binom{8}{1}\binom{7}{1}}{\binom{18}{3
 
 Alle tre tar ett drops fra hver sin pose – uavhengige hendelser.
 
-$P(\text{alle samme}) = P(\text{alle grønn}) + P(\text{alle gul}) + P(\text{alle rød})$
+$$P(\text{alle samme}) = P(\text{alle grønn}) + P(\text{alle gul}) + P(\text{alle rød})$$
 
-$= \left(\frac{3}{18}\right)^3 + \left(\frac{8}{18}\right)^3 + \left(\frac{7}{18}\right)^3 = \frac{27 + 512 + 343}{5832} = \frac{882}{5832} = \frac{49}{324}$
+$$= \left(\frac{3}{18}\right)^3 + \left(\frac{8}{18}\right)^3 + \left(\frac{7}{18}\right)^3 = \frac{27 + 512 + 343}{5832} = \frac{882}{5832} = \frac{49}{324}$$
 
 **$\underline{\underline{P = \dfrac{49}{324}}}$**
 
@@ -626,7 +626,7 @@ $= \left(\frac{3}{18}\right)^3 + \left(\frac{8}{18}\right)^3 + \left(\frac{7}{18
 
 En elevbedrift produserer og selger et produkt. Kostnaden $K(x)$ kroner ved produksjon og salg er gitt ved
 
-$K(x) = 0{,}02x^2 + 60x + 12000$
+$$K(x) = 0{,}02x^2 + 60x + 12000$$
 
 Elevbedriften selger produktet for 100 kroner per enhet.
 
@@ -649,7 +649,7 @@ b) $88 \, \mathrm{kr}$
 
 Inntekt per enhet er 100 kr. Overskuddet er:
 
-$O(x) = 100x - K(x) = 100x - 0{,}02x^2 - 60x - 12\,000 = -0{,}02x^2 + 40x - 12\,000$
+$$O(x) = 100x - K(x) = 100x - 0{,}02x^2 - 60x - 12\,000 = -0{,}02x^2 + 40x - 12\,000$$
 
 Vi finner maksimum ved å sette $O'(x) = 0$ og beregner i GeoGebra CAS:
 
@@ -663,11 +663,11 @@ CAS bekrefter at $O'(x) = 0$ i $x = 1000$ og at $O(1000) = 8000$.
 
 Nye faste kostnader er 8000 kr. Ved salg av $x = 1000$ enheter:
 
-$K(1000) = 0{,}02 \cdot 1000^2 + 60 \cdot 1000 + 8000 = 20\,000 + 60\,000 + 8000 = 88\,000 \, \mathrm{kr}$
+$$K(1000) = 0{,}02 \cdot 1000^2 + 60 \cdot 1000 + 8000 = 20\,000 + 60\,000 + 8000 = 88\,000 \, \mathrm{kr}$$
 
 For å unngå underskudd må inntektene dekke kostnadene:
 
-$1000 \cdot p \geq 88\,000 \implies p \geq 88$
+$$1000 \cdot p \geq 88\,000 \implies p \geq 88$$
 
 **Den laveste prisen er $\underline{\underline{88 \, \mathrm{kr}}}$ per enhet.**
 
@@ -692,7 +692,7 @@ Prøvene analyseres, og hver prøve gis en luktverdi $C$. Denne luktverdien er g
 
 Sammenhengen mellom $C$ og luktintensiteten $I$ er gitt ved
 
-$I = 1{,}4 \cdot \lg(C) - 0{,}3$
+$$I = 1{,}4 \cdot \lg(C) - 0{,}3$$
 
 Biogassanlegget er pålagt å forholde seg til tabellen nedenfor.
 
@@ -814,13 +814,13 @@ b) $\approx 8{,}5$ runder
 
 La $n$ være antall terninger ved starten av en runde. For hvert enkelt kast er:
 
-$\text{E}[\text{netto endring per terning}] = \frac{1}{6} \cdot 3 + \frac{5}{6} \cdot (-1) = \frac{1}{2} - \frac{5}{6} = -\frac{1}{3}$
+$$\text{E}[\text{netto endring per terning}] = \frac{1}{6} \cdot 3 + \frac{5}{6} \cdot (-1) = \frac{1}{2} - \frac{5}{6} = -\frac{1}{3}$$
 
 Forventet antall terninger etter én runde: $n - \dfrac{n}{3} = \dfrac{2n}{3}$
 
 Etter $r$ runder er forventet antall terninger:
 
-$\text{E}[n_r] = 100 \cdot \left(\frac{2}{3}\right)^r$
+$$\text{E}[n_r] = 100 \cdot \left(\frac{2}{3}\right)^r$$
 
 >[!note] Merk
 >Bemerker vi at antall terninger etter en runde faktisk er $4 \cdot (\text{antall sekser})$, kan man via simulering av programmet (kjørt mange ganger) bestemme gjennomsnittet presist.

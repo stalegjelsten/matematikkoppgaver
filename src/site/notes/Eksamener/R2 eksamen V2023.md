@@ -41,7 +41,7 @@ Regn ut integralene
 >[!oppgave]
 >a) Vis at dersom $f(x) = \tan x$, så er $f'(x) = 1 + \tan^2 x$.
 >b) Regn ut
->$\int \frac{1 + \tan^2 x}{\tan x} \, dx$
+>$$\int \frac{1 + \tan^2 x}{\tan x} \, dx$$
 
 ## Fasit
 
@@ -131,9 +131,9 @@ I figuren nedenfor er $AB = AD = 1$, og buen $BD$ er del av en sirkel med sentru
 
 >[!oppgave]
 >a) Bruk arealbetraktninger til å begrunne at
->$\frac{1}{2}\sin v < \frac{1}{2}v < \frac{1}{2}\tan v$
+>$$\frac{1}{2}\sin v < \frac{1}{2}v < \frac{1}{2}\tan v$$
 >b) Forklar at dette gir oss
->$1 < \frac{v}{\sin v} < \frac{1}{\cos v}$
+>$$1 < \frac{v}{\sin v} < \frac{1}{\cos v}$$
 >c) Bruk ulikhetene fra oppgave b til å begrunne at $\lim_{v \to 0^+} \dfrac{\sin v}{v} = 1$.
 
 ## Fasit
@@ -166,9 +166,9 @@ Tabellen nedenfor viser hvor mange millioner kroner som ble brukt på strømming
 
 Nedenfor ser du fire formler.
 
-$
+$$
 I=\int_{-0,5}^{10,5} F(x) \mathrm{d} x, \quad G=\frac{1}{5} \int_{2,5}^{7,5} F(x) \mathrm{d} x, \quad S=\sum_{i=0}^{10} F(i), \quad D=\frac{F(5,001)-F(5)}{0,001}
-$
+$$
 
 >[!oppgave]
 >b) Bestem $I, G, S$ og $D$.
@@ -185,7 +185,7 @@ Mange modeller og ulike tolkninger kan fungere. Se løsningsforslaget.
 ### 2-2a
 Jeg brukte regresjonsverktøyet i GeoGebra valgte den logistiske modellen:
 
-$\underline{\underline{F(x)=\frac{660{,}37}{1+30{,}72\,e^{-0{,}7066x}}}}$
+$$\underline{\underline{F(x)=\frac{660{,}37}{1+30{,}72\,e^{-0{,}7066x}}}}$$
 
 Logistiske funksjoner flater ut ved en horisontal asymptote (i dette tilfellet 660,37 millioner kr). Selv om det kanskje høres usannsynlig ut at markedet for musikkstrømming ikke kommer til å vokse, så tror jeg at nærmest all musikklytting *allerede* er blitt flyttet fra formater som CD og nedlasting, til strømming. Derfor er det usannsynlig veksten kommer til å fortsette i samme tempo. En logistisk modell har også asymptote ved $y=0$. Det stemmer også godt med at strømmemarkedet var svært lite (kanskje ikke-eksisterende?) i Norge før Spotify ble lansert i 2008.
 
@@ -198,14 +198,14 @@ Se utklippet fra CAS.
 
 ![](/img/user/_resources/s2-v23-del2-oppg-2b.png.png)
 
-$
+$$
 \begin{aligned}
 I&=3729,0\\
 G&=344,5\\
 S&=3729,1\\
 D&=116,3
 \end{aligned}
-$
+$$
 
 ### 2-2c
 $I$ beregner integralet under $F$ fra $x=-0.5$ til $x=10.5$. Dette gir en tilnærmingsverdi for de samlede inntektene fra musikkstrømming i Norge fra og med 2008 til og med 2018. De samlede inntektene er omtrent 3729 millioner kr.
@@ -260,7 +260,7 @@ En kule tangerer $\alpha$ i punktet $A$ og $\beta$ i et punkt $Q$.
 
 En fabrikk lager kroker ved hjelp av en 3D-printer. Posisjonen til dysen i 3D-printeren etter $t$ sekunder er gitt ved posisjonsvektoren
 
-$\vec{r}(t) = \left[1 + e^{\frac{t}{20}},\ 1 - \sin t,\ \frac{1}{10}e^{-2t+2} + \cos t\right], \quad t \in [0, 5]$
+$$\vec{r}(t) = \left[1 + e^{\frac{t}{20}},\ 1 - \sin t,\ \frac{1}{10}e^{-2t+2} + \cos t\right], \quad t \in [0, 5]$$
 
 Her er cm enheten langs aksene.
 
@@ -288,15 +288,15 @@ Her er cm enheten langs aksene.
 
 Foreldrene til Hildegunn/David[^1] vil gi hen ukepenger. De gir hen to ulike tilbud. I tilbud 1 får hen 100 kroner den første uken. Beløpet $a_{n}$ som hen får i uke $n$, er gitt ved den rekursive formelen
 
-$
+$$
 a_{n}=a_{n-1}+10
-$
+$$
 
 I tilbud 2 får hen 100 kroner den første uken. Beløpet $b_{n}$ som hen får i uke $n$, er gitt ved den rekursive formelen
 
-$
+$$
 b_{n}=b_{n-1} \cdot 1,05
-$
+$$
 
 >[!oppgave]
 >a) Bestem det ukentlige beløpet hen får de fire første ukene med hvert av de to tilbudene.
@@ -343,7 +343,7 @@ De ukentlige beløpene for de fire første ukene er markert i blått i utklippet
 
 Funksjonen $f$ er gitt ved
 
-$f(x) = \frac{2 - \cos x}{\sin x}, \quad D_f = \left[\frac{\pi}{4}, \frac{3\pi}{4}\right]$
+$$f(x) = \frac{2 - \cos x}{\sin x}, \quad D_f = \left[\frac{\pi}{4}, \frac{3\pi}{4}\right]$$
 
 Vi roterer grafen til $f$ om $x$-aksen.
 
@@ -384,13 +384,13 @@ Vi regner da ut lengdene av linjestykkene som går mellom punktene $(x_i, f(x_i)
 
 >[!oppgave]
 >a) Forklar at lengden av linjestykket som går fra punktet $(x_i, f(x_i))$ til punktet $(x_{i+1}, f(x_{i+1}))$, er gitt ved
->$S_i = \sqrt{h^2 + k_i^2}, \quad \text{der } k_i = f(x_{i+1}) - f(x_i)$
+>$$S_i = \sqrt{h^2 + k_i^2}, \quad \text{der } k_i = f(x_{i+1}) - f(x_i)$$
 
 ![Illustrasjon av Si, ki og h](/img/user/_resources/r2-v23-2-6-2.jpeg)
 
 Funksjonen $g$ er gitt ved
 
-$g(x) = \sqrt{1 - x^2}, \quad D_g = [-1, 1]$
+$$g(x) = \sqrt{1 - x^2}, \quad D_g = [-1, 1]$$
 
 >[!oppgave]
 >b) Regn ut en god tilnærmet verdi for lengden av grafen til $g$ ved å bruke framgangsmåten beskrevet ovenfor. Vurder om svaret er rimelig.

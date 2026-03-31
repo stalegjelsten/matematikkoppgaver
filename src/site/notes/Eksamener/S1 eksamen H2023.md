@@ -18,19 +18,19 @@
 >[!oppgave]
 >Skriv så enkelt som mulig.
 >
->$\left(\frac{3a^2}{2b^3}\right)^2 \cdot \left(\frac{a^2b^{-5}}{4}\right)^{-1}$
+>$$\left(\frac{3a^2}{2b^3}\right)^2 \cdot \left(\frac{a^2b^{-5}}{4}\right)^{-1}$$
 
 ## Fasit
 
-$
+$$
 \frac{9a^{2}}{b}
-$
+$$
 
 ## Løsningsforslag
 
-$
+$$
 \left(\frac{3a^2}{2b^3}\right)^2 \cdot \left(\frac{a^2b^{-5}}{4}\right)^{-1} = \left(\frac{3^{2}a^4}{2^{2}b^6}\right) \cdot \left(\frac{a^{-2} b^{5}}{4^{-1}}\right)= 3^{2}\cdot 2^{-2} \cdot 4^{1}\cdot a^{4-2} \cdot b^{5-6}=9 \cdot a^{2}b^{-1}=\underline{\underline{ \frac{9a^{2}}{b} }}
-$
+$$
 
 </div></div>
 
@@ -49,7 +49,7 @@ $
 >[!oppgave]
 >Skriv uttrykkene nedenfor i stigende rekkefølge.
 >
->$2\ln e^3 \qquad  3\lg 70 \qquad e^{3\ln 2}$
+>$$2\ln e^3 \qquad  3\lg 70 \qquad e^{3\ln 2}$$
 >
 >Husk å begrunne svaret.
 
@@ -95,7 +95,7 @@ Du kaster tre terninger.
 
 En funksjon $f$ er gitt ved
 
-$f(x) = \begin{cases}x^2 + 3x - a^2\text{,} \quad  & x < 1 \\ x - 1\text{,} & x \geq 1 \end{cases}$
+$$f(x) = \begin{cases}x^2 + 3x - a^2\text{,} \quad  & x < 1 \\ x - 1\text{,} & x \geq 1 \end{cases}$$
 
 >[!oppgave]
 >Bestem $a$ slik at funksjonen blir kontinuerlig.
@@ -119,7 +119,7 @@ $f(x) = \begin{cases}x^2 + 3x - a^2\text{,} \quad  & x < 1 \\ x - 1\text{,} & x 
 
 En bedrift produserer en vare. De daglige kostnadene $K$ (i kroner) ved produksjon av $x$ enheter av varen er gitt ved
 
-$K(x) = 0{,}1x^2 + 100x + 9000$
+$$K(x) = 0{,}1x^2 + 100x + 9000$$
 
 Den økonomiansvarlige i bedriften har laget programmet nedenfor.
 
@@ -170,7 +170,7 @@ Fabrikken selger alle sofaene til en møbelkjede. De får 28 000 kroner per sofa
 >[!oppgave]
 >a) Bruk opplysningene ovenfor til å vise at funksjonen $O$ gitt ved
 >
->$O(x) = -0{,}041x^2 + 11x - 103$
+>$$O(x) = -0{,}041x^2 + 11x - 103$$
 >
 >er en god modell for det månedlige overskuddet (i tusen kroner) til fabrikken, dersom de produserer $x$ sofaer.
 >b) Hvilken produksjonsmengde gir størst overskudd?
@@ -339,14 +339,14 @@ $f$ har et $x^{3}$-ledd som vil stige eller synke kubisk mye raskere enn $y=ax+b
 
 Vi kan også bevise at disse vil skjære hverandre matematisk hvis vi lar $f(x)=cx^{3}+dx^{2}+mx +n$.
 
-$cx^{3}+dx^{2}+mx +n = ax + b$ $cx^{3}+dx^{2}+(m+a)x + (n+b)=0$
+$$cx^{3}+dx^{2}+mx +n = ax + b$$ $$cx^{3}+dx^{2}+(m+a)x + (n+b)=0$$
 Den siste likningen er en vanlig tredjegradslikning. Disse har alltid en løsning (tredjegradsfunksjoner må alltid krysse $x$-aksen minst en gang). Derfor må $y=ax+b$ skjære $f$ minst ett sted.
 
 **Påstanden er sann. $y=ax+b$ vil alltid skjære $f$ minst ett sted.**
 
 ### c
 Vi har vendepunkter når $f''(x)=0$. Vi prøver å dobbeltderivere $f$ og sette inn for $f''(3)=0$.
-$
+$$
 \begin{aligned}
 f(x)&=cx^{3}+dx^{2}+mx +n \\
 f'(x)&=3cx^{2}+2dx+m\\
@@ -356,17 +356,17 @@ f''(3)&=0 \\
 18c + 2d &=0\\
 d &= -9c
 \end{aligned}
-$
+$$
 Vi sjekker hva $f'(1)$ og $f'(5)$ er og prøver innsettingsmetoden med $d=-9c$.
-$
+$$
 \begin{aligned}
 f'(1)&=3c \cdot 1 ^{2} + 2 d \cdot 1 + m \\
 f'(1)&=3c  + 2(-9c) + m \\
 f'(1)&=3c-18c+m \\
 f'(1)&=-15c +m
 \end{aligned}
-$
-$
+$$
+$$
 \begin{aligned}
 f'(5)&=3c \cdot 5^{2}+2d \cdot 5+ m \\
 f'(5)&=3c \cdot 25+2(-9c) \cdot 5+ m\\
@@ -374,7 +374,7 @@ f'(5)&=75c +10 \cdot(-9c) + m\\
 f'(5)&=75c -90c + m\\
 f'(5)&=-15c + m\\
 \end{aligned}
-$
+$$
 
 **Påstanden stemmer. Når $f$ har vendepunkt i $x=3$ så er $f'(1)=f'(5)$.**
 

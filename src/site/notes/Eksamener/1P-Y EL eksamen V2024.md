@@ -44,9 +44,9 @@ b) A – størrelse 50/70 (1000 g / 20 g = 50 reker per kg)
 
 Vi deler prisen på antall kilogram:
 
-$
+$$
 \frac{400 \, \mathrm{kr}}{5 \, \mathrm{kg}} = 80 \, \mathrm{kr/kg}
-$
+$$
 
 **Prisen per kilogram er $\underline{\underline{80 \, \mathrm{kr/kg}}}$.**
 
@@ -54,9 +54,9 @@ $
 
 Vi finner hvor mange reker det er per kilogram når én reke veier 20 gram:
 
-$
+$$
 \frac{1000 \, \mathrm{g}}{20 \, \mathrm{g}} = 50 \text{ reker per kilogram}
-$
+$$
 
 Størrelse 50/70 betyr at det er mellom 50 og 70 reker per kilogram. En reke på 20 gram gir nøyaktig 50 reker per kilo, som er i nedre grense for denne størrelseskategorien.
 
@@ -117,9 +117,9 @@ Vi beregner månedlig overskudd:
 
 Sparing over 11 måneder:
 
-$
+$$
 11 \cdot 1000 = 11\,000 \, \mathrm{kr}
-$
+$$
 
 Siden $11\,000 \, \mathrm{kr} > 10\,500 \, \mathrm{kr}$, **klarer Oda sparemålet sitt hvis hun følger budsjettet.** Hun vil ha $\underline{\underline{500 \, \mathrm{kr}}}$ til overs.
 
@@ -140,7 +140,7 @@ Siden $11\,000 \, \mathrm{kr} > 10\,500 \, \mathrm{kr}$, **klarer Oda sparemåle
 
 For å regne ut bremselengder på sommerføre kan vi bruke formelen
 
-$B = \frac{x^2}{2}$
+$$B = \frac{x^2}{2}$$
 
 - $B$ er bremselengde (meter)
 - $x$ er fart (km/h) delt på 10
@@ -160,9 +160,9 @@ Formelen er $B = \dfrac{x^2}{2}$, der $x$ er fart i km/h delt på 10.
 
 Vi setter inn $x = \dfrac{70}{10} = 7$:
 
-$
+$$
 B = \frac{7^2}{2} = \frac{49}{2} = 24{,}5
-$
+$$
 
 **Bremselengden ved $70 \, \mathrm{km/h}$ er $\underline{\underline{24{,}5 \, \mathrm{m}}}$**, og det stemmer med verdien Viking Redningstjeneste oppgir.
 
@@ -214,9 +214,9 @@ Cosinus er $x$-koordinaten i enhetssirkelen. For $\alpha = 53°$ er $x$-koordina
 
 Vinkler med samme cosinusverdi finnes symmetrisk om $x$-aksen. Den andre vinkelen er:
 
-$
+$$
 360° - 53° = 307°
-$
+$$
 
 Vi kan verifisere: $\cos 307° = \cos(-53°) = \cos 53°$ ✓
 
@@ -270,9 +270,9 @@ b) 128 GB + iCloud+ (8 mnd) koster $11\,386 \, \mathrm{kr}$, som er $1\,304 \, \
 
 Lise fyller opp 4 GB per måned. Med 128 GB intern lagring:
 
-$
+$$
 \frac{128 \, \mathrm{GB}}{4 \, \text{GB/måned}} = 32 \text{ måneder}
-$
+$$
 
 **Etter $\underline{\underline{32 \, \text{måneder}}}$ er minnet fullt på 128 GB-modellen.**
 
@@ -282,9 +282,9 @@ Vi beregner totalkostnaden for 40 måneder for begge alternativene.
 
 **Alternativ 1 – 256 GB-modellen:**
 
-$
+$$
 12\,690 \, \mathrm{kr}
-$
+$$
 
 (256 GB holder i $256/4 = 64$ måneder, mer enn nok for 40 måneder.)
 
@@ -292,15 +292,15 @@ $
 
 Minnet er fullt etter 32 måneder. De siste $40 - 32 = 8$ månedene trenger hun iCloud+:
 
-$
+$$
 11\,290 + 8 \cdot 12 = 11\,290 + 96 = 11\,386 \, \mathrm{kr}
-$
+$$
 
 **Sammenligning:**
 
-$
+$$
 12\,690 - 11\,386 = 1\,304 \, \mathrm{kr}
-$
+$$
 
 **Det er billigst å kjøpe 128 GB-modellen og leie iCloud+ de siste 8 månedene. Hun sparer $\underline{\underline{1\,304 \, \mathrm{kr}}}$ sammenlignet med 256 GB-modellen.**
 
@@ -416,15 +416,15 @@ c) Hvis $\cos \phi$ øker så øker effektfaktoren. Mer av effekten brukes til d
 
 Vi bruker formelen $S = U \cdot I$:
 
-$
+$$
 S = 230 \cdot 12 = 2760 \, \mathrm{VA}
-$
+$$
 
 Vi finner fasevinkelen ved hjelp av $\cos \phi = 0{,}8192$:
 
-$
+$$
 \phi = \arccos(0{,}8192) \approx 35°
-$
+$$
 
 **Tilsynelatende effekt er $\underline{\underline{S = 2760 \, \mathrm{VA}}}$ og fasevinkelen er $\underline{\underline{\phi = 35°}}$.**
 
@@ -434,17 +434,17 @@ Vi har $S = 2760 \, \mathrm{VA}$, $Q = 1583 \, \mathrm{VAr}$ og $\cos \phi = 0{,
 
 **Metode 1 – bruk av $\cos \phi$:**
 
-$
+$$
 P = S \cdot \cos \phi = 2760 \cdot 0{,}8192 \approx 2261 \, \mathrm{W}
-$
+$$
 
 **Metode 2 – Pytagoras:**
 
 Fra effekttrekanten gjelder $S^2 = P^2 + Q^2$, så:
 
-$
+$$
 P = \sqrt{S^2 - Q^2} = \sqrt{2760^2 - 1583^2} = \sqrt{7\,617\,600 - 2\,505\,889} = \sqrt{5\,111\,711} \approx 2261 \, \mathrm{W}
-$
+$$
 
 Begge metodene gir samme svar.
 
@@ -502,15 +502,15 @@ Stine lader fra 28 % til 59 % = 31 prosentpoeng på 22 minutter (fra 12:33 til 1
 
 Rate:
 
-$
+$$
 \frac{22 \, \mathrm{min}}{31 \, \%} \approx 0{,}71 \, \mathrm{min/\%}
-$
+$$
 
 Fra 59 % til 80 % gjenstår $80 - 59 = 21$ prosentpoeng:
 
-$
+$$
 21 \cdot \frac{22}{31} = \frac{462}{31} \approx 14{,}9 \, \mathrm{min} \approx 15 \, \mathrm{min}
-$
+$$
 
 **Det vil ta omtrent $\underline{\underline{15 \, \mathrm{minutter}}}$ å lade fra 59 % til 80 %.**
 
@@ -518,9 +518,9 @@ $
 
 31 prosentpoeng tilsvarer 18,3 kWh. Vi beregner full kapasitet:
 
-$
+$$
 \frac{18{,}3 \, \mathrm{kWh}}{31} \cdot 100 = \frac{1830}{31} \approx 59{,}0 \, \mathrm{kWh}
-$
+$$
 
 **Ut fra målingene er batterikapasiteten omtrent $\underline{\underline{59 \, \mathrm{kWh}}}$**, som er nær reklamens påstand om 60 kWh. Det kan godt stemme – avviket er på under 2 %.
 
@@ -528,15 +528,15 @@ $
 
 Ladeeffekten er:
 
-$
+$$
 P = \frac{18{,}3 \, \mathrm{kWh}}{\frac{22}{60} \, \mathrm{h}} = \frac{18{,}3 \cdot 60}{22} \approx 49{,}9 \, \mathrm{kWh/t}
-$
+$$
 
 Bilen bruker $0{,}17 \, \mathrm{kWh/km}$. Per time lading kan bilen kjøre:
 
-$
+$$
 \frac{49{,}9 \, \mathrm{kWh/t}}{0{,}17 \, \mathrm{kWh/km}} \approx 294 \, \mathrm{km}
-$
+$$
 
 **Per time hurtiglading kan elbilen kjøre omtrent $\underline{\underline{294 \, \mathrm{km}}}$.**
 
@@ -621,7 +621,7 @@ Chris finner ut at han heller vil spare 2300 kroner hver måned. Han har en spar
 ## Fasit
 
 a) Vi sjekker prisen for alternativ 1 med 8 kjøretimer.
-  $3300+1580+5950+8500+8 \cdot 850=26\,130 \mathrm{~kr}$
+  $$3300+1580+5950+8500+8 \cdot 850=26\,130 \mathrm{~kr}$$
   **Pakkeløsningen i alternativ 2 er rimeligere.**
 b) Chris har lånt 25 000 kr og han betaler tilbake $12 \cdot 2321=27\,852 \mathrm{~kr}$. Differansen er $27\,852-25000=2852 \mathrm{~kr}$.  
 **Lånet koster 2852 kr.**
@@ -634,13 +634,13 @@ c) ![](/img/user/_resources/chris-sparing-excel.png)
 
 Vi beregner prisen for alternativ 1 med 8 kjøretimer:
 
-$
+$$
 \begin{aligned}
 &3300 + 1580 + 5950 + 8500 + 8 \cdot 850 \\
 = \, &3300 + 1580 + 5950 + 8500 + 6800 \\
 = \, &26\,130 \, \mathrm{kr}
 \end{aligned}
-$
+$$
 
 Alternativ 2 koster $25\,000 \, \mathrm{kr}$ og inkluderer de samme kursene med 8 kjøretimer.
 
@@ -650,15 +650,15 @@ Alternativ 2 koster $25\,000 \, \mathrm{kr}$ og inkluderer de samme kursene med 
 
 Total innbetalt med lånet:
 
-$
+$$
 12 \cdot 2321 = 27\,852 \, \mathrm{kr}
-$
+$$
 
 Lånekostnad (det ekstra han betaler):
 
-$
+$$
 27\,852 - 25\,000 = 2\,852 \, \mathrm{kr}
-$
+$$
 
 **Den totale kostnaden for lånet er $\underline{\underline{2\,852 \, \mathrm{kr}}}$.**
 
@@ -723,13 +723,13 @@ Vi beregner og svarer på hvert av Isaks spørsmål.
 
 **Pris:**
 
-$
+$$
 \text{Alt 2:} \quad 118 + 799 + 178 = 1095 \, \mathrm{kr}
-$
+$$
 
-$
+$$
 1095 - 551 = 544 \, \mathrm{kr}
-$
+$$
 
 **Isak sparer $\underline{\underline{544 \, \mathrm{kr}}}$ ved å velge alternativ 1.**
 
@@ -737,17 +737,17 @@ $
 
 **Tid:**
 
-$
+$$
 \text{Alt 1:} \quad 14{:}19 - 07{:}32 = 6 \text{ t } 47 \text{ min} = 407 \text{ min}
-$
+$$
 
-$
+$$
 \text{Alt 2:} \quad 11{:}52 - 07{:}54 = 3 \text{ t } 58 \text{ min} = 238 \text{ min}
-$
+$$
 
-$
+$$
 407 - 238 = 169 \text{ min} = 2 \text{ t } 49 \text{ min}
-$
+$$
 
 **Isak sparer $\underline{\underline{2 \, \mathrm{timer} \, 49 \, \mathrm{minutter}}}$ ved å velge alternativ 2.**
 
@@ -757,9 +757,9 @@ $
 
 Vi bruker $v = \dfrac{s}{t}$ med $s = 416 \, \mathrm{km}$ og $t = \dfrac{407}{60} \, \mathrm{h}$:
 
-$
+$$
 v = \frac{416}{\frac{407}{60}} = \frac{416 \cdot 60}{407} \approx 61{,}3 \, \mathrm{km/h}
-$
+$$
 
 **Gjennomsnittsfarten til toget er $\underline{\underline{61{,}3 \, \mathrm{km/h}}}$.**
 
@@ -769,15 +769,15 @@ $
 
 Alternativ 1 (kun tog, 416 km):
 
-$
+$$
 416 \cdot 10 = 4\,160 \, \mathrm{g} = 4{,}16 \, \mathrm{kg}
-$
+$$
 
 Alternativ 2 (tog + fly + tog):
 
-$
+$$
 \underbrace{48 \cdot 10}_{480} + \underbrace{385 \cdot 133}_{51\,205} + \underbrace{38 \cdot 10}_{380} = 52\,065 \, \mathrm{g} \approx 52{,}1 \, \mathrm{kg}
-$
+$$
 
 **CO₂-utslipp: alternativ 1 gir $\underline{\underline{4{,}16 \, \mathrm{kg}}}$, alternativ 2 gir $\underline{\underline{52{,}1 \, \mathrm{kg}}}$.**
 
@@ -785,9 +785,9 @@ $
 
 **Prosentvis lavere utslipp, alternativ 1:**
 
-$
+$$
 \frac{52{,}065 - 4{,}160}{52{,}065} \cdot 100 \approx 92{,}0 \, \%
-$
+$$
 
 **Alternativ 1 har $\underline{\underline{92 \, \%}}$ lavere CO₂-utslipp enn alternativ 2.**
 

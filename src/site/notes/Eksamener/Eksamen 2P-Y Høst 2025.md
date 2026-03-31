@@ -30,10 +30,10 @@ Prisen for en vare settes opp fra 300 kroner til 315 kroner.
 Vi skal finne hvor mange prosent prisen øker med når den går fra 300 kr til 315 kr.
 
 Først finner vi økningen i kroner:
-$\text{Økning} = 315 - 300 = 15 \text{ kr}$
+$$\text{Økning} = 315 - 300 = 15 \text{ kr}$$
 
 Deretter finner vi hvor mange prosent denne økningen utgjør av den opprinnelige prisen:
-$\text{Prosentvis økning} = \frac{\text{Økning}}{\text{Opprinnelig pris}} \cdot 100\,\% = \frac{15}{300} \cdot 100\,\% = \frac{1500}{300}\,\% = 5\,\%$
+$$\text{Prosentvis økning} = \frac{\text{Økning}}{\text{Opprinnelig pris}} \cdot 100\,\% = \frac{15}{300} \cdot 100\,\% = \frac{1500}{300}\,\% = 5\,\%$$
 
 **Prisen settes opp med $\underline{\underline{5\,\%}}$.**
 
@@ -68,17 +68,17 @@ $2{,}0 \cdot 10^{8}$ kroner
 Vi skal finne *omtrent* hvor mye studentene betaler til sammen for kollektivtransport i løpet av et år. Månedskortene koster *omtrent* 500 kr.
 
 Vi regner ut totalbeløpet steg for steg:
-$
+$$
 \begin{aligned}
 \text{Totalt beløp} &= \text{Antall studenter} \cdot \text{Pris per kort} \cdot \text{Antall kort per år} \\
 &= 40\,000 \cdot 500 \cdot 10 \\
 &= 40\,000 \cdot 5000 \\
 &= 200\,000\,000 \text{ kr}
 \end{aligned}
-$
+$$
 
 På standardform blir dette:
-$200\,000\,000 = 2 \cdot 10^{8}$
+$$200\,000\,000 = 2 \cdot 10^{8}$$
 
 **Studentene betaler til sammen omtrent $\underline{\underline{2{,}0 \cdot 10^{8} \text{ kr}}}$ i løpet av et år.**
 
@@ -102,7 +102,7 @@ $200\,000\,000 = 2 \cdot 10^{8}$
 Sorter tallene nedenfor i stigende rekkefølge.
 Husk å argumentere for at rekkefølgen er riktig.
 
-$\sqrt{ 2 } \quad 0{,}02 \cdot 10^{2} \quad 3^{2} \quad 2^{0} \quad \sqrt{ 80 } \quad 3 \cdot 10^{-1} \quad 4^{-1}$
+$$\sqrt{ 2 } \quad 0{,}02 \cdot 10^{2} \quad 3^{2} \quad 2^{0} \quad \sqrt{ 80 } \quad 3 \cdot 10^{-1} \quad 4^{-1}$$
 
 ## Fasit
 
@@ -123,7 +123,7 @@ Vi regner ut verdien av hvert tall:
 - $3^{2} = 9$
 
 **Stigende rekkefølge:**
-$\underline{\underline{4^{-1} < 3 \cdot 10^{-1} < 2^{0} < \sqrt{2} < 0{,}02 \cdot 10^{2} < \sqrt{80} < 3^{2}}}$
+$$\underline{\underline{4^{-1} < 3 \cdot 10^{-1} < 2^{0} < \sqrt{2} < 0{,}02 \cdot 10^{2} < \sqrt{80} < 3^{2}}}$$
 
 
 </div></div>
@@ -171,15 +171,15 @@ c) Kumulativ frekvens: 10. Det var 10 vogner med 2 eller færre personer i.
 
 Vi vet at det er 20 vogner totalt. Fra tabellen kan vi finne hvor mange vogner som hadde personer i seg:
 
-$
+$$
 \begin{aligned}
 \text{Vogner med personer} &= 2 + 3 + 4 + 6 \\
 &= 15 \text{ vogner}
 \end{aligned}
-$
+$$
 
 Antall tomme vogner blir da:
-$\text{Tomme vogner} = 20 - 15 = 5$
+$$\text{Tomme vogner} = 20 - 15 = 5$$
 
 **Dette viser at Stines påstand er riktig - det var $\underline{\underline{5}}$ tomme vogner.**
 
@@ -190,15 +190,15 @@ Vi skal finne gjennomsnittet og medianen for antallet personer i hver vogn.
 **Gjennomsnitt:**
 
 For å finne gjennomsnittet må vi summere alle personene og dele på antall vogner:
-$
+$$
 \begin{aligned}
 \text{Totalt antall personer} &= 0 \cdot 5 + 1 \cdot 2 + 2 \cdot 3 + 3 \cdot 4 + 4 \cdot 6 \\
 &= 0 + 2 + 6 + 12 + 24 \\
 &= 44 \text{ personer}
 \end{aligned}
-$
+$$
 
-$\text{Gjennomsnitt} = \frac{44}{20} = 2{,}2$
+$$\text{Gjennomsnitt} = \frac{44}{20} = 2{,}2$$
 
 **Median:**
 
@@ -213,7 +213,7 @@ For å finne medianen må vi sortere alle vognene etter antall personer. Vi har:
 Sortert liste: $0, 0, 0, 0, 0, 1, 1, 2, 2, \textcolor{steelblue}{2}, \textcolor{seagreen}{3}, 3, 3, 3, 4, 4, 4, 4, 4, 4$
 
 Siden vi har 20 vogner (et partall), blir medianen gjennomsnittet av vogn nummer 10 og 11:
-$\text{Median} = \frac{\textcolor{steelblue}{2} + \textcolor{seagreen}{3}}{2} = 2{,}5$
+$$\text{Median} = \frac{\textcolor{steelblue}{2} + \textcolor{seagreen}{3}}{2} = 2{,}5$$
 
 **Gjennomsnittet er $\underline{\underline{2{,}2}}$ personer per vogn, og medianen er $\underline{\underline{2{,}5}}$ personer per vogn.**
 
@@ -224,7 +224,7 @@ Kumulativ frekvens forteller oss hvor mange vogner som har to personer eller fæ
 **Framgangsmåte:**
 
 Vi summerer antall vogner med 0, 1 og 2 personer:
-$\text{Kumulativ frekvens} = 5 + 2 + 3 = 10$
+$$\text{Kumulativ frekvens} = 5 + 2 + 3 = 10$$
 
 **Praktisk tolkning:** Den kumulative frekvensen for to personer er $\underline{\underline{10}}$. Dette betyr at 10 vogner hadde 2 personer eller færre i seg. Med andre ord: halvparten av vognene var enten tomme eller hadde maksimalt 2 personer.
 
@@ -310,7 +310,7 @@ La oss først se på mønsteret:
 Vi ser at hver ny figur får 2 flere pinner enn den forrige.
 
 **Figur 4:**
-$\text{Pinner i figur 4} = 7 + 2 = 9$
+$$\text{Pinner i figur 4} = 7 + 2 = 9$$
 
 **Figur 10:**
 
@@ -334,17 +334,17 @@ Vi skal lage en formel for antallet pinner i figur $n$.
 
 Vi ser at:
 
-$
+$$
 \begin{aligned}
 \text{Figur 1: } & 3 = 3 + 2 \cdot 0 = &&3 + 2(1-1) \\
 \text{Figur 2: } &5 = 3 + 2 \cdot 1 = &&3 + 2(2-1) \\
 \text{Figur 3: } &7 = 3 + 2 \cdot 2 = &&3 + 2(3-1) \\
 \text{Figur }n: & &&3 + 2(n-1)
 \end{aligned}
-$
+$$
 
 Vi kan forenkle dette:
-$P(n) = 3 + 2(n-1) = 3 + 2n - 2 = 2n + 1$
+$$P(n) = 3 + 2(n-1) = 3 + 2n - 2 = 2n + 1$$
 
 **Formelen er $\underline{\underline{P(n) = 2n + 1}}$.**
 
@@ -451,9 +451,9 @@ Vi skal finne hvor mange prosent omsetningen må øke med per måned etter juni 
 - Vi vil nå 20 000 kr i desember
 
 Vi kaller vekstfaktoren til økningen $x$ og setter opp likningen
-$
+$$
 2032 \cdot x^{6}=20\,000
-$
+$$
 
 ![CAS-løsning av oppgave 2-1d](/img/user/_resources/2py-h25-2-1d.png)
 
@@ -527,7 +527,7 @@ c) Danmark har større spredning i innbyggertall (større standardavvik). Median
 Vi skal beregne median, gjennomsnitt, standardavvik og variasjonsbredde for innbyggertallet. Vi bruker regnearket i GeoGebra.
 
 **Variasjonsbredde:**
-$\text{Variasjonsbredde} = \text{Maks} - \text{Min} = 1\,098\,061 - 55\,684 = 1\,042\,377$
+$$\text{Variasjonsbredde} = \text{Maks} - \text{Min} = 1\,098\,061 - 55\,684 = 1\,042\,377$$
 
 **Resultater:**
 
@@ -700,22 +700,22 @@ Vi skal beregne hvor mye penger Fatima, Adrian og Vegard har ved starten av 2025
 
 ### Fatima - Aksjefond med 36% vekst over 5 år
 
-$
+$$
 \begin{aligned}
 \text{Verdi i 2025} &= 100\,000 \cdot 1{,}36 \\
 &= 136\,000 \text{ kr}
 \end{aligned}
-$
+$$
 
 ### Adrian - Sparekonto med 5,7% årlig rente
 
-$
+$$
 \begin{aligned}
 \text{Verdi i 2025} &= 100\,000 \cdot 1{,}057^{5} \\
 &= 100\,000 \cdot 1{,}3194 \\
 &= 131\,940 \text{ kr}
 \end{aligned}
-$
+$$
 
 ### Vegard - Ulike aksjer med årlige endringer
 
@@ -731,7 +731,7 @@ Vi må regne år for år:
 | Etter 2024   |        1,17 | $118\,228 \cdot 1{,}17$ |    138 326 |
 
 Alternativ utregning i ett steg:
-$100\,000 \cdot 1{,}20 \cdot 0{,}89 \cdot 0{,}90 \cdot 1{,}23 \cdot 1{,}17 = 138\,326 \text{ kr}$
+$$100\,000 \cdot 1{,}20 \cdot 0{,}89 \cdot 0{,}90 \cdot 1{,}23 \cdot 1{,}17 = 138\,326 \text{ kr}$$
 
 ### Oversikt ved starten av 2025:
 
@@ -800,13 +800,13 @@ Vi bruker midtpunktet i hvert intervall:
 | $[80, 90\rangle$  |    85     |       33        |         $85 \cdot 33 = 2805$ |
 | $[90, 100\rangle$ |    95     |       15        |         $95 \cdot 15 = 1425$ |
 
-$
+$$
 \begin{aligned}
 \text{Sum alder} &= 1692 + 11\,798 + 13\,865 + 7571 + 2805 + 1425 = 39\,156 \\
 \text{Antall personer} &= 188 + 347 + 237 + 103 + 33 + 15 = 923 \\
 \text{Gjennomsnittsalder} &= \frac{39\,156}{923} = 42{,}4 \text{ år}
 \end{aligned}
-$
+$$
 
 **Gjennomsnittsalderen i Åseral kommune var $\underline{\underline{42{,}4}}$ år i 2024.**
 
@@ -834,7 +834,7 @@ Hvis vi antar jevn fordeling i intervallet $[18, 50\rangle$:
 Totalt antall over gjennomsnittet: $388 + 83 = 471$
 
 Prosentandel:
-$\frac{471}{923} \cdot 100\,\% \approx 51{,}0\,\%$
+$$\frac{471}{923} \cdot 100\,\% \approx 51{,}0\,\%$$
 
 **Omtrent $\underline{\underline{51\,\%}}$ av befolkningen i Åseral kommune var eldre enn gjennomsnittsalderen i 2024.**
 
@@ -895,7 +895,7 @@ I dette tilfellet må klassen kjøpe både juletre OG julekuler. La oss si at:
 - Hver julekule koster 20 kr
 
 Da blir totalprisen:
-$\text{Totalpris} = 500 + 20 \cdot \text{antall kuler}$
+$$\text{Totalpris} = 500 + 20 \cdot \text{antall kuler}$$
 
 Dette er **ikke** en proporsjonal sammenheng fordi:
 
@@ -918,7 +918,7 @@ Forholdet $\frac{\text{pris}}{\text{antall kuler}}$ endres hele tiden, så det e
 To størrelser er omvendt proporsjonale hvis produktet av dem alltid er det samme, altså $x \cdot y = k$ (konstant), eller $y = \frac{k}{x}$.
 
 La oss si at det totale beløpet (juletre + kuler) er 800 kr. Da blir beløpet per person:
-$\text{Beløp per person} = \frac{800}{\text{antall personer}}$
+$$\text{Beløp per person} = \frac{800}{\text{antall personer}}$$
 
 Vi ser at:
 
@@ -929,7 +929,7 @@ Vi ser at:
 
 Vi ser at når antallet personer **dobles**, så **halveres** beløpet per person. Produktet er alltid konstant:
 
-$2 \cdot 400 = 4 \cdot 200 = 8 \cdot 100 = 16 \cdot 50 = 800$
+$$2 \cdot 400 = 4 \cdot 200 = 8 \cdot 100 = 16 \cdot 50 = 800$$
 
 Dette er typisk for omvendt proporsjonale størrelser.
 

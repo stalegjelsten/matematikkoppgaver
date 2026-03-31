@@ -24,12 +24,12 @@ Vi trekker tilfeldig ut 27 elever i Vg3. Vi antar at sannsynligheten for at en t
 
 Ledelsen ved skolen hadde en mistanke om at det nye fraværsreglementet som ble innført i august 2016, ville føre til mindre fravær. Før russetiden startet, satte de derfor opp to hypoteser som de ønsket å teste.  
 
-$
+$$
 \begin{aligned}
 H_{0}&: \quad p=0{,}32 \\
 H_{1}&: \quad p<0{,}32 \\
 \end{aligned}
-$
+$$
 
 De ønsket å bruke et signifikansnivå på 5 %.  
 
@@ -51,7 +51,7 @@ La $X$ = antall elever av de 27 som har fravær. $X$ er binomisk fordelt med $n 
 
 «Minst 20 ikke har fravær» betyr at høyst $27 - 20 = 7$ elever har fravær, altså $X \leq 7$.
 
-$P(X \leq 7) \approx \underline{\underline{0{,}33}}$
+$$P(X \leq 7) \approx \underline{\underline{0{,}33}}$$
 
 **Sannsynligheten for at minst 20 av 27 elever ikke har fravær er $\underline{\underline{0{,}33}}$.**
 
@@ -60,7 +60,7 @@ $P(X \leq 7) \approx \underline{\underline{0{,}33}}$
 >La $Y$ = antall elever uten fravær. $Y$ er binomisk fordelt med $n = 27$ og $p = 0{,}68$.
 >
 >Da er «minst 20 ikke har fravær» direkte $Y \geq 20$:
->$P(Y \geq 20) \approx 0{,}33$
+>$$P(Y \geq 20) \approx 0{,}33$$
 >
 >Samme svar, men uten å måtte snu på problemstillingen.
 
@@ -70,8 +70,8 @@ La $X$ = antall elever med fravær blant de 120. Under $H_0$ er $X$ binomisk for
 
 ![](/img/user/_resources/s2-v19-2-5b-gg.png)
 
-$P(X \leq 29) \approx 0{,}038 < 0{,}05 \quad \checkmark$
-$P(X \leq 30) \approx 0{,}059 > 0{,}05 \quad \times$
+$$P(X \leq 29) \approx 0{,}038 < 0{,}05 \quad \checkmark$$
+$$P(X \leq 30) \approx 0{,}059 > 0{,}05 \quad \times$$
 
 **Det høyeste antallet elever som kan ha fravær for at $H_0$ forkastes, er $\underline{\underline{29}}$.**
 

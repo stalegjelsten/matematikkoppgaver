@@ -9,7 +9,7 @@
 En uendelig geometrisk rekke er gitt ved $1+x+x^{2}+x^{3}+\dots$
 
 Det kan vises at 
-$$ \int 1 \, \mathrm{d}x + \int x \, \mathrm{d}x + \int x^{2} \, \mathrm{d}x + \int x^{3} \, \mathrm{d}x + \dots= \int \frac{1}{1-x} \, \mathrm{d}x   $$
+$$ \int 1 \, \mathrm{d}x + \int x \, \mathrm{d}x + \int x^{2} \, \mathrm{d}x + \int x^{3} \, \mathrm{d}x + \dots= \int \frac{1}{1-x} \, \mathrm{d}x $$
 
 Bruk denne sammenhengen til å vise at
 

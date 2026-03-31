@@ -17,11 +17,11 @@
 
 >[!oppgave]
 >a) Deriver funksjonen $f$ gitt ved
->$f(x) = \frac{1}{3}x^3 + \sqrt{x} + 2$
+>$$f(x) = \frac{1}{3}x^3 + \sqrt{x} + 2$$
 
 Funksjon $g$ gitt ved
 
-$g(x) = \frac{2x-3}{e^x}$
+$$g(x) = \frac{2x-3}{e^x}$$
 
 er kontinuerlig og deriverbar for alle $x \in \mathbb{R}$.
 
@@ -41,9 +41,9 @@ c) $g$ har et toppunkt i $\langle 2, 3 \rangle$
 
 Vi skriver om $f(x) = \frac{1}{3}x^3 + x^{1/2} + 2$ og deriverer ledd for ledd:
 
-$
+$$
 f'(x) = x^2 + \frac{1}{2}x^{-1/2} = x^2 + \frac{1}{2\sqrt{x}}
-$
+$$
 
 **$\underline{\underline{f'(x) = x^2 + \dfrac{1}{2\sqrt{x}}}}$**
 
@@ -51,15 +51,15 @@ $
 
 Vi bruker kvotientsregelen på $g(x) = \dfrac{2x-3}{e^x}$:
 
-$
+$$
 g'(x) = \frac{2 \cdot e^x - (2x-3) \cdot e^x}{e^{2x}} = \frac{e^x \bigl(2 - (2x-3)\bigr)}{e^{2x}} = \frac{5-2x}{e^x}
-$
+$$
 
 Da er
 
-$
+$$
 g'(2) = \frac{5-4}{e^2} = \frac{1}{e^2} \approx 0{,}14 \qquad \text{og} \qquad g'(3) = \frac{5-6}{e^3} = -\frac{1}{e^3} \approx -0{,}05
-$
+$$
 
 **$\underline{\underline{g'(2) = \dfrac{1}{e^2} \approx 0{,}14}}$ og $\underline{\underline{g'(3) = -\dfrac{1}{e^3} \approx -0{,}05}}$**
 
@@ -84,9 +84,9 @@ Siden $g'(2) > 0$ er $g$ stigende i $x = 2$, og siden $g'(3) < 0$ er $g$ avtagen
 
 >[!oppgave]
 >a) Løs likningen
->$(\lg x)^2 - 2\lg x = 8$
+>$$(\lg x)^2 - 2\lg x = 8$$
 >b) Bestem $a$ slik at
->$\log_a \frac{1}{64} = -3$
+>$$\log_a \frac{1}{64} = -3$$
 
 ## Fasit
 
@@ -99,17 +99,17 @@ b) $a = 4$
 
 Vi setter $u = \lg x$ og løser den kvadratiske likningen:
 
-$
+$$
 u^2 - 2u - 8 = 0 \implies (u-4)(u+2) = 0
-$
+$$
 
 Så $u = 4$ eller $u = -2$, det vil si
 
-$
+$$
 \lg x = 4 \implies x = 10^4 = 10000
 \qquad \text{eller} \qquad
 \lg x = -2 \implies x = 10^{-2} = 0{,}01
-$
+$$
 
 **$\underline{\underline{x = 10000}}$ eller $\underline{\underline{x = 0{,}01}}$**
 
@@ -136,11 +136,11 @@ Likningen $\log_a \dfrac{1}{64} = -3$ betyr $a^{-3} = \dfrac{1}{64}$, altså $a^
 
 >[!oppgave]
 >a) Bestem grenseverdien dersom den eksisterer:
->$\lim_{x \to -2} \frac{x^2 - 4x + 2}{x^2 - 2x - 8}$
+>$$\lim_{x \to -2} \frac{x^2 - 4x + 2}{x^2 - 2x - 8}$$
 >
 >b)
 >    1) Bestem $a$ slik at grenseverdien eksisterer:
->    $\lim_{x \to -2} \frac{x^2 + ax + 2}{x^2 - 2x - 8}$
+>    $$\lim_{x \to -2} \frac{x^2 + ax + 2}{x^2 - 2x - 8}$$
 >    2) Bestem grenseverdien for denne verdien av $a$.
 
 ## Fasit
@@ -156,9 +156,9 @@ Vi faktoriserer nevneren: $x^2 - 2x - 8 = (x-4)(x+2)$.
 
 Nevneren går mot 0 når $x \to -2$, mens telleren gir
 
-$
+$$
 (-2)^2 - 4(-2) + 2 = 4 + 8 + 2 = 14 \neq 0
-$
+$$
 
 Siden teller $\to 14$ og nevner $\to 0$, eksisterer **ikke** grenseverdien.
 
@@ -168,9 +168,9 @@ Siden teller $\to 14$ og nevner $\to 0$, eksisterer **ikke** grenseverdien.
 
 For at grenseverdien skal eksistere, må telleren også gå mot 0 når $x \to -2$ (siden nevneren gjør det). Vi krever
 
-$
+$$
 (-2)^2 + a(-2) + 2 = 0 \implies 4 - 2a + 2 = 0 \implies a = 3
-$
+$$
 
 **$\underline{\underline{a = 3}}$**
 
@@ -178,9 +178,9 @@ $
 
 Med $a = 3$: teller $= x^2 + 3x + 2 = (x+1)(x+2)$.
 
-$
+$$
 \lim_{x \to -2} \frac{(x+1)(x+2)}{(x-4)(x+2)} = \lim_{x \to -2} \frac{x+1}{x-4} = \frac{-2+1}{-2-4} = \frac{-1}{-6} = \frac{1}{6}
-$
+$$
 
 **Grenseverdien er $\underline{\underline{\dfrac{1}{6}}}$.**
 
@@ -224,9 +224,9 @@ c) $t = -3$
 
 ### 1-4a
 
-$
+$$
 |AB| = \sqrt{(3-(-2))^2 + (2-3)^2} = \sqrt{25 + 1} = \sqrt{26}
-$
+$$
 
 **$\underline{\underline{|AB| = \sqrt{26}}}$**
 
@@ -234,9 +234,9 @@ $
 
 Stigningstallet til linjen gjennom $A(-2,3)$ og $B(3,2)$ er
 
-$
+$$
 m = \frac{2-3}{3-(-2)} = -\frac{1}{5}
-$
+$$
 
 Linjens ligning: $y - 3 = -\dfrac{1}{5}(x + 2)$, det vil si $y = \dfrac{13}{5} - \dfrac{x}{5}$.
 
@@ -248,14 +248,14 @@ For $y = 0$: $x = 13$.
 
 Vinkelen $\angle ABD = 90°$ betyr at $\vec{BA} \perp \vec{BD}$, altså $\vec{BA} \cdot \vec{BD} = 0$.
 
-$
+$$
 \vec{BA} = (-5,\; 1) \qquad \vec{BD} = (2-3,\; t-2) = (-1,\; t-2)
-$
+$$
 
-$
+$$
 \vec{BA} \cdot \vec{BD} = (-5)(-1) + 1 \cdot (t-2) = 5 + t - 2 = 3 + t = 0
 \implies t = -3
-$
+$$
 
 **$\underline{\underline{t = -3}}$**
 
@@ -276,7 +276,7 @@ $
 
 En funksjon $f$ er gitt ved
 
-$f(x) = 4x^2 \cdot \ln x$
+$$f(x) = 4x^2 \cdot \ln x$$
 
 >[!oppgave]
 >a) Bestem koordinatene til eventuelle topp- og bunnpunkter på grafen til $f$.
@@ -324,17 +324,17 @@ b) $m \approx 1{,}000$
 
 $f(x) = 4x^2 \ln x$ er definert for $x > 0$.
 
-$
+$$
 f'(x) = 8x \ln x + 4x^2 \cdot \frac{1}{x} = 8x \ln x + 4x = 4x(2\ln x + 1)
-$
+$$
 
 For $x > 0$ er $4x > 0$, så $f'(x) = 0$ når $2\ln x + 1 = 0$, det vil si $\ln x = -\dfrac{1}{2}$, altså $x = e^{-1/2} = \dfrac{1}{\sqrt{e}}$.
 
 Fortegnskifte: $f' < 0$ for $x < e^{-1/2}$ og $f' > 0$ for $x > e^{-1/2}$, så dette er et **bunnpunkt**.
 
-$
+$$
 f\left(e^{-1/2}\right) = 4 \cdot e^{-1} \cdot \ln\left(e^{-1/2}\right) = \frac{4}{e} \cdot \left(-\frac{1}{2}\right) = -\frac{2}{e}
-$
+$$
 
 **Bunnpunkt: $\underline{\underline{\left(\dfrac{1}{\sqrt{e}},\; -\dfrac{2}{e}\right)}}$**
 
@@ -385,7 +385,7 @@ Tabellen nedenfor viser folketallet på et lite tettsted, noen år i perioden 19
 
 >[!oppgave]
 >a) Bruk informasjonen til å lage en modell $F$ på formen
->$F(t) = \frac{B}{1 + a \cdot e^{-kt}}$
+>$$F(t) = \frac{B}{1 + a \cdot e^{-kt}}$$
 >for antall personer $F(t)$ som bodde på dette tettstedet $t$ år etter 1960. Vurder modellens gyldighetsområde.
 >b) Bestem $F'(12)$ og $F''(12)$. Gi en praktisk tolkning av svarene.
 >c) Når økte antall personer som bodde på dette tettstedet, med mer enn 150 personer per år ifølge modellen?
@@ -404,9 +404,9 @@ Vi plotter datapunktene i GeoGebra og bruker **Regresjon → Logistisk** til å 
 
 Regresjonen gir (avrundede verdier):
 
-$
+$$
 F(t) = \frac{2841}{1 + 5{,}08 \cdot e^{-0{,}247t}}
-$
+$$
 
 **Modell: $\underline{\underline{F(t) = \dfrac{2841}{1 + 5{,}08 \cdot e^{-0{,}247t}}}}$**
 
@@ -416,7 +416,7 @@ $
 
 Vi deriverer $F(t)$ og evaluerer i GeoGebra CAS:
 
-$F'(t) = \frac{B \cdot k \cdot a \cdot e^{-kt}}{(1 + a \cdot e^{-kt})^2}$
+$$F'(t) = \frac{B \cdot k \cdot a \cdot e^{-kt}}{(1 + a \cdot e^{-kt})^2}$$
 
 ![GeoGebra CAS løsning for oppgave 2-1b](/img/user/_resources/r1-h25-2-1-b-CAS.png)
 
@@ -432,7 +432,7 @@ Praktisk tolkning: $F''(12) < 0$ betyr at veksthastigheten er **avtagende** i 19
 
 Vi setter $F'(t) = 150$ og løser i GeoGebra CAS:
 
-$F'(t) = 150$
+$$F'(t) = 150$$
 
 ![GeoGebra CAS løsning for oppgave 2-1c](/img/user/_resources/r1-h25-2-1-c-CAS.png)
 
@@ -461,7 +461,7 @@ Siden $F'(t)$ stiger mot maksimum og deretter synker, er $F'(t) > 150$ for $t \i
 
 Funksjonen $f$ er gitt ved
 
-$f(x) = \begin{cases} ax + b & x \le -2 \\ 2x^3 + 2x^2 - 2x \quad  & -2 < x < k \\ c & x \ge k \end{cases} \quad \text{der } a, b, c \in \mathbb{R} \text{ og } k \in \langle -2, \rightarrow \rangle$
+$$f(x) = \begin{cases} ax + b & x \le -2 \\ 2x^3 + 2x^2 - 2x \quad  & -2 < x < k \\ c & x \ge k \end{cases} \quad \text{der } a, b, c \in \mathbb{R} \text{ og } k \in \langle -2, \rightarrow \rangle$$
 
 >[!oppgave]
 >a) Avgjør om $f$ er kontinuerlig når $x = -2$ dersom $a = 2$ og $b = -2$.
@@ -490,7 +490,7 @@ Siden $-6 \neq -4$ er ikke grenseverdien lik funksjonsverdien, og **$f$ er ikke 
 
 Middeldelen i $x = -2$ gir (som beregnet ovenfor):
 
-$\lim_{x \to -2^+} f(x) = 2(-2)^3 + 2(-2)^2 - 2(-2) = -4$
+$$\lim_{x \to -2^+} f(x) = 2(-2)^3 + 2(-2)^2 - 2(-2) = -4$$
 
 Venstresiden: $f(-2) = -2a + b$.
 
@@ -512,7 +512,7 @@ For deriverbarhet: høyresiden har $f'(x) = 0$. Middeldelen: $f'(k) = 6k^2 + 4k 
 
 Krav om deriverbarhet: $6k^2 + 4k - 2 = 0 \implies 3k^2 + 2k - 1 = 0 \implies (3k-1)(k+1) = 0$
 
-$k = \frac{1}{3} \quad \text{eller} \quad k = -1$
+$$k = \frac{1}{3} \quad \text{eller} \quad k = -1$$
 
 Begge verdiene er i $\langle -2, \rightarrow \rangle$. Vi beregner $c$ for begge:
 
@@ -522,7 +522,7 @@ Begge verdiene er i $\langle -2, \rightarrow \rangle$. Vi beregner $c$ for begge
 
 **Svar:**
 
-$\underline{\underline{a = 14, \quad b = 24}}$
+$$\underline{\underline{a = 14, \quad b = 24}}$$
 
 og enten $\underline{\underline{k = \dfrac{1}{3},\ c = -\dfrac{10}{27}}}$ eller $\underline{\underline{k = -1,\ c = 2}}$.
 
@@ -549,7 +549,7 @@ Prøvene analyseres, og hver prøve gis en luktverdi $C$. Denne luktverdien er g
 
 Sammenhengen mellom $C$ og luktintensiteten $I$ er gitt ved
 
-$I = 1{,}4 \cdot \lg(C) - 0{,}3$
+$$I = 1{,}4 \cdot \lg(C) - 0{,}3$$
 
 Biogassanlegget er pålagt å forholde seg til tabellen nedenfor.
 
@@ -582,12 +582,12 @@ b) $C \le 44 \, \mathrm{OU/m^3}$
 
 Vi beregner luktintensiteten for de to ytterverdiene $C = 500$ og $C = 1400$:
 
-$
+$$
 \begin{aligned}
 I(500) &= 1{,}4 \cdot \lg(500) - 0{,}3 \approx 1{,}4 \cdot 2{,}699 - 0{,}3 \approx 3{,}48 \\
 I(1400) &= 1{,}4 \cdot \lg(1400) - 0{,}3 \approx 1{,}4 \cdot 3{,}146 - 0{,}3 \approx 4{,}10
 \end{aligned}
-$
+$$
 
 Luktintensiteten ligger mellom ca. $3{,}5$ og $4{,}1$, noe som ifølge tabellen tilsvarer kategoriene «plagsom lukt, bør begrenses» og «plagsomt, tiltak kreves».
 
@@ -597,13 +597,13 @@ Luktintensiteten ligger mellom ca. $3{,}5$ og $4{,}1$, noe som ifølge tabellen 
 
 For akseptabel luktintensitet kreves $I \le 2$:
 
-$
+$$
 1{,}4 \cdot \lg(C) - 0{,}3 \le 2 \implies 1{,}4 \cdot \lg(C) \le 2{,}3 \implies \lg(C) \le \frac{2{,}3}{1{,}4} = \frac{23}{14}
-$
+$$
 
-$
+$$
 C \le 10^{23/14} \approx 44 \, \mathrm{OU/m^3}
-$
+$$
 
 **Nye prøver må vise $\underline{\underline{C \le 44 \, \mathrm{OU/m^3}}}$ for at luktintensiteten skal bli akseptabel.**
 
@@ -630,7 +630,7 @@ Ina følger en sti fra ei hytte til et utsiktspunkt. I et koordinatsystem der en
 
 >[!oppgave]
 >a) Forklar at parameterframstillingen
->$I: \begin{cases} x = 1200s &\\ y = 300 + 100s \end{cases} \quad s \in [0, 1]$
+>$$I: \begin{cases} x = 1200s &\\ y = 300 + 100s \end{cases} \quad s \in [0, 1]$$
 >gir den rette linja mellom hytta og utsiktspunktet.
 
 Hele turen tar 20 minutter.
@@ -643,7 +643,7 @@ Jonas er ute på tur i samme område som Ina. De to vennene møter hverandre.
 
 Jonas sin posisjon $t$ minutter etter at han startet sin tur, er gitt ved
 
-$j: \begin{cases} x = 520 - 20t &\\ y = 310 + 5t \end{cases}$
+$$j: \begin{cases} x = 520 - 20t &\\ y = 310 + 5t \end{cases}$$
 
 >[!oppgave]
 >d) Hvor langt har Ina gått når hun møter Jonas?
@@ -660,9 +660,9 @@ d) $35\sqrt{145} \approx 421{,}5 \, \mathrm{m}$
 
 Parameterframstillingen er
 
-$
+$$
 I: \begin{cases} x = 1200s \\ y = 300 + 100s \end{cases} \quad s \in [0, 1]
-$
+$$
 
 Vi sjekker endepunktene:
 
@@ -675,9 +675,9 @@ Retningsvektoren er $(1200, 100) = \vec{HU}$, og startpunktet er $H$. Dermed er 
 
 Hele turen er 20 minutter, og etter 5 minutter er $s = \dfrac{5}{20} = \dfrac{1}{4}$.
 
-$
+$$
 x = 1200 \cdot \frac{1}{4} = 300 \qquad y = 300 + 100 \cdot \frac{1}{4} = 325
-$
+$$
 
 **Etter 5 minutter er Ina i posisjonen $\underline{\underline{(300,\; 325)}}$.**
 
@@ -685,15 +685,15 @@ $
 
 Strekningslengden fra $H$ til $U$ er
 
-$
+$$
 |HU| = \sqrt{1200^2 + 100^2} = \sqrt{1\,440\,000 + 10\,000} = \sqrt{1\,450\,000} = 100\sqrt{145} \approx 1204 \, \mathrm{m}
-$
+$$
 
 Turen tar 20 min $= 20 \cdot 60 \, \mathrm{s} = 1200 \, \mathrm{s}$.
 
-$
+$$
 v = \frac{100\sqrt{145}}{1200} = \frac{\sqrt{145}}{12} \approx 1{,}00 \, \mathrm{m/s}
-$
+$$
 
 **Farten til Ina er $\underline{\underline{\dfrac{\sqrt{145}}{12} \approx 1{,}00 \, \mathrm{m/s}}}$.**
 
@@ -701,26 +701,26 @@ $
 
 Vi skriver Inas posisjon som funksjon av sin tid $t_I$ (minutter fra start):
 
-$
+$$
 I: \begin{cases} x = 60\, t_I \\ y = 300 + 5\, t_I \end{cases}
-$
+$$
 
 Vi setter Inas og Jonas sin posisjon lik hverandre:
 
-$
+$$
 \begin{cases}
 60\, t_I = 520 - 20\, t_J \\
 300 + 5\, t_I = 310 + 5\, t_J
 \end{cases}
-$
+$$
 
 Fra andre ligning: $t_I - t_J = 2$, dvs. $t_I = t_J + 2$.
 
 Setter inn i første ligning:
 
-$
+$$
 60(t_J + 2) = 520 - 20\, t_J \implies 80\, t_J = 400 \implies t_J = 5
-$
+$$
 
 Altså $t_I = 7$ (Ina har gått i 7 minutter).
 
@@ -728,9 +728,9 @@ Møtepunkt: $(60 \cdot 7,\; 300 + 5 \cdot 7) = (420, 335)$.
 
 Avstand Ina har gått:
 
-$
+$$
 \sqrt{(420 - 0)^2 + (335 - 300)^2} = \sqrt{420^2 + 35^2} = \sqrt{176\,400 + 1\,225} = \sqrt{177\,625} = 35\sqrt{145}
-$
+$$
 
 Alternativt: Ina har gått $\dfrac{7}{20}$ av turen, så $\dfrac{7}{20} \cdot 100\sqrt{145} = 35\sqrt{145}$.
 
@@ -776,20 +776,20 @@ b) $t = -\dfrac{6}{7}$
 
 Vi beregner $|\vec{p}|^2 = |\vec{a} + \vec{b}|^2$:
 
-$
-|\vec{p}|^2 = |\vec{a}|^2 + 2\,\vec{a} \cdot \vec{b} + |\vec{b}|$
+$$
+|\vec{p}|^2 = |\vec{a}|^2 + 2\,\vec{a} \cdot \vec{b} + |\vec{b}|$$
 
 Prikkproduktet er
 
-$
+$$
 \vec{a} \cdot \vec{b} = |\vec{a}|\,|\vec{b}|\cos 30° = 4 \cdot 2\sqrt{3} \cdot \frac{\sqrt{3}}{2} = 4 \cdot 3 = 12
-$
+$$
 
 Dermed
 
-$
+$$
 |\vec{p}|^2 = 16 + 2 \cdot 12 + 12 = 52
-$
+$$
 
 **$\underline{\underline{|\vec{p}| = \sqrt{52} = 2\sqrt{13}}}$**
 
@@ -797,14 +797,14 @@ $
 
 $\vec{p} \perp \vec{q}$ krever $\vec{p} \cdot \vec{q} = 0$:
 
-$
+$$
 (\vec{a} + \vec{b}) \cdot (t\vec{a} + \vec{b})
 = t|\vec{a}|^2 + \vec{a} \cdot \vec{b} + t\,\vec{a} \cdot \vec{b} + |\vec{b}|= 16t + 12 + 12t + 12 = 28t + 24
-$
+$$
 
-$
+$$
 28t + 24 = 0 \implies t = -\frac{24}{28} = -\frac{6}{7}
-$
+$$
 
 **$\underline{\underline{t = -\dfrac{6}{7}}}$**
 
