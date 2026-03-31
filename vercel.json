@@ -5,8 +5,11 @@
       }
     },
     "outputDirectory": "dist",
-    "installCommand": "npm install",
+    "installCommand": "npm install && cd tavle && npm install",
     "buildCommand": "npm run build",
+    "env": {
+      "USE_FULL_RESOLUTION_IMAGES": "true"
+    },
     "devCommand": "npm run start",
     "routes": [
         { "handle": "filesystem" },

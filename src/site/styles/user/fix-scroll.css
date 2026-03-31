@@ -2,6 +2,14 @@ html, body {
   overscroll-behavior-x: auto;
 }
 
+/* På mobil vises filetree-navbar (position: fixed), men body mangler .has-navbar.
+   Legg til margin-top manuelt slik at innholdet ikke skjules bak navigasjonslinjen. */
+@media (max-width: 1000px) {
+  .content {
+    margin-top: var(--dg-navbar-height) !important;
+  }
+}
+
 /* TOC fyller tilgjengelig høyde i sidebar */
 .toc {
   flex: 1;

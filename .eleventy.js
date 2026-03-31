@@ -151,18 +151,16 @@ module.exports = function(eleventyConfig) {
       },
     })
     .use(function(md) {
-      const origMathBlock = md.renderer.rules.math_block;
-      if (origMathBlock) {
-        md.renderer.rules.math_block = (tokens, idx, options, env, self) => {
-          // Strip blockquote markers
-          tokens[idx].content = tokens[idx].content.replace(/^> /gm, "");
-
-          // Also handle cases where label might have ended up inside the token content
-          tokens[idx].content = tokens[idx].content.replace(/\{#eq:[\w-]+\}\s*$/g, "");
-
-          return origMathBlock(tokens, idx, options, env, self);
-        };
-      }
+      // Override renderers to output raw LaTeX for client-side MathJax
+      md.renderer.rules.math_inline = (tokens, idx) => {
+        return `<span class="math inline">\\(${tokens[idx].content}\\)</span>`;
+      };
+      md.renderer.rules.math_block = (tokens, idx) => {
+        let content = tokens[idx].content;
+        content = content.replace(/^> /gm, "");
+        content = content.replace(/\{#eq:[\w-]+\}\s*$/g, "");
+        return `<div class="math display">\\[${content}\\]</div>\n`;
+      };
     })
     .use(require("markdown-it-attrs"))
     .use(require("markdown-it-task-checkbox"), {
@@ -817,6 +815,24 @@ module.exports = function(eleventyConfig) {
   }
 
 
+  eleventyConfig.addTransform("github-raw-images", function(str) {
+    if (!isMarkdownPage(this.page.inputPath)) {
+      return str;
+    }
+    if (process.env.ELEVENTY_ENV !== "prod") {
+      return str;
+    }
+    const parsed = parse(str);
+    for (const imageTag of parsed.querySelectorAll("img")) {
+      const src = imageTag.getAttribute("src");
+      if (src && src.startsWith("/img/user/_resources/")) {
+        const githubRaw = "https://github.com/stalegjelsten/matematikkoppgaver/raw/master/src/site" + src;
+        imageTag.setAttribute("src", githubRaw);
+      }
+    }
+    return str && parsed.innerHTML;
+  });
+
   eleventyConfig.addTransform("picture", function(str) {
     if (!isMarkdownPage(this.page.inputPath)) {
       return str;
@@ -958,8 +974,8 @@ module.exports = function(eleventyConfig) {
           collapseWhitespace: true,
           conservativeCollapse: true,
           preserveLineBreaks: true,
-          minifyCSS: true,
-          minifyJS: true,
+          minifyCSS: false,
+          minifyJS: false,
           keepClosingSlash: true,
         });
       } catch {

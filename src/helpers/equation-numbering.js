@@ -21,25 +21,25 @@ module.exports = function (content) {
     let mathBlockInsideEl = false;
     
     // 1. Check if the element itself is a math container
-    if (el.tagName === "MJX-CONTAINER") {
+    if (el.classList && el.classList.contains("math") && el.classList.contains("display")) {
       mathBlock = el;
     } else {
       // 2. Check if there's a math container inside the element
-      mathBlock = el.querySelector("mjx-container");
+      mathBlock = el.querySelector("div.math.display");
       if (mathBlock) {
           mathBlockInsideEl = true;
       }
-      
+
       if (!mathBlock) {
         // 3. Look at previous siblings (up to 2 steps to handle newlines/paragraphs)
         let prev = el.previousElementSibling;
         let steps = 0;
         while (prev && steps < 3) {
-          if (prev.tagName === "MJX-CONTAINER") {
+          if (prev.classList && prev.classList.contains("math") && prev.classList.contains("display")) {
             mathBlock = prev;
             break;
           }
-          const inner = prev.querySelector("mjx-container");
+          const inner = prev.querySelector("div.math.display");
           if (inner) {
             mathBlock = inner;
             break;
