@@ -1,5 +1,11 @@
 {% if "oppgave" in tags %}
 {% set fagArray = fag | toArray %}
+{% if status == 0 %}
+<div class="callout" data-callout="warning">
+  <div class="callout-title"><div class="callout-icon"></div><div class="callout-title-inner">Ikke kvalitetssikret</div></div>
+  <div class="callout-content"><p>Denne oppgaven er lest inn med KI og er ikke kontrollert enda. Det kan forekomme feil.</p></div>
+</div>
+{% endif %}
 <p><em>
 {%- if not eksamen or eksamen == "ingen" -%}
   {%- if source -%}

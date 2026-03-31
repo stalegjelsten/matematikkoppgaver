@@ -1004,7 +1004,7 @@ module.exports = function(eleventyConfig) {
   //   an extra level (total +2) so Fasit/Løsningsforslag nest under Oppgave in the TOC.
   const cheerioForToc = require("cheerio");
   const TocClass = require("./node_modules/eleventy-plugin-nesting-toc/toc");
-  eleventyConfig.addFilter("toc", (content, opts) => {
+  eleventyConfig.addFilter("tocNested", (content, opts) => {
     const $ = cheerioForToc.load(content);
 
     // Inside transclusions: exclude h1, shift h2→h4, h3→h5, h4→h6
