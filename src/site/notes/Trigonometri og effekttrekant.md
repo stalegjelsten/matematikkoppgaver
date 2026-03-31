@@ -23,6 +23,7 @@ Maksimalt tillatt avvik er $\pm {,}1 \mathrm{~Hz}$.
 
 Figuren under viser en effekttrekant som viser sammenhengen mellom reaktiv effekt ($Q$), tilført effekt ($P$), tilsynelatende effekt ($S$) og fasevinkel ($\varphi$) i en elmotor.
 
+
 ![Effekttrekant elmotor](/img/user/_resources/1pyel-v23-1-4-3.jpeg)
 
 I denne trekanten er $P = 40 \mathrm{~W}$ og $\cos \varphi = \dfrac{40}{50}$.

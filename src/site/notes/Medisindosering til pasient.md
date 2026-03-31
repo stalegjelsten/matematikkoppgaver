@@ -15,3 +15,19 @@ Pasienten veier 75 kg og skal ha 15 mg pulver per kilogram kroppsvekt hvert døg
 >Hvor mange milliliter av medisinen skal pasienten ha i hver dose?
 
 ## Fasit
+
+$62{,}5 \, \mathrm{ml}$ per dose
+
+## Løsningsforslag
+
+Pasienten skal ha 15 mg pulver per kg kroppsvekt per døgn:
+
+$$75 \, \mathrm{kg} \cdot 15 \, \frac{\mathrm{mg}}{\mathrm{kg}} = 1\,125 \, \mathrm{mg} \text{ per døgn}$$
+
+Fordelt på tre like store doser:
+
+$$\frac{1\,125 \, \mathrm{mg}}{3} = 375 \, \mathrm{mg} \text{ per dose}$$
+
+Medisinen inneholder 6 mg pulver per ml. Antall milliliter per dose:
+
+$$\frac{375 \, \mathrm{mg}}{6 \, \frac{\mathrm{mg}}{\mathrm{ml}}} = \underline{\underline{62{,}5 \, \mathrm{ml}}}$$

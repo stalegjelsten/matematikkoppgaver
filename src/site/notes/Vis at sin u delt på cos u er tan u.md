@@ -60,6 +60,10 @@ Gitt trekanten under.
 
 ## Fasit
 
+Se løsningsforslag
+
+## Løsningsforslag
+
 Vi vet at $\sin u= \frac{mk}{h}$ og $\cos u = \frac{hk}{h}$. Da er
 $$
 \frac{\sin u}{\cos u}=\frac{\frac{mk}{\cancel{ h }}}{\frac{hk}{\cancel{ h }}}=\frac{mk}{hk}

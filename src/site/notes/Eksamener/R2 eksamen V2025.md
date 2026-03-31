@@ -232,6 +232,20 @@ $g(x) = 3\sin(2x) + \sqrt{3}\cos(2x) \quad , \quad  D_g = \langle 0, 2\pi \rangl
 
 ## Fasit
 
+## Løsningsforslag
+
+### a
+Vi sammenligner med det generelle uttrykket for sinusfunksjoner
+$
+\textcolor{seagreen}{A} \sin(\textcolor{steelblue}{k}x + \textcolor{tomato}{\phi})+\textcolor{maroon}{d}
+$
+Vi ser fra funksjonsuttrykket til $g$ at
+$
+\textcolor{seagreen}{A=2\sqrt{ 3 }}, \quad  \textcolor{steelblue}{k=2}, \quad \textcolor{tomato}{\phi=\frac{\pi}{6}}, \quad \textcolor{maroon}{d=0}
+$
+Når $k=2$ så har sinusfunksjonen dobbelt så «tette» svingninger og perioden blir derfor $T=\frac{2\pi}{k}=\frac{2\pi}{2}=\pi$. Da blir også faseforskyvningen $\frac{\phi}{2}=\frac{\pi}{12}$.
+
+**Amplituden er $2\sqrt{ 3 }$, likevektslinja er $y=0$, perioden er $\pi$ og faseforskyvningen er $\frac{\pi}{12}$ mot venstre.e**
 
 </div></div>
 

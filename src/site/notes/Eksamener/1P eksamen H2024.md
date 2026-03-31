@@ -65,6 +65,35 @@ I en normalt stor maurtue er det mellom 200 000 og 300 000 maur. Anta at en maur
 
 ## Fasit
 
+a) $2 \cdot 10^{16}$
+b) Mellom $1{,}4 \, \mathrm{kg}$ og $2{,}7 \, \mathrm{kg}$
+
+## Løsningsforslag
+
+### a
+
+En billiard er tusen millioner millioner:
+
+$1 \text{ billiard} = 1\,000 \cdot 1\,000\,000 \cdot 1\,000\,000 = 10^{15}$
+
+Dermed er 20 billiarder:
+
+$20 \cdot 10^{15} = \underline{\underline{2 \cdot 10^{16}}}$
+
+### b
+
+Antallet maur i en normalt stor maurtue er mellom 200 000 og 300 000. En maur veier mellom 7 mg og 9 mg.
+
+**Laveste vekt** (200 000 maur à 7 mg):
+
+$200\,000 \cdot 7 \, \mathrm{mg} = 1\,400\,000 \, \mathrm{mg} = 1{,}4 \, \mathrm{kg}$
+
+**Høyeste vekt** (300 000 maur à 9 mg):
+
+$300\,000 \cdot 9 \, \mathrm{mg} = 2\,700\,000 \, \mathrm{mg} = 2{,}7 \, \mathrm{kg}$
+
+**Alle maurene i en normalt stor maurtue veier til sammen omtrent $\underline{\underline{1{,}4 \, \mathrm{kg} \text{ til } 2{,}7 \, \mathrm{kg}}}$.**
+
 
 </div></div>
 
@@ -100,6 +129,30 @@ Husk å argumentere for alle tre svarene dine.
 >Antallet porsjoner vaffelrøre du lager, og mengden mel du trenger, er …
 
 ## Fasit
+
+A) Omvendt proporsjonale størrelser
+B) Proporsjonale størrelser
+C) Proporsjonale størrelser
+
+## Løsningsforslag
+
+**Situasjon A** – Leie av badstue for 2200 kr:
+
+Prisen per person $p$ og antall personer $n$ henger sammen ved $p = \frac{2200}{n}$. Når antallet dobles, halveres prisen per person. Dette er definisjonen på omvendt proporsjonalitet.
+
+**Antallet personer og prisen per person er $\underline{\underline{\text{omvendt proporsjonale størrelser}}}$.**
+
+**Situasjon B** – 3 for prisen av 2:
+
+La $p$ være prisen på én flaske. Uansett hvor mange flasker du kjøper, betaler du $\frac{2}{3}$ av fullpris per flaske. Den samlede prisen du betaler er $P = \frac{2}{3} \cdot p \cdot n$, der $n$ er antall flasker. Dette er en lineær sammenheng gjennom origo (forholdet er konstant), altså proporsjonal.
+
+**Antallet flasker og prisen du betaler er $\underline{\underline{\text{proporsjonale størrelser}}}$.**
+
+**Situasjon C** – Vaffelrøre:
+
+Dobler du antall porsjoner, dobler du mengden mel. Forholdet mellom mengde mel og antall porsjoner er konstant.
+
+**Antallet porsjoner og mengden mel er $\underline{\underline{\text{proporsjonale størrelser}}}$.**
 
 
 </div></div>
@@ -209,6 +262,28 @@ print(t)
 
 ## Fasit
 
+a) P1 linje 7: salget øker med 4 % hver måned. P2 linje 7: salget øker med 40 enheter hver måned.
+b) Totalt antall solgte enheter i løpet av de 12 månedene. Program 1: 15 026, Program 2: 14 640.
+
+## Løsningsforslag
+
+### a
+
+**Program 1, linje 7:** `e = e * 1.04`
+
+Dette betyr at salget for neste måned er 4 % høyere enn salget denne måneden. Lisa antar at salget vokser **eksponentielt** – med samme prosentsats hver måned.
+
+**Program 2, linje 7:** `e = e + 40`
+
+Dette betyr at salget for neste måned er 40 enheter høyere enn salget denne måneden. Lisa antar at salget vokser **lineært** – med samme antall enheter hver måned.
+
+### b
+
+Variabelen `t` akkumulerer salget for alle 12 månedene. Verdiene som skrives ut, forteller Lisa det **totale antallet solgte enheter** i løpet av året (januar–desember):
+
+- **Program 1** (eksponentiell vekst): $\underline{\underline{15\,026 \text{ enheter}}}$
+- **Program 2** (lineær vekst): $\underline{\underline{14\,640 \text{ enheter}}}$
+
 
 </div></div>
 
@@ -233,6 +308,39 @@ Grader celsius ($\degree\mathrm{C}$) og grader fahrenheit ($\degree\mathrm{F}$) 
 >b) Hvor mange grader celsius tilsvarer $68 \degree\mathrm{F}$?
 
 ## Fasit
+
+a) $F = \frac{9}{5} \cdot C + 32$
+b) $20 \, \degree\mathrm{C}$
+
+## Løsningsforslag
+
+### a
+
+Vi leser av to punkter fra koordinatsystemet: $(0,\ 32)$ og $(100,\ 212)$.
+
+Stigningstallet:
+
+$a = \frac{212 - 32}{100 - 0} = \frac{180}{100} = \frac{9}{5}$
+
+Siden punktet $(0,\ 32)$ ligger på $y$-aksen, er konstantleddet $b = 32$.
+
+Formelen er:
+
+$\underline{\underline{F = \frac{9}{5} \cdot C + 32}}$
+
+Vi kan sjekke med punktet $(-40,\ -40)$: $\frac{9}{5} \cdot (-40) + 32 = -72 + 32 = -40$ ✓
+
+### b
+
+Vi setter $F = 68$ og løser for $C$:
+
+$68 = \frac{9}{5} \cdot C + 32$
+
+$68 - 32 = \frac{9}{5} \cdot C$
+
+$36 = \frac{9}{5} \cdot C$
+
+$C = 36 \cdot \frac{5}{9} = \underline{\underline{20 \, \degree\mathrm{C}}}$
 
 
 </div></div>
@@ -268,6 +376,55 @@ I 2019 abonnerte 1000 personer på den digitale utgaven av avisen. Antallet pers
 
 ## Fasit
 
+a) $P(0) = 4\,200$ abonnenter i 2010
+b) Stigningstall $\approx -150{,}9$ – gjennomsnittlig nedgang på ca. 151 papirabonnenter per år mellom 2014 og 2024
+c) 2022
+
+## Løsningsforslag
+
+### a
+
+**Metode 1 – sett inn $x = 0$:**
+
+$P(0) = 3600 \cdot 0{,}85^0 + 600 = 3600 \cdot 1 + 600 = \underline{\underline{4\,200}}$
+
+**Metode 2 – bruk at $0{,}85^x \to 0$ når $x \to \infty$:**
+
+Modellen har 600 som nedre grense (bunnlinje). I 2010 var det 3600 abonnenter *over* bunnlinjen, altså $3600 + 600 = 4\,200$ totalt.
+
+### b
+
+Vi beregner funksjonsverdiene i de to punktene:
+
+$P(4) = 3600 \cdot 0{,}85^4 + 600 \approx 2\,479$
+
+$P(14) = 3600 \cdot 0{,}85^{14} + 600 \approx 970$
+
+Stigningstallet til sekantlinjen:
+
+$a = \frac{P(14) - P(4)}{14 - 4} = \frac{970 - 2\,479}{10} \approx \underline{\underline{-150{,}9}}$
+
+**Praktisk tolkning:** Antallet papirabonnenter gikk i gjennomsnitt ned med ca. 151 personer per år i perioden fra 2014 til 2024.
+
+### c
+
+Vi definerer funksjonen for digitale abonnenter, der $x$ er år etter 2010 (digitalt startet i 2019, altså ved $x = 9$):
+
+$D(x) = 1000 \cdot 1{,}055^{x - 9}$
+
+Vi plotter $P(x)$ og $D(x)$ i GeoGebra og finner skjæringspunktet:
+
+![1p-h24-2-1.png](/img/user/_resources/1p-h24-2-1.png)
+
+Fra grafen (se `Skjaering`) skjærer kurvene hverandre ved $x \approx 11{,}6$, det vil si i løpet av 2021. Vi sjekker ved helårsregnskap:
+
+| År | $x$ | Digitalt $D(x)$ | Papir $P(x)$ |
+|----|-----|-----------------|--------------|
+| 2021 | 11 | $\approx 1\,113$ | $\approx 1\,202$ |
+| 2022 | 12 | $\approx 1\,174$ | $\approx 1\,112$ |
+
+**For første gang i $\underline{\underline{2022}}$ var det flere digitale enn papirabonnenter.**
+
 
 </div></div>
 
@@ -294,6 +451,22 @@ Pasienten veier 75 kg og skal ha 15 mg pulver per kilogram kroppsvekt hvert døg
 
 ## Fasit
 
+$62{,}5 \, \mathrm{ml}$ per dose
+
+## Løsningsforslag
+
+Pasienten skal ha 15 mg pulver per kg kroppsvekt per døgn:
+
+$75 \, \mathrm{kg} \cdot 15 \, \frac{\mathrm{mg}}{\mathrm{kg}} = 1\,125 \, \mathrm{mg} \text{ per døgn}$
+
+Fordelt på tre like store doser:
+
+$\frac{1\,125 \, \mathrm{mg}}{3} = 375 \, \mathrm{mg} \text{ per dose}$
+
+Medisinen inneholder 6 mg pulver per ml. Antall milliliter per dose:
+
+$\frac{375 \, \mathrm{mg}}{6 \, \frac{\mathrm{mg}}{\mathrm{ml}}} = \underline{\underline{62{,}5 \, \mathrm{ml}}}$
+
 
 </div></div>
 
@@ -315,6 +488,22 @@ Prisen for en vare ble satt opp med 10 % i juni og med 20 % i august. I oktober 
 >Vil varen nå koste mer, mindre eller like mye som den gjorde før prisen ble satt opp første gang? Husk å begrunne svaret ditt.
 
 ## Fasit
+
+Varen koster nå **mindre** – den er blitt $7{,}6 \, \%$ billigere.
+
+## Løsningsforslag
+
+Vi finner den samlede vekstfaktoren ved å multiplisere vekstfaktorene for hver endring:
+
+$1{,}10 \cdot 1{,}20 \cdot 0{,}70 = 0{,}924$
+
+Siden vekstfaktoren er $0{,}924 < 1$, koster varen nå **$\underline{\underline{\text{mindre}}}$** enn før den første prisøkningen.
+
+Den samlede endringen er:
+
+$(0{,}924 - 1) \cdot 100 \, \% = -7{,}6 \, \%$
+
+Varen er blitt $7{,}6 \, \%$ billigere totalt sett, selv om den ble satt opp to ganger.
 
 
 </div></div>
@@ -351,6 +540,35 @@ Camilla vil sammenlikne to andre dager hun kjørte til skolen. Den ene dagen var
 
 ## Fasit
 
+a) Ca. $2$ minutter lengre på mandagen
+b) 40 minutter (langsom dag) og 20 minutter (rask dag)
+
+## Løsningsforslag
+
+### a
+
+Vi setter inn $s = 18$, $v_1 = 58$ og $v_2 = 65$:
+
+$t = \left(\frac{1}{58} - \frac{1}{65}\right) \cdot 18 \cdot 60 = \frac{65 - 58}{58 \cdot 65} \cdot 1080 = \frac{7}{3770} \cdot 1080 \approx \underline{\underline{2 \text{ minutter}}}$
+
+Camilla brukte ca. 2 minutter lengre på kjøreturen på mandagen.
+
+### b
+
+La $v_1$ være farten den langsomme dagen. Da er $v_2 = 2v_1$. Vi setter inn $t = 20$ og $s = 18$:
+
+$20 = \left(\frac{1}{v_1} - \frac{1}{2v_1}\right) \cdot 18 \cdot 60 = \frac{1}{2v_1} \cdot 1080 = \frac{540}{v_1}$
+
+$v_1 = \frac{540}{20} = 27 \, \mathrm{km/t} \qquad v_2 = 54 \, \mathrm{km/t}$
+
+Kjøretid den langsomme dagen:
+
+$\frac{18}{27} \cdot 60 = \underline{\underline{40 \text{ minutter}}}$
+
+Kjøretid den raske dagen:
+
+$\frac{18}{54} \cdot 60 = \underline{\underline{20 \text{ minutter}}}$
+
 
 </div></div>
 
@@ -373,6 +591,43 @@ For 8 måneder siden hadde Isabel 290 000 følgere på Snapchat. I dag har hun 3
 >b) Sett opp et uttrykk for en funksjon $g$ som beskriver utviklingen dersom antallet følgere har økt med samme prosent hver måned. Gjør rede for valg av funksjon.
 
 ## Fasit
+
+a) $f(x) = 290\,000 + 6\,250x$ (lineær, $x$ = måneder siden for 8 måneder siden)
+b) $g(x) = 290\,000 \cdot 1{,}020^x$
+
+## Løsningsforslag
+
+La $x$ være antall måneder etter tidspunktet for 8 måneder siden. Da er $f(0) = 290\,000$ og $f(8) = 340\,000$.
+
+### a
+
+Øker med **samme antall** → lineær funksjon $f(x) = ax + b$.
+
+Startverdi: $b = 290\,000$
+
+Økning per måned:
+
+$a = \frac{340\,000 - 290\,000}{8} = \frac{50\,000}{8} = 6\,250$
+
+$\underline{\underline{f(x) = 290\,000 + 6\,250x}}$
+
+### b
+
+Øker med **samme prosent** → eksponentialfunksjon $g(x) = b \cdot k^x$.
+
+Startverdi: $b = 290\,000$
+
+Vi finner vekstfaktoren $k$ fra $g(8) = 340\,000$:
+
+$290\,000 \cdot k^8 = 340\,000$
+
+$k^8 = \frac{340\,000}{290\,000} = \frac{34}{29}$
+
+$k = \left(\frac{34}{29}\right)^{\frac{1}{8}} \approx 1{,}020$
+
+Antallet følgere øker med ca. $2{,}0 \, \%$ per måned.
+
+$\underline{\underline{g(x) = 290\,000 \cdot 1{,}020^x}}$
 
 
 </div></div>
@@ -407,6 +662,49 @@ Du forventer å ha like mange reiseoppdrag hos hver av de tre bedriftene.
 
 ## Fasit
 
+a) A: 444 000 kr, B: 804 000 kr, C: 924 000 kr
+b) Bedrift C best ved færre enn 18 oppdrag, bedrift B best ved 18–93 oppdrag, bedrift A best ved flere enn 93 oppdrag
+
+## Løsningsforslag
+
+### a
+
+Med 3 reiseoppdrag:
+
+| Bedrift | Fast årslønn | Reiseoppdrag | Årslønn |
+|---------|-------------|--------------|---------|
+| A | $32\,000 \cdot 12 = 384\,000$ kr | $3 \cdot 20\,000 = 60\,000$ kr | $\underline{\underline{444\,000 \, \mathrm{kr}}}$ |
+| B | $63\,000 \cdot 12 = 756\,000$ kr | $3 \cdot 16\,000 = 48\,000$ kr | $\underline{\underline{804\,000 \, \mathrm{kr}}}$ |
+| C | $75\,000 \cdot 12 = 900\,000$ kr | $3 \cdot 8\,000 = 24\,000$ kr | $\underline{\underline{924\,000 \, \mathrm{kr}}}$ |
+
+### b
+
+Vi setter opp funksjoner for årslønn med $n$ reiseoppdrag:
+
+$A(n) = 384\,000 + 20\,000n$
+$B(n) = 756\,000 + 16\,000n$
+$C(n) = 900\,000 + 8\,000n$
+
+Vi plotter funksjonene i GeoGebra og leser av skjæringspunktene:
+
+![1p-h24-2-6.png](/img/user/_resources/1p-h24-2-6.png)
+
+Fra grafen (se `BC`, `AC` og `AB`):
+
+**B og C er like gode** ved $n = 18$ oppdrag (se punkt `BC = (18, 1\,044\,000)`):
+
+$756\,000 + 16\,000 \cdot 18 = 900\,000 + 8\,000 \cdot 18 = 1\,044\,000 \text{ kr}$
+
+**A og B er like gode** ved $n = 93$ oppdrag (se punkt `AB = (93, 2\,244\,000)`):
+
+$384\,000 + 20\,000 \cdot 93 = 756\,000 + 16\,000 \cdot 93 = 2\,244\,000 \text{ kr}$
+
+**Konklusjon:**
+
+- **Bedrift C** gir best lønn ved **færre enn 18 reiseoppdrag** per år
+- **Bedrift B** gir best lønn ved **18 til 93 reiseoppdrag** per år
+- **Bedrift A** gir best lønn ved **flere enn 93 reiseoppdrag** per år
+
 
 </div></div>
 
@@ -437,6 +735,41 @@ Tore mener at Høyre har hatt størst prosentvis framgang siden siste kommunesty
 >b) Forklar Tore hvorfor dette er feil, og gjør beregninger som viser hvilket parti som har hatt størst prosentvis framgang.
 
 ## Fasit
+
+a) Ca. $1\,632\,536$ personer brukte ikke stemmeretten
+b) Fremskrittspartiet hadde størst prosentvis framgang med ca. $37{,}8 \, \%$
+
+## Løsningsforslag
+
+### a
+
+Fra oversikten: 4 341 850 stemmeberettigede, fremmøteprosent 62,4 %.
+
+Antall som stemte:
+
+$4\,341\,850 \cdot 0{,}624 \approx 2\,709\,314$
+
+Antall som **ikke** brukte stemmeretten:
+
+$4\,341\,850 - 2\,709\,314 = \underline{\underline{1\,632\,536 \text{ personer}}}$
+
+### b
+
+Tore forveksler **prosentpoeng** (pp) med **prosentvis endring**. Høyre økte med 5,8 pp, men det er ikke det samme som prosentvis framgang.
+
+Prosentvis framgang beregnes som:
+
+$\text{prosentvis framgang} = \frac{\text{endring i pp}}{\text{oppslutning ved forrige valg}} \cdot 100 \, \%$
+
+Vi regner ut for partiene med positiv pp-endring:
+
+| Parti | Forrige valg | Nå | Endring (pp) | Prosentvis framgang |
+|-------|-------------|-----|--------------|---------------------|
+| Høyre | $25{,}9 - 5{,}8 = 20{,}1 \, \%$ | $25{,}9 \, \%$ | $+5{,}8$ | $\frac{5{,}8}{20{,}1} \cdot 100 \approx 28{,}9 \, \%$ |
+| Fremskrittspartiet | $11{,}3 - 3{,}1 = 8{,}2 \, \%$ | $11{,}3 \, \%$ | $+3{,}1$ | $\frac{3{,}1}{8{,}2} \cdot 100 \approx 37{,}8 \, \%$ |
+| Venstre | $5{,}0 - 1{,}1 = 3{,}9 \, \%$ | $5{,}0 \, \%$ | $+1{,}1$ | $\frac{1{,}1}{3{,}9} \cdot 100 \approx 28{,}2 \, \%$ |
+
+**Fremskrittspartiet har hatt størst prosentvis framgang med ca. $\underline{\underline{37{,}8 \, \%}}$**, ikke Høyre (28,9 %). Høyre har størst endring i prosentpoeng, men det er ikke det samme som størst prosentvis framgang.
 
 
 </div></div>
@@ -477,6 +810,79 @@ Sofie ønsker å lage en modell som viser volumet av de ulike kassene hun kan la
 >e) Hva vil du si er modellens gyldighetsområde? Argumenter for svaret ditt.
 
 ## Fasit
+
+a) Volum $= 1000 \cdot 600 \cdot 100 \, \mathrm{mm}^3 = 60\,000\,000 \, \mathrm{mm}^3 = 60 \, \mathrm{L}$
+b) Maksimalt volum ved $x \approx 150 \, \mathrm{mm}$
+c) $V(x) = (1200 - 2x)(800 - 2x) \cdot x$, se grafisk fremstilling
+d) $x \approx 157 \, \mathrm{mm}$, maks volum $\approx 67{,}6 \, \mathrm{L}$
+e) Gyldighetsområde: $0 < x < 400 \, \mathrm{mm}$
+
+## Løsningsforslag
+
+### a
+
+Med sidelengde $x = 100 \, \mathrm{mm}$ på hvert utskåret kvadrat:
+
+- Lengde: $1200 - 2 \cdot 100 = 1000 \, \mathrm{mm}$
+- Bredde: $800 - 2 \cdot 100 = 600 \, \mathrm{mm}$
+- Høyde: $100 \, \mathrm{mm}$
+
+$V = 1000 \cdot 600 \cdot 100 = 60\,000\,000 \, \mathrm{mm}^3$
+
+Vi omregner til liter ($1 \, \mathrm{L} = 1\,000\,000 \, \mathrm{mm}^3$):
+
+$V = \frac{60\,000\,000}{1\,000\,000} = \underline{\underline{60 \, \mathrm{L}}} \quad \checkmark$
+
+### b
+
+La $x$ være sidelengden (i mm) til de utskårede kvadratene. Vi lager en oversikt:
+
+| $x$ (mm) | Lengde (mm) | Bredde (mm) | Volum (L) |
+|-----------|-------------|-------------|-----------|
+| 50 | 1100 | 700 | 38,5 |
+| 100 | 1000 | 600 | 60,0 |
+| 150 | 900 | 500 | 67,5 |
+| 200 | 800 | 400 | 64,0 |
+| 250 | 700 | 300 | 52,5 |
+| 300 | 600 | 200 | 36,0 |
+| 350 | 500 | 100 | 17,5 |
+
+Ut fra tabellen ser vi at volumet er størst når $x$ er **omtrent $150 \, \mathrm{mm}$**.
+
+### c
+
+Når Sofie skjærer bort kvadrater med sidelengde $x$ mm, får kassen:
+
+- Lengde: $(1200 - 2x) \, \mathrm{mm}$
+- Bredde: $(800 - 2x) \, \mathrm{mm}$
+- Høyde: $x \, \mathrm{mm}$
+
+Funksjonsuttrykket (volum i L):
+
+$\underline{\underline{V(x) = \frac{(1200 - 2x)(800 - 2x) \cdot x}{1\,000\,000}}}$
+
+Vi tegner grafen i GeoGebra:
+
+![1p-h24-2-8.png](/img/user/_resources/1p-h24-2-8.png)
+
+### d
+
+Fra grafen (se punkt `Maks`) er volumet størst ved $x \approx 157 \, \mathrm{mm}$, og maksimalt volum er ca. $67{,}6 \, \mathrm{L}$.
+
+**Sofie bør skjære bort kvadrater med sidelengde ca. $\underline{\underline{157 \, \mathrm{mm}}}$. Da blir volumet størst mulig med ca. $\underline{\underline{67{,}6 \, \mathrm{L}}}$.**
+
+### e
+
+For at kassen skal gi mening må alle dimensjonene være positive:
+
+- Høyde: $x > 0$
+- Bredde: $800 - 2x > 0 \Rightarrow x < 400$
+
+(Lengdebetingelsen $x < 600$ er oppfylt automatisk når $x < 400$.)
+
+**Gyldighetsområdet er $\underline{\underline{0 < x < 400 \, \mathrm{mm}}}$.**
+
+I praksis vil det også være en nedre grense (for eksempel $x \geq 10 \, \mathrm{mm}$) siden det ikke er mulig å skjære bort kvadrater som er for bitte små, men matematisk sett er $0 < x < 400 \, \mathrm{mm}$ det naturlige gyldighetsområdet.
 
 
 </div></div>
