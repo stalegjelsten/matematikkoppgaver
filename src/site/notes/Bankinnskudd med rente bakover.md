@@ -22,3 +22,13 @@ For fem år siden vant Oskar i Lotto. Han satte pengene i banken og har fått $4
 :::
 
 ## Fasit
+
+2) og 6)
+
+## Løsningsforslag
+
+$V_0 \cdot 1{,}045^5 = 250\,000 \implies V_0 = \dfrac{250\,000}{1{,}045^5} = 250\,000 \cdot 1{,}045^{-5}$
+
+**Uttrykk 2) og 6) er riktige.**
+
+Merk: $0{,}955 \neq \tfrac{1}{1{,}045}$, så 4) og 5) er ikke ekvivalente med 2) og 6).

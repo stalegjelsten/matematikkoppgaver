@@ -21,3 +21,28 @@ Den rette linjen på figuren går gjennom punktet $(0, 23)$ og er en tangent til
 >b) Hvor langt fra veggen på lagerhallen kan en tyv bevege seg uten å bli fotografert av webkameraet?
 
 ## Fasit
+
+a) $y = -x + 23$
+b) $21 - 4\sqrt{15} \approx 5{,}5 \mathrm{~m}$
+
+## Løsningsforslag
+
+### a
+
+$p'(x) = -x/6$. La tangentpunktet være $(c, p(c))$ og tangenten gå gjennom $(0, 23)$:
+
+$$23 - p(c) = -p'(c) \cdot c = \frac{c^2}{6}$$
+
+$$3 + \frac{c^2}{12} = \frac{c^2}{6} \implies 3 = \frac{c^2}{12} \implies c = \pm 6$$
+
+For $c = 6$: $m = -1$, tangent: $y = -(x-6) + 17 = \underline{\underline{-x + 23}}$
+
+### b
+
+Veggen er der $p(x) = 0$: $x = 4\sqrt{15} \approx 15{,}5\ \mathrm{m}$ fra senter.
+
+Kameraet i $(0, 23)$ ser langs tangenten. En tyv på $2\ \mathrm{m}$ er skjult når linjen fra kameraet til hodet $(x_t, 2)$ tangerer bygget i $x = 6$:
+
+$$23 - \frac{126}{x_t} = 17 \implies x_t = 21\ \mathrm{m}$$
+
+Avstand fra vegg: $21 - 4\sqrt{15} \approx \underline{\underline{5{,}5\ \mathrm{m}}}$.

@@ -1,30 +1,30 @@
 ---
-{"tags":["eksamen"],"fag":["1t"],"eksamen":"v24","date":"2024-05-23","del1_tid":1,"del2_tid":4,"title":"1T eksamen V2024","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-t-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1t"],"eksamen":"v24","date":"2024-05-23","del1_tid":1,"del2_tid":4,"title":"1T eksamen V2024","contentClasses":"eksamen-side","permalink":"/eksamener/1t-eksamen-v2024/"}}
+{"tags":["eksamen"],"fag":["1t"],"eksamen":"v24","del1_tid":1,"del2_tid":4,"title":"1T eksamen V2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-t-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1t"],"eksamen":"v24","del1_tid":1,"del2_tid":4,"title":"1T eksamen V2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1t-eksamen-v2024/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Trigonometri i rettvinklet trekant\|Trigonometri i rettvinklet trekant]] | trigonometri, bevis | ❌ |
-| 1-2 | [[Polynomdivisjon og faktorisering\|Polynomdivisjon og faktorisering]] | polynomdivisjon, faktorisering, algebra | ❌ |
-| 1-3 | [[Matematisk identitet fra arealmodell\|Matematisk identitet fra arealmodell]] | identiteter, algebra, areal | ❌ |
-| 1-4 | [[Gjennomsnittlig vekstfart med program\|Gjennomsnittlig vekstfart med program]] | programmering, gjennomsnittlig vekstfart | ❌ |
-| 1-5 | [[Andregradsuttrykk og ulikhet fra graf\|Andregradsuttrykk og ulikhet fra graf]] | andregradslikninger, funksjoner | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Trigonometri i rettvinklet trekant](https://matematikkoppgaver.vercel.app/trigonometri-i-rettvinklet-trekant/) | trigonometri, bevis | × |
+| [1-2](#oppgave-1-2) | [Polynomdivisjon og faktorisering](https://matematikkoppgaver.vercel.app/polynomdivisjon-og-faktorisering/) | polynomdivisjon, faktorisering, algebra | × |
+| [1-3](#oppgave-1-3) | [Matematisk identitet fra arealmodell](https://matematikkoppgaver.vercel.app/matematisk-identitet-fra-arealmodell/) | identiteter, algebra, areal | × |
+| [1-4](#oppgave-1-4) | [Gjennomsnittlig vekstfart med program](https://matematikkoppgaver.vercel.app/gjennomsnittlig-vekstfart-med-program/) | programmering, gjennomsnittlig vekstfart | × |
+| [1-5](#oppgave-1-5) | [Andregradsuttrykk og ulikhet fra graf](https://matematikkoppgaver.vercel.app/andregradsuttrykk-og-ulikhet-fra-graf/) | andregradslikninger, funksjoner | × |
 
 **Del 2** — 4 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Modellering av bagettsalg\|Modellering av bagettsalg]] | regresjon, modellering, derivasjon, optimering | ❌ |
-| 2-2 | [[Lysbrytning i vann\|Lysbrytning i vann]] | trigonometri, likninger | ❌ |
-| 2-3 | [[Trekant med arealsetning og cosinussetning\|Trekant med arealsetning og cosinussetning]] | arealsetningen, cosinussetningen, trigonometri | ❌ |
-| 2-4 | [[Summer av oddetall og programmering\|Summer av oddetall og programmering]] | programmering, rekker, argumentasjon | ❌ |
-| 2-5 | [[Lufttrykk og kokepunkt for vann\|Lufttrykk og kokepunkt for vann]] | potensfunksjon, eksponentiell vekst, modellering | ❌ |
-| 2-6 | [[Tangent fra derivertgraf\|Tangent fra derivertgraf]] | derivasjon, funksjoner | ❌ |
-| 2-7 | [[Lukket kurve med tre funksjoner\|Lukket kurve med tre funksjoner]] | funksjoner, funksjonsdrøfting, argumentasjon | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Modellering av bagettsalg](https://matematikkoppgaver.vercel.app/modellering-av-bagettsalg/) | regresjon, modellering, derivasjon, optimering | × |
+| [2-2](#oppgave-2-2) | [Lysbrytning i vann](https://matematikkoppgaver.vercel.app/lysbrytning-i-vann/) | trigonometri, likninger | × |
+| [2-3](#oppgave-2-3) | [Trekant med arealsetning og cosinussetning](https://matematikkoppgaver.vercel.app/trekant-med-arealsetning-og-cosinussetning/) | arealsetningen, cosinussetningen, trigonometri | × |
+| [2-4](#oppgave-2-4) | [Summer av oddetall og programmering](https://matematikkoppgaver.vercel.app/summer-av-oddetall-og-programmering/) | programmering, rekker, argumentasjon | × |
+| [2-5](#oppgave-2-5) | [Lufttrykk og kokepunkt for vann](https://matematikkoppgaver.vercel.app/lufttrykk-og-kokepunkt-for-vann/) | potensfunksjon, eksponentiell vekst, modellering | × |
+| [2-6](#oppgave-2-6) | [Tangent fra derivertgraf](https://matematikkoppgaver.vercel.app/tangent-fra-derivertgraf/) | derivasjon, funksjoner | × |
+| [2-7](#oppgave-2-7) | [Lukket kurve med tre funksjoner](https://matematikkoppgaver.vercel.app/lukket-kurve-med-tre-funksjoner/) | funksjoner, funksjonsdrøfting, argumentasjon | × |
 
 # Del 1
 

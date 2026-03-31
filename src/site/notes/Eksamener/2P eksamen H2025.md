@@ -1,32 +1,32 @@
 ---
-{"tags":["eksamen"],"fag":["2p"],"eksamen":"h25","del1_tid":2,"del2_tid":3,"title":"2P eksamen H2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p"],"eksamen":"h25","del1_tid":2,"del2_tid":3,"title":"2P eksamen H2025","contentClasses":"eksamen-side","permalink":"/eksamener/2p-eksamen-h2025/"}}
+{"tags":["eksamen"],"fag":["2p"],"eksamen":"h25","del1_tid":2,"del2_tid":3,"title":"2P eksamen H2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p"],"eksamen":"h25","del1_tid":2,"del2_tid":3,"title":"2P eksamen H2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2p-eksamen-h2025/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Prosentvis prisøkning h25\|Prosentvis prisøkning h25]] | prosentvis endring, prosent | ✔︎ |
-| 1-2 | [[Prisindeks og sammenligning\|Prisindeks og sammenligning]] | prosent, prosentregning | ❌ |
-| 1-3 | [[Modell av Eiffeltårnet\|Modell av Eiffeltårnet]] | proporsjonalitet, geometri | ❌ |
-| 1-4 | [[Pariserhjul statistikk\|Pariserhjul statistikk]] | statistikk, gjennomsnitt, median, kumulativ frekvens | ✔︎ |
-| 1-5 | [[Trekant i sirkel\|Trekant i sirkel]] | geometri | ❌ |
-| 1-6 | [[Priser i tivoli-kiosk\|Priser i tivoli-kiosk]] | likningssystem | ❌ |
-| 1-7 | [[Kaja sitt serielån\|Kaja sitt serielån]] | lån | ❌ |
-| 1-8 | [[Johanns spareplan\|Johanns spareplan]] | programmering, sparing | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Prosentvis prisøkning h25](https://matematikkoppgaver.vercel.app/prosentvis-prisokning-h25/) | prosentvis endring, prosent | ✔︎ |
+| [1-2](#oppgave-1-2) | [Prisindeks og sammenligning](https://matematikkoppgaver.vercel.app/prisindeks-og-sammenligning/) | prosent, prosentregning | × |
+| [1-3](#oppgave-1-3) | [Modell av Eiffeltårnet](https://matematikkoppgaver.vercel.app/modell-av-eiffeltarnet/) | proporsjonalitet, geometri | × |
+| [1-4](#oppgave-1-4) | [Pariserhjul statistikk](https://matematikkoppgaver.vercel.app/pariserhjul-statistikk/) | statistikk, gjennomsnitt, median, kumulativ frekvens | ✔︎ |
+| [1-5](#oppgave-1-5) | [Trekant i sirkel](https://matematikkoppgaver.vercel.app/trekant-i-sirkel/) | geometri | × |
+| [1-6](#oppgave-1-6) | [Priser i tivoli-kiosk](https://matematikkoppgaver.vercel.app/priser-i-tivoli-kiosk/) | likningssystem | × |
+| [1-7](#oppgave-1-7) | [Kaja sitt serielån](https://matematikkoppgaver.vercel.app/kaja-sitt-serielan/) | lån | × |
+| [1-8](#oppgave-1-8) | [Johanns spareplan](https://matematikkoppgaver.vercel.app/johanns-spareplan/) | programmering, sparing | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Eksponentiell vekst nettbutikk\|Eksponentiell vekst nettbutikk]] | regresjon, modellering, eksponentialfunksjoner, prosentvis endring, prosentvis endring i flere perioder | ✔︎ |
-| 2-2 | [[Befolkningsstatistikk tettsteder\|Befolkningsstatistikk tettsteder]] | statistikk, standardavvik, sentralmål | ✔︎ |
-| 2-3 | [[Internettbruk i aldersgrupper\|Internettbruk i aldersgrupper]] | statistikk, presentasjon av data, diagram | ✔︎ |
-| 2-4 | [[Investeringer og avkastning\|Investeringer og avkastning]] | prosent, prosentvis endring | ✔︎ |
-| 2-5 | [[Gjennomsnittsalder i Åseral\|Gjennomsnittsalder i Åseral]] | grupperte data, sentralmål | ✔︎ |
-| 2-6 | [[Grus på sti og kjeglehaug\|Grus på sti og kjeglehaug]] | geometri | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Eksponentiell vekst nettbutikk](https://matematikkoppgaver.vercel.app/eksponentiell-vekst-nettbutikk/) | regresjon, modellering, eksponentialfunksjoner, prosentvis endring, prosentvis endring i flere perioder | ✔︎ |
+| [2-2](#oppgave-2-2) | [Befolkningsstatistikk tettsteder](https://matematikkoppgaver.vercel.app/befolkningsstatistikk-tettsteder/) | statistikk, standardavvik, sentralmål | ✔︎ |
+| [2-3](#oppgave-2-3) | [Internettbruk i aldersgrupper](https://matematikkoppgaver.vercel.app/internettbruk-i-aldersgrupper/) | statistikk, presentasjon av data, diagram | ✔︎ |
+| [2-4](#oppgave-2-4) | [Investeringer og avkastning](https://matematikkoppgaver.vercel.app/investeringer-og-avkastning/) | prosent, prosentvis endring | ✔︎ |
+| [2-5](#oppgave-2-5) | [Gjennomsnittsalder i Åseral](https://matematikkoppgaver.vercel.app/gjennomsnittsalder-i-aseral/) | grupperte data, sentralmål | ✔︎ |
+| [2-6](#oppgave-2-6) | [Grus på sti og kjeglehaug](https://matematikkoppgaver.vercel.app/grus-pa-sti-og-kjeglehaug/) | geometri | × |
 
 # Del 1
 
