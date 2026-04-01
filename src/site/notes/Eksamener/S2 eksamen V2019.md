@@ -76,7 +76,7 @@ $$P(X \leq 7) \approx \underline{\underline{0{,}33}}$$
 
 La $X$ = antall elever med fravær blant de 120. Under $H_0$ er $X$ binomisk fordelt med $n = 120$ og $p = 0{,}32$. Vi legger inn i GeoGebra og justerer på grensen helt fram til vi finner en sannsynlighet som ligger under signifikansnivået $\alpha$.
 
-![](/img/user/_resources/s2-v19-2-5b-gg.png)
+![](/img/user/_resources/s2-v19-2-5b-gg.png){width=40%}
 
 $$P(X \leq 29) \approx 0{,}038 < 0{,}05 \quad \checkmark$$
 $$P(X \leq 30) \approx 0{,}059 > 0{,}05 \quad \times$$

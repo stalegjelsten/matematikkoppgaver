@@ -44,7 +44,7 @@ b) $8{,}5 \leq C \leq 44 \, \mathrm{OU/m^3}$
 
 Vi beregner luktintensiteten $I = 1{,}4 \cdot \lg(C) - 0{,}3$ for begge grenseverdiene:
 
-![GeoGebra CAS løsning for oppgave 2-5a](/img/user/_resources/s1-h25-2-5-a-CAS.png)
+![GeoGebra CAS løsning for oppgave 2-5a](/img/user/_resources/s1-h25-2-5-a-CAS.png){width=60%}
 
 CAS gir:
 
@@ -59,7 +59,7 @@ Prøvene viser luktintensiteter i området $3{,}48$ til $4{,}10$, noe som tilsva
 
 For at luktintensiteten skal bli akseptabel, trenger vi $1 \leq I \leq 2$. Vi løser i GeoGebra CAS:
 
-![GeoGebra CAS løsning for oppgave 2-5b](/img/user/_resources/s1-h25-2-5-b-CAS.png)
+![GeoGebra CAS løsning for oppgave 2-5b](/img/user/_resources/s1-h25-2-5-b-CAS.png){width=60%}
 
 CAS gir:
 - $I = 2$ gir $C \approx 44$

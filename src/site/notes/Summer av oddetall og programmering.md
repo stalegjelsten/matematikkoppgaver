@@ -19,6 +19,6 @@ $$\ldots$$
 >a) Lag et program som summerer og skriver ut summene $S_1$, $S_2$, $S_3$ … $S_{20}$
 >b) Beskriv sammenhengen du oppdager når du ser på summene som er skrevet ut. Bruk figuren nedenfor til å argumentere for at sammenhengen må være riktig.
 
-![Ruter med kuler som illustrerer summer av oddetall](/img/user/_resources/1t-v24-2-4.jpeg)
+![Ruter med kuler som illustrerer summer av oddetall](/img/user/_resources/1t-v24-2-4.jpeg){width=40%}
 
 ## Fasit

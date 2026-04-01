@@ -15,7 +15,7 @@ Formel for å regne ut arealet av overflaten av boksen
 
 $$O = \pi \cdot r^2 + 2 \cdot \pi \cdot r \cdot h$$
 
-![Sylindrisk boks](/img/user/_resources/1t-v25-2-5.jpeg)
+![Sylindrisk boks](/img/user/_resources/1t-v25-2-5.jpeg){width=25%}
 
 Isabel lurer på hvor stor radius hun bør velge og hvor høye boksene må være, når hver boks skal ha
 

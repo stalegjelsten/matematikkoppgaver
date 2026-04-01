@@ -40,7 +40,7 @@ En elev har beskrevet fire situasjoner og tegnet ni grafer. Se nedenfor.
 
 <!-- two-column stop -->
 
-![Ni grafer](/img/user/_resources/1p-h25-2-2.jpeg)
+![Ni grafer](/img/user/_resources/1p-h25-2-2.jpeg){width=80%}
 
 ## Fasit
 

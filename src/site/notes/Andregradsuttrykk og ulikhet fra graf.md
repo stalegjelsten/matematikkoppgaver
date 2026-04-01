@@ -7,7 +7,7 @@
 
 Figuren viser grafen til en funksjon $f$.
 
-![Graf til f med nullpunkter (−3, 0) og (4, 0) og toppunkt (0, 24)](/img/user/_resources/1t-v24-1-5.jpeg)
+![Graf til f med nullpunkter (−3, 0) og (4, 0) og toppunkt (0, 24)](/img/user/_resources/1t-v24-1-5.jpeg){width=60%}
 
 >[!oppgave]
 >a) Bestem $f(x)$

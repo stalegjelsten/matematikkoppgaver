@@ -7,7 +7,7 @@
 
 Nedenfor ser du en skisse av en rektangelformet terrasse som Amanda skal bygge for en kunde.
 
-![Terrasse skisse](/img/user/_resources/1py-h25-1-5.jpeg)
+![Terrasse skisse](/img/user/_resources/1py-h25-1-5.jpeg){width=60%}
 
 Amanda stiller seg noen spørsmål før hun setter i gang med arbeidet:
 

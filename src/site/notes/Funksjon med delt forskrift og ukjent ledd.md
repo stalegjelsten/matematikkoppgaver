@@ -34,7 +34,7 @@ Tredjegradsfunksjonen vår bør altså gå mot $3$ når $x\to-2^{+}$ og $-4$ nå
 
 I tillegg skal $f'(-2)=-9$ og $f'(1)=0$. Disse opplysningen sier oss at $f$ må være deriverbar i $x=-2$ og $x=1$. Jeg setter opp uttrykket for en tredjegradsfunksjon i CAS i GeoGebra i linje 1 og legger inn de fire opplysningene våre i linje 2.
 
-![Løsning i CAS](/img/user/_resources/s1-v25-2-2-cas.png)
+![Løsning i CAS](/img/user/_resources/s1-v25-2-2-cas.png){width=50%}
 
 **Det fullstendige funksjonsuttrykket for $f$ er**
 $$

@@ -8,7 +8,7 @@
 
 Her ser du grafene til fire funksjoner $f$, $g$, $p$ og $q$.  
 
-![Fire funksjoner](/img/user/_resources/1p-v24-1-3.jpeg)
+![Fire funksjoner](/img/user/_resources/1p-v24-1-3.jpeg){width=70%}
 
 - Avgjør om en eller flere av grafene viser sammenhengen mellom to størrelser som er proporsjonale.  
 - Avgjør om en eller flere av grafene viser sammenhengen mellom to størrelser som er omvendt proporsjonale.  

@@ -16,7 +16,7 @@ Du får vite følgende om $\triangle ABC$ og $\triangle DEF$:
 
 ## Fasit
 
-![Skisse av trekantene](/img/user/_resources/2p-v23-1-2.png)
+![Skisse av trekantene](/img/user/_resources/2p-v23-1-2.png){width=30%}
 
 ## Løsningsforslag
 
@@ -27,5 +27,5 @@ $$
 
 En enkel type likebeint trekant er rettvinklet med to like lange kateter. Da er det enkelt å lage trekantene formlike også. Se skissen under.
 
-![Skisse av trekantene](/img/user/_resources/2p-v23-1-2.png)
+![Skisse av trekantene](/img/user/_resources/2p-v23-1-2.png){width=30%}
 

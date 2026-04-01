@@ -16,7 +16,7 @@ $V = 2\pi^2 R^2 a$ (bevis)
 
 ## Løsningsforslag
 
-![Flytting av sirkelen i oppgave 6](/img/user/_resources/r2-h24-2-6-sirkler.png)
+![Flytting av sirkelen i oppgave 6](/img/user/_resources/r2-h24-2-6-sirkler.png){width=50%}
 
 For å gjøre jobben enklere for meg selv så vil jeg flytte sirkelen fra $S(a,0)$ til $S^*(0,a)$ og rotere sirkelen om $x$-aksen istedenfor om $y$-aksen. Sirkelens radius er fremdeles $R<a$.
 

@@ -35,7 +35,7 @@ Presentasjonen skal inneholde
 
 ## Løsningsforslag
 
-Figuren viser et eksempel på svar på denne oppgaven, hvor jeg viser ulike framstillinger og beregninger. 
+Figur &fig:diagrammer viser et eksempel på svar på denne oppgaven, hvor jeg viser ulike framstillinger og beregninger. 
 
 Siden vi skal skal vise utvikling over tid fra 1983 til 2023 så passer linjediagrammer best. Jeg lager tre ulike linjediagrammer, ett diagram som passer til hver måleenhet (antall, antall per 1000 og antall per kvinne). For å vise beregninger med prosentvise endringer så har jeg laget en tabell som viser prosentvis endring fra 1983 fram til hvert år, og jeg har også vist formlene for beregningene i presentasjonen.
 

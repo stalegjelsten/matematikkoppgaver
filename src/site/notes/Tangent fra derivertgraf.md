@@ -5,7 +5,7 @@
 
 # Tangent fra derivertgraf
 
-![Graf til den deriverte f′ som er en rett linje i et koordinatsystem](/img/user/_resources/1t-v24-2-6.jpeg)
+![Graf til den deriverte f′ som er en rett linje i et koordinatsystem](/img/user/_resources/1t-v24-2-6.jpeg){width=60%}
 
 Den rette linjen som er tegnet i koordinatsystemet ovenfor, er den deriverte av en funksjon $f$.
 

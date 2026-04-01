@@ -7,7 +7,7 @@
 
 Nedenfor ser du grafene til funksjonene $f$, $g$ og $h$.
 
-![Grafene til f, g og h](/img/user/_resources/r1-h24-2-5.jpeg)
+![Grafene til f, g og h](/img/user/_resources/r1-h24-2-5.jpeg){width=60%}
 
 >[!oppgave]
 >a) Avgjør og begrunn for hver av funksjonene om de har en omvendt funksjon.

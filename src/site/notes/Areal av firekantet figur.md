@@ -5,7 +5,7 @@
 
 # Areal av firekantet figur
 
-![Firekantet figur ABCD med mål](/img/user/_resources/1t-h23-2-2.jpeg)
+![Firekantet figur ABCD med mål](/img/user/_resources/1t-h23-2-2.jpeg){width=60%}
 
 I denne oppgaven skal du vise at du kan bruke trigonometri til å bestemme arealet av figuren ovenfor.
 

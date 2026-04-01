@@ -471,7 +471,7 @@ $$\underline{\underline{F(t) \approx 820{,}6 \cdot 1{,}051^t}}$$
 
 Grafen under viser at kurven passer godt til datapunktene ($R^2 \approx 0{,}99$):
 
-![Regresjonsmodell og datapunkter for oppgave 2-1a](/img/user/_resources/s1-h25-2-1-a-graf.png)
+![Regresjonsmodell og datapunkter for oppgave 2-1a](/img/user/_resources/s1-h25-2-1-a-graf.png){width=70%}
 
 **Gyldighetsområde:** Modellen passer for dataene i perioden 1910–1935, det vil si $t \in [0, 25]$. Utenfor dette tidsrommet kan vekstmønsteret endre seg og modellen mister gyldighet.
 
@@ -483,7 +483,7 @@ $$F'(t) = 820{,}6 \cdot 1{,}051^t \cdot \ln(1{,}051)$$
 
 Vi løser $F'(t) = 80$ i GeoGebra CAS:
 
-![GeoGebra CAS løsning for oppgave 2-1b](/img/user/_resources/s1-h25-2-1-b-CAS.png)
+![GeoGebra CAS løsning for oppgave 2-1b](/img/user/_resources/s1-h25-2-1-b-CAS.png){width=60%}
 
 CAS gir $t \approx 13{,}5$, dvs. fra og med $t = 14$ (år **1924**).
 
@@ -497,7 +497,7 @@ $$\frac{F(t) - 820{,}6}{t} = 80$$
 
 i GeoGebra CAS:
 
-![GeoGebra CAS løsning for oppgave 2-1c](/img/user/_resources/s1-h25-2-1-c-CAS.png)
+![GeoGebra CAS løsning for oppgave 2-1c](/img/user/_resources/s1-h25-2-1-c-CAS.png){width=60%}
 
 CAS gir $t \approx 24{,}6$, så vi runder opp til $t = 25$.
 
@@ -677,7 +677,7 @@ $$O(x) = 100x - K(x) = 100x - 0{,}02x^2 - 60x - 12\,000 = -0{,}02x^2 + 40x - 12\
 
 Vi finner maksimum ved å sette $O'(x) = 0$ og beregner i GeoGebra CAS:
 
-![GeoGebra CAS løsning for oppgave 2-4a](/img/user/_resources/s1-h25-2-4-a-CAS.png)
+![GeoGebra CAS løsning for oppgave 2-4a](/img/user/_resources/s1-h25-2-4-a-CAS.png){width=60%}
 
 CAS bekrefter at $O'(x) = 0$ i $x = 1000$ og at $O(1000) = 8000$.
 
@@ -749,7 +749,7 @@ b) $8{,}5 \leq C \leq 44 \, \mathrm{OU/m^3}$
 
 Vi beregner luktintensiteten $I = 1{,}4 \cdot \lg(C) - 0{,}3$ for begge grenseverdiene:
 
-![GeoGebra CAS løsning for oppgave 2-5a](/img/user/_resources/s1-h25-2-5-a-CAS.png)
+![GeoGebra CAS løsning for oppgave 2-5a](/img/user/_resources/s1-h25-2-5-a-CAS.png){width=60%}
 
 CAS gir:
 
@@ -764,7 +764,7 @@ Prøvene viser luktintensiteter i området $3{,}48$ til $4{,}10$, noe som tilsva
 
 For at luktintensiteten skal bli akseptabel, trenger vi $1 \leq I \leq 2$. Vi løser i GeoGebra CAS:
 
-![GeoGebra CAS løsning for oppgave 2-5b](/img/user/_resources/s1-h25-2-5-b-CAS.png)
+![GeoGebra CAS løsning for oppgave 2-5b](/img/user/_resources/s1-h25-2-5-b-CAS.png){width=60%}
 
 CAS gir:
 - $I = 2$ gir $C \approx 44$

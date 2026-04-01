@@ -27,7 +27,7 @@ c) $a \approx -477$ fiskere per år
 ### a
 Jeg la inn årstallene, antall år etter 1950 og antallet fiskere i regnearket i GeoGebra. Se figuren.
 
-![Regresjon i GeoGebra](/img/user/_resources/1t-h23-2-4-regresjon.png)
+![Regresjon i GeoGebra](/img/user/_resources/1t-h23-2-4-regresjon.png){width=70%}
 
 Punktene så ut til å passe godt med en eksponentiell modell, og det virker fornuftig at antallet fiskere minker med en relativt fast prosentandel hvert år. Den eksponentielle modellen vil også aldri treffe 0, slik at den kan brukes langt fram i tid.
 
@@ -37,13 +37,13 @@ Punktene så ut til å passe godt med en eksponentiell modell, og det virker for
 Vi kan bruke modellen for å finne ut hvor mange fiskere det vil være i 1950. Vi regner ut $F(100)$ i GeoGebra siden 2050 tilsvarer 
 $x=100$. Se linje 2 (merket med `a`) i utklippet.
 
-![Beregning av antall fiskere i 2050 og stigningstall](/img/user/_resources/1tp-h23-2-4-b.png)
+![Beregning av antall fiskere i 2050 og stigningstall](/img/user/_resources/1tp-h23-2-4-b.png){width=70% #fig:stigningstallet}
 
 Det er vanskelig å vurdere gydligheten til denne modellen. Jeg vurderer at vi ikke bør bruke den lenger fram i framtida enn 2050. For eksempel er det kun 854 fiskere igjen i 2100 ifølge modellen. Det høres lite ut. Et fornuftig gyldighetsområde kan være $x \in \left[ 0,100 \right]$.
 
 **Det er omtrent 3645 fiskere i 2050 ifølge modellen vår. Jeg vurderer at modellen er gyldig fra 1950 til 2050.**
 
 ### c
-Se figuren. Jeg la inn punktene og trakk en linje mellom dem. Deretter målte jeg stigningen med stigningsverktøyet.
+Se figur &fig:stigningstallet. Jeg la inn punktene og trakk en linje mellom dem. Deretter målte jeg stigningen med stigningsverktøyet.
 
 **Stigningstallet til den rette linjen er $-477$. Det betyr at i gjennomsnitt sluttet 477 (netto) i yrket sitt mellom årene 1980 $(x=30)$ og 2020 $(x=70)$.**

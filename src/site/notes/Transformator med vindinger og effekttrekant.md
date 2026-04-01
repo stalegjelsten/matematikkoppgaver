@@ -6,7 +6,7 @@
 # Transformator med vindinger og effekttrekant
 
 
-![Merking på transformator](/img/user/_resources/1py-el-h23-2-3-transformator.png)
+![Merking på transformator](/img/user/_resources/1py-el-h23-2-3-transformator.png){width=30%}
 
 En transformator har en kapasitet på 10 kVA. Primærspenningen på transformatoren er 400 V, og sekundærspenningen er 230 V. Primærspolen har 10 000 vindinger.
 
@@ -75,7 +75,7 @@ Til transformatoren blir det koblet en belastning på 5000 W, som tilsvarer $P$ 
 </g>
 </g>
 </svg>
-
+{width=30% .invertert}
 
 - $Q$ = reaktiv effekt
 - $P$ = aktiv effekt

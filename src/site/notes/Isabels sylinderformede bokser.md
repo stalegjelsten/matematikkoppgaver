@@ -7,7 +7,7 @@
 
 Isabel er industridesigner. Hun arbeider med et design på bokser med form som sylindre.
 
-![Sylinder](/img/user/_resources/1p-v25-2-6.jpeg)
+![Sylinder](/img/user/_resources/1p-v25-2-6.jpeg){width=30%}
 
 > [!tip] Formler for sylinderboksene
 >

@@ -9,7 +9,7 @@ I denne oppgaven skal du vise at $\lim_{v \to 0^+} \dfrac{\sin v}{v} = 1$.
 
 I figuren nedenfor er $AB = AD = 1$, og buen $BD$ er del av en sirkel med sentrum i $A$. Vi lar $\angle BAC = v$ (målt i radianer).
 
-![Figur til grenseverdibevis](/img/user/_resources/r2-v23-1-5.jpeg)
+![Figur til grenseverdibevis](/img/user/_resources/r2-v23-1-5.jpeg){width=60%}
 
 >[!oppgave]
 >a) Bruk arealbetraktninger til å begrunne at

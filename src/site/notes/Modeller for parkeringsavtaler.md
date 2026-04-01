@@ -41,7 +41,7 @@ $$\textcolor{seagreen}{C(x) = 3490 + 24x}$$
 
 B lønner seg fremfor A når B er billigere enn A. Vi finner skjæringspunktet mellom A og B grafisk:
 
-![Graf av parkeringsavtalene A, B og C](/img/user/_resources/2p-y-h24-2-4-graf.png)
+![Graf av parkeringsavtalene A, B og C](/img/user/_resources/2p-y-h24-2-4-graf.png){width=70%}
 
 Fra grafen ser vi at:
 

@@ -7,7 +7,7 @@
 
 En møbelbutikk selger sofabordet vist på bildet nedenfor.
 
-![Slide sofabord](/img/user/_resources/1py-h25-2-2-1.jpeg)
+![Slide sofabord](/img/user/_resources/1py-h25-2-2-1.jpeg){width=60%}
 
 **Slide sofabord**
 Lengde: 120 cm · Bredde: 60 cm · Høyde: 45 cm
@@ -20,7 +20,7 @@ Før kostet bordet 5745 kroner. Butikken setter ned prisen med 13 %.
 
 Bordplaten har form som et kvadrat med en halvsirkel på hver side. Figuren viser bordplaten sett ovenfra.
 
-![Bordplate sett ovenfra med mål](/img/user/_resources/1py-h25-2-2-2.jpeg)
+![Bordplate sett ovenfra med mål](/img/user/_resources/1py-h25-2-2-2.jpeg){width=60%}
 
 >[!oppgave]
 >b) Gjør beregninger og vis at arealet av bordplaten er omtrent $0{,}64 \mathrm{~m^2}$.

@@ -158,7 +158,7 @@ En av pyramidene har et volum på $9 \mathrm{~dm^3}$.
 
 ---
 
-![Pyramide](/img/user/_resources/1p-h25-1-4.jpeg)
+![Pyramide](/img/user/_resources/1p-h25-1-4.jpeg){width=100%}
 
 <!-- two-column stop -->
 
@@ -227,7 +227,7 @@ Dette avhenger av $h$ og er ikke konstant. Vi kan verifisere med noen verdier:
 
 # Lønn og timelønn fra grafer
 
-![Lønn og timer for Nora og Nils](/img/user/_resources/1p-h25-1-5.jpeg)
+![Lønn og timer for Nora og Nils](/img/user/_resources/1p-h25-1-5.jpeg){width=80%}
 
 Den grønne grafen i koordinatsystemet ovenfor viser sammenhengen mellom antall timer Nora arbeider, og lønnen hun får.
 
@@ -289,7 +289,7 @@ $$t = 36$$
 
 # Femkanttall og programmering
 
-![De 4 første femkanttallene](/img/user/_resources/1t-h25-1-6.jpeg)
+![De 4 første femkanttallene](/img/user/_resources/1t-h25-1-6.jpeg){width=60%}
 
 Siri arbeider med femkanttall. Hun har oppdaget en sammenheng og laget programmet nedenfor.
 
@@ -381,7 +381,7 @@ Prisen per busstur er $\dfrac{1200}{x}$ der $x$ er antall turer.
 
 Grafen nedenfor viser sammenhengen mellom antall bussturer og prisen per busstur. Funksjonen er $f(x) = \dfrac{1200}{x}$.
 
-![Graf: pris per tur](/img/user/_resources/1p-h25-1-6-graf.png)
+![Graf: pris per tur](/img/user/_resources/1p-h25-1-6-graf.png){width=70%}
 
 ### 1-6c
 
@@ -450,7 +450,7 @@ Modellen er dermed tilnærmet
 
 $$F(x) \approx 0{,}00966 \cdot x^3$$
 
-![Graf for F(x)](/img/user/_resources/1p-h25-2-1-a-graf.png)
+![Graf for F(x)](/img/user/_resources/1p-h25-2-1-a-graf.png){width=70%}
 
 ### 2-1b
 
@@ -458,7 +458,7 @@ Vi løser likningen $F(x) = 11\,500$:
 
 $$0{,}00966 \cdot x^3 = 11\,500$$
 
-![GeoGebra CAS løsning for oppgave 2-1b](/img/user/_resources/1p-h25-2-1-b-CAS.png)
+![GeoGebra CAS løsning for oppgave 2-1b](/img/user/_resources/1p-h25-2-1-b-CAS.png){width=50%}
 
 **Ifølge modellen er en fisk som veier $11{,}5 \, \mathrm{kg}$ omtrent $\underline{\underline{106 \, \mathrm{cm}}}$ lang.**
 
@@ -540,7 +540,7 @@ En elev har beskrevet fire situasjoner og tegnet ni grafer. Se nedenfor.
 
 <!-- two-column stop -->
 
-![Ni grafer](/img/user/_resources/1p-h25-2-2.jpeg)
+![Ni grafer](/img/user/_resources/1p-h25-2-2.jpeg){width=80%}
 
 ## Fasit
 
@@ -721,7 +721,7 @@ $$\frac{1}{0{,}77} - 1 = \frac{0{,}23}{0{,}77} = \frac{23}{77} \approx 0{,}2987 
 
 # Breddegrader og jordomkrets
 
-![Jordklode med breddegrader](/img/user/_resources/1p-h25-2-6.jpeg)
+![Jordklode med breddegrader](/img/user/_resources/1p-h25-2-6.jpeg){width=60%}
 
 Breddegrader angir hvor langt nord eller sør et sted ligger i forhold til ekvator.
 
@@ -804,7 +804,7 @@ $$A = \pi \cdot r^2$$
 
 ---
 
-![Blomsterbed skisse](/img/user/_resources/1p-h25-2-7.jpeg)
+![Blomsterbed skisse](/img/user/_resources/1p-h25-2-7.jpeg){width=100%}
 
 <!-- two-column stop -->
 
@@ -912,7 +912,7 @@ $$A(x) = x \cdot y + \frac{\pi x^2}{8} = 6x - x^2 \cdot \frac{4 + \pi}{8}$$
 
 Vi tegner grafen til $A(x)$ i GeoGebra og leser av toppunktet:
 
-![Graf av $A(x) = 6x - x^2 \cdot \frac
+![Graf av $A(x) = 6x - x^2 \cdot \frac{4+\pi}{8}$ med toppunkt markert](/img/user/_resources/1p-h25-2-7-e-graf.png){width=70%}
 
 Fra grafen leser vi at toppunktet er $(3{,}36,\ 10{,}08)$, altså $x \approx 3{,}36 \, \mathrm{m}$ og $A \approx 10{,}1 \, \mathrm{m^2}$.
 

@@ -16,7 +16,7 @@ Han har sjekket bankens nettsider og brukt en lånekalkulator for å finne ut hv
 > - ha minst 15 % i egenkapital
 > - kunne klare å betale ned lånet selv om renten øker med 3 prosentpoeng
 
-![Lånekalkulator](/img/user/_resources/2p-v24-2-6.png)
+![Lånekalkulator](/img/user/_resources/2p-v24-2-6.png){width=100%}
 
 >[!oppgave]
 >a) Hvordan kan du se at det er et annuitetslån Johannes har fått opplysninger om? Hvorfor kan han ikke legge inn mer enn 1 700 000 som ønsket lånebeløp i lånekalkulatoren?
@@ -39,7 +39,7 @@ Johannes skal betale første terminbeløp etter én måned.
 
 Johannes vil bruke SIFO sitt referansebudsjett for å få bedre oversikt over økonomien sin.
 
-![SIFO referansebudsjett](/img/user/_resources/2p-v24-2-6-sifo.png)
+![SIFO referansebudsjett](/img/user/_resources/2p-v24-2-6-sifo.png){width=60%}
 
 I tillegg til utgiftene som er representert i dette budsjettet, bruker Johannes 1600 kroner per måned til nedbetaling av studielån og 2000 kroner per måned til ulike forsikringer.
 

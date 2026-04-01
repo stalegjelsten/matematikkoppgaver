@@ -95,7 +95,7 @@ $$
 <path style="fill:none;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 64 704 L 64 711.175781 L 71.152344 711.175781 L 71.152344 704 Z M 64 704 " transform="matrix(1,0,0,-1,-28,785)"/>
 </g>
 </svg>
-
+{width=25%}
 
 ## Fasit
 
@@ -247,7 +247,7 @@ Nedenfor ser du grafen til en rasjonal funksjon $f$.
 
 Bestem $f(x)$. Husk å argumentere for at svaret ditt er riktig.
 
-![Rasjonal funksjon $f$](/img/user/_resources/1t-v23-1-4-rasjonal.png)
+![Rasjonal funksjon $f$](/img/user/_resources/1t-v23-1-4-rasjonal.png){width=60%}
 
 > [!info] Kommentar til oppgaven
 > Kommentar: det finnes uendelig mange ulike funksjonsuttrykk som passer. Det holder å finne et funksjonsuttrykk. Inkluder gjerne definisjonsmengden i svaret ditt.
@@ -378,7 +378,7 @@ b) Gjennomsnittlig vekstfart er 5,04. Gjennomsnittlig øker temp med 5,04 ºC pe
 ### 2-1a
 Jeg tegnet grafen til funksjonen og fant skjæringspunktene ved $x$-aksen, hvor temperaturen er 0 °C, se punkt $B$ og $C$. 
 
-![Del 2 oppgave 1. Gjennomsnittemperatur på Svalbard 1. februar–1. oktober](/img/user/_resources/1t-v2023-2-1a.png)
+![Del 2 oppgave 1. Gjennomsnittemperatur på Svalbard 1. februar–1. oktober](/img/user/_resources/1t-v2023-2-1a.png){ width=80% }
 
 Det er $8{,}906-5{,}772=3{,}134$ måneder mellom skjæringspunktene. Jeg setter at det er 30,5 døgn i hver måned slik at vi får:
 
@@ -391,7 +391,7 @@ $$
 ### 2-1b
 Jeg la inn punktene i GeoGebra, dro en linje mellom dem og fant stigningstallet, se $b=5{,}04$ i utklippet.
 
-![Del 2 oppgave 1b. Gjennomsnittlig vekstfart fra mars til juli](/img/user/_resources/1t-v23-2-1b.png)
+![Del 2 oppgave 1b. Gjennomsnittlig vekstfart fra mars til juli](/img/user/_resources/1t-v23-2-1b.png){ width=80% }
 
 Stigningstallet til linja gir den gjennomsnittlige vekstfarten fra $x=3$ til $x=7$. 
 
@@ -400,7 +400,7 @@ Stigningstallet til linja gir den gjennomsnittlige vekstfarten fra $x=3$ til $x=
 ### 2-1c
 Jeg tegnet $T'$ sammen med $T$ i koordinatsystemet og fant nullpunkter og ekstremalpunkter til $T'$. 
 
-![Del 2 oppgave 1c. Vekstfarten til temperaturen på Svalbard](/img/user/_resources/1t-v23-2-1c.png)
+![Del 2 oppgave 1c. Vekstfarten til temperaturen på Svalbard](/img/user/_resources/1t-v23-2-1c.png){ width=80% }
 
 $$
 \begin{aligned}
@@ -459,7 +459,7 @@ c) Se løsningforslaget
 ## Løsningsforslag
 Jeg tegnet $T'$ sammen med $T$ i koordinatsystemet og fant nullpunkter og ekstremalpunkter til $T'$. 
 
-![Del 2 oppgave 1c. Vekstfarten til temperaturen på Svalbard](/img/user/_resources/1t-v23-2-1c.png)
+![Del 2 oppgave 1c. Vekstfarten til temperaturen på Svalbard](/img/user/_resources/1t-v23-2-1c.png){ width=80% }
 
 $$
 \begin{aligned}
@@ -529,7 +529,7 @@ $$
 ### 2-2b
 Jeg satte opp en oversikt i Excel, se formlene i formelutklippet. Vi ser at arealet øker når bredden øker helt fram til lengden er 40 m og bredden er 20 m, deretter minker arealet. 
 
-![Del 2 oppgave 2b. Oversikt over lengde og bredde av teltplass](/img/user/_resources/1t-v23-2-2b.png) 
+![Del 2 oppgave 2b. Oversikt over lengde og bredde av teltplass](/img/user/_resources/1t-v23-2-2b.png){ width=80% } 
 
 **Hermann har rett i at vi får det største arealet dersom lengden er dobbelt så lang som bredden.**
 
@@ -560,7 +560,7 @@ Jeg tegnet denne grafen i GeoGebra og fant toppunktet, se punkt $B$.
 
 # Areal av firkant ved hjelp av trigonometri
 
-![Firkant](/img/user/_resources/1t-v23-2-3-oppg.png)
+![Firkant](/img/user/_resources/1t-v23-2-3-oppg.png){width=60%}
 
 I denne oppgaven skal du vise at du kan bruke trigonometri til å bestemme arealet av figuren ovenfor.
 
@@ -576,11 +576,11 @@ $A=50{,}78$
 
 ## Løsningsforslag
 
-![Del 2 oppgave 3. Skisse av $\square ABCD$](/img/user/_resources/1t-v23-2-3-2.png) 
+![Del 2 oppgave 3. Skisse av $\square ABCD$](/img/user/_resources/1t-v23-2-3-2.png){width=50%} 
 
 Jeg delte firkant $ABCD$ i to trekanter: $ABC$ og $ACD$, se den vedlagte skissen. Jeg brukte cosinussetningen på $ABC$ med $AC$ som den ukjente siden, se linje 5 i CAS. På den måten fant jeg $AC^2=99,12$. 
 
-![](/img/user/_resources/1t-v23-2-3.png)
+![](/img/user/_resources/1t-v23-2-3.png){ width=60% }
 
 $AC^2$ kunne jeg bruke til cosinussetningen på trekant $ACD$. Jeg kjente nå alle de tre sidene slik at kunne jeg bestemme $\angle D=80,47\degree$ i linje 6.
 
@@ -3176,7 +3176,7 @@ z
   </clipPath>
  </defs>
 </svg>
-
+{width=50%}
 
 Thea ønsker å bestemme en tilnærmet verdi for arealet av det grønne området som
 er avgrenset av $x$-aksen, $y$-aksen og grafen til $f$.
@@ -4948,7 +4948,7 @@ z
   </clipPath>
  </defs>
 </svg>
-
+{width=50%}
 
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
@@ -6764,7 +6764,7 @@ z
   </clipPath>
  </defs>
 </svg>
-
+{width=50%}
 
 a) Bestem arealet av de seks rektanglene i figur 2
 
@@ -6795,7 +6795,7 @@ c) 20,002
 ### 2-4a
 Jeg ser at alle rektanglene har bredde 1. Arealet av hvert rektangel er derfor $A_{\square}=h\cdot  b=h\cdot 1=h$. Høyden til rektangelet er gitt ved $f(x)=\frac{1}{9}(x+1)(x-6)^2$ hvor $x\in \left\{ 0, 1, 2 , 3, 4, 5 \right\}$.
 
-![](/img/user/_resources/1t-v23-2-4a.png)
+![](/img/user/_resources/1t-v23-2-4a.png){ width=60% }
 
 Jeg legger sammen funksjonsverdiene i CAS og finner at det samlede arealet er 
 
@@ -6895,7 +6895,7 @@ Jeg ser at $\triangle SBC$ og $\triangle ABS$ er likebeinte trekanter med to sid
 Jeg har fått oppgitt arealet $A=2\sqrt{ 3 }+6$, derfor ønsker jeg å bruke arealsetningen til å bestemme $r$. Jeg ser at det er mulig å bruke arealsetningen med $BC$, $AB$ og $\angle B$.
 
 ![Del 2 oppgave 5. Skisse av figuren](/img/user/_resources/1t-v23-2-5-2.png) \
-![](/img/user/_resources/1t-v23-2-5.png)
+![](/img/user/_resources/1t-v23-2-5.png){ width=60% }
 
 For å bestemme $BC$ brukte jeg pytagoras i linje 1 og fant $BC=\sqrt{ 2 } |r|$. Dette er lik $\sqrt{ 2 }r$ siden radius alltid må være positiv. 
 
@@ -6994,7 +6994,7 @@ $$
 
 Vi ser at $x=0$ alltid vil gi et stasjonært punkt i $(0, P(0))$ for slike tredjegradsfunksjoner. Stasjonære punkter er ikke bare topp- eller bunnpunkter, det kan også være terrassepunkter slik som grafen til $x^3$ viser.
 
-![Del 2 oppgave 6b. Bruk av glidere til utforskning](/img/user/_resources/1t-v23-2-6b.png)
+![Del 2 oppgave 6b. Bruk av glidere til utforskning](/img/user/_resources/1t-v23-2-6b.png){ width=80% }
 
 Ved å tegne grafen til $P(x)=ax^3+bx^2+c$ i GeoGebra og justere på glidere for $a, b, c$ så ser det ut til at vi kun får terrassepunkter dersom $b=0$. Hvis $b\neq 0$ så ser det ut til at vi får både et toppunkt og et bunnpunkt. Hvis $b>0$ så er det bunnpunktet som befinner seg på $y$-aksen og hvis $b<0$ så er det toppunktet som befinner seg på $y$-aksen. Det ser også ut til at topp- og bunnpunktet går nærmere hverandre når jeg justerer $b$ slik at den blir nærmere 0. 
 

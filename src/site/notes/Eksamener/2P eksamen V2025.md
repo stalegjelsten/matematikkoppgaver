@@ -145,7 +145,7 @@ Lotta har kjøpt fire små og to store sekker med hundemat. Sekkene veier til sa
 
 # Areal og omkrets av halvsirkel og trekant
 
-![Figur: halvsirkel med radius r og likebeint trekant ABC med høyde h](/img/user/_resources/2p-v25-1-4.jpeg)
+![Figur: halvsirkel med radius r og likebeint trekant ABC med høyde h](/img/user/_resources/2p-v25-1-4.jpeg){width=60%}
 
 Et område har form som en halvsirkel med radius $r = 1{,}0 \mathrm{~m}$. Et annet område har form som en likebeint trekant $ABC$, der $AB = 3{,}0 \mathrm{~m}$ og høyden $h = 1{,}0 \mathrm{~m}$. Se figurene ovenfor.
 
@@ -172,7 +172,7 @@ Et område har form som en halvsirkel med radius $r = 1{,}0 \mathrm{~m}$. Et ann
 
 # Nedbetalingsplan for Marcos lån
 
-![Stolpediagram som viser avdrag og renter per termin over 10 år](/img/user/_resources/2p-v25-1-5.jpeg)
+![Stolpediagram som viser avdrag og renter per termin over 10 år](/img/user/_resources/2p-v25-1-5.jpeg){width=60%}
 
 Marco har tatt opp et lån med fast årlig rente. Lånet skal betales tilbake i løpet av 10 år, med én termin i året. Figuren ovenfor viser nedbetalingsplanen.
 
@@ -365,7 +365,7 @@ $U(x)$ består av to ledd: $\textcolor{maroon}{5000 \cdot 0{,}95^{x}}$ og $\text
 **Ledelsen ønsker å minke utslippet fra den ene prosessen med 5 % per år, og ikke gjøre noe med den andre prosessen.**
 
 ### 2-1b
-Til de neste oppgavene har jeg brukt GeoGebra til å regne ut svarene, se figuren-1. 
+Til de neste oppgavene har jeg brukt GeoGebra til å regne ut svarene, se figur &fig:2-1. 
 
 For å finne antall år før utslippene blir halvert har jeg lagt ut linja $y=\frac{6000}{2}$ og funnet skjæringen med $U$, se punkt $A$. 
 
@@ -462,7 +462,7 @@ $$
 
 # Formlike trekanter over elv
 
-![Skisse av elv med punktene A, B, C, D og E markert](/img/user/_resources/2p-v25-2-3.jpeg)
+![Skisse av elv med punktene A, B, C, D og E markert](/img/user/_resources/2p-v25-2-3.jpeg){width=60%}
 
 Kari skal over en elv. Hun har laget skissen ovenfor. Avstanden fra $A$ til $D$ er $5 \mathrm{~m}$, avstanden fra $D$ til $E$ er $10 \mathrm{~m}$, og avstanden fra $B$ til $C$ er $40 \mathrm{~m}$.
 
@@ -612,7 +612,7 @@ Presentasjonen skal inneholde
 
 ## Løsningsforslag
 
-Figuren viser et eksempel på svar på denne oppgaven, hvor jeg viser ulike framstillinger og beregninger. 
+Figur &fig:diagrammer viser et eksempel på svar på denne oppgaven, hvor jeg viser ulike framstillinger og beregninger. 
 
 Siden vi skal skal vise utvikling over tid fra 1983 til 2023 så passer linjediagrammer best. Jeg lager tre ulike linjediagrammer, ett diagram som passer til hver måleenhet (antall, antall per 1000 og antall per kvinne). For å vise beregninger med prosentvise endringer så har jeg laget en tabell som viser prosentvis endring fra 1983 fram til hvert år, og jeg har også vist formlene for beregningene i presentasjonen.
 

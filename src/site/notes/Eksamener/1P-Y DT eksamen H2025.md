@@ -80,7 +80,7 @@ $$\dfrac{120}{40} = \underline{\underline{ 3\mathrm{~min/km} }}$$
 
 Nora har tatt opp et lån med en fast årlig rente. Lånet skal betales tilbake i løpet av 5 år, med én termin i året. Figuren nedenfor viser nedbetalingsplanen.
 
-![Nedbetalingsplan for Noras lån](/img/user/_resources/1py-h25-1-2.jpeg)
+![Nedbetalingsplan for Noras lån](/img/user/_resources/1py-h25-1-2.jpeg){width=60%}
 
 >[!oppgave]
 >a) Er lånet et annuitetslån, eller er det et serielån? Husk å begrunne svaret.
@@ -175,7 +175,7 @@ En ungdomsbedrift lager og selger duker og løpere til spisebord og sofabord.
 
 En elev i bedriften vil sy en duk med form som en rombe, slik figuren viser.
 
-![Rombe ABCD med diagonaler](/img/user/_resources/1py-h25-1-4b.jpeg)
+![Rombe ABCD med diagonaler](/img/user/_resources/1py-h25-1-4b.jpeg){width=60%}
 
 > [!note] Fakta
 > En rombe er en firkant der alle sidene er like lange, og der to og to av sidene er parallelle med hverandre.
@@ -221,7 +221,7 @@ Elevene Jesper og Nina har fått i oppdrag å lage blomsterdekorasjoner til et b
 
 De har laget et diagram som viser innkjøpskostnadene de forventer til oppdraget.
 
-![Innkjøpskostnader diagram](/img/user/_resources/1py-h25-1-5-2.jpeg)
+![Innkjøpskostnader diagram](/img/user/_resources/1py-h25-1-5-2.jpeg){width=70%}
 
 Jesper og Nina stiller to spørsmål:
 
@@ -259,7 +259,7 @@ Jesper og Nina stiller to spørsmål:
 
 Aina jobber som interiørarkitekt i sitt eget enkeltpersonforetak. Regnearket nedenfor viser inntektene, kostnadene og arbeidstimene hennes for tre måneder.
 
-![Regneark med inntekter, kostnader og arbeidstimer](/img/user/_resources/1py-h25-2-1-regneark.jpeg)
+![Regneark med inntekter, kostnader og arbeidstimer](/img/user/_resources/1py-h25-2-1-regneark.jpeg){width=80%}
 
 >[!oppgave]
 >a) Lag et regneark som vist ovenfor. Lag formler i de grønne cellene slik at utregningene blir riktige. Husk å vise formlene du bruker i regnearket.
@@ -301,7 +301,7 @@ Aina skal lage et anbud for et oppdrag til en kunde:
 
 En møbelbutikk selger sofabordet vist på bildet nedenfor.
 
-![Slide sofabord](/img/user/_resources/1py-h25-2-2-1.jpeg)
+![Slide sofabord](/img/user/_resources/1py-h25-2-2-1.jpeg){width=60%}
 
 **Slide sofabord**
 Lengde: 120 cm · Bredde: 60 cm · Høyde: 45 cm
@@ -314,7 +314,7 @@ Før kostet bordet 5745 kroner. Butikken setter ned prisen med 13 %.
 
 Bordplaten har form som et kvadrat med en halvsirkel på hver side. Figuren viser bordplaten sett ovenfra.
 
-![Bordplate sett ovenfra med mål](/img/user/_resources/1py-h25-2-2-2.jpeg)
+![Bordplate sett ovenfra med mål](/img/user/_resources/1py-h25-2-2-2.jpeg){width=60%}
 
 >[!oppgave]
 >b) Gjør beregninger og vis at arealet av bordplaten er omtrent $0{,}64 \mathrm{~m^2}$.
@@ -355,7 +355,7 @@ Ella sparer til bolig på en BSU-konto.
 >  a) Lag et regneark som vist nedenfor. Lag formler i de grønne cellene slik at utregningene blir riktige.  
 >  Husk å vise formlene du bruker i regnearket.
 
-![Regneark som viser Ellas sparing](/img/user/_resources/1py-v25-2-4.png)
+![Regneark som viser Ellas sparing](/img/user/_resources/1py-v25-2-4.png){width=50%}
 
 Ella er gift med Sverre. Paret ønsker å kjøpe en leilighet som koster 5 600 000 kroner.
 
@@ -377,7 +377,7 @@ b) $484\,000 \, \mathrm{kr}$
 ### a
 Se regnearket.
 
- ![Ellas sparing i BSU](/img/user/_resources/ellas-sparing.png)
+ ![Ellas sparing i BSU](/img/user/_resources/ellas-sparing.png){width=100%}
 
 ### b
 Vi kan sette opp

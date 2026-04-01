@@ -5,7 +5,7 @@
 
 # Tangent til parabel og lagerhall
 
-![Snitt av lagerhall](/img/user/_resources/1t-h25-2-6.jpeg)
+![Snitt av lagerhall](/img/user/_resources/1t-h25-2-6.jpeg){width=40%}
 
 En arkitekt har tegnet et snitt av en lagerhall. Lagerhallen er 20 meter høy og har form som en parabel gitt ved
 

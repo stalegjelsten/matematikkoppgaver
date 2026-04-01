@@ -46,7 +46,7 @@ Vi deriverer $F(t)$ og evaluerer i GeoGebra CAS:
 
 $$F'(t) = \frac{B \cdot k \cdot a \cdot e^{-kt}}{(1 + a \cdot e^{-kt})^2}$$
 
-![GeoGebra CAS løsning for oppgave 2-1b](/img/user/_resources/r1-h25-2-1-b-CAS.png)
+![GeoGebra CAS løsning for oppgave 2-1b](/img/user/_resources/r1-h25-2-1-b-CAS.png){width=70%}
 
 **$\underline{\underline{F'(12) \approx 115}}$ personer per år.**
 
@@ -62,7 +62,7 @@ Vi setter $F'(t) = 150$ og løser i GeoGebra CAS:
 
 $$F'(t) = 150$$
 
-![GeoGebra CAS løsning for oppgave 2-1c](/img/user/_resources/r1-h25-2-1-c-CAS.png)
+![GeoGebra CAS løsning for oppgave 2-1c](/img/user/_resources/r1-h25-2-1-c-CAS.png){width=70%}
 
 **Løsningene er $t \approx 3{,}33$ og $t \approx 9{,}82$.**
 

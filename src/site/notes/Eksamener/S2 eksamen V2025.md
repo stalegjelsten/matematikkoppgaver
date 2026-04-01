@@ -144,6 +144,8 @@ $$
 
 Til et brettspill hører det med en spesiell terning med 6 sider. Det er en side med en ener, en side med en toer, en side med en treer og tre sider med seksere. Vi kaster terningen én gang. La $X$ være antall øyne terningen viser.
 
+Table: {.tall}
+
 |   $k$    |       1       |  2  |  3  |  6  |
 | :------: | :-----------: | :-: | :-: | :-: |
 | $P(X=k)$ | $\frac{1}{6}$ |     |     |     |
@@ -276,7 +278,7 @@ Eleven har lagt til en variabel `S`. `S` gir en løpende sum av verdiene til `a`
 Figuren viser grafen til en kostnadsfunksjon $K$ og to rette linjer.  
 Linjen $y=138x-9920$ tangerer grafen $K$ i punktet $\left( 180, \,14\,920 \right)$.
 
-![Kostnadsfunksjon med to rette linjer](/img/user/_resources/s2-v25-kostnadsfunksjon.png)
+![Kostnadsfunksjon med to rette linjer](/img/user/_resources/s2-v25-kostnadsfunksjon.png){width=80%}
 
 
 >[!oppgave]
@@ -434,7 +436,7 @@ c) 558,5 kr. Dette er differansen mellom produksjonskostnader for 20 enheter og 
 
 ### 2-1a
 
-![Regresjon i GeoGebra](/img/user/_resources/s2-v25-2-1a.png)
+![Regresjon i GeoGebra](/img/user/_resources/s2-v25-2-1a.png){width=60%}
 
 Vi finner en andregradsmodell for kostnadene ved hjelp av regresjon i GeoGebra. Se utklippet over.
 $$
@@ -445,7 +447,7 @@ $$
 
 ### 2-1b
 
-![Grenseinntekt og grensekostnad i GeoGebra](/img/user/_resources/s2-v25-2-1b.png)
+![Grenseinntekt og grensekostnad i GeoGebra](/img/user/_resources/s2-v25-2-1b.png){width=60%}
 
 Se linje 3 og 4 i CAS.
 $$
@@ -514,7 +516,7 @@ La $B, M \text{ og } E$ være lengdene av hoppene til henholdsvis Birger, Maren 
 
 Vi bestemmer sannsynligheten for at hver av dem hopper 90 meter eller lengre ved hjelp av sannsynlighetsvinduet i GeoGebra, se skjermbildet under. (Kun Birgers utklipp er vist).
 
-![Sannsynligheten for at Birger hopper 90 meter eller lengre](/img/user/_resources/s2-v25-2-2a.png)
+![Sannsynligheten for at Birger hopper 90 meter eller lengre](/img/user/_resources/s2-v25-2-2a.png){width=60%}
 
 $$
 \textcolor{orange}{P(B>90)}=0{,}1587 ,\quad \textcolor{seagreen}{P(M>90)}=0{,}0228, \quad \textcolor{steelblue}{P(E>90)}=0{,}0668
@@ -524,7 +526,7 @@ $$
 ### 2-2b
 Hvis Maren skal hoppe lengst med et hopp på 83 meter så må både $B<83$ og $E < 83$. Vi kan bruke multiplikasjonsprinsippet for å finne sannsynligheten for at begge disse utfallene skjer samtidig. Igjen bestemmer vi sannsynligheten ved hjelp av sannsynlighetsvinduet i GeoGebra.
 
-![Sannsynligheten for at Birger hopper kortere enn 83 meter](/img/user/_resources/s2-v25-2-2b.png)
+![Sannsynligheten for at Birger hopper kortere enn 83 meter](/img/user/_resources/s2-v25-2-2b.png){width=60%}
 
 $$
 \begin{aligned}
@@ -648,7 +650,7 @@ $$
 >
 >Denne oppgaven kan også løses i CAS ved å sette opp 3 likninger for å bestemme $N$, $a$ og $k$, se skjermbildet under. Du kan også gjøre regresjon på punktene $(0, 4000)$, $(65, 500\,000)$ og $(200, \, 1\,000\,000)$ med logistisk modell.
 >
->![](/img/user/_resources/s2-v25-2-3c-cas.png)
+>![](/img/user/_resources/s2-v25-2-3c-cas.png){width=50%}
 
 
 </div></div>
@@ -697,7 +699,7 @@ c) Nei, 149 581 kr
 
 ## Løsningsforslag
 
-![CAS-løsning av 2-4](/img/user/_resources/s2-v25-2-4-cas.png)
+![CAS-løsning av 2-4](/img/user/_resources/s2-v25-2-4-cas.png){width=70%}
 
 ### 2-4a
 Vi kaller det ukjente beløpet $B$. Nora skal sette inn $B$ på konto 30 ganger. Det siste beløpet skal ha fått renter i 1 år, mens det første beløpet skal ha fått renter i 30 år. 

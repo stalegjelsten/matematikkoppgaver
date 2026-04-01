@@ -42,7 +42,7 @@ $$
 ### 2-2b
 Jeg satte opp en oversikt i Excel, se formlene i formelutklippet. Vi ser at arealet øker når bredden øker helt fram til lengden er 40 m og bredden er 20 m, deretter minker arealet. 
 
-![Del 2 oppgave 2b. Oversikt over lengde og bredde av teltplass](/img/user/_resources/1t-v23-2-2b.png) 
+![Del 2 oppgave 2b. Oversikt over lengde og bredde av teltplass](/img/user/_resources/1t-v23-2-2b.png){ width=80% } 
 
 **Hermann har rett i at vi får det største arealet dersom lengden er dobbelt så lang som bredden.**
 

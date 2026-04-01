@@ -36,14 +36,14 @@ Det ble gjennomført 15 målinger. Resultatet av målingene (i meter) er gitt i 
 ### 2-3a
 Jeg bestemmer $P(X>87)$ ved hjelp av sannsynlighetsvinduet i GeoGebra. 
 
-![Sannsynlighet til oppgave 2-3a](/img/user/_resources/s2-h23-2-3a.png)
+![Sannsynlighet til oppgave 2-3a](/img/user/_resources/s2-h23-2-3a.png){width=50%}
 
 **Sannsynligheten for at bremselengden til en tilfeldig valgt bil er over 87 meter er 0,09121.**
 
 ### 2-3b
 Jeg brukte sannsynlighetsvinduet i GeoGebra. Der valgte jeg sannsynlighet for at $X<k$ og skrev inn 0,9 i sannsynlighetsfeltet.
 
-![Sannsynlighet til oppgave 2-3b](/img/user/_resources/s2-h23-2-3b.png)
+![Sannsynlighet til oppgave 2-3b](/img/user/_resources/s2-h23-2-3b.png){width=50%}
 
 **$\underline{\underline{k=86{,}84}}$. Det betyr at dekkprodusenten påstår at man klarer å stoppe innen 86,84 meter i 90 % av tilfellene.**
 
@@ -52,7 +52,7 @@ Jeg lar $\bar{X}$ være gjennomsnittet av 15 målinger. Da er $\bar{X}$ normalfo
 
 Jeg bruker sannsynlighetsvinduet i GeoGebra til å bestemme sannsynligheten $P(\bar{X}<84)=0{,}90165\approx0{,}902$.
 
-![Sannsynlighet til oppgave 2-3c](/img/user/_resources/s2-h23-2-3c.png)
+![Sannsynlighet til oppgave 2-3c](/img/user/_resources/s2-h23-2-3c.png){width=50%}
 
 **Sannsynligheten for at gjennomsnittet av 15 målinger er under 84 meter er 0,902.**
 
@@ -65,7 +65,7 @@ $H_{A}: \quad \mu>83$
 
 Gitt at nullhypotesen er sann så har vi normalfordeling med $E(\bar{X})=83$ og $SD(\bar{X})=\frac{3}{\sqrt{ 15 }}$.
 
-![Sannsynlighet til oppgave 2-3d](/img/user/_resources/s2-h23-2-3d.png)
+![Sannsynlighet til oppgave 2-3d](/img/user/_resources/s2-h23-2-3d.png){width=80%}
 
 Som vi ser fra GeoGebra-utklippet er sannsynligheten så er sannsynligheten 0,064 for at vi får et utvalg med gjennomsnitt større eller lik 84,18. Vi kan dermed ikke forkaste nullhypotesen med signifikansnivået 0,05.
 

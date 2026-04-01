@@ -356,7 +356,7 @@ Figuren viser grafen til funksjonen
 
 $$f(x) = 2 \cdot \sin\left(\frac{\pi}{4}x - \frac{\pi}{2}\right) - 1$$
 
-![Grafen til $f(x)$](/img/user/_resources/r2-h24-1-5.jpeg)
+![Grafen til $f(x)$](/img/user/_resources/r2-h24-1-5.jpeg){width=50%}
 
 >[!oppgave]
 >a) Bestem en funksjon på formen $g(x) = A \cdot \cos(cx + \varphi) + d$, som passer til grafen.
@@ -418,7 +418,7 @@ En ball ruller av taket på et hus og ned på bakken. Vi plasserer et koordinats
 - $x$-aksen ligger på bakken, står vinkelrett på husveggen og skjærer $y$-aksen der ballen forlater hustaket
 - $z$-aksen angir høyden over bakken med positiv retning oppover
 
-![Koordinatsystem med hus og ball](/img/user/_resources/r2-h24-2-1.jpeg)
+![Koordinatsystem med hus og ball](/img/user/_resources/r2-h24-2-1.jpeg){width=40%}
 
 Måleenheten på aksene er meter.
 
@@ -441,7 +441,7 @@ c) $t \approx 0{,}84 \, \mathrm{s}$
 
 ## Løsningsforslag
 
-![Løsning av oppgave 1 del 2 i CAS](/img/user/_resources/r2-h24-2-1-cas.png)
+![Løsning av oppgave 1 del 2 i CAS](/img/user/_resources/r2-h24-2-1-cas.png){width=50%}
 
 ### 2-1a
 $z$-komponenten til $\vec{r}(t)$ gir oss høyden ved tiden $t=0$
@@ -565,13 +565,13 @@ $k$ ligger ikke i intervallet $\langle-1,1\rangle$, og dermed konvergerer ikke r
 ### 2-2c
 $f$ og $g$ kommer til å avgrense maksimalt 2 områder siden $f$ er en tredjegradsfunksjon og $g$ er en andregradsfunksjon. For å finne disse to områdene må vi først finne skjæringspunktene mellom grafene.
 
-![Bestemmelse av skjæringspunktet mellom funksjoner i CAS](/img/user/_resources/s2-h24-2-3b-1.png)
+![Bestemmelse av skjæringspunktet mellom funksjoner i CAS](/img/user/_resources/s2-h24-2-3b-1.png){width=50%}
 
 Jeg fant skjæringspunktene i GeoGebra. (*Vi ser her at kravet om at $a>-1$ gjør at vi får reelle løsninger*).
 
 La oss undersøke arealet av områdene som er avgrenset. Jeg gjør dette i GeoGebra ved å integrere fra skjæringspunkt til skjæringspunkt ved hjelp av `IntegralMellom`.
 
-![Bestemmelse av arealet mellom grafene](/img/user/_resources/s2-h24-2-3b-2.png)
+![Bestemmelse av arealet mellom grafene](/img/user/_resources/s2-h24-2-3b-2.png){width=50%}
 
 **Påstanden stemmer. Vi ser at arealene mellom grafene er like store.**
 
@@ -599,10 +599,10 @@ La oss undersøke arealet av områdene som er avgrenset. Jeg gjør dette i GeoGe
 
 <!-- gap:0.7cm -->
 
-![Tverrsnitt av jordbær i målestokk 1:1](/img/user/_resources/r2-h24-2-3-1.jpeg)
+![Tverrsnitt av jordbær i målestokk 1:1](/img/user/_resources/r2-h24-2-3-1.jpeg){width=65%}
 
 ---
-![Linjal i målestokk 1:1](/img/user/_resources/r2-h24-2-3-2.jpeg)
+![Linjal i målestokk 1:1](/img/user/_resources/r2-h24-2-3-2.jpeg){width=20%}
 
 <!-- two-column stop -->
 
@@ -616,11 +616,11 @@ $V \approx 35 \, \mathrm{cm}^3$ (avhenger av målinger fra bildet)
 
 ## Løsningsforslag
 
-Vi legger et koordinatsystem med origo spissen på jordbæret og måler avstanden fra $x$-aksen til kanten av jordbæret. Jeg har gjort dette i GeoGebra ved å sette ut punkter, se figuren-jordbar.
+Vi legger et koordinatsystem med origo spissen på jordbæret og måler avstanden fra $x$-aksen til kanten av jordbæret. Jeg har gjort dette i GeoGebra ved å sette ut punkter, se figur &fig:regresjon-jordbar.
 
 Jeg valgte en andregradsmodell siden denne passet «godt nok». Vi ser at modellen følger omrisset av jordbæret relativt godt fram til punkt $H$. Vi underestimerer volumet mellom $C$ og $D$, men vi overestimerer mellom $D$ og $E$. Jeg setter integrasjonsgrensen til 3,65 cm siden toppen av jordbæret «bøyer seg tilbake» inn mot stilkfestet.
 
-![Regresjon og beregning av volum i GeoGebra](/img/user/_resources/r2-h24-2-3-regresjon.png)
+![Regresjon og beregning av volum i GeoGebra](/img/user/_resources/r2-h24-2-3-regresjon.png){width=70% #fig:regresjon-jordbar}
 
 Jeg beregner volumet som et omdreiningslegeme med $\pi \int_{a}^{b} \left( f(x) \right)^{2} \, \mathrm{d}x$ i GeoGebra.
 
@@ -740,7 +740,7 @@ $$
 
 ### 2-4b
 
-![Program for å regne ut ledd i rekke](/img/user/_resources/s2-h24-2-4b.png)
+![Program for å regne ut ledd i rekke](/img/user/_resources/s2-h24-2-4b.png){width=60%}
 
 Jeg brukte en `for`-løkke til å regne meg fram til delsummen til ledd nummer 30 og skrev ut svarene i konsollen. 
 
@@ -806,7 +806,7 @@ $V = 2\pi^2 R^2 a$ (bevis)
 
 ## Løsningsforslag
 
-![Flytting av sirkelen i oppgave 6](/img/user/_resources/r2-h24-2-6-sirkler.png)
+![Flytting av sirkelen i oppgave 6](/img/user/_resources/r2-h24-2-6-sirkler.png){width=50%}
 
 For å gjøre jobben enklere for meg selv så vil jeg flytte sirkelen fra $S(a,0)$ til $S^*(0,a)$ og rotere sirkelen om $x$-aksen istedenfor om $y$-aksen. Sirkelens radius er fremdeles $R<a$.
 

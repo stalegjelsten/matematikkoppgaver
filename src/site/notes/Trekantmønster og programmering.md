@@ -8,7 +8,7 @@
 
 
 
-![Tre figurer med trekanter](/img/user/_resources/2p-y-h25-trekanter.png)
+![Tre figurer med trekanter](/img/user/_resources/2p-y-h25-trekanter.png){width=65%}
 
 Ovenfor ser du tre figurer. Figurene er satt sammen av pinner.  
 Tenk deg at du skal fortsette å lage figurer etter samme mønster.

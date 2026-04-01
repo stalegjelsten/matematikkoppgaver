@@ -16,7 +16,7 @@ $$A = \pi \cdot r^2$$
 
 ---
 
-![Blomsterbed skisse](/img/user/_resources/1p-h25-2-7.jpeg)
+![Blomsterbed skisse](/img/user/_resources/1p-h25-2-7.jpeg){width=100%}
 
 <!-- two-column stop -->
 
@@ -124,7 +124,7 @@ $$A(x) = x \cdot y + \frac{\pi x^2}{8} = 6x - x^2 \cdot \frac{4 + \pi}{8}$$
 
 Vi tegner grafen til $A(x)$ i GeoGebra og leser av toppunktet:
 
-![Graf av $A(x) = 6x - x^2 \cdot \frac
+![Graf av $A(x) = 6x - x^2 \cdot \frac{4+\pi}{8}$ med toppunkt markert](/img/user/_resources/1p-h25-2-7-e-graf.png){width=70%}
 
 Fra grafen leser vi at toppunktet er $(3{,}36,\ 10{,}08)$, altså $x \approx 3{,}36 \, \mathrm{m}$ og $A \approx 10{,}1 \, \mathrm{m^2}$.
 

@@ -9,7 +9,7 @@
 Figuren viser grafen til en kostnadsfunksjon $K$ og to rette linjer.  
 Linjen $y=138x-9920$ tangerer grafen $K$ i punktet $\left( 180, \,14\,920 \right)$.
 
-![Kostnadsfunksjon med to rette linjer](/img/user/_resources/s2-v25-kostnadsfunksjon.png)
+![Kostnadsfunksjon med to rette linjer](/img/user/_resources/s2-v25-kostnadsfunksjon.png){width=80%}
 
 
 >[!oppgave]

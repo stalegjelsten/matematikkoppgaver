@@ -34,7 +34,7 @@ Table: Mål lokk
 
 <!-- two-column start left-width=50% -->
 
-![Søppelbøttene](/img/user/_resources/1py-tp-h25-2-2-1.jpeg)
+![Søppelbøttene](/img/user/_resources/1py-tp-h25-2-2-1.jpeg){width=80%}
 
 ---
 
@@ -64,7 +64,7 @@ Den svarte søppelbøtten ser litt skjev ut. Naomi måler diagonalen på framsid
 
 <!-- two-column start left-width=50% -->
 
-![Måling av diagonal](/img/user/_resources/1py-tp-h25-2-2-3.jpeg)
+![Måling av diagonal](/img/user/_resources/1py-tp-h25-2-2-3.jpeg){width=50%}
 
 ---
 

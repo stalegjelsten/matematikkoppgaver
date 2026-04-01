@@ -18,7 +18,7 @@ $P$ er effekten i watt, $U$ er spenningen i volt, og $I$ er strømstyrken i ampe
 
 Elektromotoren under er koblet til et trefasenett.
 
-![Elektromotor i trefasenett](/img/user/_resources/1pyel-v23-2-1-2.jpeg)
+![Elektromotor i trefasenett](/img/user/_resources/1pyel-v23-2-1-2.jpeg){width=60%}
 
 Formelen for tilført effekt $(P_t)$ er $P_t = \sqrt{3} \cdot U \cdot I \cdot \cos \varphi$
 

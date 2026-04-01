@@ -9,7 +9,7 @@ Sofie kjøper en bagett med smør, ost, skinke, tomat og salat i kantina på sko
 
 Sofie vurderer om hun heller skal kjøpe bagetter i en butikk, smøre dem selv og ta dem med på skolen.
 
-![Priser på ingredienser til bagett](/img/user/_resources/1p-v25-2-7.png)
+![Priser på ingredienser til bagett](/img/user/_resources/1p-v25-2-7.png){width=70%}
 
 >[!oppgave]
 >Gjør nødvendige antakelser og finn ut hvor mye Sofie vil kunne spare i løpet av en måned dersom hun kjøper bagetter i en butikk og smører dem selv.

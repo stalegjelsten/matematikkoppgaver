@@ -11,7 +11,7 @@ $$f(x) = \frac{2x - 8}{x + 2}$$
 
 $$g(x) = \frac{x^2 - 4}{(x - 3)(x + 3)}$$
 
-![Grafer A–F for rasjonale funksjoner](/img/user/_resources/1t-h23-1-5.jpeg)
+![Grafer A–F for rasjonale funksjoner](/img/user/_resources/1t-h23-1-5.jpeg){width=80%}
 
 >[!oppgave]
 >a) Hvilken av grafene ovenfor er grafen til $f$?

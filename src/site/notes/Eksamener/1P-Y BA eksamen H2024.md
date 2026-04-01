@@ -79,7 +79,7 @@ Gjør beregninger og vurderinger og finn ut mest mulig av det elevene lurer på.
 
 Erik vil kjøpe ny elbil. Elbilen koster 685 000 kroner. Regnearket nedenfor viser kostnadene han må regne med det første året dersom han kjører 15 000 km.
 
-![Oversikt over Eriks bilkostnader](/img/user/_resources/eriks-bilkjoring.png)
+![Oversikt over Eriks bilkostnader](/img/user/_resources/eriks-bilkjoring.png){width=40%}
 
 > [!oppgave]
 >  a) Lag et regneark som vist ovenfor. Lag formler i de grønne cellene slik at du finner totale kostnader første år og kostnader per kjørte kilometer.
@@ -174,7 +174,7 @@ $$= \frac{65 - 58}{58 \cdot 65} \cdot 1080 = \frac{7}{3770} \cdot 1080 \approx \
 Ida og Alex vil bestille en flyreise til Gran Canaria, se bildet.  
 Prisen er totalt 14 812 kroner tur-retur for to personer.
 
-![Flytider til Gran Canaria](/img/user/_resources/fly-granca.png)
+![Flytider til Gran Canaria](/img/user/_resources/fly-granca.png){width=50%}
 
 De vil bo på hotell på Gran Canaria. Prisen for ett rom til to personer er 84 euro per natt.
 

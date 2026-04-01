@@ -7,7 +7,7 @@
 
 Figuren nedenfor viser grafen til kostnadsfunksjonen og grafen til inntektsfunksjonen ved produksjon og salg av en vare.
 
-![Inntektsfunksjon og kostnadsfunksjon](/img/user/_resources/s2-v23-1-2.png)
+![Inntektsfunksjon og kostnadsfunksjon](/img/user/_resources/s2-v23-1-2.png){width=60%}
 
 >[!oppgave]
 >a) Forklar hvordan du ut fra den grafiske framstillingen kan bestemme en tilnærmet verdi for grensekostnaden når det blir produsert 40 enheter. Omtrent hvor stor er denne grensekostnaden?

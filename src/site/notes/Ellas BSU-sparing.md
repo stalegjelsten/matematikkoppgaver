@@ -15,7 +15,7 @@ Ella sparer til bolig på en BSU-konto.
 >  a) Lag et regneark som vist nedenfor. Lag formler i de grønne cellene slik at utregningene blir riktige.  
 >  Husk å vise formlene du bruker i regnearket.
 
-![Regneark som viser Ellas sparing](/img/user/_resources/1py-v25-2-4.png)
+![Regneark som viser Ellas sparing](/img/user/_resources/1py-v25-2-4.png){width=50%}
 
 Ella er gift med Sverre. Paret ønsker å kjøpe en leilighet som koster 5 600 000 kroner.
 
@@ -38,7 +38,7 @@ b) $484\,000 \, \mathrm{kr}$
 ### a
 Se regnearket.
 
- ![Ellas sparing i BSU](/img/user/_resources/ellas-sparing.png)
+ ![Ellas sparing i BSU](/img/user/_resources/ellas-sparing.png){width=100%}
 
 ### b
 Vi kan sette opp

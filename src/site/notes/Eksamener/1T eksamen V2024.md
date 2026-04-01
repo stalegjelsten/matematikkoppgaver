@@ -39,7 +39,7 @@
 
 # Trigonometri i rettvinklet trekant
 
-![Rettvinklet trekant med sider 8, 6, 10 og vinkler u og v](/img/user/_resources/1t-v24-1-1.jpeg)
+![Rettvinklet trekant med sider 8, 6, 10 og vinkler u og v](/img/user/_resources/1t-v24-1-1.jpeg){width=60%}
 
 Tom har arbeidet med trekanten ovenfor og påstår at $\tan u \cdot \tan v = 1$
 
@@ -90,7 +90,7 @@ $$2x^3 + 3x^2 - 11x - 6 = (2x^2 + 7x + 3) \cdot (x - 2)$$
 
 # Matematisk identitet fra arealmodell
 
-![Rektangel der det grønne området har mål a−b og b](/img/user/_resources/1t-v24-1-3.jpeg)
+![Rektangel der det grønne området har mål a−b og b](/img/user/_resources/1t-v24-1-3.jpeg){width=60%}
 
 >[!oppgave]
 >Sett opp en matematisk identitet med utgangspunkt i arealet av det grønne området.
@@ -148,7 +148,7 @@ print(v)
 
 Figuren viser grafen til en funksjon $f$.
 
-![Graf til f med nullpunkter (−3, 0) og (4, 0) og toppunkt (0, 24)](/img/user/_resources/1t-v24-1-5.jpeg)
+![Graf til f med nullpunkter (−3, 0) og (4, 0) og toppunkt (0, 24)](/img/user/_resources/1t-v24-1-5.jpeg){width=60%}
 
 >[!oppgave]
 >a) Bestem $f(x)$
@@ -212,7 +212,7 @@ Når lysstrålen går fra luft til vann, vil
 
 $$\sin u = 1{,}33 \cdot \sin v$$
 
-![Lysstråle som brytes fra luft til vann med vinkler u og v](/img/user/_resources/1t-v24-2-2.jpeg)
+![Lysstråle som brytes fra luft til vann med vinkler u og v](/img/user/_resources/1t-v24-2-2.jpeg){width=60%}
 
 >[!oppgave]
 >a) Hvor stor må vinkelen $u$ være for at vinkelen $v$ skal bli $39\degree$?
@@ -278,7 +278,7 @@ $$\ldots$$
 >a) Lag et program som summerer og skriver ut summene $S_1$, $S_2$, $S_3$ … $S_{20}$
 >b) Beskriv sammenhengen du oppdager når du ser på summene som er skrevet ut. Bruk figuren nedenfor til å argumentere for at sammenhengen må være riktig.
 
-![Ruter med kuler som illustrerer summer av oddetall](/img/user/_resources/1t-v24-2-4.jpeg)
+![Ruter med kuler som illustrerer summer av oddetall](/img/user/_resources/1t-v24-2-4.jpeg){width=40%}
 
 ## Fasit
 
@@ -353,7 +353,7 @@ Når lufttrykket er lavere enn 1000 hPa, vil kokepunktet for vann være lavere e
 
 # Tangent fra derivertgraf
 
-![Graf til den deriverte f′ som er en rett linje i et koordinatsystem](/img/user/_resources/1t-v24-2-6.jpeg)
+![Graf til den deriverte f′ som er en rett linje i et koordinatsystem](/img/user/_resources/1t-v24-2-6.jpeg){width=60%}
 
 Den rette linjen som er tegnet i koordinatsystemet ovenfor, er den deriverte av en funksjon $f$.
 
@@ -379,7 +379,7 @@ Punktet $P(1, 2)$ ligger på grafen til $f$.
 
 # Lukket kurve med tre funksjoner
 
-![Tre grafer som til sammen danner en lukket kurve med punkter A, B og C](/img/user/_resources/1t-v24-2-7.jpeg)
+![Tre grafer som til sammen danner en lukket kurve med punkter A, B og C](/img/user/_resources/1t-v24-2-7.jpeg){width=60%}
 
 Figuren ovenfor viser tre grafer som til sammen danner en lukket kurve.
 

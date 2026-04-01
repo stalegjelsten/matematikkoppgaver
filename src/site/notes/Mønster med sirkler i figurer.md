@@ -5,7 +5,7 @@
 
 # Mønster med sirkler i figurer
 
-![De første 3 figurene](/img/user/_resources/2py-v23-1-4.png)
+![De første 3 figurene](/img/user/_resources/2py-v23-1-4.png){width=40%}
 
 Ovenfor ser du tre figurer. Figurene er satt sammen av små sirkler. Tenk deg at du skal fortsette å lage figurer etter samme mønster.
 

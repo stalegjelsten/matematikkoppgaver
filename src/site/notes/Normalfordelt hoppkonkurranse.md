@@ -40,7 +40,7 @@ La $B, M \text{ og } E$ være lengdene av hoppene til henholdsvis Birger, Maren 
 
 Vi bestemmer sannsynligheten for at hver av dem hopper 90 meter eller lengre ved hjelp av sannsynlighetsvinduet i GeoGebra, se skjermbildet under. (Kun Birgers utklipp er vist).
 
-![Sannsynligheten for at Birger hopper 90 meter eller lengre](/img/user/_resources/s2-v25-2-2a.png)
+![Sannsynligheten for at Birger hopper 90 meter eller lengre](/img/user/_resources/s2-v25-2-2a.png){width=60%}
 
 $$
 \textcolor{orange}{P(B>90)}=0{,}1587 ,\quad \textcolor{seagreen}{P(M>90)}=0{,}0228, \quad \textcolor{steelblue}{P(E>90)}=0{,}0668
@@ -50,7 +50,7 @@ $$
 ### 2-2b
 Hvis Maren skal hoppe lengst med et hopp på 83 meter så må både $B<83$ og $E < 83$. Vi kan bruke multiplikasjonsprinsippet for å finne sannsynligheten for at begge disse utfallene skjer samtidig. Igjen bestemmer vi sannsynligheten ved hjelp av sannsynlighetsvinduet i GeoGebra.
 
-![Sannsynligheten for at Birger hopper kortere enn 83 meter](/img/user/_resources/s2-v25-2-2b.png)
+![Sannsynligheten for at Birger hopper kortere enn 83 meter](/img/user/_resources/s2-v25-2-2b.png){width=60%}
 
 $$
 \begin{aligned}

@@ -7,7 +7,7 @@
 
 Nora har tatt opp et lån med en fast årlig rente. Lånet skal betales tilbake i løpet av 5 år, med én termin i året. Figuren nedenfor viser nedbetalingsplanen.
 
-![Nedbetalingsplan for Noras lån](/img/user/_resources/1py-h25-1-2.jpeg)
+![Nedbetalingsplan for Noras lån](/img/user/_resources/1py-h25-1-2.jpeg){width=60%}
 
 >[!oppgave]
 >a) Er lånet et annuitetslån, eller er det et serielån? Husk å begrunne svaret.

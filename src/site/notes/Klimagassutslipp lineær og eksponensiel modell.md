@@ -90,7 +90,7 @@ $$F(28) = 48{,}9 \cdot 0{,}9104^{28} \approx 3{,}53 \text{ millioner tonn}$$
 
 Målet for 2050 er 90–95 % reduksjon fra 1990, altså mellom 2,565 og 5,13 millioner tonn.
 
-![Lineær og eksponentiell modell for klimagassutslipp](/img/user/_resources/2p-y-h23-2-8-a-graf.png)
+![Lineær og eksponentiell modell for klimagassutslipp](/img/user/_resources/2p-y-h23-2-8-a-graf.png){width=80%}
 
 **Vurdering av modellene:**
 

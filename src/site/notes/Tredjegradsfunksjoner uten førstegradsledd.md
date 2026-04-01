@@ -77,7 +77,7 @@ $$
 
 Vi ser at $x=0$ alltid vil gi et stasjonært punkt i $(0, P(0))$ for slike tredjegradsfunksjoner. Stasjonære punkter er ikke bare topp- eller bunnpunkter, det kan også være terrassepunkter slik som grafen til $x^3$ viser.
 
-![Del 2 oppgave 6b. Bruk av glidere til utforskning](/img/user/_resources/1t-v23-2-6b.png)
+![Del 2 oppgave 6b. Bruk av glidere til utforskning](/img/user/_resources/1t-v23-2-6b.png){ width=80% }
 
 Ved å tegne grafen til $P(x)=ax^3+bx^2+c$ i GeoGebra og justere på glidere for $a, b, c$ så ser det ut til at vi kun får terrassepunkter dersom $b=0$. Hvis $b\neq 0$ så ser det ut til at vi får både et toppunkt og et bunnpunkt. Hvis $b>0$ så er det bunnpunktet som befinner seg på $y$-aksen og hvis $b<0$ så er det toppunktet som befinner seg på $y$-aksen. Det ser også ut til at topp- og bunnpunktet går nærmere hverandre når jeg justerer $b$ slik at den blir nærmere 0. 
 

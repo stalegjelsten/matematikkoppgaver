@@ -51,7 +51,7 @@ En logistisk modell vil passe godt for denne typen situasjon, siden veksten vil 
 
 ### 2-1b
 
-![Løsning av oppgave 1a og 1b del 2 i CAS](/img/user/_resources/s2-h24-2-1.png)
+![Løsning av oppgave 1a og 1b del 2 i CAS](/img/user/_resources/s2-h24-2-1.png){width=50%}
 
 Vi vet at funksjonen vokser raskest i vendepunktet, så vi finner dette med GeoGebra i linje 2. $t=10{,}43$ tilsvarer at vi er omtrent midtveis i den ellevte uka. Økningen i vendepunktet er det samme som den deriverte til funksjonen i vendepunktet, se linje 3 i GeoGebra.
 
@@ -81,4 +81,4 @@ Vi løser likningen i linje 4 i GeoGebra, og finner at **det tar omtrent 11,19 u
 > 
 > Hvis vi bruker $\int_{4}^{5} L(t) \, dt$ for å finne ut hvor langt Marco har løpt i uke 5, så vil alle verdiene for $L(t)$ være lavere enn $L(5)$ siden grafen stiger i hele intervallet. Dermed underestimerer vi Marcos løpsdistanse. Ved å heller flytte grensene til $\int_{4{,}5}^{5{,}5} L(t) \, dt$ så vil $L(t)<L(5)$ for $t \in [4{,}5 , 5 \rangle$ og $L(t)>L(5)$ for $t \in \langle 5 , 5{,}5]$. Dermed vil underestimeringen i intervallet $t \in [4{,}5 , 5 \rangle$ «jevnes ut» av overestimeringen i intervallet $t \in \langle 5 , 5{,}5]$.
 > 
-> ![](/img/user/_resources/s2-h24-2-1c-forklaring.png)
+> ![](/img/user/_resources/s2-h24-2-1c-forklaring.png){width=100%}

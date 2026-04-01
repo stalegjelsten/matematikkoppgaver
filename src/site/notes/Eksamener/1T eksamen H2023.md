@@ -41,7 +41,7 @@
 
 En likesidet trekant har sidelengder 2. Se figuren til høyre.
 
-![Likesidet trekant med sidelengder 2](/img/user/_resources/1t-h23-1-1.jpeg)
+![Likesidet trekant med sidelengder 2](/img/user/_resources/1t-h23-1-1.jpeg){width=40%}
 
 >[!oppgave]
 >Bruk trekanten til å vise at
@@ -113,7 +113,7 @@ $$f(x) = x^3 - 3x^2 - x + 4$$
 
 # To trekanter og størst areal
 
-![To trekanter med oppgitte sider og vinkler](/img/user/_resources/1t-h23-1-4.jpeg)
+![To trekanter med oppgitte sider og vinkler](/img/user/_resources/1t-h23-1-4.jpeg){width=70%}
 
 >[!oppgave]
 >Hvilken av de to trekantene har størst areal?
@@ -143,7 +143,7 @@ $$f(x) = \frac{2x - 8}{x + 2}$$
 
 $$g(x) = \frac{x^2 - 4}{(x - 3)(x + 3)}$$
 
-![Grafer A–F for rasjonale funksjoner](/img/user/_resources/1t-h23-1-5.jpeg)
+![Grafer A–F for rasjonale funksjoner](/img/user/_resources/1t-h23-1-5.jpeg){width=80%}
 
 >[!oppgave]
 >a) Hvilken av grafene ovenfor er grafen til $f$?
@@ -198,7 +198,7 @@ for folketallet $F(x)$ tusen innbyggere i området $x$ år etter 1960.
 
 # Areal av firekantet figur
 
-![Firekantet figur ABCD med mål](/img/user/_resources/1t-h23-2-2.jpeg)
+![Firekantet figur ABCD med mål](/img/user/_resources/1t-h23-2-2.jpeg){width=60%}
 
 I denne oppgaven skal du vise at du kan bruke trigonometri til å bestemme arealet av figuren ovenfor.
 
@@ -226,7 +226,7 @@ I denne oppgaven skal du arbeide med linjestykker som settes sammen til en figur
 
 Skissen nedenfor viser de 16 første linjestykkene i figuren. Lengden av et linjestykke er alltid 90 % av lengden av det forrige linjestykket. Det første linjestykket er 100 cm langt.
 
-![Figur med 16 linjestykker satt sammen](/img/user/_resources/1p-h23-2-6.jpeg)
+![Figur med 16 linjestykker satt sammen](/img/user/_resources/1p-h23-2-6.jpeg){width=70%}
 
 >[!oppgave]
 >a) Bestem summen av lengdene av de 8 første linjestykkene i figuren.
@@ -251,7 +251,7 @@ $$
 
 Jeg bruker et regneark til å legge sammen de 8 første linjestykkene.
 
-![Lengden av de 8 første linjestykkene](/img/user/_resources/1p-h23-2-6-excel.png)
+![Lengden av de 8 første linjestykkene](/img/user/_resources/1p-h23-2-6-excel.png){width=60%}
 
 **Lengden av de 8 første linjestykkene er 569,5 cm.**
 
@@ -337,7 +337,7 @@ Tabellen nedenfor viser antall personer i Norge som hadde fiske som hovedyrke no
 ### a
 Jeg la inn årstallene, antall år etter 1950 og antallet fiskere i regnearket i GeoGebra. Se figuren.
 
-![Regresjon i GeoGebra](/img/user/_resources/1t-h23-2-4-regresjon.png)
+![Regresjon i GeoGebra](/img/user/_resources/1t-h23-2-4-regresjon.png){width=70%}
 
 Punktene så ut til å passe godt med en eksponentiell modell, og det virker fornuftig at antallet fiskere minker med en relativt fast prosentandel hvert år. Den eksponentielle modellen vil også aldri treffe 0, slik at den kan brukes langt fram i tid.
 
@@ -346,7 +346,7 @@ Punktene så ut til å passe godt med en eksponentiell modell, og det virker for
 ### b
 Vi kan bruke modellen for å finne ut hvor mange fiskere det vil være i 1950. Vi regner ut $F(100)$ i GeoGebra siden 2050 tilsvarer $x=100$. 
 
-![Beregning av antall fiskere i 2050](/img/user/_resources/1t-h23-2-4-beregning.png)
+![Beregning av antall fiskere i 2050](/img/user/_resources/1t-h23-2-4-beregning.png){width=25%}
 
 Det er vanskelig å vurdere gydligheten til denne modellen. Jeg vurderer at vi ikke bør bruke den lenger fram i framtida enn 2050. For eksempel er det kun 854 fiskere igjen i 2100 ifølge modellen. Det høres lite ut. Et fornuftig gyldighetsområde kan være $x \in \left[ 0,100 \right]$.
 
@@ -372,7 +372,7 @@ $$f(x) = 2x + 8$$
 
 $$g(x) = x^3 - x^2 - 4x + 8$$
 
-![Sara sine grafer til f og g](/img/user/_resources/1t-h23-2-5.jpeg)
+![Sara sine grafer til f og g](/img/user/_resources/1t-h23-2-5.jpeg){width=70%}
 
 Linjen $x = 1$ skjærer grafen til $f$ i punktet $P$ og grafen til $g$ i punktet $Q$.
 
@@ -432,7 +432,7 @@ Nedenfor ser du grafen til funksjonen $f$ gitt ved
 
 $$f(x) = \frac{8}{x^2 + 20}$$
 
-![Graf til f med rektangel innskrevet](/img/user/_resources/1t-h23-2-7.jpeg)
+![Graf til f med rektangel innskrevet](/img/user/_resources/1t-h23-2-7.jpeg){width=70%}
 
 Rektangelet under grafen har hjørner i punktene $(0, 0)$, $(5, 0)$, $(5, f(5))$ og $(0, f(5))$.
 

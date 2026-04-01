@@ -11,7 +11,7 @@ $$f(x) = \frac{2 - \cos x}{\sin x}, \quad D_f = \left[\frac{\pi}{4}, \frac{3\pi}
 
 Vi roterer grafen til $f$ om $x$-aksen.
 
-![Omdreiingslegemet til f](/img/user/_resources/r2-v23-2-5.jpeg)
+![Omdreiingslegemet til f](/img/user/_resources/r2-v23-2-5.jpeg){width=60%}
 
 >[!oppgave]
 >a) Bestem volumet av omdreiingslegemet vi da får.

@@ -16,7 +16,7 @@ Denne lengden kan ses på som hypotenusen i en trekant.
 
 Panelet skal monteres i en vinkel på $35\degree$.
 
-![Skisse av oppsett av solcellepanel](/img/user/_resources/1py-h25-2-1-2.jpeg)
+![Skisse av oppsett av solcellepanel](/img/user/_resources/1py-h25-2-1-2.jpeg){width=60%}
 
 >[!oppgave]
 >b) Hva blir lengden av $AB$? Hva blir lengden av $AC$?

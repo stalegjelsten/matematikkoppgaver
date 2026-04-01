@@ -5,7 +5,7 @@
 
 # Vase og roser likningssystem
 
-![Vaser og roser](/img/user/_resources/2p-h23-2-1.jpeg)
+![Vaser og roser](/img/user/_resources/2p-h23-2-1.jpeg){width=80%}
 
 >[!oppgave]
 >Hvor mye koster en vase?

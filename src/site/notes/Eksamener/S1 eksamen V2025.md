@@ -262,7 +262,7 @@ Tredjegradsfunksjonen vår bør altså gå mot $3$ når $x\to-2^{+}$ og $-4$ nå
 
 I tillegg skal $f'(-2)=-9$ og $f'(1)=0$. Disse opplysningen sier oss at $f$ må være deriverbar i $x=-2$ og $x=1$. Jeg setter opp uttrykket for en tredjegradsfunksjon i CAS i GeoGebra i linje 1 og legger inn de fire opplysningene våre i linje 2.
 
-![Løsning i CAS](/img/user/_resources/s1-v25-2-2-cas.png)
+![Løsning i CAS](/img/user/_resources/s1-v25-2-2-cas.png){width=50%}
 
 **Det fullstendige funksjonsuttrykket for $f$ er**
 $$
@@ -330,7 +330,7 @@ I en valgkrets var det totalt 243 som stemte. Bildet viser en oversikt over de f
 
 Også her skal vi plukke ut 10 tilfeldige personer blant dem som stemte.
 
-![Valgresultat i valgkrets](/img/user/_resources/s1-v25-2-4.jpeg)
+![Valgresultat i valgkrets](/img/user/_resources/s1-v25-2-4.jpeg){width=60%}
 
 >[!oppgave]
 >b) Bestem sannsynligheten for at vi plukker ut minst 4 som stemte Arbeiderpartiet ved valget. Husk å begrunne valget av metoden du bruker for å regne ut sannsynligheten.
@@ -390,7 +390,7 @@ Oljefondet (Statens pensjonsfond utland) ble opprettet etter at vi fant olje i N
 
 Figuren nedenfor viser utviklingen av oljefondet fra og med 1998 til og med 2024.
 
-![Utvikling av oljefondet 1998–2024](/img/user/_resources/s1-v25-2-6.jpeg)
+![Utvikling av oljefondet 1998–2024](/img/user/_resources/s1-v25-2-6.jpeg){width=60%}
 
 >[!oppgave]
 >a) Lag en modell $O(t)$ som tilnærmet viser utviklingen av den totale verdien av oljefondet i hele perioden. Husk å begrunne valg av modell.

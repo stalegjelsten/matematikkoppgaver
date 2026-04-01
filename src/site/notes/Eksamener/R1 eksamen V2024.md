@@ -305,7 +305,7 @@ Det har vært en stor endring i hvilken type drivstoff bilene i Norge bruker. St
 >b) Ut fra modellene du har laget, hvordan vil du vurdere veksten i drivstofftypene bensin og elektrisk i årene framover, etter 2022? Kommenter gyldigheten til modellene dine.
 
 
-![Personbiler per drivstofftype i Moss. Kilde: Skjermdump av ssb.no, utdrag fra tabell 07849](/img/user/_resources/s1-v24-2-6-moss.png)
+![Personbiler per drivstofftype i Moss. Kilde: Skjermdump av ssb.no, utdrag fra tabell 07849](/img/user/_resources/s1-v24-2-6-moss.png){width=100% #fig:moss}
 
 ## Fasit
 
@@ -332,7 +332,7 @@ Lars har tegnet grafen til $f$ med et innskrevet rektangel $ABCD$. Lars har ogs�
 
 <!-- two-column start left-width=40% -->
 
-![Grafen til $f(x)$](/img/user/_resources/s1-v24-2-7.jpeg)
+![Grafen til $f(x)$](/img/user/_resources/s1-v24-2-7.jpeg){width=90%}
 
 ---
 
@@ -382,7 +382,7 @@ print(areal(x))
 
 En kule med radius $r$ deles i to like deler. Vi skal skjære ut en pyramide med rektangulær grunnflate av den ene halvkulen. Grunnflaten skal ligge i snittflaten til halvkulen.
 
-![Halvkule med innskrevet pyramide](/img/user/_resources/s1-v24-2-8.jpeg)
+![Halvkule med innskrevet pyramide](/img/user/_resources/s1-v24-2-8.jpeg){width=40%}
 
 Volumet av en pyramide er gitt ved
 

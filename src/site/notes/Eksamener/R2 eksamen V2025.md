@@ -356,7 +356,7 @@ I en sirkel er radius lik 3.
 
 Figuren nedenfor viser en vinkel $v$ der toppunktet er plassert i sentrum av sirkelen og buelengden er 4.
 
-![Vinkel $v$ i sirkel](/img/user/_resources/r2-v25-1-7.jpeg)
+![Vinkel $v$ i sirkel](/img/user/_resources/r2-v25-1-7.jpeg){width=30%}
 
 >[!oppgave]
 >a) Hvor stor er vinkelen $v$ gitt i
@@ -473,7 +473,7 @@ c) Nei, 149 581 kr
 
 ## Løsningsforslag
 
-![CAS-løsning av 2-4](/img/user/_resources/s2-v25-2-4-cas.png)
+![CAS-løsning av 2-4](/img/user/_resources/s2-v25-2-4-cas.png){width=70%}
 
 ### 2-4a
 Vi kaller det ukjente beløpet $B$. Nora skal sette inn $B$ på konto 30 ganger. Det siste beløpet skal ha fått renter i 1 år, mens det første beløpet skal ha fått renter i 30 år. 

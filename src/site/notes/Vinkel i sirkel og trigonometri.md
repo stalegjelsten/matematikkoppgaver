@@ -9,7 +9,7 @@ I en sirkel er radius lik 3.
 
 Figuren nedenfor viser en vinkel $v$ der toppunktet er plassert i sentrum av sirkelen og buelengden er 4.
 
-![Vinkel $v$ i sirkel](/img/user/_resources/r2-v25-1-7.jpeg)
+![Vinkel $v$ i sirkel](/img/user/_resources/r2-v25-1-7.jpeg){width=30%}
 
 >[!oppgave]
 >a) Hvor stor er vinkelen $v$ gitt i

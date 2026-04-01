@@ -37,7 +37,7 @@ $$
 
 ### 2-4b
 
-![Program for å regne ut ledd i rekke](/img/user/_resources/s2-h24-2-4b.png)
+![Program for å regne ut ledd i rekke](/img/user/_resources/s2-h24-2-4b.png){width=60%}
 
 Jeg brukte en `for`-løkke til å regne meg fram til delsummen til ledd nummer 30 og skrev ut svarene i konsollen. 
 

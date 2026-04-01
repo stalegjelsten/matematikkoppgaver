@@ -9,7 +9,7 @@ I denne oppgaven skal du arbeide med linjestykker som settes sammen til en figur
 
 Skissen nedenfor viser de 16 første linjestykkene i figuren. Lengden av et linjestykke er alltid 90 % av lengden av det forrige linjestykket. Det første linjestykket er 100 cm langt.
 
-![Figur med 16 linjestykker satt sammen](/img/user/_resources/1p-h23-2-6.jpeg)
+![Figur med 16 linjestykker satt sammen](/img/user/_resources/1p-h23-2-6.jpeg){width=70%}
 
 >[!oppgave]
 >a) Bestem summen av lengdene av de 8 første linjestykkene i figuren.
@@ -34,7 +34,7 @@ $$
 
 Jeg bruker et regneark til å legge sammen de 8 første linjestykkene.
 
-![Lengden av de 8 første linjestykkene](/img/user/_resources/1p-h23-2-6-excel.png)
+![Lengden av de 8 første linjestykkene](/img/user/_resources/1p-h23-2-6-excel.png){width=60%}
 
 **Lengden av de 8 første linjestykkene er 569,5 cm.**
 

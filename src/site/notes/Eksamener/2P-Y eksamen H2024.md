@@ -130,7 +130,7 @@ Den kumulative frekvensen for 5 timer er antall dager der Lars jobbet høyst 5 t
 
 Her ser du grafene til fire funksjoner $f$, $g$, $p$ og $q$.  
 
-![Fire funksjoner](/img/user/_resources/1p-v24-1-3.jpeg)
+![Fire funksjoner](/img/user/_resources/1p-v24-1-3.jpeg){width=70%}
 
 - Avgjør om en eller flere av grafene viser sammenhengen mellom to størrelser som er proporsjonale.  
 - Avgjør om en eller flere av grafene viser sammenhengen mellom to størrelser som er omvendt proporsjonale.  
@@ -341,7 +341,7 @@ Det vil si at fra og med $x = 27$ (mars 2027) vil salget overstige 2000 flasker.
 
 Vi tegner $F(x) = 620 \cdot 1{,}045^x$ og leser av. For spørsmål 1 leser vi av $y$-verdien ved $x = 12$ (grønt punkt). For spørsmål 2 finner vi skjæringspunktet mellom $F(x)$ og linjen $y = 2000$ (rødt punkt).
 
-![Graf av $F(x) = 620 \cdot 1
+![Graf av $F(x) = 620 \cdot 1{,}045^x$ med $y = 2000$ og $x = 12$ markert](/img/user/_resources/2p-y-h24-2-1-a-graf.png){width=70%}
 
 Fra grafen leser vi av:
 
@@ -509,7 +509,7 @@ $$\textcolor{seagreen}{C(x) = 3490 + 24x}$$
 
 B lønner seg fremfor A når B er billigere enn A. Vi finner skjæringspunktet mellom A og B grafisk:
 
-![Graf av parkeringsavtalene A, B og C](/img/user/_resources/2p-y-h24-2-4-graf.png)
+![Graf av parkeringsavtalene A, B og C](/img/user/_resources/2p-y-h24-2-4-graf.png){width=70%}
 
 Fra grafen ser vi at:
 
@@ -660,7 +660,7 @@ Vi bruker kalkulator (regresjon med potensmodell) på datapunktene:
 
 Regresjonen gir $a \approx 10$ og $b \approx 0{,}334$.
 
-![Regresjonsmodell og datapunkter for oppgave 2-6a](/img/user/_resources/2p-y-h24-2-6-a-graf.png)
+![Regresjonsmodell og datapunkter for oppgave 2-6a](/img/user/_resources/2p-y-h24-2-6-a-graf.png){width=70%}
 
 Grafen viser at modellen passer godt til datapunktene.
 
@@ -670,7 +670,7 @@ Grafen viser at modellen passer godt til datapunktene.
 
 Vi vil finne $x$ slik at $L(x) = 45$. Vi tegner linjen $y = 45$ og finner skjæringspunktet med $L(x)$:
 
-![Graf av $L(x) = 10 \cdot x^
+![Graf av $L(x) = 10 \cdot x^{0{,}334}$ med linjen $y = 45$](/img/user/_resources/2p-y-h24-2-6-b-graf.png){width=70%}
 
 Fra grafen leser vi av at $L(x) = 45$ når $x \approx 91$ dager.
 

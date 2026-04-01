@@ -7,7 +7,7 @@
 
 Tegningen nedenfor viser bindingsverket av en vegg.
 
-![Bindingsverk tegning](/img/user/_resources/1py-h25-1-4.jpeg)
+![Bindingsverk tegning](/img/user/_resources/1py-h25-1-4.jpeg){width=100%}
 
 Bunnsvillen og toppsvillen har samme dimensjon. 
 

@@ -7,7 +7,7 @@
 
 Figuren under viser en rettvinklet trekant.
 
-![Rettvinklet trekant ABC](/img/user/_resources/1pyel-v23-1-4-1.jpeg)
+![Rettvinklet trekant ABC](/img/user/_resources/1pyel-v23-1-4-1.jpeg){width=30%}
 
 >[!oppgave]
 >a) Skriv uttrykket for $\sin u$ i trekanten $ABC$.
@@ -16,7 +16,7 @@ Frekvensen på vekselstrømmen i sentralnettet i Norge overvåkes kontinuerlig. 
 
 Maksimalt tillatt avvik er $\pm {,}1 \mathrm{~Hz}$.
 
-![Frekvensovervåking sentralnett](/img/user/_resources/1pyel-v23-1-4-2.jpeg)
+![Frekvensovervåking sentralnett](/img/user/_resources/1pyel-v23-1-4-2.jpeg){width=30%}
 
 >[!oppgave]
 >b) Hvor stort kan frekvensavviket være i prosent?
@@ -24,7 +24,7 @@ Maksimalt tillatt avvik er $\pm {,}1 \mathrm{~Hz}$.
 Figuren under viser en effekttrekant som viser sammenhengen mellom reaktiv effekt ($Q$), tilført effekt ($P$), tilsynelatende effekt ($S$) og fasevinkel ($\varphi$) i en elmotor.
 
 
-![Effekttrekant elmotor](/img/user/_resources/1pyel-v23-1-4-3.jpeg)
+![Effekttrekant elmotor](/img/user/_resources/1pyel-v23-1-4-3.jpeg){width=30%}
 
 I denne trekanten er $P = 40 \mathrm{~W}$ og $\cos \varphi = \dfrac{40}{50}$.
 

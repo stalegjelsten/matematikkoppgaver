@@ -6,7 +6,7 @@
 # Solcellepanel areal og kostnad
 
 
-![Solcellepanel](/img/user/_resources/1py-v23-solcellepanelet.jpeg)
+![Solcellepanel](/img/user/_resources/1py-v23-solcellepanelet.jpeg){width=10%}
 
 Solcellepanelet over har bredde 992 mm og lengde 1956 mm.
 
@@ -29,7 +29,7 @@ De som skal montere anlegget, kan velge mellom to typer solcellepanel:
 
 På flate tak bør solcellepanel monteres med en vinkel på 63 grader for å gi maksimal strømproduksjon.
 
-![Solcellepanel montert på flatt tak – tegning med høyde AC](/img/user/_resources/1pyel-v23-2-3-3.jpeg)
+![Solcellepanel montert på flatt tak – tegning med høyde AC](/img/user/_resources/1pyel-v23-2-3-3.jpeg){width=60%}
 
 >[!oppgave]
 >c) Bruk informasjon fra tegningen over for å regne ut høyden $AC$ i millimeter i bakkant av panelet.

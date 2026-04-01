@@ -5,7 +5,7 @@
 
 # Figurtall og programmering
 
-![Figur 1, 2 og 3 med grønne kvadrater](/img/user/_resources/1t-v25-2-4.jpeg)
+![Figur 1, 2 og 3 med grønne kvadrater](/img/user/_resources/1t-v25-2-4.jpeg){width=60%}
 
 Ovenfor ser du tre figurer. Figurene er satt sammen av små grønne kvadrater. Tenk deg at du skal fortsette å lage figurer etter samme mønster.
 
@@ -35,7 +35,7 @@ c) Du kan lage 143 figurer. Da har du 15 017 brikker til overs.
 
 Jeg deler opp figuren slik:
 
-![Oppdeling av figurtall](/img/user/_resources/1p-v25-1-6-losn.png)
+![Oppdeling av figurtall](/img/user/_resources/1p-v25-1-6-losn.png){width=40%}
 
 Jeg velger å skrive algoritmen som pseudokode slik at det går raskt å skrive den i Python etterpå.
 

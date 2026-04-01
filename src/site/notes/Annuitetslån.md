@@ -47,6 +47,6 @@ $$
 ### 2-1b
 Jeg bruker en ferdig regnearkmodell jeg hadde liggende til å løse denne oppgaven. Fra regnearket ser jeg at restlånet *før* 25. innbetaling er 52 959,79 kr. **Dermed vil erstatningen fra forsikringsselskapet dekke restlånet** (gitt at han betaler restlånet med en gang han får erstatningen). Se utklippet under.
 
-![Regneark for å beregne lån](/img/user/_resources/s2-v23-del2-oppg1a1.png)
+![Regneark for å beregne lån](/img/user/_resources/s2-v23-del2-oppg1a1.png){width=100%}
 
-![Formler til regnearket](/img/user/_resources/s2-v23-del2-oppg1a2.png)
+![Formler til regnearket](/img/user/_resources/s2-v23-del2-oppg1a2.png){width=100%}

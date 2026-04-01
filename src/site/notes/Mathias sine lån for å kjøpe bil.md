@@ -34,7 +34,7 @@ c) Kjøp av elbil gir høyest rentekostnad.
 
 ## Løsningsforslag
 
-![Løsning av oppgave 4 del 2 i CAS](/img/user/_resources/s2-h25-2-4-cas.png)
+![Løsning av oppgave 4 del 2 i CAS](/img/user/_resources/s2-h25-2-4-cas.png){width=60%}
 
 ### 2-4a
 Et annuitetslån passer godt til oppgaven siden den spør etter en geometrisk rekke som viser hvor mye Mathias må betale.

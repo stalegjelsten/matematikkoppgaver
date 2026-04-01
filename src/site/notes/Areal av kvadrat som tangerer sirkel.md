@@ -5,7 +5,7 @@
 
 # Areal av kvadrat som tangerer sirkel
 
-![Kvadrat og sirkel](/img/user/_resources/areal-av-kvadrat-som-kvadrerer-sirkel.png)
+![Kvadrat og sirkel](/img/user/_resources/areal-av-kvadrat-som-kvadrerer-sirkel.png){width=40%}
 
 > [!oppgave]
 >  Hva er arealet av kvadratet?
@@ -19,11 +19,11 @@ Jeg kaller sidekanten i kvadratet for $s$ og radiusen i sirkelen for $r$, slik a
 
 Jeg flytter først kvadratet 0,5 mot høyre for å vise at avstanden fra sirkelen til den øvre sidekanten er 0,5:
 
-![Flytter kvadratet](/img/user/_resources/areal-av-kvadrat-i-sirkel-lf.png)
+![Flytter kvadratet](/img/user/_resources/areal-av-kvadrat-i-sirkel-lf.png){width=30%}
 
 Hvis vi lager en rettvinklet trekant fra sentrum av sirkelen til NØ-hjørnet får vi:
 
-![Lager rettvinklet trekant](/img/user/_resources/areal-av-kvadrat-sirkel-lf-2.png)
+![Lager rettvinklet trekant](/img/user/_resources/areal-av-kvadrat-sirkel-lf-2.png){width=30%}
 
 Vi kan nå bruke Pytagoras og sette opp likningen for den rettvinklede trekanten
 $$

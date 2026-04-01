@@ -52,7 +52,7 @@ c) Danmark har større spredning i innbyggertall (større standardavvik). Median
 
 ### 2-2a
 
-![Beregning av sentralmål og spredningsmål i GeoGebra](/img/user/_resources/2py-h25-2-2a.png)
+![Beregning av sentralmål og spredningsmål i GeoGebra](/img/user/_resources/2py-h25-2-2a.png){width=50%}
 
 Vi skal beregne median, gjennomsnitt, standardavvik og variasjonsbredde for innbyggertallet. Vi bruker regnearket i GeoGebra.
 

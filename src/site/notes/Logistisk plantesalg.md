@@ -41,7 +41,7 @@ c) Uke 21.
 
 ### 2-1a
 
-![Regresjon i GeoGebra til oppgave 1 del 2](/img/user/_resources/s2-h25-2-1a-regresjon.png)
+![Regresjon i GeoGebra til oppgave 1 del 2](/img/user/_resources/s2-h25-2-1a-regresjon.png){width=60%}
 
 Jeg brukte regresjon i GeoGebra for å finne en logistisk modell som passer til uttrykket i oppgaveteksten. Den modellen som passer best er
 $$
@@ -53,7 +53,7 @@ Salget starter i uke 17, så modellen er ikke gyldig før dette. I uke 24 så se
 
 ### 2-1b
 
-![CAS løsning av oppgave 1 del 2](/img/user/_resources/s2-h25-2-1bc.png)
+![CAS løsning av oppgave 1 del 2](/img/user/_resources/s2-h25-2-1bc.png){width=60%}
 
 Inntekten øker mest ved vendepunktet $t=3$ (etter 20 uker), se linje 2 i utklippet. Den deriverte til $I(t)$ gir oss vekstfarten etter 20 uker i linje 3.
 

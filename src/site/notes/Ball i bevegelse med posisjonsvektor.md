@@ -11,7 +11,7 @@ En ball ruller av taket på et hus og ned på bakken. Vi plasserer et koordinats
 - $x$-aksen ligger på bakken, står vinkelrett på husveggen og skjærer $y$-aksen der ballen forlater hustaket
 - $z$-aksen angir høyden over bakken med positiv retning oppover
 
-![Koordinatsystem med hus og ball](/img/user/_resources/r2-h24-2-1.jpeg)
+![Koordinatsystem med hus og ball](/img/user/_resources/r2-h24-2-1.jpeg){width=40%}
 
 Måleenheten på aksene er meter.
 
@@ -34,7 +34,7 @@ c) $t \approx 0{,}84 \, \mathrm{s}$
 
 ## Løsningsforslag
 
-![Løsning av oppgave 1 del 2 i CAS](/img/user/_resources/r2-h24-2-1-cas.png)
+![Løsning av oppgave 1 del 2 i CAS](/img/user/_resources/r2-h24-2-1-cas.png){width=50%}
 
 ### 2-1a
 $z$-komponenten til $\vec{r}(t)$ gir oss høyden ved tiden $t=0$

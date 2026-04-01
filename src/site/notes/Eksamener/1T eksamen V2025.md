@@ -147,7 +147,7 @@ $$f(x) = x^3 - 7x^2 - 10x + 16$$
 >[!oppgave]
 >b) Hvilken av grafene nedenfor kan være grafen til $f$? Husk å begrunne svaret.
 
-![Fire grafer A, B, C og D](/img/user/_resources/1t-v25-1-4.jpeg)
+![Fire grafer A, B, C og D](/img/user/_resources/1t-v25-1-4.jpeg){width=60%}
 
 ## Fasit
 
@@ -166,7 +166,7 @@ $$f(x) = x^3 - 7x^2 - 10x + 16$$
 
 # Trigonometri med arealsetning og cosinus
 
-![Likesidet trekant med sidelengder 2](/img/user/_resources/1t-v25-1-5.jpeg)
+![Likesidet trekant med sidelengder 2](/img/user/_resources/1t-v25-1-5.jpeg){width=40%}
 
 >[!oppgave]
 >a) Bruk den likesidede trekanten ovenfor til å vise at $\sin 30\degree = \cos 60\degree = \dfrac{1}{2}$
@@ -327,7 +327,7 @@ En dag solgte butikken 80 sekker. Sekkene veide til sammen $720 \mathrm{~kg}$.
 
 # Tolvkant innskrevet i sirkel
 
-![Tolvkant innskrevet i sirkel med 30°-vinkel](/img/user/_resources/1t-v25-2-3.jpeg)
+![Tolvkant innskrevet i sirkel med 30°-vinkel](/img/user/_resources/1t-v25-2-3.jpeg){width=60%}
 
 En tolvkant er innskrevet i en sirkel. Se figuren ovenfor. Tolvkanten er satt sammen av tolv like store likebeinte trekanter. Arealet av tolvkanten er 120.
 
@@ -352,7 +352,7 @@ En tolvkant er innskrevet i en sirkel. Se figuren ovenfor. Tolvkanten er satt sa
 
 # Figurtall og programmering
 
-![Figur 1, 2 og 3 med grønne kvadrater](/img/user/_resources/1t-v25-2-4.jpeg)
+![Figur 1, 2 og 3 med grønne kvadrater](/img/user/_resources/1t-v25-2-4.jpeg){width=60%}
 
 Ovenfor ser du tre figurer. Figurene er satt sammen av små grønne kvadrater. Tenk deg at du skal fortsette å lage figurer etter samme mønster.
 
@@ -382,7 +382,7 @@ c) Du kan lage 143 figurer. Da har du 15 017 brikker til overs.
 
 Jeg deler opp figuren slik:
 
-![Oppdeling av figurtall](/img/user/_resources/1p-v25-1-6-losn.png)
+![Oppdeling av figurtall](/img/user/_resources/1p-v25-1-6-losn.png){width=40%}
 
 Jeg velger å skrive algoritmen som pseudokode slik at det går raskt å skrive den i Python etterpå.
 
@@ -459,7 +459,7 @@ Formel for å regne ut arealet av overflaten av boksen
 
 $$O = \pi \cdot r^2 + 2 \cdot \pi \cdot r \cdot h$$
 
-![Sylindrisk boks](/img/user/_resources/1t-v25-2-5.jpeg)
+![Sylindrisk boks](/img/user/_resources/1t-v25-2-5.jpeg){width=25%}
 
 Isabel lurer på hvor stor radius hun bør velge og hvor høye boksene må være, når hver boks skal ha
 
@@ -503,7 +503,7 @@ Isabel ønsker å lage en modell som viser overflaten av ulike bokser hun kan la
 
 Klassen til Noah og Johanne arbeider med rasjonale funksjoner. Læreren har tegnet grafene til to rasjonale funksjoner $f$ og $g$ og bedt elevene undersøke hvordan funksjonsuttrykkene kan se ut.
 
-![Graf til f](/img/user/_resources/1t-v25-2-6-1.jpeg)
+![Graf til f](/img/user/_resources/1t-v25-2-6-1.jpeg){width=60%}
 
 >[!green-box] Noah
 >Grafen til $f$ har to vertikale asymptoter. Hvordan må nevneren i brøken da se ut?

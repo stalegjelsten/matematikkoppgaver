@@ -9,7 +9,7 @@ Nora bestemmer seg for å kjøpe en bøtte og fylle den med godteri. Hun ser at 
 
 Nedenfor ser du en modell som illustrerer dette.
 
-![Graf over pris for bøtte med godteri](/img/user/_resources/1p-v25-1-8-1.jpeg)
+![Graf over pris for bøtte med godteri](/img/user/_resources/1p-v25-1-8-1.jpeg){width=60%}
 
 Modellen kan uttrykkes på formen
 
