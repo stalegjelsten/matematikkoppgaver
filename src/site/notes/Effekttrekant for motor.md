@@ -69,7 +69,7 @@
 </g>
 </g>
 </svg>
-{width=40% .invertert}
+{width=40% .inverted}
 
 Figuren viser en effekttrekant som viser forholdet mellom de tre ulike effektene i en elektrisk motor og fasevinkelen $\phi$.
 
