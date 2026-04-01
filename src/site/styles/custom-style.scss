@@ -271,6 +271,12 @@ kbd {
   vertical-align: baseline;
 }
 
+.theme-dark kbd {
+  background: var(--background-secondary);
+  border-color: var(--text-faint);
+  box-shadow: 0 1px 0 var(--text-faint);
+}
+
 /* ===== Tema-bytte-knapper ===== */
 .tema-bytte {
   display: flex;
