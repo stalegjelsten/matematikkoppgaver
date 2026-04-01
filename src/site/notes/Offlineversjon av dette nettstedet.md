@@ -9,7 +9,7 @@ Det er mulig å bruke denne nettsiden uten internettilkobling hvis du følger in
 
 
 > [!warning] Det det tar svært lang tid å bygge nettsiden
-> Etter mars 2026 så er nettstedet blitt mye større og mer komplekst. Selve byggingen av nettstedet tar nok et sted mellom 3 og 10 minutter avhengig av hvilken maskin du har. 
+> Etter mars 2026 så er nettstedet blitt mye større og mer komplekst. Selve byggingen av nettstedet tar nok et sted mellom 1–3 minutter avhengig av hvilken maskin du har. 
 
 ## Oppsett i Windows
 For å sette opp nettsiden med Windows 11 så må du gjennomføre stegene
