@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-31","aliases":[],"dg-publish":true,"temaer":["formler","økonomi","prosentregning"],"fag":["1p-y hs"],"eksamen":"h25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y hs","del":2,"oppgave":2}],"poeng":6,"title":"Grovbrød og makrell til barnehage","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/grovbrod-og-makrell-til-barnehage/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-31","aliases":[],"temaer":["formler","økonomi","prosentregning"],"fag":["1p-y hs"],"eksamen":"h25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y hs","del":2,"oppgave":2}],"poeng":6,"title":"Grovbrød og makrell til barnehage","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-31","aliases":[],"dg-publish":true,"temaer":["formler","økonomi","prosentregning"],"fag":["1p-y hs","1p-y rm"],"eksamen":"h25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y hs","del":2,"oppgave":2},{"fag":"1p-y rm","del":2,"oppgave":2}],"poeng":6,"title":"Grovbrød og makrell til barnehage","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/grovbrod-og-makrell-til-barnehage/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-31","aliases":[],"temaer":["formler","økonomi","prosentregning"],"fag":["1p-y hs","1p-y rm"],"eksamen":"h25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y hs","del":2,"oppgave":2},{"fag":"1p-y rm","del":2,"oppgave":2}],"poeng":6,"title":"Grovbrød og makrell til barnehage","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/grovbrod-og-makrell-til-barnehage/"}}
 ---
 
 
@@ -56,6 +56,8 @@ Hvor mange prosent utgjør dette av dagsbehovet?
 >[!oppgave]
 >Gjør beregninger og vurderinger, og svar på spørsmålene elevene stiller.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y HS eksamen H2025#Oppgave 2-2\|Løsningsforslag 1P-Y HS eksamen H2025#Oppgave 2-2]]
+## Fasit
+
+
+
+## Løsningsforslag

@@ -31,6 +31,8 @@ Mikrometeret viser at den midterste diameteren på den ferdige akslingen er $26{
 >[!oppgave]
 >b) Kan akslingen godkjennes? Husk å begrunne svaret.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y TP eksamen H2025#Oppgave 1-5\|Løsningsforslag 1P-Y TP eksamen H2025#Oppgave 1-5]]
+## Fasit
+
+
+
+## Løsningsforslag

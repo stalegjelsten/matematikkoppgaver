@@ -33,6 +33,8 @@ En annen pasient med brannskader veier 65 kg. Pasienten får tilført 6 liter v�
 >[!oppgave]
 >c) Hvor mange prosent av kroppsoverflaten er forbrent?
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y HS eksamen H2025#Oppgave 2-1\|Løsningsforslag 1P-Y HS eksamen H2025#Oppgave 2-1]]
+## Fasit
+
+
+
+## Løsningsforslag

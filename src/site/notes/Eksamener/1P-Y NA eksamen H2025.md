@@ -185,9 +185,11 @@ Denne dagen leverer en fiskebåt 2 tonn med skrei. De får betalt 150 000 kroner
 >[!oppgave]
 >b) Hvor mange kroner får de betalt per kilogram (kg)?
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y NA eksamen H2025#Oppgave 1-4\|Løsningsforslag 1P-Y NA eksamen H2025#Oppgave 1-4]]
+## Fasit
+
+
+
+## Løsningsforslag
 
 
 </div></div>
@@ -218,9 +220,11 @@ Elevene Tonje og Jakob har startet en elevbedrift som skal hjelpe folk med hages
 >[!oppgave]
 >Svar på spørsmålene Tonje og Jakob stiller. Husk å begrunne svarene.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y NA eksamen H2025#Oppgave 1-5\|Løsningsforslag 1P-Y NA eksamen H2025#Oppgave 1-5]]
+## Fasit
+
+
+
+## Løsningsforslag
 
 
 </div></div>
@@ -262,9 +266,11 @@ Aina skal lage et anbud for en leveranse til en fiskerestaurant:
 >[!oppgave]
 >c) Lag et anbud som viser prisen for leveransen uten mva. og prisen med 25 % mva.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y NA eksamen H2025#Oppgave 2-1\|Løsningsforslag 1P-Y NA eksamen H2025#Oppgave 2-1]]
+## Fasit
+
+
+
+## Løsningsforslag
 
 
 </div></div>
@@ -314,9 +320,11 @@ $$V = \pi \cdot r^2 \cdot h$$
 >[!oppgave]
 >Svar på spørsmålene Sara og Trygve stiller. Husk å begrunne svarene dine.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y NA eksamen H2025#Oppgave 2-2\|Løsningsforslag 1P-Y NA eksamen H2025#Oppgave 2-2]]
+## Fasit
+
+
+
+## Løsningsforslag
 
 
 </div></div>

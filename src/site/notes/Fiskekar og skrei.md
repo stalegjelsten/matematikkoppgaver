@@ -19,6 +19,8 @@ Denne dagen leverer en fiskebåt 2 tonn med skrei. De får betalt 150 000 kroner
 >[!oppgave]
 >b) Hvor mange kroner får de betalt per kilogram (kg)?
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y NA eksamen H2025#Oppgave 1-4\|Løsningsforslag 1P-Y NA eksamen H2025#Oppgave 1-4]]
+## Fasit
+
+
+
+## Løsningsforslag

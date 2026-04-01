@@ -19,6 +19,8 @@ Hver sykkel koster i gjennomsnitt 10 000 kroner.
 >[!oppgave]
 >b) Hvor mange kroner solgte Stina sykler for denne uka?
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y SR eksamen H2025#Oppgave 1-4\|Løsningsforslag 1P-Y SR eksamen H2025#Oppgave 1-4]]
+## Fasit
+
+
+
+## Løsningsforslag

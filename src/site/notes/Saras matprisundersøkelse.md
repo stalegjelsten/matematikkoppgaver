@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-31","aliases":[],"dg-publish":true,"temaer":["prosentregning","statistikk"],"fag":["1p-y hs"],"eksamen":"h25","del":1,"oppgave":5,"oppgavenummer":[{"fag":"1p-y hs","del":1,"oppgave":5}],"poeng":2,"title":"Saras matprisundersøkelse","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/saras-matprisundersokelse/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-31","aliases":[],"temaer":["prosentregning","statistikk"],"fag":["1p-y hs"],"eksamen":"h25","del":1,"oppgave":5,"oppgavenummer":[{"fag":"1p-y hs","del":1,"oppgave":5}],"poeng":2,"title":"Saras matprisundersøkelse","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-31","aliases":[],"dg-publish":true,"temaer":["prosentregning","statistikk"],"fag":["1p-y hs","1p-y rm"],"eksamen":"h25","del":1,"oppgave":5,"oppgavenummer":[{"fag":"1p-y hs","del":1,"oppgave":5},{"fag":"1p-y rm","del":1,"oppgave":5}],"poeng":2,"title":"Saras matprisundersøkelse","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/saras-matprisundersokelse/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-31","aliases":[],"temaer":["prosentregning","statistikk"],"fag":["1p-y hs","1p-y rm"],"eksamen":"h25","del":1,"oppgave":5,"oppgavenummer":[{"fag":"1p-y hs","del":1,"oppgave":5},{"fag":"1p-y rm","del":1,"oppgave":5}],"poeng":2,"title":"Saras matprisundersøkelse","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/saras-matprisundersokelse/"}}
 ---
 
 
@@ -23,6 +23,8 @@ Hun lager tabellen nedenfor.
 >[!oppgave]
 >Gjør beregninger og vurder påstandene til Sara.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y HS eksamen H2025#Oppgave 1-5\|Løsningsforslag 1P-Y HS eksamen H2025#Oppgave 1-5]]
+## Fasit
+
+
+
+## Løsningsforslag

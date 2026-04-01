@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":[],"dg-publish":true,"temaer":["integral","tolkning av integraler","areal under graf"],"fag":["s2","r2"],"eksamen":"v25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":2},{"fag":"r2","del":1,"oppgave":2}],"title":"Bestem f ut fra den deriverte","source":null,"todo":null,"status":3,"permalink":"/bestem-f-ut-fra-den-deriverte/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":[],"temaer":["integral","tolkning av integraler","areal under graf"],"fag":["s2","r2"],"eksamen":"v25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":2},{"fag":"r2","del":1,"oppgave":2}],"title":"Bestem f ut fra den deriverte","source":null,"todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":[],"dg-publish":true,"temaer":["integral","tolkning av integraler","areal under graf"],"fag":["s2","r2"],"eksamen":"v25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":2},{"fag":"r2","del":1,"oppgave":2}],"title":"Bestem f ut fra den deriverte","source":null,"todo":null,"status":3,"permalink":"/bestem-f-ut-fra-den-deriverte/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":[],"temaer":["integral","tolkning av integraler","areal under graf"],"fag":["s2","r2"],"eksamen":"v25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":2},{"fag":"r2","del":1,"oppgave":2}],"title":"Bestem f ut fra den deriverte","source":null,"todo":null,"status":3,"permalink":"/bestem-f-ut-fra-den-deriverte/"}}
 ---
 
 
@@ -29,7 +29,7 @@ $$
 \left[ -\frac{1}{x}+Cx \right]_{1}^{2} &=\frac{11}{14} \\
 \textcolor{orange}{\left(  -\frac{1}{2}+C \cdot 2 \right)}-\textcolor{seagreen}{\left( -\frac{1}{1}+C\cdot 1 \right)} &=\frac{11}{14} \\
 \textcolor{orange}{-\frac{1}{2}+2C} + \textcolor{seagreen}{\frac{1}{1}-C} &=\frac{11}{14} \\
-C&=\frac{11}{14}-\frac{1}{2}=\frac{2}{7} \\
+C&=\frac{11}{14}-\frac{1}{2}=\frac{2}{7}
 \end{aligned}
 $$
 Vår antideriverte til $f'(x)$ har altså $C=\frac{2}{7}$, derfor har vi for alle $x\neq 0$:

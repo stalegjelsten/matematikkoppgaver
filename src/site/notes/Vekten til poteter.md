@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-04-01","modified":"2025-04-01","aliases":null,"dg-publish":true,"temaer":["sannsynlighet","normalfordeling"],"fag":["s2"],"eksamen":"h21","del":1,"oppgave":6,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":6}],"title":"Vekten til poteter","source":null,"todo":null,"permalink":"/vekten-til-poteter/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-04-01","modified":"2025-04-01","aliases":null,"temaer":["sannsynlighet","normalfordeling"],"fag":["s2"],"eksamen":"h21","del":1,"oppgave":6,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":6}],"title":"Vekten til poteter","source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2025-04-01","modified":"2025-04-01","aliases":null,"dg-publish":true,"temaer":["sannsynlighet","normalfordeling"],"fag":["s2"],"eksamen":"h21","del":1,"oppgave":6,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":6}],"title":"Vekten til poteter","source":null,"todo":null,"permalink":"/vekten-til-poteter/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-04-01","modified":"2025-04-01","aliases":null,"temaer":["sannsynlighet","normalfordeling"],"fag":["s2"],"eksamen":"h21","del":1,"oppgave":6,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":6}],"title":"Vekten til poteter","source":null,"todo":null,"permalink":"/vekten-til-poteter/"}}
 ---
 
 

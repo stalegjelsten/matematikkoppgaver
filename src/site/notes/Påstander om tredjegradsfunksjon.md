@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["funksjonsdrøfting","derivasjon","argumentasjon"],"fag":["s1"],"eksamen":"h23","del":2,"oppgave":6,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":6}],"poeng":null,"title":"Påstander om tredjegradsfunksjon","status":3,"source":null,"todo":null,"permalink":"/pastander-om-tredjegradsfunksjon/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-14","modified":"2026-03-26","aliases":[],"temaer":["funksjonsdrøfting","derivasjon","argumentasjon"],"fag":["s1"],"eksamen":"h23","del":2,"oppgave":6,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":6}],"poeng":null,"title":"Påstander om tredjegradsfunksjon","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2023-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["funksjonsdrøfting","derivasjon","argumentasjon"],"fag":["s1"],"eksamen":"h23","del":2,"oppgave":6,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":6}],"poeng":null,"title":"Påstander om tredjegradsfunksjon","status":3,"source":null,"todo":null,"permalink":"/pastander-om-tredjegradsfunksjon/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-14","modified":"2026-03-26","aliases":[],"temaer":["funksjonsdrøfting","derivasjon","argumentasjon"],"fag":["s1"],"eksamen":"h23","del":2,"oppgave":6,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":6}],"poeng":null,"title":"Påstander om tredjegradsfunksjon","status":3,"source":null,"todo":null,"permalink":"/pastander-om-tredjegradsfunksjon/"}}
 ---
 
 
@@ -63,7 +63,7 @@ f'(5)&=3c \cdot 5^{2}+2d \cdot 5+ m \\
 f'(5)&=3c \cdot 25+2(-9c) \cdot 5+ m\\
 f'(5)&=75c +10 \cdot(-9c) + m\\
 f'(5)&=75c -90c + m\\
-f'(5)&=-15c + m\\
+f'(5)&=-15c + m
 \end{aligned}
 $$
 

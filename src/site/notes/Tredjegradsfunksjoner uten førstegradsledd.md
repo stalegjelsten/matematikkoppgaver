@@ -1,5 +1,5 @@
 ---
-{"tags":["1t","utforskning","glidere","cas","funksjoner","geogebra","oppgave"],"temaer":["utforskning","glidere","cas","funksjoner","geogebra"],"alias":[null],"del":2,"fag":"1t","oppgave":6,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":6}],"eksamen":"v23","dg-publish":true,"title":"Tredjegradsfunksjoner uten førstegradsledd","date":"2023-05-27","modified":"2023-05-29","status":3,"permalink":"/tredjegradsfunksjoner-uten-forstegradsledd/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["1t","utforskning","glidere","cas","funksjoner","geogebra","oppgave"],"temaer":["utforskning","glidere","cas","funksjoner","geogebra"],"alias":[null],"del":2,"fag":"1t","oppgave":6,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":6}],"eksamen":"v23","title":"Tredjegradsfunksjoner uten førstegradsledd","date":"2023-05-27","modified":"2023-05-29","status":3}}
+{"tags":["1t","utforskning","glidere","cas","funksjoner","geogebra","oppgave"],"temaer":["utforskning","glidere","cas","funksjoner","geogebra"],"alias":[null],"del":2,"fag":"1t","oppgave":6,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":6}],"eksamen":"v23","dg-publish":true,"title":"Tredjegradsfunksjoner uten førstegradsledd","date":"2023-05-27","modified":"2023-05-29","status":3,"permalink":"/tredjegradsfunksjoner-uten-forstegradsledd/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["1t","utforskning","glidere","cas","funksjoner","geogebra","oppgave"],"temaer":["utforskning","glidere","cas","funksjoner","geogebra"],"alias":[null],"del":2,"fag":"1t","oppgave":6,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":6}],"eksamen":"v23","title":"Tredjegradsfunksjoner uten førstegradsledd","date":"2023-05-27","modified":"2023-05-29","status":3,"permalink":"/tredjegradsfunksjoner-uten-forstegradsledd/"}}
 ---
 
 
@@ -71,7 +71,7 @@ P'(x)&=3ax^2+2bx\\
 0&=(3ax+2b)x\\
 3ax+2b=0 &\vee x=0\\
 3ax=-2b &\vee x=0\\
-x=\frac{-2b}{3a} &\vee x=0\\
+x=\frac{-2b}{3a} &\vee x=0
 \end{aligned}
 $$
 

@@ -25,6 +25,6 @@ Vi kan fortsette rekka og legge til et par ekstra ledd. Da vil vi se at enkelte 
 $$\begin{aligned}
 \left( 1-\frac{1}{5} \right) &+\left( \frac{1}{2}-\frac{1}{6} \right) + \left( \frac{1}{3}-\frac{1}{7} \right)+ \left( \frac{1}{4}-\frac{1}{8} \right) + \left( \frac{1}{5}-\frac{1}{9} \right) + \dots + \left( \frac{1}{996}-\frac{1}{1000} \right) \\
 \left( 1-\cancel{ \frac{1}{5} } \right)&+\left( \frac{1}{2}-\cancel{ \frac{1}{6} } \right) + \left( \frac{1}{3}-\cancel{ \frac{1}{7} } \right)+ \left( \frac{1}{4}-\cancel{ \frac{1}{8} } \right) + \left( \frac{1}{5}-\cancel{ \frac{1}{9} } \right) + \dots + \left( \cancel{ \frac{1}{996} }-\frac{1}{1000} \right) \\
-1&+\frac{1}{2}+\frac{1}{3}+\frac{1}{4}-\frac{1}{997}-\frac{1}{998}-\frac{1}{999}-\frac{1}{1000}\\
+1&+\frac{1}{2}+\frac{1}{3}+\frac{1}{4}-\frac{1}{997}-\frac{1}{998}-\frac{1}{999}-\frac{1}{1000}
 \end{aligned}
 $$

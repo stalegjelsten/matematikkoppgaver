@@ -28,6 +28,8 @@ Aina skal lage et anbud for et oppdrag til en gruppe som ønsker en guidet tur:
 >[!oppgave]
 >c) Lag et anbud som viser prisen for oppdraget uten mva. og prisen med 25 % mva.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y SR eksamen H2025#Oppgave 2-1\|Løsningsforslag 1P-Y SR eksamen H2025#Oppgave 2-1]]
+## Fasit
+
+
+
+## Løsningsforslag

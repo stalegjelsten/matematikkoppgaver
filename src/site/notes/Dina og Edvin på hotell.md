@@ -32,6 +32,8 @@ De besøker et hotell, får data for de siste fem dagene og lager tabellen neden
 >[!oppgave]
 >Gjør beregninger og vurderinger, og svar på spørsmålene Dina og Edvin stiller.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y SR eksamen H2025#Oppgave 2-2\|Løsningsforslag 1P-Y SR eksamen H2025#Oppgave 2-2]]
+## Fasit
+
+
+
+## Løsningsforslag

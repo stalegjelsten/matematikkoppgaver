@@ -1,28 +1,28 @@
 ---
-{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"h25","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen H2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-y-el-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"h25","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen H2025","contentClasses":"eksamen-side","permalink":"/eksamener/1p-y-el-eksamen-h2025/"}}
+{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"h25","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen H2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-y-el-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"h25","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen H2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1p-y-el-eksamen-h2025/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Løping og maraton\|Løping og maraton]] | lineær vekst, formler, tallregning | ✔︎ |
-| 1-2 | [[Annuitetslån eller serielån\|Annuitetslån eller serielån]] | lån, diagram, tolke grafer | ✔︎ |
-| 1-3 | [[Søvnbehov med formel\|Søvnbehov med formel]] | formler, lineær vekst, algebra | ✔︎ |
-| 1-4 | [[Filstørrelser\|Filstørrelser]] | bits og bytes | ✔︎ |
-| 1-5 | [[Felix sine effektdiagrammer\|Felix sine effektdiagrammer]] | trigonometri, elektrofag, effekttrekant | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Løping og maraton](https://matematikkoppgaver.vercel.app/loping-og-maraton/) | lineær vekst, formler, tallregning | ✔︎ |
+| [1-2](#oppgave-1-2) | [Annuitetslån eller serielån](https://matematikkoppgaver.vercel.app/annuitetslan-eller-serielan/) | lån, diagram, tolke grafer | ✔︎ |
+| [1-3](#oppgave-1-3) | [Søvnbehov med formel](https://matematikkoppgaver.vercel.app/sovnbehov-med-formel/) | formler, lineær vekst, algebra | ✔︎ |
+| [1-4](#oppgave-1-4) | [Filstørrelser](https://matematikkoppgaver.vercel.app/filstorrelser/) | bits og bytes | ✔︎ |
+| [1-5](#oppgave-1-5) | [Felix sine effektdiagrammer](https://matematikkoppgaver.vercel.app/felix-sine-effektdiagrammer/) | trigonometri, elektrofag, effekttrekant | ✔︎ |
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Solcellepaneler og trigonometri\|Solcellepaneler og trigonometri]] | trigonometri, elektrofag, geometri, prosentregning | ❌ |
-| 2-2 | [[Effekt i vannkraftverk\|Effekt i vannkraftverk]] | formler, elektrofag, økonomi | ❌ |
-| 2-3 | [[Ellas BSU-sparing\|Ellas BSU-sparing]] | sparing, excel | ✔︎ |
-| 2-4 | [[Fritt fall fra stupeplattform\|Fritt fall fra stupeplattform]] | formler, likninger | ❌ |
-| 2-5 | [[Fylle svømmebasseng\|Fylle svømmebasseng]] | formler, tallregning, samlet mengde | ❌ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Solcellepaneler og trigonometri](https://matematikkoppgaver.vercel.app/solcellepaneler-og-trigonometri/) | trigonometri, elektrofag, geometri, prosentregning | × |
+| [2-2](#oppgave-2-2) | [Effekt i vannkraftverk](https://matematikkoppgaver.vercel.app/effekt-i-vannkraftverk/) | formler, elektrofag, økonomi | × |
+| [2-3](#oppgave-2-3) | [Ellas BSU-sparing](https://matematikkoppgaver.vercel.app/ellas-bsu-sparing/) | sparing, excel | ✔︎ |
+| [2-4](#oppgave-2-4) | [Fritt fall fra stupeplattform](https://matematikkoppgaver.vercel.app/fritt-fall-fra-stupeplattform/) | formler, likninger | × |
+| [2-5](#oppgave-2-5) | [Fylle svømmebasseng](https://matematikkoppgaver.vercel.app/fylle-svommebasseng/) | formler, tallregning, samlet mengde | × |
 
 # Del 1
 

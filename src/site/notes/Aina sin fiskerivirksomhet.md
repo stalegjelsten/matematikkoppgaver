@@ -28,6 +28,8 @@ Aina skal lage et anbud for en leveranse til en fiskerestaurant:
 >[!oppgave]
 >c) Lag et anbud som viser prisen for leveransen uten mva. og prisen med 25 % mva.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y NA eksamen H2025#Oppgave 2-1\|Løsningsforslag 1P-Y NA eksamen H2025#Oppgave 2-1]]
+## Fasit
+
+
+
+## Løsningsforslag

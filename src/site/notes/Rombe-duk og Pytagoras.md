@@ -30,6 +30,8 @@ Diagonalene krysser hverandre i sentrum av duken i punktet $S$, slik at trekant 
 >[!oppgave]
 >b) Gjør beregninger og finn sidelengden $BC$.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y eksamen H2025#1-4\|Løsningsforslag 1P-Y eksamen H2025#1-4]]
+## Fasit
+
+
+
+## Løsningsforslag

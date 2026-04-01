@@ -40,7 +40,7 @@ Vi regner ut temperaturen for disse dagene i GeoGebra:
 $$
 \begin{aligned}
 T(59)&=1{,}81 \, \degree\text{C}\\
-T(90)&=4{,}19 \, \degree\text{C}\\
+T(90)&=4{,}19 \, \degree\text{C}
 \end{aligned}
 $$
 

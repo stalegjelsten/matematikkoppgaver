@@ -35,7 +35,7 @@ Ledelsen ved skolen hadde en mistanke om at det nye fraværsreglementet som ble 
 $$
 \begin{aligned}
 H_{0}&: \quad p=0{,}32 \\
-H_{1}&: \quad p<0{,}32 \\
+H_{1}&: \quad p<0{,}32
 \end{aligned}
 $$
 

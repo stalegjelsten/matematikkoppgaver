@@ -1,31 +1,31 @@
 ---
-{"tags":["eksamen"],"fag":["2p"],"eksamen":"v25","date":"2025-05-19","del1_tid":2,"del2_tid":3,"title":"2P eksamen V2025","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p"],"eksamen":"v25","date":"2025-05-19","del1_tid":2,"del2_tid":3,"title":"2P eksamen V2025","contentClasses":"eksamen-side","permalink":"/eksamener/2p-eksamen-v2025/"}}
+{"tags":["eksamen"],"fag":["2p"],"eksamen":"v25","del1_tid":2,"del2_tid":3,"title":"2P eksamen V2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p"],"eksamen":"v25","del1_tid":2,"del2_tid":3,"title":"2P eksamen V2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2p-eksamen-v2025/"}}
 ---
 
-## Oversikt
+# Oversikt over oppgavene
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 1-1 | [[Elever i klassen basert på prosentandel\|Elever i klassen basert på prosentandel]] | prosent | ✔︎ |
-| 1-2 | [[Median og gjennomsnitt i heiskø\|Median og gjennomsnitt i heiskø]] | sentralmål, kumulativ frekvens | ✔︎ |
-| 1-3 | [[Vekt på sekker med hundemat\|Vekt på sekker med hundemat]] | likningssystem | ❌ |
-| 1-4 | [[Areal og omkrets av halvsirkel og trekant\|Areal og omkrets av halvsirkel og trekant]] | geometri, areal | ❌ |
-| 1-5 | [[Nedbetalingsplan for Marcos lån\|Nedbetalingsplan for Marcos lån]] | lån | ❌ |
-| 1-6 | [[Median og gjennomsnitt fra klassedelt alder\|Median og gjennomsnitt fra klassedelt alder]] | sentralmål | ✔︎ |
-| 1-7 | [[Program for reduksjon av matsvinn\|Program for reduksjon av matsvinn]] | programmering, eksponentialfunksjoner | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Elever i klassen basert på prosentandel](https://matematikkoppgaver.vercel.app/elever-i-klassen-basert-pa-prosentandel/) | prosent | ✔︎ |
+| [1-2](#oppgave-1-2) | [Median og gjennomsnitt i heiskø](https://matematikkoppgaver.vercel.app/median-og-gjennomsnitt-i-heisko/) | sentralmål, kumulativ frekvens | ✔︎ |
+| [1-3](#oppgave-1-3) | [Vekt på sekker med hundemat](https://matematikkoppgaver.vercel.app/vekt-pa-sekker-med-hundemat/) | likningssystem | × |
+| [1-4](#oppgave-1-4) | [Areal og omkrets av halvsirkel og trekant](https://matematikkoppgaver.vercel.app/areal-og-omkrets-av-halvsirkel-og-trekant/) | geometri, areal | × |
+| [1-5](#oppgave-1-5) | [Nedbetalingsplan for Marcos lån](https://matematikkoppgaver.vercel.app/nedbetalingsplan-for-marcos-lan/) | lån | × |
+| [1-6](#oppgave-1-6) | [Median og gjennomsnitt fra klassedelt alder](https://matematikkoppgaver.vercel.app/median-og-gjennomsnitt-fra-klassedelt-alder/) | sentralmål | ✔︎ |
+| [1-7](#oppgave-1-7) | [Program for reduksjon av matsvinn](https://matematikkoppgaver.vercel.app/program-for-reduksjon-av-matsvinn/) | programmering, eksponentialfunksjoner | ✔︎ |
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| Oppgave | Navn | Temaer | Løsningsforslag |
-| ------- | ---- | ------ | --------------- |
-| 2-1 | [[Modell for reduksjon av utslipp\|Modell for reduksjon av utslipp]] | eksponentialfunksjoner, geogebra, funksjoner | ✔︎ |
-| 2-2 | [[Påstander om gjennomsnitt og median i et rom\|Påstander om gjennomsnitt og median i et rom]] | sentralmål | ✔︎ |
-| 2-3 | [[Formlike trekanter over elv\|Formlike trekanter over elv]] | geometri | ❌ |
-| 2-4 | [[Halvert fuglebestand\|Halvert fuglebestand]] | eksponentialfunksjoner | ✔︎ |
-| 2-5 | [[Husleie regulert etter KPI\|Husleie regulert etter KPI]] | prosentregning, prosentvis endring, prisindeks | ❌ |
-| 2-6 | [[Lag presentasjon som viser døds- og fødselsrate\|Lag presentasjon som viser døds- og fødselsrate]] | presentasjon av data | ✔︎ |
+| № | Navn | Temaer | LF |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [Modell for reduksjon av utslipp](https://matematikkoppgaver.vercel.app/modell-for-reduksjon-av-utslipp/) | eksponentialfunksjoner, geogebra, funksjoner | ✔︎ |
+| [2-2](#oppgave-2-2) | [Påstander om gjennomsnitt og median i et rom](https://matematikkoppgaver.vercel.app/pastander-om-gjennomsnitt-og-median-i-et-rom/) | sentralmål | ✔︎ |
+| [2-3](#oppgave-2-3) | [Formlike trekanter over elv](https://matematikkoppgaver.vercel.app/formlike-trekanter-over-elv/) | geometri | × |
+| [2-4](#oppgave-2-4) | [Halvert fuglebestand](https://matematikkoppgaver.vercel.app/halvert-fuglebestand/) | eksponentialfunksjoner | ✔︎ |
+| [2-5](#oppgave-2-5) | [Husleie regulert etter KPI](https://matematikkoppgaver.vercel.app/husleie-regulert-etter-kpi/) | prosentregning, prosentvis endring, prisindeks | × |
+| [2-6](#oppgave-2-6) | [Lag presentasjon som viser døds- og fødselsrate](https://matematikkoppgaver.vercel.app/lag-presentasjon-som-viser-dods-og-fodselsrate/) | presentasjon av data | ✔︎ |
 
 # Del 1
 

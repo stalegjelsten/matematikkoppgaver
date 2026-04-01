@@ -20,6 +20,8 @@ Tobias er lærling i en butikk. Han stiller to spørsmål om en vare med kostpri
 >[!oppgave]
 >Svar på spørsmålene Tobias stiller. Husk å begrunne svarene.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y SR eksamen H2025#Oppgave 1-5\|Løsningsforslag 1P-Y SR eksamen H2025#Oppgave 1-5]]
+## Fasit
+
+
+
+## Løsningsforslag

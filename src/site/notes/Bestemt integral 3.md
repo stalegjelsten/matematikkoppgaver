@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-01-28","modified":"2024-01-28","aliases":null,"dg-publish":true,"temaer":["integral"],"fag":["s2"],"eksamen":"h23","del":1,"oppgave":1,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":1}],"title":"Bestemt integral 3","source":null,"todo":null,"status":3,"permalink":"/bestemt-integral-3/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-01-28","modified":"2024-01-28","aliases":null,"temaer":["integral"],"fag":["s2"],"eksamen":"h23","del":1,"oppgave":1,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":1}],"title":"Bestemt integral 3","source":null,"todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2024-01-28","modified":"2024-01-28","aliases":null,"dg-publish":true,"temaer":["integral"],"fag":["s2"],"eksamen":"h23","del":1,"oppgave":1,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":1}],"title":"Bestemt integral 3","source":null,"todo":null,"status":3,"permalink":"/bestemt-integral-3/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-01-28","modified":"2024-01-28","aliases":null,"temaer":["integral"],"fag":["s2"],"eksamen":"h23","del":1,"oppgave":1,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":1}],"title":"Bestemt integral 3","source":null,"todo":null,"status":3,"permalink":"/bestemt-integral-3/"}}
 ---
 
 

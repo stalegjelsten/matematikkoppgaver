@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-31","aliases":[],"dg-publish":true,"temaer":["prosentregning","økonomi","excel","priskalkulering","anbud"],"fag":["1p-y ba"],"eksamen":"h25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y ba","del":2,"oppgave":2}],"poeng":6,"title":"Takstein og kostnadsberegning","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/takstein-og-kostnadsberegning/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-31","aliases":[],"temaer":["prosentregning","økonomi","excel","priskalkulering","anbud"],"fag":["1p-y ba"],"eksamen":"h25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y ba","del":2,"oppgave":2}],"poeng":6,"title":"Takstein og kostnadsberegning","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-31","aliases":[],"dg-publish":true,"temaer":["prosentregning","økonomi","excel","priskalkulering","anbud"],"fag":["1p-y ba"],"eksamen":"h25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y ba","del":2,"oppgave":2}],"poeng":6,"title":"Takstein og kostnadsberegning","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/takstein-og-kostnadsberegning/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-31","aliases":[],"temaer":["prosentregning","økonomi","excel","priskalkulering","anbud"],"fag":["1p-y ba"],"eksamen":"h25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y ba","del":2,"oppgave":2}],"poeng":6,"title":"Takstein og kostnadsberegning","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/takstein-og-kostnadsberegning/"}}
 ---
 
 
@@ -41,6 +41,8 @@ Christian har fått i arbeid å restaurere taket og legge nye taksteiner som er 
 >[!oppgave]
 >Gjør beregninger og vurderinger, og svar på spørsmålene Christian stiller.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y eksamen H2025#Oppgave 2-2\|Løsningsforslag 1P-Y eksamen H2025#Oppgave 2-2]]
+## Fasit
+
+
+
+## Løsningsforslag

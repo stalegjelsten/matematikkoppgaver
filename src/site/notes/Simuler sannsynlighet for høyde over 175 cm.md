@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"temaer":["programmering","simulering","sannsynlighet","normalfordeling"],"alias":[null],"del":2,"oppgave":6,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":6}],"fag":"s2","eksamen":"e22","dg-publish":true,"title":"Simuler sannsynlighet for høyde over 175 cm","date":"2023-06-06","modified":"2023-06-06","todo":null,"permalink":"/simuler-sannsynlighet-for-hoyde-over-175-cm/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"temaer":["programmering","simulering","sannsynlighet","normalfordeling"],"alias":[null],"del":2,"oppgave":6,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":6}],"fag":"s2","eksamen":"e22","title":"Simuler sannsynlighet for høyde over 175 cm","date":"2023-06-06","modified":"2023-06-06","todo":null}}
+{"tags":["oppgave"],"temaer":["programmering","simulering","sannsynlighet","normalfordeling"],"alias":[null],"del":2,"oppgave":6,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":6}],"fag":"s2","eksamen":"e22","dg-publish":true,"title":"Simuler sannsynlighet for høyde over 175 cm","date":"2023-06-06","modified":"2023-06-06","todo":null,"permalink":"/simuler-sannsynlighet-for-hoyde-over-175-cm/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"temaer":["programmering","simulering","sannsynlighet","normalfordeling"],"alias":[null],"del":2,"oppgave":6,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":6}],"fag":"s2","eksamen":"e22","title":"Simuler sannsynlighet for høyde over 175 cm","date":"2023-06-06","modified":"2023-06-06","todo":null,"permalink":"/simuler-sannsynlighet-for-hoyde-over-175-cm/"}}
 ---
 
 # Simuler sannsynlighet for høyde over 175 cm
@@ -19,7 +19,6 @@ Omtrent 41,6 %
 
 ## Løsningsforslag
 
-Her kommer tekst
 
 ```python {.python caption="Oppgave 2-6" #code:oppg26}
 import numpy as np
@@ -35,3 +34,26 @@ grense = 175
 antall_simuleringer = 10000
 
 antall_gunstige = 0
+
+# trekk antall_simuleringer elever
+for i in range(antall_simuleringer):
+    # Vi trekker en tilfeldig elev, men vi må finne ut om
+    # eleven er gutt eller jente.
+    # Det er 301 gutter. Hvis vi trekker et tilfeldig tall mellom
+    # 1 og 301+323=624 så kan vi si at dersom tallet er mindre enn
+    # eller lik 301, så er det en gutt.
+    if (random.randint(1, n_x + n_y) <= n_y):
+        # Her har vi altså trukket en gutt og vi trekker en tilfeldig gutt
+        # fra en normalfordeling
+        hoyde = np.random.normal(mu_y, s_y)
+    else:
+        # ellers har vi trukket ei jente
+        hoyde = np.random.normal(mu_x, s_x)
+
+    if (hoyde > grense):
+        antall_gunstige += 1
+
+print(f"Sannsynligheten for å trekke en tilfeldig eleve over 175 cm er "
+      f"estimert til {(antall_gunstige / antall_simuleringer) * 100:.1f} "
+      f"med {antall_simuleringer} simuleringer")
+```

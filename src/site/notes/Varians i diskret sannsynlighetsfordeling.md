@@ -41,7 +41,7 @@ Variansen til $X$ er gitt ved
 $$
 \begin{aligned}
 \text{Var}(X)&=\sum_{i=1}^{N}\left( ( x_{i}-\mu)^{2}\cdot P(X=x_{i}) \right)\\
-\text{Var}(X)&=1{,}2+0{,}40+0{,}40+3{,}2=\underline{\underline{5{,}2}}\\
+\text{Var}(X)&=1{,}2+0{,}40+0{,}40+3{,}2=\underline{\underline{5{,}2}}
 \end{aligned}
 $$
 **Variansen $\underline{\underline{\mathrm{Var}(X)=5{,}2}}$.**
