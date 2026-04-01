@@ -18,6 +18,7 @@ formulas:
   Oppgave: del+"–"+oppgave
   Status: if(status==3, "🟢 Løsningsforslag OK", if(status==2, "🟡 Fasit OK", if(staus==1, "🟠 Oppgavetekst OK", "🔴 Ikke kontrollert")))
   eksamensort: if(eksamen.slice(0,1) == "h", eksamen.slice(1,3)+"-"+eksamen.slice(0,1), eksamen.slice(1,3)+"_"+eksamen.slice(0,1))
+  fag: ""
 properties:
   file.name:
     displayName: Oppgavenavn
@@ -30,12 +31,16 @@ properties:
 views:
   - type: table
     name: Publisert
+    groupBy:
+      property: fag
+      direction: ASC
     order:
       - file.name
       - fag
       - formula.Eksamen
       - formula.Oppgave
       - formula.Status
+      - formula.fag
     sort:
       - property: formula.eksamensort
         direction: DESC
