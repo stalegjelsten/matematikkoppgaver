@@ -1004,7 +1004,7 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("src/site/img");
   if (process.env.ELEVENTY_ENV !== "prod") {
-    eleventyConfig.addPassthroughCopy({ "node_modules/mathjax-full/es5/tex-chtml.js": "mathjax/tex-chtml.js" });
+    eleventyConfig.addPassthroughCopy({ "node_modules/mathjax-full/es5": "mathjax" });
   }
   eleventyConfig.addPassthroughCopy("src/site/scripts");
   eleventyConfig.addPassthroughCopy("src/site/tavle");
