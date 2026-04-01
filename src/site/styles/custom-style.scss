@@ -243,6 +243,23 @@ article .callout-fold svg * {
   content: ")";
 }
 
+/* ===== Keyboard-taster ===== */
+kbd {
+  display: inline-block;
+  padding: 0.15em 0.45em;
+  font-family: var(--font-monospace);
+  font-size: 0.85em;
+  line-height: 1.4;
+  color: var(--text-normal);
+  background: var(--background-primary);
+  border: 1px solid var(--background-modifier-border);
+  border-bottom-width: 3px;
+  border-radius: 5px;
+  box-shadow: 0 1px 0 var(--background-modifier-border);
+  white-space: nowrap;
+  vertical-align: baseline;
+}
+
 /* ===== Tema-bytte-knapper ===== */
 .tema-bytte {
   display: flex;

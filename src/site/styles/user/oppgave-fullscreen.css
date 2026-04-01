@@ -34,6 +34,11 @@ body:has(#fullskjerm-knapper) #tema-fab {
   margin: 0;
 }
 
+.theme-light .tema-bytte.fullskjerm-fab {
+  background: var(--bg-accent-55);
+  color: #ffffff;
+}
+
 .tema-bytte.fullskjerm-fab svg,
 .tema-bytte.fullskjerm-fab i {
   width: 1rem;
