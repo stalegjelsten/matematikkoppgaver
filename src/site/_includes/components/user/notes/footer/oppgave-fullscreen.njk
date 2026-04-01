@@ -1,5 +1,10 @@
 {% if "oppgave" in tags or "eksamen" in tags %}
 <div id="fullskjerm-knapper">
+  <button class="tema-bytte fullskjerm-fab" data-tema="dark" title="Bytt fargetema" aria-label="Bytt fargetema">
+    <i data-lucide="moon"></i>
+    <i data-lucide="sun"></i>
+    <i data-lucide="monitor"></i>
+  </button>
   <button class="fullskjerm-fab fullskjerm-fab--tekst" id="tekst-storr-btn" title="Større tekst" aria-label="Større tekst" style="display:none">A+</button>
   <button class="fullskjerm-fab fullskjerm-fab--tekst" id="tekst-min-btn" title="Mindre tekst" aria-label="Mindre tekst" style="display:none">A−</button>
   <button class="fullskjerm-fab" id="tavle-tom-btn" title="Tøm denne tavlesiden" aria-label="Tøm denne tavlesiden" style="display:none">

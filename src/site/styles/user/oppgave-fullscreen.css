@@ -11,6 +11,35 @@
   align-items: center;
 }
 
+#tema-fab {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  z-index: 600;
+}
+
+/* Skjul global tema-fab når oppgave-knapper finnes */
+body:has(#fullskjerm-knapper) #tema-fab {
+  display: none;
+}
+
+/* Tema-bytte som FAB */
+.tema-bytte.fullskjerm-fab {
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 50%;
+  border: none;
+  background: var(--interactive-accent);
+  color: var(--text-on-accent);
+  margin: 0;
+}
+
+.tema-bytte.fullskjerm-fab svg,
+.tema-bytte.fullskjerm-fab i {
+  width: 1rem;
+  height: 1rem;
+}
+
 body.oppgave-fullskjerm #fullskjerm-knapper {
   bottom: 4.75rem; /* over navigasjonslinjen */
 }

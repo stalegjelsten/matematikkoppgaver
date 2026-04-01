@@ -1,5 +1,6 @@
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 import { createRoot } from "react-dom/client";
+import { Radical } from "lucide-react";
 import {
   DefaultSizeStyle,
   DefaultToolbar,
@@ -21,11 +22,121 @@ import {
 } from "tldraw";
 import "tldraw/tldraw.css";
 
+const KALKULATOR_BREDDE = 360;
+const KALKULATOR_HOYDE = 520;
+
+function Kalkulator({ onLukk }: { onLukk: () => void }) {
+  const posRef = useRef({ x: window.innerWidth - KALKULATOR_BREDDE - 16, y: 60 });
+  const [pos, setPos] = useState(posRef.current);
+  const dragRef = useRef<{ startX: number; startY: number; ox: number; oy: number } | null>(null);
+
+  function onMouseDown(e: React.MouseEvent) {
+    dragRef.current = { startX: e.clientX, startY: e.clientY, ox: pos.x, oy: pos.y };
+    e.preventDefault();
+  }
+
+  useEffect(() => {
+    function onMouseMove(e: MouseEvent) {
+      if (!dragRef.current) return;
+      const dx = e.clientX - dragRef.current.startX;
+      const dy = e.clientY - dragRef.current.startY;
+      const nx = Math.max(0, Math.min(window.innerWidth - KALKULATOR_BREDDE, dragRef.current.ox + dx));
+      const ny = Math.max(0, Math.min(window.innerHeight - KALKULATOR_HOYDE, dragRef.current.oy + dy));
+      posRef.current = { x: nx, y: ny };
+      setPos({ x: nx, y: ny });
+    }
+    function onMouseUp() { dragRef.current = null; }
+    window.addEventListener("mousemove", onMouseMove);
+    window.addEventListener("mouseup", onMouseUp);
+    return () => {
+      window.removeEventListener("mousemove", onMouseMove);
+      window.removeEventListener("mouseup", onMouseUp);
+    };
+  }, []);
+
+  return (
+    <div style={{
+      position: "fixed",
+      left: pos.x,
+      top: pos.y,
+      width: KALKULATOR_BREDDE,
+      height: KALKULATOR_HOYDE,
+      zIndex: 9999,
+      borderRadius: 8,
+      boxShadow: "0 4px 24px rgba(0,0,0,0.35)",
+      overflow: "hidden",
+      display: "flex",
+      flexDirection: "column",
+      background: "#fff",
+    }}>
+      <div
+        onMouseDown={onMouseDown}
+        style={{
+          background: "#3d6b9e",
+          color: "#fff",
+          padding: "6px 10px",
+          display: "flex",
+          justifyContent: "space-between",
+          alignItems: "center",
+          cursor: "grab",
+          userSelect: "none",
+          fontSize: 13,
+          fontWeight: 600,
+        }}
+      >
+        <span>GeoGebra kalkulator</span>
+        <button
+          onClick={onLukk}
+          style={{
+            background: "none",
+            border: "none",
+            color: "#fff",
+            fontSize: 18,
+            cursor: "pointer",
+            lineHeight: 1,
+            padding: "0 2px",
+          }}
+          title="Lukk"
+        >×</button>
+      </div>
+      <iframe
+        src="https://www.geogebra.org/scientific?lang=nb"
+        style={{ flex: 1, border: "none", width: "100%" }}
+        title="GeoGebra vitenskapelig kalkulator"
+        allow="fullscreen"
+      />
+    </div>
+  );
+}
+
 const params = new URLSearchParams(location.search);
 const initialDark = params.get("dark") === "1";
 const persistKey = params.get("key") || "matematikkoppgaver-tavle";
 
-function MatteToolbar() {
+function KalkulatorKnapp({ visKalkulator, setVisKalkulator }: { visKalkulator: boolean; setVisKalkulator: (v: boolean) => void }) {
+  return (
+    <button
+      onClick={() => setVisKalkulator(!visKalkulator)}
+      title="Vitenskapelig kalkulator (GeoGebra)"
+      style={{
+        background: visKalkulator ? "#3d6b9e" : "none",
+        border: "none",
+        borderRadius: 6,
+        padding: "4px 8px",
+        cursor: "pointer",
+        color: visKalkulator ? "#fff" : "inherit",
+        fontSize: 18,
+        display: "flex",
+        alignItems: "center",
+        justifyContent: "center",
+      }}
+    >
+      <Radical size={18} />
+    </button>
+  );
+}
+
+function MatteToolbar({ visKalkulator, setVisKalkulator }: { visKalkulator: boolean; setVisKalkulator: (v: boolean) => void }) {
   return (
     <DefaultToolbar>
       <SelectToolbarItem />
@@ -39,17 +150,20 @@ function MatteToolbar() {
       <RectangleToolbarItem />
       <HighlightToolbarItem />
       <TriangleToolbarItem />
+      <KalkulatorKnapp visKalkulator={visKalkulator} setVisKalkulator={setVisKalkulator} />
     </DefaultToolbar>
   );
 }
 
-const components: TLComponents = {
-  HelpMenu: null,
-  DebugMenu: null,
-  DebugPanel: null,
-  SharePanel: null,
-  Toolbar: MatteToolbar,
-};
+function makeComponents(visKalkulator: boolean, setVisKalkulator: (v: boolean) => void): TLComponents {
+  return {
+    HelpMenu: null,
+    DebugMenu: null,
+    DebugPanel: null,
+    SharePanel: null,
+    Toolbar: () => <MatteToolbar visKalkulator={visKalkulator} setVisKalkulator={setVisKalkulator} />,
+  };
+}
 
 const SKJULTE_VERKTOY = new Set(["note", "media", "embed", "frame", "laser"]);
 
@@ -65,6 +179,8 @@ const overrides: TLUiOverrides = {
 
 function App() {
   const editorRef = useRef<Editor | null>(null);
+  const [visKalkulator, setVisKalkulator] = useState(false);
+  const components = makeComponents(visKalkulator, setVisKalkulator);
 
   useEffect(() => {
     function handleMessage(e: MessageEvent) {
@@ -118,6 +234,8 @@ function App() {
   }, []);
 
   return (
+    <>
+    {visKalkulator && <Kalkulator onLukk={() => setVisKalkulator(false)} />}
     <Tldraw
       persistenceKey={persistKey}
       components={components}
@@ -125,7 +243,7 @@ function App() {
       onMount={(editor) => {
         editorRef.current = editor;
         editor.setCurrentTool("draw");
-        editor.setStyleForNextShapes(DefaultSizeStyle, "m");
+        editor.setStyleForNextShapes(DefaultSizeStyle, "s");
         editor.user.updateUserPreferences({
           colorScheme: initialDark ? "dark" : "light",
           isSnapMode: true,
@@ -135,6 +253,7 @@ function App() {
         window.parent.postMessage({ type: "tavle-ready" }, "*");
       }}
     />
+    </>
   );
 }
 
