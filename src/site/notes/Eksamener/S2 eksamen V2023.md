@@ -510,7 +510,7 @@ Det skal mye til at Marte er dårligere til å gjenkjenne colaene enn ved tilfel
 $$
 \begin{aligned}
 H_{0}&: \quad p=0.5 \\ 
-H_{1}&: \quad p>0,5 \\
+H_{1}&: \quad p>0,5 
 \end{aligned}
 $$
 
@@ -620,10 +620,70 @@ b) $P(X>4)\approx 0{,}205$
 
 ## Løsningsforslag
 
-### 2-5a
-Se programmet under. 
-```python
-from random import randint, gauss
+### a
+ ```python
+ from random import randint, gauss 
+ # henter nødvendige pakker for uniform fordeling og normalfordeling 
+ 
+ n = 20
+ sum_karakterer = 0
+ for i in range(n):
+     # trekker et tilfeldig tall fra 1 til 3. Dette tilsvarer
+     # skole A, B og C
+     skole = randint(1,3)
+     if skole == 1:
+         # hvis det tilfeldige tallet er 1, så skal vi trekke 
+         # tilfeldig elev fra skole A. I dette tilfellet har 
+         # normalfordelingen my = 3.8 og sigma = 1.2             
+         # # vi trekker en tilfeldig elev med gauss(mu, sigma)
+         elev = gauss(3.8, 1.2)
+     elif skole == 2:
+         elev = gauss(3.4, 1.4)
+     else:
+         elev = gauss(4.1, 1.1)
+     # vi legger til elevens karakter på summen
+     sum_karakterer += elev
+ 
+ print(f"Gjennomsnittskarakteren til de {n} elevene er {sum_karakterer/n:.3f}.")
+ ```
+ 
+### b
+ ```python
+ from random import randint, gauss 
+ # henter nødvendige pakker for uniform fordeling og normalfordeling 
+ 
+ N = 10_000
+ antall_gunstige = 0
+ for j in range(N):
+     n = 20
+     sum_karakterer = 0
+     for i in range(n):
+         # trekker et tilfeldig tall fra 1 til 3. 
+         # Dette tilsvarer skole A, B og C
+         skole = randint(1,3)
+         if skole == 1:
+             # hvis det tilfeldige tallet er 1, så skal vi trekke 
+             # tilfeldig elev fra skole A. I dette tilfellet har 
+             # normalfordelingen my = 3.8 og sigma = 1.2             
+             # vi trekker en tilfeldig elev med gauss(mu, sigma)
+             elev = gauss(3.8, 1.2)
+         elif skole == 2:
+             elev = gauss(3.4, 1.4)
+         else:
+             elev = gauss(4.1, 1.1)
+         # vi legger til elevens karakter på summen
+         sum_karakterer += elev
+     if sum_karakterer/n > 4:
+         # hvis snittkarakteren er over 4 så har vi et gunstig utfall
+         antall_gunstige += 1
+ 
+ print(f"Etter {N} simuleringer estimerer jeg at sannsynligheten for at"
+       f"gjennomsnittskarakteren er over 4 til {antall_gunstige/N:.4f}.")
+ ```
+ 
+ Jeg brukte $10\,000$ simuleringer og testet programmet noen ganger. Jeg så at estimatene mine lå mellom 0,200 og 0,210. Siden avvikene er små og programmet allerede bruker 6-7 sekunder på å kjøre, så velger jeg å ikke øke antall simuleringer, $N$, for å oppnå bedre nøyaktighet.
+ 
+ **Sannsynligheten for at gjennomsnittskarakteren til de 20 elevene er over 4 er estimert til 0,205 ved hjelp av programmet over.**
 
 
 </div></div>

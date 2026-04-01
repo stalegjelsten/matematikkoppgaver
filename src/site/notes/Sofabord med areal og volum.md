@@ -30,6 +30,8 @@ Bordet har skyvedører som kan skyves rundt bordet. Inne i bordet er det plass t
 >[!oppgave]
 >c) Omtrent hvor mange liter oppbevaringsplass er det inne i bordet?
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y eksamen H2025#2-2\|Løsningsforslag 1P-Y eksamen H2025#2-2]]
+## Fasit
+
+
+
+## Løsningsforslag

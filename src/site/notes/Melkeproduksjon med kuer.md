@@ -38,6 +38,8 @@ $$V = \pi \cdot r^2 \cdot h$$
 >[!oppgave]
 >Svar på spørsmålene Sara og Trygve stiller. Husk å begrunne svarene dine.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y NA eksamen H2025#Oppgave 2-2\|Løsningsforslag 1P-Y NA eksamen H2025#Oppgave 2-2]]
+## Fasit
+
+
+
+## Løsningsforslag

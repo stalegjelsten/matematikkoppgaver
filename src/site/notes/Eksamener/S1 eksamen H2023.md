@@ -395,7 +395,7 @@ f'(5)&=3c \cdot 5^{2}+2d \cdot 5+ m \\
 f'(5)&=3c \cdot 25+2(-9c) \cdot 5+ m\\
 f'(5)&=75c +10 \cdot(-9c) + m\\
 f'(5)&=75c -90c + m\\
-f'(5)&=-15c + m\\
+f'(5)&=-15c + m
 \end{aligned}
 $$
 

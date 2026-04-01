@@ -132,7 +132,7 @@ Jeg ser at likningen består av tierpotenser.
 $$
 \begin{aligned}
 100^{x}-3 \cdot 10^{x}&=4\\
-\left( 10^{x} \right)^{2}  -3 \cdot 10^{x} - 4&=0\\
+\left( 10^{x} \right)^{2}  -3 \cdot 10^{x} - 4&=0
 \end{aligned}
 $$
 Dette ser jeg at kan skrives som en andregradslikning hvor $u=10^{x}$.

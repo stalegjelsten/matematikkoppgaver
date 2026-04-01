@@ -197,9 +197,11 @@ Et annet drivverk i arbeidsbenken drives av følgende to tannhjul:
 >[!oppgave]
 >b) Bruk formelen som er oppgitt ovenfor, gjør beregninger og finn ut hva som skal stå i den tomme ruten i tabellen.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y TP eksamen H2025#Oppgave 1-4\|Løsningsforslag 1P-Y TP eksamen H2025#Oppgave 1-4]]
+## Fasit
+
+
+
+## Løsningsforslag
 
 
 </div></div>
@@ -242,9 +244,11 @@ Mikrometeret viser at den midterste diameteren på den ferdige akslingen er $26{
 >[!oppgave]
 >b) Kan akslingen godkjennes? Husk å begrunne svaret.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y TP eksamen H2025#Oppgave 1-5\|Løsningsforslag 1P-Y TP eksamen H2025#Oppgave 1-5]]
+## Fasit
+
+
+
+## Løsningsforslag
 
 
 </div></div>
@@ -295,9 +299,11 @@ En gassflaske veier 20 kg inkludert gassen.
 >[!oppgave]
 >c) Bruk tallene fra tabellene, gjør beregninger og vis at en tom gassbeholder veier omtrent 16 kg.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y TP eksamen H2025#Oppgave 2-1\|Løsningsforslag 1P-Y TP eksamen H2025#Oppgave 2-1]]
+## Fasit
+
+
+
+## Løsningsforslag
 
 
 </div></div>
@@ -389,9 +395,11 @@ Den svarte søppelbøtten ser litt skjev ut. Naomi måler diagonalen på framsid
 >[!oppgave]
 >Gjør beregninger og vurderinger som gir svar på det Naomi lurer på.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y TP eksamen H2025#Oppgave 2-2\|Løsningsforslag 1P-Y TP eksamen H2025#Oppgave 2-2]]
+## Fasit
+
+
+
+## Løsningsforslag
 
 
 </div></div>
