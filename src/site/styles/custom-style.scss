@@ -142,6 +142,11 @@ article svg {
   margin-right: auto;
 }
 
+/* CHTML-renderer: nullstill text-fill-color arvet fra strong */
+strong mjx-container {
+  -webkit-text-fill-color: initial !important;
+}
+
 /* Unntatt MathJax-SVG-er, callout-ikoner og collapse-pil */
 article mjx-container svg,
 article mjx-container svg *,
