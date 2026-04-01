@@ -203,6 +203,12 @@ body.oppgave-fullskjerm main.content article .callout-content {
   line-height: 1.7;
 }
 
+/* Callout-ikon følger font-størrelsen */
+body.oppgave-fullskjerm main.content article .callout-icon svg {
+  width: 1em;
+  height: 1em;
+}
+
 /* Fasit og Løsningsforslag: full bredde, ryddig visning */
 body.oppgave-fullskjerm main.content article [data-callout-metadata] {
   width: 100%;
