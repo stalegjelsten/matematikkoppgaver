@@ -223,7 +223,7 @@ $$\frac{50 - 20}{50} \cdot 100 \, \% = \frac{30}{50} \cdot 100 \, \% = 60 \, \%$
 
 Figuren under viser en rettvinklet trekant.
 
-![Rettvinklet trekant ABC](/img/user/_resources/1pyel-v23-1-4-1.jpeg)
+![Rettvinklet trekant ABC](/img/user/_resources/1pyel-v23-1-4-1.jpeg){width=30%}
 
 >[!oppgave]
 >a) Skriv uttrykket for $\sin u$ i trekanten $ABC$.
@@ -232,7 +232,7 @@ Frekvensen på vekselstrømmen i sentralnettet i Norge overvåkes kontinuerlig. 
 
 Maksimalt tillatt avvik er $\pm {,}1 \mathrm{~Hz}$.
 
-![Frekvensovervåking sentralnett](/img/user/_resources/1pyel-v23-1-4-2.jpeg)
+![Frekvensovervåking sentralnett](/img/user/_resources/1pyel-v23-1-4-2.jpeg){width=30%}
 
 >[!oppgave]
 >b) Hvor stort kan frekvensavviket være i prosent?
@@ -240,7 +240,7 @@ Maksimalt tillatt avvik er $\pm {,}1 \mathrm{~Hz}$.
 Figuren under viser en effekttrekant som viser sammenhengen mellom reaktiv effekt ($Q$), tilført effekt ($P$), tilsynelatende effekt ($S$) og fasevinkel ($\varphi$) i en elmotor.
 
 
-![Effekttrekant elmotor](/img/user/_resources/1pyel-v23-1-4-3.jpeg)
+![Effekttrekant elmotor](/img/user/_resources/1pyel-v23-1-4-3.jpeg){width=30%}
 
 I denne trekanten er $P = 40 \mathrm{~W}$ og $\cos \varphi = \dfrac{40}{50}$.
 
@@ -301,7 +301,7 @@ $P$ er effekten i watt, $U$ er spenningen i volt, og $I$ er strømstyrken i ampe
 
 Elektromotoren under er koblet til et trefasenett.
 
-![Elektromotor i trefasenett](/img/user/_resources/1pyel-v23-2-1-2.jpeg)
+![Elektromotor i trefasenett](/img/user/_resources/1pyel-v23-2-1-2.jpeg){width=60%}
 
 Formelen for tilført effekt $(P_t)$ er $P_t = \sqrt{3} \cdot U \cdot I \cdot \cos \varphi$
 
@@ -429,7 +429,7 @@ c) Vi beregner effekten ved dobling av $A$ og ved dobling av $v$:
 # Solcellepanel areal og kostnad
 
 
-![Solcellepanel](/img/user/_resources/1py-v23-solcellepanelet.jpeg)
+![Solcellepanel](/img/user/_resources/1py-v23-solcellepanelet.jpeg){width=10%}
 
 Solcellepanelet over har bredde 992 mm og lengde 1956 mm.
 
@@ -452,7 +452,7 @@ De som skal montere anlegget, kan velge mellom to typer solcellepanel:
 
 På flate tak bør solcellepanel monteres med en vinkel på 63 grader for å gi maksimal strømproduksjon.
 
-![Solcellepanel montert på flatt tak – tegning med høyde AC](/img/user/_resources/1pyel-v23-2-3-3.jpeg)
+![Solcellepanel montert på flatt tak – tegning med høyde AC](/img/user/_resources/1pyel-v23-2-3-3.jpeg){width=60%}
 
 >[!oppgave]
 >c) Bruk informasjon fra tegningen over for å regne ut høyden $AC$ i millimeter i bakkant av panelet.
@@ -504,7 +504,7 @@ Han lurer på hvor mye strøm han brukte på oppvarming av varmtvann til dusjing
 Ludvig gjør undersøkelser og fyller inn data i et regneark. Se nedenfor.
 Strømforbruk måles i kilowattimer (kWh).
 
-![Regneark som viser Ludvigs dusjregnskap](/img/user/_resources/ludvigs-dusj.png)
+![Regneark som viser Ludvigs dusjregnskap](/img/user/_resources/ludvigs-dusj.png){width=40%}
 
 a) Lag et regneark som vist ovenfor. Lag formler i de grønne cellene slik at utregningene blir riktige. Husk å ta med formlene i besvarelsen din.
 

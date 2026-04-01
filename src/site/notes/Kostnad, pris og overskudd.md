@@ -34,7 +34,7 @@ $$O(x) = 100x - K(x) = 100x - 0{,}02x^2 - 60x - 12\,000 = -0{,}02x^2 + 40x - 12\
 
 Vi finner maksimum ved å sette $O'(x) = 0$ og beregner i GeoGebra CAS:
 
-![GeoGebra CAS løsning for oppgave 2-4a](/img/user/_resources/s1-h25-2-4-a-CAS.png)
+![GeoGebra CAS løsning for oppgave 2-4a](/img/user/_resources/s1-h25-2-4-a-CAS.png){width=60%}
 
 CAS bekrefter at $O'(x) = 0$ i $x = 1000$ og at $O(1000) = 8000$.
 

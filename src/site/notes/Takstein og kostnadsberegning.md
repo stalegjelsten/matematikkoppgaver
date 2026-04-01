@@ -7,7 +7,7 @@
 
 Bildet nedenfor viser et tak som er dekket med takstein.
 
-![Tak med takstein](/img/user/_resources/1py-h25-2-2.jpeg)
+![Tak med takstein](/img/user/_resources/1py-h25-2-2.jpeg){width=60%}
 
 > [!green-box] Størrelsen på taket
 >  Bredde: 6200 mm  

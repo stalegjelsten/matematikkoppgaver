@@ -9,7 +9,7 @@ Sofie arbeider ved en bedrift og skal lage kasser av metallplater. Metallplatene
 
 For å lage kassene skal hun skjære bort et kvadrat i hvert av hjørnene og brette opp sidekantene.
 
-![Illustrasjon av metallplate, utskjæring og ferdig kasse](/img/user/_resources/1p-h24-2-8.jpeg)
+![Illustrasjon av metallplate, utskjæring og ferdig kasse](/img/user/_resources/1p-h24-2-8.jpeg){width=80%}
 
 Kassene skal fylles med sand.
 

@@ -7,7 +7,7 @@
 
 Diagrammet nedenfor viser helseutgifter per person per år fordelt på alder og kjønn.
 
-![Helseutgifter per person per år fordelt på alder og kjønn](/img/user/_resources/1pyhs-h25-1-4.jpeg)
+![Helseutgifter per person per år fordelt på alder og kjønn](/img/user/_resources/1pyhs-h25-1-4.jpeg){width=80%}
 
 >[!oppgave]
 >a) Omtrent hvor mange kroner forskjell er det i helseutgifter mellom kvinner og menn over 85 år?

@@ -31,7 +31,7 @@ c) 31 år fra starten, eller 26 år etter utvidelsen av lånet
 
 Jeg velger å løse disse oppgavene i CAS, men jeg har tatt med et eksempel på løsning i regneark på oppgave 3c), se nedenfor.
 
-![Utklipp til oppgave 2-3](/img/user/_resources/s2-v24-2-3-cas.png)
+![Utklipp til oppgave 2-3](/img/user/_resources/s2-v24-2-3-cas.png){width=70%}
 
 ### 2-3a
 Summen av nåverdiene til terminbeløpene skal bli lik lånebeløpet. Jeg setter opp dette som en likning i CAS med `Sum((x/1.055^i), i, 1, 25) = 25000000` og løser, se linje 1 i utklippet.

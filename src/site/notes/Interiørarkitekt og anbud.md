@@ -7,7 +7,7 @@
 
 Aina jobber som interiørarkitekt i sitt eget enkeltpersonforetak. Regnearket nedenfor viser inntektene, kostnadene og arbeidstimene hennes for tre måneder.
 
-![Regneark med inntekter, kostnader og arbeidstimer](/img/user/_resources/1py-h25-2-1-regneark.jpeg)
+![Regneark med inntekter, kostnader og arbeidstimer](/img/user/_resources/1py-h25-2-1-regneark.jpeg){width=80%}
 
 >[!oppgave]
 >a) Lag et regneark som vist ovenfor. Lag formler i de grønne cellene slik at utregningene blir riktige. Husk å vise formlene du bruker i regnearket.

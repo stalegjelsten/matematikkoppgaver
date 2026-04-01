@@ -5,7 +5,7 @@
 
 # Lønn og timelønn fra grafer
 
-![Lønn og timer for Nora og Nils](/img/user/_resources/1p-h25-1-5.jpeg)
+![Lønn og timer for Nora og Nils](/img/user/_resources/1p-h25-1-5.jpeg){width=80%}
 
 Den grønne grafen i koordinatsystemet ovenfor viser sammenhengen mellom antall timer Nora arbeider, og lønnen hun får.
 

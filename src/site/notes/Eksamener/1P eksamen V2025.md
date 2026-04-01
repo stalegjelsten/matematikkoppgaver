@@ -199,7 +199,7 @@ I en liter blod er det $7 \cdot 10^9$ hvite blodceller, $5 \cdot 10^{12}$ røde 
 
 # Figurtall med grønne kvadrater
 
-![Tre figurer satt sammen av grønne kvadrater](/img/user/_resources/1p-v25-1-6.jpeg)
+![Tre figurer satt sammen av grønne kvadrater](/img/user/_resources/1p-v25-1-6.jpeg){width=60%}
 
 Ovenfor ser du tre figurer. Figurene er satt sammen av små grønne kvadrater. Tenk deg at du skal fortsette å lage figurer etter samme mønster.
 
@@ -225,7 +225,7 @@ b) $F_{n}=n^{2}+2n+1$
 ### b
 Jeg deler opp figuren i tre deler, se figuren
 
-![Oppdeling av figurtall](/img/user/_resources/1p-v25-1-6-losn.png)
+![Oppdeling av figurtall](/img/user/_resources/1p-v25-1-6-losn.png){width=50%}
 
 Jeg ser at kvadratet har størrelse $\textcolor{maroon}{n^{2}}$, den høyre siden har lengde $\textcolor{tomato}{n}$ og den siste delen har lengde $\textcolor{seagreen}{n+1}$. Antall kvadrater er summen av disse 3 delene.
 $$
@@ -292,7 +292,7 @@ Nora bestemmer seg for å kjøpe en bøtte og fylle den med godteri. Hun ser at 
 
 Nedenfor ser du en modell som illustrerer dette.
 
-![Graf over pris for bøtte med godteri](/img/user/_resources/1p-v25-1-8-1.jpeg)
+![Graf over pris for bøtte med godteri](/img/user/_resources/1p-v25-1-8-1.jpeg){width=60%}
 
 Modellen kan uttrykkes på formen
 
@@ -444,7 +444,7 @@ $$
 
 # Dagbladet Lørdag uten rabatt
 
-![Dagbladet Lørdag med Magasinet – tilbud fra Bladkongen](/img/user/_resources/1p-v25-2-4.jpeg)
+![Dagbladet Lørdag med Magasinet – tilbud fra Bladkongen](/img/user/_resources/1p-v25-2-4.jpeg){width=45%}
 
 Informasjonen ovenfor er hentet fra nettsidene til Bladkongen.
 
@@ -488,11 +488,11 @@ Hun finner informasjonen nedenfor på nettsiden til en byggevareforhandler. Tykk
 
 <!-- two-column start left-width=50% -->
 
-![Furu 28×145](/img/user/_resources/1p-v25-2-5-1.jpeg)
+![Furu 28×145](/img/user/_resources/1p-v25-2-5-1.jpeg){width=100%}
 
 ---
 
-![Furu 28×095](/img/user/_resources/1p-v25-2-5-2.jpeg)
+![Furu 28×095](/img/user/_resources/1p-v25-2-5-2.jpeg){width=100%}
 
 <!-- two-column stop -->
 
@@ -518,7 +518,7 @@ Hun finner informasjonen nedenfor på nettsiden til en byggevareforhandler. Tykk
 
 Isabel er industridesigner. Hun arbeider med et design på bokser med form som sylindre.
 
-![Sylinder](/img/user/_resources/1p-v25-2-6.jpeg)
+![Sylinder](/img/user/_resources/1p-v25-2-6.jpeg){width=30%}
 
 > [!tip] Formler for sylinderboksene
 >
@@ -569,7 +569,7 @@ Sofie kjøper en bagett med smør, ost, skinke, tomat og salat i kantina på sko
 
 Sofie vurderer om hun heller skal kjøpe bagetter i en butikk, smøre dem selv og ta dem med på skolen.
 
-![Priser på ingredienser til bagett](/img/user/_resources/1p-v25-2-7.png)
+![Priser på ingredienser til bagett](/img/user/_resources/1p-v25-2-7.png){width=70%}
 
 >[!oppgave]
 >Gjør nødvendige antakelser og finn ut hvor mye Sofie vil kunne spare i løpet av en måned dersom hun kjøper bagetter i en butikk og smører dem selv.

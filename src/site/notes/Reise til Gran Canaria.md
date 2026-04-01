@@ -8,7 +8,7 @@
 Ida og Alex vil bestille en flyreise til Gran Canaria, se bildet.  
 Prisen er totalt 14 812 kroner tur-retur for to personer.
 
-![Flytider til Gran Canaria](/img/user/_resources/fly-granca.png)
+![Flytider til Gran Canaria](/img/user/_resources/fly-granca.png){width=50%}
 
 De vil bo på hotell på Gran Canaria. Prisen for ett rom til to personer er 84 euro per natt.
 

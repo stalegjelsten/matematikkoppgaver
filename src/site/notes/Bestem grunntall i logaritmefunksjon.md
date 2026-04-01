@@ -9,7 +9,7 @@ I koordinatsystemet nedenfor ser du grafen til en funksjon $f$ gitt ved
 
 $$f(x) = \log_a(x)$$
 
-![Graf av logaritmefunksjon med ukjent grunntall](/img/user/_resources/s1-h24-2-3.jpeg)
+![Graf av logaritmefunksjon med ukjent grunntall](/img/user/_resources/s1-h24-2-3.jpeg){width=60%}
 
 >[!oppgave]
 >Bestem $a$. Husk å argumentere for at svaret ditt er riktig.

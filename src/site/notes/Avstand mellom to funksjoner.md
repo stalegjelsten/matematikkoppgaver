@@ -11,7 +11,7 @@ $$f(x) = 2x + 8$$
 
 $$g(x) = x^3 - x^2 - 4x + 8$$
 
-![Sara sine grafer til f og g](/img/user/_resources/1t-h23-2-5.jpeg)
+![Sara sine grafer til f og g](/img/user/_resources/1t-h23-2-5.jpeg){width=70%}
 
 Linjen $x = 1$ skjærer grafen til $f$ i punktet $P$ og grafen til $g$ i punktet $Q$.
 

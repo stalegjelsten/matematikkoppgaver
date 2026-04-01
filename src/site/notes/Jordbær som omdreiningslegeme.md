@@ -14,10 +14,10 @@
 
 <!-- gap:0.7cm -->
 
-![Tverrsnitt av jordbær i målestokk 1:1](/img/user/_resources/r2-h24-2-3-1.jpeg)
+![Tverrsnitt av jordbær i målestokk 1:1](/img/user/_resources/r2-h24-2-3-1.jpeg){width=65%}
 
 ---
-![Linjal i målestokk 1:1](/img/user/_resources/r2-h24-2-3-2.jpeg)
+![Linjal i målestokk 1:1](/img/user/_resources/r2-h24-2-3-2.jpeg){width=20%}
 
 <!-- two-column stop -->
 
@@ -31,11 +31,11 @@ $V \approx 35 \, \mathrm{cm}^3$ (avhenger av målinger fra bildet)
 
 ## Løsningsforslag
 
-Vi legger et koordinatsystem med origo spissen på jordbæret og måler avstanden fra $x$-aksen til kanten av jordbæret. Jeg har gjort dette i GeoGebra ved å sette ut punkter, se figuren-jordbar.
+Vi legger et koordinatsystem med origo spissen på jordbæret og måler avstanden fra $x$-aksen til kanten av jordbæret. Jeg har gjort dette i GeoGebra ved å sette ut punkter, se figur &fig:regresjon-jordbar.
 
 Jeg valgte en andregradsmodell siden denne passet «godt nok». Vi ser at modellen følger omrisset av jordbæret relativt godt fram til punkt $H$. Vi underestimerer volumet mellom $C$ og $D$, men vi overestimerer mellom $D$ og $E$. Jeg setter integrasjonsgrensen til 3,65 cm siden toppen av jordbæret «bøyer seg tilbake» inn mot stilkfestet.
 
-![Regresjon og beregning av volum i GeoGebra](/img/user/_resources/r2-h24-2-3-regresjon.png)
+![Regresjon og beregning av volum i GeoGebra](/img/user/_resources/r2-h24-2-3-regresjon.png){width=70% #fig:regresjon-jordbar}
 
 Jeg beregner volumet som et omdreiningslegeme med $\pi \int_{a}^{b} \left( f(x) \right)^{2} \, \mathrm{d}x$ i GeoGebra.
 

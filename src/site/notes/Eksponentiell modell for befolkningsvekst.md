@@ -44,7 +44,7 @@ $$\underline{\underline{F(t) \approx 820{,}6 \cdot 1{,}051^t}}$$
 
 Grafen under viser at kurven passer godt til datapunktene ($R^2 \approx 0{,}99$):
 
-![Regresjonsmodell og datapunkter for oppgave 2-1a](/img/user/_resources/s1-h25-2-1-a-graf.png)
+![Regresjonsmodell og datapunkter for oppgave 2-1a](/img/user/_resources/s1-h25-2-1-a-graf.png){width=70%}
 
 **Gyldighetsområde:** Modellen passer for dataene i perioden 1910–1935, det vil si $t \in [0, 25]$. Utenfor dette tidsrommet kan vekstmønsteret endre seg og modellen mister gyldighet.
 
@@ -56,7 +56,7 @@ $$F'(t) = 820{,}6 \cdot 1{,}051^t \cdot \ln(1{,}051)$$
 
 Vi løser $F'(t) = 80$ i GeoGebra CAS:
 
-![GeoGebra CAS løsning for oppgave 2-1b](/img/user/_resources/s1-h25-2-1-b-CAS.png)
+![GeoGebra CAS løsning for oppgave 2-1b](/img/user/_resources/s1-h25-2-1-b-CAS.png){width=60%}
 
 CAS gir $t \approx 13{,}5$, dvs. fra og med $t = 14$ (år **1924**).
 
@@ -70,7 +70,7 @@ $$\frac{F(t) - 820{,}6}{t} = 80$$
 
 i GeoGebra CAS:
 
-![GeoGebra CAS løsning for oppgave 2-1c](/img/user/_resources/s1-h25-2-1-c-CAS.png)
+![GeoGebra CAS løsning for oppgave 2-1c](/img/user/_resources/s1-h25-2-1-c-CAS.png){width=60%}
 
 CAS gir $t \approx 24{,}6$, så vi runder opp til $t = 25$.
 

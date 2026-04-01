@@ -44,7 +44,7 @@ Jeg ser at hele figuren er rektangler som øker med 2 i bredden og 1 i høyden f
 ### 1-6b
 Antallet hvite kvadrater øker med 3 for hver figur, og det starter på 1. 
 
-![Oppdeling av figur 3 i oppgave 1-6b](/img/user/_resources/2py-v25-1-6b.png)
+![Oppdeling av figur 3 i oppgave 1-6b](/img/user/_resources/2py-v25-1-6b.png){width=50% #fig:16b}
 
 I figuren over har jeg delt opp figur nr 3 i 4 ulike deler. Jeg ser at vi har tre like deler med lengde 2 merket med lilla farge. Disse er altså 1 mindre enn figurtallet. I tillegg har vi en ekstra hvit rute som er fast i alle figurene, merket med rød farge. For figur 3 kunne vi altså skrevet opp antallet som $3 \cdot 2 + 1$ eller ved å bruke figurnummeret $\textcolor{seagreen}{3}$ kunne vi skrevet $3 \cdot (\textcolor{seagreen}{3}-1) + 1$. Et generelt uttrykk for hvite ruter i figur nummer $n$ blir derfor
 $$
@@ -73,6 +73,6 @@ $$
 \underline{\underline{G_{n}=2n^{2}+2n+4}}
 $$
 
-![Oppdeling av figur 3 i oppgave 1-6c](/img/user/_resources/2py-v25-1-6-a.png)
+![Oppdeling av figur 3 i oppgave 1-6c](/img/user/_resources/2py-v25-1-6-a.png){width=50%}
 
 Vi kunne også funnet formelen for antallet grønne felter ved å dele opp de grønne feltene i mindre deler, se figuren.

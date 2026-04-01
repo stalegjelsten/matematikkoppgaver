@@ -11,7 +11,7 @@ Et punkt $B$ på grafen til $f$ er plassert slik at tangenten til grafen i punkt
 
 Punktet $C$ er plassert på linja $y = x$ slik at $\angle ACB = 90\degree$.
 
-![Grafen til f(x) = ln x med punkt B, tangent og trekant ABC](/img/user/_resources/r1-v25-2-5.jpeg)
+![Grafen til f(x) = ln x med punkt B, tangent og trekant ABC](/img/user/_resources/r1-v25-2-5.jpeg){width=60%}
 
 >[!oppgave]
 >a) Bestem eksakte verdier for koordinatene til punktet $B$.

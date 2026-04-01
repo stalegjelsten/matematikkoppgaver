@@ -5,7 +5,7 @@
 
 # Femkanttall og programmering
 
-![De 4 første femkanttallene](/img/user/_resources/1t-h25-1-6.jpeg)
+![De 4 første femkanttallene](/img/user/_resources/1t-h25-1-6.jpeg){width=60%}
 
 Siri arbeider med femkanttall. Hun har oppdaget en sammenheng og laget programmet nedenfor.
 

@@ -85,7 +85,7 @@ Regn ut integralene
 
 Punktene $A(0,0,0)$, $B(5,0,0)$, $C(4,2,0)$ og $T(0,0,5)$ danner en pyramide, slik figuren viser.
 
-![Pyramide med punktene A, B, C og T](/img/user/_resources/r2-v23-1-3.jpeg)
+![Pyramide med punktene A, B, C og T](/img/user/_resources/r2-v23-1-3.jpeg){width=60%}
 
 >[!oppgave]
 >a) Regn ut volumet av pyramiden.
@@ -150,7 +150,7 @@ I denne oppgaven skal du vise at $\lim_{v \to 0^+} \dfrac{\sin v}{v} = 1$.
 
 I figuren nedenfor er $AB = AD = 1$, og buen $BD$ er del av en sirkel med sentrum i $A$. Vi lar $\angle BAC = v$ (målt i radianer).
 
-![Figur til grenseverdibevis](/img/user/_resources/r2-v23-1-5.jpeg)
+![Figur til grenseverdibevis](/img/user/_resources/r2-v23-1-5.jpeg){width=60%}
 
 >[!oppgave]
 >a) Bruk arealbetraktninger til å begrunne at
@@ -214,12 +214,12 @@ Logistiske funksjoner flater ut ved en horisontal asymptote (i dette tilfellet 6
 
 *Kommentar: Man kan også argumentere for andre regresjonsmodeller, f.eks. vil en tredjegradsmodell passe fint. Vær imidlertid klar over at tredjegradsmodellen sannsynligvis vil ha et mindre gyldighetsområde siden denne har negativ vekstfart både før 2008 og etter 2018. Sensorveiledninga sier at flere ulike modeller kan gi full uttelling så lenge de begrunnes godt.* 
 
-![Regresjon på størrelsen av musikkmarkedet](/img/user/_resources/s2-v23-del2-oppg-2a.png)
+![Regresjon på størrelsen av musikkmarkedet](/img/user/_resources/s2-v23-del2-oppg-2a.png){width=60%}
 
 ### 2-2b
 Se utklippet fra CAS.
 
-![Beregning av verdier i CAS](/img/user/_resources/s2-v23-del2-oppg-2b.png.png)
+![Beregning av verdier i CAS](/img/user/_resources/s2-v23-del2-oppg-2b.png.png){width=40%}
 
 $$
 \begin{aligned}
@@ -370,7 +370,7 @@ $$f(x) = \frac{2 - \cos x}{\sin x}, \quad D_f = \left[\frac{\pi}{4}, \frac{3\pi}
 
 Vi roterer grafen til $f$ om $x$-aksen.
 
-![Omdreiingslegemet til f](/img/user/_resources/r2-v23-2-5.jpeg)
+![Omdreiingslegemet til f](/img/user/_resources/r2-v23-2-5.jpeg){width=60%}
 
 >[!oppgave]
 >a) Bestem volumet av omdreiingslegemet vi da får.
@@ -399,7 +399,7 @@ Omdreiingslegemet skal plasseres i en rett kjegle med radius 4 og volum 45.
 
 For en deriverbar funksjon $f$ kan vi finne en tilnærmet verdi for lengden av grafen mellom to $x$-verdier ved å bruke en polylinje, slik figuren nedenfor illustrerer.
 
-![Polylinje langs graf](/img/user/_resources/r2-v23-2-6.jpeg)
+![Polylinje langs graf](/img/user/_resources/r2-v23-2-6.jpeg){width=70%}
 
 Dersom vi skal finne lengden av grafen i et intervall $[a,b]$, kan vi dele dette intervallet i $N$ like store delintervall $[x_i, x_{i+1}]$ med bredde $h = \dfrac{b-a}{N}$ og $x_i = a + i \cdot h$.
 
@@ -409,7 +409,7 @@ Vi regner da ut lengdene av linjestykkene som går mellom punktene $(x_i, f(x_i)
 >a) Forklar at lengden av linjestykket som går fra punktet $(x_i, f(x_i))$ til punktet $(x_{i+1}, f(x_{i+1}))$, er gitt ved
 >$$S_i = \sqrt{h^2 + k_i^2}, \quad \text{der } k_i = f(x_{i+1}) - f(x_i)$$
 
-![Illustrasjon av Si, ki og h](/img/user/_resources/r2-v23-2-6-2.jpeg)
+![Illustrasjon av Si, ki og h](/img/user/_resources/r2-v23-2-6-2.jpeg){width=40%}
 
 Funksjonen $g$ er gitt ved
 

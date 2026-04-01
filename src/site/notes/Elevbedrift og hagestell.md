@@ -7,7 +7,7 @@
 
 Elevene Tonje og Jakob har startet en elevbedrift som skal hjelpe folk med hagestell. De har laget et diagram som viser innkjøpskostnadene de forventer til oppdraget.
 
-![Diagram over innkjøpskostnader](/img/user/_resources/1py-na-h25-1-5.jpeg)
+![Diagram over innkjøpskostnader](/img/user/_resources/1py-na-h25-1-5.jpeg){width=60%}
 
 >[!blue-box] Tonje og Jakob
 >Hva blir total innkjøpskostnad for oppdraget?

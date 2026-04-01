@@ -49,7 +49,7 @@ $$
 1{,}28x+8=17
 $$
 
-![Løsning av 2-5b i CAS](/img/user/_resources/2py-v25-2-5b.png)
+![Løsning av 2-5b i CAS](/img/user/_resources/2py-v25-2-5b.png){width=50%}
 
 **Det tar 7 uker før skjerfet er 17 meter langt ifølge modellen.**
 

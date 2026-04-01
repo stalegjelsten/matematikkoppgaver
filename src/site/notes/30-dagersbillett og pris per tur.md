@@ -43,7 +43,7 @@ Prisen per busstur er $\dfrac{1200}{x}$ der $x$ er antall turer.
 
 Grafen nedenfor viser sammenhengen mellom antall bussturer og prisen per busstur. Funksjonen er $f(x) = \dfrac{1200}{x}$.
 
-![Graf: pris per tur](/img/user/_resources/1p-h25-1-6-graf.png)
+![Graf: pris per tur](/img/user/_resources/1p-h25-1-6-graf.png){width=70%}
 
 ### 1-6c
 

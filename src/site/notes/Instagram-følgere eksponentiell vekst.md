@@ -32,7 +32,7 @@ c) 43,6 % flere følgere
 ### 2-4a
 Vi lar $x$ være antall måneder etter november og bruker regresjon i GeoGebra. Siden modellen skal stige med 35 % per måned bør vi velge eksponentiell modell, siden disse vokser med en fast prosent.
 
-![Regresjon i GeoGebra av Tuvas følgere](/img/user/_resources/2py-v24-2-4a.png)
+![Regresjon i GeoGebra av Tuvas følgere](/img/user/_resources/2py-v24-2-4a.png){width=100%}
 
 **Modellen $f(x)=5244 \cdot 1{,}35^{x}$ er en modell som vokser med 35 % per måned, og som kan være modellen Tuva har brukt.**
 

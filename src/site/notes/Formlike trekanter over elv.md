@@ -5,7 +5,7 @@
 
 # Formlike trekanter over elv
 
-![Skisse av elv med punktene A, B, C, D og E markert](/img/user/_resources/2p-v25-2-3.jpeg)
+![Skisse av elv med punktene A, B, C, D og E markert](/img/user/_resources/2p-v25-2-3.jpeg){width=60%}
 
 Kari skal over en elv. Hun har laget skissen ovenfor. Avstanden fra $A$ til $D$ er $5 \mathrm{~m}$, avstanden fra $D$ til $E$ er $10 \mathrm{~m}$, og avstanden fra $B$ til $C$ er $40 \mathrm{~m}$.
 

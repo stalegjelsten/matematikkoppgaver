@@ -5,7 +5,7 @@
 
 # Areal og omkrets av halvsirkel og trekant
 
-![Figur: halvsirkel med radius r og likebeint trekant ABC med høyde h](/img/user/_resources/2p-v25-1-4.jpeg)
+![Figur: halvsirkel med radius r og likebeint trekant ABC med høyde h](/img/user/_resources/2p-v25-1-4.jpeg){width=60%}
 
 Et område har form som en halvsirkel med radius $r = 1{,}0 \mathrm{~m}$. Et annet område har form som en likebeint trekant $ABC$, der $AB = 3{,}0 \mathrm{~m}$ og høyden $h = 1{,}0 \mathrm{~m}$. Se figurene ovenfor.
 

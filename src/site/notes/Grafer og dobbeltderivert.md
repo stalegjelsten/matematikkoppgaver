@@ -11,7 +11,7 @@ Nedenfor ser du åtte grafer.
 - Tre av grafene er grafer til funksjoner på formen $x^b - c$, der $b$ og $c$ er positive hele tall.
 - Fire av grafene er grafene til den dobbeltderiverte til de fire funksjonene som er beskrevet ovenfor.
 
-![Åtte grafer](/img/user/_resources/r1-h25-2-6.jpeg)
+![Åtte grafer](/img/user/_resources/r1-h25-2-6.jpeg){width=100%}
 
 >[!oppgave]
 >a) Sorter grafene i par.

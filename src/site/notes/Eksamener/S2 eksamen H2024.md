@@ -231,7 +231,7 @@ $\mathrm{Var}(X)=4$
 
 ## Løsningsforslag
 
-<p style="text-align:center;">Tabell: Sannsynlighetsfordelingen til oppgave 1-3</p>
+Table: Sannsynlighetsfordelingen til oppgave 1-3 {#tbl:sshfordeling}
 
 |            $x$             |           0            |            1            |            4            |           $b$           |
 | :------------------------: | :--------------------: | :---------------------: | :---------------------: | :---------------------: |
@@ -240,7 +240,7 @@ $\mathrm{Var}(X)=4$
 |       $(x-\mu)^{2}$        |       $(-2)^2=4$       |         $1^2=1$         |         $2^2=4$         |       $4^{2}=16$        |
 | $(x-\mu)^{2} \cdot P(X=x)$ | $4\cdot 0{,}30 =1{,}2$ | $1 \cdot 0{,}40=0{,}40$ | $4 \cdot 0{,}10=0{,}40$ | $16 \cdot 0{,}20=3{,}2$ |
 
-Vi vet at forventningsverdien er summen av produktene av $x \cdot P(X=x)$, se rad 2 i tabellen. Det betyr at
+Vi vet at forventningsverdien er summen av produktene av $x \cdot P(X=x)$, se rad 2 i tabell &tbl:sshfordeling. Det betyr at
 $$
 0+0{,}40+0{,}40+0{,}20b = 2 \iff 0{,}20 b = 1{,}2 \iff b=6
 $$
@@ -459,7 +459,7 @@ En logistisk modell vil passe godt for denne typen situasjon, siden veksten vil 
 
 ### 2-1b
 
-![Løsning av oppgave 1a og 1b del 2 i CAS](/img/user/_resources/s2-h24-2-1.png)
+![Løsning av oppgave 1a og 1b del 2 i CAS](/img/user/_resources/s2-h24-2-1.png){width=50%}
 
 Vi vet at funksjonen vokser raskest i vendepunktet, så vi finner dette med GeoGebra i linje 2. $t=10{,}43$ tilsvarer at vi er omtrent midtveis i den ellevte uka. Økningen i vendepunktet er det samme som den deriverte til funksjonen i vendepunktet, se linje 3 i GeoGebra.
 
@@ -489,7 +489,7 @@ Vi løser likningen i linje 4 i GeoGebra, og finner at **det tar omtrent 11,19 u
 > 
 > Hvis vi bruker $\int_{4}^{5} L(t) \, dt$ for å finne ut hvor langt Marco har løpt i uke 5, så vil alle verdiene for $L(t)$ være lavere enn $L(5)$ siden grafen stiger i hele intervallet. Dermed underestimerer vi Marcos løpsdistanse. Ved å heller flytte grensene til $\int_{4{,}5}^{5{,}5} L(t) \, dt$ så vil $L(t)<L(5)$ for $t \in [4{,}5 , 5 \rangle$ og $L(t)>L(5)$ for $t \in \langle 5 , 5{,}5]$. Dermed vil underestimeringen i intervallet $t \in [4{,}5 , 5 \rangle$ «jevnes ut» av overestimeringen i intervallet $t \in \langle 5 , 5{,}5]$.
 > 
-> ![](/img/user/_resources/s2-h24-2-1c-forklaring.png)
+> ![](/img/user/_resources/s2-h24-2-1c-forklaring.png){width=100%}
 
 
 </div></div>
@@ -541,7 +541,7 @@ $$
 
 ### 2-2b
 
-![Hypergeometrisk hypotesetest i GeoGebra til oppgave 2-2](/img/user/_resources/s2-h24-2-2-hypotesetest.png)
+![Hypergeometrisk hypotesetest i GeoGebra til oppgave 2-2](/img/user/_resources/s2-h24-2-2-hypotesetest.png){width=70%}
 
 I GeoGebra har vi satt opp en hypergeometrisk fordeling med 100 kandidater hvorav 40 er menn. Vi velger 20 tilfeldige kandidater. Sannsynligheten for at minst 12 av disse er menn er $P(X\geq12) = 0{,}038$.
 
@@ -631,13 +631,13 @@ Påstanden er sann
 
 $f$ og $g$ kommer til å avgrense maksimalt 2 områder siden $f$ er en tredjegradsfunksjon og $g$ er en andregradsfunksjon. For å finne disse to områdene må vi først finne skjæringspunktene mellom grafene.
 
-![Bestemmelse av skjæringspunktet mellom funksjoner i CAS](/img/user/_resources/s2-h24-2-3b-1.png)
+![Bestemmelse av skjæringspunktet mellom funksjoner i CAS](/img/user/_resources/s2-h24-2-3b-1.png){width=50%}
 
 Jeg fant skjæringspunktene i GeoGebra. (*Vi ser her at kravet om at $a>-1$ gjør at vi får reelle løsninger*).
 
 La oss undersøke arealet av områdene som er avgrenset. Jeg gjør dette i GeoGebra ved å integrere fra skjæringspunkt til skjæringspunkt ved hjelp av `IntegralMellom`.
 
-![Bestemmelse av arealet mellom grafene](/img/user/_resources/s2-h24-2-3b-2.png)
+![Bestemmelse av arealet mellom grafene](/img/user/_resources/s2-h24-2-3b-2.png){width=50%}
 
 **Påstanden stemmer. Vi ser at arealene mellom grafene er like store.**
 
@@ -688,7 +688,7 @@ $$
 
 ### 2-4b
 
-![Program for å regne ut ledd i rekke](/img/user/_resources/s2-h24-2-4b.png)
+![Program for å regne ut ledd i rekke](/img/user/_resources/s2-h24-2-4b.png){width=60%}
 
 Jeg brukte en `for`-løkke til å regne meg fram til delsummen til ledd nummer 30 og skrev ut svarene i konsollen. 
 
@@ -770,7 +770,7 @@ c) 24 år
 
 ## Løsningsforslag
 
-![Løsning av oppgave 5 del 2 i CAS](/img/user/_resources/s2-h24-2-5-cas.png)
+![Løsning av oppgave 5 del 2 i CAS](/img/user/_resources/s2-h24-2-5-cas.png){width=80%}
 
 a) Summen av nåverdiene til terminbeløpene skal være lik lånebeløpet ved annuitetslån. Terminbeløpet er ukjent, og dette ble funnet i linje 1 i GeoGebra. **Lånebeløpet er 53 437 kr.**
 b) Summen av nåverdiene til terminbeløpene skal være lik lånebeløpet ved annuitetslån. Vekstfaktoren er ukjent, og denne ble funnet i linje 2 i GeoGebra. **Rentesatsen må være 4,416 %.**
@@ -845,7 +845,7 @@ $$
 ### 2-6b
 Vi lar etterspørselen $E(p)$ være lik $x$ (antall solgte varer), og løser med hensyn på $p$, se linje 3 i GeoGebra. 
 
-![Løsning av oppgave 6 del 2 i CAS](/img/user/_resources/s2-h24-2-6.png)
+![Løsning av oppgave 6 del 2 i CAS](/img/user/_resources/s2-h24-2-6.png){width=50%}
 
 Inntektene er gitt ved antall solgte varer $\times$ prisen per vare.
 $$

@@ -43,7 +43,7 @@ Vi bruker kalkulator (regresjon med potensmodell) på datapunktene:
 
 Regresjonen gir $a \approx 10$ og $b \approx 0{,}334$.
 
-![Regresjonsmodell og datapunkter for oppgave 2-6a](/img/user/_resources/2p-y-h24-2-6-a-graf.png)
+![Regresjonsmodell og datapunkter for oppgave 2-6a](/img/user/_resources/2p-y-h24-2-6-a-graf.png){width=70%}
 
 Grafen viser at modellen passer godt til datapunktene.
 
@@ -53,7 +53,7 @@ Grafen viser at modellen passer godt til datapunktene.
 
 Vi vil finne $x$ slik at $L(x) = 45$. Vi tegner linjen $y = 45$ og finner skjæringspunktet med $L(x)$:
 
-![Graf av $L(x) = 10 \cdot x^
+![Graf av $L(x) = 10 \cdot x^{0{,}334}$ med linjen $y = 45$](/img/user/_resources/2p-y-h24-2-6-b-graf.png){width=70%}
 
 Fra grafen leser vi av at $L(x) = 45$ når $x \approx 91$ dager.
 

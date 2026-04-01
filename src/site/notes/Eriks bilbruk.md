@@ -8,7 +8,7 @@
 
 Erik vil kjøpe ny elbil. Elbilen koster 685 000 kroner. Regnearket nedenfor viser kostnadene han må regne med det første året dersom han kjører 15 000 km.
 
-![Oversikt over Eriks bilkostnader](/img/user/_resources/eriks-bilkjoring.png)
+![Oversikt over Eriks bilkostnader](/img/user/_resources/eriks-bilkjoring.png){width=40%}
 
 > [!oppgave]
 >  a) Lag et regneark som vist ovenfor. Lag formler i de grønne cellene slik at du finner totale kostnader første år og kostnader per kjørte kilometer.

@@ -61,7 +61,7 @@ $$
 <path style="fill:none;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 64 704 L 64 711.175781 L 71.152344 711.175781 L 71.152344 704 Z M 64 704 " transform="matrix(1,0,0,-1,-28,785)"/>
 </g>
 </svg>
-
+{width=25%}
 
 ## Fasit
 

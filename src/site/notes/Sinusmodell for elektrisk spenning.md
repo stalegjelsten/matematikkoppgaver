@@ -40,7 +40,7 @@ c) $U_{\text{effektiv}} = \dfrac{323}{\sqrt{2}} \approx 229 \, \mathrm{V} \appro
 
 Vi legger inn datapunktene i GeoGebra og bruker `RegSin` til å finne en sinusmodell:
 
-![Regresjonsmodell og datapunkter for oppgave 2-2a](/img/user/_resources/r2-h25-2-2-a-graf.png)
+![Regresjonsmodell og datapunkter for oppgave 2-2a](/img/user/_resources/r2-h25-2-2-a-graf.png){width=70%}
 
 `RegSin` gir
 

@@ -22,7 +22,7 @@ En av pyramidene har et volum på $9 \mathrm{~dm^3}$.
 
 ---
 
-![Pyramide](/img/user/_resources/1p-h25-1-4.jpeg)
+![Pyramide](/img/user/_resources/1p-h25-1-4.jpeg){width=100%}
 
 <!-- two-column stop -->
 

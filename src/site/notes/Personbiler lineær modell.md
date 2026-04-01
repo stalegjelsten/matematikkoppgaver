@@ -30,6 +30,6 @@ I 2030 er $x = 28$:
 
 $$P(28) = 1{,}9 + 0{,}05 \cdot 28 = 1{,}9 + 1{,}4 = 3{,}3$$
 
-![Lineær modell for personbiler](/img/user/_resources/2p-y-h23-1-2-graf.png)
+![Lineær modell for personbiler](/img/user/_resources/2p-y-h23-1-2-graf.png){width=70%}
 
 **Ifølge modellen vil det være $\underline{\underline{3{,}3 \text{ millioner}}}$ registrerte personbiler i Norge i 2030.**

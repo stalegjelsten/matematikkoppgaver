@@ -114,7 +114,7 @@ $$
 
 Nedenfor ser du en grafisk framstilling av sammenhengen:
 
-![Graf for oppgave 1-2](/img/user/_resources/2p-y-v23-1-2-graf.png)
+![Graf for oppgave 1-2](/img/user/_resources/2p-y-v23-1-2-graf.png){width=70%}
 
 Jo flere personer som baker, jo mindre deig får hver person. Kurven er en omvendt proporsjonal funksjon.
 
@@ -196,7 +196,7 @@ $$
 
 # Mønster med sirkler i figurer
 
-![De første 3 figurene](/img/user/_resources/2py-v23-1-4.png)
+![De første 3 figurene](/img/user/_resources/2py-v23-1-4.png){width=40%}
 
 Ovenfor ser du tre figurer. Figurene er satt sammen av små sirkler. Tenk deg at du skal fortsette å lage figurer etter samme mønster.
 
@@ -701,7 +701,7 @@ $$
 
 Modellen passer svært godt til dataene ($R^2 \approx 1{,}00$):
 
-![Regresjonsmodell og datapunkter for oppgave 2-7a](/img/user/_resources/2p-y-v23-2-7-a-graf.png)
+![Regresjonsmodell og datapunkter for oppgave 2-7a](/img/user/_resources/2p-y-v23-2-7-a-graf.png){width=70%}
 
 **En modell for sammenhengen er $\underline{\underline{P(x) = 2060 \cdot x^{0{,}64}}}$.**
 

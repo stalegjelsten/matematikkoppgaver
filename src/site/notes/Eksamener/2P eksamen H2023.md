@@ -215,7 +215,7 @@ Selma og Tobine arbeider med likningene ovenfor.
 
 # Vase og roser likningssystem
 
-![Vaser og roser](/img/user/_resources/2p-h23-2-1.jpeg)
+![Vaser og roser](/img/user/_resources/2p-h23-2-1.jpeg){width=80%}
 
 >[!oppgave]
 >Hvor mye koster en vase?
@@ -422,7 +422,7 @@ Nedenfor presenteres datamaterialet med beregninger og to diagrammer.
 
 - Andelen menn økte fra $\dfrac{2\,232}{19\,725} \approx 11{,}3 \,\%$ i 2015 til $\dfrac{7\,317}{47\,789} \approx 15{,}3 \,\%$ i 2022.
 
-![Helsefagarbeidere 2015–2022](/img/user/_resources/2p-y-h23-2-6-graf.png)
+![Helsefagarbeidere 2015–2022](/img/user/_resources/2p-y-h23-2-6-graf.png){width=85%}
 
 **Kommentarer til diagrammene:**
 
@@ -444,7 +444,7 @@ Nedenfor presenteres datamaterialet med beregninger og to diagrammer.
 
 # Kvadratserie geometrisk rekke
 
-![Kvadratserie](/img/user/_resources/2p-h23-2-7.jpeg)
+![Kvadratserie](/img/user/_resources/2p-h23-2-7.jpeg){width=80%}
 
 Tenk deg at du skal tegne en serie med kvadrater der
 

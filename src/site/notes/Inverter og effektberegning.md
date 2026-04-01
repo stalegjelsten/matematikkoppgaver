@@ -5,7 +5,7 @@
 
 # Inverter og effektberegning
 
-![Inverter](/img/user/_resources/1py-el-h23-2-1.jpeg)
+![Inverter](/img/user/_resources/1py-el-h23-2-1.jpeg){width=60%}
 
 En inverter omformer 12 V likestrøm, for eksempel fra et bilbatteri, til 230 V vekselstrøm. I denne oppgaven kan du få behov for formelen
 

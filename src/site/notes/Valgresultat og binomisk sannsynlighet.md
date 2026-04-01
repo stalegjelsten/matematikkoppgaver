@@ -14,7 +14,7 @@ I en valgkrets var det totalt 243 som stemte. Bildet viser en oversikt over de f
 
 Også her skal vi plukke ut 10 tilfeldige personer blant dem som stemte.
 
-![Valgresultat i valgkrets](/img/user/_resources/s1-v25-2-4.jpeg)
+![Valgresultat i valgkrets](/img/user/_resources/s1-v25-2-4.jpeg){width=60%}
 
 >[!oppgave]
 >b) Bestem sannsynligheten for at vi plukker ut minst 4 som stemte Arbeiderpartiet ved valget. Husk å begrunne valget av metoden du bruker for å regne ut sannsynligheten.

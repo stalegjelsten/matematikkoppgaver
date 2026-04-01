@@ -205,7 +205,7 @@ $$
 
 Figuren viser en enhetssirkel med et linjestykke $g$ som danner en vinkel $\alpha = 53°$ med $x$-aksen.
 
-![Enhetssirkel med vinkel α = 53°](/img/user/_resources/1py-v24-1-4.jpeg)
+![Enhetssirkel med vinkel α = 53°](/img/user/_resources/1py-v24-1-4.jpeg){width=60%}
 
 >[!oppgave]
 >a) Bruk figuren til å anslå en verdi for $\sin 53°$.
@@ -396,7 +396,7 @@ $$
 </g>
 </g>
 </svg>
-
+{width=30%}
 
 Figuren viser en effekttrekant som viser forholdet mellom de tre ulike effektene i en elektrisk motor og fasevinkelen $\phi$.
 
@@ -637,7 +637,7 @@ Chris finner ut at han heller vil spare 2300 kroner hver måned. Han har en spar
 > 
 > Husk å vise hvilke formler du bruker i regnearket.
 
-![Regneark som viser Chris' sparing](/img/user/_resources/chris-sparing.png)
+![Regneark som viser Chris' sparing](/img/user/_resources/chris-sparing.png){width=80% #fig:chris-sparing}
 
 ## Fasit
 
@@ -646,7 +646,7 @@ a) Vi sjekker prisen for alternativ 1 med 8 kjøretimer.
   **Pakkeløsningen i alternativ 2 er rimeligere.**
 b) Chris har lånt 25 000 kr og han betaler tilbake $12 \cdot 2321=27\,852 \mathrm{~kr}$. Differansen er $27\,852-25000=2852 \mathrm{~kr}$.  
 **Lånet koster 2852 kr.**
-c) ![](/img/user/_resources/chris-sparing-excel.png)  
+c) ![](/img/user/_resources/chris-sparing-excel.png){width=100%}  
 **Chris har 25 000 kr på kontoen etter han har satt inn sparebeløpet i måned 11.**
 
 ## Løsningsforslag
@@ -688,7 +688,7 @@ $$
 >[!note] Excel-oppgave
 >Denne oppgaven løses i Excel. Under er et eksempel på hvordan regnearket kan se ut.
 
-![Regneark for Chris' sparing](/img/user/_resources/chris-sparing-excel.png)
+![Regneark for Chris' sparing](/img/user/_resources/chris-sparing-excel.png){width=100%}
 
 Formlene i de grønne cellene er:
 

@@ -37,7 +37,7 @@ c) Nei, 149 581 kr
 
 ## Løsningsforslag
 
-![CAS-løsning av 2-4](/img/user/_resources/s2-v25-2-4-cas.png)
+![CAS-løsning av 2-4](/img/user/_resources/s2-v25-2-4-cas.png){width=70%}
 
 ### 2-4a
 Vi kaller det ukjente beløpet $B$. Nora skal sette inn $B$ på konto 30 ganger. Det siste beløpet skal ha fått renter i 1 år, mens det første beløpet skal ha fått renter i 30 år. 

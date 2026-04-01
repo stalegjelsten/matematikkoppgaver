@@ -5,7 +5,7 @@
 
 # Trigonometri med arealsetning og cosinus
 
-![Likesidet trekant med sidelengder 2](/img/user/_resources/1t-v25-1-5.jpeg)
+![Likesidet trekant med sidelengder 2](/img/user/_resources/1t-v25-1-5.jpeg){width=40%}
 
 >[!oppgave]
 >a) Bruk den likesidede trekanten ovenfor til å vise at $\sin 30\degree = \cos 60\degree = \dfrac{1}{2}$

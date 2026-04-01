@@ -5,7 +5,7 @@
 
 # Nedbetalingsplan for Marcos lån
 
-![Stolpediagram som viser avdrag og renter per termin over 10 år](/img/user/_resources/2p-v25-1-5.jpeg)
+![Stolpediagram som viser avdrag og renter per termin over 10 år](/img/user/_resources/2p-v25-1-5.jpeg){width=60%}
 
 Marco har tatt opp et lån med fast årlig rente. Lånet skal betales tilbake i løpet av 10 år, med én termin i året. Figuren ovenfor viser nedbetalingsplanen.
 

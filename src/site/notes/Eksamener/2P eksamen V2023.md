@@ -80,7 +80,7 @@ Du får vite følgende om $\triangle ABC$ og $\triangle DEF$:
 
 ## Fasit
 
-![Skisse av trekantene](/img/user/_resources/2p-v23-1-2.png)
+![Skisse av trekantene](/img/user/_resources/2p-v23-1-2.png){width=30%}
 
 ## Løsningsforslag
 
@@ -91,7 +91,7 @@ $$
 
 En enkel type likebeint trekant er rettvinklet med to like lange kateter. Da er det enkelt å lage trekantene formlike også. Se skissen under.
 
-![Skisse av trekantene](/img/user/_resources/2p-v23-1-2.png)
+![Skisse av trekantene](/img/user/_resources/2p-v23-1-2.png){width=30%}
 
 
 
@@ -148,7 +148,7 @@ $$g(x) = x^2 - 4x + 5$$
 
 $$h(x) = -x + 5$$
 
-![Graf med funksjonene f, g og h](/img/user/_resources/2p-v23-1-4.jpeg)
+![Graf med funksjonene f, g og h](/img/user/_resources/2p-v23-1-4.jpeg){width=50%}
 
 >[!oppgave]
 >a) Bruk en eller flere av funksjonene til å lage en likning som har to løsninger. Bruk den grafiske framstillingen til å løse likningen.
@@ -196,7 +196,7 @@ Vi ser at $f$ ligger over $g$ i hele intervallet mellom $x=1$ og $x=4$. Dermed k
 
 # Pris på T-skjorte og bukse
 
-![T-skjorter og bukser med priser](/img/user/_resources/2p-v23-2-1.jpeg)
+![T-skjorter og bukser med priser](/img/user/_resources/2p-v23-2-1.jpeg){width=60%}
 
 >[!oppgave]
 >Hvor mye koster en T-skjorte?

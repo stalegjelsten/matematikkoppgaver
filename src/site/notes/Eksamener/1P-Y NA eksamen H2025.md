@@ -80,7 +80,7 @@ $$\dfrac{120}{40} = \underline{\underline{ 3\mathrm{~min/km} }}$$
 
 Nora har tatt opp et lån med en fast årlig rente. Lånet skal betales tilbake i løpet av 5 år, med én termin i året. Figuren nedenfor viser nedbetalingsplanen.
 
-![Nedbetalingsplan for Noras lån](/img/user/_resources/1py-h25-1-2.jpeg)
+![Nedbetalingsplan for Noras lån](/img/user/_resources/1py-h25-1-2.jpeg){width=60%}
 
 >[!oppgave]
 >a) Er lånet et annuitetslån, eller er det et serielån? Husk å begrunne svaret.
@@ -173,7 +173,7 @@ $$10 = 14 - \frac{a}{3} \implies \frac{a}{3} = 4 \implies a = \underline{\underl
 
 Nedenfor ser du bilde av et rektangelformet fiskekar, fylt med leveringsklar skrei.
 
-![Fiskekar fylt med skrei](/img/user/_resources/1py-na-h25-1-4.jpeg)
+![Fiskekar fylt med skrei](/img/user/_resources/1py-na-h25-1-4.jpeg){width=60%}
 
 Fiskekaret har lengde 150 cm, bredde 100 cm og høyde 100 cm.
 
@@ -208,7 +208,7 @@ Denne dagen leverer en fiskebåt 2 tonn med skrei. De får betalt 150 000 kroner
 
 Elevene Tonje og Jakob har startet en elevbedrift som skal hjelpe folk med hagestell. De har laget et diagram som viser innkjøpskostnadene de forventer til oppdraget.
 
-![Diagram over innkjøpskostnader](/img/user/_resources/1py-na-h25-1-5.jpeg)
+![Diagram over innkjøpskostnader](/img/user/_resources/1py-na-h25-1-5.jpeg){width=60%}
 
 >[!blue-box] Tonje og Jakob
 >Hva blir total innkjøpskostnad for oppdraget?
@@ -247,7 +247,7 @@ Aina jobber som fisker i sitt eget enkeltpersonforetak.
 
 Regnearket nedenfor viser inntektene, kostnadene og arbeidstimene hennes for tre måneder.
 
-![Regneark](/img/user/_resources/1py-na-h25-2-1-regneark.jpeg)
+![Regneark](/img/user/_resources/1py-na-h25-2-1-regneark.jpeg){width=80%}
 
 >[!oppgave]
 >a) Lag et regneark som vist ovenfor. Lag formler i de grønne cellene slik at utregningene blir riktige. Husk å vise formlene du bruker i regnearket.
@@ -351,7 +351,7 @@ Ella sparer til bolig på en BSU-konto.
 >  a) Lag et regneark som vist nedenfor. Lag formler i de grønne cellene slik at utregningene blir riktige.  
 >  Husk å vise formlene du bruker i regnearket.
 
-![Regneark som viser Ellas sparing](/img/user/_resources/1py-v25-2-4.png)
+![Regneark som viser Ellas sparing](/img/user/_resources/1py-v25-2-4.png){width=50%}
 
 Ella er gift med Sverre. Paret ønsker å kjøpe en leilighet som koster 5 600 000 kroner.
 
@@ -373,7 +373,7 @@ b) $484\,000 \, \mathrm{kr}$
 ### a
 Se regnearket.
 
- ![Ellas sparing i BSU](/img/user/_resources/ellas-sparing.png)
+ ![Ellas sparing i BSU](/img/user/_resources/ellas-sparing.png){width=100%}
 
 ### b
 Vi kan sette opp

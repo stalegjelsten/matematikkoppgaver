@@ -7,7 +7,7 @@
 
 Nedenfor ser du bilde av et rektangelformet fiskekar, fylt med leveringsklar skrei.
 
-![Fiskekar fylt med skrei](/img/user/_resources/1py-na-h25-1-4.jpeg)
+![Fiskekar fylt med skrei](/img/user/_resources/1py-na-h25-1-4.jpeg){width=60%}
 
 Fiskekaret har lengde 150 cm, bredde 100 cm og høyde 100 cm.
 

@@ -5,7 +5,7 @@
 
 # Dagbladet Lørdag uten rabatt
 
-![Dagbladet Lørdag med Magasinet – tilbud fra Bladkongen](/img/user/_resources/1p-v25-2-4.jpeg)
+![Dagbladet Lørdag med Magasinet – tilbud fra Bladkongen](/img/user/_resources/1p-v25-2-4.jpeg){width=45%}
 
 Informasjonen ovenfor er hentet fra nettsidene til Bladkongen.
 

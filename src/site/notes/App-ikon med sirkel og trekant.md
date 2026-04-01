@@ -7,7 +7,7 @@
 
 Alvar designer en app og trenger en ikonografisk framstilling av en person. Denne lager han ved å sette sammen en sirkel og en trekant.
 
-![App-ikon](/img/user/_resources/1pyim-h25-1-5.jpeg)
+![App-ikon](/img/user/_resources/1pyim-h25-1-5.jpeg){width=40%}
 
 Alle sidene i trekanten er like lange, og de er dobbelt så lange som diameteren i sirkelen.
 

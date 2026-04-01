@@ -9,7 +9,7 @@ Nedenfor ser du grafen til funksjonen $f$ gitt ved
 
 $$f(x) = \frac{8}{x^2 + 20}$$
 
-![Graf til f med rektangel innskrevet](/img/user/_resources/1t-h23-2-7.jpeg)
+![Graf til f med rektangel innskrevet](/img/user/_resources/1t-h23-2-7.jpeg){width=70%}
 
 Rektangelet under grafen har hjørner i punktene $(0, 0)$, $(5, 0)$, $(5, f(5))$ og $(0, f(5))$.
 

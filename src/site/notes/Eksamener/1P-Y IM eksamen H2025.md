@@ -80,7 +80,7 @@ $$\dfrac{120}{40} = \underline{\underline{ 3\mathrm{~min/km} }}$$
 
 Nora har tatt opp et lån med en fast årlig rente. Lånet skal betales tilbake i løpet av 5 år, med én termin i året. Figuren nedenfor viser nedbetalingsplanen.
 
-![Nedbetalingsplan for Noras lån](/img/user/_resources/1py-h25-1-2.jpeg)
+![Nedbetalingsplan for Noras lån](/img/user/_resources/1py-h25-1-2.jpeg){width=60%}
 
 >[!oppgave]
 >a) Er lånet et annuitetslån, eller er det et serielån? Husk å begrunne svaret.
@@ -214,7 +214,7 @@ Hver MB er fremdeles 8 Mbit, derfor får vi $0{,}5 \mathrm{~ MB/s} \cdot 8 =\und
 
 Alvar designer en app og trenger en ikonografisk framstilling av en person. Denne lager han ved å sette sammen en sirkel og en trekant.
 
-![App-ikon](/img/user/_resources/1pyim-h25-1-5.jpeg)
+![App-ikon](/img/user/_resources/1pyim-h25-1-5.jpeg){width=40%}
 
 Alle sidene i trekanten er like lange, og de er dobbelt så lange som diameteren i sirkelen.
 
@@ -252,7 +252,7 @@ Vi skal analysere egenskapene til figuren og bruker disse verdiene i utregningen
 
 Stine jobber som mediedesigner i sitt eget enkeltpersonforetak. Regnearket nedenfor viser inntektene, kostnadene og arbeidstimene hennes for tre måneder.
 
-![Regneark](/img/user/_resources/1pyim-h25-2-1-regneark.jpeg)
+![Regneark](/img/user/_resources/1pyim-h25-2-1-regneark.jpeg){width=80%}
 
 >[!oppgave]
 >a) Lag et regneark som vist ovenfor. Lag formler i de grønne cellene slik at utregningene blir riktige. Husk å vise formlene du bruker i regnearket.
@@ -359,7 +359,7 @@ Ella sparer til bolig på en BSU-konto.
 >  a) Lag et regneark som vist nedenfor. Lag formler i de grønne cellene slik at utregningene blir riktige.  
 >  Husk å vise formlene du bruker i regnearket.
 
-![Regneark som viser Ellas sparing](/img/user/_resources/1py-v25-2-4.png)
+![Regneark som viser Ellas sparing](/img/user/_resources/1py-v25-2-4.png){width=50%}
 
 Ella er gift med Sverre. Paret ønsker å kjøpe en leilighet som koster 5 600 000 kroner.
 
@@ -381,7 +381,7 @@ b) $484\,000 \, \mathrm{kr}$
 ### a
 Se regnearket.
 
- ![Ellas sparing i BSU](/img/user/_resources/ellas-sparing.png)
+ ![Ellas sparing i BSU](/img/user/_resources/ellas-sparing.png){width=100%}
 
 ### b
 Vi kan sette opp

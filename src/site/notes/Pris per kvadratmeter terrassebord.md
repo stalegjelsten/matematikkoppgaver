@@ -11,11 +11,11 @@ Hun finner informasjonen nedenfor på nettsiden til en byggevareforhandler. Tykk
 
 <!-- two-column start left-width=50% -->
 
-![Furu 28×145](/img/user/_resources/1p-v25-2-5-1.jpeg)
+![Furu 28×145](/img/user/_resources/1p-v25-2-5-1.jpeg){width=100%}
 
 ---
 
-![Furu 28×095](/img/user/_resources/1p-v25-2-5-2.jpeg)
+![Furu 28×095](/img/user/_resources/1p-v25-2-5-2.jpeg){width=100%}
 
 <!-- two-column stop -->
 

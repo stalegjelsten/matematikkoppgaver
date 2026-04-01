@@ -309,7 +309,7 @@ La $X$ være summen av antall øyne på de fem terningene.
 
 Du skal lage en kasse uten lokk. Den skal ha form som et rett prisme. Grunnflaten i kassen skal være kvadratisk. For at vekten ikke skal bli for stor, kan ikke det samlede arealet av platene som brukes til å lage kassen, være mer enn 120 $\mathrm{dm^2}$.
 
-![Kasse uten lokk](/img/user/_resources/s1-h23-2-5.jpeg)
+![Kasse uten lokk](/img/user/_resources/s1-h23-2-5.jpeg){width=25%}
 
 >[!oppgave]
 >a) Hva er det største volumet kassen kan få dersom sidene i bunnen skal være 5 dm?

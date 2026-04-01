@@ -192,7 +192,7 @@ Merk: $0{,}955 \neq \tfrac{1}{1{,}045}$, så 4) og 5) er ikke ekvivalente med 2)
 
 # Trekantareal og sin 45 grader
 
-![Rettvinklet likebeint trekant](/img/user/_resources/1t-h25-1-5.jpeg)
+![Rettvinklet likebeint trekant](/img/user/_resources/1t-h25-1-5.jpeg){width=15%}
 
 >[!oppgave]
 >a) Bruk trekanten ovenfor til å vise at $\sin 45\degree = \dfrac{1}{\sqrt{2}}$
@@ -248,7 +248,7 @@ Siden sidene er like men $\sin 45\degree > \sin 140\degree$, har **trekant $ABC$
 
 # Femkanttall og programmering
 
-![De 4 første femkanttallene](/img/user/_resources/1t-h25-1-6.jpeg)
+![De 4 første femkanttallene](/img/user/_resources/1t-h25-1-6.jpeg){width=60%}
 
 Siri arbeider med femkanttall. Hun har oppdaget en sammenheng og laget programmet nedenfor.
 
@@ -415,7 +415,7 @@ Dermed $a = 21$ og $t = 38$.
 
 # Areal av firkant med trigonometri
 
-![Figur med firkant ABCD](/img/user/_resources/1t-h25-2-3.jpeg)
+![Figur med firkant ABCD](/img/user/_resources/1t-h25-2-3.jpeg){width=45%}
 
 Gitt figuren ovenfor.
 
@@ -474,7 +474,7 @@ $$T_{ABCD} = \frac{3\sqrt{3}}{4} + \frac{9 + 3\sqrt{3}}{4} = \underline{\underli
 
 Maria tegner en likesidet trekant. Hun deler trekanten i flere og flere små likesidede trekanter og fargelegger et mønster. Figurene nedenfor viser hvordan hun arbeider.
 
-![Mønster med likesidede trekanter](/img/user/_resources/1t-h25-2-4.jpeg)
+![Mønster med likesidede trekanter](/img/user/_resources/1t-h25-2-4.jpeg){width=60%}
 
 Tenk deg at Maria fortsetter å dele opp trekanten og fargelegge etter samme mønster.
 
@@ -545,7 +545,7 @@ $$f(x) = \frac{10}{x^2 + 3}, \quad x > 0$$
 
 Punktene $A$, $B$, $C$ og $D$ danner et rektangel. Punktet $A$ ligger i origo, punktet $B$ ligger på $x$-aksen, punktet $C$ ligger på grafen til $f$, og punktet $D$ ligger på $y$-aksen. Se figuren nedenfor.
 
-![Rektangel under kurven](/img/user/_resources/1t-h25-2-5.jpeg)
+![Rektangel under kurven](/img/user/_resources/1t-h25-2-5.jpeg){width=60%}
 
 >[!oppgave]
 >a) Bestem arealet av rektangelet dersom punktet $B$ har koordinatene $(3, 0)$.
@@ -588,7 +588,7 @@ Siden $A'(x) > 0$ for $x < \sqrt{3}$ og $A'(x) < 0$ for $x > \sqrt{3}$, er $x = 
 
 # Tangent til parabel og lagerhall
 
-![Snitt av lagerhall](/img/user/_resources/1t-h25-2-6.jpeg)
+![Snitt av lagerhall](/img/user/_resources/1t-h25-2-6.jpeg){width=40%}
 
 En arkitekt har tegnet et snitt av en lagerhall. Lagerhallen er 20 meter høy og har form som en parabel gitt ved
 

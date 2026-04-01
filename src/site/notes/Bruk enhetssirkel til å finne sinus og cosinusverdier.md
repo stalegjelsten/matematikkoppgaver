@@ -8,7 +8,7 @@
 
 Figuren viser en enhetssirkel med et linjestykke $g$ som danner en vinkel $\alpha = 53°$ med $x$-aksen.
 
-![Enhetssirkel med vinkel α = 53°](/img/user/_resources/1py-v24-1-4.jpeg)
+![Enhetssirkel med vinkel α = 53°](/img/user/_resources/1py-v24-1-4.jpeg){width=60%}
 
 >[!oppgave]
 >a) Bruk figuren til å anslå en verdi for $\sin 53°$.

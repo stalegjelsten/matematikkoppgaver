@@ -33,7 +33,7 @@ c) $x \in \left< 10,500 \right]$
 
 ## Løsningsforslag
 
-![Løsning i CAS av oppgave 2 del 2](/img/user/_resources/s2-h25-2-2.png)
+![Løsning i CAS av oppgave 2 del 2](/img/user/_resources/s2-h25-2-2.png){width=60%}
 
 ### 2-2a
 Se linje 2 i utklippet.

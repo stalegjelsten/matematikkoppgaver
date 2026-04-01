@@ -7,7 +7,7 @@
 
 Bildet nedenfor viser halve snittflaten til en pære som er skåret over på midten. Bildet er satt inn i et koordinatsystem. Enheten langs begge aksene er centimeter.
 
-![Pæresnitt i koordinatsystem](/img/user/_resources/r2-v24-2-2.jpeg)
+![Pæresnitt i koordinatsystem](/img/user/_resources/r2-v24-2-2.jpeg){width=60%}
 
 >[!oppgave]
 >Bruk informasjonen i bildet til å bestemme det omtrentlige volumet av pæra.

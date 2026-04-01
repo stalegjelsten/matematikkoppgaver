@@ -41,12 +41,12 @@ Logistiske funksjoner flater ut ved en horisontal asymptote (i dette tilfellet 6
 
 *Kommentar: Man kan også argumentere for andre regresjonsmodeller, f.eks. vil en tredjegradsmodell passe fint. Vær imidlertid klar over at tredjegradsmodellen sannsynligvis vil ha et mindre gyldighetsområde siden denne har negativ vekstfart både før 2008 og etter 2018. Sensorveiledninga sier at flere ulike modeller kan gi full uttelling så lenge de begrunnes godt.* 
 
-![Regresjon på størrelsen av musikkmarkedet](/img/user/_resources/s2-v23-del2-oppg-2a.png)
+![Regresjon på størrelsen av musikkmarkedet](/img/user/_resources/s2-v23-del2-oppg-2a.png){width=60%}
 
 ### 2-2b
 Se utklippet fra CAS.
 
-![Beregning av verdier i CAS](/img/user/_resources/s2-v23-del2-oppg-2b.png.png)
+![Beregning av verdier i CAS](/img/user/_resources/s2-v23-del2-oppg-2b.png.png){width=40%}
 
 $$
 \begin{aligned}

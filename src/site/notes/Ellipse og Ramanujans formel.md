@@ -7,7 +7,7 @@
 
 Nedenfor ser du en ellipse med sentrum i $S$. Linjestykket $SA = a$ kalles den store halvaksen, og linjestykket $SB = b$ kalles den lille halvaksen.
 
-![Ellipse med stor halvakse a og liten halvakse b](/img/user/_resources/1p-h23-2-7.jpeg)
+![Ellipse med stor halvakse a og liten halvakse b](/img/user/_resources/1p-h23-2-7.jpeg){width=50%}
 
 >[!yellow-box]
 >Den indiske matematikeren Ramanujan kom fram til en formel for omkretsen av en ellipse.
@@ -40,7 +40,7 @@ $$
 
 Så regner vi ut omkretsen $O$ ved hjelp av formelen (jeg bruker CAS i GeoGebra som kalkulator).
 
-![Beregning av omkrets med Ramanujans formel](/img/user/_resources/1p-h23-ramanujan-cas.png)
+![Beregning av omkrets med Ramanujans formel](/img/user/_resources/1p-h23-ramanujan-cas.png){width=30%}
 
 **Omkretsen er omtrent 15,9 cm. Det er samme svaret som Mari har funnet.**
 

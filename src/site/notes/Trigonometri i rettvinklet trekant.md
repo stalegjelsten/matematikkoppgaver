@@ -5,7 +5,7 @@
 
 # Trigonometri i rettvinklet trekant
 
-![Rettvinklet trekant med sider 8, 6, 10 og vinkler u og v](/img/user/_resources/1t-v24-1-1.jpeg)
+![Rettvinklet trekant med sider 8, 6, 10 og vinkler u og v](/img/user/_resources/1t-v24-1-1.jpeg){width=60%}
 
 Tom har arbeidet med trekanten ovenfor og påstår at $\tan u \cdot \tan v = 1$
 

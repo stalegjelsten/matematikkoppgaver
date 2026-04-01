@@ -5,7 +5,7 @@
 
 # Trekantareal og sin 45 grader
 
-![Rettvinklet likebeint trekant](/img/user/_resources/1t-h25-1-5.jpeg)
+![Rettvinklet likebeint trekant](/img/user/_resources/1t-h25-1-5.jpeg){width=15%}
 
 >[!oppgave]
 >a) Bruk trekanten ovenfor til å vise at $\sin 45\degree = \dfrac{1}{\sqrt{2}}$

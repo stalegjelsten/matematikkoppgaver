@@ -34,7 +34,7 @@ b) 24,5
 
 *I denne oppgaven er jeg veldig usikker på hva som kreves for å forklare at uttrykket i oppgaveteksten er det samme som forventningsverdien. Jeg tror ikke det er meningen at elever skal gjøre det samme som jeg har gjort her – men jeg klarer ikke helt å se en enklere måte å argumentere for at forventningsverdien er eksakt lik summen av «antall kast nødvendig».*
 
-![Valgtre til oppgave 6 del 2](/img/user/_resources/s2-h25-2-6a-valgtre2.png)
+![Valgtre til oppgave 6 del 2](/img/user/_resources/s2-h25-2-6a-valgtre2.png){width=60%}
 
 Vi lar $X$ være antall kast som trengs før vi har fått 2 like terningkast på rad. Sannsynligheten for å at et terningkast har samme antall øyne som det forrige er $1/6$, og sannsynligheten for at antall øyne er ulikt er $5/6$. Vi kan bruke multiplikasjonsprinsippet og sette opp følgende sannsynlighetsfordeling for $X$:
 

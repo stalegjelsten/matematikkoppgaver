@@ -12,7 +12,7 @@ Du skal legge kledning på en vegg med areal $9{,}0 \mathrm{~m^2}$. For å dekke
 
 Tegningen nedenfor viser en takkonstruksjon/endevegg av en liten hytte.
 
-![Takkonstruksjon](/img/user/_resources/1py-h25-2-1.jpeg)
+![Takkonstruksjon](/img/user/_resources/1py-h25-2-1.jpeg){width=70%}
 
 >[!oppgave]
 >b) Bruk trigonometri og lengdemålene på tegningen til å vise at takvinkelen er 45 grader.

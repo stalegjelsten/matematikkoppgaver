@@ -7,7 +7,7 @@
 
 En kule med radius $r$ deles i to like deler. Vi skal skjære ut en pyramide med rektangulær grunnflate av den ene halvkulen. Grunnflaten skal ligge i snittflaten til halvkulen.
 
-![Halvkule med innskrevet pyramide](/img/user/_resources/s1-v24-2-8.jpeg)
+![Halvkule med innskrevet pyramide](/img/user/_resources/s1-v24-2-8.jpeg){width=40%}
 
 Volumet av en pyramide er gitt ved
 

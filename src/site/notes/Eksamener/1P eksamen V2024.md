@@ -187,12 +187,12 @@ Jeg lager først funksjonen $f(x)=105\,607 \cdot 1{,}0325^{x}$ ut fra opplysning
 **Grafisk løsning**  
 For å løse oppgaven grafisk la jeg inn funksjonsuttrykket i GeoGebra og fant skjæringen med $x=-5$ og $x=5$, se punkt $A$ og $B$ i utklippet. 
 
-![Grafisk løsning fra GeoGebra](/img/user/_resources/1p-v24-2-2-grafisk.png)
+![Grafisk løsning fra GeoGebra](/img/user/_resources/1p-v24-2-2-grafisk.png){width=75%}
 
 **Beregnet løsning**  
 For å løse oppgaven med beregning brukte jeg det samme funksjonsuttrykket og beregnet $f(5)$ og $f(-5)$ i CAS, se skjermbildet.
 
-![Løsning med beregning i CAS](/img/user/_resources/1p-v24-2-2-cas.png)
+![Løsning med beregning i CAS](/img/user/_resources/1p-v24-2-2-cas.png){width=25%}
 
 Vi runder av svarene til 90 000 kr og 123 920 kr.
 

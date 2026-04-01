@@ -8,6 +8,8 @@
 
 Til et brettspill hører det med en spesiell terning med 6 sider. Det er en side med en ener, en side med en toer, en side med en treer og tre sider med seksere. Vi kaster terningen én gang. La $X$ være antall øyne terningen viser.
 
+Table: {.tall}
+
 |   $k$    |       1       |  2  |  3  |  6  |
 | :------: | :-----------: | :-: | :-: | :-: |
 | $P(X=k)$ | $\frac{1}{6}$ |     |     |     |

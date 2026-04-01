@@ -7,7 +7,7 @@
 
 Maria tegner en likesidet trekant. Hun deler trekanten i flere og flere små likesidede trekanter og fargelegger et mønster. Figurene nedenfor viser hvordan hun arbeider.
 
-![Mønster med likesidede trekanter](/img/user/_resources/1t-h25-2-4.jpeg)
+![Mønster med likesidede trekanter](/img/user/_resources/1t-h25-2-4.jpeg){width=60%}
 
 Tenk deg at Maria fortsetter å dele opp trekanten og fargelegge etter samme mønster.
 

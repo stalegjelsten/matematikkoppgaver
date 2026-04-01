@@ -50,7 +50,7 @@ $$
 
 Modellen passer svært godt til dataene ($R^2 \approx 1{,}00$):
 
-![Regresjonsmodell og datapunkter for oppgave 2-7a](/img/user/_resources/2p-y-v23-2-7-a-graf.png)
+![Regresjonsmodell og datapunkter for oppgave 2-7a](/img/user/_resources/2p-y-v23-2-7-a-graf.png){width=70%}
 
 **En modell for sammenhengen er $\underline{\underline{P(x) = 2060 \cdot x^{0{,}64}}}$.**
 

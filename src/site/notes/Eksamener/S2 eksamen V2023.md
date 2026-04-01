@@ -67,7 +67,7 @@ $$\int_0^1 \left( e^{ x }+2x^2 \right)  \,\mathrm{d}x = \left[e^x+ \cancel{ \fra
 
 Figuren nedenfor viser grafen til kostnadsfunksjonen og grafen til inntektsfunksjonen ved produksjon og salg av en vare.
 
-![Inntektsfunksjon og kostnadsfunksjon](/img/user/_resources/s2-v23-1-2.png)
+![Inntektsfunksjon og kostnadsfunksjon](/img/user/_resources/s2-v23-1-2.png){width=60%}
 
 >[!oppgave]
 >a) Forklar hvordan du ut fra den grafiske framstillingen kan bestemme en tilnærmet verdi for grensekostnaden når det blir produsert 40 enheter. Omtrent hvor stor er denne grensekostnaden?
@@ -365,9 +365,9 @@ $$
 ### 2-1b
 Jeg bruker en ferdig regnearkmodell jeg hadde liggende til å løse denne oppgaven. Fra regnearket ser jeg at restlånet *før* 25. innbetaling er 52 959,79 kr. **Dermed vil erstatningen fra forsikringsselskapet dekke restlånet** (gitt at han betaler restlånet med en gang han får erstatningen). Se utklippet under.
 
-![Regneark for å beregne lån](/img/user/_resources/s2-v23-del2-oppg1a1.png)
+![Regneark for å beregne lån](/img/user/_resources/s2-v23-del2-oppg1a1.png){width=100%}
 
-![Formler til regnearket](/img/user/_resources/s2-v23-del2-oppg1a2.png)
+![Formler til regnearket](/img/user/_resources/s2-v23-del2-oppg1a2.png){width=100%}
 
 
 </div></div>
@@ -420,12 +420,12 @@ Logistiske funksjoner flater ut ved en horisontal asymptote (i dette tilfellet 6
 
 *Kommentar: Man kan også argumentere for andre regresjonsmodeller, f.eks. vil en tredjegradsmodell passe fint. Vær imidlertid klar over at tredjegradsmodellen sannsynligvis vil ha et mindre gyldighetsområde siden denne har negativ vekstfart både før 2008 og etter 2018. Sensorveiledninga sier at flere ulike modeller kan gi full uttelling så lenge de begrunnes godt.* 
 
-![Regresjon på størrelsen av musikkmarkedet](/img/user/_resources/s2-v23-del2-oppg-2a.png)
+![Regresjon på størrelsen av musikkmarkedet](/img/user/_resources/s2-v23-del2-oppg-2a.png){width=60%}
 
 ### 2-2b
 Se utklippet fra CAS.
 
-![Beregning av verdier i CAS](/img/user/_resources/s2-v23-del2-oppg-2b.png.png)
+![Beregning av verdier i CAS](/img/user/_resources/s2-v23-del2-oppg-2b.png.png){width=40%}
 
 $$
 \begin{aligned}

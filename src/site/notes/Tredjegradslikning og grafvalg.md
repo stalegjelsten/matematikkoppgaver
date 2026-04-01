@@ -17,6 +17,6 @@ $$f(x) = x^3 - 7x^2 - 10x + 16$$
 >[!oppgave]
 >b) Hvilken av grafene nedenfor kan være grafen til $f$? Husk å begrunne svaret.
 
-![Fire grafer A, B, C og D](/img/user/_resources/1t-v25-1-4.jpeg)
+![Fire grafer A, B, C og D](/img/user/_resources/1t-v25-1-4.jpeg){width=60%}
 
 ## Fasit

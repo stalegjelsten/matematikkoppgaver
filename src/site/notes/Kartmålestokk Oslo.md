@@ -9,7 +9,7 @@ Astrid har funnet et gammelt kart over Oslo. Hun vil finne målestokken til kart
 
 Hun bestemmer seg for å gå 300 meter langs en av de rette gatene i byen. Etterpå måler hun og finner ut at den avstanden hun har gått, tilsvarer 2 cm på kartet.
 
-![Kart over Christiania](/img/user/_resources/2p-v24-1-3.jpeg)
+![Kart over Christiania](/img/user/_resources/2p-v24-1-3.jpeg){width=60%}
 
 >[!oppgave]
 >Forklar og vis Astrid hvordan hun kan finne målestokken til kartet.
