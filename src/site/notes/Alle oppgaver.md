@@ -6,6 +6,7 @@
 # Alle oppgaver
 
 
+
 ```base
 filters:
   and:
@@ -29,21 +30,6 @@ properties:
   note.del:
     displayName: Del
 views:
-  - type: table
-    name: Table
-    order:
-      - file.name
-      - fag
-      - formula.Eksamen
-      - formula.Oppgave
-      - formula.Status
-    sort:
-      - property: del
-        direction: ASC
-    columnSize:
-      note.fag: 110
-      formula.Oppgave: 111
-      formula.Status: 199
   - type: table
     name: Publisert
     order:
