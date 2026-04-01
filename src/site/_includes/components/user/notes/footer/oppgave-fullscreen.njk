@@ -1,11 +1,13 @@
 {% if "oppgave" in tags or "eksamen" in tags %}
 <div id="fullskjerm-knapper">
-  <button id="fullskjerm-tema" class="fullskjerm-fab" title="Bytt fargetema" aria-label="Bytt fargetema">
-    <span id="fullskjerm-tema-icon-light"><i data-lucide="sun"></i></span>
-    <span id="fullskjerm-tema-icon-dark" style="display:none"><i data-lucide="moon"></i></span>
-  </button>
   <button class="fullskjerm-fab fullskjerm-fab--tekst" id="tekst-storr-btn" title="Større tekst" aria-label="Større tekst" style="display:none">A+</button>
   <button class="fullskjerm-fab fullskjerm-fab--tekst" id="tekst-min-btn" title="Mindre tekst" aria-label="Mindre tekst" style="display:none">A−</button>
+  <button class="fullskjerm-fab" id="tavle-tom-btn" title="Tøm denne tavlesiden" aria-label="Tøm denne tavlesiden" style="display:none">
+    <i data-lucide="eraser"></i>
+  </button>
+  <button class="fullskjerm-fab fullskjerm-fab--fare" id="tavle-tom-alle-btn" title="Tøm alle tavlesider" aria-label="Tøm alle tavlesider" style="display:none">
+    <i data-lucide="trash-2"></i>
+  </button>
   <button class="fullskjerm-fab" id="tavle-toggle-btn" title="Åpne tavle" aria-label="Åpne tavle" style="display:none">
     <i data-lucide="pencil-line"></i>
   </button>
@@ -37,10 +39,9 @@
   var seksjonLabel = document.getElementById("fullskjerm-seksjon-label");
   var iconExpand = document.getElementById("fullskjerm-icon-expand");
   var iconCollapse = document.getElementById("fullskjerm-icon-collapse");
-  var temaBtn = document.getElementById("fullskjerm-tema");
-  var temaIconLight = document.getElementById("fullskjerm-tema-icon-light");
-  var temaIconDark = document.getElementById("fullskjerm-tema-icon-dark");
   var tavleBtn = document.getElementById("tavle-toggle-btn");
+  var tavleTomBtn = document.getElementById("tavle-tom-btn");
+  var tavleTomAlleBtn = document.getElementById("tavle-tom-alle-btn");
   var tavlePanel = document.getElementById("tavle-panel");
   var tavleDeler = document.getElementById("tavle-deler");
   var tekstStorrBtn = document.getElementById("tekst-storr-btn");
@@ -72,7 +73,10 @@
     tavleIframe.contentWindow.postMessage({ type: "theme", dark: dark }, "*");
   }
   window.addEventListener("message", function (e) {
-    if (e.data && e.data.type === "tavle-ready") sendTema();
+    if (e.data && e.data.type === "tavle-ready") {
+      sendTema();
+      sendTavleSide();
+    }
   });
   function setTavleBredde(vwPct) {
     tavleBreddeVw = Math.max(15, Math.min(85, vwPct));
@@ -94,17 +98,47 @@
     tavleDeler.classList.remove("drar");
     document.body.style.userSelect = "";
   });
+  var pageSlug = location.pathname.replace(/^\/notes\//, "").replace(/\/$/, "") || "tavle";
+
+  function sendTavleSide() {
+    if (!tavleIframe || !tavleIframe.contentWindow) return;
+    var sek = seksjoner[currentIndex];
+    var navn = erEksamen ? sek.label : getSeksjonNavnOppgave(currentIndex);
+    tavleIframe.contentWindow.postMessage({ type: "setPage", name: navn }, "*");
+  }
+
   function toggleTavle() {
     tavleAktiv = !tavleAktiv;
     document.body.classList.toggle("tavle-aktiv", tavleAktiv);
     if (tavleAktiv && !tavleIframe) {
       var dark = document.body.classList.contains("theme-dark") ? "1" : "0";
       tavleIframe = document.createElement("iframe");
-      tavleIframe.src = "/tavle/?dark=" + dark;
+      tavleIframe.src = "/tavle/?dark=" + dark + "&key=" + encodeURIComponent(pageSlug);
+      tavleIframe.addEventListener("load", function () {
+        sendTema();
+        sendTavleSide();
+      });
       tavlePanel.appendChild(tavleIframe);
+    } else if (tavleAktiv) {
+      sendTavleSide();
     }
     tavleBtn.setAttribute("title", tavleAktiv ? "Lukk tavle" : "Åpne tavle");
     tavleBtn.setAttribute("aria-label", tavleAktiv ? "Lukk tavle" : "Åpne tavle");
+    tavleTomBtn.style.display = tavleAktiv ? "" : "none";
+    tavleTomAlleBtn.style.display = tavleAktiv ? "" : "none";
+  }
+
+  function tomTavle() {
+    if (!tavleIframe || !tavleIframe.contentWindow) return;
+    if (!confirm("Tøm alt på denne tavlesiden?")) return;
+    tavleIframe.contentWindow.postMessage({ type: "clearCanvas" }, "*");
+  }
+
+  function tomAlleTavler() {
+    if (!tavleIframe || !tavleIframe.contentWindow) return;
+    if (!confirm("Er du sikker? Dette sletter tegninger på ALLE tavlesider for denne oppgaven.")) return;
+    if (!confirm("Helt sikker? Dette kan ikke angres.")) return;
+    tavleIframe.contentWindow.postMessage({ type: "clearAll" }, "*");
   }
 
   // ── Alpine.js bruker x-show.important (inline !important) ─────────────────
@@ -259,6 +293,8 @@
     seksjonLabel.textContent = navn + " (" + (idx + 1) + "\u00a0/\u00a0" + seksjoner.length + ")";
     forrigeBtn.disabled = idx === 0;
     nesteBtn.disabled = idx === seksjoner.length - 1;
+
+    if (tavleAktiv) sendTavleSide();
   }
 
   function getSeksjonNavnOppgave(idx) {
@@ -268,21 +304,6 @@
       return titleEl ? titleEl.textContent.trim() : "Seksjon";
     }
     return "Oppgave";
-  }
-
-  // ── Tema ──────────────────────────────────────────────────────────────────
-  function updateTemaIcon() {
-    var isLight = document.body.classList.contains("theme-light");
-    temaIconLight.style.display = isLight ? "none" : "";
-    temaIconDark.style.display = isLight ? "" : "none";
-    temaBtn.setAttribute("title", isLight ? "Bytt til mørkt tema" : "Bytt til lyst tema");
-  }
-  function toggleTema() {
-    var isLight = document.body.classList.contains("theme-light");
-    document.body.classList.toggle("theme-light", !isLight);
-    document.body.classList.toggle("theme-dark", isLight);
-    updateTemaIcon();
-    sendTema();
   }
 
   // ── Enter / exit fullscreen ───────────────────────────────────────────────
@@ -302,12 +323,13 @@
     tavleBtn.style.display = "";
     tekstStorrBtn.style.display = "";
     tekstMinBtn.style.display = "";
-    updateTemaIcon();
   }
 
   function exitFullscreen() {
     if (tavleAktiv) toggleTavle();
     tavleBtn.style.display = "none";
+    tavleTomBtn.style.display = "none";
+    tavleTomAlleBtn.style.display = "none";
     tekstStorrBtn.style.display = "none";
     tekstMinBtn.style.display = "none";
     restoreEl(document.querySelector("nav.navbar"));
@@ -358,8 +380,9 @@
     if (currentIndex < seksjoner.length - 1) showSection(currentIndex + 1);
   });
   lukkBtn.addEventListener("click", exitFullscreen);
-  temaBtn.addEventListener("click", toggleTema);
   tavleBtn.addEventListener("click", toggleTavle);
+  tavleTomBtn.addEventListener("click", tomTavle);
+  tavleTomAlleBtn.addEventListener("click", tomAlleTavler);
 
   document.addEventListener("keydown", function (e) {
     if (!isFullscreen) return;

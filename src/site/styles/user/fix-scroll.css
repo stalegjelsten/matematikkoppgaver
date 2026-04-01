@@ -10,6 +10,7 @@ html, body {
   }
 }
 
+
 /* TOC fyller tilgjengelig høyde i sidebar */
 .toc {
   flex: 1;

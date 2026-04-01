@@ -1,0 +1,60 @@
+<script>
+(function () {
+  var REKKEFØLGE = ['dark', 'light', 'auto'];
+  var IKONER = { dark: 'moon', light: 'sun', auto: 'monitor' };
+  var TITLER = { dark: 'Mørkt tema', light: 'Lyst tema', auto: 'Auto (system)' };
+
+  function hentTema() {
+    return localStorage.getItem('dg-theme') || '{{ meta.baseTheme }}';
+  }
+
+  function brukTema(t) {
+    var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    var brukMork = t === 'dark' || (t === 'auto' && prefersDark);
+    document.body.className = document.body.className.replace(
+      /\btheme-(dark|light)\b/,
+      brukMork ? 'theme-dark' : 'theme-light'
+    );
+    localStorage.setItem('dg-theme', t);
+    oppdaterKnapp(t);
+  }
+
+  function oppdaterKnapp(t) {
+    document.querySelectorAll('.tema-bytte').forEach(function (knapp) {
+      knapp.setAttribute('data-tema', t);
+      knapp.setAttribute('title', TITLER[t] || t);
+    });
+  }
+
+  /* Klikk sykler til neste tema */
+  document.addEventListener('click', function (e) {
+    if (!e.target.closest('.tema-bytte')) return;
+    var current = hentTema();
+    var idx = REKKEFØLGE.indexOf(current);
+    brukTema(REKKEFØLGE[(idx + 1) % REKKEFØLGE.length]);
+  });
+
+  /* Initialiser knapp når filetree lastes inn (fetch/innerHTML) */
+  new MutationObserver(function (mutations) {
+    var harNy = mutations.some(function (m) {
+      return Array.from(m.addedNodes).some(function (n) {
+        return n.nodeType === 1 &&
+          (n.classList && n.classList.contains('tema-bytte') ||
+           n.querySelector && n.querySelector('.tema-bytte'));
+      });
+    });
+    if (harNy) {
+      if (window.lucide) lucide.createIcons({ attrs: { class: ['svg-icon'] } });
+      oppdaterKnapp(hentTema());
+    }
+
+  }).observe(document.body, { childList: true, subtree: true });
+
+  oppdaterKnapp(hentTema());
+
+  /* Oppdater ved endring av systemtema */
+  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function () {
+    if (hentTema() === 'auto') brukTema('auto');
+  });
+})();
+</script>
