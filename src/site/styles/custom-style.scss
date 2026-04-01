@@ -250,9 +250,8 @@ article .callout-fold svg * {
 }
 
 /* ===== Skrift ===== */
-:root {
-  --font-text-override: 'Atkinson Hyperlegible';
-  --font-interface-override: 'Atkinson Hyperlegible';
+body {
+  --font-default: 'Atkinson Hyperlegible', ui-sans-serif, -apple-system, sans-serif;
 }
 
 /* ===== Keyboard-taster ===== */
