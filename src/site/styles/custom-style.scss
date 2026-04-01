@@ -243,6 +243,12 @@ article .callout-fold svg * {
   content: ")";
 }
 
+/* ===== Italic kontrast i lysmodus ===== */
+.theme-light i,
+.theme-light em {
+  color: #3d1a8e !important;
+}
+
 /* ===== Keyboard-taster ===== */
 kbd {
   display: inline-block;
@@ -306,6 +312,7 @@ kbd {
 
   /* Tekst */
   --text-normal:   #1c1430;
+  --italic-color:  #3d1a8e;
   --text-muted:    #5b4a7a;
   --text-faint:    #9580b8;
   --text-on-accent: #ffffff;
