@@ -31,6 +31,8 @@ Et annet drivverk i arbeidsbenken drives av følgende to tannhjul:
 >[!oppgave]
 >b) Bruk formelen som er oppgitt ovenfor, gjør beregninger og finn ut hva som skal stå i den tomme ruten i tabellen.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y TP eksamen H2025#Oppgave 1-4\|Løsningsforslag 1P-Y TP eksamen H2025#Oppgave 1-4]]
+## Fasit
+
+
+
+## Løsningsforslag

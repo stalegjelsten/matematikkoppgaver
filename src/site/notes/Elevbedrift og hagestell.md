@@ -19,6 +19,8 @@ Elevene Tonje og Jakob har startet en elevbedrift som skal hjelpe folk med hages
 >[!oppgave]
 >Svar på spørsmålene Tonje og Jakob stiller. Husk å begrunne svarene.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y NA eksamen H2025#Oppgave 1-5\|Løsningsforslag 1P-Y NA eksamen H2025#Oppgave 1-5]]
+## Fasit
+
+
+
+## Løsningsforslag

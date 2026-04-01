@@ -183,9 +183,11 @@ De årlige helseutgiftene for personer i alderen 75–79 år er 160 000 kroner. 
 >[!oppgave]
 >b) Hvor mye kan kommunen spare årlig per person ved å redusere utgiftene med 5 %?
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y HS eksamen H2025#Oppgave 1-4\|Løsningsforslag 1P-Y HS eksamen H2025#Oppgave 1-4]]
+## Fasit
+
+
+
+## Løsningsforslag
 
 
 </div></div>
@@ -220,9 +222,11 @@ Hun lager tabellen nedenfor.
 >[!oppgave]
 >Gjør beregninger og vurder påstandene til Sara.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y HS eksamen H2025#Oppgave 1-5\|Løsningsforslag 1P-Y HS eksamen H2025#Oppgave 1-5]]
+## Fasit
+
+
+
+## Løsningsforslag
 
 
 </div></div>
@@ -269,9 +273,11 @@ En annen pasient med brannskader veier 65 kg. Pasienten får tilført 6 liter v�
 >[!oppgave]
 >c) Hvor mange prosent av kroppsoverflaten er forbrent?
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y HS eksamen H2025#Oppgave 2-1\|Løsningsforslag 1P-Y HS eksamen H2025#Oppgave 2-1]]
+## Fasit
+
+
+
+## Løsningsforslag
 
 
 </div></div>
@@ -339,9 +345,11 @@ Hvor mange prosent utgjør dette av dagsbehovet?
 >[!oppgave]
 >Gjør beregninger og vurderinger, og svar på spørsmålene elevene stiller.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y HS eksamen H2025#Oppgave 2-2\|Løsningsforslag 1P-Y HS eksamen H2025#Oppgave 2-2]]
+## Fasit
+
+
+
+## Løsningsforslag
 
 
 </div></div>

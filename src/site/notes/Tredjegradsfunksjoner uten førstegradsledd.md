@@ -71,7 +71,7 @@ P'(x)&=3ax^2+2bx\\
 0&=(3ax+2b)x\\
 3ax+2b=0 &\vee x=0\\
 3ax=-2b &\vee x=0\\
-x=\frac{-2b}{3a} &\vee x=0\\
+x=\frac{-2b}{3a} &\vee x=0
 \end{aligned}
 $$
 

@@ -17,6 +17,8 @@ De årlige helseutgiftene for personer i alderen 75–79 år er 160 000 kroner. 
 >[!oppgave]
 >b) Hvor mye kan kommunen spare årlig per person ved å redusere utgiftene med 5 %?
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y HS eksamen H2025#Oppgave 1-4\|Løsningsforslag 1P-Y HS eksamen H2025#Oppgave 1-4]]
+## Fasit
+
+
+
+## Løsningsforslag

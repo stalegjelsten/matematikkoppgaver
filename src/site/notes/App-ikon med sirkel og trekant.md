@@ -20,6 +20,8 @@ Vi skal analysere egenskapene til figuren og bruker disse verdiene i utregningen
 >a) Hva er den totale omkretsen av figuren, altså av trekanten og sirkelen til sammen?
 >b) Bruk Pytagoras' setning for å vise at høyden til trekanten er $\sqrt{3}$.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y IM eksamen H2025#Oppgave 1-5\|Løsningsforslag 1P-Y IM eksamen H2025#Oppgave 1-5]]
+## Fasit
+
+
+
+## Løsningsforslag

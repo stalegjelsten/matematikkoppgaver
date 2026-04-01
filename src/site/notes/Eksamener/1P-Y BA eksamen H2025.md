@@ -185,9 +185,11 @@ Veggen er 6 meter lang.
 >[!oppgave]
 >b) Hva blir arealet av veggen?
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y eksamen H2025#Oppgave 1-4\|Løsningsforslag 1P-Y eksamen H2025#Oppgave 1-4]]
+## Fasit
+
+
+
+## Løsningsforslag
 
 
 </div></div>
@@ -223,9 +225,11 @@ Amanda stiller seg noen spørsmål før hun setter i gang med arbeidet:
 >[!oppgave]
 >Svar på spørsmålene Amanda stiller. Husk å begrunne svarene.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y eksamen H2025#Oppgave 1-5\|Løsningsforslag 1P-Y eksamen H2025#Oppgave 1-5]]
+## Fasit
+
+
+
+## Løsningsforslag
 
 
 </div></div>
@@ -257,9 +261,11 @@ Tegningen nedenfor viser en takkonstruksjon/endevegg av en liten hytte.
 >b) Bruk trigonometri og lengdemålene på tegningen til å vise at takvinkelen er 45 grader.
 >c) Finn lengden $AC$ på taket på to ulike måter.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y eksamen H2025#Oppgave 2-1\|Løsningsforslag 1P-Y eksamen H2025#Oppgave 2-1]]
+## Fasit
+
+
+
+## Løsningsforslag
 
 
 </div></div>
@@ -312,9 +318,11 @@ Christian har fått i arbeid å restaurere taket og legge nye taksteiner som er 
 >[!oppgave]
 >Gjør beregninger og vurderinger, og svar på spørsmålene Christian stiller.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y eksamen H2025#Oppgave 2-2\|Løsningsforslag 1P-Y eksamen H2025#Oppgave 2-2]]
+## Fasit
+
+
+
+## Løsningsforslag
 
 
 </div></div>

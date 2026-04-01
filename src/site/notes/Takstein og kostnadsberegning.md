@@ -41,6 +41,8 @@ Christian har fått i arbeid å restaurere taket og legge nye taksteiner som er 
 >[!oppgave]
 >Gjør beregninger og vurderinger, og svar på spørsmålene Christian stiller.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y eksamen H2025#Oppgave 2-2\|Løsningsforslag 1P-Y eksamen H2025#Oppgave 2-2]]
+## Fasit
+
+
+
+## Løsningsforslag

@@ -80,6 +80,8 @@ Den svarte søppelbøtten ser litt skjev ut. Naomi måler diagonalen på framsid
 >[!oppgave]
 >Gjør beregninger og vurderinger som gir svar på det Naomi lurer på.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y TP eksamen H2025#Oppgave 2-2\|Løsningsforslag 1P-Y TP eksamen H2025#Oppgave 2-2]]
+## Fasit
+
+
+
+## Løsningsforslag

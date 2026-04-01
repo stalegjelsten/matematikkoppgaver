@@ -118,7 +118,7 @@ $$
 \left[ -\frac{1}{x}+Cx \right]_{1}^{2} &=\frac{11}{14} \\
 \textcolor{orange}{\left(  -\frac{1}{2}+C \cdot 2 \right)}-\textcolor{seagreen}{\left( -\frac{1}{1}+C\cdot 1 \right)} &=\frac{11}{14} \\
 \textcolor{orange}{-\frac{1}{2}+2C} + \textcolor{seagreen}{\frac{1}{1}-C} &=\frac{11}{14} \\
-C&=\frac{11}{14}-\frac{1}{2}=\frac{2}{7} \\
+C&=\frac{11}{14}-\frac{1}{2}=\frac{2}{7}
 \end{aligned}
 $$
 Vår antideriverte til $f'(x)$ har altså $C=\frac{2}{7}$, derfor har vi for alle $x\neq 0$:

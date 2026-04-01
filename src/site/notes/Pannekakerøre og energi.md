@@ -21,6 +21,8 @@ Ola er elev på restaurant- og matfag. Han mener at det er for mye melk i oppskr
 >[!oppgave]
 >b) Gjør beregninger og finn energiinnholdet i pannekakerøren etter at melkemengden er redusert.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y RM eksamen H2025#Oppgave 1-4\|Løsningsforslag 1P-Y RM eksamen H2025#Oppgave 1-4]]
+## Fasit
+
+
+
+## Løsningsforslag

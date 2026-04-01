@@ -56,6 +56,8 @@ Hvor mange prosent utgjør dette av dagsbehovet?
 >[!oppgave]
 >Gjør beregninger og vurderinger, og svar på spørsmålene elevene stiller.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y HS eksamen H2025#Oppgave 2-2\|Løsningsforslag 1P-Y HS eksamen H2025#Oppgave 2-2]]
+## Fasit
+
+
+
+## Løsningsforslag

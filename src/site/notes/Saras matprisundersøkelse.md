@@ -23,6 +23,8 @@ Hun lager tabellen nedenfor.
 >[!oppgave]
 >Gjør beregninger og vurder påstandene til Sara.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y HS eksamen H2025#Oppgave 1-5\|Løsningsforslag 1P-Y HS eksamen H2025#Oppgave 1-5]]
+## Fasit
+
+
+
+## Løsningsforslag

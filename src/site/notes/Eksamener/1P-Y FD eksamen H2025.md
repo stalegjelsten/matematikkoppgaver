@@ -196,9 +196,11 @@ Diagonalene krysser hverandre i sentrum av duken i punktet $S$, slik at trekant 
 >[!oppgave]
 >b) Gjør beregninger og finn sidelengden $BC$.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y eksamen H2025#1-4\|Løsningsforslag 1P-Y eksamen H2025#1-4]]
+## Fasit
+
+
+
+## Løsningsforslag
 
 
 </div></div>
@@ -232,9 +234,11 @@ Jesper og Nina stiller to spørsmål:
 >[!oppgave]
 >Svar på spørsmålene Jesper og Nina stiller. Husk å begrunne svarene.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y eksamen H2025#1-5\|Løsningsforslag 1P-Y eksamen H2025#1-5]]
+## Fasit
+
+
+
+## Løsningsforslag
 
 
 </div></div>
@@ -274,9 +278,11 @@ Aina skal lage et anbud for et oppdrag til en kunde:
 >[!oppgave]
 >c) Lag et anbud som viser prisen for oppdraget uten mva. og prisen med 25 % mva.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y eksamen H2025#2-1\|Løsningsforslag 1P-Y eksamen H2025#2-1]]
+## Fasit
+
+
+
+## Løsningsforslag
 
 
 </div></div>
@@ -318,9 +324,11 @@ Bordet har skyvedører som kan skyves rundt bordet. Inne i bordet er det plass t
 >[!oppgave]
 >c) Omtrent hvor mange liter oppbevaringsplass er det inne i bordet?
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y eksamen H2025#2-2\|Løsningsforslag 1P-Y eksamen H2025#2-2]]
+## Fasit
+
+
+
+## Løsningsforslag
 
 
 </div></div>

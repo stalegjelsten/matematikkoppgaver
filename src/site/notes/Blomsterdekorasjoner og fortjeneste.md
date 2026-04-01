@@ -22,6 +22,8 @@ Jesper og Nina stiller to spørsmål:
 >[!oppgave]
 >Svar på spørsmålene Jesper og Nina stiller. Husk å begrunne svarene.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y eksamen H2025#1-5\|Løsningsforslag 1P-Y eksamen H2025#1-5]]
+## Fasit
+
+
+
+## Løsningsforslag

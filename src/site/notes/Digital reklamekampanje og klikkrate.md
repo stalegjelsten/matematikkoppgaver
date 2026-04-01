@@ -41,6 +41,8 @@ For å bedømme hvor effektiv kampanjen har vært på de ulike plattformene, gis
 >[!oppgave]
 >Gjør vurderinger og beregninger, og svar på spørsmålene de stiller seg.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y IM eksamen H2025#Oppgave 2-2\|Løsningsforslag 1P-Y IM eksamen H2025#Oppgave 2-2]]
+## Fasit
+
+
+
+## Løsningsforslag

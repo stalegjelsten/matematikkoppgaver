@@ -37,6 +37,8 @@ En gassflaske veier 20 kg inkludert gassen.
 >[!oppgave]
 >c) Bruk tallene fra tabellene, gjør beregninger og vis at en tom gassbeholder veier omtrent 16 kg.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y TP eksamen H2025#Oppgave 2-1\|Løsningsforslag 1P-Y TP eksamen H2025#Oppgave 2-1]]
+## Fasit
+
+
+
+## Løsningsforslag

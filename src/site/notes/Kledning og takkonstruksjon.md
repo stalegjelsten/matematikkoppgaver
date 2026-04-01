@@ -18,6 +18,8 @@ Tegningen nedenfor viser en takkonstruksjon/endevegg av en liten hytte.
 >b) Bruk trigonometri og lengdemålene på tegningen til å vise at takvinkelen er 45 grader.
 >c) Finn lengden $AC$ på taket på to ulike måter.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y eksamen H2025#Oppgave 2-1\|Løsningsforslag 1P-Y eksamen H2025#Oppgave 2-1]]
+## Fasit
+
+
+
+## Løsningsforslag

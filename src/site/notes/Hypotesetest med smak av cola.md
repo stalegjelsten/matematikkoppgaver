@@ -55,7 +55,7 @@ Det skal mye til at Marte er dårligere til å gjenkjenne colaene enn ved tilfel
 $$
 \begin{aligned}
 H_{0}&: \quad p=0.5 \\ 
-H_{1}&: \quad p>0,5 \\
+H_{1}&: \quad p>0,5 
 \end{aligned}
 $$
 

@@ -227,9 +227,11 @@ Vi skal analysere egenskapene til figuren og bruker disse verdiene i utregningen
 >a) Hva er den totale omkretsen av figuren, altså av trekanten og sirkelen til sammen?
 >b) Bruk Pytagoras' setning for å vise at høyden til trekanten er $\sqrt{3}$.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y IM eksamen H2025#Oppgave 1-5\|Løsningsforslag 1P-Y IM eksamen H2025#Oppgave 1-5]]
+## Fasit
+
+
+
+## Løsningsforslag
 
 
 </div></div>
@@ -269,9 +271,11 @@ Stine skal lage et anbud for et oppdrag til en kunde:
 >[!oppgave]
 >c) Lag et anbud som viser prisen for oppdraget uten mva. og prisen med 25 % mva.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y IM eksamen H2025#Oppgave 2-1\|Løsningsforslag 1P-Y IM eksamen H2025#Oppgave 2-1]]
+## Fasit
+
+
+
+## Løsningsforslag
 
 
 </div></div>
@@ -324,9 +328,11 @@ For å bedømme hvor effektiv kampanjen har vært på de ulike plattformene, gis
 >[!oppgave]
 >Gjør vurderinger og beregninger, og svar på spørsmålene de stiller seg.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y IM eksamen H2025#Oppgave 2-2\|Løsningsforslag 1P-Y IM eksamen H2025#Oppgave 2-2]]
+## Fasit
+
+
+
+## Løsningsforslag
 
 
 </div></div>

@@ -19,6 +19,8 @@ Veggen er 6 meter lang.
 >[!oppgave]
 >b) Hva blir arealet av veggen?
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y eksamen H2025#Oppgave 1-4\|Løsningsforslag 1P-Y eksamen H2025#Oppgave 1-4]]
+## Fasit
+
+
+
+## Løsningsforslag

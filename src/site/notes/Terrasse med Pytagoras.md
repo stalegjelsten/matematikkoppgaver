@@ -24,6 +24,8 @@ Amanda stiller seg noen spørsmål før hun setter i gang med arbeidet:
 >[!oppgave]
 >Svar på spørsmålene Amanda stiller. Husk å begrunne svarene.
 
->[!question]- Fasit
->
->[[Løsningsforslag 1P-Y eksamen H2025#Oppgave 1-5\|Løsningsforslag 1P-Y eksamen H2025#Oppgave 1-5]]
+## Fasit
+
+
+
+## Løsningsforslag
