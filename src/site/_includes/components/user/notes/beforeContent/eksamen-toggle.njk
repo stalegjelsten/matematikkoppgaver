@@ -5,10 +5,15 @@
     Vis løsningsforslag
   </a>
   {% if pdfSlug %}
-  <a href="https://github.com/stalegjelsten/matematikkoppgaver/raw/master/src/site/img/user/pdf/{{ pdfSlug }}.pdf" class="eksamen-pdf-btn">
+  {% if meta.env == "prod" %}
+  {% set pdfBase = "https://github.com/stalegjelsten/matematikkoppgaver/raw/master/src/site/img/user/pdf" %}
+  {% else %}
+  {% set pdfBase = "/img/user/pdf" %}
+  {% endif %}
+  <a href="{{ pdfBase }}/{{ pdfSlug }}.pdf" class="eksamen-pdf-btn">
     Last ned oppgaver (PDF)
   </a>
-  <a href="https://github.com/stalegjelsten/matematikkoppgaver/raw/master/src/site/img/user/pdf/{{ pdfSlug }}-losning.pdf" class="eksamen-pdf-btn">
+  <a href="{{ pdfBase }}/{{ pdfSlug }}-losning.pdf" class="eksamen-pdf-btn">
     Last ned løsningsforslag (PDF)
   </a>
   {% endif %}

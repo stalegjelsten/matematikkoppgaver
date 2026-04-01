@@ -13,7 +13,7 @@
         "build:tavle": "cd tavle && npm run build",
         "get-theme": "node src/site/get-theme.js",
         "build": "npm-run-all get-theme --parallel build:tavle build:sass --sequential build:eleventy",
-        "postbuild": "rimraf dist/img/user/pdf dist/img/user/_resources dist/img/optimized",
+        "build:prod": "npm-run-all get-theme --parallel build:tavle build:sass --sequential build:eleventy && rimraf dist/img/user/pdf dist/img/user/_resources dist/img/optimized",
         "test": "vitest run"
     },
     "keywords": [],

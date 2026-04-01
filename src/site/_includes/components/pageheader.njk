@@ -44,7 +44,11 @@ MathJax = {
   }
 };
 </script>
+{% if meta.env == "prod" %}
 <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+{% else %}
+<script defer src="/mathjax/tex-chtml.js"></script>
+{% endif %}
 
 <script defer src="https://fastly.jsdelivr.net/npm/@alpinejs/persist@3.11.1/dist/cdn.min.js"></script>
 <script defer src="https://fastly.jsdelivr.net/npm/alpinejs@3.11.1/dist/cdn.min.js"></script>
