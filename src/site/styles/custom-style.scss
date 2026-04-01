@@ -249,6 +249,12 @@ article .callout-fold svg * {
   color: #3d1a8e !important;
 }
 
+/* ===== Skrift ===== */
+:root {
+  --font-text-override: 'Atkinson Hyperlegible';
+  --font-interface-override: 'Atkinson Hyperlegible';
+}
+
 /* ===== Keyboard-taster ===== */
 kbd {
   display: inline-block;
