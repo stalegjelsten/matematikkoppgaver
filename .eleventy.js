@@ -896,6 +896,12 @@ module.exports = function(eleventyConfig) {
     return str && parsed.innerHTML;
   });
 
+  const tableCaptionsTransform = require("./src/helpers/table-captions");
+  eleventyConfig.addTransform("table-captions", tableCaptionsTransform);
+
+  const imageAttributesTransform = require("./src/helpers/image-attributes");
+  eleventyConfig.addTransform("image-attributes", imageAttributesTransform);
+
   // Helper function to convert wiki-links in canvas text nodes (same logic as link filter)
   function convertCanvasLinks(str) {
     return (

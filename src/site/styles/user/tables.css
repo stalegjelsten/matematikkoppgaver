@@ -1,0 +1,69 @@
+/* Standardrammer og vertikal sentrering */
+table {
+  border-bottom: 0.15em solid #ccc;
+}
+
+thead {
+  border-top: 0.15em solid #ccc;
+  border-bottom: 0.1em solid #ccc;
+}
+
+.cm-html-embed td,
+.markdown-rendered td,
+.cm-html-embed th,
+.markdown-rendered th {
+  vertical-align: middle;
+}
+
+/* Sentrer tabeller som standard */
+.cm-s-obsidian table,
+.cm-s-obsidian .table-wrapper,
+figure.table-figure {
+  margin-inline: auto;
+}
+
+/* Figure-wrapper for tabeller med bildetekst (fra "Table: ..."-linjer) */
+figure.table-figure {
+  width: fit-content;
+  display: block;
+}
+
+figure.table-figure figcaption {
+  font-style: italic;
+  font-size: 0.9em;
+  color: var(--text-muted);
+  margin-bottom: 0.4em;
+  text-align: left;
+}
+
+/* .tall: ekstra luft i celler (bra for matematikk) */
+table.tall td,
+table.tall th {
+  padding: 0.75em 1em;
+}
+
+/* .grid: rutenett rundt alle celler */
+table.grid {
+  border-collapse: collapse;
+}
+
+table.grid td,
+table.grid th {
+  border: 1px solid var(--table-border-color, var(--background-modifier-border));
+}
+
+/* .noborders: fjerner alle rammer */
+table.noborders,
+table.noborders thead,
+table.noborders tbody,
+table.noborders tr,
+table.noborders td,
+table.noborders th {
+  border: none !important;
+}
+
+/* Custom padding via CSS-variabel (fra {inset=...}) */
+table[style*="--table-inset"] td,
+table[style*="--table-inset"] th {
+  padding: var(--table-inset);
+}
