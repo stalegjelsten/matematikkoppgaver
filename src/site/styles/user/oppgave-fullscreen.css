@@ -29,14 +29,27 @@ body:has(#fullskjerm-knapper) #tema-fab {
   height: 2.5rem;
   border-radius: 50%;
   border: none;
-  background: var(--interactive-accent);
-  color: var(--text-on-accent);
   margin: 0;
+  overflow: hidden;
 }
 
-.theme-light .tema-bytte.fullskjerm-fab {
-  background: var(--bg-accent-55);
-  color: #ffffff;
+.tema-bytte.fullskjerm-fab[data-tema="dark"] {
+  background: #1e0d3a;
+  color: #c4a8f5;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+}
+
+.tema-bytte.fullskjerm-fab[data-tema="light"] {
+  background: #ede8ff;
+  color: #3d1a8e;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25), 0 0 0 2px #9b72e8;
+}
+
+.tema-bytte.fullskjerm-fab[data-tema="auto"] {
+  background: linear-gradient(135deg, #1e0d3a 50%, #ede8ff 50%);
+  color: #9b72e8;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3), 0 0 0 2px #9b72e8;
+  filter: drop-shadow(0 0 1px rgba(0, 0, 0, 0.6));
 }
 
 .tema-bytte.fullskjerm-fab svg,
