@@ -5,7 +5,7 @@
 
 # To trekanter og størst areal
 
-![To trekanter med oppgitte sider og vinkler](/img/user/_resources/1t-h23-1-4.jpeg)
+![To trekanter med oppgitte sider og vinkler](/img/user/_resources/1t-h23-1-4.jpeg){width=70%}
 
 >[!oppgave]
 >Hvilken av de to trekantene har størst areal?

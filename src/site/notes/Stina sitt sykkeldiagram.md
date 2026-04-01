@@ -9,7 +9,7 @@ Stina jobber som selger i en sykkelbutikk.
 
 En uke noterer hun hvor mange sykler hun selger per dag, og lager diagrammet nedenfor.
 
-![Stina sitt salg av sykler denne uka](/img/user/_resources/1py-sr-h25-1-4.jpeg)
+![Stina sitt salg av sykler denne uka](/img/user/_resources/1py-sr-h25-1-4.jpeg){width=60%}
 
 >[!oppgave]
 >a) Hva er medianen for antall sykler Stina solgte per dag denne uka?

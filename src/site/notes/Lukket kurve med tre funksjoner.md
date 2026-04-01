@@ -5,7 +5,7 @@
 
 # Lukket kurve med tre funksjoner
 
-![Tre grafer som til sammen danner en lukket kurve med punkter A, B og C](/img/user/_resources/1t-v24-2-7.jpeg)
+![Tre grafer som til sammen danner en lukket kurve med punkter A, B og C](/img/user/_resources/1t-v24-2-7.jpeg){width=60%}
 
 Figuren ovenfor viser tre grafer som til sammen danner en lukket kurve.
 

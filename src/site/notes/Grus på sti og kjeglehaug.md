@@ -14,7 +14,7 @@ Stien er 25 m lang og 60 cm bred. De vil legge et 75 mm tykt lag med grus på st
 
 Når de kommer til hytta, ligger grusen de har bestilt, i en kjegleformet haug på parkeringsplassen. Kjeglen har en diameter på $2{,}5 \mathrm{~m}$ og er $1{,}0 \mathrm{~m}$ høy.
 
-![Kjegleformet grushaug](/img/user/_resources/2p-h25-2-6.jpeg)
+![Kjegleformet grushaug](/img/user/_resources/2p-h25-2-6.jpeg){width=25%}
 
 >[!oppgave]
 >b) Gjør beregninger og avgjør om de har fått levert nok grus.

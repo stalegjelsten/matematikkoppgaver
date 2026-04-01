@@ -36,7 +36,7 @@ c) Minimumsavstand $\approx 39{,}8 \, \mathrm{m}$ — ingen kollisjon
 
 Vi definerer posisjonsvektoren, deriverer og beregner farten ved $t = 2$ i GeoGebra CAS:
 
-![GeoGebra CAS](/img/user/_resources/r2-h25-2-1-a-CAS.png)
+![GeoGebra CAS](/img/user/_resources/r2-h25-2-1-a-CAS.png){width=50%}
 
 **Farten til miniubåten etter 2 sekunder er $\underline{\underline{\approx 10{,}3 \, \mathrm{m/s}}}$.**
 
@@ -44,7 +44,7 @@ Vi definerer posisjonsvektoren, deriverer og beregner farten ved $t = 2$ i GeoGe
 
 Vi definerer $z$-koordinaten, løser $z'(t) = 0$ og evaluerer minimumsposisjonen i GeoGebra CAS:
 
-![GeoGebra CAS](/img/user/_resources/r2-h25-2-1-b-CAS.png)
+![GeoGebra CAS](/img/user/_resources/r2-h25-2-1-b-CAS.png){width=50%}
 
 CAS gir $t = 25$ og $\mathrm{dyp}(25) = -\frac{625}{2} = -312{,}5$.
 
@@ -54,7 +54,7 @@ CAS gir $t = 25$ og $\mathrm{dyp}(25) = -\frac{625}{2} = -312{,}5$.
 
 Vi definerer begge posisjonsvektorene, beregner differansevektoren $\vec{d}(t) = \vec{r}(t) - \vec{s}(t)$ og avstandsfunksjonen $A(t) = |\vec{d}(t)|$. Så bruker vi `Min(A, 0, 60)` for å finne minimumsavstanden numerisk:
 
-![GeoGebra CAS](/img/user/_resources/r2-h25-2-1-c-CAS.png)
+![GeoGebra CAS](/img/user/_resources/r2-h25-2-1-c-CAS.png){width=50%}
 
 CAS gir minimumsavstand $\approx 39{,}83 \, \mathrm{m}$ ved $t \approx 8{,}39 \, \mathrm{s}$.
 

@@ -80,7 +80,7 @@ $$\dfrac{120}{40} = \underline{\underline{ 3\mathrm{~min/km} }}$$
 
 Nora har tatt opp et lån med en fast årlig rente. Lånet skal betales tilbake i løpet av 5 år, med én termin i året. Figuren nedenfor viser nedbetalingsplanen.
 
-![Nedbetalingsplan for Noras lån](/img/user/_resources/1py-h25-1-2.jpeg)
+![Nedbetalingsplan for Noras lån](/img/user/_resources/1py-h25-1-2.jpeg){width=60%}
 
 >[!oppgave]
 >a) Er lånet et annuitetslån, eller er det et serielån? Husk å begrunne svaret.
@@ -349,7 +349,7 @@ Table: Mål lokk
 
 <!-- two-column start left-width=50% -->
 
-![Søppelbøttene](/img/user/_resources/1py-tp-h25-2-2-1.jpeg)
+![Søppelbøttene](/img/user/_resources/1py-tp-h25-2-2-1.jpeg){width=80%}
 
 ---
 
@@ -379,7 +379,7 @@ Den svarte søppelbøtten ser litt skjev ut. Naomi måler diagonalen på framsid
 
 <!-- two-column start left-width=50% -->
 
-![Måling av diagonal](/img/user/_resources/1py-tp-h25-2-2-3.jpeg)
+![Måling av diagonal](/img/user/_resources/1py-tp-h25-2-2-3.jpeg){width=50%}
 
 ---
 
@@ -426,7 +426,7 @@ Ella sparer til bolig på en BSU-konto.
 >  a) Lag et regneark som vist nedenfor. Lag formler i de grønne cellene slik at utregningene blir riktige.  
 >  Husk å vise formlene du bruker i regnearket.
 
-![Regneark som viser Ellas sparing](/img/user/_resources/1py-v25-2-4.png)
+![Regneark som viser Ellas sparing](/img/user/_resources/1py-v25-2-4.png){width=50%}
 
 Ella er gift med Sverre. Paret ønsker å kjøpe en leilighet som koster 5 600 000 kroner.
 
@@ -448,7 +448,7 @@ b) $484\,000 \, \mathrm{kr}$
 ### a
 Se regnearket.
 
- ![Ellas sparing i BSU](/img/user/_resources/ellas-sparing.png)
+ ![Ellas sparing i BSU](/img/user/_resources/ellas-sparing.png){width=100%}
 
 ### b
 Vi kan sette opp

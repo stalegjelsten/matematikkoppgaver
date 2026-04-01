@@ -5,7 +5,7 @@
 
 # Areal av firkant med trigonometri
 
-![Figur med firkant ABCD](/img/user/_resources/1t-h25-2-3.jpeg)
+![Figur med firkant ABCD](/img/user/_resources/1t-h25-2-3.jpeg){width=45%}
 
 Gitt figuren ovenfor.
 

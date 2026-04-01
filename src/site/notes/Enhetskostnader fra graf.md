@@ -5,7 +5,7 @@
 
 # Enhetskostnader fra graf
 
-![Kostnadsfunksjon](/img/user/_resources/s2-eksamen-h14-enhetskostnader.png)
+![Kostnadsfunksjon](/img/user/_resources/s2-eksamen-h14-enhetskostnader.png){width=50%}
 
 I koordinatsystemet ser du grafen til en kostnadsfunksjon $K$, markert med rødt på figuren. Det er også tegnet inn tre rette linjer. Disse har likningene
 

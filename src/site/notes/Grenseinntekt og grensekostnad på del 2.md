@@ -43,7 +43,7 @@ c) 558,5 kr. Dette er differansen mellom produksjonskostnader for 20 enheter og 
 
 ### 2-1a
 
-![Regresjon i GeoGebra](/img/user/_resources/s2-v25-2-1a.png)
+![Regresjon i GeoGebra](/img/user/_resources/s2-v25-2-1a.png){width=60%}
 
 Vi finner en andregradsmodell for kostnadene ved hjelp av regresjon i GeoGebra. Se utklippet over.
 $$
@@ -54,7 +54,7 @@ $$
 
 ### 2-1b
 
-![Grenseinntekt og grensekostnad i GeoGebra](/img/user/_resources/s2-v25-2-1b.png)
+![Grenseinntekt og grensekostnad i GeoGebra](/img/user/_resources/s2-v25-2-1b.png){width=60%}
 
 Se linje 3 og 4 i CAS.
 $$

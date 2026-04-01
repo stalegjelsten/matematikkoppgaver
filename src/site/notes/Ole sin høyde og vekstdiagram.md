@@ -7,7 +7,7 @@
 
 Hver gang Ole har fødselsdag, måler foreldrene hvor høy han er. Diagrammet under viser hvor mange centimeter høyden til Ole har økt med fra han ble ett til han ble to år, fra han ble to til han ble tre år, og så videre.
 
-![Vekstdiagram for Ole](/img/user/_resources/1py-el-h23-1-2.jpeg)
+![Vekstdiagram for Ole](/img/user/_resources/1py-el-h23-1-2.jpeg){width=60%}
 
 Da Ole ble ett år, var han 75 cm høy.
 

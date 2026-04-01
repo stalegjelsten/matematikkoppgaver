@@ -6,7 +6,7 @@
 
 Nedenfor ser du grafen til funksjonen $f$ gitt ved $f(x)=x^3+x^2-2 x$.
 
-![Grafen til $f$](/img/user/_resources/r2-h25-1-3.jpeg)
+![Grafen til $f$](/img/user/_resources/r2-h25-1-3.jpeg){width=70%}
 
 >[!oppgave]
 > a) Hvilket av uttrykkene nedenfor gir arealet av det markerte området på figuren? Husk å begrunne svaret ditt.

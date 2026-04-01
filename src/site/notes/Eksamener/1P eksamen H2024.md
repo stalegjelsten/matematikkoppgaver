@@ -280,7 +280,7 @@ Variabelen `t` akkumulerer salget for alle 12 månedene. Verdiene som skrives ut
 
 # Celsius og fahrenheit, lineær sammenheng
 
-![Koordinatsystem med punktene (−40, −40), (0, 32) og (100, 212)](/img/user/_resources/1p-h24-1-5.jpeg)
+![Koordinatsystem med punktene (−40, −40), (0, 32) og (100, 212)](/img/user/_resources/1p-h24-1-5.jpeg){width=80%}
 
 Grader celsius ($\degree\mathrm{C}$) og grader fahrenheit ($\degree\mathrm{F}$) er to ulike måleenheter for temperatur. Det er en lineær sammenheng mellom de to måleenhetene. Punktene i koordinatsystemet ovenfor viser temperaturer målt i grader celsius og i grader fahrenheit.
 
@@ -703,7 +703,7 @@ $$384\,000 + 20\,000 \cdot 93 = 756\,000 + 16\,000 \cdot 93 = 2\,244\,000 \text{
 
 Oversikten nedenfor er hentet fra valgresultat.no etter kommunestyrevalget høsten 2023.
 
-![Resultat fra kommunestyrevalget 2023](/img/user/_resources/1p-h24-2-6-valgresultat.png)
+![Resultat fra kommunestyrevalget 2023](/img/user/_resources/1p-h24-2-6-valgresultat.png){width=80%}
 
 $^{\textcolor{tomato}{*}}$ *I oversikten er «pp» brukt som forkortelse for prosentpoeng.*
 
@@ -771,7 +771,7 @@ Sofie arbeider ved en bedrift og skal lage kasser av metallplater. Metallplatene
 
 For å lage kassene skal hun skjære bort et kvadrat i hvert av hjørnene og brette opp sidekantene.
 
-![Illustrasjon av metallplate, utskjæring og ferdig kasse](/img/user/_resources/1p-h24-2-8.jpeg)
+![Illustrasjon av metallplate, utskjæring og ferdig kasse](/img/user/_resources/1p-h24-2-8.jpeg){width=80%}
 
 Kassene skal fylles med sand.
 

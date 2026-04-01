@@ -5,7 +5,7 @@
 
 # Areal av område begrenset av sirkler
 
-![Hva er arealet av det røde området?](/img/user/_resources/omraade-begrenset-av-sirkler.png)
+![Hva er arealet av det røde området?](/img/user/_resources/omraade-begrenset-av-sirkler.png){width=50%}
 
 La sidekantene av kvadratet ha sidelengde lik 10.
 

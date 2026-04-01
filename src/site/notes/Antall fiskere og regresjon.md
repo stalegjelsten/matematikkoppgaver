@@ -22,7 +22,7 @@ Tabellen nedenfor viser antall personer i Norge som hadde fiske som hovedyrke no
 ### a
 Jeg la inn årstallene, antall år etter 1950 og antallet fiskere i regnearket i GeoGebra. Se figuren.
 
-![Regresjon i GeoGebra](/img/user/_resources/1t-h23-2-4-regresjon.png)
+![Regresjon i GeoGebra](/img/user/_resources/1t-h23-2-4-regresjon.png){width=70%}
 
 Punktene så ut til å passe godt med en eksponentiell modell, og det virker fornuftig at antallet fiskere minker med en relativt fast prosentandel hvert år. Den eksponentielle modellen vil også aldri treffe 0, slik at den kan brukes langt fram i tid.
 
@@ -31,7 +31,7 @@ Punktene så ut til å passe godt med en eksponentiell modell, og det virker for
 ### b
 Vi kan bruke modellen for å finne ut hvor mange fiskere det vil være i 1950. Vi regner ut $F(100)$ i GeoGebra siden 2050 tilsvarer $x=100$. 
 
-![Beregning av antall fiskere i 2050](/img/user/_resources/1t-h23-2-4-beregning.png)
+![Beregning av antall fiskere i 2050](/img/user/_resources/1t-h23-2-4-beregning.png){width=25%}
 
 Det er vanskelig å vurdere gydligheten til denne modellen. Jeg vurderer at vi ikke bør bruke den lenger fram i framtida enn 2050. For eksempel er det kun 854 fiskere igjen i 2100 ifølge modellen. Det høres lite ut. Et fornuftig gyldighetsområde kan være $x \in \left[ 0,100 \right]$.
 

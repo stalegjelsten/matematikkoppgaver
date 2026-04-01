@@ -5,7 +5,7 @@
 
 # Tolvkant innskrevet i sirkel
 
-![Tolvkant innskrevet i sirkel med 30°-vinkel](/img/user/_resources/1t-v25-2-3.jpeg)
+![Tolvkant innskrevet i sirkel med 30°-vinkel](/img/user/_resources/1t-v25-2-3.jpeg){width=60%}
 
 En tolvkant er innskrevet i en sirkel. Se figuren ovenfor. Tolvkanten er satt sammen av tolv like store likebeinte trekanter. Arealet av tolvkanten er 120.
 

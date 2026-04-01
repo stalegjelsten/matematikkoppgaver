@@ -234,7 +234,7 @@ c) $a \approx -477$ fiskere per år
 ### a
 Jeg la inn årstallene, antall år etter 1950 og antallet fiskere i regnearket i GeoGebra. Se figuren.
 
-![Regresjon i GeoGebra](/img/user/_resources/1t-h23-2-4-regresjon.png)
+![Regresjon i GeoGebra](/img/user/_resources/1t-h23-2-4-regresjon.png){width=70%}
 
 Punktene så ut til å passe godt med en eksponentiell modell, og det virker fornuftig at antallet fiskere minker med en relativt fast prosentandel hvert år. Den eksponentielle modellen vil også aldri treffe 0, slik at den kan brukes langt fram i tid.
 
@@ -244,14 +244,14 @@ Punktene så ut til å passe godt med en eksponentiell modell, og det virker for
 Vi kan bruke modellen for å finne ut hvor mange fiskere det vil være i 1950. Vi regner ut $F(100)$ i GeoGebra siden 2050 tilsvarer 
 $x=100$. Se linje 2 (merket med `a`) i utklippet.
 
-![Beregning av antall fiskere i 2050 og stigningstall](/img/user/_resources/1tp-h23-2-4-b.png)
+![Beregning av antall fiskere i 2050 og stigningstall](/img/user/_resources/1tp-h23-2-4-b.png){width=70% #fig:stigningstallet}
 
 Det er vanskelig å vurdere gydligheten til denne modellen. Jeg vurderer at vi ikke bør bruke den lenger fram i framtida enn 2050. For eksempel er det kun 854 fiskere igjen i 2100 ifølge modellen. Det høres lite ut. Et fornuftig gyldighetsområde kan være $x \in \left[ 0,100 \right]$.
 
 **Det er omtrent 3645 fiskere i 2050 ifølge modellen vår. Jeg vurderer at modellen er gyldig fra 1950 til 2050.**
 
 ### c
-Se figuren. Jeg la inn punktene og trakk en linje mellom dem. Deretter målte jeg stigningen med stigningsverktøyet.
+Se figur &fig:stigningstallet. Jeg la inn punktene og trakk en linje mellom dem. Deretter målte jeg stigningen med stigningsverktøyet.
 
 **Stigningstallet til den rette linjen er $-477$. Det betyr at i gjennomsnitt sluttet 477 (netto) i yrket sitt mellom årene 1980 $(x=30)$ og 2020 $(x=70)$.**
 
@@ -363,7 +363,7 @@ Klassen til Maria og Marta arbeider med oppgaven nedenfor.
 >
 >Bestem koordinatene til punktet $P$ slik at arealet av rektangelet blir størst mulig.
 >
-> ![Rektangel innskrevet i likebeint rettvinklet trekant](/img/user/_resources/1p-h23-2-5.jpeg)
+> ![Rektangel innskrevet i likebeint rettvinklet trekant](/img/user/_resources/1p-h23-2-5.jpeg){width=50%}
 
 Martin og Maria diskuterer hvordan de skal komme i gang, og vurderer ulike strategier.
 
@@ -406,7 +406,7 @@ I denne oppgaven skal du arbeide med linjestykker som settes sammen til en figur
 
 Skissen nedenfor viser de 16 første linjestykkene i figuren. Lengden av et linjestykke er alltid 90 % av lengden av det forrige linjestykket. Det første linjestykket er 100 cm langt.
 
-![Figur med 16 linjestykker satt sammen](/img/user/_resources/1p-h23-2-6.jpeg)
+![Figur med 16 linjestykker satt sammen](/img/user/_resources/1p-h23-2-6.jpeg){width=70%}
 
 >[!oppgave]
 >a) Bestem summen av lengdene av de 8 første linjestykkene i figuren.
@@ -431,7 +431,7 @@ $$
 
 Jeg bruker et regneark til å legge sammen de 8 første linjestykkene.
 
-![Lengden av de 8 første linjestykkene](/img/user/_resources/1p-h23-2-6-excel.png)
+![Lengden av de 8 første linjestykkene](/img/user/_resources/1p-h23-2-6-excel.png){width=60%}
 
 **Lengden av de 8 første linjestykkene er 569,5 cm.**
 
@@ -502,7 +502,7 @@ Output: `0.52`
 
 Nedenfor ser du en ellipse med sentrum i $S$. Linjestykket $SA = a$ kalles den store halvaksen, og linjestykket $SB = b$ kalles den lille halvaksen.
 
-![Ellipse med stor halvakse a og liten halvakse b](/img/user/_resources/1p-h23-2-7.jpeg)
+![Ellipse med stor halvakse a og liten halvakse b](/img/user/_resources/1p-h23-2-7.jpeg){width=50%}
 
 >[!yellow-box]
 >Den indiske matematikeren Ramanujan kom fram til en formel for omkretsen av en ellipse.
@@ -535,7 +535,7 @@ $$
 
 Så regner vi ut omkretsen $O$ ved hjelp av formelen (jeg bruker CAS i GeoGebra som kalkulator).
 
-![Beregning av omkrets med Ramanujans formel](/img/user/_resources/1p-h23-ramanujan-cas.png)
+![Beregning av omkrets med Ramanujans formel](/img/user/_resources/1p-h23-ramanujan-cas.png){width=30%}
 
 **Omkretsen er omtrent 15,9 cm. Det er samme svaret som Mari har funnet.**
 
@@ -572,11 +572,11 @@ $$
 
 Grafen nedenfor viser hvordan farten til en racerbil har variert gjennom en runde av et billøp.
 
-![Graf over fart gjennom en runde av billøpet](/img/user/_resources/1p-h23-2-8-1.jpeg)
+![Graf over fart gjennom en runde av billøpet](/img/user/_resources/1p-h23-2-8-1.jpeg){width=70%}
 
 Bilen har kjørt på en av banene nedenfor, og runden har startet ved den røde markeringen.
 
-![Seks mulige baner A–F](/img/user/_resources/1p-h23-2-8-2.jpeg)
+![Seks mulige baner A–F](/img/user/_resources/1p-h23-2-8-2.jpeg){width=40%}
 
 >[!oppgave]
 >Hvilken bane har bilen kjørt på? Husk å argumentere for at svaret ditt er riktig.

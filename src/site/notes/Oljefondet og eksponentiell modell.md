@@ -9,7 +9,7 @@ Oljefondet (Statens pensjonsfond utland) ble opprettet etter at vi fant olje i N
 
 Figuren nedenfor viser utviklingen av oljefondet fra og med 1998 til og med 2024.
 
-![Utvikling av oljefondet 1998–2024](/img/user/_resources/s1-v25-2-6.jpeg)
+![Utvikling av oljefondet 1998–2024](/img/user/_resources/s1-v25-2-6.jpeg){width=60%}
 
 >[!oppgave]
 >a) Lag en modell $O(t)$ som tilnærmet viser utviklingen av den totale verdien av oljefondet i hele perioden. Husk å begrunne valg av modell.

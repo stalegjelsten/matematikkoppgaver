@@ -7,7 +7,7 @@
 
 En likesidet trekant har sidelengder 2. Se figuren til høyre.
 
-![Likesidet trekant med sidelengder 2](/img/user/_resources/1t-h23-1-1.jpeg)
+![Likesidet trekant med sidelengder 2](/img/user/_resources/1t-h23-1-1.jpeg){width=40%}
 
 >[!oppgave]
 >Bruk trekanten til å vise at

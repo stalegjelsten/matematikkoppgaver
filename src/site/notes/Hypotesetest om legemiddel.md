@@ -47,7 +47,7 @@ $X$ er binomisk fordelt fordi
 
 Jeg bruker GeoGebras sannsynlighetskalkulator til å bestemme $P(X=9)$.
 
-![Utklipp til oppgave 2-2a](/img/user/_resources/s2-v24-2-2a.png)
+![Utklipp til oppgave 2-2a](/img/user/_resources/s2-v24-2-2a.png){width=50%}
 
 $$
 P(X=9)=\underline{\underline{0{,}258}}
@@ -73,7 +73,7 @@ $$
 
 Jeg finner sannsynligheten for at legemiddel B skal ha fungert på 9 av 10 pasienter gitt at $H_{0}$ er sann ved hjelp av GeoGebra.
 
-![Utklipp til oppgave 2-2b](/img/user/_resources/s2-v24-2-2b.png)
+![Utklipp til oppgave 2-2b](/img/user/_resources/s2-v24-2-2b.png){width=50%}
 
 **$p$-verdien er 0,244, dette er større enn signifikansnivået 0,05. Vi kan ikke forkaste $H_{0}$, og vi kan dermed ikke si at legemiddel B fungerer bedre enn legemiddel A.**
 
@@ -87,7 +87,7 @@ Jeg finner sannsynligheten for at legemiddel B skal ha fungert på 9 av 10 pasie
 
 Jeg lar $Y$ være antallet pasienter som legemiddel B fungerer for av de 200 pasientene. $Y$ er tilnærmet normalfordelt siden $\left( \text{Var}(Y)=200 \cdot 0{,}75 \cdot 0{,}25 \right) \gg 5$.
 
-![Utklipp til oppgave 2-2c](/img/user/_resources/s2-v24-2-2c.png)
+![Utklipp til oppgave 2-2c](/img/user/_resources/s2-v24-2-2c.png){width=50%}
 
 Jeg legger inn normalfordelingen med $\mu=200\cdot 0{,}75$ og $\sigma=\sqrt{ 200 \cdot 0{,}75 \cdot 0{,}25 }$. Deretter la jeg inn signifikansnivået 0,05 i svarfeltet, det gir oss at $Y$ må være minst 160,07. Vi må runde opp til 161 for å være sikre på at $p$-verdien blir lavere enn signifikansnivået.
 

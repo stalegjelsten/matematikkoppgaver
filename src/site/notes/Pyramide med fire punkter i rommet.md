@@ -7,7 +7,7 @@
 
 Punktene $A(0,0,0)$, $B(5,0,0)$, $C(4,2,0)$ og $T(0,0,5)$ danner en pyramide, slik figuren viser.
 
-![Pyramide med punktene A, B, C og T](/img/user/_resources/r2-v23-1-3.jpeg)
+![Pyramide med punktene A, B, C og T](/img/user/_resources/r2-v23-1-3.jpeg){width=60%}
 
 >[!oppgave]
 >a) Regn ut volumet av pyramiden.

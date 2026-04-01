@@ -116,7 +116,7 @@ I 2030 er $x = 28$:
 
 $$P(28) = 1{,}9 + 0{,}05 \cdot 28 = 1{,}9 + 1{,}4 = 3{,}3$$
 
-![Lineær modell for personbiler](/img/user/_resources/2p-y-h23-1-2-graf.png)
+![Lineær modell for personbiler](/img/user/_resources/2p-y-h23-1-2-graf.png){width=70%}
 
 **Ifølge modellen vil det være $\underline{\underline{3{,}3 \text{ millioner}}}$ registrerte personbiler i Norge i 2030.**
 
@@ -221,7 +221,7 @@ $$3, \; 5, \; 5, \; 5, \; \textcolor{steelblue}{6}, \; \textcolor{steelblue}{10}
 
 # Sirkelfigurer og figurmønster
 
-![De første 3 figurene](/img/user/_resources/2py-h23-1-5.jpeg)
+![De første 3 figurene](/img/user/_resources/2py-h23-1-5.jpeg){width=50%}
 
 Ovenfor ser du tre figurer. Figurene er satt sammen av små sirkler. Tenk deg at du skal fortsette å lage figurer etter samme mønster.
 
@@ -287,7 +287,7 @@ b) 0,0767 ºC
 
 ### 2-1a
 
-![Graf som viser sjøtemperaturen](/img/user/_resources/2py-h23-2-1-a.png)
+![Graf som viser sjøtemperaturen](/img/user/_resources/2py-h23-2-1-a.png){width=70%}
 
 Vi legger inn $T(x)$ i GeoGebra for å få et overblikk over temperaturen og vi bruker *ekstremalpunkt* for å bestemme høyeste og laveste temperatur. Se punktene $A$ og $B$.
 
@@ -568,7 +568,7 @@ Nedenfor presenteres datamaterialet med beregninger og to diagrammer.
 
 - Andelen menn økte fra $\dfrac{2\,232}{19\,725} \approx 11{,}3 \,\%$ i 2015 til $\dfrac{7\,317}{47\,789} \approx 15{,}3 \,\%$ i 2022.
 
-![Helsefagarbeidere 2015–2022](/img/user/_resources/2p-y-h23-2-6-graf.png)
+![Helsefagarbeidere 2015–2022](/img/user/_resources/2p-y-h23-2-6-graf.png){width=85%}
 
 **Kommentarer til diagrammene:**
 
@@ -769,7 +769,7 @@ $$F(28) = 48{,}9 \cdot 0{,}9104^{28} \approx 3{,}53 \text{ millioner tonn}$$
 
 Målet for 2050 er 90–95 % reduksjon fra 1990, altså mellom 2,565 og 5,13 millioner tonn.
 
-![Lineær og eksponentiell modell for klimagassutslipp](/img/user/_resources/2p-y-h23-2-8-a-graf.png)
+![Lineær og eksponentiell modell for klimagassutslipp](/img/user/_resources/2p-y-h23-2-8-a-graf.png){width=80%}
 
 **Vurdering av modellene:**
 

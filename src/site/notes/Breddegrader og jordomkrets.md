@@ -5,7 +5,7 @@
 
 # Breddegrader og jordomkrets
 
-![Jordklode med breddegrader](/img/user/_resources/1p-h25-2-6.jpeg)
+![Jordklode med breddegrader](/img/user/_resources/1p-h25-2-6.jpeg){width=60%}
 
 Breddegrader angir hvor langt nord eller sør et sted ligger i forhold til ekvator.
 

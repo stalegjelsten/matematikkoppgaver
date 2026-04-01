@@ -11,7 +11,7 @@ Han lurer på hvor mye strøm han brukte på oppvarming av varmtvann til dusjing
 Ludvig gjør undersøkelser og fyller inn data i et regneark. Se nedenfor.
 Strømforbruk måles i kilowattimer (kWh).
 
-![Regneark som viser Ludvigs dusjregnskap](/img/user/_resources/ludvigs-dusj.png)
+![Regneark som viser Ludvigs dusjregnskap](/img/user/_resources/ludvigs-dusj.png){width=40%}
 
 a) Lag et regneark som vist ovenfor. Lag formler i de grønne cellene slik at utregningene blir riktige. Husk å ta med formlene i besvarelsen din.
 

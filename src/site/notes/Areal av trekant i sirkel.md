@@ -29,7 +29,7 @@ Jeg ser at $\triangle SBC$ og $\triangle ABS$ er likebeinte trekanter med to sid
 Jeg har fått oppgitt arealet $A=2\sqrt{ 3 }+6$, derfor ønsker jeg å bruke arealsetningen til å bestemme $r$. Jeg ser at det er mulig å bruke arealsetningen med $BC$, $AB$ og $\angle B$.
 
 ![Del 2 oppgave 5. Skisse av figuren](/img/user/_resources/1t-v23-2-5-2.png) \
-![](/img/user/_resources/1t-v23-2-5.png)
+![](/img/user/_resources/1t-v23-2-5.png){ width=60% }
 
 For å bestemme $BC$ brukte jeg pytagoras i linje 1 og fant $BC=\sqrt{ 2 } |r|$. Dette er lik $\sqrt{ 2 }r$ siden radius alltid må være positiv. 
 

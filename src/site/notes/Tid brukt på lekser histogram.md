@@ -7,7 +7,7 @@
 
 Oda har undersøkt hvor mange minutter elevene ved skolen brukte på lekser en ettermiddag i mai, og laget histogrammet nedenfor.
 
-![Tid brukt på lekser en ettermiddag i mai](/img/user/_resources/2py-v24-2-5.jpeg)
+![Tid brukt på lekser en ettermiddag i mai](/img/user/_resources/2py-v24-2-5.jpeg){width=100%}
 
 Bruk opplysningene du kan lese ut av histogrammet, gjør beregninger, og argumenter for at hver av de fire påstandene nedenfor kan være riktig.
 

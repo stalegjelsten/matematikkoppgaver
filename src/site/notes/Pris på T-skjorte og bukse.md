@@ -5,7 +5,7 @@
 
 # Pris på T-skjorte og bukse
 
-![T-skjorter og bukser med priser](/img/user/_resources/2p-v23-2-1.jpeg)
+![T-skjorter og bukser med priser](/img/user/_resources/2p-v23-2-1.jpeg){width=60%}
 
 >[!oppgave]
 >Hvor mye koster en T-skjorte?

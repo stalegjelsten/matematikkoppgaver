@@ -7,11 +7,11 @@
 
 Grafen nedenfor viser hvordan farten til en racerbil har variert gjennom en runde av et billøp.
 
-![Graf over fart gjennom en runde av billøpet](/img/user/_resources/1p-h23-2-8-1.jpeg)
+![Graf over fart gjennom en runde av billøpet](/img/user/_resources/1p-h23-2-8-1.jpeg){width=70%}
 
 Bilen har kjørt på en av banene nedenfor, og runden har startet ved den røde markeringen.
 
-![Seks mulige baner A–F](/img/user/_resources/1p-h23-2-8-2.jpeg)
+![Seks mulige baner A–F](/img/user/_resources/1p-h23-2-8-2.jpeg){width=40%}
 
 >[!oppgave]
 >Hvilken bane har bilen kjørt på? Husk å argumentere for at svaret ditt er riktig.

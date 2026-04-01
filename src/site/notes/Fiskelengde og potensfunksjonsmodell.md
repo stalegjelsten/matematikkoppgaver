@@ -47,7 +47,7 @@ Modellen er dermed tilnærmet
 
 $$F(x) \approx 0{,}00966 \cdot x^3$$
 
-![Graf for F(x)](/img/user/_resources/1p-h25-2-1-a-graf.png)
+![Graf for F(x)](/img/user/_resources/1p-h25-2-1-a-graf.png){width=70%}
 
 ### 2-1b
 
@@ -55,7 +55,7 @@ Vi løser likningen $F(x) = 11\,500$:
 
 $$0{,}00966 \cdot x^3 = 11\,500$$
 
-![GeoGebra CAS løsning for oppgave 2-1b](/img/user/_resources/1p-h25-2-1-b-CAS.png)
+![GeoGebra CAS løsning for oppgave 2-1b](/img/user/_resources/1p-h25-2-1-b-CAS.png){width=50%}
 
 **Ifølge modellen er en fisk som veier $11{,}5 \, \mathrm{kg}$ omtrent $\underline{\underline{106 \, \mathrm{cm}}}$ lang.**
 

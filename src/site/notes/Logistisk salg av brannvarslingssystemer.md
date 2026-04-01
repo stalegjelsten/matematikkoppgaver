@@ -77,4 +77,4 @@ $$
 >
 >Denne oppgaven kan også løses i CAS ved å sette opp 3 likninger for å bestemme $N$, $a$ og $k$, se skjermbildet under. Du kan også gjøre regresjon på punktene $(0, 4000)$, $(65, 500\,000)$ og $(200, \, 1\,000\,000)$ med logistisk modell.
 >
->![](/img/user/_resources/s2-v25-2-3c-cas.png)
+>![](/img/user/_resources/s2-v25-2-3c-cas.png){width=50%}

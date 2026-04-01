@@ -61,7 +61,7 @@ Jeg brukte GeoGebra og løste $e(p)=70$ i CAS.
 **Prisen for varen bør være 25,8 kroner dersom bedriften skal selge 70 enheter per dag.**
 
 ### 2-1c
-![CAS til oppgave 2-1c](/img/user/_resources/s2-h23-2-1c.png)
+![CAS til oppgave 2-1c](/img/user/_resources/s2-h23-2-1c.png){width=70%}
 
 Gitt at $p(x)=79-12{,}2 \ln x$ er en funksjon som angir prisen ved etterspørselen $x$, så er inntekten gitt ved
 
@@ -74,7 +74,7 @@ Jeg brukte GeoGebra til å finne ekstremalpunktet til $I$ ved å derivere funksj
 **Vi har høyest inntekt ved etterspørselen 238,75 enheter, da er prisen $p(238{,}75)=12{,}2$.**
 
 ### Oppgave 2-1d
-![CAS til oppgave 2-1d](/img/user/_resources/s2-h23-2-1d.png)
+![CAS til oppgave 2-1d](/img/user/_resources/s2-h23-2-1d.png){width=70%}
 
 Jeg la inn funksjonsuttrykket for $K(x)$ i CAS. CAS gir at $I'=K'$ ved $x\approx 80$.
 

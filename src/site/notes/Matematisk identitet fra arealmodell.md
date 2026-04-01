@@ -5,7 +5,7 @@
 
 # Matematisk identitet fra arealmodell
 
-![Rektangel der det grønne området har mål a−b og b](/img/user/_resources/1t-v24-1-3.jpeg)
+![Rektangel der det grønne området har mål a−b og b](/img/user/_resources/1t-v24-1-3.jpeg){width=60%}
 
 >[!oppgave]
 >Sett opp en matematisk identitet med utgangspunkt i arealet av det grønne området.

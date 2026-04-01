@@ -48,7 +48,7 @@ $$
 ### 2-6b
 Vi lar etterspørselen $E(p)$ være lik $x$ (antall solgte varer), og løser med hensyn på $p$, se linje 3 i GeoGebra. 
 
-![Løsning av oppgave 6 del 2 i CAS](/img/user/_resources/s2-h24-2-6.png)
+![Løsning av oppgave 6 del 2 i CAS](/img/user/_resources/s2-h24-2-6.png){width=50%}
 
 Inntektene er gitt ved antall solgte varer $\times$ prisen per vare.
 $$

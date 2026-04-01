@@ -5,7 +5,7 @@
 
 # Kvadratserie geometrisk rekke
 
-![Kvadratserie](/img/user/_resources/2p-h23-2-7.jpeg)
+![Kvadratserie](/img/user/_resources/2p-h23-2-7.jpeg){width=80%}
 
 Tenk deg at du skal tegne en serie med kvadrater der
 

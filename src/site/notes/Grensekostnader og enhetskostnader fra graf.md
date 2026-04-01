@@ -20,7 +20,7 @@ $$
 
 To av linjene tangerer grafen til $K$. Vi kaller tangeringspunktene $A$ og $B$.
 
-![Kostnadsfunksjonen $K(x)$](/img/user/_resources/s2-h23-1-3.png)
+![Kostnadsfunksjonen $K(x)$](/img/user/_resources/s2-h23-1-3.png){width=60%}
 
 >[!oppgave]
 > a) Bestem enhetskostnaden ved produksjon av 40 enheter.

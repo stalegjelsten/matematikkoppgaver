@@ -287,7 +287,7 @@ Jeg ser at hele figuren er rektangler som øker med 2 i bredden og 1 i høyden f
 ### 1-6b
 Antallet hvite kvadrater øker med 3 for hver figur, og det starter på 1. 
 
-![Oppdeling av figur 3 i oppgave 1-6b](/img/user/_resources/2py-v25-1-6b.png)
+![Oppdeling av figur 3 i oppgave 1-6b](/img/user/_resources/2py-v25-1-6b.png){width=50% #fig:16b}
 
 I figuren over har jeg delt opp figur nr 3 i 4 ulike deler. Jeg ser at vi har tre like deler med lengde 2 merket med lilla farge. Disse er altså 1 mindre enn figurtallet. I tillegg har vi en ekstra hvit rute som er fast i alle figurene, merket med rød farge. For figur 3 kunne vi altså skrevet opp antallet som $3 \cdot 2 + 1$ eller ved å bruke figurnummeret $\textcolor{seagreen}{3}$ kunne vi skrevet $3 \cdot (\textcolor{seagreen}{3}-1) + 1$. Et generelt uttrykk for hvite ruter i figur nummer $n$ blir derfor
 $$
@@ -316,7 +316,7 @@ $$
 \underline{\underline{G_{n}=2n^{2}+2n+4}}
 $$
 
-![Oppdeling av figur 3 i oppgave 1-6c](/img/user/_resources/2py-v25-1-6-a.png)
+![Oppdeling av figur 3 i oppgave 1-6c](/img/user/_resources/2py-v25-1-6-a.png){width=50%}
 
 Vi kunne også funnet formelen for antallet grønne felter ved å dele opp de grønne feltene i mindre deler, se figuren.
 
@@ -503,7 +503,7 @@ $U(x)$ består av to ledd: $\textcolor{maroon}{5000 \cdot 0{,}95^{x}}$ og $\text
 **Ledelsen ønsker å minke utslippet fra den ene prosessen med 5 % per år, og ikke gjøre noe med den andre prosessen.**
 
 ### 2-1b
-Til de neste oppgavene har jeg brukt GeoGebra til å regne ut svarene, se figuren-1. 
+Til de neste oppgavene har jeg brukt GeoGebra til å regne ut svarene, se figur &fig:2-1. 
 
 For å finne antall år før utslippene blir halvert har jeg lagt ut linja $y=\frac{6000}{2}$ og funnet skjæringen med $U$, se punkt $A$. 
 
@@ -553,7 +553,7 @@ Ca. $4{,}86\cdot10^5$ kronestykker.
 
 ## Løsningsforslag
 
-![Kronestykker på høyde med Burj Khalifa](/img/user/_resources/2py-v25-2-2.png)
+![Kronestykker på høyde med Burj Khalifa](/img/user/_resources/2py-v25-2-2.png){width=50%}
 
 Se utklippet over. 
 
@@ -718,7 +718,7 @@ $$
 1{,}28x+8=17
 $$
 
-![Løsning av 2-5b i CAS](/img/user/_resources/2py-v25-2-5b.png)
+![Løsning av 2-5b i CAS](/img/user/_resources/2py-v25-2-5b.png){width=50%}
 
 **Det tar 7 uker før skjerfet er 17 meter langt ifølge modellen.**
 
@@ -829,7 +829,7 @@ Presentasjonen skal inneholde
 
 ## Løsningsforslag
 
-Figuren viser et eksempel på svar på denne oppgaven, hvor jeg viser ulike framstillinger og beregninger. 
+Figur &fig:diagrammer viser et eksempel på svar på denne oppgaven, hvor jeg viser ulike framstillinger og beregninger. 
 
 Siden vi skal skal vise utvikling over tid fra 1983 til 2023 så passer linjediagrammer best. Jeg lager tre ulike linjediagrammer, ett diagram som passer til hver måleenhet (antall, antall per 1000 og antall per kvinne). For å vise beregninger med prosentvise endringer så har jeg laget en tabell som viser prosentvis endring fra 1983 fram til hvert år, og jeg har også vist formlene for beregningene i presentasjonen.
 

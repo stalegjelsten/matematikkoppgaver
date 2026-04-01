@@ -275,7 +275,7 @@ Det vil si at fra og med $x = 27$ (mars 2027) vil salget overstige 2000 flasker.
 
 Vi tegner $F(x) = 620 \cdot 1{,}045^x$ og leser av. For spørsmål 1 leser vi av $y$-verdien ved $x = 12$ (grønt punkt). For spørsmål 2 finner vi skjæringspunktet mellom $F(x)$ og linjen $y = 2000$ (rødt punkt).
 
-![Graf av $F(x) = 620 \cdot 1
+![Graf av $F(x) = 620 \cdot 1{,}045^x$ med $y = 2000$ og $x = 12$ markert](/img/user/_resources/2p-y-h24-2-1-a-graf.png){width=70%}
 
 Fra grafen leser vi av:
 
@@ -600,11 +600,11 @@ Betalingsplanen ser slik ut:
 
 En barneskole skal kjøpe lesehuler til de yngste elevene.
 
-![Tre lesehuler i ulike farger](/img/user/_resources/2p-h24-2-8a.jpeg)
+![Tre lesehuler i ulike farger](/img/user/_resources/2p-h24-2-8a.jpeg){width=60%}
 
 En lesehule har mål som vist på tegningen nedenfor. Dybden er 1000 mm.
 
-![Teknisk tegning av lesehule med mål](/img/user/_resources/2p-h24-2-8b.jpeg)
+![Teknisk tegning av lesehule med mål](/img/user/_resources/2p-h24-2-8b.jpeg){width=60%}
 
 >[!oppgave]
 >a) Bestem volumet av rommet inne i lesehulen. Gi svaret i kubikkmeter.

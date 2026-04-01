@@ -13,7 +13,7 @@ $$g(x) = x^2 - 4x + 5$$
 
 $$h(x) = -x + 5$$
 
-![Graf med funksjonene f, g og h](/img/user/_resources/2p-v23-1-4.jpeg)
+![Graf med funksjonene f, g og h](/img/user/_resources/2p-v23-1-4.jpeg){width=50%}
 
 >[!oppgave]
 >a) Bruk en eller flere av funksjonene til å lage en likning som har to løsninger. Bruk den grafiske framstillingen til å løse likningen.

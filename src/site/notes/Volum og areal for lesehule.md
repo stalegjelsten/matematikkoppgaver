@@ -7,11 +7,11 @@
 
 En barneskole skal kjøpe lesehuler til de yngste elevene.
 
-![Tre lesehuler i ulike farger](/img/user/_resources/2p-h24-2-8a.jpeg)
+![Tre lesehuler i ulike farger](/img/user/_resources/2p-h24-2-8a.jpeg){width=60%}
 
 En lesehule har mål som vist på tegningen nedenfor. Dybden er 1000 mm.
 
-![Teknisk tegning av lesehule med mål](/img/user/_resources/2p-h24-2-8b.jpeg)
+![Teknisk tegning av lesehule med mål](/img/user/_resources/2p-h24-2-8b.jpeg){width=60%}
 
 >[!oppgave]
 >a) Bestem volumet av rommet inne i lesehulen. Gi svaret i kubikkmeter.

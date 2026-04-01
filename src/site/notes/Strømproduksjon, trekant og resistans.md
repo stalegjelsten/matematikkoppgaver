@@ -7,7 +7,7 @@
 
 Diagrammet under viser et øyeblikksbilde av strømproduksjonen i Sverige en dag i september. Totalproduksjonen av elektrisk strøm var da omtrent 20 MW. Figuren viser fordelingen mellom kjernekraft, vannkraft, varmekraft og vindkraft.
 
-![Strømproduksjon Sverige](/img/user/_resources/1py-el-h23-1-4-1.jpeg)
+![Strømproduksjon Sverige](/img/user/_resources/1py-el-h23-1-4-1.jpeg){width=60%}
 
 >[!oppgave]
 >a) Hvor mange MW kom fra vannkraft?
@@ -68,7 +68,7 @@ Figuren under viser en rettvinklet trekant hvor $\sin u = 0{,}5$ og den minste k
 </g>
 </g>
 </svg>
-
+{width=40%}
 
 >[!oppgave]
 >b) Bruk definisjonen av sinus og regn ut lengden av hypotenusen $AC$.

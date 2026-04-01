@@ -11,7 +11,7 @@ Hvert diagram er en grafisk framstilling av de tre effektene som en elmotor har:
 - $P$ er aktiv effekt (W)
 - $Q$ er reaktiv effekt (VAr)
 
-![Effektdiagrammer for to motorer](/img/user/_resources/1py-el-h25-1-5.png)
+![Effektdiagrammer for to motorer](/img/user/_resources/1py-el-h25-1-5.png){width=75%}
 
 Felix stiller seg selv noen spørsmål om de ulike motorene:
 

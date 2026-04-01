@@ -14,7 +14,7 @@ Klassen til Maria og Marta arbeider med oppgaven nedenfor.
 >
 >Bestem koordinatene til punktet $P$ slik at arealet av rektangelet blir størst mulig.
 >
-> ![Rektangel innskrevet i likebeint rettvinklet trekant](/img/user/_resources/1p-h23-2-5.jpeg)
+> ![Rektangel innskrevet i likebeint rettvinklet trekant](/img/user/_resources/1p-h23-2-5.jpeg){width=50%}
 
 Martin og Maria diskuterer hvordan de skal komme i gang, og vurderer ulike strategier.
 

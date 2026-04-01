@@ -5,7 +5,7 @@
 
 # Celsius og fahrenheit, lineær sammenheng
 
-![Koordinatsystem med punktene (−40, −40), (0, 32) og (100, 212)](/img/user/_resources/1p-h24-1-5.jpeg)
+![Koordinatsystem med punktene (−40, −40), (0, 32) og (100, 212)](/img/user/_resources/1p-h24-1-5.jpeg){width=80%}
 
 Grader celsius ($\degree\mathrm{C}$) og grader fahrenheit ($\degree\mathrm{F}$) er to ulike måleenheter for temperatur. Det er en lineær sammenheng mellom de to måleenhetene. Punktene i koordinatsystemet ovenfor viser temperaturer målt i grader celsius og i grader fahrenheit.
 

@@ -7,7 +7,7 @@
 
 Oversikten nedenfor er hentet fra valgresultat.no etter kommunestyrevalget høsten 2023.
 
-![Resultat fra kommunestyrevalget 2023](/img/user/_resources/1p-h24-2-6-valgresultat.png)
+![Resultat fra kommunestyrevalget 2023](/img/user/_resources/1p-h24-2-6-valgresultat.png){width=80%}
 
 $^{\textcolor{tomato}{*}}$ *I oversikten er «pp» brukt som forkortelse for prosentpoeng.*
 

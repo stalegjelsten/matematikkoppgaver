@@ -7,7 +7,7 @@
 
 For en deriverbar funksjon $f$ kan vi finne en tilnærmet verdi for lengden av grafen mellom to $x$-verdier ved å bruke en polylinje, slik figuren nedenfor illustrerer.
 
-![Polylinje langs graf](/img/user/_resources/r2-v23-2-6.jpeg)
+![Polylinje langs graf](/img/user/_resources/r2-v23-2-6.jpeg){width=70%}
 
 Dersom vi skal finne lengden av grafen i et intervall $[a,b]$, kan vi dele dette intervallet i $N$ like store delintervall $[x_i, x_{i+1}]$ med bredde $h = \dfrac{b-a}{N}$ og $x_i = a + i \cdot h$.
 
@@ -17,7 +17,7 @@ Vi regner da ut lengdene av linjestykkene som går mellom punktene $(x_i, f(x_i)
 >a) Forklar at lengden av linjestykket som går fra punktet $(x_i, f(x_i))$ til punktet $(x_{i+1}, f(x_{i+1}))$, er gitt ved
 >$$S_i = \sqrt{h^2 + k_i^2}, \quad \text{der } k_i = f(x_{i+1}) - f(x_i)$$
 
-![Illustrasjon av Si, ki og h](/img/user/_resources/r2-v23-2-6-2.jpeg)
+![Illustrasjon av Si, ki og h](/img/user/_resources/r2-v23-2-6-2.jpeg){width=40%}
 
 Funksjonen $g$ er gitt ved
 

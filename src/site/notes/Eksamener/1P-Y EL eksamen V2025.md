@@ -334,7 +334,7 @@ $$\cos 30° = \frac{AB}{AC} \implies AB = \cos 30° \cdot AC = 0{,}87 \cdot 10 =
 </g>
 </g>
 </svg>
-
+{width=40%}
 
 Figuren over viser en effekttrekant. Den viser forholdet mellom de tre ulike effektene i en elektrisk motor og fasevinkelen $\phi$.
 

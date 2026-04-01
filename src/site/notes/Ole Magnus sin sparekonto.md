@@ -73,7 +73,7 @@ For hvert år regnet jeg ut ny saldo med renter ved å multiplisere forrige års
 
 For å finne riktig årlig beløp brukte jeg *Målsøking*-funksjonen, og ba Excel finne ut hva celle *C5* måtte endres til slik at celle *G23* ble 100 000 kr.
 
-![Løsning i Excel](/img/user/_resources/s2-v16-2-4.png)
+![Løsning i Excel](/img/user/_resources/s2-v16-2-4.png){width=100%}
 
 ### 2-4c
 

@@ -9,7 +9,7 @@ En ungdomsbedrift lager og selger duker og løpere til spisebord og sofabord.
 
 En elev i bedriften vil sy en duk med form som en rombe, slik figuren viser.
 
-![Rombe ABCD med diagonaler](/img/user/_resources/1py-h25-1-4b.jpeg)
+![Rombe ABCD med diagonaler](/img/user/_resources/1py-h25-1-4b.jpeg){width=60%}
 
 > [!note] Fakta
 > En rombe er en firkant der alle sidene er like lange, og der to og to av sidene er parallelle med hverandre.

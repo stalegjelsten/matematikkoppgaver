@@ -23,6 +23,6 @@ $$
 
 Nedenfor ser du en grafisk framstilling av sammenhengen:
 
-![Graf for oppgave 1-2](/img/user/_resources/2p-y-v23-1-2-graf.png)
+![Graf for oppgave 1-2](/img/user/_resources/2p-y-v23-1-2-graf.png){width=70%}
 
 Jo flere personer som baker, jo mindre deig får hver person. Kurven er en omvendt proporsjonal funksjon.

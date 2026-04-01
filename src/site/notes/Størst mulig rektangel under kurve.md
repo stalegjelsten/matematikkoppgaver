@@ -11,7 +11,7 @@ $$f(x) = \frac{10}{x^2 + 3}, \quad x > 0$$
 
 Punktene $A$, $B$, $C$ og $D$ danner et rektangel. Punktet $A$ ligger i origo, punktet $B$ ligger på $x$-aksen, punktet $C$ ligger på grafen til $f$, og punktet $D$ ligger på $y$-aksen. Se figuren nedenfor.
 
-![Rektangel under kurven](/img/user/_resources/1t-h25-2-5.jpeg)
+![Rektangel under kurven](/img/user/_resources/1t-h25-2-5.jpeg){width=60%}
 
 >[!oppgave]
 >a) Bestem arealet av rektangelet dersom punktet $B$ har koordinatene $(3, 0)$.

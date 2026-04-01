@@ -9,7 +9,7 @@ Nedenfor ser du grafen til en rasjonal funksjon $f$.
 
 Bestem $f(x)$. Husk å argumentere for at svaret ditt er riktig.
 
-![Rasjonal funksjon $f$](/img/user/_resources/1t-v23-1-4-rasjonal.png)
+![Rasjonal funksjon $f$](/img/user/_resources/1t-v23-1-4-rasjonal.png){width=60%}
 
 > [!info] Kommentar til oppgaven
 > Kommentar: det finnes uendelig mange ulike funksjonsuttrykk som passer. Det holder å finne et funksjonsuttrykk. Inkluder gjerne definisjonsmengden i svaret ditt.

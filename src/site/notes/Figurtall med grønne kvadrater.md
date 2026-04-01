@@ -5,7 +5,7 @@
 
 # Figurtall med grønne kvadrater
 
-![Tre figurer satt sammen av grønne kvadrater](/img/user/_resources/1p-v25-1-6.jpeg)
+![Tre figurer satt sammen av grønne kvadrater](/img/user/_resources/1p-v25-1-6.jpeg){width=60%}
 
 Ovenfor ser du tre figurer. Figurene er satt sammen av små grønne kvadrater. Tenk deg at du skal fortsette å lage figurer etter samme mønster.
 
@@ -31,7 +31,7 @@ b) $F_{n}=n^{2}+2n+1$
 ### b
 Jeg deler opp figuren i tre deler, se figuren
 
-![Oppdeling av figurtall](/img/user/_resources/1p-v25-1-6-losn.png)
+![Oppdeling av figurtall](/img/user/_resources/1p-v25-1-6-losn.png){width=50%}
 
 Jeg ser at kvadratet har størrelse $\textcolor{maroon}{n^{2}}$, den høyre siden har lengde $\textcolor{tomato}{n}$ og den siste delen har lengde $\textcolor{seagreen}{n+1}$. Antall kvadrater er summen av disse 3 delene.
 $$

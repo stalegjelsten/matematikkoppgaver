@@ -95,7 +95,7 @@ Astrid har funnet et gammelt kart over Oslo. Hun vil finne målestokken til kart
 
 Hun bestemmer seg for å gå 300 meter langs en av de rette gatene i byen. Etterpå måler hun og finner ut at den avstanden hun har gått, tilsvarer 2 cm på kartet.
 
-![Kart over Christiania](/img/user/_resources/2p-v24-1-3.jpeg)
+![Kart over Christiania](/img/user/_resources/2p-v24-1-3.jpeg){width=60%}
 
 >[!oppgave]
 >Forklar og vis Astrid hvordan hun kan finne målestokken til kartet.
@@ -235,7 +235,7 @@ c) 43,6 % flere følgere
 ### 2-4a
 Vi lar $x$ være antall måneder etter november og bruker regresjon i GeoGebra. Siden modellen skal stige med 35 % per måned bør vi velge eksponentiell modell, siden disse vokser med en fast prosent.
 
-![Regresjon i GeoGebra av Tuvas følgere](/img/user/_resources/2py-v24-2-4a.png)
+![Regresjon i GeoGebra av Tuvas følgere](/img/user/_resources/2py-v24-2-4a.png){width=100%}
 
 **Modellen $f(x)=5244 \cdot 1{,}35^{x}$ er en modell som vokser med 35 % per måned, og som kan være modellen Tuva har brukt.**
 
@@ -349,7 +349,7 @@ Ifølge datamaterialet i starten av oppgaven har Solveig gått 4 turer på 8 tim
 
 Oda har undersøkt hvor mange minutter elevene ved skolen brukte på lekser en ettermiddag i mai, og laget histogrammet nedenfor.
 
-![Tid brukt på lekser en ettermiddag i mai](/img/user/_resources/2py-v24-2-5.jpeg)
+![Tid brukt på lekser en ettermiddag i mai](/img/user/_resources/2py-v24-2-5.jpeg){width=100%}
 
 Bruk opplysningene du kan lese ut av histogrammet, gjør beregninger, og argumenter for at hver av de fire påstandene nedenfor kan være riktig.
 
@@ -465,7 +465,7 @@ $$\begin{bmatrix} 2x = y - 8 \\ x^2 + x - 48 = y \end{bmatrix}$$
 
 Henrik og Hanne arbeider i et byggefirma. Byggefirmaet har fått i oppdrag å lage en klatrevegg til en skolegård. Klatreveggen skal ha form som en rettavkortet kjegle slik at elevene kan klatre opp til en plattform på toppen. Firmaet vurderer å støpe klatreveggen i betong. Se skissen nedenfor.
 
-![Klatreveggen](/img/user/_resources/2p-v24-2-5.jpeg)
+![Klatreveggen](/img/user/_resources/2p-v24-2-5.jpeg){width=20%}
 
 Skolen har to krav når det gjelder utforming av klatreveggen.
 
@@ -515,7 +515,7 @@ Han har sjekket bankens nettsider og brukt en lånekalkulator for å finne ut hv
 > - ha minst 15 % i egenkapital
 > - kunne klare å betale ned lånet selv om renten øker med 3 prosentpoeng
 
-![Lånekalkulator](/img/user/_resources/2p-v24-2-6.png)
+![Lånekalkulator](/img/user/_resources/2p-v24-2-6.png){width=100%}
 
 >[!oppgave]
 >a) Hvordan kan du se at det er et annuitetslån Johannes har fått opplysninger om? Hvorfor kan han ikke legge inn mer enn 1 700 000 som ønsket lånebeløp i lånekalkulatoren?
@@ -538,7 +538,7 @@ Johannes skal betale første terminbeløp etter én måned.
 
 Johannes vil bruke SIFO sitt referansebudsjett for å få bedre oversikt over økonomien sin.
 
-![SIFO referansebudsjett](/img/user/_resources/2p-v24-2-6-sifo.png)
+![SIFO referansebudsjett](/img/user/_resources/2p-v24-2-6-sifo.png){width=60%}
 
 I tillegg til utgiftene som er representert i dette budsjettet, bruker Johannes 1600 kroner per måned til nedbetaling av studielån og 2000 kroner per måned til ulike forsikringer.
 

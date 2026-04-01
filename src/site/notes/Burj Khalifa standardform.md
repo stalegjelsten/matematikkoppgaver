@@ -15,7 +15,7 @@ Ca. $4{,}86\cdot10^5$ kronestykker.
 
 ## Løsningsforslag
 
-![Kronestykker på høyde med Burj Khalifa](/img/user/_resources/2py-v25-2-2.png)
+![Kronestykker på høyde med Burj Khalifa](/img/user/_resources/2py-v25-2-2.png){width=50%}
 
 Se utklippet over. 
 

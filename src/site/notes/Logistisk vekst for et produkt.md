@@ -32,7 +32,7 @@ c) 53 kr
 ## Løsningsforslag
 
 
-![CAS-utklipp til oppgave 2-1](/img/user/_resources/s2-v24-2-1.png)
+![CAS-utklipp til oppgave 2-1](/img/user/_resources/s2-v24-2-1.png){ width=50% }
 
 ### a
 Jeg ser at funksjonen er logistisk og jeg vet at den største vekstfarten er i vendepunktet.

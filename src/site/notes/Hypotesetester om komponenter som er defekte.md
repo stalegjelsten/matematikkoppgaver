@@ -34,7 +34,7 @@ H_{A}: \quad p > 0{,}01
 \end{aligned}
 $$
 
-![Binomisk hypotesetest til oppgave 3a del 2](/img/user/_resources/s2-h25-2-3a-binomisk.png)
+![Binomisk hypotesetest til oppgave 3a del 2](/img/user/_resources/s2-h25-2-3a-binomisk.png){width=60%}
 
 Vi lar $X$ være antallet defekte komponenter når vi produserer 20 komponenter gitt at nullhypotesen vår er sann. Fra sannsynlighetsvinduet i GeoGebra har vi at
 $$
@@ -54,7 +54,7 @@ Nullhypotesen er fremdeles  $H_{0}: \; p\leq 0{,}01$.
 
 Kontrolløren har kontrollert $n$ komponenter. Det skal maksimalt være 5 % sannsynlighet for at han «var så heldig» at han bare fant 0 eller 1 defekt komponent. Vi skal altså finne den minste verdi for $n$ som gjør at $P(X\leq 1)<0{,}05$, gitt at $p=0{,}01$.
 
-![Binomisk hypotesetest til oppgave 3b del 2](/img/user/_resources/s2-h25-2-3b.png)
+![Binomisk hypotesetest til oppgave 3b del 2](/img/user/_resources/s2-h25-2-3b.png){width=60%}
 
 Ved å endre på $n$ finner jeg fort ut at
 

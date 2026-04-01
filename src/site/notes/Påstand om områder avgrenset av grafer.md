@@ -21,12 +21,12 @@ Påstanden er sann
 
 $f$ og $g$ kommer til å avgrense maksimalt 2 områder siden $f$ er en tredjegradsfunksjon og $g$ er en andregradsfunksjon. For å finne disse to områdene må vi først finne skjæringspunktene mellom grafene.
 
-![Bestemmelse av skjæringspunktet mellom funksjoner i CAS](/img/user/_resources/s2-h24-2-3b-1.png)
+![Bestemmelse av skjæringspunktet mellom funksjoner i CAS](/img/user/_resources/s2-h24-2-3b-1.png){width=50%}
 
 Jeg fant skjæringspunktene i GeoGebra. (*Vi ser her at kravet om at $a>-1$ gjør at vi får reelle løsninger*).
 
 La oss undersøke arealet av områdene som er avgrenset. Jeg gjør dette i GeoGebra ved å integrere fra skjæringspunkt til skjæringspunkt ved hjelp av `IntegralMellom`.
 
-![Bestemmelse av arealet mellom grafene](/img/user/_resources/s2-h24-2-3b-2.png)
+![Bestemmelse av arealet mellom grafene](/img/user/_resources/s2-h24-2-3b-2.png){width=50%}
 
 **Påstanden stemmer. Vi ser at arealene mellom grafene er like store.**

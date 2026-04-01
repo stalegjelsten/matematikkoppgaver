@@ -9,7 +9,7 @@ Elevene Jesper og Nina har fått i oppdrag å lage blomsterdekorasjoner til et b
 
 De har laget et diagram som viser innkjøpskostnadene de forventer til oppdraget.
 
-![Innkjøpskostnader diagram](/img/user/_resources/1py-h25-1-5-2.jpeg)
+![Innkjøpskostnader diagram](/img/user/_resources/1py-h25-1-5-2.jpeg){width=70%}
 
 Jesper og Nina stiller to spørsmål:
 

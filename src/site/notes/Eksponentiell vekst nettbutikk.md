@@ -31,7 +31,7 @@ d) 54,7 %
 ## Løsningsforslag
 
 ### 2-1a
-![Regresjon for Alex sitt salg av hodepynt](/img/user/_resources/2py-h25-2-1-regr.png)
+![Regresjon for Alex sitt salg av hodepynt](/img/user/_resources/2py-h25-2-1-regr.png){width=60%}
 
 Jeg la inn dataene i GeoGebra og brukte regresjon med en eksponentiell modell
 
@@ -45,9 +45,9 @@ Vekstfaktoren $b = 1{,}124$ tilsvarer $112{,}4 \,\%$. Siden utgangspunktet vårt
 
 ### 2-1c
 
-![$f$ skjærer $y=20000$ når omsetningen er 20 000 kr](/img/user/_resources/2py-h25-2-1c-graf.png)
+![$f$ skjærer $y=20000$ når omsetningen er 20 000 kr](/img/user/_resources/2py-h25-2-1c-graf.png){#fig:2-1c-graf width=40%}
 
-Vi kan enten løse likningen $f(x)=20000$ i CAS i GeoGebra, eller så kan vi finne skjæringen med linjen $y=20000$ slik jeg har gjort i figuren-1c-graf, se punkt $A$.
+Vi kan enten løse likningen $f(x)=20000$ i CAS i GeoGebra, eller så kan vi finne skjæringen med linjen $y=20000$ slik jeg har gjort i figur &fig:2-1c-graf, se punkt $A$.
 
 **Alex kommer til å nå målet etter omtrent $\underline{\underline{23{,}5}}$ måneder, det vil si i $\underline{\underline{\text{januar 2027}}}$ ifølge modellen.**
 
@@ -66,7 +66,7 @@ $$
 2032 \cdot x^{6}=20\,000
 $$
 
-![CAS-løsning av oppgave 2-1d](/img/user/_resources/2py-h25-2-1d.png)
+![CAS-løsning av oppgave 2-1d](/img/user/_resources/2py-h25-2-1d.png){width=40%}
 
 Denne vekstfaktoren tilsvarer 46,4 % økning.
 

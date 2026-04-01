@@ -2578,7 +2578,7 @@ z
   </clipPath>
  </defs>
 </svg>
-
+{width=50%}
 
 Thea ønsker å bestemme en tilnærmet verdi for arealet av det grønne området som
 er avgrenset av $x$-aksen, $y$-aksen og grafen til $f$.
@@ -4350,7 +4350,7 @@ z
   </clipPath>
  </defs>
 </svg>
-
+{width=50%}
 
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
@@ -6166,7 +6166,7 @@ z
   </clipPath>
  </defs>
 </svg>
-
+{width=50%}
 
 a) Bestem arealet av de seks rektanglene i figur 2
 
@@ -6197,7 +6197,7 @@ c) 20,002
 ### 2-4a
 Jeg ser at alle rektanglene har bredde 1. Arealet av hvert rektangel er derfor $A_{\square}=h\cdot  b=h\cdot 1=h$. Høyden til rektangelet er gitt ved $f(x)=\frac{1}{9}(x+1)(x-6)^2$ hvor $x\in \left\{ 0, 1, 2 , 3, 4, 5 \right\}$.
 
-![](/img/user/_resources/1t-v23-2-4a.png)
+![](/img/user/_resources/1t-v23-2-4a.png){ width=60% }
 
 Jeg legger sammen funksjonsverdiene i CAS og finner at det samlede arealet er 
 

@@ -13,7 +13,7 @@ Lars har tegnet grafen til $f$ med et innskrevet rektangel $ABCD$. Lars har ogsÃ
 
 <!-- two-column start left-width=40% -->
 
-![Grafen til $f(x)$](/img/user/_resources/s1-v24-2-7.jpeg)
+![Grafen til $f(x)$](/img/user/_resources/s1-v24-2-7.jpeg){width=90%}
 
 ---
 

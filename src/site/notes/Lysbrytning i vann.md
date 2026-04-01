@@ -13,7 +13,7 @@ Når lysstrålen går fra luft til vann, vil
 
 $$\sin u = 1{,}33 \cdot \sin v$$
 
-![Lysstråle som brytes fra luft til vann med vinkler u og v](/img/user/_resources/1t-v24-2-2.jpeg)
+![Lysstråle som brytes fra luft til vann med vinkler u og v](/img/user/_resources/1t-v24-2-2.jpeg){width=60%}
 
 >[!oppgave]
 >a) Hvor stor må vinkelen $u$ være for at vinkelen $v$ skal bli $39\degree$?

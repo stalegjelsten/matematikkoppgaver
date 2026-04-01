@@ -122,7 +122,7 @@ En pakke karbonadedeig koster omtrent 33,3 % mer enn en pakke kyllingkjøttdeig.
 
 Hver gang Ole har fødselsdag, måler foreldrene hvor høy han er. Diagrammet under viser hvor mange centimeter høyden til Ole har økt med fra han ble ett til han ble to år, fra han ble to til han ble tre år, og så videre.
 
-![Vekstdiagram for Ole](/img/user/_resources/1py-el-h23-1-2.jpeg)
+![Vekstdiagram for Ole](/img/user/_resources/1py-el-h23-1-2.jpeg){width=60%}
 
 Da Ole ble ett år, var han 75 cm høy.
 
@@ -272,7 +272,7 @@ $$
 
 Diagrammet under viser et øyeblikksbilde av strømproduksjonen i Sverige en dag i september. Totalproduksjonen av elektrisk strøm var da omtrent 20 MW. Figuren viser fordelingen mellom kjernekraft, vannkraft, varmekraft og vindkraft.
 
-![Strømproduksjon Sverige](/img/user/_resources/1py-el-h23-1-4-1.jpeg)
+![Strømproduksjon Sverige](/img/user/_resources/1py-el-h23-1-4-1.jpeg){width=60%}
 
 >[!oppgave]
 >a) Hvor mange MW kom fra vannkraft?
@@ -333,7 +333,7 @@ Figuren under viser en rettvinklet trekant hvor $\sin u = 0{,}5$ og den minste k
 </g>
 </g>
 </svg>
-
+{width=40%}
 
 >[!oppgave]
 >b) Bruk definisjonen av sinus og regn ut lengden av hypotenusen $AC$.
@@ -402,7 +402,7 @@ $$
 
 # Inverter og effektberegning
 
-![Inverter](/img/user/_resources/1py-el-h23-2-1.jpeg)
+![Inverter](/img/user/_resources/1py-el-h23-2-1.jpeg){width=60%}
 
 En inverter omformer 12 V likestrøm, for eksempel fra et bilbatteri, til 230 V vekselstrøm. I denne oppgaven kan du få behov for formelen
 
@@ -589,7 +589,7 @@ Petter bruker ca. 13,9 GB per måned, så Medium (8 GB) er ikke nok. Large (16 G
 # Transformator med vindinger og effekttrekant
 
 
-![Merking på transformator](/img/user/_resources/1py-el-h23-2-3-transformator.png)
+![Merking på transformator](/img/user/_resources/1py-el-h23-2-3-transformator.png){width=30%}
 
 En transformator har en kapasitet på 10 kVA. Primærspenningen på transformatoren er 400 V, og sekundærspenningen er 230 V. Primærspolen har 10 000 vindinger.
 
@@ -658,7 +658,7 @@ Til transformatoren blir det koblet en belastning på 5000 W, som tilsvarer $P$ 
 </g>
 </g>
 </svg>
-
+{width=30% .invertert}
 
 - $Q$ = reaktiv effekt
 - $P$ = aktiv effekt

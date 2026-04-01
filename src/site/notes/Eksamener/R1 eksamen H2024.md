@@ -225,7 +225,7 @@ En vektor er gitt ved $\vec{q} = [2a - 3,\ 1 + 3b]$
 
 I koordinatsystemet nedenfor ser du grafene til tre funksjoner, $f$, $g$ og $h$. En av funksjonene har gjennomsnittlig vekstfart lik $\frac{1}{2}$ i intervallet $\left[0, 4\right]$, og derivert lik 1 når $x = 1$.
 
-![Koordinatsystem med tre funksjoner f, g og h](/img/user/_resources/s1-h24-1-6.jpeg)
+![Koordinatsystem med tre funksjoner f, g og h](/img/user/_resources/s1-h24-1-6.jpeg){width=60%}
 
 >[!oppgave]
 >Hvilken av funksjonene er dette? Husk å begrunne svaret ditt.
@@ -359,7 +359,7 @@ I koordinatsystemet nedenfor ser du grafen til en funksjon $f$ gitt ved
 
 $$f(x) = \log_a(x)$$
 
-![Graf av logaritmefunksjon med ukjent grunntall](/img/user/_resources/s1-h24-2-3.jpeg)
+![Graf av logaritmefunksjon med ukjent grunntall](/img/user/_resources/s1-h24-2-3.jpeg){width=60%}
 
 >[!oppgave]
 >Bestem $a$. Husk å argumentere for at svaret ditt er riktig.
@@ -383,7 +383,7 @@ $$f(x) = \log_a(x)$$
 
 Nedenfor ser du grafene til funksjonene $f$, $g$ og $h$.
 
-![Grafene til f, g og h](/img/user/_resources/r1-h24-2-5.jpeg)
+![Grafene til f, g og h](/img/user/_resources/r1-h24-2-5.jpeg){width=60%}
 
 >[!oppgave]
 >a) Avgjør og begrunn for hver av funksjonene om de har en omvendt funksjon.
