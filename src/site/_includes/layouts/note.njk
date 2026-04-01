@@ -97,13 +97,6 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {% for imp in dynamics.notes.footer %}
       {% include imp %}
     {% endfor %}
-    <div id="tema-fab">
-      <button class="tema-bytte fullskjerm-fab" data-tema="dark" title="Bytt fargetema" aria-label="Bytt fargetema">
-        <i data-lucide="moon"></i>
-        <i data-lucide="sun"></i>
-        <i data-lucide="monitor"></i>
-      </button>
-    </div>
     {%include "components/lucideIcons.njk"%}
     {% if contentClasses and "canvas-page" in contentClasses %}
       {%include "components/canvasScript.njk"%}
