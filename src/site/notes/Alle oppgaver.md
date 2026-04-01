@@ -10,7 +10,6 @@
 filters:
   and:
     - file.tags.contains("oppgave")
-    - file.folder != "templates"
     - note["dg-publish"] == true
     - "!eksamen.isEmpty()"
 formulas:
