@@ -216,13 +216,26 @@
         previewContent.innerHTML = `
             <div class="preview-title">${highlightTerms(result.title, window.searchTerms)}</div>
             ${tagsHTML}
-            <div class="preview-body">${htmlContent}</div>
+            <div class="preview-body cm-s-obsidian markdown-preview-view">${htmlContent}</div>
         `;
 
         // Highlight search terms in the preview body
         const previewBody = previewContent.querySelector('.preview-body');
         if (previewBody && window.searchTerms) {
             highlightTextNodes(previewBody, window.searchTerms);
+        }
+
+        // Render math in preview
+        if (window.MathJax && previewBody) {
+            try {
+                if (MathJax.startup && MathJax.startup.promise) {
+                    await MathJax.startup.promise;
+                }
+                MathJax.typesetClear([previewBody]);
+                await MathJax.typesetPromise([previewBody]);
+            } catch (e) {
+                console.warn('MathJax typeset failed:', e);
+            }
         }
 
         window.currentPreviewIndex = index;
