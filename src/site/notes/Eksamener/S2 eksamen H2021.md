@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["s2"],"eksamen":"h21","del1_tid":2,"title":"S2 eksamen H2021","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/s2-eksamen-h2021/","permalink":"/eksamener/s2-eksamen-h2021/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"h21","del1_tid":2,"title":"S2 eksamen H2021","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-6](#oppgave-1-6) | [Vekten til poteter](https://matematikkoppgaver.vercel.app/vekten-til-poteter/) | sannsynlighet, normalfordeling | × |
 

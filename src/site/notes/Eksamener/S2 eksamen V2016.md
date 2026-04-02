@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["s2"],"eksamen":"v16","del2_tid":3,"title":"S2 eksamen V2016","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/s2-eksamen-v2016/","permalink":"/eksamener/s2-eksamen-v2016/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"v16","del2_tid":3,"title":"S2 eksamen V2016","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-4](#oppgave-2-4) | [Ole Magnus sin sparekonto](https://matematikkoppgaver.vercel.app/ole-magnus-sin-sparekonto/) | nåverdi, sparing | ✔︎ |
 

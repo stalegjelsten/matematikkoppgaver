@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["r2"],"eksamen":"v23","del1_tid":2,"del2_tid":3,"title":"R2 eksamen V2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/r2-eksamen-v2023/","permalink":"/eksamener/r2-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r2"],"eksamen":"v23","del1_tid":2,"del2_tid":3,"title":"R2 eksamen V2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [To bestemte integraler](https://matematikkoppgaver.vercel.app/to-bestemte-integraler/) | integral | × |
 | [1-2](#oppgave-1-2) | [Tangens, derivert og integral](https://matematikkoppgaver.vercel.app/tangens-derivert-og-integral/) | trigonometri, derivasjon, integral | × |
@@ -16,7 +18,9 @@
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Regresjon på størrelsen av det norske musikkstrømmemarkedet](https://matematikkoppgaver.vercel.app/regresjon-pa-storrelsen-av-det-norske-musikkstrommemarkedet/) | regresjon, logistisk funksjon, derivasjon, funksjoner, tolkning av integraler, integral, samlet mengde | × |
 | [2-2](#oppgave-2-2) | [Parallelle plan og kule](https://matematikkoppgaver.vercel.app/parallelle-plan-og-kule/) | vektorer, geometri | × |

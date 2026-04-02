@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["1t"],"eksamen":"h23","del1_tid":1,"del2_tid":4,"title":"1T eksamen H2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/1t-eksamen-h2023/","permalink":"/eksamener/1t-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1t"],"eksamen":"h23","del1_tid":1,"del2_tid":4,"title":"1T eksamen H2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Likesidet trekant og cos 60°](https://matematikkoppgaver.vercel.app/likesidet-trekant-og-cos-60/) | trigonometri, bevis, argumentasjon | × |
 | [1-2](#oppgave-1-2) | [Skjæringspunkter med x-aksen](https://matematikkoppgaver.vercel.app/skjaeringspunkter-med-x-aksen/) | faktorisering, polynomdivisjon, røtter | × |
@@ -16,14 +18,16 @@
 
 **Del 2** — 4 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Folketall i et område](https://matematikkoppgaver.vercel.app/folketall-i-et-omrade/) | modellering, derivasjon, gjennomsnittlig vekstfart | × |
 | [2-2](#oppgave-2-2) | [Areal av firekantet figur](https://matematikkoppgaver.vercel.app/areal-av-firekantet-figur/) | trigonometri, areal, arealsetningen, cosinussetningen | × |
 | [2-3](#oppgave-2-3) | [Linjestykker og geometrisk vekst](https://matematikkoppgaver.vercel.app/linjestykker-og-geometrisk-vekst/) | geometrisk vekst, rekker, programmering | ✔︎ |
 | [2-4](#oppgave-2-4) | [Antall fiskere og regresjon](https://matematikkoppgaver.vercel.app/antall-fiskere-og-regresjon/) | regresjon, modellering | × |
 | [2-5](#oppgave-2-5) | [Avstand mellom to funksjoner](https://matematikkoppgaver.vercel.app/avstand-mellom-to-funksjoner/) | derivasjon, optimering, funksjoner | × |
-| [2-6](#oppgave-2-6) | [Tredjegradsfunksjon med ukjente koeffisienter](https://matematikkoppgaver.vercel.app/tredjegradsfunksjon-med-ukjente-koeffisienter/) | derivasjon, gjennomsnittlig vekstfart, likningssystem | × |
+| [2-6](#oppgave-2-6) | [Tredjegradsfunksjon med ukjente koeffisienter](https://matematikkoppgaver.vercel.app/tredjegradsfunksjon-med-ukjente-koeffisienter/) | derivasjon, gjennomsnittlig vekstfart, likningssystem | ✔︎ |
 | [2-7](#oppgave-2-7) | [Rektangel under graf](https://matematikkoppgaver.vercel.app/rektangel-under-graf/) | optimering, derivasjon, funksjoner | × |
 
 # Del 1

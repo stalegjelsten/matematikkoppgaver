@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["1p"],"eksamen":"v25","del1_tid":2,"del2_tid":3,"title":"1P eksamen V2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/1p-eksamen-v2025/","permalink":"/eksamener/1p-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p"],"eksamen":"v25","del1_tid":2,"del2_tid":3,"title":"1P eksamen V2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Sjokoladeplate på bensinstasjon](https://matematikkoppgaver.vercel.app/sjokoladeplate-pa-bensinstasjon/) | prosentregning | × |
 | [1-2](#oppgave-1-2) | [Prosentvis framgang for partier](https://matematikkoppgaver.vercel.app/prosentvis-framgang-for-partier/) | prosentregning, prosentvis endring | ✔︎ |
@@ -19,7 +21,9 @@
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Kikhoste som eksponentiell vekst](https://matematikkoppgaver.vercel.app/kikhoste-som-eksponentiell-vekst/) | eksponentialfunksjoner, modellering, gjennomsnittlig vekstfart | × |
 | [2-2](#oppgave-2-2) | [Stikk UT! og turstatistikk](https://matematikkoppgaver.vercel.app/stikk-ut-og-turstatistikk/) | gjennomsnitt, store tall | × |

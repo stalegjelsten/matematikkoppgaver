@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["r1"],"eksamen":"v24","del1_tid":1,"del2_tid":4,"title":"R1 eksamen V2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/r1-eksamen-v2024/","permalink":"/eksamener/r1-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r1"],"eksamen":"v24","del1_tid":1,"del2_tid":4,"title":"R1 eksamen V2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Derivasjon med produktregel og ln](https://matematikkoppgaver.vercel.app/derivasjon-med-produktregel-og-ln/) | derivasjon, logaritmer | × |
 | [1-2](#oppgave-1-2) | [Logaritmeligningen med substitusjon](https://matematikkoppgaver.vercel.app/logaritmeligningen-med-substitusjon/) | logaritmer, likninger | × |
@@ -16,7 +18,9 @@
 
 **Del 2** — 4 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Influensaepidemi og logistisk vekst](https://matematikkoppgaver.vercel.app/influensaepidemi-og-logistisk-vekst/) | logistisk funksjon, derivasjon, asymptoter, modellering | × |
 | [2-2](#oppgave-2-2) | [Påstander om logaritme, derivasjon og invers](https://matematikkoppgaver.vercel.app/pastander-om-logaritme-derivasjon-og-invers/) | logaritmer, derivasjon, funksjoner, argumentasjon, delt forskrift | × |

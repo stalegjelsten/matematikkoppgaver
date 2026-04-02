@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["r2"],"eksamen":"h24","del1_tid":2,"del2_tid":3,"title":"R2 eksamen H2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/r2-eksamen-h2024/","permalink":"/eksamener/r2-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r2"],"eksamen":"h24","del1_tid":2,"del2_tid":3,"title":"R2 eksamen H2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Integral med delvis integrasjon og trigonometri](https://matematikkoppgaver.vercel.app/integral-med-delvis-integrasjon-og-trigonometri/) | integral, trigonometri | ✔︎ |
 | [1-2](#oppgave-1-2) | [Sumformel, kvotient og geometrisk rekke](https://matematikkoppgaver.vercel.app/sumformel-kvotient-og-geometrisk-rekke/) | rekker, uendelig rekke | ✔︎ |
@@ -16,7 +18,9 @@
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Ball i bevegelse med posisjonsvektor](https://matematikkoppgaver.vercel.app/ball-i-bevegelse-med-posisjonsvektor/) | vektorer, derivasjon | ✔︎ |
 | [2-2](#oppgave-2-2) | [Vurder påstander om rekke, plan og areal](https://matematikkoppgaver.vercel.app/vurder-pastander-om-rekke-plan-og-areal/) | rekker, vektorer, integral, argumentasjon | ✔︎ |

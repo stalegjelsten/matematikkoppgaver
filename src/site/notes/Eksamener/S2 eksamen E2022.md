@@ -1,6 +1,31 @@
 ---
-{"tags":["eksamen"],"fag":["s2"],"eksamen":"e22","title":"S2 eksamen E22","dg-publish":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/s2-eksamen-e22/","permalink":"/eksamener/s2-eksamen-e22/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"e22","title":"S2 eksamen E22","contentClasses":"eksamen-side"}}
+{"tags":["eksamen"],"fag":["s2"],"eksamen":"e22","del1_tid":2,"del2_tid":3,"title":"S2 eksamen E2022","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/s2-eksamen-e2022/","permalink":"/eksamener/s2-eksamen-e2022/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"e22","del1_tid":2,"del2_tid":3,"title":"S2 eksamen E2022","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
+
+# Oversikt over eksamensoppgavene
+
+**Del 1** — 2 timer — uten hjelpemidler
+
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1a](#oppgave-1-1a) | [Bestemt integral](https://matematikkoppgaver.vercel.app/bestemt-integral/) | integral | × |
+| [1-1b](#oppgave-1-1b) | [Ubestemt integral](https://matematikkoppgaver.vercel.app/ubestemt-integral/) | integral | × |
+| [1-2](#oppgave-1-2) | [Aritmetisk mur](https://matematikkoppgaver.vercel.app/aritmetisk-mur/) | rekker | × |
+| [1-3](#oppgave-1-3) | [Summen av ukjent uendelig geometrisk rekke](https://matematikkoppgaver.vercel.app/summen-av-ukjent-uendelig-geometrisk-rekke/) | rekker | × |
+| [1-4](#oppgave-1-4) | [Forventningsverdi og varians fra sannsynlighetsfordeling](https://matematikkoppgaver.vercel.app/forventningsverdi-og-varians-fra-sannsynlighetsfordeling/) | sannsynlighet, forventningsverdi, varians, diskrete sannsynlighetsfordelinger | × |
+| [1-6](#oppgave-1-6) | [Argumenter for hvorfor sette grensekostnad lik grenseinntekt](https://matematikkoppgaver.vercel.app/argumenter-for-hvorfor-sette-grensekostnad-lik-grenseinntekt/) | grenseinntekt og grensekostnad, økonomi | × |
+| [1-7](#oppgave-1-7) | [Ukjent programkode](https://matematikkoppgaver.vercel.app/ukjent-programkode/) | programmering, utforskning, funksjoner | × |
+
+**Del 2** — 3 timer — med hjelpemidler
+
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-2](#oppgave-2-2) | [Levetiden til lyspærer](https://matematikkoppgaver.vercel.app/levetiden-til-lyspaerer/) | kontinuerlige sannsynlighetsfordelinger, forventningsverdi, sannsynlighet | ✔︎ |
+| [2-6](#oppgave-2-6) | [Simuler sannsynlighet for høyde over 175 cm](https://matematikkoppgaver.vercel.app/simuler-sannsynlighet-for-hoyde-over-175-cm/) | programmering, simulering, sannsynlighet, normalfordeling | × |
 
 # Del 1
 

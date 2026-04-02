@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"v24","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen V2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/1p-y-el-eksamen-v2024/","permalink":"/eksamener/1p-y-el-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"v24","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen V2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Rekestørrelser og pris per kg](https://matematikkoppgaver.vercel.app/rekestorrelser-og-pris-per-kg/) | prosentregning | ✔︎ |
 | [1-2](#oppgave-1-2) | [Oda sitt budsjett og sparing](https://matematikkoppgaver.vercel.app/oda-sitt-budsjett-og-sparing/) | økonomi, sparing | ✔︎ |
@@ -16,7 +18,9 @@
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Effekttrekant og elmotor](https://matematikkoppgaver.vercel.app/effekttrekant-og-elmotor/) | effekttrekant | ✔︎ |
 | [2-2](#oppgave-2-2) | [Stine hurtiglader elbil](https://matematikkoppgaver.vercel.app/stine-hurtiglader-elbil/) | lineær vekst, modellering | ✔︎ |

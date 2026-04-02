@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["1p"],"eksamen":"v23","del2_tid":4,"title":"1P eksamen V2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/1p-eksamen-v2023/","permalink":"/eksamener/1p-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p"],"eksamen":"v23","del2_tid":4,"title":"1P eksamen V2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 2** — 4 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Gjennomsnittstemperatur på Svalbard](https://matematikkoppgaver.vercel.app/gjennomsnittstemperatur-pa-svalbard/) | geogebra, gjennomsnittlig vekstfart | ✔︎ |
 | [2-2](#oppgave-2-2) | [Bredden av teltplassen](https://matematikkoppgaver.vercel.app/bredden-av-teltplassen/) | excel, utforskning | ✔︎ |

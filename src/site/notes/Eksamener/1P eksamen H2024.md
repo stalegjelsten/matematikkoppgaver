@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["1p"],"eksamen":"h24","del1_tid":1,"del2_tid":4,"title":"1P eksamen H2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/1p-eksamen-h2024/","permalink":"/eksamener/1p-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p"],"eksamen":"h24","del1_tid":1,"del2_tid":4,"title":"1P eksamen H2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Størst prosentvis prisøkning](https://matematikkoppgaver.vercel.app/storst-prosentvis-prisokning/) | prosentregning, prosentvis endring | ✔︎ |
 | [1-2](#oppgave-1-2) | [Maur i standardform og vekt](https://matematikkoppgaver.vercel.app/maur-i-standardform-og-vekt/) | standardform, store tall, tallregning | × |
@@ -16,7 +18,9 @@
 
 **Del 2** — 4 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Avisabonnenter og eksponentialfunksjon](https://matematikkoppgaver.vercel.app/avisabonnenter-og-eksponentialfunksjon/) | eksponentialfunksjoner, stigningstall, geometrisk vekst | × |
 | [2-2](#oppgave-2-2) | [Medisindosering til pasient](https://matematikkoppgaver.vercel.app/medisindosering-til-pasient/) | prosentregning, tallregning | × |

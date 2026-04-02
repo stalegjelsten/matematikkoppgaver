@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["s1"],"eksamen":"h24","del1_tid":1,"del2_tid":4,"title":"S1 eksamen H2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/s1-eksamen-h2024/","permalink":"/eksamener/s1-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s1"],"eksamen":"h24","del1_tid":1,"del2_tid":4,"title":"S1 eksamen H2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Derivasjon av eksponentialfunksjon](https://matematikkoppgaver.vercel.app/derivasjon-av-eksponentialfunksjon/) | derivasjon, eksponentialfunksjoner | ✔︎ |
 | [1-2](#oppgave-1-2) | [Finne verdi programmet skriver ut](https://matematikkoppgaver.vercel.app/finne-verdi-programmet-skriver-ut/) | programmering, funksjonsdrøfting | ✔︎ |
@@ -17,7 +19,9 @@
 
 **Del 2** — 4 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Antrekk og sannsynlighet hos Drakt og Søm](https://matematikkoppgaver.vercel.app/antrekk-og-sannsynlighet-hos-drakt-og-som/) | kombinatorikk, sannsynlighet | × |
 | [2-2](#oppgave-2-2) | [Vurder påstander om funksjoner](https://matematikkoppgaver.vercel.app/vurder-pastander-om-funksjoner/) | gjennomsnittlig vekstfart, grenseverdi, argumentasjon | ✔︎ |

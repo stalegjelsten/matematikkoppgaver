@@ -2,31 +2,35 @@
 {"tags":["eksamen"],"fag":["1p"],"eksamen":"h25","del1_tid":2,"del2_tid":3,"title":"1P eksamen H2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/1p-eksamen-h2025/","permalink":"/eksamener/1p-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p"],"eksamen":"h25","del1_tid":2,"del2_tid":3,"title":"1P eksamen H2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Busstur Mandal til Oslo](https://matematikkoppgaver.vercel.app/busstur-mandal-til-oslo/) | tallregning | ✔︎ |
 | [1-2](#oppgave-1-2) | [Deksel og merverdiavgift](https://matematikkoppgaver.vercel.app/deksel-og-merverdiavgift/) | prosentregning | ✔︎ |
-| [1-3](#oppgave-1-3) | [Støvpartikkel i standardform](https://matematikkoppgaver.vercel.app/stovpartikkel-i-standardform/) | standardform, store tall | ✔︎ |
+| [1-3](#oppgave-1-3) | [Støvpartikkel i standardform](https://matematikkoppgaver.vercel.app/stovpartikkel-i-standardform/) | standardform, store tall | × |
 | [1-4](#oppgave-1-4) | [Pyramide med proporsjonal høyde](https://matematikkoppgaver.vercel.app/pyramide-med-proporsjonal-hoyde/) | geometri, proporsjonalitet | ✔︎ |
 | [1-5](#oppgave-1-5) | [Lønn og timelønn fra grafer](https://matematikkoppgaver.vercel.app/lonn-og-timelonn-fra-grafer/) | lineær vekst, tolke grafer, likningssystem | ✔︎ |
 | [1-6](#oppgave-1-6) | [Femkanttall og programmering](https://matematikkoppgaver.vercel.app/femkanttall-og-programmering/) | figurtall, programmering | ✔︎ |
-| [1-6](#oppgave-1-6) | [30-dagersbillett og pris per tur](https://matematikkoppgaver.vercel.app/30-dagersbillett-og-pris-per-tur/) | omvendt proporsjonalitet, grafisk framstilling | ✔︎ |
+| [1-6](#oppgave-1-6) | [30-dagersbillett og pris per tur](https://matematikkoppgaver.vercel.app/30-dagersbillett-og-pris-per-tur/) | omvendt proporsjonalitet, grafisk framstilling | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [Fiskelengde og potensfunksjonsmodell](https://matematikkoppgaver.vercel.app/fiskelengde-og-potensfunksjonsmodell/) | potensfunksjon, regresjon, stigningstall | ✔︎ |
-| [2-2](#oppgave-2-2) | [Grafer og fire situasjoner](https://matematikkoppgaver.vercel.app/grafer-og-fire-situasjoner/) | funksjoner, tolke grafer, eksponentiell vekst, omvendt proporsjonalitet | ✔︎ |
-| [2-3](#oppgave-2-3) | [Betalingsanmerkninger og gjennomsnitt](https://matematikkoppgaver.vercel.app/betalingsanmerkninger-og-gjennomsnitt/) | statistikk, gjennomsnitt, prosentregning | ✔︎ |
-| [2-4](#oppgave-2-4) | [Eplekjøp i USA med valuta og enheter](https://matematikkoppgaver.vercel.app/eplekjop-i-usa-med-valuta-og-enheter/) | tallregning, prosentregning | ✔︎ |
-| [2-5](#oppgave-2-5) | [Aksje ned og opp igjen](https://matematikkoppgaver.vercel.app/aksje-ned-og-opp-igjen/) | prosentregning, prosentvis endring | ✔︎ |
-| [2-6](#oppgave-2-6) | [Breddegrader og jordomkrets](https://matematikkoppgaver.vercel.app/breddegrader-og-jordomkrets/) | geometri, tallregning | ✔︎ |
-| [2-7](#oppgave-2-7) | [Blomsterbed med halvsirkel](https://matematikkoppgaver.vercel.app/blomsterbed-med-halvsirkel/) | geometri, funksjoner, areal | ✔︎ |
+| [2-1](#oppgave-2-1) | [Fiskelengde og potensfunksjonsmodell](https://matematikkoppgaver.vercel.app/fiskelengde-og-potensfunksjonsmodell/) | potensfunksjon, regresjon, stigningstall | × |
+| [2-2](#oppgave-2-2) | [Grafer og fire situasjoner](https://matematikkoppgaver.vercel.app/grafer-og-fire-situasjoner/) | funksjoner, tolke grafer, eksponentiell vekst, omvendt proporsjonalitet | × |
+| [2-3](#oppgave-2-3) | [Betalingsanmerkninger og gjennomsnitt](https://matematikkoppgaver.vercel.app/betalingsanmerkninger-og-gjennomsnitt/) | statistikk, gjennomsnitt, prosentregning | × |
+| [2-4](#oppgave-2-4) | [Eplekjøp i USA med valuta og enheter](https://matematikkoppgaver.vercel.app/eplekjop-i-usa-med-valuta-og-enheter/) | tallregning, prosentregning | × |
+| [2-5](#oppgave-2-5) | [Aksje ned og opp igjen](https://matematikkoppgaver.vercel.app/aksje-ned-og-opp-igjen/) | prosentregning, prosentvis endring | × |
+| [2-6](#oppgave-2-6) | [Breddegrader og jordomkrets](https://matematikkoppgaver.vercel.app/breddegrader-og-jordomkrets/) | geometri, tallregning | × |
+| [2-7](#oppgave-2-7) | [Blomsterbed med halvsirkel](https://matematikkoppgaver.vercel.app/blomsterbed-med-halvsirkel/) | geometri, funksjoner, areal | × |
 
 # Del 1
 

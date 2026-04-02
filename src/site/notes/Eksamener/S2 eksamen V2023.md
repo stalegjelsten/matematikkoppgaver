@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["s2"],"eksamen":"v23","del1_tid":2,"del2_tid":3,"title":"S2 eksamen V2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/s2-eksamen-v2023/","permalink":"/eksamener/s2-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"v23","del1_tid":2,"del2_tid":3,"title":"S2 eksamen V2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Bestemt integral 2](https://matematikkoppgaver.vercel.app/bestemt-integral-2/) | integral | × |
 | [1-2](#oppgave-1-2) | [Grensekostnader fra graf v23](https://matematikkoppgaver.vercel.app/grensekostnader-fra-graf-v23/) | økonomi, derivasjon, funksjoner, grenseinntekt og grensekostnad | × |
@@ -17,13 +19,14 @@
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Annuitetslån](https://matematikkoppgaver.vercel.app/annuitetslan/) | lån, rekker, excel | × |
 | [2-2](#oppgave-2-2) | [Regresjon på størrelsen av det norske musikkstrømmemarkedet](https://matematikkoppgaver.vercel.app/regresjon-pa-storrelsen-av-det-norske-musikkstrommemarkedet/) | regresjon, logistisk funksjon, derivasjon, funksjoner, tolkning av integraler, integral, samlet mengde | × |
 | [2-3](#oppgave-2-3) | [Hypotesetest med smak av cola](https://matematikkoppgaver.vercel.app/hypotesetest-med-smak-av-cola/) | hypotesetest, binomisk, diskrete sannsynlighetsfordelinger | × |
 | [2-4](#oppgave-2-4) | [Hildegunns ukepenger](https://matematikkoppgaver.vercel.app/hildegunns-ukepenger/) | excel, rekker | × |
-| [2-5](#oppgave-2-5) | [Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole](https://matematikkoppgaver.vercel.app/simulere-uttrekk-av-elevers-karakter-fra-tilfeldig-normalfordelt-skole/) | programmering, simulering, sannsynlighet, normalfordeling, kontinuerlige sannsynlighetsfordelinger | × |
 
 # Del 1
 
@@ -582,108 +585,6 @@ De ukentlige beløpene for de fire første ukene er markert i blått i utklippet
 **I uke 39 så vil tilbud 2 for første gang ha gitt større *samlet utbetaling* enn tilbud 1**, se den gule markeringen i Excel-arket.
 
 [^1]: Oppgaven er både gitt [[Fagsider/S2\|S2]] og [[Fagsider/R2\|R2]] ved eksamen våren 2023. I S2-eksamen het personen Hildegunn, og i R2-eksamen het personen David. Derfor bruker jeg pronomenen hen i denne oppgaven.
-
-
-</div></div>
-
-
-## Oppgave 2-5
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/simulere-uttrekk-av-elevers-karakter-fra-tilfeldig-normalfordelt-skole/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-
-# Simulere uttrekk av elevers karakter fra tilfeldig normalfordelt skole
-
-Forskere ønsker å undersøke matematikkunnskapene til elever i videregående skole. Elever fra tre store skoler skal være med i undersøkelsen.
-
-Karakterstatistikk fra de tre skolene viser at karakterene i matematikk er tilnærmet normalfordelt. Tabellen nedenfor viser forventningsverdi og standardavvik for hver av de tre skolene.
-
-| Skole   | Forventningsverdi | Standardavvik |
-| ------- |:-----------------:|:-------------:|
-| Skole A |        3,8        |      1,2      |
-| Skole B |        3,4        |      1,4      |
-| Skole C |        4,1        |      1,1      |
-
-Forskerne skal trekke ut 20 elever. For hver elev de skal trekke, trekker de først en tilfeldig skole og deretter en tilfeldig elev fra den skolen.
-
->[!oppgave]
->a) Lag et program som simulerer gjennomsnittskarakteren til 20 elever som er valgt ut på denne måten.
->b) Bruk simuleringer til å estimere sannsynligheten for at karaktersnittet til de 20 elevene er høyere enn 4. 
-
-## Fasit
-
-b) $P(X>4)\approx 0{,}205$
-
-## Løsningsforslag
-
-### a
- ```python
- from random import randint, gauss 
- # henter nødvendige pakker for uniform fordeling og normalfordeling 
- 
- n = 20
- sum_karakterer = 0
- for i in range(n):
-     # trekker et tilfeldig tall fra 1 til 3. Dette tilsvarer
-     # skole A, B og C
-     skole = randint(1,3)
-     if skole == 1:
-         # hvis det tilfeldige tallet er 1, så skal vi trekke 
-         # tilfeldig elev fra skole A. I dette tilfellet har 
-         # normalfordelingen my = 3.8 og sigma = 1.2             
-         # # vi trekker en tilfeldig elev med gauss(mu, sigma)
-         elev = gauss(3.8, 1.2)
-     elif skole == 2:
-         elev = gauss(3.4, 1.4)
-     else:
-         elev = gauss(4.1, 1.1)
-     # vi legger til elevens karakter på summen
-     sum_karakterer += elev
- 
- print(f"Gjennomsnittskarakteren til de {n} elevene er {sum_karakterer/n:.3f}.")
- ```
- 
-### b
- ```python
- from random import randint, gauss 
- # henter nødvendige pakker for uniform fordeling og normalfordeling 
- 
- N = 10_000
- antall_gunstige = 0
- for j in range(N):
-     n = 20
-     sum_karakterer = 0
-     for i in range(n):
-         # trekker et tilfeldig tall fra 1 til 3. 
-         # Dette tilsvarer skole A, B og C
-         skole = randint(1,3)
-         if skole == 1:
-             # hvis det tilfeldige tallet er 1, så skal vi trekke 
-             # tilfeldig elev fra skole A. I dette tilfellet har 
-             # normalfordelingen my = 3.8 og sigma = 1.2             
-             # vi trekker en tilfeldig elev med gauss(mu, sigma)
-             elev = gauss(3.8, 1.2)
-         elif skole == 2:
-             elev = gauss(3.4, 1.4)
-         else:
-             elev = gauss(4.1, 1.1)
-         # vi legger til elevens karakter på summen
-         sum_karakterer += elev
-     if sum_karakterer/n > 4:
-         # hvis snittkarakteren er over 4 så har vi et gunstig utfall
-         antall_gunstige += 1
- 
- print(f"Etter {N} simuleringer estimerer jeg at sannsynligheten for at"
-       f"gjennomsnittskarakteren er over 4 til {antall_gunstige/N:.4f}.")
- ```
- 
- Jeg brukte $10\,000$ simuleringer og testet programmet noen ganger. Jeg så at estimatene mine lå mellom 0,200 og 0,210. Siden avvikene er små og programmet allerede bruker 6-7 sekunder på å kjøre, så velger jeg å ikke øke antall simuleringer, $N$, for å oppnå bedre nøyaktighet.
- 
- **Sannsynligheten for at gjennomsnittskarakteren til de 20 elevene er over 4 er estimert til 0,205 ved hjelp av programmet over.**
 
 
 </div></div>

@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["1p"],"eksamen":"v24","del1_tid":1,"del2_tid":4,"title":"1P eksamen V2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/1p-eksamen-v2024/","permalink":"/eksamener/1p-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p"],"eksamen":"v24","del1_tid":1,"del2_tid":4,"title":"1P eksamen V2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Verdens befolkning og promille](https://matematikkoppgaver.vercel.app/verdens-befolkning-og-promille/) | prosentregning, store tall | × |
 | [1-2](#oppgave-1-2) | [Ada sparer med eksponentialfunksjon](https://matematikkoppgaver.vercel.app/ada-sparer-med-eksponentialfunksjon/) | eksponentialfunksjoner, programmering | × |
@@ -14,7 +16,9 @@
 
 **Del 2** — 4 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Modellering av bagettsalg](https://matematikkoppgaver.vercel.app/modellering-av-bagettsalg/) | regresjon, modellering, derivasjon, optimering | × |
 | [2-2](#oppgave-2-2) | [Gautes sparekonto](https://matematikkoppgaver.vercel.app/gautes-sparekonto/) | sparing, vekstfaktor | ✔︎ |
@@ -22,7 +26,7 @@
 | [2-4](#oppgave-2-4) | [Jakob Ingebrigtsens løpsrekorder](https://matematikkoppgaver.vercel.app/jakob-ingebrigtsens-lopsrekorder/) | gjennomsnitt, tallregning | × |
 | [2-5](#oppgave-2-5) | [Knut og Sabrina tallfølge](https://matematikkoppgaver.vercel.app/knut-og-sabrina-tallfolge/) | mønstre, rekursiv sammenheng, argumentasjon | × |
 | [2-6](#oppgave-2-6) | [Lufttrykk og kokepunkt for vann](https://matematikkoppgaver.vercel.app/lufttrykk-og-kokepunkt-for-vann/) | potensfunksjon, eksponentiell vekst, modellering | × |
-| [2-7](#oppgave-2-7) | [Skobutikk ta 3 betal for 2](https://matematikkoppgaver.vercel.app/skobutikk-ta-3-betal-for-2/) | prosentregning, økonomi | × |
+| [2-7](#oppgave-2-7) | [Skobutikk ta 3 betal for 2](https://matematikkoppgaver.vercel.app/skobutikk-ta-3-betal-for-2/) | prosentregning, økonomi | ✔︎ |
 
 # Del 1
 

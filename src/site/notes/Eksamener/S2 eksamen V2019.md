@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["s2"],"eksamen":"v19","del2_tid":3,"title":"S2 eksamen V2019","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/s2-eksamen-v2019/","permalink":"/eksamener/s2-eksamen-v2019/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"v19","del2_tid":3,"title":"S2 eksamen V2019","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-5](#oppgave-2-5) | [Hypotesetest om russetid](https://matematikkoppgaver.vercel.app/hypotesetest-om-russetid/) | binomisk, normalfordeling, hypotesetest | ✔︎ |
 

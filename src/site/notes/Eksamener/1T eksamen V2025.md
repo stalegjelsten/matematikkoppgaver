@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["1t"],"eksamen":"v25","del1_tid":2,"del2_tid":3,"title":"1T eksamen V2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/1t-eksamen-v2025/","permalink":"/eksamener/1t-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1t"],"eksamen":"v25","del1_tid":2,"del2_tid":3,"title":"1T eksamen V2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Asymptoter til rasjonal funksjon](https://matematikkoppgaver.vercel.app/asymptoter-til-rasjonal-funksjon/) | asymptoter, rasjonale funksjoner | × |
 | [1-2](#oppgave-1-2) | [Andregradsulikhet](https://matematikkoppgaver.vercel.app/andregradsulikhet/) | andregradslikninger, algebra | × |
@@ -18,7 +20,9 @@
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Kikhoste og eksponentiell modell](https://matematikkoppgaver.vercel.app/kikhoste-og-eksponentiell-modell/) | eksponentiell vekst, modellering, gjennomsnittlig vekstfart | × |
 | [2-2](#oppgave-2-2) | [Sekker hundemat og likningssystem](https://matematikkoppgaver.vercel.app/sekker-hundemat-og-likningssystem/) | likningssystem | × |

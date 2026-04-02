@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["1p"],"eksamen":"h23","del1_tid":1,"del2_tid":4,"title":"1P eksamen H2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/1p-eksamen-h2023/","permalink":"/eksamener/1p-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p"],"eksamen":"h23","del1_tid":1,"del2_tid":4,"title":"1P eksamen H2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Tobias og daglig vannbehov](https://matematikkoppgaver.vercel.app/tobias-og-daglig-vannbehov/) | tallregning, proporsjonalitet | × |
 | [1-2](#oppgave-1-2) | [Sosiale medier og prosentpoeng](https://matematikkoppgaver.vercel.app/sosiale-medier-og-prosentpoeng/) | prosentregning, argumentasjon | × |
@@ -16,7 +18,9 @@
 
 **Del 2** — 4 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Modell for antall fiskere](https://matematikkoppgaver.vercel.app/modell-for-antall-fiskere/) | regresjon, lineær vekst, stigningstall | ✔︎ |
 | [2-2](#oppgave-2-2) | [Sofie og prosentvis arealendring](https://matematikkoppgaver.vercel.app/sofie-og-prosentvis-arealendring/) | prosentregning, areal, prosentvis endring | × |

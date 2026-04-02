@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["s2"],"eksamen":"h25","del1_tid":2,"del2_tid":3,"title":"S2 eksamen H2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/s2-eksamen-h2025/","permalink":"/eksamener/s2-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"h25","del1_tid":2,"del2_tid":3,"title":"S2 eksamen H2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Ubestemt integral S2 H2025](https://matematikkoppgaver.vercel.app/ubestemt-integral-s2-h2025/) | integral | ✔︎ |
 | [1-2](#oppgave-1-2) | [S2 H2025 ulike rekker del 1](https://matematikkoppgaver.vercel.app/s2-h2025-ulike-rekker-del-1/) | rekker, uendelig rekke | ✔︎ |
@@ -16,7 +18,9 @@
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Logistisk plantesalg](https://matematikkoppgaver.vercel.app/logistisk-plantesalg/) | regresjon, logistisk funksjon, tolkning av integraler | ✔︎ |
 | [2-2](#oppgave-2-2) | [Grensekostnader, enhetskostnader og overskudd](https://matematikkoppgaver.vercel.app/grensekostnader-enhetskostnader-og-overskudd/) | økonomi, grenseinntekt og grensekostnad, enhetskostnad | ✔︎ |
