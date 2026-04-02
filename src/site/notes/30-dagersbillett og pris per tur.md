@@ -11,11 +11,12 @@ Siri har kjøpt en 30-dagersbillett og lurer på hva prisen per busstur blir der
 
 >[!oppgave]
 >a) Skriv av tabellen nedenfor og fyll inn tallene som mangler.
->
->| Antall bussturer | 4 | 8 | 20 | 30 |
->|------------------|---|---|----|----|
->| Pris per busstur |   |   |    |    |
->
+
+| Antall bussturer | 4 | 8 | 20 | 30 |
+|------------------|---|---|----|----|
+| Pris per busstur |   |   |    |    |
+
+>[!oppgave]
 >b) Tegn en graf som viser sammenhengen mellom antall bussturer og prisen per busstur.
 
 En enkeltbillett med buss koster 80 kroner.

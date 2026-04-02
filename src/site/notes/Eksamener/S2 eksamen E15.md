@@ -1,5 +1,5 @@
 ---
-{"tags":["eksamen"],"fag":["s2"],"eksamen":"e15","del1_tid":2,"title":"S2 eksamen E15","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-e15/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"e15","del1_tid":2,"title":"S2 eksamen E15","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-e15/"}}
+{"tags":["eksamen"],"fag":["s2"],"eksamen":"e15","del1_tid":2,"title":"S2 eksamen E15","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/s2-eksamen-e15/","permalink":"/eksamener/s2-eksamen-e15/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"e15","del1_tid":2,"title":"S2 eksamen E15","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
 # Oversikt over oppgavene

@@ -1,5 +1,5 @@
 ---
-{"tags":["eksamen"],"fag":["s2"],"eksamen":"e22","del1_tid":2,"del2_tid":3,"title":"S2 eksamen E22","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-e22/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"e22","del1_tid":2,"del2_tid":3,"title":"S2 eksamen E22","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-e22/"}}
+{"tags":["eksamen"],"fag":["s2"],"eksamen":"e22","del1_tid":2,"del2_tid":3,"title":"S2 eksamen E22","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/s2-eksamen-e22/","permalink":"/eksamener/s2-eksamen-e22/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"e22","del1_tid":2,"del2_tid":3,"title":"S2 eksamen E22","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
 # Oversikt over oppgavene

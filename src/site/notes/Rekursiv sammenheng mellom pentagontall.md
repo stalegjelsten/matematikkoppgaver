@@ -10,8 +10,7 @@ Hver figur nedenfor består av kuler plassert på pentagoner. Antall kuler på h
 
 De fem første figurtallene er 1, 6, 16, 31 og 51
 
-![](/img/user/_resources/s2-h23-2-4.png)
-*Figurkilde: By HB - Own work, CC BY-SA 3.0, <https://commons.wikimedia.org/w/index.php?curid=872244>*
+![Pentagontallene. Figurkilde: By HB - Own work, CC BY-SA 3.0, <https://commons.wikimedia.org/w/index.php?curid=872244>](/img/user/_resources/s2-h23-2-4.png){width=90%}
 
 >[!oppgave]
 >a) Beskriv en rekursiv sammenheng mellom $P_{n}$ og $P_{n-1}$.

@@ -1,5 +1,5 @@
 ---
-{"tags":["eksamen"],"fag":["r1"],"eksamen":"v25","del1_tid":2,"del2_tid":3,"title":"R1 eksamen V2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r1"],"eksamen":"v25","del1_tid":2,"del2_tid":3,"title":"R1 eksamen V2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-v2025/"}}
+{"tags":["eksamen"],"fag":["r1"],"eksamen":"v25","del1_tid":2,"del2_tid":3,"title":"R1 eksamen V2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/r1-eksamen-v2025/","permalink":"/eksamener/r1-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r1"],"eksamen":"v25","del1_tid":2,"del2_tid":3,"title":"R1 eksamen V2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
 # Oversikt over oppgavene

@@ -1,5 +1,5 @@
 ---
-{"tags":["eksamen"],"fag":["r1"],"eksamen":"h23","del1_tid":1,"title":"R1 eksamen H2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r1"],"eksamen":"h23","del1_tid":1,"title":"R1 eksamen H2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/r1-eksamen-h2023/"}}
+{"tags":["eksamen"],"fag":["r1"],"eksamen":"h23","del1_tid":1,"title":"R1 eksamen H2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/r1-eksamen-h2023/","permalink":"/eksamener/r1-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r1"],"eksamen":"h23","del1_tid":1,"title":"R1 eksamen H2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
 # Oversikt over oppgavene
