@@ -1,5 +1,5 @@
 ---
-{"tags":["eksamen"],"fag":["1t"],"eksamen":"h22","del1_tid":1,"del2_tid":4,"title":"1T eksamen H2022","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-t-eksamen-h2022/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1t"],"eksamen":"h22","del1_tid":1,"del2_tid":4,"title":"1T eksamen H2022","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1t-eksamen-h2022/"}}
+{"tags":["eksamen"],"fag":["1t"],"eksamen":"h22","del1_tid":1,"del2_tid":4,"title":"1T eksamen H2022","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/1t-eksamen-h2022/","permalink":"/eksamener/1t-eksamen-h2022/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1t"],"eksamen":"h22","del1_tid":1,"del2_tid":4,"title":"1T eksamen H2022","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
 # Oversikt over oppgavene

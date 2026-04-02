@@ -1,5 +1,5 @@
 ---
-{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"h23","del1_tid":1,"del2_tid":4,"title":"2P-Y eksamen H2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-y-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"h23","del1_tid":1,"del2_tid":4,"title":"2P-Y eksamen H2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2p-y-eksamen-h2023/"}}
+{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"h23","del1_tid":1,"del2_tid":4,"title":"2P-Y eksamen H2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/2p-y-eksamen-h2023/","permalink":"/eksamener/2p-y-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"h23","del1_tid":1,"del2_tid":4,"title":"2P-Y eksamen H2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
 # Oversikt over oppgavene

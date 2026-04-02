@@ -1,5 +1,5 @@
 ---
-{"tags":["eksamen"],"fag":["s1"],"eksamen":"v24","del1_tid":1,"del2_tid":4,"title":"S1 eksamen V2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s1"],"eksamen":"v24","del1_tid":1,"del2_tid":4,"title":"S1 eksamen V2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-v2024/"}}
+{"tags":["eksamen"],"fag":["s1"],"eksamen":"v24","del1_tid":1,"del2_tid":4,"title":"S1 eksamen V2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/s1-eksamen-v2024/","permalink":"/eksamener/s1-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s1"],"eksamen":"v24","del1_tid":1,"del2_tid":4,"title":"S1 eksamen V2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
 # Oversikt over oppgavene

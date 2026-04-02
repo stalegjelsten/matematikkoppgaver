@@ -1,5 +1,5 @@
 ---
-{"tags":["eksamen"],"fag":["1p"],"eksamen":"h24","del1_tid":1,"del2_tid":4,"title":"1P eksamen H2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p"],"eksamen":"h24","del1_tid":1,"del2_tid":4,"title":"1P eksamen H2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1p-eksamen-h2024/"}}
+{"tags":["eksamen"],"fag":["1p"],"eksamen":"h24","del1_tid":1,"del2_tid":4,"title":"1P eksamen H2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/1p-eksamen-h2024/","permalink":"/eksamener/1p-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p"],"eksamen":"h24","del1_tid":1,"del2_tid":4,"title":"1P eksamen H2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
 # Oversikt over oppgavene

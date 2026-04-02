@@ -7,7 +7,7 @@
 
 Funksjonen $f$ er gitt ved
 
-$$f(x) = 2 \cdot \sin\!\left(\frac{\pi}{6}x - \frac{\pi}{3}\right) - 1, \quad D_f = \langle 0, 20 \rangle.$$
+$$f(x) = 2 \cdot \sin\left(\frac{\pi}{6}x - \frac{\pi}{3}\right) - 1, \quad D_f = \langle 0, 20 \rangle.$$
 
 >[!oppgave]
 >a) Løs likningen $f(x) = 0$.

@@ -1,5 +1,5 @@
 ---
-{"tags":["eksamen"],"fag":["s2"],"eksamen":"h23","del1_tid":2,"del2_tid":3,"title":"S2 eksamen H2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"h23","del1_tid":2,"del2_tid":3,"title":"S2 eksamen H2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2023/"}}
+{"tags":["eksamen"],"fag":["s2"],"eksamen":"h23","del1_tid":2,"del2_tid":3,"title":"S2 eksamen H2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/s2-eksamen-h2023/","permalink":"/eksamener/s2-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"h23","del1_tid":2,"del2_tid":3,"title":"S2 eksamen H2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
 # Oversikt over oppgavene
@@ -659,8 +659,7 @@ Hver figur nedenfor består av kuler plassert på pentagoner. Antall kuler på h
 
 De fem første figurtallene er 1, 6, 16, 31 og 51
 
-![](/img/user/_resources/s2-h23-2-4.png)
-*Figurkilde: By HB - Own work, CC BY-SA 3.0, <https://commons.wikimedia.org/w/index.php?curid=872244>*
+![Pentagontallene. Figurkilde: By HB - Own work, CC BY-SA 3.0, <https://commons.wikimedia.org/w/index.php?curid=872244>](/img/user/_resources/s2-h23-2-4.png){width=90%}
 
 >[!oppgave]
 >a) Beskriv en rekursiv sammenheng mellom $P_{n}$ og $P_{n-1}$.

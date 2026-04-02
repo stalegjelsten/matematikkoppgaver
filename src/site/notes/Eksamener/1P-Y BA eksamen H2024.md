@@ -1,5 +1,5 @@
 ---
-{"tags":["eksamen"],"fag":["1p-y ba"],"eksamen":"h24","del2_tid":3,"title":"1P-Y BA eksamen H2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-y-ba-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y ba"],"eksamen":"h24","del2_tid":3,"title":"1P-Y BA eksamen H2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1p-y-ba-eksamen-h2024/"}}
+{"tags":["eksamen"],"fag":["1p-y ba"],"eksamen":"h24","del2_tid":3,"title":"1P-Y BA eksamen H2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/1p-y-ba-eksamen-h2024/","permalink":"/eksamener/1p-y-ba-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y ba"],"eksamen":"h24","del2_tid":3,"title":"1P-Y BA eksamen H2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
 # Oversikt over oppgavene

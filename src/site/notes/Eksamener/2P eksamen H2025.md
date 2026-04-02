@@ -1,5 +1,5 @@
 ---
-{"tags":["eksamen"],"fag":["2p"],"eksamen":"h25","del1_tid":2,"del2_tid":3,"title":"2P eksamen H2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2-p-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p"],"eksamen":"h25","del1_tid":2,"del2_tid":3,"title":"2P eksamen H2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/2p-eksamen-h2025/"}}
+{"tags":["eksamen"],"fag":["2p"],"eksamen":"h25","del1_tid":2,"del2_tid":3,"title":"2P eksamen H2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/2p-eksamen-h2025/","permalink":"/eksamener/2p-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p"],"eksamen":"h25","del1_tid":2,"del2_tid":3,"title":"2P eksamen H2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
 # Oversikt over oppgavene

@@ -1,18 +1,18 @@
 ---
-{"tags":["eksamen"],"fag":["s1"],"eksamen":"v23","del1_tid":1,"del2_tid":4,"title":"S1 eksamen V2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s1"],"eksamen":"v23","del1_tid":1,"del2_tid":4,"title":"S1 eksamen V2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s1-eksamen-v2023/"}}
+{"tags":["eksamen"],"fag":["s1"],"eksamen":"v23","del1_tid":1,"del2_tid":4,"title":"S1 eksamen V2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/s1-eksamen-v2023/","permalink":"/eksamener/s1-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s1"],"eksamen":"v23","del1_tid":1,"del2_tid":4,"title":"S1 eksamen V2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
 # Oversikt over oppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
-| :--: | :--------------------------- | :------------------------ | :--: |
-| [1-1](#oppgave-1-1) | [Algebra potensregning](https://matematikkoppgaver.vercel.app/algebra-potensregning/) | potenser, algebra | × |
-| [1-2](#oppgave-1-2) | [Deriver logaritmefunksjon](https://matematikkoppgaver.vercel.app/deriver-logaritmefunksjon/) | derivasjon, logaritmer | × |
-| [1-3](#oppgave-1-3) | [Grenseverdi når x går mot 2](https://matematikkoppgaver.vercel.app/grenseverdi-nar-x-gar-mot-2/) | grenseverdi, derivasjon, funksjoner, asymptoter | × |
-| [1-4](#oppgave-1-4) | [Kuler i krukke hypergeometrisk](https://matematikkoppgaver.vercel.app/kuler-i-krukke-hypergeometrisk/) | sannsynlighet, hypergeometrisk | × |
-| [1-5](#oppgave-1-5) | [Ukjent program med kostnader for produksjon](https://matematikkoppgaver.vercel.app/ukjent-program-med-kostnader-for-produksjon/) | programmering, økonomi, vekstfart | × |
+|          №          | Navn                                                                                                                              | Temaer                                          | LF  |
+| :-----------------: | :-------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------- | :-: |
+| [1-1](#oppgave-1-1) | [Algebra potensregning](https://matematikkoppgaver.vercel.app/algebra-potensregning/)                                             | potenser, algebra                               |  ×  |
+| [1-2](#oppgave-1-2) | [Deriver logaritmefunksjon](https://matematikkoppgaver.vercel.app/deriver-logaritmefunksjon/)                                     | derivasjon, logaritmer                          |  ×  |
+| [1-3](#oppgave-1-3) | [Grenseverdi når x går mot 2](https://matematikkoppgaver.vercel.app/grenseverdi-nar-x-gar-mot-2/)                                 | grenseverdi, derivasjon, funksjoner, asymptoter |  ×  |
+| [1-4](#oppgave-1-4) | [Kuler i krukke hypergeometrisk](https://matematikkoppgaver.vercel.app/kuler-i-krukke-hypergeometrisk/)                           | sannsynlighet, hypergeometrisk                  |  ×  |
+| [1-5](#oppgave-1-5) | [Ukjent program med kostnader for produksjon](https://matematikkoppgaver.vercel.app/ukjent-program-med-kostnader-for-produksjon/) | programmering, økonomi, vekstfart               |  ×  |
 
 **Del 2** — 4 timer — med hjelpemidler
 

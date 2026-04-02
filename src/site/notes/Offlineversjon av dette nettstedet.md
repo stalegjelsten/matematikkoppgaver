@@ -9,7 +9,7 @@ Det er mulig å bruke denne nettsiden uten internettilkobling hvis du følger in
 
 
 > [!warning] Det det tar svært lang tid å bygge nettsiden
-> Etter mars 2026 så er nettstedet blitt mye større og mer komplekst. Selve byggingen av nettstedet tar nok et sted mellom 1–3 minutter avhengig av hvilken maskin du har. 
+> Etter mars 2026 så er nettstedet blitt mye større og mer komplekst. Selve byggingen av nettstedet tar nok et sted mellom 1–5 minutter avhengig av hvilken maskin du har. 
 
 ## Oppsett i Windows
 For å sette opp nettsiden med Windows 11 så må du gjennomføre stegene
@@ -24,12 +24,12 @@ For å sette opp nettsiden med Windows 11 så må du gjennomføre stegene
 - Lukk terminalen etter at installasjonen er fullført.
 
 ### Last ned siste versjon av nettsiden
-1. Last ned alle filene til denne nettsiden: [https://github.com/stalegjelsten/matematikkoppgaver/archive/refs/heads/main.zip](https://github.com/stalegjelsten/matematikkoppgaver/archive/refs/heads/main.zip)
-2. Trykk høyre museknapp på filen du lastet ned (`matematikkoppgaver-main.zip`) og velg «Pakk ut alle».
-3. Du skal nå ha fått en mappe som heter `matematikkoppgaver-main`. Gå inn i denne mappen. Du skal da finne enda en mappe som heter `matematikkoppgaver-main`. Gå til neste steg i instruksjonene.
+1. Last ned alle filene til denne nettsiden: [https://github.com/stalegjelsten/matematikkoppgaver/archive/refs/heads/master.zip](https://github.com/stalegjelsten/matematikkoppgaver/archive/refs/heads/master.zip)
+2. Trykk høyre museknapp på filen du lastet ned (`matematikkoppgaver-master.zip`) og velg «Pakk ut alle».
+3. Du skal nå ha fått en mappe som heter `matematikkoppgaver-master`. Gå inn i denne mappen. Du skal da finne enda en mappe som heter `matematikkoppgaver-master`. Gå til neste steg i instruksjonene.
 
 ### Bygg nettsiden i Windows
-1. Trykk høyre museknapp på denne mappen `matematikkoppgaver-main` og velg «Åpne i Terminal»[^1]
+1. Trykk høyre museknapp på denne mappen `matematikkoppgaver-master` og velg «Åpne i Terminal»[^1]
 2. I Terminal så dobbeltsjekker du at du befinner deg i mappen "matematikkoppgaver" ved å se adressen
 3. Skriv følgende kommandoer 
 	1. `npm install`
@@ -69,19 +69,19 @@ npm -v # Should print "10.9.3".
 ```
 
 ### Last ned siste versjon av nettsiden (macOS)
-1. Last ned alle filene til denne nettsiden: [https://github.com/stalegjelsten/matematikkoppgaver/archive/refs/heads/main.zip](https://github.com/stalegjelsten/matematikkoppgaver/archive/refs/heads/main.zip)
-2. Åpne filen du lastet ned (`matematikkoppgaver-main.zip`). macOS pakker ut innholdet.
-3. Du skal nå ha fått en mappe som heter `matematikkoppgaver-main`. 
+1. Last ned alle filene til denne nettsiden: [https://github.com/stalegjelsten/matematikkoppgaver/archive/refs/heads/master.zip](https://github.com/stalegjelsten/matematikkoppgaver/archive/refs/heads/master.zip)
+2. Åpne filen du lastet ned (`matematikkoppgaver-master.zip`). macOS pakker ut innholdet.
+3. Du skal nå ha fått en mappe som heter `matematikkoppgaver-master`. 
 
 ## Bygg nettsiden i macOS
 1. Åpne Terminal
 2. Skriv `cd` og et mellomrom
-3. Dra mappen "matematikkoppgaver" fra Finder til Terminal
-4. Nå skal det stå noe som `cd /Users/brukernavn/Downloads/matematikkoppgaver-main` i Terminal. Trykk <kbd>Enter ⏎</kbd>.
+3. Dra mappen `matematikkoppgaver-master` fra nedlastingermappa di til Terminalo
+4. Nå skal det stå noe som `cd /Users/brukernavn/Downloads/matematikkoppgaver-master` i Terminal. Trykk <kbd>Enter ⏎</kbd>.
 5. Skriv følgende kommandoer 
 	1. `npm install`
 	2. `npm run start`
 6. Vent til nettsiden har bygd ferdig og du får opp melding `[11ty] Server at …`
-7. Klikk på lenken etter `Server at` (sannsynligvis [http://localhost:8080/](http://localhost:8080/))
+7. Sjekk meldingen `Server at`. Sannsynligvis kan du finne nettsiden på [http://localhost:8080/](http://localhost:8080/)
 
 [^1]: Det kan være at dette valget er gjemt bak «Vis flere alternativer»

@@ -1,5 +1,5 @@
 ---
-{"tags":["eksamen"],"fag":["1p-y ba"],"eksamen":"h25","del1_tid":1,"del2_tid":3,"title":"1P-Y BA eksamen H2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-y-ba-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y ba"],"eksamen":"h25","del1_tid":1,"del2_tid":3,"title":"1P-Y BA eksamen H2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1p-y-ba-eksamen-h2025/"}}
+{"tags":["eksamen"],"fag":["1p-y ba"],"eksamen":"h25","del1_tid":1,"del2_tid":3,"title":"1P-Y BA eksamen H2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/1p-y-ba-eksamen-h2025/","permalink":"/eksamener/1p-y-ba-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y ba"],"eksamen":"h25","del1_tid":1,"del2_tid":3,"title":"1P-Y BA eksamen H2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
 # Oversikt over oppgavene

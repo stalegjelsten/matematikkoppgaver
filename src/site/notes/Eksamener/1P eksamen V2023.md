@@ -1,5 +1,5 @@
 ---
-{"tags":["eksamen"],"fag":["1p"],"eksamen":"v23","del2_tid":4,"title":"1P eksamen V2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1-p-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p"],"eksamen":"v23","del2_tid":4,"title":"1P eksamen V2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/1p-eksamen-v2023/"}}
+{"tags":["eksamen"],"fag":["1p"],"eksamen":"v23","del2_tid":4,"title":"1P eksamen V2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/1p-eksamen-v2023/","permalink":"/eksamener/1p-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p"],"eksamen":"v23","del2_tid":4,"title":"1P eksamen V2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
 # Oversikt over oppgavene

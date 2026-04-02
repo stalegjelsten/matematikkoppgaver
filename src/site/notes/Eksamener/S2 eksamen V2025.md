@@ -1,5 +1,5 @@
 ---
-{"tags":["eksamen"],"fag":["s2"],"eksamen":"v25","del1_tid":2,"del2_tid":3,"title":"S2 eksamen V2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"v25","del1_tid":2,"del2_tid":3,"title":"S2 eksamen V2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-v2025/"}}
+{"tags":["eksamen"],"fag":["s2"],"eksamen":"v25","del1_tid":2,"del2_tid":3,"title":"S2 eksamen V2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/s2-eksamen-v2025/","permalink":"/eksamener/s2-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"v25","del1_tid":2,"del2_tid":3,"title":"S2 eksamen V2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
 # Oversikt over oppgavene

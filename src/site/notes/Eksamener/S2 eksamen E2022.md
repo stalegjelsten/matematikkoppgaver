@@ -1,5 +1,5 @@
 ---
-{"tags":["eksamen"],"fag":["s2"],"eksamen":"e22","title":"S2 eksamen E22","dg-publish":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-e2022/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"e22","title":"S2 eksamen E22","contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-e22/"}}
+{"tags":["eksamen"],"fag":["s2"],"eksamen":"e22","title":"S2 eksamen E22","dg-publish":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/s2-eksamen-e22/","permalink":"/eksamener/s2-eksamen-e22/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"e22","title":"S2 eksamen E22","contentClasses":"eksamen-side"}}
 ---
 
 # Del 1

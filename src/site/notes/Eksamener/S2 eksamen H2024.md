@@ -1,5 +1,5 @@
 ---
-{"tags":["eksamen"],"fag":["s2"],"eksamen":"h24","del1_tid":2,"del2_tid":3,"title":"S2 eksamen H2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"h24","del1_tid":2,"del2_tid":3,"title":"S2 eksamen H2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side","permalink":"/eksamener/s2-eksamen-h2024/"}}
+{"tags":["eksamen"],"fag":["s2"],"eksamen":"h24","del1_tid":2,"del2_tid":3,"title":"S2 eksamen H2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/s2-eksamen-h2024/","permalink":"/eksamener/s2-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"h24","del1_tid":2,"del2_tid":3,"title":"S2 eksamen H2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
 # Oversikt over oppgavene
