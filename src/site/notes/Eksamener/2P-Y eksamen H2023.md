@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["2p-y"],"eksamen":"h23","del1_tid":1,"del2_tid":4,"title":"2P-Y eksamen H2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/2p-y-eksamen-h2023/","permalink":"/eksamener/2p-y-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"h23","del1_tid":1,"del2_tid":4,"title":"2P-Y eksamen H2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Buss enkeltbillett eller fleksikort](https://matematikkoppgaver.vercel.app/buss-enkeltbillett-eller-fleksikort/) | prosentregning | ✔︎ |
 | [1-2](#oppgave-1-2) | [Personbiler lineær modell](https://matematikkoppgaver.vercel.app/personbiler-lineaer-modell/) | modellering, lineær vekst | ✔︎ |
@@ -16,7 +18,9 @@
 
 **Del 2** — 4 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Sjøtemperatur på Sørlandet](https://matematikkoppgaver.vercel.app/sjotemperatur-pa-sorlandet/) | funksjoner, gjennomsnittlig vekstfart | ✔︎ |
 | [2-2](#oppgave-2-2) | [Målskårere i Eliteserien 2022](https://matematikkoppgaver.vercel.app/malskarere-i-eliteserien-2022/) | statistikk, sentralmål, spredningsmål | ✔︎ |

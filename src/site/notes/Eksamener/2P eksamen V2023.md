@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["2p"],"eksamen":"v23","del1_tid":1,"del2_tid":4,"title":"2P eksamen V2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/2p-eksamen-v2023/","permalink":"/eksamener/2p-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p"],"eksamen":"v23","del1_tid":1,"del2_tid":4,"title":"2P eksamen V2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Prisindeks og brødpris](https://matematikkoppgaver.vercel.app/prisindeks-og-brodpris/) | prisindeks, prosentregning, argumentasjon | × |
 | [1-2](#oppgave-1-2) | [Likebeinte og formlike trekanter](https://matematikkoppgaver.vercel.app/likebeinte-og-formlike-trekanter/) | geometri, argumentasjon | ✔︎ |
@@ -15,7 +17,9 @@
 
 **Del 2** — 4 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Pris på T-skjorte og bukse](https://matematikkoppgaver.vercel.app/pris-pa-t-skjorte-og-bukse/) | likningssystem | × |
 | [2-2](#oppgave-2-2) | [Kaffekoppers gjennomsnitt med ukjent](https://matematikkoppgaver.vercel.app/kaffekoppers-gjennomsnitt-med-ukjent/) | statistikk, gjennomsnitt | ✔︎ |

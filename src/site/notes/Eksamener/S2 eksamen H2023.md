@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["s2"],"eksamen":"h23","del1_tid":2,"del2_tid":3,"title":"S2 eksamen H2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/s2-eksamen-h2023/","permalink":"/eksamener/s2-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"h23","del1_tid":2,"del2_tid":3,"title":"S2 eksamen H2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Bestemt integral 3](https://matematikkoppgaver.vercel.app/bestemt-integral-3/) | integral | ✔︎ |
 | [1-2a](#oppgave-1-2a) | [Uendelig geometrisk rekke](https://matematikkoppgaver.vercel.app/uendelig-geometrisk-rekke/) | uendelig rekke, rekker | ✔︎ |
@@ -17,7 +19,9 @@
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Modell for etterspørsel av vare](https://matematikkoppgaver.vercel.app/modell-for-ettersporsel-av-vare/) | etterspørsel, modellering, regresjon, grenseinntekt og grensekostnad | ✔︎ |
 | [2-2](#oppgave-2-2) | [Miriam og Hermods sparing](https://matematikkoppgaver.vercel.app/miriam-og-hermods-sparing/) | sparing, rekker | ✔︎ |

@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["r2"],"eksamen":"h25","del1_tid":3,"del2_tid":2,"title":"R2 eksamen H2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/r2-eksamen-h2025/","permalink":"/eksamener/r2-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r2"],"eksamen":"h25","del1_tid":3,"del2_tid":2,"title":"R2 eksamen H2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 3 timer — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Ubestemt integral med delvis integrasjon](https://matematikkoppgaver.vercel.app/ubestemt-integral-med-delvis-integrasjon/) | integral | ✔︎ |
 | [1-2](#oppgave-1-2) | [Volum av omdreiningslegeme – kopp](https://matematikkoppgaver.vercel.app/volum-av-omdreiningslegeme-kopp/) | integral, geometri | ✔︎ |
@@ -19,7 +21,9 @@
 
 **Del 2** — 2 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Miniubåt, fart og kollisjon med fiskestim](https://matematikkoppgaver.vercel.app/miniubat-fart-og-kollisjon-med-fiskestim/) | vektorer, geometri | ✔︎ |
 | [2-2](#oppgave-2-2) | [Sinusmodell for elektrisk spenning](https://matematikkoppgaver.vercel.app/sinusmodell-for-elektrisk-spenning/) | regresjon, trigonometri, integral | ✔︎ |

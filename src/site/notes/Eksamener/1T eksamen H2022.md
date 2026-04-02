@@ -2,17 +2,21 @@
 {"tags":["eksamen"],"fag":["1t"],"eksamen":"h22","del1_tid":1,"del2_tid":4,"title":"1T eksamen H2022","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/1t-eksamen-h2022/","permalink":"/eksamener/1t-eksamen-h2022/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1t"],"eksamen":"h22","del1_tid":1,"del2_tid":4,"title":"1T eksamen H2022","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Vis at sin u delt på cos u er tan u](https://matematikkoppgaver.vercel.app/vis-at-sin-u-delt-pa-cos-u-er-tan-u/) | trigonometri | ✔︎ |
 
 **Del 2** — 4 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-2](#oppgave-2-2) | [Leiligheter i bygård](https://matematikkoppgaver.vercel.app/leiligheter-i-bygard/) | likningssystem | × |
 

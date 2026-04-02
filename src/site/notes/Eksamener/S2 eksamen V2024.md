@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["s2"],"eksamen":"v24","del1_tid":2,"del2_tid":3,"title":"S2 eksamen V2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/s2-eksamen-v2024/","permalink":"/eksamener/s2-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"v24","del1_tid":2,"del2_tid":3,"title":"S2 eksamen V2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Bestemt integral og areal](https://matematikkoppgaver.vercel.app/bestemt-integral-og-areal/) | integral, areal under graf | ✔︎ |
 | [1-2](#oppgave-1-2) | [Ubestemt integral v24](https://matematikkoppgaver.vercel.app/ubestemt-integral-v24/) | integral | ✔︎ |
@@ -17,7 +19,9 @@
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Logistisk vekst for et produkt](https://matematikkoppgaver.vercel.app/logistisk-vekst-for-et-produkt/) | økonomi, logistisk funksjon, samlet mengde | ✔︎ |
 | [2-2](#oppgave-2-2) | [Hypotesetest om legemiddel](https://matematikkoppgaver.vercel.app/hypotesetest-om-legemiddel/) | hypotesetest, binomisk | ✔︎ |

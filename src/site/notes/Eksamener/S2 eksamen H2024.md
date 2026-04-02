@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["s2"],"eksamen":"h24","del1_tid":2,"del2_tid":3,"title":"S2 eksamen H2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/s2-eksamen-h2024/","permalink":"/eksamener/s2-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"h24","del1_tid":2,"del2_tid":3,"title":"S2 eksamen H2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1a](#oppgave-1-1a) | [Ubestemt integral h24](https://matematikkoppgaver.vercel.app/ubestemt-integral-h24/) | integral | ✔︎ |
 | [1-1b-c](#oppgave-1-1b-c) | [Integral med ukjent grense](https://matematikkoppgaver.vercel.app/integral-med-ukjent-grense/) | integral, likninger | ✔︎ |
@@ -17,7 +19,9 @@
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Marcos logistiske løpetrening](https://matematikkoppgaver.vercel.app/marcos-logistiske-lopetrening/) | logistisk funksjon, regresjon, samlet mengde | ✔︎ |
 | [2-2](#oppgave-2-2) | [Hypergeometrisk hypotesetest](https://matematikkoppgaver.vercel.app/hypergeometrisk-hypotesetest/) | hypotesetest, hypergeometrisk | ✔︎ |

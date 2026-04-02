@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["2p"],"eksamen":"v24","del1_tid":1,"del2_tid":4,"title":"2P eksamen V2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/2p-eksamen-v2024/","permalink":"/eksamener/2p-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p"],"eksamen":"v24","del1_tid":1,"del2_tid":4,"title":"2P eksamen V2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Gjennomsnitt og median sosiale medier](https://matematikkoppgaver.vercel.app/gjennomsnitt-og-median-sosiale-medier/) | statistikk, gjennomsnitt, median | × |
 | [1-2](#oppgave-1-2) | [Konsumprisindeks vare 2015–2023](https://matematikkoppgaver.vercel.app/konsumprisindeks-vare-2015-2023/) | prisindeks, prosentregning | × |
@@ -16,7 +18,9 @@
 
 **Del 2** — 4 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Instagram-følgere eksponentiell vekst](https://matematikkoppgaver.vercel.app/instagram-folgere-eksponentiell-vekst/) | eksponentiell vekst, vekstfaktor, prosentvis vekst | ✔︎ |
 | [2-2](#oppgave-2-2) | [Skiturstatistikk Solveig og Miriam](https://matematikkoppgaver.vercel.app/skiturstatistikk-solveig-og-miriam/) | statistikk, kumulativ frekvens, sentralmål, spredningsmål | ✔︎ |

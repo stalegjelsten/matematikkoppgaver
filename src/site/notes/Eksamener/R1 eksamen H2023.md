@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["r1"],"eksamen":"h23","del1_tid":1,"title":"R1 eksamen H2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/r1-eksamen-h2023/","permalink":"/eksamener/r1-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r1"],"eksamen":"h23","del1_tid":1,"title":"R1 eksamen H2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Deriver x ln(x)](https://matematikkoppgaver.vercel.app/deriver-x-ln-x/) | derivasjon, logaritmer | × |
 | [1-2](#oppgave-1-2) | [Sorter tallene i riktig rekkefølge](https://matematikkoppgaver.vercel.app/sorter-tallene-i-riktig-rekkefolge/) | logaritmer | × |

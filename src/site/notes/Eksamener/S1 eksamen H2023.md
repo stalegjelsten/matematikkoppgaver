@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["s1"],"eksamen":"h23","del1_tid":1,"del2_tid":4,"title":"S1 eksamen H2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/s1-eksamen-h2023/","permalink":"/eksamener/s1-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s1"],"eksamen":"h23","del1_tid":1,"del2_tid":4,"title":"S1 eksamen H2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Forenkle algebraisk uttrykk](https://matematikkoppgaver.vercel.app/forenkle-algebraisk-uttrykk/) | algebra, potensregning | ✔︎ |
 | [1-2](#oppgave-1-2) | [Logaritmer i stigende rekkefølge](https://matematikkoppgaver.vercel.app/logaritmer-i-stigende-rekkefolge/) | logaritmer | × |
@@ -16,7 +18,9 @@
 
 **Del 2** — 4 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Sofaproduksjon og overskudd](https://matematikkoppgaver.vercel.app/sofaproduksjon-og-overskudd/) | økonomi, andregradslikninger, modellering | × |
 | [2-2](#oppgave-2-2) | [Venstrehendte elever](https://matematikkoppgaver.vercel.app/venstrehendte-elever/) | sannsynlighet, diskrete sannsynlighetsfordelinger | × |

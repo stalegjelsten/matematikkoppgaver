@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"v23","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen V2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/1p-y-el-eksamen-v2023/","permalink":"/eksamener/1p-y-el-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"v23","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen V2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Prisformel sparkesykkel](https://matematikkoppgaver.vercel.app/prisformel-sparkesykkel/) | lineær vekst, formler, likninger | ✔︎ |
 | [1-2](#oppgave-1-2) | [Sammenligne priser på hundemat](https://matematikkoppgaver.vercel.app/sammenligne-priser-pa-hundemat/) | proporsjonalitet, prosentregning, enhetskostnad | ✔︎ |
@@ -15,7 +17,9 @@
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Strøm og virkningsgrad elektromotor](https://matematikkoppgaver.vercel.app/strom-og-virkningsgrad-elektromotor/) | effekttrekant, formler, elektrofag | ✔︎ |
 | [2-2](#oppgave-2-2) | [Effektformel vindturbin](https://matematikkoppgaver.vercel.app/effektformel-vindturbin/) | formler, elektrofag, potensregning | ✔︎ |

@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"h24","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen H2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/1p-y-el-eksamen-h2024/","permalink":"/eksamener/1p-y-el-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"h24","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen H2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Plantejord fra to butikker](https://matematikkoppgaver.vercel.app/plantejord-fra-to-butikker/) | prosentregning, enhetskostnad, økonomi | ✔︎ |
 | [1-2](#oppgave-1-2) | [Størst prosentvis prisøkning](https://matematikkoppgaver.vercel.app/storst-prosentvis-prisokning/) | prosentregning, prosentvis endring | ✔︎ |
@@ -16,7 +18,9 @@
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Effekttrekant for motor](https://matematikkoppgaver.vercel.app/effekttrekant-for-motor/) | trigonometri, effekttrekant | ✔︎ |
 | [2-2](#oppgave-2-2) | [Trine og digitale lagringsmedier](https://matematikkoppgaver.vercel.app/trine-og-digitale-lagringsmedier/) | bits og bytes, store tall | ✔︎ |

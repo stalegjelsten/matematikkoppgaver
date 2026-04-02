@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["1t"],"eksamen":"h25","del1_tid":2,"del2_tid":3,"title":"1T eksamen H2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/1t-eksamen-h2025/","permalink":"/eksamener/1t-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1t"],"eksamen":"h25","del1_tid":2,"del2_tid":3,"title":"1T eksamen H2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Andregradsulikhet med faktorisering](https://matematikkoppgaver.vercel.app/andregradsulikhet-med-faktorisering/) | andregradslikninger, algebra | × |
 | [1-2](#oppgave-1-2) | [Nullpunkter til tredjegradsfunksjon](https://matematikkoppgaver.vercel.app/nullpunkter-til-tredjegradsfunksjon/) | algebra, polynomdivisjon | × |
@@ -17,7 +19,9 @@
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Vekt og lengde potensfunksjon](https://matematikkoppgaver.vercel.app/vekt-og-lengde-potensfunksjon/) | potensfunksjon, derivasjon, regresjon | × |
 | [2-2](#oppgave-2-2) | [Aldersregnestykke med likningssystem](https://matematikkoppgaver.vercel.app/aldersregnestykke-med-likningssystem/) | likningssystem, algebra | × |

@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"v25","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen V2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/1p-y-el-eksamen-v2025/","permalink":"/eksamener/1p-y-el-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"v25","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen V2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Enhetspris og sparing på ris](https://matematikkoppgaver.vercel.app/enhetspris-og-sparing-pa-ris/) | enhetskostnad, prosentregning, økonomi | × |
 | [1-2](#oppgave-1-2) | [Kvadratrotformel og mobilading](https://matematikkoppgaver.vercel.app/kvadratrotformel-og-mobilading/) | røtter, formler, algebra | ✔︎ |
@@ -16,7 +18,9 @@
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Effekttrekant og virkningsgrad](https://matematikkoppgaver.vercel.app/effekttrekant-og-virkningsgrad/) | formler, effekttrekant | ✔︎ |
 | [2-2](#oppgave-2-2) | [Overføringshastighet og digitale data](https://matematikkoppgaver.vercel.app/overforingshastighet-og-digitale-data/) | bits og bytes, store tall, tallregning | × |

@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"h23","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen H2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/1p-y-el-eksamen-h2023/","permalink":"/eksamener/1p-y-el-eksamen-h2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y el"],"eksamen":"h23","del1_tid":1,"del2_tid":3,"title":"1P-Y EL eksamen H2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Kjøttdeig, pris og prosent](https://matematikkoppgaver.vercel.app/kjottdeig-pris-og-prosent/) | proporsjonalitet, prosentregning, tallregning | ✔︎ |
 | [1-2](#oppgave-1-2) | [Ole sin høyde og vekstdiagram](https://matematikkoppgaver.vercel.app/ole-sin-hoyde-og-vekstdiagram/) | tolke grafer, formler, tallregning | ✔︎ |
@@ -15,7 +17,9 @@
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Inverter og effektberegning](https://matematikkoppgaver.vercel.app/inverter-og-effektberegning/) | elektrofag, effekttrekant, formler | ✔︎ |
 | [2-2](#oppgave-2-2) | [Mobiltelefon, lagring og abonnement](https://matematikkoppgaver.vercel.app/mobiltelefon-lagring-og-abonnement/) | bits og bytes, tallregning | ✔︎ |

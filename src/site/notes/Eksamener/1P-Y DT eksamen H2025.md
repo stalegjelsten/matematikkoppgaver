@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["1p-y dt"],"eksamen":"h25","del1_tid":1,"del2_tid":3,"title":"1P-Y DT eksamen H2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/1p-y-dt-eksamen-h2025/","permalink":"/eksamener/1p-y-dt-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y dt"],"eksamen":"h25","del1_tid":1,"del2_tid":3,"title":"1P-Y DT eksamen H2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Løping og maraton](https://matematikkoppgaver.vercel.app/loping-og-maraton/) | lineær vekst, formler, tallregning | ✔︎ |
 | [1-2](#oppgave-1-2) | [Annuitetslån eller serielån](https://matematikkoppgaver.vercel.app/annuitetslan-eller-serielan/) | lån, diagram, tolke grafer | ✔︎ |
@@ -16,7 +18,9 @@
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Interiørarkitekt og anbud](https://matematikkoppgaver.vercel.app/interiorarkitekt-og-anbud/) | excel, anbud, økonomi, grafisk framstilling | × |
 | [2-2](#oppgave-2-2) | [Sofabord med areal og volum](https://matematikkoppgaver.vercel.app/sofabord-med-areal-og-volum/) | prosentregning, areal, volum | × |

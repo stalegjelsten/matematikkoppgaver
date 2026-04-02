@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["2p-y"],"eksamen":"v25","del1_tid":2,"del2_tid":3,"title":"2P-Y eksamen V2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/2p-y-eksamen-v2025/","permalink":"/eksamener/2p-y-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"v25","del1_tid":2,"del2_tid":3,"title":"2P-Y eksamen V2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Elever i klassen basert på prosentandel](https://matematikkoppgaver.vercel.app/elever-i-klassen-basert-pa-prosentandel/) | prosent | ✔︎ |
 | [1-2](#oppgave-1-2) | [Median og gjennomsnitt i heiskø](https://matematikkoppgaver.vercel.app/median-og-gjennomsnitt-i-heisko/) | sentralmål, kumulativ frekvens | ✔︎ |
@@ -19,7 +21,9 @@
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Modell for reduksjon av utslipp](https://matematikkoppgaver.vercel.app/modell-for-reduksjon-av-utslipp/) | eksponentialfunksjoner, geogebra, funksjoner | ✔︎ |
 | [2-2](#oppgave-2-2) | [Burj Khalifa standardform](https://matematikkoppgaver.vercel.app/burj-khalifa-standardform/) | standardform | ✔︎ |

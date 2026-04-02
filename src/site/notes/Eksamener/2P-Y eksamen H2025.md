@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["2p-y"],"eksamen":"h25","del1_tid":2,"del2_tid":3,"title":"2P-Y eksamen H2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/2p-y-eksamen-h2025/","permalink":"/eksamener/2p-y-eksamen-h2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"h25","del1_tid":2,"del2_tid":3,"title":"2P-Y eksamen H2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Prosentvis prisøkning h25](https://matematikkoppgaver.vercel.app/prosentvis-prisokning-h25/) | prosentvis endring, prosent | ✔︎ |
 | [1-2](#oppgave-1-2) | [Standardform og studentkort](https://matematikkoppgaver.vercel.app/standardform-og-studentkort/) | standardform | ✔︎ |
@@ -17,7 +19,9 @@
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Eksponentiell vekst nettbutikk](https://matematikkoppgaver.vercel.app/eksponentiell-vekst-nettbutikk/) | regresjon, modellering, eksponentialfunksjoner, prosentvis endring, prosentvis endring i flere perioder | ✔︎ |
 | [2-2](#oppgave-2-2) | [Befolkningsstatistikk tettsteder](https://matematikkoppgaver.vercel.app/befolkningsstatistikk-tettsteder/) | statistikk, standardavvik, sentralmål | ✔︎ |

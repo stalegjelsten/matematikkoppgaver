@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["2p-y"],"eksamen":"v23","del1_tid":1,"del2_tid":4,"title":"2P-Y eksamen V2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/2p-y-eksamen-v2023/","permalink":"/eksamener/2p-y-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["2p-y"],"eksamen":"v23","del1_tid":1,"del2_tid":4,"title":"2P-Y eksamen V2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 1** — 1 time — uten hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Brødpris og prosentvis vekst](https://matematikkoppgaver.vercel.app/brodpris-og-prosentvis-vekst/) | prosentvis vekst, prosent, argumentasjon | ✔︎ |
 | [1-2](#oppgave-1-2) | [Deig fordelt på personer](https://matematikkoppgaver.vercel.app/deig-fordelt-pa-personer/) | grafisk framstilling, proporsjonalitet, funksjoner | ✔︎ |
@@ -15,7 +17,9 @@
 
 **Del 2** — 4 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Risforbruk på standardform](https://matematikkoppgaver.vercel.app/risforbruk-pa-standardform/) | standardform, store tall, multiplikasjon | ✔︎ |
 | [2-1](#oppgave-2-1) | [Hvor mye ris spiser man i Kina og India](https://matematikkoppgaver.vercel.app/hvor-mye-ris-spiser-man-i-kina-og-india/) | standardform | ✔︎ |

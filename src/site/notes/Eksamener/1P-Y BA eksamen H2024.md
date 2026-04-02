@@ -2,11 +2,13 @@
 {"tags":["eksamen"],"fag":["1p-y ba"],"eksamen":"h24","del2_tid":3,"title":"1P-Y BA eksamen H2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/1p-y-ba-eksamen-h2024/","permalink":"/eksamener/1p-y-ba-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y ba"],"eksamen":"h24","del2_tid":3,"title":"1P-Y BA eksamen H2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
-# Oversikt over oppgavene
+# Oversikt over eksamensoppgavene
 
 **Del 2** — 3 timer — med hjelpemidler
 
-| № | Navn | Temaer | LF |
+Table: {.eksamen-oversikt rows=2.4em}
+
+| **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-2](#oppgave-2-2) | [Kostnadsoversikt for fuglekasser](https://matematikkoppgaver.vercel.app/kostnadsoversikt-for-fuglekasser/) | excel, økonomi | × |
 | [2-3](#oppgave-2-3) | [Eriks bilbruk](https://matematikkoppgaver.vercel.app/eriks-bilbruk/) | excel, økonomi, formler | ✔︎ |
