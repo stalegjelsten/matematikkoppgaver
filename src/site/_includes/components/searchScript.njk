@@ -460,28 +460,28 @@
             return [...results[0].result];
         };
 
-        const allIds = new Set([
-            ...getByField("title"),
-            ...getByField("content"),
-            ...getByField("tags")
-        ]);
+        const titleIds = new Set(getByField("title"));
+        const contentIds = new Set(getByField("content"));
+        const tagIds = new Set(getByField("tags"));
 
-        const dataIds = [...allIds];
-        const finalResults = dataIds.map((id) => {
+        const allIds = new Set([...titleIds, ...contentIds, ...tagIds]);
+
+        const finalResults = [...allIds].map((id) => {
             const result = { ...data[id] };
+            const isFagside = result.tags && result.tags.includes("fagside");
+            const isTema = result.tags && result.tags.includes("tema");
+            // Match type: title matches rank highest
+            result._matchOrder = titleIds.has(id) ? 0 : 1;
+            // Page type: fagside > tema > oppgave
+            result._typeOrder = isFagside ? 0 : isTema ? 1 : 2;
             if (result.tags) {
-                result.tags = result.tags.filter((x) => x !== "gardenEntry" && x !== "note");
+                result.tags = result.tags.filter((x) => x !== "gardenEntry" && x !== "note" && x !== "tema");
             }
             return result;
         });
 
-        // Prioritize topic pages
-        return finalResults.sort((a, b) => {
-            const aIsTema = a.url && a.url.startsWith("/temaer/");
-            const bIsTema = b.url && b.url.startsWith("/temaer/");
-            if (aIsTema && !bIsTema) return -1;
-            if (!aIsTema && bIsTema) return 1;
-            return 0;
-        });
+        return finalResults.sort((a, b) =>
+            a._matchOrder - b._matchOrder || a._typeOrder - b._typeOrder
+        );
     }
 </script>

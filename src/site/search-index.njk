@@ -2,12 +2,20 @@
 permalink: /searchIndex.json
 eleventyExcludeFromCollections: true
 ---
-[{% for post in collections.all | filterSearchItems %}
+{% set searchItems = collections.all | filterSearchItems %}{% set temaItems = collections.tema if collections.tema else [] %}[{% for post in searchItems %}
 {
 		"title": {% if post.data.title %}{{post.data.title | jsonify | safe }}{% else %}{{post.fileSlug | jsonify | safe }}{% endif %},
 		"date":"{{ post.date }}",
 		"url":"{{ post.url }}",
 		"content": {{ post.templateContent | link | stripForSearch | jsonify | safe }},
 		"tags": [{{post.templateContent | link | searchableTags | safe }} {% if post.data.tags %}{% for tag in post.data.tags | toArray %}"{{tag|validJson}}"{% if not loop.last %},{% endif %}{% endfor %}{% endif %}]
+}{{ "," if not loop.last or temaItems.length }}
+{% endfor %}{% for post in temaItems %}
+{
+		"title": {{post.data.title | jsonify | safe }},
+		"date":"{{ post.date }}",
+		"url":"{{ post.url }}",
+		"content": {{post.data.title | jsonify | safe }},
+		"tags": ["tema"]
 }{% if not loop.last %},{% endif %}
 {% endfor %}]

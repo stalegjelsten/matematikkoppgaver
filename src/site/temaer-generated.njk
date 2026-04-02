@@ -3,9 +3,10 @@ pagination:
   data: collections.unikeTemaer
   size: 1
   alias: tema
+  addAllPagesToCollections: true
 eleventyComputed:
   permalink: "/temaer/{{ tema | slugify }}/"
   title: "{{ tema | capitalize }}"
 layout: layouts/note.njk
-tags: []
+tags: ["tema"]
 ---

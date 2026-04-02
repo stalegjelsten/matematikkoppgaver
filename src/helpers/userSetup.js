@@ -160,11 +160,12 @@ function userEleventySetup(eleventyConfig) {
       
       // Include if it's a regular note
       if (tagsArray.includes("note")) return true;
-      
-      // Include if it's a generated topic page (check permalink or url)
-      const url = p.url || p.data.permalink;
-      if (url && url.startsWith("/temaer/")) return true;
-      
+
+      // Include subject pages (fagsider)
+      if (tagsArray.includes("fagside")) return true;
+
+      // Tema pages are handled separately in search-index.njk
+
       return false;
     });
   });
