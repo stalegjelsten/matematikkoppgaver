@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"temaer":["utforskning","integral"],"aliases":null,"del":1,"oppgave":null,"oppgavenummer":[{"fag":"s2","del":1},{"fag":"r2","del":1}],"fag":["s2","r2"],"eksamen":null,"dg-publish":true,"title":"Rart integral","date":"2023-06-06","modified":"2023-06-06","permalink":"/rart-integral/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"temaer":["utforskning","integral"],"aliases":null,"del":1,"oppgave":null,"oppgavenummer":[{"fag":"s2","del":1},{"fag":"r2","del":1}],"fag":["s2","r2"],"eksamen":null,"title":"Rart integral","date":"2023-06-06","modified":"2023-06-06","permalink":"/rart-integral/"}}
+{"tags":["oppgave"],"temaer":["utforskning","integral"],"aliases":null,"del":1,"oppgave":null,"oppgavenummer":[{"fag":"s2","del":1},{"fag":"r2","del":1}],"fag":["s2","r2"],"eksamen":null,"dg-publish":true,"title":"Rart integral","date":"2023-06-06","modified":"2023-06-06","dg-permalink":"/rart-integral/","permalink":"/rart-integral/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"temaer":["utforskning","integral"],"aliases":null,"del":1,"oppgave":null,"oppgavenummer":[{"fag":"s2","del":1},{"fag":"r2","del":1}],"fag":["s2","r2"],"eksamen":null,"title":"Rart integral","date":"2023-06-06","modified":"2023-06-06"}}
 ---
 
 
