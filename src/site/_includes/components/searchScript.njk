@@ -145,6 +145,11 @@
             const doc = parser.parseFromString(html, 'text/html');
 
             const content = doc.querySelector('.content, .cm-s-obsidian, article, main');
+            // Remove the first h1 to avoid duplicate title (shown separately in preview-title)
+            if (content) {
+                const h1 = content.querySelector('h1');
+                if (h1) h1.remove();
+            }
             const htmlContent = content ? content.innerHTML : '';
             previewCache.set(url, htmlContent);
             return htmlContent;
