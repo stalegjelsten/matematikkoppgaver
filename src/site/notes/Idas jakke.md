@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave","rekker","s2","del1"],"temaer":["rekker"],"alias":[null],"del":1,"oppgave":5,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":5}],"fag":"s2","eksamen":"h22","dg-publish":true,"title":"Idas jakke","date":"2023-05-31","modified":"2023-05-31","permalink":"/idas-jakke/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave","rekker","s2","del1"],"temaer":["rekker"],"alias":[null],"del":1,"oppgave":5,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":5}],"fag":"s2","eksamen":"h22","title":"Idas jakke","date":"2023-05-31","modified":"2023-05-31","permalink":"/idas-jakke/"}}
+{"tags":["oppgave","rekker","s2","del1"],"temaer":["rekker"],"alias":[null],"del":1,"oppgave":5,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":5}],"fag":"s2","eksamen":"h22","dg-publish":true,"title":"Idas jakke","date":"2023-05-31","modified":"2023-05-31","dg-permalink":"/idas-jakke/","permalink":"/idas-jakke/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave","rekker","s2","del1"],"temaer":["rekker"],"alias":[null],"del":1,"oppgave":5,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":5}],"fag":"s2","eksamen":"h22","title":"Idas jakke","date":"2023-05-31","modified":"2023-05-31"}}
 ---
 
 

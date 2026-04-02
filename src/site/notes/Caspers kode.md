@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-14","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["programmering"],"fag":["r2"],"eksamen":"v25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":6}],"poeng":2,"title":"Caspers kode","status":1,"source":null,"todo":null,"permalink":"/caspers-kode/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-14","modified":"2026-03-25","aliases":[],"temaer":["programmering"],"fag":["r2"],"eksamen":"v25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":6}],"poeng":2,"title":"Caspers kode","status":1,"source":null,"todo":null,"permalink":"/caspers-kode/"}}
+{"tags":["oppgave"],"date":"2025-05-14","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["programmering"],"fag":["r2"],"eksamen":"v25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":6}],"poeng":2,"title":"Caspers kode","status":1,"source":null,"todo":null,"dg-permalink":"/caspers-kode/","permalink":"/caspers-kode/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-14","modified":"2026-03-25","aliases":[],"temaer":["programmering"],"fag":["r2"],"eksamen":"v25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":6}],"poeng":2,"title":"Caspers kode","status":1,"source":null,"todo":null}}
 ---
 
 

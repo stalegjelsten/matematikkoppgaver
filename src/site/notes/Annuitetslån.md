@@ -1,5 +1,5 @@
 ---
-{"tags":["lån","rekker","oppgave","s2","del2","excel"],"temaer":["lån","rekker","excel"],"aliases":null,"del":2,"oppgave":1,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":1}],"fag":["s2"],"eksamen":"v23","dg-publish":true,"title":"Annuitetslån","date":"2023-05-29","modified":"2023-05-29","permalink":"/annuitetslan/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["lån","rekker","oppgave","s2","del2","excel"],"temaer":["lån","rekker","excel"],"aliases":null,"del":2,"oppgave":1,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":1}],"fag":["s2"],"eksamen":"v23","title":"Annuitetslån","date":"2023-05-29","modified":"2023-05-29","permalink":"/annuitetslan/"}}
+{"tags":["lån","rekker","oppgave","s2","del2","excel"],"temaer":["lån","rekker","excel"],"aliases":null,"del":2,"oppgave":1,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":1}],"fag":["s2"],"eksamen":"v23","dg-publish":true,"title":"Annuitetslån","date":"2023-05-29","modified":"2023-05-29","dg-permalink":"/annuitetslan/","permalink":"/annuitetslan/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["lån","rekker","oppgave","s2","del2","excel"],"temaer":["lån","rekker","excel"],"aliases":null,"del":2,"oppgave":1,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":1}],"fag":["s2"],"eksamen":"v23","title":"Annuitetslån","date":"2023-05-29","modified":"2023-05-29"}}
 ---
 
 # Annuitetslån
