@@ -1,5 +1,5 @@
 ---
-{"tags":["meta"],"temaer":null,"alias":null,"del":null,"oppgave":null,"fag":null,"eksamen":null,"dg-publish":true,"title":"Ressurser","date":"2023-05-29","modified":"2023-05-30","permalink":"/ressurser/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["meta"],"temaer":null,"alias":null,"del":null,"oppgave":null,"fag":null,"eksamen":null,"title":"Ressurser","date":"2023-05-29","modified":"2023-05-30","permalink":"/ressurser/"}}
+{"tags":["meta"],"temaer":null,"alias":null,"del":null,"oppgave":null,"fag":null,"eksamen":null,"dg-publish":true,"title":"Ressurser","date":"2023-05-29","modified":"2023-05-30","dg-permalink":"/ressurser/","permalink":"/ressurser/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["meta"],"temaer":null,"alias":null,"del":null,"oppgave":null,"fag":null,"eksamen":null,"title":"Ressurser","date":"2023-05-29","modified":"2023-05-30"}}
 ---
 
 

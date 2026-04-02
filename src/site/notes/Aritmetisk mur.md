@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave","rekker","s2","del1"],"temaer":["rekker"],"alias":[null],"del":1,"oppgave":2,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":2}],"fag":"s2","eksamen":"e22","dg-publish":true,"title":"Aritmetisk mur","date":"2023-05-30","modified":"2023-06-01","permalink":"/aritmetisk-mur/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave","rekker","s2","del1"],"temaer":["rekker"],"alias":[null],"del":1,"oppgave":2,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":2}],"fag":"s2","eksamen":"e22","title":"Aritmetisk mur","date":"2023-05-30","modified":"2023-06-01","permalink":"/aritmetisk-mur/"}}
+{"tags":["oppgave","rekker","s2","del1"],"temaer":["rekker"],"alias":[null],"del":1,"oppgave":2,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":2}],"fag":"s2","eksamen":"e22","dg-publish":true,"title":"Aritmetisk mur","date":"2023-05-30","modified":"2023-06-01","dg-permalink":"/aritmetisk-mur/","permalink":"/aritmetisk-mur/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave","rekker","s2","del1"],"temaer":["rekker"],"alias":[null],"del":1,"oppgave":2,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":2}],"fag":"s2","eksamen":"e22","title":"Aritmetisk mur","date":"2023-05-30","modified":"2023-06-01"}}
 ---
 
 

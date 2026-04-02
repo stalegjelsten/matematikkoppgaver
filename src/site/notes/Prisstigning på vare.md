@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-09-26","modified":"2025-09-26","aliases":[],"dg-publish":true,"temaer":["prosent"],"fag":["2p-y"],"eksamen":"h24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":1}],"title":"Prisstigning på vare","source":null,"todo":null,"status":3,"permalink":"/prisstigning-pa-vare/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-09-26","modified":"2025-09-26","aliases":[],"temaer":["prosent"],"fag":["2p-y"],"eksamen":"h24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":1}],"title":"Prisstigning på vare","source":null,"todo":null,"status":3,"permalink":"/prisstigning-pa-vare/"}}
+{"tags":["oppgave"],"date":"2025-09-26","modified":"2025-09-26","aliases":[],"dg-publish":true,"temaer":["prosent"],"fag":["2p-y"],"eksamen":"h24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":1}],"title":"Prisstigning på vare","source":null,"todo":null,"status":3,"dg-permalink":"/prisstigning-pa-vare/","permalink":"/prisstigning-pa-vare/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-09-26","modified":"2025-09-26","aliases":[],"temaer":["prosent"],"fag":["2p-y"],"eksamen":"h24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":1}],"title":"Prisstigning på vare","source":null,"todo":null,"status":3}}
 ---
 
 
