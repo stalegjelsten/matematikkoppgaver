@@ -13,8 +13,8 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Plantejord fra to butikker](https://matematikkoppgaver.vercel.app/plantejord-fra-to-butikker/) | prosentregning, enhetskostnad, økonomi | ✔︎ |
 | [1-2](#oppgave-1-2) | [Størst prosentvis prisøkning](https://matematikkoppgaver.vercel.app/storst-prosentvis-prisokning/) | prosentregning, prosentvis endring | ✔︎ |
 | [1-3](#oppgave-1-3) | [Merverdiavgift i Frankrike](https://matematikkoppgaver.vercel.app/merverdiavgift-i-frankrike/) | formler, prosentregning | ✔︎ |
-| [1-4](#oppgave-1-4) | [[Fisker og oppbevaringskar\|Fisker og oppbevaringskar]] | volum, prosentregning | × |
-| [1-5](#oppgave-1-5) | [[Trine selger poteter på Bondens marked\|Trine selger poteter på Bondens marked]] | måleenheter, økonomi | × |
+| [1-4](#oppgave-1-4) | [Fisker og oppbevaringskar](https://matematikkoppgaver.vercel.app/fisker-og-oppbevaringskar/) | volum, prosentregning | × |
+| [1-5](#oppgave-1-5) | [Trine selger poteter på Bondens marked](https://matematikkoppgaver.vercel.app/trine-selger-poteter-pa-bondens-marked/) | måleenheter, økonomi | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 
@@ -22,8 +22,8 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Ungdomsbedrift og grønnsakssalg\|Ungdomsbedrift og grønnsakssalg]] | økonomi, regneark, prosentregning | × |
-| [2-2](#oppgave-2-2) | [[Brage og oppdrettsanlegg for laks\|Brage og oppdrettsanlegg for laks]] | volum, areal, måleenheter | × |
+| [2-1](#oppgave-2-1) | [Ungdomsbedrift og grønnsakssalg](https://matematikkoppgaver.vercel.app/ungdomsbedrift-og-gronnsakssalg/) | økonomi, regneark, prosentregning | × |
+| [2-2](#oppgave-2-2) | [Brage og oppdrettsanlegg for laks](https://matematikkoppgaver.vercel.app/brage-og-oppdrettsanlegg-for-laks/) | volum, areal, måleenheter | × |
 | [2-3](#oppgave-2-3) | [Eriks bilbruk](https://matematikkoppgaver.vercel.app/eriks-bilbruk/) | excel, økonomi, formler | ✔︎ |
 | [2-4](#oppgave-2-4) | [Reise til Gran Canaria](https://matematikkoppgaver.vercel.app/reise-til-gran-canaria/) | excel, lån, kredittkort, oversikt | ✔︎ |
 

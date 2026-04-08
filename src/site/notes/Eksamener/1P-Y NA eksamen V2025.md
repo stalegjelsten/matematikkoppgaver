@@ -13,8 +13,8 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Enhetspris og sparing på ris](https://matematikkoppgaver.vercel.app/enhetspris-og-sparing-pa-ris/) | enhetskostnad, prosentregning, økonomi | × |
 | [1-2](#oppgave-1-2) | [Kvadratrotformel og mobilading](https://matematikkoppgaver.vercel.app/kvadratrotformel-og-mobilading/) | røtter, formler, algebra | ✔︎ |
 | [1-3](#oppgave-1-3) | [Kennys lån](https://matematikkoppgaver.vercel.app/kennys-lan/) | lån | ✔︎ |
-| [1-4](#oppgave-1-4) | [[Åker og spireprosent av havrekorn\|Åker og spireprosent av havrekorn]] | formler, areal, prosentregning | × |
-| [1-5](#oppgave-1-5) | [[Fiskeoppdrett og prosentandel i merd\|Fiskeoppdrett og prosentandel i merd]] | prosentregning, statistikk | × |
+| [1-4](#oppgave-1-4) | [Åker og spireprosent av havrekorn](https://matematikkoppgaver.vercel.app/aker-og-spireprosent-av-havrekorn/) | formler, areal, prosentregning | × |
+| [1-5](#oppgave-1-5) | [Fiskeoppdrett og prosentandel i merd](https://matematikkoppgaver.vercel.app/fiskeoppdrett-og-prosentandel-i-merd/) | prosentregning, statistikk | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 
@@ -22,8 +22,8 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Fiskebåt og fangst til Norge eller Danmark\|Fiskebåt og fangst til Norge eller Danmark]] | økonomi, enhetskostnad | × |
-| [2-2](#oppgave-2-2) | [[Trine og Geir og høyballer til hester\|Trine og Geir og høyballer til hester]] | volum, formler, økonomi | × |
+| [2-1](#oppgave-2-1) | [Fiskebåt og fangst til Norge eller Danmark](https://matematikkoppgaver.vercel.app/fiskebat-og-fangst-til-norge-eller-danmark/) | økonomi, enhetskostnad | × |
+| [2-2](#oppgave-2-2) | [Trine og Geir og høyballer til hester](https://matematikkoppgaver.vercel.app/trine-og-geir-og-hoyballer-til-hester/) | volum, formler, økonomi | × |
 | [2-3](#oppgave-2-3) | [Alis lån til bedriften](https://matematikkoppgaver.vercel.app/alis-lan-til-bedriften/) | lån, excel | × |
 | [2-4](#oppgave-2-4) | [Energisammenlikning ved og strøm](https://matematikkoppgaver.vercel.app/energisammenlikning-ved-og-strom/) | enhetskostnad, økonomi, formler | ✔︎ |
 | [2-5](#oppgave-2-5) | [Lønnsalternativer ved avissalg](https://matematikkoppgaver.vercel.app/lonnsalternativer-ved-avissalg/) | lineær vekst, funksjoner, økonomi | × |

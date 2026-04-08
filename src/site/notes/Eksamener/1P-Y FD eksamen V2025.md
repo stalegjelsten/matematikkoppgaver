@@ -13,8 +13,8 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Enhetspris og sparing på ris](https://matematikkoppgaver.vercel.app/enhetspris-og-sparing-pa-ris/) | enhetskostnad, prosentregning, økonomi | × |
 | [1-2](#oppgave-1-2) | [Kvadratrotformel og mobilading](https://matematikkoppgaver.vercel.app/kvadratrotformel-og-mobilading/) | røtter, formler, algebra | ✔︎ |
 | [1-3](#oppgave-1-3) | [Kennys lån](https://matematikkoppgaver.vercel.app/kennys-lan/) | lån | ✔︎ |
-| [1-4](#oppgave-1-4) | [[Ungdomsbedrift og putetrekk\|Ungdomsbedrift og putetrekk]] | proporsjonalitet, økonomi | × |
-| [1-5](#oppgave-1-5) | [[Male veggen med fire farger\|Male veggen med fire farger]] | areal, prosentregning, diagram | × |
+| [1-4](#oppgave-1-4) | [Ungdomsbedrift og putetrekk](https://matematikkoppgaver.vercel.app/ungdomsbedrift-og-putetrekk/) | proporsjonalitet, økonomi | × |
+| [1-5](#oppgave-1-5) | [Male veggen med fire farger](https://matematikkoppgaver.vercel.app/male-veggen-med-fire-farger/) | areal, prosentregning, diagram | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 
@@ -22,8 +22,8 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Kaja sin frisørinntekt\|Kaja sin frisørinntekt]] | regneark, prosentregning, økonomi | × |
-| [2-2](#oppgave-2-2) | [[Sylinderformede sittepuffer\|Sylinderformede sittepuffer]] | volum, areal, geometri | × |
+| [2-1](#oppgave-2-1) | [Kaja sin frisørinntekt](https://matematikkoppgaver.vercel.app/kaja-sin-frisorinntekt/) | regneark, prosentregning, økonomi | × |
+| [2-2](#oppgave-2-2) | [Sylinderformede sittepuffer](https://matematikkoppgaver.vercel.app/sylinderformede-sittepuffer/) | volum, areal, geometri | × |
 | [2-3](#oppgave-2-3) | [Alis lån til bedriften](https://matematikkoppgaver.vercel.app/alis-lan-til-bedriften/) | lån, excel | × |
 | [2-4](#oppgave-2-4) | [Energisammenlikning ved og strøm](https://matematikkoppgaver.vercel.app/energisammenlikning-ved-og-strom/) | enhetskostnad, økonomi, formler | ✔︎ |
 | [2-5](#oppgave-2-5) | [Lønnsalternativer ved avissalg](https://matematikkoppgaver.vercel.app/lonnsalternativer-ved-avissalg/) | lineær vekst, funksjoner, økonomi | × |

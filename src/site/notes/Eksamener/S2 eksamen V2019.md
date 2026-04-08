@@ -10,14 +10,14 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [1-1](#oppgave-1-1) | [[Derivasjon av tre typer funksjoner\|Derivasjon av tre typer funksjoner]] | derivasjon, eksponentialfunksjoner, logaritmer | × |
-| [1-2](#oppgave-1-2) | [[Polynom med faktorisering\|Polynom med faktorisering]] | polynomdivisjon, faktorisering | × |
-| [1-3](#oppgave-1-3) | [[Fjerdegradspolynom med faktorer\|Fjerdegradspolynom med faktorer]] | polynomdivisjon, likningssystem | × |
-| [1-4](#oppgave-1-4) | [[Aritmetisk rekke med formel\|Aritmetisk rekke med formel]] | rekker | × |
-| [1-5](#oppgave-1-5) | [[Sprettball og uendelig rekke\|Sprettball og uendelig rekke]] | uendelig rekke, rekker | × |
-| [1-6](#oppgave-1-6) | [[Tredjegradsfunksjon med transformasjon\|Tredjegradsfunksjon med transformasjon]] | funksjonsdrøfting, derivasjon | × |
-| [1-7](#oppgave-1-7) | [[Terningspill med to terninger\|Terningspill med to terninger]] | sannsynlighet, forventningsverdi | × |
-| [1-8](#oppgave-1-8) | [[Normalfordeling med ukjente parametere\|Normalfordeling med ukjente parametere]] | normalfordeling, standard normalfordeling | × |
+| [1-1](#oppgave-1-1) | [Derivasjon av tre typer funksjoner](https://matematikkoppgaver.vercel.app/derivasjon-av-tre-typer-funksjoner/) | derivasjon, eksponentialfunksjoner, logaritmer | × |
+| [1-2](#oppgave-1-2) | [Polynom med faktorisering](https://matematikkoppgaver.vercel.app/polynom-med-faktorisering/) | polynomdivisjon, faktorisering | × |
+| [1-3](#oppgave-1-3) | [Fjerdegradspolynom med faktorer](https://matematikkoppgaver.vercel.app/fjerdegradspolynom-med-faktorer/) | polynomdivisjon, likningssystem | × |
+| [1-4](#oppgave-1-4) | [Aritmetisk rekke med formel](https://matematikkoppgaver.vercel.app/aritmetisk-rekke-med-formel/) | rekker | × |
+| [1-5](#oppgave-1-5) | [Sprettball og uendelig rekke](https://matematikkoppgaver.vercel.app/sprettball-og-uendelig-rekke/) | uendelig rekke, rekker | × |
+| [1-6](#oppgave-1-6) | [Tredjegradsfunksjon med transformasjon](https://matematikkoppgaver.vercel.app/tredjegradsfunksjon-med-transformasjon/) | funksjonsdrøfting, derivasjon | × |
+| [1-7](#oppgave-1-7) | [Terningspill med to terninger](https://matematikkoppgaver.vercel.app/terningspill-med-to-terninger/) | sannsynlighet, forventningsverdi | × |
+| [1-8](#oppgave-1-8) | [Normalfordeling med ukjente parametere](https://matematikkoppgaver.vercel.app/normalfordeling-med-ukjente-parametere/) | normalfordeling, standard normalfordeling | × |
 
 **Del 2** — 2 timer — med hjelpemidler
 
@@ -25,10 +25,10 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Sjørøverskatt med mynter\|Sjørøverskatt med mynter]] | likningssystem | × |
-| [2-2](#oppgave-2-2) | [[Harer på øy\|Harer på øy]] | logistisk funksjon, regresjon, modellering | × |
-| [2-3](#oppgave-2-3) | [[Etterspørsel og grensekostnad vare\|Etterspørsel og grensekostnad vare]] | etterspørsel, eksponentialfunksjoner, grenseinntekt og grensekostnad, økonomi | × |
-| [2-4](#oppgave-2-4) | [[Annuitetslån og serielån Pia\|Annuitetslån og serielån Pia]] | lån, rekker, økonomi | × |
+| [2-1](#oppgave-2-1) | [Sjørøverskatt med mynter](https://matematikkoppgaver.vercel.app/sjoroverskatt-med-mynter/) | likningssystem | × |
+| [2-2](#oppgave-2-2) | [Harer på øy](https://matematikkoppgaver.vercel.app/harer-pa-oy/) | logistisk funksjon, regresjon, modellering | × |
+| [2-3](#oppgave-2-3) | [Etterspørsel og grensekostnad vare](https://matematikkoppgaver.vercel.app/ettersporsel-og-grensekostnad-vare/) | etterspørsel, eksponentialfunksjoner, grenseinntekt og grensekostnad, økonomi | × |
+| [2-4](#oppgave-2-4) | [Annuitetslån og serielån Pia](https://matematikkoppgaver.vercel.app/annuitetslan-og-serielan-pia/) | lån, rekker, økonomi | × |
 | [2-5](#oppgave-2-5) | [Hypotesetest om russetid](https://matematikkoppgaver.vercel.app/hypotesetest-om-russetid/) | binomisk, normalfordeling, hypotesetest | ✔︎ |
 
 # Del 1

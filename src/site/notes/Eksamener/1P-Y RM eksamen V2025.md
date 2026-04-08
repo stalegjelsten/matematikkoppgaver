@@ -13,8 +13,8 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Enhetspris og sparing på ris](https://matematikkoppgaver.vercel.app/enhetspris-og-sparing-pa-ris/) | enhetskostnad, prosentregning, økonomi | × |
 | [1-2](#oppgave-1-2) | [Kvadratrotformel og mobilading](https://matematikkoppgaver.vercel.app/kvadratrotformel-og-mobilading/) | røtter, formler, algebra | ✔︎ |
 | [1-3](#oppgave-1-3) | [Kennys lån](https://matematikkoppgaver.vercel.app/kennys-lan/) | lån | ✔︎ |
-| [1-4](#oppgave-1-4) | [[Energi i måltid med kcal-formel\|Energi i måltid med kcal-formel]] | formler, prosentregning, diagram | × |
-| [1-5](#oppgave-1-5) | [[Kokkene Jonas og Ina og kyllingtilbud\|Kokkene Jonas og Ina og kyllingtilbud]] | prosentregning, økonomi, enhetskostnad | × |
+| [1-4](#oppgave-1-4) | [Energi i måltid med kcal-formel](https://matematikkoppgaver.vercel.app/energi-i-maltid-med-kcal-formel/) | formler, prosentregning, diagram | × |
+| [1-5](#oppgave-1-5) | [Kokkene Jonas og Ina og kyllingtilbud](https://matematikkoppgaver.vercel.app/kokkene-jonas-og-ina-og-kyllingtilbud/) | prosentregning, økonomi, enhetskostnad | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 
@@ -22,8 +22,8 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Godt Stekt restaurant og pizzasalg\|Godt Stekt restaurant og pizzasalg]] | diagram, mva, regneark, økonomi | × |
-| [2-2](#oppgave-2-2) | [[Elevbedrift lager lasagne til skoleavslutning\|Elevbedrift lager lasagne til skoleavslutning]] | volum, økonomi, formler | × |
+| [2-1](#oppgave-2-1) | [Godt Stekt restaurant og pizzasalg](https://matematikkoppgaver.vercel.app/godt-stekt-restaurant-og-pizzasalg/) | diagram, mva, regneark, økonomi | × |
+| [2-2](#oppgave-2-2) | [Elevbedrift lager lasagne til skoleavslutning](https://matematikkoppgaver.vercel.app/elevbedrift-lager-lasagne-til-skoleavslutning/) | volum, økonomi, formler | × |
 | [2-3](#oppgave-2-3) | [Alis lån til bedriften](https://matematikkoppgaver.vercel.app/alis-lan-til-bedriften/) | lån, excel | × |
 | [2-4](#oppgave-2-4) | [Energisammenlikning ved og strøm](https://matematikkoppgaver.vercel.app/energisammenlikning-ved-og-strom/) | enhetskostnad, økonomi, formler | ✔︎ |
 | [2-5](#oppgave-2-5) | [Lønnsalternativer ved avissalg](https://matematikkoppgaver.vercel.app/lonnsalternativer-ved-avissalg/) | lineær vekst, funksjoner, økonomi | × |

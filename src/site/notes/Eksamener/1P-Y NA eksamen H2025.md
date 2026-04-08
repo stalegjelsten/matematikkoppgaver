@@ -13,8 +13,8 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Løping og maraton](https://matematikkoppgaver.vercel.app/loping-og-maraton/) | lineær vekst, formler, tallregning | ✔︎ |
 | [1-2](#oppgave-1-2) | [Annuitetslån eller serielån](https://matematikkoppgaver.vercel.app/annuitetslan-eller-serielan/) | lån, diagram, tolke grafer | ✔︎ |
 | [1-3](#oppgave-1-3) | [Søvnbehov med formel](https://matematikkoppgaver.vercel.app/sovnbehov-med-formel/) | formler, lineær vekst, algebra | ✔︎ |
-| [1-4](#oppgave-1-4) | [[Fiskekar og skrei\|Fiskekar og skrei]] | volum, økonomi, tallregning | × |
-| [1-5](#oppgave-1-5) | [[Elevbedrift og hagestell\|Elevbedrift og hagestell]] | økonomi, diagram, tallregning | × |
+| [1-4](#oppgave-1-4) | [Fiskekar og skrei](https://matematikkoppgaver.vercel.app/fiskekar-og-skrei/) | volum, økonomi, tallregning | × |
+| [1-5](#oppgave-1-5) | [Elevbedrift og hagestell](https://matematikkoppgaver.vercel.app/elevbedrift-og-hagestell/) | økonomi, diagram, tallregning | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 
@@ -22,8 +22,8 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Aina sin fiskerivirksomhet\|Aina sin fiskerivirksomhet]] | excel, anbud, økonomi | × |
-| [2-2](#oppgave-2-2) | [[Melkeproduksjon med kuer\|Melkeproduksjon med kuer]] | formler, volum, økonomi | × |
+| [2-1](#oppgave-2-1) | [Aina sin fiskerivirksomhet](https://matematikkoppgaver.vercel.app/aina-sin-fiskerivirksomhet/) | excel, anbud, økonomi | × |
+| [2-2](#oppgave-2-2) | [Melkeproduksjon med kuer](https://matematikkoppgaver.vercel.app/melkeproduksjon-med-kuer/) | formler, volum, økonomi | × |
 | [2-3](#oppgave-2-3) | [Ellas BSU-sparing](https://matematikkoppgaver.vercel.app/ellas-bsu-sparing/) | sparing, excel | ✔︎ |
 | [2-4](#oppgave-2-4) | [Fritt fall fra stupeplattform](https://matematikkoppgaver.vercel.app/fritt-fall-fra-stupeplattform/) | formler, likninger | × |
 | [2-5](#oppgave-2-5) | [Fylle svømmebasseng](https://matematikkoppgaver.vercel.app/fylle-svommebasseng/) | formler, tallregning, samlet mengde | × |

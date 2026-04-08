@@ -13,7 +13,7 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Prisformel sparkesykkel](https://matematikkoppgaver.vercel.app/prisformel-sparkesykkel/) | lineær vekst, formler, likninger | ✔︎ |
 | [1-2](#oppgave-1-2) | [Sammenligne priser på hundemat](https://matematikkoppgaver.vercel.app/sammenligne-priser-pa-hundemat/) | proporsjonalitet, prosentregning, enhetskostnad | ✔︎ |
 | [1-3](#oppgave-1-3) | [Prosentvis prisforskjell sjokolade](https://matematikkoppgaver.vercel.app/prosentvis-prisforskjell-sjokolade/) | prosentregning, prosentvis endring, argumentasjon | ✔︎ |
-| [1-4](#oppgave-1-4) | [[Barnehage aldersfordeling og bemanning\|Barnehage aldersfordeling og bemanning]] | formler, diagram | × |
+| [1-4](#oppgave-1-4) | [Barnehage aldersfordeling og bemanning](https://matematikkoppgaver.vercel.app/barnehage-aldersfordeling-og-bemanning/) | formler, diagram | × |
 
 **Del 2** — None timer — med hjelpemidler
 
@@ -21,9 +21,9 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Helsefagarbeidere kvinner og menn\|Helsefagarbeidere kvinner og menn]] | grafisk framstilling, prosentregning | × |
-| [2-2](#oppgave-2-2) | [[Hjemmetjeneste og medisindispensere\|Hjemmetjeneste og medisindispensere]] | regneark, økonomi, prosentregning | × |
-| [2-3](#oppgave-2-3) | [[Næringsinnhold og energi i frokost\|Næringsinnhold og energi i frokost]] | regneark, økonomi, formler | × |
+| [2-1](#oppgave-2-1) | [Helsefagarbeidere kvinner og menn](https://matematikkoppgaver.vercel.app/helsefagarbeidere-kvinner-og-menn/) | grafisk framstilling, prosentregning | × |
+| [2-2](#oppgave-2-2) | [Hjemmetjeneste og medisindispensere](https://matematikkoppgaver.vercel.app/hjemmetjeneste-og-medisindispensere/) | regneark, økonomi, prosentregning | × |
+| [2-3](#oppgave-2-3) | [Næringsinnhold og energi i frokost](https://matematikkoppgaver.vercel.app/naeringsinnhold-og-energi-i-frokost/) | regneark, økonomi, formler | × |
 | [2-4](#oppgave-2-4) | [Ludvigs dusjregnskap](https://matematikkoppgaver.vercel.app/ludvigs-dusjregnskap/) | excel | ✔︎ |
 | [2-5](#oppgave-2-5) | [Martines studielån](https://matematikkoppgaver.vercel.app/martines-studielan/) | lån, excel | ✔︎ |
 

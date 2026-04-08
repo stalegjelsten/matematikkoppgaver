@@ -13,8 +13,8 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Plantejord fra to butikker](https://matematikkoppgaver.vercel.app/plantejord-fra-to-butikker/) | prosentregning, enhetskostnad, økonomi | ✔︎ |
 | [1-2](#oppgave-1-2) | [Størst prosentvis prisøkning](https://matematikkoppgaver.vercel.app/storst-prosentvis-prisokning/) | prosentregning, prosentvis endring | ✔︎ |
 | [1-3](#oppgave-1-3) | [Merverdiavgift i Frankrike](https://matematikkoppgaver.vercel.app/merverdiavgift-i-frankrike/) | formler, prosentregning | ✔︎ |
-| [1-4](#oppgave-1-4) | [[Vimpler i to størrelser\|Vimpler i to størrelser]] | areal, geometri, målestokk | × |
-| [1-5](#oppgave-1-5) | [[Blomsterpotte og likebeint trekant\|Blomsterpotte og likebeint trekant]] | geometri, målestokk | × |
+| [1-4](#oppgave-1-4) | [Vimpler i to størrelser](https://matematikkoppgaver.vercel.app/vimpler-i-to-storrelser/) | areal, geometri, målestokk | × |
+| [1-5](#oppgave-1-5) | [Blomsterpotte og likebeint trekant](https://matematikkoppgaver.vercel.app/blomsterpotte-og-likebeint-trekant/) | geometri, målestokk | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 
@@ -22,8 +22,8 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Sander sin frisørsalong\|Sander sin frisørsalong]] | økonomi, regneark, prosentregning | × |
-| [2-2](#oppgave-2-2) | [[Hans og Pia og frisørdukker\|Hans og Pia og frisørdukker]] | volum, areal, store tall | × |
+| [2-1](#oppgave-2-1) | [Sander sin frisørsalong](https://matematikkoppgaver.vercel.app/sander-sin-frisorsalong/) | økonomi, regneark, prosentregning | × |
+| [2-2](#oppgave-2-2) | [Hans og Pia og frisørdukker](https://matematikkoppgaver.vercel.app/hans-og-pia-og-frisordukker/) | volum, areal, store tall | × |
 | [2-3](#oppgave-2-3) | [Eriks bilbruk](https://matematikkoppgaver.vercel.app/eriks-bilbruk/) | excel, økonomi, formler | ✔︎ |
 | [2-4](#oppgave-2-4) | [Reise til Gran Canaria](https://matematikkoppgaver.vercel.app/reise-til-gran-canaria/) | excel, lån, kredittkort, oversikt | ✔︎ |
 

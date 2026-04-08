@@ -13,8 +13,8 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Rekestørrelser og pris per kg](https://matematikkoppgaver.vercel.app/rekestorrelser-og-pris-per-kg/) | prosentregning | ✔︎ |
 | [1-2](#oppgave-1-2) | [Oda sitt budsjett og sparing](https://matematikkoppgaver.vercel.app/oda-sitt-budsjett-og-sparing/) | økonomi, sparing | ✔︎ |
 | [1-3](#oppgave-1-3) | [Bremselengde med formel](https://matematikkoppgaver.vercel.app/bremselengde-med-formel/) | formler, modellering | ✔︎ |
-| [1-4](#oppgave-1-4) | [[Hveteåker og spireprosent\|Hveteåker og spireprosent]] | formler, areal | × |
-| [1-5](#oppgave-1-5) | [[Nils selger torsk på fiskemarked\|Nils selger torsk på fiskemarked]] | måleenheter, økonomi | × |
+| [1-4](#oppgave-1-4) | [Hveteåker og spireprosent](https://matematikkoppgaver.vercel.app/hveteaker-og-spireprosent/) | formler, areal | × |
+| [1-5](#oppgave-1-5) | [Nils selger torsk på fiskemarked](https://matematikkoppgaver.vercel.app/nils-selger-torsk-pa-fiskemarked/) | måleenheter, økonomi | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 
@@ -22,8 +22,8 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Laksefiske og smoltvekst\|Laksefiske og smoltvekst]] | prosentregning, eksponentiell vekst, regneark | × |
-| [2-2](#oppgave-2-2) | [[Blomsterkrukker og sylindervolum Sander\|Blomsterkrukker og sylindervolum Sander]] | volum, geometri, økonomi | × |
+| [2-1](#oppgave-2-1) | [Laksefiske og smoltvekst](https://matematikkoppgaver.vercel.app/laksefiske-og-smoltvekst/) | prosentregning, eksponentiell vekst, regneark | × |
+| [2-2](#oppgave-2-2) | [Blomsterkrukker og sylindervolum Sander](https://matematikkoppgaver.vercel.app/blomsterkrukker-og-sylindervolum-sander/) | volum, geometri, økonomi | × |
 | [2-3](#oppgave-2-3) | [Chris lån og sparing for å ta førerkort](https://matematikkoppgaver.vercel.app/chris-lan-og-sparing-for-a-ta-forerkort/) | excel, lån, sparing, kredittkort | ✔︎ |
 | [2-4](#oppgave-2-4) | [Isak reiser Oslo til Stockholm](https://matematikkoppgaver.vercel.app/isak-reiser-oslo-til-stockholm/) | økonomi, prosentregning, modellering | ✔︎ |
 

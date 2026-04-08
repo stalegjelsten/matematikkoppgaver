@@ -13,7 +13,7 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Kjøttdeig, pris og prosent](https://matematikkoppgaver.vercel.app/kjottdeig-pris-og-prosent/) | proporsjonalitet, prosentregning, tallregning | ✔︎ |
 | [1-2](#oppgave-1-2) | [Ole sin høyde og vekstdiagram](https://matematikkoppgaver.vercel.app/ole-sin-hoyde-og-vekstdiagram/) | tolke grafer, formler, tallregning | × |
 | [1-3](#oppgave-1-3) | [Brus i glass og daglig væskebehov](https://matematikkoppgaver.vercel.app/brus-i-glass-og-daglig-vaeskebehov/) | tallregning, proporsjonalitet | ✔︎ |
-| [1-4](#oppgave-1-4) | [[Ola og Mari dreier akslinger\|Ola og Mari dreier akslinger]] | tolke grafer, toleranser | × |
+| [1-4](#oppgave-1-4) | [Ola og Mari dreier akslinger](https://matematikkoppgaver.vercel.app/ola-og-mari-dreier-akslinger/) | tolke grafer, toleranser | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 
@@ -21,9 +21,9 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Aluminiumplate med hull\|Aluminiumplate med hull]] | areal, prosentregning | × |
-| [2-2](#oppgave-2-2) | [[Austenitt og anleggsrør\|Austenitt og anleggsrør]] | prosentregning, volum, grafisk framstilling | × |
-| [2-3](#oppgave-2-3) | [[Mikrometerskrue og slipeskive\|Mikrometerskrue og slipeskive]] | toleranser, formler | × |
+| [2-1](#oppgave-2-1) | [Aluminiumplate med hull](https://matematikkoppgaver.vercel.app/aluminiumplate-med-hull/) | areal, prosentregning | × |
+| [2-2](#oppgave-2-2) | [Austenitt og anleggsrør](https://matematikkoppgaver.vercel.app/austenitt-og-anleggsror/) | prosentregning, volum, grafisk framstilling | × |
+| [2-3](#oppgave-2-3) | [Mikrometerskrue og slipeskive](https://matematikkoppgaver.vercel.app/mikrometerskrue-og-slipeskive/) | toleranser, formler | × |
 | [2-4](#oppgave-2-4) | [Fart, distanse og gjennomsnittsfart](https://matematikkoppgaver.vercel.app/fart-distanse-og-gjennomsnittsfart/) | formler, tallregning | × |
 | [2-5](#oppgave-2-5) | [Sara vurderer å kjøpe mopedbil](https://matematikkoppgaver.vercel.app/sara-vurderer-a-kjope-mopedbil/) | økonomi, prosentregning, lån, excel | × |
 

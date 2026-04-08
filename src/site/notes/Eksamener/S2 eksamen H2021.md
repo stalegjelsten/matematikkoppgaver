@@ -10,11 +10,11 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [1-1](#oppgave-1-1) | [[Derivasjon med eksponential og logaritme\|Derivasjon med eksponential og logaritme]] | derivasjon, eksponentialfunksjoner, logaritmer | × |
-| [1-2](#oppgave-1-2) | [[Polynomdivisjon med ulikhet og eksponentiallikning\|Polynomdivisjon med ulikhet og eksponentiallikning]] | polynomdivisjon, faktorisering, likninger | × |
-| [1-3](#oppgave-1-3) | [[Aritmetisk rekke med sumformel\|Aritmetisk rekke med sumformel]] | rekker | × |
-| [1-4](#oppgave-1-4) | [[Grensekostnad og grenseinntekt bedrift\|Grensekostnad og grenseinntekt bedrift]] | grenseinntekt og grensekostnad, optimering, økonomi | × |
-| [1-5](#oppgave-1-5) | [[Logaritmefunksjon ln x delt på x\|Logaritmefunksjon ln x delt på x]] | derivasjon, logaritmer, funksjonsdrøfting | × |
+| [1-1](#oppgave-1-1) | [Derivasjon med eksponential og logaritme](https://matematikkoppgaver.vercel.app/derivasjon-med-eksponential-og-logaritme/) | derivasjon, eksponentialfunksjoner, logaritmer | × |
+| [1-2](#oppgave-1-2) | [Polynomdivisjon med ulikhet og eksponentiallikning](https://matematikkoppgaver.vercel.app/polynomdivisjon-med-ulikhet-og-eksponentiallikning/) | polynomdivisjon, faktorisering, likninger | × |
+| [1-3](#oppgave-1-3) | [Aritmetisk rekke med sumformel](https://matematikkoppgaver.vercel.app/aritmetisk-rekke-med-sumformel/) | rekker | × |
+| [1-4](#oppgave-1-4) | [Grensekostnad og grenseinntekt bedrift](https://matematikkoppgaver.vercel.app/grensekostnad-og-grenseinntekt-bedrift/) | grenseinntekt og grensekostnad, optimering, økonomi | × |
+| [1-5](#oppgave-1-5) | [Logaritmefunksjon ln x delt på x](https://matematikkoppgaver.vercel.app/logaritmefunksjon-ln-x-delt-pa-x/) | derivasjon, logaritmer, funksjonsdrøfting | × |
 | [1-6](#oppgave-1-6) | [Vekten til poteter](https://matematikkoppgaver.vercel.app/vekten-til-poteter/) | sannsynlighet, normalfordeling | × |
 
 **Del 2** — 3 timer — med hjelpemidler
@@ -23,10 +23,10 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Timelønner for idrettstrener\|Timelønner for idrettstrener]] | likningssystem | × |
-| [2-2](#oppgave-2-2) | [[Camillas aksjefond\|Camillas aksjefond]] | sparing, rekker, økonomi | × |
-| [2-3](#oppgave-2-3) | [[Selvbetjeningskasse og hypotesetest\|Selvbetjeningskasse og hypotesetest]] | binomisk, normalfordeling, hypotesetest | × |
-| [2-4](#oppgave-2-4) | [[Virussmitte og logistisk modell\|Virussmitte og logistisk modell]] | logistisk funksjon, modellering, integral | × |
+| [2-1](#oppgave-2-1) | [Timelønner for idrettstrener](https://matematikkoppgaver.vercel.app/timelonner-for-idrettstrener/) | likningssystem | × |
+| [2-2](#oppgave-2-2) | [Camillas aksjefond](https://matematikkoppgaver.vercel.app/camillas-aksjefond/) | sparing, rekker, økonomi | × |
+| [2-3](#oppgave-2-3) | [Selvbetjeningskasse og hypotesetest](https://matematikkoppgaver.vercel.app/selvbetjeningskasse-og-hypotesetest/) | binomisk, normalfordeling, hypotesetest | × |
+| [2-4](#oppgave-2-4) | [Virussmitte og logistisk modell](https://matematikkoppgaver.vercel.app/virussmitte-og-logistisk-modell/) | logistisk funksjon, modellering, integral | × |
 
 # Del 1
 

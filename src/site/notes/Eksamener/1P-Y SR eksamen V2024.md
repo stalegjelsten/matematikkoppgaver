@@ -13,8 +13,8 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Rekestørrelser og pris per kg](https://matematikkoppgaver.vercel.app/rekestorrelser-og-pris-per-kg/) | prosentregning | ✔︎ |
 | [1-2](#oppgave-1-2) | [Oda sitt budsjett og sparing](https://matematikkoppgaver.vercel.app/oda-sitt-budsjett-og-sparing/) | økonomi, sparing | ✔︎ |
 | [1-3](#oppgave-1-3) | [Bremselengde med formel](https://matematikkoppgaver.vercel.app/bremselengde-med-formel/) | formler, modellering | ✔︎ |
-| [1-4](#oppgave-1-4) | [[Merverdiavgift på klær Tone og Kåre\|Merverdiavgift på klær Tone og Kåre]] | mva, prosentregning | × |
-| [1-5](#oppgave-1-5) | [[Ulrik kantine gjennomsnitt og median\|Ulrik kantine gjennomsnitt og median]] | gjennomsnitt, median, regneark | × |
+| [1-4](#oppgave-1-4) | [Merverdiavgift på klær Tone og Kåre](https://matematikkoppgaver.vercel.app/merverdiavgift-pa-klaer-tone-og-kare/) | mva, prosentregning | × |
+| [1-5](#oppgave-1-5) | [Ulrik kantine gjennomsnitt og median](https://matematikkoppgaver.vercel.app/ulrik-kantine-gjennomsnitt-og-median/) | gjennomsnitt, median, regneark | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 
@@ -22,8 +22,8 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[T-skjorter ungdomsbedrift og fortjeneste\|T-skjorter ungdomsbedrift og fortjeneste]] | økonomi, prosentregning, regneark | × |
-| [2-2](#oppgave-2-2) | [[Persontransport i Norge 1980–2022\|Persontransport i Norge 1980–2022]] | statistikk, prosentregning, grafisk framstilling | × |
+| [2-1](#oppgave-2-1) | [T-skjorter ungdomsbedrift og fortjeneste](https://matematikkoppgaver.vercel.app/t-skjorter-ungdomsbedrift-og-fortjeneste/) | økonomi, prosentregning, regneark | × |
+| [2-2](#oppgave-2-2) | [Persontransport i Norge 1980–2022](https://matematikkoppgaver.vercel.app/persontransport-i-norge-1980-2022/) | statistikk, prosentregning, grafisk framstilling | × |
 | [2-3](#oppgave-2-3) | [Chris lån og sparing for å ta førerkort](https://matematikkoppgaver.vercel.app/chris-lan-og-sparing-for-a-ta-forerkort/) | excel, lån, sparing, kredittkort | ✔︎ |
 | [2-4](#oppgave-2-4) | [Isak reiser Oslo til Stockholm](https://matematikkoppgaver.vercel.app/isak-reiser-oslo-til-stockholm/) | økonomi, prosentregning, modellering | ✔︎ |
 
