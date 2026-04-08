@@ -6,7 +6,7 @@
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-Table: {.eksamen-oversikt rows=2.4em}
+Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
@@ -20,13 +20,13 @@ Table: {.eksamen-oversikt rows=2.4em}
 
 **Del 2** — 3 timer — med hjelpemidler
 
-Table: {.eksamen-oversikt rows=2.4em}
+Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Modell for reduksjon av utslipp](https://matematikkoppgaver.vercel.app/modell-for-reduksjon-av-utslipp/) | eksponentialfunksjoner, geogebra, funksjoner | ✔︎ |
 | [2-2](#oppgave-2-2) | [Påstander om gjennomsnitt og median i et rom](https://matematikkoppgaver.vercel.app/pastander-om-gjennomsnitt-og-median-i-et-rom/) | sentralmål | ✔︎ |
-| [2-3](#oppgave-2-3) | [Formlike trekanter over elv](https://matematikkoppgaver.vercel.app/formlike-trekanter-over-elv/) | geometri | × |
+| [2-3](#oppgave-2-3) | [Formlike trekanter over elv](https://matematikkoppgaver.vercel.app/formlike-trekanter-over-elv/) | geometri, formlikhet | × |
 | [2-4](#oppgave-2-4) | [Halvert fuglebestand](https://matematikkoppgaver.vercel.app/halvert-fuglebestand/) | eksponentialfunksjoner | ✔︎ |
 | [2-5](#oppgave-2-5) | [Husleie regulert etter KPI](https://matematikkoppgaver.vercel.app/husleie-regulert-etter-kpi/) | prosentregning, prosentvis endring, prisindeks | × |
 | [2-6](#oppgave-2-6) | [Lag presentasjon som viser døds- og fødselsrate](https://matematikkoppgaver.vercel.app/lag-presentasjon-som-viser-dods-og-fodselsrate/) | presentasjon av data | ✔︎ |

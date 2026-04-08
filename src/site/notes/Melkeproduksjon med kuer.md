@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-31","aliases":[],"dg-publish":true,"temaer":["formler","volum","økonomi"],"fag":["1p-y na"],"eksamen":"h25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y na","del":2,"oppgave":2}],"poeng":6,"title":"Melkeproduksjon med kuer","status":0,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/melkeproduksjon-med-kuer/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-31","aliases":[],"temaer":["formler","volum","økonomi"],"fag":["1p-y na"],"eksamen":"h25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y na","del":2,"oppgave":2}],"poeng":6,"title":"Melkeproduksjon med kuer","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-31","aliases":[],"dg-publish":true,"temaer":["formler","volum","økonomi"],"fag":["1p-y na"],"eksamen":"h25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y na","del":2,"oppgave":2}],"poeng":6,"title":"Melkeproduksjon med kuer","status":1,"source":null,"todo":["fasit","løsningsforslag"],"permalink":"/melkeproduksjon-med-kuer/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-31","aliases":[],"temaer":["formler","volum","økonomi"],"fag":["1p-y na"],"eksamen":"h25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y na","del":2,"oppgave":2}],"poeng":6,"title":"Melkeproduksjon med kuer","status":1,"source":null,"todo":["fasit","løsningsforslag"]}}
 ---
 
 
@@ -13,11 +13,14 @@ De har funnet denne informasjonen:
 - Kuene melkes 10 måneder i året.
 - En måned regnes som 30 dager.
 
->[!blue-box] Sara og Trygve
+De gjør seg noen tanker og stiller seg noen spørsmål før oppstarten av prosjektet:
+
+>[!green-box]
 >Hvor mange liter melk produserer en ku hvert år?
->
->Kunden henter melk hver tredje dag og betaler $6{,}93$ kroner per liter.
->
+
+Kunden henter melk hver tredje dag og betaler $6{,}93$ kroner per liter.
+
+> [!yellow-box]
 >Hvor mye får vi betalt per leveranse?
 >
 >Hvor mye kommer vi til å tjene på salg av melk per år?
@@ -30,7 +33,7 @@ Formelen for volumet av en sylinder er
 
 $$V = \pi \cdot r^2 \cdot h$$
 
->[!blue-box] Sara og Trygve
+>[!blue-box] 
 >Hva blir høyden på den melketanken?
 >
 >Hvor høyt opp i tanken vil melken stå når den er fylt opp med 2500 liter melk?

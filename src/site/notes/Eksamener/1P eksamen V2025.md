@@ -6,7 +6,7 @@
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-Table: {.eksamen-oversikt rows=2.4em}
+Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
@@ -21,7 +21,7 @@ Table: {.eksamen-oversikt rows=2.4em}
 
 **Del 2** — 3 timer — med hjelpemidler
 
-Table: {.eksamen-oversikt rows=2.4em}
+Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
@@ -115,6 +115,30 @@ $$
 >Tegn en graf som illustrerer sammenhengen mellom størrelsene. Marker tre punkter på grafen, og sett riktige koordinater på punktene.
 
 ## Fasit
+
+Eksempel: Venner deler regningen på en pizza til 240 kr. Pris per person = $\dfrac{240}{x}$.
+
+## Løsningsforslag
+
+**Situasjon:** Fire venner bestiller en pizza til 240 kroner og deler regningen likt.
+
+La $x$ være antall personer og $y$ være beløpet hver person betaler.
+
+$$y = \frac{240}{x}$$
+
+Størrelsene er omvendt proporsjonale fordi produktet $x \cdot y = 240$ alltid er det samme. Når antall personer øker, synker prisen per person tilsvarende — dobles antall personer, halveres prisen.
+
+Vi regner ut tre punkter:
+
+| Antall personer ($x$) | Pris per person ($y$) |
+| :---: | :---: |
+| 2 | $120 \, \mathrm{kr}$ |
+| 4 | $60 \, \mathrm{kr}$ |
+| 8 | $30 \, \mathrm{kr}$ |
+
+Grafen er en fallende kurve som nærmer seg aksene uten å treffe dem:
+
+![Håndtegnet graf av y = 240/x med punktene (2, 120), (4, 60) og (8, 30) markert](/img/user/_resources/1p-v25-1-3-graf.png){width=60%}
 
 
 </div></div>

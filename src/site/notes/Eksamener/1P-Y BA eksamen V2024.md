@@ -1,18 +1,396 @@
 ---
-{"tags":["eksamen"],"fag":["1p-y ba"],"eksamen":"v24","del2_tid":3,"title":"1P-Y BA eksamen V2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/1p-y-ba-eksamen-v2024/","permalink":"/eksamener/1p-y-ba-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y ba"],"eksamen":"v24","del2_tid":3,"title":"1P-Y BA eksamen V2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
+{"tags":["eksamen"],"fag":["1p-y ba"],"eksamen":"v24","date":"2024-05-23","del1_tid":1,"del2_tid":3,"title":"1P-Y BA eksamen V2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/1p-y-ba-eksamen-v2024/","permalink":"/eksamener/1p-y-ba-eksamen-v2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y ba"],"eksamen":"v24","date":"2024-05-23","del1_tid":1,"del2_tid":3,"title":"1P-Y BA eksamen V2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
 # Oversikt over eksamensoppgavene
 
-**Del 2** — 3 timer — med hjelpemidler
+**Del 1** — 1 time — uten hjelpemidler
 
-Table: {.eksamen-oversikt rows=2.4em}
+Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Rekestørrelser og pris per kg](https://matematikkoppgaver.vercel.app/rekestorrelser-og-pris-per-kg/) | prosentregning | ✔︎ |
+| [1-2](#oppgave-1-2) | [Oda sitt budsjett og sparing](https://matematikkoppgaver.vercel.app/oda-sitt-budsjett-og-sparing/) | økonomi, sparing | ✔︎ |
+| [1-3](#oppgave-1-3) | [Bremselengde med formel](https://matematikkoppgaver.vercel.app/bremselengde-med-formel/) | formler, modellering | ✔︎ |
+| [1-4](#oppgave-1-4) | [[B35 betongblanding og vekt\|B35 betongblanding og vekt]] | formler, måleenheter | × |
+| [1-5](#oppgave-1-5) | [[Garasjeloft og trigonometri\|Garasjeloft og trigonometri]] | trigonometri, geometri | × |
+
+**Del 2** — 3 timer — med hjelpemidler
+
+Table: {.eksamen-oversikt}
+
+| **№** | **Navn** | **Temaer** | **LF** |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [[Bindingsverk og kappliste for vegg\|Bindingsverk og kappliste for vegg]] | geometri, regneark, mva | × |
+| [2-2](#oppgave-2-2) | [[Husvegg tak og solcellepaneler\|Husvegg tak og solcellepaneler]] | trigonometri, areal, geometri | × |
 | [2-3](#oppgave-2-3) | [Chris lån og sparing for å ta førerkort](https://matematikkoppgaver.vercel.app/chris-lan-og-sparing-for-a-ta-forerkort/) | excel, lån, sparing, kredittkort | ✔︎ |
+| [2-4](#oppgave-2-4) | [Isak reiser Oslo til Stockholm](https://matematikkoppgaver.vercel.app/isak-reiser-oslo-til-stockholm/) | økonomi, prosentregning, modellering | ✔︎ |
+
+# Del 1
+
+## Oppgave 1-1
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rekestorrelser-og-pris-per-kg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Rekestørrelser og pris per kg
+
+En butikk selger poser med 5 kilogram reker for 400 kroner per pose.
+
+>[!oppgave]
+>a) Hva er prisen per kilogram for rekene?
+
+Poser med reker merkes ut fra hvor store rekene er.
+
+|              Størrelse 50/70               |              Størrelse 70/90               |              Størrelse 90/120               |
+| :----------------------------------------: | :----------------------------------------: | :-----------------------------------------: |
+| Du får mellom 50 og 70 reker per kilogram. | Du får mellom 70 og 90 reker per kilogram. | Du får mellom 90 og 120 reker per kilogram. |
+
+>[!oppgave]
+>b) I hvilken pose bør en reke som veier 20 gram, være? Husk å begrunne svaret ditt.
+>
+>    1) størrelse 50/70
+>    2) størrelse 70/90
+>    3) størrelse 90/120
+
+## Fasit
+
+a) $80 \, \mathrm{kr/kg}$
+b) A – størrelse 50/70 (1000 g / 20 g = 50 reker per kg)
+
+## Løsningsforslag
+
+### 1-1a
+
+Vi deler prisen på antall kilogram:
+
+$$
+\frac{400 \, \mathrm{kr}}{5 \, \mathrm{kg}} = 80 \, \mathrm{kr/kg}
+$$
+
+**Prisen per kilogram er $\underline{\underline{80 \, \mathrm{kr/kg}}}$.**
+
+### 1-1b
+
+Vi finner hvor mange reker det er per kilogram når én reke veier 20 gram:
+
+$$
+\frac{1000 \, \mathrm{g}}{20 \, \mathrm{g}} = 50 \text{ reker per kilogram}
+$$
+
+Størrelse 50/70 betyr at det er mellom 50 og 70 reker per kilogram. En reke på 20 gram gir nøyaktig 50 reker per kilo, som er i nedre grense for denne størrelseskategorien.
+
+**Reken bør være i pose A – størrelse 50/70.**
+
+
+</div></div>
+
+
+## Oppgave 1-2
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/oda-sitt-budsjett-og-sparing/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Oda sitt budsjett og sparing
+
+Oda er elev i videregående skole. Hun ønsker seg bedre kontroll over egen økonomi og har laget et månedlig budsjett.
+
+**Inntekter:**
+
+| Post | Beløp |
+|---|---|
+| Butikkjobb | 4 500 kr |
+| Lommepenger | 600 kr |
+
+**Utgifter:**
+
+| Post | Beløp |
+|---|---|
+| Bensin til moped | 500 kr |
+| Kjøp av klær | 1 200 kr |
+| Kjøp av skolemat og drikke | 1 550 kr |
+| Bruk av mobiltelefon | 350 kr |
+| Diverse | 500 kr |
+
+Oda vil spare 10 500 kroner i løpet av 11 måneder.
+
+>[!oppgave]
+>Gjør beregninger og vurder om Oda klarer dette hvis hun følger budsjettet.
+
+## Fasit
+
+Månedlig overskudd er $1000 \, \mathrm{kr}$. Over 11 måneder sparer Oda $11\,000 \, \mathrm{kr}$, som er mer enn $10\,500 \, \mathrm{kr}$. Oda klarer sparemålet.
+
+## Løsningsforslag
+
+Vi beregner månedlig overskudd:
+
+| | Beløp |
+|---|---|
+| Inntekter | $4500 + 600 = 5100 \, \mathrm{kr}$ |
+| Utgifter | $500 + 1200 + 1550 + 350 + 500 = 4100 \, \mathrm{kr}$ |
+| **Overskudd per måned** | $5100 - 4100 = 1000 \, \mathrm{kr}$ |
+
+Sparing over 11 måneder:
+
+$$
+11 \cdot 1000 = 11\,000 \, \mathrm{kr}
+$$
+
+Siden $11\,000 \, \mathrm{kr} > 10\,500 \, \mathrm{kr}$, **klarer Oda sparemålet sitt hvis hun følger budsjettet.** Hun vil ha $\underline{\underline{500 \, \mathrm{kr}}}$ til overs.
+
+
+</div></div>
+
+
+## Oppgave 1-3
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/bremselengde-med-formel/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Bremselengde med formel
+
+For å regne ut bremselengder på sommerføre kan vi bruke formelen
+
+$$B = \frac{x^2}{2}$$
+
+- $B$ er bremselengde (meter)
+- $x$ er fart (km/h) delt på 10
+
+På nettsidene til Viking Redningstjeneste står det at en bil som kjører i $70 \mathrm{~km/h}$, har en bremselengde på $24{,}5 \mathrm{~m}$.
+
+>[!oppgave]
+>Vis hvordan Viking Redningstjeneste kan ha regnet ut denne bremselengden.
+
+## Fasit
+
+$x = 70/10 = 7$, $B = 7^2/2 = 24{,}5 \, \mathrm{m}$
+
+## Løsningsforslag
+
+Formelen er $B = \dfrac{x^2}{2}$, der $x$ er fart i km/h delt på 10.
+
+Vi setter inn $x = \dfrac{70}{10} = 7$:
+
+$$
+B = \frac{7^2}{2} = \frac{49}{2} = 24{,}5
+$$
+
+**Bremselengden ved $70 \, \mathrm{km/h}$ er $\underline{\underline{24{,}5 \, \mathrm{m}}}$**, og det stemmer med verdien Viking Redningstjeneste oppgir.
+
+
+</div></div>
+
+
+## Oppgave 1-4
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/b35-betongblanding-og-vekt/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# B35 betongblanding og vekt
+
+$1 \mathrm{~m^3}$ B35 betongblanding består av følgende:
+
+| Sement                  | 325 kg    |
+|-------------------------|-----------|
+| Sand                    | 1 tonn    |
+| Stein av ulik størrelse | 900 kg    |
+| Vann                    | 165 liter |
+
+>[!oppgave]
+>a) Regn ut hvor mye $1 \mathrm{~m^3}$ B35 betong veier. Oppgi svaret i kg.
+
+Du skal blande $0{,}2 \mathrm{~m^3}$ B35 betong til en liten konstruksjon.
+
+>[!oppgave]
+>b) Hvor mye vann trenger du til denne blandingen?
+
+## Fasit
+
+
+
+## Løsningsforslag
+
+
+</div></div>
+
+
+## Oppgave 1-5
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/garasjeloft-og-trigonometri/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Garasjeloft og trigonometri
+
+Figuren viser en arbeidstegning av et garasjeloft.
+
+Kari har fått oppgitt at vinkelen $v$ er $47\degree$.
+
+![Garasjeloft](/img/user/_resources/1pyba-v24-1-5.jpeg){width=80%}
+
+Kari lurer på følgende:
+
+>[!blue-box] Kari
+>Hvor lang er lengden AH, og hvor mange meter er det?
+
+>[!blue-box] Kari
+>Hvordan kan jeg bruke et av uttrykkene til høyre for å sjekke om vinkelen $v$ virkelig er $47\degree$?
+
+Trigonometri i rettvinklede trekanter:
+
+$$\sin v = \frac{\text{motstående katet}}{\text{hypotenus}}$$
+
+$$\cos v = \frac{\text{hosliggende katet}}{\text{hypotenus}}$$
+
+$$\tan v = \frac{\text{motstående katet}}{\text{hosliggende katet}}$$
+
+>[!oppgave]
+>Svar på spørsmålene til Kari.
+>Husk å begrunne svarene dine.
+
+## Fasit
+
+
+
+## Løsningsforslag
+
+
+</div></div>
+
 
 # Del 2
+
+## Oppgave 2-1
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/bindingsverk-og-kappliste-for-vegg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Bindingsverk og kappliste for vegg
+
+Arbeidstegningen viser bindingsverket i en vegg.
+
+![Bindingsverk](/img/user/_resources/1pyba-v24-2-1.jpeg){width=80%}
+
+|                         | Kappliste       |                     |        |                                      |
+|-------------------------|-----------------|---------------------|--------|--------------------------------------|
+| Nr. / Navn              | Dimensjon (mm)  | Kappelengde (mm)    | Antall | Total lengde pluss 10 % svinn (m)    |
+| 1 Bunnsvill             | 48 × 98         |                     |        |                                      |
+| 2 Toppsvill             | 48 × 98         |                     |        |                                      |
+| 3 Stender               | 48 × 98         |                     |        |                                      |
+
+>[!oppgave]
+>a) Bruk arbeidstegningen. Skriv av tabellen, og fyll ut kapplisten.
+
+Nedenfor ser du to ulike pristilbud på 48 × 98 plank. Satsen for merverdiavgift (mva.) er 25 prosent.
+
+**Butikk 1:** $23{,}90$ kr per meter uten mva.
+
+**Butikk 2:** $28{,}50$ kr per meter med mva.
+
+Du skal handle 175 meter plank.
+
+>[!oppgave]
+>b) Finn ut hvilken butikk det er billigst å handle i, og hvor mye du kan spare ved å handle der det er billigst. Oppgi svaret i hele kroner.
+
+I tabellen ser du hvordan prisen på materialene til en enebolig utvikler seg fra januar til desember 2023.
+
+| Måned     | Materialkostnader (i tusen kroner) |
+|-----------|------------------------------------|
+| Januar    | 2 000                              |
+| Februar   | 1 975                              |
+| Mars      | 1 966                              |
+| April     | 1 983                              |
+| Mai       | 2 003                              |
+| Juni      | 1 986                              |
+| Juli      | 1 997                              |
+| August    | 1 978                              |
+| September | 1 977                              |
+| Oktober   | 2 011                              |
+| November  | 2 017                              |
+| Desember  | 2 010                              |
+
+>[!oppgave]
+>c) Bruk regneark og finn endringen i pris fra måned til måned. Vurder når endringen var størst.
+>
+>Lag en grafisk framstilling som viser endringene i materialkostnadene.
+>
+>Husk å vise hvilke formler du bruker i regnearket.
+
+## Fasit
+
+
+
+## Løsningsforslag
+
+
+</div></div>
+
+
+## Oppgave 2-2
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/husvegg-tak-og-solcellepaneler/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Husvegg tak og solcellepaneler
+
+Tegningen viser en husvegg.
+
+Lengden AB er $7{,}0 \mathrm{~m}$. Høyden AC er $1{,}0 \mathrm{~m}$.
+
+![Husvegg med tak. Kilde: Pixabay.com](/img/user/_resources/1pyba-v24-2-2.jpeg){width=80%}
+
+Byggmester Ole stiller seg selv noen spørsmål om huset:
+
+>[!blue-box] Ole
+>Hvor langt er taket når det i tillegg stikker ut en halv meter på fram- og baksiden av huset?
+
+>[!blue-box] Ole
+>Hvor stor blir takvinkelen B med målene som er oppgitt?
+
+>[!blue-box] Ole
+>Taket er rektangelformet med bredde omtrent 6 meter og har et areal på $48 \mathrm{~m^2}$. Hvor mange hele solcellepaneler kan jeg maksimalt få plass til på taket når hvert solcellepanel er $183 \times 114 \mathrm{~cm}$?
+
+>[!oppgave]
+>Ta utgangspunkt i spørsmålene til Ole. Gjør beregninger og vurderinger som gir mest mulig informasjon om det han lurer på.
+
+## Fasit
+
+
+
+## Løsningsforslag
+
+
+</div></div>
+
 
 ## Oppgave 2-3
 
@@ -145,6 +523,128 @@ Formlene i de grønne cellene er:
 - **Ny saldo:** `= forrige saldo + renter + innskudd`
 
 **Chris har 25 000 kroner på kontoen etter at han har satt inn sparebeløpet i måned 11** (saldo ≈ 25 747 kr).
+
+</div></div>
+
+
+## Oppgave 2-4
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/isak-reiser-oslo-til-stockholm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Isak reiser Oslo til Stockholm
+
+Isak skal reise fra Oslo til Stockholm. Han finner to alternative måter:
+
+| Alternativ 1                               |  Pris  | Avgang | Ankomst | Distanse |
+| :-------------------------- | :----: | :----: | :-----: | :------: |
+| Tog fra Oslo sentrum til Stockholm sentrum | 551 kr | 07:32  |  14:19  |  416 km  |
+
+| Alternativ 2                                     |  Pris  | Avgang | Ankomst | Distanse |
+| :-------------------------- | :----: | :----: | :-----: | :------: |
+| Tog fra Oslo sentrum til Oslo lufthavn           | 118 kr | 07:54  |  08:17  |  48 km   |
+| Fly fra Oslo lufthavn til Stockholm lufthavn     | 799 kr | 09:20  |  10:20  |  385 km  |
+| Tog fra Stockholm lufthavn til Stockholm sentrum | 178 kr | 11:13  |  11:52  |  38 km   |
+
+>[!oppgave]
+>Ta utgangspunkt i spørsmålene til Isak. Gjør beregninger og vurderinger som gir mest mulig informasjon om det han lurer på:
+>
+>- Hvor mange kroner sparer jeg ved å velge alternativ 1?
+>- Hvor mye tid sparer jeg ved å velge alternativ 2?
+>- Jeg lurer på hvor fort toget i alternativ 1 kjører. Kan jeg regne ut gjennomsnittsfarten med formelen $s = vt$?
+>- Utslippet av CO₂ er 133 gram per kilometer jeg reiser med fly, og 10 gram per kilometer jeg reiser med tog. Hvor mange kilogram utslipp blir det for hvert av alternativene?
+>- Hvor mange prosent lavere utslipp blir det med alternativ 1, sammenlignet med alternativ 2?
+>
+>Vurder i tillegg hvilket reisealternativ du mener Isak bør velge.
+
+## Fasit
+
+Alt 1 er 544 kr billigere. Alt 2 er 2 t 49 min raskere. Gjennomsnittsfart tog ≈ 61,3 km/h. CO₂: alt 1 = 4,16 kg, alt 2 = 52,1 kg. Alt 1 har 92 % lavere utslipp.
+
+## Løsningsforslag
+
+Vi beregner og svarer på hvert av Isaks spørsmål.
+
+**Pris:**
+
+$$
+\text{Alt 2:} \quad 118 + 799 + 178 = 1095 \, \mathrm{kr}
+$$
+
+$$
+1095 - 551 = 544 \, \mathrm{kr}
+$$
+
+**Isak sparer $\underline{\underline{544 \, \mathrm{kr}}}$ ved å velge alternativ 1.**
+
+---
+
+**Tid:**
+
+$$
+\text{Alt 1:} \quad 14{:}19 - 07{:}32 = 6 \text{ t } 47 \text{ min} = 407 \text{ min}
+$$
+
+$$
+\text{Alt 2:} \quad 11{:}52 - 07{:}54 = 3 \text{ t } 58 \text{ min} = 238 \text{ min}
+$$
+
+$$
+407 - 238 = 169 \text{ min} = 2 \text{ t } 49 \text{ min}
+$$
+
+**Isak sparer $\underline{\underline{2 \, \mathrm{timer} \, 49 \, \mathrm{minutter}}}$ ved å velge alternativ 2.**
+
+---
+
+**Gjennomsnittsfart, alternativ 1:**
+
+Vi bruker $v = \dfrac{s}{t}$ med $s = 416 \, \mathrm{km}$ og $t = \dfrac{407}{60} \, \mathrm{h}$:
+
+$$
+v = \frac{416}{\frac{407}{60}} = \frac{416 \cdot 60}{407} \approx 61{,}3 \, \mathrm{km/h}
+$$
+
+**Gjennomsnittsfarten til toget er $\underline{\underline{61{,}3 \, \mathrm{km/h}}}$.**
+
+---
+
+**CO₂-utslipp:**
+
+Alternativ 1 (kun tog, 416 km):
+
+$$
+416 \cdot 10 = 4\,160 \, \mathrm{g} = 4{,}16 \, \mathrm{kg}
+$$
+
+Alternativ 2 (tog + fly + tog):
+
+$$
+\underbrace{48 \cdot 10}_{480} + \underbrace{385 \cdot 133}_{51\,205} + \underbrace{38 \cdot 10}_{380} = 52\,065 \, \mathrm{g} \approx 52{,}1 \, \mathrm{kg}
+$$
+
+**CO₂-utslipp: alternativ 1 gir $\underline{\underline{4{,}16 \, \mathrm{kg}}}$, alternativ 2 gir $\underline{\underline{52{,}1 \, \mathrm{kg}}}$.**
+
+---
+
+**Prosentvis lavere utslipp, alternativ 1:**
+
+$$
+\frac{52{,}065 - 4{,}160}{52{,}065} \cdot 100 \approx 92{,}0 \, \%
+$$
+
+**Alternativ 1 har $\underline{\underline{92 \, \%}}$ lavere CO₂-utslipp enn alternativ 2.**
+
+---
+
+**Vurdering:**
+
+Alternativ 1 er klart å foretrekke ut fra pris og miljø – det er 544 kr billigere og slipper ut 92 % mindre CO₂. Alternativ 2 er 2 timer og 49 minutter raskere, men den store miljøforskjellen gjør at **jeg anbefaler Isak å velge alternativ 1 (direktetoget).**
+
 
 </div></div>
 

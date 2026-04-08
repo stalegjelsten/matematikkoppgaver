@@ -6,7 +6,7 @@
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-Table: {.eksamen-oversikt rows=2.4em}
+Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
@@ -18,7 +18,7 @@ Table: {.eksamen-oversikt rows=2.4em}
 
 **Del 2** — 3 timer — med hjelpemidler
 
-Table: {.eksamen-oversikt rows=2.4em}
+Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
@@ -356,7 +356,7 @@ Vi trekker ut 25 tilfeldige elever fra skolen, måler hvor høye elevene er, og 
 
 Husk å begrunne svarene dine.
 
-![](/img/user/_resources/s2-h25-1-5-normalfordelinger.png)
+![Fire normalfordelinger](/img/user/_resources/s2-h25-1-5-normalfordelinger.png){width=80%}
 
 ## Fasit
 

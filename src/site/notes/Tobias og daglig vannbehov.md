@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"dg-publish":true,"temaer":["tallregning","proporsjonalitet"],"fag":["1p"],"eksamen":"h23","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":1}],"poeng":null,"title":"Tobias og daglig vannbehov","status":1,"source":null,"todo":null,"dg-permalink":"/tobias-og-daglig-vannbehov/","permalink":"/tobias-og-daglig-vannbehov/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"temaer":["tallregning","proporsjonalitet"],"fag":["1p"],"eksamen":"h23","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":1}],"poeng":null,"title":"Tobias og daglig vannbehov","status":1,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"dg-publish":true,"temaer":["tallregning","proporsjonalitet"],"fag":["1p"],"eksamen":"h23","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":1}],"poeng":null,"title":"Tobias og daglig vannbehov","status":1,"source":null,"todo":null,"dg-permalink":"/tobias-og-daglig-vannbehov/","lf-source-claude":true,"permalink":"/tobias-og-daglig-vannbehov/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-29","aliases":[],"temaer":["tallregning","proporsjonalitet"],"fag":["1p"],"eksamen":"h23","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":1}],"poeng":null,"title":"Tobias og daglig vannbehov","status":1,"source":null,"todo":null,"lf-source-claude":true}}
 ---
 
 
@@ -16,3 +16,13 @@ Tobias veier 70 kg.
 >Hvor mange liter vann bør Tobias drikke i løpet av et døgn ifølge nettsiden?
 
 ## Fasit
+
+$2{,}1 \, \mathrm{L}$
+
+## Løsningsforslag
+
+Tobias veier 70 kg og trenger ca. 30 mL væske per kilogram kroppsvekt.
+
+$$70 \cdot 30 \, \mathrm{mL} = 2100 \, \mathrm{mL} = 2{,}1 \, \mathrm{L}$$
+
+**Tobias bør drikke omtrent $\underline{\underline{2{,}1 \, \mathrm{L}}}$ vann i løpet av et døgn.**

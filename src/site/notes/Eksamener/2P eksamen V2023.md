@@ -6,7 +6,7 @@
 
 **Del 1** — 1 time — uten hjelpemidler
 
-Table: {.eksamen-oversikt rows=2.4em}
+Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
@@ -17,15 +17,15 @@ Table: {.eksamen-oversikt rows=2.4em}
 
 **Del 2** — 4 timer — med hjelpemidler
 
-Table: {.eksamen-oversikt rows=2.4em}
+Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Pris på T-skjorte og bukse](https://matematikkoppgaver.vercel.app/pris-pa-t-skjorte-og-bukse/) | likningssystem | × |
 | [2-2](#oppgave-2-2) | [Kaffekoppers gjennomsnitt med ukjent](https://matematikkoppgaver.vercel.app/kaffekoppers-gjennomsnitt-med-ukjent/) | statistikk, gjennomsnitt | ✔︎ |
-| [2-3](#oppgave-2-3) | [Prisvekst og prisfall sammenligning](https://matematikkoppgaver.vercel.app/prisvekst-og-prisfall-sammenligning/) | prosentregning, vekstfaktor, geometrisk vekst | ✔︎ |
-| [2-4](#oppgave-2-4) | [Sykkelhjelm og datapresentasjon](https://matematikkoppgaver.vercel.app/sykkelhjelm-og-datapresentasjon/) | statistikk, prosentregning, diagrammer, presentasjon av data | ✔︎ |
-| [2-5](#oppgave-2-5) | [Lønnsnivå og sentralmål](https://matematikkoppgaver.vercel.app/lonnsniva-og-sentralmal/) | statistikk, gjennomsnitt, median, sentralmål, grupperte data | ✔︎ |
+| [2-3](#oppgave-2-3) | [Prisvekst og prisfall sammenligning](https://matematikkoppgaver.vercel.app/prisvekst-og-prisfall-sammenligning/) | prosentregning, vekstfaktor, geometrisk vekst | × |
+| [2-4](#oppgave-2-4) | [Sykkelhjelm og datapresentasjon](https://matematikkoppgaver.vercel.app/sykkelhjelm-og-datapresentasjon/) | statistikk, prosentregning, diagrammer, presentasjon av data | × |
+| [2-5](#oppgave-2-5) | [Lønnsnivå og sentralmål](https://matematikkoppgaver.vercel.app/lonnsniva-og-sentralmal/) | statistikk, gjennomsnitt, median, sentralmål, grupperte data | × |
 | [2-6](#oppgave-2-6) | [Parkeringsplass og prosentendring](https://matematikkoppgaver.vercel.app/parkeringsplass-og-prosentendring/) | areal, prosentregning, argumentasjon | × |
 | [2-7](#oppgave-2-7) | [Sofies lån og nedbetalingsprogram](https://matematikkoppgaver.vercel.app/sofies-lan-og-nedbetalingsprogram/) | lån, programmering | × |
 
@@ -44,8 +44,8 @@ Table: {.eksamen-oversikt rows=2.4em}
 
 Tabellen nedenfor viser prisindeksen for brød i perioden 2015–2021.
 
-| År | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 |
-|---|---|---|---|---|---|---|---|
+| År                  | 2015  | 2016  | 2017  | 2018  | 2019  | 2020  | 2021  |
+| ------------------- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Prisindeks for brød | 100,0 | 102,5 | 104,5 | 107,3 | 109,2 | 111,8 | 113,3 |
 
 >[!oppgave]
@@ -57,6 +57,35 @@ Prisen for ett bestemt brød steg fra 40 kroner i 2017 til 42 kroner i 2019.
 >b) Gjør beregninger og finn ut om prisen for dette brødet steg mer enn prisindeksen for brød.
 
 ## Fasit
+
+a) $13{,}3 \,\%$
+b) Brødprisen steg med $5 \,\%$, mens prisindeksen steg med ca. $4{,}5 \,\%$. Brødet steg mer enn prisindeksen.
+
+## Løsningsforslag
+
+### a
+
+Prisindeksen for brød var $100{,}0$ i 2015 og $113{,}3$ i 2021. Basisåret er 2015, så prisindeksen viser direkte hvor mange prosent prisen har steget.
+
+$$113{,}3 - 100{,}0 = 13{,}3$$
+
+**Prisen for brød steg med $\underline{\underline{13{,}3 \,\%}}$ fra 2015 til 2021.**
+
+### b
+
+Vi regner ut den prosentvise prisøkningen for brødet:
+
+$$\frac{42 - 40}{40} \cdot 100 \,\% = \frac{2}{40} \cdot 100 \,\% = 5 \,\%$$
+
+Prisen for dette brødet steg med $5 \,\%$ fra 2017 til 2019.
+
+Vi regner ut den prosentvise økningen i prisindeksen i samme periode:
+
+$$\frac{109{,}2 - 104{,}5}{104{,}5} \cdot 100 \,\% \approx 4{,}5 \,\%$$
+
+Prisindeksen for brød steg med ca. $4{,}5 \,\%$ fra 2017 til 2019.
+
+**Prisen for dette brødet steg med $\underline{\underline{5 \,\%}}$, noe som er mer enn prisindeksen som steg med ca. $4{,}5 \,\%$.**
 
 
 </div></div>
@@ -128,6 +157,22 @@ Truls og Thea diskuterer økonomi.
 >Hjelp Thea med å svare Truls og forklare hva han må ta hensyn til når han vurderer om han skal være fornøyd med hvor mye lønnen har økt.
 
 ## Fasit
+
+Se løsningsforslag.
+
+## Løsningsforslag
+
+**Nominell lønn** er det beløpet du faktisk får utbetalt – altså det tallet som står på lønnsslippen. Når Truls sier at lønnen hans har økt med $16 \,\%$, snakker han trolig om den nominelle lønnen.
+
+**Reallønn** er et mål på hva lønnen din faktisk er verdt – altså hvor mye varer og tjenester du kan kjøpe for lønnen din. Reallønnen tar hensyn til at prisene også endrer seg over tid.
+
+Hvis prisene har steget mye i den samme perioden, kan det hende at Truls ikke kan kjøpe mer enn før, selv om han tjener mer. For eksempel:
+
+- Hvis prisene har steget med $16 \,\%$ i samme periode, har reallønnen hans ikke endret seg i det hele tatt. Da kan han kjøpe akkurat like mye som før.
+- Hvis prisene har steget med mer enn $16 \,\%$, har reallønnen hans faktisk gått ned. Da kan han kjøpe mindre enn før.
+- Hvis prisene har steget med mindre enn $16 \,\%$, har reallønnen økt. Da kan han kjøpe mer enn før.
+
+**Truls må altså sjekke hvor mye prisene har steget (prisveksten/inflasjonen) i den samme perioden for å vite om han virkelig har fått bedre råd.**
 
 
 </div></div>
@@ -207,6 +252,23 @@ Vi ser at $f$ ligger over $g$ i hele intervallet mellom $x=1$ og $x=4$. Dermed k
 >Hvor mye koster en bukse?
 
 ## Fasit
+
+En T-skjorte koster $149 \, \mathrm{kr}$ og en bukse koster $599 \, \mathrm{kr}$.
+
+## Løsningsforslag
+
+Vi kaller prisen for en T-skjorte $x$ og prisen for en bukse $y$. Fra bildet kan vi sette opp to likninger:
+
+$$2x + 2y = 1496$$
+$$3x + y = 1046$$
+
+Vi tegner de to linjene i GeoGebra og finner skjæringspunktet.
+
+![GeoGebra-graf med to linjer og skjæringspunkt](/img/user/_resources/2p-v23-2-1-losning.png)
+
+Fra GeoGebra leser vi av skjæringspunktet `Skjaering` $= (149, \, 599)$.
+
+**En T-skjorte koster $\underline{\underline{149 \, \mathrm{kr}}}$ og en bukse koster $\underline{\underline{599 \, \mathrm{kr}}}$.**
 
 
 </div></div>
@@ -482,6 +544,36 @@ Avgjør hvilken av de tre påstandene nedenfor som er riktig. Husk å argumenter
 
 ## Fasit
 
+Påstand 1 er riktig: Arealet vil alltid bli mindre.
+
+## Løsningsforslag
+
+Vi kaller bredden $b$ og lengden $l$. Det opprinnelige arealet er
+
+$$A = b \cdot l$$
+
+Bredden minskes med $p \,\%$ og lengden økes med $p \,\%$. Da blir den nye bredden $b \cdot \left(1 - \frac{p}{100}\right)$ og den nye lengden $l \cdot \left(1 + \frac{p}{100}\right)$.
+
+Det nye arealet blir
+
+$$A_{\text{ny}} = b \cdot \left(1 - \frac{p}{100}\right) \cdot l \cdot \left(1 + \frac{p}{100}\right) = b \cdot l \cdot \left(1 - \frac{p}{100}\right)\left(1 + \frac{p}{100}\right)$$
+
+Vi bruker tredje kvadratsetning $(a - b)(a + b) = a^2 - b^2$:
+
+$$A_{\text{ny}} = b \cdot l \cdot \left(1 - \left(\frac{p}{100}\right)^2\right)$$
+
+Siden $\left(\frac{p}{100}\right)^2$ alltid er et positivt tall (så lenge $p \neq 0$), vil faktoren $\left(1 - \left(\frac{p}{100}\right)^2\right)$ alltid være mindre enn $1$.
+
+Vi kan sjekke med noen eksempler:
+
+| Prosentandel $p$ | Vekstfaktor for arealet | Endring i areal |
+| :---: | :---: | :---: |
+| $10 \,\%$ | $1 - 0{,}1^2 = 0{,}99$ | $-1 \,\%$ |
+| $20 \,\%$ | $1 - 0{,}2^2 = 0{,}96$ | $-4 \,\%$ |
+| $50 \,\%$ | $1 - 0{,}5^2 = 0{,}75$ | $-25 \,\%$ |
+
+**Påstand 1 er riktig: $\underline{\underline{\text{Arealet av den nye parkeringsplassen vil alltid bli mindre.}}}$**
+
 
 </div></div>
 
@@ -539,6 +631,79 @@ Nedenfor ser du resultatet hun får når hun kjører programmet.
 >b) Hvor mange måneder vil det ta før lånet er betalt ned?
 
 ## Fasit
+
+a) Se løsningsforslag for rettet program.
+
+b) $20$ måneder
+
+## Løsningsforslag
+
+### a
+
+Problemet med Sofies program er at linje 12, 13 og 14 setter renter, avdrag og restlån til 0 i stedet for å beregne dem. Vi må også endre løkken slik at den kjører til lånet er nedbetalt.
+
+De tre linjene skal erstattes med:
+
+- **Linje 12:** `renter = restlån * rentefot / 100`
+- **Linje 13:** `avdrag = terminbeløp - renter`
+- **Linje 14:** `restlån = restlån - avdrag`
+
+I tillegg endrer vi løkken fra `for måned in range(1, 5)` til en `while`-løkke som kjører så lenge restlånet er positivt. Det rettede programmet blir:
+
+```python ln
+# Definerer variabler
+restlån = 100000
+terminbeløp = 6378
+rentefot = 2
+
+# Overskrifter
+print("Måned        Terminbeløp    Renter         Avdrag         Restlån")
+
+måned = 0
+while restlån > 0:
+    måned = måned + 1
+
+    renter = restlån * rentefot / 100
+    avdrag = terminbeløp - renter
+    restlån = restlån - avdrag
+
+    # Skriver ut i fem kolonner ved å bruke tabulatorer sep = "\t\t"
+    # Runder av beløpene til to desimaler ved å bruke round
+    print(måned,
+        round(terminbeløp, 2),
+        round(renter, 2),
+        round(avdrag, 2),
+        round(restlån, 2), sep = "\t\t")
+```
+
+### b
+
+Når vi kjører det rettede programmet, får vi denne nedbetalingsplanen:
+
+| Måned | Terminbeløp | Renter | Avdrag | Restlån |
+| :---: | ---: | ---: | ---: | ---: |
+| 1 | 6 378,00 | 2 000,00 | 4 378,00 | 95 622,00 |
+| 2 | 6 378,00 | 1 912,44 | 4 465,56 | 91 156,44 |
+| 3 | 6 378,00 | 1 823,13 | 4 554,87 | 86 601,57 |
+| 4 | 6 378,00 | 1 732,03 | 4 645,97 | 81 955,60 |
+| 5 | 6 378,00 | 1 639,11 | 4 738,89 | 77 216,71 |
+| 6 | 6 378,00 | 1 544,33 | 4 833,67 | 72 383,05 |
+| 7 | 6 378,00 | 1 447,66 | 4 930,34 | 67 452,71 |
+| 8 | 6 378,00 | 1 349,05 | 5 028,95 | 62 423,76 |
+| 9 | 6 378,00 | 1 248,48 | 5 129,52 | 57 294,24 |
+| 10 | 6 378,00 | 1 145,88 | 5 232,12 | 52 062,12 |
+| 11 | 6 378,00 | 1 041,24 | 5 336,76 | 46 725,36 |
+| 12 | 6 378,00 | 934,51 | 5 443,49 | 41 281,87 |
+| 13 | 6 378,00 | 825,64 | 5 552,36 | 35 729,51 |
+| 14 | 6 378,00 | 714,59 | 5 663,41 | 30 066,10 |
+| 15 | 6 378,00 | 601,32 | 5 776,68 | 24 289,42 |
+| 16 | 6 378,00 | 485,79 | 5 892,21 | 18 397,21 |
+| 17 | 6 378,00 | 367,94 | 6 010,06 | 12 387,15 |
+| 18 | 6 378,00 | 247,74 | 6 130,26 | 6 256,90 |
+| 19 | 6 378,00 | 125,14 | 6 252,86 | 4,03 |
+| 20 | 4,12 | 0,08 | 4,03 | 0,00 |
+
+**Det tar $\underline{\underline{20 \text{ måneder}}}$ før lånet er betalt ned.**
 
 
 </div></div>

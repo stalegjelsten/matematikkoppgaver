@@ -6,7 +6,7 @@
 
 **Del 1** — 1 time — uten hjelpemidler
 
-Table: {.eksamen-oversikt rows=2.4em}
+Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
@@ -18,7 +18,7 @@ Table: {.eksamen-oversikt rows=2.4em}
 
 **Del 2** — 4 timer — med hjelpemidler
 
-Table: {.eksamen-oversikt rows=2.4em}
+Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
@@ -55,6 +55,16 @@ Tobias veier 70 kg.
 >Hvor mange liter vann bør Tobias drikke i løpet av et døgn ifølge nettsiden?
 
 ## Fasit
+
+$2{,}1 \, \mathrm{L}$
+
+## Løsningsforslag
+
+Tobias veier 70 kg og trenger ca. 30 mL væske per kilogram kroppsvekt.
+
+$$70 \cdot 30 \, \mathrm{mL} = 2100 \, \mathrm{mL} = 2{,}1 \, \mathrm{L}$$
+
+**Tobias bør drikke omtrent $\underline{\underline{2{,}1 \, \mathrm{L}}}$ vann i løpet av et døgn.**
 
 
 </div></div>
