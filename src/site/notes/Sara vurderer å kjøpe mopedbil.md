@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["økonomi","prosentregning","lån","excel"],"fag":["1p-y el"],"eksamen":"h23","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":5}],"title":"Sara vurderer å kjøpe mopedbil","status":3,"source":null,"todo":null,"dg-permalink":"/sara-vurderer-a-kjope-mopedbil/","permalink":"/sara-vurderer-a-kjope-mopedbil/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"temaer":["økonomi","prosentregning","lån","excel"],"fag":["1p-y el"],"eksamen":"h23","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":5}],"title":"Sara vurderer å kjøpe mopedbil","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["økonomi","prosentregning","lån","excel"],"fag":["1p-y el","1p-y ba","1p-y fd","1p-y hs","1p-y dt","1p-y im","1p-y na","1p-y rm","1p-y sr","1p-y tp"],"eksamen":"h23","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":5},{"fag":"1p-y ba","del":2,"oppgave":5},{"fag":"1p-y fd","del":2,"oppgave":5},{"fag":"1p-y hs","del":2,"oppgave":5},{"fag":"1p-y dt","del":2,"oppgave":5},{"fag":"1p-y im","del":2,"oppgave":5},{"fag":"1p-y na","del":2,"oppgave":5},{"fag":"1p-y rm","del":2,"oppgave":5},{"fag":"1p-y sr","del":2,"oppgave":5},{"fag":"1p-y tp","del":2,"oppgave":5}],"title":"Sara vurderer å kjøpe mopedbil","status":1,"source":null,"todo":null,"dg-permalink":"/sara-vurderer-a-kjope-mopedbil/","lf-source-claude":true,"permalink":"/sara-vurderer-a-kjope-mopedbil/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"temaer":["økonomi","prosentregning","lån","excel"],"fag":["1p-y el","1p-y ba","1p-y fd","1p-y hs","1p-y dt","1p-y im","1p-y na","1p-y rm","1p-y sr","1p-y tp"],"eksamen":"h23","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":5},{"fag":"1p-y ba","del":2,"oppgave":5},{"fag":"1p-y fd","del":2,"oppgave":5},{"fag":"1p-y hs","del":2,"oppgave":5},{"fag":"1p-y dt","del":2,"oppgave":5},{"fag":"1p-y im","del":2,"oppgave":5},{"fag":"1p-y na","del":2,"oppgave":5},{"fag":"1p-y rm","del":2,"oppgave":5},{"fag":"1p-y sr","del":2,"oppgave":5},{"fag":"1p-y tp","del":2,"oppgave":5}],"title":"Sara vurderer å kjøpe mopedbil","status":1,"source":null,"todo":null,"lf-source-claude":true}}
 ---
 
 
@@ -35,7 +35,11 @@ Sara er usikker på om hun har råd til å kjøpe og bruke mopedbilen. Hun har n
 
 ## Fasit
 
-Lånebehov: 112 000 kr. Månedlig kostnad m/lån: 3 916 kr. Igjen til andre ting: 359 kr/mnd. Salgsverdi etter 2 år: 111 456 kr. Onkelen tjener 800 kr.
+- Lånebehov: 112 000 kr. 
+- Månedlig kostnad m/lån: 3 916 kr. 
+- Igjen til andre ting: 359 kr/mnd. 
+- Salgsverdi etter 2 år: 111 456 kr. 
+- Onkelen tjener 800 kr.
 
 ## Løsningsforslag
 
