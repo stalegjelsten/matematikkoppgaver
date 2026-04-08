@@ -1,10 +1,10 @@
 ---
-{"tags":["eksamen"],"fag":["1p-y im"],"eksamen":"v23","date":"2023-05-26","del1_tid":"None","del2_tid":"None","title":"1P-Y IM eksamen V2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/1p-y-im-eksamen-v2023/","permalink":"/eksamener/1p-y-im-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y im"],"eksamen":"v23","date":"2023-05-26","del1_tid":"None","del2_tid":"None","title":"1P-Y IM eksamen V2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
+{"tags":["eksamen"],"fag":["1p-y im"],"eksamen":"v23","date":"2023-05-26","del1_tid":1,"del2_tid":3,"title":"1P-Y IM eksamen V2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/1p-y-im-eksamen-v2023/","permalink":"/eksamener/1p-y-im-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y im"],"eksamen":"v23","date":"2023-05-26","del1_tid":1,"del2_tid":3,"title":"1P-Y IM eksamen V2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
 # Oversikt over eksamensoppgavene
 
-**Del 1** — None timer — uten hjelpemidler
+**Del 1** — 1 time — uten hjelpemidler
 
 Table: {.eksamen-oversikt}
 
@@ -15,7 +15,7 @@ Table: {.eksamen-oversikt}
 | [1-3](#oppgave-1-3) | [Prosentvis prisforskjell sjokolade](https://matematikkoppgaver.vercel.app/prosentvis-prisforskjell-sjokolade/) | prosentregning, prosentvis endring, argumentasjon | ✔︎ |
 | [1-4](#oppgave-1-4) | [Sekskantmønster og vinkelsum](https://matematikkoppgaver.vercel.app/sekskantmonster-og-vinkelsum/) | mønstre, geometri, formler | × |
 
-**Del 2** — None timer — med hjelpemidler
+**Del 2** — 3 timer — med hjelpemidler
 
 Table: {.eksamen-oversikt}
 

@@ -1,10 +1,10 @@
 ---
-{"tags":["eksamen"],"fag":["s2"],"eksamen":"h13","del1_tid":2,"title":"S2 eksamen H2013","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/s2-eksamen-h2013/","permalink":"/eksamener/s2-eksamen-h2013/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"h13","del1_tid":2,"title":"S2 eksamen H2013","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
+{"tags":["eksamen"],"fag":["s2"],"eksamen":"h13","del1_tid":"None","title":"S2 eksamen H2013","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/s2-eksamen-h2013/","permalink":"/eksamener/s2-eksamen-h2013/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["s2"],"eksamen":"h13","del1_tid":"None","title":"S2 eksamen H2013","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
 # Oversikt over eksamensoppgavene
 
-**Del 1** — 2 timer — uten hjelpemidler
+**Del 1** — None timer — uten hjelpemidler
 
 Table: {.eksamen-oversikt}
 
