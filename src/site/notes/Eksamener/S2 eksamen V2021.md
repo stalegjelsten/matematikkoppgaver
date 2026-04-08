@@ -10,13 +10,13 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [1-1](#oppgave-1-1) | [[Derivasjon med logaritme og eksponential\|Derivasjon med logaritme og eksponential]] | derivasjon, logaritmer, eksponentialfunksjoner | × |
-| [1-2](#oppgave-1-2) | [[Summer av rekker\|Summer av rekker]] | rekker, uendelig rekke | × |
-| [1-3](#oppgave-1-3) | [[Polynomdivisjon og ulikhet\|Polynomdivisjon og ulikhet]] | polynomdivisjon, faktorisering | × |
-| [1-4](#oppgave-1-4) | [[Logistisk funksjon fra graf\|Logistisk funksjon fra graf]] | logistisk funksjon, modellering | × |
-| [1-5](#oppgave-1-5) | [[Bestemme koeffisienter i tredjegradsfunksjon\|Bestemme koeffisienter i tredjegradsfunksjon]] | funksjonsdrøfting, likningssystem | × |
-| [1-6](#oppgave-1-6) | [[Logaritmefunksjon med drøfting\|Logaritmefunksjon med drøfting]] | derivasjon, logaritmer, funksjonsdrøfting | × |
-| [1-7](#oppgave-1-7) | [[Sauevekt og normalfordeling\|Sauevekt og normalfordeling]] | normalfordeling, integral, sannsynlighet | × |
+| [1-1](#oppgave-1-1) | [Derivasjon med logaritme og eksponential](https://matematikkoppgaver.vercel.app/derivasjon-med-logaritme-og-eksponential/) | derivasjon, logaritmer, eksponentialfunksjoner | × |
+| [1-2](#oppgave-1-2) | [Summer av rekker](https://matematikkoppgaver.vercel.app/summer-av-rekker/) | rekker, uendelig rekke | × |
+| [1-3](#oppgave-1-3) | [Polynomdivisjon og ulikhet](https://matematikkoppgaver.vercel.app/polynomdivisjon-og-ulikhet/) | polynomdivisjon, faktorisering | × |
+| [1-4](#oppgave-1-4) | [Logistisk funksjon fra graf](https://matematikkoppgaver.vercel.app/logistisk-funksjon-fra-graf/) | logistisk funksjon, modellering | × |
+| [1-5](#oppgave-1-5) | [Bestemme koeffisienter i tredjegradsfunksjon](https://matematikkoppgaver.vercel.app/bestemme-koeffisienter-i-tredjegradsfunksjon/) | funksjonsdrøfting, likningssystem | × |
+| [1-6](#oppgave-1-6) | [Logaritmefunksjon med drøfting](https://matematikkoppgaver.vercel.app/logaritmefunksjon-med-drofting/) | derivasjon, logaritmer, funksjonsdrøfting | × |
+| [1-7](#oppgave-1-7) | [Sauevekt og normalfordeling](https://matematikkoppgaver.vercel.app/sauevekt-og-normalfordeling/) | normalfordeling, integral, sannsynlighet | × |
 
 **Del 2** — 2 timer — med hjelpemidler
 
@@ -24,9 +24,9 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Enhetskostnad og prisreduksjon\|Enhetskostnad og prisreduksjon]] | enhetskostnad, optimering, økonomi | × |
-| [2-2](#oppgave-2-2) | [[Spareavtale og aksjefond\|Spareavtale og aksjefond]] | sparing, rekker, økonomi | × |
-| [2-3](#oppgave-2-3) | [[Bruddstyrke fiskesene\|Bruddstyrke fiskesene]] | normalfordeling, hypotesetest, sannsynlighet | × |
+| [2-1](#oppgave-2-1) | [Enhetskostnad og prisreduksjon](https://matematikkoppgaver.vercel.app/enhetskostnad-og-prisreduksjon/) | enhetskostnad, optimering, økonomi | × |
+| [2-2](#oppgave-2-2) | [Spareavtale og aksjefond](https://matematikkoppgaver.vercel.app/spareavtale-og-aksjefond/) | sparing, rekker, økonomi | × |
+| [2-3](#oppgave-2-3) | [Bruddstyrke fiskesene](https://matematikkoppgaver.vercel.app/bruddstyrke-fiskesene/) | normalfordeling, hypotesetest, sannsynlighet | × |
 
 # Del 1
 

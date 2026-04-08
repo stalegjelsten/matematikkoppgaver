@@ -10,13 +10,13 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [1-1](#oppgave-1-1) | [[Derivasjon av tre funksjoner\|Derivasjon av tre funksjoner]] | derivasjon, logaritmer, eksponentialfunksjoner, rasjonale funksjoner | × |
-| [1-2](#oppgave-1-2) | [[Tredjegradsfunksjon med nullpunkter og vendetangent\|Tredjegradsfunksjon med nullpunkter og vendetangent]] | funksjonsdrøfting, polynomdivisjon, derivasjon | × |
-| [1-3](#oppgave-1-3) | [[Aritmetisk og geometrisk rekke med betingelser\|Aritmetisk og geometrisk rekke med betingelser]] | rekker | × |
-| [1-4](#oppgave-1-4) | [[Virkestoff i tablett\|Virkestoff i tablett]] | uendelig rekke, rekker | × |
-| [1-5](#oppgave-1-5) | [[Grensekostnad og enhetskostnad bedrift\|Grensekostnad og enhetskostnad bedrift]] | grenseinntekt og grensekostnad, enhetskostnad, økonomi | × |
-| [1-6](#oppgave-1-6) | [[Laveste daglige inntekt\|Laveste daglige inntekt]] | etterspørsel, optimering, økonomi | × |
-| [1-7](#oppgave-1-7) | [[Torskefileter i poser\|Torskefileter i poser]] | forventningsverdi, varians, normalfordeling, sannsynlighet | × |
+| [1-1](#oppgave-1-1) | [Derivasjon av tre funksjoner](https://matematikkoppgaver.vercel.app/derivasjon-av-tre-funksjoner/) | derivasjon, logaritmer, eksponentialfunksjoner, rasjonale funksjoner | × |
+| [1-2](#oppgave-1-2) | [Tredjegradsfunksjon med nullpunkter og vendetangent](https://matematikkoppgaver.vercel.app/tredjegradsfunksjon-med-nullpunkter-og-vendetangent/) | funksjonsdrøfting, polynomdivisjon, derivasjon | × |
+| [1-3](#oppgave-1-3) | [Aritmetisk og geometrisk rekke med betingelser](https://matematikkoppgaver.vercel.app/aritmetisk-og-geometrisk-rekke-med-betingelser/) | rekker | × |
+| [1-4](#oppgave-1-4) | [Virkestoff i tablett](https://matematikkoppgaver.vercel.app/virkestoff-i-tablett/) | uendelig rekke, rekker | × |
+| [1-5](#oppgave-1-5) | [Grensekostnad og enhetskostnad bedrift](https://matematikkoppgaver.vercel.app/grensekostnad-og-enhetskostnad-bedrift/) | grenseinntekt og grensekostnad, enhetskostnad, økonomi | × |
+| [1-6](#oppgave-1-6) | [Laveste daglige inntekt](https://matematikkoppgaver.vercel.app/laveste-daglige-inntekt/) | etterspørsel, optimering, økonomi | × |
+| [1-7](#oppgave-1-7) | [Torskefileter i poser](https://matematikkoppgaver.vercel.app/torskefileter-i-poser/) | forventningsverdi, varians, normalfordeling, sannsynlighet | × |
 
 **Del 2** — 2 timer — med hjelpemidler
 
@@ -24,9 +24,9 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Immunitet og logistisk modell\|Immunitet og logistisk modell]] | logistisk funksjon, regresjon, integral, modellering | × |
-| [2-2](#oppgave-2-2) | [[Kaffefabrikken og hypotesetest\|Kaffefabrikken og hypotesetest]] | normalfordeling, hypotesetest | × |
-| [2-3](#oppgave-2-3) | [[Sparing og annuitetslån Camilla\|Sparing og annuitetslån Camilla]] | sparing, lån, rekker, økonomi | × |
+| [2-1](#oppgave-2-1) | [Immunitet og logistisk modell](https://matematikkoppgaver.vercel.app/immunitet-og-logistisk-modell/) | logistisk funksjon, regresjon, integral, modellering | × |
+| [2-2](#oppgave-2-2) | [Kaffefabrikken og hypotesetest](https://matematikkoppgaver.vercel.app/kaffefabrikken-og-hypotesetest/) | normalfordeling, hypotesetest | × |
+| [2-3](#oppgave-2-3) | [Sparing og annuitetslån Camilla](https://matematikkoppgaver.vercel.app/sparing-og-annuitetslan-camilla/) | sparing, lån, rekker, økonomi | × |
 
 # Del 1
 

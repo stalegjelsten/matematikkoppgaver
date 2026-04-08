@@ -10,13 +10,13 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [1-1](#oppgave-1-1) | [[Derivasjon av funksjoner\|Derivasjon av funksjoner]] | derivasjon, logaritmer, eksponentialfunksjoner, rasjonale funksjoner | × |
-| [1-2](#oppgave-1-2) | [[Aritmetisk rekke med sum\|Aritmetisk rekke med sum]] | rekker | × |
-| [1-3](#oppgave-1-3) | [[Uendelig geometrisk rekke og desimaltall\|Uendelig geometrisk rekke og desimaltall]] | rekker, uendelig rekke | × |
-| [1-4](#oppgave-1-4) | [[Likningssystem med parameter\|Likningssystem med parameter]] | likningssystem | × |
-| [1-5](#oppgave-1-5) | [[Polynomdivisjon og funksjonsdrøfting\|Polynomdivisjon og funksjonsdrøfting]] | polynomdivisjon, funksjonsdrøfting, derivasjon | × |
-| [1-6](#oppgave-1-6) | [[Logistisk vekstmodell for gås\|Logistisk vekstmodell for gås]] | logistisk funksjon, modellering | × |
-| [1-7](#oppgave-1-7) | [[Insektskader på epletrær\|Insektskader på epletrær]] | forventningsverdi, varians, normalfordeling, sannsynlighet | × |
+| [1-1](#oppgave-1-1) | [Derivasjon av funksjoner](https://matematikkoppgaver.vercel.app/derivasjon-av-funksjoner/) | derivasjon, logaritmer, eksponentialfunksjoner, rasjonale funksjoner | × |
+| [1-2](#oppgave-1-2) | [Aritmetisk rekke med sum](https://matematikkoppgaver.vercel.app/aritmetisk-rekke-med-sum/) | rekker | × |
+| [1-3](#oppgave-1-3) | [Uendelig geometrisk rekke og desimaltall](https://matematikkoppgaver.vercel.app/uendelig-geometrisk-rekke-og-desimaltall/) | rekker, uendelig rekke | × |
+| [1-4](#oppgave-1-4) | [Likningssystem med parameter](https://matematikkoppgaver.vercel.app/likningssystem-med-parameter/) | likningssystem | × |
+| [1-5](#oppgave-1-5) | [Polynomdivisjon og funksjonsdrøfting](https://matematikkoppgaver.vercel.app/polynomdivisjon-og-funksjonsdrofting/) | polynomdivisjon, funksjonsdrøfting, derivasjon | × |
+| [1-6](#oppgave-1-6) | [Logistisk vekstmodell for gås](https://matematikkoppgaver.vercel.app/logistisk-vekstmodell-for-gas/) | logistisk funksjon, modellering | × |
+| [1-7](#oppgave-1-7) | [Insektskader på epletrær](https://matematikkoppgaver.vercel.app/insektskader-pa-epletraer/) | forventningsverdi, varians, normalfordeling, sannsynlighet | × |
 
 **Del 2** — 2 timer — med hjelpemidler
 
@@ -24,10 +24,10 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Juleprodukter på bondegård\|Juleprodukter på bondegård]] | likningssystem | × |
-| [2-2](#oppgave-2-2) | [[Inntektsfunksjon med eksponential\|Inntektsfunksjon med eksponential]] | optimering, derivasjon, eksponentialfunksjoner, økonomi | × |
-| [2-3](#oppgave-2-3) | [[Løpstid til Krigsskolen\|Løpstid til Krigsskolen]] | normalfordeling, hypotesetest | × |
-| [2-4](#oppgave-2-4) | [[Lønnsøkning og videreutdanning\|Lønnsøkning og videreutdanning]] | rekker, geometrisk vekst, økonomi | × |
+| [2-1](#oppgave-2-1) | [Juleprodukter på bondegård](https://matematikkoppgaver.vercel.app/juleprodukter-pa-bondegard/) | likningssystem | × |
+| [2-2](#oppgave-2-2) | [Inntektsfunksjon med eksponential](https://matematikkoppgaver.vercel.app/inntektsfunksjon-med-eksponential/) | optimering, derivasjon, eksponentialfunksjoner, økonomi | × |
+| [2-3](#oppgave-2-3) | [Løpstid til Krigsskolen](https://matematikkoppgaver.vercel.app/lopstid-til-krigsskolen/) | normalfordeling, hypotesetest | × |
+| [2-4](#oppgave-2-4) | [Lønnsøkning og videreutdanning](https://matematikkoppgaver.vercel.app/lonnsokning-og-videreutdanning/) | rekker, geometrisk vekst, økonomi | × |
 
 # Del 1
 

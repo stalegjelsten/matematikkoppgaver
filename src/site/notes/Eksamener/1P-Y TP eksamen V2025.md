@@ -20,8 +20,8 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Nomogram for omdreiningstall og boring\|Nomogram for omdreiningstall og boring]] | formler, geometri, volum | × |
-| [2-2](#oppgave-2-2) | [[Ungdomsbedrift og motorsykler av stål\|Ungdomsbedrift og motorsykler av stål]] | mva, økonomi, prosentregning, excel | × |
+| [2-1](#oppgave-2-1) | [Nomogram for omdreiningstall og boring](https://matematikkoppgaver.vercel.app/nomogram-for-omdreiningstall-og-boring/) | formler, geometri, volum | × |
+| [2-2](#oppgave-2-2) | [Ungdomsbedrift og motorsykler av stål](https://matematikkoppgaver.vercel.app/ungdomsbedrift-og-motorsykler-av-stal/) | mva, økonomi, prosentregning, excel | × |
 | [2-3](#oppgave-2-3) | [Alis lån til bedriften](https://matematikkoppgaver.vercel.app/alis-lan-til-bedriften/) | lån, excel | × |
 | [2-4](#oppgave-2-4) | [Energisammenlikning ved og strøm](https://matematikkoppgaver.vercel.app/energisammenlikning-ved-og-strom/) | enhetskostnad, økonomi, formler | ✔︎ |
 | [2-5](#oppgave-2-5) | [Lønnsalternativer ved avissalg](https://matematikkoppgaver.vercel.app/lonnsalternativer-ved-avissalg/) | lineær vekst, funksjoner, økonomi | × |

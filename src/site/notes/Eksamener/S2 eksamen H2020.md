@@ -10,14 +10,14 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [1-1](#oppgave-1-1) | [[Derivasjon av sammensatte funksjoner\|Derivasjon av sammensatte funksjoner]] | derivasjon, eksponentialfunksjoner, logaritmer | × |
-| [1-2](#oppgave-1-2) | [[Sum av aritmetisk rekke\|Sum av aritmetisk rekke]] | rekker | × |
-| [1-3](#oppgave-1-3) | [[Geometrisk rekke og sparing\|Geometrisk rekke og sparing]] | rekker, uendelig rekke, økonomi | × |
-| [1-4](#oppgave-1-4) | [[Polynom med delelighetskriterium\|Polynom med delelighetskriterium]] | polynomdivisjon, faktorisering | × |
-| [1-5](#oppgave-1-5) | [[Tredjegradsfunksjon med vendetangent\|Tredjegradsfunksjon med vendetangent]] | funksjonsdrøfting, derivasjon | × |
-| [1-6](#oppgave-1-6) | [[Enhetskostnad og grensekostnad\|Enhetskostnad og grensekostnad]] | optimering, derivasjon, økonomi | × |
-| [1-7](#oppgave-1-7) | [[Tomatfrø og normalfordeling\|Tomatfrø og normalfordeling]] | forventningsverdi, standardavvik, normalfordeling, sannsynlighet | × |
-| [1-8](#oppgave-1-8) | [[Logaritmefunksjon uten ekstremalpunkter\|Logaritmefunksjon uten ekstremalpunkter]] | derivasjon, logaritmer | × |
+| [1-1](#oppgave-1-1) | [Derivasjon av sammensatte funksjoner](https://matematikkoppgaver.vercel.app/derivasjon-av-sammensatte-funksjoner/) | derivasjon, eksponentialfunksjoner, logaritmer | × |
+| [1-2](#oppgave-1-2) | [Sum av aritmetisk rekke](https://matematikkoppgaver.vercel.app/sum-av-aritmetisk-rekke/) | rekker | × |
+| [1-3](#oppgave-1-3) | [Geometrisk rekke og sparing](https://matematikkoppgaver.vercel.app/geometrisk-rekke-og-sparing/) | rekker, uendelig rekke, økonomi | × |
+| [1-4](#oppgave-1-4) | [Polynom med delelighetskriterium](https://matematikkoppgaver.vercel.app/polynom-med-delelighetskriterium/) | polynomdivisjon, faktorisering | × |
+| [1-5](#oppgave-1-5) | [Tredjegradsfunksjon med vendetangent](https://matematikkoppgaver.vercel.app/tredjegradsfunksjon-med-vendetangent/) | funksjonsdrøfting, derivasjon | × |
+| [1-6](#oppgave-1-6) | [Enhetskostnad og grensekostnad](https://matematikkoppgaver.vercel.app/enhetskostnad-og-grensekostnad/) | optimering, derivasjon, økonomi | × |
+| [1-7](#oppgave-1-7) | [Tomatfrø og normalfordeling](https://matematikkoppgaver.vercel.app/tomatfro-og-normalfordeling/) | forventningsverdi, standardavvik, normalfordeling, sannsynlighet | × |
+| [1-8](#oppgave-1-8) | [Logaritmefunksjon uten ekstremalpunkter](https://matematikkoppgaver.vercel.app/logaritmefunksjon-uten-ekstremalpunkter/) | derivasjon, logaritmer | × |
 
 **Del 2** — 2 timer — med hjelpemidler
 
@@ -25,10 +25,10 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Netflix-inntekter og integral\|Netflix-inntekter og integral]] | eksponentialfunksjoner, integral, modellering | × |
-| [2-2](#oppgave-2-2) | [[Etterspørselsfunksjon og prisreduksjon\|Etterspørselsfunksjon og prisreduksjon]] | etterspørsel, eksponentialfunksjoner, økonomi | × |
-| [2-3](#oppgave-2-3) | [[Levetid til temperaturfølere\|Levetid til temperaturfølere]] | normalfordeling, binomisk, hypotesetest | × |
-| [2-4](#oppgave-2-4) | [[Virkestoff og halveringstid\|Virkestoff og halveringstid]] | uendelig rekke, rekker, modellering | × |
+| [2-1](#oppgave-2-1) | [Netflix-inntekter og integral](https://matematikkoppgaver.vercel.app/netflix-inntekter-og-integral/) | eksponentialfunksjoner, integral, modellering | × |
+| [2-2](#oppgave-2-2) | [Etterspørselsfunksjon og prisreduksjon](https://matematikkoppgaver.vercel.app/ettersporselsfunksjon-og-prisreduksjon/) | etterspørsel, eksponentialfunksjoner, økonomi | × |
+| [2-3](#oppgave-2-3) | [Levetid til temperaturfølere](https://matematikkoppgaver.vercel.app/levetid-til-temperaturfolere/) | normalfordeling, binomisk, hypotesetest | × |
+| [2-4](#oppgave-2-4) | [Virkestoff og halveringstid](https://matematikkoppgaver.vercel.app/virkestoff-og-halveringstid/) | uendelig rekke, rekker, modellering | × |
 
 # Del 1
 

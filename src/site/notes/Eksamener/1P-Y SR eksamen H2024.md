@@ -13,8 +13,8 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Plantejord fra to butikker](https://matematikkoppgaver.vercel.app/plantejord-fra-to-butikker/) | prosentregning, enhetskostnad, økonomi | ✔︎ |
 | [1-2](#oppgave-1-2) | [Størst prosentvis prisøkning](https://matematikkoppgaver.vercel.app/storst-prosentvis-prisokning/) | prosentregning, prosentvis endring | ✔︎ |
 | [1-3](#oppgave-1-3) | [Merverdiavgift i Frankrike](https://matematikkoppgaver.vercel.app/merverdiavgift-i-frankrike/) | formler, prosentregning | ✔︎ |
-| [1-4](#oppgave-1-4) | [[Ungdomsbedrift og kundestatistikk\|Ungdomsbedrift og kundestatistikk]] | gjennomsnitt, statistikk | × |
-| [1-5](#oppgave-1-5) | [[Miljøvennlig transport og ferie\|Miljøvennlig transport og ferie]] | diagrammer, prosentregning, argumentasjon | × |
+| [1-4](#oppgave-1-4) | [Ungdomsbedrift og kundestatistikk](https://matematikkoppgaver.vercel.app/ungdomsbedrift-og-kundestatistikk/) | gjennomsnitt, statistikk | × |
+| [1-5](#oppgave-1-5) | [Miljøvennlig transport og ferie](https://matematikkoppgaver.vercel.app/miljovennlig-transport-og-ferie/) | diagrammer, prosentregning, argumentasjon | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 
@@ -22,8 +22,8 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Feriemål Norge eller utlandet\|Feriemål Norge eller utlandet]] | statistikk, prosentregning, diagrammer | × |
-| [2-2](#oppgave-2-2) | [[Ungdomsbedrift og skrivesaker\|Ungdomsbedrift og skrivesaker]] | økonomi, mva, regneark | × |
+| [2-1](#oppgave-2-1) | [Feriemål Norge eller utlandet](https://matematikkoppgaver.vercel.app/feriemal-norge-eller-utlandet/) | statistikk, prosentregning, diagrammer | × |
+| [2-2](#oppgave-2-2) | [Ungdomsbedrift og skrivesaker](https://matematikkoppgaver.vercel.app/ungdomsbedrift-og-skrivesaker/) | økonomi, mva, regneark | × |
 | [2-3](#oppgave-2-3) | [Eriks bilbruk](https://matematikkoppgaver.vercel.app/eriks-bilbruk/) | excel, økonomi, formler | ✔︎ |
 | [2-4](#oppgave-2-4) | [Reise til Gran Canaria](https://matematikkoppgaver.vercel.app/reise-til-gran-canaria/) | excel, lån, kredittkort, oversikt | ✔︎ |
 

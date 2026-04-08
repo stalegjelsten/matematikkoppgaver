@@ -13,7 +13,7 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Prisformel sparkesykkel](https://matematikkoppgaver.vercel.app/prisformel-sparkesykkel/) | lineær vekst, formler, likninger | ✔︎ |
 | [1-2](#oppgave-1-2) | [Sammenligne priser på hundemat](https://matematikkoppgaver.vercel.app/sammenligne-priser-pa-hundemat/) | proporsjonalitet, prosentregning, enhetskostnad | ✔︎ |
 | [1-3](#oppgave-1-3) | [Prosentvis prisforskjell sjokolade](https://matematikkoppgaver.vercel.app/prosentvis-prisforskjell-sjokolade/) | prosentregning, prosentvis endring, argumentasjon | ✔︎ |
-| [1-4](#oppgave-1-4) | [[Robåt engelsk fot og tjæreblanding\|Robåt engelsk fot og tjæreblanding]] | måleenheter, målestokk, proporsjonalitet | × |
+| [1-4](#oppgave-1-4) | [Robåt engelsk fot og tjæreblanding](https://matematikkoppgaver.vercel.app/robat-engelsk-fot-og-tjaereblanding/) | måleenheter, målestokk, proporsjonalitet | × |
 
 **Del 2** — None timer — med hjelpemidler
 
@@ -21,9 +21,9 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Møbeltapetserer og putetrekk til stol\|Møbeltapetserer og putetrekk til stol]] | areal, regneark, anbud | × |
-| [2-2](#oppgave-2-2) | [[Hette til krakk og stoffsvinn\|Hette til krakk og stoffsvinn]] | areal, omkrets, prosentregning | × |
-| [2-3](#oppgave-2-3) | [[Lærlinglønn i fire halvår\|Lærlinglønn i fire halvår]] | prosentregning, økonomi | × |
+| [2-1](#oppgave-2-1) | [Møbeltapetserer og putetrekk til stol](https://matematikkoppgaver.vercel.app/mobeltapetserer-og-putetrekk-til-stol/) | areal, regneark, anbud | × |
+| [2-2](#oppgave-2-2) | [Hette til krakk og stoffsvinn](https://matematikkoppgaver.vercel.app/hette-til-krakk-og-stoffsvinn/) | areal, omkrets, prosentregning | × |
+| [2-3](#oppgave-2-3) | [Lærlinglønn i fire halvår](https://matematikkoppgaver.vercel.app/laerlinglonn-i-fire-halvar/) | prosentregning, økonomi | × |
 | [2-4](#oppgave-2-4) | [Ludvigs dusjregnskap](https://matematikkoppgaver.vercel.app/ludvigs-dusjregnskap/) | excel | ✔︎ |
 | [2-5](#oppgave-2-5) | [Martines studielån](https://matematikkoppgaver.vercel.app/martines-studielan/) | lån, excel | ✔︎ |
 

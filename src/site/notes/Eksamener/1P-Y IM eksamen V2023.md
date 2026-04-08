@@ -13,7 +13,7 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Prisformel sparkesykkel](https://matematikkoppgaver.vercel.app/prisformel-sparkesykkel/) | lineær vekst, formler, likninger | ✔︎ |
 | [1-2](#oppgave-1-2) | [Sammenligne priser på hundemat](https://matematikkoppgaver.vercel.app/sammenligne-priser-pa-hundemat/) | proporsjonalitet, prosentregning, enhetskostnad | ✔︎ |
 | [1-3](#oppgave-1-3) | [Prosentvis prisforskjell sjokolade](https://matematikkoppgaver.vercel.app/prosentvis-prisforskjell-sjokolade/) | prosentregning, prosentvis endring, argumentasjon | ✔︎ |
-| [1-4](#oppgave-1-4) | [[Sekskantmønster og vinkelsum\|Sekskantmønster og vinkelsum]] | mønstre, geometri, formler | × |
+| [1-4](#oppgave-1-4) | [Sekskantmønster og vinkelsum](https://matematikkoppgaver.vercel.app/sekskantmonster-og-vinkelsum/) | mønstre, geometri, formler | × |
 
 **Del 2** — None timer — med hjelpemidler
 
@@ -21,9 +21,9 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Mediebruk i Norge og diagram\|Mediebruk i Norge og diagram]] | grafisk framstilling, presentasjon av data | × |
-| [2-2](#oppgave-2-2) | [[Logo skalering og målestokk\|Logo skalering og målestokk]] | målestokk, areal | × |
-| [2-3](#oppgave-2-3) | [[Elevbedrift T-skjorter og hettegensere\|Elevbedrift T-skjorter og hettegensere]] | regneark, økonomi | × |
+| [2-1](#oppgave-2-1) | [Mediebruk i Norge og diagram](https://matematikkoppgaver.vercel.app/mediebruk-i-norge-og-diagram/) | grafisk framstilling, presentasjon av data | × |
+| [2-2](#oppgave-2-2) | [Logo skalering og målestokk](https://matematikkoppgaver.vercel.app/logo-skalering-og-malestokk/) | målestokk, areal | × |
+| [2-3](#oppgave-2-3) | [Elevbedrift T-skjorter og hettegensere](https://matematikkoppgaver.vercel.app/elevbedrift-t-skjorter-og-hettegensere/) | regneark, økonomi | × |
 | [2-4](#oppgave-2-4) | [Ludvigs dusjregnskap](https://matematikkoppgaver.vercel.app/ludvigs-dusjregnskap/) | excel | ✔︎ |
 | [2-5](#oppgave-2-5) | [Martines studielån](https://matematikkoppgaver.vercel.app/martines-studielan/) | lån, excel | ✔︎ |
 
