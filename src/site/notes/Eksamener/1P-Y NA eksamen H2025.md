@@ -6,7 +6,7 @@
 
 **Del 1** — 1 time — uten hjelpemidler
 
-Table: {.eksamen-oversikt rows=2.4em}
+Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
@@ -18,7 +18,7 @@ Table: {.eksamen-oversikt rows=2.4em}
 
 **Del 2** — 3 timer — med hjelpemidler
 
-Table: {.eksamen-oversikt rows=2.4em}
+Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
@@ -212,11 +212,14 @@ Denne dagen leverer en fiskebåt 2 tonn med skrei. De får betalt 150 000 kroner
 
 Elevene Tonje og Jakob har startet en elevbedrift som skal hjelpe folk med hagestell. De har laget et diagram som viser innkjøpskostnadene de forventer til oppdraget.
 
-![Diagram over innkjøpskostnader](/img/user/_resources/1py-na-h25-1-5.jpeg){width=60%}
+![Diagram over innkjøpskostnader](/img/user/_resources/1py-na-h25-1-5.jpeg){width=80%}
 
->[!blue-box] Tonje og Jakob
+Tonje og Jakob stiller seg to spørsmål
+
+>[!green-box] 
 >Hva blir total innkjøpskostnad for oppdraget?
->
+
+>[!blue-box]
 >Kunden betaler 6000 kroner for oppdraget, men vi må selv betale innkjøpskostnadene.
 >
 >Hvor mye tjener vi per time hvis hver av oss bruker 3 timer på oppdraget?
@@ -251,14 +254,14 @@ Aina jobber som fisker i sitt eget enkeltpersonforetak.
 
 Regnearket nedenfor viser inntektene, kostnadene og arbeidstimene hennes for tre måneder.
 
-![Regneark](/img/user/_resources/1py-na-h25-2-1-regneark.jpeg){width=80%}
+![Regneark](/img/user/_resources/1py-h25-2-1-regneark.jpeg){width=80%}
 
 >[!oppgave]
 >a) Lag et regneark som vist ovenfor. Lag formler i de grønne cellene slik at utregningene blir riktige. Husk å vise formlene du bruker i regnearket.
 >b) Lag en oversiktlig grafisk framstilling som viser det følgende for månedene august, september og oktober:
->- inntekter
->- kostnader
->- driftsresultat
+>    - inntekter
+>    - kostnader
+>    - driftsresultat
 
 Aina skal lage et anbud for en leveranse til en fiskerestaurant:
 
@@ -299,11 +302,14 @@ De har funnet denne informasjonen:
 - Kuene melkes 10 måneder i året.
 - En måned regnes som 30 dager.
 
->[!blue-box] Sara og Trygve
+De gjør seg noen tanker og stiller seg noen spørsmål før oppstarten av prosjektet:
+
+>[!green-box]
 >Hvor mange liter melk produserer en ku hvert år?
->
->Kunden henter melk hver tredje dag og betaler $6{,}93$ kroner per liter.
->
+
+Kunden henter melk hver tredje dag og betaler $6{,}93$ kroner per liter.
+
+> [!yellow-box]
 >Hvor mye får vi betalt per leveranse?
 >
 >Hvor mye kommer vi til å tjene på salg av melk per år?
@@ -316,7 +322,7 @@ Formelen for volumet av en sylinder er
 
 $$V = \pi \cdot r^2 \cdot h$$
 
->[!blue-box] Sara og Trygve
+>[!blue-box] 
 >Hva blir høyden på den melketanken?
 >
 >Hvor høyt opp i tanken vil melken stå når den er fylt opp med 2500 liter melk?
@@ -355,7 +361,7 @@ Ella sparer til bolig på en BSU-konto.
 >  a) Lag et regneark som vist nedenfor. Lag formler i de grønne cellene slik at utregningene blir riktige.  
 >  Husk å vise formlene du bruker i regnearket.
 
-![Regneark som viser Ellas sparing](/img/user/_resources/1py-v25-2-4.png){width=50%}
+![Regneark som viser Ellas sparing](/img/user/_resources/1py-v25-2-4.png){width=60%}
 
 Ella er gift med Sverre. Paret ønsker å kjøpe en leilighet som koster 5 600 000 kroner.
 

@@ -1,20 +1,306 @@
 ---
-{"tags":["eksamen"],"fag":["1p-y ba"],"eksamen":"h24","del2_tid":3,"title":"1P-Y BA eksamen H2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/1p-y-ba-eksamen-h2024/","permalink":"/eksamener/1p-y-ba-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y ba"],"eksamen":"h24","del2_tid":3,"title":"1P-Y BA eksamen H2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
+{"tags":["eksamen"],"fag":["1p-y ba"],"eksamen":"h24","date":"2024-11-25","del1_tid":1,"del2_tid":3,"title":"1P-Y BA eksamen H2024","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/1p-y-ba-eksamen-h2024/","permalink":"/eksamener/1p-y-ba-eksamen-h2024/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y ba"],"eksamen":"h24","date":"2024-11-25","del1_tid":1,"del2_tid":3,"title":"1P-Y BA eksamen H2024","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
 # Oversikt over eksamensoppgavene
 
-**Del 2** — 3 timer — med hjelpemidler
+**Del 1** — 1 time — uten hjelpemidler
 
-Table: {.eksamen-oversikt rows=2.4em}
+Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
+| [1-1](#oppgave-1-1) | [Plantejord fra to butikker](https://matematikkoppgaver.vercel.app/plantejord-fra-to-butikker/) | prosentregning, enhetskostnad, økonomi | ✔︎ |
+| [1-2](#oppgave-1-2) | [Størst prosentvis prisøkning](https://matematikkoppgaver.vercel.app/storst-prosentvis-prisokning/) | prosentregning, prosentvis endring | ✔︎ |
+| [1-3](#oppgave-1-3) | [Merverdiavgift i Frankrike](https://matematikkoppgaver.vercel.app/merverdiavgift-i-frankrike/) | formler, prosentregning | ✔︎ |
+| [1-4](#oppgave-1-4) | [[Kledning til vegg og tilbud\|Kledning til vegg og tilbud]] | areal, økonomi, enhetskostnad | × |
+| [1-5](#oppgave-1-5) | [[Bindingsverk og kappliste for hytte\|Bindingsverk og kappliste for hytte]] | geometri, måleenheter, prosentregning | × |
+
+**Del 2** — 3 timer — med hjelpemidler
+
+Table: {.eksamen-oversikt}
+
+| **№** | **Navn** | **Temaer** | **LF** |
+| :--: | :--------------------------- | :------------------------ | :--: |
+| [2-1](#oppgave-2-1) | [[Terrasse med nedfelt sandkasse\|Terrasse med nedfelt sandkasse]] | areal, Pytagoras, volum | × |
 | [2-2](#oppgave-2-2) | [Kostnadsoversikt for fuglekasser](https://matematikkoppgaver.vercel.app/kostnadsoversikt-for-fuglekasser/) | excel, økonomi | × |
 | [2-3](#oppgave-2-3) | [Eriks bilbruk](https://matematikkoppgaver.vercel.app/eriks-bilbruk/) | excel, økonomi, formler | ✔︎ |
 | [2-4](#oppgave-2-4) | [Reise til Gran Canaria](https://matematikkoppgaver.vercel.app/reise-til-gran-canaria/) | excel, lån, kredittkort, oversikt | ✔︎ |
 
+# Del 1
+
+## Oppgave 1-1
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/plantejord-fra-to-butikker/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Plantejord fra to butikker
+
+To butikker selger sekker med plantejord.
+
+|         | **Butikk A**                 | **Butikk B**                        |
+| :------- | :---------------------------- | :----------------------------------- |
+| Innhold | 40 liter per sekk            | 40 liter per sekk                   |
+| Pris    | 59 kroner per sekk           | 60 kroner per sekk                  |
+| Tilbud  | Kjøp 4 sekker for 199 kroner | 20 % rabatt hvis du kjøper 4 sekker |
+
+>[!oppgave]
+>a) Hvor mye må du betale hvis du skal kjøpe 120 liter plantejord i butikk A?
+>
+>b) I hvilken butikk blir det billigst å handle hvis du skal kjøpe 160 liter plantejord? Husk å begrunne svaret ditt.
+
+## Fasit
+
+a) $177 \, \mathrm{kr}$
+b) Butikk B: $192 \, \mathrm{kr}$ (billigst)
+
+## Løsningsforslag
+
+### 1-1a
+
+120 liter plantejord tilsvarer $120 \div 40 = 3$ sekker.
+
+Tilbudet i butikk A gjelder kun ved kjøp av 4 sekker, så vi betaler ordinær pris:
+$$3 \cdot 59 = \underline{\underline{177 \, \mathrm{kr}}}$$
+
+**Du må betale $\underline{\underline{177 \, \mathrm{kr}}}$ for 120 liter plantejord i butikk A.**
+
+### 1-1b
+
+160 liter tilsvarer $160 \div 40 = 4$ sekker.
+
+**Butikk A** med tilbud: $\underline{\underline{199 \, \mathrm{kr}}}$
+
+**Butikk B** med 20 % rabatt:
+$$4 \cdot 60 \cdot (1 - 0{,}20) = 240 \cdot 0{,}80 = \underline{\underline{192 \, \mathrm{kr}}}$$
+
+**Det er billigst å handle i butikk B, hvor du betaler $\underline{\underline{192 \, \mathrm{kr}}}$ for 160 liter plantejord** (mot 199 kr i butikk A).
+
+
+</div></div>
+
+
+## Oppgave 1-2
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/storst-prosentvis-prisokning/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Størst prosentvis prisøkning
+
+Prisen for en vare A øker fra 120 kroner til 180 kroner. Prisen for en vare B øker fra 16 kroner til 26 kroner.
+
+>[!oppgave]
+>Hvilken pris øker prosentvis mest? Husk å begrunne svaret ditt.
+
+## Fasit
+
+Vare B øker prosentvis mest med $62{,}5 \, \%$ (vare A: $50 \, \%$)
+
+## Løsningsforslag
+
+Vi regner ut den prosentvise prisøkningen for begge varene:
+
+**Vare A:**
+$$\frac{180 - 120}{120} \cdot 100 \, \% = \frac{60}{120} \cdot 100 \, \% = 50 \, \%$$
+
+**Vare B:**
+$$\frac{26 - 16}{16} \cdot 100 \, \% = \frac{10}{16} \cdot 100 \, \% = 62{,}5 \, \%$$
+
+**Vare B har størst prosentvis prisøkning med $\underline{\underline{62{,}5 \, \%}}$**, selv om den nominelle økningen (10 kr) er lavere enn for vare A (60 kr).
+
+
+</div></div>
+
+
+## Oppgave 1-3
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/merverdiavgift-i-frankrike/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Merverdiavgift i Frankrike
+
+Louise skal handle klær i en butikk i Frankrike. Der er sammenhengen mellom pris uten merverdiavgift og pris med merverdiavgift gitt ved formelen
+
+$$P = \frac{6 \cdot U}{5}$$
+
+- $P$ er pris med merverdiavgift
+- $U$ er pris uten merverdiavgift
+
+Louise ser på formelen og stiller to spørsmål.
+
+>[!blue-box] Louise
+>Prisen for en genser er 10 euro uten merverdiavgift. Hva blir prisen for genseren med merverdiavgift?
+>
+>Prisen for en bukse er 30 euro med merverdiavgift. Hva er prisen for buksen uten merverdiavgift?
+
+>[!oppgave]
+>Svar på spørsmålene til Louise. Husk å begrunne svarene dine.
+
+## Fasit
+
+Genser: $12 \, \mathrm{euro}$ med mva. Bukse: $25 \, \mathrm{euro}$ uten mva.
+
+## Løsningsforslag
+
+Formelen er $P = \dfrac{6 \cdot U}{5}$.
+
+**Spørsmål 1 – genser:**
+
+Vi setter inn $U = 10$:
+$$P = \frac{6 \cdot 10}{5} = \frac{60}{5} = \underline{\underline{12 \, \mathrm{euro}}}$$
+
+**Genseren koster $\underline{\underline{12 \, \mathrm{euro}}}$ med merverdiavgift.**
+
+**Spørsmål 2 – bukse:**
+
+Vi kjenner $P = 30$ og løser for $U$:
+$$30 = \frac{6 \cdot U}{5} \implies U = \frac{30 \cdot 5}{6} = \frac{150}{6} = \underline{\underline{25 \, \mathrm{euro}}}$$
+
+**Prisen for buksen uten merverdiavgift er $\underline{\underline{25 \, \mathrm{euro}}}$.**
+
+>[!tip] Merk
+>Formelen $P = \frac{6U}{5}$ tilsvarer at prisen øker med $\frac{1}{5} = 20\,\%$. Merverdiavgiften i Frankrike er altså 20 %.
+
+
+</div></div>
+
+
+## Oppgave 1-4
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/kledning-til-vegg-og-tilbud/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Kledning til vegg og tilbud
+
+Du skal kjøpe inn kledning til en $10 \mathrm{~m^2}$ stor vegg. Det går med $8{,}9$ løpemeter (m) med kledning for å dekke ca. $1 \mathrm{~m^2}$ av veggen.
+
+![Kledning. Kilde: Pixabay.com](/img/user/_resources/1pyba-h24-1-4.jpeg){width=60%}
+
+>[!oppgave]
+>a) Hvor mange løpemeter med kledning trenger du for å dekke hele veggen?
+
+Du får to tilbud på kledning til veggen:
+
+| | Tilbud 1 | Tilbud 2 |
+|---|---|---|
+| Mengde | $1 \mathrm{~m^2}$ kledning | 1 løpemeter kledning |
+| Pris | 189 kroner | 23 kroner |
+
+>[!oppgave]
+>b) Gjør overslag og vurder tilbudene ovenfor. Hvilket tilbud er billigst?
+
+## Fasit
+
+
+
+## Løsningsforslag
+
+
+</div></div>
+
+
+## Oppgave 1-5
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/bindingsverk-og-kappliste-for-hytte/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Bindingsverk og kappliste for hytte
+
+En BA-klasse skal bygge en hytte. Nedenfor ser du en arbeidstegning av bindingsverket, taksperren og tilhørende kappliste.
+
+![Arbeidstegning](/img/user/_resources/1pyba-h24-1-5.jpeg){width=80%}
+
+| Pos | Dim (mm) | Kapplengde (mm) | Antall | Sum (m) | Merknad |
+|-----|----------|-----------------|--------|---------|---------|
+| 1 | 48 x 148 | 1800 | 1 | 2 | Mønedrager |
+| 2 | 48 x 98 | (1100) Se skisse | 8 | 9 | Taksperr |
+| 3 | 48 x 98 | 1800 | 4 | 8 | Svill |
+| 4 | 48 x 98 | 1604 | 2 | 4 | Svill |
+| 5 | 48 x 98 | 1500 | 2 | 3 | Svill |
+| 6 | 48 x 98 | 1304 | 4 | 6 | Svill (En kuttes ved dør) |
+| 7 | 48 x 98 | 1456 | 16 | 24 | Stender |
+| 8 | 48 x 98 | 552 | 4 | 3 | Losholt |
+
+Elevene i klassen ser på arbeidstegningen og kapplisten og stiller seg noen spørsmål:
+
+>[!blue-box]
+>Bindingsverket på denne hytten består av sviller, losholt og stendere. Hvor mange meter med 48 x 98 mm plank går med til bindingsverket til hytten?
+
+>[!green-box]
+>Dersom materialforbruket til taksperren utgjør $9{,}0$ meter og vi i tillegg skal ta med 10 % svinn, hvor mange millimeter utgjør det totale materialforbruket til taksperren?
+
+>[!oppgave]
+>Gjør beregninger og svar på spørsmålene til elevene. Husk å begrunne svarene dine.
+
+## Fasit
+
+
+
+## Løsningsforslag
+
+
+</div></div>
+
+
 # Del 2
+
+## Oppgave 2-1
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/terrasse-med-nedfelt-sandkasse/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Terrasse med nedfelt sandkasse
+
+Plantegningen viser en terrasse med en nedfelt sandkasse.
+
+![Plantegning av terrasse](/img/user/_resources/1pyba-h24-2-1.jpeg){width=80%}
+
+>[!oppgave]
+>a) Hvor mange kvadratmeter utgjør arealet av terrassen inkludert sandkassen?
+
+Hjørnene på terrassen er $90\degree$.
+
+>[!oppgave]
+>b) Vis hva lengden på diagonalen av hele terrassen blir. Oppgi svaret i dm.
+
+Høyden på terrassen utgjør til sammen 226 mm.
+
+>[!oppgave]
+>c) Hvor mange liter sand er det i sandkassen når den blir fylt helt opp?
+
+## Fasit
+
+
+
+## Løsningsforslag
+
+
+</div></div>
+
 
 ## Oppgave 2-2
 

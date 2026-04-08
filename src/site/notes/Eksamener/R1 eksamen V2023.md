@@ -6,7 +6,7 @@
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-Table: {.eksamen-oversikt rows=2.4em}
+Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
@@ -17,15 +17,15 @@ Table: {.eksamen-oversikt rows=2.4em}
 
 **Del 2** — 3 timer — med hjelpemidler
 
-Table: {.eksamen-oversikt rows=2.4em}
+Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Timelønn og lønnsvekst](https://matematikkoppgaver.vercel.app/timelonn-og-lonnsvekst/) | prosent, eksponentialfunksjoner, regresjon, økonomi | × |
 | [2-2](#oppgave-2-2) | [[Parallellogram og vektorer\|Parallellogram og vektorer]] | vektorer, geometri | × |
-| [2-3](#oppgave-2-3) | [[Avgjør påstander om funksjoner\|Avgjør påstander om funksjoner]] | funksjoner, logaritmer, derivasjon | × |
 | [2-3](#oppgave-2-3) | [Logaritmepåstand](https://matematikkoppgaver.vercel.app/logaritmepastand/) | logaritmer | × |
 | [2-3](#oppgave-2-3) | [Har alle fjerdegradsfunksjoner ekstremalpunkt](https://matematikkoppgaver.vercel.app/har-alle-fjerdegradsfunksjoner-ekstremalpunkt/) | funksjoner, funksjonsdrøfting | × |
+| [2-3](#oppgave-2-3) | [[Avgjør påstander om funksjoner\|Avgjør påstander om funksjoner]] | funksjoner, logaritmer, derivasjon | × |
 | [2-4](#oppgave-2-4) | [[Omvendt funksjon fra grafer\|Omvendt funksjon fra grafer]] | funksjoner, tolke grafer, omvendte funksjoner | × |
 | [2-5](#oppgave-2-5) | [Lydstyrke fra fly](https://matematikkoppgaver.vercel.app/lydstyrke-fra-fly/) | formler, cas, logaritmer | × |
 | [2-6](#oppgave-2-6) | [[Avstand fra punkt til linje og graf\|Avstand fra punkt til linje og graf]] | vektorer, geometri, optimering, derivasjon | × |
@@ -36,7 +36,7 @@ Table: {.eksamen-oversikt rows=2.4em}
 ## Oppgave 1-1
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/derivasjon-av-eksponential-og-logaritme/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -99,7 +99,7 @@ $$
 ## Oppgave 1-3
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/vinkler-og-vinkelrette-vektorer/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -130,7 +130,7 @@ Et punkt $P$ ligger på linjen som går gjennom $B$ og $C$.
 ## Oppgave 1-4
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/optimering-av-rektangelareal-og-program/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -283,7 +283,7 @@ Vekstfaktoren ble endret til 1,02185.
 ## Oppgave 2-2
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/parallellogram-og-vektorer/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -306,64 +306,6 @@ Et parallellogram $ABCD$ er bestemt ved at $\overrightarrow{AB} = \vec{u}$ og $\
 
 
 ## Løsningsforslag
-
-
-</div></div>
-
-
-## Oppgave 2-3
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Avgjør påstander om funksjoner
-
-Nedenfor ser du tre påstander. Avgjør i hvert tilfelle om påstanden er sann eller usann. Husk å vise tydelig hvordan du argumenterer og resonnerer.
-
->[!oppgave]
->a) Hvis $x > 0$, så er $(\ln x)^4 = 4 \ln x$.
->b) Alle fjerdegradsfunksjoner må ha minst ett ekstremalpunkt.
->c) For at en funksjon skal ha en omvendt funksjon, må funksjonen være enten strengt voksende eller strengt avtakende.
-
-## Fasit
-
-a) Stemmer ikke
-b) Stemmer
-c) Vet ikke enda
-
-## Løsningsforslag
-
-### a
-$$
-\begin{aligned}
-\left( \ln x \right)^{4}&=\ln x\cdot \ln x \cdot \ln x \cdot \ln x \\
-4 \ln x &= \ln x + \ln x + \ln x + \ln x
-\end{aligned}
-$$
-Det ser ikke ut til at disse er like. La oss finne et eksempel for å motbevise påstanden.
-$$
-\begin{aligned}
-(\ln e)^{4}&=1^{4}=1 \\
-4 \ln e &= 4 \cdot 1 =4
-\end{aligned}
-$$
-**Påstanden stemmer ikke. Vi har funnet et moteksempel.**
-
-### b
-En fjerdegradsfunksjon har en tredjegradsfunksjon som sin deriverte. En tredjegradsfunksjon vil alltid krysse $x$-aksen i minst ett punkt siden $x^3$ gjør negative $x$-verdier til veldig negative $y$-verdier, og den gjør positive $x$-verdier til veldig positive $y$-verdier.
-
-Siden tredjegradsfunksjonen krysser $x$-aksen så må den deriverte bytte fortegn minst en gang. Det betyr at en fjerdegradsfunksjon må ha *minst* ett ekstremalpunkt.
-
-**Påstanden stemmer.**
-
-### c
-
-> [!warning] Mangler løsning
-> Jeg husker ikke omvendte funksjoner godt nok til å svare på denne akkurat nå... :^)
 
 
 </div></div>
@@ -455,10 +397,68 @@ Siden $f'$ må krysse $x$-aksen så må det stasjonære punktet være enten et t
 </div></div>
 
 
+## Oppgave 2-3
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/avgjor-pastander-om-funksjoner/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Avgjør påstander om funksjoner
+
+Nedenfor ser du tre påstander. Avgjør i hvert tilfelle om påstanden er sann eller usann. Husk å vise tydelig hvordan du argumenterer og resonnerer.
+
+>[!oppgave]
+>a) Hvis $x > 0$, så er $(\ln x)^4 = 4 \ln x$.
+>b) Alle fjerdegradsfunksjoner må ha minst ett ekstremalpunkt.
+>c) For at en funksjon skal ha en omvendt funksjon, må funksjonen være enten strengt voksende eller strengt avtakende.
+
+## Fasit
+
+a) Stemmer ikke
+b) Stemmer
+c) Vet ikke enda
+
+## Løsningsforslag
+
+### a
+$$
+\begin{aligned}
+\left( \ln x \right)^{4}&=\ln x\cdot \ln x \cdot \ln x \cdot \ln x \\
+4 \ln x &= \ln x + \ln x + \ln x + \ln x
+\end{aligned}
+$$
+Det ser ikke ut til at disse er like. La oss finne et eksempel for å motbevise påstanden.
+$$
+\begin{aligned}
+(\ln e)^{4}&=1^{4}=1 \\
+4 \ln e &= 4 \cdot 1 =4
+\end{aligned}
+$$
+**Påstanden stemmer ikke. Vi har funnet et moteksempel.**
+
+### b
+En fjerdegradsfunksjon har en tredjegradsfunksjon som sin deriverte. En tredjegradsfunksjon vil alltid krysse $x$-aksen i minst ett punkt siden $x^3$ gjør negative $x$-verdier til veldig negative $y$-verdier, og den gjør positive $x$-verdier til veldig positive $y$-verdier.
+
+Siden tredjegradsfunksjonen krysser $x$-aksen så må den deriverte bytte fortegn minst en gang. Det betyr at en fjerdegradsfunksjon må ha *minst* ett ekstremalpunkt.
+
+**Påstanden stemmer.**
+
+### c
+
+> [!warning] Mangler løsning
+> Jeg husker ikke omvendte funksjoner godt nok til å svare på denne akkurat nå... :^)
+
+
+</div></div>
+
+
 ## Oppgave 2-4
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/omvendt-funksjon-fra-grafer/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -593,7 +593,7 @@ Ved 158,113 m så er altså lydstyrken 130 dB. Siden vi skulle finne den minste 
 ## Oppgave 2-6
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/avstand-fra-punkt-til-linje-og-graf/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -626,7 +626,7 @@ $$f(x) = x^2 + 2x$$
 ## Oppgave 2-7
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/gjennomsnitt-med-algoritme-og-program/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

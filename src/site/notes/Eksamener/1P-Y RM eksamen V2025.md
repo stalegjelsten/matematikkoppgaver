@@ -1,12 +1,12 @@
 ---
-{"tags":["eksamen"],"fag":["1p-y rm"],"eksamen":"v25","date":"2025-05-21","del1_tid":2,"del2_tid":3,"title":"1P-Y RM eksamen V2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/1p-y-rm-eksamen-v2025/","permalink":"/eksamener/1p-y-rm-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y rm"],"eksamen":"v25","date":"2025-05-21","del1_tid":2,"del2_tid":3,"title":"1P-Y RM eksamen V2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
+{"tags":["eksamen"],"fag":["1p-y rm"],"eksamen":"v25","date":"2025-05-21","del1_tid":1,"del2_tid":3,"title":"1P-Y RM eksamen V2025","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/1p-y-rm-eksamen-v2025/","permalink":"/eksamener/1p-y-rm-eksamen-v2025/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["1p-y rm"],"eksamen":"v25","date":"2025-05-21","del1_tid":1,"del2_tid":3,"title":"1P-Y RM eksamen V2025","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
 # Oversikt over eksamensoppgavene
 
-**Del 1** — 2 timer — uten hjelpemidler
+**Del 1** — 1 time — uten hjelpemidler
 
-Table: {.eksamen-oversikt rows=2.4em}
+Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
@@ -18,7 +18,7 @@ Table: {.eksamen-oversikt rows=2.4em}
 
 **Del 2** — 3 timer — med hjelpemidler
 
-Table: {.eksamen-oversikt rows=2.4em}
+Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
@@ -179,7 +179,7 @@ Det er 12 måneder med 6 000 kr i hver måned. I tillegg betaler vi 50 kr per m�
 ## Oppgave 1-4
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/energi-i-maltid-med-kcal-formel/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -225,7 +225,7 @@ Barnehagelærer Bård spiser en frokost med energi 320 kcal. Diagrammet viser fo
 ## Oppgave 1-5
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/kokkene-jonas-og-ina-og-kyllingtilbud/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -272,7 +272,7 @@ Ina vil også kjøpe 6 kg kyllingfilet og sier:
 ## Oppgave 2-1
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/godt-stekt-restaurant-og-pizzasalg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -331,7 +331,7 @@ I april var de totale kostnadene til restauranten 556 704 kroner.
 ## Oppgave 2-2
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/elevbedrift-lager-lasagne-til-skoleavslutning/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -547,6 +547,47 @@ Elise gjør seg noen tanker og stiller noen spørsmål.
 >Svar på spørsmålene Elise stiller. Gjør beregninger og vurderinger, og gi Elise råd om hvilket tilbud hun bør velge.
 
 ## Fasit
+
+Tilbud 1 med 15 aviser: 257,25 kr. Tilbud 2 med 15 aviser: 300 kr. Tilbud 1 lønner seg fra og med 21 aviser.
+
+## Løsningsforslag
+
+**Tilbud 1** gir 35 % av salgsbeløpet. Hver avis koster 49 kr, så lønnen per avis er
+
+$$0{,}35 \cdot 49 = 17{,}15 \, \mathrm{kr}$$
+
+Vi setter opp et uttrykk for lønnen ved $x$ solgte aviser:
+
+$$f(x) = 17{,}15 \cdot x$$
+
+**Tilbud 2** gir fast lønn pluss 10 kr per avis:
+
+$$g(x) = 150 + 10 \cdot x$$
+
+**Hvor mye tjener Elise med 15 aviser?**
+
+- Tilbud 1: $f(15) = 17{,}15 \cdot 15 = 257{,}25 \, \mathrm{kr}$
+- Tilbud 2: $g(15) = 150 + 10 \cdot 15 = 300 \, \mathrm{kr}$
+
+**Med 15 aviser er $\underline{\underline{\text{tilbud 2 best}}}$ med $300 \, \mathrm{kr}$ mot $257{,}25 \, \mathrm{kr}$.**
+
+**Hvilken oversikt kan Elise lage?**
+
+Vi tegner begge grafene i GeoGebra og finner skjæringspunktet, se utklippet under.
+
+![Grafer for tilbud 1 (grønn) og tilbud 2 (rød)](/img/user/_resources/1p-y-v25-2-5-graf.png){width=70%}
+
+Fra grafen ser vi at linjene krysser hverandre ved omtrent 21 aviser.
+
+Vi kan også regne ut: $f(x) = g(x)$ når $17{,}15x = 150 + 10x$, altså $7{,}15x = 150$, som gir $x \approx 21$.
+
+| Antall aviser | 10 | 15 | 20 | 21 | 25 | 30 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Tilbud 1 | 171,50 | 257,25 | 343,00 | 360,15 | 428,75 | 514,50 |
+| Tilbud 2 | 250 | 300 | 350 | 360 | 400 | 450 |
+| Best | T2 | T2 | T2 | ≈ likt | T1 | T1 |
+
+**Råd til Elise:** Dersom hun tror hun kan selge **21 aviser eller flere** per lørdag, bør hun velge **tilbud 1**. Selger hun færre enn 21, er **tilbud 2** best.
 
 
 </div></div>

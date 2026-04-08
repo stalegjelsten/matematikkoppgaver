@@ -6,7 +6,7 @@
 
 **Del 1** — 2 timer — uten hjelpemidler
 
-Table: {.eksamen-oversikt rows=2.4em}
+Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
@@ -21,7 +21,7 @@ Table: {.eksamen-oversikt rows=2.4em}
 
 **Del 2** — 3 timer — med hjelpemidler
 
-Table: {.eksamen-oversikt rows=2.4em}
+Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
