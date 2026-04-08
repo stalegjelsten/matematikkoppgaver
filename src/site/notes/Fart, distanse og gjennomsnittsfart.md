@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["formler","tallregning"],"fag":["1p-y el"],"eksamen":"h23","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":4}],"title":"Fart, distanse og gjennomsnittsfart","status":3,"source":null,"todo":null,"dg-permalink":"/fart-distanse-og-gjennomsnittsfart/","permalink":"/fart-distanse-og-gjennomsnittsfart/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"temaer":["formler","tallregning"],"fag":["1p-y el"],"eksamen":"h23","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":4}],"title":"Fart, distanse og gjennomsnittsfart","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["formler","tallregning"],"fag":["1p-y el","1p-y ba","1p-y fd","1p-y hs","1p-y dt","1p-y im","1p-y na","1p-y rm","1p-y sr","1p-y tp"],"eksamen":"h23","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":4},{"fag":"1p-y ba","del":2,"oppgave":4},{"fag":"1p-y fd","del":2,"oppgave":4},{"fag":"1p-y hs","del":2,"oppgave":4},{"fag":"1p-y dt","del":2,"oppgave":4},{"fag":"1p-y im","del":2,"oppgave":4},{"fag":"1p-y na","del":2,"oppgave":4},{"fag":"1p-y rm","del":2,"oppgave":4},{"fag":"1p-y sr","del":2,"oppgave":4},{"fag":"1p-y tp","del":2,"oppgave":4}],"title":"Fart, distanse og gjennomsnittsfart","status":1,"source":null,"todo":null,"dg-permalink":"/fart-distanse-og-gjennomsnittsfart/","lf-source-claude":true,"permalink":"/fart-distanse-og-gjennomsnittsfart/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"temaer":["formler","tallregning"],"fag":["1p-y el","1p-y ba","1p-y fd","1p-y hs","1p-y dt","1p-y im","1p-y na","1p-y rm","1p-y sr","1p-y tp"],"eksamen":"h23","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":4},{"fag":"1p-y ba","del":2,"oppgave":4},{"fag":"1p-y fd","del":2,"oppgave":4},{"fag":"1p-y hs","del":2,"oppgave":4},{"fag":"1p-y dt","del":2,"oppgave":4},{"fag":"1p-y im","del":2,"oppgave":4},{"fag":"1p-y na","del":2,"oppgave":4},{"fag":"1p-y rm","del":2,"oppgave":4},{"fag":"1p-y sr","del":2,"oppgave":4},{"fag":"1p-y tp","del":2,"oppgave":4}],"title":"Fart, distanse og gjennomsnittsfart","status":1,"source":null,"todo":null,"lf-source-claude":true}}
 ---
 
 
@@ -12,7 +12,8 @@ $$s = v \cdot t$$
 Camilla kjører moped til skolen. En dag kjører hun med en gjennomsnittsfart på $40 \mathrm{~km/h}$ og bruker 15 minutter.
 
 >[!oppgave]
->a) Hvor lang er strekningen Camilla kjører til skolen? Vurder og kommenter om svaret ditt kan være riktig.
+>a) Hvor lang er strekningen Camilla kjører til skolen?  
+>Vurder og kommenter om svaret ditt kan være riktig.
 
 Kasper har bil. En dag sjekker han kilometerstand og klokkeslett både når han starter en kjøretur, og når han avslutter turen.
 

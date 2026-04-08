@@ -20,7 +20,7 @@ Vi trekker ut 25 tilfeldige elever fra skolen, måler hvor høye elevene er, og 
 
 Husk å begrunne svarene dine.
 
-![](/img/user/_resources/s2-h25-1-5-normalfordelinger.png)
+![Fire normalfordelinger](/img/user/_resources/s2-h25-1-5-normalfordelinger.png){width=80%}
 
 ## Fasit
 

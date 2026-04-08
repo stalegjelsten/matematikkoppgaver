@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-31","aliases":[],"dg-publish":true,"temaer":["prosentregning","areal","volum"],"fag":["1p-y fd","1p-y dt"],"eksamen":"h25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y fd","del":2,"oppgave":2},{"fag":"1p-y dt","del":2,"oppgave":2}],"poeng":6,"title":"Sofabord med areal og volum","status":0,"source":"Fagmøbler (fagmobler.no)","todo":["fasit","løsningsforslag"],"permalink":"/sofabord-med-areal-og-volum/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-31","aliases":[],"temaer":["prosentregning","areal","volum"],"fag":["1p-y fd","1p-y dt"],"eksamen":"h25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y fd","del":2,"oppgave":2},{"fag":"1p-y dt","del":2,"oppgave":2}],"poeng":6,"title":"Sofabord med areal og volum","status":0,"source":"Fagmøbler (fagmobler.no)","todo":["fasit","løsningsforslag"],"permalink":"/sofabord-med-areal-og-volum/"}}
+{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-31","aliases":[],"dg-publish":true,"temaer":["prosentregning","areal","volum"],"fag":["1p-y fd","1p-y dt"],"eksamen":"h25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y fd","del":2,"oppgave":2},{"fag":"1p-y dt","del":2,"oppgave":2}],"poeng":6,"title":"Sofabord med areal og volum","status":0,"source":"Fagmøbler (fagmobler.no)","todo":["fasit","løsningsforslag"],"dg-permalink":"/sofabord-med-areal-og-volum/","permalink":"/sofabord-med-areal-og-volum/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-31","aliases":[],"temaer":["prosentregning","areal","volum"],"fag":["1p-y fd","1p-y dt"],"eksamen":"h25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y fd","del":2,"oppgave":2},{"fag":"1p-y dt","del":2,"oppgave":2}],"poeng":6,"title":"Sofabord med areal og volum","status":0,"source":"Fagmøbler (fagmobler.no)","todo":["fasit","løsningsforslag"]}}
 ---
 
 
@@ -7,7 +7,7 @@
 
 En møbelbutikk selger sofabordet vist på bildet nedenfor.
 
-![Slide sofabord](/img/user/_resources/1py-h25-2-2-1.jpeg){width=60%}
+![Slide sofabord. Kilde: Fagmøbler (fagmobler.no)](/img/user/_resources/1py-h25-2-2-1.jpeg){width=60%}
 
 **Slide sofabord**
 Lengde: 120 cm · Bredde: 60 cm · Høyde: 45 cm

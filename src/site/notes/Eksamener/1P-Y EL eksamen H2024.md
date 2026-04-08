@@ -6,7 +6,7 @@
 
 **Del 1** — 1 time — uten hjelpemidler
 
-Table: {.eksamen-oversikt rows=2.4em}
+Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
@@ -18,7 +18,7 @@ Table: {.eksamen-oversikt rows=2.4em}
 
 **Del 2** — 3 timer — med hjelpemidler
 
-Table: {.eksamen-oversikt rows=2.4em}
+Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
@@ -42,11 +42,11 @@ Table: {.eksamen-oversikt rows=2.4em}
 
 To butikker selger sekker med plantejord.
 
-| | **Butikk A** | **Butikk B** |
-|---|---|---|
-| Innhold | 40 liter per sekk | 40 liter per sekk |
-| Pris | 59 kroner per sekk | 60 kroner per sekk |
-| Tilbud | Kjøp 4 sekker for 199 kroner | 20 % rabatt hvis du kjøper 4 sekker |
+|         | **Butikk A**                 | **Butikk B**                        |
+| :------- | :---------------------------- | :----------------------------------- |
+| Innhold | 40 liter per sekk            | 40 liter per sekk                   |
+| Pris    | 59 kroner per sekk           | 60 kroner per sekk                  |
+| Tilbud  | Kjøp 4 sekker for 199 kroner | 20 % rabatt hvis du kjøper 4 sekker |
 
 >[!oppgave]
 >a) Hvor mye må du betale hvis du skal kjøpe 120 liter plantejord i butikk A?

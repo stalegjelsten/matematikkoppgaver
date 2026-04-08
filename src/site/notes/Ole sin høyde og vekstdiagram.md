@@ -1,11 +1,13 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["tolke grafer","formler","tallregning"],"fag":["1p-y el"],"eksamen":"h23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":2}],"title":"Ole sin høyde og vekstdiagram","status":3,"source":null,"todo":null,"dg-permalink":"/ole-sin-hoyde-og-vekstdiagram/","permalink":"/ole-sin-hoyde-og-vekstdiagram/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"temaer":["tolke grafer","formler","tallregning"],"fag":["1p-y el"],"eksamen":"h23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":2}],"title":"Ole sin høyde og vekstdiagram","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["tolke grafer","formler","tallregning"],"fag":["1p-y el","1p-y ba","1p-y fd","1p-y hs","1p-y dt","1p-y im","1p-y na","1p-y rm","1p-y sr","1p-y tp"],"eksamen":"h23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":2},{"fag":"1p-y ba","del":1,"oppgave":2},{"fag":"1p-y fd","del":1,"oppgave":2},{"fag":"1p-y hs","del":1,"oppgave":2},{"fag":"1p-y dt","del":1,"oppgave":2},{"fag":"1p-y im","del":1,"oppgave":2},{"fag":"1p-y na","del":1,"oppgave":2},{"fag":"1p-y rm","del":1,"oppgave":2},{"fag":"1p-y sr","del":1,"oppgave":2},{"fag":"1p-y tp","del":1,"oppgave":2}],"title":"Ole sin høyde og vekstdiagram","status":1,"source":null,"todo":null,"dg-permalink":"/ole-sin-hoyde-og-vekstdiagram/","lf-source-claude":true,"permalink":"/ole-sin-hoyde-og-vekstdiagram/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"temaer":["tolke grafer","formler","tallregning"],"fag":["1p-y el","1p-y ba","1p-y fd","1p-y hs","1p-y dt","1p-y im","1p-y na","1p-y rm","1p-y sr","1p-y tp"],"eksamen":"h23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":2},{"fag":"1p-y ba","del":1,"oppgave":2},{"fag":"1p-y fd","del":1,"oppgave":2},{"fag":"1p-y hs","del":1,"oppgave":2},{"fag":"1p-y dt","del":1,"oppgave":2},{"fag":"1p-y im","del":1,"oppgave":2},{"fag":"1p-y na","del":1,"oppgave":2},{"fag":"1p-y rm","del":1,"oppgave":2},{"fag":"1p-y sr","del":1,"oppgave":2},{"fag":"1p-y tp","del":1,"oppgave":2}],"title":"Ole sin høyde og vekstdiagram","status":1,"source":null,"todo":null,"lf-source-claude":true}}
 ---
 
 
 # Ole sin høyde og vekstdiagram
 
-Hver gang Ole har fødselsdag, måler foreldrene hvor høy han er. Diagrammet under viser hvor mange centimeter høyden til Ole har økt med fra han ble ett til han ble to år, fra han ble to til han ble tre år, og så videre.
+Hver gang Ole har fødselsdag, måler foreldrene hvor høy han er. 
+
+Diagrammet under viser hvor mange centimeter høyden til Ole har økt med fra han ble ett til han ble to år, fra han ble to til han ble tre år, og så videre.
 
 ![Vekstdiagram for Ole](/img/user/_resources/1py-el-h23-1-2.jpeg){width=60%}
 

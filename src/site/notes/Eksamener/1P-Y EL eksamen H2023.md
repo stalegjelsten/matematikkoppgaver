@@ -6,26 +6,26 @@
 
 **Del 1** — 1 time — uten hjelpemidler
 
-Table: {.eksamen-oversikt rows=2.4em}
+Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Kjøttdeig, pris og prosent](https://matematikkoppgaver.vercel.app/kjottdeig-pris-og-prosent/) | proporsjonalitet, prosentregning, tallregning | ✔︎ |
-| [1-2](#oppgave-1-2) | [Ole sin høyde og vekstdiagram](https://matematikkoppgaver.vercel.app/ole-sin-hoyde-og-vekstdiagram/) | tolke grafer, formler, tallregning | ✔︎ |
+| [1-2](#oppgave-1-2) | [Ole sin høyde og vekstdiagram](https://matematikkoppgaver.vercel.app/ole-sin-hoyde-og-vekstdiagram/) | tolke grafer, formler, tallregning | × |
 | [1-3](#oppgave-1-3) | [Brus i glass og daglig væskebehov](https://matematikkoppgaver.vercel.app/brus-i-glass-og-daglig-vaeskebehov/) | tallregning, proporsjonalitet | ✔︎ |
 | [1-4](#oppgave-1-4) | [Strømproduksjon, trekant og resistans](https://matematikkoppgaver.vercel.app/stromproduksjon-trekant-og-resistans/) | diagram, trigonometri, elektrofag, prosentregning | ✔︎ |
 
 **Del 2** — 3 timer — med hjelpemidler
 
-Table: {.eksamen-oversikt rows=2.4em}
+Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Inverter og effektberegning](https://matematikkoppgaver.vercel.app/inverter-og-effektberegning/) | elektrofag, effekttrekant, formler | ✔︎ |
 | [2-2](#oppgave-2-2) | [Mobiltelefon, lagring og abonnement](https://matematikkoppgaver.vercel.app/mobiltelefon-lagring-og-abonnement/) | bits og bytes, tallregning | ✔︎ |
 | [2-3](#oppgave-2-3) | [Transformator med vindinger og effekttrekant](https://matematikkoppgaver.vercel.app/transformator-med-vindinger-og-effekttrekant/) | effekttrekant, formler | × |
-| [2-4](#oppgave-2-4) | [Fart, distanse og gjennomsnittsfart](https://matematikkoppgaver.vercel.app/fart-distanse-og-gjennomsnittsfart/) | formler, tallregning | ✔︎ |
-| [2-5](#oppgave-2-5) | [Sara vurderer å kjøpe mopedbil](https://matematikkoppgaver.vercel.app/sara-vurderer-a-kjope-mopedbil/) | økonomi, prosentregning, lån, excel | ✔︎ |
+| [2-4](#oppgave-2-4) | [Fart, distanse og gjennomsnittsfart](https://matematikkoppgaver.vercel.app/fart-distanse-og-gjennomsnittsfart/) | formler, tallregning | × |
+| [2-5](#oppgave-2-5) | [Sara vurderer å kjøpe mopedbil](https://matematikkoppgaver.vercel.app/sara-vurderer-a-kjope-mopedbil/) | økonomi, prosentregning, lån, excel | × |
 
 # Del 1
 
@@ -124,7 +124,9 @@ En pakke karbonadedeig koster omtrent 33,3 % mer enn en pakke kyllingkjøttdeig.
 
 # Ole sin høyde og vekstdiagram
 
-Hver gang Ole har fødselsdag, måler foreldrene hvor høy han er. Diagrammet under viser hvor mange centimeter høyden til Ole har økt med fra han ble ett til han ble to år, fra han ble to til han ble tre år, og så videre.
+Hver gang Ole har fødselsdag, måler foreldrene hvor høy han er. 
+
+Diagrammet under viser hvor mange centimeter høyden til Ole har økt med fra han ble ett til han ble to år, fra han ble to til han ble tre år, og så videre.
 
 ![Vekstdiagram for Ole](/img/user/_resources/1py-el-h23-1-2.jpeg){width=60%}
 
@@ -766,7 +768,8 @@ $$s = v \cdot t$$
 Camilla kjører moped til skolen. En dag kjører hun med en gjennomsnittsfart på $40 \mathrm{~km/h}$ og bruker 15 minutter.
 
 >[!oppgave]
->a) Hvor lang er strekningen Camilla kjører til skolen? Vurder og kommenter om svaret ditt kan være riktig.
+>a) Hvor lang er strekningen Camilla kjører til skolen?  
+>Vurder og kommenter om svaret ditt kan være riktig.
 
 Kasper har bil. En dag sjekker han kilometerstand og klokkeslett både når han starter en kjøretur, og når han avslutter turen.
 
@@ -877,7 +880,11 @@ Sara er usikker på om hun har råd til å kjøpe og bruke mopedbilen. Hun har n
 
 ## Fasit
 
-Lånebehov: 112 000 kr. Månedlig kostnad m/lån: 3 916 kr. Igjen til andre ting: 359 kr/mnd. Salgsverdi etter 2 år: 111 456 kr. Onkelen tjener 800 kr.
+- Lånebehov: 112 000 kr. 
+- Månedlig kostnad m/lån: 3 916 kr. 
+- Igjen til andre ting: 359 kr/mnd. 
+- Salgsverdi etter 2 år: 111 456 kr. 
+- Onkelen tjener 800 kr.
 
 ## Løsningsforslag
 

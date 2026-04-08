@@ -6,7 +6,7 @@
 
 **Del 1** — 1 time — uten hjelpemidler
 
-Table: {.eksamen-oversikt rows=2.4em}
+Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
@@ -18,7 +18,7 @@ Table: {.eksamen-oversikt rows=2.4em}
 
 **Del 2** — 3 timer — med hjelpemidler
 
-Table: {.eksamen-oversikt rows=2.4em}
+Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
@@ -257,7 +257,7 @@ Aina driver et cateringfirma som leverer mat til selskaper og arrangementer.
 
 Regnearket nedenfor viser inntektene, kostnadene og arbeidstimene hennes for tre måneder.
 
-![Regneark](/img/user/_resources/1py-rm-h25-2-1-regneark.jpeg){width=80%}
+![Regneark](/img/user/_resources/1py-h25-2-1-regneark.jpeg){width=80%}
 
 >[!oppgave]
 >a) Lag et regneark som vist ovenfor. Lag formler i de grønne cellene slik at utregningene blir riktige. Husk å vise formlene du bruker i regnearket.
@@ -379,7 +379,7 @@ Ella sparer til bolig på en BSU-konto.
 >  a) Lag et regneark som vist nedenfor. Lag formler i de grønne cellene slik at utregningene blir riktige.  
 >  Husk å vise formlene du bruker i regnearket.
 
-![Regneark som viser Ellas sparing](/img/user/_resources/1py-v25-2-4.png){width=50%}
+![Regneark som viser Ellas sparing](/img/user/_resources/1py-v25-2-4.png){width=60%}
 
 Ella er gift med Sverre. Paret ønsker å kjøpe en leilighet som koster 5 600 000 kroner.
 

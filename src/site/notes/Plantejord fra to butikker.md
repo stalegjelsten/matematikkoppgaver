@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-16","modified":"2026-03-16","aliases":[],"dg-publish":true,"temaer":["prosentregning","enhetskostnad","økonomi"],"fag":["1p-y el"],"eksamen":"h24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":1}],"title":"Plantejord fra to butikker","status":3,"source":null,"todo":null,"permalink":"/plantejord-fra-to-butikker/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-16","modified":"2026-03-16","aliases":[],"temaer":["prosentregning","enhetskostnad","økonomi"],"fag":["1p-y el"],"eksamen":"h24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":1}],"title":"Plantejord fra to butikker","status":3,"source":null,"todo":null,"permalink":"/plantejord-fra-to-butikker/"}}
+{"tags":["oppgave"],"date":"2026-03-16","modified":"2026-03-16","aliases":[],"dg-publish":true,"temaer":["prosentregning","enhetskostnad","økonomi"],"fag":["1p-y el","1p-y ba","1p-y tp","1p-y fd","1p-y hs","1p-y dt","1p-y im","1p-y na","1p-y rm","1p-y sr"],"eksamen":"h24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":1},{"fag":"1p-y ba","del":1,"oppgave":1},{"fag":"1p-y tp","del":1,"oppgave":1},{"fag":"1p-y fd","del":1,"oppgave":1},{"fag":"1p-y hs","del":1,"oppgave":1},{"fag":"1p-y dt","del":1,"oppgave":1},{"fag":"1p-y im","del":1,"oppgave":1},{"fag":"1p-y na","del":1,"oppgave":1},{"fag":"1p-y rm","del":1,"oppgave":1},{"fag":"1p-y sr","del":1,"oppgave":1}],"title":"Plantejord fra to butikker","status":3,"source":null,"todo":null,"dg-permalink":"/plantejord-fra-to-butikker/","permalink":"/plantejord-fra-to-butikker/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-16","modified":"2026-03-16","aliases":[],"temaer":["prosentregning","enhetskostnad","økonomi"],"fag":["1p-y el","1p-y ba","1p-y tp","1p-y fd","1p-y hs","1p-y dt","1p-y im","1p-y na","1p-y rm","1p-y sr"],"eksamen":"h24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":1},{"fag":"1p-y ba","del":1,"oppgave":1},{"fag":"1p-y tp","del":1,"oppgave":1},{"fag":"1p-y fd","del":1,"oppgave":1},{"fag":"1p-y hs","del":1,"oppgave":1},{"fag":"1p-y dt","del":1,"oppgave":1},{"fag":"1p-y im","del":1,"oppgave":1},{"fag":"1p-y na","del":1,"oppgave":1},{"fag":"1p-y rm","del":1,"oppgave":1},{"fag":"1p-y sr","del":1,"oppgave":1}],"title":"Plantejord fra to butikker","status":3,"source":null,"todo":null}}
 ---
 
 
@@ -7,11 +7,11 @@
 
 To butikker selger sekker med plantejord.
 
-| | **Butikk A** | **Butikk B** |
-|---|---|---|
-| Innhold | 40 liter per sekk | 40 liter per sekk |
-| Pris | 59 kroner per sekk | 60 kroner per sekk |
-| Tilbud | Kjøp 4 sekker for 199 kroner | 20 % rabatt hvis du kjøper 4 sekker |
+|         | **Butikk A**                 | **Butikk B**                        |
+| :------- | :---------------------------- | :----------------------------------- |
+| Innhold | 40 liter per sekk            | 40 liter per sekk                   |
+| Pris    | 59 kroner per sekk           | 60 kroner per sekk                  |
+| Tilbud  | Kjøp 4 sekker for 199 kroner | 20 % rabatt hvis du kjøper 4 sekker |
 
 >[!oppgave]
 >a) Hvor mye må du betale hvis du skal kjøpe 120 liter plantejord i butikk A?

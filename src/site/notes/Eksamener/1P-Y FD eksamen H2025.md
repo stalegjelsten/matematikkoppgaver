@@ -6,7 +6,7 @@
 
 **Del 1** — 1 time — uten hjelpemidler
 
-Table: {.eksamen-oversikt rows=2.4em}
+Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
@@ -18,7 +18,7 @@ Table: {.eksamen-oversikt rows=2.4em}
 
 **Del 2** — 3 timer — med hjelpemidler
 
-Table: {.eksamen-oversikt rows=2.4em}
+Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
@@ -305,7 +305,7 @@ Aina skal lage et anbud for et oppdrag til en kunde:
 
 En møbelbutikk selger sofabordet vist på bildet nedenfor.
 
-![Slide sofabord](/img/user/_resources/1py-h25-2-2-1.jpeg){width=60%}
+![Slide sofabord. Kilde: Fagmøbler (fagmobler.no)](/img/user/_resources/1py-h25-2-2-1.jpeg){width=60%}
 
 **Slide sofabord**
 Lengde: 120 cm · Bredde: 60 cm · Høyde: 45 cm
@@ -359,7 +359,7 @@ Ella sparer til bolig på en BSU-konto.
 >  a) Lag et regneark som vist nedenfor. Lag formler i de grønne cellene slik at utregningene blir riktige.  
 >  Husk å vise formlene du bruker i regnearket.
 
-![Regneark som viser Ellas sparing](/img/user/_resources/1py-v25-2-4.png){width=50%}
+![Regneark som viser Ellas sparing](/img/user/_resources/1py-v25-2-4.png){width=60%}
 
 Ella er gift med Sverre. Paret ønsker å kjøpe en leilighet som koster 5 600 000 kroner.
 
