@@ -10,13 +10,13 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [1-1](#oppgave-1-1) | [[Enkel derivasjon\|Enkel derivasjon]] | derivasjon, logaritmer, eksponentialfunksjoner | × |
-| [1-2](#oppgave-1-2) | [[Likningssystem med tre ukjente\|Likningssystem med tre ukjente]] | likningssystem | × |
-| [1-3](#oppgave-1-3) | [[Aritmetisk sum og uendelig geometrisk rekke\|Aritmetisk sum og uendelig geometrisk rekke]] | rekker, uendelig rekke | × |
-| [1-4](#oppgave-1-4) | [[Polynom og ulikhet\|Polynom og ulikhet]] | polynomdivisjon, faktorisering | × |
-| [1-5](#oppgave-1-5) | [[Tredjegradsfunksjon og vannstand\|Tredjegradsfunksjon og vannstand]] | funksjonsdrøfting, derivasjon, modellering | × |
-| [1-6](#oppgave-1-6) | [[Kostnadsfunksjon og tangent\|Kostnadsfunksjon og tangent]] | enhetskostnad, derivasjon, økonomi | × |
-| [1-7](#oppgave-1-7) | [[Gule drops i poser\|Gule drops i poser]] | binomisk, normalfordeling, sannsynlighet | × |
+| [1-1](#oppgave-1-1) | [Enkel derivasjon](https://matematikkoppgaver.vercel.app/enkel-derivasjon/) | derivasjon, logaritmer, eksponentialfunksjoner | × |
+| [1-2](#oppgave-1-2) | [Likningssystem med tre ukjente](https://matematikkoppgaver.vercel.app/likningssystem-med-tre-ukjente/) | likningssystem | × |
+| [1-3](#oppgave-1-3) | [Aritmetisk sum og uendelig geometrisk rekke](https://matematikkoppgaver.vercel.app/aritmetisk-sum-og-uendelig-geometrisk-rekke/) | rekker, uendelig rekke | × |
+| [1-4](#oppgave-1-4) | [Polynom og ulikhet](https://matematikkoppgaver.vercel.app/polynom-og-ulikhet/) | polynomdivisjon, faktorisering | × |
+| [1-5](#oppgave-1-5) | [Tredjegradsfunksjon og vannstand](https://matematikkoppgaver.vercel.app/tredjegradsfunksjon-og-vannstand/) | funksjonsdrøfting, derivasjon, modellering | × |
+| [1-6](#oppgave-1-6) | [Kostnadsfunksjon og tangent](https://matematikkoppgaver.vercel.app/kostnadsfunksjon-og-tangent/) | enhetskostnad, derivasjon, økonomi | × |
+| [1-7](#oppgave-1-7) | [Gule drops i poser](https://matematikkoppgaver.vercel.app/gule-drops-i-poser/) | binomisk, normalfordeling, sannsynlighet | × |
 
 **Del 2** — 2 timer — med hjelpemidler
 
@@ -24,10 +24,10 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Fremskrittspartiet og hypotesetest\|Fremskrittspartiet og hypotesetest]] | binomisk, hypotesetest | × |
-| [2-2](#oppgave-2-2) | [[Rottebestand og logistisk modell\|Rottebestand og logistisk modell]] | logistisk funksjon, regresjon, modellering | × |
-| [2-3](#oppgave-2-3) | [[Overskuddsfunksjon og prisfunksjon\|Overskuddsfunksjon og prisfunksjon]] | optimering, derivasjon, økonomi | × |
-| [2-4](#oppgave-2-4) | [[Annuitetslån og serielån\|Annuitetslån og serielån]] | lån, rekker, økonomi | × |
+| [2-1](#oppgave-2-1) | [Fremskrittspartiet og hypotesetest](https://matematikkoppgaver.vercel.app/fremskrittspartiet-og-hypotesetest/) | binomisk, hypotesetest | × |
+| [2-2](#oppgave-2-2) | [Rottebestand og logistisk modell](https://matematikkoppgaver.vercel.app/rottebestand-og-logistisk-modell/) | logistisk funksjon, regresjon, modellering | × |
+| [2-3](#oppgave-2-3) | [Overskuddsfunksjon og prisfunksjon](https://matematikkoppgaver.vercel.app/overskuddsfunksjon-og-prisfunksjon/) | optimering, derivasjon, økonomi | × |
+| [2-4](#oppgave-2-4) | [Annuitetslån og serielån](https://matematikkoppgaver.vercel.app/annuitetslan-og-serielan/) | lån, rekker, økonomi | × |
 
 # Del 1
 

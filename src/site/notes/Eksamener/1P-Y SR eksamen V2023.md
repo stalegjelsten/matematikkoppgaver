@@ -13,7 +13,7 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Prisformel sparkesykkel](https://matematikkoppgaver.vercel.app/prisformel-sparkesykkel/) | lineær vekst, formler, likninger | ✔︎ |
 | [1-2](#oppgave-1-2) | [Sammenligne priser på hundemat](https://matematikkoppgaver.vercel.app/sammenligne-priser-pa-hundemat/) | proporsjonalitet, prosentregning, enhetskostnad | ✔︎ |
 | [1-3](#oppgave-1-3) | [Prosentvis prisforskjell sjokolade](https://matematikkoppgaver.vercel.app/prosentvis-prisforskjell-sjokolade/) | prosentregning, prosentvis endring, argumentasjon | ✔︎ |
-| [1-4](#oppgave-1-4) | [[Reiser fra Norge til fire land\|Reiser fra Norge til fire land]] | statistikk, diagram, tolkning | × |
+| [1-4](#oppgave-1-4) | [Reiser fra Norge til fire land](https://matematikkoppgaver.vercel.app/reiser-fra-norge-til-fire-land/) | statistikk, diagram, tolkning | × |
 
 **Del 2** — None timer — med hjelpemidler
 
@@ -21,8 +21,8 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Refleksvester ungdomsbedrift og fortjeneste\|Refleksvester ungdomsbedrift og fortjeneste]] | økonomi, regneark, prosentregning | × |
-| [2-2](#oppgave-2-2) | [[Hotellovernattinger i Nordland\|Hotellovernattinger i Nordland]] | statistikk, gjennomsnitt, prosentvis endring | × |
+| [2-1](#oppgave-2-1) | [Refleksvester ungdomsbedrift og fortjeneste](https://matematikkoppgaver.vercel.app/refleksvester-ungdomsbedrift-og-fortjeneste/) | økonomi, regneark, prosentregning | × |
+| [2-2](#oppgave-2-2) | [Hotellovernattinger i Nordland](https://matematikkoppgaver.vercel.app/hotellovernattinger-i-nordland/) | statistikk, gjennomsnitt, prosentvis endring | × |
 | [2-4](#oppgave-2-4) | [Ludvigs dusjregnskap](https://matematikkoppgaver.vercel.app/ludvigs-dusjregnskap/) | excel | ✔︎ |
 | [2-5](#oppgave-2-5) | [Martines studielån](https://matematikkoppgaver.vercel.app/martines-studielan/) | lån, excel | ✔︎ |
 

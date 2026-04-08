@@ -13,8 +13,8 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Plantejord fra to butikker](https://matematikkoppgaver.vercel.app/plantejord-fra-to-butikker/) | prosentregning, enhetskostnad, økonomi | ✔︎ |
 | [1-2](#oppgave-1-2) | [Størst prosentvis prisøkning](https://matematikkoppgaver.vercel.app/storst-prosentvis-prisokning/) | prosentregning, prosentvis endring | ✔︎ |
 | [1-3](#oppgave-1-3) | [Merverdiavgift i Frankrike](https://matematikkoppgaver.vercel.app/merverdiavgift-i-frankrike/) | formler, prosentregning | ✔︎ |
-| [1-4](#oppgave-1-4) | [[Kledning til vegg og tilbud\|Kledning til vegg og tilbud]] | areal, økonomi, enhetskostnad | × |
-| [1-5](#oppgave-1-5) | [[Bindingsverk og kappliste for hytte\|Bindingsverk og kappliste for hytte]] | geometri, måleenheter, prosentregning | × |
+| [1-4](#oppgave-1-4) | [Kledning til vegg og tilbud](https://matematikkoppgaver.vercel.app/kledning-til-vegg-og-tilbud/) | areal, økonomi, enhetskostnad | × |
+| [1-5](#oppgave-1-5) | [Bindingsverk og kappliste for hytte](https://matematikkoppgaver.vercel.app/bindingsverk-og-kappliste-for-hytte/) | geometri, måleenheter, prosentregning | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 
@@ -22,7 +22,7 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Terrasse med nedfelt sandkasse\|Terrasse med nedfelt sandkasse]] | areal, Pytagoras, volum | × |
+| [2-1](#oppgave-2-1) | [Terrasse med nedfelt sandkasse](https://matematikkoppgaver.vercel.app/terrasse-med-nedfelt-sandkasse/) | areal, Pytagoras, volum | × |
 | [2-2](#oppgave-2-2) | [Kostnadsoversikt for fuglekasser](https://matematikkoppgaver.vercel.app/kostnadsoversikt-for-fuglekasser/) | excel, økonomi | × |
 | [2-3](#oppgave-2-3) | [Eriks bilbruk](https://matematikkoppgaver.vercel.app/eriks-bilbruk/) | excel, økonomi, formler | ✔︎ |
 | [2-4](#oppgave-2-4) | [Reise til Gran Canaria](https://matematikkoppgaver.vercel.app/reise-til-gran-canaria/) | excel, lån, kredittkort, oversikt | ✔︎ |

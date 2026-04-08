@@ -10,13 +10,13 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [1-1](#oppgave-1-1) | [[Deriver eksponential- og logaritmefunksjon\|Deriver eksponential- og logaritmefunksjon]] | derivasjon | × |
+| [1-1](#oppgave-1-1) | [Deriver eksponential- og logaritmefunksjon](https://matematikkoppgaver.vercel.app/deriver-eksponential-og-logaritmefunksjon/) | derivasjon | × |
 | [1-2](#oppgave-1-2) | [Begrunn at uendelig rekke konvergerer](https://matematikkoppgaver.vercel.app/begrunn-at-uendelig-rekke-konvergerer/) | rekker | × |
-| [1-3](#oppgave-1-3) | [[Polynomdivisjon og eksponentiallikning\|Polynomdivisjon og eksponentiallikning]] | polynomdivisjon, faktorisering, likninger | × |
-| [1-4](#oppgave-1-4) | [[Pris per kilo frukt og grønnsaker\|Pris per kilo frukt og grønnsaker]] | likningssystem | × |
+| [1-3](#oppgave-1-3) | [Polynomdivisjon og eksponentiallikning](https://matematikkoppgaver.vercel.app/polynomdivisjon-og-eksponentiallikning/) | polynomdivisjon, faktorisering, likninger | × |
+| [1-4](#oppgave-1-4) | [Pris per kilo frukt og grønnsaker](https://matematikkoppgaver.vercel.app/pris-per-kilo-frukt-og-gronnsaker/) | likningssystem | × |
 | [1-5](#oppgave-1-5) | [Idas jakke](https://matematikkoppgaver.vercel.app/idas-jakke/) | rekker | × |
-| [1-6](#oppgave-1-6) | [[Kostnad per enhet og størst overskudd\|Kostnad per enhet og størst overskudd]] | optimering, grenseinntekt og grensekostnad | × |
-| [1-7](#oppgave-1-7) | [[Funksjonsdrøfting med eksponentialfaktor\|Funksjonsdrøfting med eksponentialfaktor]] | funksjonsdrøfting, derivasjon | × |
+| [1-6](#oppgave-1-6) | [Kostnad per enhet og størst overskudd](https://matematikkoppgaver.vercel.app/kostnad-per-enhet-og-storst-overskudd/) | optimering, grenseinntekt og grensekostnad | × |
+| [1-7](#oppgave-1-7) | [Funksjonsdrøfting med eksponentialfaktor](https://matematikkoppgaver.vercel.app/funksjonsdrofting-med-eksponentialfaktor/) | funksjonsdrøfting, derivasjon | × |
 | [1-8](#oppgave-1-8) | [Lykkehjulet](https://matematikkoppgaver.vercel.app/lykkehjulet/) | sannsynlighet, normalfordeling, binomisk | × |
 
 **Del 2** — 2 timer — med hjelpemidler
@@ -25,9 +25,9 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Bakterievekst i avfall\|Bakterievekst i avfall]] | eksponentiell vekst, derivasjon, optimering | × |
-| [2-2](#oppgave-2-2) | [[Sparing og annuitetslån\|Sparing og annuitetslån]] | rekker, lån, sparing | × |
-| [2-3](#oppgave-2-3) | [[Sjokoladeplater og hypotesetest\|Sjokoladeplater og hypotesetest]] | normalfordeling, hypotesetest | × |
+| [2-1](#oppgave-2-1) | [Bakterievekst i avfall](https://matematikkoppgaver.vercel.app/bakterievekst-i-avfall/) | eksponentiell vekst, derivasjon, optimering | × |
+| [2-2](#oppgave-2-2) | [Sparing og annuitetslån](https://matematikkoppgaver.vercel.app/sparing-og-annuitetslan/) | rekker, lån, sparing | × |
+| [2-3](#oppgave-2-3) | [Sjokoladeplater og hypotesetest](https://matematikkoppgaver.vercel.app/sjokoladeplater-og-hypotesetest/) | normalfordeling, hypotesetest | × |
 
 # Del 1
 

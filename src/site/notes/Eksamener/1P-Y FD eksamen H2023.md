@@ -13,7 +13,7 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Kjøttdeig, pris og prosent](https://matematikkoppgaver.vercel.app/kjottdeig-pris-og-prosent/) | proporsjonalitet, prosentregning, tallregning | ✔︎ |
 | [1-2](#oppgave-1-2) | [Ole sin høyde og vekstdiagram](https://matematikkoppgaver.vercel.app/ole-sin-hoyde-og-vekstdiagram/) | tolke grafer, formler, tallregning | × |
 | [1-3](#oppgave-1-3) | [Brus i glass og daglig væskebehov](https://matematikkoppgaver.vercel.app/brus-i-glass-og-daglig-vaeskebehov/) | tallregning, proporsjonalitet | ✔︎ |
-| [1-4](#oppgave-1-4) | [[Stort bord og målestokk\|Stort bord og målestokk]] | målestokk, areal, proporsjonalitet | × |
+| [1-4](#oppgave-1-4) | [Stort bord og målestokk](https://matematikkoppgaver.vercel.app/stort-bord-og-malestokk/) | målestokk, areal, proporsjonalitet | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 
@@ -21,9 +21,9 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Beate blomsterdekoratør og lønn\|Beate blomsterdekoratør og lønn]] | prosentregning, mva | × |
-| [2-2](#oppgave-2-2) | [[Linus frisørsalong og priser\|Linus frisørsalong og priser]] | prosentregning, proporsjonalitet | × |
-| [2-3](#oppgave-2-3) | [[Ungdomsbedrift og tapetsering\|Ungdomsbedrift og tapetsering]] | regneark, areal, økonomi | × |
+| [2-1](#oppgave-2-1) | [Beate blomsterdekoratør og lønn](https://matematikkoppgaver.vercel.app/beate-blomsterdekorator-og-lonn/) | prosentregning, mva | × |
+| [2-2](#oppgave-2-2) | [Linus frisørsalong og priser](https://matematikkoppgaver.vercel.app/linus-frisorsalong-og-priser/) | prosentregning, proporsjonalitet | × |
+| [2-3](#oppgave-2-3) | [Ungdomsbedrift og tapetsering](https://matematikkoppgaver.vercel.app/ungdomsbedrift-og-tapetsering/) | regneark, areal, økonomi | × |
 | [2-4](#oppgave-2-4) | [Fart, distanse og gjennomsnittsfart](https://matematikkoppgaver.vercel.app/fart-distanse-og-gjennomsnittsfart/) | formler, tallregning | × |
 | [2-5](#oppgave-2-5) | [Sara vurderer å kjøpe mopedbil](https://matematikkoppgaver.vercel.app/sara-vurderer-a-kjope-mopedbil/) | økonomi, prosentregning, lån, excel | × |
 

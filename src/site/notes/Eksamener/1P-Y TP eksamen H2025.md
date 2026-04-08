@@ -13,8 +13,8 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Løping og maraton](https://matematikkoppgaver.vercel.app/loping-og-maraton/) | lineær vekst, formler, tallregning | ✔︎ |
 | [1-2](#oppgave-1-2) | [Annuitetslån eller serielån](https://matematikkoppgaver.vercel.app/annuitetslan-eller-serielan/) | lån, diagram, tolke grafer | ✔︎ |
 | [1-3](#oppgave-1-3) | [Søvnbehov med formel](https://matematikkoppgaver.vercel.app/sovnbehov-med-formel/) | formler, lineær vekst, algebra | ✔︎ |
-| [1-4](#oppgave-1-4) | [[Tannhjulsutveksling\|Tannhjulsutveksling]] | proporsjonalitet, formler, tallregning | × |
-| [1-5](#oppgave-1-5) | [[Aksling og toleranser\|Aksling og toleranser]] | målestokk, formler, toleranser | × |
+| [1-4](#oppgave-1-4) | [Tannhjulsutveksling](https://matematikkoppgaver.vercel.app/tannhjulsutveksling/) | proporsjonalitet, formler, tallregning | × |
+| [1-5](#oppgave-1-5) | [Aksling og toleranser](https://matematikkoppgaver.vercel.app/aksling-og-toleranser/) | målestokk, formler, toleranser | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 
@@ -22,8 +22,8 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[MAG-sveising og gassflasker\|MAG-sveising og gassflasker]] | økonomi, volum, formler, prosentregning | × |
-| [2-2](#oppgave-2-2) | [[Naomi sine søppelbøtter\|Naomi sine søppelbøtter]] | volum, areal, geometri, Pytagoras | × |
+| [2-1](#oppgave-2-1) | [MAG-sveising og gassflasker](https://matematikkoppgaver.vercel.app/mag-sveising-og-gassflasker/) | økonomi, volum, formler, prosentregning | × |
+| [2-2](#oppgave-2-2) | [Naomi sine søppelbøtter](https://matematikkoppgaver.vercel.app/naomi-sine-soppelbotter/) | volum, areal, geometri, Pytagoras | × |
 | [2-3](#oppgave-2-3) | [Ellas BSU-sparing](https://matematikkoppgaver.vercel.app/ellas-bsu-sparing/) | sparing, excel | ✔︎ |
 | [2-4](#oppgave-2-4) | [Fritt fall fra stupeplattform](https://matematikkoppgaver.vercel.app/fritt-fall-fra-stupeplattform/) | formler, likninger | × |
 | [2-5](#oppgave-2-5) | [Fylle svømmebasseng](https://matematikkoppgaver.vercel.app/fylle-svommebasseng/) | formler, tallregning, samlet mengde | × |

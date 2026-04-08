@@ -13,7 +13,7 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Kjøttdeig, pris og prosent](https://matematikkoppgaver.vercel.app/kjottdeig-pris-og-prosent/) | proporsjonalitet, prosentregning, tallregning | ✔︎ |
 | [1-2](#oppgave-1-2) | [Ole sin høyde og vekstdiagram](https://matematikkoppgaver.vercel.app/ole-sin-hoyde-og-vekstdiagram/) | tolke grafer, formler, tallregning | × |
 | [1-3](#oppgave-1-3) | [Brus i glass og daglig væskebehov](https://matematikkoppgaver.vercel.app/brus-i-glass-og-daglig-vaeskebehov/) | tallregning, proporsjonalitet | ✔︎ |
-| [1-4](#oppgave-1-4) | [[Frode fotograf og budsjett\|Frode fotograf og budsjett]] | økonomi, prosentregning, mva | × |
+| [1-4](#oppgave-1-4) | [Frode fotograf og budsjett](https://matematikkoppgaver.vercel.app/frode-fotograf-og-budsjett/) | økonomi, prosentregning, mva | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 
@@ -21,9 +21,9 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Bakgrunnsgrafikk og pc-skjerm\|Bakgrunnsgrafikk og pc-skjerm]] | proporsjonalitet, Pytagoras, areal | × |
-| [2-2](#oppgave-2-2) | [[IKT-bruk i befolkningen\|IKT-bruk i befolkningen]] | prosentregning, grafisk framstilling, presentasjon av data | × |
-| [2-3](#oppgave-2-3) | [[Ungdomsbedrift Dataservice hjemmesider\|Ungdomsbedrift Dataservice hjemmesider]] | regneark, økonomi, prosentregning | × |
+| [2-1](#oppgave-2-1) | [Bakgrunnsgrafikk og pc-skjerm](https://matematikkoppgaver.vercel.app/bakgrunnsgrafikk-og-pc-skjerm/) | proporsjonalitet, Pytagoras, areal | × |
+| [2-2](#oppgave-2-2) | [IKT-bruk i befolkningen](https://matematikkoppgaver.vercel.app/ikt-bruk-i-befolkningen/) | prosentregning, grafisk framstilling, presentasjon av data | × |
+| [2-3](#oppgave-2-3) | [Ungdomsbedrift Dataservice hjemmesider](https://matematikkoppgaver.vercel.app/ungdomsbedrift-dataservice-hjemmesider/) | regneark, økonomi, prosentregning | × |
 | [2-4](#oppgave-2-4) | [Fart, distanse og gjennomsnittsfart](https://matematikkoppgaver.vercel.app/fart-distanse-og-gjennomsnittsfart/) | formler, tallregning | × |
 | [2-5](#oppgave-2-5) | [Sara vurderer å kjøpe mopedbil](https://matematikkoppgaver.vercel.app/sara-vurderer-a-kjope-mopedbil/) | økonomi, prosentregning, lån, excel | × |
 

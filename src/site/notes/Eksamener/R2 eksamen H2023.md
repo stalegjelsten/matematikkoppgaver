@@ -11,12 +11,12 @@ Table: {.eksamen-oversikt}
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Bestemt integral 3](https://matematikkoppgaver.vercel.app/bestemt-integral-3/) | integral | ✔︎ |
-| [1-2](#oppgave-1-2) | [[Areal mellom cosinus og sinus\|Areal mellom cosinus og sinus]] | integral, areal under graf, trigonometri | × |
+| [1-2](#oppgave-1-2) | [Areal mellom cosinus og sinus](https://matematikkoppgaver.vercel.app/areal-mellom-cosinus-og-sinus/) | integral, areal under graf, trigonometri | × |
 | [1-3a](#oppgave-1-3a) | [Uendelig geometrisk rekke](https://matematikkoppgaver.vercel.app/uendelig-geometrisk-rekke/) | uendelig rekke, rekker | ✔︎ |
 | [1-3b](#oppgave-1-3b) | [Aritmetisk rekke](https://matematikkoppgaver.vercel.app/aritmetisk-rekke/) | rekker | ✔︎ |
-| [1-4](#oppgave-1-4) | [[Plan, normalvektor og avstand til punkt\|Plan, normalvektor og avstand til punkt]] | vektorer, geometri | × |
+| [1-4](#oppgave-1-4) | [Plan, normalvektor og avstand til punkt](https://matematikkoppgaver.vercel.app/plan-normalvektor-og-avstand-til-punkt/) | vektorer, geometri | × |
 | [1-5](#oppgave-1-5) | [Ukjent program h23](https://matematikkoppgaver.vercel.app/ukjent-program-h23/) | programmering | ✔︎ |
-| [1-6](#oppgave-1-6) | [[Areal av sideflaten i avkortet pyramide\|Areal av sideflaten i avkortet pyramide]] | vektorer, areal, geometri | × |
+| [1-6](#oppgave-1-6) | [Areal av sideflaten i avkortet pyramide](https://matematikkoppgaver.vercel.app/areal-av-sideflaten-i-avkortet-pyramide/) | vektorer, areal, geometri | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 
@@ -24,11 +24,11 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Tidevann og trigonometrisk modell\|Tidevann og trigonometrisk modell]] | trigonometri, modellering, derivasjon | × |
-| [2-2](#oppgave-2-2) | [[Pentagontall rekursiv og induksjon\|Pentagontall rekursiv og induksjon]] | figurtall, rekursiv sammenheng, programmering, bevis | × |
-| [2-3](#oppgave-2-3) | [[Volum av tønne ved integrasjon\|Volum av tønne ved integrasjon]] | integral, volum, omdreiningslegeme | × |
-| [2-4](#oppgave-2-4) | [[Luftforurensning og sinusfunksjon\|Luftforurensning og sinusfunksjon]] | trigonometri, modellering, funksjoner | × |
-| [2-5](#oppgave-2-5) | [[Vektorfunksjoner og smygplan\|Vektorfunksjoner og smygplan]] | vektorer, funksjoner, bevis | × |
+| [2-1](#oppgave-2-1) | [Tidevann og trigonometrisk modell](https://matematikkoppgaver.vercel.app/tidevann-og-trigonometrisk-modell/) | trigonometri, modellering, derivasjon | × |
+| [2-2](#oppgave-2-2) | [Pentagontall rekursiv og induksjon](https://matematikkoppgaver.vercel.app/pentagontall-rekursiv-og-induksjon/) | figurtall, rekursiv sammenheng, programmering, bevis | × |
+| [2-3](#oppgave-2-3) | [Volum av tønne ved integrasjon](https://matematikkoppgaver.vercel.app/volum-av-tonne-ved-integrasjon/) | integral, volum, omdreiningslegeme | × |
+| [2-4](#oppgave-2-4) | [Luftforurensning og sinusfunksjon](https://matematikkoppgaver.vercel.app/luftforurensning-og-sinusfunksjon/) | trigonometri, modellering, funksjoner | × |
+| [2-5](#oppgave-2-5) | [Vektorfunksjoner og smygplan](https://matematikkoppgaver.vercel.app/vektorfunksjoner-og-smygplan/) | vektorer, funksjoner, bevis | × |
 
 # Del 1
 

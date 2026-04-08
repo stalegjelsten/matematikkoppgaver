@@ -13,7 +13,7 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Kjøttdeig, pris og prosent](https://matematikkoppgaver.vercel.app/kjottdeig-pris-og-prosent/) | proporsjonalitet, prosentregning, tallregning | ✔︎ |
 | [1-2](#oppgave-1-2) | [Ole sin høyde og vekstdiagram](https://matematikkoppgaver.vercel.app/ole-sin-hoyde-og-vekstdiagram/) | tolke grafer, formler, tallregning | × |
 | [1-3](#oppgave-1-3) | [Brus i glass og daglig væskebehov](https://matematikkoppgaver.vercel.app/brus-i-glass-og-daglig-vaeskebehov/) | tallregning, proporsjonalitet | ✔︎ |
-| [1-4](#oppgave-1-4) | [[Antibiotika og dosering\|Antibiotika og dosering]] | formler, tallregning | × |
+| [1-4](#oppgave-1-4) | [Antibiotika og dosering](https://matematikkoppgaver.vercel.app/antibiotika-og-dosering/) | formler, tallregning | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 
@@ -21,9 +21,9 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Makspuls og alder\|Makspuls og alder]] | formler, tallregning | × |
-| [2-2](#oppgave-2-2) | [[Trygghetsalarm og velferdsteknologi\|Trygghetsalarm og velferdsteknologi]] | prosentregning, grafisk framstilling | × |
-| [2-3](#oppgave-2-3) | [[Næringsinnhold og energi i lunsj\|Næringsinnhold og energi i lunsj]] | formler, regneark | × |
+| [2-1](#oppgave-2-1) | [Makspuls og alder](https://matematikkoppgaver.vercel.app/makspuls-og-alder/) | formler, tallregning | × |
+| [2-2](#oppgave-2-2) | [Trygghetsalarm og velferdsteknologi](https://matematikkoppgaver.vercel.app/trygghetsalarm-og-velferdsteknologi/) | prosentregning, grafisk framstilling | × |
+| [2-3](#oppgave-2-3) | [Næringsinnhold og energi i lunsj](https://matematikkoppgaver.vercel.app/naeringsinnhold-og-energi-i-lunsj/) | formler, regneark | × |
 | [2-4](#oppgave-2-4) | [Fart, distanse og gjennomsnittsfart](https://matematikkoppgaver.vercel.app/fart-distanse-og-gjennomsnittsfart/) | formler, tallregning | × |
 | [2-5](#oppgave-2-5) | [Sara vurderer å kjøpe mopedbil](https://matematikkoppgaver.vercel.app/sara-vurderer-a-kjope-mopedbil/) | økonomi, prosentregning, lån, excel | × |
 

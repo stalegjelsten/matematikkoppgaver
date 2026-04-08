@@ -10,10 +10,10 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [1-1](#oppgave-1-1) | [[Derivasjon av eksponential og logaritme\|Derivasjon av eksponential og logaritme]] | derivasjon | ✔︎ |
+| [1-1](#oppgave-1-1) | [Derivasjon av eksponential og logaritme](https://matematikkoppgaver.vercel.app/derivasjon-av-eksponential-og-logaritme/) | derivasjon | ✔︎ |
 | [1-2](#oppgave-1-2) | [Grenseverdi når x går mot 2](https://matematikkoppgaver.vercel.app/grenseverdi-nar-x-gar-mot-2/) | grenseverdi, derivasjon, funksjoner, asymptoter | × |
-| [1-3](#oppgave-1-3) | [[Vinkler og vinkelrette vektorer\|Vinkler og vinkelrette vektorer]] | vektorer, geometri | × |
-| [1-4](#oppgave-1-4) | [[Optimering av rektangelareal og program\|Optimering av rektangelareal og program]] | optimering, programmering, derivasjon | × |
+| [1-3](#oppgave-1-3) | [Vinkler og vinkelrette vektorer](https://matematikkoppgaver.vercel.app/vinkler-og-vinkelrette-vektorer/) | vektorer, geometri | × |
+| [1-4](#oppgave-1-4) | [Optimering av rektangelareal og program](https://matematikkoppgaver.vercel.app/optimering-av-rektangelareal-og-program/) | optimering, programmering, derivasjon | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 
@@ -22,14 +22,14 @@ Table: {.eksamen-oversikt}
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Timelønn og lønnsvekst](https://matematikkoppgaver.vercel.app/timelonn-og-lonnsvekst/) | prosent, eksponentialfunksjoner, regresjon, økonomi | × |
-| [2-2](#oppgave-2-2) | [[Parallellogram og vektorer\|Parallellogram og vektorer]] | vektorer, geometri | × |
+| [2-2](#oppgave-2-2) | [Parallellogram og vektorer](https://matematikkoppgaver.vercel.app/parallellogram-og-vektorer/) | vektorer, geometri | × |
 | [2-3](#oppgave-2-3) | [Logaritmepåstand](https://matematikkoppgaver.vercel.app/logaritmepastand/) | logaritmer | × |
 | [2-3](#oppgave-2-3) | [Har alle fjerdegradsfunksjoner ekstremalpunkt](https://matematikkoppgaver.vercel.app/har-alle-fjerdegradsfunksjoner-ekstremalpunkt/) | funksjoner, funksjonsdrøfting | × |
-| [2-3](#oppgave-2-3) | [[Avgjør påstander om funksjoner\|Avgjør påstander om funksjoner]] | funksjoner, logaritmer, derivasjon | × |
-| [2-4](#oppgave-2-4) | [[Omvendt funksjon fra grafer\|Omvendt funksjon fra grafer]] | funksjoner, tolke grafer, omvendte funksjoner | × |
+| [2-3](#oppgave-2-3) | [Avgjør påstander om funksjoner](https://matematikkoppgaver.vercel.app/avgjor-pastander-om-funksjoner/) | funksjoner, logaritmer, derivasjon | × |
+| [2-4](#oppgave-2-4) | [Omvendt funksjon fra grafer](https://matematikkoppgaver.vercel.app/omvendt-funksjon-fra-grafer/) | funksjoner, tolke grafer, omvendte funksjoner | × |
 | [2-5](#oppgave-2-5) | [Lydstyrke fra fly](https://matematikkoppgaver.vercel.app/lydstyrke-fra-fly/) | formler, cas, logaritmer | × |
-| [2-6](#oppgave-2-6) | [[Avstand fra punkt til linje og graf\|Avstand fra punkt til linje og graf]] | vektorer, geometri, optimering, derivasjon | × |
-| [2-7](#oppgave-2-7) | [[Gjennomsnitt med algoritme og program\|Gjennomsnitt med algoritme og program]] | programmering, gjennomsnitt, integral | × |
+| [2-6](#oppgave-2-6) | [Avstand fra punkt til linje og graf](https://matematikkoppgaver.vercel.app/avstand-fra-punkt-til-linje-og-graf/) | vektorer, geometri, optimering, derivasjon | × |
+| [2-7](#oppgave-2-7) | [Gjennomsnitt med algoritme og program](https://matematikkoppgaver.vercel.app/gjennomsnitt-med-algoritme-og-program/) | programmering, gjennomsnitt, integral | × |
 
 # Del 1
 

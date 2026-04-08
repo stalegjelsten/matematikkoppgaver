@@ -13,8 +13,8 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Enhetspris og sparing på ris](https://matematikkoppgaver.vercel.app/enhetspris-og-sparing-pa-ris/) | enhetskostnad, prosentregning, økonomi | × |
 | [1-2](#oppgave-1-2) | [Kvadratrotformel og mobilading](https://matematikkoppgaver.vercel.app/kvadratrotformel-og-mobilading/) | røtter, formler, algebra | ✔︎ |
 | [1-3](#oppgave-1-3) | [Kennys lån](https://matematikkoppgaver.vercel.app/kennys-lan/) | lån | ✔︎ |
-| [1-4](#oppgave-1-4) | [[Reisevei og median i klasse\|Reisevei og median i klasse]] | median, statistikk | × |
-| [1-5](#oppgave-1-5) | [[Teodor og Emilie om sokker\|Teodor og Emilie om sokker]] | prosentregning, økonomi | × |
+| [1-4](#oppgave-1-4) | [Reisevei og median i klasse](https://matematikkoppgaver.vercel.app/reisevei-og-median-i-klasse/) | median, statistikk | × |
+| [1-5](#oppgave-1-5) | [Teodor og Emilie om sokker](https://matematikkoppgaver.vercel.app/teodor-og-emilie-om-sokker/) | prosentregning, økonomi | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 
@@ -22,8 +22,8 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Godt Stekt restaurant og pizzasalg\|Godt Stekt restaurant og pizzasalg]] | diagram, mva, regneark, økonomi | × |
-| [2-2](#oppgave-2-2) | [[Even og Alma om bilsalg\|Even og Alma om bilsalg]] | prosentvis endring, diagram, grafisk framstilling, priskalkulering | × |
+| [2-1](#oppgave-2-1) | [Godt Stekt restaurant og pizzasalg](https://matematikkoppgaver.vercel.app/godt-stekt-restaurant-og-pizzasalg/) | diagram, mva, regneark, økonomi | × |
+| [2-2](#oppgave-2-2) | [Even og Alma om bilsalg](https://matematikkoppgaver.vercel.app/even-og-alma-om-bilsalg/) | prosentvis endring, diagram, grafisk framstilling, priskalkulering | × |
 | [2-3](#oppgave-2-3) | [Alis lån til bedriften](https://matematikkoppgaver.vercel.app/alis-lan-til-bedriften/) | lån, excel | × |
 | [2-4](#oppgave-2-4) | [Energisammenlikning ved og strøm](https://matematikkoppgaver.vercel.app/energisammenlikning-ved-og-strom/) | enhetskostnad, økonomi, formler | ✔︎ |
 | [2-5](#oppgave-2-5) | [Lønnsalternativer ved avissalg](https://matematikkoppgaver.vercel.app/lonnsalternativer-ved-avissalg/) | lineær vekst, funksjoner, økonomi | × |

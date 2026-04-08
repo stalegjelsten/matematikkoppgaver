@@ -13,7 +13,7 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Kjøttdeig, pris og prosent](https://matematikkoppgaver.vercel.app/kjottdeig-pris-og-prosent/) | proporsjonalitet, prosentregning, tallregning | ✔︎ |
 | [1-2](#oppgave-1-2) | [Ole sin høyde og vekstdiagram](https://matematikkoppgaver.vercel.app/ole-sin-hoyde-og-vekstdiagram/) | tolke grafer, formler, tallregning | × |
 | [1-3](#oppgave-1-3) | [Brus i glass og daglig væskebehov](https://matematikkoppgaver.vercel.app/brus-i-glass-og-daglig-vaeskebehov/) | tallregning, proporsjonalitet | ✔︎ |
-| [1-4](#oppgave-1-4) | [[Betonggulv og meterstokk\|Betonggulv og meterstokk]] | volum, måleenheter | × |
+| [1-4](#oppgave-1-4) | [Betonggulv og meterstokk](https://matematikkoppgaver.vercel.app/betonggulv-og-meterstokk/) | volum, måleenheter | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 
@@ -21,9 +21,9 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Materialkostnader og påbygg\|Materialkostnader og påbygg]] | prosentregning, regneark | × |
-| [2-2](#oppgave-2-2) | [[Takstol til garasje\|Takstol til garasje]] | trigonometri, geometri | × |
-| [2-3](#oppgave-2-3) | [[Bordplate av eik og massetetthet\|Bordplate av eik og massetetthet]] | volum, formler | × |
+| [2-1](#oppgave-2-1) | [Materialkostnader og påbygg](https://matematikkoppgaver.vercel.app/materialkostnader-og-pabygg/) | prosentregning, regneark | × |
+| [2-2](#oppgave-2-2) | [Takstol til garasje](https://matematikkoppgaver.vercel.app/takstol-til-garasje/) | trigonometri, geometri | × |
+| [2-3](#oppgave-2-3) | [Bordplate av eik og massetetthet](https://matematikkoppgaver.vercel.app/bordplate-av-eik-og-massetetthet/) | volum, formler | × |
 | [2-4](#oppgave-2-4) | [Fart, distanse og gjennomsnittsfart](https://matematikkoppgaver.vercel.app/fart-distanse-og-gjennomsnittsfart/) | formler, tallregning | × |
 | [2-5](#oppgave-2-5) | [Sara vurderer å kjøpe mopedbil](https://matematikkoppgaver.vercel.app/sara-vurderer-a-kjope-mopedbil/) | økonomi, prosentregning, lån, excel | × |
 

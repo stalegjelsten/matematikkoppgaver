@@ -13,8 +13,8 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Enhetspris og sparing på ris](https://matematikkoppgaver.vercel.app/enhetspris-og-sparing-pa-ris/) | enhetskostnad, prosentregning, økonomi | × |
 | [1-2](#oppgave-1-2) | [Kvadratrotformel og mobilading](https://matematikkoppgaver.vercel.app/kvadratrotformel-og-mobilading/) | røtter, formler, algebra | ✔︎ |
 | [1-3](#oppgave-1-3) | [Kennys lån](https://matematikkoppgaver.vercel.app/kennys-lan/) | lån | ✔︎ |
-| [1-4](#oppgave-1-4) | [[Rom med skråtak og volum\|Rom med skråtak og volum]] | geometri, volum | × |
-| [1-5](#oppgave-1-5) | [[Gatekunstner og kvadratiske fliser\|Gatekunstner og kvadratiske fliser]] | areal, proporsjonalitet, måleenheter | × |
+| [1-4](#oppgave-1-4) | [Rom med skråtak og volum](https://matematikkoppgaver.vercel.app/rom-med-skratak-og-volum/) | geometri, volum | × |
+| [1-5](#oppgave-1-5) | [Gatekunstner og kvadratiske fliser](https://matematikkoppgaver.vercel.app/gatekunstner-og-kvadratiske-fliser/) | areal, proporsjonalitet, måleenheter | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 
@@ -22,7 +22,7 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[KI-modeller og strømforbruk\|KI-modeller og strømforbruk]] | formler, regneark, diagram | × |
+| [2-1](#oppgave-2-1) | [KI-modeller og strømforbruk](https://matematikkoppgaver.vercel.app/ki-modeller-og-stromforbruk/) | formler, regneark, diagram | × |
 | [2-2](#oppgave-2-2) | [Overføringshastighet og digitale data](https://matematikkoppgaver.vercel.app/overforingshastighet-og-digitale-data/) | bits og bytes, store tall, tallregning | × |
 | [2-3](#oppgave-2-3) | [Alis lån til bedriften](https://matematikkoppgaver.vercel.app/alis-lan-til-bedriften/) | lån, excel | × |
 | [2-4](#oppgave-2-4) | [Energisammenlikning ved og strøm](https://matematikkoppgaver.vercel.app/energisammenlikning-ved-og-strom/) | enhetskostnad, økonomi, formler | ✔︎ |

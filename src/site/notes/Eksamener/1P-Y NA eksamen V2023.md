@@ -13,7 +13,7 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Prisformel sparkesykkel](https://matematikkoppgaver.vercel.app/prisformel-sparkesykkel/) | lineær vekst, formler, likninger | ✔︎ |
 | [1-2](#oppgave-1-2) | [Sammenligne priser på hundemat](https://matematikkoppgaver.vercel.app/sammenligne-priser-pa-hundemat/) | proporsjonalitet, prosentregning, enhetskostnad | ✔︎ |
 | [1-3](#oppgave-1-3) | [Prosentvis prisforskjell sjokolade](https://matematikkoppgaver.vercel.app/prosentvis-prisforskjell-sjokolade/) | prosentregning, prosentvis endring, argumentasjon | ✔︎ |
-| [1-4](#oppgave-1-4) | [[Kopplam kjølekonteiner og sjøkart\|Kopplam kjølekonteiner og sjøkart]] | måleenheter, volum, målestokk | × |
+| [1-4](#oppgave-1-4) | [Kopplam kjølekonteiner og sjøkart](https://matematikkoppgaver.vercel.app/kopplam-kjolekonteiner-og-sjokart/) | måleenheter, volum, målestokk | × |
 
 **Del 2** — None timer — med hjelpemidler
 
@@ -21,9 +21,9 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Flo og fjære og lufteområde for hester\|Flo og fjære og lufteområde for hester]] | Pytagoras, areal, omkrets | × |
-| [2-2](#oppgave-2-2) | [[Fiskebåt regnskap og fangst\|Fiskebåt regnskap og fangst]] | regneark, økonomi, presentasjon av data | × |
-| [2-3](#oppgave-2-3) | [[Lærlinglønn i fire halvår\|Lærlinglønn i fire halvår]] | prosentregning, økonomi | × |
+| [2-1](#oppgave-2-1) | [Flo og fjære og lufteområde for hester](https://matematikkoppgaver.vercel.app/flo-og-fjaere-og-lufteomrade-for-hester/) | Pytagoras, areal, omkrets | × |
+| [2-2](#oppgave-2-2) | [Fiskebåt regnskap og fangst](https://matematikkoppgaver.vercel.app/fiskebat-regnskap-og-fangst/) | regneark, økonomi, presentasjon av data | × |
+| [2-3](#oppgave-2-3) | [Lærlinglønn i fire halvår](https://matematikkoppgaver.vercel.app/laerlinglonn-i-fire-halvar/) | prosentregning, økonomi | × |
 | [2-4](#oppgave-2-4) | [Ludvigs dusjregnskap](https://matematikkoppgaver.vercel.app/ludvigs-dusjregnskap/) | excel | ✔︎ |
 | [2-5](#oppgave-2-5) | [Martines studielån](https://matematikkoppgaver.vercel.app/martines-studielan/) | lån, excel | ✔︎ |
 

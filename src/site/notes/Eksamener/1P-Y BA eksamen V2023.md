@@ -13,7 +13,7 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Prisformel sparkesykkel](https://matematikkoppgaver.vercel.app/prisformel-sparkesykkel/) | lineær vekst, formler, likninger | ✔︎ |
 | [1-2](#oppgave-1-2) | [Sammenligne priser på hundemat](https://matematikkoppgaver.vercel.app/sammenligne-priser-pa-hundemat/) | proporsjonalitet, prosentregning, enhetskostnad | ✔︎ |
 | [1-3](#oppgave-1-3) | [Prosentvis prisforskjell sjokolade](https://matematikkoppgaver.vercel.app/prosentvis-prisforskjell-sjokolade/) | prosentregning, prosentvis endring, argumentasjon | ✔︎ |
-| [1-4](#oppgave-1-4) | [[Lasermåling og målestokk\|Lasermåling og målestokk]] | måleenheter, målestokk | × |
+| [1-4](#oppgave-1-4) | [Lasermåling og målestokk](https://matematikkoppgaver.vercel.app/lasermaling-og-malestokk/) | måleenheter, målestokk | × |
 
 **Del 2** — None timer — med hjelpemidler
 
@@ -21,9 +21,9 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Endevegg hus areal og takvinkel\|Endevegg hus areal og takvinkel]] | areal, trigonometri | × |
-| [2-2](#oppgave-2-2) | [[Terrassebygning og pristilbud\|Terrassebygning og pristilbud]] | regneark, anbud, økonomi | × |
-| [2-3](#oppgave-2-3) | [[Lærlinglønn i fire halvår\|Lærlinglønn i fire halvår]] | prosentregning, økonomi | × |
+| [2-1](#oppgave-2-1) | [Endevegg hus areal og takvinkel](https://matematikkoppgaver.vercel.app/endevegg-hus-areal-og-takvinkel/) | areal, trigonometri | × |
+| [2-2](#oppgave-2-2) | [Terrassebygning og pristilbud](https://matematikkoppgaver.vercel.app/terrassebygning-og-pristilbud/) | regneark, anbud, økonomi | × |
+| [2-3](#oppgave-2-3) | [Lærlinglønn i fire halvår](https://matematikkoppgaver.vercel.app/laerlinglonn-i-fire-halvar/) | prosentregning, økonomi | × |
 | [2-4](#oppgave-2-4) | [Ludvigs dusjregnskap](https://matematikkoppgaver.vercel.app/ludvigs-dusjregnskap/) | excel | ✔︎ |
 | [2-5](#oppgave-2-5) | [Martines studielån](https://matematikkoppgaver.vercel.app/martines-studielan/) | lån, excel | ✔︎ |
 

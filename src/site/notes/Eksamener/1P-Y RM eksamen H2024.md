@@ -13,8 +13,8 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Plantejord fra to butikker](https://matematikkoppgaver.vercel.app/plantejord-fra-to-butikker/) | prosentregning, enhetskostnad, økonomi | ✔︎ |
 | [1-2](#oppgave-1-2) | [Størst prosentvis prisøkning](https://matematikkoppgaver.vercel.app/storst-prosentvis-prisokning/) | prosentregning, prosentvis endring | ✔︎ |
 | [1-3](#oppgave-1-3) | [Merverdiavgift i Frankrike](https://matematikkoppgaver.vercel.app/merverdiavgift-i-frankrike/) | formler, prosentregning | ✔︎ |
-| [1-4](#oppgave-1-4) | [[Restaurant og fortjenestemargin\|Restaurant og fortjenestemargin]] | økonomi, formler, prosentregning | × |
-| [1-5](#oppgave-1-5) | [[Minstelønn for kokker og påstander\|Minstelønn for kokker og påstander]] | diagrammer, økonomi, argumentasjon | × |
+| [1-4](#oppgave-1-4) | [Restaurant og fortjenestemargin](https://matematikkoppgaver.vercel.app/restaurant-og-fortjenestemargin/) | økonomi, formler, prosentregning | × |
+| [1-5](#oppgave-1-5) | [Minstelønn for kokker og påstander](https://matematikkoppgaver.vercel.app/minstelonn-for-kokker-og-pastander/) | diagrammer, økonomi, argumentasjon | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 
@@ -22,8 +22,8 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Catering til bryllupsfest\|Catering til bryllupsfest]] | økonomi, mva, regneark | × |
-| [2-2](#oppgave-2-2) | [[Viktor og måltidskostnader på sykehjem\|Viktor og måltidskostnader på sykehjem]] | økonomi, regneark, prosentregning | × |
+| [2-1](#oppgave-2-1) | [Catering til bryllupsfest](https://matematikkoppgaver.vercel.app/catering-til-bryllupsfest/) | økonomi, mva, regneark | × |
+| [2-2](#oppgave-2-2) | [Viktor og måltidskostnader på sykehjem](https://matematikkoppgaver.vercel.app/viktor-og-maltidskostnader-pa-sykehjem/) | økonomi, regneark, prosentregning | × |
 | [2-3](#oppgave-2-3) | [Eriks bilbruk](https://matematikkoppgaver.vercel.app/eriks-bilbruk/) | excel, økonomi, formler | ✔︎ |
 | [2-4](#oppgave-2-4) | [Reise til Gran Canaria](https://matematikkoppgaver.vercel.app/reise-til-gran-canaria/) | excel, lån, kredittkort, oversikt | ✔︎ |
 

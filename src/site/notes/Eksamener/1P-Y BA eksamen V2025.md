@@ -13,8 +13,8 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Enhetspris og sparing på ris](https://matematikkoppgaver.vercel.app/enhetspris-og-sparing-pa-ris/) | enhetskostnad, prosentregning, økonomi | × |
 | [1-2](#oppgave-1-2) | [Kvadratrotformel og mobilading](https://matematikkoppgaver.vercel.app/kvadratrotformel-og-mobilading/) | røtter, formler, algebra | ✔︎ |
 | [1-3](#oppgave-1-3) | [Kennys lån](https://matematikkoppgaver.vercel.app/kennys-lan/) | lån | ✔︎ |
-| [1-4](#oppgave-1-4) | [[Parkbenk og svinn av terrassebord\|Parkbenk og svinn av terrassebord]] | prosentregning, geometri | × |
-| [1-5](#oppgave-1-5) | [[Male veggen med fire farger\|Male veggen med fire farger]] | areal, prosentregning, diagram | × |
+| [1-4](#oppgave-1-4) | [Parkbenk og svinn av terrassebord](https://matematikkoppgaver.vercel.app/parkbenk-og-svinn-av-terrassebord/) | prosentregning, geometri | × |
+| [1-5](#oppgave-1-5) | [Male veggen med fire farger](https://matematikkoppgaver.vercel.app/male-veggen-med-fire-farger/) | areal, prosentregning, diagram | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 
@@ -22,8 +22,8 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Takstol og trekant ABC\|Takstol og trekant ABC]] | geometri, trigonometri, målestokk | × |
-| [2-2](#oppgave-2-2) | [[Anitas betongstøp og tilbud\|Anitas betongstøp og tilbud]] | volum, økonomi, excel | × |
+| [2-1](#oppgave-2-1) | [Takstol og trekant ABC](https://matematikkoppgaver.vercel.app/takstol-og-trekant-abc/) | geometri, trigonometri, målestokk | × |
+| [2-2](#oppgave-2-2) | [Anitas betongstøp og tilbud](https://matematikkoppgaver.vercel.app/anitas-betongstop-og-tilbud/) | volum, økonomi, excel | × |
 | [2-3](#oppgave-2-3) | [Alis lån til bedriften](https://matematikkoppgaver.vercel.app/alis-lan-til-bedriften/) | lån, excel | × |
 | [2-4](#oppgave-2-4) | [Energisammenlikning ved og strøm](https://matematikkoppgaver.vercel.app/energisammenlikning-ved-og-strom/) | enhetskostnad, økonomi, formler | ✔︎ |
 | [2-5](#oppgave-2-5) | [Lønnsalternativer ved avissalg](https://matematikkoppgaver.vercel.app/lonnsalternativer-ved-avissalg/) | lineær vekst, funksjoner, økonomi | × |
