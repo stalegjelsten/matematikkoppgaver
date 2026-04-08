@@ -1,10 +1,10 @@
 ---
-{"tags":["eksamen"],"fag":["r1"],"eksamen":"v23","date":"2023-05-23","del1_tid":2,"del2_tid":3,"title":"R1 eksamen V2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/r1-eksamen-v2023/","permalink":"/eksamener/r1-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r1"],"eksamen":"v23","date":"2023-05-23","del1_tid":2,"del2_tid":3,"title":"R1 eksamen V2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
+{"tags":["eksamen"],"fag":["r1"],"eksamen":"v23","date":"2023-05-23","del1_tid":1,"del2_tid":4,"title":"R1 eksamen V2023","author":"matematikkoppgaver.vercel.app","dg-publish":true,"showheader":true,"contentClasses":"eksamen-side","dg-permalink":"/eksamener/r1-eksamen-v2023/","permalink":"/eksamener/r1-eksamen-v2023/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["eksamen"],"fag":["r1"],"eksamen":"v23","date":"2023-05-23","del1_tid":1,"del2_tid":4,"title":"R1 eksamen V2023","author":"matematikkoppgaver.vercel.app","showheader":true,"contentClasses":"eksamen-side"}}
 ---
 
 # Oversikt over eksamensoppgavene
 
-**Del 1** — 2 timer — uten hjelpemidler
+**Del 1** — 1 time — uten hjelpemidler
 
 Table: {.eksamen-oversikt}
 
@@ -15,7 +15,7 @@ Table: {.eksamen-oversikt}
 | [1-3](#oppgave-1-3) | [Vinkler og vinkelrette vektorer](https://matematikkoppgaver.vercel.app/vinkler-og-vinkelrette-vektorer/) | vektorer, geometri | × |
 | [1-4](#oppgave-1-4) | [Optimering av rektangelareal og program](https://matematikkoppgaver.vercel.app/optimering-av-rektangelareal-og-program/) | optimering, programmering, derivasjon | × |
 
-**Del 2** — 3 timer — med hjelpemidler
+**Del 2** — 4 timer — med hjelpemidler
 
 Table: {.eksamen-oversikt}
 
