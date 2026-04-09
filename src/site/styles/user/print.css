@@ -106,21 +106,18 @@
     mix-blend-mode: normal !important;
   }
 
+  .callout {
+    background: transparent !important;
+    background-color: transparent !important;
+  }
+
   .callout[data-callout="oppgave"] {
-    background: #f5f5f5 !important;
     border-left: 3px solid #333 !important;
   }
 
   .callout[data-callout="oppgave"]::before,
   .callout[data-callout="oppgave"]::after {
     display: none;
-  }
-
-  .callout[data-callout="green-box"],
-  .callout[data-callout="blue-box"],
-  .callout[data-callout="yellow-box"] {
-    -webkit-print-color-adjust: exact;
-    print-color-adjust: exact;
   }
 
   /* --- Kodeblokker --- */
