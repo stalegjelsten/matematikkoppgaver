@@ -24,8 +24,8 @@ Table: {.eksamen-oversikt}
 | [2-1](#oppgave-2-1) | [Helsefagarbeidere kvinner og menn](https://matematikkoppgaver.vercel.app/helsefagarbeidere-kvinner-og-menn/) | grafisk framstilling, prosentregning | × |
 | [2-2](#oppgave-2-2) | [Hjemmetjeneste og medisindispensere](https://matematikkoppgaver.vercel.app/hjemmetjeneste-og-medisindispensere/) | regneark, økonomi, prosentregning | × |
 | [2-3](#oppgave-2-3) | [Næringsinnhold og energi i frokost](https://matematikkoppgaver.vercel.app/naeringsinnhold-og-energi-i-frokost/) | regneark, økonomi, formler | × |
-| [2-4](#oppgave-2-4) | [Ludvigs dusjregnskap](https://matematikkoppgaver.vercel.app/ludvigs-dusjregnskap/) | excel | ✔︎ |
-| [2-5](#oppgave-2-5) | [Martines studielån](https://matematikkoppgaver.vercel.app/martines-studielan/) | lån, excel | ✔︎ |
+| [2-4](#oppgave-2-4) | [Ludvigs dusjregnskap](https://matematikkoppgaver.vercel.app/ludvigs-dusjregnskap/) | excel, økonomi | ✔︎ |
+| [2-5](#oppgave-2-5) | [Martines studielån](https://matematikkoppgaver.vercel.app/martines-studielan/) | lån, excel, prosentregning | ✔︎ |
 
 # Del 1
 
@@ -254,7 +254,6 @@ I Lilleputt barnehage er alle barna under tre år.
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -295,7 +294,6 @@ En elev lurer på hvor mange prosent økning det var i antall menn med jobb som 
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -343,7 +341,6 @@ Kommunen ønsker å ta i bruk elektroniske medisindispensere for å redusere kos
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -403,7 +400,6 @@ Beboeren drikker ett glass med $200 \mathrm{~g}$ appelsinjuice til frokost.
 
 
 ## Løsningsforslag
-
 
 </div></div>
 

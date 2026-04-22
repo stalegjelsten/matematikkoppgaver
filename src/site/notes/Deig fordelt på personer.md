@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-05-23","modified":"2023-05-23","aliases":[],"dg-publish":true,"temaer":["grafisk framstilling","proporsjonalitet","funksjoner"],"fag":["2p-y"],"eksamen":"v23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":2}],"title":"Deig fordelt på personer","source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"status":3,"dg-permalink":"/deig-fordelt-pa-personer/","permalink":"/deig-fordelt-pa-personer/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-05-23","modified":"2023-05-23","aliases":[],"temaer":["grafisk framstilling","proporsjonalitet","funksjoner"],"fag":["2p-y"],"eksamen":"v23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":2}],"title":"Deig fordelt på personer","source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"status":3}}
+{"tags":["oppgave"],"date":"2023-05-23","modified":"2023-05-23","aliases":[],"dg-publish":true,"temaer":["grafisk framstilling","proporsjonalitet","funksjoner"],"fag":["2p-y"],"eksamen":"v23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":2}],"title":"Deig fordelt på personer","source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"status":3,"kategori":2,"vanskegrad":1,"beskrivelse":"Sette opp og tegne graf for omvendt proporsjonal funksjon $f(x)=6/x$ for deig per person.","dg-permalink":"/deig-fordelt-pa-personer/","lf-source-claude":false,"permalink":"/deig-fordelt-pa-personer/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-05-23","modified":"2023-05-23","aliases":[],"temaer":["grafisk framstilling","proporsjonalitet","funksjoner"],"fag":["2p-y"],"eksamen":"v23","del":1,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":2}],"title":"Deig fordelt på personer","source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"status":3,"kategori":2,"vanskegrad":1,"beskrivelse":"Sette opp og tegne graf for omvendt proporsjonal funksjon $f(x)=6/x$ for deig per person.","lf-source-claude":false}}
 ---
 
 
@@ -11,7 +11,7 @@ Lag en grafisk framstilling som viser sammenhengen mellom hvor mange personer so
 
 ## Fasit
 
-Graf av $f(x) = \frac{6}{x}$ (omvendt proporsjonal kurve).
+Se løsningsforlsaget
 
 ## Løsningsforslag
 
@@ -21,8 +21,13 @@ $$
 f(x) = \frac{6}{x}
 $$
 
+Vi lager en enkel verditabell ved å doble $x$-verdiene og halvere $y$-verdiene.
+
+|  $x$   |  1  |  2  |  4  |  8   |
+| :----: | :-: | :-: | :-: | :--: |
+| $f(x)$ |  6  |  3  | 1,5 | 0,75 |
+
+
 Nedenfor ser du en grafisk framstilling av sammenhengen:
 
-![Graf for oppgave 1-2](/img/user/_resources/2p-y-v23-1-2-graf.png){width=70%}
-
-Jo flere personer som baker, jo mindre deig får hver person. Kurven er en omvendt proporsjonal funksjon.
+![Graf for oppgave 1-2](/img/user/_resources/2py-v23-1-2.png){width=50%}

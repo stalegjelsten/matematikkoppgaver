@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["sannsynlighet"],"fag":["s1"],"eksamen":"h24","del":2,"oppgave":7,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":7}],"poeng":2,"title":"Sannsynlighet for covid med positiv test","status":3,"source":null,"todo":null,"dg-permalink":"/sannsynlighet-for-covid-med-positiv-test/","permalink":"/sannsynlighet-for-covid-med-positiv-test/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["sannsynlighet"],"fag":["s1"],"eksamen":"h24","del":2,"oppgave":7,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":7}],"poeng":2,"title":"Sannsynlighet for covid med positiv test","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["sannsynlighet"],"fag":["s1"],"eksamen":"h24","del":2,"oppgave":7,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":7}],"poeng":2,"title":"Sannsynlighet for covid med positiv test","status":3,"source":null,"todo":null,"kategori":3,"vanskegrad":3,"beskrivelse":"Betinget sannsynlighet (Bayes): $P(\\text{smittet} \\mid \\text{positiv test})$ fra testens spesifisitet og prevalens i befolkningen.","dg-permalink":"/sannsynlighet-for-covid-med-positiv-test/","permalink":"/sannsynlighet-for-covid-med-positiv-test/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["sannsynlighet"],"fag":["s1"],"eksamen":"h24","del":2,"oppgave":7,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":7}],"poeng":2,"title":"Sannsynlighet for covid med positiv test","status":3,"source":null,"todo":null,"kategori":3,"vanskegrad":3,"beskrivelse":"Betinget sannsynlighet (Bayes): $P(\\text{smittet} \\mid \\text{positiv test})$ fra testens spesifisitet og prevalens i befolkningen."}}
 ---
 
 
@@ -17,6 +17,7 @@ Anta at 99 % av befolkningen ikke er smittet. En tilfeldig valgt person tar en t
 
 ## Fasit
 
+Sannsynligheten er $\frac{1}{3} \approx 33{,}3 \, \%$.
 
 ## Løsningsforslag
 

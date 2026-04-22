@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"temaer":["trigonometri","algebra"],"alias":[null],"del":1,"oppgave":1,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":1}],"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Begrunn hvorfor sin² u + cos² u = 1","date":"2023-05-31","modified":"2023-05-31","status":3,"dg-permalink":"/begrunn-hvorfor-sin2-u-cos2-u-1/","permalink":"/begrunn-hvorfor-sin2-u-cos2-u-1/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"temaer":["trigonometri","algebra"],"alias":[null],"del":1,"oppgave":1,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":1}],"fag":"1t","eksamen":"v23","title":"Begrunn hvorfor sin² u + cos² u = 1","date":"2023-05-31","modified":"2023-05-31","status":3}}
+{"tags":["oppgave"],"temaer":["trigonometri","algebra"],"alias":[null],"del":1,"oppgave":1,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":1}],"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Begrunn hvorfor sin² u + cos² u = 1","date":"2023-05-31","modified":"2023-05-31","status":3,"kategori":3,"vanskegrad":2,"beskrivelse":"Bevise at $(\\sin u)^2 + (\\cos u)^2 = 1$ ved å sette inn sinus og cosinus for en 8-6-10-trekant og bruke Pytagoras.","dg-permalink":"/begrunn-hvorfor-sin2-u-cos2-u-1/","permalink":"/begrunn-hvorfor-sin2-u-cos2-u-1/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"temaer":["trigonometri","algebra"],"alias":[null],"del":1,"oppgave":1,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":1}],"fag":"1t","eksamen":"v23","title":"Begrunn hvorfor sin² u + cos² u = 1","date":"2023-05-31","modified":"2023-05-31","status":3,"kategori":3,"vanskegrad":2,"beskrivelse":"Bevise at $(\\sin u)^2 + (\\cos u)^2 = 1$ ved å sette inn sinus og cosinus for en 8-6-10-trekant og bruke Pytagoras."}}
 ---
 
 [[trigonometri\|trigonometri]] [[algebra\|algebra]] 
@@ -65,6 +65,7 @@ $$
 
 ## Fasit
 
+Oppgaven er et bevis. Se løsningsforslag.
 
 ## Løsningsforslag
 

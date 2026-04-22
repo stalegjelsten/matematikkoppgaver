@@ -10,9 +10,9 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [1-1](#oppgave-1-1) | [Bestemt integral og areal](https://matematikkoppgaver.vercel.app/bestemt-integral-og-areal/) | integral, areal under graf | ✔︎ |
+| [1-1](#oppgave-1-1) | [Bestemt integral og areal](https://matematikkoppgaver.vercel.app/bestemt-integral-og-areal/) | integral, areal under graf, bestemt integral | ✔︎ |
 | [1-2](#oppgave-1-2) | [Ubestemt integral med substitusjon](https://matematikkoppgaver.vercel.app/ubestemt-integral-med-substitusjon/) | integral | × |
-| [1-3](#oppgave-1-3) | [Ukjent program S2 v24](https://matematikkoppgaver.vercel.app/ukjent-program-s2-v24/) | programmering, rekker | ✔︎ |
+| [1-3](#oppgave-1-3) | [Ukjent program S2 v24](https://matematikkoppgaver.vercel.app/ukjent-program-s2-v24/) | programmering, rekker, aritmetisk rekke | ✔︎ |
 | [1-4](#oppgave-1-4) | [Trekant og plan i rommet](https://matematikkoppgaver.vercel.app/trekant-og-plan-i-rommet/) | vektorer, geometri | × |
 | [1-5](#oppgave-1-5) | [Sinusfunksjon og egenskaper](https://matematikkoppgaver.vercel.app/sinusfunksjon-og-egenskaper/) | trigonometri, funksjoner | × |
 

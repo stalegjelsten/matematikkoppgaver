@@ -16,7 +16,7 @@ Table: {.eksamen-oversikt}
 | [1-4](#oppgave-1-4) | [Prosentvis framgang for to partier](https://matematikkoppgaver.vercel.app/prosentvis-framgang-for-to-partier/) | prosent | ✔︎ |
 | [1-5](#oppgave-1-5) | [Få størst mulig svar](https://matematikkoppgaver.vercel.app/fa-storst-mulig-svar/) | potensregning | ✔︎ |
 | [1-6](#oppgave-1-6) | [Figurtall 2PY v2025](https://matematikkoppgaver.vercel.app/figurtall-2-py-v2025/) | figurtall | ✔︎ |
-| [1-7](#oppgave-1-7) | [Median og gjennomsnitt fra klassedelt alder](https://matematikkoppgaver.vercel.app/median-og-gjennomsnitt-fra-klassedelt-alder/) | sentralmål | ✔︎ |
+| [1-7](#oppgave-1-7) | [Median og gjennomsnitt fra klassedelt alder](https://matematikkoppgaver.vercel.app/median-og-gjennomsnitt-fra-klassedelt-alder/) | sentralmål, gjennomsnitt, grupperte data, argumentasjon | ✔︎ |
 | [1-8](#oppgave-1-8) | [Program for reduksjon av matsvinn](https://matematikkoppgaver.vercel.app/program-for-reduksjon-av-matsvinn/) | programmering, eksponentialfunksjoner | ✔︎ |
 
 **Del 2** — 3 timer — med hjelpemidler
@@ -30,8 +30,8 @@ Table: {.eksamen-oversikt}
 | [2-3](#oppgave-2-3) | [Påstander om gjennomsnitt og median i et rom](https://matematikkoppgaver.vercel.app/pastander-om-gjennomsnitt-og-median-i-et-rom/) | sentralmål | ✔︎ |
 | [2-4](#oppgave-2-4) | [Proporsjonal pris på antibac](https://matematikkoppgaver.vercel.app/proporsjonal-pris-pa-antibac/) | proporsjonalitet | ✔︎ |
 | [2-5](#oppgave-2-5) | [Modell for lengde av skjerf](https://matematikkoppgaver.vercel.app/modell-for-lengde-av-skjerf/) | modellering | ✔︎ |
-| [2-6](#oppgave-2-6) | [Halvert fuglebestand](https://matematikkoppgaver.vercel.app/halvert-fuglebestand/) | eksponentialfunksjoner | ✔︎ |
-| [2-7](#oppgave-2-7) | [Lag presentasjon som viser døds- og fødselsrate](https://matematikkoppgaver.vercel.app/lag-presentasjon-som-viser-dods-og-fodselsrate/) | presentasjon av data | ✔︎ |
+| [2-6](#oppgave-2-6) | [Halvert fuglebestand](https://matematikkoppgaver.vercel.app/halvert-fuglebestand/) | eksponentialfunksjoner, regresjon, vekstfaktor | ✔︎ |
+| [2-7](#oppgave-2-7) | [Lag presentasjon som viser døds- og fødselsrate](https://matematikkoppgaver.vercel.app/lag-presentasjon-som-viser-dods-og-fodselsrate/) | presentasjon av data, prosentregning, diagram | ✔︎ |
 
 # Del 1
 
@@ -129,6 +129,7 @@ Den kumulative frekvensen for 6 personer er antallet observasjoner som er 6 elle
 
 # Omvendt proporsjonal klassefest
 
+![Graf som viser sammenhengen mellom antall elever og pris per elev](/img/user/_resources/2py-v25-1-3.png){width=70%}
 
 Elevene i klasse 3PBB vil leie et lokale for å arrangere klassefest. De vil spleise på utgiftene. Ovenfor ser du grafen til en funksjon $f$. Grafen viser sammenhengen mellom hvor mange elever som blir med på festen, og prisen hver elev må betale:
 
@@ -830,6 +831,7 @@ Presentasjonen skal inneholde
 
 ## Fasit
 
+Oppgaven er åpen og har mange mulige svar. Se løsningsforslag for et eksempel.
 
 ## Løsningsforslag
 

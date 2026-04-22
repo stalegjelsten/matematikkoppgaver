@@ -53,6 +53,5 @@ a) 4,46 kr per enhet
 b) Grensekostnaden er den deriverte av $K$. Tangenten ved $x=400$ har stigningstall 2,06 kr, derfor er grensekostnaden 2,06 kr.
 c) 3,43 kr per enhet
 
-
 </div></div>
 

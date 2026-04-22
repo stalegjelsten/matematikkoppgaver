@@ -10,11 +10,11 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [1-1](#oppgave-1-1) | [Derivasjon og graffortolkning](https://matematikkoppgaver.vercel.app/derivasjon-og-graffortolkning/) | derivasjon, funksjoner | ✔︎ |
-| [1-2](#oppgave-1-2) | [Logaritmeligninger](https://matematikkoppgaver.vercel.app/logaritmeligninger/) | logaritmer, likninger | ✔︎ |
-| [1-3](#oppgave-1-3) | [Grenseverdier](https://matematikkoppgaver.vercel.app/grenseverdier/) | grenseverdi, kontinuitet | ✔︎ |
-| [1-4](#oppgave-1-4) | [Koordinater, linje og ortogonalitet](https://matematikkoppgaver.vercel.app/koordinater-linje-og-ortogonalitet/) | vektorer, geometri | ✔︎ |
-| [1-5](#oppgave-1-5) | [Funksjonsdrøfting og halveringsmetode](https://matematikkoppgaver.vercel.app/funksjonsdrofting-og-halveringsmetode/) | derivasjon, funksjonsdrøfting, programmering | ✔︎ |
+| [1-1](#oppgave-1-1) | [Derivasjon og graffortolkning](https://matematikkoppgaver.vercel.app/derivasjon-og-graffortolkning/) | derivasjon, funksjoner | × |
+| [1-2](#oppgave-1-2) | [Logaritmeligninger](https://matematikkoppgaver.vercel.app/logaritmeligninger/) | logaritmer, likninger | × |
+| [1-3](#oppgave-1-3) | [Grenseverdier](https://matematikkoppgaver.vercel.app/grenseverdier/) | grenseverdi, kontinuitet | × |
+| [1-4](#oppgave-1-4) | [Koordinater, linje og ortogonalitet](https://matematikkoppgaver.vercel.app/koordinater-linje-og-ortogonalitet/) | vektorer, geometri | × |
+| [1-5](#oppgave-1-5) | [Funksjonsdrøfting og halveringsmetode](https://matematikkoppgaver.vercel.app/funksjonsdrofting-og-halveringsmetode/) | derivasjon, funksjonsdrøfting, programmering | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 
@@ -22,12 +22,12 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [Logistisk vekstmodell](https://matematikkoppgaver.vercel.app/logistisk-vekstmodell/) | logistisk funksjon, modellering, derivasjon | ✔︎ |
-| [2-2](#oppgave-2-2) | [Stykkevis funksjon og deriverbarhet](https://matematikkoppgaver.vercel.app/stykkevis-funksjon-og-deriverbarhet/) | kontinuitet, derivasjon, funksjoner, delt forskrift | ✔︎ |
-| [2-3](#oppgave-2-3) | [Luktintensitet og logaritmisk modell](https://matematikkoppgaver.vercel.app/luktintensitet-og-logaritmisk-modell/) | logaritmer, modellering | ✔︎ |
-| [2-4](#oppgave-2-4) | [Parameterframstilling og møtepunkt](https://matematikkoppgaver.vercel.app/parameterframstilling-og-motepunkt/) | vektorer, geometri | ✔︎ |
-| [2-5](#oppgave-2-5) | [Vektorer, lengde og ortogonalitet](https://matematikkoppgaver.vercel.app/vektorer-lengde-og-ortogonalitet/) | vektorer, trigonometri | ✔︎ |
-| [2-6](#oppgave-2-6) | [Grafer og dobbeltderivert](https://matematikkoppgaver.vercel.app/grafer-og-dobbeltderivert/) | derivasjon, funksjonsdrøfting, eksponentialfunksjoner | ✔︎ |
+| [2-1](#oppgave-2-1) | [Logistisk vekstmodell](https://matematikkoppgaver.vercel.app/logistisk-vekstmodell/) | logistisk funksjon, modellering, derivasjon | × |
+| [2-2](#oppgave-2-2) | [Stykkevis funksjon og deriverbarhet](https://matematikkoppgaver.vercel.app/stykkevis-funksjon-og-deriverbarhet/) | kontinuitet, derivasjon, funksjoner, delt forskrift | × |
+| [2-3](#oppgave-2-3) | [Luktintensitet og logaritmisk modell](https://matematikkoppgaver.vercel.app/luktintensitet-og-logaritmisk-modell/) | logaritmer, modellering | × |
+| [2-4](#oppgave-2-4) | [Parameterframstilling og møtepunkt](https://matematikkoppgaver.vercel.app/parameterframstilling-og-motepunkt/) | vektorer, geometri | × |
+| [2-5](#oppgave-2-5) | [Vektorer, lengde og ortogonalitet](https://matematikkoppgaver.vercel.app/vektorer-lengde-og-ortogonalitet/) | vektorer, trigonometri | × |
+| [2-6](#oppgave-2-6) | [Grafer og dobbeltderivert](https://matematikkoppgaver.vercel.app/grafer-og-dobbeltderivert/) | derivasjon, funksjonsdrøfting, eksponentialfunksjoner | × |
 
 # Del 1
 
@@ -79,7 +79,7 @@ $$
 Vi bruker kvotientsregelen på $g(x) = \dfrac{2x-3}{e^x}$:
 
 $$
-g'(x) = \frac{2 \cdot e^x - (2x-3) \cdot e^x}{e^{2x}} = \frac{e^x \bigl(2 - (2x-3)\bigr)}{e^{2x}} = \frac{5-2x}{e^x}
+g'(x) = \frac{2 \cdot e^x - (2x-3) \cdot e^x}{e^{2x}} = \frac{e^x \left(2 - (2x-3)\right)}{e^{2x}} = \frac{5-2x}{e^x}
 $$
 
 Da er

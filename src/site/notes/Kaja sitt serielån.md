@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-25","modified":"2026-03-24","aliases":[],"dg-publish":true,"temaer":["lån"],"fag":["2p"],"eksamen":"h25","del":1,"oppgave":7,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":7}],"title":"Kaja sitt serielån","status":1,"source":null,"todo":null,"dg-permalink":"/kaja-sitt-serielan/","permalink":"/kaja-sitt-serielan/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-25","modified":"2026-03-24","aliases":[],"temaer":["lån"],"fag":["2p"],"eksamen":"h25","del":1,"oppgave":7,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":7}],"title":"Kaja sitt serielån","status":1,"source":null,"todo":null}}
+{"aliases":[],"date":"2025-11-25","del":1,"dg-permalink":"/kaja-sitt-serielan/","dg-publish":true,"eksamen":"h25","fag":["2p"],"modified":"2026-03-24","oppgave":7,"oppgavenummer":[{"del":1,"fag":"2p","oppgave":7}],"source":null,"status":1,"tags":["oppgave"],"temaer":["lån"],"title":"Kaja sitt serielån","todo":["løsningsforslag"],"permalink":"/kaja-sitt-serielan/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":[],"date":"2025-11-25","del":1,"eksamen":"h25","fag":["2p"],"modified":"2026-03-24","oppgave":7,"oppgavenummer":[{"del":1,"fag":"2p","oppgave":7}],"source":null,"status":1,"tags":["oppgave"],"temaer":["lån"],"title":"Kaja sitt serielån","todo":["løsningsforslag"]}}
 ---
 
 

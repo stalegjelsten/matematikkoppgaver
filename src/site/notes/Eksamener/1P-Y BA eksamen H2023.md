@@ -301,7 +301,6 @@ Arealet av betonggulvet er $50 \mathrm{~m^2}$.
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -336,7 +335,6 @@ I tabellen under ser du en oversikt over materialkostnadene i årene 2018–2023
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -365,7 +363,6 @@ Arbeidstegningen viser en takstol til en garasje. Vinkel $A$ er $36\degree$.
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -417,7 +414,6 @@ Bordet skal brukes som spisebord.
 
 
 ## Løsningsforslag
-
 
 </div></div>
 

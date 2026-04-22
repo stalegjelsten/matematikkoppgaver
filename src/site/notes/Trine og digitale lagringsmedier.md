@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-16","modified":"2026-03-16","aliases":[],"dg-publish":true,"temaer":["bits og bytes","store tall"],"fag":["1p-y el","1p-y im"],"eksamen":"h24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":2},{"fag":"1p-y im","del":2,"oppgave":2}],"title":"Trine og digitale lagringsmedier","status":3,"source":null,"todo":null,"dg-permalink":"/trine-og-digitale-lagringsmedier/","permalink":"/trine-og-digitale-lagringsmedier/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-16","modified":"2026-03-16","aliases":[],"temaer":["bits og bytes","store tall"],"fag":["1p-y el","1p-y im"],"eksamen":"h24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":2},{"fag":"1p-y im","del":2,"oppgave":2}],"title":"Trine og digitale lagringsmedier","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2026-03-16","modified":"2026-03-16","aliases":[],"dg-publish":true,"temaer":["bits og bytes","store tall"],"fag":["1p-y el","1p-y im"],"eksamen":"h24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":2},{"fag":"1p-y im","del":2,"oppgave":2}],"title":"Trine og digitale lagringsmedier","status":1,"source":null,"todo":null,"dg-permalink":"/trine-og-digitale-lagringsmedier/","lf-source-claude":true,"permalink":"/trine-og-digitale-lagringsmedier/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-16","modified":"2026-03-16","aliases":[],"temaer":["bits og bytes","store tall"],"fag":["1p-y el","1p-y im"],"eksamen":"h24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":2},{"fag":"1p-y im","del":2,"oppgave":2}],"title":"Trine og digitale lagringsmedier","status":1,"source":null,"todo":null,"lf-source-claude":true}}
 ---
 
 
@@ -7,15 +7,16 @@
 
 Trine undersøker utviklingen av ulike lagringsmedier for digitale data. I tabellen nedenfor vises fire ulike fysiske lagringsmedier: diskett, CD, Blu-ray og minnepenn.
 
-| Lagringsmedium | Diskett | CD | Blu-ray | Minnepenn |
-|---|---|---|---|---|
-| Lagringskapasitet | 1,44 MB | 650 MB | 46,6 GB | 1 TB |
+| **Lagringsmedium**    | Diskett |   CD   | Blu-ray | Minnepenn |
+| :---------------- | :-----: | :----: | :-----: | :-------: |
+| **Lagringskapasitet** | 1,44 MB | 650 MB | 46,6 GB |   1 TB    |
 
 Formelen for overføringshastighet er
 
 $$\text{overføringshastighet} = \frac{\text{datamengde}}{\text{tid}}$$
 
-Husk: $1 \mathrm{~B} = 8 \mathrm{~bit}$
+> [!tip] Bits og bytes
+> Husk: $1 \mathrm{~B} = 8 \mathrm{~bit}$
 
 >[!blue-box] Trine
 >Hvor mange disketter er det plass til på en CD-plate?

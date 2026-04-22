@@ -15,6 +15,9 @@ En tolvkant er innskrevet i en sirkel. Se figuren ovenfor. Tolvkanten er satt sa
 
 ## Fasit
 
+a) $d=4\sqrt{ 10 }$
+b) $O=24\left( \sqrt{ 15 } -\sqrt{ 5 }  \right) $
+
 ## Løsningsforslag
 
 ### a

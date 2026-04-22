@@ -10,8 +10,8 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [1-1](#oppgave-1-1) | [Integraler S2 v25](https://matematikkoppgaver.vercel.app/integraler-s2-v25/) | integral | ✔︎ |
-| [1-2](#oppgave-1-2) | [Bestem f ut fra den deriverte](https://matematikkoppgaver.vercel.app/bestem-f-ut-fra-den-deriverte/) | integral, tolkning av integraler, areal under graf | ✔︎ |
+| [1-1](#oppgave-1-1) | [Integraler S2 v25](https://matematikkoppgaver.vercel.app/integraler-s2-v25/) | integral, bestemt integral, substitusjon | ✔︎ |
+| [1-2](#oppgave-1-2) | [Bestem f ut fra den deriverte](https://matematikkoppgaver.vercel.app/bestem-f-ut-fra-den-deriverte/) | integral, tolkning av integraler, areal under graf, bestemt integral | ✔︎ |
 | [1-3](#oppgave-1-3) | [Tallfølge med programmering og induksjon](https://matematikkoppgaver.vercel.app/tallfolge-med-programmering-og-induksjon/) | programmering, rekker, bevis | × |
 | [1-4](#oppgave-1-4) | [Trigonometrisk funksjon og likning](https://matematikkoppgaver.vercel.app/trigonometrisk-funksjon-og-likning/) | trigonometri, funksjoner, likninger | × |
 | [1-5](#oppgave-1-5) | [Bordplate som trekant i 3D](https://matematikkoppgaver.vercel.app/bordplate-som-trekant-i-3-d/) | vektorer, geometri, areal | × |
@@ -25,9 +25,9 @@ Table: {.eksamen-oversikt}
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Bil på spiralvei i parkeringshus](https://matematikkoppgaver.vercel.app/bil-pa-spiralvei-i-parkeringshus/) | vektorer, derivasjon, modellering | × |
-| [2-2](#oppgave-2-2) | [Noras sparing og lån](https://matematikkoppgaver.vercel.app/noras-sparing-og-lan/) | lån, sparing, excel, cas | ✔︎ |
+| [2-2](#oppgave-2-2) | [Noras sparing og lån](https://matematikkoppgaver.vercel.app/noras-sparing-og-lan/) | lån, sparing, excel, cas, rekker, annuitetslån | ✔︎ |
 | [2-3](#oppgave-2-3) | [Harens fart og gjennomsnittsfart](https://matematikkoppgaver.vercel.app/harens-fart-og-gjennomsnittsfart/) | integral, derivasjon, modellering | × |
-| [2-4](#oppgave-2-4) | [Vis at rekke blir ln 2](https://matematikkoppgaver.vercel.app/vis-at-rekke-blir-ln-2/) | bevis, utforskning, integral | ✔︎ |
+| [2-4](#oppgave-2-4) | [Vis at rekke blir ln 2](https://matematikkoppgaver.vercel.app/vis-at-rekke-blir-ln-2/) | bevis, utforskning, integral, uendelig rekke, rekker, substitusjon | ✔︎ |
 
 # Del 1
 
@@ -181,6 +181,10 @@ Tallene fra oppgave a) er starten på en rekke.
 
 ## Fasit
 
+a) Koden skriver ut tallfølgen 2, 5, 9, 14, 20. Differansen mellom leddene starter på 3 og øker med 1 for hvert ledd.
+b) Eleven finner delsummen etter 5 ledd. Programmet skriver ut 50.
+c) Se løsningsforslag (induksjonsbevis).
+
 ## Løsningsforslag
 
 ### a
@@ -259,6 +263,8 @@ $$g(x) = 3\sin(2x) + \sqrt{3}\cos(2x) \quad , \quad  D_g = \langle 0, 2\pi \rang
 
 ## Fasit
 
+a) Amplitude $2\sqrt{ 3 }$, likevektslinje $y=0$, periode $\pi$, faseforskyvning $\frac{\pi}{12}$ mot venstre.
+
 ## Løsningsforslag
 
 ### a
@@ -273,6 +279,15 @@ $$
 Når $k=2$ så har sinusfunksjonen dobbelt så «tette» svingninger og perioden blir derfor $T=\frac{2\pi}{k}=\frac{2\pi}{2}=\pi$. Da blir også faseforskyvningen $\frac{\phi}{2}=\frac{\pi}{12}$.
 
 **Amplituden er $2\sqrt{ 3 }$, likevektslinja er $y=0$, perioden er $\pi$ og faseforskyvningen er $\frac{\pi}{12}$ mot venstre.**
+
+### b
+$$
+\begin{aligned}
+2\sqrt{3} \cdot \sin\left(2x + \frac{\pi}{6}\right)&=\sqrt{ 3 } \\
+2 \cdot \sin\left(2x + \frac{\pi}{6}\right)&=1 \\
+\sin\left(2x + \frac{\pi}{6}\right)&=\frac{1}{2} 
+\end{aligned}
+$$
 
 </div></div>
 
@@ -300,7 +315,6 @@ En plante på veggen har en gren som vokser slik at den følger en rett linje gj
 >c) Vis at grenen aldri vil treffe bordplaten.
 
 ## Fasit
-
 
 </div></div>
 
@@ -340,7 +354,6 @@ print(s)
 >Bestem verdien som skrives ut når koden kjøres.
 
 ## Fasit
-
 
 </div></div>
 
@@ -429,7 +442,6 @@ der bakkenivået er $xy$-planet i et koordinatsystem med meter som enhet langs a
 >c) Gjør nødvendige antakelser og bestem en mulig avstand mellom etasjene i parkeringshuset.
 
 ## Fasit
-
 
 </div></div>
 
@@ -555,7 +567,6 @@ $$v_g(x) = \frac{1}{x} \int_{0}^{x} v(t) \, \mathrm{d}t$$
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -584,6 +595,7 @@ I denne oppgaven kan du se bort fra integrasjonskonstantene.
 
 ## Fasit
 
+Oppgaven er et bevis. Se løsningsforslag.
 
 ## Løsningsforslag
 

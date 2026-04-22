@@ -54,7 +54,6 @@ En likesidet trekant har sidelengder 2. Se figuren til høyre.
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -77,7 +76,6 @@ $$f(x) = x^3 + 2x^2 - 5x - 6$$
 >I hvilke punkter skjærer grafen til funksjonen $x$-aksen?
 
 ## Fasit
-
 
 </div></div>
 
@@ -102,7 +100,6 @@ $$f(x) = x^3 - 3x^2 - x + 4$$
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -125,7 +122,6 @@ $$f(x) = x^3 - 3x^2 - x + 4$$
 >Husk å argumentere for at svaret ditt er riktig.
 
 ## Fasit
-
 
 </div></div>
 
@@ -157,7 +153,6 @@ $$g(x) = \frac{x^2 - 4}{(x - 3)(x + 3)}$$
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -186,7 +181,6 @@ for folketallet $F(x)$ tusen innbyggere i området $x$ år etter 1960.
 >c) Når vil folketallet avta raskest ifølge modellen?
 
 ## Fasit
-
 
 </div></div>
 
@@ -376,6 +370,9 @@ Tabellen nedenfor viser antall personer i Norge som hadde fiske som hovedyrke no
 
 ## Fasit
 
+a) $F(x)=66\,360 \cdot 0{,}9714^{x}$
+b) Ca. 3645 fiskere i 2050. Gyldighetsområde: $x \in [0, 100]$.
+
 ## Løsningsforslag 
 
 ### a
@@ -429,7 +426,6 @@ Sara skal tegne en ny linje $x = a$ der $a \in \langle 1, 3 \rangle$ i koordinat
 >b) Bestem $a$ slik at avstanden fra $R$ til $S$ blir størst mulig. Oppgi svaret eksakt.
 
 ## Fasit
-
 
 </div></div>
 
@@ -525,7 +521,6 @@ Rektangelet under grafen har hjørner i punktene $(0, 0)$, $(5, 0)$, $(5, f(5))$
 >c) Bestem $k$ slik at arealet av rektangelet som har hjørner i punktene $(0, 0)$, $(k, 0)$, $(k, f(k))$ og $(0, f(k))$, blir størst mulig.
 
 ## Fasit
-
 
 </div></div>
 

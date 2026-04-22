@@ -13,7 +13,7 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Løping og maraton](https://matematikkoppgaver.vercel.app/loping-og-maraton/) | lineær vekst, formler, tallregning | ✔︎ |
 | [1-2](#oppgave-1-2) | [Annuitetslån eller serielån](https://matematikkoppgaver.vercel.app/annuitetslan-eller-serielan/) | lån, diagram, tolke grafer | ✔︎ |
 | [1-3](#oppgave-1-3) | [Søvnbehov med formel](https://matematikkoppgaver.vercel.app/sovnbehov-med-formel/) | formler, lineær vekst, algebra | ✔︎ |
-| [1-4](#oppgave-1-4) | [Filstørrelser](https://matematikkoppgaver.vercel.app/filstorrelser/) | bits og bytes | ✔︎ |
+| [1-4](#oppgave-1-4) | [Filstørrelser](https://matematikkoppgaver.vercel.app/filstorrelser/) | bits og bytes, måleenheter | ✔︎ |
 | [1-5](#oppgave-1-5) | [App-ikon med sirkel og trekant](https://matematikkoppgaver.vercel.app/app-ikon-med-sirkel-og-trekant/) | geometri, trigonometri, omkrets | × |
 
 **Del 2** — 3 timer — med hjelpemidler
@@ -237,7 +237,6 @@ Vi skal analysere egenskapene til figuren og bruker disse verdiene i utregningen
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -280,7 +279,6 @@ Stine skal lage et anbud for et oppdrag til en kunde:
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -337,7 +335,6 @@ For å bedømme hvor effektiv kampanjen har vært på de ulike plattformene, gis
 
 
 ## Løsningsforslag
-
 
 </div></div>
 

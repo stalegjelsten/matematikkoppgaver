@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-25","modified":"2026-04-07","aliases":[],"dg-publish":true,"temaer":["areal","geometri","målestokk"],"fag":["1p-y fd","1p-y dt"],"eksamen":"h24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p-y fd","del":1,"oppgave":4},{"fag":"1p-y dt","del":1,"oppgave":4}],"poeng":2,"title":"Vimpler i to størrelser","status":0,"source":null,"todo":["fasit","løsningsforslag"],"dg-permalink":"/vimpler-i-to-storrelser/","permalink":"/vimpler-i-to-storrelser/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-25","modified":"2026-04-07","aliases":[],"temaer":["areal","geometri","målestokk"],"fag":["1p-y fd","1p-y dt"],"eksamen":"h24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p-y fd","del":1,"oppgave":4},{"fag":"1p-y dt","del":1,"oppgave":4}],"poeng":2,"title":"Vimpler i to størrelser","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"aliases":[],"date":"2024-11-25","del":1,"dg-permalink":"/vimpler-i-to-storrelser/","dg-publish":true,"eksamen":"h24","fag":["1p-y fd","1p-y dt"],"modified":"2026-04-07","oppgave":4,"oppgavenummer":[{"del":1,"fag":"1p-y fd","oppgave":4},{"del":1,"fag":"1p-y dt","oppgave":4}],"poeng":2,"source":null,"status":3,"tags":["oppgave"],"temaer":["areal","geometri","målestokk"],"title":"Vimpler i to størrelser","todo":["fasit"],"permalink":"/vimpler-i-to-storrelser/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":[],"date":"2024-11-25","del":1,"eksamen":"h24","fag":["1p-y fd","1p-y dt"],"modified":"2026-04-07","oppgave":4,"oppgavenummer":[{"del":1,"fag":"1p-y fd","oppgave":4},{"del":1,"fag":"1p-y dt","oppgave":4}],"poeng":2,"source":null,"status":3,"tags":["oppgave"],"temaer":["areal","geometri","målestokk"],"title":"Vimpler i to størrelser","todo":["fasit"]}}
 ---
 
 
@@ -25,3 +25,22 @@ En ungdomsbedrift lager vimpler med to forskjellige størrelser: medium og stor.
 
 
 ## Løsningsforslag
+
+### a
+Hvis størrelsene er formlike så må forholdet mellom sidene være det samme. For medium vimpel ser vi at
+$$
+\frac{\text{Lengde}}{\text{Bredde}}=\frac{200}{50}=4
+$$
+For stor vimpel ser vi også at forholdet mellom lengde og bredde er 4.
+
+**Vimplene er formlike.**
+
+### b
+Vi ser at vimpelen er som en trekant og regner ut arealene ved hjelp av formelen for areal av trekant.
+$$
+\begin{aligned}
+A_{\text{stor}}&=\frac{400 \cdot 100}{2}=200 \mathrm{~cm^{2}} \\
+A_{\text{medium}}&=\frac{200 \cdot 50}{2}=50 \mathrm{~cm^{2}}
+\end{aligned}
+$$
+**Siden $\frac{200}{50}=4$ så er arealet av den store vimpelen 4 ganger større enn medium.**

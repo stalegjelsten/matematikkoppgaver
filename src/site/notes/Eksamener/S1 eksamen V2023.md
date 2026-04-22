@@ -218,7 +218,6 @@ Hva blir resultatet når programmet kjøres? Hva forteller dette svaret bedrifte
 
 300 fordi $K'(300) = 260$
 
-
 </div></div>
 
 

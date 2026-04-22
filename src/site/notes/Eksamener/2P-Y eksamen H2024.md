@@ -13,7 +13,7 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Prisstigning på vare](https://matematikkoppgaver.vercel.app/prisstigning-pa-vare/) | prosent | ✔︎ |
 | [1-2](#oppgave-1-2) | [Statistikk på Lars arbeidstid](https://matematikkoppgaver.vercel.app/statistikk-pa-lars-arbeidstid/) | statistikk | ✔︎ |
 | [1-3](#oppgave-1-3) | [Proporsjonale og omvendt proporsjonale størrelser fra graf](https://matematikkoppgaver.vercel.app/proporsjonale-og-omvendt-proporsjonale-storrelser-fra-graf/) | proporsjonalitet, omvendt proporsjonalitet, tolke grafer, argumentasjon | ✔︎ |
-| [1-4](#oppgave-1-4) | [Figurtall for firkanter med hjørnetapper](https://matematikkoppgaver.vercel.app/figurtall-for-firkanter-med-hjornetapper/) | figurtall, mønstre | ✔︎ |
+| [1-4](#oppgave-1-4) | [Figurtall for firkanter med hjørnetapper](https://matematikkoppgaver.vercel.app/figurtall-for-firkanter-med-hjornetapper/) | figurtall, mønstre, lineær vekst | ✔︎ |
 | [1-5](#oppgave-1-5) | [Utslippsreduksjon med prosentvis nedgang](https://matematikkoppgaver.vercel.app/utslippsreduksjon-med-prosentvis-nedgang/) | prosentvis endring i flere perioder, programmering | ✔︎ |
 
 **Del 2** — 4 timer — med hjelpemidler
@@ -23,12 +23,12 @@ Table: {.eksamen-oversikt}
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Salg av iste](https://matematikkoppgaver.vercel.app/salg-av-iste/) | eksponentialfunksjoner, prosentvis endring i flere perioder | ✔︎ |
-| [2-2](#oppgave-2-2) | [Bakterier i kjøkkensvamp](https://matematikkoppgaver.vercel.app/bakterier-i-kjokkensvamp/) | standardform | ✔︎ |
-| [2-3](#oppgave-2-3) | [Argumenter for at prosentregnestykker gir samme svar](https://matematikkoppgaver.vercel.app/argumenter-for-at-prosentregnestykker-gir-samme-svar/) | prosent, utforskning | ✔︎ |
+| [2-2](#oppgave-2-2) | [Bakterier i kjøkkensvamp](https://matematikkoppgaver.vercel.app/bakterier-i-kjokkensvamp/) | standardform, store tall | ✔︎ |
+| [2-3](#oppgave-2-3) | [Argumenter for at prosentregnestykker gir samme svar](https://matematikkoppgaver.vercel.app/argumenter-for-at-prosentregnestykker-gir-samme-svar/) | prosent, utforskning, argumentasjon, prosentregning | ✔︎ |
 | [2-4](#oppgave-2-4) | [Modeller for parkeringsavtaler](https://matematikkoppgaver.vercel.app/modeller-for-parkeringsavtaler/) | modellering, regresjon | ✔︎ |
 | [2-5](#oppgave-2-5) | [Statistikk for quizlag](https://matematikkoppgaver.vercel.app/statistikk-for-quizlag/) | statistikk, utforskning | × |
 | [2-6](#oppgave-2-6) | [Modell for Hannes løping](https://matematikkoppgaver.vercel.app/modell-for-hannes-loping/) | modellering, regresjon | ✔︎ |
-| [2-7](#oppgave-2-7) | [Lag presentasjon om statistikk for tidsbruk på ulike aktiviteter](https://matematikkoppgaver.vercel.app/lag-presentasjon-om-statistikk-for-tidsbruk-pa-ulike-aktiviteter/) | presentasjon av data | ✔︎ |
+| [2-7](#oppgave-2-7) | [Lag presentasjon om statistikk for tidsbruk på ulike aktiviteter](https://matematikkoppgaver.vercel.app/lag-presentasjon-om-statistikk-for-tidsbruk-pa-ulike-aktiviteter/) | presentasjon av data, prosentregning, diagram | ✔︎ |
 | [2-8](#oppgave-2-8) | [Tores sykkeltrening](https://matematikkoppgaver.vercel.app/tores-sykkeltrening/) | prosentvis endring i flere perioder, utforskning | ✔︎ |
 
 # Del 1
