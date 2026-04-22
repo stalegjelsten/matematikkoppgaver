@@ -23,10 +23,10 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [Eksponentiell modell for befolkningsvekst](https://matematikkoppgaver.vercel.app/eksponentiell-modell-for-befolkningsvekst/) | eksponentiell vekst, modellering, regresjon | ✔︎ |
+| [2-1](#oppgave-2-1) | [Eksponentiell modell for befolkningsvekst](https://matematikkoppgaver.vercel.app/eksponentiell-modell-for-befolkningsvekst/) | eksponentiell vekst, modellering, regresjon, derivasjon | ✔︎ |
 | [2-2](#oppgave-2-2) | [Stykkevis funksjon og kontinuitet](https://matematikkoppgaver.vercel.app/stykkevis-funksjon-og-kontinuitet/) | kontinuitet, funksjoner, delt forskrift | ✔︎ |
 | [2-3](#oppgave-2-3) | [Sannsynlighet med drops](https://matematikkoppgaver.vercel.app/sannsynlighet-med-drops/) | sannsynlighet, kombinatorikk | ✔︎ |
-| [2-4](#oppgave-2-4) | [Kostnad, pris og overskudd](https://matematikkoppgaver.vercel.app/kostnad-pris-og-overskudd/) | økonomi, derivasjon, funksjoner | ✔︎ |
+| [2-4](#oppgave-2-4) | [Kostnad, pris og overskudd](https://matematikkoppgaver.vercel.app/kostnad-pris-og-overskudd/) | økonomi, derivasjon, funksjoner, optimering, overskudd | ✔︎ |
 | [2-5](#oppgave-2-5) | [Luktintensitet og logaritmer](https://matematikkoppgaver.vercel.app/luktintensitet-og-logaritmer/) | logaritmer, modellering | ✔︎ |
 | [2-6](#oppgave-2-6) | [Terningspill og forventningsverdi](https://matematikkoppgaver.vercel.app/terningspill-og-forventningsverdi/) | sannsynlighet, programmering, diskrete sannsynlighetsfordelinger | ✔︎ |
 

@@ -304,7 +304,6 @@ Sander har laget en oversikt over hvor mange biler han har solgt hver måned i �
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -344,7 +343,6 @@ Vilde skal flytte. Hun vil selge en $58$ kvadratmeter stor leilighet i Bergen og
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -389,7 +387,6 @@ Påstand: Fra mai 2022 til mai 2023 økte medianen med mer enn $10\,000$.
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -447,7 +444,6 @@ Formelen for arealet av en sirkel er $A = \pi \cdot r^2$.
 
 
 ## Løsningsforslag
-
 
 </div></div>
 

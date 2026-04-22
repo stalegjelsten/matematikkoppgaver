@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["lineær vekst","funksjoner","økonomi"],"fag":["1p-y el","1p-y ba","1p-y fd","1p-y hs","1p-y dt","1p-y im","1p-y na","1p-y rm","1p-y sr","1p-y tp"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":5},{"fag":"1p-y ba","del":2,"oppgave":5},{"fag":"1p-y fd","del":2,"oppgave":5},{"fag":"1p-y hs","del":2,"oppgave":5},{"fag":"1p-y dt","del":2,"oppgave":5},{"fag":"1p-y im","del":2,"oppgave":5},{"fag":"1p-y na","del":2,"oppgave":5},{"fag":"1p-y rm","del":2,"oppgave":5},{"fag":"1p-y sr","del":2,"oppgave":5},{"fag":"1p-y tp","del":2,"oppgave":5}],"title":"Lønnsalternativer ved avissalg","status":0,"source":null,"todo":null,"dg-permalink":"/lonnsalternativer-ved-avissalg/","lf-source-claude":true,"permalink":"/lonnsalternativer-ved-avissalg/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["lineær vekst","funksjoner","økonomi"],"fag":["1p-y el","1p-y ba","1p-y fd","1p-y hs","1p-y dt","1p-y im","1p-y na","1p-y rm","1p-y sr","1p-y tp"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":5},{"fag":"1p-y ba","del":2,"oppgave":5},{"fag":"1p-y fd","del":2,"oppgave":5},{"fag":"1p-y hs","del":2,"oppgave":5},{"fag":"1p-y dt","del":2,"oppgave":5},{"fag":"1p-y im","del":2,"oppgave":5},{"fag":"1p-y na","del":2,"oppgave":5},{"fag":"1p-y rm","del":2,"oppgave":5},{"fag":"1p-y sr","del":2,"oppgave":5},{"fag":"1p-y tp","del":2,"oppgave":5}],"title":"Lønnsalternativer ved avissalg","status":0,"source":null,"todo":null,"lf-source-claude":true}}
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["lineær vekst","funksjoner","økonomi","likningssystem"],"kategori":2,"vanskegrad":2,"beskrivelse":"Sammenligne to lineære lønnsmodeller $f(x) = 17{,}15x$ og $g(x) = 150 + 10x$ via skjæringspunkt og tabell, og gi råd ut fra antall solgte aviser.","fag":["1p-y el","1p-y ba","1p-y fd","1p-y hs","1p-y dt","1p-y im","1p-y na","1p-y rm","1p-y sr","1p-y tp"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":5},{"fag":"1p-y ba","del":2,"oppgave":5},{"fag":"1p-y fd","del":2,"oppgave":5},{"fag":"1p-y hs","del":2,"oppgave":5},{"fag":"1p-y dt","del":2,"oppgave":5},{"fag":"1p-y im","del":2,"oppgave":5},{"fag":"1p-y na","del":2,"oppgave":5},{"fag":"1p-y rm","del":2,"oppgave":5},{"fag":"1p-y sr","del":2,"oppgave":5},{"fag":"1p-y tp","del":2,"oppgave":5}],"title":"Lønnsalternativer ved avissalg","status":3,"source":null,"todo":null,"dg-permalink":"/lonnsalternativer-ved-avissalg/","lf-source-claude":true,"permalink":"/lonnsalternativer-ved-avissalg/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["lineær vekst","funksjoner","økonomi","likningssystem"],"kategori":2,"vanskegrad":2,"beskrivelse":"Sammenligne to lineære lønnsmodeller $f(x) = 17{,}15x$ og $g(x) = 150 + 10x$ via skjæringspunkt og tabell, og gi råd ut fra antall solgte aviser.","fag":["1p-y el","1p-y ba","1p-y fd","1p-y hs","1p-y dt","1p-y im","1p-y na","1p-y rm","1p-y sr","1p-y tp"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":5},{"fag":"1p-y ba","del":2,"oppgave":5},{"fag":"1p-y fd","del":2,"oppgave":5},{"fag":"1p-y hs","del":2,"oppgave":5},{"fag":"1p-y dt","del":2,"oppgave":5},{"fag":"1p-y im","del":2,"oppgave":5},{"fag":"1p-y na","del":2,"oppgave":5},{"fag":"1p-y rm","del":2,"oppgave":5},{"fag":"1p-y sr","del":2,"oppgave":5},{"fag":"1p-y tp","del":2,"oppgave":5}],"title":"Lønnsalternativer ved avissalg","status":3,"source":null,"todo":null,"lf-source-claude":true}}
 ---
 
 
@@ -9,14 +9,18 @@ Elise skal gå fra dør til dør og selge aviser hver lørdag. En avis koster 49
 
 Firmaet hun skal arbeide for, beregner lønn på ulike måter. Elise kan velge mellom to tilbud.
 
+<!-- two-column start left-width=40% -->
 
 > [!green-box] Tilbud 1
 > Lønn: 35 % av beløpet hun selger aviser for
 
+---
 
 > [!yellow-box] Tilbud 2
 > Fast lønn: 150 kroner per lørdag  
 > Tillegg: 10 kroner per avis hun selger
+
+<!-- two-column stop -->
 
 Elise gjør seg noen tanker og stiller noen spørsmål.
 

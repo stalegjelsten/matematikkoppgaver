@@ -193,7 +193,6 @@ De årlige helseutgiftene for personer i alderen 75–79 år er 160 000 kroner. 
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -231,7 +230,6 @@ Hun lager tabellen nedenfor.
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -282,7 +280,6 @@ En annen pasient med brannskader veier 65 kg. Pasienten får tilført 6 liter v�
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -354,7 +351,6 @@ Hvor mange prosent utgjør dette av dagsbehovet?
 
 
 ## Løsningsforslag
-
 
 </div></div>
 

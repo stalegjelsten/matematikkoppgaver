@@ -13,7 +13,7 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Prisindeks og brødpris](https://matematikkoppgaver.vercel.app/prisindeks-og-brodpris/) | prisindeks, prosentregning, argumentasjon | × |
 | [1-2](#oppgave-1-2) | [Likebeinte og formlike trekanter](https://matematikkoppgaver.vercel.app/likebeinte-og-formlike-trekanter/) | geometri, argumentasjon | ✔︎ |
 | [1-3](#oppgave-1-3) | [Nominell lønn og reallønn](https://matematikkoppgaver.vercel.app/nominell-lonn-og-reallonn/) | økonomi, prosentregning | × |
-| [1-4](#oppgave-1-4) | [Likninger og ulikheter fra grafer](https://matematikkoppgaver.vercel.app/likninger-og-ulikheter-fra-grafer/) | funksjoner, grafisk framstilling, likninger | ✔︎ |
+| [1-4](#oppgave-1-4) | [Likninger og ulikheter fra grafer](https://matematikkoppgaver.vercel.app/likninger-og-ulikheter-fra-grafer/) | funksjoner, grafisk framstilling, likninger, utforskning, argumentasjon | ✔︎ |
 
 **Del 2** — 4 timer — med hjelpemidler
 
@@ -293,15 +293,10 @@ Gjør beregninger og kommenter antakelsen til Tore.
 
 ## Fasit
 
-Det skjulte tallet er 2, og gjennomsnittet er nøyaktig 4 – Tores antakelse stemmer ikke.
+Tores antakelse stemmer hvis tallet er 3 eller mer.
 
 ## Løsningsforslag
 
-Tore spurte 12 kolleger. De synlige verdiene fra arket er:
-
-$$
-4, \; 5, \; 0, \; 4, \; 2, \; 6, \; ?, \; 5, \; 7, \; 5, \; 5, \; 3
-$$
 
 Summen av de 11 kjente verdiene er
 
@@ -309,18 +304,11 @@ $$
 4+5+0+4+2+6+5+7+5+5+3 = 46
 $$
 
-For at gjennomsnittet skal være **nøyaktig 4** med 12 verdier, må totalsummen være $4 \cdot 12 = 48$. Det skjulte tallet er altså
+For at gjennomsnittet skal være **nøyaktig 4** med 12 verdier, må totalsummen være $4 \cdot 12 = 48$. Dersom det skjulte tallet var 2 så ville gjennomsnittet blitt nøyaktig 4.
 
-$$
-48 - 46 = 2
-$$
+Det betyr også at dersom det skjulte tallet er 3 eller mer, så ville gjennomsnittet vært over 4. For eksempel ville tallet 3 gitt en sum på 49 og gjennomsnitt $\frac{49}{12}=4{,}08$.
 
-Med det skjulte tallet lik 2 blir gjennomsnittet $\frac{48}{12} = 4$ – **nøyaktig 4, ikke mer enn 4**.
-
-For at gjennomsnittet skal være mer enn 4, måtte det skjulte tallet ha vært minst 3.
-
-**Tores antakelse stemmer ikke. Gjennomsnittet er $\underline{\underline{4}}$ kopper – nøyaktig 4, ikke mer enn 4.**
-
+**Tores antakelse stemmer dersom det skjulte tallet er 3 eller mer.**
 
 </div></div>
 

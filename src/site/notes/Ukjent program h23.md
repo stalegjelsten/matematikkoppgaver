@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-01-28","modified":"2024-01-28","aliases":null,"dg-publish":true,"temaer":["programmering"],"fag":["s2","r2"],"eksamen":"h23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":4},{"fag":"r2","del":1,"oppgave":5}],"title":"Ukjent program h23","source":null,"todo":null,"status":3,"dg-permalink":"/ukjent-program-h23/","permalink":"/ukjent-program-h23/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-01-28","modified":"2024-01-28","aliases":null,"temaer":["programmering"],"fag":["s2","r2"],"eksamen":"h23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":4},{"fag":"r2","del":1,"oppgave":5}],"title":"Ukjent program h23","source":null,"todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2024-01-28","modified":"2024-01-28","aliases":null,"dg-publish":true,"temaer":["programmering","numerisk integrasjon","integral","areal under graf"],"fag":["s2","r2"],"eksamen":"h23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":4},{"fag":"r2","del":1,"oppgave":5}],"title":"Ukjent program h23","source":null,"todo":null,"status":3,"kategori":3,"vanskegrad":3,"beskrivelse":"Tolke Python-program som numerisk areal-estimat med `abs(f(x))`; beregne eksakt areal ved integrasjon og symmetri.","deloppgaver":[{"deloppgave":"a","beskrivelse":"Forklare at programmet tilnærmer $\\int_{-2}^{2} |f(x)|\\,dx$ med midtpunktssum."},{"deloppgave":"b","kategori":2,"vanskegrad":2,"beskrivelse":"Dele integralet på nullpunktene $x=\\pm 1$ og utnytte symmetri; svar = 4."}],"dg-permalink":"/ukjent-program-h23/","permalink":"/ukjent-program-h23/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-01-28","modified":"2024-01-28","aliases":null,"temaer":["programmering","numerisk integrasjon","integral","areal under graf"],"fag":["s2","r2"],"eksamen":"h23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":4},{"fag":"r2","del":1,"oppgave":5}],"title":"Ukjent program h23","source":null,"todo":null,"status":3,"kategori":3,"vanskegrad":3,"beskrivelse":"Tolke Python-program som numerisk areal-estimat med `abs(f(x))`; beregne eksakt areal ved integrasjon og symmetri.","deloppgaver":[{"deloppgave":"a","beskrivelse":"Forklare at programmet tilnærmer $\\int_{-2}^{2} |f(x)|\\,dx$ med midtpunktssum."},{"deloppgave":"b","kategori":2,"vanskegrad":2,"beskrivelse":"Dele integralet på nullpunktene $x=\\pm 1$ og utnytte symmetri; svar = 4."}]}}
 ---
 
 
@@ -30,6 +30,9 @@ print(S)
 >b) Finn ved regning den verdien eleven ønsker å bestemme.
 
 ## Fasit
+
+a) Programmet regner ut en tilnærming til arealet mellom $x$-aksen, grafen til $f(x)=x^{2}-1$ og linjene $x=-2$ og $x=2$.
+b) Verdien er 4.
 
 ## Løsningsforslag
 

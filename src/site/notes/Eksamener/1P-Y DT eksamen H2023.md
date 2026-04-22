@@ -310,7 +310,6 @@ Bordet må lakkeres. De trenger:
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -346,7 +345,6 @@ Beate lager regning til en kunde. Hun legger til $25\,\%$ merverdiavgift. Prisen
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -389,7 +387,6 @@ Prisen for en pose tekstiler er oppgitt til 50 kroner, men ungdomsbedriften får
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -441,7 +438,6 @@ Bordet skal brukes som spisebord.
 
 
 ## Løsningsforslag
-
 
 </div></div>
 

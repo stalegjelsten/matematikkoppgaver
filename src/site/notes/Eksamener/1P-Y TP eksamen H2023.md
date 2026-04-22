@@ -297,7 +297,6 @@ Akslingene har basismål $17{,}5 \mathrm{~mm}$. Tillatt avvik er $\pm 0{,}15 \ma
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -329,7 +328,6 @@ Det borres flere hull i platen. Til sammen fjernes det $339 \mathrm{~cm^2}$.
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -383,7 +381,6 @@ Et bestemt anleggsrør er $8 \mathrm{~m}$ langt. Vekten er oppgitt til $1{,}5 \m
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -426,7 +423,6 @@ der $v$ er skjærehastigheten til slipeskiven i meter per sekund (m/s), $d$ er d
 
 
 ## Løsningsforslag
-
 
 </div></div>
 

@@ -13,7 +13,7 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Buss enkeltbillett eller fleksikort](https://matematikkoppgaver.vercel.app/buss-enkeltbillett-eller-fleksikort/) | prosentregning | ✔︎ |
 | [1-2](#oppgave-1-2) | [Personbiler lineær modell](https://matematikkoppgaver.vercel.app/personbiler-lineaer-modell/) | modellering, lineær vekst | ✔︎ |
 | [1-3](#oppgave-1-3) | [Hvor mange ganger større er Sola enn Jorda](https://matematikkoppgaver.vercel.app/hvor-mange-ganger-storre-er-sola-enn-jorda/) | standardform, potenser | ✔︎ |
-| [1-4](#oppgave-1-4) | [Joggeavstander med gitte sentralmål](https://matematikkoppgaver.vercel.app/joggeavstander-med-gitte-sentralmal/) | statistikk, sentralmål | ✔︎ |
+| [1-4](#oppgave-1-4) | [Joggeavstander med gitte sentralmål](https://matematikkoppgaver.vercel.app/joggeavstander-med-gitte-sentralmal/) | statistikk, sentralmål, utforskning | ✔︎ |
 | [1-5](#oppgave-1-5) | [Sirkelfigurer og figurmønster](https://matematikkoppgaver.vercel.app/sirkelfigurer-og-figurmonster/) | figurtall | ✔︎ |
 
 **Del 2** — 4 timer — med hjelpemidler
@@ -29,7 +29,7 @@ Table: {.eksamen-oversikt}
 | [2-5](#oppgave-2-5) | [Proporsjonalitet og vase med roser](https://matematikkoppgaver.vercel.app/proporsjonalitet-og-vase-med-roser/) | proporsjonalitet, omvendt proporsjonalitet, argumentasjon | ✔︎ |
 | [2-6](#oppgave-2-6) | [Helsefagarbeidere presentasjon av data](https://matematikkoppgaver.vercel.app/helsefagarbeidere-presentasjon-av-data/) | statistikk, diagrammer, presentasjon av data | ✔︎ |
 | [2-7](#oppgave-2-7) | [Utslipp geometrisk rekke og programmering](https://matematikkoppgaver.vercel.app/utslipp-geometrisk-rekke-og-programmering/) | eksponentiell vekst, eksponentialfunksjoner, programmering | ✔︎ |
-| [2-8](#oppgave-2-8) | [Klimagassutslipp lineær og eksponensiel modell](https://matematikkoppgaver.vercel.app/klimagassutslipp-lineaer-og-eksponensiel-modell/) | modellering, lineær vekst, eksponentialfunksjoner | ✔︎ |
+| [2-8](#oppgave-2-8) | [Klimagassutslipp lineær og eksponensiel modell](https://matematikkoppgaver.vercel.app/klimagassutslipp-lineaer-og-eksponensiel-modell/) | modellering, lineær vekst, eksponentialfunksjoner, vekstfaktor, prosentvis endring | ✔︎ |
 
 # Del 1
 
@@ -234,6 +234,7 @@ Ovenfor ser du tre figurer. Figurene er satt sammen av små sirkler. Tenk deg at
 
 ## Fasit
 
+$F_{n}=(n+1)^{2}-1$
 
 ## Løsningsforslag
 

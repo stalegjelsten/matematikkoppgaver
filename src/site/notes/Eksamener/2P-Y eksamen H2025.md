@@ -25,8 +25,8 @@ Table: {.eksamen-oversikt}
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Eksponentiell vekst nettbutikk](https://matematikkoppgaver.vercel.app/eksponentiell-vekst-nettbutikk/) | regresjon, modellering, eksponentialfunksjoner, prosentvis endring, prosentvis endring i flere perioder | ✔︎ |
 | [2-2](#oppgave-2-2) | [Befolkningsstatistikk tettsteder](https://matematikkoppgaver.vercel.app/befolkningsstatistikk-tettsteder/) | statistikk, standardavvik, sentralmål | ✔︎ |
-| [2-3](#oppgave-2-3) | [Internettbruk i aldersgrupper](https://matematikkoppgaver.vercel.app/internettbruk-i-aldersgrupper/) | statistikk, presentasjon av data, diagram | ✔︎ |
-| [2-4](#oppgave-2-4) | [Investeringer og avkastning](https://matematikkoppgaver.vercel.app/investeringer-og-avkastning/) | prosent, prosentvis endring | ✔︎ |
+| [2-3](#oppgave-2-3) | [Internettbruk i aldersgrupper](https://matematikkoppgaver.vercel.app/internettbruk-i-aldersgrupper/) | statistikk, presentasjon av data, diagram, utforskning, prosentvis endring | ✔︎ |
+| [2-4](#oppgave-2-4) | [Investeringer og avkastning](https://matematikkoppgaver.vercel.app/investeringer-og-avkastning/) | prosent, prosentvis endring, vekstfaktor, sparing, økonomi | ✔︎ |
 | [2-5](#oppgave-2-5) | [Gjennomsnittsalder i Åseral](https://matematikkoppgaver.vercel.app/gjennomsnittsalder-i-aseral/) | grupperte data, sentralmål | ✔︎ |
 | [2-6](#oppgave-2-6) | [Proporsjonalitet i julepynt](https://matematikkoppgaver.vercel.app/proporsjonalitet-i-julepynt/) | proporsjonalitet, omvendt proporsjonalitet | ✔︎ |
 

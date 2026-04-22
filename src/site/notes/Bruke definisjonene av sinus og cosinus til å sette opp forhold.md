@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-01-28","modified":"2026-02-01","aliases":[],"dg-publish":true,"temaer":["trigonometri"],"fag":["1p-y el"],"eksamen":"h24","del":1,"oppgave":5,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":5}],"title":"Bruke definisjonene av sinus og cosinus til å sette opp forhold","source":null,"todo":null,"status":3,"dg-permalink":"/bruke-definisjonene-av-sinus-og-cosinus-til-a-sette-opp-forhold/","permalink":"/bruke-definisjonene-av-sinus-og-cosinus-til-a-sette-opp-forhold/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-01-28","modified":"2026-02-01","aliases":[],"temaer":["trigonometri"],"fag":["1p-y el"],"eksamen":"h24","del":1,"oppgave":5,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":5}],"title":"Bruke definisjonene av sinus og cosinus til å sette opp forhold","source":null,"todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2026-01-28","modified":"2026-02-01","aliases":[],"dg-publish":true,"temaer":["trigonometri"],"fag":["1p-y el"],"eksamen":"h24","del":1,"oppgave":5,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":5}],"title":"Bruke definisjonene av sinus og cosinus til å sette opp forhold","source":null,"todo":null,"status":3,"kategori":1,"vanskegrad":1,"beskrivelse":"Lese av $\\sin 30°$ fra en 30-60-90-trekant og beregne $AB = \\cos 30° \\cdot AC$.","dg-permalink":"/bruke-definisjonene-av-sinus-og-cosinus-til-a-sette-opp-forhold/","lf-source-claude":true,"permalink":"/bruke-definisjonene-av-sinus-og-cosinus-til-a-sette-opp-forhold/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-01-28","modified":"2026-02-01","aliases":[],"temaer":["trigonometri"],"fag":["1p-y el"],"eksamen":"h24","del":1,"oppgave":5,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":5}],"title":"Bruke definisjonene av sinus og cosinus til å sette opp forhold","source":null,"todo":null,"status":3,"kategori":1,"vanskegrad":1,"beskrivelse":"Lese av $\\sin 30°$ fra en 30-60-90-trekant og beregne $AB = \\cos 30° \\cdot AC$.","lf-source-claude":true}}
 ---
 
 
@@ -121,7 +121,7 @@ I en trekant med vinkler $30\degree$, $60\degree$ og $90\degree$ er hypotenusen 
 </g>
 <path fill="none" stroke-width="0.4" stroke-linecap="butt" stroke-linejoin="round" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 240 704 L 240 720 L 256 720 " transform="matrix(1, 0, 0, -1, -49, 800)"/>
 </svg>
-
+{width=30%}
 
 En elev ser på figuren og stiller seg to spørsmål:
 

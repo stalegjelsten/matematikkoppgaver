@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-04-07","aliases":[],"dg-publish":true,"temaer":["regneark","prosentregning","økonomi"],"fag":["1p-y na"],"eksamen":"h23","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p-y na","del":2,"oppgave":3}],"poeng":null,"title":"Trine og ungdomskvote leppefisk","status":0,"source":null,"todo":["fasit","løsningsforslag"],"dg-permalink":"/trine-og-ungdomskvote-leppefisk/","permalink":"/trine-og-ungdomskvote-leppefisk/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-04-07","aliases":[],"temaer":["regneark","prosentregning","økonomi"],"fag":["1p-y na"],"eksamen":"h23","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p-y na","del":2,"oppgave":3}],"poeng":null,"title":"Trine og ungdomskvote leppefisk","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"aliases":[],"date":"2023-11-20","del":2,"dg-permalink":"/trine-og-ungdomskvote-leppefisk/","dg-publish":true,"eksamen":"h23","fag":["1p-y na"],"modified":"2026-04-07","oppgave":3,"oppgavenummer":[{"del":2,"fag":"1p-y na","oppgave":3}],"poeng":null,"source":null,"status":0,"tags":["oppgave"],"temaer":["regneark","prosentregning","økonomi"],"title":"Trine og ungdomskvote leppefisk","todo":["fasit"],"permalink":"/trine-og-ungdomskvote-leppefisk/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":[],"date":"2023-11-20","del":2,"eksamen":"h23","fag":["1p-y na"],"modified":"2026-04-07","oppgave":3,"oppgavenummer":[{"del":2,"fag":"1p-y na","oppgave":3}],"poeng":null,"source":null,"status":0,"tags":["oppgave"],"temaer":["regneark","prosentregning","økonomi"],"title":"Trine og ungdomskvote leppefisk","todo":["fasit"]}}
 ---
 
 
@@ -10,11 +10,11 @@ I 2023 fikk Trine tildelt en ungdomskvote på leppefisk. Hun kan tjene maks $50\
 I tabellen ser du en oversikt over Trine sin fangst sommeren 2023.
 
 | Fiskeart  | Pris per fisk (kroner) | Antall fisk |
-|-----------|------------------------|-------------|
-| Berggylt  | $37{,}00$              | 93          |
-| Gressgylt | $14{,}25$              | 397         |
-| Grønngylt | $14{,}25$              | 985         |
-| Bergnebb  | $14{,}25$              | 1874        |
+| --------- | :--------------------: | :---------: |
+| Berggylt  |       $37{,}00$        |     93      |
+| Gressgylt |       $14{,}25$        |     397     |
+| Grønngylt |       $14{,}25$        |     985     |
+| Bergnebb  |       $14{,}25$        |    1874     |
 
 >[!oppgave]
 >a) Bruk regneark og lag en oversikt over inntekter per fiskeart og totalinntekten til Trine.

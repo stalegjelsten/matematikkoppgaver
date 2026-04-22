@@ -41,6 +41,10 @@ Tallene fra oppgave a) er starten på en rekke.
 
 ## Fasit
 
+a) Koden skriver ut tallfølgen 2, 5, 9, 14, 20. Differansen mellom leddene starter på 3 og øker med 1 for hvert ledd.
+b) Eleven finner delsummen etter 5 ledd. Programmet skriver ut 50.
+c) Se løsningsforslag (induksjonsbevis).
+
 ## Løsningsforslag
 
 ### a

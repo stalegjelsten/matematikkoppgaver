@@ -24,8 +24,8 @@ Table: {.eksamen-oversikt}
 | [2-1](#oppgave-2-1) | [Pastadeig og cannelloni](https://matematikkoppgaver.vercel.app/pastadeig-og-cannelloni/) | prosentregning, volum | × |
 | [2-2](#oppgave-2-2) | [Meksikansk restaurant og tacosalg](https://matematikkoppgaver.vercel.app/meksikansk-restaurant-og-tacosalg/) | regneark, grafisk framstilling, prosentvis endring | × |
 | [2-3](#oppgave-2-3) | [Lærlinglønn i fire halvår](https://matematikkoppgaver.vercel.app/laerlinglonn-i-fire-halvar/) | prosentregning, økonomi | × |
-| [2-4](#oppgave-2-4) | [Ludvigs dusjregnskap](https://matematikkoppgaver.vercel.app/ludvigs-dusjregnskap/) | excel | ✔︎ |
-| [2-5](#oppgave-2-5) | [Martines studielån](https://matematikkoppgaver.vercel.app/martines-studielan/) | lån, excel | ✔︎ |
+| [2-4](#oppgave-2-4) | [Ludvigs dusjregnskap](https://matematikkoppgaver.vercel.app/ludvigs-dusjregnskap/) | excel, økonomi | ✔︎ |
+| [2-5](#oppgave-2-5) | [Martines studielån](https://matematikkoppgaver.vercel.app/martines-studielan/) | lån, excel, prosentregning | ✔︎ |
 
 # Del 1
 
@@ -259,7 +259,6 @@ Ibrahim vil lage et regneark som finner riktig mengde ingredienser. I den gule c
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -303,7 +302,6 @@ $$V = l \cdot b \cdot h$$
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -351,7 +349,6 @@ Kostnader til innkjøp av matvarer har økt mye det siste året. Kjøkkensjefen 
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -388,7 +385,6 @@ En lærling jobber omtrent $1650$ timer i løpet av ett år.
 
 
 ## Løsningsforslag
-
 
 </div></div>
 

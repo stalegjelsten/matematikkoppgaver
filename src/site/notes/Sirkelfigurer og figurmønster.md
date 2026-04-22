@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["figurtall"],"fag":["2p-y"],"eksamen":"h23","del":1,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":5}],"title":"Sirkelfigurer og figurmønster","status":3,"source":null,"todo":null,"dg-permalink":"/sirkelfigurer-og-figurmonster/","permalink":"/sirkelfigurer-og-figurmonster/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["figurtall"],"fag":["2p-y"],"eksamen":"h23","del":1,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":5}],"title":"Sirkelfigurer og figurmønster","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["figurtall"],"fag":["2p-y"],"eksamen":"h23","del":1,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":5}],"title":"Sirkelfigurer og figurmønster","status":3,"source":null,"todo":null,"kategori":2,"vanskegrad":2,"beskrivelse":"Gjenkjenne figurmønsteret som kvadrat $(n+1) \\times (n+1)$ minus én sirkel, og skrive uttrykket $F_n = (n+1)^2 - 1$.","dg-permalink":"/sirkelfigurer-og-figurmonster/","permalink":"/sirkelfigurer-og-figurmonster/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["figurtall"],"fag":["2p-y"],"eksamen":"h23","del":1,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":5}],"title":"Sirkelfigurer og figurmønster","status":3,"source":null,"todo":null,"kategori":2,"vanskegrad":2,"beskrivelse":"Gjenkjenne figurmønsteret som kvadrat $(n+1) \\times (n+1)$ minus én sirkel, og skrive uttrykket $F_n = (n+1)^2 - 1$."}}
 ---
 
 
@@ -14,6 +14,7 @@ Ovenfor ser du tre figurer. Figurene er satt sammen av små sirkler. Tenk deg at
 
 ## Fasit
 
+$F_{n}=(n+1)^{2}-1$
 
 ## Løsningsforslag
 

@@ -48,7 +48,6 @@ Anta at det på et tidspunkt vil bo 18 millioner mennesker i et land, og at dett
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -91,7 +90,6 @@ print(v)
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -119,7 +117,6 @@ På nettsidene til Viking Redningstjeneste står det at en bil som kjører i $70
 >b) Hvor fort kjører en bil som har en bremselengde på $40{,}5 \mathrm{~m}$?
 
 ## Fasit
-
 
 </div></div>
 
@@ -152,7 +149,6 @@ Tabellen nedenfor viser hvor mange bagetter en kantine har solgt hver av de sist
 >d) Bestem den momentane vekstfarten når $x = 235$. Gi en praktisk tolkning av svaret du får.
 
 ## Fasit
-
 
 </div></div>
 
@@ -233,7 +229,6 @@ I 2022 ble det i gjennomsnitt produsert $1{,}685$ millioner fat hvert døgn.
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -275,7 +270,6 @@ Da Jakob Ingebrigtsen satte personlig rekord på 1 engelsk mil, holdt han en gje
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -309,7 +303,6 @@ $$2, 5, 11, 23, 47, \ldots$$
 >- argumenter for at alle leddene i tallfølgen bortsett fra det første er oddetall
 
 ## Fasit
-
 
 </div></div>
 
@@ -365,7 +358,6 @@ Når lufttrykket er lavere enn 1000 hPa, vil kokepunktet for vann være lavere e
 >c) Omtrent hvor høyt over havet er det mulig å få egg hardkokte?
 
 ## Fasit
-
 
 </div></div>
 

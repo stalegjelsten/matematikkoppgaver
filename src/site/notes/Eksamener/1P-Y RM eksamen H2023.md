@@ -317,7 +317,6 @@ Melk.no vil finne ut hvilket år endringen var størst, og setter opp noen bereg
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -368,7 +367,6 @@ Peter skal lage kakao til en juleavslutning. Han skal lage 45 liter kakao. Han h
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -426,7 +424,6 @@ Formelen for arealet av en sirkel er $A = \pi \cdot r^2$.
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -489,7 +486,6 @@ Barnehagen serverer lunsj til barna fem dager i uka.
 
 
 ## Løsningsforslag
-
 
 </div></div>
 

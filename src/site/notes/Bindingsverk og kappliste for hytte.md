@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-25","modified":"2026-04-07","aliases":[],"dg-publish":true,"temaer":["geometri","måleenheter","prosentregning"],"fag":["1p-y ba"],"eksamen":"h24","del":1,"oppgave":5,"oppgavenummer":[{"fag":"1p-y ba","del":1,"oppgave":5}],"poeng":2,"title":"Bindingsverk og kappliste for hytte","status":0,"source":null,"todo":["fasit","løsningsforslag"],"dg-permalink":"/bindingsverk-og-kappliste-for-hytte/","permalink":"/bindingsverk-og-kappliste-for-hytte/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-25","modified":"2026-04-07","aliases":[],"temaer":["geometri","måleenheter","prosentregning"],"fag":["1p-y ba"],"eksamen":"h24","del":1,"oppgave":5,"oppgavenummer":[{"fag":"1p-y ba","del":1,"oppgave":5}],"poeng":2,"title":"Bindingsverk og kappliste for hytte","status":0,"source":null,"todo":["fasit","løsningsforslag"]}}
+{"tags":["oppgave"],"date":"2024-11-25","modified":"2026-04-07","aliases":[],"dg-publish":true,"temaer":["geometri","måleenheter","prosentregning"],"fag":["1p-y ba"],"eksamen":"h24","del":1,"oppgave":5,"oppgavenummer":[{"fag":"1p-y ba","del":1,"oppgave":5}],"poeng":2,"title":"Bindingsverk og kappliste for hytte","status":0,"source":null,"todo":null,"lf-source-claude":true,"dg-permalink":"/bindingsverk-og-kappliste-for-hytte/","permalink":"/bindingsverk-og-kappliste-for-hytte/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-25","modified":"2026-04-07","aliases":[],"temaer":["geometri","måleenheter","prosentregning"],"fag":["1p-y ba"],"eksamen":"h24","del":1,"oppgave":5,"oppgavenummer":[{"fag":"1p-y ba","del":1,"oppgave":5}],"poeng":2,"title":"Bindingsverk og kappliste for hytte","status":0,"source":null,"todo":null,"lf-source-claude":true}}
 ---
 
 
@@ -33,6 +33,34 @@ Elevene i klassen ser på arbeidstegningen og kapplisten og stiller seg noen sp�
 
 ## Fasit
 
-
+Bindingsverket: $48 \, \mathrm{m}$ med 48 x 98 plank. Taksperr med svinn: $9\,900 \, \mathrm{mm}$.
 
 ## Løsningsforslag
+
+**Spørsmål 1 – meter med 48 x 98 plank til bindingsverket**
+
+Bindingsverket består av sviller (pos 3–6), stendere (pos 7) og losholter (pos 8). Vi leser av «Sum»-kolonnen i kapplisten og legger sammen:
+
+| Pos | Type | Sum (m) |
+|-----|------|---------|
+| 3 | Svill | 8 |
+| 4 | Svill | 4 |
+| 5 | Svill | 3 |
+| 6 | Svill | 6 |
+| 7 | Stender | 24 |
+| 8 | Losholt | 3 |
+| | **Totalt** | **48** |
+
+**Det går med $\underline{\underline{48 \, \mathrm{m}}}$ med 48 x 98 mm plank til bindingsverket.**
+
+**Spørsmål 2 – taksperr med 10 % svinn i millimeter**
+
+Materialforbruket til taksperren er $9{,}0 \, \mathrm{m}$. Vi legger til 10 % svinn:
+
+$$9{,}0 \cdot 1{,}10 = 9{,}9 \, \mathrm{m}$$
+
+Vi gjør om til millimeter:
+
+$$9{,}9 \, \mathrm{m} = 9{,}9 \cdot 1000 = \underline{\underline{9\,900 \, \mathrm{mm}}}$$
+
+**Det totale materialforbruket til taksperren med svinn er $\underline{\underline{9\,900 \, \mathrm{mm}}}$.**

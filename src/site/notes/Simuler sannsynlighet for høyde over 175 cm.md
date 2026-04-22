@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"temaer":["programmering","simulering","sannsynlighet","normalfordeling"],"alias":[null],"del":2,"oppgave":6,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":6}],"fag":"s2","eksamen":"e22","dg-publish":true,"title":"Simuler sannsynlighet for høyde over 175 cm","date":"2023-06-06","modified":"2023-06-06","todo":null,"dg-permalink":"/simuler-sannsynlighet-for-hoyde-over-175-cm/","permalink":"/simuler-sannsynlighet-for-hoyde-over-175-cm/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"temaer":["programmering","simulering","sannsynlighet","normalfordeling"],"alias":[null],"del":2,"oppgave":6,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":6}],"fag":"s2","eksamen":"e22","title":"Simuler sannsynlighet for høyde over 175 cm","date":"2023-06-06","modified":"2023-06-06","todo":null}}
+{"tags":["oppgave"],"temaer":["programmering","simulering","sannsynlighet","normalfordeling"],"alias":[null],"del":2,"oppgave":6,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":6}],"fag":"s2","eksamen":"e22","dg-publish":true,"title":"Simuler sannsynlighet for høyde over 175 cm","date":"2023-06-06","modified":"2023-06-06","todo":null,"dg-permalink":"/simuler-sannsynlighet-for-hoyde-over-175-cm/","status":3,"permalink":"/simuler-sannsynlighet-for-hoyde-over-175-cm/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"temaer":["programmering","simulering","sannsynlighet","normalfordeling"],"alias":[null],"del":2,"oppgave":6,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":6}],"fag":"s2","eksamen":"e22","title":"Simuler sannsynlighet for høyde over 175 cm","date":"2023-06-06","modified":"2023-06-06","todo":null,"status":3}}
 ---
 
 # Simuler sannsynlighet for høyde over 175 cm
@@ -19,8 +19,7 @@ Omtrent 41,6 %
 
 ## Løsningsforslag
 
-
-```python {.python caption="Oppgave 2-6" #code:oppg26}
+```python
 import numpy as np
 import random
 

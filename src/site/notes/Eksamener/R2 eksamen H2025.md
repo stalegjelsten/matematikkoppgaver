@@ -15,9 +15,9 @@ Table: {.eksamen-oversikt}
 | [1-3](#oppgave-1-3) | [Tolkning av integral og areal fra graf](https://matematikkoppgaver.vercel.app/tolkning-av-integral-og-areal-fra-graf/) | tolke grafer, tolkning av integraler, integral, areal under graf | ✔︎ |
 | [1-4](#oppgave-1-4) | [Trigonometriske likninger og antall løsninger](https://matematikkoppgaver.vercel.app/trigonometriske-likninger-og-antall-losninger/) | trigonometri, likninger | ✔︎ |
 | [1-5](#oppgave-1-5) | [Sanne og usanne påstander om fart og vinkel](https://matematikkoppgaver.vercel.app/sanne-og-usanne-pastander-om-fart-og-vinkel/) | tolkning, trigonometri | ✔︎ |
-| [1-6](#oppgave-1-6) | [Aritmetisk og geometrisk rekke](https://matematikkoppgaver.vercel.app/aritmetisk-og-geometrisk-rekke/) | rekker, geometrisk vekst | ✔︎ |
+| [1-6](#oppgave-1-6) | [Aritmetisk og geometrisk rekke](https://matematikkoppgaver.vercel.app/aritmetisk-og-geometrisk-rekke/) | rekker, geometrisk vekst, aritmetisk rekke, konvergens, uendelig rekke | ✔︎ |
 | [1-7](#oppgave-1-7) | [Kuleflate og tangentplan](https://matematikkoppgaver.vercel.app/kuleflate-og-tangentplan/) | vektorer, geometri | ✔︎ |
-| [1-8](#oppgave-1-8) | [Induksjonsbevis for geometrisk rekke](https://matematikkoppgaver.vercel.app/induksjonsbevis-for-geometrisk-rekke/) | bevis, rekker | ✔︎ |
+| [1-8](#oppgave-1-8) | [Induksjonsbevis for geometrisk rekke](https://matematikkoppgaver.vercel.app/induksjonsbevis-for-geometrisk-rekke/) | bevis, rekker, geometrisk rekke | ✔︎ |
 
 **Del 2** — 2 timer — med hjelpemidler
 
@@ -25,9 +25,9 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [Miniubåt, fart og kollisjon med fiskestim](https://matematikkoppgaver.vercel.app/miniubat-fart-og-kollisjon-med-fiskestim/) | vektorer, geometri | ✔︎ |
+| [2-1](#oppgave-2-1) | [Miniubåt, fart og kollisjon med fiskestim](https://matematikkoppgaver.vercel.app/miniubat-fart-og-kollisjon-med-fiskestim/) | vektorer, geometri, derivasjon | ✔︎ |
 | [2-2](#oppgave-2-2) | [Sinusmodell for elektrisk spenning](https://matematikkoppgaver.vercel.app/sinusmodell-for-elektrisk-spenning/) | regresjon, trigonometri, integral | ✔︎ |
-| [2-3](#oppgave-2-3) | [CCl4-konsentrasjon og geometrisk rekke](https://matematikkoppgaver.vercel.app/c-cl4-konsentrasjon-og-geometrisk-rekke/) | rekker, geometrisk vekst, modellering | ✔︎ |
+| [2-3](#oppgave-2-3) | [CCl4-konsentrasjon og geometrisk rekke](https://matematikkoppgaver.vercel.app/c-cl4-konsentrasjon-og-geometrisk-rekke/) | rekker, geometrisk vekst, modellering, konvergens, uendelig rekke | ✔︎ |
 | [2-4](#oppgave-2-4) | [Programmering og numerisk integrasjon](https://matematikkoppgaver.vercel.app/programmering-og-numerisk-integrasjon/) | programmering, integral | ✔︎ |
 
 # Del 1

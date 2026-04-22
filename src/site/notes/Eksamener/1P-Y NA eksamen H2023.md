@@ -297,7 +297,6 @@ Norske melkekyr er avlet for å produsere melk. Hver ku produserer i gjennomsnit
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -328,7 +327,6 @@ En liten seilbåt har to seil som er rettvinklede trekanter. I det største seil
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -368,7 +366,6 @@ Vi antar at prisnedgangen har vært den samme fra traktoren var helt ny.
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -388,11 +385,11 @@ I 2023 fikk Trine tildelt en ungdomskvote på leppefisk. Hun kan tjene maks $50\
 I tabellen ser du en oversikt over Trine sin fangst sommeren 2023.
 
 | Fiskeart  | Pris per fisk (kroner) | Antall fisk |
-|-----------|------------------------|-------------|
-| Berggylt  | $37{,}00$              | 93          |
-| Gressgylt | $14{,}25$              | 397         |
-| Grønngylt | $14{,}25$              | 985         |
-| Bergnebb  | $14{,}25$              | 1874        |
+| --------- | :--------------------: | :---------: |
+| Berggylt  |       $37{,}00$        |     93      |
+| Gressgylt |       $14{,}25$        |     397     |
+| Grønngylt |       $14{,}25$        |     985     |
+| Bergnebb  |       $14{,}25$        |    1874     |
 
 >[!oppgave]
 >a) Bruk regneark og lag en oversikt over inntekter per fiskeart og totalinntekten til Trine.
@@ -410,7 +407,6 @@ I 2023 kostet 1 liter drivstoff i gjennomsnitt 20 kroner. Trine tror drivstoffpr
 
 
 ## Løsningsforslag
-
 
 </div></div>
 

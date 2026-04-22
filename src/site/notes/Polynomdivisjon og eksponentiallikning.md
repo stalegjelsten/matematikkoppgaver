@@ -49,7 +49,7 @@ Vi skal løse $f(x) \leq 0$, altså $-2(x+1)(x-2)^2 \leq 0$.
 Nullpunktene er $x = -1$ og $x = 2$. Faktoren $(x-2)^2 \geq 0$ alltid, og $-2 < 0$, så fortegnet til $f(x)$ bestemmes av $(x+1)$:
 
 - For $x < -1$: $(x+1) < 0$, så $f(x) = -2 \cdot (\text{negativ}) \cdot (\text{positiv}) > 0$
-- For $x > -1$: $(x+1) > 0$, so $f(x) = -2 \cdot (\text{positiv}) \cdot (\text{positiv}) < 0$ (unntatt $x=2$ der $f=0$)
+- For $x > -1$: $(x+1) > 0$, så $f(x) = -2 \cdot (\text{positiv}) \cdot (\text{positiv}) < 0$ (unntatt $x=2$ der $f=0$)
 
 Løsningen er $\underline{\underline{x \geq -1}}$.
 

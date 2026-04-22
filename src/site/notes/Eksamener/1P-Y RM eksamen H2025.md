@@ -197,7 +197,6 @@ Ola er elev på restaurant- og matfag. Han mener at det er for mye melk i oppskr
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -235,7 +234,6 @@ Hun lager tabellen nedenfor.
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -281,7 +279,6 @@ Aina skal lage et anbud for et oppdrag til en kunde:
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -353,7 +350,6 @@ Hvor mange prosent utgjør dette av dagsbehovet?
 
 
 ## Løsningsforslag
-
 
 </div></div>
 

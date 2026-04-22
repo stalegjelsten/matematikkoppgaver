@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-13","modified":"2026-03-13","aliases":[],"dg-publish":true,"temaer":["excel","økonomi","formler"],"fag":["1p-y el","1p-y ba","1p-y tp","1p-y fd","1p-y hs","1p-y dt","1p-y im","1p-y na","1p-y rm","1p-y sr"],"eksamen":"h24","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":3},{"fag":"1p-y ba","del":2,"oppgave":3},{"fag":"1p-y tp","del":2,"oppgave":3},{"fag":"1p-y fd","del":2,"oppgave":3},{"fag":"1p-y hs","del":2,"oppgave":3},{"fag":"1p-y dt","del":2,"oppgave":3},{"fag":"1p-y im","del":2,"oppgave":3},{"fag":"1p-y na","del":2,"oppgave":3},{"fag":"1p-y rm","del":2,"oppgave":3},{"fag":"1p-y sr","del":2,"oppgave":3}],"title":"Eriks bilbruk","source":null,"todo":null,"status":3,"dg-permalink":"/eriks-bilbruk/","permalink":"/eriks-bilbruk/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-13","modified":"2026-03-13","aliases":[],"temaer":["excel","økonomi","formler"],"fag":["1p-y el","1p-y ba","1p-y tp","1p-y fd","1p-y hs","1p-y dt","1p-y im","1p-y na","1p-y rm","1p-y sr"],"eksamen":"h24","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":3},{"fag":"1p-y ba","del":2,"oppgave":3},{"fag":"1p-y tp","del":2,"oppgave":3},{"fag":"1p-y fd","del":2,"oppgave":3},{"fag":"1p-y hs","del":2,"oppgave":3},{"fag":"1p-y dt","del":2,"oppgave":3},{"fag":"1p-y im","del":2,"oppgave":3},{"fag":"1p-y na","del":2,"oppgave":3},{"fag":"1p-y rm","del":2,"oppgave":3},{"fag":"1p-y sr","del":2,"oppgave":3}],"title":"Eriks bilbruk","source":null,"todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2026-03-13","modified":"2026-03-13","aliases":[],"dg-publish":true,"temaer":["excel","økonomi","formler"],"fag":["1p-y el","1p-y ba","1p-y tp","1p-y fd","1p-y hs","1p-y dt","1p-y im","1p-y na","1p-y rm","1p-y sr"],"eksamen":"h24","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":3},{"fag":"1p-y ba","del":2,"oppgave":3},{"fag":"1p-y tp","del":2,"oppgave":3},{"fag":"1p-y fd","del":2,"oppgave":3},{"fag":"1p-y hs","del":2,"oppgave":3},{"fag":"1p-y dt","del":2,"oppgave":3},{"fag":"1p-y im","del":2,"oppgave":3},{"fag":"1p-y na","del":2,"oppgave":3},{"fag":"1p-y rm","del":2,"oppgave":3},{"fag":"1p-y sr","del":2,"oppgave":3}],"title":"Eriks bilbruk","source":null,"todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Regneark med bilkostnader; netto månedlig disponibelt etter skatt, husleie og bil; formelinnsetting for tidsforskjell i kjøretid.","deloppgaver":[{"deloppgave":"b","kategori":3,"vanskegrad":3,"beskrivelse":"Beregne netto etter skatt og trekke fra faste utgifter; vurdere om kjøpet er fornuftig."},{"deloppgave":"c","kategori":1,"vanskegrad":2,"beskrivelse":"Sette inn $v_1=58$, $v_2=65$ og $s=18$ i gitt tidsforskjellsformel."}],"dg-permalink":"/eriks-bilbruk/","lf-source-claude":true,"permalink":"/eriks-bilbruk/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-13","modified":"2026-03-13","aliases":[],"temaer":["excel","økonomi","formler"],"fag":["1p-y el","1p-y ba","1p-y tp","1p-y fd","1p-y hs","1p-y dt","1p-y im","1p-y na","1p-y rm","1p-y sr"],"eksamen":"h24","del":2,"oppgave":3,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":3},{"fag":"1p-y ba","del":2,"oppgave":3},{"fag":"1p-y tp","del":2,"oppgave":3},{"fag":"1p-y fd","del":2,"oppgave":3},{"fag":"1p-y hs","del":2,"oppgave":3},{"fag":"1p-y dt","del":2,"oppgave":3},{"fag":"1p-y im","del":2,"oppgave":3},{"fag":"1p-y na","del":2,"oppgave":3},{"fag":"1p-y rm","del":2,"oppgave":3},{"fag":"1p-y sr","del":2,"oppgave":3}],"title":"Eriks bilbruk","source":null,"todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Regneark med bilkostnader; netto månedlig disponibelt etter skatt, husleie og bil; formelinnsetting for tidsforskjell i kjøretid.","deloppgaver":[{"deloppgave":"b","kategori":3,"vanskegrad":3,"beskrivelse":"Beregne netto etter skatt og trekke fra faste utgifter; vurdere om kjøpet er fornuftig."},{"deloppgave":"c","kategori":1,"vanskegrad":2,"beskrivelse":"Sette inn $v_1=58$, $v_2=65$ og $s=18$ i gitt tidsforskjellsformel."}],"lf-source-claude":true}}
 ---
 
 
@@ -47,19 +47,13 @@ c) $\approx 2 \, \mathrm{min}$ lengre tid på mandagen
 
 ### 2-3a
 
-> [!note] Excel-oppgave
-> Åpne filen `eriks-bilbruk-losning.xlsx` og ta skjermbilde av regnearket med formler.
 
-Regnearket skal inneholde disse formlene i de grønne cellene:
+![Kostnader for elbil](/img/user/_resources/1py-el-v25-2-3-erik.png){width=50%}
 
-- **Totale kostnader første år** (celle C11): `=SUM(C5:C10)`
-- **Kostnader per kjørte kilometer** (celle C12): `=C11/C2`
+- **Totale kostnader første år** (celle B11): `=SUM(B5:B10)`
+- **Kostnader per kjørte kilometer** (celle B12): `=B11/B2`
 
-Resultater:
-
-$$\text{Totale kostnader} = 64\,000 + 37\,900 + 14\,500 + 19\,100 + 3\,800 + 2\,000 = \underline{\underline{141\,300 \, \mathrm{kr}}}$$
-
-$$\text{Kostnader per km} = \frac{141\,300}{15\,000} = \underline{\underline{9{,}42 \, \mathrm{kr/km}}}$$
+**Erik vil bruke 141 300 kr det første året, det tilsvarer 9,42 kr per km.**
 
 ### 2-3b
 
@@ -69,7 +63,7 @@ $$\text{Netto lønn} = 42\,000 \cdot (1 - 0{,}29) = 42\,000 \cdot 0{,}71 = 29\,8
 Bilkostnadene per måned er:
 $$\frac{141\,300}{12} = 11\,775 \, \mathrm{kr/mnd}$$
 
-Erik har til overs hver måned:
+Etter å ha betalt for husleie og bil sitter Erik igjen med:
 $$29\,820 - 16\,000 - 11\,775 = \underline{\underline{2\,045 \, \mathrm{kr}}}$$
 
 **Erik vil ha $\underline{\underline{2\,045 \, \mathrm{kr}}}$ til overs per måned etter bil og leilighet.**

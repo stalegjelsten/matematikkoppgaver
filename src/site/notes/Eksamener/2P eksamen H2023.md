@@ -12,7 +12,7 @@ Table: {.eksamen-oversikt}
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Buss enkeltbillett eller fleksikort](https://matematikkoppgaver.vercel.app/buss-enkeltbillett-eller-fleksikort/) | prosentregning | ✔︎ |
 | [1-2](#oppgave-1-2) | [Kart og målestokk](https://matematikkoppgaver.vercel.app/kart-og-malestokk/) | proporsjonalitet, målestokk | × |
-| [1-3](#oppgave-1-3) | [Joggeavstander med gitte sentralmål](https://matematikkoppgaver.vercel.app/joggeavstander-med-gitte-sentralmal/) | statistikk, sentralmål | ✔︎ |
+| [1-3](#oppgave-1-3) | [Joggeavstander med gitte sentralmål](https://matematikkoppgaver.vercel.app/joggeavstander-med-gitte-sentralmal/) | statistikk, sentralmål, utforskning | ✔︎ |
 | [1-4](#oppgave-1-4) | [Nullpunkter og andregradslikninger](https://matematikkoppgaver.vercel.app/nullpunkter-og-andregradslikninger/) | andregradslikninger, likninger | × |
 
 **Del 2** — 4 timer — med hjelpemidler
@@ -25,7 +25,7 @@ Table: {.eksamen-oversikt}
 | [2-2](#oppgave-2-2) | [Prisindeks for sjokoladepålegg](https://matematikkoppgaver.vercel.app/prisindeks-for-sjokoladepalegg/) | prisindeks, prosentregning | × |
 | [2-3](#oppgave-2-3) | [Målskårere i Eliteserien 2022](https://matematikkoppgaver.vercel.app/malskarere-i-eliteserien-2022/) | statistikk, sentralmål, spredningsmål | ✔︎ |
 | [2-4](#oppgave-2-4) | [Boliglån månedlige terminer](https://matematikkoppgaver.vercel.app/boliglan-manedlige-terminer/) | lån, økonomi, rekursiv sammenheng | × |
-| [2-5](#oppgave-2-5) | [Trekant med to løsninger](https://matematikkoppgaver.vercel.app/trekant-med-to-losninger/) | trigonometri, geometri | × |
+| [2-5](#oppgave-2-5) | [Trekant med to løsninger](https://matematikkoppgaver.vercel.app/trekant-med-to-losninger/) | trigonometri, geometri | ✔︎ |
 | [2-6](#oppgave-2-6) | [Helsefagarbeidere presentasjon av data](https://matematikkoppgaver.vercel.app/helsefagarbeidere-presentasjon-av-data/) | statistikk, diagrammer, presentasjon av data | ✔︎ |
 | [2-7](#oppgave-2-7) | [Kvadratserie geometrisk rekke](https://matematikkoppgaver.vercel.app/kvadratserie-geometrisk-rekke/) | geometrisk vekst, rekker, programmering | × |
 | [2-8](#oppgave-2-8) | [Klimagassutslipp eksponentiell vekst](https://matematikkoppgaver.vercel.app/klimagassutslipp-eksponentiell-vekst/) | modellering, eksponentialfunksjoner | × |
@@ -100,7 +100,6 @@ På et kart er avstanden mellom to byer 40 cm. I virkeligheten er avstanden 20 k
 >Bestem målestokken til kartet.
 
 ## Fasit
-
 
 </div></div>
 
@@ -202,7 +201,6 @@ Selma og Tobine arbeider med likningene ovenfor.
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -284,7 +282,6 @@ Prisen for ett bestemt merke sjokoladepålegg steg fra 35,90 kroner i 2019 til 3
 >Gjør beregninger og finn ut om prisen for dette sjokoladepålegget steg mer enn prisindeksen for sjokoladepålegg fra 2019 til 2022.
 
 ## Fasit
-
 
 </div></div>
 
@@ -439,7 +436,7 @@ Vi ser at avdragene øker litt for hver måned (fordi rentene minker), og **ette
 
 # Trekant med to løsninger
 
-Læreren har bedt elevene tegne en trekant $ABC$ slik at $\angle B = 60\degree$, $BC = 8 \mathrm{~cm}$ og $AC = 6 \mathrm{~cm}$.
+Læreren har bedt elevene tegne en trekant $ABC$ slik at $\angle B = 30\degree$, $BC = 8 \mathrm{~cm}$ og $AC = 6 \mathrm{~cm}$.
 
 Trym og Torgeir mener begge at de har tegnet en trekant som er slik læreren har sagt den skal være, men de ser at trekantene de har tegnet, ikke er like.
 
@@ -447,6 +444,31 @@ Trym og Torgeir mener begge at de har tegnet en trekant som er slik læreren har
 >Kan begge ha tegnet riktig? Lag skisser og forklar.
 
 ## Fasit
+
+Ja, begge kan ha tegnet riktig. Det finnes to ulike trekanter som oppfyller kravene.
+
+## Løsningsforslag
+
+Vi konstruerer trekanten steg for steg:
+
+1. Tegn linjestykket $BC = 8 \text{~cm}$
+2. Fra $B$, tegn en stråle som danner en vinkel på $30\degree$ med $BC$. Punkt $A$ må ligge et sted på denne strålen.
+3. Siden $AC = 6 \text{~cm}$, tegner vi en sirkel med sentrum i $C$ og radius $6 \text{~cm}$. Punkt $A$ må ligge på denne sirkelen.
+4. Punkt $A$ er der strålen og sirkelen krysser hverandre.
+
+![To mulige trekanter](/img/user/_resources/2p-h23-2-5.png)
+
+Strålen fra $B$ krysser sirkelen i **to punkter**, $A_1$ og $A_2$. Det gir to ulike trekanter:
+
+|            | Trekant 1 (grønn)    | Trekant 2 (rød)      |
+| ---------- | -------------------- | -------------------- |
+| $AB$       | $11{,}4 \text{~cm}$  | $2{,}5 \text{~cm}$   |
+| $\angle A$ | $41{,}8\degree$      | $138{,}2\degree$     |
+| $\angle C$ | $108{,}2\degree$     | $11{,}8\degree$      |
+
+Begge trekantene har $\angle B = 30\degree$, $BC = 8 \text{~cm}$ og $AC = 6 \text{~cm}$.
+
+**Ja, begge elevene kan ha tegnet riktig. Det finnes to forskjellige trekanter som oppfyller kravene.**
 
 
 </div></div>
@@ -546,7 +568,6 @@ Ole påstår at $T = \dfrac{4 \cdot s}{p} \cdot 100$ er en formel for å regne u
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -577,7 +598,6 @@ Norge har som mål å bli et lavutslippssamfunn innen 2050. Da må klimagassutsl
 >b) Bruk modellen du fant i oppgave a), og vurder den opp mot opplysningene om målet for klimagassutslipp i 2050.
 
 ## Fasit
-
 
 </div></div>
 

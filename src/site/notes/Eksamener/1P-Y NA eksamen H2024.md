@@ -210,7 +210,6 @@ En dag fikk fiskeren totalt 20 fisker. Tabellen viser fordelingen av fiskene på
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -251,7 +250,6 @@ Trine ser på tilbudene og stiller to spørsmål:
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -300,7 +298,6 @@ Bedriften vil begynne å selge poteter i poser på 3 kg. Emilie foreslår en pri
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -363,7 +360,6 @@ Brage stiller seg selv noen spørsmål:
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -420,19 +416,13 @@ c) $\approx 2 \, \mathrm{min}$ lengre tid på mandagen
 
 ### 2-3a
 
-> [!note] Excel-oppgave
-> Åpne filen `eriks-bilbruk-losning.xlsx` og ta skjermbilde av regnearket med formler.
 
-Regnearket skal inneholde disse formlene i de grønne cellene:
+![Kostnader for elbil](/img/user/_resources/1py-el-v25-2-3-erik.png){width=50%}
 
-- **Totale kostnader første år** (celle C11): `=SUM(C5:C10)`
-- **Kostnader per kjørte kilometer** (celle C12): `=C11/C2`
+- **Totale kostnader første år** (celle B11): `=SUM(B5:B10)`
+- **Kostnader per kjørte kilometer** (celle B12): `=B11/B2`
 
-Resultater:
-
-$$\text{Totale kostnader} = 64\,000 + 37\,900 + 14\,500 + 19\,100 + 3\,800 + 2\,000 = \underline{\underline{141\,300 \, \mathrm{kr}}}$$
-
-$$\text{Kostnader per km} = \frac{141\,300}{15\,000} = \underline{\underline{9{,}42 \, \mathrm{kr/km}}}$$
+**Erik vil bruke 141 300 kr det første året, det tilsvarer 9,42 kr per km.**
 
 ### 2-3b
 
@@ -442,7 +432,7 @@ $$\text{Netto lønn} = 42\,000 \cdot (1 - 0{,}29) = 42\,000 \cdot 0{,}71 = 29\,8
 Bilkostnadene per måned er:
 $$\frac{141\,300}{12} = 11\,775 \, \mathrm{kr/mnd}$$
 
-Erik har til overs hver måned:
+Etter å ha betalt for husleie og bil sitter Erik igjen med:
 $$29\,820 - 16\,000 - 11\,775 = \underline{\underline{2\,045 \, \mathrm{kr}}}$$
 
 **Erik vil ha $\underline{\underline{2\,045 \, \mathrm{kr}}}$ til overs per måned etter bil og leilighet.**

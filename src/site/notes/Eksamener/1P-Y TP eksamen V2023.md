@@ -24,8 +24,8 @@ Table: {.eksamen-oversikt}
 | [2-1](#oppgave-2-1) | [Lærlinglønn i fire halvår](https://matematikkoppgaver.vercel.app/laerlinglonn-i-fire-halvar/) | prosentregning, økonomi | × |
 | [2-2](#oppgave-2-2) | [Tank for skjæreolje og pumpe](https://matematikkoppgaver.vercel.app/tank-for-skjaereolje-og-pumpe/) | volum, måleenheter | × |
 | [2-3](#oppgave-2-3) | [Aksel omdreiningstall og toleranseklasse](https://matematikkoppgaver.vercel.app/aksel-omdreiningstall-og-toleranseklasse/) | formler, toleranser, måleenheter | × |
-| [2-4](#oppgave-2-4) | [Ludvigs dusjregnskap](https://matematikkoppgaver.vercel.app/ludvigs-dusjregnskap/) | excel | ✔︎ |
-| [2-5](#oppgave-2-5) | [Martines studielån](https://matematikkoppgaver.vercel.app/martines-studielan/) | lån, excel | ✔︎ |
+| [2-4](#oppgave-2-4) | [Ludvigs dusjregnskap](https://matematikkoppgaver.vercel.app/ludvigs-dusjregnskap/) | excel, økonomi | ✔︎ |
+| [2-5](#oppgave-2-5) | [Martines studielån](https://matematikkoppgaver.vercel.app/martines-studielan/) | lån, excel, prosentregning | ✔︎ |
 
 # Del 1
 
@@ -262,7 +262,6 @@ Under ser du et utdrag av tabellen «NS-EN ISO 286-1:2010». I denne tabellen er
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -302,7 +301,6 @@ En lærling jobber omtrent $1650$ timer i løpet av ett år.
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -341,7 +339,6 @@ For hver omdreining pumpa gjør, forflyttes det $0{,}4 \mathrm{~dl}$ væske. Omd
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -392,7 +389,6 @@ Lengden av akselen er $50 \mathrm{~mm}$. Den måles med et måleverktøy som har
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
