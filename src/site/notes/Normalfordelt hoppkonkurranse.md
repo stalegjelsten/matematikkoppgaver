@@ -47,7 +47,7 @@ $$
 $$
 **Sannsynlighetene for at Birger, Maren og Espen hopper lengre enn 90 meter er i ett tilfeldig hopp er henholdsvis 0,1587, 0,0228 og 0,0668.**
 
-### 2-2b
+### b
 Hvis Maren skal hoppe lengst med et hopp på 83 meter så må både $B<83$ og $E < 83$. Vi kan bruke multiplikasjonsprinsippet for å finne sannsynligheten for at begge disse utfallene skjer samtidig. Igjen bestemmer vi sannsynligheten ved hjelp av sannsynlighetsvinduet i GeoGebra.
 
 ![Sannsynligheten for at Birger hopper kortere enn 83 meter](/img/user/_resources/s2-v25-2-2b.png){width=60%}
@@ -60,7 +60,7 @@ P(\text{Maren vinner med 83 m}) &= \textcolor{orange}{P(B<83)}\cdot \textcolor{s
 $$
 **Sannsynligheten for at Maren vinner med et hopp på 83 meter er 0,5849.**
 
-### 2-2c
+### c
 Vi lager en simulering i Python hvor vi trekker hopplengder ut fra normalfordelingene til $B$, $M$ og $E$. Deretter sjekker vi om Marens hopp er det lengste hoppet.
 
 ```python

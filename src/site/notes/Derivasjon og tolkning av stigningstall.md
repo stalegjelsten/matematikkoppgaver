@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["derivasjon","funksjoner"],"fag":["s1"],"eksamen":"h25","del":1,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":1}],"title":"Derivasjon og tolkning av stigningstall","status":3,"source":null,"todo":null,"dg-permalink":"/derivasjon-og-tolkning-av-stigningstall/","permalink":"/derivasjon-og-tolkning-av-stigningstall/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["derivasjon","funksjoner"],"fag":["s1"],"eksamen":"h25","del":1,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":1}],"title":"Derivasjon og tolkning av stigningstall","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["derivasjon","funksjoner"],"fag":["s1"],"eksamen":"h25","del":1,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":1}],"title":"Derivasjon og tolkning av stigningstall","status":3,"source":null,"todo":null,"kategori":2,"vanskegrad":2,"beskrivelse":"Derivere med potens- og kvotientregel; tolke fortegnsskifte $g'(2)>0$, $g'(3)<0$ som toppunkt for $g$ i $\\langle2,3\\rangle$.","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":1,"beskrivelse":"Derivere $f(x)=\\frac{1}{3}x^3+\\sqrt{x}+2$ med potensregler."},{"deloppgave":"b","kategori":1,"vanskegrad":2,"beskrivelse":"Bruke kvotientregelen på $g(x)=(2x-3)/e^x$ og beregne $g'(2)$ og $g'(3)$."}],"dg-permalink":"/derivasjon-og-tolkning-av-stigningstall/","permalink":"/derivasjon-og-tolkning-av-stigningstall/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["derivasjon","funksjoner"],"fag":["s1"],"eksamen":"h25","del":1,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":1}],"title":"Derivasjon og tolkning av stigningstall","status":3,"source":null,"todo":null,"kategori":2,"vanskegrad":2,"beskrivelse":"Derivere med potens- og kvotientregel; tolke fortegnsskifte $g'(2)>0$, $g'(3)<0$ som toppunkt for $g$ i $\\langle2,3\\rangle$.","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":1,"beskrivelse":"Derivere $f(x)=\\frac{1}{3}x^3+\\sqrt{x}+2$ med potensregler."},{"deloppgave":"b","kategori":1,"vanskegrad":2,"beskrivelse":"Bruke kvotientregelen på $g(x)=(2x-3)/e^x$ og beregne $g'(2)$ og $g'(3)$."}]}}
 ---
 
 
@@ -28,7 +28,7 @@ c) Grafen til $g$ har et toppunkt i intervallet $\langle 2, 3 \rangle$
 
 ## Løsningsforslag
 
-### 1-1a
+### a
 
 Vi bruker potensregler og derivasjonsregler:
 
@@ -38,7 +38,7 @@ $$f'(x) = x^2 + \frac{1}{2}x^{-1/2} = x^2 + \frac{1}{2\sqrt{x}}$$
 
 **$\underline{\underline{f'(x) = x^2 + \dfrac{1}{2\sqrt{x}}}}$**
 
-### 1-1b
+### b
 
 Vi bruker kvotientregelen på $g(x) = \dfrac{2x-3}{e^x}$:
 
@@ -55,7 +55,7 @@ $$
 
 **$\underline{\underline{g'(2) = \dfrac{1}{e^2}}}$ og $\underline{\underline{g'(3) = -\dfrac{1}{e^3}}}$**
 
-### 1-1c
+### c
 
 Siden $g'(2) = \dfrac{1}{e^2} > 0$, er grafen til $g$ stigende i $x = 2$.
 

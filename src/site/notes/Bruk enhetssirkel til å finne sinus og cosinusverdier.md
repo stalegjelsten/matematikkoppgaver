@@ -23,7 +23,7 @@ b) $307\degree$
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 
 I enhetssirkelen er $\sin \alpha$ lik $y$-koordinaten til punktet der linjestykket $g$ treffer sirkelen. For $\alpha = 53°$ kan vi lese av figuren at punktet ligger omtrent på $y = 0{,}8$.
 
@@ -32,7 +32,7 @@ I enhetssirkelen er $\sin \alpha$ lik $y$-koordinaten til punktet der linjestykk
 >[!tip] Merk
 >Den eksakte verdien er $\sin 53° \approx 0{,}799$.
 
-### 1-4b
+### b
 
 Cosinus er $x$-koordinaten i enhetssirkelen. For $\alpha = 53°$ er $x$-koordinaten positiv (i første kvadrant).
 

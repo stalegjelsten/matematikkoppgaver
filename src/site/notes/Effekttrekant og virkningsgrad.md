@@ -115,7 +115,7 @@ c) 0,8 A
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 Vi bruker formlene i oppgaveteksten og beregner:
 
 $$
@@ -126,14 +126,14 @@ $$
 P=U \cdot I \cdot \cos \phi = 230 \cdot 7{,}5 \cdot 0{,}8 = \underline{\underline{ 1380 \mathrm{~W} }}
 $$
 
-### 2-1b
+### b
 Hvis $P$ og $Q$ skal være like store så blir begge katetene i effekttrekanten like store. I så fall må $\phi$ være $45 \degree$.
 
 Vi vet at motoren er mest effektiv når fasevinkelen er så nærme $0\degree$ som mulig, da er $\cos \phi$ nærme 1. Når $\cos \phi$ minker så øker $\phi$, altså vil den reaktive effekten øke hvis $\cos \phi$ minker.
 
 **Hvis $P$ og $Q$ er like store så er $\phi=45\degree$. $Q$ øker hvis $\cos \phi$ minker.**
 
-### 2-1c
+### c
 Hvis den avgitte effekten er lik uavhengig av om spenningen er 230 V eller 400 V så må strømmen endre seg. 
 
 Vi prøver først å beregne $P_{a}$ for 230 V:

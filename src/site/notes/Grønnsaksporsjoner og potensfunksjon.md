@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-05-23","modified":"2023-05-23","aliases":[],"dg-publish":true,"temaer":["modellering","potensfunksjon","stigningstall","derivasjon","tolkning"],"fag":["2p-y"],"eksamen":"v23","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":7}],"title":"Grønnsaksporsjoner og potensfunksjon","source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"status":3,"dg-permalink":"/gronnsaksporsjoner-og-potensfunksjon/","permalink":"/gronnsaksporsjoner-og-potensfunksjon/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-05-23","modified":"2023-05-23","aliases":[],"temaer":["modellering","potensfunksjon","stigningstall","derivasjon","tolkning"],"fag":["2p-y"],"eksamen":"v23","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":7}],"title":"Grønnsaksporsjoner og potensfunksjon","source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"status":3}}
+{"tags":["oppgave"],"date":"2023-05-23","modified":"2023-05-23","aliases":[],"dg-publish":true,"temaer":["modellering","potensfunksjon","stigningstall","derivasjon","tolkning"],"fag":["2p-y"],"eksamen":"v23","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":7}],"title":"Grønnsaksporsjoner og potensfunksjon","source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Potensregresjon $P(x)=2060\\cdot x^{0{,}64}$; stigningstall sekant over $[1,20]$ og tangent i uke 6 via derivert, med tolking som gjennomsnittlig/øyeblikkelig vekstfart.","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":1,"beskrivelse":"Potensregresjon i GeoGebra på datapunktene $(x, P)$."},{"deloppgave":"b","beskrivelse":"Sekantstigningstall $(P(20)-P(1))/19 \\approx 629$ porsjoner/uke."},{"deloppgave":"c","vanskegrad":3,"beskrivelse":"Derivere potensfunksjon og beregne $P'(6) = 1318{,}4 \\cdot 6^{-0{,}36} \\approx 692$."}],"dg-permalink":"/gronnsaksporsjoner-og-potensfunksjon/","lf-source-claude":true,"permalink":"/gronnsaksporsjoner-og-potensfunksjon/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-05-23","modified":"2023-05-23","aliases":[],"temaer":["modellering","potensfunksjon","stigningstall","derivasjon","tolkning"],"fag":["2p-y"],"eksamen":"v23","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":7}],"title":"Grønnsaksporsjoner og potensfunksjon","source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Potensregresjon $P(x)=2060\\cdot x^{0{,}64}$; stigningstall sekant over $[1,20]$ og tangent i uke 6 via derivert, med tolking som gjennomsnittlig/øyeblikkelig vekstfart.","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":1,"beskrivelse":"Potensregresjon i GeoGebra på datapunktene $(x, P)$."},{"deloppgave":"b","beskrivelse":"Sekantstigningstall $(P(20)-P(1))/19 \\approx 629$ porsjoner/uke."},{"deloppgave":"c","vanskegrad":3,"beskrivelse":"Derivere potensfunksjon og beregne $P'(6) = 1318{,}4 \\cdot 6^{-0{,}36} \\approx 692$."}],"lf-source-claude":true}}
 ---
 
 
@@ -34,7 +34,7 @@ c) Stigningstall tangent i uke 6 $\approx 692$ porsjoner/uke
 
 ## Løsningsforslag
 
-### 2-7a
+### a
 
 Vi bruker potensregresjon på dataene:
 
@@ -54,7 +54,7 @@ Modellen passer svært godt til dataene ($R^2 \approx 1{,}00$):
 
 **En modell for sammenhengen er $\underline{\underline{P(x) = 2060 \cdot x^{0{,}64}}}$.**
 
-### 2-7b
+### b
 
 Stigningstallet til sekanten gjennom $(1, P(1))$ og $(20, P(20))$:
 
@@ -74,7 +74,7 @@ $$
 
 Det betyr at antall registrerte porsjoner økte i gjennomsnitt med ca. 629 per uke i perioden fra uke 1 til uke 20.
 
-### 2-7c
+### c
 
 Stigningstallet til tangenten i $(6, P(6))$ er den deriverte $P'(6)$:
 

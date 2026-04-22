@@ -40,7 +40,7 @@ c) Large (16 GB) til 299 kr/måned
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 
 Vi gjør om 152 GB til MB (1 GB = 1000 MB):
 
@@ -56,7 +56,7 @@ $$
 
 **Petter får plass til maksimalt $\underline{\underline{20\,267 \, \text{bilder}}}$ til.**
 
-### 2-2b
+### b
 
 100 bilder opptar $100 \cdot 7{,}5 = 750 \, \mathrm{MB}$ lagringsplass. Vi gjør om til megabit (1 MB = 8 Mbit):
 
@@ -72,7 +72,7 @@ $$
 
 **Petter trenger en internettilkobling på minst $\underline{\underline{50 \, \mathrm{Mbit/s}}}$.**
 
-### 2-2c
+### c
 
 Vi finner Petters dataforbruk per dag:
 

@@ -26,13 +26,13 @@ b) $200 \, \mathrm{kr}$
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 
 $$P = U \cdot I = 230 \cdot 0{,}5 = \underline{\underline{115 \, \mathrm{W}}}$$
 
 **Effektbehovet til iskremmaskinen er $\underline{\underline{115 \, \mathrm{W}}}$.**
 
-### 1-4b
+### b
 
 200 W = 0,2 kW. Energiforbruket over 1000 timer er:
 $$E = P \cdot t = 0{,}2 \, \mathrm{kW} \cdot 1000 \, \mathrm{h} = 200 \, \mathrm{kWh}$$

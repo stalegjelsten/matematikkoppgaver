@@ -24,8 +24,8 @@ Table: {.eksamen-oversikt}
 | [2-1](#oppgave-2-1) | [Strøm og virkningsgrad elektromotor](https://matematikkoppgaver.vercel.app/strom-og-virkningsgrad-elektromotor/) | effekttrekant, formler, elektrofag | ✔︎ |
 | [2-2](#oppgave-2-2) | [Effektformel vindturbin](https://matematikkoppgaver.vercel.app/effektformel-vindturbin/) | formler, elektrofag, potensregning | ✔︎ |
 | [2-3](#oppgave-2-3) | [Solcellepanel areal og kostnad](https://matematikkoppgaver.vercel.app/solcellepanel-areal-og-kostnad/) | geometri, trigonometri, økonomi, elektrofag | ✔︎ |
-| [2-4](#oppgave-2-4) | [Ludvigs dusjregnskap](https://matematikkoppgaver.vercel.app/ludvigs-dusjregnskap/) | excel | ✔︎ |
-| [2-5](#oppgave-2-5) | [Martines studielån](https://matematikkoppgaver.vercel.app/martines-studielan/) | lån, excel | ✔︎ |
+| [2-4](#oppgave-2-4) | [Ludvigs dusjregnskap](https://matematikkoppgaver.vercel.app/ludvigs-dusjregnskap/) | excel, økonomi | ✔︎ |
+| [2-5](#oppgave-2-5) | [Martines studielån](https://matematikkoppgaver.vercel.app/martines-studielan/) | lån, excel, prosentregning | ✔︎ |
 
 # Del 1
 

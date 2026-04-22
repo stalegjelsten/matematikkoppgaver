@@ -27,7 +27,7 @@ c) Ca. 294 km per time hurtiglading
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 
 Stine lader fra 28 % til 59 % = 31 prosentpoeng på 22 minutter (fra 12:33 til 12:55).
 
@@ -45,7 +45,7 @@ $$
 
 **Det vil ta omtrent $\underline{\underline{15 \, \mathrm{minutter}}}$ å lade fra 59 % til 80 %.**
 
-### 2-2b
+### b
 
 31 prosentpoeng tilsvarer 18,3 kWh. Vi beregner full kapasitet:
 
@@ -55,7 +55,7 @@ $$
 
 **Ut fra målingene er batterikapasiteten omtrent $\underline{\underline{59 \, \mathrm{kWh}}}$**, som er nær reklamens påstand om 60 kWh. Det kan godt stemme – avviket er på under 2 %.
 
-### 2-2c
+### c
 
 Ladeeffekten er:
 

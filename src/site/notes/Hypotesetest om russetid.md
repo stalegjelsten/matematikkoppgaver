@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"temaer":["binomisk","normalfordeling","hypotesetest"],"aliases":null,"del":2,"oppgave":5,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":5}],"fag":["s2"],"eksamen":"v19","dg-publish":true,"title":"Hypotesetest om russetid","date":"2023-05-31","modified":"2023-05-31","status":3,"dg-permalink":"/hypotesetest-om-russetid/","permalink":"/hypotesetest-om-russetid/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"temaer":["binomisk","normalfordeling","hypotesetest"],"aliases":null,"del":2,"oppgave":5,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":5}],"fag":["s2"],"eksamen":"v19","title":"Hypotesetest om russetid","date":"2023-05-31","modified":"2023-05-31","status":3}}
+{"tags":["oppgave"],"temaer":["binomisk","normalfordeling","hypotesetest"],"aliases":null,"del":2,"oppgave":5,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":5}],"fag":["s2"],"eksamen":"v19","dg-publish":true,"title":"Hypotesetest om russetid","date":"2023-05-31","modified":"2023-05-31","status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Binomisk sannsynlighet $P(X\\le 7)$ når 27 elever trekkes; finne forkastningsgrense $c$ slik at $P(X\\le c) < 0{,}05$ i binomisk hypotesetest.","deloppgaver":[{"deloppgave":"a","beskrivelse":"Oversette «minst 20 uten fravær» til $X\\le 7$ med $X \\sim \\text{Bin}(27, 0{,}32)$."},{"deloppgave":"b","beskrivelse":"Justere grensen i GeoGebras sannsynlighetskalkulator til $P(X\\le 29)\\approx 0{,}038<0{,}05$."}],"dg-permalink":"/hypotesetest-om-russetid/","permalink":"/hypotesetest-om-russetid/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"temaer":["binomisk","normalfordeling","hypotesetest"],"aliases":null,"del":2,"oppgave":5,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":5}],"fag":["s2"],"eksamen":"v19","title":"Hypotesetest om russetid","date":"2023-05-31","modified":"2023-05-31","status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Binomisk sannsynlighet $P(X\\le 7)$ når 27 elever trekkes; finne forkastningsgrense $c$ slik at $P(X\\le c) < 0{,}05$ i binomisk hypotesetest.","deloppgaver":[{"deloppgave":"a","beskrivelse":"Oversette «minst 20 uten fravær» til $X\\le 7$ med $X \\sim \\text{Bin}(27, 0{,}32)$."},{"deloppgave":"b","beskrivelse":"Justere grensen i GeoGebras sannsynlighetskalkulator til $P(X\\le 29)\\approx 0{,}038<0{,}05$."}]}}
 ---
 
 
@@ -35,7 +35,7 @@ b) Høyst 29 elever med fravær
 
 ## Løsningsforslag
 
-### 2-5a
+### a
 
 La $X$ = antall elever av de 27 som har fravær. $X$ er binomisk fordelt med $n = 27$ og $p = 0{,}32$.
 
@@ -54,7 +54,7 @@ $$P(X \leq 7) \approx \underline{\underline{0{,}33}}$$
 >
 >Samme svar, men uten å måtte snu på problemstillingen.
 
-### 2-5b
+### b
 
 La $X$ = antall elever med fravær blant de 120. Under $H_0$ er $X$ binomisk fordelt med $n = 120$ og $p = 0{,}32$. Vi legger inn i GeoGebra og justerer på grensen helt fram til vi finner en sannsynlighet som ligger under signifikansnivået $\alpha$.
 

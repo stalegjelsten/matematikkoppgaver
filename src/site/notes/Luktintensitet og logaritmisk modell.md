@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["logaritmer","modellering"],"fag":["r1"],"eksamen":"h25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":3}],"title":"Luktintensitet og logaritmisk modell","status":3,"source":null,"todo":null,"dg-permalink":"/luktintensitet-og-logaritmisk-modell/","permalink":"/luktintensitet-og-logaritmisk-modell/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["logaritmer","modellering"],"fag":["r1"],"eksamen":"h25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":3}],"title":"Luktintensitet og logaritmisk modell","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["logaritmer","modellering"],"fag":["r1"],"eksamen":"h25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":3}],"title":"Luktintensitet og logaritmisk modell","status":0,"source":null,"todo":null,"dg-permalink":"/luktintensitet-og-logaritmisk-modell/","permalink":"/luktintensitet-og-logaritmisk-modell/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["logaritmer","modellering"],"fag":["r1"],"eksamen":"h25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":3}],"title":"Luktintensitet og logaritmisk modell","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -40,7 +40,7 @@ b) $C \le 44 \, \mathrm{OU/m^3}$
 
 ## Løsningsforslag
 
-### 2-3a
+### a
 
 Vi beregner luktintensiteten for de to ytterverdiene $C = 500$ og $C = 1400$:
 
@@ -55,7 +55,7 @@ Luktintensiteten ligger mellom ca. $3{,}5$ og $4{,}1$, noe som ifølge tabellen 
 
 **Ja, beboerne har grunnlag for å klage. $\underline{\underline{I \in (3{,}48,\; 4{,}10)}}$, som er langt over akseptabelt nivå.**
 
-### 2-3b
+### b
 
 For akseptabel luktintensitet kreves $I \le 2$:
 

@@ -23,7 +23,7 @@ b) $T(n) = 4n + 8$
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 
 Vi teller sirkler i de tre figurene:
 
@@ -43,7 +43,7 @@ $$12 + 9 \cdot 4 = 48$$
 
 **Figur 4 har $\underline{\underline{24}}$ sirkler og figur 10 har $\underline{\underline{48}}$ sirkler.**
 
-### 1-4b
+### b
 
 Vi ser at $T(n) = 12 + (n-1) \cdot 4 = 4n + 8$.
 

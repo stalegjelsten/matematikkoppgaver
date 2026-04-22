@@ -29,7 +29,7 @@ b) $\approx 188 \,\%$ økning
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 
 **Metode 1 – bruke modellen direkte:**
 
@@ -57,7 +57,7 @@ Fra grafen leser vi av:
 
 2) **Fra og med $x = 27$, som tilsvarer mars 2027, vil bedriften for første gang selge mer enn $\underline{\underline{2000 \text{ flasker}}}$ i løpet av en måned.**
 
-### 2-1b
+### b
 
 Fra desember 2024 ($x = 0$) til desember 2026 ($x = 24$):
 

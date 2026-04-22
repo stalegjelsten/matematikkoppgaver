@@ -33,7 +33,7 @@ c) Se løsningsforslag for eksempel
 
 ## Løsningsforslag
 
-### 2-5a
+### a
 
 Lag A sortert: $15, 18, 24, 45, 60, 78$
 
@@ -53,13 +53,13 @@ $$\sigma \approx 23{,}2 \, \text{år}$$
 
 **Medianen er 34,5 år, gjennomsnittsalderen er 40 år og standardavviket er 23,2 år.**
 
-### 2-5b
+### b
 
 **Lag B** har høyere median og høyere gjennomsnitt enn lag A, men lavere standardavvik. Det betyr at personene på lag B generelt er eldre enn på lag A, og at de er mer jevnaldrende (mindre variasjon i alderen).
 
 **Lag C** har lavere median men høyere gjennomsnitt enn lag A. Det tyder på at det er en eller noen få personer med svært høy alder som drar gjennomsnittet opp, mens over halvparten er yngre enn medianen på lag A. Det høyere standardavviket bekrefter at aldersfordelingen er mer spredt enn på lag A.
 
-### 2-5c
+### c
 
 **Eksempel på lag B** (median > 34,5, gjennomsnitt > 40, SD < 23,2):
 

@@ -195,7 +195,6 @@ Hver sykkel koster i gjennomsnitt 10 000 kroner.
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -230,7 +229,6 @@ Tobias er lærling i en butikk. Han stiller to spørsmål om en vare med kostpri
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -276,7 +274,6 @@ Aina skal lage et anbud for et oppdrag til en gruppe som ønsker en guidet tur:
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -324,7 +321,6 @@ De besøker et hotell, får data for de siste fem dagene og lager tabellen neden
 
 
 ## Løsningsforslag
-
 
 </div></div>
 

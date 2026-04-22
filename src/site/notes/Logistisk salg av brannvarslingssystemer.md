@@ -38,19 +38,19 @@ c) $F(t)=\frac{1000000}{1+249e^{-0{,}0849t}}$
 
 ![Logistisk modell for brannalarmer i by](/img/user/_resources/s2-v25-2-3a.png)
 
-### 2-3a
+### a
 Jeg la inn modellen i GeoGebra og la inn linja $y=1\,000\,000$ for å sjekke når halvparten hadde fått systemet. Jeg fant skjæringen med $B$ i punktet $A=(93{,}88, 1000000)$.
 
 **Det tar 94 uker før halvparten av husstandene i byen har brannvarslingssystemet ifølge modellen.**
 
-### 2-3b
+### b
 Se nederst i GeoGebra-utklippet.
 $$
 \underline{\underline{B'(52)=7827{,}7}}
 $$
 **Etter 52 uker (ett år) så selges brannvarslingssystemet til omtrent 7828 husstander per uke.**
 
-### 2-3c
+### c
 En logistisk modell er gitt ved
 $$
 f(x)=\frac{N}{1+a \cdot e ^{-kx}}

@@ -26,7 +26,7 @@ b) 7 uker
 
 ## Løsningsforslag
 
-### 2-5a
+### a
 For at skjerfet skal øke med like mange centimeter per uke, så må vi bruke en lineær modell på formen $y=ax+b$. 
 
 Vi vet at skjerfet er 8 m i dag, og at det skal bli 40 meter etter 25 uker. Det skal altså øke med vekstfarten
@@ -43,7 +43,7 @@ $$
 >
 >Denne oppgaven kan løses med lineær regresjon i GeoGebra med punktene $(0,8)$ og $(25,40)$.
 
-### 2-5b
+### b
 Jeg løser oppgaven i CAS. Vi skal finne ut når funksjonen vår passerer 17 m, vi skal altså løse likningen
 $$
 1{,}28x+8=17

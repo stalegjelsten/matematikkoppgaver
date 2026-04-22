@@ -41,7 +41,7 @@ b) $\approx 8{,}5$ runder
 
 ## Løsningsforslag
 
-### 2-6a
+### a
 
 **Spilleregler:**
 
@@ -52,7 +52,7 @@ b) $\approx 8{,}5$ runder
 - Etter at alle terningene er kastet, økes rundetelleren med 1.
 - Spillet fortsetter til det ikke er noen terninger igjen.
 
-### 2-6b
+### b
 
 La $n$ være antall terninger ved starten av en runde. For hvert enkelt kast er:
 

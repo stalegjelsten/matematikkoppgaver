@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["eksponentiell vekst","modellering","regresjon"],"fag":["s1"],"eksamen":"h25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":1}],"title":"Eksponentiell modell for befolkningsvekst","status":3,"source":null,"todo":null,"dg-permalink":"/eksponentiell-modell-for-befolkningsvekst/","permalink":"/eksponentiell-modell-for-befolkningsvekst/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["eksponentiell vekst","modellering","regresjon"],"fag":["s1"],"eksamen":"h25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":1}],"title":"Eksponentiell modell for befolkningsvekst","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["eksponentiell vekst","modellering","regresjon","derivasjon"],"fag":["s1"],"eksamen":"h25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":1}],"title":"Eksponentiell modell for befolkningsvekst","status":3,"source":null,"todo":null,"kategori":3,"vanskegrad":3,"beskrivelse":"Eksponentiell regresjon, løse $F'(t)=80$ for tidspunkt med vekstfart over 80, og løse $(F(t)-F(0))/t=80$ for gjennomsnittlig vekst i CAS.","deloppgaver":[{"deloppgave":"a","kategori":2,"vanskegrad":2,"beskrivelse":"Eksponentiell regresjon i GeoGebra og vurdere gyldighetsområde for modellen."}],"dg-permalink":"/eksponentiell-modell-for-befolkningsvekst/","permalink":"/eksponentiell-modell-for-befolkningsvekst/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["eksponentiell vekst","modellering","regresjon","derivasjon"],"fag":["s1"],"eksamen":"h25","del":2,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":1}],"title":"Eksponentiell modell for befolkningsvekst","status":3,"source":null,"todo":null,"kategori":3,"vanskegrad":3,"beskrivelse":"Eksponentiell regresjon, løse $F'(t)=80$ for tidspunkt med vekstfart over 80, og løse $(F(t)-F(0))/t=80$ for gjennomsnittlig vekst i CAS.","deloppgaver":[{"deloppgave":"a","kategori":2,"vanskegrad":2,"beskrivelse":"Eksponentiell regresjon i GeoGebra og vurdere gyldighetsområde for modellen."}]}}
 ---
 
 
@@ -30,7 +30,7 @@ c) Etter 25 år
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 
 Vi setter $t = 0$ i 1910 og bruker eksponentiell regresjon på datapunktene:
 
@@ -48,7 +48,7 @@ Grafen under viser at kurven passer godt til datapunktene ($R^2 \approx 0{,}99$)
 
 **Gyldighetsområde:** Modellen passer for dataene i perioden 1910–1935, det vil si $t \in [0, 25]$. Utenfor dette tidsrommet kan vekstmønsteret endre seg og modellen mister gyldighet.
 
-### 2-1b
+### b
 
 Vekstfarten er den deriverte av $F$:
 
@@ -62,7 +62,7 @@ CAS gir $t \approx 13{,}5$, dvs. fra og med $t = 14$ (år **1924**).
 
 **Befolkningen økte med mer enn 80 personer per år fra og med 1924 ifølge modellen.**
 
-### 2-1c
+### c
 
 Gjennomsnittlig befolkningsvekst fra 1910 til år $t$ er $\dfrac{F(t) - F(0)}{t}$. Vi løser:
 

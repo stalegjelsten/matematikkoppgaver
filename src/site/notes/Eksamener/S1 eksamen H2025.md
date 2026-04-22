@@ -66,7 +66,7 @@ c) Grafen til $g$ har et toppunkt i intervallet $\langle 2, 3 \rangle$
 
 ## Løsningsforslag
 
-### 1-1a
+### a
 
 Vi bruker potensregler og derivasjonsregler:
 
@@ -76,7 +76,7 @@ $$f'(x) = x^2 + \frac{1}{2}x^{-1/2} = x^2 + \frac{1}{2\sqrt{x}}$$
 
 **$\underline{\underline{f'(x) = x^2 + \dfrac{1}{2\sqrt{x}}}}$**
 
-### 1-1b
+### b
 
 Vi bruker kvotientregelen på $g(x) = \dfrac{2x-3}{e^x}$:
 
@@ -93,7 +93,7 @@ $$
 
 **$\underline{\underline{g'(2) = \dfrac{1}{e^2}}}$ og $\underline{\underline{g'(3) = -\dfrac{1}{e^3}}}$**
 
-### 1-1c
+### c
 
 Siden $g'(2) = \dfrac{1}{e^2} > 0$, er grafen til $g$ stigende i $x = 2$.
 
@@ -132,7 +132,7 @@ b) $a = 4$
 
 ## Løsningsforslag
 
-### 1-2a
+### a
 
 Vi setter $u = \lg x$ og skriver om likningen:
 
@@ -150,7 +150,7 @@ $$\lg x = 4 \implies x = 10^4 = \underline{\underline{10\,000}}$$
 
 $$\lg x = -2 \implies x = 10^{-2} = \underline{\underline{0{,}01}}$$
 
-### 1-2b
+### b
 
 Vi bruker definisjonen av logaritme:
 
@@ -192,7 +192,7 @@ b) $a = 3$, grenseverdi $= \dfrac{1}{6}$
 
 ## Løsningsforslag
 
-### 1-3a
+### a
 
 Vi sjekker nevneren i $x = -2$:
 
@@ -204,7 +204,7 @@ $$(-2)^2 - 4 \cdot (-2) + 2 = 4 + 8 + 2 = 14 \neq 0$$
 
 Siden nevneren er $0$ og telleren er $\neq 0$ i $x = -2$, **eksisterer ikke grenseverdien**.
 
-### 1-3b
+### b
 
 **Del 1 – bestem $a$:**
 
@@ -261,7 +261,7 @@ b) $252$
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 
 - Første tegn: én av bokstavene A–F → $6$ valg
 - Andre tegn: ett av sifrene 1–9 → $9$ valg
@@ -271,7 +271,7 @@ $$6 \cdot 9 \cdot 8 = \underline{\underline{432}}$$
 
 **Det er mulig å lage $432$ ulike passord.**
 
-### 1-4b
+### b
 
 Totalt $7$ tegn: $\{1, 2, 3, 4, A, B, C\}$. Uten begrensninger: $7^3 = 343$ passord.
 
@@ -387,14 +387,14 @@ c) $2$ straffespark
 
 ## Løsningsforslag
 
-### 1-6a
+### a
 
 Programmet kjører løkken `for i in range(3)` tre ganger. Hvert skudd gir enten `"treff"` (sannsynlighet $\frac{2}{5}$) eller `"bom"`. Programmet skriver ut $\frac{\texttt{antall\_treff}}{3}$.
 
 **Programmet kan skrive ut: 0, 0,333, 0,666 eller 1,0.**
 
 
-### 1-6b
+### b
 
 Programmet skriver ut $1{,}0$ kun hvis alle tre skudd er treff:
 
@@ -402,7 +402,7 @@ $$P(\text{alle tre treff}) = \left(\frac{2}{5}\right)^3 = \frac{8}{125}$$
 
 **$\underline{\underline{P = \dfrac{8}{125}}}$**
 
-### 1-6c
+### c
 
 Sannsynligheten for at Einar scorer minst ett mål på $n$ straffespark:
 
@@ -461,7 +461,7 @@ c) Etter 25 år
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 
 Vi setter $t = 0$ i 1910 og bruker eksponentiell regresjon på datapunktene:
 
@@ -479,7 +479,7 @@ Grafen under viser at kurven passer godt til datapunktene ($R^2 \approx 0{,}99$)
 
 **Gyldighetsområde:** Modellen passer for dataene i perioden 1910–1935, det vil si $t \in [0, 25]$. Utenfor dette tidsrommet kan vekstmønsteret endre seg og modellen mister gyldighet.
 
-### 2-1b
+### b
 
 Vekstfarten er den deriverte av $F$:
 
@@ -493,7 +493,7 @@ CAS gir $t \approx 13{,}5$, dvs. fra og med $t = 14$ (år **1924**).
 
 **Befolkningen økte med mer enn 80 personer per år fra og med 1924 ifølge modellen.**
 
-### 2-1c
+### c
 
 Gjennomsnittlig befolkningsvekst fra 1910 til år $t$ er $\dfrac{F(t) - F(0)}{t}$. Vi løser:
 
@@ -537,7 +537,7 @@ b) $k = -1$, $k = -\sqrt{2}$ eller $k = \sqrt{2}$
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 
 Vi sjekker grenser fra venstre og høyre i $x = -2$:
 
@@ -549,7 +549,7 @@ Siden $\lim_{x \to -2^-} f(x) = -6 \neq 0 = \lim_{x \to -2^+} f(x)$ eksisterer i
 
 **$f$ er ikke kontinuerlig i $x = -2$.**
 
-### 2-2b
+### b
 
 For at $f$ skal være kontinuerlig i $x = k$ må:
 
@@ -611,7 +611,7 @@ c) $\dfrac{49}{324}$
 
 Hver pose inneholder $3 + 8 + 7 = 18$ drops.
 
-### 2-3a
+### a
 
 Sander tar $2$ drops. Sannsynligheten for $2$ gule:
 
@@ -619,7 +619,7 @@ $$P(\text{2 gule}) = \frac{\binom{8}{2}}{\binom{18}{2}} = \frac{28}{153}$$
 
 **$\underline{\underline{P = \dfrac{28}{153}}}$**
 
-### 2-3b
+### b
 
 Henny tar $3$ drops. Sannsynligheten for én av hver farge:
 
@@ -627,7 +627,7 @@ $$P(\text{en av hver}) = \frac{\binom{3}{1}\binom{8}{1}\binom{7}{1}}{\binom{18}{
 
 **$\underline{\underline{P = \dfrac{7}{34}}}$**
 
-### 2-3c
+### c
 
 Alle tre tar ett drops fra hver sin pose – uavhengige hendelser.
 
@@ -673,7 +673,7 @@ b) $88 \, \mathrm{kr}$
 
 ## Løsningsforslag
 
-### 2-4a
+### a
 
 Inntekt per enhet er 100 kr. Overskuddet er:
 
@@ -687,7 +687,7 @@ CAS bekrefter at $O'(x) = 0$ i $x = 1000$ og at $O(1000) = 8000$.
 
 **Det største overskuddet er $\underline{\underline{8\,000 \, \mathrm{kr}}}$, oppnådd ved produksjon og salg av 1000 enheter.**
 
-### 2-4b
+### b
 
 Nye faste kostnader er 8000 kr. Ved salg av $x = 1000$ enheter:
 
@@ -749,7 +749,7 @@ b) $8{,}5 \leq C \leq 44 \, \mathrm{OU/m^3}$
 
 ## Løsningsforslag
 
-### 2-5a
+### a
 
 Vi beregner luktintensiteten $I = 1{,}4 \cdot \lg(C) - 0{,}3$ for begge grenseverdiene:
 
@@ -764,7 +764,7 @@ Prøvene viser luktintensiteter i området $3{,}48$ til $4{,}10$, noe som tilsva
 
 **Ja, beboerne har grunnlag for å klage.**
 
-### 2-5b
+### b
 
 For at luktintensiteten skal bli akseptabel, trenger vi $1 \leq I \leq 2$. Vi løser i GeoGebra CAS:
 
@@ -827,7 +827,7 @@ b) $\approx 8{,}5$ runder
 
 ## Løsningsforslag
 
-### 2-6a
+### a
 
 **Spilleregler:**
 
@@ -838,7 +838,7 @@ b) $\approx 8{,}5$ runder
 - Etter at alle terningene er kastet, økes rundetelleren med 1.
 - Spillet fortsetter til det ikke er noen terninger igjen.
 
-### 2-6b
+### b
 
 La $n$ være antall terninger ved starten av en runde. For hvert enkelt kast er:
 

@@ -204,7 +204,7 @@ Mange modeller og ulike tolkninger kan fungere. Se løsningsforslaget.
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 Jeg brukte regresjonsverktøyet i GeoGebra valgte den logistiske modellen:
 
 $$\underline{\underline{F(x)=\frac{660{,}37}{1+30{,}72\,e^{-0{,}7066x}}}}$$
@@ -215,7 +215,7 @@ Logistiske funksjoner flater ut ved en horisontal asymptote (i dette tilfellet 6
 
 ![Regresjon på størrelsen av musikkmarkedet](/img/user/_resources/s2-v23-del2-oppg-2a.png){width=60%}
 
-### 2-2b
+### b
 Se utklippet fra CAS.
 
 ![Beregning av verdier i CAS](/img/user/_resources/s2-v23-del2-oppg-2b.png.png){width=40%}
@@ -229,7 +229,7 @@ D&=116{,}3
 \end{aligned}
 $$
 
-### 2-2c
+### c
 $I$ beregner integralet under $F$ fra $x=-0{,}5$ til $x=10{,}5$. Dette gir en tilnærmingsverdi for de samlede inntektene fra musikkstrømming i Norge fra og med 2008 til og med 2018. De samlede inntektene er omtrent 3729 millioner kr.
 
 $G$ finner en tilnærmingsverdi de samlede inntektene fra og med 2011 til og med 2015 ved å integrere, deretter divideres svaret med 5. $G$ finner altså de gjennomsnittlige årlige inntektene mellom år 2011 og 2015. De gjennomsnittlige årlige inntektene i perioden er 344,5 millioner kr.
@@ -335,13 +335,13 @@ Jeg gjorde disse oppgavene i Excel, se regnearket under.
 
 ![](/img/user/_resources/s2-v23-del2-oppg-4a.png.png)
 
-### 2-4a
+### a
 De ukentlige beløpene for de fire første ukene er markert i blått i utklippet. Det venstre blå rektangelet viser beløpene for tilbud 1, det høyre blå rektangelet viser beløpene for tilbud 2. Vi kan se at tilbud 1 vokser fortere enn tilbud 2 i starten.
 
-### 2-4b
+### b
 **I uke 28 så vil tilbud 2 for første gang gi større utbetaling enn tilbud 1**, se den røde markering i Excel-arket.
 
-### 2-4c
+### c
 **I uke 39 så vil tilbud 2 for første gang ha gitt større *samlet utbetaling* enn tilbud 1**, se den gule markeringen i Excel-arket.
 
 [^1]: Oppgaven er både gitt [[Fagsider/S2\|S2]] og [[Fagsider/R2\|R2]] ved eksamen våren 2023. I S2-eksamen het personen Hildegunn, og i R2-eksamen het personen David. Derfor bruker jeg pronomenen hen i denne oppgaven.

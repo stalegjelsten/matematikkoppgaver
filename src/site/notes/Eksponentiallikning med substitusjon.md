@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["eksponentialfunksjoner","logaritmer","likninger"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":3,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":3},{"fag":"r1","del":1,"oppgave":3}],"poeng":2,"title":"Eksponentiallikning med substitusjon","status":3,"source":null,"todo":null,"dg-permalink":"/eksponentiallikning-med-substitusjon/","permalink":"/eksponentiallikning-med-substitusjon/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["eksponentialfunksjoner","logaritmer","likninger"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":3,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":3},{"fag":"r1","del":1,"oppgave":3}],"poeng":2,"title":"Eksponentiallikning med substitusjon","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["eksponentialfunksjoner","logaritmer","likninger"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":3,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":3},{"fag":"r1","del":1,"oppgave":3}],"poeng":2,"title":"Eksponentiallikning med substitusjon","status":3,"source":null,"todo":null,"kategori":2,"vanskegrad":2,"beskrivelse":"Substitusjon $u=10^x$ gjør $100^x-3\\cdot10^x=4$ til andregradslikning $u^2-3u-4=0$; bare positiv løsning er gyldig.","dg-permalink":"/eksponentiallikning-med-substitusjon/","permalink":"/eksponentiallikning-med-substitusjon/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["eksponentialfunksjoner","logaritmer","likninger"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":3,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":3},{"fag":"r1","del":1,"oppgave":3}],"poeng":2,"title":"Eksponentiallikning med substitusjon","status":3,"source":null,"todo":null,"kategori":2,"vanskegrad":2,"beskrivelse":"Substitusjon $u=10^x$ gjør $100^x-3\\cdot10^x=4$ til andregradslikning $u^2-3u-4=0$; bare positiv løsning er gyldig."}}
 ---
 
 
@@ -11,6 +11,7 @@
 
 ## Fasit
 
+$x=\log 4$
 
 ## Løsningsforslag
 

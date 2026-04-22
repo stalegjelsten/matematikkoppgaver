@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["logaritmer","modellering"],"fag":["s1"],"eksamen":"h25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":5}],"title":"Luktintensitet og logaritmer","status":3,"source":null,"todo":null,"dg-permalink":"/luktintensitet-og-logaritmer/","permalink":"/luktintensitet-og-logaritmer/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["logaritmer","modellering"],"fag":["s1"],"eksamen":"h25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":5}],"title":"Luktintensitet og logaritmer","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["logaritmer","modellering"],"kategori":2,"vanskegrad":2,"beskrivelse":"Logaritmisk modell $I = 1{,}4 \\lg C - 0{,}3$; beregne $I$ for gitte $C$, og løse for $C$ gitt $I$-intervall.","deloppgaver":[{"deloppgave":"a","vanskegrad":1,"beskrivelse":"Sette inn $C = 500$ og $C = 1400$ i $I(C)$ og sammenligne med kategoritabell."},{"deloppgave":"b","beskrivelse":"Løse $I(C) = 1$ og $I(C) = 2$ for $C$ i CAS."}],"fag":["s1"],"eksamen":"h25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":5}],"title":"Luktintensitet og logaritmer","status":3,"source":null,"todo":null,"dg-permalink":"/luktintensitet-og-logaritmer/","permalink":"/luktintensitet-og-logaritmer/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["logaritmer","modellering"],"kategori":2,"vanskegrad":2,"beskrivelse":"Logaritmisk modell $I = 1{,}4 \\lg C - 0{,}3$; beregne $I$ for gitte $C$, og løse for $C$ gitt $I$-intervall.","deloppgaver":[{"deloppgave":"a","vanskegrad":1,"beskrivelse":"Sette inn $C = 500$ og $C = 1400$ i $I(C)$ og sammenligne med kategoritabell."},{"deloppgave":"b","beskrivelse":"Løse $I(C) = 1$ og $I(C) = 2$ for $C$ i CAS."}],"fag":["s1"],"eksamen":"h25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":5}],"title":"Luktintensitet og logaritmer","status":3,"source":null,"todo":null}}
 ---
 
 
@@ -40,7 +40,7 @@ b) $8{,}5 \leq C \leq 44 \, \mathrm{OU/m^3}$
 
 ## Løsningsforslag
 
-### 2-5a
+### a
 
 Vi beregner luktintensiteten $I = 1{,}4 \cdot \lg(C) - 0{,}3$ for begge grenseverdiene:
 
@@ -55,7 +55,7 @@ Prøvene viser luktintensiteter i området $3{,}48$ til $4{,}10$, noe som tilsva
 
 **Ja, beboerne har grunnlag for å klage.**
 
-### 2-5b
+### b
 
 For at luktintensiteten skal bli akseptabel, trenger vi $1 \leq I \leq 2$. Vi løser i GeoGebra CAS:
 

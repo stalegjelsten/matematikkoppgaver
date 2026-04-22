@@ -30,20 +30,20 @@ d) 54,7 %
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 ![Regresjon for Alex sitt salg av hodepynt](/img/user/_resources/2py-h25-2-1-regr.png){width=60%}
 
 Jeg la inn dataene i GeoGebra og brukte regresjon med en eksponentiell modell
 
 **Modellen $\underline{\underline{f(x) = 1271 \cdot 1{,}124^{x}}}$ der $x$ er antall måneder etter februar 2025 passer godt for Alex' omsetning.**
 
-### 2-1b
+### b
 
 Vekstfaktoren $b = 1{,}124$ tilsvarer $112{,}4 \,\%$. Siden utgangspunktet vårt er 100 %, så blir økningen 12,4 %.
 
 **Omsetningen øker med omtrent $\underline{\underline{12{,}4\,\%}}$ per måned ifølge modellen.**
 
-### 2-1c
+### c
 
 ![$f$ skjærer $y=20000$ når omsetningen er 20 000 kr](/img/user/_resources/2py-h25-2-1c-graf.png){#fig:2-1c-graf width=40%}
 
@@ -51,7 +51,7 @@ Vi kan enten løse likningen $f(x)=20000$ i CAS i GeoGebra, eller så kan vi fin
 
 **Alex kommer til å nå målet etter omtrent $\underline{\underline{23{,}5}}$ måneder, det vil si i $\underline{\underline{\text{januar 2027}}}$ ifølge modellen.**
 
-### 2-1d
+### d
 
 Vi skal finne hvor mange prosent omsetningen må øke med per måned etter juni 2025 for å nå målet i desember 2025.
 

@@ -27,7 +27,7 @@ b) Minst $100$ dager (og maks $249$ dager)
 
 ## Løsningsforslag
 
-### 2-4a
+### a
 
 La $x$ = antall dager Hermann parkerer i løpet av et år.
 
@@ -37,7 +37,7 @@ $$\textcolor{steelblue}{B(x) = 1995 + 30x}$$
 
 $$\textcolor{seagreen}{C(x) = 3490 + 24x}$$
 
-### 2-4b
+### b
 
 B lønner seg fremfor A når B er billigere enn A. Vi finner skjæringspunktet mellom A og B grafisk:
 

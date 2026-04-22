@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["programmering","funksjonsdrøfting"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":2,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":2},{"fag":"r1","del":1,"oppgave":2}],"poeng":2,"title":"Finne verdi programmet skriver ut","status":3,"source":null,"todo":null,"dg-permalink":"/finne-verdi-programmet-skriver-ut/","permalink":"/finne-verdi-programmet-skriver-ut/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["programmering","funksjonsdrøfting"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":2,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":2},{"fag":"r1","del":1,"oppgave":2}],"poeng":2,"title":"Finne verdi programmet skriver ut","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["programmering","funksjonsdrøfting"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":2,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":2},{"fag":"r1","del":1,"oppgave":2}],"poeng":2,"title":"Finne verdi programmet skriver ut","status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Tolke at while-løkka $O(x+1)>O(x)$ stopper i toppunktet til andregradsfunksjonen; finne toppunktet via $O'(x)=0$.","source":null,"todo":null,"dg-permalink":"/finne-verdi-programmet-skriver-ut/","permalink":"/finne-verdi-programmet-skriver-ut/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["programmering","funksjonsdrøfting"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":2,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":2},{"fag":"r1","del":1,"oppgave":2}],"poeng":2,"title":"Finne verdi programmet skriver ut","status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Tolke at while-løkka $O(x+1)>O(x)$ stopper i toppunktet til andregradsfunksjonen; finne toppunktet via $O'(x)=0$.","source":null,"todo":null}}
 ---
 
 
@@ -22,6 +22,7 @@ print(x)
 
 ## Fasit
 
+Programmet skriver ut $10\,000$.
 
 ## Løsningsforslag
 

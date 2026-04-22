@@ -420,7 +420,7 @@ Graf med begge modeller og datapunkter:
 
 ![Graf – eksponentialmodell (rød) og logistisk modell (blå) med datapunkter (grønn)](/img/user/_resources/r1-h24-2-3-graf.png)
 
-### 3a
+### a
 
 Vi legger inn datapunktene i GeoGebra og utfører eksponentiell regresjonsanalyse. GeoGebra gir (linje 3 i CAS):
 
@@ -433,7 +433,7 @@ Praktisk tolkning:
 - $A_0 = 1{,}60$ betyr at det var ca. **1 600 fisk** i innsjøen da arten ble første gang registrert ($t = 0$).
 - $k = 1{,}63 = 1 + 0{,}63$ betyr at populasjonen vokser med ca. **63 % per måned** ifølge denne modellen.
 
-### 3b
+### b
 
 Vi utfører logistisk regresjonsanalyse i GeoGebra og får (linje 4 i CAS):
 
@@ -445,7 +445,7 @@ $$B = 111{,}37, \qquad \frac{B - N_0}{N_0} = 56{,}88 \;\Rightarrow\; N_0 = \frac
 
 **$N_0 \approx 1{,}92$, $B \approx 111{,}37$, $r \approx 0{,}52$.**
 
-### 3c
+### c
 
 **Eksponentialmodellen** $A(t) = A_0 \cdot k^t$ deriveres med kjerneregelen ($k^t = e^{t \ln k}$):
 
@@ -471,7 +471,7 @@ $$N'(t_{\text{vend}}) = \frac{r \cdot B}{4} \approx \frac{0{,}5244 \cdot 111{,}3
 
 **Oppsummering:** Den logistiske modellen gir vekstfart som øker frem til $t \approx 7{,}7$ måneder, deretter avtar vekstfarten mot null når populasjonen nærmer seg bæreevnen $B \approx 111{,}4$ tusen fisk.
 
-### 3d
+### d
 
 **Den logistiske modellen passer best** for denne praktiske situasjonen. Begrunnelse:
 
@@ -484,6 +484,7 @@ Ifølge den logistiske modellen vil det være
 $$N(12) = \frac{111{,}37}{1 + 56{,}88 \cdot e^{-0{,}5244 \cdot 12}} \approx \mathbf{\underline{\underline{100{,}8 \text{~(tusen fisk)}}}}$$
 
 12 måneder etter første registrering — det vil si omtrent **100 800 fisk**.
+
 
 </div></div>
 

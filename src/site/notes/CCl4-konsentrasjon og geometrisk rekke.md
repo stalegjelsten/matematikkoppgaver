@@ -28,7 +28,7 @@ b) 20 %
 
 ## Løsningsforslag
 
-### 2-3a
+### a
 
 La $c_n$ være konsentrasjonen rett etter den $n$-te natten. Kroppen skiller ut 18 % per dag, så 82 % gjenstår. Hvert døgn tilføres 2 nye enheter:
 
@@ -46,7 +46,7 @@ CAS gir $n \approx 11{,}6$, og vi ser at $c(11) \approx 9{,}86 < 10$ mens $c(12)
 
 **Sofie kan sove $\underline{\underline{11 \text{ netter}}}$ på soverommet sitt før konsentrasjonen når et potensielt farlig nivå.**
 
-### 2-3b
+### b
 
 Grenseverdien til $c_n$ når $n \to \infty$ er $\dfrac{2}{1-k}$ der $k$ er andelen som gjenstår etter utskillelse. For at konsentrasjonen aldri skal overstige 10 enheter, må grenseverdien være $\leq 10$:
 

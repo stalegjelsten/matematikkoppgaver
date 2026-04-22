@@ -25,7 +25,7 @@ Table: {.eksamen-oversikt}
 | [2-1](#oppgave-2-1) | [T-skjorter ungdomsbedrift og fortjeneste](https://matematikkoppgaver.vercel.app/t-skjorter-ungdomsbedrift-og-fortjeneste/) | økonomi, prosentregning, regneark | × |
 | [2-2](#oppgave-2-2) | [Persontransport i Norge 1980–2022](https://matematikkoppgaver.vercel.app/persontransport-i-norge-1980-2022/) | statistikk, prosentregning, grafisk framstilling | × |
 | [2-3](#oppgave-2-3) | [Chris lån og sparing for å ta førerkort](https://matematikkoppgaver.vercel.app/chris-lan-og-sparing-for-a-ta-forerkort/) | excel, lån, sparing, kredittkort | ✔︎ |
-| [2-4](#oppgave-2-4) | [Isak reiser Oslo til Stockholm](https://matematikkoppgaver.vercel.app/isak-reiser-oslo-til-stockholm/) | økonomi, prosentregning, modellering | ✔︎ |
+| [2-4](#oppgave-2-4) | [Isak reiser Oslo til Stockholm](https://matematikkoppgaver.vercel.app/isak-reiser-oslo-til-stockholm/) | økonomi, prosentregning, modellering, systematisering, sammensatte måleenheter | ✔︎ |
 
 # Del 1
 
@@ -65,7 +65,7 @@ b) A – størrelse 50/70 (1000 g / 20 g = 50 reker per kg)
 
 ## Løsningsforslag
 
-### 1-1a
+### a
 
 Vi deler prisen på antall kilogram:
 
@@ -75,7 +75,7 @@ $$
 
 **Prisen per kilogram er $\underline{\underline{80 \, \mathrm{kr/kg}}}$.**
 
-### 1-1b
+### b
 
 Vi finner hvor mange reker det er per kilogram når én reke veier 20 gram:
 

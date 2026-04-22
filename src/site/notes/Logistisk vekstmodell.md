@@ -26,7 +26,7 @@ c) $t \in (3{,}33,\; 9{,}82)$, dvs. ca. 1963–1970
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 
 Vi plotter datapunktene i GeoGebra og bruker **Regresjon → Logistisk** til å tilpasse en logistisk modell på formen $F(t) = \dfrac{B}{1 + a \cdot e^{-kt}}$.
 
@@ -40,7 +40,7 @@ $$
 
 **Gyldighetsområde:** Dataene strekker seg fra 1960 til 1980 ($t \in [0, 20]$). Modellen gir rimelige resultater i dette intervallet. Utenfor dette vil vi ha større usikkerhet – særlig for $t \gg 20$ der befolkningstallet ifølge modellen nærmer seg metningsgrensen $B \approx 2841$.
 
-### 2-1b
+### b
 
 Vi deriverer $F(t)$ og evaluerer i GeoGebra CAS:
 
@@ -56,7 +56,7 @@ Praktisk tolkning: I 1972 (dvs. $t = 12$) økte befolkningstallet med omtrent 11
 
 Praktisk tolkning: $F''(12) < 0$ betyr at veksthastigheten er **avtagende** i 1972 – befolkningsveksten er på vei ned fra toppen. (Vendepunktet, der veksthastigheten er størst, inntreffer ved $t \approx 6{,}6$, dvs. rundt 1966–1967.)
 
-### 2-1c
+### c
 
 Vi setter $F'(t) = 150$ og løser i GeoGebra CAS:
 

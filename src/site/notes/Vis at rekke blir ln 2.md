@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":null,"dg-publish":true,"temaer":["bevis","utforskning","integral"],"fag":["s2","r2"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":5},{"fag":"r2","del":2,"oppgave":4}],"title":"Vis at rekke blir ln 2","source":"Eksamen S2 vår 2025","todo":null,"status":3,"dg-permalink":"/vis-at-rekke-blir-ln-2/","permalink":"/vis-at-rekke-blir-ln-2/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":null,"temaer":["bevis","utforskning","integral"],"fag":["s2","r2"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":5},{"fag":"r2","del":2,"oppgave":4}],"title":"Vis at rekke blir ln 2","source":"Eksamen S2 vår 2025","todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":null,"dg-publish":true,"temaer":["bevis","utforskning","integral","uendelig rekke","rekker","substitusjon"],"fag":["s2","r2"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":5},{"fag":"r2","del":2,"oppgave":4}],"title":"Vis at rekke blir ln 2","source":"Eksamen S2 vår 2025","todo":null,"status":3,"kategori":3,"vanskegrad":3,"beskrivelse":"Leddvis integrasjon av geometrisk rekke $\\sum x^k$; variabelskifte på $\\int \\frac{1}{1-x}\\,dx$; sette $x=1/2$ for å få $\\ln 2$.","dg-permalink":"/vis-at-rekke-blir-ln-2/","permalink":"/vis-at-rekke-blir-ln-2/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":null,"temaer":["bevis","utforskning","integral","uendelig rekke","rekker","substitusjon"],"fag":["s2","r2"],"eksamen":"v25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":5},{"fag":"r2","del":2,"oppgave":4}],"title":"Vis at rekke blir ln 2","source":"Eksamen S2 vår 2025","todo":null,"status":3,"kategori":3,"vanskegrad":3,"beskrivelse":"Leddvis integrasjon av geometrisk rekke $\\sum x^k$; variabelskifte på $\\int \\frac{1}{1-x}\\,dx$; sette $x=1/2$ for å få $\\ln 2$."}}
 ---
 
 
@@ -19,6 +19,7 @@ I denne oppgaven kan du se bort fra integrasjonskonstantene.
 
 ## Fasit
 
+Oppgaven er et bevis. Se løsningsforslag.
 
 ## Løsningsforslag
 

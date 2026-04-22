@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["derivasjon","funksjonsdrøfting","eksponentialfunksjoner"],"fag":["r1"],"eksamen":"h25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":6}],"title":"Grafer og dobbeltderivert","status":3,"source":null,"todo":null,"dg-permalink":"/grafer-og-dobbeltderivert/","permalink":"/grafer-og-dobbeltderivert/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["derivasjon","funksjonsdrøfting","eksponentialfunksjoner"],"fag":["r1"],"eksamen":"h25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":6}],"title":"Grafer og dobbeltderivert","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["derivasjon","funksjonsdrøfting","eksponentialfunksjoner"],"fag":["r1"],"eksamen":"h25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":6}],"title":"Grafer og dobbeltderivert","status":0,"source":null,"todo":null,"dg-permalink":"/grafer-og-dobbeltderivert/","permalink":"/grafer-og-dobbeltderivert/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["derivasjon","funksjonsdrøfting","eksponentialfunksjoner"],"fag":["r1"],"eksamen":"h25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"r1","del":2,"oppgave":6}],"title":"Grafer og dobbeltderivert","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -29,7 +29,7 @@ b) A, B, C og G har invers funksjon
 
 ## Løsningsforslag
 
-### 2-6a
+### a
 
 Vi analyserer de åtte grafene ut fra egenskapene til de fire funksjonstypene og deres andredeiverte:
 
@@ -59,7 +59,7 @@ Vi analyserer de åtte grafene ut fra egenskapene til de fire funksjonstypene og
 | 3 | B ($x^3 - c$) | C |
 | 4 | D ($x^4 - c$) | F |
 
-### 2-6b
+### b
 
 En funksjon har en invers funksjon dersom og bare dersom den er injektiv (en-til-en), dvs. strengt stigende eller strengt avtagende på hele definisjonsmengden.
 

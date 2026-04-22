@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["kombinatorikk"],"fag":["s1"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":4}],"title":"Kombinatorikk og passord","status":3,"source":null,"todo":null,"dg-permalink":"/kombinatorikk-og-passord/","permalink":"/kombinatorikk-og-passord/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["kombinatorikk"],"fag":["s1"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":4}],"title":"Kombinatorikk og passord","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["kombinatorikk"],"fag":["s1"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":4}],"title":"Kombinatorikk og passord","status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Multiplikasjonsprinsipp for passord med ulike siffer; komplementmetode $7^3-4^3-3^3$ for passord med minst én bokstav og ett siffer.","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":1,"beskrivelse":"Multiplikasjonsprinsipp $6 \\cdot 9 \\cdot 8$ for bokstav + to ulike siffer."},{"deloppgave":"b","beskrivelse":"Komplementmetode $7^3-4^3-3^3$ for å sikre minst én bokstav og ett siffer."}],"source":null,"todo":null,"dg-permalink":"/kombinatorikk-og-passord/","permalink":"/kombinatorikk-og-passord/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["kombinatorikk"],"fag":["s1"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":4}],"title":"Kombinatorikk og passord","status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Multiplikasjonsprinsipp for passord med ulike siffer; komplementmetode $7^3-4^3-3^3$ for passord med minst én bokstav og ett siffer.","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":1,"beskrivelse":"Multiplikasjonsprinsipp $6 \\cdot 9 \\cdot 8$ for bokstav + to ulike siffer."},{"deloppgave":"b","beskrivelse":"Komplementmetode $7^3-4^3-3^3$ for å sikre minst én bokstav og ett siffer."}],"source":null,"todo":null}}
 ---
 
 
@@ -27,7 +27,7 @@ b) $252$
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 
 - Første tegn: én av bokstavene A–F → $6$ valg
 - Andre tegn: ett av sifrene 1–9 → $9$ valg
@@ -37,7 +37,7 @@ $$6 \cdot 9 \cdot 8 = \underline{\underline{432}}$$
 
 **Det er mulig å lage $432$ ulike passord.**
 
-### 1-4b
+### b
 
 Totalt $7$ tegn: $\{1, 2, 3, 4, A, B, C\}$. Uten begrensninger: $7^3 = 343$ passord.
 

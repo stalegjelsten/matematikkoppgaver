@@ -27,7 +27,7 @@ b) 2,1 L
 
 ## Løsningsforslag
 
-### 1-3a
+### a
 
 Vi gjør om til samme enhet. $1{,}5 \, \mathrm{L} = 15 \, \mathrm{dL}$. Deretter deler vi:
 
@@ -37,7 +37,7 @@ $$
 
 **Kari kan fylle $\underline{\underline{6 \, \mathrm{glass}}}$.**
 
-### 1-3b
+### b
 
 Vi bruker formelen fra nettsiden:
 

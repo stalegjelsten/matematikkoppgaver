@@ -94,7 +94,6 @@ $$
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -118,7 +117,6 @@ $$f(x) = e^{-x+1}, \quad D_f = \mathbb{R}.$$
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -141,6 +139,57 @@ I en skuff ligger det 6 gule, 5 svarte og 4 hvite sokker.
 
 ## Fasit
 
+a) $\underline{\underline{P(\text{begge gule}) = \dfrac{1}{7} \approx 14{,}3 \,\%}}$
+
+b) $\underline{\underline{P(\text{minst 2 like}) = \dfrac{67}{91} \approx 73{,}6 \,\%}}$
+
+## Løsningsforslag
+
+Skuffen inneholder $6$ gule, $5$ svarte og $4$ hvite sokker — totalt $15$ sokker.
+
+### a
+
+Vi trekker $2$ sokker uten tilbakelegging. Vi vil finne sannsynligheten for at begge er gule.
+
+**Metode 1 — uten tilbakelegging i rekkefølge:**
+
+$$P(\text{begge gule}) = \frac{6}{15} \cdot \frac{5}{14} = \frac{30}{210} = \frac{1}{7}$$
+
+**Metode 2 — kombinatorikk:**
+
+Antall måter å velge 2 av 6 gule sokker:
+
+$$\binom{6}{2} = \frac{6 \cdot 5}{2} = 15$$
+
+Antall måter å velge 2 av 15 sokker totalt:
+
+$$\binom{15}{2} = \frac{15 \cdot 14}{2} = 105$$
+
+$$P(\text{begge gule}) = \frac{15}{105} = \frac{1}{7}$$
+
+**$\underline{\underline{P(\text{begge gule}) = \dfrac{1}{7} \approx 14{,}3 \,\%}}$**
+
+### b
+
+Vi trekker $3$ sokker uten tilbakelegging. Vi bruker komplementmetoden:
+
+$$P(\text{minst 2 av samme farge}) = 1 - P(\text{alle tre har ulik farge})$$
+
+For at alle tre skal ha ulik farge, må vi ha én gul, én svart og én hvit.
+
+Antall måter å velge én av hver farge:
+
+$$\binom{6}{1} \cdot \binom{5}{1} \cdot \binom{4}{1} = 6 \cdot 5 \cdot 4 = 120$$
+
+Antall måter å velge 3 av 15 sokker totalt:
+
+$$\binom{15}{3} = \frac{15 \cdot 14 \cdot 13}{3 \cdot 2 \cdot 1} = \frac{2730}{6} = 455$$
+
+$$P(\text{alle ulike}) = \frac{120}{455} = \frac{24}{91}$$
+
+$$P(\text{minst 2 av samme farge}) = 1 - \frac{24}{91} = \frac{91 - 24}{91} = \frac{67}{91}$$
+
+**$\underline{\underline{P(\text{minst 2 av samme farge}) = \dfrac{67}{91} \approx 73{,}6 \,\%}}$**
 
 </div></div>
 
@@ -168,7 +217,6 @@ $$f(x) = \begin{cases} x\text{,}  & 0 \le x \le 2 \\ 5 - x\text{,} \quad  & 2 < 
 >- Verdimengden til $f$ skal være uendret.
 
 ## Fasit
-
 
 </div></div>
 
@@ -203,7 +251,6 @@ En måned trenger et firma 70 biler. De er villige til å betale mer enn 600 000
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -231,6 +278,56 @@ Avgjør om hver av påstandene nedenfor er sann eller usann. Forklar tydelig hvo
 
 ## Fasit
 
+a) **Sann**
+b) **Usann**
+
+## Løsningsforslag
+
+### a
+
+Vi skal avgjøre om $e^{k \cdot \ln(x)} = x^k$ for $x > 0$.
+
+**Bevis med logaritmeregler:**
+
+Vi bruker logaritmeregelen $k \cdot \ln(x) = \ln(x^k)$:
+
+$$e^{k \cdot \ln(x)} = e^{\ln(x^k)} = x^k$$
+
+Det siste steget bruker at $e^{\ln(u)} = u$ for $u > 0$.
+
+**Alternativt bevis med potensregler:**
+
+$$e^{k \cdot \ln(x)} = \left(e^{\ln(x)}\right)^k = x^k$$
+
+Her brukes potensregelen $(a^m)^n = a^{mn}$ og $e^{\ln(x)} = x$.
+
+**Påstanden er $\underline{\underline{\text{sann}}}$.**
+
+### b
+
+Vi skal avgjøre om $\binom{b}{a+1} > \binom{b}{a}$ når $1 < a < \dfrac{b}{2}$.
+
+**Analyse av forholdet:**
+
+Vi beregner forholdet mellom de to binomialkoeffisientene:
+
+$$\frac{\binom{b}{a+1}}{\binom{b}{a}} = \frac{\dfrac{b!}{(a+1)!\,(b-a-1)!}}{\dfrac{b!}{a!\,(b-a)!}} = \frac{b!\cdot a!\cdot (b-a)!}{(a+1)!\cdot (b-a-1)!\cdot b!} = \frac{b-a}{a+1}$$
+
+Påstanden sier at $\binom{b}{a+1} > \binom{b}{a}$, dvs. at forholdet er strengt større enn 1:
+
+$$\frac{b-a}{a+1} > 1 \iff b - a > a + 1 \iff b > 2a + 1 \iff a < \frac{b-1}{2}$$
+
+Så påstanden holder bare når $a < \dfrac{b-1}{2}$, men betingelsen i oppgaven er den svakere $a < \dfrac{b}{2}$.
+
+**Motbevis:**
+
+La $b = 5$ og $a = 2$. Da er $1 < 2 < \dfrac{5}{2} = 2{,}5$, så betingelsen er oppfylt.
+
+$$\binom{5}{3} = 10 \qquad \text{og} \qquad \binom{5}{2} = 10$$
+
+Her er $\binom{5}{3} = \binom{5}{2}$, altså ikke strengt større. Påstanden er motbevist.
+
+**Påstanden er $\underline{\underline{\text{usann}}}$.**
 
 </div></div>
 
@@ -272,6 +369,8 @@ Skolen vil øke sikkerheten og legger til flere krav for å lage passord. De lag
 
 ## Fasit
 
+a) $58^{6}-2 \cdot 29^{6}= 36\,879\,045\,902$ ulike passord (ca. 36,9 milliarder).
+b) $6\,365\,529\,000$ ulike passord. Regelsett 2 gir dårligere sikkerhet enn regelsett 1.
 
 ## Løsningsforslag
 
@@ -280,7 +379,7 @@ Skolen vil øke sikkerheten og legger til flere krav for å lage passord. De lag
 - Minst 1 stor bokstav
 - Minst 1 liten bokstav
 
-### 2-3a
+### a
 Det er 29 små bokstaver og 29 store bokstaver, dette gir i utgangspunktet 58 ulike muligheter for hver av de 6 tegnene i passordet. Dersom vi ikke hadde hatt kravene om minst 1 liten og stor bokstav ville antallet kombinasjoner derfor ha vært $58^{6}$. 
 
 Siden vi må minst ha 1 liten bokstav så kan vi ta bort de kombinasjonene som bare bruker store bokstaver ($29^6$) og de som bare bruker små bokstaver ($29^6$). Til sammen har vi da
@@ -291,7 +390,7 @@ $$
 
 **Det er 36,9 milliarder ulike passordet ifølge dette regelsettet.**
 
-### 2-3b
+### b
 Det finnes fremdeles 29 ulike store bokstaver, 29 ulike små bokstaver og det finnes 10 ulike siffer.
 
 Hvis rekkefølgen ikke hadde spilt noen rolle ville vi fått $29^{2}\cdot 29^{2} \cdot 10^{2}=70\, 728\, 100$ kombinasjoner.
@@ -342,6 +441,44 @@ I en boks ligger det et ukjent antall røde og hvite kuler. Du trekker tre kuler
 
 ## Fasit
 
+**5 hvite og 3 røde kuler** (totalt 8 kuler). $P = \dfrac{5}{28} \approx 17{,}9 \,\%$
+
+## Løsningsforslag
+
+Siden kulene trekkes **uten tilbakelegging**, er dette en hypergeometrisk situasjon. La
+
+- $m$ = antall hvite kuler
+- $n$ = antall røde kuler
+- $T = m + n$ = totalt antall kuler
+
+Antall måter å trekke 3 hvite av $m$ hvite er $\binom{m}{3}$, og antall måter å trekke 3 kuler av $T$ totalt er $\binom{T}{3}$. Sannsynligheten for at alle tre er hvite blir
+
+$$P(\text{alle hvite}) = \frac{\binom{m}{3}}{\binom{T}{3}} = \frac{m(m-1)(m-2)}{T(T-1)(T-2)}$$
+
+Vi trenger $0{,}17 < P < 0{,}18$, og vi vil finne **minste** $T$ (færrest mulig kuler totalt).
+
+Vi må ha $m \geq 3$ (ellers kan vi ikke trekke tre hvite). Vi prøver systematisk fra $T = 4$:
+
+| $m$ (hvite) | $n$ (røde) | $T$ (totalt) | $P = \dfrac{\binom{m}{3}}{\binom{T}{3}}$ | Innenfor? |
+|:-----------:|:----------:|:------------:|:-----------------------------------------:|:---------:|
+| 3 | 1 | 4 | $\tfrac{1}{4} = 0{,}250$ | Nei |
+| 3 | 2 | 5 | $\tfrac{1}{10} = 0{,}100$ | Nei |
+| 4 | 1 | 5 | $\tfrac{4}{10} = 0{,}400$ | Nei |
+| 3 | 3 | 6 | $\tfrac{1}{20} = 0{,}050$ | Nei |
+| 4 | 2 | 6 | $\tfrac{4}{20} = 0{,}200$ | Nei |
+| 5 | 1 | 6 | $\tfrac{10}{20} = 0{,}500$ | Nei |
+| 3 | 4 | 7 | $\tfrac{1}{35} \approx 0{,}029$ | Nei |
+| 4 | 3 | 7 | $\tfrac{4}{35} \approx 0{,}114$ | Nei |
+| 5 | 2 | 7 | $\tfrac{10}{35} \approx 0{,}286$ | Nei |
+| **5** | **3** | **8** | $\boldsymbol{\tfrac{10}{56} = \tfrac{5}{28} \approx 0{,}179}$ | **Ja** ✓ |
+
+For $T = 8$, $m = 5$, $n = 3$:
+
+$$P = \frac{5 \cdot 4 \cdot 3}{8 \cdot 7 \cdot 6} = \frac{60}{336} = \frac{5}{28} \approx 17{,}9 \,\%$$
+
+Alle kombinasjoner med $T \leq 7$ gir $P$ utenfor intervallet $[17\,\%, 18\,\%]$, og $m=5$, $n=3$ er den første løsningen vi finner.
+
+**Det minste antallet er $\underline{\underline{5 \text{ hvite og } 3 \text{ røde kuler}}}$**, altså 8 kuler totalt, og sannsynligheten er $\dfrac{5}{28} \approx 17{,}9 \,\%$.
 
 </div></div>
 
@@ -365,6 +502,47 @@ Du kaster fem terninger.
 
 ## Fasit
 
+a) **$\underline{\underline{P = \dfrac{5}{54} \approx 9{,}26 \,\%}}$**
+
+b) **$\underline{\underline{P \approx 3{,}22 \,\%}}$** (teoretisk); simuleringen gir ca. $3{,}2 \,\%$
+
+## Løsningsforslag
+
+### a
+
+Vi kaster fem terninger og ønsker at alle viser forskjellige antall øyne.
+
+Vi bruker multiplikasjonsprinsippet. Den første terningen kan vise et hvilket som helst tall — 6 muligheter. Den andre må vise noe annet enn den første — 5 muligheter. Slik fortsetter vi:
+
+$$P(\text{alle ulike}) = \frac{6 \cdot 5 \cdot 4 \cdot 3 \cdot 2}{6^5} = \frac{720}{7776} = \frac{5}{54} \approx 0{,}0926$$
+
+**$\underline{\underline{P(\text{alle ulike}) = \dfrac{5}{54} \approx 9{,}26 \,\%}}$**
+
+### b
+
+La $X$ være antall seksere når vi kaster fem terninger. $X$ er binomisk fordelt med $n = 5$ og $p = \frac{1}{6}$.
+
+**Teoretisk sannsynlighet:**
+
+$$P(X = 3) = \binom{5}{3} \cdot \left(\frac{1}{6}\right)^3 \cdot \left(\frac{5}{6}\right)^2 = 10 \cdot \frac{1}{216} \cdot \frac{25}{36} = \frac{250}{7776} \approx 0{,}0322$$
+
+**Simulering med Python:**
+
+```python
+# uv run --with numpy simulering-seksere.py
+import numpy as np
+
+rng = np.random.default_rng(42)
+n = 100_000
+dice = rng.integers(1, 7, size=(n, 5))
+treffer = np.sum(dice == 6, axis=1)
+p = np.mean(treffer == 3)
+print(f"Estimat: {p:.4f}")  # → Estimat: 0.0316
+```
+
+Simuleringen med 100 000 forsøk ga $\hat{p} \approx 0{,}0316$, som stemmer godt overens med den teoretiske verdien $\frac{250}{7776} \approx 0{,}0322$.
+
+**$\underline{\underline{P(X = 3) = \dfrac{250}{7776} \approx 3{,}22 \,\%}}$**
 
 </div></div>
 
@@ -390,7 +568,6 @@ Det har vært en stor endring i hvilken type drivstoff bilene i Norge bruker. St
 ![Personbiler per drivstofftype i Moss. Kilde: Skjermdump av ssb.no, utdrag fra tabell 07849](/img/user/_resources/s1-v24-2-6-moss.png){width=100% #fig:moss}
 
 ## Fasit
-
 
 </div></div>
 
@@ -447,7 +624,6 @@ print(areal(x))
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -476,7 +652,6 @@ der $G$ er grunnflaten og $h$ er høyden til pyramiden.
 >Bestem et uttrykk for det største volumet en slik pyramide kan ha.
 
 ## Fasit
-
 
 </div></div>
 

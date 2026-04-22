@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["presentasjon av data"],"fag":["2p-y","2p"],"eksamen":"v25","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":7},{"fag":"2p","del":2,"oppgave":6}],"title":"Lag presentasjon som viser døds- og fødselsrate","source":null,"todo":null,"status":3,"dg-permalink":"/lag-presentasjon-som-viser-dods-og-fodselsrate/","permalink":"/lag-presentasjon-som-viser-dods-og-fodselsrate/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"temaer":["presentasjon av data"],"fag":["2p-y","2p"],"eksamen":"v25","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":7},{"fag":"2p","del":2,"oppgave":6}],"title":"Lag presentasjon som viser døds- og fødselsrate","source":null,"todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["presentasjon av data","prosentregning","diagram"],"kategori":3,"vanskegrad":2,"beskrivelse":"Åpen presentasjonsoppgave – velge diagramtyper og beregne prosentvise endringer i fødselsrate, dødsrate og samlet fruktbarhetstall 1983–2023.","fag":["2p-y","2p"],"eksamen":"v25","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":7},{"fag":"2p","del":2,"oppgave":6}],"title":"Lag presentasjon som viser døds- og fødselsrate","source":null,"todo":null,"status":3,"dg-permalink":"/lag-presentasjon-som-viser-dods-og-fodselsrate/","permalink":"/lag-presentasjon-som-viser-dods-og-fodselsrate/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"temaer":["presentasjon av data","prosentregning","diagram"],"kategori":3,"vanskegrad":2,"beskrivelse":"Åpen presentasjonsoppgave – velge diagramtyper og beregne prosentvise endringer i fødselsrate, dødsrate og samlet fruktbarhetstall 1983–2023.","fag":["2p-y","2p"],"eksamen":"v25","del":2,"oppgave":7,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":7},{"fag":"2p","del":2,"oppgave":6}],"title":"Lag presentasjon som viser døds- og fødselsrate","source":null,"todo":null,"status":3}}
 ---
 
 
@@ -32,6 +32,7 @@ Presentasjonen skal inneholde
 
 ## Fasit
 
+Oppgaven er åpen og har mange mulige svar. Se løsningsforslag for et eksempel.
 
 ## Løsningsforslag
 

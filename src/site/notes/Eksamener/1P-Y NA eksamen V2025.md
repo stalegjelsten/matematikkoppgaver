@@ -10,7 +10,7 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [1-1](#oppgave-1-1) | [Enhetspris og sparing på ris](https://matematikkoppgaver.vercel.app/enhetspris-og-sparing-pa-ris/) | enhetskostnad, prosentregning, økonomi | × |
+| [1-1](#oppgave-1-1) | [Enhetspris og sparing på ris](https://matematikkoppgaver.vercel.app/enhetspris-og-sparing-pa-ris/) | enhetskostnad, prosentregning, økonomi | ✔︎ |
 | [1-2](#oppgave-1-2) | [Kvadratrotformel og mobilading](https://matematikkoppgaver.vercel.app/kvadratrotformel-og-mobilading/) | røtter, formler, algebra | ✔︎ |
 | [1-3](#oppgave-1-3) | [Kennys lån](https://matematikkoppgaver.vercel.app/kennys-lan/) | lån | ✔︎ |
 | [1-4](#oppgave-1-4) | [Åker og spireprosent av havrekorn](https://matematikkoppgaver.vercel.app/aker-og-spireprosent-av-havrekorn/) | formler, areal, prosentregning | × |
@@ -24,9 +24,9 @@ Table: {.eksamen-oversikt}
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Fiskebåt og fangst til Norge eller Danmark](https://matematikkoppgaver.vercel.app/fiskebat-og-fangst-til-norge-eller-danmark/) | økonomi, enhetskostnad | × |
 | [2-2](#oppgave-2-2) | [Trine og Geir og høyballer til hester](https://matematikkoppgaver.vercel.app/trine-og-geir-og-hoyballer-til-hester/) | volum, formler, økonomi | × |
-| [2-3](#oppgave-2-3) | [Alis lån til bedriften](https://matematikkoppgaver.vercel.app/alis-lan-til-bedriften/) | lån, excel | × |
+| [2-3](#oppgave-2-3) | [Alis lån til bedriften](https://matematikkoppgaver.vercel.app/alis-lan-til-bedriften/) | lån, excel | ✔︎ |
 | [2-4](#oppgave-2-4) | [Energisammenlikning ved og strøm](https://matematikkoppgaver.vercel.app/energisammenlikning-ved-og-strom/) | enhetskostnad, økonomi, formler | ✔︎ |
-| [2-5](#oppgave-2-5) | [Lønnsalternativer ved avissalg](https://matematikkoppgaver.vercel.app/lonnsalternativer-ved-avissalg/) | lineær vekst, funksjoner, økonomi | × |
+| [2-5](#oppgave-2-5) | [Lønnsalternativer ved avissalg](https://matematikkoppgaver.vercel.app/lonnsalternativer-ved-avissalg/) | lineær vekst, funksjoner, økonomi, likningssystem | ✔︎ |
 
 # Del 1
 
@@ -59,6 +59,31 @@ I familien til Sara er de to voksne og to barn. Hver person spiser 5 kg ris hver
 >b) Hvor mange kroner sparer familien i løpet av ett år dersom de kjøper sekker med ris i stedet for kartonger med boil-in-bag-ris?
 
 ## Fasit
+
+a) 125 g
+b) 240 kr
+
+## Løsningsforslag
+
+### a
+
+1 kg = 1000 g. Det er 8 poser i en kartong, så hver pose inneholder
+
+$$\frac{1000 \, \mathrm{g}}{8} = \underline{\underline{125 \, \mathrm{g}}}$$
+
+### b
+
+Familien spiser til sammen $4 \cdot 5 = 20 \, \mathrm{kg}$ ris per år.
+
+**Kartong med boil-in-bag-ris:** $32 \, \mathrm{kr/kg}$
+
+$$20 \cdot 32 = 640 \, \mathrm{kr}$$
+
+**Sekk med ris:** $80 \, \mathrm{kr}$ for $4 \, \mathrm{kg}$, altså $20 \, \mathrm{kr/kg}$
+
+$$20 \cdot 20 = 400 \, \mathrm{kr}$$
+
+**Familien sparer $\underline{\underline{640 - 400 = 240 \, \mathrm{kr}}}$ i løpet av ett år ved å kjøpe sekker med ris.**
 
 
 </div></div>
@@ -211,7 +236,6 @@ Bonden planter 80 korn i en plantekasse, og 64 korn spirer.
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -248,7 +272,6 @@ Elevene gjør seg noen tanker og stiller seg noen spørsmål.
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -297,7 +320,6 @@ Fiskebåten skal ut igjen til det samme fiskefeltet etter at fangsten er levert.
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -360,7 +382,6 @@ Tilhengeren på gården tåler en totalvekt på 1150 kg.
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -372,6 +393,8 @@ Tilhengeren på gården tåler en totalvekt på 1150 kg.
 
 
 
+
+# Alis lån til bedriften
 
 Ali eier en bedrift. Han tar opp et serielån på 800 000 kroner i starten av et år.
 Lånet skal betales ned i løpet av 5 år med én termin per år. Renten er 6,2 % per år.
@@ -385,6 +408,7 @@ Ali vil bruke et regneark til å lage en nedbetalingsplan. Nedenfor ser du hva h
 > a) Lag et regneark som vist ovenfor. Lag formler i de grønne cellene slik at utregningene blir riktige. Husk å vise formlene du bruker i regnearket.
 
 For å regne ut summen $S$ av renter du må betale for et serielån, kan du bruke formelen
+
 $$
 S= \frac{L \cdot n + L}{2} \cdot \frac{r}{100}
 $$
@@ -404,10 +428,32 @@ b) 148 800 kr
 
 ## Løsningsforslag
 
+### a
+
+Et serielån har like store avdrag i hver termin. Avdraget er
+
+$$\frac{800\,000}{5} = 160\,000 \, \mathrm{kr}$$
+
+Rentene beregnes av restlånet ved starten av året. Regnearket under viser nedbetalingsplanen med verdier og formler.
+
+
+![Nedbetalingsplan for Alis serielån](/img/user/_resources/1p-y-v25-2-3-regneark.png){width=80%}
+
+
+**Forklaring av formlene:**
+
+- **Renter** = Lån starten av året $\cdot$ renten (f.eks. `=B6*$B$2`)
+- **Avdrag** = Lånebeløpet $\div$ antall terminer (f.eks. `=$B$1/$B$3`)
+- **Terminbeløp** = Renter + Avdrag (f.eks. `=C6+D6`)
+- **Lån slutten av året** = Lån starten av året $-$ Avdrag (f.eks. `=B6-D6`)
+- **Lån starten av året** (fra termin 2) = Lån slutten av forrige år (f.eks. `=F6`)
+
 ### b
 Vi vet at $L=800\,000$, $n=5$, $r=6{,}2$. Da kan vi regne ut $S$ med:
+
 $$S=\frac{800000 \cdot 5 + 800000}{2} \cdot \frac{6{,}2}{100}=\frac{4\,800\,000}{2} \cdot 0{,}062 = 2\,400\,000 \cdot 0{,}062 = 148 \, 800 $$
-  **Ali betaler 148 800 kr i renter.**
+
+**Ali betaler 148 800 kr i renter.**
 
 
 </div></div>
@@ -501,14 +547,18 @@ Elise skal gå fra dør til dør og selge aviser hver lørdag. En avis koster 49
 
 Firmaet hun skal arbeide for, beregner lønn på ulike måter. Elise kan velge mellom to tilbud.
 
+<!-- two-column start left-width=40% -->
 
 > [!green-box] Tilbud 1
 > Lønn: 35 % av beløpet hun selger aviser for
 
+---
 
 > [!yellow-box] Tilbud 2
 > Fast lønn: 150 kroner per lørdag  
 > Tillegg: 10 kroner per avis hun selger
+
+<!-- two-column stop -->
 
 Elise gjør seg noen tanker og stiller noen spørsmål.
 

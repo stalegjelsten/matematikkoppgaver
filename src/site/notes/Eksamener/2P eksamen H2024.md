@@ -24,10 +24,10 @@ Table: {.eksamen-oversikt}
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Salg av iste](https://matematikkoppgaver.vercel.app/salg-av-iste/) | eksponentialfunksjoner, prosentvis endring i flere perioder | ✔︎ |
 | [2-2](#oppgave-2-2) | [Kjøpekraft og konsumprisindeks](https://matematikkoppgaver.vercel.app/kjopekraft-og-konsumprisindeks/) | prisindeks, prosentregning | × |
-| [2-3](#oppgave-2-3) | [Argumenter for at prosentregnestykker gir samme svar](https://matematikkoppgaver.vercel.app/argumenter-for-at-prosentregnestykker-gir-samme-svar/) | prosent, utforskning | ✔︎ |
+| [2-3](#oppgave-2-3) | [Argumenter for at prosentregnestykker gir samme svar](https://matematikkoppgaver.vercel.app/argumenter-for-at-prosentregnestykker-gir-samme-svar/) | prosent, utforskning, argumentasjon, prosentregning | ✔︎ |
 | [2-4](#oppgave-2-4) | [Statistikk for quizlag](https://matematikkoppgaver.vercel.app/statistikk-for-quizlag/) | statistikk, utforskning | × |
 | [2-5](#oppgave-2-5) | [Nettoinntekt med overtid](https://matematikkoppgaver.vercel.app/nettoinntekt-med-overtid/) | prosentregning, økonomi | × |
-| [2-6](#oppgave-2-6) | [Lag presentasjon om statistikk for tidsbruk på ulike aktiviteter](https://matematikkoppgaver.vercel.app/lag-presentasjon-om-statistikk-for-tidsbruk-pa-ulike-aktiviteter/) | presentasjon av data | ✔︎ |
+| [2-6](#oppgave-2-6) | [Lag presentasjon om statistikk for tidsbruk på ulike aktiviteter](https://matematikkoppgaver.vercel.app/lag-presentasjon-om-statistikk-for-tidsbruk-pa-ulike-aktiviteter/) | presentasjon av data, prosentregning, diagram | ✔︎ |
 | [2-7](#oppgave-2-7) | [Forbrukslån med betalingsplan](https://matematikkoppgaver.vercel.app/forbrukslan-med-betalingsplan/) | lån, økonomi | × |
 | [2-8](#oppgave-2-8) | [Volum og areal for lesehule](https://matematikkoppgaver.vercel.app/volum-og-areal-for-lesehule/) | volum, areal, geometri | × |
 
@@ -50,7 +50,6 @@ På et kart er avstanden mellom to byer 10 cm. I virkeligheten er denne avstande
 >Bestem målestokken til kartet.
 
 ## Fasit
-
 
 </div></div>
 
@@ -82,7 +81,7 @@ b) 8
 
 ## Løsningsforslag
 
-### 1-2a
+### a
 
 Data sortert i stigende rekkefølge:
 
@@ -96,7 +95,7 @@ $$\text{median} = \frac{4 + 5}{2} = 4{,}5$$
 
 **Gjennomsnittet er 4,2 timer og medianen er 4,5 timer.**
 
-### 1-2b
+### b
 
 Den kumulative frekvensen for 5 timer er antall dager der Lars jobbet høyst 5 timer. Vi teller antall verdier som er mindre eller lik 5 timer: $0, 3, 3, 3, 4, 5, 5, 5$. 
 
@@ -123,7 +122,6 @@ Even har tegnet en rettvinklet trekant. Den ene kateten er 10 cm, og den andre k
 >Hvor lange må hver av katetene i den nye trekanten være?
 
 ## Fasit
-
 
 </div></div>
 
@@ -152,7 +150,6 @@ $$
 >Vis Markus hvordan han kan løse likningssystemet.
 
 ## Fasit
-
 
 </div></div>
 
@@ -200,7 +197,7 @@ b) Det totale CO₂-utslippet i 2025–2029 ($\approx 951 \, \mathrm{tonn}$)
 
 ## Løsningsforslag
 
-### 1-5a
+### a
 
 Linje 2 i programmet er `return 200 * 0.975 ** x`.
 
@@ -210,7 +207,7 @@ Linje 2 i programmet er `return 200 * 0.975 ** x`.
 
 **Uttrykket $200 \cdot 0{,}975^x$ gir utslippet (i tonn CO₂) $x$ år etter 2025.**
 
-### 1-5b
+### b
 
 Programmet beregner $f(0) + f(1) + f(2) + f(3) + f(4)$, altså summen av utslippet for $x = 0, 1, 2, 3, 4$.
 
@@ -259,7 +256,7 @@ b) $\approx 188 \,\%$ økning
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 
 **Metode 1 – bruke modellen direkte:**
 
@@ -287,7 +284,7 @@ Fra grafen leser vi av:
 
 2) **Fra og med $x = 27$, som tilsvarer mars 2027, vil bedriften for første gang selge mer enn $\underline{\underline{2000 \text{ flasker}}}$ i løpet av en måned.**
 
-### 2-1b
+### b
 
 Fra desember 2024 ($x = 0$) til desember 2026 ($x = 24$):
 
@@ -325,7 +322,6 @@ Tabellen nedenfor viser gjennomsnittlig månedslønn for arbeidstakere i Norge i
 >Undersøk hvordan kjøpekraften har endret seg år for år i perioden 2015–2022. Presenter resultatet på en oversiktlig måte.
 
 ## Fasit
-
 
 </div></div>
 
@@ -408,7 +404,7 @@ c) Se løsningsforslag for eksempel
 
 ## Løsningsforslag
 
-### 2-5a
+### a
 
 Lag A sortert: $15, 18, 24, 45, 60, 78$
 
@@ -428,13 +424,13 @@ $$\sigma \approx 23{,}2 \, \text{år}$$
 
 **Medianen er 34,5 år, gjennomsnittsalderen er 40 år og standardavviket er 23,2 år.**
 
-### 2-5b
+### b
 
 **Lag B** har høyere median og høyere gjennomsnitt enn lag A, men lavere standardavvik. Det betyr at personene på lag B generelt er eldre enn på lag A, og at de er mer jevnaldrende (mindre variasjon i alderen).
 
 **Lag C** har lavere median men høyere gjennomsnitt enn lag A. Det tyder på at det er en eller noen få personer med svært høy alder som drar gjennomsnittet opp, mens over halvparten er yngre enn medianen på lag A. Det høyere standardavviket bekrefter at aldersfordelingen er mer spredt enn på lag A.
 
-### 2-5c
+### c
 
 **Eksempel på lag B** (median > 34,5, gjennomsnitt > 40, SD < 23,2):
 
@@ -479,7 +475,6 @@ En måned arbeidet hun 10 timer overtid.
 >Bestem nettoinntekten til Tobine denne måneden.
 
 ## Fasit
-
 
 </div></div>
 
@@ -587,7 +582,6 @@ Betalingsplanen ser slik ut:
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -619,7 +613,6 @@ Lesehulen har en sekskantet inngang. Sekskanten er regulær. Alle sidene i seksk
 >b) Gjør beregninger og bestem arealet av den sekskantede inngangen. Gi svaret i kvadratmeter.
 
 ## Fasit
-
 
 </div></div>
 

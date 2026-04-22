@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["grenseverdi","rasjonale funksjoner"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":4},{"fag":"r1","del":1,"oppgave":4}],"poeng":2,"title":"Grenseverdi for rasjonalt uttrykk","status":3,"source":null,"todo":null,"dg-permalink":"/grenseverdi-for-rasjonalt-uttrykk/","permalink":"/grenseverdi-for-rasjonalt-uttrykk/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["grenseverdi","rasjonale funksjoner"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":4},{"fag":"r1","del":1,"oppgave":4}],"poeng":2,"title":"Grenseverdi for rasjonalt uttrykk","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["grenseverdi","rasjonale funksjoner"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":4},{"fag":"r1","del":1,"oppgave":4}],"poeng":2,"title":"Grenseverdi for rasjonalt uttrykk","status":3,"kategori":1,"vanskegrad":2,"beskrivelse":"Grenseverdi når $x\\to\\infty$ av rasjonalt uttrykk med samme grad i teller og nevner — via L'Hôpital eller ved å dele med $x^2$.","source":null,"todo":null,"dg-permalink":"/grenseverdi-for-rasjonalt-uttrykk/","permalink":"/grenseverdi-for-rasjonalt-uttrykk/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["grenseverdi","rasjonale funksjoner"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":4},{"fag":"r1","del":1,"oppgave":4}],"poeng":2,"title":"Grenseverdi for rasjonalt uttrykk","status":3,"kategori":1,"vanskegrad":2,"beskrivelse":"Grenseverdi når $x\\to\\infty$ av rasjonalt uttrykk med samme grad i teller og nevner — via L'Hôpital eller ved å dele med $x^2$.","source":null,"todo":null}}
 ---
 
 
@@ -11,6 +11,7 @@
 
 ## Fasit
 
+Grenseverdien er $\frac{1}{2}$.
 
 ## Løsningsforslag
 

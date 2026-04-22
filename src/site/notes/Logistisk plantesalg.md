@@ -39,7 +39,7 @@ c) Uke 21.
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 
 ![Regresjon i GeoGebra til oppgave 1 del 2](/img/user/_resources/s2-h25-2-1a-regresjon.png){width=60%}
 
@@ -51,7 +51,7 @@ Salget starter i uke 17, så modellen er ikke gyldig før dette. I uke 24 så se
 
 **Jeg vurderer modellens gyldighetsområde til å kun være fra uke 17 til og med uke 24, altså $t \in [0,7]$.** 
 
-### 2-1b
+### b
 
 ![CAS løsning av oppgave 1 del 2](/img/user/_resources/s2-h25-2-1bc.png){width=60%}
 
@@ -59,7 +59,7 @@ Inntekten øker mest ved vendepunktet $t=3$ (etter 20 uker), se linje 2 i utklip
 
 **Inntektene vokser raskest i uke 20. De vokser da med omtrent 9486 kr per uke.**
 
-### 2-1c
+### c
 Se linje 4 i GeoGebra-utklippet. $x=4{,}3$ tilsvarer underveis i uke 21.
 
 **De samlede salgsinntektene for planten passerte 65 000 kr i uke 21.**

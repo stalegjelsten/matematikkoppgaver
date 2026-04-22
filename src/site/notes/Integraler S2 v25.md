@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":[],"dg-publish":true,"temaer":["integral"],"fag":["s2","r2"],"eksamen":"v25","del":1,"oppgave":1,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":1},{"fag":"r2","del":1,"oppgave":1}],"title":"Integraler S2 v25","source":null,"todo":null,"status":3,"dg-permalink":"/integraler-s2-v25/","permalink":"/integraler-s2-v25/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":[],"temaer":["integral"],"fag":["s2","r2"],"eksamen":"v25","del":1,"oppgave":1,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":1},{"fag":"r2","del":1,"oppgave":1}],"title":"Integraler S2 v25","source":null,"todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":[],"dg-publish":true,"temaer":["integral","bestemt integral","substitusjon"],"fag":["s2","r2"],"eksamen":"v25","del":1,"oppgave":1,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":1},{"fag":"r2","del":1,"oppgave":1}],"title":"Integraler S2 v25","source":null,"todo":null,"status":3,"kategori":1,"vanskegrad":2,"beskrivelse":"Bestemt integral av eksponential pluss polynom; ubestemt integral via variabelskifte $u=x^2-x-6$ der telleren er $u'$.","deloppgaver":[{"deloppgave":"a","vanskegrad":1,"beskrivelse":"Antiderivere $2e^x+2x^2$ og sette inn grenser; $2e - 4/3$."},{"deloppgave":"b","beskrivelse":"Variabelskifte med $u=x^2-x-6$; integralet blir $\\ln|u|+C$."}],"dg-permalink":"/integraler-s2-v25/","permalink":"/integraler-s2-v25/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":[],"temaer":["integral","bestemt integral","substitusjon"],"fag":["s2","r2"],"eksamen":"v25","del":1,"oppgave":1,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":1},{"fag":"r2","del":1,"oppgave":1}],"title":"Integraler S2 v25","source":null,"todo":null,"status":3,"kategori":1,"vanskegrad":2,"beskrivelse":"Bestemt integral av eksponential pluss polynom; ubestemt integral via variabelskifte $u=x^2-x-6$ der telleren er $u'$.","deloppgaver":[{"deloppgave":"a","vanskegrad":1,"beskrivelse":"Antiderivere $2e^x+2x^2$ og sette inn grenser; $2e - 4/3$."},{"deloppgave":"b","beskrivelse":"Variabelskifte med $u=x^2-x-6$; integralet blir $\\ln|u|+C$."}]}}
 ---
 
 
@@ -25,12 +25,12 @@ b) $\ln \left| x^{2}-x-6 \right|+C$
 
 ## Løsningsforslag
 
-### 1-1a
+### a
 $$
 \int_{0}^{1} \left( 2e^{x}+2x^{2} \right)  \, \mathrm{d}x = \left[  2e^{x}+\frac{2}{3}x^{3} \right]_{0}^{1}= \left( 2e^{1}+\frac{2}{3}1^{3}  \right)  -\left(  2e^{0}  +\frac{2}{3}0^{3} \right) =2e+\frac{2}{3}-2=\underline{\underline{2e-\frac{4}{3}}}
 $$
 
-### 1-1b
+### b
 Vi ser at den deriverte av uttrykket i nevneren er det samme som telleren, og det er derfor lurt å forsøke variabelskiftet $\textcolor{tomato}{u=x^{2}-x-6}$.
 $$
 \textcolor{tomato}{u=x^{2}-x-6} \implies \frac{du}{dx}=\textcolor{seagreen}{2x-1} \iff \frac{du}{\textcolor{seagreen}{2x-1}}=dx

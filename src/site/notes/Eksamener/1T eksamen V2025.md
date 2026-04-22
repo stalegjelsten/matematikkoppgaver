@@ -53,7 +53,6 @@ $$f(x) = \frac{12x-3}{2x+1}$$
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -74,7 +73,6 @@ $$f(x) = \frac{12x-3}{2x+1}$$
 >$$x^2 - 4x - 12 < 0$$
 
 ## Fasit
-
 
 </div></div>
 
@@ -155,7 +153,6 @@ $$f(x) = x^3 - 7x^2 - 10x + 16$$
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -187,7 +184,6 @@ Gitt en trekant $PQR$ der $PQ = 8$, $PR = 3$ og $\angle P = 60\degree$
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -216,7 +212,6 @@ i et CAS-verktøy og får resultatet $x = x$. Se nedenfor.
 >Ta utgangspunkt i dette resultatet og forklar Kari hva en identitet er.
 
 ## Fasit
-
 
 </div></div>
 
@@ -256,7 +251,6 @@ print(verdi)
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -292,7 +286,6 @@ La $x$ være antall måneder etter desember 2022, det vil si at $x = 1$ tilsvare
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -315,7 +308,6 @@ En dag solgte butikken 80 sekker. Sekkene veide til sammen $720 \mathrm{~kg}$.
 >Hvor mange små og hvor mange store sekker solgte butikken denne dagen?
 
 ## Fasit
-
 
 </div></div>
 
@@ -340,6 +332,9 @@ En tolvkant er innskrevet i en sirkel. Se figuren ovenfor. Tolvkanten er satt sa
 >b) Bestem omkretsen av tolvkanten. Gi svaret eksakt.
 
 ## Fasit
+
+a) $d=4\sqrt{ 10 }$
+b) $O=24\left( \sqrt{ 15 } -\sqrt{ 5 }  \right) $
 
 ## Løsningsforslag
 
@@ -539,7 +534,6 @@ Isabel ønsker å lage en modell som viser overflaten av ulike bokser hun kan la
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -576,7 +570,6 @@ Klassen til Noah og Johanne arbeider med rasjonale funksjoner. Læreren har tegn
 >Husk å argumentere for dine valg av funksjonsuttrykk.
 
 ## Fasit
-
 
 </div></div>
 

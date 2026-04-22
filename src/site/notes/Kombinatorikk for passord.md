@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["kombinatorikk"],"fag":["s1"],"eksamen":"v24","del":2,"oppgave":3,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":3}],"poeng":4,"title":"Kombinatorikk for passord","status":3,"source":null,"todo":null,"dg-permalink":"/kombinatorikk-for-passord/","permalink":"/kombinatorikk-for-passord/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"temaer":["kombinatorikk"],"fag":["s1"],"eksamen":"v24","del":2,"oppgave":3,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":3}],"poeng":4,"title":"Kombinatorikk for passord","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["kombinatorikk"],"fag":["s1"],"eksamen":"v24","del":2,"oppgave":3,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":3}],"poeng":4,"title":"Kombinatorikk for passord","status":3,"kategori":3,"vanskegrad":3,"beskrivelse":"Passordtelling med komplementmetoden i a; multinomialkoeffisient $6!/(2!2!2!)$ for permutasjoner av 2+2+2 tegntyper i b.","deloppgaver":[{"deloppgave":"a","kategori":2,"vanskegrad":2,"beskrivelse":"Total $58^6$ minus kombinasjoner uten liten bokstav ($29^6$) og uten stor bokstav ($29^6$)."},{"deloppgave":"b","beskrivelse":"Antall plasseringer av 2 store + 2 små + 2 siffer ved $6!/(2!\\,2!\\,2!)=90$, ganget med $29^2 \\cdot 29^2 \\cdot 10^2$."}],"source":null,"todo":null,"dg-permalink":"/kombinatorikk-for-passord/","permalink":"/kombinatorikk-for-passord/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-24","modified":"2026-03-26","aliases":[],"temaer":["kombinatorikk"],"fag":["s1"],"eksamen":"v24","del":2,"oppgave":3,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":3}],"poeng":4,"title":"Kombinatorikk for passord","status":3,"kategori":3,"vanskegrad":3,"beskrivelse":"Passordtelling med komplementmetoden i a; multinomialkoeffisient $6!/(2!2!2!)$ for permutasjoner av 2+2+2 tegntyper i b.","deloppgaver":[{"deloppgave":"a","kategori":2,"vanskegrad":2,"beskrivelse":"Total $58^6$ minus kombinasjoner uten liten bokstav ($29^6$) og uten stor bokstav ($29^6$)."},{"deloppgave":"b","beskrivelse":"Antall plasseringer av 2 store + 2 små + 2 siffer ved $6!/(2!\\,2!\\,2!)=90$, ganget med $29^2 \\cdot 29^2 \\cdot 10^2$."}],"source":null,"todo":null}}
 ---
 
 
@@ -31,6 +31,8 @@ Skolen vil øke sikkerheten og legger til flere krav for å lage passord. De lag
 
 ## Fasit
 
+a) $58^{6}-2 \cdot 29^{6}= 36\,879\,045\,902$ ulike passord (ca. 36,9 milliarder).
+b) $6\,365\,529\,000$ ulike passord. Regelsett 2 gir dårligere sikkerhet enn regelsett 1.
 
 ## Løsningsforslag
 
@@ -39,7 +41,7 @@ Skolen vil øke sikkerheten og legger til flere krav for å lage passord. De lag
 - Minst 1 stor bokstav
 - Minst 1 liten bokstav
 
-### 2-3a
+### a
 Det er 29 små bokstaver og 29 store bokstaver, dette gir i utgangspunktet 58 ulike muligheter for hver av de 6 tegnene i passordet. Dersom vi ikke hadde hatt kravene om minst 1 liten og stor bokstav ville antallet kombinasjoner derfor ha vært $58^{6}$. 
 
 Siden vi må minst ha 1 liten bokstav så kan vi ta bort de kombinasjonene som bare bruker store bokstaver ($29^6$) og de som bare bruker små bokstaver ($29^6$). Til sammen har vi da
@@ -50,7 +52,7 @@ $$
 
 **Det er 36,9 milliarder ulike passordet ifølge dette regelsettet.**
 
-### 2-3b
+### b
 Det finnes fremdeles 29 ulike store bokstaver, 29 ulike små bokstaver og det finnes 10 ulike siffer.
 
 Hvis rekkefølgen ikke hadde spilt noen rolle ville vi fått $29^{2}\cdot 29^{2} \cdot 10^{2}=70\, 728\, 100$ kombinasjoner.

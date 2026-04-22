@@ -38,7 +38,7 @@ c) 158,12 m
 
 ## Løsningsforslag
 
-### 2-6a
+### a
 $$
 \begin{aligned}
 130 &= 120 + 10 \log I\\
@@ -51,7 +51,7 @@ $$
 
 **Lydintensiteten er 10 W/m² når lydstyrken er 130 dB.**
 
-### 2-6b
+### b
 Når $L=132$ blir 
 
 $$
@@ -66,7 +66,7 @@ $$
 
 **Når lydstyrken øker fra 130 dB til 132 dB øker lydintensiteten med 58,5 %.**
 
-### 2-6c
+### c
 Vi vet at $L=140$ når $r=50$. Jeg løser for $E$ og finner (dette gjøres enklest i CAS)
 
 $$

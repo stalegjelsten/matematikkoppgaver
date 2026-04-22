@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["grenseverdi","kontinuitet"],"fag":["r1"],"eksamen":"h25","del":1,"oppgave":3,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":3}],"title":"Grenseverdier","status":3,"source":null,"todo":null,"dg-permalink":"/grenseverdier/","permalink":"/grenseverdier/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["grenseverdi","kontinuitet"],"fag":["r1"],"eksamen":"h25","del":1,"oppgave":3,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":3}],"title":"Grenseverdier","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["grenseverdi","kontinuitet"],"fag":["r1"],"eksamen":"h25","del":1,"oppgave":3,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":3}],"title":"Grenseverdier","status":0,"source":null,"todo":null,"dg-permalink":"/grenseverdier/","permalink":"/grenseverdier/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["grenseverdi","kontinuitet"],"fag":["r1"],"eksamen":"h25","del":1,"oppgave":3,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":3}],"title":"Grenseverdier","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -21,7 +21,7 @@ b) $a = 3$, grenseverdi $= \dfrac{1}{6}$
 
 ## Løsningsforslag
 
-### 1-3a
+### a
 
 Vi faktoriserer nevneren: $x^2 - 2x - 8 = (x-4)(x+2)$.
 
@@ -33,7 +33,7 @@ $$
 
 Siden teller $\to 14$ og nevner $\to 0$, eksisterer **ikke** grenseverdien.
 
-### 1-3b
+### b
 
 **Del 1 – bestemme $a$:**
 

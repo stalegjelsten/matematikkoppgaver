@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["eksponentialfunksjoner"],"fag":["2p-y","2p"],"eksamen":"v25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":6},{"fag":"2p","del":2,"oppgave":4}],"title":"Halvert fuglebestand","source":null,"todo":null,"status":3,"dg-permalink":"/halvert-fuglebestand/","permalink":"/halvert-fuglebestand/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"temaer":["eksponentialfunksjoner"],"fag":["2p-y","2p"],"eksamen":"v25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":6},{"fag":"2p","del":2,"oppgave":4}],"title":"Halvert fuglebestand","source":null,"todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["eksponentialfunksjoner","regresjon","vekstfaktor"],"fag":["2p-y","2p"],"eksamen":"v25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":6},{"fag":"2p","del":2,"oppgave":4}],"title":"Halvert fuglebestand","source":null,"todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Eksponentiell halveringsmodell $F(x)=12\\,000\\cdot 0{,}87^x$ — verifisere halvering hvert 5. år, beregne $F(7)$, og finne $x$ når bestanden er redusert 35 %.","deloppgaver":[{"deloppgave":"a","vanskegrad":1,"beskrivelse":"Verifisere at $0{,}87^5 \\approx 0{,}5$ (eller bruke regresjon) for å vise at modellen halverer hvert 5. år."},{"deloppgave":"b","kategori":1,"vanskegrad":1,"beskrivelse":"Beregne $F(7)=12\\,000 \\cdot 0{,}87^7$ i GeoGebra."},{"deloppgave":"c","beskrivelse":"Finne skjæring mellom $F(x)$ og $y=12\\,000 \\cdot 0{,}65$ for 35 % reduksjon."}],"dg-permalink":"/halvert-fuglebestand/","permalink":"/halvert-fuglebestand/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"temaer":["eksponentialfunksjoner","regresjon","vekstfaktor"],"fag":["2p-y","2p"],"eksamen":"v25","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":6},{"fag":"2p","del":2,"oppgave":4}],"title":"Halvert fuglebestand","source":null,"todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Eksponentiell halveringsmodell $F(x)=12\\,000\\cdot 0{,}87^x$ — verifisere halvering hvert 5. år, beregne $F(7)$, og finne $x$ når bestanden er redusert 35 %.","deloppgaver":[{"deloppgave":"a","vanskegrad":1,"beskrivelse":"Verifisere at $0{,}87^5 \\approx 0{,}5$ (eller bruke regresjon) for å vise at modellen halverer hvert 5. år."},{"deloppgave":"b","kategori":1,"vanskegrad":1,"beskrivelse":"Beregne $F(7)=12\\,000 \\cdot 0{,}87^7$ i GeoGebra."},{"deloppgave":"c","beskrivelse":"Finne skjæring mellom $F(x)$ og $y=12\\,000 \\cdot 0{,}65$ for 35 % reduksjon."}]}}
 ---
 
 
@@ -28,14 +28,14 @@ c) 3 år
 
 ## Løsningsforslag
 
-### 2-6a
+### a
 Jeg bruker regresjon for å vise dette, se figuren.
 
 ![Regresjon på antall fugler](/img/user/_resources/2py-v25-2-6a.png)
 
 **Funksjonen $\underline{\underline{F(x)=12000\cdot 0{,}87^{x}}}$ er en god modell for utviklingen.**
 
-### 2-6b
+### b
 
 ![Fuglebestand](/img/user/_resources/2py-v25-2-6b.png)
 
@@ -43,7 +43,7 @@ Jeg sjekket verdien av $F(7)$ i GeoGebra, se skjermbildet.
 
 **Etter 7 år vil det være 4527 fugler ifølge modellen.**
 
-### 2-6c
+### c
 Når bestanden er redusert med 35 % er det 65 % igjen, altså $12000 \cdot 0{,}65$. Jeg la inn linja $y=12000 \cdot 0{,}65$ og fant skjæringen i punktet $A$.
 
 **Det tar 3 år før bestanden er redusert med 35 % ifølge modellen.**

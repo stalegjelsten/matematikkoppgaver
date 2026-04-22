@@ -94,7 +94,7 @@ b) Den kumulative frekvensen for $6$ personer er $7$ (det var 7 av de 10 observa
 
 ## Løsningsforslag
 
-### 1-2a
+### a
 Medianen er det midterste tallet etter at vi har sortert dem stigende
 $$
 2,2,3,4,\underbrace{ 4,6 }_{ \text{Median} },6,7,8,8
@@ -107,7 +107,7 @@ $$
 $$
 **Medianen er 5 og gjennomsnittet er 5.**
 
-### 1-2b
+### b
 Den kumulative frekvensen for 6 personer er antallet observasjoner som er 6 eller mindre. Det er 7 av de 10 observasjonene som er på 6 personer eller mindre.
 
 **Den kumulative frekvensen for 6 personer er 7, det betyr at det i 7 av de 10 tilfellene var 6 personer eller færre i vogna i skiheisen.**
@@ -357,7 +357,7 @@ e) Nei, modellen har alltid $U(x)>1000$ og vil aldri nå $800$).
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 $U(x)$ består av to ledd: $\textcolor{maroon}{5000 \cdot 0{,}95^{x}}$ og $\textcolor{seagreen}{1000}$. 
 
 1. $\textcolor{maroon}{5000 \cdot 0{,}95^{x}}$ er en eksponentialfunksjon som synker med 5 % for hvert år. Dette viser at prosessen som i dag slipper ut 5000 tonn per år kommer til å reduseres med 5 %.
@@ -365,7 +365,7 @@ $U(x)$ består av to ledd: $\textcolor{maroon}{5000 \cdot 0{,}95^{x}}$ og $\text
 
 **Ledelsen ønsker å minke utslippet fra den ene prosessen med 5 % per år, og ikke gjøre noe med den andre prosessen.**
 
-### 2-1b
+### b
 Til de neste oppgavene har jeg brukt GeoGebra til å regne ut svarene, se figur &fig:2-1. 
 
 For å finne antall år før utslippene blir halvert har jeg lagt ut linja $y=\frac{6000}{2}$ og funnet skjæringen med $U$, se punkt $A$. 
@@ -374,19 +374,19 @@ For å finne antall år før utslippene blir halvert har jeg lagt ut linja $y=\f
 
 ![Løsning av oppgave 2-1b–e](/img/user/_resources/2py-v25-2-1-gg.png){#fig:2-1}
 
-### 2-1c
+### c
 For å finne utslippet etter 10 år har jeg lagt ut linja $x=10$ og funnet skjæringen med $U$, se punkt $B$. Utslippene er 3993,7 tonn etter 10 år. 
 
 Jeg har beregnet den prosentvise endringen i algebrafeltet, se linjen merket `c) ProsEndring`.
 
 **Utslippene har minket med 33,4 % etter 10 år.**
 
-### 2-1d
+### d
 Jeg la ut punktene $C(0,U(0))$ og $D(30,U(30))$ i GeoGebra og trakk en linje mellom dem. Etter å ha ordnet uttrykket for linja ser jeg at stigningstallet til linja er $-130{,}9$.
 
 **Stigningstallet til linja er omtrent -131, dette betyr at utslippene i gjennomsnitt minker med 131 tonn per år hvert år i løpet av de 30 første årene.**
 
-### 2-1e
+### e
 Jeg sjekket dette ved å lete etter skjæringen i mellom $y=800$ og $U(x)$ i GeoGebra. Da fikk jeg svaret `Udefinert` siden disse funksjonene ikke skjærer hverandre. Dette kunne jeg også sett fra funksjonsuttrykket med leddet $+1000$, som gjør at $U(x)$ alltid vil være større enn 1000.
 
 **Det er ikke mulig å komme ned til 800 tonn per år med dagens modell.**
@@ -428,7 +428,7 @@ b) Ja, hvis personen er 17 år.
 
 ## Løsningsforslag
 
-### 2-3a
+### a
 Akkurat nå er det 10 personer i rommet. Medianalderen blir da gjennomsnittet av aldrene til person nummer 5 og 6. Denne medianalderen er foreløpig $\frac{28+30}{2}=29$ år.
 
 Dersom det kommer en ellevte person inn så er det person nr. 6 som vil være medianalderen:
@@ -439,7 +439,7 @@ Dersom det kommer en ellevte person inn så er det person nr. 6 som vil være me
 
 **Påstanden er riktig.**
 
-### 2-3b
+### b
 Hvis det kommer en ny person inn i rommet så blir det 11 personer i rommet. Hvis deres gjennomsnittsalder skal være 30 så må summen av alle aldrene være $11 \cdot 30 = 330$ år.
 
 Foreløpig er summen av aldrene 313 år. Hvis den siste personen er 17 år så blir blir summen 330 år, og dermed blir gjennomsnittet
@@ -510,14 +510,14 @@ c) 3 år
 
 ## Løsningsforslag
 
-### 2-6a
+### a
 Jeg bruker regresjon for å vise dette, se figuren.
 
 ![Regresjon på antall fugler](/img/user/_resources/2py-v25-2-6a.png)
 
 **Funksjonen $\underline{\underline{F(x)=12000\cdot 0{,}87^{x}}}$ er en god modell for utviklingen.**
 
-### 2-6b
+### b
 
 ![Fuglebestand](/img/user/_resources/2py-v25-2-6b.png)
 
@@ -525,7 +525,7 @@ Jeg sjekket verdien av $F(7)$ i GeoGebra, se skjermbildet.
 
 **Etter 7 år vil det være 4527 fugler ifølge modellen.**
 
-### 2-6c
+### c
 Når bestanden er redusert med 35 % er det 65 % igjen, altså $12000 \cdot 0{,}65$. Jeg la inn linja $y=12000 \cdot 0{,}65$ og fant skjæringen i punktet $A$.
 
 **Det tar 3 år før bestanden er redusert med 35 % ifølge modellen.**

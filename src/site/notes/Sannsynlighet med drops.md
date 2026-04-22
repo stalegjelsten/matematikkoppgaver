@@ -32,7 +32,7 @@ c) $\dfrac{49}{324}$
 
 Hver pose inneholder $3 + 8 + 7 = 18$ drops.
 
-### 2-3a
+### a
 
 Sander tar $2$ drops. Sannsynligheten for $2$ gule:
 
@@ -40,7 +40,7 @@ $$P(\text{2 gule}) = \frac{\binom{8}{2}}{\binom{18}{2}} = \frac{28}{153}$$
 
 **$\underline{\underline{P = \dfrac{28}{153}}}$**
 
-### 2-3b
+### b
 
 Henny tar $3$ drops. Sannsynligheten for én av hver farge:
 
@@ -48,7 +48,7 @@ $$P(\text{en av hver}) = \frac{\binom{3}{1}\binom{8}{1}\binom{7}{1}}{\binom{18}{
 
 **$\underline{\underline{P = \dfrac{7}{34}}}$**
 
-### 2-3c
+### c
 
 Alle tre tar ett drops fra hver sin pose – uavhengige hendelser.
 

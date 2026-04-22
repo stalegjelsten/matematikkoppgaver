@@ -24,9 +24,9 @@ Table: {.eksamen-oversikt}
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Gjennomsnittstemperatur på Svalbard](https://matematikkoppgaver.vercel.app/gjennomsnittstemperatur-pa-svalbard/) | geogebra, gjennomsnittlig vekstfart | ✔︎ |
 | [2-1](#oppgave-2-1) | [Gjennomsnittstemperatur på Svalbard og den deriverte](https://matematikkoppgaver.vercel.app/gjennomsnittstemperatur-pa-svalbard-og-den-deriverte/) | derivasjon, funksjonsdrøfting, funksjoner | ✔︎ |
-| [2-2](#oppgave-2-2) | [Bredden av teltplassen](https://matematikkoppgaver.vercel.app/bredden-av-teltplassen/) | excel, utforskning | ✔︎ |
-| [2-3](#oppgave-2-3) | [Areal av firkant ved hjelp av trigonometri](https://matematikkoppgaver.vercel.app/areal-av-firkant-ved-hjelp-av-trigonometri/) | trigonometri, cosinussetningen, arealsetningen | ✔︎ |
-| [2-4](#oppgave-2-4) | [Areal under graf med programmering](https://matematikkoppgaver.vercel.app/areal-under-graf-med-programmering/) | programmering, integral, funksjoner, utforskning | ✔︎ |
+| [2-2](#oppgave-2-2) | [Bredden av teltplassen](https://matematikkoppgaver.vercel.app/bredden-av-teltplassen/) | excel, utforskning, optimering, funksjoner | ✔︎ |
+| [2-3](#oppgave-2-3) | [Areal av firkant ved hjelp av trigonometri](https://matematikkoppgaver.vercel.app/areal-av-firkant-ved-hjelp-av-trigonometri/) | trigonometri, cosinussetningen, arealsetningen, geometri | ✔︎ |
+| [2-4](#oppgave-2-4) | [Areal under graf med programmering](https://matematikkoppgaver.vercel.app/areal-under-graf-med-programmering/) | programmering, integral, funksjoner, utforskning, numerisk integrasjon | ✔︎ |
 | [2-5](#oppgave-2-5) | [Areal av trekant i sirkel](https://matematikkoppgaver.vercel.app/areal-av-trekant-i-sirkel/) | trigonometri, cosinussetningen, arealsetningen, cas | ✔︎ |
 | [2-6](#oppgave-2-6) | [Tredjegradsfunksjoner uten førstegradsledd](https://matematikkoppgaver.vercel.app/tredjegradsfunksjoner-uten-forstegradsledd/) | utforskning, glidere, cas, funksjoner, geogebra | ✔︎ |
 
@@ -103,6 +103,7 @@ $$
 
 ## Fasit
 
+Oppgaven er et bevis. Se løsningsforslag.
 
 ## Løsningsforslag
 
@@ -379,7 +380,7 @@ b) Gjennomsnittlig vekstfart er 5,04. Gjennomsnittlig øker temp med 5,04 ºC pe
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 Jeg tegnet grafen til funksjonen og fant skjæringspunktene ved $x$-aksen, hvor temperaturen er 0 °C, se punkt $B$ og $C$. 
 
 ![Del 2 oppgave 1. Gjennomsnittemperatur på Svalbard 1. februar–1. oktober](/img/user/_resources/1t-v2023-2-1a.png){ width=80% }
@@ -392,7 +393,7 @@ $$
 
 **Temperaturen er over 0 °C i omtrent 96 døgn**
 
-### 2-1b
+### b
 Jeg la inn punktene i GeoGebra, dro en linje mellom dem og fant stigningstallet, se $b=5{,}04$ i utklippet.
 
 ![Del 2 oppgave 1b. Gjennomsnittlig vekstfart fra mars til juli](/img/user/_resources/1t-v23-2-1b.png){ width=80% }
@@ -401,7 +402,7 @@ Stigningstallet til linja gir den gjennomsnittlige vekstfarten fra $x=3$ til $x=
 
 **Temperaturen steg med 5,04 grader per måned i gjennomsnitt i perioden fra 1. mars til 1. juli.**
 
-### 2-1c
+### c
 Jeg tegnet $T'$ sammen med $T$ i koordinatsystemet og fant nullpunkter og ekstremalpunkter til $T'$. 
 
 ![Del 2 oppgave 1c. Vekstfarten til temperaturen på Svalbard](/img/user/_resources/1t-v23-2-1c.png){ width=80% }
@@ -521,7 +522,7 @@ c) En mulighet er $A(x)=x\cdot (80-2x)$
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 Med 80 m tau og et område med lengde 60 m så har de 20 m igjen å fordele til de to siste sidene. Matematisk kan vi skrive $\frac{80-60}{2}=10$. Bredden blir altså 10 m.
 
 $$
@@ -530,14 +531,14 @@ $$
 
 **Arealet av området er 600 m².**
 
-### 2-2b
+### b
 Jeg satte opp en oversikt i Excel, se formlene i formelutklippet. Vi ser at arealet øker når bredden øker helt fram til lengden er 40 m og bredden er 20 m, deretter minker arealet. 
 
 ![Del 2 oppgave 2b. Oversikt over lengde og bredde av teltplass](/img/user/_resources/1t-v23-2-2b.png){ width=80% } 
 
 **Hermann har rett i at vi får det største arealet dersom lengden er dobbelt så lang som bredden.**
 
-### 2-2c
+### c
 La oss kalle bredden i meter for $x$. Da må lengden i meter være $80-2x$. Vi kan sette opp et funksjonsuttrykk for arealet $A(x)$ der bredden er $x$ meter.
 
 $$
@@ -3187,6 +3188,8 @@ er avgrenset av $x$-aksen, $y$-aksen og grafen til $f$.
 
 Hun vil gjøre dette ved å legge sammen arealene av små rektangler. Hun begynner som vist på figur 2 og figur 3 nedenfor og vil så øke antall rektangler for å få en bedre tilnærming.
 
+<!-- two-column start left-width=50% -->
+
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
@@ -4952,7 +4955,9 @@ z
   </clipPath>
  </defs>
 </svg>
-{width=50%}
+{width=100%}
+
+---
 
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
@@ -6768,11 +6773,14 @@ z
   </clipPath>
  </defs>
 </svg>
-{width=50%}
+{width=100%}
 
-a) Bestem arealet av de seks rektanglene i figur 2
+<!-- two-column stop -->
 
-b) Lag et program som Thea kan bruke når hun skal øke antallet rektangler. Du kan for eksempel begynne som vist nedenfor.
+
+> [!oppgave]
+> a) Bestem arealet av de seks rektanglene i figur 2
+> b) Lag et program som Thea kan bruke når hun skal øke antallet rektangler. Du kan for eksempel begynne som vist nedenfor.
 
 ```python
 def f(x):
@@ -6786,7 +6794,8 @@ n = 6000                                    # antall rektangler
 bredde =                                    # bredden av hvert rektangel
 ```
 
-c) Bruk programmet til å bestemme arealet dersom hun bruker 6000 rektangler.
+> [!oppgave]
+> c) Bruk programmet til å bestemme arealet dersom hun bruker 6000 rektangler.
 
 ## Fasit
 
@@ -6796,7 +6805,7 @@ c) 20,002
 
 ## Løsningsforslag
 
-### 2-4a
+### a
 Jeg ser at alle rektanglene har bredde 1. Arealet av hvert rektangel er derfor $A_{\square}=h\cdot  b=h\cdot 1=h$. Høyden til rektangelet er gitt ved $f(x)=\frac{1}{9}(x+1)(x-6)^2$ hvor $x\in \left\{ 0, 1, 2 , 3, 4, 5 \right\}$.
 
 ![](/img/user/_resources/1t-v23-2-4a.png){ width=60% }
@@ -6805,7 +6814,7 @@ Jeg legger sammen funksjonsverdiene i CAS og finner at det samlede arealet er
 
 $$A=\underline{\underline{\frac{196}{9}}}$$
 
-### 2-4b
+### b
 ```python
 def f(x):
     return 1 / 9 * (x + 1) * (x - 6) ** 2   # Definerer funksjonen
@@ -6857,7 +6866,7 @@ print(f"Arealet av rektanglene er {areal:.3f}")
 
 
 
-### 2-4c
+### c
 Bruker programmet jeg lagde i 4b. **Det gir utskriften `Arealet av rektanglene er 20.002`.**
 
 
@@ -6969,14 +6978,14 @@ b) Det vil alltid være et stasjonært punkt på $y$-aksen for slike funksjoner.
 
 ## Løsningsforslag
 
-### 2-6a
+### a
 Jeg tegnet grafen til $f$ i GeoGebra og fant ekstremalpunktene, se $A$ og $B$ i utklippet.
 
 ![](/img/user/_resources/1t-v23-2-6a.png)
 
 **$f$ har toppunkt i $(0, 2)$ og bunnpunkt i $(2, -2)$**.
 
-### 2-6b
+### b
 Tredjegradsfunksjoner uten førstegradsledd har den generelle formen
 
 $$

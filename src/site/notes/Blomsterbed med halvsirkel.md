@@ -57,7 +57,7 @@ e) $A_{\max} \approx 10{,}1 \, \mathrm{m^2}$ ved $x \approx 3{,}36 \, \mathrm{m}
 > Denne løsningen er skrevet av KI. Løsningen ser riktig ut, men jeg har lyst til å endre på fremgangsmåten slik at det passer bedre med hvordan vi vanligvis løser slike oppgaver i norsk videregående skole.
 
 
-### 2-7a
+### a
 
 Blomsterbedet har to sider av lengde $y$ (de to langsidene), én rett ende med lengde $x$, og én halvsirkel med diameter $x$ (radius $r = x/2$).
 
@@ -73,7 +73,7 @@ Dermed er den totale omkretsen:
 
 $$O = y + x + y + \frac{\pi x}{2} = \underline{\underline{ 2y + x + \frac{\pi x}{2} }} $$
 
-### 2-7b
+### b
 
 Setter inn $x = 1$ og $O = 12$:
 
@@ -85,7 +85,7 @@ $$y \approx 4{,}71 \approx 4{,}7$$
 
 **Når $x = 1$, er $y \approx \underline{\underline{4{,}7 \, \mathrm{m}}}$.**
 
-### 2-7c
+### c
 
 Arealet består av et rektangel og en halvsirkel:
 
@@ -93,7 +93,7 @@ $$A = x \cdot y + \frac{\pi r^2}{2} = 1 \cdot 4{,}7 + \frac{\pi \cdot (0{,}5)^2}
 
 **Arealet er omtrent $\underline{\underline{5{,}1 \, \mathrm{m^2}}}$.**
 
-### 2-7d
+### d
 
 Fra $O = 12$ får vi $y = \dfrac{12 - x\left(1 + \dfrac{\pi}{2}\right)}{2}$.
 
@@ -112,7 +112,7 @@ Arealet er $A = xy + \dfrac{\pi x^2}{8}$.
 
 Tabellen viser at størst areal oppnås et sted mellom $x = 3$ og $x = 4$.
 
-### 2-7e
+### e
 
 Fra $O = 12$ uttrykker vi $y$ som funksjon av $x$:
 

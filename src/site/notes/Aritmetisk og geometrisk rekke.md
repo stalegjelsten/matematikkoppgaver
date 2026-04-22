@@ -32,7 +32,7 @@ c) $14 \, \mathrm{m}$
 
 ## Løsningsforslag
 
-### 1-6a
+### a
 
 Den aritmetiske rekken $-3 + 0 + 3 + \ldots + 69$ har $a_1 = -3$, $d = 3$ og siste ledd $a_n = 69$.
 
@@ -42,7 +42,7 @@ $$s_{25} = \frac{a_1 + a_n}{2} \cdot n = \frac{-3 + 69}{2} \cdot 25 = 33 \cdot 2
 
 **Summen av rekken er $\underline{\underline{825}}$.**
 
-### 1-6b
+### b
 
 Rekken $5 + 5\cdot\left(\dfrac{1}{2}-x\right) + 5\cdot\left(\dfrac{1}{2}-x\right)^2 + \ldots$ er geometrisk med kvotient $k = \dfrac{1}{2} - x$.
 
@@ -52,7 +52,7 @@ $$\left|\frac{1}{2} - x\right| < 1 \implies -1 < \frac{1}{2} - x < 1 \implies -\
 
 **Konvergensområdet er $\underline{\underline{x \in \left\langle -\dfrac{1}{2},\, \dfrac{3}{2} \right\rangle}}$.**
 
-### 1-6c
+### c
 
 Ballen faller $2 \, \mathrm{m}$, spretter opp $2 \cdot 0{,}75 \, \mathrm{m}$, faller ned $2 \cdot 0{,}75 \, \mathrm{m}$, spretter opp $2 \cdot 0{,}75^2 \, \mathrm{m}$, osv.
 

@@ -36,7 +36,7 @@ d) Omtrent 2,19 %
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 Timelønna har vokst med $340{,}10-272{,}55=67{,}55$ kr i løpet av disse 14 årene. Vi kan sette opp dette uttrykket for å bestemme vekstfaktoren $x$
 
 $$
@@ -49,14 +49,14 @@ $$
 
 **Den gjennomsnittlige årlige prosentvise økninga har vært 1,59 %.**
 
-### 2-1b
+### b
 Jeg brukte regresjon i GeoGebra og fant at en god eksponentialmodell for lønnsveksten er 
 
 $$
 g(x)=277{,}8\cdot 1{,}0155^x
 $$
 ![](/img/user/_resources/s1-v23-2-1-b.png)
-### 2-1c
+### c
 Hvis man skal regne Per sin lønn riktig så må man egentlig vite lønna hvert år og summere opp årslønnene som ei rekke. Jeg bruker heller modell $g$ som en tilnærming til Pers lønn.
 
 For min del er det raskest å legge inn formelen `=272,55*1,023^(2008-A2)*1700` i cellene til Amalie for å regne ut hennes lønn, og tilsvarende for Per.
@@ -82,7 +82,7 @@ For min del er det raskest å legge inn formelen `=272,55*1,023^(2008-A2)*1700` 
 
 **Amalies samlede lønn er omtrent 8 188 600 kr i perioden. Pers samlede lønn er omtrent 7 906 600 kr.**
 
-### 2-1d
+### d
 Igjen så er det enklest og raskest for meg å bruke målsøking i Excel for å løse oppgaver som dette. Jeg lager en celle med vekstfaktoren til Per og målsøker slik at lønna i 2022 skal bli lik for begge.
 ![](/img/user/_resources/s1-v23-2-1-d.png)
 

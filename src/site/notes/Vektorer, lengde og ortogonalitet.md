@@ -24,7 +24,7 @@ b) $t = -\dfrac{6}{7}$
 
 ## Løsningsforslag
 
-### 2-5a
+### a
 
 Vi beregner $|\vec{p}|^2 = |\vec{a} + \vec{b}|^2$:
 
@@ -46,7 +46,7 @@ $$
 
 **$\underline{\underline{|\vec{p}| = \sqrt{52} = 2\sqrt{13}}}$**
 
-### 2-5b
+### b
 
 $\vec{p} \perp \vec{q}$ krever $\vec{p} \cdot \vec{q} = 0$:
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["oppgave"],"temaer":["sannsynlighet","normalfordeling","binomisk"],"alias":[],"del":1,"oppgave":8,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":8}],"fag":"s2","eksamen":"h22","dg-publish":true,"title":"Lykkehjulet","date":"2023-05-31","modified":"2024-04-05","dg-permalink":"/lykkehjulet/","lf-source-claude":true,"permalink":"/lykkehjulet/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":null,"tags":["oppgave"],"temaer":["sannsynlighet","normalfordeling","binomisk"],"alias":[],"del":1,"oppgave":8,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":8}],"fag":"s2","eksamen":"h22","title":"Lykkehjulet","date":"2023-05-31","modified":"2024-04-05","lf-source-claude":true}}
+{"aliases":null,"tags":["oppgave"],"temaer":["sannsynlighet","normalfordeling","binomisk"],"alias":[],"del":1,"oppgave":8,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":8}],"fag":"s2","eksamen":"h22","dg-publish":true,"title":"Lykkehjulet","date":"2023-05-31","modified":"2024-04-05","dg-permalink":"/lykkehjulet/","lf-source-claude":true,"status":1,"permalink":"/lykkehjulet/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":null,"tags":["oppgave"],"temaer":["sannsynlighet","normalfordeling","binomisk"],"alias":[],"del":1,"oppgave":8,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":8}],"fag":"s2","eksamen":"h22","title":"Lykkehjulet","date":"2023-05-31","modified":"2024-04-05","lf-source-claude":true,"status":1}}
 ---
 
 
@@ -38,7 +38,7 @@ Siden $n = 100 \geq 30$ og $np(1-p) = 16 > 5$, følger det av sentralgrensesetni
 
 ### c
 
-Vi skal finne $P(X > 25)$. Med heltalskorreksjon og normalfordelingstilnærming:
+Vi skal finne $P(X > 25)$. Med halvkorreksjon og normalfordelingstilnærming:
 
 $$P(X > 25) = P(X \geq 26) \approx P\left(Z > \frac{25{,}5 - 20}{4}\right) = P(Z > 1{,}375)$$
 
@@ -48,7 +48,7 @@ $$= 1 - P(Z \leq 1{,}375) \approx 1 - 0{,}9154 = \underline{\underline{0{,}0846}
 
 Vi skal finne minste $k$ slik at $P(X \geq k) \leq 0{,}01$.
 
-Med heltalskorreksjon: $P(X \geq k) \approx P\left(Z \geq \frac{k - 0{,}5 - 20}{4}\right) \leq 0{,}01$.
+Med halvkorreksjon: $P(X \geq k) \approx P\left(Z \geq \frac{k - 0{,}5 - 20}{4}\right) \leq 0{,}01$.
 
 Dette krever
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave","regresjon","logistisk","funksjon","derivasjon","integrasjon","funksjoner","tolkning","av","integraler","s2","del2"],"temaer":["regresjon","logistisk funksjon","derivasjon","funksjoner","tolkning av integraler","integral","samlet mengde"],"aliases":null,"del":2,"oppgave":2,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":2},{"fag":"r2","del":2,"oppgave":1}],"fag":["s2","r2"],"eksamen":"v23","dg-publish":true,"title":"Regresjon på størrelsen av det norske musikkstrømmemarkedet","date":"2023-05-29","modified":"2023-05-29","dg-permalink":"/regresjon-pa-storrelsen-av-det-norske-musikkstrommemarkedet/","permalink":"/regresjon-pa-storrelsen-av-det-norske-musikkstrommemarkedet/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave","regresjon","logistisk","funksjon","derivasjon","integrasjon","funksjoner","tolkning","av","integraler","s2","del2"],"temaer":["regresjon","logistisk funksjon","derivasjon","funksjoner","tolkning av integraler","integral","samlet mengde"],"aliases":null,"del":2,"oppgave":2,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":2},{"fag":"r2","del":2,"oppgave":1}],"fag":["s2","r2"],"eksamen":"v23","title":"Regresjon på størrelsen av det norske musikkstrømmemarkedet","date":"2023-05-29","modified":"2023-05-29"}}
+{"tags":["oppgave","regresjon","logistisk","funksjon","derivasjon","integrasjon","funksjoner","tolkning","av","integraler","s2","del2"],"temaer":["regresjon","logistisk funksjon","derivasjon","funksjoner","tolkning av integraler","integral","samlet mengde"],"aliases":null,"del":2,"oppgave":2,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":2},{"fag":"r2","del":2,"oppgave":1}],"fag":["s2","r2"],"eksamen":"v23","dg-publish":true,"title":"Regresjon på størrelsen av det norske musikkstrømmemarkedet","date":"2023-05-29","modified":"2023-05-29","dg-permalink":"/regresjon-pa-storrelsen-av-det-norske-musikkstrommemarkedet/","status":3,"kategori":3,"vanskegrad":2,"beskrivelse":"Logistisk regresjon på markedsdata; beregne og gi praktisk tolkning av integraler, sumrekke og deriverttilnærming.","deloppgaver":[{"deloppgave":"a","beskrivelse":"Logistisk regresjon i GeoGebra og begrunne valg via asymptoter."},{"deloppgave":"b","kategori":1,"beskrivelse":"Beregne $I$, $G$, $S$, $D$ i CAS."},{"deloppgave":"c","vanskegrad":3,"beskrivelse":"Tolke $I$ som samlede inntekter, $G$ som årlig gjennomsnitt, $S$ som rekkesum, $D$ som momentan vekstfart."}],"permalink":"/regresjon-pa-storrelsen-av-det-norske-musikkstrommemarkedet/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave","regresjon","logistisk","funksjon","derivasjon","integrasjon","funksjoner","tolkning","av","integraler","s2","del2"],"temaer":["regresjon","logistisk funksjon","derivasjon","funksjoner","tolkning av integraler","integral","samlet mengde"],"aliases":null,"del":2,"oppgave":2,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":2},{"fag":"r2","del":2,"oppgave":1}],"fag":["s2","r2"],"eksamen":"v23","title":"Regresjon på størrelsen av det norske musikkstrømmemarkedet","date":"2023-05-29","modified":"2023-05-29","status":3,"kategori":3,"vanskegrad":2,"beskrivelse":"Logistisk regresjon på markedsdata; beregne og gi praktisk tolkning av integraler, sumrekke og deriverttilnærming.","deloppgaver":[{"deloppgave":"a","beskrivelse":"Logistisk regresjon i GeoGebra og begrunne valg via asymptoter."},{"deloppgave":"b","kategori":1,"beskrivelse":"Beregne $I$, $G$, $S$, $D$ i CAS."},{"deloppgave":"c","vanskegrad":3,"beskrivelse":"Tolke $I$ som samlede inntekter, $G$ som årlig gjennomsnitt, $S$ som rekkesum, $D$ som momentan vekstfart."}]}}
 ---
 
 
@@ -32,7 +32,7 @@ Mange modeller og ulike tolkninger kan fungere. Se løsningsforslaget.
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 Jeg brukte regresjonsverktøyet i GeoGebra valgte den logistiske modellen:
 
 $$\underline{\underline{F(x)=\frac{660{,}37}{1+30{,}72\,e^{-0{,}7066x}}}}$$
@@ -43,7 +43,7 @@ Logistiske funksjoner flater ut ved en horisontal asymptote (i dette tilfellet 6
 
 ![Regresjon på størrelsen av musikkmarkedet](/img/user/_resources/s2-v23-del2-oppg-2a.png){width=60%}
 
-### 2-2b
+### b
 Se utklippet fra CAS.
 
 ![Beregning av verdier i CAS](/img/user/_resources/s2-v23-del2-oppg-2b.png.png){width=40%}
@@ -57,7 +57,7 @@ D&=116{,}3
 \end{aligned}
 $$
 
-### 2-2c
+### c
 $I$ beregner integralet under $F$ fra $x=-0{,}5$ til $x=10{,}5$. Dette gir en tilnærmingsverdi for de samlede inntektene fra musikkstrømming i Norge fra og med 2008 til og med 2018. De samlede inntektene er omtrent 3729 millioner kr.
 
 $G$ finner en tilnærmingsverdi de samlede inntektene fra og med 2011 til og med 2015 ved å integrere, deretter divideres svaret med 5. $G$ finner altså de gjennomsnittlige årlige inntektene mellom år 2011 og 2015. De gjennomsnittlige årlige inntektene i perioden er 344,5 millioner kr.

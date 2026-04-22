@@ -10,9 +10,11 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [1-1](#oppgave-1-1) | [Enhetspris og sparing på ris](https://matematikkoppgaver.vercel.app/enhetspris-og-sparing-pa-ris/) | enhetskostnad, prosentregning, økonomi | × |
+| [1-1](#oppgave-1-1) | [Enhetspris og sparing på ris](https://matematikkoppgaver.vercel.app/enhetspris-og-sparing-pa-ris/) | enhetskostnad, prosentregning, økonomi | ✔︎ |
 | [1-2](#oppgave-1-2) | [Kvadratrotformel og mobilading](https://matematikkoppgaver.vercel.app/kvadratrotformel-og-mobilading/) | røtter, formler, algebra | ✔︎ |
 | [1-3](#oppgave-1-3) | [Kennys lån](https://matematikkoppgaver.vercel.app/kennys-lan/) | lån | ✔︎ |
+| [1-4](#oppgave-1-4) | [[Tannhjul og skyvelære\|Tannhjul og skyvelære]] | måleenheter, geometri | × |
+| [1-5](#oppgave-1-5) | [[Konusformet aksling og konisitet\|Konusformet aksling og konisitet]] | formler, målestokk, geometri | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 
@@ -22,9 +24,9 @@ Table: {.eksamen-oversikt}
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Nomogram for omdreiningstall og boring](https://matematikkoppgaver.vercel.app/nomogram-for-omdreiningstall-og-boring/) | formler, geometri, volum | × |
 | [2-2](#oppgave-2-2) | [Ungdomsbedrift og motorsykler av stål](https://matematikkoppgaver.vercel.app/ungdomsbedrift-og-motorsykler-av-stal/) | mva, økonomi, prosentregning, excel | × |
-| [2-3](#oppgave-2-3) | [Alis lån til bedriften](https://matematikkoppgaver.vercel.app/alis-lan-til-bedriften/) | lån, excel | × |
+| [2-3](#oppgave-2-3) | [Alis lån til bedriften](https://matematikkoppgaver.vercel.app/alis-lan-til-bedriften/) | lån, excel | ✔︎ |
 | [2-4](#oppgave-2-4) | [Energisammenlikning ved og strøm](https://matematikkoppgaver.vercel.app/energisammenlikning-ved-og-strom/) | enhetskostnad, økonomi, formler | ✔︎ |
-| [2-5](#oppgave-2-5) | [Lønnsalternativer ved avissalg](https://matematikkoppgaver.vercel.app/lonnsalternativer-ved-avissalg/) | lineær vekst, funksjoner, økonomi | × |
+| [2-5](#oppgave-2-5) | [Lønnsalternativer ved avissalg](https://matematikkoppgaver.vercel.app/lonnsalternativer-ved-avissalg/) | lineær vekst, funksjoner, økonomi, likningssystem | ✔︎ |
 
 # Del 1
 
@@ -57,6 +59,31 @@ I familien til Sara er de to voksne og to barn. Hver person spiser 5 kg ris hver
 >b) Hvor mange kroner sparer familien i løpet av ett år dersom de kjøper sekker med ris i stedet for kartonger med boil-in-bag-ris?
 
 ## Fasit
+
+a) 125 g
+b) 240 kr
+
+## Løsningsforslag
+
+### a
+
+1 kg = 1000 g. Det er 8 poser i en kartong, så hver pose inneholder
+
+$$\frac{1000 \, \mathrm{g}}{8} = \underline{\underline{125 \, \mathrm{g}}}$$
+
+### b
+
+Familien spiser til sammen $4 \cdot 5 = 20 \, \mathrm{kg}$ ris per år.
+
+**Kartong med boil-in-bag-ris:** $32 \, \mathrm{kr/kg}$
+
+$$20 \cdot 32 = 640 \, \mathrm{kr}$$
+
+**Sekk med ris:** $80 \, \mathrm{kr}$ for $4 \, \mathrm{kg}$, altså $20 \, \mathrm{kr/kg}$
+
+$$20 \cdot 20 = 400 \, \mathrm{kr}$$
+
+**Familien sparer $\underline{\underline{640 - 400 = 240 \, \mathrm{kr}}}$ i løpet av ett år ved å kjøpe sekker med ris.**
 
 
 </div></div>
@@ -174,6 +201,90 @@ Det er 12 måneder med 6 000 kr i hver måned. I tillegg betaler vi 50 kr per m�
 </div></div>
 
 
+## Oppgave 1-4
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/tannhjul-og-skyvelaere/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Tannhjul og skyvelære
+
+![Skyvelære med tannhjul](/img/user/_resources/1pytp-v25-1-4-skyvelaere.jpeg){width=80%}
+
+Kåre måler bredden av et tannhjul med skyvelære.
+
+>[!oppgave]
+>a) Hva er den minste mulige bredden på tannhjulet målt i millimeter med denne skyvelæren?
+
+![Tannhjul](/img/user/_resources/1pytp-v25-1-4-tannhjul.jpeg){width=20%}
+
+Et annet tannhjul har 18 tenner.
+
+>[!oppgave]
+>b) Hvor mange grader er det mellom hver tann i tannhjulet?
+
+## Fasit
+
+
+
+## Løsningsforslag
+
+
+</div></div>
+
+
+## Oppgave 1-5
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/konusformet-aksling-og-konisitet/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Konusformet aksling og konisitet
+
+En avkappet kjegle der begge endeflatene er sirkler, kaller vi en konus. Se bildet under.
+
+Ved å regne ut *konisiteten* kan vi finne ut hvor mye diameteren på konusen øker i forhold til lengden på konusen.
+
+Formelen for konisitet er gitt ved
+
+$$K = \frac{D - d}{l}$$
+
+- $K$ er konisiteten (forholdstallet)
+- $D$ er den største diameteren (millimeter)
+- $d$ er den minste diameteren (millimeter)
+- $l$ er lengden på konusen (millimeter)
+
+![Konus](/img/user/_resources/1pytp-v25-1-5-konus.jpeg){width=40%}
+
+Dina dreier en konusformet aksling med lengde $400 \mathrm{~mm}$, der den største diameteren er $30 \mathrm{~mm}$ og den minste diameteren er $10 \mathrm{~mm}$.
+
+Hun gjør noen beregninger og stiller seg noen spørsmål:
+
+>[!blue-box] Dina
+>Konisiteten til denne akslingen er $\frac{1}{25}$. Kan dette stemme?
+
+>[!green-box] Dina
+>Dersom jeg tegner en arbeidstegning av konusen i målestokk $1 : 2$, hva blir den største diameteren på arbeidstegningen?
+
+>[!oppgave]
+>Gjør dine egne beregninger, og vurder om det Dina har regnet ut, stemmer. Begrunn svarene dine.
+
+## Fasit
+
+
+
+## Løsningsforslag
+
+
+</div></div>
+
+
 # Del 2
 
 ## Oppgave 2-1
@@ -232,7 +343,6 @@ Arbeidsstykket under har tykkelse $5 \mathrm{~mm}$. I dette skal det bores 5 hul
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -281,7 +391,6 @@ Elevene ønsker å kjøpe alt utstyret fra samme leverandør. De vurderer tilbud
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -293,6 +402,8 @@ Elevene ønsker å kjøpe alt utstyret fra samme leverandør. De vurderer tilbud
 
 
 
+
+# Alis lån til bedriften
 
 Ali eier en bedrift. Han tar opp et serielån på 800 000 kroner i starten av et år.
 Lånet skal betales ned i løpet av 5 år med én termin per år. Renten er 6,2 % per år.
@@ -306,6 +417,7 @@ Ali vil bruke et regneark til å lage en nedbetalingsplan. Nedenfor ser du hva h
 > a) Lag et regneark som vist ovenfor. Lag formler i de grønne cellene slik at utregningene blir riktige. Husk å vise formlene du bruker i regnearket.
 
 For å regne ut summen $S$ av renter du må betale for et serielån, kan du bruke formelen
+
 $$
 S= \frac{L \cdot n + L}{2} \cdot \frac{r}{100}
 $$
@@ -325,10 +437,32 @@ b) 148 800 kr
 
 ## Løsningsforslag
 
+### a
+
+Et serielån har like store avdrag i hver termin. Avdraget er
+
+$$\frac{800\,000}{5} = 160\,000 \, \mathrm{kr}$$
+
+Rentene beregnes av restlånet ved starten av året. Regnearket under viser nedbetalingsplanen med verdier og formler.
+
+
+![Nedbetalingsplan for Alis serielån](/img/user/_resources/1p-y-v25-2-3-regneark.png){width=80%}
+
+
+**Forklaring av formlene:**
+
+- **Renter** = Lån starten av året $\cdot$ renten (f.eks. `=B6*$B$2`)
+- **Avdrag** = Lånebeløpet $\div$ antall terminer (f.eks. `=$B$1/$B$3`)
+- **Terminbeløp** = Renter + Avdrag (f.eks. `=C6+D6`)
+- **Lån slutten av året** = Lån starten av året $-$ Avdrag (f.eks. `=B6-D6`)
+- **Lån starten av året** (fra termin 2) = Lån slutten av forrige år (f.eks. `=F6`)
+
 ### b
 Vi vet at $L=800\,000$, $n=5$, $r=6{,}2$. Da kan vi regne ut $S$ med:
+
 $$S=\frac{800000 \cdot 5 + 800000}{2} \cdot \frac{6{,}2}{100}=\frac{4\,800\,000}{2} \cdot 0{,}062 = 2\,400\,000 \cdot 0{,}062 = 148 \, 800 $$
-  **Ali betaler 148 800 kr i renter.**
+
+**Ali betaler 148 800 kr i renter.**
 
 
 </div></div>
@@ -422,14 +556,18 @@ Elise skal gå fra dør til dør og selge aviser hver lørdag. En avis koster 49
 
 Firmaet hun skal arbeide for, beregner lønn på ulike måter. Elise kan velge mellom to tilbud.
 
+<!-- two-column start left-width=40% -->
 
 > [!green-box] Tilbud 1
 > Lønn: 35 % av beløpet hun selger aviser for
 
+---
 
 > [!yellow-box] Tilbud 2
 > Fast lønn: 150 kroner per lørdag  
 > Tillegg: 10 kroner per avis hun selger
+
+<!-- two-column stop -->
 
 Elise gjør seg noen tanker og stiller noen spørsmål.
 

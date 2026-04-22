@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["økonomi","derivasjon","funksjoner"],"fag":["s1"],"eksamen":"h25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":4}],"title":"Kostnad, pris og overskudd","status":3,"source":null,"todo":null,"dg-permalink":"/kostnad-pris-og-overskudd/","permalink":"/kostnad-pris-og-overskudd/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["økonomi","derivasjon","funksjoner"],"fag":["s1"],"eksamen":"h25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":4}],"title":"Kostnad, pris og overskudd","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["økonomi","derivasjon","funksjoner","optimering","overskudd"],"fag":["s1"],"eksamen":"h25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":4}],"title":"Kostnad, pris og overskudd","status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Maksimere overskuddsfunksjon $O(x)=I(x)-K(x)$ via $O'(x)=0$ i CAS; deretter finne minste pris som dekker kostnader.","source":null,"todo":null,"dg-permalink":"/kostnad-pris-og-overskudd/","permalink":"/kostnad-pris-og-overskudd/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["økonomi","derivasjon","funksjoner","optimering","overskudd"],"fag":["s1"],"eksamen":"h25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"s1","del":2,"oppgave":4}],"title":"Kostnad, pris og overskudd","status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Maksimere overskuddsfunksjon $O(x)=I(x)-K(x)$ via $O'(x)=0$ i CAS; deretter finne minste pris som dekker kostnader.","source":null,"todo":null}}
 ---
 
 
@@ -26,7 +26,7 @@ b) $88 \, \mathrm{kr}$
 
 ## Løsningsforslag
 
-### 2-4a
+### a
 
 Inntekt per enhet er 100 kr. Overskuddet er:
 
@@ -40,7 +40,7 @@ CAS bekrefter at $O'(x) = 0$ i $x = 1000$ og at $O(1000) = 8000$.
 
 **Det største overskuddet er $\underline{\underline{8\,000 \, \mathrm{kr}}}$, oppnådd ved produksjon og salg av 1000 enheter.**
 
-### 2-4b
+### b
 
 Nye faste kostnader er 8000 kr. Ved salg av $x = 1000$ enheter:
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["grenseverdi","kontinuitet"],"fag":["s1"],"eksamen":"h25","del":1,"oppgave":3,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":3}],"title":"Grenseverdier og eksistens","status":3,"source":null,"todo":null,"dg-permalink":"/grenseverdier-og-eksistens/","permalink":"/grenseverdier-og-eksistens/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["grenseverdi","kontinuitet"],"fag":["s1"],"eksamen":"h25","del":1,"oppgave":3,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":3}],"title":"Grenseverdier og eksistens","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["grenseverdi","kontinuitet"],"fag":["s1"],"eksamen":"h25","del":1,"oppgave":3,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":3}],"title":"Grenseverdier og eksistens","status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Avgjøre eksistens av grenseverdi i $x=-2$; bestemme parameter $a$ slik at teller også har nullpunkt i $x=-2$ for å få eksisterende grenseverdi.","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":1,"beskrivelse":"Teller $14 \\ne 0$ og nevner $0$ i $x=-2$ — grenseverdien eksisterer ikke."},{"deloppgave":"b","vanskegrad":2,"beskrivelse":"Sette teller $= 0$ i $x=-2$ for å få $a=3$; faktorisere og stryke $(x+2)$ for å finne grenseverdi $\\tfrac{1}{6}$."}],"source":null,"todo":null,"dg-permalink":"/grenseverdier-og-eksistens/","permalink":"/grenseverdier-og-eksistens/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["grenseverdi","kontinuitet"],"fag":["s1"],"eksamen":"h25","del":1,"oppgave":3,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":3}],"title":"Grenseverdier og eksistens","status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Avgjøre eksistens av grenseverdi i $x=-2$; bestemme parameter $a$ slik at teller også har nullpunkt i $x=-2$ for å få eksisterende grenseverdi.","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":1,"beskrivelse":"Teller $14 \\ne 0$ og nevner $0$ i $x=-2$ — grenseverdien eksisterer ikke."},{"deloppgave":"b","vanskegrad":2,"beskrivelse":"Sette teller $= 0$ i $x=-2$ for å få $a=3$; faktorisere og stryke $(x+2)$ for å finne grenseverdi $\\tfrac{1}{6}$."}],"source":null,"todo":null}}
 ---
 
 
@@ -24,7 +24,7 @@ b) $a = 3$, grenseverdi $= \dfrac{1}{6}$
 
 ## Løsningsforslag
 
-### 1-3a
+### a
 
 Vi sjekker nevneren i $x = -2$:
 
@@ -36,7 +36,7 @@ $$(-2)^2 - 4 \cdot (-2) + 2 = 4 + 8 + 2 = 14 \neq 0$$
 
 Siden nevneren er $0$ og telleren er $\neq 0$ i $x = -2$, **eksisterer ikke grenseverdien**.
 
-### 1-3b
+### b
 
 **Del 1 – bestem $a$:**
 

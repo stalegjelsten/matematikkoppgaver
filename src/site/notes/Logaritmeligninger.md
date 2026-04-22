@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["logaritmer","likninger"],"fag":["r1"],"eksamen":"h25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":2}],"title":"Logaritmeligninger","status":3,"source":null,"todo":null,"dg-permalink":"/logaritmeligninger/","permalink":"/logaritmeligninger/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["logaritmer","likninger"],"fag":["r1"],"eksamen":"h25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":2}],"title":"Logaritmeligninger","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["logaritmer","likninger"],"fag":["r1"],"eksamen":"h25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":2}],"title":"Logaritmeligninger","status":0,"source":null,"todo":null,"dg-permalink":"/logaritmeligninger/","permalink":"/logaritmeligninger/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["logaritmer","likninger"],"fag":["r1"],"eksamen":"h25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":2}],"title":"Logaritmeligninger","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -18,7 +18,7 @@ b) $a = 4$
 
 ## Løsningsforslag
 
-### 1-2a
+### a
 
 Vi setter $u = \lg x$ og løser den kvadratiske likningen:
 
@@ -36,7 +36,7 @@ $$
 
 **$\underline{\underline{x = 10000}}$ eller $\underline{\underline{x = 0{,}01}}$**
 
-### 1-2b
+### b
 
 Likningen $\log_a \dfrac{1}{64} = -3$ betyr $a^{-3} = \dfrac{1}{64}$, altså $a^3 = 64$.
 

@@ -41,7 +41,7 @@ c) 558,5 kr. Dette er differansen mellom produksjonskostnader for 20 enheter og 
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 
 ![Regresjon i GeoGebra](/img/user/_resources/s2-v25-2-1a.png){width=60%}
 
@@ -52,7 +52,7 @@ $$
 
 **Grenseinntekten $K'(x)=2 \cdot 0{,}617x+25=\underline{\underline{1{,}23x+25}}$.** 
 
-### 2-1b
+### b
 
 ![Grenseinntekt og grensekostnad i GeoGebra](/img/user/_resources/s2-v25-2-1b.png){width=60%}
 
@@ -62,7 +62,7 @@ $$
 $$
 **Her øker grenseinntekten mer enn grensekostnaden, altså vil vi tjene mer penger ($85{,}71 \text{ kr}$) på å produsere en mer enhet, enn hva vi må betale i produksjonskostnader for å produsere en mer enhet ($68{,}19 \text{ kr}$). Vi tjener altså omtrent $85{,}71-68{,}19=17{,}5$ kr på å produsere og selge 36 enheter framfor 35 enheter.**
 
-### 2-1c
+### c
 Se linje 5 i CAS.
 $$
 \underline{\underline{\int_{20}^{30} K'(x) \, dx =558{,}5}}

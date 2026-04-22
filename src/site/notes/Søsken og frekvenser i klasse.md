@@ -28,13 +28,13 @@ b) 30 elever
 
 ## Løsningsforslag
 
-### 1-3a
+### a
 
 **Relativ frekvens 0,4 for to søsken** betyr at 40 % av elevene i klassen har to søsken.
 
 **Kumulativ frekvens 16 for to søsken** betyr at 16 elever til sammen har null, ett eller to søsken.
 
-### 1-3b
+### b
 
 Alle elevene har søsken (minst én), så ingen har 0 søsken.
 

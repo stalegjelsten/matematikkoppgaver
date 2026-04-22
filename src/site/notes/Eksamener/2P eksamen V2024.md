@@ -234,19 +234,19 @@ c) 43,6 % flere følgere
 
 ## Løsningsforslag
 
-### 2-4a
+### a
 Vi lar $x$ være antall måneder etter november og bruker regresjon i GeoGebra. Siden modellen skal stige med 35 % per måned bør vi velge eksponentiell modell, siden disse vokser med en fast prosent.
 
 ![Regresjon i GeoGebra av Tuvas følgere](/img/user/_resources/2py-v24-2-4a.png){width=100%}
 
 **Modellen $f(x)=5244 \cdot 1{,}35^{x}$ er en modell som vokser med 35 % per måned, og som kan være modellen Tuva har brukt.**
 
-### 2-4b
+### b
 Tuva har 24 008 følgere i april. Hvis økningen i mai skal være 35 % + 5 prosentpoeng så har hun $24008 \cdot 1{,}40=33 \,611$ følgere i mai.
 
 I juni øker økningen med enda 5 prosentpoeng til 45 %. Antall følgere i juni vil derfor være $33 \,611 \cdot 1{,}45=48\, 736$.
 
-### 2-4c
+### c
 Vi kan bruke modellen $f(x)=5244 \cdot 1{,}35^{x}$ til å beregne hvor mange følgere hun har i august med 35 % økning. August tilsvarer $x=9$
 $$
 f(9)=5244 \cdot 1{,}35^9=78 \,922
@@ -312,7 +312,7 @@ b) 3 turer på 5 timer; Solveig gikk 1 tur på 8 timer alene
 
 ## Løsningsforslag
 
-### 2-3a
+### a
 Jeg beregnet gjennomsnittet og standardavviket til turene til Solveig ved å bruke formlene `=gjennomsnitt()` og `=stdav.p()` i Excel. Jeg oppsummerer opplysningene om gjennomsnitt og standardavvik til venninnene i tabellen
 
 |         | Gjennomsnitt | Standardavvik |  Median   |
@@ -324,7 +324,7 @@ Solveig har omtrent 2,5 timer høyere gjennomsnitt enn Miriam. Solveig går derf
 
 Solveig har et mye lavere standardavvik enn Miriam, nesten 2 timer eller kun$\frac{4{,}2-2{,}45}{4{,}2}=41{,}7 \,\%$ av Miriams standardavvik. Det er derfor mye større variasjon lengdene på turene til Miriam. Sannsynligvis har hun gått noen veldig lange turer siden standardavviket er nesten like høyt som gjennomsnittet.
 
-### 2-3b
+### b
 Den kumulative frekvensen for turer på 5 timer er 14, og den kumulative frekvensen for turer på 3 timer er 11. De har ikke gått noen turer sammen på 4 timer.
 
 Siden kumulativ frekvens er summen av alle frekvenser for observasjoner som er mindre eller lik den aktuelle observasjonen, kan vi finne frekvensen for antall turer på 5 timer slik:

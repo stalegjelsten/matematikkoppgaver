@@ -10,12 +10,12 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [1-1](#oppgave-1-1) | [Integraler S2 v25](https://matematikkoppgaver.vercel.app/integraler-s2-v25/) | integral | ✔︎ |
-| [1-2](#oppgave-1-2) | [Bestem f ut fra den deriverte](https://matematikkoppgaver.vercel.app/bestem-f-ut-fra-den-deriverte/) | integral, tolkning av integraler, areal under graf | ✔︎ |
+| [1-1](#oppgave-1-1) | [Integraler S2 v25](https://matematikkoppgaver.vercel.app/integraler-s2-v25/) | integral, bestemt integral, substitusjon | ✔︎ |
+| [1-2](#oppgave-1-2) | [Bestem f ut fra den deriverte](https://matematikkoppgaver.vercel.app/bestem-f-ut-fra-den-deriverte/) | integral, tolkning av integraler, areal under graf, bestemt integral | ✔︎ |
 | [1-3](#oppgave-1-3) | [Sannsynlighetsfordeling til brettspill](https://matematikkoppgaver.vercel.app/sannsynlighetsfordeling-til-brettspill/) | diskrete sannsynlighetsfordelinger, varians, forventningsverdi | ✔︎ |
-| [1-4](#oppgave-1-4) | [Ukjente programmer S2 v25](https://matematikkoppgaver.vercel.app/ukjente-programmer-s2-v25/) | programmering, rekker | ✔︎ |
-| [1-5](#oppgave-1-5) | [Enhetskostnader og grensekostnader fra graf v25](https://matematikkoppgaver.vercel.app/enhetskostnader-og-grensekostnader-fra-graf-v25/) | tolke grafer, enhetskostnad, grenseinntekt og grensekostnad | ✔︎ |
-| [1-6](#oppgave-1-6) | [Hypotesetest bensin](https://matematikkoppgaver.vercel.app/hypotesetest-bensin/) | hypotesetest, standard normalfordeling, normalfordeling | ✔︎ |
+| [1-4](#oppgave-1-4) | [Ukjente programmer S2 v25](https://matematikkoppgaver.vercel.app/ukjente-programmer-s2-v25/) | programmering, rekker, rekursiv sammenheng | ✔︎ |
+| [1-5](#oppgave-1-5) | [Enhetskostnader og grensekostnader fra graf v25](https://matematikkoppgaver.vercel.app/enhetskostnader-og-grensekostnader-fra-graf-v25/) | tolke grafer, enhetskostnad, grenseinntekt og grensekostnad, overskudd | ✔︎ |
+| [1-6](#oppgave-1-6) | [Hypotesetest bensin](https://matematikkoppgaver.vercel.app/hypotesetest-bensin/) | hypotesetest, standard normalfordeling, normalfordeling, sentralgrenseteoremet | ✔︎ |
 
 **Del 2** — 3 timer — med hjelpemidler
 
@@ -23,11 +23,11 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [Grenseinntekt og grensekostnad på del 2](https://matematikkoppgaver.vercel.app/grenseinntekt-og-grensekostnad-pa-del-2/) | regresjon, tolkning av integraler, samlet mengde, grenseinntekt og grensekostnad | ✔︎ |
-| [2-2](#oppgave-2-2) | [Normalfordelt hoppkonkurranse](https://matematikkoppgaver.vercel.app/normalfordelt-hoppkonkurranse/) | normalfordeling, simulering, programmering | ✔︎ |
-| [2-3](#oppgave-2-3) | [Logistisk salg av brannvarslingssystemer](https://matematikkoppgaver.vercel.app/logistisk-salg-av-brannvarslingssystemer/) | logistisk funksjon | ✔︎ |
-| [2-4](#oppgave-2-4) | [Noras sparing og lån](https://matematikkoppgaver.vercel.app/noras-sparing-og-lan/) | lån, sparing, excel, cas | ✔︎ |
-| [2-5](#oppgave-2-5) | [Vis at rekke blir ln 2](https://matematikkoppgaver.vercel.app/vis-at-rekke-blir-ln-2/) | bevis, utforskning, integral | ✔︎ |
+| [2-1](#oppgave-2-1) | [Grenseinntekt og grensekostnad på del 2](https://matematikkoppgaver.vercel.app/grenseinntekt-og-grensekostnad-pa-del-2/) | regresjon, tolkning av integraler, samlet mengde, grenseinntekt og grensekostnad, derivasjon | ✔︎ |
+| [2-2](#oppgave-2-2) | [Normalfordelt hoppkonkurranse](https://matematikkoppgaver.vercel.app/normalfordelt-hoppkonkurranse/) | normalfordeling, simulering, programmering, sannsynlighet | ✔︎ |
+| [2-3](#oppgave-2-3) | [Logistisk salg av brannvarslingssystemer](https://matematikkoppgaver.vercel.app/logistisk-salg-av-brannvarslingssystemer/) | logistisk funksjon, modellering, derivasjon | ✔︎ |
+| [2-4](#oppgave-2-4) | [Noras sparing og lån](https://matematikkoppgaver.vercel.app/noras-sparing-og-lan/) | lån, sparing, excel, cas, rekker, annuitetslån | ✔︎ |
+| [2-5](#oppgave-2-5) | [Vis at rekke blir ln 2](https://matematikkoppgaver.vercel.app/vis-at-rekke-blir-ln-2/) | bevis, utforskning, integral, uendelig rekke, rekker, substitusjon | ✔︎ |
 
 # Del 1
 
@@ -62,12 +62,12 @@ b) $\ln \left| x^{2}-x-6 \right|+C$
 
 ## Løsningsforslag
 
-### 1-1a
+### a
 $$
 \int_{0}^{1} \left( 2e^{x}+2x^{2} \right)  \, \mathrm{d}x = \left[  2e^{x}+\frac{2}{3}x^{3} \right]_{0}^{1}= \left( 2e^{1}+\frac{2}{3}1^{3}  \right)  -\left(  2e^{0}  +\frac{2}{3}0^{3} \right) =2e+\frac{2}{3}-2=\underline{\underline{2e-\frac{4}{3}}}
 $$
 
-### 1-1b
+### b
 Vi ser at den deriverte av uttrykket i nevneren er det samme som telleren, og det er derfor lurt å forsøke variabelskiftet $\textcolor{tomato}{u=x^{2}-x-6}$.
 $$
 \textcolor{tomato}{u=x^{2}-x-6} \implies \frac{du}{dx}=\textcolor{seagreen}{2x-1} \iff \frac{du}{\textcolor{seagreen}{2x-1}}=dx
@@ -165,7 +165,7 @@ b) 13/3
 
 ## Løsningsforslag
 
-### 1-3a
+### a
 
 Table: {inset=0.7em}
 
@@ -182,7 +182,7 @@ $$
 
 **Forventningsverdien $\mathrm{E}(X)=\underline{\underline{4}}$**
 
-### 1-3b
+### b
 Vi finner variansen ved å summere rad 4 i tabellen siden $\text{Var}(X)=\sum (k-\mu)^{2}\cdot P(X=k)$
 $$
 \text{Var}(X)=\textcolor{orange}{\frac{9}{6}}+ \textcolor{seagreen}{\frac{4}{6}}+ \textcolor{steelblue}{\frac{1}{6}}+ \textcolor{tomato}{\frac{12}{6}}=\frac{26}{6}=\frac{13}{3}
@@ -241,7 +241,7 @@ b) Eleven ønsker å finne summen av de 5 første leddene. Summen blir 50.
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 Her setter vi opp en oversikt for å se hvordan variablene i programmet utvikler seg.
 
 | `i` | `a` |  Beregning av neste `a` |
@@ -258,7 +258,7 @@ a_{n+1}=a_{n}+n+2
 $$
 **Koden skriver ut leddene i tallfølgen 2, 5, 9, 14, 20.**
 
-### 1-4b
+### b
 Eleven har lagt til en variabel `S`. `S` gir en løpende sum av verdiene til `a`, derfor vil `S` være delsummen til rekka etter `n` ledd. 
 
 **Eleven ønsker å finne delsummen til rekka etter 5 ledd, altså $2+5+9+14+20=\underline{\underline{50}}$**
@@ -300,7 +300,7 @@ b) 138 kr
 
 ## Løsningsforslag
 
-### 1-5a
+### a
 Enhetskostnaden når det produseres 180 enheter er gitt ved
 $$
 E(180)=\frac{K(180)}{180}=\frac{14\,920}{180}=82{,}89
@@ -314,7 +314,7 @@ Grensekostnaden er den deriverte av kostnadsfunksjonen, og grensekostnaden ved 1
 
 **Enhetskostnaden ved 180 enheter er 82,89 kr/enhet og grensekostnaden er 138 kr/enhet.**
 
-### 1-5b
+### b
 For at vi skal ha størst overskudd må $I'(x)=K'(x)$. Vi bestemmer grenseinntekten.
 $$
 I(x)=p \cdot x \implies I'(x)=p
@@ -358,7 +358,7 @@ b) Vi kan forkaste $H_{0}$ med $p$-verdien 0,0228
 
 ## Løsningsforslag
 
-### 1-6a
+### a
 Vi ønsker å teste om den nye bensinen gir bedre drivstofføkonomi enn den gamle. La $\mu$ være forventningsverdien for kjørelengde per L for den nye bensinen. Da er hypotesene våre:
 $$
 \begin{aligned}
@@ -367,7 +367,7 @@ H_{A}: \quad \mu > 20
 \end{aligned}
 $$
 
-### 1-6b
+### b
 Denne hypotesetesten er av et gjennomsnitt. La $\bar{X}$ være gjennomsnittsverdien for drivstofføkonomien for et utvalg av biler. Etter sentralgrensesetningen er $\bar{X}$ normalfordelt med:
 $$
 \begin{aligned}
@@ -438,7 +438,7 @@ c) 558,5 kr. Dette er differansen mellom produksjonskostnader for 20 enheter og 
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 
 ![Regresjon i GeoGebra](/img/user/_resources/s2-v25-2-1a.png){width=60%}
 
@@ -449,7 +449,7 @@ $$
 
 **Grenseinntekten $K'(x)=2 \cdot 0{,}617x+25=\underline{\underline{1{,}23x+25}}$.** 
 
-### 2-1b
+### b
 
 ![Grenseinntekt og grensekostnad i GeoGebra](/img/user/_resources/s2-v25-2-1b.png){width=60%}
 
@@ -459,7 +459,7 @@ $$
 $$
 **Her øker grenseinntekten mer enn grensekostnaden, altså vil vi tjene mer penger ($85{,}71 \text{ kr}$) på å produsere en mer enhet, enn hva vi må betale i produksjonskostnader for å produsere en mer enhet ($68{,}19 \text{ kr}$). Vi tjener altså omtrent $85{,}71-68{,}19=17{,}5$ kr på å produsere og selge 36 enheter framfor 35 enheter.**
 
-### 2-1c
+### c
 Se linje 5 i CAS.
 $$
 \underline{\underline{\int_{20}^{30} K'(x) \, dx =558{,}5}}
@@ -527,7 +527,7 @@ $$
 $$
 **Sannsynlighetene for at Birger, Maren og Espen hopper lengre enn 90 meter er i ett tilfeldig hopp er henholdsvis 0,1587, 0,0228 og 0,0668.**
 
-### 2-2b
+### b
 Hvis Maren skal hoppe lengst med et hopp på 83 meter så må både $B<83$ og $E < 83$. Vi kan bruke multiplikasjonsprinsippet for å finne sannsynligheten for at begge disse utfallene skjer samtidig. Igjen bestemmer vi sannsynligheten ved hjelp av sannsynlighetsvinduet i GeoGebra.
 
 ![Sannsynligheten for at Birger hopper kortere enn 83 meter](/img/user/_resources/s2-v25-2-2b.png){width=60%}
@@ -540,7 +540,7 @@ P(\text{Maren vinner med 83 m}) &= \textcolor{orange}{P(B<83)}\cdot \textcolor{s
 $$
 **Sannsynligheten for at Maren vinner med et hopp på 83 meter er 0,5849.**
 
-### 2-2c
+### c
 Vi lager en simulering i Python hvor vi trekker hopplengder ut fra normalfordelingene til $B$, $M$ og $E$. Deretter sjekker vi om Marens hopp er det lengste hoppet.
 
 ```python
@@ -597,6 +597,7 @@ $$
 Det viser seg at konkurrenten UnSaif planlegger å lansere et brannvarslingssystem med tilsvarende teknologi samtidig. Dette vil påvirke salget til SaifY.
 
 Etter å ha hørt om planene til UnSaif antar SaifY at
+
 - de totalt vil få solgt brannvarslingssystemet sitt til en million husstander
 - fire tusen husstander har brannvarslingssystemet når det lanseres
 - flest nye husstander kjøper brannvarslingssystemet i uke 65
@@ -614,19 +615,19 @@ c) $F(t)=\frac{1000000}{1+249e^{-0{,}0849t}}$
 
 ![Logistisk modell for brannalarmer i by](/img/user/_resources/s2-v25-2-3a.png)
 
-### 2-3a
+### a
 Jeg la inn modellen i GeoGebra og la inn linja $y=1\,000\,000$ for å sjekke når halvparten hadde fått systemet. Jeg fant skjæringen med $B$ i punktet $A=(93{,}88, 1000000)$.
 
 **Det tar 94 uker før halvparten av husstandene i byen har brannvarslingssystemet ifølge modellen.**
 
-### 2-3b
+### b
 Se nederst i GeoGebra-utklippet.
 $$
 \underline{\underline{B'(52)=7827{,}7}}
 $$
 **Etter 52 uker (ett år) så selges brannvarslingssystemet til omtrent 7828 husstander per uke.**
 
-### 2-3c
+### c
 En logistisk modell er gitt ved
 $$
 f(x)=\frac{N}{1+a \cdot e ^{-kx}}
@@ -705,7 +706,7 @@ c) Nei, 149 581 kr
 
 ![CAS-løsning av 2-4](/img/user/_resources/s2-v25-2-4-cas.png){width=70%}
 
-### 2-4a
+### a
 Vi kaller det ukjente beløpet $B$. Nora skal sette inn $B$ på konto 30 ganger. Det siste beløpet skal ha fått renter i 1 år, mens det første beløpet skal ha fått renter i 30 år. 
 
 For å ha 3 750 000 kr på konto etter 30 år så kan vi altså sette opp en likning med ei rekke. Likningen er løst i linje 1 i GeoGebra.
@@ -715,7 +716,7 @@ $$
 
 **Nora må sette inn 83 333 kr hvert år for å nå målet.**
 
-### 2-4b
+### b
 Vi kaller den ukjente vekstfaktoren til renta $v$. Nora skal betale inn lånet over 33 terminer med første termin 1. januar 2026. Nåverdien (NV) til terminbeløpene vil være:
 $$
 \underbrace{ \textcolor{orange}{\frac{150\,000}{v^{0}}} }_{ \text{NV til 2026-beløpet} }+\underbrace{ \textcolor{seagreen}{\frac{150\,000}{v^{1}}} }_{ \text{NV til 2027-beløpet} }+\dots+\underbrace{ \textcolor{tomato}{\frac{150\,000}{v^{32}}} }_{ \text{NV til 2058-beløpet} }=3\,000\,000
@@ -724,7 +725,7 @@ Likningen er løst i linje 2 i GeoGebra.
 
 **Nora har regnet med at den årlige rentesatsen er 3,528 %.**
 
-### 2-4c
+### c
 Sparebeløpene til Nora kan sees på som en rekke der det første beløpet er 10000 kr og får renter i 10 år, mens det siste beløpet er $10000\cdot 1{,}06^{9}$ og får renter i ett år.
 $$
 \underbrace{ \textcolor{tomato}{10000 \cdot 1{,}06^{0}\cdot 1{,}025^{10}} }_{ \text{Beløp år 0} } + \underbrace{ \textcolor{seagreen}{10000 \cdot 1{,}06^{1}\cdot 1{,}025^{9}} }_{ \text{Beløp år 1} } + \dots + \underbrace{ \textcolor{maroon}{10000 \cdot 1{,}06^{9}\cdot 1{,}025^{1}} }_{ \text{ Beløp år 9 } }
@@ -776,6 +777,7 @@ I denne oppgaven kan du se bort fra integrasjonskonstantene.
 
 ## Fasit
 
+Oppgaven er et bevis. Se løsningsforslag.
 
 ## Løsningsforslag
 

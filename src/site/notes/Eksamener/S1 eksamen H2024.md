@@ -215,7 +215,7 @@ a) $P(\text{to like}) = \frac{5}{18}$
 
 ## Løsningsforslag
 
-### 1-5a
+### a
 For å ta to kuler av samme farge må Audun enten ta to røde ($R$), to blå ($B$) eller to gule ($G$) kuler. Det er 9 kuler i kassa.
 $$
 \begin{aligned}
@@ -325,21 +325,21 @@ c) Usann. For $a \in \{ -1,0,1 \}$ finnes det flere løsninger.
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 Vi kan finne gjennomsnittlig vekstfart i intervallet ved å beregne
 $$
 \frac{f(4)-f(1)}{3}=\frac{4^{2}+2-\left( 1^{2}+2 \right) }{3}=\frac{16+2-1-2}{3}=\frac{15}{3}=\underline{\underline{5}}
 $$
 **Påstanden stemmer. Den gjennomsnittlige vekstfarten i intervallet er 5.**
 
-### Oppgave 2-2b
+### b
 Påstanden sier at dersom to funksjoner har samme grenseverdier når $x \to \pm \infty$, så er de like.
 
 Det er enkelt å finne eksempler som motbeviser dette, for eksempel vil $f(x)=\frac{1}{x}$ og $g(x)=\frac{2}{x}$ begge gå mot null når $x \to \pm\infty$.
 
 **Påstanden er usann. Det finnes eksempler hvor $f(x)\neq g(x)$.**
 
-### Oppgave 2-2c
+### c
 
 >[!warning] Tolkning av påstanden
 >Påstanden lyder: For likningen $a^{x}=a^{y}$, der $a \in \mathbb{R}$ så er løsningen alltid $x=y$.

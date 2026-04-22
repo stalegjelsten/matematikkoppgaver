@@ -153,14 +153,14 @@ b) $\frac{22}{35}$
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 Dette er et hypergeometrisk forsøk siden vi har to typer objekter og skal trekke $k_{1}=2$ av den ene typen og $k_{2}=1$ av den andre typen
 
 $$
 \frac{ \binom{n_{1}}{k_{1}}\binom{n_{2}}{k_{2}}}{\binom{n}{k}} = \frac{ \binom{3}{2}\binom{4}{1}}{\binom{7}{3}} = \frac{\frac{3!}{2!\cdot 1!}\cdot4}{\frac{7!}{3!\cdot4!}}=\frac{3\cdot4}{\frac{7\cdot6\cdot 5}{3\cdot2}}=\frac{12\cdot3\cdot2}{210}=\frac{72}{210}=\frac{12}{35}
 $$
 
-### 1-4b
+### b
 La $X$ være antall hvite kuler. Da er 
 
 $$P(X\geq 2)=1-P(X\leq 1)=1-\left( P(X=1) +P(X=0)\right)$$
@@ -265,7 +265,7 @@ d) Omtrent 2,19 %
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 Timelønna har vokst med $340{,}10-272{,}55=67{,}55$ kr i løpet av disse 14 årene. Vi kan sette opp dette uttrykket for å bestemme vekstfaktoren $x$
 
 $$
@@ -278,13 +278,13 @@ $$
 
 **Den gjennomsnittlige årlige prosentvise økninga har vært 1,59 %.**
 
-### 2-1b
+### b
 Jeg brukte regresjon i GeoGebra og fant at en god eksponentialmodell for lønnsveksten er 
 
 $$
 g(x)=277{,}8\cdot 1{,}0155$$
 ![](/img/user/_resources/s1-v23-2-1-b.png)
-### 2-1c
+### c
 Hvis man skal regne Per sin lønn riktig så må man egentlig vite lønna hvert år og summere opp årslønnene som ei rekke. Jeg bruker heller modell $g$ som en tilnærming til Pers lønn.
 
 For min del er det raskest å legge inn formelen `=272,55*1,023^(2008-A2)*1700` i cellene til Amalie for å regne ut hennes lønn, og tilsvarende for Per.
@@ -310,7 +310,7 @@ For min del er det raskest å legge inn formelen `=272,55*1,023^(2008-A2)*1700` 
 
 **Amalies samlede lønn er omtrent 8 188 600 kr i perioden. Pers samlede lønn er omtrent 7 906 600 kr.**
 
-### 2-1d
+### d
 Igjen så er det enklest og raskest for meg å bruke målsøking i Excel for å løse oppgaver som dette. Jeg lager en celle med vekstfaktoren til Per og målsøker slik at lønna i 2022 skal bli lik for begge.
 ![](/img/user/_resources/s1-v23-2-1-d.png)
 
@@ -485,7 +485,7 @@ b) 1401 billetter
 
 ## Løsningsforslag
 
-### 2-5a
+### a
 Vi kan regne med en binomisk sannsynlighetsfordeling her med $n=1300$ og $p=0{,}45$ siden
 - billettmottakerne har to muligheter: de kommer på kamp, eller de kommer ikke på kamp
 - det er samme sannsynlighet for hver billettmottaker
@@ -502,7 +502,7 @@ print(f"P(X >= 600) = {P:.4f}")
 
 **Sannsynligheten for at minst 600 mennesker kommer er 20,9 %.**
 
-### 2-5b
+### b
 ```python
 from scipy.stats import binom
 n = 1299
@@ -570,7 +570,7 @@ c) 158,12 m
 
 ## Løsningsforslag
 
-### 2-6a
+### a
 $$
 \begin{aligned}
 130 &= 120 + 10 \log I\\
@@ -583,7 +583,7 @@ $$
 
 **Lydintensiteten er 10 W/m² når lydstyrken er 130 dB.**
 
-### 2-6b
+### b
 Når $L=132$ blir 
 
 $$
@@ -598,7 +598,7 @@ $$
 
 **Når lydstyrken øker fra 130 dB til 132 dB øker lydintensiteten med 58,5 %.**
 
-### 2-6c
+### c
 Vi vet at $L=140$ når $r=50$. Jeg løser for $E$ og finner (dette gjøres enklest i CAS)
 
 $$

@@ -30,7 +30,7 @@ b) A – størrelse 50/70 (1000 g / 20 g = 50 reker per kg)
 
 ## Løsningsforslag
 
-### 1-1a
+### a
 
 Vi deler prisen på antall kilogram:
 
@@ -40,7 +40,7 @@ $$
 
 **Prisen per kilogram er $\underline{\underline{80 \, \mathrm{kr/kg}}}$.**
 
-### 1-1b
+### b
 
 Vi finner hvor mange reker det er per kilogram når én reke veier 20 gram:
 

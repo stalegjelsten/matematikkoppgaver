@@ -73,7 +73,7 @@ c) Fredrik tar feil – karbonadedeig er ca. 33,3 % dyrere per pakke, ikke 25 %
 
 ## Løsningsforslag
 
-### 1-1a
+### a
 
 Karbonadedeig koster 80 kr for 400 g. Vi finner prisen for de ulike mengdene:
 
@@ -86,7 +86,7 @@ $$
 | Vekt (g)      | 100 | 200 | 400 | 1000 |
 | Pris (kroner) | 20  | 40  | 80  | 200  |
 
-### 1-1b
+### b
 
 Vi finner kiloprisen for hvert produkt:
 
@@ -97,7 +97,7 @@ Siden $200 = 2 \cdot 100$, er karbonadedeig nøyaktig dobbelt så dyrt per kilog
 
 **Frida sin påstand er riktig.**
 
-### 1-1c
+### c
 
 Vi finner hvor mange prosent dyrere karbonadedeig er enn kyllingkjøttdeig per pakke:
 
@@ -157,7 +157,7 @@ c) William kan forvente å bli høyere enn faren (6,5 cm høyere)
 
 ## Løsningsforslag
 
-### 1-2a
+### a
 
 Fra diagrammet leser vi av Ole sin vekst per år:
 
@@ -182,7 +182,7 @@ $$
 
 **Ole var $\underline{\underline{107 \, \mathrm{cm}}}$ høy da han ble 5 år.**
 
-### 1-2b
+### b
 
 Vi bruker formelen med mors høyde 167 cm og fars høyde 180 cm:
 
@@ -192,7 +192,7 @@ $$
 
 **Ole kan forvente å bli $\underline{\underline{180 \, \mathrm{cm}}}$ høy som voksen.**
 
-### 1-2c
+### c
 
 William sier at mor og far er like høye. Vi kaller denne høyden $h$. Da gir formelen:
 
@@ -241,7 +241,7 @@ b) 2,1 L
 
 ## Løsningsforslag
 
-### 1-3a
+### a
 
 Vi gjør om til samme enhet. $1{,}5 \, \mathrm{L} = 15 \, \mathrm{dL}$. Deretter deler vi:
 
@@ -251,7 +251,7 @@ $$
 
 **Kari kan fylle $\underline{\underline{6 \, \mathrm{glass}}}$.**
 
-### 1-3b
+### b
 
 Vi bruker formelen fra nettsiden:
 
@@ -359,7 +359,7 @@ c) $R_T = 3{,}2 \, \Omega$
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 
 Fra kakediagrammet ser vi at vannkraft utgjør 40 % av totalproduksjonen:
 
@@ -369,7 +369,7 @@ $$
 
 **$\underline{\underline{8 \, \mathrm{MW}}}$ kom fra vannkraft.**
 
-### 1-4b
+### b
 
 Sinus er definert som $\sin u = \dfrac{\text{motstående katet}}{\text{hypotenus}} = \dfrac{BC}{AC}$.
 
@@ -381,7 +381,7 @@ $$
 
 **Hypotenusen er $\underline{\underline{AC = 15 \, \mathrm{cm}}}$.**
 
-### 1-4c
+### c
 
 Vi setter inn $R_1 = 16 \, \Omega$ og $R_2 = 4 \, \Omega$ i formelen:
 
@@ -437,7 +437,7 @@ b) Batteriet må oppgraderes – det trengs 58,8 A, men batteriet leverer maks 5
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 
 Vi bruker formelen $P = U \cdot I$ og løser for $I$:
 
@@ -447,7 +447,7 @@ $$
 
 **Det går $\underline{\underline{25 \, \mathrm{A}}}$ fra $12 \, \mathrm{V}$-batteriet.**
 
-### 2-1b
+### b
 
 Vi trenger 600 W ut fra inverteren. Med virkningsgrad på 85 % må batteriet levere mer inn enn det vi får ut:
 
@@ -515,7 +515,7 @@ c) Large (16 GB) til 299 kr/måned
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 
 Vi gjør om 152 GB til MB (1 GB = 1000 MB):
 
@@ -531,7 +531,7 @@ $$
 
 **Petter får plass til maksimalt $\underline{\underline{20\,267 \, \text{bilder}}}$ til.**
 
-### 2-2b
+### b
 
 100 bilder opptar $100 \cdot 7{,}5 = 750 \, \mathrm{MB}$ lagringsplass. Vi gjør om til megabit (1 MB = 8 Mbit):
 
@@ -547,7 +547,7 @@ $$
 
 **Petter trenger en internettilkobling på minst $\underline{\underline{50 \, \mathrm{Mbit/s}}}$.**
 
-### 2-2c
+### c
 
 Vi finner Petters dataforbruk per dag:
 
@@ -794,7 +794,7 @@ c) 2 minutter lenger
 
 ## Løsningsforslag
 
-### 2-4a
+### a
 
 Vi setter inn i formelen $s = v \cdot t$. Merk at 15 minutter = $\dfrac{15}{60} = 0{,}25 \, \mathrm{h}$:
 
@@ -804,7 +804,7 @@ $$
 
 **Strekningen Camilla kjører til skolen er $\underline{\underline{10 \, \mathrm{km}}}$.** Dette virker rimelig – 10 km er en typisk avstand mellom et sted med moped på 15 minutter.
 
-### 2-4b
+### b
 
 Vi finner distansen og tidsbruken:
 
@@ -819,7 +819,7 @@ $$
 
 **Gjennomsnittsfarten var $\underline{\underline{\approx 66{,}3 \, \mathrm{km/h}}}$.**
 
-### 2-4c
+### c
 
 Vi beregner tidsbruken ved begge fartsgrenser for en strekning på 8 km:
 

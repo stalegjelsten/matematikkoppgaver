@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["tolke grafer","tolkning av integraler","integral","areal under graf"],"fag":["s2","r2"],"eksamen":"h25","del":1,"oppgave":3,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":3},{"fag":"r2","del":1,"oppgave":3}],"title":"Tolkning av integral og areal fra graf Tolkning av integral og areal fra graf","source":null,"todo":null,"status":3,"dg-permalink":"/tolkning-av-integral-og-areal-fra-graf/","permalink":"/tolkning-av-integral-og-areal-fra-graf/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"temaer":["tolke grafer","tolkning av integraler","integral","areal under graf"],"fag":["s2","r2"],"eksamen":"h25","del":1,"oppgave":3,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":3},{"fag":"r2","del":1,"oppgave":3}],"title":"Tolkning av integral og areal fra graf Tolkning av integral og areal fra graf","source":null,"todo":null,"status":3}}
+{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"dg-publish":true,"temaer":["tolke grafer","tolkning av integraler","integral","areal under graf"],"fag":["s2","r2"],"eksamen":"h25","del":1,"oppgave":3,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":3},{"fag":"r2","del":1,"oppgave":3}],"title":"Tolkning av integral og areal fra graf Tolkning av integral og areal fra graf","source":null,"todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Tolke og beregne areal mellom $f(x)=x^3+x^2-2x$ og $x$-aksen; argumentere for at $\\int_a^1 f\\,dx=0$ har to løsninger.","deloppgaver":[{"deloppgave":"a","beskrivelse":"Velge integraluttrykk som gir arealet, splittet over/under $x$-aksen."},{"deloppgave":"b","kategori":1,"beskrivelse":"Beregne $\\int_{-2}^0 f\\,dx - \\int_0^1 f\\,dx$ eksakt som $\\frac{37}{12}$."},{"deloppgave":"c","kategori":3,"beskrivelse":"Forklare at $\\int_a^1 f\\,dx=0$ har to løsninger og anslå den andre fra grafen."}],"dg-permalink":"/tolkning-av-integral-og-areal-fra-graf/","permalink":"/tolkning-av-integral-og-areal-fra-graf/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":null,"modified":null,"aliases":null,"temaer":["tolke grafer","tolkning av integraler","integral","areal under graf"],"fag":["s2","r2"],"eksamen":"h25","del":1,"oppgave":3,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":3},{"fag":"r2","del":1,"oppgave":3}],"title":"Tolkning av integral og areal fra graf Tolkning av integral og areal fra graf","source":null,"todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Tolke og beregne areal mellom $f(x)=x^3+x^2-2x$ og $x$-aksen; argumentere for at $\\int_a^1 f\\,dx=0$ har to løsninger.","deloppgaver":[{"deloppgave":"a","beskrivelse":"Velge integraluttrykk som gir arealet, splittet over/under $x$-aksen."},{"deloppgave":"b","kategori":1,"beskrivelse":"Beregne $\\int_{-2}^0 f\\,dx - \\int_0^1 f\\,dx$ eksakt som $\\frac{37}{12}$."},{"deloppgave":"c","kategori":3,"beskrivelse":"Forklare at $\\int_a^1 f\\,dx=0$ har to løsninger og anslå den andre fra grafen."}]}}
 ---
 
 
@@ -40,7 +40,7 @@ c) Mellom -3 og -2,5.
 
 ## Løsningsforslag
 
-### 1-3a
+### a
 Områder som ligger over $x$-aksen vil ha identisk areal og integral. Områder som ligger under $x$-aksen vil ha motsatt fortegn på integralet og arealet. 
 
 Vi deler derfor opp integrasjonen vår i to deler, en for området over $x$-aksen (fra $x=-2$ til $x=0$), og en annen del for området under $x$-aksen (fra $x=0$ til $x=1$).
@@ -51,7 +51,7 @@ $$
 $$
 **Uttrykk 4 gir arealet markert på figuren.**
 
-### 1-3b
+### b
 Jeg finner først det ubestemte integralet
 $$
 F(x)=\int \left(   x^{3}+x^{2}-2x  \right) \, \mathrm{d}x = \frac{1}{4}x^{4}+ \frac{1}{3}x^{3}- \frac{2}{2}x^{2} +C
@@ -71,7 +71,7 @@ A&=\textcolor{seagreen}{\int_{-2}^{0} f(x) \, dx} - \textcolor{tomato}{\int_{0}^
 $$
 **Arealet er $\underline{\underline{\frac{37}{12}}}$.**
 
-### 1-3c
+### c
 Likningen til Kristian er sann når vi velger $a$ slik at vi får nøyaktig like store områder på oversiden og undersiden av $x$-aksen. 
 
 Fra figuren kan vi se at Kristians beregning ser riktig ut, området som er avgrenset av $x$-aksen og $f(x)$ fra $x=-0{,}6$ til $x=1$ ser ut til å ha omtrent like mye areal over og under $x$-aksen.

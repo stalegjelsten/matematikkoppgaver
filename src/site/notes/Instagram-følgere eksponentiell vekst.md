@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["eksponentiell vekst","vekstfaktor","prosentvis vekst"],"fag":["2p-y","2p"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":4},{"fag":"2p","del":2,"oppgave":1}],"title":"Instagram-følgere eksponentiell vekst","status":3,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"dg-permalink":"/instagram-folgere-eksponentiell-vekst/","permalink":"/instagram-folgere-eksponentiell-vekst/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["eksponentiell vekst","vekstfaktor","prosentvis vekst"],"fag":["2p-y","2p"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":4},{"fag":"2p","del":2,"oppgave":1}],"title":"Instagram-følgere eksponentiell vekst","status":3,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"]}}
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["eksponentiell vekst","vekstfaktor","prosentvis vekst","regresjon"],"fag":["2p-y","2p"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":4},{"fag":"2p","del":2,"oppgave":1}],"title":"Instagram-følgere eksponentiell vekst","status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Eksponentiell regresjon gir $f(x)=5244 \\cdot 1{,}35^x$; sammenlikne antall følgere under original og voksende månedsvekst (+5 prosentpoeng/mnd).","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":1,"beskrivelse":"Regresjon i GeoGebra gir $f(x)=5244\\cdot 1{,}35^x$."},{"deloppgave":"b","kategori":1,"beskrivelse":"Multiplisere med vekstfaktor $1{,}40$ og $1{,}45$ for mai og juni."},{"deloppgave":"c","beskrivelse":"Sammenlikne $f(9)$ med trinnvis $\\cdot 1{,}50 \\cdot 1{,}55$ for august og regne prosentvis forskjell."}],"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"dg-permalink":"/instagram-folgere-eksponentiell-vekst/","permalink":"/instagram-folgere-eksponentiell-vekst/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["eksponentiell vekst","vekstfaktor","prosentvis vekst","regresjon"],"fag":["2p-y","2p"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":4},{"fag":"2p","del":2,"oppgave":1}],"title":"Instagram-følgere eksponentiell vekst","status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Eksponentiell regresjon gir $f(x)=5244 \\cdot 1{,}35^x$; sammenlikne antall følgere under original og voksende månedsvekst (+5 prosentpoeng/mnd).","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":1,"beskrivelse":"Regresjon i GeoGebra gir $f(x)=5244\\cdot 1{,}35^x$."},{"deloppgave":"b","kategori":1,"beskrivelse":"Multiplisere med vekstfaktor $1{,}40$ og $1{,}45$ for mai og juni."},{"deloppgave":"c","beskrivelse":"Sammenlikne $f(9)$ med trinnvis $\\cdot 1{,}50 \\cdot 1{,}55$ for august og regne prosentvis forskjell."}],"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"]}}
 ---
 
 
@@ -29,19 +29,19 @@ c) 43,6 % flere følgere
 
 ## Løsningsforslag
 
-### 2-4a
+### a
 Vi lar $x$ være antall måneder etter november og bruker regresjon i GeoGebra. Siden modellen skal stige med 35 % per måned bør vi velge eksponentiell modell, siden disse vokser med en fast prosent.
 
 ![Regresjon i GeoGebra av Tuvas følgere](/img/user/_resources/2py-v24-2-4a.png){width=100%}
 
 **Modellen $f(x)=5244 \cdot 1{,}35^{x}$ er en modell som vokser med 35 % per måned, og som kan være modellen Tuva har brukt.**
 
-### 2-4b
+### b
 Tuva har 24 008 følgere i april. Hvis økningen i mai skal være 35 % + 5 prosentpoeng så har hun $24008 \cdot 1{,}40=33 \,611$ følgere i mai.
 
 I juni øker økningen med enda 5 prosentpoeng til 45 %. Antall følgere i juni vil derfor være $33 \,611 \cdot 1{,}45=48\, 736$.
 
-### 2-4c
+### c
 Vi kan bruke modellen $f(x)=5244 \cdot 1{,}35^{x}$ til å beregne hvor mange følgere hun har i august med 35 % økning. August tilsvarer $x=9$
 $$
 f(9)=5244 \cdot 1{,}35^9=78 \,922

@@ -15,7 +15,7 @@ Table: {.eksamen-oversikt}
 | [1-3](#oppgave-1-3) | [Påstander om rasjonal funksjon](https://matematikkoppgaver.vercel.app/pastander-om-rasjonal-funksjon/) | rasjonale funksjoner, asymptoter | × |
 | [1-4](#oppgave-1-4) | [Bankinnskudd med rente bakover](https://matematikkoppgaver.vercel.app/bankinnskudd-med-rente-bakover/) | prosentregning, geometrisk vekst | × |
 | [1-5](#oppgave-1-5) | [Trekantareal og sin 45 grader](https://matematikkoppgaver.vercel.app/trekantareal-og-sin-45-grader/) | trigonometri, arealsetningen | × |
-| [1-6](#oppgave-1-6) | [Femkanttall og programmering](https://matematikkoppgaver.vercel.app/femkanttall-og-programmering/) | figurtall, programmering | ✔︎ |
+| [1-6](#oppgave-1-6) | [Femkanttall og programmering](https://matematikkoppgaver.vercel.app/femkanttall-og-programmering/) | figurtall, programmering, rekursiv formel | ✔︎ |
 
 **Del 2** — 3 timer — med hjelpemidler
 
@@ -272,6 +272,7 @@ while tall <= 60:
 
 ## Fasit
 
+Tallene 1, 5, 12, 22, 35, 51 og 70 skrives ut. Siri har oppdaget at antallet nye sirkler øker med 3 fra ett femkanttall til det neste.
 
 ## Løsningsforslag
 

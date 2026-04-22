@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-05-23","modified":"2023-05-23","aliases":[],"dg-publish":true,"temaer":["formler","rekker","figurtall"],"fag":["2p-y"],"eksamen":"v23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":4}],"title":"Mønster med sirkler i figurer","source":null,"todo":null,"status":3,"dg-permalink":"/monster-med-sirkler-i-figurer/","permalink":"/monster-med-sirkler-i-figurer/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-05-23","modified":"2023-05-23","aliases":[],"temaer":["formler","rekker","figurtall"],"fag":["2p-y"],"eksamen":"v23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":4}],"title":"Mønster med sirkler i figurer","source":null,"todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2023-05-23","modified":"2023-05-23","aliases":[],"dg-publish":true,"temaer":["formler","rekker","figurtall"],"fag":["2p-y"],"eksamen":"v23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":4}],"title":"Mønster med sirkler i figurer","source":null,"todo":null,"status":0,"dg-permalink":"/monster-med-sirkler-i-figurer/","lf-source-claude":true,"permalink":"/monster-med-sirkler-i-figurer/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-05-23","modified":"2023-05-23","aliases":[],"temaer":["formler","rekker","figurtall"],"fag":["2p-y"],"eksamen":"v23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":4}],"title":"Mønster med sirkler i figurer","source":null,"todo":null,"status":0,"lf-source-claude":true}}
 ---
 
 
@@ -20,7 +20,7 @@ b) $a_n = 4n + 1$
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 
 Figur 1 har 5 sirkler, figur 2 har 9 sirkler, figur 3 har 13 sirkler. For hver ny figur legges det til 4 sirkler.
 
@@ -29,7 +29,7 @@ Figur 1 har 5 sirkler, figur 2 har 9 sirkler, figur 3 har 13 sirkler. For hver n
 
 **Figur 4 har $\underline{\underline{17}}$ sirkler og figur 5 har $\underline{\underline{21}}$ sirkler.**
 
-### 1-4b
+### b
 
 Figur 1 har 5 sirkler, og for hver ny figur øker antallet med 4. Dette er en aritmetisk rekke med første ledd $a_1 = 5$ og differanse $d = 4$:
 

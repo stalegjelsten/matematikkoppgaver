@@ -22,7 +22,7 @@ c) $G_n=2n^2+2n+4$
 
 ## Løsningsforslag
 
-### 1-6a
+### a
 >[!tip] Ulike måter å begrunne svaret på oppgave 1-6
 >
 >Her kan man tegne opp de neste kvadratene for å vise hvordan man finner svaret, eller så må man beskrive mønsteret eller finne formelen.
@@ -41,7 +41,7 @@ Jeg ser at hele figuren er rektangler som øker med 2 i bredden og 1 i høyden f
 
 **Det er 64 grønne ruter i figur 5.**
 
-### 1-6b
+### b
 Antallet hvite kvadrater øker med 3 for hver figur, og det starter på 1. 
 
 ![Oppdeling av figur 3 i oppgave 1-6b](/img/user/_resources/2py-v25-1-6b.png){width=50% #fig:16b}
@@ -51,7 +51,7 @@ $$
 \underline{\underline{H_{n}=3 \cdot (n-1) + 1=3n-2}}
 $$
 
-### 1-6c
+### c
 Jeg har allerede sett at det er mulig å finne størrelsen av hele rektangelet og trekke fra de hvite feltene for å finne ut hvor mange grønne ruter det er. Det store rektangelet øker med 2 i bredden og 1 i høyden, og vi ser at bredden er $2n+1$, mens høyden er $n+2$. Altså er antall ruter i hele rektangelet
 $$
 \begin{aligned}

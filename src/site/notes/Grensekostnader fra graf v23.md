@@ -20,14 +20,14 @@ b) ca 57 enheter
 
 ## Løsningsforslag
 
-### 1-2a
+### a
 Når det blir produsert 40 enheter kan vi finne en tilnærmet verdi for grensekostnaden $K'(40)$ ved å lage en tangent til $K(x)$ i $(40, K(40))$.
 
 Jeg forsøkte å legge en tangent i punktet, og fikk stigningstallet $a=\frac{9000}{120}=75$. 
 
 $$\underline{\underline{K'(40)\approx 75 \, \mathrm{kr/enhet}}}$$
 
-### 1-2b
+### b
 Jeg vet at overskuddet blir størst når $O'(x)=I'(x)-K'(x)=0 \iff I'(x)=K'(x)$, altså når stigningstallene til inntektsfunksjonen og kostnadsfunksjonen er like store. 
 
 Det ser ut til stigningstallene er like store omtrent ved $x=55$. Det stemmer også godt med at differansen mellom inntekt og kostnad ser ut til å være stor ved $x=55$.

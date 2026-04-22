@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-11-14","aliases":[],"dg-publish":true,"temaer":["rekker","programmering","figurtall"],"fag":["2p-y"],"eksamen":"h25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":6}],"title":"Trekantmønster og programmering 2P-Y H25","source":"Eksamen 2P-Y høst 2025","todo":null,"status":3,"dg-permalink":"/trekantmonster-og-programmering/","permalink":"/trekantmonster-og-programmering/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-11-14","aliases":[],"temaer":["rekker","programmering","figurtall"],"fag":["2p-y"],"eksamen":"h25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":6}],"title":"Trekantmønster og programmering 2P-Y H25","source":"Eksamen 2P-Y høst 2025","todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-11-14","aliases":[],"dg-publish":true,"temaer":["rekker","programmering","figurtall"],"fag":["2p-y"],"eksamen":"h25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":6}],"title":"Trekantmønster og programmering 2P-Y H25","source":"Eksamen 2P-Y høst 2025","todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Figurtall: finne antall pinner i figur 4 og 10, finne formel $P(n)=2n+1$, og tolke akkumulasjonsprogram.","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":1,"beskrivelse":"Fortsette +2-mønsteret til figur 4 (9) og figur 10 (21)."}],"dg-permalink":"/trekantmonster-og-programmering/","permalink":"/trekantmonster-og-programmering/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-11-14","aliases":[],"temaer":["rekker","programmering","figurtall"],"fag":["2p-y"],"eksamen":"h25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":6}],"title":"Trekantmønster og programmering 2P-Y H25","source":"Eksamen 2P-Y høst 2025","todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Figurtall: finne antall pinner i figur 4 og 10, finne formel $P(n)=2n+1$, og tolke akkumulasjonsprogram.","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":1,"beskrivelse":"Fortsette +2-mønsteret til figur 4 (9) og figur 10 (21)."}]}}
 ---
 
 
@@ -58,7 +58,7 @@ c) Vivian vil finne den minste figuren som har mer enn 1000 pinner totalt. Figur
 
 ## Løsningsforslag
 
-### 1-6a
+### a
 
 Vi skal finne antall pinner i figur 4 og figur 10.
 
@@ -89,7 +89,7 @@ Vi kan fortsette mønsteret:
 
 **Det vil være $\underline{\underline{9}}$ pinner i figur 4 og $\underline{\underline{21}}$ pinner i figur 10.**
 
-### 1-6b
+### b
 
 Vi skal lage en formel for antallet pinner i figur $n$.
 
@@ -111,7 +111,7 @@ $$P(n) = 3 + 2(n-1) = 3 + 2n - 2 = 2n + 1$$
 
 **Formelen er $\underline{\underline{P(n) = 2n + 1}}$.**
 
-### 1-6c
+### c
 
 Vi skal forklare hva programmet finner ut og hva verdiene som skrives ut betyr.
 

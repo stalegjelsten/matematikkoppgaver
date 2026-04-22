@@ -34,7 +34,7 @@ b) Batteriet må oppgraderes – det trengs 58,8 A, men batteriet leverer maks 5
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 
 Vi bruker formelen $P = U \cdot I$ og løser for $I$:
 
@@ -44,7 +44,7 @@ $$
 
 **Det går $\underline{\underline{25 \, \mathrm{A}}}$ fra $12 \, \mathrm{V}$-batteriet.**
 
-### 2-1b
+### b
 
 Vi trenger 600 W ut fra inverteren. Med virkningsgrad på 85 % må batteriet levere mer inn enn det vi får ut:
 

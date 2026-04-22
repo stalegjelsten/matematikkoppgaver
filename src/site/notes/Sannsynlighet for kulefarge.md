@@ -17,7 +17,7 @@ a) $P(\text{to like}) = \frac{5}{18}$
 
 ## Løsningsforslag
 
-### 1-5a
+### a
 For å ta to kuler av samme farge må Audun enten ta to røde ($R$), to blå ($B$) eller to gule ($G$) kuler. Det er 9 kuler i kassa.
 $$
 \begin{aligned}

@@ -19,7 +19,7 @@ b) 34 eller 36 baller
 
 ## Løsningsforslag
 
-### 2-5a
+### a
 Vi har et forsøk uten tilbakelegging med to typer baller, så vi kan bruke en hypergeometrisk sannsynlighetsfordeling. Hvis det er 15 baller av hver type er sannsynligheten for å trekke 9 røde og 6 blå baller gitt ved
 
 $$
@@ -28,7 +28,7 @@ $$
 
 **Sannsynligheten for å trekke 9 røde og 6 blå baller er 16,1 %.**
 
-### 2-5b
+### b
 
 #### Løsningsmetode 1: Programmering
 Her prøver jeg meg fram med programmering og setter inn ulike verdier for antallet baller i kurva. Man kan programmere binomialkoeffisientfunksjonen selv, eller bruke en ferdig funksjon fra `math`-biblioteket. 

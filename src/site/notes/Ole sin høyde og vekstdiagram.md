@@ -38,7 +38,7 @@ c) William kan forvente å bli høyere enn faren (6,5 cm høyere)
 
 ## Løsningsforslag
 
-### 1-2a
+### a
 
 Fra diagrammet leser vi av Ole sin vekst per år:
 
@@ -63,7 +63,7 @@ $$
 
 **Ole var $\underline{\underline{107 \, \mathrm{cm}}}$ høy da han ble 5 år.**
 
-### 1-2b
+### b
 
 Vi bruker formelen med mors høyde 167 cm og fars høyde 180 cm:
 
@@ -73,7 +73,7 @@ $$
 
 **Ole kan forvente å bli $\underline{\underline{180 \, \mathrm{cm}}}$ høy som voksen.**
 
-### 1-2c
+### c
 
 William sier at mor og far er like høye. Vi kaller denne høyden $h$. Da gir formelen:
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-11-14","aliases":[],"dg-publish":true,"temaer":["statistikk","standardavvik","sentralmål"],"fag":["2p-y","2p"],"eksamen":"h25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":2},{"fag":"2p","del":2,"oppgave":2}],"title":"Befolkningsstatistikk tettsteder","source":"Eksamen 2P-Y høst 2025","todo":null,"status":3,"dg-permalink":"/befolkningsstatistikk-tettsteder/","permalink":"/befolkningsstatistikk-tettsteder/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-11-14","aliases":[],"temaer":["statistikk","standardavvik","sentralmål"],"fag":["2p-y","2p"],"eksamen":"h25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":2},{"fag":"2p","del":2,"oppgave":2}],"title":"Befolkningsstatistikk tettsteder","source":"Eksamen 2P-Y høst 2025","todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-11-14","aliases":[],"dg-publish":true,"temaer":["statistikk","standardavvik","sentralmål"],"fag":["2p-y","2p"],"eksamen":"h25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":2},{"fag":"2p","del":2,"oppgave":2}],"title":"Befolkningsstatistikk tettsteder","source":"Eksamen 2P-Y høst 2025","todo":null,"status":3,"kategori":3,"vanskegrad":2,"beskrivelse":"Beregne sentralmål og spredningsmål for tettstedstall, vurdere best sentralmål ved skjevfordeling, og sammenligne med dansk statistikk.","deloppgaver":[{"deloppgave":"a","kategori":1,"beskrivelse":"Beregne median, gjennomsnitt, standardavvik og variasjonsbredde i GeoGebra."},{"deloppgave":"b","kategori":3,"beskrivelse":"Argumentere for at medianen er bedre enn gjennomsnittet når datamaterialet har én sterk ekstremverdi."},{"deloppgave":"c","kategori":3,"beskrivelse":"Sammenligne norsk og dansk statistikk og tolke hva ulik median og standardavvik betyr om bystrukturen."}],"dg-permalink":"/befolkningsstatistikk-tettsteder/","permalink":"/befolkningsstatistikk-tettsteder/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-11-14","aliases":[],"temaer":["statistikk","standardavvik","sentralmål"],"fag":["2p-y","2p"],"eksamen":"h25","del":2,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":2},{"fag":"2p","del":2,"oppgave":2}],"title":"Befolkningsstatistikk tettsteder","source":"Eksamen 2P-Y høst 2025","todo":null,"status":3,"kategori":3,"vanskegrad":2,"beskrivelse":"Beregne sentralmål og spredningsmål for tettstedstall, vurdere best sentralmål ved skjevfordeling, og sammenligne med dansk statistikk.","deloppgaver":[{"deloppgave":"a","kategori":1,"beskrivelse":"Beregne median, gjennomsnitt, standardavvik og variasjonsbredde i GeoGebra."},{"deloppgave":"b","kategori":3,"beskrivelse":"Argumentere for at medianen er bedre enn gjennomsnittet når datamaterialet har én sterk ekstremverdi."},{"deloppgave":"c","kategori":3,"beskrivelse":"Sammenligne norsk og dansk statistikk og tolke hva ulik median og standardavvik betyr om bystrukturen."}]}}
 ---
 
 
@@ -50,7 +50,7 @@ c) Danmark har større spredning i innbyggertall (større standardavvik). Median
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 
 ![Beregning av sentralmål og spredningsmål i GeoGebra](/img/user/_resources/2py-h25-2-2a.png){width=50%}
 
@@ -66,7 +66,7 @@ $$\text{Variasjonsbredde} = \text{Maks} - \text{Min} = 1\,098\,061 - 55\,684 = 1
 - **Standardavvik:** $\underline{\underline{297\,326}}$
 - **Variasjonsbredde:** $\underline{\underline{1\,042\,377}}$
 
-### 2-2b
+### b
 
 Vi ser at gjennomsnittet er nesten dobbelt så stort som medianen. Dette skyldes at Oslo (1 098 061) er en ekstremverdi som trekker gjennomsnittet kraftig opp.
 
@@ -74,7 +74,7 @@ Når vi har ekstremverdier i datasettet, er medianen et bedre sentralmål fordi 
 
 **Jeg er mest enig med Kine. Medianen er best å bruke fordi Oslo er en ekstremverdi som gjør gjennomsnittet misvisende. Medianen på 123 110 gir et mer representativt bilde av størrelsen på de norske tettstedene.**
 
-### 2-2c
+### c
 
 Vi skal sammenligne folketallet i de danske og norske tettstedene.
 

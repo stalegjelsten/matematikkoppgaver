@@ -48,19 +48,19 @@ d) 80 kr
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 ![Eksponentiell modell til oppgave 2-1a](/img/user/_resources/s2-h23-2-1a.png)
 
 Jeg brukte GeoGebra til å lage en eksponentiell modell som passet godt til dataene. Jeg vurderer at gyldighetsområdet til modellen er for priser fra omtrent 5 kroner til 70 kroner. Hvis varen hadde kostet veldig lite, så ville nok etterspørselen vært enda større (teoretisk kan man ofte tenke seg at etterspørselen går mot uendelig når prisen går mot null). Det er vanskelig å sette en øvre grense her, men ved prisen 70 kroner så er etterspørselen kun 2,4 – dette er veldig lavt sammenlignet med etterspørselen på 237 ved prisen 10 kroner.
 
 **En modell som viser sammenhengen mellom prisen, $p$, i kroner og etterspørselen er $e(p)=495\cdot 0{,}927^{p}$**
 
-### 2-1b
+### b
 Jeg brukte GeoGebra og løste $e(p)=70$ i CAS. 
 
 **Prisen for varen bør være 25,8 kroner dersom bedriften skal selge 70 enheter per dag.**
 
-### 2-1c
+### c
 ![CAS til oppgave 2-1c](/img/user/_resources/s2-h23-2-1c.png){width=70%}
 
 Gitt at $p(x)=79-12{,}2 \ln x$ er en funksjon som angir prisen ved etterspørselen $x$, så er inntekten gitt ved
@@ -73,7 +73,7 @@ Jeg brukte GeoGebra til å finne ekstremalpunktet til $I$ ved å derivere funksj
 
 **Vi har høyest inntekt ved etterspørselen 238,75 enheter, da er prisen $p(238{,}75)=12{,}2$.**
 
-### Oppgave 2-1d
+### d
 ![CAS til oppgave 2-1d](/img/user/_resources/s2-h23-2-1d.png){width=70%}
 
 Jeg la inn funksjonsuttrykket for $K(x)$ i CAS. CAS gir at $I'=K'$ ved $x\approx 80$.

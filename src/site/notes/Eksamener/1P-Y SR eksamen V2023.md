@@ -23,8 +23,8 @@ Table: {.eksamen-oversikt}
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Refleksvester ungdomsbedrift og fortjeneste](https://matematikkoppgaver.vercel.app/refleksvester-ungdomsbedrift-og-fortjeneste/) | økonomi, regneark, prosentregning | × |
 | [2-2](#oppgave-2-2) | [Hotellovernattinger i Nordland](https://matematikkoppgaver.vercel.app/hotellovernattinger-i-nordland/) | statistikk, gjennomsnitt, prosentvis endring | × |
-| [2-4](#oppgave-2-4) | [Ludvigs dusjregnskap](https://matematikkoppgaver.vercel.app/ludvigs-dusjregnskap/) | excel | ✔︎ |
-| [2-5](#oppgave-2-5) | [Martines studielån](https://matematikkoppgaver.vercel.app/martines-studielan/) | lån, excel | ✔︎ |
+| [2-4](#oppgave-2-4) | [Ludvigs dusjregnskap](https://matematikkoppgaver.vercel.app/ludvigs-dusjregnskap/) | excel, økonomi | ✔︎ |
+| [2-5](#oppgave-2-5) | [Martines studielån](https://matematikkoppgaver.vercel.app/martines-studielan/) | lån, excel, prosentregning | ✔︎ |
 
 # Del 1
 
@@ -258,7 +258,6 @@ Eleven ser på tabellen og lurer på hvor mange reiser i alt det var til Frankri
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -305,7 +304,6 @@ Tilbud 2: Klatrehagen barnehage ønsker å bestille $85$ vester til $75$ kroner 
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -346,7 +344,6 @@ Tabellen under viser antall utleide hotellrom og gjennomsnittlig pris per rom fo
 
 
 ## Løsningsforslag
-
 
 </div></div>
 

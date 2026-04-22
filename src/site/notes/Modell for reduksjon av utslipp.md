@@ -37,7 +37,7 @@ e) Nei, modellen har alltid $U(x)>1000$ og vil aldri nå $800$).
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 $U(x)$ består av to ledd: $\textcolor{maroon}{5000 \cdot 0{,}95^{x}}$ og $\textcolor{seagreen}{1000}$. 
 
 1. $\textcolor{maroon}{5000 \cdot 0{,}95^{x}}$ er en eksponentialfunksjon som synker med 5 % for hvert år. Dette viser at prosessen som i dag slipper ut 5000 tonn per år kommer til å reduseres med 5 %.
@@ -45,7 +45,7 @@ $U(x)$ består av to ledd: $\textcolor{maroon}{5000 \cdot 0{,}95^{x}}$ og $\text
 
 **Ledelsen ønsker å minke utslippet fra den ene prosessen med 5 % per år, og ikke gjøre noe med den andre prosessen.**
 
-### 2-1b
+### b
 Til de neste oppgavene har jeg brukt GeoGebra til å regne ut svarene, se figur &fig:2-1. 
 
 For å finne antall år før utslippene blir halvert har jeg lagt ut linja $y=\frac{6000}{2}$ og funnet skjæringen med $U$, se punkt $A$. 
@@ -54,19 +54,19 @@ For å finne antall år før utslippene blir halvert har jeg lagt ut linja $y=\f
 
 ![Løsning av oppgave 2-1b–e](/img/user/_resources/2py-v25-2-1-gg.png){#fig:2-1}
 
-### 2-1c
+### c
 For å finne utslippet etter 10 år har jeg lagt ut linja $x=10$ og funnet skjæringen med $U$, se punkt $B$. Utslippene er 3993,7 tonn etter 10 år. 
 
 Jeg har beregnet den prosentvise endringen i algebrafeltet, se linjen merket `c) ProsEndring`.
 
 **Utslippene har minket med 33,4 % etter 10 år.**
 
-### 2-1d
+### d
 Jeg la ut punktene $C(0,U(0))$ og $D(30,U(30))$ i GeoGebra og trakk en linje mellom dem. Etter å ha ordnet uttrykket for linja ser jeg at stigningstallet til linja er $-130{,}9$.
 
 **Stigningstallet til linja er omtrent -131, dette betyr at utslippene i gjennomsnitt minker med 131 tonn per år hvert år i løpet av de 30 første årene.**
 
-### 2-1e
+### e
 Jeg sjekket dette ved å lete etter skjæringen i mellom $y=800$ og $U(x)$ i GeoGebra. Da fikk jeg svaret `Udefinert` siden disse funksjonene ikke skjærer hverandre. Dette kunne jeg også sett fra funksjonsuttrykket med leddet $+1000$, som gjør at $U(x)$ alltid vil være større enn 1000.
 
 **Det er ikke mulig å komme ned til 800 tonn per år med dagens modell.**

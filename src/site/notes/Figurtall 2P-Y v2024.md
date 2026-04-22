@@ -20,13 +20,13 @@ b) $2(n+1)^2 - 1$
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 Jeg fortsetter mønsteret, som jeg ser består av to kvadrater hvor kvadratene overlapper med en sirkel.
 
 Det er $5\cdot 5 + 5 \cdot 5 -1=49$ sirkler i figur 4.
 Det er $10 \cdot 10 + 10\cdot 10 -1 =199$ sirkler i figur 9.
 
-### 1-4b
+### b
 Hver figur består av to kvadrater, hvor det er én mer sirkel i sidekanten enn figurnummeret. I figur $n$ har hvert kvadrat $(n+1)^{2}$ sirkler. Vi har to slike kvadrater slik at formelen blir $(n+1)^{2} \cdot 2$ også må vi huske å trekke fra 1 siden det er en sirkel som overlapper. Det ferdige uttrykket blir
 $$
 2(n+1)^{2}-1

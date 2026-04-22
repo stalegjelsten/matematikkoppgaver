@@ -10,11 +10,11 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [1-1](#oppgave-1-1) | [Ubestemt integral S2 H2025](https://matematikkoppgaver.vercel.app/ubestemt-integral-s2-h2025/) | integral | ✔︎ |
-| [1-2](#oppgave-1-2) | [S2 H2025 ulike rekker del 1](https://matematikkoppgaver.vercel.app/s2-h2025-ulike-rekker-del-1/) | rekker, uendelig rekke | ✔︎ |
+| [1-1](#oppgave-1-1) | [Ubestemt integral S2 H2025](https://matematikkoppgaver.vercel.app/ubestemt-integral-s2-h2025/) | integral, delvis integrasjon | ✔︎ |
+| [1-2](#oppgave-1-2) | [S2 H2025 ulike rekker del 1](https://matematikkoppgaver.vercel.app/s2-h2025-ulike-rekker-del-1/) | rekker, aritmetisk rekke, geometrisk rekke, uendelig rekke, konvergens | ✔︎ |
 | [1-3](#oppgave-1-3) | [Tolkning av integral og areal fra graf](https://matematikkoppgaver.vercel.app/tolkning-av-integral-og-areal-fra-graf/) | tolke grafer, tolkning av integraler, integral, areal under graf | ✔︎ |
 | [1-4](#oppgave-1-4) | [Sannsynlighet for poengtap ved poengspill](https://matematikkoppgaver.vercel.app/sannsynlighet-for-poengtap-ved-poengspill/) | sannsynlighet, varians, forventningsverdi, diskrete sannsynlighetsfordelinger | ✔︎ |
-| [1-5](#oppgave-1-5) | [Finn riktig graf for normalfordelingene](https://matematikkoppgaver.vercel.app/finn-riktig-graf-for-normalfordelingene/) | normalfordeling, tolke grafer | ✔︎ |
+| [1-5](#oppgave-1-5) | [Finn riktig graf for normalfordelingene](https://matematikkoppgaver.vercel.app/finn-riktig-graf-for-normalfordelingene/) | normalfordeling, tolke grafer, sentralgrenseteoremet | ✔︎ |
 
 **Del 2** — 3 timer — med hjelpemidler
 
@@ -22,12 +22,12 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [Logistisk plantesalg](https://matematikkoppgaver.vercel.app/logistisk-plantesalg/) | regresjon, logistisk funksjon, tolkning av integraler | ✔︎ |
-| [2-2](#oppgave-2-2) | [Grensekostnader, enhetskostnader og overskudd](https://matematikkoppgaver.vercel.app/grensekostnader-enhetskostnader-og-overskudd/) | økonomi, grenseinntekt og grensekostnad, enhetskostnad | ✔︎ |
-| [2-3](#oppgave-2-3) | [Hypotesetester om komponenter som er defekte](https://matematikkoppgaver.vercel.app/hypotesetester-om-komponenter-som-er-defekte/) | hypotesetest | ✔︎ |
-| [2-4](#oppgave-2-4) | [Mathias sine lån for å kjøpe bil](https://matematikkoppgaver.vercel.app/mathias-sine-lan-for-a-kjope-bil/) | lån, rekker | ✔︎ |
-| [2-5](#oppgave-2-5) | [Programmering av Wiggos spareplan](https://matematikkoppgaver.vercel.app/programmering-av-wiggos-spareplan/) | rekursiv sammenheng, programmering | ✔︎ |
-| [2-6](#oppgave-2-6) | [Simulering av antall terningkast for å få samme antall øyne i to kast på rad](https://matematikkoppgaver.vercel.app/simulering-av-antall-terningkast-for-a-fa-samme-antall-oyne-i-to-kast-pa-rad/) | simulering, sannsynlighet, programmering | ✔︎ |
+| [2-1](#oppgave-2-1) | [Logistisk plantesalg](https://matematikkoppgaver.vercel.app/logistisk-plantesalg/) | regresjon, logistisk funksjon, tolkning av integraler, derivasjon, modellering | ✔︎ |
+| [2-2](#oppgave-2-2) | [Grensekostnader, enhetskostnader og overskudd](https://matematikkoppgaver.vercel.app/grensekostnader-enhetskostnader-og-overskudd/) | økonomi, grenseinntekt og grensekostnad, enhetskostnad, overskudd, derivasjon | ✔︎ |
+| [2-3](#oppgave-2-3) | [Hypotesetester om komponenter som er defekte](https://matematikkoppgaver.vercel.app/hypotesetester-om-komponenter-som-er-defekte/) | hypotesetest, binomisk fordeling, sannsynlighet | ✔︎ |
+| [2-4](#oppgave-2-4) | [Mathias sine lån for å kjøpe bil](https://matematikkoppgaver.vercel.app/mathias-sine-lan-for-a-kjope-bil/) | lån, rekker, annuitetslån, økonomi | ✔︎ |
+| [2-5](#oppgave-2-5) | [Programmering av Wiggos spareplan](https://matematikkoppgaver.vercel.app/programmering-av-wiggos-spareplan/) | rekursiv sammenheng, programmering, sparing | ✔︎ |
+| [2-6](#oppgave-2-6) | [Simulering av antall terningkast for å få samme antall øyne i to kast på rad](https://matematikkoppgaver.vercel.app/simulering-av-antall-terningkast-for-a-fa-samme-antall-oyne-i-to-kast-pa-rad/) | simulering, sannsynlighet, programmering, uendelig rekke, forventningsverdi | ✔︎ |
 
 # Del 1
 
@@ -109,7 +109,7 @@ c) 14 meter
 
 ## Løsningsforslag
 
-### 1-2a
+### a
 Vi kjenner $a_{1}=-3$ og $a_{n}=69$, men vi kjenner ikke $n$. Vi bruker derfor formelen for ledd i aritmetisk følge
 $$
 \begin{aligned}
@@ -124,7 +124,7 @@ $$
 Summen av den aritmetisk rekka er dermed
 $$s_{n}=\frac{a_{1}+a_{n}}{2}\cdot n =\frac{-3+69}{2}\cdot 25=\frac{66}{2}\cdot 25=33 \cdot 25 = \underline{\underline{825}}$$
 
-### 1-2b
+### b
 Konvergensområdet er de verdiene av $x$ som tilfredsstiller $-1<k(x)<1$, der $k(x)=\frac{1}{2}-x$.
 $$
 \begin{aligned}
@@ -137,7 +137,7 @@ $$
 $$
 **Konvergensområdet for rekka er $\underline{\underline{x \in \left\langle-\frac{1}{2}, \frac{3}{2} \right\rangle}}$.**
 
-### 1-2c
+### c
 Ballen vil bevege seg på følgende måte:
 
 - $2$ m ned
@@ -206,7 +206,7 @@ c) Mellom -3 og -2,5.
 
 ## Løsningsforslag
 
-### 1-3a
+### a
 Områder som ligger over $x$-aksen vil ha identisk areal og integral. Områder som ligger under $x$-aksen vil ha motsatt fortegn på integralet og arealet. 
 
 Vi deler derfor opp integrasjonen vår i to deler, en for området over $x$-aksen (fra $x=-2$ til $x=0$), og en annen del for området under $x$-aksen (fra $x=0$ til $x=1$).
@@ -217,7 +217,7 @@ $$
 $$
 **Uttrykk 4 gir arealet markert på figuren.**
 
-### 1-3b
+### b
 Jeg finner først det ubestemte integralet
 $$
 F(x)=\int \left(   x^{3}+x^{2}-2x  \right) \, \mathrm{d}x = \frac{1}{4}x^{4}+ \frac{1}{3}x^{3}- \frac{2}{2}x^{2} +C
@@ -237,7 +237,7 @@ A&=\textcolor{seagreen}{\int_{-2}^{0} f(x) \, dx} - \textcolor{tomato}{\int_{0}^
 $$
 **Arealet er $\underline{\underline{\frac{37}{12}}}$.**
 
-### 1-3c
+### c
 Likningen til Kristian er sann når vi velger $a$ slik at vi får nøyaktig like store områder på oversiden og undersiden av $x$-aksen. 
 
 Fra figuren kan vi se at Kristians beregning ser riktig ut, området som er avgrenset av $x$-aksen og $f(x)$ fra $x=-0{,}6$ til $x=1$ ser ut til å ha omtrent like mye areal over og under $x$-aksen.
@@ -300,7 +300,7 @@ c) 1,25
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 
 Jeg forutsetter at sannsynligheten er lik for alle fire sidene av terningen.
 
@@ -312,13 +312,13 @@ Jeg forutsetter at sannsynligheten er lik for alle fire sidene av terningen.
 | $(x-\text{E}(x))^{2}$              | $\textcolor{orange}{\left( -\frac{3}{2} \right)^{2}}$ | $\textcolor{seagreen}{\left( -\frac{1}{2} \right)^{2}}$ | $\textcolor{steelblue}{\left( \frac{1}{2} \right)^{2}}$ | $\textcolor{tomato}{\left( \frac{3}{2} \right)^{2}}$ |
 | $(x-\text{E}(X))^{2} \cdot P(X=x)$ | $\textcolor{orange}{\frac{9}{16}}$ | $\textcolor{seagreen}{\frac{1}{16}}$ | $\textcolor{steelblue}{\frac{1}{16}}$ | $\textcolor{tomato}{\frac{9}{16}}$ |
 
-### 1-4b
+### b
 $$
 \text{E}(X)=\sum x \cdot P(X=x)=\textcolor{orange}{-\frac{2}{4}}+ \textcolor{seagreen}{\left( -\frac{1}{4} \right)} + \textcolor{steelblue}{0} + \textcolor{tomato}{\frac{1}{4}}=-\frac{2}{4}=-\frac{1}{2}
 $$
 **$\underline{\underline{\text{E}(X)=-\frac{1}{2}}}$. Det betyr at en spiller i gjennomsnitt vil tape 0,5 poeng per gang hen spiller i det lange løp.**
 
-### 1-4c
+### c
 $$\text{Var}(X)=\sum (x-\text{E}(X))^{2} \cdot P(X=x)$$
 Jeg har regnet ut hvert kvadratavvik i tabellen over.
 $$
@@ -365,14 +365,14 @@ b) B
 
 ## Løsningsforslag
 
-### 1-5a
+### a
 Når standardavviket er 5 cm så skal ca. 68 % av sannsynligheten ligge innenfor intervallet $\langle 165, 175 \rangle$ og normalfordelingsfunksjonen skal ha toppunktet sitt ved $170$ cm. Vendepunktene til normalfordelingsfunksjonen skal også ligge ved $x=165$ og $x=175$.
 
 Figurene A og B viser fordelinger med standardavvik som er svært mye lavere enn 5 cm. Figur D viser et standardavvik som er mye høyere enn 5 cm.
 
 **Figur C passer til beskrivelsen.**
 
-### 1-5b
+### b
 Vi lar $X$ være høyden til en tilfeldig valgt elev, og $\bar{X}$ være gjennomsnittshøyden til 25 tilfeldig valgte elever. Fra sentralgrensesetningen har vi at 
 $$
 \begin{aligned}
@@ -435,7 +435,7 @@ c) Uke 21.
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 
 ![Regresjon i GeoGebra til oppgave 1 del 2](/img/user/_resources/s2-h25-2-1a-regresjon.png){width=60%}
 
@@ -447,7 +447,7 @@ Salget starter i uke 17, så modellen er ikke gyldig før dette. I uke 24 så se
 
 **Jeg vurderer modellens gyldighetsområde til å kun være fra uke 17 til og med uke 24, altså $t \in [0,7]$.** 
 
-### 2-1b
+### b
 
 ![CAS løsning av oppgave 1 del 2](/img/user/_resources/s2-h25-2-1bc.png){width=60%}
 
@@ -455,7 +455,7 @@ Inntekten øker mest ved vendepunktet $t=3$ (etter 20 uker), se linje 2 i utklip
 
 **Inntektene vokser raskest i uke 20. De vokser da med omtrent 9486 kr per uke.**
 
-### 2-1c
+### c
 Se linje 4 i GeoGebra-utklippet. $x=4{,}3$ tilsvarer underveis i uke 21.
 
 **De samlede salgsinntektene for planten passerte 65 000 kr i uke 21.**
@@ -505,17 +505,17 @@ c) $x \in \left< 10,500 \right]$
 
 ![Løsning i CAS av oppgave 2 del 2](/img/user/_resources/s2-h25-2-2.png){width=60%}
 
-### 2-2a
+### a
 Se linje 2 i utklippet.
 
 **Grensekostnaden $K'(150)=7{,}41$. Kostnaden ved å øke produksjonen fra 150 enheter til 151 er omtrent 7,4 kroner.**
 
-### 2-2b
+### b
 Enhetskostnadene er $E(x)=\frac{K(x)}{x}$. Vi har lavest enhetskostnad når $E(x)=K'(x)$. Jeg satt opp likningen i linje 4 i utklippet og regnet ut enhetskostnaden i linje 5.
 
 **Vi har lavest enhetskostnader ved produksjon av 200 enheter. Da er enhetskostnaden 9,51 kroner.**
 
-### 2-2c
+### c
 Jeg løser ulikheten $I>K$ i linje 7. Siden definisjonsmengden til $K$ er $D_{K} \in \langle 0,500]$ så vil $I>K$ når $x \in [10,500]$.
 
 **Bedriften må produsere og selge fra og med 10 enheter til og 500 enheter for å gå med overskudd.**
@@ -555,7 +555,7 @@ b) ??
 
 ## Løsningsforslag
 
-### 2-3a
+### a
 Vi lar $p$ være sannsynligheten for at en tilfeldig valgt komponent er defekt. Bedriften som klager påstår at $p>0{,}01$. Hypotesene våre er
 $$
 \begin{aligned}
@@ -574,7 +574,7 @@ Sannsynligheten for å finne 1 eller flere defekte komponenter gitt at nullhypot
 
 **$p$-verdien er $0{,}1821$. Det er ikke grunnlag for forkaste nullhypotesen om at andelen er 1 % eller lavere. Klagen fra bedriften er ikke velbegrunnet.**
 
-### 2-3b
+### b
 
 >[!danger] Usikker løsning
 >
@@ -641,7 +641,7 @@ c) Kjøp av elbil gir høyest rentekostnad.
 
 ![Løsning av oppgave 4 del 2 i CAS](/img/user/_resources/s2-h25-2-4-cas.png){width=60%}
 
-### 2-4a
+### a
 Et annuitetslån passer godt til oppgaven siden den spør etter en geometrisk rekke som viser hvor mye Mathias må betale.
 
 I et annuitetslån må summen av nåverdiene til terminbeløpene tilsvare lånebeløpet, altså
@@ -652,14 +652,14 @@ Jeg løser denne i CAS (se linje 1).
 
 **Terminbeløpene er 53 024 kr.**
 
-### 2-4b
+### b
 Siden det er fast terminbeløp på 52 000 kr, så vil også dette lånet være et annuitetslån.
 
 Jeg setter opp likningen i CAS og løser (se linje 2). Vekstfaktoren er $1{,}0272$ (vi ser bort fra den negative løsningen da vekstfaktorer alltid er positive), dette gir $2{,}72 \,\%$ rente.
 
 **Rentesatsen er 2,72 %.**
 
-### 2-4c
+### c
 Rentekostnadene er summen av terminbeløpene minus prisen på bilene. Disse har jeg beregnet i linje 3 og 4 i utklippet.
 
 **Å kjøpe elbilen vil gi høyest rentekostnader totalt, men det er først og fremst på grunn av at elbilen er dyrere og nedbetalingstiden er lengre. Rentesatsen er lavest for elbilen.**
@@ -762,7 +762,7 @@ b) 24,5
 
 ## Løsningsforslag
 
-### 2-6a
+### a
 
 
 *I denne oppgaven er jeg veldig usikker på hva som kreves for å forklare at uttrykket i oppgaveteksten er det samme som forventningsverdien. Jeg tror ikke det er meningen at elever skal gjøre det samme som jeg har gjort her – men jeg klarer ikke helt å se en enklere måte å argumentere for at forventningsverdien er eksakt lik summen av «antall kast nødvendig».*
@@ -824,7 +824,7 @@ Til sammen blir altså $\text{E}(X)=\textcolor{seagreen}{1}+s=\textcolor{seagree
 
 **Verdien av rekka er 7.**
 
-### 2-6b
+### b
 Vi skal simulere *forventningsverdien til summen av antall øyne på alle terningene* som kastes i jakten på å få to like kast på rad.
 
 ```python

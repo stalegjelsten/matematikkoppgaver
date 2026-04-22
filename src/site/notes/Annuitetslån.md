@@ -21,7 +21,7 @@ b) Ja
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 Annuitetslån har faste terminbeløp slik at lånebeløpet er lik produktet terminfaktoren multiplisert med terminbeløpet: $L=F\cdot T$.
 Vi kan beregne terminfaktoren $F$ ved:
 
@@ -44,7 +44,7 @@ $$
 
 **Terminbeløpet er 4555,14 kr.**
 
-### 2-1b
+### b
 Jeg bruker en ferdig regnearkmodell jeg hadde liggende til å løse denne oppgaven. Fra regnearket ser jeg at restlånet *før* 25. innbetaling er 52 959,79 kr. **Dermed vil erstatningen fra forsikringsselskapet dekke restlånet** (gitt at han betaler restlånet med en gang han får erstatningen). Se utklippet under.
 
 ![Regneark for å beregne lån](/img/user/_resources/s2-v23-del2-oppg1a1.png){width=100%}

@@ -41,7 +41,7 @@ b) Eleven ønsker å finne summen av de 5 første leddene. Summen blir 50.
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 Her setter vi opp en oversikt for å se hvordan variablene i programmet utvikler seg.
 
 | `i` | `a` |  Beregning av neste `a` |
@@ -58,7 +58,7 @@ a_{n+1}=a_{n}+n+2
 $$
 **Koden skriver ut leddene i tallfølgen 2, 5, 9, 14, 20.**
 
-### 1-4b
+### b
 Eleven har lagt til en variabel `S`. `S` gir en løpende sum av verdiene til `a`, derfor vil `S` være delsummen til rekka etter `n` ledd. 
 
 **Eleven ønsker å finne delsummen til rekka etter 5 ledd, altså $2+5+9+14+20=\underline{\underline{50}}$**

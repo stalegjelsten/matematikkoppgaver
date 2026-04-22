@@ -17,7 +17,7 @@ b) $\frac{1}{3}$
 
 ## Løsningsforslag
 
-### 1-2a
+### a
 Summen av en aritmetisk rekke er gitt ved
 $$
 s_{n}=\frac{a_{1}+a_{n}}{2}\cdot n
@@ -31,7 +31,7 @@ $$
 s_{100}=\frac{3+399}{2}\cdot 100=\frac{402}{2} \cdot 100= 201\cdot 100=\underline{\underline{20\,100}}
 $$
 
-### 1-2b
+### b
 Vi vet at summen av en uendelig geometrisk rekke som konvergerer er
 $$
 s=\frac{a_{1}}{1-k} \iff 1-k=\frac{a_{1}}{s}\iff k=1-\frac{a_{1}}{s}
@@ -41,7 +41,7 @@ $$
 k=1-\frac{12}{18}=1-\frac{2}{3}=\underline{\underline{\frac{1}{3}}}
 $$
 
-### 1-2c
+### c
 Vi kan omskrive tallet som summen av en uendelig rekke med ledd på denne måten $0{,}75757575\ldots=0{,}75+0{,}0075+0{,}000075+\cdots$
 
 Hvert av disse leddene kan vi skrive om som brøker

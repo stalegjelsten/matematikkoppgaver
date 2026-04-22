@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":null,"dg-publish":true,"temaer":["lån","sparing","excel","cas"],"fag":["s2","r2"],"eksamen":"v25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":4},{"fag":"r2","del":2,"oppgave":2}],"title":"Noras sparing og lån","source":"Eksamen S2 høst 2025","todo":null,"status":3,"dg-permalink":"/noras-sparing-og-lan/","permalink":"/noras-sparing-og-lan/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":null,"temaer":["lån","sparing","excel","cas"],"fag":["s2","r2"],"eksamen":"v25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":4},{"fag":"r2","del":2,"oppgave":2}],"title":"Noras sparing og lån","source":"Eksamen S2 høst 2025","todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":null,"dg-publish":true,"temaer":["lån","sparing","excel","cas","rekker","annuitetslån"],"fag":["s2","r2"],"eksamen":"v25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":4},{"fag":"r2","del":2,"oppgave":2}],"title":"Noras sparing og lån","source":"Eksamen S2 høst 2025","todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Sparing med årlige innskudd i 30 år, annuitetslån med ukjent rente, og sparing med 6 % økende innskudd — alt løst som rekker i CAS/Excel.","deloppgaver":[{"deloppgave":"a","beskrivelse":"Løse $\\sum_{k=1}^{30} B\\cdot 1{,}025^k = 3\\,750\\,000$ for $B=83\\,333$ kr."},{"deloppgave":"b","beskrivelse":"Løse $\\sum_{i=0}^{32} 150\\,000/v^i = 3\\,000\\,000$ for $v$; rente = $v-1$."},{"deloppgave":"c","kategori":3,"vanskegrad":3,"beskrivelse":"Sammensatt rekke med 6 % voksende innskudd og renter; svar 149 581 kr — målet nås ikke."}],"dg-permalink":"/noras-sparing-og-lan/","permalink":"/noras-sparing-og-lan/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":null,"temaer":["lån","sparing","excel","cas","rekker","annuitetslån"],"fag":["s2","r2"],"eksamen":"v25","del":2,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":4},{"fag":"r2","del":2,"oppgave":2}],"title":"Noras sparing og lån","source":"Eksamen S2 høst 2025","todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Sparing med årlige innskudd i 30 år, annuitetslån med ukjent rente, og sparing med 6 % økende innskudd — alt løst som rekker i CAS/Excel.","deloppgaver":[{"deloppgave":"a","beskrivelse":"Løse $\\sum_{k=1}^{30} B\\cdot 1{,}025^k = 3\\,750\\,000$ for $B=83\\,333$ kr."},{"deloppgave":"b","beskrivelse":"Løse $\\sum_{i=0}^{32} 150\\,000/v^i = 3\\,000\\,000$ for $v$; rente = $v-1$."},{"deloppgave":"c","kategori":3,"vanskegrad":3,"beskrivelse":"Sammensatt rekke med 6 % voksende innskudd og renter; svar 149 581 kr — målet nås ikke."}]}}
 ---
 
 
@@ -39,7 +39,7 @@ c) Nei, 149 581 kr
 
 ![CAS-løsning av 2-4](/img/user/_resources/s2-v25-2-4-cas.png){width=70%}
 
-### 2-4a
+### a
 Vi kaller det ukjente beløpet $B$. Nora skal sette inn $B$ på konto 30 ganger. Det siste beløpet skal ha fått renter i 1 år, mens det første beløpet skal ha fått renter i 30 år. 
 
 For å ha 3 750 000 kr på konto etter 30 år så kan vi altså sette opp en likning med ei rekke. Likningen er løst i linje 1 i GeoGebra.
@@ -49,7 +49,7 @@ $$
 
 **Nora må sette inn 83 333 kr hvert år for å nå målet.**
 
-### 2-4b
+### b
 Vi kaller den ukjente vekstfaktoren til renta $v$. Nora skal betale inn lånet over 33 terminer med første termin 1. januar 2026. Nåverdien (NV) til terminbeløpene vil være:
 $$
 \underbrace{ \textcolor{orange}{\frac{150\,000}{v^{0}}} }_{ \text{NV til 2026-beløpet} }+\underbrace{ \textcolor{seagreen}{\frac{150\,000}{v^{1}}} }_{ \text{NV til 2027-beløpet} }+\dots+\underbrace{ \textcolor{tomato}{\frac{150\,000}{v^{32}}} }_{ \text{NV til 2058-beløpet} }=3\,000\,000
@@ -58,7 +58,7 @@ Likningen er løst i linje 2 i GeoGebra.
 
 **Nora har regnet med at den årlige rentesatsen er 3,528 %.**
 
-### 2-4c
+### c
 Sparebeløpene til Nora kan sees på som en rekke der det første beløpet er 10000 kr og får renter i 10 år, mens det siste beløpet er $10000\cdot 1{,}06^{9}$ og får renter i ett år.
 $$
 \underbrace{ \textcolor{tomato}{10000 \cdot 1{,}06^{0}\cdot 1{,}025^{10}} }_{ \text{Beløp år 0} } + \underbrace{ \textcolor{seagreen}{10000 \cdot 1{,}06^{1}\cdot 1{,}025^{9}} }_{ \text{Beløp år 1} } + \dots + \underbrace{ \textcolor{maroon}{10000 \cdot 1{,}06^{9}\cdot 1{,}025^{1}} }_{ \text{ Beløp år 9 } }

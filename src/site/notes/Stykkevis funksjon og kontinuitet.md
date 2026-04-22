@@ -20,7 +20,7 @@ b) $k = -1$, $k = -\sqrt{2}$ eller $k = \sqrt{2}$
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 
 Vi sjekker grenser fra venstre og høyre i $x = -2$:
 
@@ -32,7 +32,7 @@ Siden $\lim_{x \to -2^-} f(x) = -6 \neq 0 = \lim_{x \to -2^+} f(x)$ eksisterer i
 
 **$f$ er ikke kontinuerlig i $x = -2$.**
 
-### 2-2b
+### b
 
 For at $f$ skal være kontinuerlig i $x = k$ må:
 

@@ -39,7 +39,7 @@ c) 1,25
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 
 Jeg forutsetter at sannsynligheten er lik for alle fire sidene av terningen.
 
@@ -51,13 +51,13 @@ Jeg forutsetter at sannsynligheten er lik for alle fire sidene av terningen.
 | $(x-\text{E}(x))^{2}$              | $\textcolor{orange}{\left( -\frac{3}{2} \right)^{2}}$ | $\textcolor{seagreen}{\left( -\frac{1}{2} \right)^{2}}$ | $\textcolor{steelblue}{\left( \frac{1}{2} \right)^{2}}$ | $\textcolor{tomato}{\left( \frac{3}{2} \right)^{2}}$ |
 | $(x-\text{E}(X))^{2} \cdot P(X=x)$ | $\textcolor{orange}{\frac{9}{16}}$ | $\textcolor{seagreen}{\frac{1}{16}}$ | $\textcolor{steelblue}{\frac{1}{16}}$ | $\textcolor{tomato}{\frac{9}{16}}$ |
 
-### 1-4b
+### b
 $$
 \text{E}(X)=\sum x \cdot P(X=x)=\textcolor{orange}{-\frac{2}{4}}+ \textcolor{seagreen}{\left( -\frac{1}{4} \right)} + \textcolor{steelblue}{0} + \textcolor{tomato}{\frac{1}{4}}=-\frac{2}{4}=-\frac{1}{2}
 $$
 **$\underline{\underline{\text{E}(X)=-\frac{1}{2}}}$. Det betyr at en spiller i gjennomsnitt vil tape 0,5 poeng per gang hen spiller i det lange løp.**
 
-### 1-4c
+### c
 $$\text{Var}(X)=\sum (x-\text{E}(X))^{2} \cdot P(X=x)$$
 Jeg har regnet ut hvert kvadratavvik i tabellen over.
 $$

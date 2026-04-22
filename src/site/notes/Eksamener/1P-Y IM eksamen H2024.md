@@ -23,9 +23,9 @@ Table: {.eksamen-oversikt}
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Mediebedrift og reklamevideo](https://matematikkoppgaver.vercel.app/mediebedrift-og-reklamevideo/) | økonomi, regneark, prosentregning | × |
-| [2-2](#oppgave-2-2) | [Trine og digitale lagringsmedier](https://matematikkoppgaver.vercel.app/trine-og-digitale-lagringsmedier/) | bits og bytes, store tall | ✔︎ |
+| [2-2](#oppgave-2-2) | [Trine og digitale lagringsmedier](https://matematikkoppgaver.vercel.app/trine-og-digitale-lagringsmedier/) | bits og bytes, store tall | × |
 | [2-3](#oppgave-2-3) | [Eriks bilbruk](https://matematikkoppgaver.vercel.app/eriks-bilbruk/) | excel, økonomi, formler | ✔︎ |
-| [2-4](#oppgave-2-4) | [Reise til Gran Canaria](https://matematikkoppgaver.vercel.app/reise-til-gran-canaria/) | excel, lån, kredittkort, oversikt | ✔︎ |
+| [2-4](#oppgave-2-4) | [Reise til Gran Canaria](https://matematikkoppgaver.vercel.app/reise-til-gran-canaria/) | excel, lån, kredittkort, oversikt, systematisering | ✔︎ |
 
 # Del 1
 
@@ -60,7 +60,7 @@ b) Butikk B: $192 \, \mathrm{kr}$ (billigst)
 
 ## Løsningsforslag
 
-### 1-1a
+### a
 
 120 liter plantejord tilsvarer $120 \div 40 = 3$ sekker.
 
@@ -69,7 +69,7 @@ $$3 \cdot 59 = \underline{\underline{177 \, \mathrm{kr}}}$$
 
 **Du må betale $\underline{\underline{177 \, \mathrm{kr}}}$ for 120 liter plantejord i butikk A.**
 
-### 1-1b
+### b
 
 160 liter tilsvarer $160 \div 40 = 4$ sekker.
 
@@ -204,7 +204,6 @@ Designet består av fire lysegrå sirkelsektorer med radius 4 dm og fire mørkeg
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -239,7 +238,6 @@ Eleven stiller seg noen spørsmål:
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -289,7 +287,6 @@ Bedriften velger å beholde timelønnen på 400 kr, men prosjektet viser seg å 
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -306,15 +303,16 @@ Bedriften velger å beholde timelønnen på 400 kr, men prosjektet viser seg å 
 
 Trine undersøker utviklingen av ulike lagringsmedier for digitale data. I tabellen nedenfor vises fire ulike fysiske lagringsmedier: diskett, CD, Blu-ray og minnepenn.
 
-| Lagringsmedium | Diskett | CD | Blu-ray | Minnepenn |
-|---|---|---|---|---|
-| Lagringskapasitet | 1,44 MB | 650 MB | 46,6 GB | 1 TB |
+| **Lagringsmedium**    | Diskett |   CD   | Blu-ray | Minnepenn |
+| :---------------- | :-----: | :----: | :-----: | :-------: |
+| **Lagringskapasitet** | 1,44 MB | 650 MB | 46,6 GB |   1 TB    |
 
 Formelen for overføringshastighet er
 
 $$\text{overføringshastighet} = \frac{\text{datamengde}}{\text{tid}}$$
 
-Husk: $1 \mathrm{~B} = 8 \mathrm{~bit}$
+> [!tip] Bits og bytes
+> Husk: $1 \mathrm{~B} = 8 \mathrm{~bit}$
 
 >[!blue-box] Trine
 >Hvor mange disketter er det plass til på en CD-plate?
@@ -421,23 +419,17 @@ c) $\approx 2 \, \mathrm{min}$ lengre tid på mandagen
 
 ## Løsningsforslag
 
-### 2-3a
+### a
 
-> [!note] Excel-oppgave
-> Åpne filen `eriks-bilbruk-losning.xlsx` og ta skjermbilde av regnearket med formler.
 
-Regnearket skal inneholde disse formlene i de grønne cellene:
+![Kostnader for elbil](/img/user/_resources/1py-el-v25-2-3-erik.png){width=50%}
 
-- **Totale kostnader første år** (celle C11): `=SUM(C5:C10)`
-- **Kostnader per kjørte kilometer** (celle C12): `=C11/C2`
+- **Totale kostnader første år** (celle B11): `=SUM(B5:B10)`
+- **Kostnader per kjørte kilometer** (celle B12): `=B11/B2`
 
-Resultater:
+**Erik vil bruke 141 300 kr det første året, det tilsvarer 9,42 kr per km.**
 
-$$\text{Totale kostnader} = 64\,000 + 37\,900 + 14\,500 + 19\,100 + 3\,800 + 2\,000 = \underline{\underline{141\,300 \, \mathrm{kr}}}$$
-
-$$\text{Kostnader per km} = \frac{141\,300}{15\,000} = \underline{\underline{9{,}42 \, \mathrm{kr/km}}}$$
-
-### 2-3b
+### b
 
 Erik har en brutto månedslønn på 42 000 kr og betaler 29 % skatt:
 $$\text{Netto lønn} = 42\,000 \cdot (1 - 0{,}29) = 42\,000 \cdot 0{,}71 = 29\,820 \, \mathrm{kr/mnd}$$
@@ -445,14 +437,14 @@ $$\text{Netto lønn} = 42\,000 \cdot (1 - 0{,}29) = 42\,000 \cdot 0{,}71 = 29\,8
 Bilkostnadene per måned er:
 $$\frac{141\,300}{12} = 11\,775 \, \mathrm{kr/mnd}$$
 
-Erik har til overs hver måned:
+Etter å ha betalt for husleie og bil sitter Erik igjen med:
 $$29\,820 - 16\,000 - 11\,775 = \underline{\underline{2\,045 \, \mathrm{kr}}}$$
 
 **Erik vil ha $\underline{\underline{2\,045 \, \mathrm{kr}}}$ til overs per måned etter bil og leilighet.**
 
 Det er svært lite å leve av – bare til mat, klær og andre utgifter. Med en netto lønn på rundt 30 000 kr og faste utgifter til bil og leilighet på nesten 28 000 kr, vil de fleste mene at det ikke er fornuftig å kjøpe elbilen.
 
-### 2-3c
+### c
 
 Vi setter inn i formelen med $v_1 = 58 \, \mathrm{km/h}$, $v_2 = 65 \, \mathrm{km/h}$ og $s = 18 \, \mathrm{km}$:
 $$t = \left( \frac{1}{v_1} - \frac{1}{v_2} \right) \cdot s \cdot 60 = \left( \frac{1}{58} - \frac{1}{65} \right) \cdot 18 \cdot 60$$

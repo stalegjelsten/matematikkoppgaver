@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-25","modified":"2026-03-24","aliases":[],"dg-publish":true,"temaer":["geometri"],"fag":["2p"],"eksamen":"h25","del":1,"oppgave":5,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":5}],"title":"Trekant i sirkel","status":1,"source":null,"todo":null,"dg-permalink":"/trekant-i-sirkel/","permalink":"/trekant-i-sirkel/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-25","modified":"2026-03-24","aliases":[],"temaer":["geometri"],"fag":["2p"],"eksamen":"h25","del":1,"oppgave":5,"oppgavenummer":[{"fag":"2p","del":1,"oppgave":5}],"title":"Trekant i sirkel","status":1,"source":null,"todo":null}}
+{"aliases":[],"date":"2025-11-25","del":1,"dg-permalink":"/trekant-i-sirkel/","dg-publish":true,"eksamen":"h25","fag":["2p"],"modified":"2026-03-24","oppgave":5,"oppgavenummer":[{"del":1,"fag":"2p","oppgave":5}],"source":null,"status":1,"tags":["oppgave"],"temaer":["geometri"],"title":"Trekant i sirkel","todo":["løsningsforslag"],"permalink":"/trekant-i-sirkel/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":[],"date":"2025-11-25","del":1,"eksamen":"h25","fag":["2p"],"modified":"2026-03-24","oppgave":5,"oppgavenummer":[{"del":1,"fag":"2p","oppgave":5}],"source":null,"status":1,"tags":["oppgave"],"temaer":["geometri"],"title":"Trekant i sirkel","todo":["løsningsforslag"]}}
 ---
 
 

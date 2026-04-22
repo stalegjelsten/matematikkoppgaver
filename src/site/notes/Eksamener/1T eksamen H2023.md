@@ -280,7 +280,7 @@ c) 0,52 %
 
 ## Løsningsforslag
 
-### 2-6a
+### a
 Lengden reduseres med 10 % per linjestykke og den begynner på 100 cm. Da blir lengden av linjestykke nummer $n$:
 
 $$
@@ -298,7 +298,7 @@ Jeg bruker et regneark til å legge sammen de 8 første linjestykkene.
 > Det ville vært enklere å bruke en formel som tar forrige lengde og multipliserer med 0,9.
 
 
-### 2-6b
+### b
 
 ```python
 n = 1
@@ -317,7 +317,7 @@ Output: `Etter 22 linjestykker er lengden 901.52 cm.`
 
 **Du må ha 22 linjestykker for at lengden skal bli minst 9 meter.**
 
-### 2-6c
+### c
 
 > [!tip] Andre løsningsmetoder
 > Det er minst like enkelt å løse denne oppgaven med regnearket fra oppgave a).

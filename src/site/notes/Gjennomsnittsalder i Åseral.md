@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-12-19","aliases":[],"dg-publish":true,"temaer":["grupperte data","sentralmål"],"fag":["2p-y","2p"],"eksamen":"h25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":5},{"fag":"2p","del":2,"oppgave":5}],"title":"Gjennomsnittsalder i Åseral","source":"Eksamen 2P-Y høst 2025","todo":null,"status":3,"dg-permalink":"/gjennomsnittsalder-i-aseral/","permalink":"/gjennomsnittsalder-i-aseral/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-12-19","aliases":[],"temaer":["grupperte data","sentralmål"],"fag":["2p-y","2p"],"eksamen":"h25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":5},{"fag":"2p","del":2,"oppgave":5}],"title":"Gjennomsnittsalder i Åseral","source":"Eksamen 2P-Y høst 2025","todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-12-19","aliases":[],"dg-publish":true,"temaer":["grupperte data","sentralmål"],"fag":["2p-y","2p"],"eksamen":"h25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":5},{"fag":"2p","del":2,"oppgave":5}],"title":"Gjennomsnittsalder i Åseral","source":"Eksamen 2P-Y høst 2025","todo":null,"status":3,"kategori":3,"vanskegrad":2,"beskrivelse":"Grupperte data — diskutere nødvendige antagelser, beregne gjennomsnitt via midtpunkter, og finne prosentandel eldre enn snittet via interpolasjon i intervallet som inneholder snittet.","deloppgaver":[{"deloppgave":"a","vanskegrad":1,"beskrivelse":"Argumentere for at midtpunkt tilnærmer aldren i hvert intervall (antagelse om jevn fordeling)."},{"deloppgave":"b","kategori":2,"beskrivelse":"Vektet gjennomsnitt av midtpunkter $\\sum m_i n_i / \\sum n_i$."},{"deloppgave":"c","beskrivelse":"Interpolere andel over 42,4 år innenfor intervallet $[18, 50\\rangle$ og summere med helt overliggende intervaller."}],"dg-permalink":"/gjennomsnittsalder-i-aseral/","permalink":"/gjennomsnittsalder-i-aseral/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-12-19","aliases":[],"temaer":["grupperte data","sentralmål"],"fag":["2p-y","2p"],"eksamen":"h25","del":2,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":5},{"fag":"2p","del":2,"oppgave":5}],"title":"Gjennomsnittsalder i Åseral","source":"Eksamen 2P-Y høst 2025","todo":null,"status":3,"kategori":3,"vanskegrad":2,"beskrivelse":"Grupperte data — diskutere nødvendige antagelser, beregne gjennomsnitt via midtpunkter, og finne prosentandel eldre enn snittet via interpolasjon i intervallet som inneholder snittet.","deloppgaver":[{"deloppgave":"a","vanskegrad":1,"beskrivelse":"Argumentere for at midtpunkt tilnærmer aldren i hvert intervall (antagelse om jevn fordeling)."},{"deloppgave":"b","kategori":2,"beskrivelse":"Vektet gjennomsnitt av midtpunkter $\\sum m_i n_i / \\sum n_i$."},{"deloppgave":"c","beskrivelse":"Interpolere andel over 42,4 år innenfor intervallet $[18, 50\\rangle$ og summere med helt overliggende intervaller."}]}}
 ---
 
 
@@ -30,11 +30,11 @@ c) 42,2 %
 
 ## Løsningsforslag
 
-### 2-5a
+### a
 
 Vi må anta **jevn fordeling av aldre innenfor hvert intervall**. Dermed blir midtpunktet en god tilnærmingsverdi for av gjennomsnittsalderen i gruppen.
 
-### 2-5b
+### b
 
 
 Vi bruker midtpunktet i hvert intervall:
@@ -58,7 +58,7 @@ $$
 
 **Gjennomsnittsalderen i Åseral kommune var $\underline{\underline{42{,}4}}$ år i 2024.**
 
-### 2-5c
+### c
 Gjennomsnittsalderen er 42,4 år. Vi må finne hvor mange som var eldre enn dette.
 
 Intervallene som er helt over 42,4 år:

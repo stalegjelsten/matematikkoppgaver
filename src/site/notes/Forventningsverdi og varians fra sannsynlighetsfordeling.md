@@ -23,7 +23,7 @@ b) $Var(X)=1{,}4$
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 Summen av sannsynlighetene for alle utfallene skal være 1. Vi har dermed at 
 
 $$
@@ -42,7 +42,7 @@ $$
 
 **$k$ må være lik 0,1 og forventningsverdien $\text{E}(X)=2$**.
 
-### 1-4b
+### b
 Variansen til $X$ er gitt ved 
 
 $$

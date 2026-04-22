@@ -164,7 +164,7 @@ Vi skal løse $f(x) \leq 0$, altså $-2(x+1)(x-2)^2 \leq 0$.
 Nullpunktene er $x = -1$ og $x = 2$. Faktoren $(x-2)^2 \geq 0$ alltid, og $-2 < 0$, så fortegnet til $f(x)$ bestemmes av $(x+1)$:
 
 - For $x < -1$: $(x+1) < 0$, så $f(x) = -2 \cdot (\text{negativ}) \cdot (\text{positiv}) > 0$
-- For $x > -1$: $(x+1) > 0$, so $f(x) = -2 \cdot (\text{positiv}) \cdot (\text{positiv}) < 0$ (unntatt $x=2$ der $f=0$)
+- For $x > -1$: $(x+1) > 0$, så $f(x) = -2 \cdot (\text{positiv}) \cdot (\text{positiv}) < 0$ (unntatt $x=2$ der $f=0$)
 
 Løsningen er $\underline{\underline{x \geq -1}}$.
 
@@ -495,7 +495,7 @@ Siden $n = 100 \geq 30$ og $np(1-p) = 16 > 5$, følger det av sentralgrensesetni
 
 ### c
 
-Vi skal finne $P(X > 25)$. Med heltalskorreksjon og normalfordelingstilnærming:
+Vi skal finne $P(X > 25)$. Med halvkorreksjon og normalfordelingstilnærming:
 
 $$P(X > 25) = P(X \geq 26) \approx P\left(Z > \frac{25{,}5 - 20}{4}\right) = P(Z > 1{,}375)$$
 
@@ -505,7 +505,7 @@ $$= 1 - P(Z \leq 1{,}375) \approx 1 - 0{,}9154 = \underline{\underline{0{,}0846}
 
 Vi skal finne minste $k$ slik at $P(X \geq k) \leq 0{,}01$.
 
-Med heltalskorreksjon: $P(X \geq k) \approx P\left(Z \geq \frac{k - 0{,}5 - 20}{4}\right) \leq 0{,}01$.
+Med halvkorreksjon: $P(X \geq k) \approx P\left(Z \geq \frac{k - 0{,}5 - 20}{4}\right) \leq 0{,}01$.
 
 Dette krever
 

@@ -32,7 +32,7 @@ c) Minimumsavstand $\approx 39{,}8 \, \mathrm{m}$ — ingen kollisjon
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 
 Vi definerer posisjonsvektoren, deriverer og beregner farten ved $t = 2$ i GeoGebra CAS:
 
@@ -40,7 +40,7 @@ Vi definerer posisjonsvektoren, deriverer og beregner farten ved $t = 2$ i GeoGe
 
 **Farten til miniubåten etter 2 sekunder er $\underline{\underline{\approx 10{,}3 \, \mathrm{m/s}}}$.**
 
-### 2-1b
+### b
 
 Vi definerer $z$-koordinaten, løser $z'(t) = 0$ og evaluerer minimumsposisjonen i GeoGebra CAS:
 
@@ -50,7 +50,7 @@ CAS gir $t = 25$ og $\mathrm{dyp}(25) = -\frac{625}{2} = -312{,}5$.
 
 **Miniubåten er dypest $\underline{\underline{312{,}5 \, \mathrm{m}}}$ under havoverflaten.**
 
-### 2-1c
+### c
 
 Vi definerer begge posisjonsvektorene, beregner differansevektoren $\vec{d}(t) = \vec{r}(t) - \vec{s}(t)$ og avstandsfunksjonen $A(t) = |\vec{d}(t)|$. Så bruker vi `Min(A, 0, 60)` for å finne minimumsavstanden numerisk:
 

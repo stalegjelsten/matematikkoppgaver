@@ -104,7 +104,6 @@ $$2x^3 + 3x^2 - 11x - 6 = (2x^2 + 7x + 3) \cdot (x - 2)$$
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -125,7 +124,6 @@ $$2x^3 + 3x^2 - 11x - 6 = (2x^2 + 7x + 3) \cdot (x - 2)$$
 >Sett opp en matematisk identitet med utgangspunkt i arealet av det grønne området.
 
 ## Fasit
-
 
 </div></div>
 
@@ -160,7 +158,6 @@ print(v)
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -184,7 +181,6 @@ Figuren viser grafen til en funksjon $f$.
 >b) Løs ulikheten $f(x) > 12$
 
 ## Fasit
-
 
 </div></div>
 
@@ -217,7 +213,6 @@ Tabellen nedenfor viser hvor mange bagetter en kantine har solgt hver av de sist
 >d) Bestem den momentane vekstfarten når $x = 235$. Gi en praktisk tolkning av svaret du får.
 
 ## Fasit
-
 
 </div></div>
 
@@ -252,7 +247,6 @@ $$\sin u = 1{,}33 \cdot \sin v$$
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -277,7 +271,6 @@ Du får vite følgende om en trekant $ABC$
 >Bestem lengdene av sidene $AC$ og $BC$ eksakt.
 
 ## Fasit
-
 
 </div></div>
 
@@ -310,7 +303,6 @@ $$\ldots$$
 ![Ruter med kuler som illustrerer summer av oddetall](/img/user/_resources/1t-v24-2-4.jpeg){width=40%}
 
 ## Fasit
-
 
 </div></div>
 
@@ -367,7 +359,6 @@ Når lufttrykket er lavere enn 1000 hPa, vil kokepunktet for vann være lavere e
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -392,7 +383,6 @@ Punktet $P(1, 2)$ ligger på grafen til $f$.
 >Bestem likningen for tangenten til grafen til $f$ i punktet $P$. Husk å argumentere for at svaret ditt er riktig.
 
 ## Fasit
-
 
 </div></div>
 
@@ -423,7 +413,6 @@ Figuren ovenfor viser tre grafer som til sammen danner en lukket kurve.
 >Husk å forklare hvordan du har tenkt, og argumenter for at løsningen din er riktig.
 
 ## Fasit
-
 
 </div></div>
 

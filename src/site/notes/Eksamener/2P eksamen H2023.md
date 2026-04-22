@@ -63,14 +63,14 @@ b) 17 %
 
 ## Løsningsforslag
 
-### 1-1a
+### a
 Siden $25 \cdot 4=100$ så må $25 \cdot 16 = 400$. Da må også $25\cdot 17 =425$.
 
 Hvis Selma kjører 16 reiser så vil hun altså betale mindre ved å kjøpe enkeltbilletter til 25 kr stk. 
 
 **Hvis Selma kjører 17 reiser så lønner det seg å kjøpe fleksikort med 20 reiser.**
 
-### 1-1b
+### b
 Prisen for 20 enkeltreiser er $25 \cdot 20=500$.
 
 Hun sparer altså $500-415=85 \mathrm{~kr}$. Det tilsvarer
@@ -332,7 +332,7 @@ c) Gjennomsnittet er likt (≈ 14,5), men medianen er høyere i 2022 (14 mot 11)
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 
 Datamaterialet sortert: $11, 11, 12, 12, 13, \mathbf{14}, 15, 15, 15, 16, 25$
 
@@ -340,7 +340,7 @@ Datamaterialet sortert: $11, 11, 12, 12, 13, \mathbf{14}, 15, 15, 15, 16, 25$
 - **Variasjonsbredde:** $25 - 11 = \underline{\underline{14}}$
 - **Median:** Det 6. tallet i sortert rekkefølge (11 tall) er $\underline{\underline{14}}$
 
-### 2-2b
+### b
 
 Vi beregner i GeoGebra med listen $\{11, 11, 12, 12, 13, 14, 15, 15, 15, 16, 25\}$.
 
@@ -348,7 +348,7 @@ $$\text{Gjennomsnitt} = \frac{11+11+12+12+13+14+15+15+15+16+25}{11} = \frac{159}
 
 Standardavvik (beregnet med GeoGebra): $\underline{\underline{\sigma \approx 3{,}7}}$
 
-### 2-2c
+### c
 
 I 2021 var medianen 11, gjennomsnittet 14,5 og standardavviket 6,7. Vi kan se følgende:
 

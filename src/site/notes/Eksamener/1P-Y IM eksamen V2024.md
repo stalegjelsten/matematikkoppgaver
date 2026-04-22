@@ -25,7 +25,7 @@ Table: {.eksamen-oversikt}
 | [2-1](#oppgave-2-1) | [Sosiale medier som nyhetskilde](https://matematikkoppgaver.vercel.app/sosiale-medier-som-nyhetskilde/) | statistikk, diagram, prosentregning | × |
 | [2-2](#oppgave-2-2) | [FetLyd lydstudio og utleie](https://matematikkoppgaver.vercel.app/fet-lyd-lydstudio-og-utleie/) | økonomi, regneark, prosentregning | × |
 | [2-3](#oppgave-2-3) | [Chris lån og sparing for å ta førerkort](https://matematikkoppgaver.vercel.app/chris-lan-og-sparing-for-a-ta-forerkort/) | excel, lån, sparing, kredittkort | ✔︎ |
-| [2-4](#oppgave-2-4) | [Isak reiser Oslo til Stockholm](https://matematikkoppgaver.vercel.app/isak-reiser-oslo-til-stockholm/) | økonomi, prosentregning, modellering | ✔︎ |
+| [2-4](#oppgave-2-4) | [Isak reiser Oslo til Stockholm](https://matematikkoppgaver.vercel.app/isak-reiser-oslo-til-stockholm/) | økonomi, prosentregning, modellering, systematisering, sammensatte måleenheter | ✔︎ |
 
 # Del 1
 
@@ -65,7 +65,7 @@ b) A – størrelse 50/70 (1000 g / 20 g = 50 reker per kg)
 
 ## Løsningsforslag
 
-### 1-1a
+### a
 
 Vi deler prisen på antall kilogram:
 
@@ -75,7 +75,7 @@ $$
 
 **Prisen per kilogram er $\underline{\underline{80 \, \mathrm{kr/kg}}}$.**
 
-### 1-1b
+### b
 
 Vi finner hvor mange reker det er per kilogram når én reke veier 20 gram:
 
@@ -146,8 +146,7 @@ $$
 11 \cdot 1000 = 11\,000 \, \mathrm{kr}
 $$
 
-Siden $11\,000 \, \mathrm{kr} > 10\,500 \, \mathrm{kr}$, **klarer Oda sparemålet sitt hvis hun følger budsjettet.** Hun vil ha $\underline{\underline{500 \, \mathrm{kr}}}$ til overs.
-
+**Oda klarer sparemålet sitt hvis hun følger budsjettet. Hun vil ha $\underline{\underline{500 \, \mathrm{kr}}}$ til overs.**
 
 </div></div>
 
@@ -228,7 +227,6 @@ Eli har laget utkast til to ulike logoer.
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -272,7 +270,7 @@ b) 128 GB + iCloud+ (8 mnd) koster $11\,386 \, \mathrm{kr}$, som er $1\,304 \, \
 
 ## Løsningsforslag
 
-### 1-5a
+### a
 
 Lise fyller opp 4 GB per måned. Med 128 GB intern lagring:
 
@@ -282,7 +280,7 @@ $$
 
 **Etter $\underline{\underline{32 \, \text{måneder}}}$ er minnet fullt på 128 GB-modellen.**
 
-### 1-5b
+### b
 
 Vi beregner totalkostnaden for 40 måneder for begge alternativene.
 
@@ -372,7 +370,6 @@ Du jobber som markedsfører i et medieproduksjonsselskap, og du har fått i oppd
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -437,7 +434,6 @@ Medlemmene i klubben har en del spørsmål:
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -613,7 +609,7 @@ Isak skal reise fra Oslo til Stockholm. Han finner to alternative måter:
 
 ## Fasit
 
-Alt 1 er 544 kr billigere. Alt 2 er 2 t 49 min raskere. Gjennomsnittsfart tog ≈ 61,3 km/h. CO₂: alt 1 = 4,16 kg, alt 2 = 52,1 kg. Alt 1 har 92 % lavere utslipp.
+Alt 1 er 544 kr billigere. Alt 2 er 2 t 49 min raskere. Gjennomsnittsfart tog ≈ 61,4 km/h. CO₂: alt 1 = 4,16 kg, alt 2 = 52,1 kg. Alt 1 har 92 % lavere utslipp.
 
 ## Løsningsforslag
 
@@ -656,10 +652,10 @@ $$
 Vi bruker $v = \dfrac{s}{t}$ med $s = 416 \, \mathrm{km}$ og $t = \dfrac{407}{60} \, \mathrm{h}$:
 
 $$
-v = \frac{416}{\frac{407}{60}} = \frac{416 \cdot 60}{407} \approx 61{,}3 \, \mathrm{km/h}
+v = \frac{416}{\frac{407}{60}} = \frac{416 \cdot 60}{407} \approx 61{,}4 \, \mathrm{km/h}
 $$
 
-**Gjennomsnittsfarten til toget er $\underline{\underline{61{,}3 \, \mathrm{km/h}}}$.**
+**Gjennomsnittsfarten til toget er $\underline{\underline{61{,}4 \, \mathrm{km/h}}}$.**
 
 ---
 

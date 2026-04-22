@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["vektorer","geometri"],"fag":["r1"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":4}],"title":"Koordinater, linje og ortogonalitet","status":3,"source":null,"todo":null,"dg-permalink":"/koordinater-linje-og-ortogonalitet/","permalink":"/koordinater-linje-og-ortogonalitet/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["vektorer","geometri"],"fag":["r1"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":4}],"title":"Koordinater, linje og ortogonalitet","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"dg-publish":true,"temaer":["vektorer","geometri"],"fag":["r1"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":4}],"title":"Koordinater, linje og ortogonalitet","status":0,"source":null,"todo":null,"dg-permalink":"/koordinater-linje-og-ortogonalitet/","permalink":"/koordinater-linje-og-ortogonalitet/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-20","modified":"2026-03-25","aliases":[],"temaer":["vektorer","geometri"],"fag":["r1"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"r1","del":1,"oppgave":4}],"title":"Koordinater, linje og ortogonalitet","status":0,"source":null,"todo":null}}
 ---
 
 
@@ -28,7 +28,7 @@ c) $t = -3$
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 
 $$
 |AB| = \sqrt{(3-(-2))^2 + (2-3)^2} = \sqrt{25 + 1} = \sqrt{26}
@@ -36,7 +36,7 @@ $$
 
 **$\underline{\underline{|AB| = \sqrt{26}}}$**
 
-### 1-4b
+### b
 
 Stigningstallet til linjen gjennom $A(-2,3)$ og $B(3,2)$ er
 
@@ -50,7 +50,7 @@ For $y = 0$: $x = 13$.
 
 **$\underline{\underline{C = (13,\; 0)}}$**
 
-### 1-4c
+### c
 
 Vinkelen $\angle ABD = 90°$ betyr at $\vec{BA} \perp \vec{BD}$, altså $\vec{BA} \cdot \vec{BD} = 0$.
 

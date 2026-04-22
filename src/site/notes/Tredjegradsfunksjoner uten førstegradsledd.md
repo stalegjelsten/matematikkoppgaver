@@ -48,14 +48,14 @@ b) Det vil alltid være et stasjonært punkt på $y$-aksen for slike funksjoner.
 
 ## Løsningsforslag
 
-### 2-6a
+### a
 Jeg tegnet grafen til $f$ i GeoGebra og fant ekstremalpunktene, se $A$ og $B$ i utklippet.
 
 ![](/img/user/_resources/1t-v23-2-6a.png)
 
 **$f$ har toppunkt i $(0, 2)$ og bunnpunkt i $(2, -2)$**.
 
-### 2-6b
+### b
 Tredjegradsfunksjoner uten førstegradsledd har den generelle formen
 
 $$

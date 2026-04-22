@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["integral","trigonometri"],"fag":["r2"],"eksamen":"h24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":1}],"poeng":6,"title":"Integral med delvis integrasjon og trigonometri","status":3,"source":null,"todo":null,"dg-permalink":"/integral-med-delvis-integrasjon-og-trigonometri/","permalink":"/integral-med-delvis-integrasjon-og-trigonometri/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"temaer":["integral","trigonometri"],"fag":["r2"],"eksamen":"h24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":1}],"poeng":6,"title":"Integral med delvis integrasjon og trigonometri","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["integral","trigonometri","delvis integrasjon","substitusjon","tolkning av integraler"],"fag":["r2"],"eksamen":"h24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":1}],"poeng":6,"title":"Integral med delvis integrasjon og trigonometri","status":3,"kategori":2,"vanskegrad":3,"beskrivelse":"Delvis integrasjon (DI) på $x^2 \\ln x$; variabelskifte i trigonometrisk bestemt integral; geometrisk tolking av nullintegral.","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":2,"beskrivelse":"DI-metode med $\\ln x$ som D-ledd og $x^2$ som I-ledd; svar $\\tfrac13 x^3(\\ln x - \\tfrac13)+C$."},{"deloppgave":"b","beskrivelse":"Variabelskifte $u=\\pi t+\\pi/4$; løse $\\cos(\\pi x+\\pi/4)=\\cos(\\pi/4)$ og velge $x\\in\\langle 0,\\pi\\rangle$."},{"deloppgave":"c","kategori":3,"vanskegrad":2,"beskrivelse":"Argumentere for at nullintegral tilsvarer heltall antall perioder — like mye positivt og negativt areal."}],"source":null,"todo":null,"dg-permalink":"/integral-med-delvis-integrasjon-og-trigonometri/","permalink":"/integral-med-delvis-integrasjon-og-trigonometri/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"temaer":["integral","trigonometri","delvis integrasjon","substitusjon","tolkning av integraler"],"fag":["r2"],"eksamen":"h24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":1}],"poeng":6,"title":"Integral med delvis integrasjon og trigonometri","status":3,"kategori":2,"vanskegrad":3,"beskrivelse":"Delvis integrasjon (DI) på $x^2 \\ln x$; variabelskifte i trigonometrisk bestemt integral; geometrisk tolking av nullintegral.","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":2,"beskrivelse":"DI-metode med $\\ln x$ som D-ledd og $x^2$ som I-ledd; svar $\\tfrac13 x^3(\\ln x - \\tfrac13)+C$."},{"deloppgave":"b","beskrivelse":"Variabelskifte $u=\\pi t+\\pi/4$; løse $\\cos(\\pi x+\\pi/4)=\\cos(\\pi/4)$ og velge $x\\in\\langle 0,\\pi\\rangle$."},{"deloppgave":"c","kategori":3,"vanskegrad":2,"beskrivelse":"Argumentere for at nullintegral tilsvarer heltall antall perioder — like mye positivt og negativt areal."}],"source":null,"todo":null}}
 ---
 
 
@@ -18,7 +18,7 @@ c) Like mye positivt og negativt areal mellom 0 og $x$
 
 ## Løsningsforslag
 
-### 1-1a
+### a
 Siden vi skal regne ut integralet til produktet av to ulike funksjoner vil jeg forsøke delvis integrasjon. Jeg benytter DI-metoden, og velger at $x^{2}$ er den faktoren som skal integreres, og $\ln x$ er faktoren som skal deriveres. 
 
 |     |       D       |         I          |
@@ -37,7 +37,7 @@ $$
 \end{aligned}
 $$
 
-### 1-1b
+### b
 Vi løser først det tilhørende ubestemte integralet ved hjelp av variabelskiftet $u=\pi t+\frac{\pi}{4}$. Da er
 $$
 \frac{du}{dt}=\pi \iff dt=\frac{du}{\pi}
@@ -79,5 +79,5 @@ x&=\frac{3}{2} \quad \text{ hvis } x \in \langle 0, \pi \rangle
 $$
 **Løsningene er $\underline{\underline{x=\frac{3}{2}}}$ og $\underline{\underline{x=2}}$.**
 
-### 1-1c
+### c
 Hvis integralet av $\int_{0}^{x} f(t) \, dt$ skal være lik 0 så må vi ha nøyaktig like mye areal mellom grafen og $x$-aksen på den positive og negative siden av $x$-aksen mellom $0$ og $x$. For en sinusfunksjon så vil vi like mye areal på begge sider av $x$-aksen når funksjonen har gjennomført et heltall antall perioder fra tiden $t=0$.

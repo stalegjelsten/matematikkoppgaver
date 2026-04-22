@@ -51,7 +51,7 @@ b) $m \approx 1{,}000$
 
 ## Løsningsforslag
 
-### 1-5a
+### a
 
 $f(x) = 4x^2 \ln x$ er definert for $x > 0$.
 
@@ -71,7 +71,7 @@ $$
 
 Grafen til $f$ har ingen toppunkt.
 
-### 1-5b
+### b
 
 Eleven ønsker å finne **nullpunktet** til $f$ i intervallet $[0{,}1,\; 3]$, ved hjelp av **halveringsmetoden**.
 

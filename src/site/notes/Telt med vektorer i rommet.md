@@ -30,7 +30,7 @@ b) $T(1,\ 1,\ 4)$
 
 ## Løsningsforslag
 
-### 1-3a
+### a
 Jeg vet at arealet til et parallellogram utspent av $\vec{a}$ og $\vec{b}$ er gitt ved $\lvert \vec{a} \times \vec{b} \rvert$, derfor må arealet av  bunnen av teltet være gitt ved
 $$
 A_{\triangle}=\frac{1}{2} \left| \vec{AB} \times \vec{AC} \right|
@@ -55,7 +55,7 @@ A_{\triangle}=\frac{1}{2} \left| \vec{AB} \times \vec{AC} \right|=\frac{1}{2}\sq
 $$
 **Arealet av bunnen av teltet er $\underline{\underline{\frac{5}{2}\sqrt{ 6 }}}$.**
 
-### 1-3b
+### b
 $T$ ligger på linja $\ell$ med parameterframstillingen $T(t, t, 4t)$. Vi vet at lengden av teltstanga $CT$ er $\sqrt{17}$, altså $|\vec{CT}| = \sqrt{17}$. Vi setter opp:
 $$
 \begin{aligned}

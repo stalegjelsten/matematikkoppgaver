@@ -61,7 +61,7 @@ b) $\frac{5}{2}$
 
 ## Løsningsforslag
 
-### 1-1a
+### a
 
 $$
 \begin{aligned}
@@ -74,7 +74,7 @@ $$
 
 **Integralet er $\underline{\underline{-\frac{5}{4}}}$.** 
 
-### 1-1b
+### b
 Jeg finner først nullpunktene ved å faktorisere uttrykket.
 
 $$
@@ -172,12 +172,12 @@ b) 11
 
 ## Løsningsforslag
 
-### 1-3a
+### a
 Programmet viser en aritmetisk følge hvor hvert ledd er gitt av $a_{n}=4n-2$ for $n>0$. Programmet regner ut delsummene, $S_{n}$, til den tilhørende rekka. 
 
 **Programmet finner ut hvilket ledd i rekka som gjør at delsummen blir *over* 200.**
 
-### 1-3b
+### b
 Siden tallfølgen er aritmetisk kan vi regne ut summen av de $n$ første leddene med
 
 $$
@@ -4200,7 +4200,7 @@ b) $S_{50}=1\,625\,625$
 
 ## Løsningsforslag
 
-### 2-4a
+### a
 Jeg setter opp de første leddene og ser om jeg finner en rekursiv sammenheng som jeg kan bruke.
 
 $$
@@ -4225,7 +4225,7 @@ En eksplisitt formel for summene er
 
 $$S_{n}=\underline{\underline{\frac{1}{4}\left( n^{4}+ 2n^{3}+n^{2} \right)}}$$
 
-### 2-4b
+### b
 Jeg bruker følgende program
 
 ```python
@@ -4267,6 +4267,7 @@ Venstre side er lik høyre side. Vi har vist at formlen gjelder for $n=1$ og at 
 $$
 S_{n}=\frac{1}{4}\left( n^{4}+ 2n^{3}+n^{2} \right)
 $$
+
 
 </div></div>
 

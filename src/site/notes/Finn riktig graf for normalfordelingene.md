@@ -29,14 +29,14 @@ b) B
 
 ## Løsningsforslag
 
-### 1-5a
+### a
 Når standardavviket er 5 cm så skal ca. 68 % av sannsynligheten ligge innenfor intervallet $\langle 165, 175 \rangle$ og normalfordelingsfunksjonen skal ha toppunktet sitt ved $170$ cm. Vendepunktene til normalfordelingsfunksjonen skal også ligge ved $x=165$ og $x=175$.
 
 Figurene A og B viser fordelinger med standardavvik som er svært mye lavere enn 5 cm. Figur D viser et standardavvik som er mye høyere enn 5 cm.
 
 **Figur C passer til beskrivelsen.**
 
-### 1-5b
+### b
 Vi lar $X$ være høyden til en tilfeldig valgt elev, og $\bar{X}$ være gjennomsnittshøyden til 25 tilfeldig valgte elever. Fra sentralgrensesetningen har vi at 
 $$
 \begin{aligned}

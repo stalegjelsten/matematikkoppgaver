@@ -29,7 +29,7 @@ b) 650 enheter
 
 ## Løsningsforslag
 
-### 1-5a
+### a
 Vi kan finne grensekostnaden ved å derivere kostnadsfunksjonen
 $$
 K'(x)=2 \cdot 0{,}3x+10=0{,}6x+10
@@ -54,7 +54,7 @@ Vi ser bort fra den negative løsningen av likningen siden vi snakker om produks
 
 **Grensekostnaden er lik enhetskostnaden ved produksjon av 100 enheter. Dette er også den produksjonsmengden som gir de laveste enhetskostnadene.**
 
-### 1-5b
+### b
 Inntektene fra salget er gitt ved
 $$
 I(x)=\text{pris} \cdot x =400x \implies I'(x)=400

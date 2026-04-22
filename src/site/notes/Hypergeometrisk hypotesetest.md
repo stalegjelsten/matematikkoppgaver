@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-12-14","modified":"2024-12-14","aliases":null,"dg-publish":true,"temaer":["hypotesetest","hypergeometrisk"],"fag":["s2"],"eksamen":"h24","del":2,"oppgave":"2","oppgavenummer":[{"fag":"s2","del":2,"oppgave":2}],"title":"Hypergeometrisk hypotesetest","source":null,"todo":null,"status":3,"dg-permalink":"/hypergeometrisk-hypotesetest/","permalink":"/hypergeometrisk-hypotesetest/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-12-14","modified":"2024-12-14","aliases":null,"temaer":["hypotesetest","hypergeometrisk"],"fag":["s2"],"eksamen":"h24","del":2,"oppgave":"2","oppgavenummer":[{"fag":"s2","del":2,"oppgave":2}],"title":"Hypergeometrisk hypotesetest","source":null,"todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2024-12-14","modified":"2024-12-14","aliases":null,"dg-publish":true,"temaer":["hypotesetest","hypergeometrisk","sannsynlighet"],"fag":["s2"],"eksamen":"h24","del":2,"oppgave":"2","oppgavenummer":[{"fag":"s2","del":2,"oppgave":2}],"title":"Hypergeometrisk hypotesetest","source":null,"todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Hypergeometrisk hypotesetest om kjønnsbias i intervjuutvalg; $p=0{,}038<0{,}05$ forkaster $H_0$.","deloppgaver":[{"deloppgave":"a","vanskegrad":1,"beskrivelse":"Formulere $H_0:p_m=0{,}4$, $H_A:p_m>0{,}4$; begrunne hypergeometrisk (uten tilbakelegging)."},{"deloppgave":"b","beskrivelse":"Beregne $P(X\\ge 12)=0{,}038$ i GeoGebra sannsynlighetskalkulator."}],"dg-permalink":"/hypergeometrisk-hypotesetest/","permalink":"/hypergeometrisk-hypotesetest/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-12-14","modified":"2024-12-14","aliases":null,"temaer":["hypotesetest","hypergeometrisk","sannsynlighet"],"fag":["s2"],"eksamen":"h24","del":2,"oppgave":"2","oppgavenummer":[{"fag":"s2","del":2,"oppgave":2}],"title":"Hypergeometrisk hypotesetest","source":null,"todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Hypergeometrisk hypotesetest om kjønnsbias i intervjuutvalg; $p=0{,}038<0{,}05$ forkaster $H_0$.","deloppgaver":[{"deloppgave":"a","vanskegrad":1,"beskrivelse":"Formulere $H_0:p_m=0{,}4$, $H_A:p_m>0{,}4$; begrunne hypergeometrisk (uten tilbakelegging)."},{"deloppgave":"b","beskrivelse":"Beregne $P(X\\ge 12)=0{,}038$ i GeoGebra sannsynlighetskalkulator."}]}}
 ---
 
 
@@ -22,7 +22,7 @@ b) Ja, vi kan forkaste $H_{0}$ siden $p=0{,}038$.
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 Vi har en situasjon hvor vi har to ulike grupper og vi tenker oss at vi skal trekke 20 kandidater tilfeldig blant disse. Vi kan selvsagt ikke trekke den samme kandidaten til intervju 2 ganger, så dette blir en trekning uten tilbakelegging. Derfor passer en hypergeometrisk sannsynnlighetsfordeling godt i dette tilfellet.
 
 Hvis trekningen hadde vært tilfeldig burde sannsynligheten for å trekke en mann på første trekning være $p_{m}=\frac{40}{100}=0{,}4$. Altså kan vi sette opp følgende hypoteser
@@ -38,7 +38,7 @@ $$
 >Vi kan selvsagt bruke andelen kvinner som utgangspunkt for hypotesene våre. Ved tilfeldig trekning burde sannsynligheten for kvinne på første trekning være $p_{k}=0{,}6$. Dette gir hypotesene
 >$$H_{0}: \quad p_{k}=0{,}6 \quad \text{mot} \quad H_{1}: \quad p_{k}<0{,}6$$
 
-### 2-2b
+### b
 
 ![Hypergeometrisk hypotesetest i GeoGebra til oppgave 2-2](/img/user/_resources/s2-h24-2-2-hypotesetest.png){width=70%}
 

@@ -96,7 +96,7 @@ c) Hvis $\cos \phi$ øker så øker effektfaktoren. Mer av effekten brukes til d
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 
 Vi bruker formelen $S = U \cdot I$:
 
@@ -112,7 +112,7 @@ $$
 
 **Tilsynelatende effekt er $\underline{\underline{S = 2760 \, \mathrm{VA}}}$ og fasevinkelen er $\underline{\underline{\phi = 35°}}$.**
 
-### 2-1b
+### b
 
 Vi har $S = 2760 \, \mathrm{VA}$, $Q = 1583 \, \mathrm{VAr}$ og $\cos \phi = 0{,}8192$.
 
@@ -134,7 +134,7 @@ Begge metodene gir samme svar.
 
 **Den aktive effekten er $\underline{\underline{P \approx 2261 \, \mathrm{W}}}$.**
 
-### 2-1c
+### c
 
 Tilsynelatende effekt $S$ er den samme, men $\cos \phi$ er større (fasevinkelen $\phi$ er mindre).
 

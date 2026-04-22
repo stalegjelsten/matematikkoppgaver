@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-01-30","modified":"2024-01-31","aliases":[],"dg-publish":true,"temaer":["normalfordeling","hypotesetest"],"fag":["s2"],"eksamen":"h23","del":2,"oppgave":"3","oppgavenummer":[{"fag":"s2","del":2,"oppgave":3}],"title":"Normalfordelte vinterdekk","source":null,"todo":null,"status":3,"dg-permalink":"/normalfordelte-vinterdekk/","permalink":"/normalfordelte-vinterdekk/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-01-30","modified":"2024-01-31","aliases":[],"temaer":["normalfordeling","hypotesetest"],"fag":["s2"],"eksamen":"h23","del":2,"oppgave":"3","oppgavenummer":[{"fag":"s2","del":2,"oppgave":3}],"title":"Normalfordelte vinterdekk","source":null,"todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2024-01-30","modified":"2024-01-31","aliases":[],"dg-publish":true,"temaer":["normalfordeling","hypotesetest","sentralgrenseteoremet","sannsynlighet"],"fag":["s2"],"eksamen":"h23","del":2,"oppgave":"3","oppgavenummer":[{"fag":"s2","del":2,"oppgave":3}],"title":"Normalfordelte vinterdekk","source":null,"todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Normalfordeling for bremselengder; sannsynligheter, kritisk verdi, sentralgrenseteoremet for gjennomsnitt, og hypotesetest.","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":1,"beskrivelse":"Beregne $P(X>87)=0{,}091$ i sannsynlighetsvinduet."},{"deloppgave":"b","vanskegrad":1,"beskrivelse":"Løse $P(X<k)=0{,}9$ for $k=86{,}84$ og tolke praktisk."},{"deloppgave":"c","beskrivelse":"Sentralgrenseteoremet: $\\bar{X} \\sim N(83, 3/\\sqrt{15})$; beregne $P(\\bar{X}<84)$."},{"deloppgave":"d","beskrivelse":"Hypotesetest $H_A: \\mu>83$ med $\\bar{x}=84{,}18$; $p=0{,}064$ gir ikke forkast."}],"dg-permalink":"/normalfordelte-vinterdekk/","permalink":"/normalfordelte-vinterdekk/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-01-30","modified":"2024-01-31","aliases":[],"temaer":["normalfordeling","hypotesetest","sentralgrenseteoremet","sannsynlighet"],"fag":["s2"],"eksamen":"h23","del":2,"oppgave":"3","oppgavenummer":[{"fag":"s2","del":2,"oppgave":3}],"title":"Normalfordelte vinterdekk","source":null,"todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Normalfordeling for bremselengder; sannsynligheter, kritisk verdi, sentralgrenseteoremet for gjennomsnitt, og hypotesetest.","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":1,"beskrivelse":"Beregne $P(X>87)=0{,}091$ i sannsynlighetsvinduet."},{"deloppgave":"b","vanskegrad":1,"beskrivelse":"Løse $P(X<k)=0{,}9$ for $k=86{,}84$ og tolke praktisk."},{"deloppgave":"c","beskrivelse":"Sentralgrenseteoremet: $\\bar{X} \\sim N(83, 3/\\sqrt{15})$; beregne $P(\\bar{X}<84)$."},{"deloppgave":"d","beskrivelse":"Hypotesetest $H_A: \\mu>83$ med $\\bar{x}=84{,}18$; $p=0{,}064$ gir ikke forkast."}]}}
 ---
 
 
@@ -30,24 +30,28 @@ Det ble gjennomført 15 målinger. Resultatet av målingene (i meter) er gitt i 
 
 ## Fasit
 
+a) $P(X>87) \approx 0{,}091$
+b) $k \approx 86{,}84 \mathrm{~m}$. Dekkprodusenten påstår at man stopper innen 86,84 m i 90 % av tilfellene.
+c) $P(\bar{X}<84) \approx 0{,}902$
+d) Vi kan ikke forkaste $H_{0}$. Det er ikke hold i mistanken om at bremselengden er lengre enn 83 m med signifikansnivå 5 %.
 
 ## Løsningsforslag
 
-### 2-3a
+### a
 Jeg bestemmer $P(X>87)$ ved hjelp av sannsynlighetsvinduet i GeoGebra. 
 
 ![Sannsynlighet til oppgave 2-3a](/img/user/_resources/s2-h23-2-3a.png){width=50%}
 
 **Sannsynligheten for at bremselengden til en tilfeldig valgt bil er over 87 meter er 0,09121.**
 
-### 2-3b
+### b
 Jeg brukte sannsynlighetsvinduet i GeoGebra. Der valgte jeg sannsynlighet for at $X<k$ og skrev inn 0,9 i sannsynlighetsfeltet.
 
 ![Sannsynlighet til oppgave 2-3b](/img/user/_resources/s2-h23-2-3b.png){width=50%}
 
 **$\underline{\underline{k=86{,}84}}$. Det betyr at dekkprodusenten påstår at man klarer å stoppe innen 86,84 meter i 90 % av tilfellene.**
 
-### 2-3c
+### c
 Jeg lar $\bar{X}$ være gjennomsnittet av 15 målinger. Da er $\bar{X}$ normalfordelt med $\mu=83$ og $SD(\bar{X})=\frac{\sigma}{\sqrt{ n }}=\frac{3}{\sqrt{ 15 }}=0{,}7746$.
 
 Jeg bruker sannsynlighetsvinduet i GeoGebra til å bestemme sannsynligheten $P(\bar{X}<84)=0{,}90165\approx0{,}902$.
@@ -56,7 +60,7 @@ Jeg bruker sannsynlighetsvinduet i GeoGebra til å bestemme sannsynligheten $P(\
 
 **Sannsynligheten for at gjennomsnittet av 15 målinger er under 84 meter er 0,902.**
 
-### 2-3d
+### d
 Gjennomsnittet av observasjonene i tabellen i oppgaven er 84,18.
 
 Jeg setter opp en hypotesetest hvor:  

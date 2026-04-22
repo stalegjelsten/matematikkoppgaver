@@ -23,14 +23,14 @@ b) Se løsningsforslag for programkode.
 
 ## Løsningsforslag
 
-### 2-4a
+### a
 Jeg ser at differansen mellom antall kuler i figurene øker med 5, 10, 15, 20. La oss kalle denne differansen for $d$. Vi kan si at $P_{2}=P_{1}+5=P_{1}+d$ og $P_{3}=P_{2}+2d$. Vi ser dermed et mønster og kan sette opp følgende sammenheng for $n\geq 2$: 
 
 $$
 P_{n}=P_{n-1}+(n-1)\cdot d
 $$
 
-### 2-4b
+### b
 ```python
 a = 1
 d = 5

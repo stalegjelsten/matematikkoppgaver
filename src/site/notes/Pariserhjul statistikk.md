@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-11-14","aliases":[],"dg-publish":true,"temaer":["statistikk","gjennomsnitt","median","kumulativ frekvens"],"fag":["2p-y","2p"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":4},{"fag":"2p","del":1,"oppgave":4}],"title":"Pariserhjul statistikk 2P-Y H25","source":"Eksamen 2P-Y høst 2025","todo":null,"status":3,"dg-permalink":"/pariserhjul-statistikk/","permalink":"/pariserhjul-statistikk/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-11-14","aliases":[],"temaer":["statistikk","gjennomsnitt","median","kumulativ frekvens"],"fag":["2p-y","2p"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":4},{"fag":"2p","del":1,"oppgave":4}],"title":"Pariserhjul statistikk 2P-Y H25","source":"Eksamen 2P-Y høst 2025","todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-11-14","aliases":[],"dg-publish":true,"temaer":["statistikk","gjennomsnitt","median","kumulativ frekvens"],"fag":["2p-y","2p"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":4},{"fag":"2p","del":1,"oppgave":4}],"title":"Pariserhjul statistikk 2P-Y H25","source":"Eksamen 2P-Y høst 2025","todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Fra frekvenstabell vise antall tomme vogner, beregne gjennomsnitt og median, og tolke kumulativ frekvens.","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":1,"beskrivelse":"Vise at $20-(2+3+4+6)=5$ vogner var tomme."}],"dg-permalink":"/pariserhjul-statistikk/","permalink":"/pariserhjul-statistikk/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-14","modified":"2025-11-14","aliases":[],"temaer":["statistikk","gjennomsnitt","median","kumulativ frekvens"],"fag":["2p-y","2p"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":4},{"fag":"2p","del":1,"oppgave":4}],"title":"Pariserhjul statistikk 2P-Y H25","source":"Eksamen 2P-Y høst 2025","todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Fra frekvenstabell vise antall tomme vogner, beregne gjennomsnitt og median, og tolke kumulativ frekvens.","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":1,"beskrivelse":"Vise at $20-(2+3+4+6)=5$ vogner var tomme."}]}}
 ---
 
 
@@ -33,7 +33,7 @@ c) Kumulativ frekvens: 10. Det var 10 vogner med 2 eller færre personer i.
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 
 Vi vet at det er 20 vogner totalt. Fra tabellen kan vi finne hvor mange vogner som hadde personer i seg:
 
@@ -49,7 +49,7 @@ $$\text{Tomme vogner} = 20 - 15 = 5$$
 
 **Dette viser at Stines påstand er riktig - det var $\underline{\underline{5}}$ tomme vogner.**
 
-### 4b
+### b
 
 Vi skal finne gjennomsnittet og medianen for antallet personer i hver vogn.
 
@@ -83,7 +83,7 @@ $$\text{Median} = \frac{\textcolor{steelblue}{2} + \textcolor{seagreen}{3}}{2} =
 
 **Gjennomsnittet er $\underline{\underline{2{,}2}}$ personer per vogn, og medianen er $\underline{\underline{2{,}5}}$ personer per vogn.**
 
-### 4c
+### c
 
 Kumulativ frekvens forteller oss hvor mange vogner som har to personer eller færre.
 
