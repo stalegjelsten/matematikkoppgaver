@@ -30,14 +30,14 @@ c) $\approx 0{,}03684 \, \mathrm{t}$ (≈ 2 min 13 s)
 
 ![Løsning av oppgave 4 del 2 i CAS](/img/user/_resources/r2-h24-2-4.png)
 
-### 2-4a
+### a
 Vi ser at likevektslinja er ved 54 km/t, og at sinusfunksjonen har amplituden 6 km/t, samt at den er faseforskjøvet slik vi er allerede har toppfarten 60 km/t ved tiden $t=0$. Dermed kan vi konkludere med at gjennomsnittsfarten må være 54 km/t i det vi kommer til fartens første bunnpunkt. Ut fra grafen i GeoGebra ser vi at dette er etter 0,00873 timer.
 
 Vi kan også finne gjennomsnittet av funksjonen slik vi har gjort i linje 2 i CAS i GeoGebra. 
 
 **Gjennomsnittsfarten var 54 km/t for første gang etter 0,00873 timer eller 31 sekunder.**
 
-### 2-4b
+### b
 Bilen har størst akselerasjon i vendepunktene. Alle vendepunktene ligger langs likevektslinja $y=54$, og vi kan også finne dem ved å løse $v''(t)=54$, se linje 3 i CAS.
 
 Perioden til funksjonen er 0,01745 timer eller 63 sekunder, se linja mellom $B$ og $D$ i figuren.
@@ -46,7 +46,7 @@ Perioden til funksjonen er 0,01745 timer eller 63 sekunder, se linja mellom $B$ 
 
 **Akselerasjonen har sin største positive verdi etter 0,01309 timer eller 47 sekunder, og deretter hvert 63 sekund etter dette.** Se punkt $D$ i figuren.
 
-### 2-4c
+### c
 Vi kan sette opp likningen (se linje 5 i CAS)
 $$
 \int_{0}^{x} v(t) \, dt =2 \implies x=0{,}03684

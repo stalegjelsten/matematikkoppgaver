@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-24","aliases":[],"dg-publish":true,"temaer":["lineær vekst","tolke grafer","likningssystem"],"fag":["1p"],"eksamen":"h25","del":1,"oppgave":5,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":5}],"title":"Lønn og timelønn fra grafer","status":3,"source":null,"todo":null,"dg-permalink":"/lonn-og-timelonn-fra-grafer/","lf-source-claude":true,"permalink":"/lonn-og-timelonn-fra-grafer/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-24","aliases":[],"temaer":["lineær vekst","tolke grafer","likningssystem"],"fag":["1p"],"eksamen":"h25","del":1,"oppgave":5,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":5}],"title":"Lønn og timelønn fra grafer","status":3,"source":null,"todo":null,"lf-source-claude":true}}
+{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-24","aliases":[],"dg-publish":true,"temaer":["lineær vekst","tolke grafer","likningssystem"],"kategori":1,"vanskegrad":1,"beskrivelse":"Lese av stigningstall (timelønn) fra to proporsjonale grafer; lineær likning for å finne antall timer når differansen i lønn er kjent.","deloppgaver":[{"deloppgave":"b","kategori":2,"beskrivelse":"Likning $200t - 180t = 720$ ut fra forskjellen i timelønn."}],"fag":["1p"],"eksamen":"h25","del":1,"oppgave":5,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":5}],"title":"Lønn og timelønn fra grafer","status":3,"source":null,"todo":null,"dg-permalink":"/lonn-og-timelonn-fra-grafer/","lf-source-claude":true,"permalink":"/lonn-og-timelonn-fra-grafer/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-24","aliases":[],"temaer":["lineær vekst","tolke grafer","likningssystem"],"kategori":1,"vanskegrad":1,"beskrivelse":"Lese av stigningstall (timelønn) fra to proporsjonale grafer; lineær likning for å finne antall timer når differansen i lønn er kjent.","deloppgaver":[{"deloppgave":"b","kategori":2,"beskrivelse":"Likning $200t - 180t = 720$ ut fra forskjellen i timelønn."}],"fag":["1p"],"eksamen":"h25","del":1,"oppgave":5,"oppgavenummer":[{"fag":"1p","del":1,"oppgave":5}],"title":"Lønn og timelønn fra grafer","status":3,"source":null,"todo":null,"lf-source-claude":true}}
 ---
 
 
@@ -26,7 +26,7 @@ b) $36 \, \mathrm{timer}$
 
 ## Løsningsforslag
 
-### 1-5a
+### a
 
 Fra grafen leser vi av stigningstallet til hver linje. Begge linjer går gjennom origo.
 
@@ -40,7 +40,7 @@ $$\text{Timelønnen til Nils} = \frac{1800}{10} = 180 \, \mathrm{kr/t}$$
 
 **Noras timelønn er $\underline{\underline{200 \, \mathrm{kr/t}}}$ og Nils' timelønn er $\underline{\underline{180 \, \mathrm{kr/t}}}$.**
 
-### 1-5b
+### b
 
 La $t$ være antall timer de arbeidet. Da tjente Nora $200t$ kroner og Nils $180t$ kroner.
 

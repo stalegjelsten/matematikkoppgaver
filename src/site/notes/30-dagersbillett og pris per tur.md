@@ -32,7 +32,7 @@ c) $\geq 16$ turer
 
 ## Løsningsforslag
 
-### 1-6a
+### a
 
 Prisen per busstur er $\dfrac{1200}{x}$ der $x$ er antall turer.
 
@@ -40,13 +40,13 @@ Prisen per busstur er $\dfrac{1200}{x}$ der $x$ er antall turer.
 | :---: | :---: | :---: | :---: | :---: |
 | Pris per busstur | $300 \, \mathrm{kr}$ | $150 \, \mathrm{kr}$ | $60 \, \mathrm{kr}$ | $40 \, \mathrm{kr}$ |
 
-### 1-6b
+### b
 
 Grafen nedenfor viser sammenhengen mellom antall bussturer og prisen per busstur. Funksjonen er $f(x) = \dfrac{1200}{x}$.
 
 ![Graf: pris per tur](/img/user/_resources/1p-h25-1-6-graf.png){width=70%}
 
-### 1-6c
+### c
 
 En enkeltbillett koster 80 kroner. Vi tegner en horisontal linje ved $y = 80$ i samme koordinatsystem og finner skjæringen med $f$, se punkt $P$ i skjermbildet.
 

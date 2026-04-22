@@ -116,13 +116,13 @@ c) Størst for motor 2 med 36,9º
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 Siden $\cos \phi =0{,}8$ så må $\phi = \cos ^{-1}(0{,}8)=\underline{\underline{ 36{,}9 \degree }}$.
 
 Den tilførte effekten er
 $$P_{t}=U \cdot I \cdot \cos \phi \cdot \sqrt{ 3 } = 230 \cdot 7{,}5 \cdot 0{,}8 \cdot \sqrt{ 3 } = \underline{\underline{ 2390 \, \mathrm{W} }}$$
 
-### 2-1b
+### b
 Siden $\cos \phi = \frac{P}{S}$ så er
 $$\cos \phi = \frac{2500}{3000}=0{,}8333$$
 Vi finner vinkelen ved å ta
@@ -130,7 +130,7 @@ $$\phi = \cos ^{-1}(0{,}8333)=\underline{\underline{ 33{,}6 \degree }}$$
 Den reaktive effekten er en av katetene i effekttrekanten, så vi kan bruke Pytagoras for å finne den
 $$Q=\sqrt{ S^{2} - P_{t}^{2} }= \sqrt{ 3000^{2} - 2500^{2} }= \underline{\underline{ 1658 \, \mathrm{VAr} }}$$
 
-### 2-1c
+### c
 For å finne fasevinkelen trenger vi (for eksempel) $S$ og $P_{t}$. I tabellen finner vi verdier for $S$ og for $\eta$ og $P_{a}$. Vi er nødt til å bruke $\eta$ og $P_{a}$ for å beregne $P_{t}$ for motorene.
 
 $$\eta = \frac{P_{a}}{P_{t}} \iff P_{t}= \frac{P_{a}}{\eta}$$

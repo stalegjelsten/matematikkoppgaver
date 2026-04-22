@@ -18,7 +18,7 @@ b) 1401 billetter
 
 ## Løsningsforslag
 
-### 2-5a
+### a
 Vi kan regne med en binomisk sannsynlighetsfordeling her med $n=1300$ og $p=0{,}45$ siden
 - billettmottakerne har to muligheter: de kommer på kamp, eller de kommer ikke på kamp
 - det er samme sannsynlighet for hver billettmottaker
@@ -35,7 +35,7 @@ print(f"P(X >= 600) = {P:.4f}")
 
 **Sannsynligheten for at minst 600 mennesker kommer er 20,9 %.**
 
-### 2-5b
+### b
 ```python
 from scipy.stats import binom
 n = 1299

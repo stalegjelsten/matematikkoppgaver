@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["vektorer","geometri"],"fag":["r2"],"eksamen":"h25","del":1,"oppgave":7,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":7}],"title":"Kuleflate og tangentplan","status":3,"source":null,"todo":null,"dg-permalink":"/kuleflate-og-tangentplan/","permalink":"/kuleflate-og-tangentplan/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"temaer":["vektorer","geometri"],"fag":["r2"],"eksamen":"h25","del":1,"oppgave":7,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":7}],"title":"Kuleflate og tangentplan","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["vektorer","geometri"],"fag":["r2"],"eksamen":"h25","del":1,"oppgave":7,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":7}],"title":"Kuleflate og tangentplan","status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Kuleflate via kvadratfullføring, tangentplan via normalvektor $\\overrightarrow{MP}$, og sjekke skjæring plan–kule via avstandsformelen.","deloppgaver":[{"deloppgave":"a","kategori":1,"beskrivelse":"Fullføre kvadratene i $x^2+y^2+z^2-4x+2z=4$ for å lese av sentrum og radius."},{"deloppgave":"b","beskrivelse":"Normalvektor $\\overrightarrow{MP}=(2,0,0)$ gir planlikning $x=3$ gjennom $P$."},{"deloppgave":"c","beskrivelse":"Avstand $d=3/\\sqrt{14}$ fra $M$ til $\\beta$ mindre enn $r=2$, så $\\beta$ skjærer $K$."}],"source":null,"todo":null,"dg-permalink":"/kuleflate-og-tangentplan/","permalink":"/kuleflate-og-tangentplan/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"temaer":["vektorer","geometri"],"fag":["r2"],"eksamen":"h25","del":1,"oppgave":7,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":7}],"title":"Kuleflate og tangentplan","status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Kuleflate via kvadratfullføring, tangentplan via normalvektor $\\overrightarrow{MP}$, og sjekke skjæring plan–kule via avstandsformelen.","deloppgaver":[{"deloppgave":"a","kategori":1,"beskrivelse":"Fullføre kvadratene i $x^2+y^2+z^2-4x+2z=4$ for å lese av sentrum og radius."},{"deloppgave":"b","beskrivelse":"Normalvektor $\\overrightarrow{MP}=(2,0,0)$ gir planlikning $x=3$ gjennom $P$."},{"deloppgave":"c","beskrivelse":"Avstand $d=3/\\sqrt{14}$ fra $M$ til $\\beta$ mindre enn $r=2$, så $\\beta$ skjærer $K$."}],"source":null,"todo":null}}
 ---
 
 
@@ -34,7 +34,7 @@ c) Ja, planet skjærer kuleflaten
 
 ## Løsningsforslag
 
-### 1-7a
+### a
 
 Vi fullfører kvadratene i ligningen $x^2 + y^2 + z^2 - 4x + 2z = 4$:
 
@@ -47,7 +47,7 @@ $$
 
 **Sentrum er $\underline{\underline{(2,\, 0,\, -1)}}$ og radius er $\underline{\underline{r = 3}}$.**
 
-### 1-7b
+### b
 
 Kule $K$ har sentrum $M(1, -1, 3)$ og radius $2$. Vi sjekker at $P(3,-1,3)$ ligger på kula:
 
@@ -61,7 +61,7 @@ $$2(x-3) = 0 \implies x = 3$$
 
 **En likning for plan $\alpha$ er $\underline{\underline{x = 3}}$.**
 
-### 1-7c
+### c
 
 Avstand fra sentrum $M(1,-1,3)$ til planet $\beta\colon 3x + y - 2z + 1 = 0$:
 

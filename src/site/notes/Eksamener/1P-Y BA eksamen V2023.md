@@ -24,8 +24,8 @@ Table: {.eksamen-oversikt}
 | [2-1](#oppgave-2-1) | [Endevegg hus areal og takvinkel](https://matematikkoppgaver.vercel.app/endevegg-hus-areal-og-takvinkel/) | areal, trigonometri | × |
 | [2-2](#oppgave-2-2) | [Terrassebygning og pristilbud](https://matematikkoppgaver.vercel.app/terrassebygning-og-pristilbud/) | regneark, anbud, økonomi | × |
 | [2-3](#oppgave-2-3) | [Lærlinglønn i fire halvår](https://matematikkoppgaver.vercel.app/laerlinglonn-i-fire-halvar/) | prosentregning, økonomi | × |
-| [2-4](#oppgave-2-4) | [Ludvigs dusjregnskap](https://matematikkoppgaver.vercel.app/ludvigs-dusjregnskap/) | excel | ✔︎ |
-| [2-5](#oppgave-2-5) | [Martines studielån](https://matematikkoppgaver.vercel.app/martines-studielan/) | lån, excel | ✔︎ |
+| [2-4](#oppgave-2-4) | [Ludvigs dusjregnskap](https://matematikkoppgaver.vercel.app/ludvigs-dusjregnskap/) | excel, økonomi | ✔︎ |
+| [2-5](#oppgave-2-5) | [Martines studielån](https://matematikkoppgaver.vercel.app/martines-studielan/) | lån, excel, prosentregning | ✔︎ |
 
 # Del 1
 
@@ -248,7 +248,6 @@ Nora får oppgitt at målestokken på tegningen er $1:50$. Hun måler veggen med
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -279,7 +278,6 @@ Tegningen over viser endeveggen på et hus. Tallene i tegningen er lengder oppgi
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -325,7 +323,6 @@ Ungdomsbedriften *Best* har også gitt et pristilbud for å bygge alle 15 terras
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -362,7 +359,6 @@ En lærling jobber omtrent $1650$ timer i løpet av ett år.
 
 
 ## Løsningsforslag
-
 
 </div></div>
 

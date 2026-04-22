@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["vektorer","derivasjon"],"fag":["r2"],"eksamen":"h24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":1}],"poeng":6,"title":"Ball i bevegelse med posisjonsvektor","status":3,"source":null,"todo":null,"dg-permalink":"/ball-i-bevegelse-med-posisjonsvektor/","permalink":"/ball-i-bevegelse-med-posisjonsvektor/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"temaer":["vektorer","derivasjon"],"fag":["r2"],"eksamen":"h24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":1}],"poeng":6,"title":"Ball i bevegelse med posisjonsvektor","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["vektorer","derivasjon"],"fag":["r2"],"eksamen":"h24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":1}],"poeng":6,"title":"Ball i bevegelse med posisjonsvektor","status":3,"source":null,"todo":null,"kategori":2,"vanskegrad":2,"beskrivelse":"Posisjonsvektor i 3D; fartsvektoren som derivert; finne tidspunkt der $|\\vec{v}(t)|$ er konstant via CAS.","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":1,"beskrivelse":"Lese av takhøyde fra $z$-komponenten ved $t=0$ og beregne posisjonen ved $t=0{,}5$."}],"dg-permalink":"/ball-i-bevegelse-med-posisjonsvektor/","permalink":"/ball-i-bevegelse-med-posisjonsvektor/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"temaer":["vektorer","derivasjon"],"fag":["r2"],"eksamen":"h24","del":2,"oppgave":1,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":1}],"poeng":6,"title":"Ball i bevegelse med posisjonsvektor","status":3,"source":null,"todo":null,"kategori":2,"vanskegrad":2,"beskrivelse":"Posisjonsvektor i 3D; fartsvektoren som derivert; finne tidspunkt der $|\\vec{v}(t)|$ er konstant via CAS.","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":1,"beskrivelse":"Lese av takhøyde fra $z$-komponenten ved $t=0$ og beregne posisjonen ved $t=0{,}5$."}]}}
 ---
 
 
@@ -36,7 +36,7 @@ c) $t \approx 0{,}84 \, \mathrm{s}$
 
 ![Løsning av oppgave 1 del 2 i CAS](/img/user/_resources/r2-h24-2-1-cas.png){width=50%}
 
-### 2-1a
+### a
 $z$-komponenten til $\vec{r}(t)$ gir oss høyden ved tiden $t=0$
 $$
 \vec{r}_{z}(0)=6-0{,}7 \cdot 0 - 4{,}9 \cdot 0^{2}=6
@@ -51,7 +51,7 @@ $$
 $$
 **Kanten av hustaket er 6 meter over bakken og ballen befinner seg i punktet $(1, 2, 4{,}425)$ etter 0,5 sekunder.**
 
-### 2-1b
+### b
 Vi må først finne ut når ballen treffer bakken, altså når $\vec{r}_{z}(t)=0$, se linje 1 i GeoGebra. Vi kan se bort fra negative løsninger siden denne modellen kun er gyldig etter at ballen har forlatt kanten av taket.
 $$
 \begin{aligned}
@@ -76,7 +76,7 @@ $$
 $$
 **Farten er $\underline{\underline{\approx 11{,}8 \text{ m/s}}}$ når ballen treffer bakken.**
 
-### 2-1c
+### c
 Vi løser likningen (se linje 3 i GeoGebra)
 $$
 \sqrt{ (9{,}8t+0{,}7)^{2} +20 }=10 \implies 9{,}8t+0{,}7=\sqrt{80} \implies t=\frac{\sqrt{80}-0{,}7}{9{,}8}\approx 0{,}841

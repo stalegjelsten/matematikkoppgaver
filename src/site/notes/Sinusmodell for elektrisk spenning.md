@@ -36,7 +36,7 @@ c) $U_{\text{effektiv}} = \dfrac{323}{\sqrt{2}} \approx 229 \, \mathrm{V} \appro
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 
 Vi legger inn datapunktene i GeoGebra og bruker `RegSin` til å finne en sinusmodell:
 
@@ -52,7 +52,7 @@ $$U(t) \approx 323 \cdot \sin(100\pi t)$$
 
 **Modellen $\underline{\underline{U(t) \approx 323\sin(100\pi t)}}$ beskriver spenningen godt.**
 
-### 2-2b
+### b
 
 Vi løser $U(t) = 230$:
 
@@ -64,7 +64,7 @@ $$t_1 = \frac{0{,}789}{100\pi} \approx 0{,}0025 \, \mathrm{s}, \qquad t_2 = \fra
 
 **Spenningen er $230 \, \mathrm{V}$ ved $\underline{\underline{t \approx 0{,}0025 \, \mathrm{s}}}$ og $\underline{\underline{t \approx 0{,}0075 \, \mathrm{s}}}$.**
 
-### 2-2c
+### c
 
 Vi bruker modellen $U(t) = 323\sin(100\pi t)$ med periode $T = 0{,}0200 \, \mathrm{s}$:
 

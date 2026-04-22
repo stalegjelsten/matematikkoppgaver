@@ -30,12 +30,12 @@ b) 11
 
 ## Løsningsforslag
 
-### 1-3a
+### a
 Programmet viser en aritmetisk følge hvor hvert ledd er gitt av $a_{n}=4n-2$ for $n>0$. Programmet regner ut delsummene, $S_{n}$, til den tilhørende rekka. 
 
 **Programmet finner ut hvilket ledd i rekka som gjør at delsummen blir *over* 200.**
 
-### 1-3b
+### b
 Siden tallfølgen er aritmetisk kan vi regne ut summen av de $n$ første leddene med
 
 $$

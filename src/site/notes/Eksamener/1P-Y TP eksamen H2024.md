@@ -25,7 +25,7 @@ Table: {.eksamen-oversikt}
 | [2-1](#oppgave-2-1) | [Nomogram for omdreiningstall](https://matematikkoppgaver.vercel.app/nomogram-for-omdreiningstall/) | formler, prosentregning | × |
 | [2-2](#oppgave-2-2) | [Oljetanker av rustfritt stål](https://matematikkoppgaver.vercel.app/oljetanker-av-rustfritt-stal/) | volum, areal, formler | × |
 | [2-3](#oppgave-2-3) | [Eriks bilbruk](https://matematikkoppgaver.vercel.app/eriks-bilbruk/) | excel, økonomi, formler | ✔︎ |
-| [2-4](#oppgave-2-4) | [Reise til Gran Canaria](https://matematikkoppgaver.vercel.app/reise-til-gran-canaria/) | excel, lån, kredittkort, oversikt | ✔︎ |
+| [2-4](#oppgave-2-4) | [Reise til Gran Canaria](https://matematikkoppgaver.vercel.app/reise-til-gran-canaria/) | excel, lån, kredittkort, oversikt, systematisering | ✔︎ |
 
 # Del 1
 
@@ -60,7 +60,7 @@ b) Butikk B: $192 \, \mathrm{kr}$ (billigst)
 
 ## Løsningsforslag
 
-### 1-1a
+### a
 
 120 liter plantejord tilsvarer $120 \div 40 = 3$ sekker.
 
@@ -69,7 +69,7 @@ $$3 \cdot 59 = \underline{\underline{177 \, \mathrm{kr}}}$$
 
 **Du må betale $\underline{\underline{177 \, \mathrm{kr}}}$ for 120 liter plantejord i butikk A.**
 
-### 1-1b
+### b
 
 160 liter tilsvarer $160 \div 40 = 4$ sekker.
 
@@ -513,7 +513,7 @@ c) $\approx 2 \, \mathrm{min}$ lengre tid på mandagen
 
 ## Løsningsforslag
 
-### 2-3a
+### a
 
 
 ![Kostnader for elbil](/img/user/_resources/1py-el-v25-2-3-erik.png){width=50%}
@@ -523,7 +523,7 @@ c) $\approx 2 \, \mathrm{min}$ lengre tid på mandagen
 
 **Erik vil bruke 141 300 kr det første året, det tilsvarer 9,42 kr per km.**
 
-### 2-3b
+### b
 
 Erik har en brutto månedslønn på 42 000 kr og betaler 29 % skatt:
 $$\text{Netto lønn} = 42\,000 \cdot (1 - 0{,}29) = 42\,000 \cdot 0{,}71 = 29\,820 \, \mathrm{kr/mnd}$$
@@ -538,7 +538,7 @@ $$29\,820 - 16\,000 - 11\,775 = \underline{\underline{2\,045 \, \mathrm{kr}}}$$
 
 Det er svært lite å leve av – bare til mat, klær og andre utgifter. Med en netto lønn på rundt 30 000 kr og faste utgifter til bil og leilighet på nesten 28 000 kr, vil de fleste mene at det ikke er fornuftig å kjøpe elbilen.
 
-### 2-3c
+### c
 
 Vi setter inn i formelen med $v_1 = 58 \, \mathrm{km/h}$, $v_2 = 65 \, \mathrm{km/h}$ og $s = 18 \, \mathrm{km}$:
 $$t = \left( \frac{1}{v_1} - \frac{1}{v_2} \right) \cdot s \cdot 60 = \left( \frac{1}{58} - \frac{1}{65} \right) \cdot 18 \cdot 60$$

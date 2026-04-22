@@ -166,7 +166,7 @@ c) Mellom -3 og -2,5.
 
 ## Løsningsforslag
 
-### 1-3a
+### a
 Områder som ligger over $x$-aksen vil ha identisk areal og integral. Områder som ligger under $x$-aksen vil ha motsatt fortegn på integralet og arealet. 
 
 Vi deler derfor opp integrasjonen vår i to deler, en for området over $x$-aksen (fra $x=-2$ til $x=0$), og en annen del for området under $x$-aksen (fra $x=0$ til $x=1$).
@@ -177,7 +177,7 @@ $$
 $$
 **Uttrykk 4 gir arealet markert på figuren.**
 
-### 1-3b
+### b
 Jeg finner først det ubestemte integralet
 $$
 F(x)=\int \left(   x^{3}+x^{2}-2x  \right) \, \mathrm{d}x = \frac{1}{4}x^{4}+ \frac{1}{3}x^{3}- \frac{2}{2}x^{2} +C
@@ -197,7 +197,7 @@ A&=\textcolor{seagreen}{\int_{-2}^{0} f(x) \, dx} - \textcolor{tomato}{\int_{0}^
 $$
 **Arealet er $\underline{\underline{\frac{37}{12}}}$.**
 
-### 1-3c
+### c
 Likningen til Kristian er sann når vi velger $a$ slik at vi får nøyaktig like store områder på oversiden og undersiden av $x$-aksen. 
 
 Fra figuren kan vi se at Kristians beregning ser riktig ut, området som er avgrenset av $x$-aksen og $f(x)$ fra $x=-0{,}6$ til $x=1$ ser ut til å ha omtrent like mye areal over og under $x$-aksen.
@@ -245,7 +245,7 @@ b) To løsninger: $|a|>1$ eller $a=\dfrac{1}{2}$; tre løsninger: $a=\pm 1$; fir
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 
 $$
 \sin x - \sqrt{3}\cos x = 0 \implies \sin x = \sqrt{3}\cos x \implies \tan x = \sqrt{3}
@@ -257,7 +257,7 @@ I intervallet $[0, 2\pi)$:
 
 **$\underline{\underline{x = \dfrac{\pi}{3}}}$ og $\underline{\underline{x = \dfrac{4\pi}{3}}}$**
 
-### 1-4b
+### b
 
 Likningen $\left(\sin x - \dfrac{1}{2}\right)\left(\sin x - a\right) = 0$ gir
 
@@ -363,7 +363,7 @@ c) $14 \, \mathrm{m}$
 
 ## Løsningsforslag
 
-### 1-6a
+### a
 
 Den aritmetiske rekken $-3 + 0 + 3 + \ldots + 69$ har $a_1 = -3$, $d = 3$ og siste ledd $a_n = 69$.
 
@@ -373,7 +373,7 @@ $$s_{25} = \frac{a_1 + a_n}{2} \cdot n = \frac{-3 + 69}{2} \cdot 25 = 33 \cdot 2
 
 **Summen av rekken er $\underline{\underline{825}}$.**
 
-### 1-6b
+### b
 
 Rekken $5 + 5\cdot\left(\dfrac{1}{2}-x\right) + 5\cdot\left(\dfrac{1}{2}-x\right)^2 + \ldots$ er geometrisk med kvotient $k = \dfrac{1}{2} - x$.
 
@@ -383,7 +383,7 @@ $$\left|\frac{1}{2} - x\right| < 1 \implies -1 < \frac{1}{2} - x < 1 \implies -\
 
 **Konvergensområdet er $\underline{\underline{x \in \left\langle -\dfrac{1}{2},\, \dfrac{3}{2} \right\rangle}}$.**
 
-### 1-6c
+### c
 
 Ballen faller $2 \, \mathrm{m}$, spretter opp $2 \cdot 0{,}75 \, \mathrm{m}$, faller ned $2 \cdot 0{,}75 \, \mathrm{m}$, spretter opp $2 \cdot 0{,}75^2 \, \mathrm{m}$, osv.
 
@@ -442,7 +442,7 @@ c) Ja, planet skjærer kuleflaten
 
 ## Løsningsforslag
 
-### 1-7a
+### a
 
 Vi fullfører kvadratene i ligningen $x^2 + y^2 + z^2 - 4x + 2z = 4$:
 
@@ -455,7 +455,7 @@ $$
 
 **Sentrum er $\underline{\underline{(2,\, 0,\, -1)}}$ og radius er $\underline{\underline{r = 3}}$.**
 
-### 1-7b
+### b
 
 Kule $K$ har sentrum $M(1, -1, 3)$ og radius $2$. Vi sjekker at $P(3,-1,3)$ ligger på kula:
 
@@ -469,7 +469,7 @@ $$2(x-3) = 0 \implies x = 3$$
 
 **En likning for plan $\alpha$ er $\underline{\underline{x = 3}}$.**
 
-### 1-7c
+### c
 
 Avstand fra sentrum $M(1,-1,3)$ til planet $\beta\colon 3x + y - 2z + 1 = 0$:
 
@@ -576,7 +576,7 @@ c) Minimumsavstand $\approx 39{,}8 \, \mathrm{m}$ — ingen kollisjon
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 
 Vi definerer posisjonsvektoren, deriverer og beregner farten ved $t = 2$ i GeoGebra CAS:
 
@@ -584,7 +584,7 @@ Vi definerer posisjonsvektoren, deriverer og beregner farten ved $t = 2$ i GeoGe
 
 **Farten til miniubåten etter 2 sekunder er $\underline{\underline{\approx 10{,}3 \, \mathrm{m/s}}}$.**
 
-### 2-1b
+### b
 
 Vi definerer $z$-koordinaten, løser $z'(t) = 0$ og evaluerer minimumsposisjonen i GeoGebra CAS:
 
@@ -594,7 +594,7 @@ CAS gir $t = 25$ og $\mathrm{dyp}(25) = -\frac{625}{2} = -312{,}5$.
 
 **Miniubåten er dypest $\underline{\underline{312{,}5 \, \mathrm{m}}}$ under havoverflaten.**
 
-### 2-1c
+### c
 
 Vi definerer begge posisjonsvektorene, beregner differansevektoren $\vec{d}(t) = \vec{r}(t) - \vec{s}(t)$ og avstandsfunksjonen $A(t) = |\vec{d}(t)|$. Så bruker vi `Min(A, 0, 60)` for å finne minimumsavstanden numerisk:
 
@@ -652,7 +652,7 @@ c) $U_{\text{effektiv}} = \dfrac{323}{\sqrt{2}} \approx 229 \, \mathrm{V} \appro
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 
 Vi legger inn datapunktene i GeoGebra og bruker `RegSin` til å finne en sinusmodell:
 
@@ -668,7 +668,7 @@ $$U(t) \approx 323 \cdot \sin(100\pi t)$$
 
 **Modellen $\underline{\underline{U(t) \approx 323\sin(100\pi t)}}$ beskriver spenningen godt.**
 
-### 2-2b
+### b
 
 Vi løser $U(t) = 230$:
 
@@ -680,7 +680,7 @@ $$t_1 = \frac{0{,}789}{100\pi} \approx 0{,}0025 \, \mathrm{s}, \qquad t_2 = \fra
 
 **Spenningen er $230 \, \mathrm{V}$ ved $\underline{\underline{t \approx 0{,}0025 \, \mathrm{s}}}$ og $\underline{\underline{t \approx 0{,}0075 \, \mathrm{s}}}$.**
 
-### 2-2c
+### c
 
 Vi bruker modellen $U(t) = 323\sin(100\pi t)$ med periode $T = 0{,}0200 \, \mathrm{s}$:
 
@@ -735,7 +735,7 @@ b) 20 %
 
 ## Løsningsforslag
 
-### 2-3a
+### a
 
 La $c_n$ være konsentrasjonen rett etter den $n$-te natten. Kroppen skiller ut 18 % per dag, så 82 % gjenstår. Hvert døgn tilføres 2 nye enheter:
 
@@ -753,7 +753,7 @@ CAS gir $n \approx 11{,}6$, og vi ser at $c(11) \approx 9{,}86 < 10$ mens $c(12)
 
 **Sofie kan sove $\underline{\underline{11 \text{ netter}}}$ på soverommet sitt før konsentrasjonen når et potensielt farlig nivå.**
 
-### 2-3b
+### b
 
 Grenseverdien til $c_n$ når $n \to \infty$ er $\dfrac{2}{1-k}$ der $k$ er andelen som gjenstår etter utskillelse. For at konsentrasjonen aldri skal overstige 10 enheter, må grenseverdien være $\leq 10$:
 
@@ -852,7 +852,7 @@ b) Trapesmetode: `(f(x) + f(x+dx)) / 2 * dx`
 
 ## Løsningsforslag
 
-### 2-4a
+### a
 
 Funksjonen $f(x) = 3^{2x} = 9^x$ er strengt stigende på $[0, 2]$.
 
@@ -863,7 +863,7 @@ For en stigende funksjon gjelder:
 
 Det faktiske arealet (nøyaktig) er $\displaystyle\int_0^2 9^x \, \mathrm{d}x = \frac{9^2-1}{\ln 9} \approx 36{,}4$.
 
-### 2-4b
+### b
 
 En bedre metode er **trapesmetoden**: vi bruker gjennomsnittet av funksjonsverdiene i begge endepunktene av hvert delintervall.
 

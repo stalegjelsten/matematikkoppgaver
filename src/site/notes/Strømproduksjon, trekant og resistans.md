@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["diagram","trigonometri","elektrofag","prosentregning"],"fag":["1p-y el"],"eksamen":"h23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":4}],"title":"Strømproduksjon, trekant og resistans","status":3,"source":null,"todo":null,"dg-permalink":"/stromproduksjon-trekant-og-resistans/","permalink":"/stromproduksjon-trekant-og-resistans/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"temaer":["diagram","trigonometri","elektrofag","prosentregning"],"fag":["1p-y el"],"eksamen":"h23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":4}],"title":"Strømproduksjon, trekant og resistans","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["diagram","trigonometri","elektrofag","prosentregning"],"fag":["1p-y el"],"eksamen":"h23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":4}],"title":"Strømproduksjon, trekant og resistans","status":3,"source":null,"todo":null,"kategori":1,"vanskegrad":1,"beskrivelse":"Lese prosent fra kakediagram, finne hypotenus fra $\\sin u=BC/AC$, og beregne parallellresistans $R_T=R_1R_2/(R_1+R_2)$.","dg-permalink":"/stromproduksjon-trekant-og-resistans/","permalink":"/stromproduksjon-trekant-og-resistans/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2023-11-20","modified":"2026-03-17","aliases":[],"temaer":["diagram","trigonometri","elektrofag","prosentregning"],"fag":["1p-y el"],"eksamen":"h23","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":1,"oppgave":4}],"title":"Strømproduksjon, trekant og resistans","status":3,"source":null,"todo":null,"kategori":1,"vanskegrad":1,"beskrivelse":"Lese prosent fra kakediagram, finne hypotenus fra $\\sin u=BC/AC$, og beregne parallellresistans $R_T=R_1R_2/(R_1+R_2)$."}}
 ---
 
 
@@ -88,7 +88,7 @@ c) $R_T = 3{,}2 \, \Omega$
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 
 Fra kakediagrammet ser vi at vannkraft utgjør 40 % av totalproduksjonen:
 
@@ -98,7 +98,7 @@ $$
 
 **$\underline{\underline{8 \, \mathrm{MW}}}$ kom fra vannkraft.**
 
-### 1-4b
+### b
 
 Sinus er definert som $\sin u = \dfrac{\text{motstående katet}}{\text{hypotenus}} = \dfrac{BC}{AC}$.
 
@@ -110,7 +110,7 @@ $$
 
 **Hypotenusen er $\underline{\underline{AC = 15 \, \mathrm{cm}}}$.**
 
-### 1-4c
+### c
 
 Vi setter inn $R_1 = 16 \, \Omega$ og $R_2 = 4 \, \Omega$ i formelen:
 

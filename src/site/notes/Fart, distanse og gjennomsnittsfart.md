@@ -38,7 +38,7 @@ c) 2 minutter lenger
 
 ## Løsningsforslag
 
-### 2-4a
+### a
 
 Vi setter inn i formelen $s = v \cdot t$. Merk at 15 minutter = $\dfrac{15}{60} = 0{,}25 \, \mathrm{h}$:
 
@@ -48,7 +48,7 @@ $$
 
 **Strekningen Camilla kjører til skolen er $\underline{\underline{10 \, \mathrm{km}}}$.** Dette virker rimelig – 10 km er en typisk avstand mellom et sted med moped på 15 minutter.
 
-### 2-4b
+### b
 
 Vi finner distansen og tidsbruken:
 
@@ -63,7 +63,7 @@ $$
 
 **Gjennomsnittsfarten var $\underline{\underline{\approx 66{,}3 \, \mathrm{km/h}}}$.**
 
-### 2-4c
+### c
 
 Vi beregner tidsbruken ved begge fartsgrenser for en strekning på 8 km:
 

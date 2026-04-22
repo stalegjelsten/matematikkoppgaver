@@ -25,7 +25,7 @@ c) $\frac{7}{16}$
 
 ## Løsningsforslag
 
-### 1-5a
+### a
 Siden det kun er tre typer kuler så må sannsynligheten for å trekke en kule som veier 10 kg være 
 
 $$
@@ -49,7 +49,7 @@ For å finne variansen må vi finne differansen til gjennomsnittet for hver verd
 
 **Jeg har vist at forventningsverdien er 6 kg og at variansen er 5,5 kg.**
 
-### 1-5b
+### b
 
 ![Valgtre til oppgave 1-5](/img/user/_resources/mermaid-diagram-2025-11-26-182719.png)
 
@@ -64,7 +64,7 @@ Se valgtreet over. Jeg ser at utfallene for $Y=X_{1}+X_{2}$ er 8, 9, 10, 14, 15 
 | 15  |  $\frac{1}{4}\cdot \frac{1}{2}\cdot 2=\frac{1}{4}$  |
 | 20  |   $\frac{1}{4} \cdot \frac{1}{4} = \frac{1}{16}$    |
 
-### 1-5c
+### c
 $P(Y>10)$ betyr sannsynligheten for at $Y$ er større 10. Det stemmer når $Y=14$, $Y=15$ og $Y=20$.
 
 $$

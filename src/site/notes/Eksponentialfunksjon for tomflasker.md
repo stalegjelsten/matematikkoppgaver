@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-14","modified":"2026-03-14","aliases":[],"dg-publish":true,"temaer":["eksponentialfunksjoner","geogebra","programmering","eksponentiell vekst"],"fag":["2p-y"],"eksamen":"v23","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":6}],"title":"Eksponentialfunksjon for tomflasker","source":null,"todo":null,"status":3,"dg-permalink":"/eksponentialfunksjon-for-tomflasker/","permalink":"/eksponentialfunksjon-for-tomflasker/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-14","modified":"2026-03-14","aliases":[],"temaer":["eksponentialfunksjoner","geogebra","programmering","eksponentiell vekst"],"fag":["2p-y"],"eksamen":"v23","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":6}],"title":"Eksponentialfunksjon for tomflasker","source":null,"todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2026-03-14","modified":"2026-03-14","aliases":[],"dg-publish":true,"temaer":["eksponentialfunksjoner","geogebra","programmering","eksponentiell vekst"],"fag":["2p-y"],"eksamen":"v23","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":6}],"title":"Eksponentialfunksjon for tomflasker","source":null,"todo":null,"status":1,"dg-permalink":"/eksponentialfunksjon-for-tomflasker/","lf-source-claude":true,"permalink":"/eksponentialfunksjon-for-tomflasker/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-14","modified":"2026-03-14","aliases":[],"temaer":["eksponentialfunksjoner","geogebra","programmering","eksponentiell vekst"],"fag":["2p-y"],"eksamen":"v23","del":2,"oppgave":6,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":6}],"title":"Eksponentialfunksjon for tomflasker","source":null,"todo":null,"status":1,"lf-source-claude":true}}
 ---
 
 
@@ -45,7 +45,7 @@ c) Programmet summerer til ca. 19 661 kr < 25 000 kr. Øk startbeløpet til ca. 
 
 ## Løsningsforslag
 
-### 2-6a
+### a
 
 Funksjonen $P(x) = 1600 \cdot 1{,}045^x$ beskriver planen slik:
 
@@ -53,7 +53,7 @@ Funksjonen $P(x) = 1600 \cdot 1{,}045^x$ beskriver planen slik:
 - Vekstfaktoren 1,045 betyr at beløpet øker med 4,5 % for hver måned
 - Planen strekker seg over 10 måneder ($x = 0$ til $x = 9$), dvs. august til mai
 
-### 2-6b
+### b
 
 Mai svarer til $x = 9$:
 
@@ -63,7 +63,7 @@ $$
 
 **Ifølge modellen regnet elevene med å samle inn ca. $\underline{\underline{2378 \, \mathrm{kr}}}$ i mai 2023.**
 
-### 2-6c
+### c
 
 Programmet summerer $P(x)$ for $x = 0, 1, 2, \ldots, 9$. Resultatet er ca. **19 661 kr**, som er langt under målet på 25 000 kr. Elevene vil **ikke** nå målet med den opprinnelige planen.
 

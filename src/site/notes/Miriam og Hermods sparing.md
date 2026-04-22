@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-01-30","modified":"2024-01-31","aliases":null,"dg-publish":true,"temaer":["sparing","rekker"],"fag":["s2"],"eksamen":"h23","del":2,"oppgave":"2","oppgavenummer":[{"fag":"s2","del":2,"oppgave":2}],"title":"Miriam og Hermods sparing","source":null,"todo":null,"status":3,"dg-permalink":"/miriam-og-hermods-sparing/","permalink":"/miriam-og-hermods-sparing/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-01-30","modified":"2024-01-31","aliases":null,"temaer":["sparing","rekker"],"fag":["s2"],"eksamen":"h23","del":2,"oppgave":"2","oppgavenummer":[{"fag":"s2","del":2,"oppgave":2}],"title":"Miriam og Hermods sparing","source":null,"todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2024-01-30","modified":"2024-01-31","aliases":null,"dg-publish":true,"temaer":["sparing","rekker","excel"],"fag":["s2"],"eksamen":"h23","del":2,"oppgave":"2","oppgavenummer":[{"fag":"s2","del":2,"oppgave":2}],"title":"Miriam og Hermods sparing","source":null,"todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Årlig sparing med renter i regneark; vise sluttsum, målsøke fast innskudd og finne årlig økning.","deloppgaver":[{"deloppgave":"a","beskrivelse":"Bygge sparetabell i Excel for $\\sum 20\\,000 \\cdot 1{,}035^{k}$; verifisere 565 594 kr."},{"deloppgave":"b","beskrivelse":"Målsøking i Excel for å finne årlig innskudd som gir 692 852 kr etter 20 år."},{"deloppgave":"c","beskrivelse":"Målsøking med årlig påslag for å nå 1 000 000 kr etter 20 år."}],"dg-permalink":"/miriam-og-hermods-sparing/","permalink":"/miriam-og-hermods-sparing/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-01-30","modified":"2024-01-31","aliases":null,"temaer":["sparing","rekker","excel"],"fag":["s2"],"eksamen":"h23","del":2,"oppgave":"2","oppgavenummer":[{"fag":"s2","del":2,"oppgave":2}],"title":"Miriam og Hermods sparing","source":null,"todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Årlig sparing med renter i regneark; vise sluttsum, målsøke fast innskudd og finne årlig økning.","deloppgaver":[{"deloppgave":"a","beskrivelse":"Bygge sparetabell i Excel for $\\sum 20\\,000 \\cdot 1{,}035^{k}$; verifisere 565 594 kr."},{"deloppgave":"b","beskrivelse":"Målsøking i Excel for å finne årlig innskudd som gir 692 852 kr etter 20 år."},{"deloppgave":"c","beskrivelse":"Målsøking med årlig påslag for å nå 1 000 000 kr etter 20 år."}]}}
 ---
 
 # Miriam og Hermods sparing
@@ -28,7 +28,7 @@ c) 1 836,33 kr
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 
 ![Sparing til oppgave 2-2a](/img/user/_resources/s2-h23-2-2a.png)
 
@@ -36,7 +36,7 @@ Jeg satt opp en oversikt over sparingen i Excel, hvor jeg beregnet innskuddet p�
 
 **Etter det 20. innskuddet så var det 565 593,64 kr på kontoen.**
 
-### 2-2b
+### b
 
 ![Sparing og målsøking til oppgave 2-2b](/img/user/_resources/s2-h23-2-2b.png.png)
 
@@ -44,7 +44,7 @@ Jeg brukte samme oppsettet i Excel og brukte målsøking til å sette celle G47 
 
 **Hermod må spare 24 500 kr hvert år for å ha 692 852 kr etter 20 år.**
 
-### 2-2c
+### c
 
 ![Målsøking til oppgave 2-2c](/img/user/_resources/s2-h23-2-2c.png.png)
 

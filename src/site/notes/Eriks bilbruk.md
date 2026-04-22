@@ -45,7 +45,7 @@ c) $\approx 2 \, \mathrm{min}$ lengre tid på mandagen
 
 ## Løsningsforslag
 
-### 2-3a
+### a
 
 
 ![Kostnader for elbil](/img/user/_resources/1py-el-v25-2-3-erik.png){width=50%}
@@ -55,7 +55,7 @@ c) $\approx 2 \, \mathrm{min}$ lengre tid på mandagen
 
 **Erik vil bruke 141 300 kr det første året, det tilsvarer 9,42 kr per km.**
 
-### 2-3b
+### b
 
 Erik har en brutto månedslønn på 42 000 kr og betaler 29 % skatt:
 $$\text{Netto lønn} = 42\,000 \cdot (1 - 0{,}29) = 42\,000 \cdot 0{,}71 = 29\,820 \, \mathrm{kr/mnd}$$
@@ -70,7 +70,7 @@ $$29\,820 - 16\,000 - 11\,775 = \underline{\underline{2\,045 \, \mathrm{kr}}}$$
 
 Det er svært lite å leve av – bare til mat, klær og andre utgifter. Med en netto lønn på rundt 30 000 kr og faste utgifter til bil og leilighet på nesten 28 000 kr, vil de fleste mene at det ikke er fornuftig å kjøpe elbilen.
 
-### 2-3c
+### c
 
 Vi setter inn i formelen med $v_1 = 58 \, \mathrm{km/h}$, $v_2 = 65 \, \mathrm{km/h}$ og $s = 18 \, \mathrm{km}$:
 $$t = \left( \frac{1}{v_1} - \frac{1}{v_2} \right) \cdot s \cdot 60 = \left( \frac{1}{58} - \frac{1}{65} \right) \cdot 18 \cdot 60$$

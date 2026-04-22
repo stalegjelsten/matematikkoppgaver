@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":[],"dg-publish":true,"temaer":["hypotesetest","standard normalfordeling","normalfordeling"],"fag":["s2"],"eksamen":"v25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":6}],"title":"Hypotesetest bensin","source":null,"todo":null,"status":3,"dg-permalink":"/hypotesetest-bensin/","permalink":"/hypotesetest-bensin/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":[],"temaer":["hypotesetest","standard normalfordeling","normalfordeling"],"fag":["s2"],"eksamen":"v25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":6}],"title":"Hypotesetest bensin","source":null,"todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":[],"dg-publish":true,"temaer":["hypotesetest","standard normalfordeling","normalfordeling","sentralgrenseteoremet"],"fag":["s2"],"eksamen":"v25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":6}],"title":"Hypotesetest bensin","source":null,"todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Ensidig hypotesetest av gjennomsnittet fra $n=25$ via sentralgrenseteoremet; $z=2$ gir $p=0{,}0228<0{,}05$.","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":1,"beskrivelse":"Formulere $H_0:\\mu=20$, $H_A:\\mu>20$."},{"deloppgave":"b","beskrivelse":"Beregne $\\text{SD}(\\bar{X})=\\sigma/\\sqrt{n}=0{,}5$; standardisere og slå opp $\\Phi(2)=0{,}9772$."}],"dg-permalink":"/hypotesetest-bensin/","permalink":"/hypotesetest-bensin/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-05-15","aliases":[],"temaer":["hypotesetest","standard normalfordeling","normalfordeling","sentralgrenseteoremet"],"fag":["s2"],"eksamen":"v25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":6}],"title":"Hypotesetest bensin","source":null,"todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Ensidig hypotesetest av gjennomsnittet fra $n=25$ via sentralgrenseteoremet; $z=2$ gir $p=0{,}0228<0{,}05$.","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":1,"beskrivelse":"Formulere $H_0:\\mu=20$, $H_A:\\mu>20$."},{"deloppgave":"b","beskrivelse":"Beregne $\\text{SD}(\\bar{X})=\\sigma/\\sqrt{n}=0{,}5$; standardisere og slå opp $\\Phi(2)=0{,}9772$."}]}}
 ---
 
 
@@ -25,7 +25,7 @@ b) Vi kan forkaste $H_{0}$ med $p$-verdien 0,0228
 
 ## Løsningsforslag
 
-### 1-6a
+### a
 Vi ønsker å teste om den nye bensinen gir bedre drivstofføkonomi enn den gamle. La $\mu$ være forventningsverdien for kjørelengde per L for den nye bensinen. Da er hypotesene våre:
 $$
 \begin{aligned}
@@ -34,7 +34,7 @@ H_{A}: \quad \mu > 20
 \end{aligned}
 $$
 
-### 1-6b
+### b
 Denne hypotesetesten er av et gjennomsnitt. La $\bar{X}$ være gjennomsnittsverdien for drivstofføkonomien for et utvalg av biler. Etter sentralgrensesetningen er $\bar{X}$ normalfordelt med:
 $$
 \begin{aligned}

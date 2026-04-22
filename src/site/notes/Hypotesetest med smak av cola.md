@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave","hypotesetest","binomisk","diskrete","sannsynlighetsfordelinger","s2","del2"],"temaer":["hypotesetest","binomisk","diskrete sannsynlighetsfordelinger"],"aliases":null,"del":2,"oppgave":3,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":3}],"fag":["s2"],"eksamen":"v23","dg-publish":true,"title":"Hypotesetest med smak av cola","date":"2023-05-27","modified":"2023-05-29","dg-permalink":"/hypotesetest-med-smak-av-cola/","permalink":"/hypotesetest-med-smak-av-cola/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave","hypotesetest","binomisk","diskrete","sannsynlighetsfordelinger","s2","del2"],"temaer":["hypotesetest","binomisk","diskrete sannsynlighetsfordelinger"],"aliases":null,"del":2,"oppgave":3,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":3}],"fag":["s2"],"eksamen":"v23","title":"Hypotesetest med smak av cola","date":"2023-05-27","modified":"2023-05-29"}}
+{"tags":["oppgave","hypotesetest","binomisk","diskrete","sannsynlighetsfordelinger","s2","del2"],"temaer":["hypotesetest","binomisk","diskrete sannsynlighetsfordelinger"],"aliases":null,"del":2,"oppgave":3,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":3}],"fag":["s2"],"eksamen":"v23","dg-publish":true,"title":"Hypotesetest med smak av cola","date":"2023-05-27","modified":"2023-05-29","dg-permalink":"/hypotesetest-med-smak-av-cola/","status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Binomisk ensidig hypotesetest på colasmaking: punktsannsynlighet, $p$-verdi og finne kritisk verdi ved $n=30$.","deloppgaver":[{"deloppgave":"a","vanskegrad":1,"beskrivelse":"Binomisk punktsannsynlighet $P(X=6)$ for $n=10$, $p=0{,}5$; angi antakelsene."},{"deloppgave":"b","beskrivelse":"Ensidig hypotesetest med $H_A: p>0{,}5$; $p=0{,}0547$ gir ikke forkast."},{"deloppgave":"c","beskrivelse":"Prøve seg fram i GeoGebra for $n=30$; $X\\ge 20$ gir $p<0{,}05$."}],"permalink":"/hypotesetest-med-smak-av-cola/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave","hypotesetest","binomisk","diskrete","sannsynlighetsfordelinger","s2","del2"],"temaer":["hypotesetest","binomisk","diskrete sannsynlighetsfordelinger"],"aliases":null,"del":2,"oppgave":3,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":3}],"fag":["s2"],"eksamen":"v23","title":"Hypotesetest med smak av cola","date":"2023-05-27","modified":"2023-05-29","status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Binomisk ensidig hypotesetest på colasmaking: punktsannsynlighet, $p$-verdi og finne kritisk verdi ved $n=30$.","deloppgaver":[{"deloppgave":"a","vanskegrad":1,"beskrivelse":"Binomisk punktsannsynlighet $P(X=6)$ for $n=10$, $p=0{,}5$; angi antakelsene."},{"deloppgave":"b","beskrivelse":"Ensidig hypotesetest med $H_A: p>0{,}5$; $p=0{,}0547$ gir ikke forkast."},{"deloppgave":"c","beskrivelse":"Prøve seg fram i GeoGebra for $n=30$; $X\\ge 20$ gir $p<0{,}05$."}]}}
 ---
 
 
@@ -32,7 +32,7 @@ c) Trenger minst 20 glass.
 
 ## Løsningsforslag
 
-### 2-3a
+### a
 Vi starter med noen antagelser:
 
 - Birger velger *helt* tilfeldig om han fyller hvert enkelt glass med Pepsi-Cola eller Coca-Cola
@@ -47,7 +47,7 @@ $$
 P(X=6)=\binom{n}{k}\cdot p^k \cdot(1-p)^{n-k} = \frac{10!}{6!(10-6)!} \cdot {0}.5^6  \cdot 0.5^4= \underline{\underline{0{,}205}}
 $$
 
-### 2-3b
+### b
 Vi lar $p$ være sannsynligheten for at Marte klarer å gjette riktig og $X$, antall riktige gjetninger, er testobservator. 
 
 Det skal mye til at Marte er dårligere til å gjenkjenne colaene enn ved tilfeldig gjetting, og jeg er egentlig kun interessert i å finne ut om hun *bedre* enn tilfeldig gjetning. Derfor velger jeg en ensidig hypotesetest. Vi skal bruke signifikansnivået $\alpha=0{,}05$.
@@ -65,7 +65,7 @@ Ved hjelp av GeoGebra finner jeg at $P(8\leq X)=0,0547$ gitt at $H_{0}$ er sann.
 
 Siden sannsynligheten $P(8\leq X)=0,0547$ er større enn signifikansnivået $\alpha = 0.05$ så **kan vi *ikke* forkaste $H_0$.**
 
-### 2-3c
+### c
 
 ![Finne hvilken $a$ som gir $P(a\leq X)\leq 0{,}05$](/img/user/_resources/s2-v23-del2-oppg-3c.png)
 

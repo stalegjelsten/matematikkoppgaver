@@ -206,7 +206,6 @@ Diagonalene krysser hverandre i sentrum av duken i punktet $S$, slik at trekant 
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -243,7 +242,6 @@ Jesper og Nina stiller to spørsmål:
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -287,7 +285,6 @@ Aina skal lage et anbud for et oppdrag til en kunde:
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -333,7 +330,6 @@ Bordet har skyvedører som kan skyves rundt bordet. Inne i bordet er det plass t
 
 
 ## Løsningsforslag
-
 
 </div></div>
 

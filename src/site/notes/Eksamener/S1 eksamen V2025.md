@@ -50,7 +50,6 @@ Table: {.eksamen-oversikt}
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -74,6 +73,73 @@ En funksjon $g$ er gitt ved $g(x) = \frac{1}{2}e^x \cdot (2x-1)^2$
 
 ## Fasit
 
+a) $\underline{\underline{x = \frac{1}{2}}}$ (dobbelrot)
+
+b) Se løsningsforslag.
+
+c) Toppunkt: $\underline{\underline{\left(-\frac{3}{2},\ 8e^{-3/2}\right)}}$, bunnpunkt: $\underline{\underline{\left(\frac{1}{2},\ 0\right)}}$
+
+## Løsningsforslag
+
+### a
+
+Vi skal finne nullpunktene til $g(x) = \frac{1}{2}e^x \cdot (2x-1)^2$.
+
+$$g(x) = 0 \iff \frac{1}{2}e^x \cdot (2x-1)^2 = 0$$
+
+Siden $\frac{1}{2}e^x > 0$ for alle $x$, må $(2x-1)^2 = 0$.
+
+$$2x - 1 = 0 \iff x = \frac{1}{2}$$
+
+$g$ har ett nullpunkt: $\underline{\underline{x = \frac{1}{2}}}$ (dobbelrot).
+
+### b
+
+Vi bruker produktregelen på $g(x) = u(x) \cdot v(x)$ med
+
+$$u(x) = \frac{1}{2}e^x, \qquad v(x) = (2x-1)^2$$
+
+$$u'(x) = \frac{1}{2}e^x, \qquad v'(x) = 2(2x-1) \cdot 2 = 4(2x-1)$$
+
+Produktregelen gir
+
+$$g'(x) = u'v + uv' = \frac{1}{2}e^x(2x-1)^2 + \frac{1}{2}e^x \cdot 4(2x-1)$$
+
+Vi faktoriserer ut $\frac{1}{2}e^x(2x-1)$:
+
+$$g'(x) = \frac{1}{2}e^x(2x-1)\bigl[(2x-1) + 4\bigr] = \frac{1}{2}e^x(2x-1)(2x+3)$$
+
+Dette er det vi skulle vise. $\square$
+
+### c
+
+Vi setter $g'(x) = 0$. Siden $\frac{1}{2}e^x > 0$ for alle $x$, er det tilstrekkelig å løse
+
+$$(2x-1)(2x+3) = 0$$
+
+$$x = \frac{1}{2} \quad \text{eller} \quad x = -\frac{3}{2}$$
+
+Vi bestemmer fortegnet til $g'(x) = \frac{1}{2}e^x \cdot \textcolor{steelblue}{(2x-1)} \cdot \textcolor{seagreen}{(2x+3)}$:
+
+| | $x < -\frac{3}{2}$ | $x = -\frac{3}{2}$ | $-\frac{3}{2} < x < \frac{1}{2}$ | $x = \frac{1}{2}$ | $x > \frac{1}{2}$ |
+|---|---|---|---|---|---|
+| $\textcolor{steelblue}{2x-1}$ | $-$ | $-$ | $-$ | $0$ | $+$ |
+| $\textcolor{seagreen}{2x+3}$ | $-$ | $0$ | $+$ | $+$ | $+$ |
+| $g'(x)$ | $+$ | $0$ | $-$ | $0$ | $+$ |
+| $g$ | voksende | topp | avtagende | bunn | voksende |
+
+$g$ har et **toppunkt** i $x = -\frac{3}{2}$ og et **bunnpunkt** i $x = \frac{1}{2}$.
+
+Vi beregner $y$-verdiene:
+
+$$g\!\left(\frac{1}{2}\right) = \frac{1}{2}e^{1/2}\cdot\left(2\cdot\frac{1}{2}-1\right)^2 = \frac{1}{2}e^{1/2}\cdot 0 = 0$$
+
+$$g\!\left(-\frac{3}{2}\right) = \frac{1}{2}e^{-3/2}\cdot\left(2\cdot\left(-\frac{3}{2}\right)-1\right)^2 = \frac{1}{2}e^{-3/2}\cdot(-4)^2 = \frac{1}{2}e^{-3/2}\cdot 16 = 8e^{-3/2}$$
+
+Koordinater:
+
+- Toppunkt: $\underline{\underline{\left(-\frac{3}{2},\ 8e^{-3/2}\right)}}$
+- Bunnpunkt: $\underline{\underline{\left(\frac{1}{2},\ 0\right)}}$
 
 </div></div>
 
@@ -96,7 +162,6 @@ Løs likningene
 >b) $3\lg x + 2\lg x^2 + \lg\dfrac{1}{x^9} = 2$
 
 ## Fasit
-
 
 </div></div>
 
@@ -121,6 +186,7 @@ Løs likningene
 
 ## Fasit
 
+a) Grenseverdien eksisterer ikke (venstre- og høyregrense stemmer ikke overens).
 
 ## Løsningsforslag
 
@@ -227,6 +293,47 @@ $$g(x) = \begin{cases} x^2 + 2\text{,} \quad  & x < 0 \\ 1\text{,} & x = 0 \\ 2e
 
 ## Fasit
 
+a) $f$ er kontinuerlig i $x = 0$.
+
+b) $g$ er **ikke** kontinuerlig i $x = 0$.
+
+## Løsningsforslag
+
+En funksjon $h$ er kontinuerlig i $x = a$ hvis og bare hvis
+
+$$\lim_{x \to a^-} h(x) = \lim_{x \to a^+} h(x) = h(a)$$
+
+Vi undersøker dette kravet i $x = 0$ for begge funksjoner.
+
+### a
+
+Vi beregner venstregrenseverdi, funksjonsverdi og høyregrenseverdi for $f$:
+
+$$\lim_{x \to 0^-} f(x) = \lim_{x \to 0^-} (x^2 + 2) = 0^2 + 2 = 2$$
+
+$$f(0) = 2e^0 = 2 \cdot 1 = 2 \qquad (\text{siden } x \ge 0 \text{ gjelder for } x = 0)$$
+
+$$\lim_{x \to 0^+} f(x) = \lim_{x \to 0^+} 2e^x = 2e^0 = 2$$
+
+Alle tre er like: $\lim_{x \to 0^-} f(x) = f(0) = \lim_{x \to 0^+} f(x) = 2$.
+
+**$f$ er kontinuerlig i $x = 0$.**
+
+### b
+
+Vi beregner venstregrenseverdi, funksjonsverdi og høyregrenseverdi for $g$:
+
+$$\lim_{x \to 0^-} g(x) = \lim_{x \to 0^-} (x^2 + 2) = 2$$
+
+$$g(0) = 1 \qquad (\text{spesifisert direkte i definisjonen})$$
+
+$$\lim_{x \to 0^+} g(x) = \lim_{x \to 0^+} 2e^x = 2$$
+
+Grenseverdiene fra venstre og høyre er begge $2$, men $g(0) = 1 \ne 2$.
+
+Kontinuitetskravet er ikke oppfylt.
+
+**$g$ er ikke kontinuerlig i $x = 0$.**
 
 </div></div>
 
@@ -252,6 +359,46 @@ Peder har glemt koden på hengelåsen sin. Koden består av tre sifre. Peder hus
 
 ## Fasit
 
+a) $\underline{\underline{P = \frac{1}{216} \approx 0{,}46 \,\%}}$
+
+b) Simuleringen gir ca. $0{,}43 \,\%$, nært den teoretiske verdien $0{,}46 \,\%$.
+
+## Løsningsforslag
+
+### a
+
+Sifrene 7, 8, 9 og 0 er ikke med, så hvert siffer velges fra mengden $\{1, 2, 3, 4, 5, 6\}$ — 6 mulige sifre per posisjon. Vi antar at sifrene kan gjentas (vanligste tolkning for hengelåskoder).
+
+Antall mulige koder:
+
+$$6 \cdot 6 \cdot 6 = 216$$
+
+Peder vet ikke koden, og vi antar han gjetter tilfeldig blant alle 216 mulige koder. Det er bare én riktig kode, så sannsynligheten for å treffe på første forsøk er:
+
+$$P(\text{riktig kode}) = \frac{1}{216} \approx 0{,}0046$$
+
+**Sannsynligheten er $\underline{\underline{\frac{1}{216} \approx 0{,}46 \,\%}}$.**
+
+### b
+
+Vi simulerer situasjonen 100 000 ganger. I hver runde trekkes en tilfeldig «fasit-kode» og en tilfeldig «gjetting», begge med sifre fra $\{1, 2, 3, 4, 5, 6\}$. Vi teller hvor mange ganger gjettingen treffer fasit-koden.
+
+```python
+import numpy as np
+rng = np.random.default_rng(42)
+n = 100_000
+faktisk = rng.integers(1, 7, size=(n, 3))
+gjett = rng.integers(1, 7, size=(n, 3))
+treff = np.all(faktisk == gjett, axis=1)
+print(f"Estimat: {np.mean(treff):.4f}")
+```
+
+**Resultat:**
+```
+Estimat: 0.0043
+```
+
+Simuleringen gir ca. $0{,}43 \,\%$, som stemmer godt med den teoretiske verdien $\frac{1}{216} \approx 0{,}46 \,\%$. Avviket skyldes tilfeldig variasjon i simuleringen.
 
 </div></div>
 
@@ -340,6 +487,59 @@ Emma og Marie er to av jentene.
 
 ## Fasit
 
+a) $\underline{\underline{210 \text{ måter}}}$
+
+b) $\underline{\underline{P(\text{minst 2 gutter}) = \dfrac{1}{3} \approx 33{,}3\,\%}}$
+
+c) $\underline{\underline{P(\text{nøyaktig 1 av Emma/Marie}) = \dfrac{8}{15} \approx 53{,}3\,\%}}$
+
+## Løsningsforslag
+
+Vi bruker GeoGebra CAS til å beregne binomialkoeffisientene.
+
+![GeoGebra CAS – binomialkoeffisienter](/img/user/_resources/s1-v25-2-3-kombinatorikk.png)
+
+### a
+
+Vi skal velge 4 elever fra 10 uten hensyn til rekkefølge. Antall måter er gitt ved binomialkoeffisienten
+
+$$\binom{10}{4} = \frac{10!}{4! \cdot 6!} = \textbf{210}$$
+
+**Det er $\underline{\underline{210}}$ mulige måter å sette sammen arbeidsgruppen på.**
+
+### b
+
+Vi søker $P(\text{minst 2 gutter})$. Det er lettest å bruke komplementregelen:
+
+$$P(\text{minst 2 gutter}) = 1 - P(\text{0 gutter}) - P(\text{1 gutt})$$
+
+Det er 3 gutter og 7 jenter blant de 10 elevene.
+
+**P(0 gutter):** Alle 4 velges blant de 7 jentene.
+
+$$P(\text{0 gutter}) = \frac{\binom{7}{4}}{\binom{10}{4}} = \frac{35}{210} = \frac{1}{6}$$
+
+**P(1 gutt):** Én gutt velges blant 3, tre jenter velges blant 7.
+
+$$P(\text{1 gutt}) = \frac{\binom{3}{1} \cdot \binom{7}{3}}{\binom{10}{4}} = \frac{3 \cdot 35}{210} = \frac{105}{210} = \frac{1}{2}$$
+
+**P(minst 2 gutter):**
+
+$$P(\text{minst 2 gutter}) = 1 - \frac{1}{6} - \frac{1}{2} = 1 - \frac{1}{6} - \frac{3}{6} = \frac{2}{6} = \frac{1}{3} \approx 33{,}3\,\%$$
+
+**Sannsynligheten for at minst to gutter blir med i arbeidsgruppen er $\underline{\underline{\dfrac{1}{3} \approx 33{,}3\,\%}}$.**
+
+### c
+
+Vi skal finne sannsynligheten for at nøyaktig én av de to jentene Emma og Marie blir med.
+
+Vi deler de 10 elevene i to grupper: {Emma, Marie} (2 elever) og de øvrige 8 elevene.
+
+Nøyaktig én av Emma/Marie betyr at vi velger 1 fra {Emma, Marie} og 3 fra de resterende 8.
+
+$$P(\text{nøyaktig 1 av Emma/Marie}) = \frac{\binom{2}{1} \cdot \binom{8}{3}}{\binom{10}{4}} = \frac{2 \cdot 56}{210} = \frac{112}{210} = \frac{8}{15} \approx 53{,}3\,\%$$
+
+**Sannsynligheten for at bare én av de to jentene blir med i arbeidsgruppen er $\underline{\underline{\dfrac{8}{15} \approx 53{,}3\,\%}}$.**
 
 </div></div>
 
@@ -371,6 +571,49 @@ Også her skal vi plukke ut 10 tilfeldige personer blant dem som stemte.
 
 ## Fasit
 
+a) $\underline{\underline{P(X \geq 4) \approx 1{,}95 \,\%}}$
+
+b) $\underline{\underline{P(Y \geq 4) \approx 65{,}0 \,\%}}$
+
+## Løsningsforslag
+
+### a
+
+La $X$ være antall av de 10 personene som stemte Fremskrittspartiet.
+
+Vi trekker 10 tilfeldige personer fra hele landet, der $11{,}3\,\%$ stemte FrP. Siden populasjonen (alle som stemte ved valget) er svært stor i forhold til utvalget, er sannsynligheten tilnærmet konstant fra trekning til trekning. Derfor er $X$ binomisk fordelt med $n = 10$ og $p = 0{,}113$.
+
+Vi ønsker $P(X \geq 4) = 1 - P(X \leq 3)$.
+
+I GeoGebra CAS:
+
+$$1 - \texttt{FordelingBinomial}(10;\; 0{,}113;\; 3;\; \text{true})$$
+
+![GeoGebra CAS – binomisk og hypergeometrisk](/img/user/_resources/s1-v25-2-4-cas.png){width=60%}
+
+**$P(X \geq 4) \approx \underline{\underline{1{,}95 \,\%}}$**
+
+Det er altså svært liten sannsynlighet for at minst 4 av de 10 stemte FrP.
+
+### b
+
+I denne valgkretsen stemte 100 av 243 på Arbeiderpartiet. Vi trekker 10 personer **uten tilbakelegging** fra en avgrenset populasjon på 243 personer.
+
+**Begrunnelse for hypergeometrisk fordeling:** Fordi populasjonen er liten ($N = 243$) i forhold til utvalget ($n = 10$), endres sannsynligheten for å trekke en Ap-velger for hvert nye trekk. Binomisk fordeling forutsetter konstant sannsynlighet og passer ikke her. Vi bruker derfor hypergeometrisk fordeling med
+
+$$N = 243, \quad K = 100, \quad n = 10.$$
+
+La $Y$ være antall av de 10 som stemte Arbeiderpartiet. Vi ønsker $P(Y \geq 4) = 1 - P(Y \leq 3)$.
+
+I GeoGebra CAS:
+
+$$1 - \texttt{FordelingHypergeometrisk}(243;\; 100;\; 10;\; 3;\; \text{true})$$
+
+(Se bildet over.)
+
+**$P(Y \geq 4) \approx \underline{\underline{65{,}0 \,\%}}$**
+
+Det er altså omtrent $65$ % sannsynlighet for at minst 4 av de 10 tilfeldige personene stemte Arbeiderpartiet i denne valgkretsen.
 
 </div></div>
 
@@ -405,6 +648,63 @@ Bedriften ønsker å gjennomføre en kampanje hvor de en uke donerer 30 kroner p
 
 ## Fasit
 
+a) Største inntekt: $\underline{\underline{I \approx 21\,944 \, \mathrm{kr/uke}}}$ ved $x = 261$ T-skjorter.
+
+b) Største overskudd: $\underline{\underline{O \approx 8\,193 \, \mathrm{kr/uke}}}$ ved $x = 219$ T-skjorter.
+
+c) Bedriften kan selge maks $\underline{\underline{251 \text{ T-skjorter}}}$ uten å gå med underskudd.
+
+## Løsningsforslag
+
+Vi definerer inntektsfunksjonen og overskuddsfunksjonen:
+
+$$I(x) = x \cdot p(x) = -0{,}001x^3 + 0{,}2x^2 + 100x$$
+
+$$O(x) = I(x) - K(x) = -0{,}001x^3 + 0{,}1x^2 + 100x - 8000$$
+
+Vi løser alle deloppgavene i GeoGebra CAS:
+
+![GeoGebra CAS – inntekt, overskudd og kampanje](/img/user/_resources/s1-v25-2-5-cas.png)
+
+### a
+
+For å finne største inntekt setter vi $I'(x) = 0$ og løser:
+
+$$I'(x) = -0{,}003x^2 + 0{,}4x + 100 = 0$$
+
+GeoGebra CAS (linje 7) gir $x \approx 261$ (positiv løsning).
+
+Vi sjekker at dette er et maksimum: $I''(x) = -0{,}006x + 0{,}4$, og $I''(261) = -0{,}006 \cdot 261 + 0{,}4 \approx -1{,}2 < 0$ — bekrefter maksimum.
+
+GeoGebra CAS (linje 8): $I(261) \approx 21\,945 \, \mathrm{kr}$.
+
+**Den største mulige inntekten er $\underline{\underline{I \approx 21\,944 \, \mathrm{kr/uke}}}$ ved produksjon og salg av 261 T-skjorter.**
+
+### b
+
+For å finne største overskudd setter vi $O'(x) = 0$ og løser:
+
+$$O'(x) = -0{,}003x^2 + 0{,}2x + 100 = 0$$
+
+GeoGebra CAS (linje 10) gir $x \approx 219$ (positiv løsning).
+
+GeoGebra CAS (linje 11): $O(219) \approx 8\,193 \, \mathrm{kr}$.
+
+**Det største mulige overskuddet er $\underline{\underline{O \approx 8\,193 \, \mathrm{kr/uke}}}$ ved produksjon og salg av 219 T-skjorter.**
+
+### c
+
+Med kampanje doneres 30 kr per solgte T-skjorte, slik at overskuddsfunksjonen blir:
+
+$$O_k(x) = I(x) - K(x) - 30x = -0{,}001x^3 + 0{,}1x^2 + 70x - 8000$$
+
+Vi vil finne det største antallet T-skjorter $x$ der $O_k(x) \geq 0$, dvs. vi løser $O_k(x) = 0$.
+
+GeoGebra CAS (linje 12) gir røttene $x \approx -269{,}6$, $x \approx 117{,}8$ og $x \approx 251{,}8$.
+
+Den største positive røtten er $x \approx 251{,}8$. Vi sjekker: $O_k(251) \approx 57 > 0$ og $O_k(252) \approx -13 < 0$.
+
+**Bedriften kan produsere og selge maks $\underline{\underline{251 \text{ T-skjorter}}}$ i kampanjeuken uten å gå med underskudd.**
 
 </div></div>
 
@@ -441,6 +741,58 @@ som modell for den totale verdien av oljefondet i milliarder kroner $t$ år ette
 
 ## Fasit
 
+a) $O(t) = 330 \cdot 1{,}18^{t}$ (eksponentiell modell, se begrunnelse)
+
+b) $\underline{\underline{V(20) \approx 8843 \, \mathrm{mrd\,kr}}}$, $\underline{\underline{V'(20) \approx 1454 \, \mathrm{mrd\,kr/år}}}$
+
+c) Gjennomsnittlig vekstfart $[0, 10]$: $\approx 138 \, \mathrm{mrd\,kr/år}$. Gjennomsnittlig vekstfart $[16, 26]$: $\approx 1913 \, \mathrm{mrd\,kr/år}$. Vekstfarten er ca. 14 ganger så stor i den siste perioden.
+
+## Løsningsforslag
+
+### a
+
+Grafen viser en kurve som vokser stadig raskere — verdien mangedobles over perioden og øker prosentvis omtrent like mye hvert år. Det tyder på eksponentiell vekst, ikke lineær.
+
+Vi avleser to punkter fra grafen:
+
+$$t = 0 \text{ (1998): } O \approx 330 \text{ mrd kr}$$
+$$t = 26 \text{ (2024): } O \approx 19\,700 \text{ mrd kr}$$
+
+En eksponentiell modell har formen $O(t) = a \cdot b^{t}$. Vi setter $a = 330$ (startverdi) og bestemmer $b$ fra
+
+$$330 \cdot b^{26} = 19\,700 \implies b = \left(\frac{19\,700}{330}\right)^{1/26} \approx 1{,}17$$
+
+**Modell: $\underline{\underline{O(t) \approx 330 \cdot 1{,}18^{t}}}$**
+
+Modellen passer godt med den gitte $V(t) = 330 \cdot 1{,}1787^{t}$.
+
+### b
+
+Vi bruker GeoGebra CAS med $V(t) = 330 \cdot 1{,}1787^{t}$:
+
+![GeoGebra CAS — V(20) og V'(20)](/img/user/_resources/s1-v25-2-6-cas.png)
+
+$$V(20) = 330 \cdot 1{,}1787^{20} \approx \underline{\underline{8843 \, \mathrm{mrd\,kr}}}$$
+
+$$V'(t) = 330 \cdot 1{,}1787^{t} \cdot \ln(1{,}1787) \approx 54{,}26 \cdot e^{0{,}16441t}$$
+
+$$V'(20) \approx \underline{\underline{1454 \, \mathrm{mrd\,kr/år}}}$$
+
+**Tolkning:** I år 2018 ($t = 20$) var oljefondet verdt ca. $8843$ milliarder kroner, og verdien økte med ca. $1454$ milliarder kroner per år.
+
+### c
+
+Vi beregner gjennomsnittlig vekstfart i hvert intervall (se CAS-utklippet over):
+
+$$\frac{V(10) - V(0)}{10} \approx \frac{1708 - 330}{10} \approx \underline{\underline{138 \, \mathrm{mrd\,kr/år}}}$$
+
+$$\frac{V(26) - V(16)}{10} \approx \frac{19\,700 - 4581}{10} \approx \underline{\underline{1913 \, \mathrm{mrd\,kr/år}}}$$
+
+Forholdet mellom vekstfartene:
+
+$$\frac{1913}{138} \approx \underline{\underline{13{,}9}}$$
+
+Vekstfarten i perioden $[16, 26]$ er ca. **14 ganger** så stor som i $[0, 10]$. Dette er som forventet for en eksponentiell funksjon — prosentveksten er konstant, men siden grunnlaget er mye større mot slutten, øker den absolutte veksten kraftig.
 
 </div></div>
 

@@ -461,7 +461,7 @@ b) Medianen er mest egnet (gjennomsnittet trekkes opp av noen svært høye lønn
 
 ## Løsningsforslag
 
-### 2-5a
+### a
 
 Vi regner med at alle i hvert intervall tjener midtpunktet i intervallet (midtpunktmetoden).
 
@@ -498,7 +498,7 @@ $$
 
 **Medianlønnen er omtrent $\underline{\underline{479\,000 \, \mathrm{kr}}}$.**
 
-### 2-5b
+### b
 
 Bedriften har 15 ansatte med årslønn mellom 1 000 000 og 2 000 000 kr. Disse trekker gjennomsnittet kraftig opp, til 575 000 kr, mens de fleste ansatte tjener i området 350 000–500 000 kr.
 

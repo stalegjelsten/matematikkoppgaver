@@ -32,13 +32,13 @@ b) $\approx 4{,}8 \, \mathrm{millioner}$
 
 ## Løsningsforslag
 
-### 2-3a
+### a
 
 $$\text{Gjennomsnitt} = \frac{57\,000\,000\,000}{229\,963} \approx 247\,866 \approx 248\,000$$
 
 **Hver person skylder i gjennomsnitt omtrent $\underline{\underline{248\,000 \, \mathrm{kr}}}$.**
 
-### 2-3b
+### b
 
 229 963 personer utgjør 4,8 % av befolkningen over 18 år. La $N$ være antall personer over 18 år:
 

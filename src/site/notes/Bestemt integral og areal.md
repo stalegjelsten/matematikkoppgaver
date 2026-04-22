@@ -24,7 +24,7 @@ b) $\frac{5}{2}$
 
 ## Løsningsforslag
 
-### 1-1a
+### a
 
 $$
 \begin{aligned}
@@ -37,7 +37,7 @@ $$
 
 **Integralet er $\underline{\underline{-\frac{5}{4}}}$.** 
 
-### 1-1b
+### b
 Jeg finner først nullpunktene ved å faktorisere uttrykket.
 
 $$

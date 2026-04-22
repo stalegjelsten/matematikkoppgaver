@@ -23,7 +23,7 @@ b) $r(x)=\frac{1200}{x}$
 
 ## Løsningsforslag
 
-### 1-5a
+### a
 
 To størrelser er proporsjonale hvis forholdet mellom dem er konstant. Dette gir en lineær sammenheng som går gjennom origo: $y = k \cdot x$.
 
@@ -36,7 +36,7 @@ $$k = \frac{600}{4} = 150$$
 
 **Grafen $q$ beskriver sammenhengen mellom to proporsjonale størrelser, fordi den er en rett linje gjennom origo. Funksjonsuttrykket er $\underline{\underline{q(x) = 150x}}$.**
 
-### 1-5b
+### b
 
 To størrelser er omvendt proporsjonale hvis produktet av dem er konstant: $y \cdot x = k$, eller $y = \frac{k}{x}$.
 

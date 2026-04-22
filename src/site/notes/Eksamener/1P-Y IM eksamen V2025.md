@@ -10,7 +10,7 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [1-1](#oppgave-1-1) | [Enhetspris og sparing på ris](https://matematikkoppgaver.vercel.app/enhetspris-og-sparing-pa-ris/) | enhetskostnad, prosentregning, økonomi | × |
+| [1-1](#oppgave-1-1) | [Enhetspris og sparing på ris](https://matematikkoppgaver.vercel.app/enhetspris-og-sparing-pa-ris/) | enhetskostnad, prosentregning, økonomi | ✔︎ |
 | [1-2](#oppgave-1-2) | [Kvadratrotformel og mobilading](https://matematikkoppgaver.vercel.app/kvadratrotformel-og-mobilading/) | røtter, formler, algebra | ✔︎ |
 | [1-3](#oppgave-1-3) | [Kennys lån](https://matematikkoppgaver.vercel.app/kennys-lan/) | lån | ✔︎ |
 | [1-4](#oppgave-1-4) | [Rom med skråtak og volum](https://matematikkoppgaver.vercel.app/rom-med-skratak-og-volum/) | geometri, volum | × |
@@ -24,9 +24,9 @@ Table: {.eksamen-oversikt}
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [KI-modeller og strømforbruk](https://matematikkoppgaver.vercel.app/ki-modeller-og-stromforbruk/) | formler, regneark, diagram | × |
 | [2-2](#oppgave-2-2) | [Overføringshastighet og digitale data](https://matematikkoppgaver.vercel.app/overforingshastighet-og-digitale-data/) | bits og bytes, store tall, tallregning | × |
-| [2-3](#oppgave-2-3) | [Alis lån til bedriften](https://matematikkoppgaver.vercel.app/alis-lan-til-bedriften/) | lån, excel | × |
+| [2-3](#oppgave-2-3) | [Alis lån til bedriften](https://matematikkoppgaver.vercel.app/alis-lan-til-bedriften/) | lån, excel | ✔︎ |
 | [2-4](#oppgave-2-4) | [Energisammenlikning ved og strøm](https://matematikkoppgaver.vercel.app/energisammenlikning-ved-og-strom/) | enhetskostnad, økonomi, formler | ✔︎ |
-| [2-5](#oppgave-2-5) | [Lønnsalternativer ved avissalg](https://matematikkoppgaver.vercel.app/lonnsalternativer-ved-avissalg/) | lineær vekst, funksjoner, økonomi | × |
+| [2-5](#oppgave-2-5) | [Lønnsalternativer ved avissalg](https://matematikkoppgaver.vercel.app/lonnsalternativer-ved-avissalg/) | lineær vekst, funksjoner, økonomi, likningssystem | ✔︎ |
 
 # Del 1
 
@@ -59,6 +59,31 @@ I familien til Sara er de to voksne og to barn. Hver person spiser 5 kg ris hver
 >b) Hvor mange kroner sparer familien i løpet av ett år dersom de kjøper sekker med ris i stedet for kartonger med boil-in-bag-ris?
 
 ## Fasit
+
+a) 125 g
+b) 240 kr
+
+## Løsningsforslag
+
+### a
+
+1 kg = 1000 g. Det er 8 poser i en kartong, så hver pose inneholder
+
+$$\frac{1000 \, \mathrm{g}}{8} = \underline{\underline{125 \, \mathrm{g}}}$$
+
+### b
+
+Familien spiser til sammen $4 \cdot 5 = 20 \, \mathrm{kg}$ ris per år.
+
+**Kartong med boil-in-bag-ris:** $32 \, \mathrm{kr/kg}$
+
+$$20 \cdot 32 = 640 \, \mathrm{kr}$$
+
+**Sekk med ris:** $80 \, \mathrm{kr}$ for $4 \, \mathrm{kg}$, altså $20 \, \mathrm{kr/kg}$
+
+$$20 \cdot 20 = 400 \, \mathrm{kr}$$
+
+**Familien sparer $\underline{\underline{640 - 400 = 240 \, \mathrm{kr}}}$ i løpet av ett år ved å kjøpe sekker med ris.**
 
 
 </div></div>
@@ -210,7 +235,6 @@ Gulvet i rommet er et rektangel med bredde $4 \text{ m}$ og lengde $6 \text{ m}$
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -243,7 +267,6 @@ Gatekunstneren stiller seg noen spørsmål om antallet fliser han må bruke:
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -298,7 +321,6 @@ Anta at strømprisen er 2 kr/kWh i Norge og 1,5 kr/kWh i Tyskland.
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -344,6 +366,58 @@ Voyager 2 har en datamaskin med et minne på $69{,}6 \mathrm{~kB}$.
 
 ## Fasit
 
+Voyager 2 minne: 556 800 bit · Tid å sende: 58 min · 782 ISDN-linjer · Sang med Voyager: 35 timer · Bredbånd for 1 sek: 20,16 Mbit/s
+
+## Løsningsforslag
+
+**Omars grønne spørsmål**
+
+*Hvor mange bit er minnet til Voyager 2?*
+
+Vi gjør om fra kB til bit. Først fra kB til B, deretter fra B til bit:
+
+$$69{,}6 \, \mathrm{kB} = 69{,}6 \cdot 1000 \, \mathrm{B} = 69\,600 \, \mathrm{B}$$
+
+$$69\,600 \, \mathrm{B} \cdot 8 = \underline{\underline{556\,800 \, \mathrm{bit}}}$$
+
+*Hvor lang tid bruker romsonden på å sende hele minnet?*
+
+Vi bruker formelen og løser for tid:
+
+$$\text{tid} = \frac{\text{datamengde}}{\text{overføringshastighet}} = \frac{556\,800 \, \mathrm{bit}}{160 \, \mathrm{bit/s}} = 3480 \, \mathrm{s}$$
+
+Vi gjør om til minutter: $3480 \div 60 = \underline{\underline{58 \, \mathrm{min}}}$
+
+**Omars gule spørsmål**
+
+*Hvor mange ISDN-linjer for 100 Mbit/s?*
+
+Vi gjør om til samme enhet: $100 \, \mathrm{Mbit/s} = 100\,000 \, \mathrm{kbit/s}$
+
+$$\frac{100\,000 \, \mathrm{kbit/s}}{128 \, \mathrm{kbit/s}} = 781{,}25$$
+
+Siden vi må ha *minst* like høy hastighet, runder vi opp. **Vi trenger $\underline{\underline{782 \text{ ISDN-linjer}}}$.**
+
+**Omars blå spørsmål**
+
+*Hvor lang tid med Voyager-hastighet?*
+
+Sangen varer $3 \, \mathrm{min} \, 30 \, \mathrm{s} = 210 \, \mathrm{s}$ med kvalitet $96 \, \mathrm{kbit/s}$.
+
+Størrelsen på sangen:
+
+$$96 \, \mathrm{kbit/s} \cdot 210 \, \mathrm{s} = 20\,160 \, \mathrm{kbit} = 20\,160\,000 \, \mathrm{bit}$$
+
+Tid med Voyager 2 sin hastighet på 160 bit/s:
+
+$$\frac{20\,160\,000}{160} = 126\,000 \, \mathrm{s} = \frac{126\,000}{3600} = \underline{\underline{35 \, \mathrm{timer}}}$$
+
+*Bredbåndshastighet for å laste ned på ett sekund?*
+
+$$\frac{20\,160\,000 \, \mathrm{bit}}{1 \, \mathrm{s}} = 20\,160\,000 \, \mathrm{bit/s} = \underline{\underline{20{,}16 \, \mathrm{Mbit/s}}}$$
+
+**For å laste ned sangen på ett sekund trenger Omar et bredbånd på minst $\underline{\underline{20{,}16 \, \mathrm{Mbit/s}}}$.**
+
 
 </div></div>
 
@@ -357,6 +431,8 @@ Voyager 2 har en datamaskin med et minne på $69{,}6 \mathrm{~kB}$.
 
 
 
+# Alis lån til bedriften
+
 Ali eier en bedrift. Han tar opp et serielån på 800 000 kroner i starten av et år.
 Lånet skal betales ned i løpet av 5 år med én termin per år. Renten er 6,2 % per år.
 Lånet er gebyrfritt.
@@ -369,6 +445,7 @@ Ali vil bruke et regneark til å lage en nedbetalingsplan. Nedenfor ser du hva h
 > a) Lag et regneark som vist ovenfor. Lag formler i de grønne cellene slik at utregningene blir riktige. Husk å vise formlene du bruker i regnearket.
 
 For å regne ut summen $S$ av renter du må betale for et serielån, kan du bruke formelen
+
 $$
 S= \frac{L \cdot n + L}{2} \cdot \frac{r}{100}
 $$
@@ -388,10 +465,32 @@ b) 148 800 kr
 
 ## Løsningsforslag
 
+### a
+
+Et serielån har like store avdrag i hver termin. Avdraget er
+
+$$\frac{800\,000}{5} = 160\,000 \, \mathrm{kr}$$
+
+Rentene beregnes av restlånet ved starten av året. Regnearket under viser nedbetalingsplanen med verdier og formler.
+
+
+![Nedbetalingsplan for Alis serielån](/img/user/_resources/1p-y-v25-2-3-regneark.png){width=80%}
+
+
+**Forklaring av formlene:**
+
+- **Renter** = Lån starten av året $\cdot$ renten (f.eks. `=B6*$B$2`)
+- **Avdrag** = Lånebeløpet $\div$ antall terminer (f.eks. `=$B$1/$B$3`)
+- **Terminbeløp** = Renter + Avdrag (f.eks. `=C6+D6`)
+- **Lån slutten av året** = Lån starten av året $-$ Avdrag (f.eks. `=B6-D6`)
+- **Lån starten av året** (fra termin 2) = Lån slutten av forrige år (f.eks. `=F6`)
+
 ### b
 Vi vet at $L=800\,000$, $n=5$, $r=6{,}2$. Da kan vi regne ut $S$ med:
+
 $$S=\frac{800000 \cdot 5 + 800000}{2} \cdot \frac{6{,}2}{100}=\frac{4\,800\,000}{2} \cdot 0{,}062 = 2\,400\,000 \cdot 0{,}062 = 148 \, 800 $$
-  **Ali betaler 148 800 kr i renter.**
+
+**Ali betaler 148 800 kr i renter.**
 
 
 </div></div>
@@ -485,14 +584,18 @@ Elise skal gå fra dør til dør og selge aviser hver lørdag. En avis koster 49
 
 Firmaet hun skal arbeide for, beregner lønn på ulike måter. Elise kan velge mellom to tilbud.
 
+<!-- two-column start left-width=40% -->
 
 > [!green-box] Tilbud 1
 > Lønn: 35 % av beløpet hun selger aviser for
 
+---
 
 > [!yellow-box] Tilbud 2
 > Fast lønn: 150 kroner per lørdag  
 > Tillegg: 10 kroner per avis hun selger
+
+<!-- two-column stop -->
 
 Elise gjør seg noen tanker og stiller noen spørsmål.
 

@@ -58,7 +58,6 @@ I 2024 var indeksen for en vare 120. Varen kostet da 400 kroner. I 2022 var inde
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -78,7 +77,6 @@ Eiffeltårnet i Paris er 330 meter høyt. Ellen har kjøpt en modell av Eiffelt�
 >Hvor høy er modellen?
 
 ## Fasit
-
 
 </div></div>
 
@@ -121,7 +119,7 @@ c) Kumulativ frekvens: 10. Det var 10 vogner med 2 eller færre personer i.
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 
 Vi vet at det er 20 vogner totalt. Fra tabellen kan vi finne hvor mange vogner som hadde personer i seg:
 
@@ -137,7 +135,7 @@ $$\text{Tomme vogner} = 20 - 15 = 5$$
 
 **Dette viser at Stines påstand er riktig - det var $\underline{\underline{5}}$ tomme vogner.**
 
-### 4b
+### b
 
 Vi skal finne gjennomsnittet og medianen for antallet personer i hver vogn.
 
@@ -171,7 +169,7 @@ $$\text{Median} = \frac{\textcolor{steelblue}{2} + \textcolor{seagreen}{3}}{2} =
 
 **Gjennomsnittet er $\underline{\underline{2{,}2}}$ personer per vogn, og medianen er $\underline{\underline{2{,}5}}$ personer per vogn.**
 
-### 4c
+### c
 
 Kumulativ frekvens forteller oss hvor mange vogner som har to personer eller færre.
 
@@ -203,7 +201,6 @@ Regine har tegnet en rettvinklet trekant. Den ene kateten er 6 cm, og den andre 
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -227,7 +224,6 @@ Magnus kjøper et sukkerspinn og en softis. Han betaler 70 kroner.
 >Hvor mye koster et sukkerspinn, hvor mye koster en bøtte med popkorn, og hvor mye koster en softis?
 
 ## Fasit
-
 
 </div></div>
 
@@ -254,7 +250,6 @@ Kaja tar opp et serielån på 400 000 kroner.
 >c) Hvor mange kroner måtte Kaja ha betalt i renter i tredje termin dersom lånets nedbetalingstid hadde vært 5 år, med én termin per år?
 
 ## Fasit
-
 
 </div></div>
 
@@ -299,7 +294,6 @@ Resultat:
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -342,20 +336,20 @@ d) 54,7 %
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 ![Regresjon for Alex sitt salg av hodepynt](/img/user/_resources/2py-h25-2-1-regr.png){width=60%}
 
 Jeg la inn dataene i GeoGebra og brukte regresjon med en eksponentiell modell
 
 **Modellen $\underline{\underline{f(x) = 1271 \cdot 1{,}124^{x}}}$ der $x$ er antall måneder etter februar 2025 passer godt for Alex' omsetning.**
 
-### 2-1b
+### b
 
 Vekstfaktoren $b = 1{,}124$ tilsvarer $112{,}4 \,\%$. Siden utgangspunktet vårt er 100 %, så blir økningen 12,4 %.
 
 **Omsetningen øker med omtrent $\underline{\underline{12{,}4\,\%}}$ per måned ifølge modellen.**
 
-### 2-1c
+### c
 
 ![$f$ skjærer $y=20000$ når omsetningen er 20 000 kr](/img/user/_resources/2py-h25-2-1c-graf.png){#fig:2-1c-graf width=40%}
 
@@ -363,7 +357,7 @@ Vi kan enten løse likningen $f(x)=20000$ i CAS i GeoGebra, eller så kan vi fin
 
 **Alex kommer til å nå målet etter omtrent $\underline{\underline{23{,}5}}$ måneder, det vil si i $\underline{\underline{\text{januar 2027}}}$ ifølge modellen.**
 
-### 2-1d
+### d
 
 Vi skal finne hvor mange prosent omsetningen må øke med per måned etter juni 2025 for å nå målet i desember 2025.
 
@@ -443,7 +437,7 @@ c) Danmark har større spredning i innbyggertall (større standardavvik). Median
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 
 ![Beregning av sentralmål og spredningsmål i GeoGebra](/img/user/_resources/2py-h25-2-2a.png){width=50%}
 
@@ -459,7 +453,7 @@ $$\text{Variasjonsbredde} = \text{Maks} - \text{Min} = 1\,098\,061 - 55\,684 = 1
 - **Standardavvik:** $\underline{\underline{297\,326}}$
 - **Variasjonsbredde:** $\underline{\underline{1\,042\,377}}$
 
-### 2-2b
+### b
 
 Vi ser at gjennomsnittet er nesten dobbelt så stort som medianen. Dette skyldes at Oslo (1 098 061) er en ekstremverdi som trekker gjennomsnittet kraftig opp.
 
@@ -467,7 +461,7 @@ Når vi har ekstremverdier i datasettet, er medianen et bedre sentralmål fordi 
 
 **Jeg er mest enig med Kine. Medianen er best å bruke fordi Oslo er en ekstremverdi som gjør gjennomsnittet misvisende. Medianen på 123 110 gir et mer representativt bilde av størrelsen på de norske tettstedene.**
 
-### 2-2c
+### c
 
 Vi skal sammenligne folketallet i de danske og norske tettstedene.
 
@@ -705,11 +699,11 @@ c) 42,2 %
 
 ## Løsningsforslag
 
-### 2-5a
+### a
 
 Vi må anta **jevn fordeling av aldre innenfor hvert intervall**. Dermed blir midtpunktet en god tilnærmingsverdi for av gjennomsnittsalderen i gruppen.
 
-### 2-5b
+### b
 
 
 Vi bruker midtpunktet i hvert intervall:
@@ -733,7 +727,7 @@ $$
 
 **Gjennomsnittsalderen i Åseral kommune var $\underline{\underline{42{,}4}}$ år i 2024.**
 
-### 2-5c
+### c
 Gjennomsnittsalderen er 42,4 år. Vi må finne hvor mange som var eldre enn dette.
 
 Intervallene som er helt over 42,4 år:
@@ -790,7 +784,6 @@ Når de kommer til hytta, ligger grusen de har bestilt, i en kjegleformet haug p
 >b) Gjør beregninger og avgjør om de har fått levert nok grus.
 
 ## Fasit
-
 
 </div></div>
 

@@ -96,7 +96,7 @@ b) 8
 
 ## Løsningsforslag
 
-### 1-2a
+### a
 
 Data sortert i stigende rekkefølge:
 
@@ -110,7 +110,7 @@ $$\text{median} = \frac{4 + 5}{2} = 4{,}5$$
 
 **Gjennomsnittet er 4,2 timer og medianen er 4,5 timer.**
 
-### 1-2b
+### b
 
 Den kumulative frekvensen for 5 timer er antall dager der Lars jobbet høyst 5 timer. Vi teller antall verdier som er mindre eller lik 5 timer: $0, 3, 3, 3, 4, 5, 5, 5$. 
 
@@ -193,7 +193,7 @@ b) $T(n) = 4n + 8$
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 
 Vi teller sirkler i de tre figurene:
 
@@ -213,7 +213,7 @@ $$12 + 9 \cdot 4 = 48$$
 
 **Figur 4 har $\underline{\underline{24}}$ sirkler og figur 10 har $\underline{\underline{48}}$ sirkler.**
 
-### 1-4b
+### b
 
 Vi ser at $T(n) = 12 + (n-1) \cdot 4 = 4n + 8$.
 
@@ -266,7 +266,7 @@ b) Det totale CO₂-utslippet i 2025–2029 ($\approx 951 \, \mathrm{tonn}$)
 
 ## Løsningsforslag
 
-### 1-5a
+### a
 
 Linje 2 i programmet er `return 200 * 0.975 ** x`.
 
@@ -276,7 +276,7 @@ Linje 2 i programmet er `return 200 * 0.975 ** x`.
 
 **Uttrykket $200 \cdot 0{,}975^x$ gir utslippet (i tonn CO₂) $x$ år etter 2025.**
 
-### 1-5b
+### b
 
 Programmet beregner $f(0) + f(1) + f(2) + f(3) + f(4)$, altså summen av utslippet for $x = 0, 1, 2, 3, 4$.
 
@@ -325,7 +325,7 @@ b) $\approx 188 \,\%$ økning
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 
 **Metode 1 – bruke modellen direkte:**
 
@@ -353,7 +353,7 @@ Fra grafen leser vi av:
 
 2) **Fra og med $x = 27$, som tilsvarer mars 2027, vil bedriften for første gang selge mer enn $\underline{\underline{2000 \text{ flasker}}}$ i løpet av en måned.**
 
-### 2-1b
+### b
 
 Fra desember 2024 ($x = 0$) til desember 2026 ($x = 24$):
 
@@ -403,7 +403,7 @@ b) $\approx 6 \times 10^{6} \, \mathrm{m}$
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 
 Kjøkkensvampen har volum $150 \, \mathrm{cm^3}$, og det er mellom $25$ og $54$ milliarder bakterier per cm³.
 
@@ -413,7 +413,7 @@ $$4 \times 10^{10} \cdot 150 = 6 \times 10^{12}$$
 
 **Det er omtrent $\underline{\underline{6 \times 10^{12}}}$ bakterier i kjøkkensvampen.**
 
-### 2-2b
+### b
 
 De fleste bakterier er mellom $0{,}2$ og $2$ mikrometer, omtrent $1 \, \mathrm{\mu m} = 10^{-6} \, \mathrm{m}$.
 
@@ -499,7 +499,7 @@ b) Minst $100$ dager (og maks $249$ dager)
 
 ## Løsningsforslag
 
-### 2-4a
+### a
 
 La $x$ = antall dager Hermann parkerer i løpet av et år.
 
@@ -509,7 +509,7 @@ $$\textcolor{steelblue}{B(x) = 1995 + 30x}$$
 
 $$\textcolor{seagreen}{C(x) = 3490 + 24x}$$
 
-### 2-4b
+### b
 
 B lønner seg fremfor A når B er billigere enn A. Vi finner skjæringspunktet mellom A og B grafisk:
 
@@ -567,7 +567,7 @@ c) Se løsningsforslag for eksempel
 
 ## Løsningsforslag
 
-### 2-5a
+### a
 
 Lag A sortert: $15, 18, 24, 45, 60, 78$
 
@@ -587,13 +587,13 @@ $$\sigma \approx 23{,}2 \, \text{år}$$
 
 **Medianen er 34,5 år, gjennomsnittsalderen er 40 år og standardavviket er 23,2 år.**
 
-### 2-5b
+### b
 
 **Lag B** har høyere median og høyere gjennomsnitt enn lag A, men lavere standardavvik. Det betyr at personene på lag B generelt er eldre enn på lag A, og at de er mer jevnaldrende (mindre variasjon i alderen).
 
 **Lag C** har lavere median men høyere gjennomsnitt enn lag A. Det tyder på at det er en eller noen få personer med svært høy alder som drar gjennomsnittet opp, mens over halvparten er yngre enn medianen på lag A. Det høyere standardavviket bekrefter at aldersfordelingen er mer spredt enn på lag A.
 
-### 2-5c
+### c
 
 **Eksempel på lag B** (median > 34,5, gjennomsnitt > 40, SD < 23,2):
 
@@ -652,7 +652,7 @@ c) $\approx 0{,}5 \, \mathrm{min/dag}$
 
 ## Løsningsforslag
 
-### 2-6a
+### a
 
 Vi skal bestemme $a$ og $b$ i modellen $L(x) = a \cdot x^b$.
 
@@ -670,7 +670,7 @@ Grafen viser at modellen passer godt til datapunktene.
 
 **$\underline{\underline{a \approx 10 \text{ og } b \approx 0{,}334}}$, slik at $L(x) \approx 10 \cdot x^{0{,}334}$.**
 
-### 2-6b
+### b
 
 Vi vil finne $x$ slik at $L(x) = 45$. Vi tegner linjen $y = 45$ og finner skjæringspunktet med $L(x)$:
 
@@ -682,7 +682,7 @@ $91$ dager $\approx 13$ uker fra dag 1. Hanne begynte for 9 uker siden, så det 
 
 **Ifølge modellen vil det ta omtrent $\underline{\underline{13 \text{ uker}}}$ fra Hanne startet (ca. 4 uker fra nå) før hun klarer å løpe 45 minutter sammenhengende.**
 
-### 2-6c
+### c
 
 Gjennomsnittlig økning per dag fra dag 1 til dag 60:
 
@@ -788,7 +788,7 @@ b) $\approx 8374 \, \mathrm{km}$
 
 Tores treningsplan er en geometrisk rekke med $a_1 = 40 \, \mathrm{km}$ og kvotient $k = 1{,}05$.
 
-### 2-8a
+### a
 
 Distansen i uke 50 er det 50. leddet i rekken:
 
@@ -796,7 +796,7 @@ $$a_{50} = a_1 \cdot k^{49} = 40 \cdot 1{,}05^{49} \approx 40 \cdot 10{,}921 \ap
 
 **Tore vil sykle omtrent $\underline{\underline{437 \, \mathrm{km}}}$ i uke 50 dersom han klarer å følge planen.**
 
-### 2-8b
+### b
 
 Den totale distansen over 50 uker er summen av de 50 første leddene:
 

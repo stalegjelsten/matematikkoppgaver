@@ -25,7 +25,7 @@ Table: {.eksamen-oversikt}
 | [2-1](#oppgave-2-1) | [Effekttrekant og elmotor](https://matematikkoppgaver.vercel.app/effekttrekant-og-elmotor/) | effekttrekant | ✔︎ |
 | [2-2](#oppgave-2-2) | [Stine hurtiglader elbil](https://matematikkoppgaver.vercel.app/stine-hurtiglader-elbil/) | lineær vekst, modellering | ✔︎ |
 | [2-3](#oppgave-2-3) | [Chris lån og sparing for å ta førerkort](https://matematikkoppgaver.vercel.app/chris-lan-og-sparing-for-a-ta-forerkort/) | excel, lån, sparing, kredittkort | ✔︎ |
-| [2-4](#oppgave-2-4) | [Isak reiser Oslo til Stockholm](https://matematikkoppgaver.vercel.app/isak-reiser-oslo-til-stockholm/) | økonomi, prosentregning, modellering | ✔︎ |
+| [2-4](#oppgave-2-4) | [Isak reiser Oslo til Stockholm](https://matematikkoppgaver.vercel.app/isak-reiser-oslo-til-stockholm/) | økonomi, prosentregning, modellering, systematisering, sammensatte måleenheter | ✔︎ |
 
 # Del 1
 
@@ -65,7 +65,7 @@ b) A – størrelse 50/70 (1000 g / 20 g = 50 reker per kg)
 
 ## Løsningsforslag
 
-### 1-1a
+### a
 
 Vi deler prisen på antall kilogram:
 
@@ -75,7 +75,7 @@ $$
 
 **Prisen per kilogram er $\underline{\underline{80 \, \mathrm{kr/kg}}}$.**
 
-### 1-1b
+### b
 
 Vi finner hvor mange reker det er per kilogram når én reke veier 20 gram:
 
@@ -146,8 +146,7 @@ $$
 11 \cdot 1000 = 11\,000 \, \mathrm{kr}
 $$
 
-Siden $11\,000 \, \mathrm{kr} > 10\,500 \, \mathrm{kr}$, **klarer Oda sparemålet sitt hvis hun følger budsjettet.** Hun vil ha $\underline{\underline{500 \, \mathrm{kr}}}$ til overs.
-
+**Oda klarer sparemålet sitt hvis hun følger budsjettet. Hun vil ha $\underline{\underline{500 \, \mathrm{kr}}}$ til overs.**
 
 </div></div>
 
@@ -224,7 +223,7 @@ b) $307\degree$
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 
 I enhetssirkelen er $\sin \alpha$ lik $y$-koordinaten til punktet der linjestykket $g$ treffer sirkelen. For $\alpha = 53°$ kan vi lese av figuren at punktet ligger omtrent på $y = 0{,}8$.
 
@@ -233,7 +232,7 @@ I enhetssirkelen er $\sin \alpha$ lik $y$-koordinaten til punktet der linjestykk
 >[!tip] Merk
 >Den eksakte verdien er $\sin 53° \approx 0{,}799$.
 
-### 1-4b
+### b
 
 Cosinus er $x$-koordinaten i enhetssirkelen. For $\alpha = 53°$ er $x$-koordinaten positiv (i første kvadrant).
 
@@ -291,7 +290,7 @@ b) 128 GB + iCloud+ (8 mnd) koster $11\,386 \, \mathrm{kr}$, som er $1\,304 \, \
 
 ## Løsningsforslag
 
-### 1-5a
+### a
 
 Lise fyller opp 4 GB per måned. Med 128 GB intern lagring:
 
@@ -301,7 +300,7 @@ $$
 
 **Etter $\underline{\underline{32 \, \text{måneder}}}$ er minnet fullt på 128 GB-modellen.**
 
-### 1-5b
+### b
 
 Vi beregner totalkostnaden for 40 måneder for begge alternativene.
 
@@ -437,7 +436,7 @@ c) Hvis $\cos \phi$ øker så øker effektfaktoren. Mer av effekten brukes til d
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 
 Vi bruker formelen $S = U \cdot I$:
 
@@ -453,7 +452,7 @@ $$
 
 **Tilsynelatende effekt er $\underline{\underline{S = 2760 \, \mathrm{VA}}}$ og fasevinkelen er $\underline{\underline{\phi = 35°}}$.**
 
-### 2-1b
+### b
 
 Vi har $S = 2760 \, \mathrm{VA}$, $Q = 1583 \, \mathrm{VAr}$ og $\cos \phi = 0{,}8192$.
 
@@ -475,7 +474,7 @@ Begge metodene gir samme svar.
 
 **Den aktive effekten er $\underline{\underline{P \approx 2261 \, \mathrm{W}}}$.**
 
-### 2-1c
+### c
 
 Tilsynelatende effekt $S$ er den samme, men $\cos \phi$ er større (fasevinkelen $\phi$ er mindre).
 
@@ -521,7 +520,7 @@ c) Ca. 294 km per time hurtiglading
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 
 Stine lader fra 28 % til 59 % = 31 prosentpoeng på 22 minutter (fra 12:33 til 12:55).
 
@@ -539,7 +538,7 @@ $$
 
 **Det vil ta omtrent $\underline{\underline{15 \, \mathrm{minutter}}}$ å lade fra 59 % til 80 %.**
 
-### 2-2b
+### b
 
 31 prosentpoeng tilsvarer 18,3 kWh. Vi beregner full kapasitet:
 
@@ -549,7 +548,7 @@ $$
 
 **Ut fra målingene er batterikapasiteten omtrent $\underline{\underline{59 \, \mathrm{kWh}}}$**, som er nær reklamens påstand om 60 kWh. Det kan godt stemme – avviket er på under 2 %.
 
-### 2-2c
+### c
 
 Ladeeffekten er:
 
@@ -740,7 +739,7 @@ Isak skal reise fra Oslo til Stockholm. Han finner to alternative måter:
 
 ## Fasit
 
-Alt 1 er 544 kr billigere. Alt 2 er 2 t 49 min raskere. Gjennomsnittsfart tog ≈ 61,3 km/h. CO₂: alt 1 = 4,16 kg, alt 2 = 52,1 kg. Alt 1 har 92 % lavere utslipp.
+Alt 1 er 544 kr billigere. Alt 2 er 2 t 49 min raskere. Gjennomsnittsfart tog ≈ 61,4 km/h. CO₂: alt 1 = 4,16 kg, alt 2 = 52,1 kg. Alt 1 har 92 % lavere utslipp.
 
 ## Løsningsforslag
 
@@ -783,10 +782,10 @@ $$
 Vi bruker $v = \dfrac{s}{t}$ med $s = 416 \, \mathrm{km}$ og $t = \dfrac{407}{60} \, \mathrm{h}$:
 
 $$
-v = \frac{416}{\frac{407}{60}} = \frac{416 \cdot 60}{407} \approx 61{,}3 \, \mathrm{km/h}
+v = \frac{416}{\frac{407}{60}} = \frac{416 \cdot 60}{407} \approx 61{,}4 \, \mathrm{km/h}
 $$
 
-**Gjennomsnittsfarten til toget er $\underline{\underline{61{,}3 \, \mathrm{km/h}}}$.**
+**Gjennomsnittsfarten til toget er $\underline{\underline{61{,}4 \, \mathrm{km/h}}}$.**
 
 ---
 

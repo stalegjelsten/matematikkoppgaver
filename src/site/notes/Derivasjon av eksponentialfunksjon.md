@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["derivasjon","eksponentialfunksjoner"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":1},{"fag":"r1","del":1,"oppgave":1}],"poeng":2,"title":"Derivasjon av eksponentialfunksjon","status":3,"source":null,"todo":null,"dg-permalink":"/derivasjon-av-eksponentialfunksjon/","permalink":"/derivasjon-av-eksponentialfunksjon/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["derivasjon","eksponentialfunksjoner"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":1},{"fag":"r1","del":1,"oppgave":1}],"poeng":2,"title":"Derivasjon av eksponentialfunksjon","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["derivasjon","eksponentialfunksjoner"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":1},{"fag":"r1","del":1,"oppgave":1}],"poeng":2,"title":"Derivasjon av eksponentialfunksjon","status":3,"source":null,"todo":null,"kategori":1,"vanskegrad":2,"beskrivelse":"Derivere $f(x)=e^{2x}/x$ med kvotientregelen.","dg-permalink":"/derivasjon-av-eksponentialfunksjon/","permalink":"/derivasjon-av-eksponentialfunksjon/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["derivasjon","eksponentialfunksjoner"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":1,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":1},{"fag":"r1","del":1,"oppgave":1}],"poeng":2,"title":"Derivasjon av eksponentialfunksjon","status":3,"source":null,"todo":null,"kategori":1,"vanskegrad":2,"beskrivelse":"Derivere $f(x)=e^{2x}/x$ med kvotientregelen."}}
 ---
 
 
@@ -11,6 +11,7 @@
 
 ## Fasit
 
+$$f'(x)=e^{2x} \cdot \frac{2x+1}{x^{2}}$$
 
 ## Løsningsforslag
 

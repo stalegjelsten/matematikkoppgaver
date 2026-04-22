@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-22","modified":"2025-11-22","aliases":[],"dg-publish":true,"temaer":["hypotesetest"],"fag":["s2"],"eksamen":"h25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":3}],"title":"Hypotesetester om komponenter som er defekte","source":null,"todo":null,"status":3,"dg-permalink":"/hypotesetester-om-komponenter-som-er-defekte/","permalink":"/hypotesetester-om-komponenter-som-er-defekte/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-22","modified":"2025-11-22","aliases":[],"temaer":["hypotesetest"],"fag":["s2"],"eksamen":"h25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":3}],"title":"Hypotesetester om komponenter som er defekte","source":null,"todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2025-11-22","modified":"2025-11-22","aliases":[],"dg-publish":true,"temaer":["hypotesetest","binomisk fordeling","sannsynlighet"],"fag":["s2"],"eksamen":"h25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":3}],"title":"Hypotesetester om komponenter som er defekte","source":null,"todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Binomisk ensidig hypotesetest; finne minste utvalgsstørrelse $n$ som gir ønsket signifikansnivå.","deloppgaver":[{"deloppgave":"a","beskrivelse":"Binomisk test med $n=20$, $p=0{,}01$; beregne $P(X\\ge 1)=0{,}1821$ i sannsynlighetskalkulatoren."},{"deloppgave":"b","kategori":3,"vanskegrad":3,"beskrivelse":"Finne minste $n$ slik at $P(X\\le 1)<0{,}05$ gitt $p=0{,}01$ ved å justere $n$ i GeoGebra."}],"dg-permalink":"/hypotesetester-om-komponenter-som-er-defekte/","permalink":"/hypotesetester-om-komponenter-som-er-defekte/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-22","modified":"2025-11-22","aliases":[],"temaer":["hypotesetest","binomisk fordeling","sannsynlighet"],"fag":["s2"],"eksamen":"h25","del":2,"oppgave":3,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":3}],"title":"Hypotesetester om komponenter som er defekte","source":null,"todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Binomisk ensidig hypotesetest; finne minste utvalgsstørrelse $n$ som gir ønsket signifikansnivå.","deloppgaver":[{"deloppgave":"a","beskrivelse":"Binomisk test med $n=20$, $p=0{,}01$; beregne $P(X\\ge 1)=0{,}1821$ i sannsynlighetskalkulatoren."},{"deloppgave":"b","kategori":3,"vanskegrad":3,"beskrivelse":"Finne minste $n$ slik at $P(X\\le 1)<0{,}05$ gitt $p=0{,}01$ ved å justere $n$ i GeoGebra."}]}}
 ---
 
 
@@ -25,7 +25,7 @@ b) ??
 
 ## Løsningsforslag
 
-### 2-3a
+### a
 Vi lar $p$ være sannsynligheten for at en tilfeldig valgt komponent er defekt. Bedriften som klager påstår at $p>0{,}01$. Hypotesene våre er
 $$
 \begin{aligned}
@@ -44,7 +44,7 @@ Sannsynligheten for å finne 1 eller flere defekte komponenter gitt at nullhypot
 
 **$p$-verdien er $0{,}1821$. Det er ikke grunnlag for forkaste nullhypotesen om at andelen er 1 % eller lavere. Klagen fra bedriften er ikke velbegrunnet.**
 
-### 2-3b
+### b
 
 >[!danger] Usikker løsning
 >

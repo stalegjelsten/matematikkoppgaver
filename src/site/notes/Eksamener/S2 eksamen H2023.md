@@ -10,11 +10,11 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [1-1](#oppgave-1-1) | [Bestemt integral 3](https://matematikkoppgaver.vercel.app/bestemt-integral-3/) | integral | ✔︎ |
-| [1-2a](#oppgave-1-2a) | [Uendelig geometrisk rekke](https://matematikkoppgaver.vercel.app/uendelig-geometrisk-rekke/) | uendelig rekke, rekker | ✔︎ |
-| [1-2b](#oppgave-1-2b) | [Aritmetisk rekke](https://matematikkoppgaver.vercel.app/aritmetisk-rekke/) | rekker | ✔︎ |
-| [1-3](#oppgave-1-3) | [Grensekostnader og enhetskostnader fra graf](https://matematikkoppgaver.vercel.app/grensekostnader-og-enhetskostnader-fra-graf/) | grenseinntekt og grensekostnad, enhetskostnad, tolke grafer | ✔︎ |
-| [1-4](#oppgave-1-4) | [Ukjent program h23](https://matematikkoppgaver.vercel.app/ukjent-program-h23/) | programmering | ✔︎ |
+| [1-1](#oppgave-1-1) | [Bestemt integral 3](https://matematikkoppgaver.vercel.app/bestemt-integral-3/) | integral, bestemt integral, tolkning av integraler | ✔︎ |
+| [1-2a](#oppgave-1-2a) | [Uendelig geometrisk rekke](https://matematikkoppgaver.vercel.app/uendelig-geometrisk-rekke/) | uendelig rekke, rekker, geometrisk rekke | ✔︎ |
+| [1-2b](#oppgave-1-2b) | [Aritmetisk rekke](https://matematikkoppgaver.vercel.app/aritmetisk-rekke/) | rekker, aritmetisk rekke | ✔︎ |
+| [1-3](#oppgave-1-3) | [Grensekostnader og enhetskostnader fra graf](https://matematikkoppgaver.vercel.app/grensekostnader-og-enhetskostnader-fra-graf/) | grenseinntekt og grensekostnad, enhetskostnad, tolke grafer, derivasjon, argumentasjon | ✔︎ |
+| [1-4](#oppgave-1-4) | [Ukjent program h23](https://matematikkoppgaver.vercel.app/ukjent-program-h23/) | programmering, numerisk integrasjon, integral, areal under graf | ✔︎ |
 | [1-5](#oppgave-1-5) | [Tunge kuler i kasse](https://matematikkoppgaver.vercel.app/tunge-kuler-i-kasse/) | sannsynlighet, diskrete sannsynlighetsfordelinger, forventningsverdi, varians | ✔︎ |
 
 **Del 2** — 3 timer — med hjelpemidler
@@ -23,10 +23,10 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [Modell for etterspørsel av vare](https://matematikkoppgaver.vercel.app/modell-for-ettersporsel-av-vare/) | etterspørsel, modellering, regresjon, grenseinntekt og grensekostnad | ✔︎ |
-| [2-2](#oppgave-2-2) | [Miriam og Hermods sparing](https://matematikkoppgaver.vercel.app/miriam-og-hermods-sparing/) | sparing, rekker | ✔︎ |
-| [2-3](#oppgave-2-3) | [Normalfordelte vinterdekk](https://matematikkoppgaver.vercel.app/normalfordelte-vinterdekk/) | normalfordeling, hypotesetest | ✔︎ |
-| [2-4](#oppgave-2-4) | [Rekursiv sammenheng mellom pentagontall](https://matematikkoppgaver.vercel.app/rekursiv-sammenheng-mellom-pentagontall/) | rekursiv sammenheng, programmering, rekker | ✔︎ |
+| [2-1](#oppgave-2-1) | [Modell for etterspørsel av vare](https://matematikkoppgaver.vercel.app/modell-for-ettersporsel-av-vare/) | etterspørsel, modellering, regresjon, grenseinntekt og grensekostnad, eksponentialfunksjoner, derivasjon | ✔︎ |
+| [2-2](#oppgave-2-2) | [Miriam og Hermods sparing](https://matematikkoppgaver.vercel.app/miriam-og-hermods-sparing/) | sparing, rekker, excel | ✔︎ |
+| [2-3](#oppgave-2-3) | [Normalfordelte vinterdekk](https://matematikkoppgaver.vercel.app/normalfordelte-vinterdekk/) | normalfordeling, hypotesetest, sentralgrenseteoremet, sannsynlighet | ✔︎ |
+| [2-4](#oppgave-2-4) | [Rekursiv sammenheng mellom pentagontall](https://matematikkoppgaver.vercel.app/rekursiv-sammenheng-mellom-pentagontall/) | rekursiv sammenheng, programmering, rekker, figurtall | ✔︎ |
 | [2-5](#oppgave-2-5) | [Simuler sannsynlighet for høyden til 24 måneder gammelt barn](https://matematikkoppgaver.vercel.app/simuler-sannsynlighet-for-hoyden-til-24-maneder-gammelt-barn/) | programmering, simulering, normalfordeling | ✔︎ |
 
 # Del 1
@@ -46,7 +46,7 @@ Table: {.eksamen-oversikt}
 Regn ut integralet
 
 $$
-\int_{-1}^{1} \left( x^{3}+2x \right)  \, dx 
+\int_{-1}^{1} \left( x^{3}+2x \right)  \, \mathrm{d}x 
 $$
 Hva forteller svaret deg?
 
@@ -191,7 +191,7 @@ c) 60 kr
 
 ## Løsningsforslag
 
-### 1-3a
+### a
 Enhetskostnadene er gitt ved
 
 $$
@@ -214,12 +214,12 @@ $$
 
 Dette stemmer perfekt med uttrykket for $h(x)$, og da vet vi også at den grønne linja i figuren faktisk skjærer grafen nøyaktig i $x=40$.
 
-### 1-3b
+### b
 Siden $A$ er et tangeringspunkt på grafen til $K$, og $A$ ligger på $x=40$, så vil stigningstallet til tangenten i $A$ være det samme som den deriverte til $K$ i punktet $A$. Grensekostnadene er definert som den deriverte av kostnadsfunksjonen.
 
 **Tangenten til $K$ ved $x=40$ har funksjonsuttrykk $f(x)=31x+2030$, dermed er både stigningstallet, den deriverte og grensekostnadene lik 31 kroner.**
 
-### 1-3c
+### c
 Vi har lavest grensekostnader når $E'(x)=0$, og dette betyr
 
 $$
@@ -287,15 +287,18 @@ print(S)
 
 ## Fasit
 
+a) Programmet regner ut en tilnærming til arealet mellom $x$-aksen, grafen til $f(x)=x^{2}-1$ og linjene $x=-2$ og $x=2$.
+b) Verdien er 4.
+
 ## Løsningsforslag
 
 
-### 1-4a
+### a
 **Programmet forsøker å regne ut en tilnærmingsverdi for arealene mellom $x$-aksen, grafen til $f(x)=x^{2}-1$, linja $x=-2$ og linja $x=2$.** 
 
 Ved å bruke absoluttverdifunksjonen så tar programmet hensyn til at $f<0$ i deler av intervallet.
 
-### 1-4b
+### b
 Jeg ser at $f(x)$ har nullpunkter i $x=1$ og $x=-1$. På grunn av symmetri vil 
 
 $$
@@ -327,6 +330,7 @@ $$
 $$
 
 **Verdien eleven forsøkte å bestemme er 4.**
+
 
 </div></div>
 
@@ -362,7 +366,7 @@ c) $\frac{7}{16}$
 
 ## Løsningsforslag
 
-### 1-5a
+### a
 Siden det kun er tre typer kuler så må sannsynligheten for å trekke en kule som veier 10 kg være 
 
 $$
@@ -386,7 +390,7 @@ For å finne variansen må vi finne differansen til gjennomsnittet for hver verd
 
 **Jeg har vist at forventningsverdien er 6 kg og at variansen er 5,5 kg.**
 
-### 1-5b
+### b
 
 ![Valgtre til oppgave 1-5](/img/user/_resources/mermaid-diagram-2025-11-26-182719.png)
 
@@ -401,7 +405,7 @@ Se valgtreet over. Jeg ser at utfallene for $Y=X_{1}+X_{2}$ er 8, 9, 10, 14, 15 
 | 15  |  $\frac{1}{4}\cdot \frac{1}{2}\cdot 2=\frac{1}{4}$  |
 | 20  |   $\frac{1}{4} \cdot \frac{1}{4} = \frac{1}{16}$    |
 
-### 1-5c
+### c
 $P(Y>10)$ betyr sannsynligheten for at $Y$ er større 10. Det stemmer når $Y=14$, $Y=15$ og $Y=20$.
 
 $$
@@ -468,19 +472,19 @@ d) 80 kr
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 ![Eksponentiell modell til oppgave 2-1a](/img/user/_resources/s2-h23-2-1a.png)
 
 Jeg brukte GeoGebra til å lage en eksponentiell modell som passet godt til dataene. Jeg vurderer at gyldighetsområdet til modellen er for priser fra omtrent 5 kroner til 70 kroner. Hvis varen hadde kostet veldig lite, så ville nok etterspørselen vært enda større (teoretisk kan man ofte tenke seg at etterspørselen går mot uendelig når prisen går mot null). Det er vanskelig å sette en øvre grense her, men ved prisen 70 kroner så er etterspørselen kun 2,4 – dette er veldig lavt sammenlignet med etterspørselen på 237 ved prisen 10 kroner.
 
 **En modell som viser sammenhengen mellom prisen, $p$, i kroner og etterspørselen er $e(p)=495\cdot 0{,}927^{p}$**
 
-### 2-1b
+### b
 Jeg brukte GeoGebra og løste $e(p)=70$ i CAS. 
 
 **Prisen for varen bør være 25,8 kroner dersom bedriften skal selge 70 enheter per dag.**
 
-### 2-1c
+### c
 ![CAS til oppgave 2-1c](/img/user/_resources/s2-h23-2-1c.png){width=70%}
 
 Gitt at $p(x)=79-12{,}2 \ln x$ er en funksjon som angir prisen ved etterspørselen $x$, så er inntekten gitt ved
@@ -493,7 +497,7 @@ Jeg brukte GeoGebra til å finne ekstremalpunktet til $I$ ved å derivere funksj
 
 **Vi har høyest inntekt ved etterspørselen 238,75 enheter, da er prisen $p(238{,}75)=12{,}2$.**
 
-### Oppgave 2-1d
+### d
 ![CAS til oppgave 2-1d](/img/user/_resources/s2-h23-2-1d.png){width=70%}
 
 Jeg la inn funksjonsuttrykket for $K(x)$ i CAS. CAS gir at $I'=K'$ ved $x\approx 80$.
@@ -538,7 +542,7 @@ c) 1 836,33 kr
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 
 ![Sparing til oppgave 2-2a](/img/user/_resources/s2-h23-2-2a.png)
 
@@ -546,7 +550,7 @@ Jeg satt opp en oversikt over sparingen i Excel, hvor jeg beregnet innskuddet p�
 
 **Etter det 20. innskuddet så var det 565 593,64 kr på kontoen.**
 
-### 2-2b
+### b
 
 ![Sparing og målsøking til oppgave 2-2b](/img/user/_resources/s2-h23-2-2b.png.png)
 
@@ -554,7 +558,7 @@ Jeg brukte samme oppsettet i Excel og brukte målsøking til å sette celle G47 
 
 **Hermod må spare 24 500 kr hvert år for å ha 692 852 kr etter 20 år.**
 
-### 2-2c
+### c
 
 ![Målsøking til oppgave 2-2c](/img/user/_resources/s2-h23-2-2c.png.png)
 
@@ -602,24 +606,28 @@ Det ble gjennomført 15 målinger. Resultatet av målingene (i meter) er gitt i 
 
 ## Fasit
 
+a) $P(X>87) \approx 0{,}091$
+b) $k \approx 86{,}84 \mathrm{~m}$. Dekkprodusenten påstår at man stopper innen 86,84 m i 90 % av tilfellene.
+c) $P(\bar{X}<84) \approx 0{,}902$
+d) Vi kan ikke forkaste $H_{0}$. Det er ikke hold i mistanken om at bremselengden er lengre enn 83 m med signifikansnivå 5 %.
 
 ## Løsningsforslag
 
-### 2-3a
+### a
 Jeg bestemmer $P(X>87)$ ved hjelp av sannsynlighetsvinduet i GeoGebra. 
 
 ![Sannsynlighet til oppgave 2-3a](/img/user/_resources/s2-h23-2-3a.png){width=50%}
 
 **Sannsynligheten for at bremselengden til en tilfeldig valgt bil er over 87 meter er 0,09121.**
 
-### 2-3b
+### b
 Jeg brukte sannsynlighetsvinduet i GeoGebra. Der valgte jeg sannsynlighet for at $X<k$ og skrev inn 0,9 i sannsynlighetsfeltet.
 
 ![Sannsynlighet til oppgave 2-3b](/img/user/_resources/s2-h23-2-3b.png){width=50%}
 
 **$\underline{\underline{k=86{,}84}}$. Det betyr at dekkprodusenten påstår at man klarer å stoppe innen 86,84 meter i 90 % av tilfellene.**
 
-### 2-3c
+### c
 Jeg lar $\bar{X}$ være gjennomsnittet av 15 målinger. Da er $\bar{X}$ normalfordelt med $\mu=83$ og $SD(\bar{X})=\frac{\sigma}{\sqrt{ n }}=\frac{3}{\sqrt{ 15 }}=0{,}7746$.
 
 Jeg bruker sannsynlighetsvinduet i GeoGebra til å bestemme sannsynligheten $P(\bar{X}<84)=0{,}90165\approx0{,}902$.
@@ -628,7 +636,7 @@ Jeg bruker sannsynlighetsvinduet i GeoGebra til å bestemme sannsynligheten $P(\
 
 **Sannsynligheten for at gjennomsnittet av 15 målinger er under 84 meter er 0,902.**
 
-### 2-3d
+### d
 Gjennomsnittet av observasjonene i tabellen i oppgaven er 84,18.
 
 Jeg setter opp en hypotesetest hvor:  
@@ -671,17 +679,19 @@ De fem første figurtallene er 1, 6, 16, 31 og 51
 
 ## Fasit
 
+a) $P_{n}=P_{n-1}+(n-1)\cdot d$, der $d=5$.
+b) Se løsningsforslag for programkode.
 
 ## Løsningsforslag
 
-### 2-4a
+### a
 Jeg ser at differansen mellom antall kuler i figurene øker med 5, 10, 15, 20. La oss kalle denne differansen for $d$. Vi kan si at $P_{2}=P_{1}+5=P_{1}+d$ og $P_{3}=P_{2}+2d$. Vi ser dermed et mønster og kan sette opp følgende sammenheng for $n\geq 2$: 
 
 $$
 P_{n}=P_{n-1}+(n-1)\cdot d
 $$
 
-### 2-4b
+### b
 ```python
 a = 1
 d = 5

@@ -25,7 +25,7 @@ b) $\approx 8374 \, \mathrm{km}$
 
 Tores treningsplan er en geometrisk rekke med $a_1 = 40 \, \mathrm{km}$ og kvotient $k = 1{,}05$.
 
-### 2-8a
+### a
 
 Distansen i uke 50 er det 50. leddet i rekken:
 
@@ -33,7 +33,7 @@ $$a_{50} = a_1 \cdot k^{49} = 40 \cdot 1{,}05^{49} \approx 40 \cdot 10{,}921 \ap
 
 **Tore vil sykle omtrent $\underline{\underline{437 \, \mathrm{km}}}$ i uke 50 dersom han klarer å følge planen.**
 
-### 2-8b
+### b
 
 Den totale distansen over 50 uker er summen av de 50 første leddene:
 

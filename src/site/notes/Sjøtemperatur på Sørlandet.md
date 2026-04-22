@@ -24,7 +24,7 @@ b) 0,0767 ºC
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 
 ![Graf som viser sjøtemperaturen](/img/user/_resources/2py-h23-2-1-a.png){width=70%}
 
@@ -32,7 +32,7 @@ Vi legger inn $T(x)$ i GeoGebra for å få et overblikk over temperaturen og vi 
 
 **Forskjellen mellom høyeste og laveste temperatur er 13,27 ºC.**
 
-### 2-1b
+### b
 Måneden mars tilsvarer omtrent dagene $x=59$ til $x=90$.
 
 Vi regner ut temperaturen for disse dagene i GeoGebra:

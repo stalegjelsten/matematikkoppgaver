@@ -428,7 +428,7 @@ c) 0,52 %
 
 ## Løsningsforslag
 
-### 2-6a
+### a
 Lengden reduseres med 10 % per linjestykke og den begynner på 100 cm. Da blir lengden av linjestykke nummer $n$:
 
 $$
@@ -446,7 +446,7 @@ Jeg bruker et regneark til å legge sammen de 8 første linjestykkene.
 > Det ville vært enklere å bruke en formel som tar forrige lengde og multipliserer med 0,9.
 
 
-### 2-6b
+### b
 
 ```python
 n = 1
@@ -465,7 +465,7 @@ Output: `Etter 22 linjestykker er lengden 901.52 cm.`
 
 **Du må ha 22 linjestykker for at lengden skal bli minst 9 meter.**
 
-### 2-6c
+### c
 
 > [!tip] Andre løsningsmetoder
 > Det er minst like enkelt å løse denne oppgaven med regnearket fra oppgave a).
@@ -532,7 +532,7 @@ b) Ja, den gjelder.
 
 ## Løsningsforslag
 
-### 2-7a
+### a
 Vi beregner først $h$ med $a=3$ og $b=2$:
 
 $$
@@ -545,7 +545,7 @@ Så regner vi ut omkretsen $O$ ved hjelp av formelen (jeg bruker CAS i GeoGebra 
 
 **Omkretsen er omtrent 15,9 cm. Det er samme svaret som Mari har funnet.**
 
-### 2-7b
+### b
 En sirkel har omkretsen $O_{\text{sirkel}}=\pi \cdot d$, der $d$ er diameteren, eller $O_{\text{sirkel}}=2 \pi r$ dersom vi bruker radius istedenfor diameter.
 
 I en sirkel vil begge halvaksene være like lange, og begge vil være lik radius i sirkelen, formelen for $h$ blir derfor:
@@ -561,6 +561,7 @@ O \approx \pi \left( r+r \right) \left( 1+ \underbrace{ \frac{3 \cdot 0}{10 + \s
 $$
 
 **Ramanujans formel gjelder for spesialtilfellet der ellipsen er en sirkel.**
+
 
 </div></div>
 

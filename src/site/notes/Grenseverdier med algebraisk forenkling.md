@@ -14,6 +14,7 @@
 
 ## Fasit
 
+a) Grenseverdien eksisterer ikke (venstre- og høyregrense stemmer ikke overens).
 
 ## Løsningsforslag
 

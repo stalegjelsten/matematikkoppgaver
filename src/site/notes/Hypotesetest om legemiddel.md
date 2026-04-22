@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-29","modified":"2024-05-29","aliases":null,"dg-publish":true,"temaer":["hypotesetest","binomisk"],"fag":["s2"],"eksamen":"v24","del":2,"oppgave":"2","oppgavenummer":[{"fag":"s2","del":2,"oppgave":2}],"title":"Hypotesetest om legemiddel","source":null,"todo":null,"status":3,"dg-permalink":"/hypotesetest-om-legemiddel/","permalink":"/hypotesetest-om-legemiddel/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-29","modified":"2024-05-29","aliases":null,"temaer":["hypotesetest","binomisk"],"fag":["s2"],"eksamen":"v24","del":2,"oppgave":"2","oppgavenummer":[{"fag":"s2","del":2,"oppgave":2}],"title":"Hypotesetest om legemiddel","source":null,"todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2024-05-29","modified":"2024-05-29","aliases":null,"dg-publish":true,"temaer":["hypotesetest","binomisk","binomisk fordeling"],"fag":["s2"],"eksamen":"v24","del":2,"oppgave":"2","oppgavenummer":[{"fag":"s2","del":2,"oppgave":2}],"title":"Hypotesetest om legemiddel","source":null,"todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Binomisk hypotesetest om legemiddel: punktsannsynlighet, $p$-verdi ved $n=10$, og finne minste antall treff for forkast ved $n=200$.","deloppgaver":[{"deloppgave":"a","vanskegrad":1,"beskrivelse":"Argumentere for binomisk fordeling og regne $P(X=9)=0{,}258$ for $n=12$, $p=0{,}75$."},{"deloppgave":"b","beskrivelse":"Ensidig hypotesetest med $H_A: p>0{,}75$; $p$-verdi $=0{,}244$ gir ikke forkast."},{"deloppgave":"c","beskrivelse":"Normaltilnærming til binomisk for å finne $Y\\ge 161$ på signifikansnivå 5 %."}],"dg-permalink":"/hypotesetest-om-legemiddel/","permalink":"/hypotesetest-om-legemiddel/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-29","modified":"2024-05-29","aliases":null,"temaer":["hypotesetest","binomisk","binomisk fordeling"],"fag":["s2"],"eksamen":"v24","del":2,"oppgave":"2","oppgavenummer":[{"fag":"s2","del":2,"oppgave":2}],"title":"Hypotesetest om legemiddel","source":null,"todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Binomisk hypotesetest om legemiddel: punktsannsynlighet, $p$-verdi ved $n=10$, og finne minste antall treff for forkast ved $n=200$.","deloppgaver":[{"deloppgave":"a","vanskegrad":1,"beskrivelse":"Argumentere for binomisk fordeling og regne $P(X=9)=0{,}258$ for $n=12$, $p=0{,}75$."},{"deloppgave":"b","beskrivelse":"Ensidig hypotesetest med $H_A: p>0{,}75$; $p$-verdi $=0{,}244$ gir ikke forkast."},{"deloppgave":"c","beskrivelse":"Normaltilnærming til binomisk for å finne $Y\\ge 161$ på signifikansnivå 5 %."}]}}
 ---
 
 
@@ -38,7 +38,7 @@ c) 100
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 $X$ er binomisk fordelt fordi
 
 - Vi har $n$ delforsøk
@@ -61,7 +61,7 @@ $$
 >
 >$$P(X=9)=\binom{12}{9}\cdot 0{,}75^{9} \cdot 0{,}25^{3}=0{,}2581$$
 
-### 2-2b
+### b
 Nullhypotesen vår er at begge legemidlene er like effektive, mens den alternative hypotesen er at legemiddel B er bedre.
 
 $$
@@ -77,7 +77,7 @@ Jeg finner sannsynligheten for at legemiddel B skal ha fungert på 9 av 10 pasie
 
 **$p$-verdien er 0,244, dette er større enn signifikansnivået 0,05. Vi kan ikke forkaste $H_{0}$, og vi kan dermed ikke si at legemiddel B fungerer bedre enn legemiddel A.**
 
-### 2–2c
+### c
 
 >[!tip] Oppgaven kan også løses med binomisk fordeling
 >

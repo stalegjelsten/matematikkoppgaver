@@ -31,7 +31,7 @@ c) $\approx 0{,}5 \, \mathrm{min/dag}$
 
 ## Løsningsforslag
 
-### 2-6a
+### a
 
 Vi skal bestemme $a$ og $b$ i modellen $L(x) = a \cdot x^b$.
 
@@ -49,7 +49,7 @@ Grafen viser at modellen passer godt til datapunktene.
 
 **$\underline{\underline{a \approx 10 \text{ og } b \approx 0{,}334}}$, slik at $L(x) \approx 10 \cdot x^{0{,}334}$.**
 
-### 2-6b
+### b
 
 Vi vil finne $x$ slik at $L(x) = 45$. Vi tegner linjen $y = 45$ og finner skjæringspunktet med $L(x)$:
 
@@ -61,7 +61,7 @@ $91$ dager $\approx 13$ uker fra dag 1. Hanne begynte for 9 uker siden, så det 
 
 **Ifølge modellen vil det ta omtrent $\underline{\underline{13 \text{ uker}}}$ fra Hanne startet (ca. 4 uker fra nå) før hun klarer å løpe 45 minutter sammenhengende.**
 
-### 2-6c
+### c
 
 Gjennomsnittlig økning per dag fra dag 1 til dag 60:
 

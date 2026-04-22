@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["trigonometri","enhetssirkel"],"fag":["r2"],"eksamen":"h24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":4}],"poeng":4,"title":"Radianer og eksakte trigonometriske verdier","status":3,"source":null,"todo":null,"dg-permalink":"/radianer-og-eksakte-trigonometriske-verdier/","permalink":"/radianer-og-eksakte-trigonometriske-verdier/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"temaer":["trigonometri","enhetssirkel"],"fag":["r2"],"eksamen":"h24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":4}],"poeng":4,"title":"Radianer og eksakte trigonometriske verdier","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["trigonometri","enhetssirkel"],"fag":["r2"],"eksamen":"h24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":4}],"poeng":4,"title":"Radianer og eksakte trigonometriske verdier","status":3,"source":null,"todo":null,"kategori":2,"vanskegrad":2,"beskrivelse":"Definere absolutt vinkelmål, regne om $80°$ til radianer, og finne eksakte $\\cos v$ og $\\tan v$ i tredje kvadrant fra $\\sin v = -\\frac{1}{4}$.","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":1,"beskrivelse":"Definisjon av radianen og omregning $80° = \\frac{4\\pi}{9}$."},{"deloppgave":"b","beskrivelse":"Pytagoras i enhetssirkelen gir $\\cos v = -\\sqrt{15/16}$ i tredje kvadrant; $\\tan v = \\sin v/\\cos v$."}],"dg-permalink":"/radianer-og-eksakte-trigonometriske-verdier/","permalink":"/radianer-og-eksakte-trigonometriske-verdier/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"temaer":["trigonometri","enhetssirkel"],"fag":["r2"],"eksamen":"h24","del":1,"oppgave":4,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":4}],"poeng":4,"title":"Radianer og eksakte trigonometriske verdier","status":3,"source":null,"todo":null,"kategori":2,"vanskegrad":2,"beskrivelse":"Definere absolutt vinkelmål, regne om $80°$ til radianer, og finne eksakte $\\cos v$ og $\\tan v$ i tredje kvadrant fra $\\sin v = -\\frac{1}{4}$.","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":1,"beskrivelse":"Definisjon av radianen og omregning $80° = \\frac{4\\pi}{9}$."},{"deloppgave":"b","beskrivelse":"Pytagoras i enhetssirkelen gir $\\cos v = -\\sqrt{15/16}$ i tredje kvadrant; $\\tan v = \\sin v/\\cos v$."}]}}
 ---
 
 
@@ -16,7 +16,7 @@ b) $\cos v = -\dfrac{\sqrt{15}}{4}$, $\tan v = \dfrac{1}{\sqrt{15}}$
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 
 Vi tar utgangspunkt i en sirkel med radius $r=1$ og legger toppunktet til en vinkel $\theta$ i sentrum av sirkelen. Vinkelbeina vil skjære sirkelperiferien og avgrense en sirkelbue $b$. 
 
@@ -28,7 +28,7 @@ Vi kan bruke forholdet mellom et vinkelmål og en hel omdreining for å gjøre o
 $$\frac{\theta}{2\pi} =\frac{80^\circ}{360^\circ} \iff \theta=\frac{160}{360}\pi \iff \theta=\frac{4}{9}\pi$$
 **$80^\circ$ er $\frac{4}{9}\pi$ radianer.**
 
-### 1-4b
+### b
 
 $$
 \sin v = -\frac{1}{4}=\frac{\text{motstående katet}}{\text{hypotenus}} $$

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["gjennomsnittlig vekstfart","derivasjon","tolke grafer"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":6,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":6},{"fag":"r1","del":1,"oppgave":6}],"poeng":2,"title":"Identifiser funksjon fra vekstfart og derivert","status":3,"source":null,"todo":null,"dg-permalink":"/identifiser-funksjon-fra-vekstfart-og-derivert/","permalink":"/identifiser-funksjon-fra-vekstfart-og-derivert/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["gjennomsnittlig vekstfart","derivasjon","tolke grafer"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":6,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":6},{"fag":"r1","del":1,"oppgave":6}],"poeng":2,"title":"Identifiser funksjon fra vekstfart og derivert","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["gjennomsnittlig vekstfart","derivasjon","tolke grafer"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":6,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":6},{"fag":"r1","del":1,"oppgave":6}],"poeng":2,"title":"Identifiser funksjon fra vekstfart og derivert","status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Lese av gjennomsnittlig vekstfart på intervall $[0,4]$ og stigningstall til tangent i $x=1$ for å identifisere riktig graf blant tre.","source":null,"todo":null,"dg-permalink":"/identifiser-funksjon-fra-vekstfart-og-derivert/","permalink":"/identifiser-funksjon-fra-vekstfart-og-derivert/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["gjennomsnittlig vekstfart","derivasjon","tolke grafer"],"fag":["s1","r1"],"eksamen":"h24","del":1,"oppgave":6,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":6},{"fag":"r1","del":1,"oppgave":6}],"poeng":2,"title":"Identifiser funksjon fra vekstfart og derivert","status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Lese av gjennomsnittlig vekstfart på intervall $[0,4]$ og stigningstall til tangent i $x=1$ for å identifisere riktig graf blant tre.","source":null,"todo":null}}
 ---
 
 
@@ -14,6 +14,7 @@ I koordinatsystemet nedenfor ser du grafene til tre funksjoner, $f$, $g$ og $h$.
 
 ## Fasit
 
+Funksjonen $f$ passer til beskrivelsen.
 
 ## Løsningsforslag
 

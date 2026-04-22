@@ -41,7 +41,7 @@ b) 3 turer på 5 timer; Solveig gikk 1 tur på 8 timer alene
 
 ## Løsningsforslag
 
-### 2-3a
+### a
 Jeg beregnet gjennomsnittet og standardavviket til turene til Solveig ved å bruke formlene `=gjennomsnitt()` og `=stdav.p()` i Excel. Jeg oppsummerer opplysningene om gjennomsnitt og standardavvik til venninnene i tabellen
 
 |         | Gjennomsnitt | Standardavvik |  Median   |
@@ -53,7 +53,7 @@ Solveig har omtrent 2,5 timer høyere gjennomsnitt enn Miriam. Solveig går derf
 
 Solveig har et mye lavere standardavvik enn Miriam, nesten 2 timer eller kun$\frac{4{,}2-2{,}45}{4{,}2}=41{,}7 \,\%$ av Miriams standardavvik. Det er derfor mye større variasjon lengdene på turene til Miriam. Sannsynligvis har hun gått noen veldig lange turer siden standardavviket er nesten like høyt som gjennomsnittet.
 
-### 2-3b
+### b
 Den kumulative frekvensen for turer på 5 timer er 14, og den kumulative frekvensen for turer på 3 timer er 11. De har ikke gått noen turer sammen på 4 timer.
 
 Siden kumulativ frekvens er summen av alle frekvenser for observasjoner som er mindre eller lik den aktuelle observasjonen, kan vi finne frekvensen for antall turer på 5 timer slik:

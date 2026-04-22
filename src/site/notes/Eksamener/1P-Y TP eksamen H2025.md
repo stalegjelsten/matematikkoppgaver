@@ -450,10 +450,11 @@ $$
 \text{hypotenus}=\sqrt{ h^{2}+l^{2} }=\sqrt{ 80^{2}+42^{2} }=\underline{\underline{ 90{,}35 \mathrm{~cm}^{2} }}
 $$
 
-### Vinkelen v
+### v
 Den målte lengden er $88{,}7 \mathrm{~cm}$. Hvis vinkelen $v$ hadde vært større enn $90\degree$ så ville de to hjørnene i diagonalen blitt spredt lengre fra hverandre. 
 
 **Siden vi nå måler at diagonalen er kortere enn hva vi kunne forvente så må vinkelen $v$ være mindre enn 90 grader.**
+
 
 </div></div>
 

@@ -21,7 +21,7 @@ b) 8
 
 ## Løsningsforslag
 
-### 1-2a
+### a
 
 Data sortert i stigende rekkefølge:
 
@@ -35,7 +35,7 @@ $$\text{median} = \frac{4 + 5}{2} = 4{,}5$$
 
 **Gjennomsnittet er 4,2 timer og medianen er 4,5 timer.**
 
-### 1-2b
+### b
 
 Den kumulative frekvensen for 5 timer er antall dager der Lars jobbet høyst 5 timer. Vi teller antall verdier som er mindre eller lik 5 timer: $0, 3, 3, 3, 4, 5, 5, 5$. 
 

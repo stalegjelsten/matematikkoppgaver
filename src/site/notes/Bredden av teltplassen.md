@@ -30,7 +30,7 @@ c) En mulighet er $A(x)=x\cdot (80-2x)$
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 Med 80 m tau og et område med lengde 60 m så har de 20 m igjen å fordele til de to siste sidene. Matematisk kan vi skrive $\frac{80-60}{2}=10$. Bredden blir altså 10 m.
 
 $$
@@ -39,14 +39,14 @@ $$
 
 **Arealet av området er 600 m².**
 
-### 2-2b
+### b
 Jeg satte opp en oversikt i Excel, se formlene i formelutklippet. Vi ser at arealet øker når bredden øker helt fram til lengden er 40 m og bredden er 20 m, deretter minker arealet. 
 
 ![Del 2 oppgave 2b. Oversikt over lengde og bredde av teltplass](/img/user/_resources/1t-v23-2-2b.png){ width=80% } 
 
 **Hermann har rett i at vi får det største arealet dersom lengden er dobbelt så lang som bredden.**
 
-### 2-2c
+### c
 La oss kalle bredden i meter for $x$. Da må lengden i meter være $80-2x$. Vi kan sette opp et funksjonsuttrykk for arealet $A(x)$ der bredden er $x$ meter.
 
 $$

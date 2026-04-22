@@ -26,12 +26,12 @@ b) Påstand 2 er riktig: prisen vil stige med mindre enn $5 \,\%$ hvert år.
 
 ## Løsningsforslag
 
-### 1-1a
+### a
 Vi kan gjøre dette på flere måter, for eksempel ved å regne ut den prosentvise økningen
 $$
 \text{Prosentvis endring}= \frac{42-2}{40}=\frac{2}{40}=\frac{1}{20}=\frac{5}{100}=\underline{\underline{ 5 \,\% }}
 $$
-### 1-1b
+### b
 
 Vi sjekke hva som skjer dersom prisen stiger med 5 % per år. I 2024 blir prisen
 $$

@@ -25,7 +25,7 @@ Table: {.eksamen-oversikt}
 | [2-1](#oppgave-2-1) | [Bindingsverk og kappliste for vegg](https://matematikkoppgaver.vercel.app/bindingsverk-og-kappliste-for-vegg/) | geometri, regneark, mva | × |
 | [2-2](#oppgave-2-2) | [Husvegg tak og solcellepaneler](https://matematikkoppgaver.vercel.app/husvegg-tak-og-solcellepaneler/) | trigonometri, areal, geometri | × |
 | [2-3](#oppgave-2-3) | [Chris lån og sparing for å ta førerkort](https://matematikkoppgaver.vercel.app/chris-lan-og-sparing-for-a-ta-forerkort/) | excel, lån, sparing, kredittkort | ✔︎ |
-| [2-4](#oppgave-2-4) | [Isak reiser Oslo til Stockholm](https://matematikkoppgaver.vercel.app/isak-reiser-oslo-til-stockholm/) | økonomi, prosentregning, modellering | ✔︎ |
+| [2-4](#oppgave-2-4) | [Isak reiser Oslo til Stockholm](https://matematikkoppgaver.vercel.app/isak-reiser-oslo-til-stockholm/) | økonomi, prosentregning, modellering, systematisering, sammensatte måleenheter | ✔︎ |
 
 # Del 1
 
@@ -65,7 +65,7 @@ b) A – størrelse 50/70 (1000 g / 20 g = 50 reker per kg)
 
 ## Løsningsforslag
 
-### 1-1a
+### a
 
 Vi deler prisen på antall kilogram:
 
@@ -75,7 +75,7 @@ $$
 
 **Prisen per kilogram er $\underline{\underline{80 \, \mathrm{kr/kg}}}$.**
 
-### 1-1b
+### b
 
 Vi finner hvor mange reker det er per kilogram når én reke veier 20 gram:
 
@@ -146,8 +146,7 @@ $$
 11 \cdot 1000 = 11\,000 \, \mathrm{kr}
 $$
 
-Siden $11\,000 \, \mathrm{kr} > 10\,500 \, \mathrm{kr}$, **klarer Oda sparemålet sitt hvis hun følger budsjettet.** Hun vil ha $\underline{\underline{500 \, \mathrm{kr}}}$ til overs.
-
+**Oda klarer sparemålet sitt hvis hun følger budsjettet. Hun vil ha $\underline{\underline{500 \, \mathrm{kr}}}$ til overs.**
 
 </div></div>
 
@@ -224,9 +223,33 @@ Du skal blande $0{,}2 \mathrm{~m^3}$ B35 betong til en liten konstruksjon.
 
 ## Fasit
 
-
+a) $2\,390 \, \mathrm{kg}$
+b) $33 \, \mathrm{liter}$
 
 ## Løsningsforslag
+
+### a
+
+Vi regner om alle mengdene til kg. Vann har tetthet $1 \, \mathrm{kg/liter}$, og $1 \, \mathrm{tonn} = 1000 \, \mathrm{kg}$.
+
+| Materiale | Mengde |
+|-----------|--------|
+| Sement | $325 \, \mathrm{kg}$ |
+| Sand | $1000 \, \mathrm{kg}$ |
+| Stein | $900 \, \mathrm{kg}$ |
+| Vann | $165 \, \mathrm{kg}$ |
+
+$$325 + 1000 + 900 + 165 = \underline{\underline{2\,390 \, \mathrm{kg}}}$$
+
+**$1 \, \mathrm{m^3}$ B35 betong veier $\underline{\underline{2\,390 \, \mathrm{kg}}}$.**
+
+### b
+
+Til $1 \, \mathrm{m^3}$ trengs $165 \, \mathrm{liter}$ vann. Til $0{,}2 \, \mathrm{m^3}$ trengs:
+
+$$0{,}2 \cdot 165 = \underline{\underline{33 \, \mathrm{liter}}}$$
+
+**Du trenger $\underline{\underline{33 \, \mathrm{liter}}}$ vann til blandingen.**
 
 
 </div></div>
@@ -247,7 +270,7 @@ Figuren viser en arbeidstegning av et garasjeloft.
 
 Kari har fått oppgitt at vinkelen $v$ er $47\degree$.
 
-![Garasjeloft](/img/user/_resources/1pyba-v24-1-5.jpeg){width=80%}
+![Garasjeloft](/img/user/_resources/1pyba-v24-1-5.jpeg){width=70%}
 
 Kari lurer på følgende:
 
@@ -271,9 +294,39 @@ $$\tan v = \frac{\text{motstående katet}}{\text{hosliggende katet}}$$
 
 ## Fasit
 
-
+$AH = 2400 \, \mathrm{mm} = 2{,}4 \, \mathrm{m}$. Sjekk: $\tan v = \frac{2400}{2200} \approx 1{,}09$, som gir $v \approx 47\degree$.
 
 ## Løsningsforslag
+
+**Spørsmål 1 – lengden AH**
+
+Fra figuren ser vi at H er midtpunktet av AB (symmetrilinje). Dermed er
+
+$$AH = \frac{AB}{2} = \frac{4800}{2} = 2400 \, \mathrm{mm}$$
+
+Vi gjør om til meter:
+
+$$2400 \, \mathrm{mm} = \underline{\underline{2{,}4 \, \mathrm{m}}}$$
+
+**Lengden AH er $\underline{\underline{2{,}4 \, \mathrm{m}}}$.**
+
+**Spørsmål 2 – sjekke at vinkelen v er 47°**
+
+Vi ser på den rettvinklede trekanten CHB (eller CHA), der vinkelen ved H er $90\degree$.
+
+I denne trekanten er:
+- Motstående katet (mot $v$): $BH = 2400 \, \mathrm{mm}$
+- Hosliggende katet (ved $v$): $CH = 2200 \, \mathrm{mm}$
+
+Vi bruker tangens:
+
+$$\tan v = \frac{\text{motstående katet}}{\text{hosliggende katet}} = \frac{BH}{CH} = \frac{2400}{2200} = \frac{12}{11} \approx 1{,}09$$
+
+Med kalkulator (eller tabell) finner vi:
+
+$$v = \arctan\left(\frac{12}{11}\right) \approx 47{,}5\degree \approx 47\degree$$
+
+**Tangens-uttrykket bekrefter at vinkelen $v$ er omtrent $\underline{\underline{47\degree}}$.**
 
 
 </div></div>
@@ -343,9 +396,55 @@ I tabellen ser du hvordan prisen på materialene til en enebolig utvikler seg fr
 
 ## Fasit
 
-
+a) Se kappliste under. b) Butikk 2 er billigst, sparer $241 \, \mathrm{kr}$. c) Størst endring fra september til oktober ($+34$ tusen kr).
 
 ## Løsningsforslag
+
+### a
+
+Fra arbeidstegningen leser vi av:
+- Totalbredde: $4200 \, \mathrm{mm}$
+- Totalhøyde: $2400 \, \mathrm{mm}$
+- 8 stendere (vertikale elementer)
+- Toppsvill har dobbel svill (2 stk)
+
+Stenderlengde: trekker fra bunnsvill ($48 \, \mathrm{mm}$) og dobbel toppsvill ($2 \times 48 = 96 \, \mathrm{mm}$):
+
+$$2400 - 3 \cdot 48 = 2400 - 144 = 2256 \, \mathrm{mm}$$
+
+![Utfylt kappliste. Kilde: Udir](/img/user/_resources/1pyba-v24-2-1a-kappliste-udir.png){width=70%}
+
+Formel for total med svinn: `=(kappelengde*antall)*1,1/1000`
+
+Formel for stenderlengde: `=2400-(3*48)`
+
+### b
+
+Vi regner ut meterpris med mva. og sammenligner.
+
+![Prissammenligning butikker. Kilde: Udir](/img/user/_resources/1pyba-v24-2-1b-plankpris-udir.png){width=70%}
+
+**Butikk 1:** `=23,9*1,25` = $29{,}88 \, \mathrm{kr/m}$ med mva.
+
+**Butikk 2:** $28{,}50 \, \mathrm{kr/m}$ med mva. (allerede inkludert)
+
+Totalpris for $175 \, \mathrm{m}$:
+- Butikk 1: `=C3*B6` = $5\,228{,}13 \, \mathrm{kr}$
+- Butikk 2: `=C4*B6` = $4\,987{,}50 \, \mathrm{kr}$
+
+**Det er billigst å handle i butikk 2.** Du kan spare `=B8-B9` = $\underline{\underline{241 \, \mathrm{kr}}}$.
+
+### c
+
+Vi bruker regneark til å finne endringen i materialkostnader fra måned til måned.
+
+![Endring i materialkostnader, regneark. Kilde: Udir](/img/user/_resources/1pyba-v24-2-1c-materialkostnader-udir.png){width=80%}
+
+Formel for endring: `=B2-B3` (forrige måned minus neste, slik at økning gir positiv verdi).
+
+**Den største endringen er fra september til oktober, med en økning på $\underline{\underline{34}}$ tusen kroner.**
+
+![Grafisk fremstilling av endringene. Kilde: Udir](/img/user/_resources/1pyba-v24-2-1c-graf-udir.png){width=80%}
 
 
 </div></div>
@@ -384,9 +483,72 @@ Byggmester Ole stiller seg selv noen spørsmål om huset:
 
 ## Fasit
 
-
+Taklengde med utstikk: $\approx 8{,}07 \, \mathrm{m}$. Takvinkel $B \approx 8{,}1\degree$. Maks 21 hele solcellepaneler.
 
 ## Løsningsforslag
+
+**Spørsmål 1 – taklengde**
+
+Fra figuren ser vi at trekanten ABC har:
+- $AB = 7{,}0 \, \mathrm{m}$ (horisontal)
+- $AC = 1{,}0 \, \mathrm{m}$ (vertikal)
+- Vinkel ved A er $90\degree$
+
+Vi bruker Pytagoras' setning for å finne taklengden CB:
+
+$$CB = \sqrt{AB^2 + AC^2} = \sqrt{7{,}0^2 + 1{,}0^2} = \sqrt{49 + 1} = \sqrt{50} \approx 7{,}07 \, \mathrm{m}$$
+
+Med $0{,}5 \, \mathrm{m}$ utstikk på begge sider:
+
+$$7{,}07 + 0{,}5 + 0{,}5 = \underline{\underline{8{,}07 \, \mathrm{m}}}$$
+
+**Taket blir omtrent $\underline{\underline{8{,}07 \, \mathrm{m}}}$ langt med utstikk.**
+
+---
+
+**Spørsmål 2 – takvinkelen B**
+
+I den rettvinklede trekanten ABC er:
+- Motstående katet (mot vinkel B): $AC = 1{,}0 \, \mathrm{m}$
+- Hosliggende katet (ved vinkel B): $AB = 7{,}0 \, \mathrm{m}$
+
+$$\tan B = \frac{AC}{AB} = \frac{1{,}0}{7{,}0} \approx 0{,}143$$
+
+$$B = \arctan(0{,}143) \approx \underline{\underline{8{,}1\degree}}$$
+
+**Takvinkelen $B$ er omtrent $\underline{\underline{8{,}1\degree}}$.** Det er en svært slak takvinkel, typisk for pulttak.
+
+---
+
+**Spørsmål 3 – solcellepaneler**
+
+Taket er rektangelformet med bredde $6 \, \mathrm{m}$ og areal $48 \, \mathrm{m^2}$. Lengden av taket er:
+
+$$\frac{48}{6} = 8 \, \mathrm{m}$$
+
+Hvert solcellepanel er $183 \, \mathrm{cm} \times 114 \, \mathrm{cm} = 1{,}83 \, \mathrm{m} \times 1{,}14 \, \mathrm{m}$.
+
+Vi prøver to orienteringer:
+
+**Orientering 1** – paneler med $1{,}83 \, \mathrm{m}$ langs lengden:
+
+$$\text{Langs 8 m:} \quad \frac{8}{1{,}83} = 4{,}37 \implies 4 \text{ paneler}$$
+
+$$\text{Langs 6 m:} \quad \frac{6}{1{,}14} = 5{,}26 \implies 5 \text{ paneler}$$
+
+$$4 \cdot 5 = 20 \text{ paneler}$$
+
+**Orientering 2** – paneler med $1{,}14 \, \mathrm{m}$ langs lengden:
+
+$$\text{Langs 8 m:} \quad \frac{8}{1{,}14} = 7{,}02 \implies 7 \text{ paneler}$$
+
+$$\text{Langs 6 m:} \quad \frac{6}{1{,}83} = 3{,}28 \implies 3 \text{ paneler}$$
+
+$$7 \cdot 3 = 21 \text{ paneler}$$
+
+Orientering 2 gir flest paneler.
+
+**Ole kan maksimalt få plass til $\underline{\underline{21}}$ hele solcellepaneler på taket.**
 
 
 </div></div>
@@ -563,7 +725,7 @@ Isak skal reise fra Oslo til Stockholm. Han finner to alternative måter:
 
 ## Fasit
 
-Alt 1 er 544 kr billigere. Alt 2 er 2 t 49 min raskere. Gjennomsnittsfart tog ≈ 61,3 km/h. CO₂: alt 1 = 4,16 kg, alt 2 = 52,1 kg. Alt 1 har 92 % lavere utslipp.
+Alt 1 er 544 kr billigere. Alt 2 er 2 t 49 min raskere. Gjennomsnittsfart tog ≈ 61,4 km/h. CO₂: alt 1 = 4,16 kg, alt 2 = 52,1 kg. Alt 1 har 92 % lavere utslipp.
 
 ## Løsningsforslag
 
@@ -606,10 +768,10 @@ $$
 Vi bruker $v = \dfrac{s}{t}$ med $s = 416 \, \mathrm{km}$ og $t = \dfrac{407}{60} \, \mathrm{h}$:
 
 $$
-v = \frac{416}{\frac{407}{60}} = \frac{416 \cdot 60}{407} \approx 61{,}3 \, \mathrm{km/h}
+v = \frac{416}{\frac{407}{60}} = \frac{416 \cdot 60}{407} \approx 61{,}4 \, \mathrm{km/h}
 $$
 
-**Gjennomsnittsfarten til toget er $\underline{\underline{61{,}3 \, \mathrm{km/h}}}$.**
+**Gjennomsnittsfarten til toget er $\underline{\underline{61{,}4 \, \mathrm{km/h}}}$.**
 
 ---
 

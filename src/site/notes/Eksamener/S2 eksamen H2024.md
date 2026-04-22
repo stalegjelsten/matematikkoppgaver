@@ -10,12 +10,12 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [1-1a](#oppgave-1-1a) | [Ubestemt integral h24](https://matematikkoppgaver.vercel.app/ubestemt-integral-h24/) | integral | ✔︎ |
-| [1-1b-c](#oppgave-1-1b-c) | [Integral med ukjent grense](https://matematikkoppgaver.vercel.app/integral-med-ukjent-grense/) | integral, likninger | ✔︎ |
-| [1-2](#oppgave-1-2) | [Aritmetiske og geometriske rekker h24](https://matematikkoppgaver.vercel.app/aritmetiske-og-geometriske-rekker-h24/) | rekker, uendelig rekke | ✔︎ |
+| [1-1a](#oppgave-1-1a) | [Ubestemt integral h24](https://matematikkoppgaver.vercel.app/ubestemt-integral-h24/) | integral, delvis integrasjon | ✔︎ |
+| [1-1b-c](#oppgave-1-1b-c) | [Integral med ukjent grense](https://matematikkoppgaver.vercel.app/integral-med-ukjent-grense/) | integral, likninger, bestemt integral, tolkning av integraler | ✔︎ |
+| [1-2](#oppgave-1-2) | [Aritmetiske og geometriske rekker h24](https://matematikkoppgaver.vercel.app/aritmetiske-og-geometriske-rekker-h24/) | rekker, uendelig rekke, aritmetisk rekke, geometrisk rekke, argumentasjon | ✔︎ |
 | [1-3](#oppgave-1-3) | [Varians i diskret sannsynlighetsfordeling](https://matematikkoppgaver.vercel.app/varians-i-diskret-sannsynlighetsfordeling/) | diskrete sannsynlighetsfordelinger, varians | ✔︎ |
-| [1-4](#oppgave-1-4) | [Figurer som viser normalfordeling](https://matematikkoppgaver.vercel.app/figurer-som-viser-normalfordeling/) | normalfordeling, standard normalfordeling, binomisk | ✔︎ |
-| [1-5](#oppgave-1-5) | [Grensekostnad og enhetskostnad del 1](https://matematikkoppgaver.vercel.app/grensekostnad-og-enhetskostnad-del-1/) | økonomi, grenseinntekt og grensekostnad, enhetskostnad | ✔︎ |
+| [1-4](#oppgave-1-4) | [Figurer som viser normalfordeling](https://matematikkoppgaver.vercel.app/figurer-som-viser-normalfordeling/) | normalfordeling, standard normalfordeling, binomisk, binomisk fordeling, tolke grafer | ✔︎ |
+| [1-5](#oppgave-1-5) | [Grensekostnad og enhetskostnad del 1](https://matematikkoppgaver.vercel.app/grensekostnad-og-enhetskostnad-del-1/) | økonomi, grenseinntekt og grensekostnad, enhetskostnad, derivasjon, overskudd | ✔︎ |
 
 **Del 2** — 3 timer — med hjelpemidler
 
@@ -23,13 +23,13 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [Marcos logistiske løpetrening](https://matematikkoppgaver.vercel.app/marcos-logistiske-lopetrening/) | logistisk funksjon, regresjon, samlet mengde | ✔︎ |
-| [2-2](#oppgave-2-2) | [Hypergeometrisk hypotesetest](https://matematikkoppgaver.vercel.app/hypergeometrisk-hypotesetest/) | hypotesetest, hypergeometrisk | ✔︎ |
-| [2-3a](#oppgave-2-3a) | [Påstand om sum av rekke](https://matematikkoppgaver.vercel.app/pastand-om-sum-av-rekke/) | rekker, uendelig rekke | ✔︎ |
-| [2-3b](#oppgave-2-3b) | [Påstand om områder avgrenset av grafer](https://matematikkoppgaver.vercel.app/pastand-om-omrader-avgrenset-av-grafer/) | funksjoner, areal under graf, integral | ✔︎ |
-| [2-4](#oppgave-2-4) | [Rekursiv formel og programmering](https://matematikkoppgaver.vercel.app/rekursiv-formel-og-programmering/) | programmering, rekursiv sammenheng | ✔︎ |
-| [2-5](#oppgave-2-5) | [Oles studielån](https://matematikkoppgaver.vercel.app/oles-studielan/) | lån | ✔︎ |
-| [2-6](#oppgave-2-6) | [Etterspørsel av vare](https://matematikkoppgaver.vercel.app/ettersporsel-av-vare/) | etterspørsel, økonomi | ✔︎ |
+| [2-1](#oppgave-2-1) | [Marcos logistiske løpetrening](https://matematikkoppgaver.vercel.app/marcos-logistiske-lopetrening/) | logistisk funksjon, regresjon, samlet mengde, integral, derivasjon | ✔︎ |
+| [2-2](#oppgave-2-2) | [Hypergeometrisk hypotesetest](https://matematikkoppgaver.vercel.app/hypergeometrisk-hypotesetest/) | hypotesetest, hypergeometrisk, sannsynlighet | ✔︎ |
+| [2-3a](#oppgave-2-3a) | [Påstand om sum av rekke](https://matematikkoppgaver.vercel.app/pastand-om-sum-av-rekke/) | rekker, uendelig rekke, konvergens, geometrisk rekke, argumentasjon | ✔︎ |
+| [2-3b](#oppgave-2-3b) | [Påstand om områder avgrenset av grafer](https://matematikkoppgaver.vercel.app/pastand-om-omrader-avgrenset-av-grafer/) | funksjoner, areal under graf, integral, areal mellom graf, argumentasjon | ✔︎ |
+| [2-4](#oppgave-2-4) | [Rekursiv formel og programmering](https://matematikkoppgaver.vercel.app/rekursiv-formel-og-programmering/) | programmering, rekursiv sammenheng, rekker | ✔︎ |
+| [2-5](#oppgave-2-5) | [Oles studielån](https://matematikkoppgaver.vercel.app/oles-studielan/) | lån, annuitetslån, rekker, cas | ✔︎ |
+| [2-6](#oppgave-2-6) | [Etterspørsel av vare](https://matematikkoppgaver.vercel.app/ettersporsel-av-vare/) | etterspørsel, økonomi, eksponentialfunksjoner, logaritmer | ✔︎ |
 
 # Del 1
 
@@ -150,7 +150,7 @@ b) $\frac{1}{3}$
 
 ## Løsningsforslag
 
-### 1-2a
+### a
 Summen av en aritmetisk rekke er gitt ved
 $$
 s_{n}=\frac{a_{1}+a_{n}}{2}\cdot n
@@ -164,7 +164,7 @@ $$
 s_{100}=\frac{3+399}{2}\cdot 100=\frac{402}{2} \cdot 100= 201\cdot 100=\underline{\underline{20\,100}}
 $$
 
-### 1-2b
+### b
 Vi vet at summen av en uendelig geometrisk rekke som konvergerer er
 $$
 s=\frac{a_{1}}{1-k} \iff 1-k=\frac{a_{1}}{s}\iff k=1-\frac{a_{1}}{s}
@@ -174,7 +174,7 @@ $$
 k=1-\frac{12}{18}=1-\frac{2}{3}=\underline{\underline{\frac{1}{3}}}
 $$
 
-### 1-2c
+### c
 Vi kan omskrive tallet som summen av en uendelig rekke med ledd på denne måten $0{,}75757575\ldots=0{,}75+0{,}0075+0{,}000075+\cdots$
 
 Hvert av disse leddene kan vi skrive om som brøker
@@ -300,7 +300,7 @@ b) Figur 3
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 Vi kan bruke en binomisk sannsynlighetsmodell siden vi kan regne dette som 1000 uavhengige forsøk hvor frøene enten spirer eller ikke spirer. På grunn av sentralgrensesetningen kan vi også bruke normalfordeling som en tilnærming til den binomiske fordelingen. 
 $$\text{Var}(X)=np(1-p)=1000\cdot 0{,}7\cdot 0{,}3=210$$
 I dette tilfellet er normalfordelingen en svært god tilnærming til den binomiske fordelingen siden variansen er mye større enn 5.
@@ -313,7 +313,7 @@ Vi vet at omtrent 68 % av utfallene kommer til å havne innenfor ett standardavv
 
 Vi ser at figur 1 må ha et standardavvik på mer enn 100, **derfor må figur 2 være riktig figur.**
 
-### 1-4b
+### b
 Vi kan bruke samme tankegang som i forrige oppgave. Vi ser at figur 4 har mye mer enn 68 % av sitt skraverte areal innenfor intervallet $\left[ \mu-\sigma , \mu+\sigma \right]=\left[ 40 , 60 \right]$.
 
 **Figur 3 viser sannsynlighetstettheten.**
@@ -357,7 +357,7 @@ b) 650 enheter
 
 ## Løsningsforslag
 
-### 1-5a
+### a
 Vi kan finne grensekostnaden ved å derivere kostnadsfunksjonen
 $$
 K'(x)=2 \cdot 0{,}3x+10=0{,}6x+10
@@ -382,7 +382,7 @@ Vi ser bort fra den negative løsningen av likningen siden vi snakker om produks
 
 **Grensekostnaden er lik enhetskostnaden ved produksjon av 100 enheter. Dette er også den produksjonsmengden som gir de laveste enhetskostnadene.**
 
-### 1-5b
+### b
 Inntektene fra salget er gitt ved
 $$
 I(x)=\text{pris} \cdot x =400x \implies I'(x)=400
@@ -451,7 +451,7 @@ c) Litt under 12 uker, med 43–45 km per uke i gjennomsnitt avhengig av hvordan
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 Jeg la inn dataene i GeoGebra og gjorde en regresjonsanalyse med logistisk modell. Som vi ser fra funksjonen som GeoGebra foreslår, så passer funksjonen $L(t)$ godt til denne situasjonen.
 $$
 L(t)=\frac{156{,}31}{1+12{,}21e^{-0{,}24t}}
@@ -461,7 +461,7 @@ $$
 
 En logistisk modell vil passe godt for denne typen situasjon, siden veksten vil avta før funksjonen nærmer seg en øvre grense. Den øvre grensen er i dette tilfellet 156,3 km. Det høres ut som en rimelig øvre grense for maratontrening (Jakob Ingebrigtsen, som er verdensmester på 1500 m, trener opp mot 180 km i uka på det meste).
 
-### 2-1b
+### b
 
 ![Løsning av oppgave 1a og 1b del 2 i CAS](/img/user/_resources/s2-h24-2-1.png){width=50%}
 
@@ -469,7 +469,7 @@ Vi vet at funksjonen vokser raskest i vendepunktet, så vi finner dette med GeoG
 
 **Antall løpte kilometer øker raskest i den ellevte uka, og økningen er da på omtrent 9,4 km per uke.**
 
-### 2-1c
+### c
 Vi kan løse denne oppgaven på flere måter, men oppgaveteksten legger på mange måter opp til at vi skal bruke funksjonsuttrykket fra a), og finne ut hvor mange uker det går før arealet under grafen blir 500 km.
 
 Å anta at $L(t)$ har tilnærmet kontinuerlig endring kan være en god tilnærming siden Marco sannsynligvis løper flere ganger i uka,
@@ -527,7 +527,7 @@ b) Ja, vi kan forkaste $H_{0}$ siden $p=0{,}038$.
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 Vi har en situasjon hvor vi har to ulike grupper og vi tenker oss at vi skal trekke 20 kandidater tilfeldig blant disse. Vi kan selvsagt ikke trekke den samme kandidaten til intervju 2 ganger, så dette blir en trekning uten tilbakelegging. Derfor passer en hypergeometrisk sannsynnlighetsfordeling godt i dette tilfellet.
 
 Hvis trekningen hadde vært tilfeldig burde sannsynligheten for å trekke en mann på første trekning være $p_{m}=\frac{40}{100}=0{,}4$. Altså kan vi sette opp følgende hypoteser
@@ -543,7 +543,7 @@ $$
 >Vi kan selvsagt bruke andelen kvinner som utgangspunkt for hypotesene våre. Ved tilfeldig trekning burde sannsynligheten for kvinne på første trekning være $p_{k}=0{,}6$. Dette gir hypotesene
 >$$H_{0}: \quad p_{k}=0{,}6 \quad \text{mot} \quad H_{1}: \quad p_{k}<0{,}6$$
 
-### 2-2b
+### b
 
 ![Hypergeometrisk hypotesetest i GeoGebra til oppgave 2-2](/img/user/_resources/s2-h24-2-2-hypotesetest.png){width=70%}
 
@@ -673,7 +673,7 @@ b) 67 455
 
 ## Løsningsforslag
 
-### 2-4a
+### a
 Jeg setter opp tallene i følgen og sjekker differansene mellom hvert ledd (*det er alltid et godt tips for å finne mønstre!*). Jeg fant ut at differansene mellom tallene var 1, 4, 9, 16, 25, og disse tallene kjenner jeg igjen som kvadrattallene.
 
 Jeg sjekker om jeg finner en god sammenheng for et av leddene
@@ -690,7 +690,7 @@ $$
 >- $a_{n}=a_{n-1}+(n-1)^{2}$ er den samme sammenhengen som vi nettopp fant, men den gjelder for $n\geq 2$
 >- $a_{n}=\left( \sqrt{ a_{n-1}-a_{n-2}  } +1 \right)^{2} + a_{n-1}$ er en sammenheng som ikke bruker $n$, slik at du ikke er avhengig av å kjenne til hvor i rekka du befinner deg når du bruker formelen
 
-### 2-4b
+### b
 
 ![Program for å regne ut ledd i rekke](/img/user/_resources/s2-h24-2-4b.png){width=60%}
 
@@ -840,13 +840,13 @@ b) $-100x \ln \left( \frac{x}{300} \right)$
 >
 > I oppgaven får vi oppgitt en kostnadsfunksjon $K(x)$, men jeg kan ikke se at vi har noen som helst bruk for den i løsningen.
 
-### 2-6a
+### a
 $$
 E(30)=300e^{-0{,}01 \cdot 30}=\underline{\underline{222{,}2}}
 $$
 **Etterspørselen etter varen er 222,2 enheter når prisen er 30 kr per vare. Det betyr at vi kan forvente å selge 222 enheter dersom vi prisen varen til 30 kr.**
 
-### 2-6b
+### b
 Vi lar etterspørselen $E(p)$ være lik $x$ (antall solgte varer), og løser med hensyn på $p$, se linje 3 i GeoGebra. 
 
 ![Løsning av oppgave 6 del 2 i CAS](/img/user/_resources/s2-h24-2-6.png){width=50%}

@@ -25,7 +25,7 @@ Table: {.eksamen-oversikt}
 | [2-1](#oppgave-2-1) | [Velferdsteknologi og smarthusteknologi](https://matematikkoppgaver.vercel.app/velferdsteknologi-og-smarthusteknologi/) | prosentregning, regneark, økonomi | × |
 | [2-2](#oppgave-2-2) | [Emilies dagsmeny og næringsinnhold](https://matematikkoppgaver.vercel.app/emilies-dagsmeny-og-naeringsinnhold/) | formler, prosentregning, grafisk framstilling | × |
 | [2-3](#oppgave-2-3) | [Chris lån og sparing for å ta førerkort](https://matematikkoppgaver.vercel.app/chris-lan-og-sparing-for-a-ta-forerkort/) | excel, lån, sparing, kredittkort | ✔︎ |
-| [2-4](#oppgave-2-4) | [Isak reiser Oslo til Stockholm](https://matematikkoppgaver.vercel.app/isak-reiser-oslo-til-stockholm/) | økonomi, prosentregning, modellering | ✔︎ |
+| [2-4](#oppgave-2-4) | [Isak reiser Oslo til Stockholm](https://matematikkoppgaver.vercel.app/isak-reiser-oslo-til-stockholm/) | økonomi, prosentregning, modellering, systematisering, sammensatte måleenheter | ✔︎ |
 
 # Del 1
 
@@ -65,7 +65,7 @@ b) A – størrelse 50/70 (1000 g / 20 g = 50 reker per kg)
 
 ## Løsningsforslag
 
-### 1-1a
+### a
 
 Vi deler prisen på antall kilogram:
 
@@ -75,7 +75,7 @@ $$
 
 **Prisen per kilogram er $\underline{\underline{80 \, \mathrm{kr/kg}}}$.**
 
-### 1-1b
+### b
 
 Vi finner hvor mange reker det er per kilogram når én reke veier 20 gram:
 
@@ -146,8 +146,7 @@ $$
 11 \cdot 1000 = 11\,000 \, \mathrm{kr}
 $$
 
-Siden $11\,000 \, \mathrm{kr} > 10\,500 \, \mathrm{kr}$, **klarer Oda sparemålet sitt hvis hun følger budsjettet.** Hun vil ha $\underline{\underline{500 \, \mathrm{kr}}}$ til overs.
-
+**Oda klarer sparemålet sitt hvis hun følger budsjettet. Hun vil ha $\underline{\underline{500 \, \mathrm{kr}}}$ til overs.**
 
 </div></div>
 
@@ -228,7 +227,6 @@ Hver boks med D-vitaminer inneholder 100 tabletter og koster 200 kroner.
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -274,7 +272,6 @@ Dråpefaktoren er 20 dråper per mL.
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -335,7 +332,6 @@ I 2023 betalte kvinnen i gjennomsnitt 1837 kroner i måneden for strøm.
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -385,7 +381,6 @@ Etter at Emilie er ferdig med prosjektet sitt, stiller hun seg noen spørsmål:
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -561,7 +556,7 @@ Isak skal reise fra Oslo til Stockholm. Han finner to alternative måter:
 
 ## Fasit
 
-Alt 1 er 544 kr billigere. Alt 2 er 2 t 49 min raskere. Gjennomsnittsfart tog ≈ 61,3 km/h. CO₂: alt 1 = 4,16 kg, alt 2 = 52,1 kg. Alt 1 har 92 % lavere utslipp.
+Alt 1 er 544 kr billigere. Alt 2 er 2 t 49 min raskere. Gjennomsnittsfart tog ≈ 61,4 km/h. CO₂: alt 1 = 4,16 kg, alt 2 = 52,1 kg. Alt 1 har 92 % lavere utslipp.
 
 ## Løsningsforslag
 
@@ -604,10 +599,10 @@ $$
 Vi bruker $v = \dfrac{s}{t}$ med $s = 416 \, \mathrm{km}$ og $t = \dfrac{407}{60} \, \mathrm{h}$:
 
 $$
-v = \frac{416}{\frac{407}{60}} = \frac{416 \cdot 60}{407} \approx 61{,}3 \, \mathrm{km/h}
+v = \frac{416}{\frac{407}{60}} = \frac{416 \cdot 60}{407} \approx 61{,}4 \, \mathrm{km/h}
 $$
 
-**Gjennomsnittsfarten til toget er $\underline{\underline{61{,}3 \, \mathrm{km/h}}}$.**
+**Gjennomsnittsfarten til toget er $\underline{\underline{61{,}4 \, \mathrm{km/h}}}$.**
 
 ---
 

@@ -28,7 +28,7 @@ a) 40 + 38 + 36,1 = 114,1 tonn ✓  b) Program med løkke → 800 tonn  c) T = 2
 
 ## Løsningsforslag
 
-### 2-7a
+### a
 
 Utslippet i år er $u_0 = 40$ tonn. Det reduseres med 5 % hvert år, så vekstfaktoren er $k = 0{,}95$.
 
@@ -40,7 +40,7 @@ Samlet utslipp over tre år:
 
 $$40 + 38 + 36{,}1 = \underline{\underline{114{,}1 \text{ tonn}}} \quad \checkmark$$
 
-### 2-7b
+### b
 
 Vi bruker en løkke som summerer utslippet over mange år (f.eks. 1000 år):
 
@@ -56,7 +56,7 @@ print(total)
 
 Programmet gir: **Samlet utslipp ≈ 800 tonn.**
 
-### 2-7c
+### c
 
 Dersom utslippet i år er $u$ (i stedet for 40) og reduksjonen fortsatt er 5 % per år:
 
@@ -70,7 +70,7 @@ Vi prøver noen verdier:
 
 **Det samlede utslippet er alltid $T = 20 \cdot u$** – altså 20 ganger utslippet i år.
 
-### 2-7d
+### d
 
 Oles formel er $T = \dfrac{u}{p} \cdot 100$.
 

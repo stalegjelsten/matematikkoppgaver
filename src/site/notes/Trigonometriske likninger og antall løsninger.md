@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["trigonometri","likninger"],"fag":["r2"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":4}],"title":"Trigonometriske likninger og antall løsninger","status":3,"source":null,"todo":null,"dg-permalink":"/trigonometriske-likninger-og-antall-losninger/","permalink":"/trigonometriske-likninger-og-antall-losninger/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"temaer":["trigonometri","likninger"],"fag":["r2"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":4}],"title":"Trigonometriske likninger og antall løsninger","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"dg-publish":true,"temaer":["trigonometri","likninger"],"fag":["r2"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":4}],"title":"Trigonometriske likninger og antall løsninger","status":3,"source":null,"todo":null,"kategori":3,"vanskegrad":3,"beskrivelse":"Løse $\\sin x-\\sqrt 3\\cos x=0$ via $\\tan x=\\sqrt 3$, og avgjøre antall løsninger for $(\\sin x-1/2)(\\sin x-a)=0$ som funksjon av $a$.","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":2,"beskrivelse":"Dividere med $\\cos x$ for å få $\\tan x=\\sqrt 3$ og finne $x=\\pi/3, 4\\pi/3$."}],"dg-permalink":"/trigonometriske-likninger-og-antall-losninger/","permalink":"/trigonometriske-likninger-og-antall-losninger/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-17","modified":"2026-03-17","aliases":[],"temaer":["trigonometri","likninger"],"fag":["r2"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"r2","del":1,"oppgave":4}],"title":"Trigonometriske likninger og antall løsninger","status":3,"source":null,"todo":null,"kategori":3,"vanskegrad":3,"beskrivelse":"Løse $\\sin x-\\sqrt 3\\cos x=0$ via $\\tan x=\\sqrt 3$, og avgjøre antall løsninger for $(\\sin x-1/2)(\\sin x-a)=0$ som funksjon av $a$.","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":2,"beskrivelse":"Dividere med $\\cos x$ for å få $\\tan x=\\sqrt 3$ og finne $x=\\pi/3, 4\\pi/3$."}]}}
 ---
 
 
@@ -24,7 +24,7 @@ b) To løsninger: $|a|>1$ eller $a=\dfrac{1}{2}$; tre løsninger: $a=\pm 1$; fir
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 
 $$
 \sin x - \sqrt{3}\cos x = 0 \implies \sin x = \sqrt{3}\cos x \implies \tan x = \sqrt{3}
@@ -36,7 +36,7 @@ I intervallet $[0, 2\pi)$:
 
 **$\underline{\underline{x = \dfrac{\pi}{3}}}$ og $\underline{\underline{x = \dfrac{4\pi}{3}}}$**
 
-### 1-4b
+### b
 
 Likningen $\left(\sin x - \dfrac{1}{2}\right)\left(\sin x - a\right) = 0$ gir
 

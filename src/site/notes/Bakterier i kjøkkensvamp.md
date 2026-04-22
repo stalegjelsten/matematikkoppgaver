@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["standardform"],"fag":["2p-y"],"eksamen":"h24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":2}],"title":"Bakterier i kjøkkensvamp","source":null,"todo":null,"status":3,"dg-permalink":"/bakterier-i-kjokkensvamp/","permalink":"/bakterier-i-kjokkensvamp/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"temaer":["standardform"],"fag":["2p-y"],"eksamen":"h24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":2}],"title":"Bakterier i kjøkkensvamp","source":null,"todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"dg-publish":true,"temaer":["standardform","store tall"],"fag":["2p-y"],"eksamen":"h24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":2}],"title":"Bakterier i kjøkkensvamp","source":null,"todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Overslag på antall bakterier og total lengde i rekke ved å multiplisere og dividere tall på standardform.","deloppgaver":[{"deloppgave":"a","kategori":1,"beskrivelse":"Multiplisere antall bakterier per cm³ med volumet og skrive på standardform."}],"dg-permalink":"/bakterier-i-kjokkensvamp/","permalink":"/bakterier-i-kjokkensvamp/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-09-28","modified":"2025-09-28","aliases":[],"temaer":["standardform","store tall"],"fag":["2p-y"],"eksamen":"h24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":2}],"title":"Bakterier i kjøkkensvamp","source":null,"todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Overslag på antall bakterier og total lengde i rekke ved å multiplisere og dividere tall på standardform.","deloppgaver":[{"deloppgave":"a","kategori":1,"beskrivelse":"Multiplisere antall bakterier per cm³ med volumet og skrive på standardform."}]}}
 ---
 
 
@@ -28,7 +28,7 @@ b) $\approx 6 \times 10^{6} \, \mathrm{m}$
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 
 Kjøkkensvampen har volum $150 \, \mathrm{cm^3}$, og det er mellom $25$ og $54$ milliarder bakterier per cm³.
 
@@ -38,7 +38,7 @@ $$4 \times 10^{10} \cdot 150 = 6 \times 10^{12}$$
 
 **Det er omtrent $\underline{\underline{6 \times 10^{12}}}$ bakterier i kjøkkensvampen.**
 
-### 2-2b
+### b
 
 De fleste bakterier er mellom $0{,}2$ og $2$ mikrometer, omtrent $1 \, \mathrm{\mu m} = 10^{-6} \, \mathrm{m}$.
 

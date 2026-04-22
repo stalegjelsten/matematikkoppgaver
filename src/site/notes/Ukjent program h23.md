@@ -37,12 +37,12 @@ b) Verdien er 4.
 ## Løsningsforslag
 
 
-### 1-4a
+### a
 **Programmet forsøker å regne ut en tilnærmingsverdi for arealene mellom $x$-aksen, grafen til $f(x)=x^{2}-1$, linja $x=-2$ og linja $x=2$.** 
 
 Ved å bruke absoluttverdifunksjonen så tar programmet hensyn til at $f<0$ i deler av intervallet.
 
-### 1-4b
+### b
 Jeg ser at $f(x)$ har nullpunkter i $x=1$ og $x=-1$. På grunn av symmetri vil 
 
 $$

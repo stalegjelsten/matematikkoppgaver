@@ -64,14 +64,14 @@ b) 17 %
 
 ## Løsningsforslag
 
-### 1-1a
+### a
 Siden $25 \cdot 4=100$ så må $25 \cdot 16 = 400$. Da må også $25\cdot 17 =425$.
 
 Hvis Selma kjører 16 reiser så vil hun altså betale mindre ved å kjøpe enkeltbilletter til 25 kr stk. 
 
 **Hvis Selma kjører 17 reiser så lønner det seg å kjøpe fleksikort med 20 reiser.**
 
-### 1-1b
+### b
 Prisen for 20 enkeltreiser er $25 \cdot 20=500$.
 
 Hun sparer altså $500-415=85 \mathrm{~kr}$. Det tilsvarer
@@ -290,7 +290,7 @@ b) 0,0767 ºC
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 
 ![Graf som viser sjøtemperaturen](/img/user/_resources/2py-h23-2-1-a.png){width=70%}
 
@@ -298,7 +298,7 @@ Vi legger inn $T(x)$ i GeoGebra for å få et overblikk over temperaturen og vi 
 
 **Forskjellen mellom høyeste og laveste temperatur er 13,27 ºC.**
 
-### 2-1b
+### b
 Måneden mars tilsvarer omtrent dagene $x=59$ til $x=90$.
 
 Vi regner ut temperaturen for disse dagene i GeoGebra:
@@ -368,7 +368,7 @@ c) Gjennomsnittet er likt (≈ 14,5), men medianen er høyere i 2022 (14 mot 11)
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 
 Datamaterialet sortert: $11, 11, 12, 12, 13, \mathbf{14}, 15, 15, 15, 16, 25$
 
@@ -376,7 +376,7 @@ Datamaterialet sortert: $11, 11, 12, 12, 13, \mathbf{14}, 15, 15, 15, 16, 25$
 - **Variasjonsbredde:** $25 - 11 = \underline{\underline{14}}$
 - **Median:** Det 6. tallet i sortert rekkefølge (11 tall) er $\underline{\underline{14}}$
 
-### 2-2b
+### b
 
 Vi beregner i GeoGebra med listen $\{11, 11, 12, 12, 13, 14, 15, 15, 15, 16, 25\}$.
 
@@ -384,7 +384,7 @@ $$\text{Gjennomsnitt} = \frac{11+11+12+12+13+14+15+15+15+16+25}{11} = \frac{159}
 
 Standardavvik (beregnet med GeoGebra): $\underline{\underline{\sigma \approx 3{,}7}}$
 
-### 2-2c
+### c
 
 I 2021 var medianen 11, gjennomsnittet 14,5 og standardavviket 6,7. Vi kan se følgende:
 
@@ -618,7 +618,7 @@ a) 40 + 38 + 36,1 = 114,1 tonn ✓  b) Program med løkke → 800 tonn  c) T = 2
 
 ## Løsningsforslag
 
-### 2-7a
+### a
 
 Utslippet i år er $u_0 = 40$ tonn. Det reduseres med 5 % hvert år, så vekstfaktoren er $k = 0{,}95$.
 
@@ -630,7 +630,7 @@ Samlet utslipp over tre år:
 
 $$40 + 38 + 36{,}1 = \underline{\underline{114{,}1 \text{ tonn}}} \quad \checkmark$$
 
-### 2-7b
+### b
 
 Vi bruker en løkke som summerer utslippet over mange år (f.eks. 1000 år):
 
@@ -646,7 +646,7 @@ print(total)
 
 Programmet gir: **Samlet utslipp ≈ 800 tonn.**
 
-### 2-7c
+### c
 
 Dersom utslippet i år er $u$ (i stedet for 40) og reduksjonen fortsatt er 5 % per år:
 
@@ -660,7 +660,7 @@ Vi prøver noen verdier:
 
 **Det samlede utslippet er alltid $T = 20 \cdot u$** – altså 20 ganger utslippet i år.
 
-### 2-7d
+### d
 
 Oles formel er $T = \dfrac{u}{p} \cdot 100$.
 
@@ -714,7 +714,7 @@ b) Lineær modell gir negativt utslipp i 2050 (urealistisk). Eksponentiell model
 
 ## Løsningsforslag
 
-### 2-8a
+### a
 
 Norske myndigheter ønsker at klimagassutslippet skal reduseres med 55 % fra 1990-nivå innen 2030. Det betyr at målet for 2030 er:
 
@@ -764,7 +764,7 @@ $$
 
 Det betyr at utslippet må reduseres med omtrent $1 - 0{,}9104 \approx 8{,}96 \,\%$ per år.
 
-### 2-8b
+### b
 
 Vi bruker modellene til å beregne utslippet i 2050 ($x = 28$):
 

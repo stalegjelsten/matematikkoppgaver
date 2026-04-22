@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-09-26","modified":"2025-09-26","aliases":[],"dg-publish":true,"temaer":["prosentvis endring i flere perioder","programmering"],"fag":["2p-y","2p"],"eksamen":"h24","del":1,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":5},{"fag":"2p","del":1,"oppgave":5}],"title":"Utslippsreduksjon med prosentvis nedgang","source":null,"todo":null,"status":3,"dg-permalink":"/utslippsreduksjon-med-prosentvis-nedgang/","permalink":"/utslippsreduksjon-med-prosentvis-nedgang/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-09-26","modified":"2025-09-26","aliases":[],"temaer":["prosentvis endring i flere perioder","programmering"],"fag":["2p-y","2p"],"eksamen":"h24","del":1,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":5},{"fag":"2p","del":1,"oppgave":5}],"title":"Utslippsreduksjon med prosentvis nedgang","source":null,"todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2025-09-26","modified":"2025-09-26","aliases":[],"dg-publish":true,"temaer":["prosentvis endring i flere perioder","programmering"],"fag":["2p-y","2p"],"eksamen":"h24","del":1,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":5},{"fag":"2p","del":1,"oppgave":5}],"title":"Utslippsreduksjon med prosentvis nedgang","source":null,"todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Tolke uttrykket $200\\cdot 0{,}975^x$ og hva while-løkken summerer (utslipp 2025–2029).","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":1,"beskrivelse":"Tolke $200\\cdot 0{,}975^x$ som utslipp i tonn CO$_2$ $x$ år etter 2025."}],"dg-permalink":"/utslippsreduksjon-med-prosentvis-nedgang/","permalink":"/utslippsreduksjon-med-prosentvis-nedgang/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-09-26","modified":"2025-09-26","aliases":[],"temaer":["prosentvis endring i flere perioder","programmering"],"fag":["2p-y","2p"],"eksamen":"h24","del":1,"oppgave":5,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":5},{"fag":"2p","del":1,"oppgave":5}],"title":"Utslippsreduksjon med prosentvis nedgang","source":null,"todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Tolke uttrykket $200\\cdot 0{,}975^x$ og hva while-løkken summerer (utslipp 2025–2029).","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":1,"beskrivelse":"Tolke $200\\cdot 0{,}975^x$ som utslipp i tonn CO$_2$ $x$ år etter 2025."}]}}
 ---
 
 
@@ -37,7 +37,7 @@ b) Det totale CO₂-utslippet i 2025–2029 ($\approx 951 \, \mathrm{tonn}$)
 
 ## Løsningsforslag
 
-### 1-5a
+### a
 
 Linje 2 i programmet er `return 200 * 0.975 ** x`.
 
@@ -47,7 +47,7 @@ Linje 2 i programmet er `return 200 * 0.975 ** x`.
 
 **Uttrykket $200 \cdot 0{,}975^x$ gir utslippet (i tonn CO₂) $x$ år etter 2025.**
 
-### 1-5b
+### b
 
 Programmet beregner $f(0) + f(1) + f(2) + f(3) + f(4)$, altså summen av utslippet for $x = 0, 1, 2, 3, 4$.
 

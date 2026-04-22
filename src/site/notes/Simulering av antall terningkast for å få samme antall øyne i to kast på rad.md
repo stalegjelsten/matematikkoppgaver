@@ -29,7 +29,7 @@ b) 24,5
 
 ## Løsningsforslag
 
-### 2-6a
+### a
 
 
 *I denne oppgaven er jeg veldig usikker på hva som kreves for å forklare at uttrykket i oppgaveteksten er det samme som forventningsverdien. Jeg tror ikke det er meningen at elever skal gjøre det samme som jeg har gjort her – men jeg klarer ikke helt å se en enklere måte å argumentere for at forventningsverdien er eksakt lik summen av «antall kast nødvendig».*
@@ -91,7 +91,7 @@ Til sammen blir altså $\text{E}(X)=\textcolor{seagreen}{1}+s=\textcolor{seagree
 
 **Verdien av rekka er 7.**
 
-### 2-6b
+### b
 Vi skal simulere *forventningsverdien til summen av antall øyne på alle terningene* som kastes i jakten på å få to like kast på rad.
 
 ```python

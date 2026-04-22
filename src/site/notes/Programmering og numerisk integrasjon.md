@@ -75,7 +75,7 @@ b) Trapesmetode: `(f(x) + f(x+dx)) / 2 * dx`
 
 ## Løsningsforslag
 
-### 2-4a
+### a
 
 Funksjonen $f(x) = 3^{2x} = 9^x$ er strengt stigende på $[0, 2]$.
 
@@ -86,7 +86,7 @@ For en stigende funksjon gjelder:
 
 Det faktiske arealet (nøyaktig) er $\displaystyle\int_0^2 9^x \, \mathrm{d}x = \frac{9^2-1}{\ln 9} \approx 36{,}4$.
 
-### 2-4b
+### b
 
 En bedre metode er **trapesmetoden**: vi bruker gjennomsnittet av funksjonsverdiene i begge endepunktene av hvert delintervall.
 

@@ -18,7 +18,7 @@ b) 67 455
 
 ## Løsningsforslag
 
-### 2-4a
+### a
 Jeg setter opp tallene i følgen og sjekker differansene mellom hvert ledd (*det er alltid et godt tips for å finne mønstre!*). Jeg fant ut at differansene mellom tallene var 1, 4, 9, 16, 25, og disse tallene kjenner jeg igjen som kvadrattallene.
 
 Jeg sjekker om jeg finner en god sammenheng for et av leddene
@@ -35,7 +35,7 @@ $$
 >- $a_{n}=a_{n-1}+(n-1)^{2}$ er den samme sammenhengen som vi nettopp fant, men den gjelder for $n\geq 2$
 >- $a_{n}=\left( \sqrt{ a_{n-1}-a_{n-2}  } +1 \right)^{2} + a_{n-1}$ er en sammenheng som ikke bruker $n$, slik at du ikke er avhengig av å kjenne til hvor i rekka du befinner deg når du bruker formelen
 
-### 2-4b
+### b
 
 ![Program for å regne ut ledd i rekke](/img/user/_resources/s2-h24-2-4b.png){width=60%}
 

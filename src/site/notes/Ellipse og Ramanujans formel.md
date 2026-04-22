@@ -31,7 +31,7 @@ b) Ja, den gjelder.
 
 ## Løsningsforslag
 
-### 2-7a
+### a
 Vi beregner først $h$ med $a=3$ og $b=2$:
 
 $$
@@ -44,7 +44,7 @@ Så regner vi ut omkretsen $O$ ved hjelp av formelen (jeg bruker CAS i GeoGebra 
 
 **Omkretsen er omtrent 15,9 cm. Det er samme svaret som Mari har funnet.**
 
-### 2-7b
+### b
 En sirkel har omkretsen $O_{\text{sirkel}}=\pi \cdot d$, der $d$ er diameteren, eller $O_{\text{sirkel}}=2 \pi r$ dersom vi bruker radius istedenfor diameter.
 
 I en sirkel vil begge halvaksene være like lange, og begge vil være lik radius i sirkelen, formelen for $h$ blir derfor:

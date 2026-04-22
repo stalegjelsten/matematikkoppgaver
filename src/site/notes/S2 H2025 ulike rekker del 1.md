@@ -35,7 +35,7 @@ c) 14 meter
 
 ## Løsningsforslag
 
-### 1-2a
+### a
 Vi kjenner $a_{1}=-3$ og $a_{n}=69$, men vi kjenner ikke $n$. Vi bruker derfor formelen for ledd i aritmetisk følge
 $$
 \begin{aligned}
@@ -50,7 +50,7 @@ $$
 Summen av den aritmetisk rekka er dermed
 $$s_{n}=\frac{a_{1}+a_{n}}{2}\cdot n =\frac{-3+69}{2}\cdot 25=\frac{66}{2}\cdot 25=33 \cdot 25 = \underline{\underline{825}}$$
 
-### 1-2b
+### b
 Konvergensområdet er de verdiene av $x$ som tilfredsstiller $-1<k(x)<1$, der $k(x)=\frac{1}{2}-x$.
 $$
 \begin{aligned}
@@ -63,7 +63,7 @@ $$
 $$
 **Konvergensområdet for rekka er $\underline{\underline{x \in \left\langle-\frac{1}{2}, \frac{3}{2} \right\rangle}}$.**
 
-### 1-2c
+### c
 Ballen vil bevege seg på følgende måte:
 
 - $2$ m ned

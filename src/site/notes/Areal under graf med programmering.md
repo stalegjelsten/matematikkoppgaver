@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"temaer":["programmering","integral","funksjoner","utforskning"],"alias":[null],"del":2,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":4}],"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Areal under graf med programmering","date":"2023-06-01","modified":"2023-06-01","status":3,"dg-permalink":"/areal-under-graf-med-programmering/","permalink":"/areal-under-graf-med-programmering/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"temaer":["programmering","integral","funksjoner","utforskning"],"alias":[null],"del":2,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":4}],"fag":"1t","eksamen":"v23","title":"Areal under graf med programmering","date":"2023-06-01","modified":"2023-06-01","status":3}}
+{"tags":["oppgave"],"temaer":["programmering","integral","funksjoner","utforskning","numerisk integrasjon"],"alias":[null],"del":2,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":4}],"fag":"1t","eksamen":"v23","dg-publish":true,"title":"Areal under graf med programmering","date":"2023-06-01","modified":"2023-06-01","status":3,"kategori":3,"vanskegrad":2,"beskrivelse":"Riemannsummer med venstre-rektangel-metoden manuelt og via Python-program for tilnærmet integral.","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":2,"beskrivelse":"Summere seks rektanglers areal ved å beregne f(x) for hvert startpunkt."},{"deloppgave":"b","kategori":3,"vanskegrad":3,"beskrivelse":"Skrive Python-program med løkke som beregner sum av n rektanglers areal."},{"deloppgave":"c","kategori":1,"vanskegrad":1,"beskrivelse":"Kjøre programmet med 6000 rektangler og lese av resultatet."}],"dg-permalink":"/areal-under-graf-med-programmering/","permalink":"/areal-under-graf-med-programmering/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"temaer":["programmering","integral","funksjoner","utforskning","numerisk integrasjon"],"alias":[null],"del":2,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":4}],"fag":"1t","eksamen":"v23","title":"Areal under graf med programmering","date":"2023-06-01","modified":"2023-06-01","status":3,"kategori":3,"vanskegrad":2,"beskrivelse":"Riemannsummer med venstre-rektangel-metoden manuelt og via Python-program for tilnærmet integral.","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":2,"beskrivelse":"Summere seks rektanglers areal ved å beregne f(x) for hvert startpunkt."},{"deloppgave":"b","kategori":3,"vanskegrad":3,"beskrivelse":"Skrive Python-program med løkke som beregner sum av n rektanglers areal."},{"deloppgave":"c","kategori":1,"vanskegrad":1,"beskrivelse":"Kjøre programmet med 6000 rektangler og lese av resultatet."}]}}
 ---
 
 
@@ -2585,6 +2585,8 @@ er avgrenset av $x$-aksen, $y$-aksen og grafen til $f$.
 
 Hun vil gjøre dette ved å legge sammen arealene av små rektangler. Hun begynner som vist på figur 2 og figur 3 nedenfor og vil så øke antall rektangler for å få en bedre tilnærming.
 
+<!-- two-column start left-width=50% -->
+
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
@@ -4350,7 +4352,9 @@ z
   </clipPath>
  </defs>
 </svg>
-{width=50%}
+{width=100%}
+
+---
 
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
@@ -6166,11 +6170,14 @@ z
   </clipPath>
  </defs>
 </svg>
-{width=50%}
+{width=100%}
 
-a) Bestem arealet av de seks rektanglene i figur 2
+<!-- two-column stop -->
 
-b) Lag et program som Thea kan bruke når hun skal øke antallet rektangler. Du kan for eksempel begynne som vist nedenfor.
+
+> [!oppgave]
+> a) Bestem arealet av de seks rektanglene i figur 2
+> b) Lag et program som Thea kan bruke når hun skal øke antallet rektangler. Du kan for eksempel begynne som vist nedenfor.
 
 ```python
 def f(x):
@@ -6184,7 +6191,8 @@ n = 6000                                    # antall rektangler
 bredde =                                    # bredden av hvert rektangel
 ```
 
-c) Bruk programmet til å bestemme arealet dersom hun bruker 6000 rektangler.
+> [!oppgave]
+> c) Bruk programmet til å bestemme arealet dersom hun bruker 6000 rektangler.
 
 ## Fasit
 
@@ -6194,7 +6202,7 @@ c) 20,002
 
 ## Løsningsforslag
 
-### 2-4a
+### a
 Jeg ser at alle rektanglene har bredde 1. Arealet av hvert rektangel er derfor $A_{\square}=h\cdot  b=h\cdot 1=h$. Høyden til rektangelet er gitt ved $f(x)=\frac{1}{9}(x+1)(x-6)^2$ hvor $x\in \left\{ 0, 1, 2 , 3, 4, 5 \right\}$.
 
 ![](/img/user/_resources/1t-v23-2-4a.png){ width=60% }
@@ -6203,7 +6211,7 @@ Jeg legger sammen funksjonsverdiene i CAS og finner at det samlede arealet er
 
 $$A=\underline{\underline{\frac{196}{9}}}$$
 
-### 2-4b
+### b
 ```python
 def f(x):
     return 1 / 9 * (x + 1) * (x - 6) ** 2   # Definerer funksjonen
@@ -6255,5 +6263,5 @@ print(f"Arealet av rektanglene er {areal:.3f}")
 
 
 
-### 2-4c
+### c
 Bruker programmet jeg lagde i 4b. **Det gir utskriften `Arealet av rektanglene er 20.002`.**

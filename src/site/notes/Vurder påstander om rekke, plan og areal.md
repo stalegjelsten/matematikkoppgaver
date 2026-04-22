@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["rekker","vektorer","integral","argumentasjon"],"fag":["r2"],"eksamen":"h24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":2}],"poeng":6,"title":"Vurder påstander om rekke, plan og areal","status":3,"source":null,"todo":null,"dg-permalink":"/vurder-pastander-om-rekke-plan-og-areal/","permalink":"/vurder-pastander-om-rekke-plan-og-areal/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"temaer":["rekker","vektorer","integral","argumentasjon"],"fag":["r2"],"eksamen":"h24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":2}],"poeng":6,"title":"Vurder påstander om rekke, plan og areal","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["rekker","vektorer","integral","argumentasjon"],"fag":["r2"],"eksamen":"h24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":2}],"poeng":6,"title":"Vurder påstander om rekke, plan og areal","status":3,"source":null,"todo":null,"kategori":3,"vanskegrad":2,"beskrivelse":"Vurder tre påstander om plan bestemt av 3 punkter, konvergens av geometrisk rekke med $\\ln$, og areal mellom kurver.","deloppgaver":[{"deloppgave":"a","vanskegrad":2,"beskrivelse":"Moteksempel med tre kollineære punkter viser at 3 punkter ikke alltid bestemmer et plan."},{"deloppgave":"b","kategori":2,"beskrivelse":"Sett inn $x=1/e$ og finn $k=-2$; konkluder at rekka divergerer."},{"deloppgave":"c","kategori":3,"vanskegrad":3,"beskrivelse":"Finn skjæringspunkter og sammenlign arealer mellom grafene i GeoGebra."}],"dg-permalink":"/vurder-pastander-om-rekke-plan-og-areal/","permalink":"/vurder-pastander-om-rekke-plan-og-areal/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-20","modified":"2026-03-26","aliases":[],"temaer":["rekker","vektorer","integral","argumentasjon"],"fag":["r2"],"eksamen":"h24","del":2,"oppgave":2,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":2}],"poeng":6,"title":"Vurder påstander om rekke, plan og areal","status":3,"source":null,"todo":null,"kategori":3,"vanskegrad":2,"beskrivelse":"Vurder tre påstander om plan bestemt av 3 punkter, konvergens av geometrisk rekke med $\\ln$, og areal mellom kurver.","deloppgaver":[{"deloppgave":"a","vanskegrad":2,"beskrivelse":"Moteksempel med tre kollineære punkter viser at 3 punkter ikke alltid bestemmer et plan."},{"deloppgave":"b","kategori":2,"beskrivelse":"Sett inn $x=1/e$ og finn $k=-2$; konkluder at rekka divergerer."},{"deloppgave":"c","kategori":3,"vanskegrad":3,"beskrivelse":"Finn skjæringspunkter og sammenlign arealer mellom grafene i GeoGebra."}]}}
 ---
 
 
@@ -28,7 +28,7 @@ c) Sann – de to arealene er like store
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 **Påstand:** Likningen til et plan kan alltid bestemmes av 3 punkter i planet.
 
 Påstanden er **usann**. Tre punkter bestemmer et entydig plan hvis og bare hvis de ikke er kollineære (ikke ligger på samme rette linje). Hvis tre punkter er kollineære, spenner vektorene $\vec{AB}$ og $\vec{AC}$ over det samme retningsrommet, og kryssprodukt $\vec{AB} \times \vec{AC} = \vec{0}$. Vi får dermed ingen normalvektor og kan ikke bestemme planet entydig.
@@ -37,7 +37,7 @@ Påstanden er **usann**. Tre punkter bestemmer et entydig plan hvis og bare hvis
 
 **Påstanden er usann.**
 
-### 2-2b
+### b
 Jeg vet at summen av en uendelig geometrisk rekke er gitt ved
 $$
 s=\frac{a_{1}}{1-k}
@@ -60,7 +60,7 @@ $k$ ligger ikke i intervallet $\langle-1,1\rangle$, og dermed konvergerer ikke r
 
 **Påstanden er usann, rekka konvergerer ikke når $x=\frac{1}{e}$.**
 
-### 2-2c
+### c
 $f$ og $g$ kommer til å avgrense maksimalt 2 områder siden $f$ er en tredjegradsfunksjon og $g$ er en andregradsfunksjon. For å finne disse to områdene må vi først finne skjæringspunktene mellom grafene.
 
 ![Bestemmelse av skjæringspunktet mellom funksjoner i CAS](/img/user/_resources/s2-h24-2-3b-1.png){width=50%}

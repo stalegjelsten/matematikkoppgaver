@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-01-28","modified":"2024-01-28","aliases":null,"dg-publish":true,"temaer":["grenseinntekt og grensekostnad","enhetskostnad","tolke grafer"],"fag":["s2"],"eksamen":"h23","del":1,"oppgave":"3","oppgavenummer":[{"fag":"s2","del":1,"oppgave":3}],"title":"Grensekostnader og enhetskostnader fra graf","source":null,"todo":null,"status":3,"dg-permalink":"/grensekostnader-og-enhetskostnader-fra-graf/","permalink":"/grensekostnader-og-enhetskostnader-fra-graf/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-01-28","modified":"2024-01-28","aliases":null,"temaer":["grenseinntekt og grensekostnad","enhetskostnad","tolke grafer"],"fag":["s2"],"eksamen":"h23","del":1,"oppgave":"3","oppgavenummer":[{"fag":"s2","del":1,"oppgave":3}],"title":"Grensekostnader og enhetskostnader fra graf","source":null,"todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2024-01-28","modified":"2024-01-28","aliases":null,"dg-publish":true,"temaer":["grenseinntekt og grensekostnad","enhetskostnad","tolke grafer","derivasjon","argumentasjon"],"fag":["s2"],"eksamen":"h23","del":1,"oppgave":"3","oppgavenummer":[{"fag":"s2","del":1,"oppgave":3}],"title":"Grensekostnader og enhetskostnader fra graf","source":null,"todo":null,"status":3,"kategori":3,"vanskegrad":2,"beskrivelse":"Avlese enhetskostnad og grensekostnad fra tangenter på $K$; argumentere for at min enhetskostnad = tangent gjennom origo.","deloppgaver":[{"deloppgave":"a","kategori":2,"vanskegrad":1,"beskrivelse":"Lese av $K(40)=3270$ fra tangenten $f$ og beregne $E(40)=81{,}75$."},{"deloppgave":"b","beskrivelse":"Forklare at stigningstallet til tangenten = $K'(40)=31$."},{"deloppgave":"c","vanskegrad":3,"beskrivelse":"Derivere $E(x)=K(x)/x$ og vise at min $E$ svarer til tangent gjennom origo; avlese 60 kr."}],"dg-permalink":"/grensekostnader-og-enhetskostnader-fra-graf/","permalink":"/grensekostnader-og-enhetskostnader-fra-graf/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-01-28","modified":"2024-01-28","aliases":null,"temaer":["grenseinntekt og grensekostnad","enhetskostnad","tolke grafer","derivasjon","argumentasjon"],"fag":["s2"],"eksamen":"h23","del":1,"oppgave":"3","oppgavenummer":[{"fag":"s2","del":1,"oppgave":3}],"title":"Grensekostnader og enhetskostnader fra graf","source":null,"todo":null,"status":3,"kategori":3,"vanskegrad":2,"beskrivelse":"Avlese enhetskostnad og grensekostnad fra tangenter på $K$; argumentere for at min enhetskostnad = tangent gjennom origo.","deloppgaver":[{"deloppgave":"a","kategori":2,"vanskegrad":1,"beskrivelse":"Lese av $K(40)=3270$ fra tangenten $f$ og beregne $E(40)=81{,}75$."},{"deloppgave":"b","beskrivelse":"Forklare at stigningstallet til tangenten = $K'(40)=31$."},{"deloppgave":"c","vanskegrad":3,"beskrivelse":"Derivere $E(x)=K(x)/x$ og vise at min $E$ svarer til tangent gjennom origo; avlese 60 kr."}]}}
 ---
 
 
@@ -35,7 +35,7 @@ c) 60 kr
 
 ## Løsningsforslag
 
-### 1-3a
+### a
 Enhetskostnadene er gitt ved
 
 $$
@@ -58,12 +58,12 @@ $$
 
 Dette stemmer perfekt med uttrykket for $h(x)$, og da vet vi også at den grønne linja i figuren faktisk skjærer grafen nøyaktig i $x=40$.
 
-### 1-3b
+### b
 Siden $A$ er et tangeringspunkt på grafen til $K$, og $A$ ligger på $x=40$, så vil stigningstallet til tangenten i $A$ være det samme som den deriverte til $K$ i punktet $A$. Grensekostnadene er definert som den deriverte av kostnadsfunksjonen.
 
 **Tangenten til $K$ ved $x=40$ har funksjonsuttrykk $f(x)=31x+2030$, dermed er både stigningstallet, den deriverte og grensekostnadene lik 31 kroner.**
 
-### 1-3c
+### c
 Vi har lavest grensekostnader når $E'(x)=0$, og dette betyr
 
 $$

@@ -30,7 +30,7 @@ c) $\approx 0{,}97 \, \%$
 
 ## Løsningsforslag
 
-### 2-6a
+### a
 
 Én breddegrad er delt i 60 bueminutter, og hvert bueminutt tilsvarer én nautisk mil = 1852 m.
 
@@ -38,7 +38,7 @@ $$60 \cdot 1852 \, \mathrm{m} = 111\,120 \, \mathrm{m} = 111{,}12 \, \mathrm{km}
 
 **Avstanden mellom hver breddegrad er $\underline{\underline{111{,}12 \, \mathrm{km}}}$.**
 
-### 2-6b
+### b
 
 En hel omdreining er $360\degree$:
 
@@ -46,7 +46,7 @@ $$\text{Omkrets} = 360 \cdot 111{,}12 \, \mathrm{km} = 40\,003 \, \mathrm{km}$$
 
 **Jordens omkrets er omtrent $\underline{\underline{40\,000 \, \mathrm{km}}}$.**
 
-### 2-6c
+### c
 
 Breddegradsforskjellen mellom Oslo og Trondheim:
 

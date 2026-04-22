@@ -10,12 +10,12 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [1-1](#oppgave-1-1) | [Busstur Mandal til Oslo](https://matematikkoppgaver.vercel.app/busstur-mandal-til-oslo/) | tallregning | ✔︎ |
+| [1-1](#oppgave-1-1) | [Busstur Mandal til Oslo](https://matematikkoppgaver.vercel.app/busstur-mandal-til-oslo/) | tallregning, formler | ✔︎ |
 | [1-2](#oppgave-1-2) | [Deksel og merverdiavgift](https://matematikkoppgaver.vercel.app/deksel-og-merverdiavgift/) | prosentregning | ✔︎ |
 | [1-3](#oppgave-1-3) | [Støvpartikkel i standardform](https://matematikkoppgaver.vercel.app/stovpartikkel-i-standardform/) | standardform, store tall | × |
 | [1-4](#oppgave-1-4) | [Pyramide med proporsjonal høyde](https://matematikkoppgaver.vercel.app/pyramide-med-proporsjonal-hoyde/) | geometri, proporsjonalitet | ✔︎ |
 | [1-5](#oppgave-1-5) | [Lønn og timelønn fra grafer](https://matematikkoppgaver.vercel.app/lonn-og-timelonn-fra-grafer/) | lineær vekst, tolke grafer, likningssystem | ✔︎ |
-| [1-6](#oppgave-1-6) | [Femkanttall og programmering](https://matematikkoppgaver.vercel.app/femkanttall-og-programmering/) | figurtall, programmering | ✔︎ |
+| [1-6](#oppgave-1-6) | [Femkanttall og programmering](https://matematikkoppgaver.vercel.app/femkanttall-og-programmering/) | figurtall, programmering, rekursiv formel | ✔︎ |
 | [1-6](#oppgave-1-6) | [30-dagersbillett og pris per tur](https://matematikkoppgaver.vercel.app/30-dagersbillett-og-pris-per-tur/) | omvendt proporsjonalitet, grafisk framstilling | × |
 
 **Del 2** — 3 timer — med hjelpemidler
@@ -184,7 +184,7 @@ b) Nei – $V = h^3/3$, ikke proporsjonalt
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 
 Grunnflaten er et kvadrat med side $s$, og høyden er $h = s$.
 
@@ -198,7 +198,7 @@ Siden høyden er lik sidekanten, er $h = s = 3$.
 
 **Pyramiden er $\underline{\underline{3 \, \mathrm{dm}}}$ høy.**
 
-### 1-4b
+### b
 
 For at høyde og volum skal være proporsjonale, må forholdet $V/h$ være konstant.
 
@@ -252,7 +252,7 @@ b) $36 \, \mathrm{timer}$
 
 ## Løsningsforslag
 
-### 1-5a
+### a
 
 Fra grafen leser vi av stigningstallet til hver linje. Begge linjer går gjennom origo.
 
@@ -266,7 +266,7 @@ $$\text{Timelønnen til Nils} = \frac{1800}{10} = 180 \, \mathrm{kr/t}$$
 
 **Noras timelønn er $\underline{\underline{200 \, \mathrm{kr/t}}}$ og Nils' timelønn er $\underline{\underline{180 \, \mathrm{kr/t}}}$.**
 
-### 1-5b
+### b
 
 La $t$ være antall timer de arbeidet. Da tjente Nora $200t$ kroner og Nils $180t$ kroner.
 
@@ -313,6 +313,7 @@ while tall <= 60:
 
 ## Fasit
 
+Tallene 1, 5, 12, 22, 35, 51 og 70 skrives ut. Siri har oppdaget at antallet nye sirkler øker med 3 fra ett femkanttall til det neste.
 
 ## Løsningsforslag
 
@@ -374,7 +375,7 @@ c) $\geq 16$ turer
 
 ## Løsningsforslag
 
-### 1-6a
+### a
 
 Prisen per busstur er $\dfrac{1200}{x}$ der $x$ er antall turer.
 
@@ -382,13 +383,13 @@ Prisen per busstur er $\dfrac{1200}{x}$ der $x$ er antall turer.
 | :---: | :---: | :---: | :---: | :---: |
 | Pris per busstur | $300 \, \mathrm{kr}$ | $150 \, \mathrm{kr}$ | $60 \, \mathrm{kr}$ | $40 \, \mathrm{kr}$ |
 
-### 1-6b
+### b
 
 Grafen nedenfor viser sammenhengen mellom antall bussturer og prisen per busstur. Funksjonen er $f(x) = \dfrac{1200}{x}$.
 
 ![Graf: pris per tur](/img/user/_resources/1p-h25-1-6-graf.png){width=70%}
 
-### 1-6c
+### c
 
 En enkeltbillett koster 80 kroner. Vi tegner en horisontal linje ved $y = 80$ i samme koordinatsystem og finner skjæringen med $f$, se punkt $P$ i skjermbildet.
 
@@ -443,7 +444,7 @@ d) $\approx 72{,}8 \, \%$
 > [!warning] KI-løsning
 > Denne løsningen er skrevet av KI. Løsningen ser riktig ut, men jeg har lyst til å endre på fremgangsmåten slik at det passer bedre med hvordan vi vanligvis løser slike oppgaver i norsk videregående skole.
 
-### 2-1a
+### a
 
 Vi bruker potensregresjon for å finne $a$ og $b$ i $F(x) = a \cdot x^b$.
 
@@ -457,7 +458,7 @@ $$F(x) \approx 0{,}00966 \cdot x^3$$
 
 ![Graf for F(x)](/img/user/_resources/1p-h25-2-1-a-graf.png){width=70%}
 
-### 2-1b
+### b
 
 Vi løser likningen $F(x) = 11\,500$:
 
@@ -467,7 +468,7 @@ $$0{,}00966 \cdot x^3 = 11\,500$$
 
 **Ifølge modellen er en fisk som veier $11{,}5 \, \mathrm{kg}$ omtrent $\underline{\underline{106 \, \mathrm{cm}}}$ lang.**
 
-### 2-1c
+### c
 
 Vi beregner $F(75)$ og $F(95)$:
 
@@ -483,7 +484,7 @@ $$a = \frac{F(95) - F(75)}{95 - 75} = \frac{8282 - 4075}{20} \approx 210$$
 
 Dette betyr at for fisk med lengde mellom 75 og 95 cm vil vekten øke med cirka 210 gram for hver ekstra centimeter.
 
-### 2-1d
+### d
 
 Dersom lengden øker med 20 %, blir den nye lengden $1{,}2 \cdot x$. Da blir den nye vekten:
 
@@ -607,13 +608,13 @@ b) $\approx 4{,}8 \, \mathrm{millioner}$
 
 ## Løsningsforslag
 
-### 2-3a
+### a
 
 $$\text{Gjennomsnitt} = \frac{57\,000\,000\,000}{229\,963} \approx 247\,866 \approx 248\,000$$
 
 **Hver person skylder i gjennomsnitt omtrent $\underline{\underline{248\,000 \, \mathrm{kr}}}$.**
 
-### 2-3b
+### b
 
 229 963 personer utgjør 4,8 % av befolkningen over 18 år. La $N$ være antall personer over 18 år:
 
@@ -751,7 +752,7 @@ c) $\approx 0{,}97 \, \%$
 
 ## Løsningsforslag
 
-### 2-6a
+### a
 
 Én breddegrad er delt i 60 bueminutter, og hvert bueminutt tilsvarer én nautisk mil = 1852 m.
 
@@ -759,7 +760,7 @@ $$60 \cdot 1852 \, \mathrm{m} = 111\,120 \, \mathrm{m} = 111{,}12 \, \mathrm{km}
 
 **Avstanden mellom hver breddegrad er $\underline{\underline{111{,}12 \, \mathrm{km}}}$.**
 
-### 2-6b
+### b
 
 En hel omdreining er $360\degree$:
 
@@ -767,7 +768,7 @@ $$\text{Omkrets} = 360 \cdot 111{,}12 \, \mathrm{km} = 40\,003 \, \mathrm{km}$$
 
 **Jordens omkrets er omtrent $\underline{\underline{40\,000 \, \mathrm{km}}}$.**
 
-### 2-6c
+### c
 
 Breddegradsforskjellen mellom Oslo og Trondheim:
 
@@ -850,7 +851,7 @@ e) $A_{\max} \approx 10{,}1 \, \mathrm{m^2}$ ved $x \approx 3{,}36 \, \mathrm{m}
 > Denne løsningen er skrevet av KI. Løsningen ser riktig ut, men jeg har lyst til å endre på fremgangsmåten slik at det passer bedre med hvordan vi vanligvis løser slike oppgaver i norsk videregående skole.
 
 
-### 2-7a
+### a
 
 Blomsterbedet har to sider av lengde $y$ (de to langsidene), én rett ende med lengde $x$, og én halvsirkel med diameter $x$ (radius $r = x/2$).
 
@@ -866,7 +867,7 @@ Dermed er den totale omkretsen:
 
 $$O = y + x + y + \frac{\pi x}{2} = \underline{\underline{ 2y + x + \frac{\pi x}{2} }} $$
 
-### 2-7b
+### b
 
 Setter inn $x = 1$ og $O = 12$:
 
@@ -878,7 +879,7 @@ $$y \approx 4{,}71 \approx 4{,}7$$
 
 **Når $x = 1$, er $y \approx \underline{\underline{4{,}7 \, \mathrm{m}}}$.**
 
-### 2-7c
+### c
 
 Arealet består av et rektangel og en halvsirkel:
 
@@ -886,7 +887,7 @@ $$A = x \cdot y + \frac{\pi r^2}{2} = 1 \cdot 4{,}7 + \frac{\pi \cdot (0{,}5)^2}
 
 **Arealet er omtrent $\underline{\underline{5{,}1 \, \mathrm{m^2}}}$.**
 
-### 2-7d
+### d
 
 Fra $O = 12$ får vi $y = \dfrac{12 - x\left(1 + \dfrac{\pi}{2}\right)}{2}$.
 
@@ -905,7 +906,7 @@ Arealet er $A = xy + \dfrac{\pi x^2}{8}$.
 
 Tabellen viser at størst areal oppnås et sted mellom $x = 3$ og $x = 4$.
 
-### 2-7e
+### e
 
 Fra $O = 12$ uttrykker vi $y$ som funksjon av $x$:
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-28","modified":"2024-05-28","aliases":[],"dg-publish":true,"temaer":["standard normalfordeling","normalfordeling"],"fag":["s2"],"eksamen":"v24","del":1,"oppgave":"4","oppgavenummer":[{"fag":"s2","del":1,"oppgave":4}],"title":"Normalfordelt laks","source":null,"todo":null,"status":3,"dg-permalink":"/normalfordelt-laks/","permalink":"/normalfordelt-laks/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-28","modified":"2024-05-28","aliases":[],"temaer":["standard normalfordeling","normalfordeling"],"fag":["s2"],"eksamen":"v24","del":1,"oppgave":"4","oppgavenummer":[{"fag":"s2","del":1,"oppgave":4}],"title":"Normalfordelt laks","source":null,"todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2024-05-28","modified":"2024-05-28","aliases":[],"dg-publish":true,"temaer":["standard normalfordeling","normalfordeling"],"fag":["s2"],"eksamen":"v24","del":1,"oppgave":"4","oppgavenummer":[{"fag":"s2","del":1,"oppgave":4}],"title":"Normalfordelt laks","source":null,"todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Normalfordeling på del 1: finne $\\sigma$ fra oppgitt haleinnslag (11,5 %) via $z$-tabell, og beregne $P(X<4500)$.","deloppgaver":[{"deloppgave":"a","beskrivelse":"Bruke $\\Phi(z)=0{,}885 \\Rightarrow z=1{,}2$ og løse $z\\sigma=600$ for $\\sigma=500$."},{"deloppgave":"b","kategori":1,"vanskegrad":1,"beskrivelse":"Standardisere $z=-0{,}4$ og slå opp $\\Phi(-0{,}4)=0{,}345$."}],"dg-permalink":"/normalfordelt-laks/","permalink":"/normalfordelt-laks/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-28","modified":"2024-05-28","aliases":[],"temaer":["standard normalfordeling","normalfordeling"],"fag":["s2"],"eksamen":"v24","del":1,"oppgave":"4","oppgavenummer":[{"fag":"s2","del":1,"oppgave":4}],"title":"Normalfordelt laks","source":null,"todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Normalfordeling på del 1: finne $\\sigma$ fra oppgitt haleinnslag (11,5 %) via $z$-tabell, og beregne $P(X<4500)$.","deloppgaver":[{"deloppgave":"a","beskrivelse":"Bruke $\\Phi(z)=0{,}885 \\Rightarrow z=1{,}2$ og løse $z\\sigma=600$ for $\\sigma=500$."},{"deloppgave":"b","kategori":1,"vanskegrad":1,"beskrivelse":"Standardisere $z=-0{,}4$ og slå opp $\\Phi(-0{,}4)=0{,}345$."}]}}
 ---
 
 
@@ -18,7 +18,7 @@ b) 34,5 %
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 La $X$ være vekten til en tilfeldig valgt fisk. Da er forventningsverdien $E(X)=4700$. 
 
 Vi vet at 88,5 % av fisken som slaktes veier mindre eller lik 5300 gram. Ifølge normalfordelingstabellen så er $0{,}885=\Phi(1{,}2) \implies z=1{,}2$.
@@ -31,7 +31,7 @@ $$
 
 **Standardavviket for en vilkårlig valgt laks er 500 gram.**
 
-### 1-4b
+### b
 Vi gjør om til standard normalfordeling
 
 $$

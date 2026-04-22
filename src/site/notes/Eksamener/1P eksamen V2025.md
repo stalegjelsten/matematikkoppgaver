@@ -53,7 +53,6 @@ En sjokoladeplate koster 40 kroner i en butikk og 60 kroner på en bensinstasjon
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -212,7 +211,6 @@ I en liter blod er det $7 \cdot 10^9$ hvite blodceller, $5 \cdot 10^{12}$ røde 
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -301,7 +299,6 @@ print(konto)
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -332,7 +329,6 @@ $$G(x) = ax + b$$
 >c) Hvor mye koster en bøtte med 8 hg godteri?
 
 ## Fasit
-
 
 </div></div>
 
@@ -368,7 +364,6 @@ La $x$ være antall måneder etter desember 2022. Det vil si at $x = 1$ tilsvare
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -392,7 +387,6 @@ Artikkelen ovenfor er hentet fra aesby.no.
 >b) Hvor langt har Sunnmøre friluftsråd regnet at det er rundt jorda?
 
 ## Fasit
-
 
 </div></div>
 
@@ -529,7 +523,6 @@ Hun finner informasjonen nedenfor på nettsiden til en byggevareforhandler. Tykk
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -578,7 +571,6 @@ Isabel ønsker å lage en modell som viser overflaten av ulike bokser hun kan la
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -603,7 +595,6 @@ Sofie vurderer om hun heller skal kjøpe bagetter i en butikk, smøre dem selv o
 >Gjør nødvendige antakelser og finn ut hvor mye Sofie vil kunne spare i løpet av en måned dersom hun kjøper bagetter i en butikk og smører dem selv.
 
 ## Fasit
-
 
 </div></div>
 

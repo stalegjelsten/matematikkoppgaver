@@ -25,7 +25,7 @@ b) Butikk B: $192 \, \mathrm{kr}$ (billigst)
 
 ## Løsningsforslag
 
-### 1-1a
+### a
 
 120 liter plantejord tilsvarer $120 \div 40 = 3$ sekker.
 
@@ -34,7 +34,7 @@ $$3 \cdot 59 = \underline{\underline{177 \, \mathrm{kr}}}$$
 
 **Du må betale $\underline{\underline{177 \, \mathrm{kr}}}$ for 120 liter plantejord i butikk A.**
 
-### 1-1b
+### b
 
 160 liter tilsvarer $160 \div 40 = 4$ sekker.
 

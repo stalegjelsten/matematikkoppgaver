@@ -64,7 +64,7 @@ c) $g$ har et toppunkt i $\langle 2, 3 \rangle$
 
 ## Løsningsforslag
 
-### 1-1a
+### a
 
 Vi skriver om $f(x) = \frac{1}{3}x^3 + x^{1/2} + 2$ og deriverer ledd for ledd:
 
@@ -74,7 +74,7 @@ $$
 
 **$\underline{\underline{f'(x) = x^2 + \dfrac{1}{2\sqrt{x}}}}$**
 
-### 1-1b
+### b
 
 Vi bruker kvotientsregelen på $g(x) = \dfrac{2x-3}{e^x}$:
 
@@ -90,7 +90,7 @@ $$
 
 **$\underline{\underline{g'(2) = \dfrac{1}{e^2} \approx 0{,}14}}$ og $\underline{\underline{g'(3) = -\dfrac{1}{e^3} \approx -0{,}05}}$**
 
-### 1-1c
+### c
 
 Siden $g'(2) > 0$ er $g$ stigende i $x = 2$, og siden $g'(3) < 0$ er $g$ avtagende i $x = 3$. Dermed må $g$ ha et **toppunkt** et sted i det åpne intervallet $\langle 2, 3 \rangle$.
 
@@ -122,7 +122,7 @@ b) $a = 4$
 
 ## Løsningsforslag
 
-### 1-2a
+### a
 
 Vi setter $u = \lg x$ og løser den kvadratiske likningen:
 
@@ -140,7 +140,7 @@ $$
 
 **$\underline{\underline{x = 10000}}$ eller $\underline{\underline{x = 0{,}01}}$**
 
-### 1-2b
+### b
 
 Likningen $\log_a \dfrac{1}{64} = -3$ betyr $a^{-3} = \dfrac{1}{64}$, altså $a^3 = 64$.
 
@@ -177,7 +177,7 @@ b) $a = 3$, grenseverdi $= \dfrac{1}{6}$
 
 ## Løsningsforslag
 
-### 1-3a
+### a
 
 Vi faktoriserer nevneren: $x^2 - 2x - 8 = (x-4)(x+2)$.
 
@@ -189,7 +189,7 @@ $$
 
 Siden teller $\to 14$ og nevner $\to 0$, eksisterer **ikke** grenseverdien.
 
-### 1-3b
+### b
 
 **Del 1 – bestemme $a$:**
 
@@ -249,7 +249,7 @@ c) $t = -3$
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 
 $$
 |AB| = \sqrt{(3-(-2))^2 + (2-3)^2} = \sqrt{25 + 1} = \sqrt{26}
@@ -257,7 +257,7 @@ $$
 
 **$\underline{\underline{|AB| = \sqrt{26}}}$**
 
-### 1-4b
+### b
 
 Stigningstallet til linjen gjennom $A(-2,3)$ og $B(3,2)$ er
 
@@ -271,7 +271,7 @@ For $y = 0$: $x = 13$.
 
 **$\underline{\underline{C = (13,\; 0)}}$**
 
-### 1-4c
+### c
 
 Vinkelen $\angle ABD = 90°$ betyr at $\vec{BA} \perp \vec{BD}$, altså $\vec{BA} \cdot \vec{BD} = 0$.
 
@@ -347,7 +347,7 @@ b) $m \approx 1{,}000$
 
 ## Løsningsforslag
 
-### 1-5a
+### a
 
 $f(x) = 4x^2 \ln x$ er definert for $x > 0$.
 
@@ -367,7 +367,7 @@ $$
 
 Grafen til $f$ har ingen toppunkt.
 
-### 1-5b
+### b
 
 Eleven ønsker å finne **nullpunktet** til $f$ i intervallet $[0{,}1,\; 3]$, ved hjelp av **halveringsmetoden**.
 
@@ -425,7 +425,7 @@ c) $t \in (3{,}33,\; 9{,}82)$, dvs. ca. 1963–1970
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 
 Vi plotter datapunktene i GeoGebra og bruker **Regresjon → Logistisk** til å tilpasse en logistisk modell på formen $F(t) = \dfrac{B}{1 + a \cdot e^{-kt}}$.
 
@@ -439,7 +439,7 @@ $$
 
 **Gyldighetsområde:** Dataene strekker seg fra 1960 til 1980 ($t \in [0, 20]$). Modellen gir rimelige resultater i dette intervallet. Utenfor dette vil vi ha større usikkerhet – særlig for $t \gg 20$ der befolkningstallet ifølge modellen nærmer seg metningsgrensen $B \approx 2841$.
 
-### 2-1b
+### b
 
 Vi deriverer $F(t)$ og evaluerer i GeoGebra CAS:
 
@@ -455,7 +455,7 @@ Praktisk tolkning: I 1972 (dvs. $t = 12$) økte befolkningstallet med omtrent 11
 
 Praktisk tolkning: $F''(12) < 0$ betyr at veksthastigheten er **avtagende** i 1972 – befolkningsveksten er på vei ned fra toppen. (Vendepunktet, der veksthastigheten er størst, inntreffer ved $t \approx 6{,}6$, dvs. rundt 1966–1967.)
 
-### 2-1c
+### c
 
 Vi setter $F'(t) = 150$ og løser i GeoGebra CAS:
 
@@ -501,7 +501,7 @@ b) $a = 14$, $b = 24$.  Enten $k = \frac{1}{3}$, $c = -\frac{10}{27}$ eller $k =
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 
 Vi undersøker om $f$ er kontinuerlig i $x = -2$ med $a = 2$ og $b = -2$.
 
@@ -511,7 +511,7 @@ Høyresiden ($-2 < x$): $\lim_{x \to -2^+} f(x) = 2(-2)^3 + 2(-2)^2 - 2(-2) = -1
 
 Siden $-6 \neq -4$ er ikke grenseverdien lik funksjonsverdien, og **$f$ er ikke kontinuerlig i $x = -2$**.
 
-### 2-2b
+### b
 
 **Kontinuitet og deriverbarhet i $x = -2$:**
 
@@ -605,7 +605,7 @@ b) $C \le 44 \, \mathrm{OU/m^3}$
 
 ## Løsningsforslag
 
-### 2-3a
+### a
 
 Vi beregner luktintensiteten for de to ytterverdiene $C = 500$ og $C = 1400$:
 
@@ -620,7 +620,7 @@ Luktintensiteten ligger mellom ca. $3{,}5$ og $4{,}1$, noe som ifølge tabellen 
 
 **Ja, beboerne har grunnlag for å klage. $\underline{\underline{I \in (3{,}48,\; 4{,}10)}}$, som er langt over akseptabelt nivå.**
 
-### 2-3b
+### b
 
 For akseptabel luktintensitet kreves $I \le 2$:
 
@@ -683,7 +683,7 @@ d) $35\sqrt{145} \approx 421{,}5 \, \mathrm{m}$
 
 ## Løsningsforslag
 
-### 2-4a
+### a
 
 Parameterframstillingen er
 
@@ -698,7 +698,7 @@ Vi sjekker endepunktene:
 
 Retningsvektoren er $(1200, 100) = \vec{HU}$, og startpunktet er $H$. Dermed er parameterfremstillingen den rette linjen fra $H$ til $U$, og for $s \in [0, 1]$ dekker den nøyaktig linjestykket $HU$.
 
-### 2-4b
+### b
 
 Hele turen er 20 minutter, og etter 5 minutter er $s = \dfrac{5}{20} = \dfrac{1}{4}$.
 
@@ -708,7 +708,7 @@ $$
 
 **Etter 5 minutter er Ina i posisjonen $\underline{\underline{(300,\; 325)}}$.**
 
-### 2-4c
+### c
 
 Strekningslengden fra $H$ til $U$ er
 
@@ -724,7 +724,7 @@ $$
 
 **Farten til Ina er $\underline{\underline{\dfrac{\sqrt{145}}{12} \approx 1{,}00 \, \mathrm{m/s}}}$.**
 
-### 2-4d
+### d
 
 Vi skriver Inas posisjon som funksjon av sin tid $t_I$ (minutter fra start):
 
@@ -799,7 +799,7 @@ b) $t = -\dfrac{6}{7}$
 
 ## Løsningsforslag
 
-### 2-5a
+### a
 
 Vi beregner $|\vec{p}|^2 = |\vec{a} + \vec{b}|^2$:
 
@@ -820,7 +820,7 @@ $$
 
 **$\underline{\underline{|\vec{p}| = \sqrt{52} = 2\sqrt{13}}}$**
 
-### 2-5b
+### b
 
 $\vec{p} \perp \vec{q}$ krever $\vec{p} \cdot \vec{q} = 0$:
 
@@ -876,7 +876,7 @@ b) A, B, C og G har invers funksjon
 
 ## Løsningsforslag
 
-### 2-6a
+### a
 
 Vi analyserer de åtte grafene ut fra egenskapene til de fire funksjonstypene og deres andredeiverte:
 
@@ -906,7 +906,7 @@ Vi analyserer de åtte grafene ut fra egenskapene til de fire funksjonstypene og
 | 3 | B ($x^3 - c$) | C |
 | 4 | D ($x^4 - c$) | F |
 
-### 2-6b
+### b
 
 En funksjon har en invers funksjon dersom og bare dersom den er injektiv (en-til-en), dvs. strengt stigende eller strengt avtagende på hele definisjonsmengden.
 

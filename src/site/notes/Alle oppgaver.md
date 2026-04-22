@@ -12,6 +12,7 @@ filters:
     - file.tags.contains("oppgave")
     - note["dg-publish"] == true
     - "!eksamen.isEmpty()"
+    - '!file.path.startsWith("Prøveoppgaver/")'
 formulas:
   "": eksamen.title()
   Eksamen: eksamen.title()

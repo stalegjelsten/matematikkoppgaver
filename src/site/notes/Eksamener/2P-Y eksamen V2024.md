@@ -24,7 +24,7 @@ Table: {.eksamen-oversikt}
 | [2-1](#oppgave-2-1) | [Hytteleie omvendt proporsjonal funksjon](https://matematikkoppgaver.vercel.app/hytteleie-omvendt-proporsjonal-funksjon/) | omvendt proporsjonalitet, funksjoner, tolke grafer, stigningstall | ✔︎ |
 | [2-2](#oppgave-2-2) | [Fastrenteinnskudd og renteinntekter](https://matematikkoppgaver.vercel.app/fastrenteinnskudd-og-renteinntekter/) | sparing, prosentregning, prosentvis endring | ✔︎ |
 | [2-3](#oppgave-2-3) | [Skiturstatistikk Solveig og Miriam](https://matematikkoppgaver.vercel.app/skiturstatistikk-solveig-og-miriam/) | statistikk, kumulativ frekvens, sentralmål, spredningsmål | ✔︎ |
-| [2-4](#oppgave-2-4) | [Instagram-følgere eksponentiell vekst](https://matematikkoppgaver.vercel.app/instagram-folgere-eksponentiell-vekst/) | eksponentiell vekst, vekstfaktor, prosentvis vekst | ✔︎ |
+| [2-4](#oppgave-2-4) | [Instagram-følgere eksponentiell vekst](https://matematikkoppgaver.vercel.app/instagram-folgere-eksponentiell-vekst/) | eksponentiell vekst, vekstfaktor, prosentvis vekst, regresjon | ✔︎ |
 | [2-5](#oppgave-2-5) | [Tid brukt på lekser histogram](https://matematikkoppgaver.vercel.app/tid-brukt-pa-lekser-histogram/) | statistikk, diagram, gjennomsnitt, median | ✔︎ |
 | [2-6](#oppgave-2-6) | [Programmering av Theas BSU-konto](https://matematikkoppgaver.vercel.app/programmering-av-theas-bsu-konto/) | programmering, sparing | ✔︎ |
 | [2-7](#oppgave-2-7) | [Grafisk framstilling av læreplasser](https://matematikkoppgaver.vercel.app/grafisk-framstilling-av-laereplasser/) | grafisk framstilling, statistikk | × |
@@ -182,13 +182,13 @@ b) $2(n+1)^2 - 1$
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 Jeg fortsetter mønsteret, som jeg ser består av to kvadrater hvor kvadratene overlapper med en sirkel.
 
 Det er $5\cdot 5 + 5 \cdot 5 -1=49$ sirkler i figur 4.
 Det er $10 \cdot 10 + 10\cdot 10 -1 =199$ sirkler i figur 9.
 
-### 1-4b
+### b
 Hver figur består av to kvadrater, hvor det er én mer sirkel i sidekanten enn figurnummeret. I figur $n$ har hvert kvadrat $(n+1)^{2}$ sirkler. Vi har to slike kvadrater slik at formelen blir $(n+1)^{2} \cdot 2$ også må vi huske å trekke fra 1 siden det er en sirkel som overlapper. Det ferdige uttrykket blir
 $$
 2(n+1)^{2}-1
@@ -232,7 +232,7 @@ c) Stigningstall $-250$
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 Hvis det bare 1 person som skal på hyttetur så blir prisen per person
 $$
 H(1)=\frac{18000}{1}=18000
@@ -243,14 +243,14 @@ I tillegg får vi oppgitt definisjonsmengden $1\leq x\leq 12$. Det betyr at det 
 
 **Det koster 18 000 kroner å leie hytta, og det er maksimalt 12 venner som kan dra på hyttetur.**
 
-### 2-1b
+### b
 Jeg legger inn funksjonsuttrykket i GeoGebra og avgrenser funksjonen til definisjonsmengden ved å bruke `Funksjon()`-kommandoen. Deretter legger jeg inn $y=2250$ og finner skjæringspunktet mellom funksjonene. 
 
 **Skjæringspunktet mellom grafen og den rette linja er $(6, 3000)$, se punkt $A$ i utklippet. Det betyr at de trenger å være 6 personer som spleiser på leia for at prisen skal bli 2250 kr.**
 
 ![](/img/user/_resources/2py-v24-2-1.png)
 
-### 2-1c
+### c
 Jeg setter ut punktene i koordinatsystemet ved å skrive dem inn slik de står i oppgaveteksten, se punkt $B$ og $C$. De to punktene ligger på grafen til $H$ ved 6 og 12 venner. Jeg bruker linjeverktøyet for å lage en linje mellom punktene, og stigningsverktøyet til å måle stigningen til linja.
 
 **Stigningstallet for linja er -250, se verdi $a$. Stigningstallet til linja forteller oss at prisen per deltaker i gjennomsnitt blir 250 kr rimeligere per person, dersom vi øker antallet deltakere fra 6 til 12.**
@@ -299,7 +299,7 @@ b) 24 300 kr
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 For å bestemme forskjellen i prosentpoeng finner jeg differansen mellom prosenttallene
 $$
 5{,}4 - 5{,}15 = 0{,}25
@@ -310,7 +310,7 @@ $$
 $$
 **Hvis hun binder pengene i ett år er renten 0,25 prosentpoeng og 4,76 % høyere enn hvis hun binder pengene i 3 måneder.**
 
-### 2-2b
+### b
 Jeg finner rentene ved å gange sparebeløpet med rentesatsen
 $$
 450 \, 000 \cdot 5{,}4 \,\%=450 \, 000 \cdot 0{,}054=24 \, 300
@@ -368,7 +368,7 @@ b) 3 turer på 5 timer; Solveig gikk 1 tur på 8 timer alene
 
 ## Løsningsforslag
 
-### 2-3a
+### a
 Jeg beregnet gjennomsnittet og standardavviket til turene til Solveig ved å bruke formlene `=gjennomsnitt()` og `=stdav.p()` i Excel. Jeg oppsummerer opplysningene om gjennomsnitt og standardavvik til venninnene i tabellen
 
 |         | Gjennomsnitt | Standardavvik |  Median   |
@@ -380,7 +380,7 @@ Solveig har omtrent 2,5 timer høyere gjennomsnitt enn Miriam. Solveig går derf
 
 Solveig har et mye lavere standardavvik enn Miriam, nesten 2 timer eller kun$\frac{4{,}2-2{,}45}{4{,}2}=41{,}7 \,\%$ av Miriams standardavvik. Det er derfor mye større variasjon lengdene på turene til Miriam. Sannsynligvis har hun gått noen veldig lange turer siden standardavviket er nesten like høyt som gjennomsnittet.
 
-### 2-3b
+### b
 Den kumulative frekvensen for turer på 5 timer er 14, og den kumulative frekvensen for turer på 3 timer er 11. De har ikke gått noen turer sammen på 4 timer.
 
 Siden kumulativ frekvens er summen av alle frekvenser for observasjoner som er mindre eller lik den aktuelle observasjonen, kan vi finne frekvensen for antall turer på 5 timer slik:
@@ -429,19 +429,19 @@ c) 43,6 % flere følgere
 
 ## Løsningsforslag
 
-### 2-4a
+### a
 Vi lar $x$ være antall måneder etter november og bruker regresjon i GeoGebra. Siden modellen skal stige med 35 % per måned bør vi velge eksponentiell modell, siden disse vokser med en fast prosent.
 
 ![Regresjon i GeoGebra av Tuvas følgere](/img/user/_resources/2py-v24-2-4a.png){width=100%}
 
 **Modellen $f(x)=5244 \cdot 1{,}35^{x}$ er en modell som vokser med 35 % per måned, og som kan være modellen Tuva har brukt.**
 
-### 2-4b
+### b
 Tuva har 24 008 følgere i april. Hvis økningen i mai skal være 35 % + 5 prosentpoeng så har hun $24008 \cdot 1{,}40=33 \,611$ følgere i mai.
 
 I juni øker økningen med enda 5 prosentpoeng til 45 %. Antall følgere i juni vil derfor være $33 \,611 \cdot 1{,}45=48\, 736$.
 
-### 2-4c
+### c
 Vi kan bruke modellen $f(x)=5244 \cdot 1{,}35^{x}$ til å beregne hvor mange følgere hun har i august med 35 % økning. August tilsvarer $x=9$
 $$
 f(9)=5244 \cdot 1{,}35^9=78 \,922
@@ -613,7 +613,6 @@ Tenk deg at du skal presentere dette datamaterialet for klassen din.
 >  Gjør sammenlikninger og beregninger og lag ulike framstillinger som du kan bruke i en presentasjon. Presentasjonen skal inneholde både beregninger og diagrammer.
 
 ## Fasit
-
 
 </div></div>
 

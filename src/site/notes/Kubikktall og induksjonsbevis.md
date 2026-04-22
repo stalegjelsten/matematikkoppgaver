@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-27","modified":"2026-03-31","aliases":null,"dg-publish":true,"temaer":["rekursiv sammenheng","figurtall","programmering","bevis"],"fag":["r2"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":4}],"title":"Kubikktall og induksjonsbevis","source":null,"todo":["løsningsforslag"],"status":3,"dg-permalink":"/kubikktall-og-induksjonsbevis/","permalink":"/kubikktall-og-induksjonsbevis/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-27","modified":"2026-03-31","aliases":null,"temaer":["rekursiv sammenheng","figurtall","programmering","bevis"],"fag":["r2"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"r2","del":2,"oppgave":4}],"title":"Kubikktall og induksjonsbevis","source":null,"todo":["løsningsforslag"],"status":3}}
+{"aliases":null,"date":"2024-05-27","del":2,"dg-permalink":"/kubikktall-og-induksjonsbevis/","dg-publish":true,"eksamen":"v24","fag":["r2"],"modified":"2026-03-31","oppgave":4,"oppgavenummer":[{"del":2,"fag":"r2","oppgave":4}],"source":null,"status":3,"kategori":3,"vanskegrad":2,"beskrivelse":"Kubikktallrekke $S_n$ — rekursiv + eksplisitt formel via regresjon, Python-løkke for $S_{50}$, og induksjonsbevis.","deloppgaver":[{"deloppgave":"a","kategori":2,"beskrivelse":"Finne rekursiv sammenheng $S_{n+1}=S_n+(n+1)^3$ og eksplisitt formel via polynomregresjon."},{"deloppgave":"b","kategori":1,"vanskegrad":1,"beskrivelse":"Python-løkke som akkumulerer $S = S + n^3$ for å beregne $S_{50}$."},{"deloppgave":"c","kategori":3,"beskrivelse":"Induksjonsbevis med basissteg $n=1$ og induksjonssteg via rekursiv sammenheng."}],"tags":["oppgave"],"temaer":["rekursiv sammenheng","figurtall","programmering","bevis"],"title":"Kubikktall og induksjonsbevis","todo":null,"permalink":"/kubikktall-og-induksjonsbevis/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":null,"date":"2024-05-27","del":2,"eksamen":"v24","fag":["r2"],"modified":"2026-03-31","oppgave":4,"oppgavenummer":[{"del":2,"fag":"r2","oppgave":4}],"source":null,"status":3,"kategori":3,"vanskegrad":2,"beskrivelse":"Kubikktallrekke $S_n$ — rekursiv + eksplisitt formel via regresjon, Python-løkke for $S_{50}$, og induksjonsbevis.","deloppgaver":[{"deloppgave":"a","kategori":2,"beskrivelse":"Finne rekursiv sammenheng $S_{n+1}=S_n+(n+1)^3$ og eksplisitt formel via polynomregresjon."},{"deloppgave":"b","kategori":1,"vanskegrad":1,"beskrivelse":"Python-løkke som akkumulerer $S = S + n^3$ for å beregne $S_{50}$."},{"deloppgave":"c","kategori":3,"beskrivelse":"Induksjonsbevis med basissteg $n=1$ og induksjonssteg via rekursiv sammenheng."}],"tags":["oppgave"],"temaer":["rekursiv sammenheng","figurtall","programmering","bevis"],"title":"Kubikktall og induksjonsbevis","todo":null}}
 ---
 
 
@@ -3841,7 +3841,7 @@ b) $S_{50}=1\,625\,625$
 
 ## Løsningsforslag
 
-### 2-4a
+### a
 Jeg setter opp de første leddene og ser om jeg finner en rekursiv sammenheng som jeg kan bruke.
 
 $$
@@ -3866,7 +3866,7 @@ En eksplisitt formel for summene er
 
 $$S_{n}=\underline{\underline{\frac{1}{4}\left( n^{4}+ 2n^{3}+n^{2} \right)}}$$
 
-### 2-4b
+### b
 Jeg bruker følgende program
 
 ```python

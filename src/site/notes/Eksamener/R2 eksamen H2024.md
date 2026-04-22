@@ -55,7 +55,7 @@ c) Like mye positivt og negativt areal mellom 0 og $x$
 
 ## Løsningsforslag
 
-### 1-1a
+### a
 Siden vi skal regne ut integralet til produktet av to ulike funksjoner vil jeg forsøke delvis integrasjon. Jeg benytter DI-metoden, og velger at $x^{2}$ er den faktoren som skal integreres, og $\ln x$ er faktoren som skal deriveres. 
 
 |     |       D       |         I          |
@@ -74,7 +74,7 @@ $$
 \end{aligned}
 $$
 
-### 1-1b
+### b
 Vi løser først det tilhørende ubestemte integralet ved hjelp av variabelskiftet $u=\pi t+\frac{\pi}{4}$. Da er
 $$
 \frac{du}{dt}=\pi \iff dt=\frac{du}{\pi}
@@ -116,7 +116,7 @@ x&=\frac{3}{2} \quad \text{ hvis } x \in \langle 0, \pi \rangle
 $$
 **Løsningene er $\underline{\underline{x=\frac{3}{2}}}$ og $\underline{\underline{x=2}}$.**
 
-### 1-1c
+### c
 Hvis integralet av $\int_{0}^{x} f(t) \, dt$ skal være lik 0 så må vi ha nøyaktig like mye areal mellom grafen og $x$-aksen på den positive og negative siden av $x$-aksen mellom $0$ og $x$. For en sinusfunksjon så vil vi like mye areal på begge sider av $x$-aksen når funksjonen har gjennomført et heltall antall perioder fra tiden $t=0$.
 
 
@@ -147,7 +147,7 @@ c) $1{,}75757575\ldots = \dfrac{58}{33}$ (bevis)
 
 ## Løsningsforslag
 
-### 1-2a
+### a
 Summen av en aritmetisk rekke er gitt ved
 $$
 s_{n}=\frac{a_{1}+a_{n}}{2}\cdot n
@@ -161,7 +161,7 @@ $$
 s_{100}=\frac{3+399}{2}\cdot 100=\frac{402}{2} \cdot 100= 201\cdot 100=\underline{\underline{20\,100}}
 $$
 
-### 1-2b
+### b
 Vi vet at summen av en uendelig geometrisk rekke som konvergerer er
 $$
 s=\frac{a_{1}}{1-k} \iff 1-k=\frac{a_{1}}{s}\iff k=1-\frac{a_{1}}{s}
@@ -171,7 +171,7 @@ $$
 k=1-\frac{12}{18}=1-\frac{2}{3}=\underline{\underline{\frac{1}{3}}}
 $$
 
-### 1-2c
+### c
 Vi kan omskrive tallet som sum summen av uendelig rekke med ledd på denne måten $0{,}75757575\ldots=0{,}75+0{,}0075+0{,}000075+\cdots$
 
 Hvert av disse leddene kan vi skrive om som brøker
@@ -240,7 +240,7 @@ b) $T(1,\ 1,\ 4)$
 
 ## Løsningsforslag
 
-### 1-3a
+### a
 Jeg vet at arealet til et parallellogram utspent av $\vec{a}$ og $\vec{b}$ er gitt ved $\lvert \vec{a} \times \vec{b} \rvert$, derfor må arealet av  bunnen av teltet være gitt ved
 $$
 A_{\triangle}=\frac{1}{2} \left| \vec{AB} \times \vec{AC} \right|
@@ -265,7 +265,7 @@ A_{\triangle}=\frac{1}{2} \left| \vec{AB} \times \vec{AC} \right|=\frac{1}{2}\sq
 $$
 **Arealet av bunnen av teltet er $\underline{\underline{\frac{5}{2}\sqrt{ 6 }}}$.**
 
-### 1-3b
+### b
 $T$ ligger på linja $\ell$ med parameterframstillingen $T(t, t, 4t)$. Vi vet at lengden av teltstanga $CT$ er $\sqrt{17}$, altså $|\vec{CT}| = \sqrt{17}$. Vi setter opp:
 $$
 \begin{aligned}
@@ -310,7 +310,7 @@ b) $\cos v = -\dfrac{\sqrt{15}}{4}$, $\tan v = \dfrac{1}{\sqrt{15}}$
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 
 Vi tar utgangspunkt i en sirkel med radius $r=1$ og legger toppunktet til en vinkel $\theta$ i sentrum av sirkelen. Vinkelbeina vil skjære sirkelperiferien og avgrense en sirkelbue $b$. 
 
@@ -322,7 +322,7 @@ Vi kan bruke forholdet mellom et vinkelmål og en hel omdreining for å gjøre o
 $$\frac{\theta}{2\pi} =\frac{80^\circ}{360^\circ} \iff \theta=\frac{160}{360}\pi \iff \theta=\frac{4}{9}\pi$$
 **$80^\circ$ er $\frac{4}{9}\pi$ radianer.**
 
-### 1-4b
+### b
 
 $$
 \sin v = -\frac{1}{4}=\frac{\text{motstående katet}}{\text{hypotenus}} $$
@@ -374,7 +374,7 @@ b) $x = \dfrac{8}{3}$ og $x = \dfrac{16}{3}$
 
 ## Løsningsforslag
 
-### 1-5a
+### a
 Vi kan omskrive en sinusfunksjon til en cosinusfunksjon ved å endre på faseforksyvningen. Likevektslinje, periode og amplitude vil være lik som for sinusfunksjonen.
 
 Vi ser at $f$ har et bunnpunkt i $(0,-3)$. Vi vet at $\cos u$ har bunnpunkt når $u=\pi$, så vi kan faseforskyve med $\pi$
@@ -382,7 +382,7 @@ $$
 g(x)=2 \cdot \cos\left( \frac{\pi}{4}x+\pi \right)-1
 $$
 
-### 1-5b
+### b
 Vi vet at $\cos 60\degree=\cos \frac{\pi}{3}=\frac{1}{2}$, derfor må $\cos \left( \frac{\pi}{3}+2k\pi \right)=\frac{1}{2}=\cos \left(  \frac{5\pi}{3}+2k\pi \right)$ der $k \in \mathbb{Z}$. Vi kan løse for $x$ i to steg. Først setter vi opp likningen
 $$
 \frac{\pi}{3}+2k\pi=\frac{\pi}{4}x-\pi \iff x=8k+\frac{16}{3}
@@ -447,7 +447,7 @@ c) $t \approx 0{,}84 \, \mathrm{s}$
 
 ![Løsning av oppgave 1 del 2 i CAS](/img/user/_resources/r2-h24-2-1-cas.png){width=50%}
 
-### 2-1a
+### a
 $z$-komponenten til $\vec{r}(t)$ gir oss høyden ved tiden $t=0$
 $$
 \vec{r}_{z}(0)=6-0{,}7 \cdot 0 - 4{,}9 \cdot 0^{2}=6
@@ -462,7 +462,7 @@ $$
 $$
 **Kanten av hustaket er 6 meter over bakken og ballen befinner seg i punktet $(1, 2, 4{,}425)$ etter 0,5 sekunder.**
 
-### 2-1b
+### b
 Vi må først finne ut når ballen treffer bakken, altså når $\vec{r}_{z}(t)=0$, se linje 1 i GeoGebra. Vi kan se bort fra negative løsninger siden denne modellen kun er gyldig etter at ballen har forlatt kanten av taket.
 $$
 \begin{aligned}
@@ -487,7 +487,7 @@ $$
 $$
 **Farten er $\underline{\underline{\approx 11{,}8 \text{ m/s}}}$ når ballen treffer bakken.**
 
-### 2-1c
+### c
 Vi løser likningen (se linje 3 i GeoGebra)
 $$
 \sqrt{ (9{,}8t+0{,}7)^{2} +20 }=10 \implies 9{,}8t+0{,}7=\sqrt{80} \implies t=\frac{\sqrt{80}-0{,}7}{9{,}8}\approx 0{,}841
@@ -534,7 +534,7 @@ c) Sann – de to arealene er like store
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 **Påstand:** Likningen til et plan kan alltid bestemmes av 3 punkter i planet.
 
 Påstanden er **usann**. Tre punkter bestemmer et entydig plan hvis og bare hvis de ikke er kollineære (ikke ligger på samme rette linje). Hvis tre punkter er kollineære, spenner vektorene $\vec{AB}$ og $\vec{AC}$ over det samme retningsrommet, og kryssprodukt $\vec{AB} \times \vec{AC} = \vec{0}$. Vi får dermed ingen normalvektor og kan ikke bestemme planet entydig.
@@ -543,7 +543,7 @@ Påstanden er **usann**. Tre punkter bestemmer et entydig plan hvis og bare hvis
 
 **Påstanden er usann.**
 
-### 2-2b
+### b
 Jeg vet at summen av en uendelig geometrisk rekke er gitt ved
 $$
 s=\frac{a_{1}}{1-k}
@@ -566,7 +566,7 @@ $k$ ligger ikke i intervallet $\langle-1,1\rangle$, og dermed konvergerer ikke r
 
 **Påstanden er usann, rekka konvergerer ikke når $x=\frac{1}{e}$.**
 
-### 2-2c
+### c
 $f$ og $g$ kommer til å avgrense maksimalt 2 områder siden $f$ er en tredjegradsfunksjon og $g$ er en andregradsfunksjon. For å finne disse to områdene må vi først finne skjæringspunktene mellom grafene.
 
 ![Bestemmelse av skjæringspunktet mellom funksjoner i CAS](/img/user/_resources/s2-h24-2-3b-1.png){width=50%}
@@ -673,14 +673,14 @@ c) $\approx 0{,}03684 \, \mathrm{t}$ (≈ 2 min 13 s)
 
 ![Løsning av oppgave 4 del 2 i CAS](/img/user/_resources/r2-h24-2-4.png)
 
-### 2-4a
+### a
 Vi ser at likevektslinja er ved 54 km/t, og at sinusfunksjonen har amplituden 6 km/t, samt at den er faseforskjøvet slik vi er allerede har toppfarten 60 km/t ved tiden $t=0$. Dermed kan vi konkludere med at gjennomsnittsfarten må være 54 km/t i det vi kommer til fartens første bunnpunkt. Ut fra grafen i GeoGebra ser vi at dette er etter 0,00873 timer.
 
 Vi kan også finne gjennomsnittet av funksjonen slik vi har gjort i linje 2 i CAS i GeoGebra. 
 
 **Gjennomsnittsfarten var 54 km/t for første gang etter 0,00873 timer eller 31 sekunder.**
 
-### 2-4b
+### b
 Bilen har størst akselerasjon i vendepunktene. Alle vendepunktene ligger langs likevektslinja $y=54$, og vi kan også finne dem ved å løse $v''(t)=54$, se linje 3 i CAS.
 
 Perioden til funksjonen er 0,01745 timer eller 63 sekunder, se linja mellom $B$ og $D$ i figuren.
@@ -689,7 +689,7 @@ Perioden til funksjonen er 0,01745 timer eller 63 sekunder, se linja mellom $B$ 
 
 **Akselerasjonen har sin største positive verdi etter 0,01309 timer eller 47 sekunder, og deretter hvert 63 sekund etter dette.** Se punkt $D$ i figuren.
 
-### 2-4c
+### c
 Vi kan sette opp likningen (se linje 5 i CAS)
 $$
 \int_{0}^{x} v(t) \, dt =2 \implies x=0{,}03684
@@ -725,7 +725,7 @@ b) 67 455
 
 ## Løsningsforslag
 
-### 2-4a
+### a
 Jeg setter opp tallene i følgen og sjekker differansene mellom hvert ledd (*det er alltid et godt tips for å finne mønstre!*). Jeg fant ut at differansene mellom tallene var 1, 4, 9, 16, 25, og disse tallene kjenner jeg igjen som kvadrattallene.
 
 Jeg sjekker om jeg finner en god sammenheng for et av leddene
@@ -742,7 +742,7 @@ $$
 >- $a_{n}=a_{n-1}+(n-1)^{2}$ er den samme sammenhengen som vi nettopp fant, men den gjelder for $n\geq 2$
 >- $a_{n}=\left( \sqrt{ a_{n-1}-a_{n-2}  } +1 \right)^{2} + a_{n-1}$ er en sammenheng som ikke bruker $n$, slik at du ikke er avhengig av å kjenne til hvor i rekka du befinner deg når du bruker formelen
 
-### 2-4b
+### b
 
 ![Program for å regne ut ledd i rekke](/img/user/_resources/s2-h24-2-4b.png){width=60%}
 

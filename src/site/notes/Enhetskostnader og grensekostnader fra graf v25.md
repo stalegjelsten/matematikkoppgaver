@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-09-21","aliases":[],"dg-publish":true,"temaer":["tolke grafer","enhetskostnad","grenseinntekt og grensekostnad"],"fag":["s2"],"eksamen":"v25","del":1,"oppgave":5,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":5}],"title":"Enhetskostnader og grensekostnader fra graf v25","source":"Eksamen S2 vår 2025","todo":null,"status":3,"dg-permalink":"/enhetskostnader-og-grensekostnader-fra-graf-v25/","permalink":"/enhetskostnader-og-grensekostnader-fra-graf-v25/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-09-21","aliases":[],"temaer":["tolke grafer","enhetskostnad","grenseinntekt og grensekostnad"],"fag":["s2"],"eksamen":"v25","del":1,"oppgave":5,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":5}],"title":"Enhetskostnader og grensekostnader fra graf v25","source":"Eksamen S2 vår 2025","todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-09-21","aliases":[],"dg-publish":true,"temaer":["tolke grafer","enhetskostnad","grenseinntekt og grensekostnad","overskudd"],"fag":["s2"],"eksamen":"v25","del":1,"oppgave":5,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":5}],"title":"Enhetskostnader og grensekostnader fra graf v25","source":"Eksamen S2 vår 2025","todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Avlese enhetskostnad ($E(180)=82{,}89$) og grensekostnad ($K'(180)=138$) fra tangenter; finne pris som gir max overskudd ved $x=180$ via $I'=K'$.","deloppgaver":[{"deloppgave":"a","vanskegrad":1,"beskrivelse":"$E(180)=14\\,920/180=82{,}89$ fra tangenten gjennom origo; $K'(180)=138$ fra stigningstall til tangent."},{"deloppgave":"b","beskrivelse":"$I(x)=px \\Rightarrow I'(x)=p$; løse $p=K'(180)=138$."}],"dg-permalink":"/enhetskostnader-og-grensekostnader-fra-graf-v25/","permalink":"/enhetskostnader-og-grensekostnader-fra-graf-v25/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-15","modified":"2025-09-21","aliases":[],"temaer":["tolke grafer","enhetskostnad","grenseinntekt og grensekostnad","overskudd"],"fag":["s2"],"eksamen":"v25","del":1,"oppgave":5,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":5}],"title":"Enhetskostnader og grensekostnader fra graf v25","source":"Eksamen S2 vår 2025","todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Avlese enhetskostnad ($E(180)=82{,}89$) og grensekostnad ($K'(180)=138$) fra tangenter; finne pris som gir max overskudd ved $x=180$ via $I'=K'$.","deloppgaver":[{"deloppgave":"a","vanskegrad":1,"beskrivelse":"$E(180)=14\\,920/180=82{,}89$ fra tangenten gjennom origo; $K'(180)=138$ fra stigningstall til tangent."},{"deloppgave":"b","beskrivelse":"$I(x)=px \\Rightarrow I'(x)=p$; løse $p=K'(180)=138$."}]}}
 ---
 
 
@@ -27,7 +27,7 @@ b) 138 kr
 
 ## Løsningsforslag
 
-### 1-5a
+### a
 Enhetskostnaden når det produseres 180 enheter er gitt ved
 $$
 E(180)=\frac{K(180)}{180}=\frac{14\,920}{180}=82{,}89
@@ -41,7 +41,7 @@ Grensekostnaden er den deriverte av kostnadsfunksjonen, og grensekostnaden ved 1
 
 **Enhetskostnaden ved 180 enheter er 82,89 kr/enhet og grensekostnaden er 138 kr/enhet.**
 
-### 1-5b
+### b
 For at vi skal ha størst overskudd må $I'(x)=K'(x)$. Vi bestemmer grenseinntekten.
 $$
 I(x)=p \cdot x \implies I'(x)=p

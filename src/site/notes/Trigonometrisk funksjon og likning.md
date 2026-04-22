@@ -22,6 +22,8 @@ $$g(x) = 3\sin(2x) + \sqrt{3}\cos(2x) \quad , \quad  D_g = \langle 0, 2\pi \rang
 
 ## Fasit
 
+a) Amplitude $2\sqrt{ 3 }$, likevektslinje $y=0$, periode $\pi$, faseforskyvning $\frac{\pi}{12}$ mot venstre.
+
 ## Løsningsforslag
 
 ### a
@@ -36,3 +38,12 @@ $$
 Når $k=2$ så har sinusfunksjonen dobbelt så «tette» svingninger og perioden blir derfor $T=\frac{2\pi}{k}=\frac{2\pi}{2}=\pi$. Da blir også faseforskyvningen $\frac{\phi}{2}=\frac{\pi}{12}$.
 
 **Amplituden er $2\sqrt{ 3 }$, likevektslinja er $y=0$, perioden er $\pi$ og faseforskyvningen er $\frac{\pi}{12}$ mot venstre.**
+
+### b
+$$
+\begin{aligned}
+2\sqrt{3} \cdot \sin\left(2x + \frac{\pi}{6}\right)&=\sqrt{ 3 } \\
+2 \cdot \sin\left(2x + \frac{\pi}{6}\right)&=1 \\
+\sin\left(2x + \frac{\pi}{6}\right)&=\frac{1}{2} 
+\end{aligned}
+$$

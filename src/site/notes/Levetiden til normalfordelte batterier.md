@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave","normalfordeling","standard normalfordeling","kontinuerlige sannsynlighetsfordelinger","s2","del1"],"temaer":["normalfordeling","standard normalfordeling","kontinuerlige sannsynlighetsfordelinger","sannsynlighet"],"alias":[null],"del":1,"oppgave":6,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":6}],"fag":"s2","eksamen":"v23","dg-publish":true,"title":"Levetiden til normalfordelte batterier","date":"2023-05-27","modified":"2023-06-06","dg-permalink":"/levetiden-til-normalfordelte-batterier/","permalink":"/levetiden-til-normalfordelte-batterier/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave","normalfordeling","standard normalfordeling","kontinuerlige sannsynlighetsfordelinger","s2","del1"],"temaer":["normalfordeling","standard normalfordeling","kontinuerlige sannsynlighetsfordelinger","sannsynlighet"],"alias":[null],"del":1,"oppgave":6,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":6}],"fag":"s2","eksamen":"v23","title":"Levetiden til normalfordelte batterier","date":"2023-05-27","modified":"2023-06-06"}}
+{"tags":["oppgave","normalfordeling","standard normalfordeling","kontinuerlige sannsynlighetsfordelinger","s2","del1"],"temaer":["normalfordeling","standard normalfordeling","kontinuerlige sannsynlighetsfordelinger","sannsynlighet"],"alias":[null],"del":1,"oppgave":6,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":6}],"fag":"s2","eksamen":"v23","dg-publish":true,"title":"Levetiden til normalfordelte batterier","date":"2023-05-27","modified":"2023-06-06","dg-permalink":"/levetiden-til-normalfordelte-batterier/","status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Normalfordeling på del 1: beregne $P(X>600)$ via $z$-tabell, løse $P(X<t)=0{,}242$ for $t$, og velge rett graf.","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":1,"beskrivelse":"Omregne $z=2$ og slå opp $\\Phi(2)=0{,}9772$ i normalfordelingstabellen."},{"deloppgave":"b","beskrivelse":"Slå opp $z$ fra $\\Phi(z)=0{,}242$ og regne $t=z\\sigma+\\mu=465$."},{"deloppgave":"c","vanskegrad":1,"beskrivelse":"Identifisere graf med toppunkt ved $\\mu=500$ og vendepunkter ved $\\mu \\pm \\sigma$."}],"permalink":"/levetiden-til-normalfordelte-batterier/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave","normalfordeling","standard normalfordeling","kontinuerlige sannsynlighetsfordelinger","s2","del1"],"temaer":["normalfordeling","standard normalfordeling","kontinuerlige sannsynlighetsfordelinger","sannsynlighet"],"alias":[null],"del":1,"oppgave":6,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":6}],"fag":"s2","eksamen":"v23","title":"Levetiden til normalfordelte batterier","date":"2023-05-27","modified":"2023-06-06","status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Normalfordeling på del 1: beregne $P(X>600)$ via $z$-tabell, løse $P(X<t)=0{,}242$ for $t$, og velge rett graf.","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":1,"beskrivelse":"Omregne $z=2$ og slå opp $\\Phi(2)=0{,}9772$ i normalfordelingstabellen."},{"deloppgave":"b","beskrivelse":"Slå opp $z$ fra $\\Phi(z)=0{,}242$ og regne $t=z\\sigma+\\mu=465$."},{"deloppgave":"c","vanskegrad":1,"beskrivelse":"Identifisere graf med toppunkt ved $\\mu=500$ og vendepunkter ved $\\mu \\pm \\sigma$."}]}}
 ---
 
 
@@ -28,12 +28,12 @@ c) A
 
 ## Løsningsforslag
 
-### 1-6a
+### a
 Siden vi skal finne $P(X>600)$ og 600 ligger nøyaktig to standardavvik over forventningsverdien kan vi bare slå opp på $z=2.0$ i normalfordelingstabellen for å bestemme $P(X<600) = \Phi(2) = 0,9772$.
 
 $$P(X>600) = 1-P(X<600) = 1-0,9772 = \underline{ \underline{0,0228}}$$
 
-### 1-6b
+### b
 Sannsynligheten for at levetiden er *kortere* enn $t$ timer er 24,2 prosent. Jeg bruker normalfordelingstabellen og finner $\Phi(z) = 0,242 \implies z=-0,70$.
 
 $$
@@ -48,7 +48,7 @@ $$
 
 **Det er 75,8 % sannsynlighet for at et tilfeldig valgt batteri har levetid mer enn 465 timer.**
 
-### 1-6c
+### c
 Siden forventningsverdien er 500 må toppunktet til normalfordelingsfunksjonen ligge ved $x=500$. Det stemmer med graf A og D.
 
 I tillegg vet vi at standardavviket er 50. Hvis vi beveger oss et standardavvik mot høyre eller venstre fra forventningsverdien skal vi komme til vendepunktene til normalfordelingsfunksjonen. Det ser ut til å stemme bra med graf A, hvor vendepunktene ligger ved omtrent $x=450$ og $x=550$.

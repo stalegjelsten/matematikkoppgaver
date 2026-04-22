@@ -25,7 +25,7 @@ b) 13/3
 
 ## Løsningsforslag
 
-### 1-3a
+### a
 
 Table: {inset=0.7em}
 
@@ -42,7 +42,7 @@ $$
 
 **Forventningsverdien $\mathrm{E}(X)=\underline{\underline{4}}$**
 
-### 1-3b
+### b
 Vi finner variansen ved å summere rad 4 i tabellen siden $\text{Var}(X)=\sum (k-\mu)^{2}\cdot P(X=k)$
 $$
 \text{Var}(X)=\textcolor{orange}{\frac{9}{6}}+ \textcolor{seagreen}{\frac{4}{6}}+ \textcolor{steelblue}{\frac{1}{6}}+ \textcolor{tomato}{\frac{12}{6}}=\frac{26}{6}=\frac{13}{3}

@@ -39,7 +39,7 @@ c) Litt under 12 uker, med 43–45 km per uke i gjennomsnitt avhengig av hvordan
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 Jeg la inn dataene i GeoGebra og gjorde en regresjonsanalyse med logistisk modell. Som vi ser fra funksjonen som GeoGebra foreslår, så passer funksjonen $L(t)$ godt til denne situasjonen.
 $$
 L(t)=\frac{156{,}31}{1+12{,}21e^{-0{,}24t}}
@@ -49,7 +49,7 @@ $$
 
 En logistisk modell vil passe godt for denne typen situasjon, siden veksten vil avta før funksjonen nærmer seg en øvre grense. Den øvre grensen er i dette tilfellet 156,3 km. Det høres ut som en rimelig øvre grense for maratontrening (Jakob Ingebrigtsen, som er verdensmester på 1500 m, trener opp mot 180 km i uka på det meste).
 
-### 2-1b
+### b
 
 ![Løsning av oppgave 1a og 1b del 2 i CAS](/img/user/_resources/s2-h24-2-1.png){width=50%}
 
@@ -57,7 +57,7 @@ Vi vet at funksjonen vokser raskest i vendepunktet, så vi finner dette med GeoG
 
 **Antall løpte kilometer øker raskest i den ellevte uka, og økningen er da på omtrent 9,4 km per uke.**
 
-### 2-1c
+### c
 Vi kan løse denne oppgaven på flere måter, men oppgaveteksten legger på mange måter opp til at vi skal bruke funksjonsuttrykket fra a), og finne ut hvor mange uker det går før arealet under grafen blir 500 km.
 
 Å anta at $L(t)$ har tilnærmet kontinuerlig endring kan være en god tilnærming siden Marco sannsynligvis løper flere ganger i uka,

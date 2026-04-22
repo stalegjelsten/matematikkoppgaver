@@ -23,7 +23,7 @@ b) 100
 
 ## Løsningsforslag
 
-### 1-6a
+### a
 For å finne forventningsverdien lager jeg en tabell og regner ut $\sum_{i=1}^6 x \cdot P(X=x)$ 
 
 | $x$ |   $P(X=x)$    |         $x \cdot P(X=x)$          |
@@ -38,7 +38,7 @@ For å finne forventningsverdien lager jeg en tabell og regner ut $\sum_{i=1}^6 
 
 **Forventningsverdien er 3,5.**
 
-### 1-6b
+### b
 Standardavviket til ett kast er $SD(X)=1{,}7$. 
 
 Vi lar $S$ være summen av $n$ forsøk med $X$ slik at

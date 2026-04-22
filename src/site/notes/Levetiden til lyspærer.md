@@ -41,7 +41,7 @@ c) 200
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 Siden $f(t)=0$ når $t\leq 0$ så vil
 
 $$
@@ -75,7 +75,7 @@ $$
 
 **Jeg har vist at $k=0{,}005$**
 
-### 2-2b
+### b
 Jeg kan bruke integralet av tetthetsfunksjonen til å beregne sannsynligheten. Sannsynligheten for at lyspæras levetid er mellom 0 og 400 timer er gitt ved
 
 $$
@@ -90,7 +90,7 @@ $$
 
 **Sannsynligheten for at lyspæras levetid er mer enn 400 timer er $\frac{1}{e^{2}} \approx 0{,}135$.**
 
-### 2-2c
+### c
 Jeg bruker uttrykket for forventningsverdi som står i oppgaveteksten og beregner ved hjelp av GeoGebra:
 
 $$

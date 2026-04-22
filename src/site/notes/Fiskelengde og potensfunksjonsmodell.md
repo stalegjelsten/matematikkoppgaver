@@ -35,7 +35,7 @@ d) $\approx 72{,}8 \, \%$
 > [!warning] KI-løsning
 > Denne løsningen er skrevet av KI. Løsningen ser riktig ut, men jeg har lyst til å endre på fremgangsmåten slik at det passer bedre med hvordan vi vanligvis løser slike oppgaver i norsk videregående skole.
 
-### 2-1a
+### a
 
 Vi bruker potensregresjon for å finne $a$ og $b$ i $F(x) = a \cdot x^b$.
 
@@ -49,7 +49,7 @@ $$F(x) \approx 0{,}00966 \cdot x^3$$
 
 ![Graf for F(x)](/img/user/_resources/1p-h25-2-1-a-graf.png){width=70%}
 
-### 2-1b
+### b
 
 Vi løser likningen $F(x) = 11\,500$:
 
@@ -59,7 +59,7 @@ $$0{,}00966 \cdot x^3 = 11\,500$$
 
 **Ifølge modellen er en fisk som veier $11{,}5 \, \mathrm{kg}$ omtrent $\underline{\underline{106 \, \mathrm{cm}}}$ lang.**
 
-### 2-1c
+### c
 
 Vi beregner $F(75)$ og $F(95)$:
 
@@ -75,7 +75,7 @@ $$a = \frac{F(95) - F(75)}{95 - 75} = \frac{8282 - 4075}{20} \approx 210$$
 
 Dette betyr at for fisk med lengde mellom 75 og 95 cm vil vekten øke med cirka 210 gram for hver ekstra centimeter.
 
-### 2-1d
+### d
 
 Dersom lengden øker med 20 %, blir den nye lengden $1{,}2 \cdot x$. Da blir den nye vekten:
 

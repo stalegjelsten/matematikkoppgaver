@@ -32,10 +32,10 @@ b) 20100
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 Det ser ut til at eleven forsøker å regne ut delsummer av en aritmetisk rekke. Helt konkret ser det ut til at eleven forsøker å regne ut summen av de ti første leddene når startverdien er 3 og differansen er 4, altså $S_{10},\, a_1=3,\, d=4$.
 
-### 1-4b
+### b
 Vi kan finne summen av denne aritmetiske rekka med:
 
 $$s_{100}= \frac{a_{1}+a_{100}}{2}\cdot 100 = \frac{3+(3+4\cdot 99)}{2}\cdot{100}=\frac{402}{2}\cdot {100}=\underline{\underline{20\,100}}$$

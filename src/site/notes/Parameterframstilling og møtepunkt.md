@@ -35,7 +35,7 @@ d) $35\sqrt{145} \approx 421{,}5 \, \mathrm{m}$
 
 ## Løsningsforslag
 
-### 2-4a
+### a
 
 Parameterframstillingen er
 
@@ -50,7 +50,7 @@ Vi sjekker endepunktene:
 
 Retningsvektoren er $(1200, 100) = \vec{HU}$, og startpunktet er $H$. Dermed er parameterfremstillingen den rette linjen fra $H$ til $U$, og for $s \in [0, 1]$ dekker den nøyaktig linjestykket $HU$.
 
-### 2-4b
+### b
 
 Hele turen er 20 minutter, og etter 5 minutter er $s = \dfrac{5}{20} = \dfrac{1}{4}$.
 
@@ -60,7 +60,7 @@ $$
 
 **Etter 5 minutter er Ina i posisjonen $\underline{\underline{(300,\; 325)}}$.**
 
-### 2-4c
+### c
 
 Strekningslengden fra $H$ til $U$ er
 
@@ -76,7 +76,7 @@ $$
 
 **Farten til Ina er $\underline{\underline{\dfrac{\sqrt{145}}{12} \approx 1{,}00 \, \mathrm{m/s}}}$.**
 
-### 2-4d
+### d
 
 Vi skriver Inas posisjon som funksjon av sin tid $t_I$ (minutter fra start):
 

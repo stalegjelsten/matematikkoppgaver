@@ -42,14 +42,14 @@ c) $2$ straffespark
 
 ## Løsningsforslag
 
-### 1-6a
+### a
 
 Programmet kjører løkken `for i in range(3)` tre ganger. Hvert skudd gir enten `"treff"` (sannsynlighet $\frac{2}{5}$) eller `"bom"`. Programmet skriver ut $\frac{\texttt{antall\_treff}}{3}$.
 
 **Programmet kan skrive ut: 0, 0,333, 0,666 eller 1,0.**
 
 
-### 1-6b
+### b
 
 Programmet skriver ut $1{,}0$ kun hvis alle tre skudd er treff:
 
@@ -57,7 +57,7 @@ $$P(\text{alle tre treff}) = \left(\frac{2}{5}\right)^3 = \frac{8}{125}$$
 
 **$\underline{\underline{P = \dfrac{8}{125}}}$**
 
-### 1-6c
+### c
 
 Sannsynligheten for at Einar scorer minst ett mål på $n$ straffespark:
 

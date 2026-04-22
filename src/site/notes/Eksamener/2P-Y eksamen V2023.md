@@ -13,7 +13,7 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Brødpris og prosentvis vekst](https://matematikkoppgaver.vercel.app/brodpris-og-prosentvis-vekst/) | prosentvis vekst, prosent, argumentasjon | ✔︎ |
 | [1-2](#oppgave-1-2) | [Deig fordelt på personer](https://matematikkoppgaver.vercel.app/deig-fordelt-pa-personer/) | grafisk framstilling, proporsjonalitet, funksjoner | ✔︎ |
 | [1-3](#oppgave-1-3) | [Søsken og frekvenser i klasse](https://matematikkoppgaver.vercel.app/sosken-og-frekvenser-i-klasse/) | statistikk, frekvens, relativ frekvens, kumulativ frekvens | ✔︎ |
-| [1-4](#oppgave-1-4) | [Mønster med sirkler i figurer](https://matematikkoppgaver.vercel.app/monster-med-sirkler-i-figurer/) | formler, rekker, figurtall | ✔︎ |
+| [1-4](#oppgave-1-4) | [Mønster med sirkler i figurer](https://matematikkoppgaver.vercel.app/monster-med-sirkler-i-figurer/) | formler, rekker, figurtall | × |
 
 **Del 2** — 4 timer — med hjelpemidler
 
@@ -22,12 +22,11 @@ Table: {.eksamen-oversikt}
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Risforbruk på standardform](https://matematikkoppgaver.vercel.app/risforbruk-pa-standardform/) | standardform, store tall, multiplikasjon | ✔︎ |
-| [2-1](#oppgave-2-1) | [Hvor mye ris spiser man i Kina og India](https://matematikkoppgaver.vercel.app/hvor-mye-ris-spiser-man-i-kina-og-india/) | standardform | ✔︎ |
 | [2-2](#oppgave-2-2) | [Kaffekoppers gjennomsnitt med ukjent](https://matematikkoppgaver.vercel.app/kaffekoppers-gjennomsnitt-med-ukjent/) | statistikk, gjennomsnitt | ✔︎ |
 | [2-3](#oppgave-2-3) | [Prisvekst og prisfall sammenligning](https://matematikkoppgaver.vercel.app/prisvekst-og-prisfall-sammenligning/) | prosentregning, vekstfaktor, geometrisk vekst | × |
 | [2-4](#oppgave-2-4) | [Sykkelhjelm og datapresentasjon](https://matematikkoppgaver.vercel.app/sykkelhjelm-og-datapresentasjon/) | statistikk, prosentregning, diagrammer, presentasjon av data | × |
 | [2-5](#oppgave-2-5) | [Lønnsnivå og sentralmål](https://matematikkoppgaver.vercel.app/lonnsniva-og-sentralmal/) | statistikk, gjennomsnitt, median, sentralmål, grupperte data | × |
-| [2-6](#oppgave-2-6) | [Eksponentialfunksjon for tomflasker](https://matematikkoppgaver.vercel.app/eksponentialfunksjon-for-tomflasker/) | eksponentialfunksjoner, geogebra, programmering, eksponentiell vekst | ✔︎ |
+| [2-6](#oppgave-2-6) | [Eksponentialfunksjon for tomflasker](https://matematikkoppgaver.vercel.app/eksponentialfunksjon-for-tomflasker/) | eksponentialfunksjoner, geogebra, programmering, eksponentiell vekst | × |
 | [2-7](#oppgave-2-7) | [Grønnsaksporsjoner og potensfunksjon](https://matematikkoppgaver.vercel.app/gronnsaksporsjoner-og-potensfunksjon/) | modellering, potensfunksjon, stigningstall, derivasjon, tolkning | ✔︎ |
 
 # Del 1
@@ -52,36 +51,31 @@ Anta at prisen vil fortsette å stige med 2 kroner hvert år framover.
 
 >[!oppgave]
 >b) Argumenter for hvilken av påstandene nedenfor som er riktig.
->1) Prisen vil stige med 5 % hvert år.
->2) Prisen vil stige med mindre enn 5 % hvert år.
->3) Prisen vil stige med mer enn 5 % hvert år.
+>
+>    1) Prisen vil stige med 5 % hvert år.
+>    2) Prisen vil stige med mindre enn 5 % hvert år.
+>    3) Prisen vil stige med mer enn 5 % hvert år.
 
 ## Fasit
 
-a) Vekstfaktoren er $1{,}05$, som tilsvarer $5 \,\%$ vekst.
+a) Se løsningsforslaget
 b) Påstand 2 er riktig: prisen vil stige med mindre enn $5 \,\%$ hvert år.
 
 ## Løsningsforslag
 
-### 1-1a
-
+### a
+Vi kan gjøre dette på flere måter, for eksempel ved å regne ut den prosentvise økningen
 $$
-\frac{42}{40}=\frac{105}{100}=1{,}05
+\text{Prosentvis endring}= \frac{42-2}{40}=\frac{2}{40}=\frac{1}{20}=\frac{5}{100}=\underline{\underline{ 5 \,\% }}
 $$
+### b
 
-En økning på én til én komma null fem svarer til en økning på 5 %.
-
-**Vekstfaktoren 1,05 viser at prisen steg med $\underline{\underline{5 \,\%}}$.**
-
-### 1-1b
-
-Anta at prisen fortsetter å stige med 2 kr hvert år. Det andre året blir prisen
-
+Vi sjekke hva som skjer dersom prisen stiger med 5 % per år. I 2024 blir prisen
 $$
 42 \cdot 1{,}05 = 44{,}1
 $$
 
-Dette er en økning på 2,1 kr. For hvert år vil den absolutte stigningen i kroner bli større enn 2 kr, siden prisen øker. Men prosentvis vekst = 2 kr / stigende pris, som gir en stadig lavere prosent.
+Dette er en økning på 2,1 kr. Prisøkningen fram til år 2025 vil være mer enn 2,1 kr. 5 % vil altså gi en større prisøkning enn 2 kr i året. Det er kun påstand 2 som kan stemme: prisøkningen er mindre enn 5 % hvert år.
 
 **Påstand 2 er riktig: prisen vil stige med $\underline{\underline{\text{mindre enn } 5 \,\%}}$ hvert år.**
 
@@ -106,7 +100,7 @@ Lag en grafisk framstilling som viser sammenhengen mellom hvor mange personer so
 
 ## Fasit
 
-Graf av $f(x) = \frac{6}{x}$ (omvendt proporsjonal kurve).
+Se løsningsforlsaget
 
 ## Løsningsforslag
 
@@ -116,12 +110,16 @@ $$
 f(x) = \frac{6}{x}
 $$
 
+Vi lager en enkel verditabell ved å doble $x$-verdiene og halvere $y$-verdiene.
+
+|  $x$   |  1  |  2  |  4  |  8   |
+| :----: | :-: | :-: | :-: | :--: |
+| $f(x)$ |  6  |  3  | 1,5 | 0,75 |
+
+
 Nedenfor ser du en grafisk framstilling av sammenhengen:
 
-![Graf for oppgave 1-2](/img/user/_resources/2p-y-v23-1-2-graf.png){width=70%}
-
-Jo flere personer som baker, jo mindre deig får hver person. Kurven er en omvendt proporsjonal funksjon.
-
+![Graf for oppgave 1-2](/img/user/_resources/2py-v23-1-2.png){width=50%}
 
 </div></div>
 
@@ -139,9 +137,11 @@ Jo flere personer som baker, jo mindre deig får hver person. Kurven er en omven
 
 Truls og Thea har undersøkt hvor mange søsken hver av elevene i klassen har.
 
-Jeg har regnet ut at den relative frekvensen for to søsken er 0,4. Hva betyr det?
+> [!blue-box] Truls
+> Jeg har regnet ut at den relative frekvensen for to søsken er 0,4. Hva betyr det?
 
-Jeg har regnet ut at den kumulative frekvensen for to søsken er 16. Hva betyr det?
+> [!yellow-box] Thea
+> Jeg har regnet ut at den kumulative frekvensen for to søsken er 16. Hva betyr det?
 
 >[!oppgave]
 >a) Svar Truls og Thea på spørsmålene de stiller.
@@ -158,13 +158,13 @@ b) 30 elever
 
 ## Løsningsforslag
 
-### 1-3a
+### a
 
 **Relativ frekvens 0,4 for to søsken** betyr at 40 % av elevene i klassen har to søsken.
 
 **Kumulativ frekvens 16 for to søsken** betyr at 16 elever til sammen har null, ett eller to søsken.
 
-### 1-3b
+### b
 
 Alle elevene har søsken (minst én), så ingen har 0 søsken.
 
@@ -173,16 +173,21 @@ Alle elevene har søsken (minst én), så ingen har 0 søsken.
 
 Til sammen har altså 4 elever nøyaktig 1 søsken.
 
-Siden den kumulative frekvensen for to søsken er 16, gjelder:
+Siden den kumulative frekvensen for to søsken er 16, så må det være 12 elever som har to søsken.
 
+Vi vet også at den relative frekvensen for 2 søsken er 40 %. Vi kan sette opp en likning hvor vi kaller antallet elever i klassen for $x$, da må
 $$
-\underbrace{4}_{\text{1 søsken}} + \underbrace{0{,}4 \cdot x}_{\text{2 søsken}} = 16
+0{,}4 \cdot x = 12
 $$
-
+For å gjøre det litt enklere å løse likningen ganger jeg begge sider med 10 for å få heltall på hver side.
 $$
-0{,}4 \cdot x = 12 \implies x = 30
+\begin{aligned}
+\textcolor{seagreen}{10} \cdot 0{,}4 \cdot x &= 12 \cdot \textcolor{seagreen}{10} \\
+4 \cdot x &= 120 \\
+\frac{\cancel{ 4 }x}{\textcolor{steelblue}{\cancel{ 4 }}}&= \frac{120}{\textcolor{steelblue}{4}} \\
+x &=30
+\end{aligned}
 $$
-
 **Det er $\underline{\underline{30 \text{ elever}}}$ i klassen.**
 
 
@@ -215,7 +220,7 @@ b) $a_n = 4n + 1$
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 
 Figur 1 har 5 sirkler, figur 2 har 9 sirkler, figur 3 har 13 sirkler. For hver ny figur legges det til 4 sirkler.
 
@@ -224,7 +229,7 @@ Figur 1 har 5 sirkler, figur 2 har 9 sirkler, figur 3 har 13 sirkler. For hver n
 
 **Figur 4 har $\underline{\underline{17}}$ sirkler og figur 5 har $\underline{\underline{21}}$ sirkler.**
 
-### 1-4b
+### b
 
 Figur 1 har 5 sirkler, og for hver ny figur øker antallet med 4. Dette er en aritmetisk rekke med første ledd $a_1 = 5$ og differanse $d = 4$:
 
@@ -279,46 +284,6 @@ $$
 </div></div>
 
 
-## Oppgave 2-1
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/hvor-mye-ris-spiser-man-i-kina-og-india/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-
-# Hvor mye ris spiser man i Kina og India?
-
-
-I Kina og India bor det til sammen ca. 2,86 milliarder mennesker. Gjennomsnittsforbruket av ris i disse landene er 91 kg per person per år.
-
-Hvor mye ris blir dette totalt i løpet av 10 år? Skriv svaret på standardform.
-
-## Fasit
-
-$2{,}6\cdot 10^{12}$
-
-## Løsningsforslag
-
-Hver person spiser 91 kg hvert år og det er 2,86 milliarder mennesker. Altså spiser de hvert år
-
-$$
-91 \, \mathrm{kg} \cdot 2{,}86 \cdot 10^{9}= 2{,}6026 \cdot 10^{11} \, \mathrm{kg}
-$$
-
-I løpet av 10 år blir mengden
-
-$$
-2{,}6026 \cdot 10^{11} \, \mathrm{kg} \cdot 10 = 2{,}6026 \cdot 10^{11} \cdot 10^{1} \, \mathrm{kg} \approx 2{,}6 \cdot 10^{12} \, \mathrm{kg}
-$$
-
-**De spiser omtrent $\underline{\underline{2{,}6 \cdot 10^{12} \, \mathrm{kg}}}$ ris i løpet av 10 år.**
-
-
-</div></div>
-
-
 ## Oppgave 2-2
 
 
@@ -338,15 +303,10 @@ Gjør beregninger og kommenter antakelsen til Tore.
 
 ## Fasit
 
-Det skjulte tallet er 2, og gjennomsnittet er nøyaktig 4 – Tores antakelse stemmer ikke.
+Tores antakelse stemmer hvis tallet er 3 eller mer.
 
 ## Løsningsforslag
 
-Tore spurte 12 kolleger. De synlige verdiene fra arket er:
-
-$$
-4, \; 5, \; 0, \; 4, \; 2, \; 6, \; ?, \; 5, \; 7, \; 5, \; 5, \; 3
-$$
 
 Summen av de 11 kjente verdiene er
 
@@ -354,18 +314,11 @@ $$
 4+5+0+4+2+6+5+7+5+5+3 = 46
 $$
 
-For at gjennomsnittet skal være **nøyaktig 4** med 12 verdier, må totalsummen være $4 \cdot 12 = 48$. Det skjulte tallet er altså
+For at gjennomsnittet skal være **nøyaktig 4** med 12 verdier, må totalsummen være $4 \cdot 12 = 48$. Dersom det skjulte tallet var 2 så ville gjennomsnittet blitt nøyaktig 4.
 
-$$
-48 - 46 = 2
-$$
+Det betyr også at dersom det skjulte tallet er 3 eller mer, så ville gjennomsnittet vært over 4. For eksempel ville tallet 3 gitt en sum på 49 og gjennomsnitt $\frac{49}{12}=4{,}08$.
 
-Med det skjulte tallet lik 2 blir gjennomsnittet $\frac{48}{12} = 4$ – **nøyaktig 4, ikke mer enn 4**.
-
-For at gjennomsnittet skal være mer enn 4, måtte det skjulte tallet ha vært minst 3.
-
-**Tores antakelse stemmer ikke. Gjennomsnittet er $\underline{\underline{4}}$ kopper – nøyaktig 4, ikke mer enn 4.**
-
+**Tores antakelse stemmer dersom det skjulte tallet er 3 eller mer.**
 
 </div></div>
 
@@ -518,7 +471,7 @@ b) Medianen er mest egnet (gjennomsnittet trekkes opp av noen svært høye lønn
 
 ## Løsningsforslag
 
-### 2-5a
+### a
 
 Vi regner med at alle i hvert intervall tjener midtpunktet i intervallet (midtpunktmetoden).
 
@@ -555,7 +508,7 @@ $$
 
 **Medianlønnen er omtrent $\underline{\underline{479\,000 \, \mathrm{kr}}}$.**
 
-### 2-5b
+### b
 
 Bedriften har 15 ansatte med årslønn mellom 1 000 000 og 2 000 000 kr. Disse trekker gjennomsnittet kraftig opp, til 575 000 kr, mens de fleste ansatte tjener i området 350 000–500 000 kr.
 
@@ -618,7 +571,7 @@ c) Programmet summerer til ca. 19 661 kr < 25 000 kr. Øk startbeløpet til ca. 
 
 ## Løsningsforslag
 
-### 2-6a
+### a
 
 Funksjonen $P(x) = 1600 \cdot 1{,}045^x$ beskriver planen slik:
 
@@ -626,7 +579,7 @@ Funksjonen $P(x) = 1600 \cdot 1{,}045^x$ beskriver planen slik:
 - Vekstfaktoren 1,045 betyr at beløpet øker med 4,5 % for hver måned
 - Planen strekker seg over 10 måneder ($x = 0$ til $x = 9$), dvs. august til mai
 
-### 2-6b
+### b
 
 Mai svarer til $x = 9$:
 
@@ -636,7 +589,7 @@ $$
 
 **Ifølge modellen regnet elevene med å samle inn ca. $\underline{\underline{2378 \, \mathrm{kr}}}$ i mai 2023.**
 
-### 2-6c
+### c
 
 Programmet summerer $P(x)$ for $x = 0, 1, 2, \ldots, 9$. Resultatet er ca. **19 661 kr**, som er langt under målet på 25 000 kr. Elevene vil **ikke** nå målet med den opprinnelige planen.
 
@@ -689,7 +642,7 @@ c) Stigningstall tangent i uke 6 $\approx 692$ porsjoner/uke
 
 ## Løsningsforslag
 
-### 2-7a
+### a
 
 Vi bruker potensregresjon på dataene:
 
@@ -709,7 +662,7 @@ Modellen passer svært godt til dataene ($R^2 \approx 1{,}00$):
 
 **En modell for sammenhengen er $\underline{\underline{P(x) = 2060 \cdot x^{0{,}64}}}$.**
 
-### 2-7b
+### b
 
 Stigningstallet til sekanten gjennom $(1, P(1))$ og $(20, P(20))$:
 
@@ -729,7 +682,7 @@ $$
 
 Det betyr at antall registrerte porsjoner økte i gjennomsnitt med ca. 629 per uke i perioden fra uke 1 til uke 20.
 
-### 2-7c
+### c
 
 Stigningstallet til tangenten i $(6, P(6))$ er den deriverte $P'(6)$:
 

@@ -36,7 +36,7 @@ c) Kjøp av elbil gir høyest rentekostnad.
 
 ![Løsning av oppgave 4 del 2 i CAS](/img/user/_resources/s2-h25-2-4-cas.png){width=60%}
 
-### 2-4a
+### a
 Et annuitetslån passer godt til oppgaven siden den spør etter en geometrisk rekke som viser hvor mye Mathias må betale.
 
 I et annuitetslån må summen av nåverdiene til terminbeløpene tilsvare lånebeløpet, altså
@@ -47,14 +47,14 @@ Jeg løser denne i CAS (se linje 1).
 
 **Terminbeløpene er 53 024 kr.**
 
-### 2-4b
+### b
 Siden det er fast terminbeløp på 52 000 kr, så vil også dette lånet være et annuitetslån.
 
 Jeg setter opp likningen i CAS og løser (se linje 2). Vekstfaktoren er $1{,}0272$ (vi ser bort fra den negative løsningen da vekstfaktorer alltid er positive), dette gir $2{,}72 \,\%$ rente.
 
 **Rentesatsen er 2,72 %.**
 
-### 2-4c
+### c
 Rentekostnadene er summen av terminbeløpene minus prisen på bilene. Disse har jeg beregnet i linje 3 og 4 i utklippet.
 
 **Å kjøpe elbilen vil gi høyest rentekostnader totalt, men det er først og fremst på grunn av at elbilen er dyrere og nedbetalingstiden er lengre. Rentesatsen er lavest for elbilen.**

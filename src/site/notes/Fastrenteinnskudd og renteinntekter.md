@@ -34,7 +34,7 @@ b) 24 300 kr
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 For å bestemme forskjellen i prosentpoeng finner jeg differansen mellom prosenttallene
 $$
 5{,}4 - 5{,}15 = 0{,}25
@@ -45,7 +45,7 @@ $$
 $$
 **Hvis hun binder pengene i ett år er renten 0,25 prosentpoeng og 4,76 % høyere enn hvis hun binder pengene i 3 måneder.**
 
-### 2-2b
+### b
 Jeg finner rentene ved å gange sparebeløpet med rentesatsen
 $$
 450 \, 000 \cdot 5{,}4 \,\%=450 \, 000 \cdot 0{,}054=24 \, 300

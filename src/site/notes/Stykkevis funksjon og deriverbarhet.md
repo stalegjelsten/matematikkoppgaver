@@ -20,7 +20,7 @@ b) $a = 14$, $b = 24$.  Enten $k = \frac{1}{3}$, $c = -\frac{10}{27}$ eller $k =
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 
 Vi undersøker om $f$ er kontinuerlig i $x = -2$ med $a = 2$ og $b = -2$.
 
@@ -30,7 +30,7 @@ Høyresiden ($-2 < x$): $\lim_{x \to -2^+} f(x) = 2(-2)^3 + 2(-2)^2 - 2(-2) = -1
 
 Siden $-6 \neq -4$ er ikke grenseverdien lik funksjonsverdien, og **$f$ er ikke kontinuerlig i $x = -2$**.
 
-### 2-2b
+### b
 
 **Kontinuitet og deriverbarhet i $x = -2$:**
 

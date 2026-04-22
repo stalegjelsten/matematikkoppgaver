@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-05-21","modified":"2025-05-21","aliases":[],"dg-publish":true,"temaer":["sentralmål","kumulativ frekvens"],"fag":["2p-y","2p"],"eksamen":"v25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":2},{"fag":"2p","del":1,"oppgave":2}],"title":"Median og gjennomsnitt i heiskø","source":null,"todo":null,"status":3,"dg-permalink":"/median-og-gjennomsnitt-i-heisko/","permalink":"/median-og-gjennomsnitt-i-heisko/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-21","modified":"2025-05-21","aliases":[],"temaer":["sentralmål","kumulativ frekvens"],"fag":["2p-y","2p"],"eksamen":"v25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":2},{"fag":"2p","del":1,"oppgave":2}],"title":"Median og gjennomsnitt i heiskø","source":null,"todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2025-05-21","modified":"2025-05-21","aliases":[],"dg-publish":true,"temaer":["sentralmål","kumulativ frekvens"],"kategori":1,"vanskegrad":1,"beskrivelse":"Beregne median og gjennomsnitt fra liste med 10 tall; finne kumulativ frekvens og tolke den praktisk.","deloppgaver":[{"deloppgave":"b","kategori":2,"vanskegrad":2,"beskrivelse":"Bestemme den kumulative frekvensen for $6$ personer og gi en praktisk tolkning."}],"fag":["2p-y","2p"],"eksamen":"v25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":2},{"fag":"2p","del":1,"oppgave":2}],"title":"Median og gjennomsnitt i heiskø","source":null,"todo":null,"status":3,"dg-permalink":"/median-og-gjennomsnitt-i-heisko/","permalink":"/median-og-gjennomsnitt-i-heisko/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-05-21","modified":"2025-05-21","aliases":[],"temaer":["sentralmål","kumulativ frekvens"],"kategori":1,"vanskegrad":1,"beskrivelse":"Beregne median og gjennomsnitt fra liste med 10 tall; finne kumulativ frekvens og tolke den praktisk.","deloppgaver":[{"deloppgave":"b","kategori":2,"vanskegrad":2,"beskrivelse":"Bestemme den kumulative frekvensen for $6$ personer og gi en praktisk tolkning."}],"fag":["2p-y","2p"],"eksamen":"v25","del":1,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":1,"oppgave":2},{"fag":"2p","del":1,"oppgave":2}],"title":"Median og gjennomsnitt i heiskø","source":null,"todo":null,"status":3}}
 ---
 
 
@@ -20,7 +20,7 @@ b) Den kumulative frekvensen for $6$ personer er $7$ (det var 7 av de 10 observa
 
 ## Løsningsforslag
 
-### 1-2a
+### a
 Medianen er det midterste tallet etter at vi har sortert dem stigende
 $$
 2,2,3,4,\underbrace{ 4,6 }_{ \text{Median} },6,7,8,8
@@ -33,7 +33,7 @@ $$
 $$
 **Medianen er 5 og gjennomsnittet er 5.**
 
-### 1-2b
+### b
 Den kumulative frekvensen for 6 personer er antallet observasjoner som er 6 eller mindre. Det er 7 av de 10 observasjonene som er på 6 personer eller mindre.
 
 **Den kumulative frekvensen for 6 personer er 7, det betyr at det i 7 av de 10 tilfellene var 6 personer eller færre i vogna i skiheisen.**

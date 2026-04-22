@@ -10,12 +10,12 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [1-1](#oppgave-1-1) | [Bestemt integral 2](https://matematikkoppgaver.vercel.app/bestemt-integral-2/) | integral | × |
-| [1-2](#oppgave-1-2) | [Grensekostnader fra graf v23](https://matematikkoppgaver.vercel.app/grensekostnader-fra-graf-v23/) | økonomi, derivasjon, funksjoner, grenseinntekt og grensekostnad | × |
-| [1-3](#oppgave-1-3) | [Forventningsverdi og varians fra sannsynlighetsfordeling 2](https://matematikkoppgaver.vercel.app/forventningsverdi-og-varians-fra-sannsynlighetsfordeling-2/) | sannsynlighet, diskrete sannsynlighetsfordelinger, varians, forventningsverdi | × |
-| [1-4](#oppgave-1-4) | [Ukjent program del 1 S2](https://matematikkoppgaver.vercel.app/ukjent-program-del-1-s2/) | programmering, rekker | × |
-| [1-4](#oppgave-1-4) | [Uendelig rekke med virkestoff fra legemiddel](https://matematikkoppgaver.vercel.app/uendelig-rekke-med-virkestoff-fra-legemiddel/) | uendelig rekke, rekker | × |
-| [1-6](#oppgave-1-6) | [Levetiden til normalfordelte batterier](https://matematikkoppgaver.vercel.app/levetiden-til-normalfordelte-batterier/) | normalfordeling, standard normalfordeling, kontinuerlige sannsynlighetsfordelinger, sannsynlighet | × |
+| [1-1](#oppgave-1-1) | [Bestemt integral 2](https://matematikkoppgaver.vercel.app/bestemt-integral-2/) | integral, bestemt integral | ✔︎ |
+| [1-2](#oppgave-1-2) | [Grensekostnader fra graf v23](https://matematikkoppgaver.vercel.app/grensekostnader-fra-graf-v23/) | økonomi, derivasjon, funksjoner, grenseinntekt og grensekostnad, tolke grafer | ✔︎ |
+| [1-3](#oppgave-1-3) | [Forventningsverdi og varians fra sannsynlighetsfordeling 2](https://matematikkoppgaver.vercel.app/forventningsverdi-og-varians-fra-sannsynlighetsfordeling-2/) | sannsynlighet, diskrete sannsynlighetsfordelinger, varians, forventningsverdi | ✔︎ |
+| [1-4](#oppgave-1-4) | [Ukjent program del 1 S2](https://matematikkoppgaver.vercel.app/ukjent-program-del-1-s2/) | programmering, rekker, aritmetisk rekke | ✔︎ |
+| [1-4](#oppgave-1-4) | [Uendelig rekke med virkestoff fra legemiddel](https://matematikkoppgaver.vercel.app/uendelig-rekke-med-virkestoff-fra-legemiddel/) | uendelig rekke, rekker, geometrisk rekke | ✔︎ |
+| [1-6](#oppgave-1-6) | [Levetiden til normalfordelte batterier](https://matematikkoppgaver.vercel.app/levetiden-til-normalfordelte-batterier/) | normalfordeling, standard normalfordeling, kontinuerlige sannsynlighetsfordelinger, sannsynlighet | ✔︎ |
 
 **Del 2** — 3 timer — med hjelpemidler
 
@@ -23,10 +23,10 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [Annuitetslån](https://matematikkoppgaver.vercel.app/annuitetslan/) | lån, rekker, excel | × |
-| [2-2](#oppgave-2-2) | [Regresjon på størrelsen av det norske musikkstrømmemarkedet](https://matematikkoppgaver.vercel.app/regresjon-pa-storrelsen-av-det-norske-musikkstrommemarkedet/) | regresjon, logistisk funksjon, derivasjon, funksjoner, tolkning av integraler, integral, samlet mengde | × |
-| [2-3](#oppgave-2-3) | [Hypotesetest med smak av cola](https://matematikkoppgaver.vercel.app/hypotesetest-med-smak-av-cola/) | hypotesetest, binomisk, diskrete sannsynlighetsfordelinger | × |
-| [2-4](#oppgave-2-4) | [Hildegunns ukepenger](https://matematikkoppgaver.vercel.app/hildegunns-ukepenger/) | excel, rekker | × |
+| [2-1](#oppgave-2-1) | [Annuitetslån](https://matematikkoppgaver.vercel.app/annuitetslan/) | lån, rekker, excel, annuitetslån | ✔︎ |
+| [2-2](#oppgave-2-2) | [Regresjon på størrelsen av det norske musikkstrømmemarkedet](https://matematikkoppgaver.vercel.app/regresjon-pa-storrelsen-av-det-norske-musikkstrommemarkedet/) | regresjon, logistisk funksjon, derivasjon, funksjoner, tolkning av integraler, integral, samlet mengde | ✔︎ |
+| [2-3](#oppgave-2-3) | [Hypotesetest med smak av cola](https://matematikkoppgaver.vercel.app/hypotesetest-med-smak-av-cola/) | hypotesetest, binomisk, diskrete sannsynlighetsfordelinger | ✔︎ |
+| [2-4](#oppgave-2-4) | [Hildegunns ukepenger](https://matematikkoppgaver.vercel.app/hildegunns-ukepenger/) | excel, rekker, aritmetisk rekke, geometrisk rekke | ✔︎ |
 
 # Del 1
 
@@ -42,7 +42,7 @@ Table: {.eksamen-oversikt}
 # Bestemt integral 2
 
 $$
-\int_{0}^{1}\left(e^{x}+3 x^{2}\right) d x
+\int_{0}^{1}\left(e^{x}+3 x^{2}\right)  \, \mathrm{d}x
 $$
 
 ## Fasit
@@ -83,14 +83,14 @@ b) ca 57 enheter
 
 ## Løsningsforslag
 
-### 1-2a
+### a
 Når det blir produsert 40 enheter kan vi finne en tilnærmet verdi for grensekostnaden $K'(40)$ ved å lage en tangent til $K(x)$ i $(40, K(40))$.
 
 Jeg forsøkte å legge en tangent i punktet, og fikk stigningstallet $a=\frac{9000}{120}=75$. 
 
 $$\underline{\underline{K'(40)\approx 75 \, \mathrm{kr/enhet}}}$$
 
-### 1-2b
+### b
 Jeg vet at overskuddet blir størst når $O'(x)=I'(x)-K'(x)=0 \iff I'(x)=K'(x)$, altså når stigningstallene til inntektsfunksjonen og kostnadsfunksjonen er like store. 
 
 Det ser ut til stigningstallene er like store omtrent ved $x=55$. Det stemmer også godt med at differansen mellom inntekt og kostnad ser ut til å være stor ved $x=55$.
@@ -130,7 +130,7 @@ b) Begge er 1
 
 ## Løsningsforslag
 
-### 1-3a
+### a
 Siden summen av sannsynlighetene skal være lik 1 må
 
 $$
@@ -147,7 +147,7 @@ Dermed er:
 
 $$P(X>1)=P(X=2)+P(X=3)=(0.4-0.2) + 0.1 = \underline{\underline{0,3}}$$
 
-### 1-3b
+### b
 |           $x$            |  0  |  1  |  2  |  3  | Sum |
 | :----------------------: | :-: | :-: | :-: | :-: | :-: |
 |         $P(X=x)$         | 0,4 | 0,3 | 0,2 | 0,1 |  1  |
@@ -199,10 +199,10 @@ b) 20100
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 Det ser ut til at eleven forsøker å regne ut delsummer av en aritmetisk rekke. Helt konkret ser det ut til at eleven forsøker å regne ut summen av de ti første leddene når startverdien er 3 og differansen er 4, altså $S_{10},\, a_1=3,\, d=4$.
 
-### 1-4b
+### b
 Vi kan finne summen av denne aritmetiske rekka med:
 
 $$s_{100}= \frac{a_{1}+a_{100}}{2}\cdot 100 = \frac{3+(3+4\cdot 99)}{2}\cdot{100}=\frac{402}{2}\cdot {100}=\underline{\underline{20\,100}}$$
@@ -282,12 +282,12 @@ c) A
 
 ## Løsningsforslag
 
-### 1-6a
+### a
 Siden vi skal finne $P(X>600)$ og 600 ligger nøyaktig to standardavvik over forventningsverdien kan vi bare slå opp på $z=2.0$ i normalfordelingstabellen for å bestemme $P(X<600) = \Phi(2) = 0,9772$.
 
 $$P(X>600) = 1-P(X<600) = 1-0,9772 = \underline{ \underline{0,0228}}$$
 
-### 1-6b
+### b
 Sannsynligheten for at levetiden er *kortere* enn $t$ timer er 24,2 prosent. Jeg bruker normalfordelingstabellen og finner $\Phi(z) = 0,242 \implies z=-0,70$.
 
 $$
@@ -302,7 +302,7 @@ $$
 
 **Det er 75,8 % sannsynlighet for at et tilfeldig valgt batteri har levetid mer enn 465 timer.**
 
-### 1-6c
+### c
 Siden forventningsverdien er 500 må toppunktet til normalfordelingsfunksjonen ligge ved $x=500$. Det stemmer med graf A og D.
 
 I tillegg vet vi at standardavviket er 50. Hvis vi beveger oss et standardavvik mot høyre eller venstre fra forventningsverdien skal vi komme til vendepunktene til normalfordelingsfunksjonen. Det ser ut til å stemme bra med graf A, hvor vendepunktene ligger ved omtrent $x=450$ og $x=550$.
@@ -342,7 +342,7 @@ b) Ja
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 Annuitetslån har faste terminbeløp slik at lånebeløpet er lik produktet terminfaktoren multiplisert med terminbeløpet: $L=F\cdot T$.
 Vi kan beregne terminfaktoren $F$ ved:
 
@@ -365,7 +365,7 @@ $$
 
 **Terminbeløpet er 4555,14 kr.**
 
-### 2-1b
+### b
 Jeg bruker en ferdig regnearkmodell jeg hadde liggende til å løse denne oppgaven. Fra regnearket ser jeg at restlånet *før* 25. innbetaling er 52 959,79 kr. **Dermed vil erstatningen fra forsikringsselskapet dekke restlånet** (gitt at han betaler restlånet med en gang han får erstatningen). Se utklippet under.
 
 ![Regneark for å beregne lån](/img/user/_resources/s2-v23-del2-oppg1a1.png){width=100%}
@@ -414,7 +414,7 @@ Mange modeller og ulike tolkninger kan fungere. Se løsningsforslaget.
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 Jeg brukte regresjonsverktøyet i GeoGebra valgte den logistiske modellen:
 
 $$\underline{\underline{F(x)=\frac{660{,}37}{1+30{,}72\,e^{-0{,}7066x}}}}$$
@@ -425,7 +425,7 @@ Logistiske funksjoner flater ut ved en horisontal asymptote (i dette tilfellet 6
 
 ![Regresjon på størrelsen av musikkmarkedet](/img/user/_resources/s2-v23-del2-oppg-2a.png){width=60%}
 
-### 2-2b
+### b
 Se utklippet fra CAS.
 
 ![Beregning av verdier i CAS](/img/user/_resources/s2-v23-del2-oppg-2b.png.png){width=40%}
@@ -439,7 +439,7 @@ D&=116{,}3
 \end{aligned}
 $$
 
-### 2-2c
+### c
 $I$ beregner integralet under $F$ fra $x=-0{,}5$ til $x=10{,}5$. Dette gir en tilnærmingsverdi for de samlede inntektene fra musikkstrømming i Norge fra og med 2008 til og med 2018. De samlede inntektene er omtrent 3729 millioner kr.
 
 $G$ finner en tilnærmingsverdi de samlede inntektene fra og med 2011 til og med 2015 ved å integrere, deretter divideres svaret med 5. $G$ finner altså de gjennomsnittlige årlige inntektene mellom år 2011 og 2015. De gjennomsnittlige årlige inntektene i perioden er 344,5 millioner kr.
@@ -490,7 +490,7 @@ c) Trenger minst 20 glass.
 
 ## Løsningsforslag
 
-### 2-3a
+### a
 Vi starter med noen antagelser:
 
 - Birger velger *helt* tilfeldig om han fyller hvert enkelt glass med Pepsi-Cola eller Coca-Cola
@@ -505,7 +505,7 @@ $$
 P(X=6)=\binom{n}{k}\cdot p^k \cdot(1-p)^{n-k} = \frac{10!}{6!(10-6)!} \cdot {0}.5^6  \cdot 0.5^4= \underline{\underline{0{,}205}}
 $$
 
-### 2-3b
+### b
 Vi lar $p$ være sannsynligheten for at Marte klarer å gjette riktig og $X$, antall riktige gjetninger, er testobservator. 
 
 Det skal mye til at Marte er dårligere til å gjenkjenne colaene enn ved tilfeldig gjetting, og jeg er egentlig kun interessert i å finne ut om hun *bedre* enn tilfeldig gjetning. Derfor velger jeg en ensidig hypotesetest. Vi skal bruke signifikansnivået $\alpha=0{,}05$.
@@ -523,7 +523,7 @@ Ved hjelp av GeoGebra finner jeg at $P(8\leq X)=0,0547$ gitt at $H_{0}$ er sann.
 
 Siden sannsynligheten $P(8\leq X)=0,0547$ er større enn signifikansnivået $\alpha = 0.05$ så **kan vi *ikke* forkaste $H_0$.**
 
-### 2-3c
+### c
 
 ![Finne hvilken $a$ som gir $P(a\leq X)\leq 0{,}05$](/img/user/_resources/s2-v23-del2-oppg-3c.png)
 
@@ -575,13 +575,13 @@ Jeg gjorde disse oppgavene i Excel, se regnearket under.
 
 ![](/img/user/_resources/s2-v23-del2-oppg-4a.png.png)
 
-### 2-4a
+### a
 De ukentlige beløpene for de fire første ukene er markert i blått i utklippet. Det venstre blå rektangelet viser beløpene for tilbud 1, det høyre blå rektangelet viser beløpene for tilbud 2. Vi kan se at tilbud 1 vokser fortere enn tilbud 2 i starten.
 
-### 2-4b
+### b
 **I uke 28 så vil tilbud 2 for første gang gi større utbetaling enn tilbud 1**, se den røde markering i Excel-arket.
 
-### 2-4c
+### c
 **I uke 39 så vil tilbud 2 for første gang ha gitt større *samlet utbetaling* enn tilbud 1**, se den gule markeringen i Excel-arket.
 
 [^1]: Oppgaven er både gitt [[Fagsider/S2\|S2]] og [[Fagsider/R2\|R2]] ved eksamen våren 2023. I S2-eksamen het personen Hildegunn, og i R2-eksamen het personen David. Derfor bruker jeg pronomenen hen i denne oppgaven.
