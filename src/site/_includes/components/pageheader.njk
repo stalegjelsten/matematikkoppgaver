@@ -32,6 +32,15 @@
 
 {%include "components/calloutScript.njk"%}
 
+<script>
+window.MathJax = {
+    tex: {
+        macros: {
+            degree: "{^\\circ}"
+        }
+    }
+};
+</script>
 {% if meta.env == "prod" %}
 <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 {% else %}
