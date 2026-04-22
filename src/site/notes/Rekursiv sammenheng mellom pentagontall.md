@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-01-30","modified":"2024-01-31","aliases":[],"dg-publish":true,"temaer":["rekursiv sammenheng","programmering","rekker"],"fag":["s2"],"eksamen":"h23","del":2,"oppgave":"4","oppgavenummer":[{"fag":"s2","del":2,"oppgave":4}],"title":"Rekursiv sammenheng mellom pentagontall","source":null,"todo":["figur"],"status":3,"dg-permalink":"/rekursiv-sammenheng-mellom-pentagontall/","lf-source-claude":false,"permalink":"/rekursiv-sammenheng-mellom-pentagontall/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-01-30","modified":"2024-01-31","aliases":[],"temaer":["rekursiv sammenheng","programmering","rekker"],"fag":["s2"],"eksamen":"h23","del":2,"oppgave":"4","oppgavenummer":[{"fag":"s2","del":2,"oppgave":4}],"title":"Rekursiv sammenheng mellom pentagontall","source":null,"todo":["figur"],"status":3,"lf-source-claude":false}}
+{"tags":["oppgave"],"date":"2024-01-30","modified":"2024-01-31","aliases":[],"dg-publish":true,"temaer":["rekursiv sammenheng","programmering","rekker","figurtall"],"fag":["s2"],"eksamen":"h23","del":2,"oppgave":"4","oppgavenummer":[{"fag":"s2","del":2,"oppgave":4}],"title":"Rekursiv sammenheng mellom pentagontall","source":null,"todo":["figur"],"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Finne rekursiv sammenheng $P_n=P_{n-1}+(n-1)\\cdot 5$ fra figurtall; programmere $P_{1000}$.","deloppgaver":[{"deloppgave":"a","beskrivelse":"Identifisere differensmønster $5, 10, 15,\\ldots$ og formulere $P_n=P_{n-1}+(n-1)d$."},{"deloppgave":"b","beskrivelse":"For-løkke som bygger opp $P_n$ fra $P_1=1$."}],"dg-permalink":"/rekursiv-sammenheng-mellom-pentagontall/","lf-source-claude":false,"permalink":"/rekursiv-sammenheng-mellom-pentagontall/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-01-30","modified":"2024-01-31","aliases":[],"temaer":["rekursiv sammenheng","programmering","rekker","figurtall"],"fag":["s2"],"eksamen":"h23","del":2,"oppgave":"4","oppgavenummer":[{"fag":"s2","del":2,"oppgave":4}],"title":"Rekursiv sammenheng mellom pentagontall","source":null,"todo":["figur"],"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Finne rekursiv sammenheng $P_n=P_{n-1}+(n-1)\\cdot 5$ fra figurtall; programmere $P_{1000}$.","deloppgaver":[{"deloppgave":"a","beskrivelse":"Identifisere differensmønster $5, 10, 15,\\ldots$ og formulere $P_n=P_{n-1}+(n-1)d$."},{"deloppgave":"b","beskrivelse":"For-løkke som bygger opp $P_n$ fra $P_1=1$."}],"lf-source-claude":false}}
 ---
 
 
@@ -18,6 +18,8 @@ De fem første figurtallene er 1, 6, 16, 31 og 51
 
 ## Fasit
 
+a) $P_{n}=P_{n-1}+(n-1)\cdot d$, der $d=5$.
+b) Se løsningsforslag for programkode.
 
 ## Løsningsforslag
 

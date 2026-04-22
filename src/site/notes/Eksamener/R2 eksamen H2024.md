@@ -10,7 +10,7 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [1-1](#oppgave-1-1) | [Integral med delvis integrasjon og trigonometri](https://matematikkoppgaver.vercel.app/integral-med-delvis-integrasjon-og-trigonometri/) | integral, trigonometri | ✔︎ |
+| [1-1](#oppgave-1-1) | [Integral med delvis integrasjon og trigonometri](https://matematikkoppgaver.vercel.app/integral-med-delvis-integrasjon-og-trigonometri/) | integral, trigonometri, delvis integrasjon, substitusjon, tolkning av integraler | ✔︎ |
 | [1-2](#oppgave-1-2) | [Sumformel, kvotient og geometrisk rekke](https://matematikkoppgaver.vercel.app/sumformel-kvotient-og-geometrisk-rekke/) | rekker, uendelig rekke | ✔︎ |
 | [1-3](#oppgave-1-3) | [Telt med vektorer i rommet](https://matematikkoppgaver.vercel.app/telt-med-vektorer-i-rommet/) | vektorer, areal | ✔︎ |
 | [1-4](#oppgave-1-4) | [Radianer og eksakte trigonometriske verdier](https://matematikkoppgaver.vercel.app/radianer-og-eksakte-trigonometriske-verdier/) | trigonometri, enhetssirkel | ✔︎ |
@@ -24,9 +24,9 @@ Table: {.eksamen-oversikt}
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Ball i bevegelse med posisjonsvektor](https://matematikkoppgaver.vercel.app/ball-i-bevegelse-med-posisjonsvektor/) | vektorer, derivasjon | ✔︎ |
 | [2-2](#oppgave-2-2) | [Vurder påstander om rekke, plan og areal](https://matematikkoppgaver.vercel.app/vurder-pastander-om-rekke-plan-og-areal/) | rekker, vektorer, integral, argumentasjon | ✔︎ |
-| [2-3](#oppgave-2-3) | [Jordbær som omdreiningslegeme](https://matematikkoppgaver.vercel.app/jordbaer-som-omdreiningslegeme/) | integral, volum, omdreiningslegeme | ✔︎ |
+| [2-3](#oppgave-2-3) | [Jordbær som omdreiningslegeme](https://matematikkoppgaver.vercel.app/jordbaer-som-omdreiningslegeme/) | integral, volum, omdreiningslegeme, modellering, regresjon | ✔︎ |
 | [2-4](#oppgave-2-4) | [Russebil med trigonometrisk fartsfunksjon](https://matematikkoppgaver.vercel.app/russebil-med-trigonometrisk-fartsfunksjon/) | trigonometri, integral, derivasjon | ✔︎ |
-| [2-5](#oppgave-2-5) | [Rekursiv formel og programmering](https://matematikkoppgaver.vercel.app/rekursiv-formel-og-programmering/) | programmering, rekursiv sammenheng | ✔︎ |
+| [2-5](#oppgave-2-5) | [Rekursiv formel og programmering](https://matematikkoppgaver.vercel.app/rekursiv-formel-og-programmering/) | programmering, rekursiv sammenheng, rekker | ✔︎ |
 | [2-6](#oppgave-2-6) | [Omdreiningslegeme av sirkel om y-aksen](https://matematikkoppgaver.vercel.app/omdreiningslegeme-av-sirkel-om-y-aksen/) | integral, volum, omdreiningslegeme, bevis | ✔︎ |
 
 # Del 1

@@ -22,7 +22,7 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [Instagram-følgere eksponentiell vekst](https://matematikkoppgaver.vercel.app/instagram-folgere-eksponentiell-vekst/) | eksponentiell vekst, vekstfaktor, prosentvis vekst | ✔︎ |
+| [2-1](#oppgave-2-1) | [Instagram-følgere eksponentiell vekst](https://matematikkoppgaver.vercel.app/instagram-folgere-eksponentiell-vekst/) | eksponentiell vekst, vekstfaktor, prosentvis vekst, regresjon | ✔︎ |
 | [2-2](#oppgave-2-2) | [Skiturstatistikk Solveig og Miriam](https://matematikkoppgaver.vercel.app/skiturstatistikk-solveig-og-miriam/) | statistikk, kumulativ frekvens, sentralmål, spredningsmål | ✔︎ |
 | [2-3](#oppgave-2-3) | [Tid brukt på lekser histogram](https://matematikkoppgaver.vercel.app/tid-brukt-pa-lekser-histogram/) | statistikk, diagram, gjennomsnitt, median | ✔︎ |
 | [2-4](#oppgave-2-4) | [Programmering likningssystem Sara og Ole](https://matematikkoppgaver.vercel.app/programmering-likningssystem-sara-og-ole/) | programmering, likningssystem | × |
@@ -53,7 +53,6 @@ $$
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -79,7 +78,6 @@ Tabellen nedenfor viser konsumprisindeksen (KPI) for 2015 og 2023.
 >En vare kostet 500 kroner i 2015. Hva kostet varen i 2023 dersom prisen har fulgt konsumprisindeksen?
 
 ## Fasit
-
 
 </div></div>
 
@@ -544,7 +542,6 @@ Hanne og Henrik skal lage et forslag til hvordan klatreveggen kan utformes, og b
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -603,7 +600,6 @@ Johannes har en brutto månedslønn på 52 000 kroner. Han betaler 1,2 % av brut
 >d) Gjør beregninger, og vurder om Johannes har råd til å kjøpe leiligheten.
 
 ## Fasit
-
 
 </div></div>
 

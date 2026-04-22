@@ -24,8 +24,8 @@ Table: {.eksamen-oversikt}
 | [2-1](#oppgave-2-1) | [Brudebukett og elevbedrifter](https://matematikkoppgaver.vercel.app/brudebukett-og-elevbedrifter/) | regneark, anbud, økonomi | × |
 | [2-2](#oppgave-2-2) | [Hette til krakk og stoffsvinn](https://matematikkoppgaver.vercel.app/hette-til-krakk-og-stoffsvinn/) | areal, omkrets, prosentregning | × |
 | [2-3](#oppgave-2-3) | [Lærlinglønn i fire halvår](https://matematikkoppgaver.vercel.app/laerlinglonn-i-fire-halvar/) | prosentregning, økonomi | × |
-| [2-4](#oppgave-2-4) | [Ludvigs dusjregnskap](https://matematikkoppgaver.vercel.app/ludvigs-dusjregnskap/) | excel | ✔︎ |
-| [2-5](#oppgave-2-5) | [Martines studielån](https://matematikkoppgaver.vercel.app/martines-studielan/) | lån, excel | ✔︎ |
+| [2-4](#oppgave-2-4) | [Ludvigs dusjregnskap](https://matematikkoppgaver.vercel.app/ludvigs-dusjregnskap/) | excel, økonomi | ✔︎ |
+| [2-5](#oppgave-2-5) | [Martines studielån](https://matematikkoppgaver.vercel.app/martines-studielan/) | lån, excel, prosentregning | ✔︎ |
 
 # Del 1
 
@@ -246,7 +246,6 @@ En designer har laget en målsatt tegning av veggen og speilet. Speilet måler $
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -297,7 +296,6 @@ De har oppgitt følgende priser for blomster og utstyr:
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -333,7 +331,6 @@ Aina kjøper inn $1{,}20 \mathrm{~m^2}$ stoff til hver krakk, men hun bruker bar
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -371,7 +368,6 @@ En lærling jobber omtrent $1650$ timer i løpet av ett år.
 
 
 ## Løsningsforslag
-
 
 </div></div>
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["figurtall","programmering"],"fag":["1t","1p"],"eksamen":"h25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":6},{"fag":"1p","del":1,"oppgave":6}],"title":"Femkanttall og programmering","status":3,"source":null,"todo":null,"poeng":3,"dg-permalink":"/femkanttall-og-programmering/","lf-source-claude":false,"permalink":"/femkanttall-og-programmering/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-15","aliases":[],"temaer":["figurtall","programmering"],"fag":["1t","1p"],"eksamen":"h25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":6},{"fag":"1p","del":1,"oppgave":6}],"title":"Femkanttall og programmering","status":3,"source":null,"todo":null,"poeng":3,"lf-source-claude":false}}
+{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["figurtall","programmering","rekursiv formel"],"fag":["1t","1p"],"eksamen":"h25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":6},{"fag":"1p","del":1,"oppgave":6}],"title":"Femkanttall og programmering","status":3,"source":null,"todo":null,"poeng":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Simulere Python-program for å finne femkanttall og gjøre rede for at differansen mellom påfølgende tall øker med 3.","dg-permalink":"/femkanttall-og-programmering/","lf-source-claude":false,"permalink":"/femkanttall-og-programmering/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-15","aliases":[],"temaer":["figurtall","programmering","rekursiv formel"],"fag":["1t","1p"],"eksamen":"h25","del":1,"oppgave":6,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":6},{"fag":"1p","del":1,"oppgave":6}],"title":"Femkanttall og programmering","status":3,"source":null,"todo":null,"poeng":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Simulere Python-program for å finne femkanttall og gjøre rede for at differansen mellom påfølgende tall øker med 3.","lf-source-claude":false}}
 ---
 
 
@@ -25,6 +25,7 @@ while tall <= 60:
 
 ## Fasit
 
+Tallene 1, 5, 12, 22, 35, 51 og 70 skrives ut. Siri har oppdaget at antallet nye sirkler øker med 3 fra ett femkanttall til det neste.
 
 ## Løsningsforslag
 

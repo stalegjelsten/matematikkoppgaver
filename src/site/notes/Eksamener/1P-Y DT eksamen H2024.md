@@ -13,7 +13,7 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Plantejord fra to butikker](https://matematikkoppgaver.vercel.app/plantejord-fra-to-butikker/) | prosentregning, enhetskostnad, økonomi | ✔︎ |
 | [1-2](#oppgave-1-2) | [Størst prosentvis prisøkning](https://matematikkoppgaver.vercel.app/storst-prosentvis-prisokning/) | prosentregning, prosentvis endring | ✔︎ |
 | [1-3](#oppgave-1-3) | [Merverdiavgift i Frankrike](https://matematikkoppgaver.vercel.app/merverdiavgift-i-frankrike/) | formler, prosentregning | ✔︎ |
-| [1-4](#oppgave-1-4) | [Vimpler i to størrelser](https://matematikkoppgaver.vercel.app/vimpler-i-to-storrelser/) | areal, geometri, målestokk | × |
+| [1-4](#oppgave-1-4) | [Vimpler i to størrelser](https://matematikkoppgaver.vercel.app/vimpler-i-to-storrelser/) | areal, geometri, målestokk | ✔︎ |
 | [1-5](#oppgave-1-5) | [Blomsterpotte og likebeint trekant](https://matematikkoppgaver.vercel.app/blomsterpotte-og-likebeint-trekant/) | geometri, målestokk | × |
 
 **Del 2** — 3 timer — med hjelpemidler
@@ -209,6 +209,24 @@ En ungdomsbedrift lager vimpler med to forskjellige størrelser: medium og stor.
 
 ## Løsningsforslag
 
+### a
+Hvis størrelsene er formlike så må forholdet mellom sidene være det samme. For medium vimpel ser vi at
+$$
+\frac{\text{Lengde}}{\text{Bredde}}=\frac{200}{50}=4
+$$
+For stor vimpel ser vi også at forholdet mellom lengde og bredde er 4.
+
+**Vimplene er formlike.**
+
+### b
+Vi ser at vimpelen er som en trekant og regner ut arealene ved hjelp av formelen for areal av trekant.
+$$
+\begin{aligned}
+A_{\text{stor}}&=\frac{400 \cdot 100}{2}=200 \mathrm{~cm^{2}} \\
+A_{\text{medium}}&=\frac{200 \cdot 50}{2}=50 \mathrm{~cm^{2}}
+\end{aligned}
+$$
+**Siden $\frac{200}{50}=4$ så er arealet av den store vimpelen 4 ganger større enn medium.**
 
 </div></div>
 
@@ -250,7 +268,6 @@ Elevene i en klasse vil produsere slike stativer. De ser på figuren av trekante
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -306,7 +323,6 @@ Neste år vil Mona ha 2 års praksis i faget, Karim vil ha 5 års praksis i fage
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -352,7 +368,6 @@ De gjør seg noen tanker og stiller noen spørsmål.
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -410,19 +425,13 @@ c) $\approx 2 \, \mathrm{min}$ lengre tid på mandagen
 
 ### 2-3a
 
-> [!note] Excel-oppgave
-> Åpne filen `eriks-bilbruk-losning.xlsx` og ta skjermbilde av regnearket med formler.
 
-Regnearket skal inneholde disse formlene i de grønne cellene:
+![Kostnader for elbil](/img/user/_resources/1py-el-v25-2-3-erik.png){width=50%}
 
-- **Totale kostnader første år** (celle C11): `=SUM(C5:C10)`
-- **Kostnader per kjørte kilometer** (celle C12): `=C11/C2`
+- **Totale kostnader første år** (celle B11): `=SUM(B5:B10)`
+- **Kostnader per kjørte kilometer** (celle B12): `=B11/B2`
 
-Resultater:
-
-$$\text{Totale kostnader} = 64\,000 + 37\,900 + 14\,500 + 19\,100 + 3\,800 + 2\,000 = \underline{\underline{141\,300 \, \mathrm{kr}}}$$
-
-$$\text{Kostnader per km} = \frac{141\,300}{15\,000} = \underline{\underline{9{,}42 \, \mathrm{kr/km}}}$$
+**Erik vil bruke 141 300 kr det første året, det tilsvarer 9,42 kr per km.**
 
 ### 2-3b
 
@@ -432,7 +441,7 @@ $$\text{Netto lønn} = 42\,000 \cdot (1 - 0{,}29) = 42\,000 \cdot 0{,}71 = 29\,8
 Bilkostnadene per måned er:
 $$\frac{141\,300}{12} = 11\,775 \, \mathrm{kr/mnd}$$
 
-Erik har til overs hver måned:
+Etter å ha betalt for husleie og bil sitter Erik igjen med:
 $$29\,820 - 16\,000 - 11\,775 = \underline{\underline{2\,045 \, \mathrm{kr}}}$$
 
 **Erik vil ha $\underline{\underline{2\,045 \, \mathrm{kr}}}$ til overs per måned etter bil og leilighet.**

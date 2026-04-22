@@ -307,7 +307,6 @@ En lege skriver en resept der $2 \mathrm{~gram}$ antibiotika skal blandes med $2
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -351,7 +350,6 @@ En 50 år gammel mann har et hjerte som kan pumpe omtrent $60 \mathrm{~ml}$ blod
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -392,7 +390,6 @@ Det var totalt $104\,003$ brukere av trygghetsalarm i 2020. En trygghetsalarm fo
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -455,7 +452,6 @@ Barnehagen serverer lunsj til barna fem dager i uka.
 
 
 ## Løsningsforslag
-
 
 </div></div>
 

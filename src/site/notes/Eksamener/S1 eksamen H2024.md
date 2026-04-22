@@ -50,6 +50,7 @@ Table: {.eksamen-oversikt}
 
 ## Fasit
 
+$$f'(x)=e^{2x} \cdot \frac{2x+1}{x^{2}}$$
 
 ## Løsningsforslag
 
@@ -93,6 +94,7 @@ print(x)
 
 ## Fasit
 
+Programmet skriver ut $10\,000$.
 
 ## Løsningsforslag
 
@@ -130,6 +132,7 @@ $$
 
 ## Fasit
 
+$x=\log 4$
 
 ## Løsningsforslag
 
@@ -175,6 +178,7 @@ $$
 
 ## Fasit
 
+Grenseverdien er $\frac{1}{2}$.
 
 ## Løsningsforslag
 
@@ -207,6 +211,7 @@ I en kasse ligger det 4 røde, 3 blå og 2 gule kuler. Audun tar tilfeldig to ku
 
 ## Fasit
 
+a) $P(\text{to like}) = \frac{5}{18}$
 
 ## Løsningsforslag
 
@@ -245,6 +250,7 @@ I koordinatsystemet nedenfor ser du grafene til tre funksjoner, $f$, $g$ og $h$.
 
 ## Fasit
 
+Funksjonen $f$ passer til beskrivelsen.
 
 ## Løsningsforslag
 
@@ -290,7 +296,6 @@ I byen Draktenburg bor det 542 000 mennesker.
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -314,6 +319,9 @@ Avgjør om hver enkelt påstand nedenfor er sann eller usann. Forklar tydelig hv
 
 ## Fasit
 
+a) Sann. Den gjennomsnittlige vekstfarten er 5.
+b) Usann. Flere funksjoner kan ha samme grenseverdier, for eksempel $f(x)=\frac{1}{x}$ og $g(x)=\frac{2}{x}$.
+c) Usann. For $a \in \{ -1,0,1 \}$ finnes det flere løsninger.
 
 ## Løsningsforslag
 
@@ -382,7 +390,6 @@ $$f(x) = \log_a(x)$$
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -416,7 +423,6 @@ Hassan endrer vanene sine og kjøper vanlige knekkebrødpakker på hverdager og 
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -438,7 +444,6 @@ Stephanie leier ut parkeringsplasser. Hun leier ut plasser for 1000 kroner per p
 >b) Hva er den største mulige månedlige inntekten som Stephanie kan få?
 
 ## Fasit
-
 
 </div></div>
 
@@ -472,7 +477,6 @@ Skipsmotor AS frykter at høy produksjon vil føre til dårligere kvalitet. De a
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -499,6 +503,7 @@ Anta at 99 % av befolkningen ikke er smittet. En tilfeldig valgt person tar en t
 
 ## Fasit
 
+Sannsynligheten er $\frac{1}{3} \approx 33{,}3 \, \%$.
 
 ## Løsningsforslag
 

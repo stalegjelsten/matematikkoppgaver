@@ -127,6 +127,5 @@ I en bygård er det 40 leiligheter med til sammen 90 rom. Hver leilighet har ent
 
 30 med 2 rom, 10 med 3 rom
 
-
 </div></div>
 

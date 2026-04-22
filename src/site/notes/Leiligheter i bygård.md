@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"temaer":["likningssystem"],"alias":[null],"del":2,"oppgave":2,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":2}],"fag":"1t","eksamen":"h22","dg-publish":true,"title":"Leiligheter i bygård","date":"2023-05-31","modified":"2023-05-31","status":2,"dg-permalink":"/leiligheter-i-bygard/","permalink":"/leiligheter-i-bygard/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"temaer":["likningssystem"],"alias":[null],"del":2,"oppgave":2,"oppgavenummer":[{"fag":"1t","del":2,"oppgave":2}],"fag":"1t","eksamen":"h22","title":"Leiligheter i bygård","date":"2023-05-31","modified":"2023-05-31","status":2}}
+{"alias":[null],"date":"2023-05-31","del":2,"dg-permalink":"/leiligheter-i-bygard/","dg-publish":true,"eksamen":"h22","fag":"1t","modified":"2023-05-31","oppgave":2,"oppgavenummer":[{"del":2,"fag":"1t","oppgave":2}],"status":2,"tags":["oppgave"],"temaer":["likningssystem"],"title":"Leiligheter i bygård","todo":["løsningsforslag"],"permalink":"/leiligheter-i-bygard/","dgPassFrontmatter":true,"dg-note-properties":{"alias":[null],"date":"2023-05-31","del":2,"eksamen":"h22","fag":"1t","modified":"2023-05-31","oppgave":2,"oppgavenummer":[{"del":2,"fag":"1t","oppgave":2}],"status":2,"tags":["oppgave"],"temaer":["likningssystem"],"title":"Leiligheter i bygård","todo":["løsningsforslag"]}}
 ---
 
 

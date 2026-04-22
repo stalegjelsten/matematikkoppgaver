@@ -23,7 +23,7 @@ Table: {.eksamen-oversikt}
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [MAG-sveising og gassflasker](https://matematikkoppgaver.vercel.app/mag-sveising-og-gassflasker/) | økonomi, volum, formler, prosentregning | × |
-| [2-2](#oppgave-2-2) | [Naomi sine søppelbøtter](https://matematikkoppgaver.vercel.app/naomi-sine-soppelbotter/) | volum, areal, geometri, Pytagoras | × |
+| [2-2](#oppgave-2-2) | [Naomi sine søppelbøtter](https://matematikkoppgaver.vercel.app/naomi-sine-soppelbotter/) | volum, areal, geometri, Pytagoras | ✔︎ |
 | [2-3](#oppgave-2-3) | [Ellas BSU-sparing](https://matematikkoppgaver.vercel.app/ellas-bsu-sparing/) | sparing, excel | ✔︎ |
 | [2-4](#oppgave-2-4) | [Fritt fall fra stupeplattform](https://matematikkoppgaver.vercel.app/fritt-fall-fra-stupeplattform/) | formler, likninger | × |
 | [2-5](#oppgave-2-5) | [Fylle svømmebasseng](https://matematikkoppgaver.vercel.app/fylle-svommebasseng/) | formler, tallregning, samlet mengde | × |
@@ -207,7 +207,6 @@ Et annet drivverk i arbeidsbenken drives av følgende to tannhjul:
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -253,7 +252,6 @@ Mikrometeret viser at den midterste diameteren på den ferdige akslingen er $26{
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -308,7 +306,6 @@ En gassflaske veier 20 kg inkludert gassen.
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -401,10 +398,62 @@ Den svarte søppelbøtten ser litt skjev ut. Naomi måler diagonalen på framsid
 
 ## Fasit
 
-
+- Volumet av søppelbøtta er 100,8 liter.
+- Arealet av det blå lokket er $2340 \mathrm{~cm}^{2}$.
+- 34 lokk kan lakkeres med 1 kg pulverlakk.
+- Diagonalen måtte vært ca. 90,35 cm dersom alle vinklene var rette.
+- Siden målt diagonal (88,7 cm) er kortere enn dette, må vinkel $v$ være mindre enn 90°.
 
 ## Løsningsforslag
 
+### Volumet av søppelbøtte
+Jeg gjør om alle målene til desimeter. Da blir volumet i $\mathrm{dm}^{3}=\mathrm{L}$.
+$$
+V=l \cdot b \cdot h = 4{,}2 \cdot 3{,}0 \cdot 8{,}0 = 100{,}8
+$$
+**Volumet er 100,8 liter.**
+
+### Arealet av blått lokk
+Lokket er sannsynligvis produsert som en plate hvor sidekantene er bøyd ned. Jeg tolker oppgaven slik at vi skal finne overflaten til hele lokket.
+
+Areal av de 4 sidekantene:
+$$
+\begin{aligned}
+A &= \textcolor{seagreen}{2} \text{ langsider} \cdot l \cdot h + \textcolor{steelblue}{2} \text{ kortsider} \cdot b \cdot h \\
+&=\textcolor{seagreen}{2} \cdot42 \cdot 8 + \textcolor{steelblue}{2} \cdot 30 \cdot 8 \\
+&=1152 \mathrm{~cm}^{2}
+\end{aligned}
+$$
+Areal av toppen av lokket:
+$$
+\begin{aligned}
+A&=l \cdot b - A_{\text{hull}} \\
+&=42 \cdot 30 - (18 \cdot 4) \\
+&= 1260  - 72 \\
+&= 1188 \mathrm{~cm}^{2}
+\end{aligned}
+$$
+
+**Det totale arealet til lokket er $1152+1188=\underline{\underline{ 2340 \mathrm{~cm}^{2} }}$.**
+
+### Lokk med 1 kg pulverlakk
+1 kg pulverlakk dekker $8 \mathrm{~m}^{2}=8 \cdot 100^{2} \mathrm{~cm}^{2}=80\,000 \mathrm{~cm^{2}}$.
+
+$$
+\frac{80\,000}{2340}=34{,}18
+$$
+**Vi kan dekke 34 lokk med perfekt påføring av 1 kg pulverlakk.**
+
+### Lengde av diagonal
+Vi kan sjekke hva lengden måtte vært med Pytagoras.
+$$
+\text{hypotenus}=\sqrt{ h^{2}+l^{2} }=\sqrt{ 80^{2}+42^{2} }=\underline{\underline{ 90{,}35 \mathrm{~cm}^{2} }}
+$$
+
+### Vinkelen v
+Den målte lengden er $88{,}7 \mathrm{~cm}$. Hvis vinkelen $v$ hadde vært større enn $90\degree$ så ville de to hjørnene i diagonalen blitt spredt lengre fra hverandre. 
+
+**Siden vi nå måler at diagonalen er kortere enn hva vi kunne forvente så må vinkelen $v$ være mindre enn 90 grader.**
 
 </div></div>
 

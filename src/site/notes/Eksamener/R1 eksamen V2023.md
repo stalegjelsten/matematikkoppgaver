@@ -10,7 +10,7 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [1-1](#oppgave-1-1) | [Derivasjon av eksponential og logaritme](https://matematikkoppgaver.vercel.app/derivasjon-av-eksponential-og-logaritme/) | derivasjon | ✔︎ |
+| [1-1](#oppgave-1-1) | [Derivasjon av eksponential og logaritme](https://matematikkoppgaver.vercel.app/derivasjon-av-eksponential-og-logaritme/) | derivasjon, eksponentialfunksjoner, logaritmer | ✔︎ |
 | [1-2](#oppgave-1-2) | [Grenseverdi når x går mot 2](https://matematikkoppgaver.vercel.app/grenseverdi-nar-x-gar-mot-2/) | grenseverdi, derivasjon, funksjoner, asymptoter | × |
 | [1-3](#oppgave-1-3) | [Vinkler og vinkelrette vektorer](https://matematikkoppgaver.vercel.app/vinkler-og-vinkelrette-vektorer/) | vektorer, geometri | × |
 | [1-4](#oppgave-1-4) | [Optimering av rektangelareal og program](https://matematikkoppgaver.vercel.app/optimering-av-rektangelareal-og-program/) | optimering, programmering, derivasjon | × |
@@ -123,7 +123,6 @@ Et punkt $P$ ligger på linjen som går gjennom $B$ og $C$.
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -174,7 +173,6 @@ print(t)
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -306,7 +304,6 @@ Et parallellogram $ABCD$ er bestemt ved at $\overrightarrow{AB} = \vec{u}$ og $\
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -451,7 +448,6 @@ Siden tredjegradsfunksjonen krysser $x$-aksen så må den deriverte bytte forteg
 > [!warning] Mangler løsning
 > Jeg husker ikke omvendte funksjoner godt nok til å svare på denne akkurat nå... :^)
 
-
 </div></div>
 
 
@@ -479,7 +475,6 @@ Nedenfor har vi tegnet grafene til fire funksjoner $f$, $g$, $h$ og $k$.
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -619,7 +614,6 @@ $$f(x) = x^2 + 2x$$
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -663,7 +657,6 @@ I denne oppgaven skal du bruke algoritmen nedenfor til å finne en tilnærmet ve
 
 
 ## Løsningsforslag
-
 
 </div></div>
 

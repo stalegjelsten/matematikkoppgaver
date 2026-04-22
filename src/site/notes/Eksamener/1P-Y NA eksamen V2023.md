@@ -24,8 +24,8 @@ Table: {.eksamen-oversikt}
 | [2-1](#oppgave-2-1) | [Flo og fjære og lufteområde for hester](https://matematikkoppgaver.vercel.app/flo-og-fjaere-og-lufteomrade-for-hester/) | Pytagoras, areal, omkrets | × |
 | [2-2](#oppgave-2-2) | [Fiskebåt regnskap og fangst](https://matematikkoppgaver.vercel.app/fiskebat-regnskap-og-fangst/) | regneark, økonomi, presentasjon av data | × |
 | [2-3](#oppgave-2-3) | [Lærlinglønn i fire halvår](https://matematikkoppgaver.vercel.app/laerlinglonn-i-fire-halvar/) | prosentregning, økonomi | × |
-| [2-4](#oppgave-2-4) | [Ludvigs dusjregnskap](https://matematikkoppgaver.vercel.app/ludvigs-dusjregnskap/) | excel | ✔︎ |
-| [2-5](#oppgave-2-5) | [Martines studielån](https://matematikkoppgaver.vercel.app/martines-studielan/) | lån, excel | ✔︎ |
+| [2-4](#oppgave-2-4) | [Ludvigs dusjregnskap](https://matematikkoppgaver.vercel.app/ludvigs-dusjregnskap/) | excel, økonomi | ✔︎ |
+| [2-5](#oppgave-2-5) | [Martines studielån](https://matematikkoppgaver.vercel.app/martines-studielan/) | lån, excel, prosentregning | ✔︎ |
 
 # Del 1
 
@@ -254,7 +254,6 @@ En måling med linjal viser at det er $15 \mathrm{~cm}$ ut til et fiskefelt på 
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -302,7 +301,6 @@ Han vurderer flere alternativer for hvilken form lufteplassen skal ha.
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -359,7 +357,6 @@ Magnus har laget en oversikt over de ulike fiske- og skalldyrsortene han har fis
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -396,7 +393,6 @@ En lærling jobber omtrent $1650$ timer i løpet av ett år.
 
 
 ## Løsningsforslag
-
 
 </div></div>
 

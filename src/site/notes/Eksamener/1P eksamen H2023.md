@@ -96,7 +96,6 @@ Opplysningene ovenfor er hentet fra ssb.no.
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -120,7 +119,6 @@ Ohms lov sier at strømmen ($I$) gjennom en metallisk leder med konstant tempera
 >2. Hvis vi øker motstanden, vil strømmen også øke.
 
 ## Fasit
-
 
 </div></div>
 
@@ -177,7 +175,6 @@ Sondre påstår at modellen han har funnet, viser at alderen til en hund er prop
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -208,7 +205,6 @@ Dennis vil kjøpe en ny bil som koster 490 000 kroner.
 >Sett opp et regnestykke som vil gi bilens verdi etter 2 år.
 
 ## Fasit
-
 
 </div></div>
 
@@ -290,7 +286,6 @@ Sofie har et rektangelformet uteområde. Hun vil endre på dette området ved å
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -322,7 +317,6 @@ Jordens radius er 6378 km ved ekvator.
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -352,7 +346,6 @@ Han finner informasjonen nedenfor på helsenorge.no
 >Gjør antakelser og beregninger, og vurder om Snorre bør kontakte veterinær.
 
 ## Fasit
-
 
 </div></div>
 
@@ -400,7 +393,6 @@ Martin og Maria diskuterer hvordan de skal komme i gang, og vurderer ulike strat
 >Ta utgangspunkt i samtalen mellom Martin og Maria, og løs oppgaven klassen har fått.
 
 ## Fasit
-
 
 </div></div>
 

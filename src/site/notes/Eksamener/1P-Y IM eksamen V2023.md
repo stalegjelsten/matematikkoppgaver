@@ -24,8 +24,8 @@ Table: {.eksamen-oversikt}
 | [2-1](#oppgave-2-1) | [Mediebruk i Norge og diagram](https://matematikkoppgaver.vercel.app/mediebruk-i-norge-og-diagram/) | grafisk framstilling, presentasjon av data | × |
 | [2-2](#oppgave-2-2) | [Logo skalering og målestokk](https://matematikkoppgaver.vercel.app/logo-skalering-og-malestokk/) | målestokk, areal | × |
 | [2-3](#oppgave-2-3) | [Elevbedrift T-skjorter og hettegensere](https://matematikkoppgaver.vercel.app/elevbedrift-t-skjorter-og-hettegensere/) | regneark, økonomi | × |
-| [2-4](#oppgave-2-4) | [Ludvigs dusjregnskap](https://matematikkoppgaver.vercel.app/ludvigs-dusjregnskap/) | excel | ✔︎ |
-| [2-5](#oppgave-2-5) | [Martines studielån](https://matematikkoppgaver.vercel.app/martines-studielan/) | lån, excel | ✔︎ |
+| [2-4](#oppgave-2-4) | [Ludvigs dusjregnskap](https://matematikkoppgaver.vercel.app/ludvigs-dusjregnskap/) | excel, økonomi | ✔︎ |
+| [2-5](#oppgave-2-5) | [Martines studielån](https://matematikkoppgaver.vercel.app/martines-studielan/) | lån, excel, prosentregning | ✔︎ |
 
 # Del 1
 
@@ -262,7 +262,6 @@ $v_s$ er vinkelsummen, og $n$ er antall sider i mangekanten.
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -306,7 +305,6 @@ Renate skal lage en grafisk framstilling av bruk av ulike medier i Norge i 2021.
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -334,7 +332,6 @@ Figuren over er en logo til skjermbruk med dimensjonene $560 \times 480$ piksler
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -372,7 +369,6 @@ Elevbedriften har fått $4200 \mathrm{~kr}$ i startkapital av skolen. De regner 
 
 
 ## Løsningsforslag
-
 
 </div></div>
 

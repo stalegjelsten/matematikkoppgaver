@@ -310,7 +310,6 @@ Bordet må lakkeres. De trenger:
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -346,7 +345,6 @@ Beate lager regning til en kunde. Hun legger til $25\,\%$ merverdiavgift. Prisen
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -397,7 +395,6 @@ Fra januar skal frisørsalongen øke prisene på klipp med $5\,\%$. De vil runde
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -446,7 +443,6 @@ Tapeten i hver rull har lengde $1005 \mathrm{~cm}$ og bredde $53 \mathrm{~cm}$.
 
 
 ## Løsningsforslag
-
 
 </div></div>
 

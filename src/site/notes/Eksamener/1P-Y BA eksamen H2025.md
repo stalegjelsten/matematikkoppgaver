@@ -195,7 +195,6 @@ Veggen er 6 meter lang.
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -235,7 +234,6 @@ Amanda stiller seg noen spørsmål før hun setter i gang med arbeidet:
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -270,7 +268,6 @@ Tegningen nedenfor viser en takkonstruksjon/endevegg av en liten hytte.
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -327,7 +324,6 @@ Christian har fått i arbeid å restaurere taket og legge nye taksteiner som er 
 
 
 ## Løsningsforslag
-
 
 </div></div>
 

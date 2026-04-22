@@ -15,7 +15,7 @@ Table: {.eksamen-oversikt}
 | [1-3](#oppgave-1-3) | [Vekt på sekker med hundemat](https://matematikkoppgaver.vercel.app/vekt-pa-sekker-med-hundemat/) | likningssystem | × |
 | [1-4](#oppgave-1-4) | [Areal og omkrets av halvsirkel og trekant](https://matematikkoppgaver.vercel.app/areal-og-omkrets-av-halvsirkel-og-trekant/) | geometri, areal | × |
 | [1-5](#oppgave-1-5) | [Nedbetalingsplan for Marcos lån](https://matematikkoppgaver.vercel.app/nedbetalingsplan-for-marcos-lan/) | lån | × |
-| [1-6](#oppgave-1-6) | [Median og gjennomsnitt fra klassedelt alder](https://matematikkoppgaver.vercel.app/median-og-gjennomsnitt-fra-klassedelt-alder/) | sentralmål | ✔︎ |
+| [1-6](#oppgave-1-6) | [Median og gjennomsnitt fra klassedelt alder](https://matematikkoppgaver.vercel.app/median-og-gjennomsnitt-fra-klassedelt-alder/) | sentralmål, gjennomsnitt, grupperte data, argumentasjon | ✔︎ |
 | [1-7](#oppgave-1-7) | [Program for reduksjon av matsvinn](https://matematikkoppgaver.vercel.app/program-for-reduksjon-av-matsvinn/) | programmering, eksponentialfunksjoner | ✔︎ |
 
 **Del 2** — 3 timer — med hjelpemidler
@@ -27,9 +27,9 @@ Table: {.eksamen-oversikt}
 | [2-1](#oppgave-2-1) | [Modell for reduksjon av utslipp](https://matematikkoppgaver.vercel.app/modell-for-reduksjon-av-utslipp/) | eksponentialfunksjoner, geogebra, funksjoner | ✔︎ |
 | [2-2](#oppgave-2-2) | [Påstander om gjennomsnitt og median i et rom](https://matematikkoppgaver.vercel.app/pastander-om-gjennomsnitt-og-median-i-et-rom/) | sentralmål | ✔︎ |
 | [2-3](#oppgave-2-3) | [Formlike trekanter over elv](https://matematikkoppgaver.vercel.app/formlike-trekanter-over-elv/) | geometri, formlikhet | × |
-| [2-4](#oppgave-2-4) | [Halvert fuglebestand](https://matematikkoppgaver.vercel.app/halvert-fuglebestand/) | eksponentialfunksjoner | ✔︎ |
+| [2-4](#oppgave-2-4) | [Halvert fuglebestand](https://matematikkoppgaver.vercel.app/halvert-fuglebestand/) | eksponentialfunksjoner, regresjon, vekstfaktor | ✔︎ |
 | [2-5](#oppgave-2-5) | [Husleie regulert etter KPI](https://matematikkoppgaver.vercel.app/husleie-regulert-etter-kpi/) | prosentregning, prosentvis endring, prisindeks | × |
-| [2-6](#oppgave-2-6) | [Lag presentasjon som viser døds- og fødselsrate](https://matematikkoppgaver.vercel.app/lag-presentasjon-som-viser-dods-og-fodselsrate/) | presentasjon av data | ✔︎ |
+| [2-6](#oppgave-2-6) | [Lag presentasjon som viser døds- og fødselsrate](https://matematikkoppgaver.vercel.app/lag-presentasjon-som-viser-dods-og-fodselsrate/) | presentasjon av data, prosentregning, diagram | ✔︎ |
 
 # Del 1
 
@@ -134,7 +134,6 @@ Lotta har kjøpt fire små og to store sekker med hundemat. Sekkene veier til sa
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -161,7 +160,6 @@ Et område har form som en halvsirkel med radius $r = 1{,}0 \mathrm{~m}$. Et ann
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -185,7 +183,6 @@ Marco har tatt opp et lån med fast årlig rente. Lånet skal betales tilbake i 
 >b) Er dette et annuitetslån eller et serielån? Husk å begrunne svaret.
 
 ## Fasit
-
 
 </div></div>
 
@@ -476,7 +473,6 @@ Kari skal over en elv. Hun har laget skissen ovenfor. Avstanden fra $A$ til $D$ 
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -571,7 +567,6 @@ I oktober 2024 fikk Felix varsel fra huseieren om at leien igjen skulle settes o
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -613,6 +608,7 @@ Presentasjonen skal inneholde
 
 ## Fasit
 
+Oppgaven er åpen og har mange mulige svar. Se løsningsforslag for et eksempel.
 
 ## Løsningsforslag
 

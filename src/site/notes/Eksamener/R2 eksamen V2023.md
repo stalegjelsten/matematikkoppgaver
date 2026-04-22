@@ -22,10 +22,10 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [Regresjon på størrelsen av det norske musikkstrømmemarkedet](https://matematikkoppgaver.vercel.app/regresjon-pa-storrelsen-av-det-norske-musikkstrommemarkedet/) | regresjon, logistisk funksjon, derivasjon, funksjoner, tolkning av integraler, integral, samlet mengde | × |
+| [2-1](#oppgave-2-1) | [Regresjon på størrelsen av det norske musikkstrømmemarkedet](https://matematikkoppgaver.vercel.app/regresjon-pa-storrelsen-av-det-norske-musikkstrommemarkedet/) | regresjon, logistisk funksjon, derivasjon, funksjoner, tolkning av integraler, integral, samlet mengde | ✔︎ |
 | [2-2](#oppgave-2-2) | [Parallelle plan og kule](https://matematikkoppgaver.vercel.app/parallelle-plan-og-kule/) | vektorer, geometri | × |
 | [2-3](#oppgave-2-3) | [Banefart til 3D-printer](https://matematikkoppgaver.vercel.app/banefart-til-3-d-printer/) | vektorer, derivasjon | × |
-| [2-4](#oppgave-2-4) | [Hildegunns ukepenger](https://matematikkoppgaver.vercel.app/hildegunns-ukepenger/) | excel, rekker | × |
+| [2-4](#oppgave-2-4) | [Hildegunns ukepenger](https://matematikkoppgaver.vercel.app/hildegunns-ukepenger/) | excel, rekker, aritmetisk rekke, geometrisk rekke | ✔︎ |
 | [2-5](#oppgave-2-5) | [Omdreiingslegeme til trigonometrisk funksjon](https://matematikkoppgaver.vercel.app/omdreiingslegeme-til-trigonometrisk-funksjon/) | integral, omdreiningslegeme, trigonometri | × |
 | [2-6](#oppgave-2-6) | [Grafens lengde med polylinje](https://matematikkoppgaver.vercel.app/grafens-lengde-med-polylinje/) | integral, programmering | × |
 
@@ -50,7 +50,6 @@ Regn ut integralene
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -71,7 +70,6 @@ Regn ut integralene
 >$$\int \frac{1 + \tan^2 x}{\tan x} \, dx$$
 
 ## Fasit
-
 
 </div></div>
 
@@ -97,7 +95,6 @@ Punktene $A(0,0,0)$, $B(5,0,0)$, $C(4,2,0)$ og $T(0,0,5)$ danner en pyramide, sl
 >c) Bestem avstanden fra $A$ til planet som går gjennom $B$, $C$ og $T$.
 
 ## Fasit
-
 
 </div></div>
 
@@ -135,7 +132,6 @@ print(S)
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -164,7 +160,6 @@ I figuren nedenfor er $AB = AD = 1$, og buen $BD$ er del av en sirkel med sentru
 >c) Bruk ulikhetene fra oppgave b til å begrunne at $\lim_{v \to 0^+} \dfrac{\sin v}{v} = 1$.
 
 ## Fasit
-
 
 </div></div>
 
@@ -270,7 +265,6 @@ En kule tangerer $\alpha$ i punktet $A$ og $\beta$ i et punkt $Q$.
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -297,7 +291,6 @@ Her er cm enheten langs aksene.
 >c) Avgjør om fartsretningen noen gang er parallell med $xy$-planet eller parallell med $yz$-planet. Husk å begrunne svaret.
 
 ## Fasit
-
 
 </div></div>
 
@@ -386,7 +379,6 @@ Omdreiingslegemet skal plasseres i en rett kjegle med radius 4 og volum 45.
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -437,7 +429,6 @@ $$g(x) = \sqrt{1 - x^2}, \quad D_g = [-1, 1]$$
 >b) Regn ut en god tilnærmet verdi for lengden av grafen til $g$ ved å bruke framgangsmåten beskrevet ovenfor. Vurder om svaret er rimelig.
 
 ## Fasit
-
 
 </div></div>
 

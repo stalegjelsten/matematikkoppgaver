@@ -10,12 +10,12 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [1-1](#oppgave-1-1) | [Bestemt integral 3](https://matematikkoppgaver.vercel.app/bestemt-integral-3/) | integral | ✔︎ |
+| [1-1](#oppgave-1-1) | [Bestemt integral 3](https://matematikkoppgaver.vercel.app/bestemt-integral-3/) | integral, bestemt integral, tolkning av integraler | ✔︎ |
 | [1-2](#oppgave-1-2) | [Areal mellom cosinus og sinus](https://matematikkoppgaver.vercel.app/areal-mellom-cosinus-og-sinus/) | integral, areal under graf, trigonometri | × |
-| [1-3a](#oppgave-1-3a) | [Uendelig geometrisk rekke](https://matematikkoppgaver.vercel.app/uendelig-geometrisk-rekke/) | uendelig rekke, rekker | ✔︎ |
-| [1-3b](#oppgave-1-3b) | [Aritmetisk rekke](https://matematikkoppgaver.vercel.app/aritmetisk-rekke/) | rekker | ✔︎ |
+| [1-3a](#oppgave-1-3a) | [Uendelig geometrisk rekke](https://matematikkoppgaver.vercel.app/uendelig-geometrisk-rekke/) | uendelig rekke, rekker, geometrisk rekke | ✔︎ |
+| [1-3b](#oppgave-1-3b) | [Aritmetisk rekke](https://matematikkoppgaver.vercel.app/aritmetisk-rekke/) | rekker, aritmetisk rekke | ✔︎ |
 | [1-4](#oppgave-1-4) | [Plan, normalvektor og avstand til punkt](https://matematikkoppgaver.vercel.app/plan-normalvektor-og-avstand-til-punkt/) | vektorer, geometri | × |
-| [1-5](#oppgave-1-5) | [Ukjent program h23](https://matematikkoppgaver.vercel.app/ukjent-program-h23/) | programmering | ✔︎ |
+| [1-5](#oppgave-1-5) | [Ukjent program h23](https://matematikkoppgaver.vercel.app/ukjent-program-h23/) | programmering, numerisk integrasjon, integral, areal under graf | ✔︎ |
 | [1-6](#oppgave-1-6) | [Areal av sideflaten i avkortet pyramide](https://matematikkoppgaver.vercel.app/areal-av-sideflaten-i-avkortet-pyramide/) | vektorer, areal, geometri | × |
 
 **Del 2** — 3 timer — med hjelpemidler
@@ -47,7 +47,7 @@ Table: {.eksamen-oversikt}
 Regn ut integralet
 
 $$
-\int_{-1}^{1} \left( x^{3}+2x \right)  \, dx 
+\int_{-1}^{1} \left( x^{3}+2x \right)  \, \mathrm{d}x 
 $$
 Hva forteller svaret deg?
 
@@ -97,7 +97,6 @@ Figuren nedenfor viser grafene til funksjonene $f$ og $g$, der $f(x) = \cos x$ o
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -206,7 +205,6 @@ Vi har gitt punktet $A(4,\ 2,\ 2)$.
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -246,6 +244,9 @@ print(S)
 >b) Finn ved regning den verdien eleven ønsker å bestemme.
 
 ## Fasit
+
+a) Programmet regner ut en tilnærming til arealet mellom $x$-aksen, grafen til $f(x)=x^{2}-1$ og linjene $x=-2$ og $x=2$.
+b) Verdien er 4.
 
 ## Løsningsforslag
 
@@ -317,7 +318,6 @@ Figuren viser en rett avkortet pyramide med hjørner i punktene $O(0,0,0)$, $A(4
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -360,7 +360,6 @@ Det vil ta 2 timer å slepe ut oljeplattformen.
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -392,7 +391,6 @@ De fem første figurtallene er 1, 6, 16, 31 og 51.
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -421,7 +419,6 @@ Siden i tønnen fra toppen til bunnen er formet som en parabel.
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -458,7 +455,6 @@ Ved to tidspunkter i løpet av døgnet er mengden luftforurensning $27 \text{ μ
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -500,7 +496,6 @@ $$\vec{r}_2(t) = [\sin t,\ t,\ 2\sin t + 1]$$
 
 
 ## Løsningsforslag
-
 
 </div></div>
 

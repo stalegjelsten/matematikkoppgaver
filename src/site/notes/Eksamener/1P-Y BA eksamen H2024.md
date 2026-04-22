@@ -207,9 +207,36 @@ Du får to tilbud på kledning til veggen:
 
 ## Fasit
 
-
+a) $89$ løpemeter
+b) Tilbud 1 er billigst ($1\,890 \, \mathrm{kr}$ mot $2\,047 \, \mathrm{kr}$)
 
 ## Løsningsforslag
+
+### a
+
+Det går med $8{,}9$ løpemeter per $\mathrm{m^2}$, og veggen er $10 \, \mathrm{m^2}$:
+
+$$10 \cdot 8{,}9 = \underline{\underline{89 \text{ løpemeter}}}$$
+
+**Du trenger $\underline{\underline{89 \text{ løpemeter}}}$ med kledning.**
+
+### b
+
+Vi gjør et overslag ved å runde prisene:
+
+**Tilbud 1** gir pris per $\mathrm{m^2}$. Vi trenger $10 \, \mathrm{m^2}$:
+
+$$\approx 190 \cdot 10 = 1\,900 \, \mathrm{kr}$$
+
+**Tilbud 2** gir pris per løpemeter. Vi finner prisen for $1 \, \mathrm{m^2}$ og ganger opp:
+
+$$\approx 20 \cdot 10 = 200 \, \mathrm{kr/m^2}$$
+
+$$200 \cdot 10 = 2\,000 \, \mathrm{kr}$$
+
+**Tilbud 1 er billigst** med ca. $1\,900 \, \mathrm{kr}$ mot ca. $2\,000 \, \mathrm{kr}$ for tilbud 2.
+
+Eksakt: Tilbud 1 koster $189 \cdot 10 = 1\,890 \, \mathrm{kr}$ og tilbud 2 koster $23 \cdot 89 = 2\,047 \, \mathrm{kr}$, en forskjell på $\underline{\underline{157 \, \mathrm{kr}}}$.
 
 
 </div></div>
@@ -254,9 +281,37 @@ Elevene i klassen ser på arbeidstegningen og kapplisten og stiller seg noen sp�
 
 ## Fasit
 
-
+Bindingsverket: $48 \, \mathrm{m}$ med 48 x 98 plank. Taksperr med svinn: $9\,900 \, \mathrm{mm}$.
 
 ## Løsningsforslag
+
+**Spørsmål 1 – meter med 48 x 98 plank til bindingsverket**
+
+Bindingsverket består av sviller (pos 3–6), stendere (pos 7) og losholter (pos 8). Vi leser av «Sum»-kolonnen i kapplisten og legger sammen:
+
+| Pos | Type | Sum (m) |
+|-----|------|---------|
+| 3 | Svill | 8 |
+| 4 | Svill | 4 |
+| 5 | Svill | 3 |
+| 6 | Svill | 6 |
+| 7 | Stender | 24 |
+| 8 | Losholt | 3 |
+| | **Totalt** | **48** |
+
+**Det går med $\underline{\underline{48 \, \mathrm{m}}}$ med 48 x 98 mm plank til bindingsverket.**
+
+**Spørsmål 2 – taksperr med 10 % svinn i millimeter**
+
+Materialforbruket til taksperren er $9{,}0 \, \mathrm{m}$. Vi legger til 10 % svinn:
+
+$$9{,}0 \cdot 1{,}10 = 9{,}9 \, \mathrm{m}$$
+
+Vi gjør om til millimeter:
+
+$$9{,}9 \, \mathrm{m} = 9{,}9 \cdot 1000 = \underline{\underline{9\,900 \, \mathrm{mm}}}$$
+
+**Det totale materialforbruket til taksperren med svinn er $\underline{\underline{9\,900 \, \mathrm{mm}}}$.**
 
 
 </div></div>
@@ -294,9 +349,55 @@ Høyden på terrassen utgjør til sammen 226 mm.
 
 ## Fasit
 
-
+a) $28{,}08 \, \mathrm{m^2}$
+b) $\approx 85{,}9 \, \mathrm{dm}$
+c) $\approx 769 \, \mathrm{liter}$
 
 ## Løsningsforslag
+
+### a
+
+Fra plantegningen leser vi at terrassen er $7800 \, \mathrm{mm}$ lang og $3600 \, \mathrm{mm}$ bred. Vi regner om til meter:
+
+$$7800 \, \mathrm{mm} = 7{,}8 \, \mathrm{m} \qquad 3600 \, \mathrm{mm} = 3{,}6 \, \mathrm{m}$$
+
+Arealet av terrassen (inkludert sandkassen) er:
+
+$$A = 7{,}8 \cdot 3{,}6 = \underline{\underline{28{,}08 \, \mathrm{m^2}}}$$
+
+**Arealet av terrassen inkludert sandkassen er $\underline{\underline{28{,}08 \, \mathrm{m^2}}}$.**
+
+### b
+
+Hjørnene er $90\degree$, så vi bruker Pytagoras' setning for å finne diagonalen $d$:
+
+$$d = \sqrt{7{,}8^2 + 3{,}6^2} = \sqrt{60{,}84 + 12{,}96} = \sqrt{73{,}8} \approx 8{,}59 \, \mathrm{m}$$
+
+Vi gjør om til desimeter ($1 \, \mathrm{m} = 10 \, \mathrm{dm}$):
+
+$$d \approx 8{,}59 \cdot 10 = \underline{\underline{85{,}9 \, \mathrm{dm}}}$$
+
+**Diagonalen er omtrent $\underline{\underline{85{,}9 \, \mathrm{dm}}}$.**
+
+### c
+
+Fra plantegningen leser vi at sandkassen har ytre mål $3000 \, \mathrm{mm} \times 1200 \, \mathrm{mm}$. Vi trekker fra bredden på stenderverket ($48 \, \mathrm{mm}$) for å finne indre mål:
+
+$$l = 3000 - 48 = 2952 \, \mathrm{mm} = 29{,}52 \, \mathrm{dm}$$
+
+$$b = 1200 - 48 = 1152 \, \mathrm{mm} = 11{,}52 \, \mathrm{dm}$$
+
+Høyden på terrassen er $226 \, \mathrm{mm} = 2{,}26 \, \mathrm{dm}$.
+
+Volumet blir:
+
+$$V = 29{,}52 \cdot 11{,}52 \cdot 2{,}26 = 768{,}56 \, \mathrm{dm^3}$$
+
+Siden $1 \, \mathrm{dm^3} = 1 \, \mathrm{liter}$:
+
+$$V \approx \underline{\underline{769 \, \mathrm{liter}}}$$
+
+**Det er plass til drøye $\underline{\underline{769 \, \mathrm{liter}}}$ med sand i sandkassen.**
 
 
 </div></div>
@@ -348,6 +449,59 @@ Elevene i ungdomsbedriften gjør seg noen tanker og stiller noen spørsmål:
 Gjør beregninger og vurderinger og finn ut mest mulig av det elevene lurer på.
 
 ## Fasit
+
+Total kostnad med mva.: $4\,940 \, \mathrm{kr}$. Tap ved 200 kr/stk: $940 \, \mathrm{kr}$. Breakeven: $247 \, \mathrm{kr/stk}$. Utbetaling: Cato $2\,316 \, \mathrm{kr}$, Bodil $2\,039 \, \mathrm{kr}$, Anita $2\,594 \, \mathrm{kr}$, Johannes $2\,039 \, \mathrm{kr}$.
+
+## Løsningsforslag
+
+**Grønn boks – kostnadsoversikt med mva.**
+
+Vi lager et regneark som beregner totalpris og totalpris inkludert 25 % mva. for hver vare:
+
+![Regneark for kostnadsoversikt. Kilde: Udir](/img/user/_resources/1pyba-h24-2-2-regneark-udir.png){width=80%}
+
+Formlene i regnearket:
+- **Totalpris** (kolonne D): `=B3*C3` (pris per enhet × antall)
+- **Totalpris inkl. mva.** (kolonne E): `=D3*1,25`
+- **Sum** (rad 8): `=SUMMER(D3:D7)` og `=SUMMER(E3:E7)`
+
+**Totalkostnad inkludert mva. er $\underline{\underline{4\,940 \, \mathrm{kr}}}$.**
+
+---
+
+**Gul boks – tjener eller taper ved 200 kr per fuglekasse?**
+
+Totalinntekt ved salg: $200 \cdot 20 = 4\,000 \, \mathrm{kr}$
+
+$$\text{Over/Underskudd} = 4\,000 - 4\,940 = -940 \, \mathrm{kr}$$
+
+**De går med $\underline{\underline{940 \, \mathrm{kr}}}$ i underskudd** om fuglekassene selges for 200 kr per stk.
+
+For at alle utgifter skal dekkes må hver kasse koste:
+
+$$\frac{4\,940}{20} = \underline{\underline{247 \, \mathrm{kr}}}$$
+
+---
+
+**Blå boks – fordeling av fortjeneste etter arbeidstimer**
+
+Beløpet som skal utbetales:
+
+$$12\,840 \cdot 0{,}70 = 8\,988 \, \mathrm{kr}$$
+
+Totalt antall timer: $25 + 22 + 28 + 22 = 97$ timer
+
+Sats per time: $\dfrac{8\,988}{97} \approx 92{,}66 \, \mathrm{kr/time}$
+
+Formel i regnearket: `=B31*(B$28/B$35)` (timer × utbetalingsbeløp / totaltimer)
+
+| Navn | Timer | Lønn |
+|---|:---:|---:|
+| Cato | 25 | $2\,316{,}49 \, \mathrm{kr}$ |
+| Bodil | 22 | $2\,038{,}52 \, \mathrm{kr}$ |
+| Anita | 28 | $2\,594{,}47 \, \mathrm{kr}$ |
+| Johannes | 22 | $2\,038{,}52 \, \mathrm{kr}$ |
+| **Sum** | **97** | **$8\,988{,}00 \, \mathrm{kr}$** |
 
 
 </div></div>
@@ -406,19 +560,13 @@ c) $\approx 2 \, \mathrm{min}$ lengre tid på mandagen
 
 ### 2-3a
 
-> [!note] Excel-oppgave
-> Åpne filen `eriks-bilbruk-losning.xlsx` og ta skjermbilde av regnearket med formler.
 
-Regnearket skal inneholde disse formlene i de grønne cellene:
+![Kostnader for elbil](/img/user/_resources/1py-el-v25-2-3-erik.png){width=50%}
 
-- **Totale kostnader første år** (celle C11): `=SUM(C5:C10)`
-- **Kostnader per kjørte kilometer** (celle C12): `=C11/C2`
+- **Totale kostnader første år** (celle B11): `=SUM(B5:B10)`
+- **Kostnader per kjørte kilometer** (celle B12): `=B11/B2`
 
-Resultater:
-
-$$\text{Totale kostnader} = 64\,000 + 37\,900 + 14\,500 + 19\,100 + 3\,800 + 2\,000 = \underline{\underline{141\,300 \, \mathrm{kr}}}$$
-
-$$\text{Kostnader per km} = \frac{141\,300}{15\,000} = \underline{\underline{9{,}42 \, \mathrm{kr/km}}}$$
+**Erik vil bruke 141 300 kr det første året, det tilsvarer 9,42 kr per km.**
 
 ### 2-3b
 
@@ -428,7 +576,7 @@ $$\text{Netto lønn} = 42\,000 \cdot (1 - 0{,}29) = 42\,000 \cdot 0{,}71 = 29\,8
 Bilkostnadene per måned er:
 $$\frac{141\,300}{12} = 11\,775 \, \mathrm{kr/mnd}$$
 
-Erik har til overs hver måned:
+Etter å ha betalt for husleie og bil sitter Erik igjen med:
 $$29\,820 - 16\,000 - 11\,775 = \underline{\underline{2\,045 \, \mathrm{kr}}}$$
 
 **Erik vil ha $\underline{\underline{2\,045 \, \mathrm{kr}}}$ til overs per måned etter bil og leilighet.**

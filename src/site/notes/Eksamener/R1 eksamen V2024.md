@@ -93,7 +93,6 @@ $$
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -117,7 +116,6 @@ $$f(x) = e^{-x+1}, \quad D_f = \mathbb{R}.$$
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -139,7 +137,6 @@ Vi har gitt tre punkter $A(3, 4)$, $B(-1, -2)$ og $C(3+t, 2t)$ der $t \in \mathb
 >b) Bestem $t$ slik at punktene $A$, $B$ og $C$ danner en trekant slik at $\angle C = 90\degree$.
 
 ## Fasit
-
 
 </div></div>
 
@@ -168,7 +165,6 @@ $$f(x) = \begin{cases} x\text{,}  & 0 \le x \le 2 \\ 5 - x\text{,} \quad  & 2 < 
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -196,7 +192,6 @@ $$S(t) = \frac{300}{1 + 28 \cdot e^{-0{,}3t}}.$$
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -223,7 +218,6 @@ Avgjør om hver av påstandene nedenfor er sann eller usann. Forklar tydelig hvo
 >c) **Påstand:** En funksjon som er både minkende og voksende i definisjonsmengden sin, kan ha en omvendt funksjon.
 
 ## Fasit
-
 
 </div></div>
 
@@ -260,7 +254,6 @@ Veiene krysser hverandre i et veikryss.
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -287,7 +280,6 @@ Energien $E$ måles i joule (J).
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -312,7 +304,6 @@ Det har vært en stor endring i hvilken type drivstoff bilene i Norge bruker. St
 ![Personbiler per drivstofftype i Moss. Kilde: Skjermdump av ssb.no, utdrag fra tabell 07849](/img/user/_resources/s1-v24-2-6-moss.png){width=100% #fig:moss}
 
 ## Fasit
-
 
 </div></div>
 
@@ -369,7 +360,6 @@ print(areal(x))
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -398,7 +388,6 @@ der $G$ er grunnflaten og $h$ er høyden til pyramiden.
 >Bestem et uttrykk for det største volumet en slik pyramide kan ha.
 
 ## Fasit
-
 
 </div></div>
 

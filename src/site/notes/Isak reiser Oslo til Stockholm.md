@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["økonomi","prosentregning","modellering"],"fag":["1p-y el","1p-y fd","1p-y dt","1p-y ba","1p-y hs","1p-y im","1p-y na","1p-y rm","1p-y sr","1p-y tp"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":4},{"fag":"1p-y fd","del":2,"oppgave":4},{"fag":"1p-y dt","del":2,"oppgave":4},{"fag":"1p-y ba","del":2,"oppgave":4},{"fag":"1p-y hs","del":2,"oppgave":4},{"fag":"1p-y im","del":2,"oppgave":4},{"fag":"1p-y na","del":2,"oppgave":4},{"fag":"1p-y rm","del":2,"oppgave":4},{"fag":"1p-y sr","del":2,"oppgave":4},{"fag":"1p-y tp","del":2,"oppgave":4}],"title":"Isak reiser Oslo til Stockholm","status":3,"source":null,"todo":null,"dg-permalink":"/isak-reiser-oslo-til-stockholm/","permalink":"/isak-reiser-oslo-til-stockholm/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["økonomi","prosentregning","modellering"],"fag":["1p-y el","1p-y fd","1p-y dt","1p-y ba","1p-y hs","1p-y im","1p-y na","1p-y rm","1p-y sr","1p-y tp"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":4},{"fag":"1p-y fd","del":2,"oppgave":4},{"fag":"1p-y dt","del":2,"oppgave":4},{"fag":"1p-y ba","del":2,"oppgave":4},{"fag":"1p-y hs","del":2,"oppgave":4},{"fag":"1p-y im","del":2,"oppgave":4},{"fag":"1p-y na","del":2,"oppgave":4},{"fag":"1p-y rm","del":2,"oppgave":4},{"fag":"1p-y sr","del":2,"oppgave":4},{"fag":"1p-y tp","del":2,"oppgave":4}],"title":"Isak reiser Oslo til Stockholm","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["økonomi","prosentregning","modellering"],"fag":["1p-y el","1p-y fd","1p-y dt","1p-y ba","1p-y hs","1p-y im","1p-y na","1p-y rm","1p-y sr","1p-y tp"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":4},{"fag":"1p-y fd","del":2,"oppgave":4},{"fag":"1p-y dt","del":2,"oppgave":4},{"fag":"1p-y ba","del":2,"oppgave":4},{"fag":"1p-y hs","del":2,"oppgave":4},{"fag":"1p-y im","del":2,"oppgave":4},{"fag":"1p-y na","del":2,"oppgave":4},{"fag":"1p-y rm","del":2,"oppgave":4},{"fag":"1p-y sr","del":2,"oppgave":4},{"fag":"1p-y tp","del":2,"oppgave":4}],"title":"Isak reiser Oslo til Stockholm","status":3,"kategori":3,"vanskegrad":3,"beskrivelse":"Sammenlikne to reisealternativ ved å systematisere pris, tid, gjennomsnittsfart, CO₂-utslipp og prosentvis forskjell, og gi en helhetlig anbefaling.","source":null,"todo":null,"dg-permalink":"/isak-reiser-oslo-til-stockholm/","lf-source-claude":true,"permalink":"/isak-reiser-oslo-til-stockholm/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["økonomi","prosentregning","modellering"],"fag":["1p-y el","1p-y fd","1p-y dt","1p-y ba","1p-y hs","1p-y im","1p-y na","1p-y rm","1p-y sr","1p-y tp"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"1p-y el","del":2,"oppgave":4},{"fag":"1p-y fd","del":2,"oppgave":4},{"fag":"1p-y dt","del":2,"oppgave":4},{"fag":"1p-y ba","del":2,"oppgave":4},{"fag":"1p-y hs","del":2,"oppgave":4},{"fag":"1p-y im","del":2,"oppgave":4},{"fag":"1p-y na","del":2,"oppgave":4},{"fag":"1p-y rm","del":2,"oppgave":4},{"fag":"1p-y sr","del":2,"oppgave":4},{"fag":"1p-y tp","del":2,"oppgave":4}],"title":"Isak reiser Oslo til Stockholm","status":3,"kategori":3,"vanskegrad":3,"beskrivelse":"Sammenlikne to reisealternativ ved å systematisere pris, tid, gjennomsnittsfart, CO₂-utslipp og prosentvis forskjell, og gi en helhetlig anbefaling.","source":null,"todo":null,"lf-source-claude":true}}
 ---
 
 
@@ -30,7 +30,7 @@ Isak skal reise fra Oslo til Stockholm. Han finner to alternative måter:
 
 ## Fasit
 
-Alt 1 er 544 kr billigere. Alt 2 er 2 t 49 min raskere. Gjennomsnittsfart tog ≈ 61,3 km/h. CO₂: alt 1 = 4,16 kg, alt 2 = 52,1 kg. Alt 1 har 92 % lavere utslipp.
+Alt 1 er 544 kr billigere. Alt 2 er 2 t 49 min raskere. Gjennomsnittsfart tog ≈ 61,4 km/h. CO₂: alt 1 = 4,16 kg, alt 2 = 52,1 kg. Alt 1 har 92 % lavere utslipp.
 
 ## Løsningsforslag
 
@@ -73,10 +73,10 @@ $$
 Vi bruker $v = \dfrac{s}{t}$ med $s = 416 \, \mathrm{km}$ og $t = \dfrac{407}{60} \, \mathrm{h}$:
 
 $$
-v = \frac{416}{\frac{407}{60}} = \frac{416 \cdot 60}{407} \approx 61{,}3 \, \mathrm{km/h}
+v = \frac{416}{\frac{407}{60}} = \frac{416 \cdot 60}{407} \approx 61{,}4 \, \mathrm{km/h}
 $$
 
-**Gjennomsnittsfarten til toget er $\underline{\underline{61{,}3 \, \mathrm{km/h}}}$.**
+**Gjennomsnittsfarten til toget er $\underline{\underline{61{,}4 \, \mathrm{km/h}}}$.**
 
 ---
 

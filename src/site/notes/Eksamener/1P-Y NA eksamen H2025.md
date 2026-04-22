@@ -195,7 +195,6 @@ Denne dagen leverer en fiskebåt 2 tonn med skrei. De får betalt 150 000 kroner
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -232,7 +231,6 @@ Tonje og Jakob stiller seg to spørsmål
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -278,7 +276,6 @@ Aina skal lage et anbud for en leveranse til en fiskerestaurant:
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -335,7 +332,6 @@ $$V = \pi \cdot r^2 \cdot h$$
 
 
 ## Løsningsforslag
-
 
 </div></div>
 

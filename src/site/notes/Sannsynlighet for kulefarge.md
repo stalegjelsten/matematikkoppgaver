@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["sannsynlighet","kombinatorikk"],"fag":["s1"],"eksamen":"h24","del":1,"oppgave":5,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":5}],"poeng":4,"title":"Sannsynlighet for kulefarge","status":3,"source":null,"todo":null,"dg-permalink":"/sannsynlighet-for-kulefarge/","permalink":"/sannsynlighet-for-kulefarge/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["sannsynlighet","kombinatorikk"],"fag":["s1"],"eksamen":"h24","del":1,"oppgave":5,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":5}],"poeng":4,"title":"Sannsynlighet for kulefarge","status":3,"source":null,"todo":null}}
+{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"dg-publish":true,"temaer":["sannsynlighet","kombinatorikk"],"fag":["s1"],"eksamen":"h24","del":1,"oppgave":5,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":5}],"poeng":4,"title":"Sannsynlighet for kulefarge","status":3,"source":null,"todo":null,"kategori":2,"vanskegrad":2,"beskrivelse":"Trekke to kuler uten tilbakelegging – sannsynlighet for to like farger og for nøyaktig én gul.","deloppgaver":[{"deloppgave":"a","beskrivelse":"Summere $P(2R) + P(2B) + P(2G)$ med sekvensiell trekning uten tilbakelegging."},{"deloppgave":"b","beskrivelse":"Sannsynlighet for nøyaktig én gul kule – to disjunkte rekkefølger (gul først eller sist)."}],"dg-permalink":"/sannsynlighet-for-kulefarge/","permalink":"/sannsynlighet-for-kulefarge/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-11-14","modified":"2026-03-26","aliases":[],"temaer":["sannsynlighet","kombinatorikk"],"fag":["s1"],"eksamen":"h24","del":1,"oppgave":5,"oppgavenummer":[{"fag":"s1","del":1,"oppgave":5}],"poeng":4,"title":"Sannsynlighet for kulefarge","status":3,"source":null,"todo":null,"kategori":2,"vanskegrad":2,"beskrivelse":"Trekke to kuler uten tilbakelegging – sannsynlighet for to like farger og for nøyaktig én gul.","deloppgaver":[{"deloppgave":"a","beskrivelse":"Summere $P(2R) + P(2B) + P(2G)$ med sekvensiell trekning uten tilbakelegging."},{"deloppgave":"b","beskrivelse":"Sannsynlighet for nøyaktig én gul kule – to disjunkte rekkefølger (gul først eller sist)."}]}}
 ---
 
 
@@ -13,6 +13,7 @@ I en kasse ligger det 4 røde, 3 blå og 2 gule kuler. Audun tar tilfeldig to ku
 
 ## Fasit
 
+a) $P(\text{to like}) = \frac{5}{18}$
 
 ## Løsningsforslag
 

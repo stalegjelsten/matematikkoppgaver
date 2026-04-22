@@ -25,7 +25,7 @@ Table: {.eksamen-oversikt}
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Logistisk vekstmodell batteriteknologi](https://matematikkoppgaver.vercel.app/logistisk-vekstmodell-batteriteknologi/) | logistisk funksjon, modellering, derivasjon | × |
 | [2-2](#oppgave-2-2) | [Omvendt funksjon og tangentlikninger](https://matematikkoppgaver.vercel.app/omvendt-funksjon-og-tangentlikninger/) | funksjoner, derivasjon | × |
-| [2-3](#oppgave-2-3) | [Stykkevis funksjon med ukjent uttrykk](https://matematikkoppgaver.vercel.app/stykkevis-funksjon-med-ukjent-uttrykk/) | kontinuitet, derivasjon, funksjoner, delt forskrift | × |
+| [2-3](#oppgave-2-3) | [Stykkevis funksjon med ukjent uttrykk](https://matematikkoppgaver.vercel.app/stykkevis-funksjon-med-ukjent-uttrykk/) | kontinuitet, derivasjon, funksjoner, delt forskrift, likningssystem | × |
 | [2-4](#oppgave-2-4) | [Fiskebåt og vektorbevegelse](https://matematikkoppgaver.vercel.app/fiskebat-og-vektorbevegelse/) | vektorer, modellering | × |
 | [2-5](#oppgave-2-5) | [Tangent til ln og trekantareal](https://matematikkoppgaver.vercel.app/tangent-til-ln-og-trekantareal/) | logaritmer, derivasjon, areal | × |
 
@@ -48,7 +48,6 @@ Table: {.eksamen-oversikt}
 >$$f(x) = e^{-2x} + \frac{1}{5}x^5 - 2\pi$$
 
 ## Fasit
-
 
 </div></div>
 
@@ -73,7 +72,6 @@ En funksjon $g$ er gitt ved $g(x) = \dfrac{1}{2}e^x \cdot (2x-1)^2$
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -95,7 +93,6 @@ Løs likningene
 >b) $3\lg x + 2\lg x^2 + \lg\dfrac{1}{x^9} = 2$
 
 ## Fasit
-
 
 </div></div>
 
@@ -120,6 +117,7 @@ Løs likningene
 
 ## Fasit
 
+a) Grenseverdien eksisterer ikke (venstre- og høyregrense stemmer ikke overens).
 
 ## Løsningsforslag
 
@@ -168,7 +166,6 @@ $$f(x) = \begin{cases} x^2 + 2\text{,} \quad  & x < 0 \\ 2e^x\text{,} & x \ge 0 
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -199,7 +196,6 @@ Nils flytter seg til et nytt punkt $M$. $M$ er det nærmeste punktet som er plas
 >c) Bestem koordinatene til $M$.
 
 ## Fasit
-
 
 </div></div>
 
@@ -238,7 +234,6 @@ Etter å ha hørt om planene til BA3 antar PowBat at
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -265,7 +260,6 @@ og har definisjonsmengden $I = [a, b]$ der $a, b \in \mathbb{R}$.
 >c) Grafen til $g$ har en annen tangent med samme stigningstall som tangenten i punktet $(-10, 3)$. Bestem koordinatene til tangeringspunktet.
 
 ## Fasit
-
 
 </div></div>
 
@@ -295,7 +289,6 @@ Hun husker at $f$ er kontinuerlig og deriverbar for alle $x \in \mathbb{R}$. Hun
 >Bruk dette til å bestemme hele funksjonsuttrykket til $f$.
 
 ## Fasit
-
 
 </div></div>
 
@@ -339,7 +332,6 @@ En annen fiskebåt er i punktet $(-2, 0)$ ved tiden $t = 0$ og holder konstant f
 
 ## Fasit
 
-
 </div></div>
 
 
@@ -367,7 +359,6 @@ Punktet $C$ er plassert på linja $y = x$ slik at $\angle ACB = 90\degree$.
 >b) Bestem det eksakte arealet av trekant $ABC$.
 
 ## Fasit
-
 
 </div></div>
 

@@ -146,8 +146,7 @@ $$
 11 \cdot 1000 = 11\,000 \, \mathrm{kr}
 $$
 
-Siden $11\,000 \, \mathrm{kr} > 10\,500 \, \mathrm{kr}$, **klarer Oda sparemålet sitt hvis hun følger budsjettet.** Hun vil ha $\underline{\underline{500 \, \mathrm{kr}}}$ til overs.
-
+**Oda klarer sparemålet sitt hvis hun følger budsjettet. Hun vil ha $\underline{\underline{500 \, \mathrm{kr}}}$ til overs.**
 
 </div></div>
 
@@ -232,7 +231,6 @@ Bonden har gjort et forsøk. Han har sådd 50 frø, og 40 av dem spirer.
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -265,7 +263,6 @@ På fiskemarkedet er det tre ulike boder som vil kjøpe fisken:
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -331,7 +328,6 @@ Du har fått tilbud om å jobbe 40 hverdager og tre helger (lørdag og søndag) 
 
 ## Løsningsforslag
 
-
 </div></div>
 
 
@@ -378,7 +374,6 @@ Sander stiller seg selv noen spørsmål:
 
 
 ## Løsningsforslag
-
 
 </div></div>
 
@@ -554,7 +549,7 @@ Isak skal reise fra Oslo til Stockholm. Han finner to alternative måter:
 
 ## Fasit
 
-Alt 1 er 544 kr billigere. Alt 2 er 2 t 49 min raskere. Gjennomsnittsfart tog ≈ 61,3 km/h. CO₂: alt 1 = 4,16 kg, alt 2 = 52,1 kg. Alt 1 har 92 % lavere utslipp.
+Alt 1 er 544 kr billigere. Alt 2 er 2 t 49 min raskere. Gjennomsnittsfart tog ≈ 61,4 km/h. CO₂: alt 1 = 4,16 kg, alt 2 = 52,1 kg. Alt 1 har 92 % lavere utslipp.
 
 ## Løsningsforslag
 
@@ -597,10 +592,10 @@ $$
 Vi bruker $v = \dfrac{s}{t}$ med $s = 416 \, \mathrm{km}$ og $t = \dfrac{407}{60} \, \mathrm{h}$:
 
 $$
-v = \frac{416}{\frac{407}{60}} = \frac{416 \cdot 60}{407} \approx 61{,}3 \, \mathrm{km/h}
+v = \frac{416}{\frac{407}{60}} = \frac{416 \cdot 60}{407} \approx 61{,}4 \, \mathrm{km/h}
 $$
 
-**Gjennomsnittsfarten til toget er $\underline{\underline{61{,}3 \, \mathrm{km/h}}}$.**
+**Gjennomsnittsfarten til toget er $\underline{\underline{61{,}4 \, \mathrm{km/h}}}$.**
 
 ---
 
