@@ -1,8 +1,10 @@
 <script type="module">
-import { forceSimulation, forceManyBody, forceCenter, forceLink, forceCollide, forceRadial } from 'd3-force';
-import { select } from 'd3-selection';
-import { zoom as d3Zoom, zoomIdentity } from 'd3-zoom';
-import { drag as d3Drag } from 'd3-drag';
+import {
+    forceSimulation, forceManyBody, forceCenter, forceLink, forceCollide, forceRadial,
+    select,
+    zoom as d3Zoom, zoomIdentity,
+    drag as d3Drag,
+} from 'graph-deps';
 
 // Pixi v7 loaded as UMD global
 const { Application, Container, Graphics, Text, Circle } = PIXI;

@@ -1,6 +1,7 @@
 node_modules
 dist
 src/site/tavle
+src/site/lib
 tavle/node_modules
 netlify/functions/search/data.json
 netlify/functions/search/index.json
