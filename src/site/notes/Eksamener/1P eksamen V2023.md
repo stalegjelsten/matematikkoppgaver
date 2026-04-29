@@ -96,11 +96,35 @@ $$\frac{50 - 20}{50} \cdot 100 \, \% = \frac{30}{50} \cdot 100 \, \% = 60 \, \%$
 
 ## Fasit
 
-
+$\underline{\underline{2 \cdot 10^{16} \text{ maur}}}$
 
 ## Løsningsforslag
 
+Vi skal gange antall mennesker med antall maur per menneske.
 
+Antall mennesker skrives på standardform:
+
+$$8 \text{ milliarder} = 8 \cdot 10^9$$
+
+Antall maur per menneske skrives på standardform:
+
+$$2{,}5 \text{ millioner} = 2{,}5 \cdot 10^6$$
+
+Vi ganger disse sammen:
+
+$$8 \cdot 10^9 \cdot 2{,}5 \cdot 10^6$$
+
+Vi samler tallene for seg og tier-potenserene for seg:
+
+$$= (8 \cdot 2{,}5) \cdot (10^9 \cdot 10^6)$$
+
+$$= 20 \cdot 10^{15}$$
+
+Vi skriver om til standardform (én siffer foran komma):
+
+$$= 2{,}0 \cdot 10^{16}$$
+
+**Det er omtrent $\underline{\underline{2 \cdot 10^{16}}}$ maur på jorden.**
 
 
 </div></div>
@@ -123,11 +147,67 @@ $$\frac{50 - 20}{50} \cdot 100 \, \% = \frac{30}{50} \cdot 100 \, \% = 60 \, \%$
 
 ## Fasit
 
+a) Eksempel: pris og antall bokser brus. Graf: rett linje gjennom origo med stigning 15, funksjonsuttrykk $y = 15n$.
 
+b) Eksempel: fart og tid på en strekning på 60 km. Graf: hyperbel, funksjonsuttrykk $y = \frac{60}{x}$.
 
 ## Løsningsforslag
 
+### a
 
+**Eksempel: pris og antall bokser brus.**
+
+La $n$ være antall bokser brus og $y$ være den totale prisen i kroner. Én boks koster $15 \, \mathrm{kr}$, så
+
+$$y = 15 \cdot n$$
+
+**Begrunnelse for proporsjonalitet:** Forholdet mellom pris og antall er alltid det samme:
+
+$$\frac{y}{n} = \frac{15n}{n} = 15$$
+
+Siden forholdet $\frac{y}{n}$ er konstant (= 15) for alle verdier av $n$, er $y$ og $n$ proporsjonale størrelser.
+
+**Graf:** Grafen er en **rett linje gjennom origo** med stigning 15.
+
+| $n$ | $y$ (kr) |
+|-----|----------|
+| 1   | 15       |
+| 2   | 30       |
+| 3   | 45       |
+| 4   | 60       |
+
+Grafen går gjennom punktene $(1, 15)$, $(2, 30)$, $(3, 45)$ og $(4, 60)$, og starter i origo $(0, 0)$.
+
+$$\textbf{Svaret er } \underline{\underline{y = 15n}} \text{ — rett linje gjennom origo}$$
+
+---
+
+### b
+
+**Eksempel: fart og tid på en strekning på 60 km.**
+
+La $x$ være farten i $\mathrm{km/h}$ og $y$ være tiden i timer. Da gjelder
+
+$$y = \frac{60}{x}$$
+
+**Begrunnelse for omvendt proporsjonalitet:** Produktet av fart og tid er alltid det samme:
+
+$$x \cdot y = x \cdot \frac{60}{x} = 60$$
+
+Siden produktet $x \cdot y$ er konstant (= 60) for alle verdier av $x$, er $x$ og $y$ omvendt proporsjonale størrelser.
+
+**Graf:** Grafen er en **hyperbel** som nærmer seg begge aksene, men aldri krysser dem.
+
+| $x$ (km/h) | $y$ (timer) |
+|------------|-------------|
+| 20         | 3           |
+| 30         | 2           |
+| 60         | 1           |
+| 120        | 0,5         |
+
+Grafen går gjennom punktene $(20, 3)$, $(30, 2)$, $(60, 1)$ og $(120; 0{,}5)$. Kurven faller bratt når farten er lav, og flater ut når farten øker.
+
+$$\textbf{Svaret er } \underline{\underline{y = \frac{60}{x}}} \text{ — hyperbel}$$
 
 
 </div></div>
@@ -161,11 +241,73 @@ Klara var 50 cm høy da hun ble født.
 
 ## Fasit
 
+a) $\underline{\underline{H(x) = 7x + 72}}$
 
+b) $\underline{\underline{H(19) = 205 \, \mathrm{cm}}}$ — urealistisk høyt
+
+c) Modellen er bare gyldig for alder omtrent $4 \leq x \leq 14$ år
 
 ## Løsningsforslag
 
+### a
 
+Vi regner ut stigningen ved hjelp av to punkter fra tabellen. Vi bruker punktene $(4, 100)$ og $(10, 142)$:
+
+$$a = \frac{142 - 100}{10 - 4} = \frac{42}{6} = 7$$
+
+Stigningen er $7$, som betyr at Klara vokser $7 \, \mathrm{cm}$ per år.
+
+Vi bruker punkt-stigningstall-formen og setter inn punktet $(4, 100)$ for å finne konstantleddet $b$:
+
+$$H(x) = 7x + b$$
+
+$$100 = 7 \cdot 4 + b$$
+
+$$100 = 28 + b$$
+
+$$b = 72$$
+
+Vi sjekker at modellen stemmer med de andre verdiene i tabellen:
+
+- $H(5) = 7 \cdot 5 + 72 = 35 + 72 = 107$ ✓
+- $H(8) = 7 \cdot 8 + 72 = 56 + 72 = 128$ ✓
+- $H(10) = 7 \cdot 10 + 72 = 70 + 72 = 142$ ✓
+
+Modellen er:
+
+$$\underline{\underline{H(x) = 7x + 72}}$$
+
+der $x$ er alderen i år og $H(x)$ er høyden i cm.
+
+### b
+
+Vi setter $x = 19$ inn i modellen:
+
+$$H(19) = 7 \cdot 19 + 72 = 133 + 72 = \underline{\underline{205 \, \mathrm{cm}}}$$
+
+Ifølge modellen vil Klara være $205 \, \mathrm{cm}$ høy når hun fyller 19 år. Det er svært høyt og lite realistisk — de fleste jenter er ferdigvokst rundt 16–17 år.
+
+### c
+
+Ifølge oppgaven var Klara $50 \, \mathrm{cm}$ høy da hun ble født, det vil si ved $x = 0$.
+
+Vi sjekker hva modellen gir for $x = 0$:
+
+$$H(0) = 7 \cdot 0 + 72 = 72 \, \mathrm{cm}$$
+
+Modellen gir $72 \, \mathrm{cm}$ ved fødselen, men den faktiske fødselshøyden var $50 \, \mathrm{cm}$. Det er et avvik på $22 \, \mathrm{cm}$.
+
+Vi kan også finne hvilken alder modellen gir høyden $50 \, \mathrm{cm}$:
+
+$$7x + 72 = 50$$
+
+$$7x = -22$$
+
+$$x \approx -3{,}1 \text{ år}$$
+
+En negativ alder gir ingen mening.
+
+Modellen stemmer ikke for nyfødte eller små barn, og vil heller ikke stemme for voksne (man vokser ikke $7 \, \mathrm{cm}$ i året hele livet). Gyldighetsområdet er omtrent $4 \leq x \leq 14$ år, det vil si aldersspennet tabellen dekker.
 
 
 </div></div>
@@ -278,11 +420,21 @@ Hvilken av de grafiske framstillingene nedenfor beskriver best lengden av turen 
 
 ## Fasit
 
-
+**Graf C**
 
 ## Løsningsforslag
 
+«Lengden av turen» betyr her hvor langt Aurora har gått til sammen — altså den totale tilbakelagte strekningen. Vi deler turen inn i tre faser og vurderer hva som skjer med denne strekningen:
 
+1. **Aurora går til postkontoret.** Hun går med jevn fart, så strekningen øker jevnt. Dette gir en stigende rett linje i grafen.
+
+2. **Aurora står i kø.** Hun står stille, så hun legger ikke til ny strekning. Dette gir et horisontalt platå.
+
+3. **Aurora går hjem igjen.** Hun går med samme jevne fart, så strekningen øker jevnt videre med samme stigning som i fase 1.
+
+Grafen skal altså bestå av to stigende rette linjer (med lik stigning) med et horisontalt platå mellom seg.
+
+Dette passer best med **graf C**.
 
 
 </div></div>
@@ -389,11 +541,44 @@ I to av sekkene koster potetene like mye per kilogram.
 
 ## Fasit
 
-
+a) **Sekk D**
+b) **Sekk A og sekk C**
+c) **Sekk C lønner seg**
+d) **Sekk A og sekk F**
 
 ## Løsningsforslag
 
+### a
 
+Tyngden til sekken leses av på $x$-aksen (vekt i kg). Vi ser etter punktet som ligger lengst til høyre i koordinatsystemet.
+
+**Sekk D har størst $x$-verdi og er derfor tyngst.**
+
+### b
+
+Prisen til sekken leses av på $y$-aksen (pris i kroner). Vi ser etter punkter som ligger på samme høyde (samme $y$-verdi).
+
+**Sekk A og sekk C ligger på samme høyde i koordinatsystemet og koster derfor like mye.**
+
+### c
+
+Kiloprisen (pris per kg) bestemmes av forholdet mellom pris og vekt, altså $\frac{\text{pris}}{\text{vekt}}$. Jo lavere dette forholdet er, desto billigere er potetene per kilogram.
+
+Sekk B og sekk C koster omtrent like mye, men sekk C er klart tyngre enn sekk B (større $x$-verdi). Da blir kiloprisen for sekk C lavere:
+
+$$\frac{\text{pris}_C}{\text{vekt}_C} < \frac{\text{pris}_B}{\text{vekt}_B}$$
+
+**Det lønner seg å kjøpe sekk C, siden den er tyngre men koster omtrent det samme som sekk B — kiloprisen er altså lavere.**
+
+### d
+
+Like kilopris betyr at forholdet $\frac{\text{pris}}{\text{vekt}}$ er likt for de to sekkene. Geometrisk betyr dette at de to punktene ligger på den samme rette linjen gjennom origo: jo brattere linja er, desto høyere er kiloprisen.
+
+Vi tegner tenkte linjer fra origo gjennom hvert punkt og ser hvilke to punkter som havner på samme linje.
+
+Fra grafen ser vi at sekk A og sekk F ligger på den samme rette linja gjennom origo — sekk A er liten og forholdsvis billig, sekk F er tyngre og dyrere, men forholdet pris/vekt er det samme.
+
+**Sekk A og sekk F har samme kilopris.**
 
 
 </div></div>
@@ -451,11 +636,99 @@ Kari har 2000 Non Stop. Hun vil begynne med $K_1$ og lage én K i hver størrels
 
 ## Fasit
 
+a) Hver K har 4 flere Non Stop enn den forrige. $K_4 = \underline{\underline{22}}$ og $K_5 = \underline{\underline{26}}$.
 
+b) Se program under.
+
+c) $\underline{\underline{960}}$ Non Stop totalt.
+
+d) Kari kan lage $\underline{\underline{29}}$ K-er.
 
 ## Løsningsforslag
 
+### a
 
+Vi teller Non Stop i hver figur:
+
+| Figur | Non Stop |
+|-------|----------|
+| $K_1$ | 10 |
+| $K_2$ | 14 |
+| $K_3$ | 18 |
+
+Mønsteret er at **hver K har 4 flere Non Stop enn den forrige**. Vi kan beskrive dette som $K_n = K_{n-1} + 4$ der $K_1 = 10$, eller med en eksplisitt formel $K_n = 4n + 6$.
+
+Derfor er:
+
+$$K_4 = 18 + 4 = \underline{\underline{22}}$$
+
+$$K_5 = 22 + 4 = \underline{\underline{26}}$$
+
+### b
+
+Vi starter med `nonstop_figur = 10` (antall Non Stop i $K_1$) og `nonstop_totalt = 10`. I løkken skriver vi ut verdiene for figuren, og oppdaterer deretter til neste figur ved å legge til 4.
+
+```python ln
+nonstop_figur = 10
+nonstop_totalt = 10
+print("Figurnummer     Non Stop i figur     Non Stop totalt")
+for figurnummer in range(1, 21):
+    print(figurnummer, nonstop_figur, nonstop_totalt, sep = "\t\t\t")
+    nonstop_figur = nonstop_figur + 4
+    nonstop_totalt = nonstop_totalt + nonstop_figur
+```
+
+Programmet skriver ut:
+
+```
+Figurnummer     Non Stop i figur     Non Stop totalt
+1			10			10
+2			14			24
+3			18			42
+4			22			64
+5			26			90
+6			30			120
+7			34			154
+8			38			192
+9			42			234
+10			46			280
+11			50			330
+12			54			384
+13			58			442
+14			62			504
+15			66			570
+16			70			640
+17			74			714
+18			78			792
+19			82			874
+20			86			960
+```
+
+### c
+
+Fra utskriften til programmet leser vi av at totalen for de 20 første K-ene er $\underline{\underline{960}}$ Non Stop.
+
+Vi kan også beregne dette med formelen $K_n = 4n + 6$:
+
+$$\sum_{n=1}^{20} (4n + 6) = 4 \cdot \frac{20 \cdot 21}{2} + 6 \cdot 20 = 840 + 120 = \underline{\underline{960}}$$
+
+### d
+
+Vi setter opp en formel for totalt antall Non Stop etter $n$ K-er:
+
+$$S(n) = \sum_{k=1}^{n} (4k + 6) = \frac{4n(n+1)}{2} + 6n = 2n^2 + 8n$$
+
+Vi prøver systematisk:
+
+| $n$ | $S(n) = 2n^2 + 8n$ |
+|-----|--------|
+| 28 | $2 \cdot 784 + 224 = 1792$ |
+| 29 | $2 \cdot 841 + 232 = 1914$ |
+| 30 | $2 \cdot 900 + 240 = 2040$ |
+
+$S(29) = 1914 \leq 2000$, men $S(30) = 2040 > 2000$.
+
+**Kari kan lage $\underline{\underline{29}}$ K-er med 2000 Non Stop.**
 
 
 </div></div>
@@ -474,9 +747,9 @@ Kari har 2000 Non Stop. Hun vil begynne med $K_1$ og lage én K i hver størrels
 
 Tabellen nedenfor viser salg av energidrikker i Norge hvert år fra 2015 til 2021.
 
-| Årstall            | 2015   | 2016   | 2017   | 2018   | 2019   | 2020   | 2021   |
-|:------------------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
-| Salg (tusen liter) | 18 899 | 21 664 | 25 381 | 31 385 | 41 142 | 55 497 | 67 997 |
+| Årstall            | 2015  | 2016  | 2017  | 2018  | 2019  | 2020  | 2021  |
+| :----------------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Salg (tusen liter) | $18\,899$ | $21\,664$ | $25\,381$ | $31\,385$ | $41\,142$ | $55\,497$ | $67\,997$ |
 
 La $x$ være antall år etter 2015.
 
@@ -493,11 +766,51 @@ I 2022 var salget av energidrikk 73 109 tusen liter.
 
 ## Fasit
 
+a) $\underline{\underline{E(x) = 17\,396 \cdot 1{,}248^x}}$
 
+b) $a \approx 17\,396$: modellens estimat for salget i 2015 (tusen liter). $b \approx 1{,}248$: salget øker med ca. $\underline{\underline{24{,}8 \,\%}}$ per år ifølge modellen.
+
+c) Faktisk økning fra 2021 til 2022: $\underline{\underline{\approx 7{,}5 \,\%}}$. Modellen passer dårlig for 2022 — veksten har avtatt kraftig.
 
 ## Løsningsforslag
 
+### a
 
+Vi legger inn datapunktene i GeoGebra og bruker eksponentiell regresjon med kommandoen `RegEksp`.
+
+La $x$ = antall år etter 2015 og $y$ = salg i tusen liter.
+
+Datapunktene er plottet som røde punkter i grafen under. GeoGebra gir regresjonsmodellen
+
+$$\mathbf{E(x) = 17\,396 \cdot 1{,}248^x}$$
+
+![Graf med datapunkter og regresjonsmodellen E(x)](/img/user/_resources/1p-v23-2-6-graf.png){width=90%}
+
+Kurven passer godt med datapunktene fra 2015 til 2021 (se grafen).
+
+### b
+
+- $a \approx 17\,396$ er modellens verdi for $E(0)$, det vil si estimert salg i 2015: ca. $17\,400$ tusen liter. (Det faktiske salget i 2015 var $18\,899$ tusen liter — $a$ er altså et estimat, ikke den eksakte verdien.)
+
+- $b \approx 1{,}248$ er vekstfaktoren. Det betyr at salget ifølge modellen **øker med ca. $24{,}8 \,\%$ per år**.
+
+### c
+
+Vi beregner faktisk prosentvis økning fra 2021 til 2022:
+
+$$\frac{73\,109 - 67\,997}{67\,997} \cdot 100 \,\% \approx \frac{5\,112}{67\,997} \cdot 100 \,\% \approx 7{,}5 \,\%$$
+
+**Den faktiske veksten fra 2021 til 2022 var altså ca. $7{,}5 \,\%$.**
+
+Modellen vår anslår en vekst på ca. $24{,}8 \,\%$ per år. Det er langt mer enn den faktiske veksten på $7{,}5 \,\%$.
+
+Vi kan også sammenligne modellens spådom for 2022 ($x = 7$) med det faktiske salget:
+
+$$E(7) = 17\,396 \cdot 1{,}248^7 \approx 82\,000 \text{ tusen liter}$$
+
+Faktisk salg i 2022 var $73\,109$ tusen liter (det grønne punktet `P2022` i grafen). Modellen overestimerer altså salget i 2022 med ca. 9 000 tusen liter.
+
+**Modellen passer dårlig for 2022.** Veksten i salget har avtatt betydelig — fra rundt $25 \,\%$ per år (2015–2021) til bare $7{,}5 \,\%$ fra 2021 til 2022. Den eksponentielle modellen er best egnet for perioden den er basert på (2015–2021), men overestimerer kraftig når veksten bremser opp.
 
 
 </div></div>

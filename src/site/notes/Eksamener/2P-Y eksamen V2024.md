@@ -27,7 +27,7 @@ Table: {.eksamen-oversikt}
 | [2-4](#oppgave-2-4) | [Instagram-følgere eksponentiell vekst](https://matematikkoppgaver.vercel.app/instagram-folgere-eksponentiell-vekst/) | eksponentiell vekst, vekstfaktor, prosentvis vekst, regresjon | ✔︎ |
 | [2-5](#oppgave-2-5) | [Tid brukt på lekser histogram](https://matematikkoppgaver.vercel.app/tid-brukt-pa-lekser-histogram/) | statistikk, diagram, gjennomsnitt, median | ✔︎ |
 | [2-6](#oppgave-2-6) | [Programmering av Theas BSU-konto](https://matematikkoppgaver.vercel.app/programmering-av-theas-bsu-konto/) | programmering, sparing | ✔︎ |
-| [2-7](#oppgave-2-7) | [Grafisk framstilling av læreplasser](https://matematikkoppgaver.vercel.app/grafisk-framstilling-av-laereplasser/) | grafisk framstilling, statistikk | × |
+| [2-7](#oppgave-2-7) | [Grafisk framstilling av læreplasser](https://matematikkoppgaver.vercel.app/grafisk-framstilling-av-laereplasser/) | grafisk framstilling, statistikk, prosentregning, diagrammer, presentasjon av data | × |
 
 # Del 1
 

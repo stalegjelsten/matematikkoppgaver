@@ -25,10 +25,10 @@ Table: {.eksamen-oversikt}
 | [2-1](#oppgave-2-1) | [Salg av iste](https://matematikkoppgaver.vercel.app/salg-av-iste/) | eksponentialfunksjoner, prosentvis endring i flere perioder | ✔︎ |
 | [2-2](#oppgave-2-2) | [Kjøpekraft og konsumprisindeks](https://matematikkoppgaver.vercel.app/kjopekraft-og-konsumprisindeks/) | prisindeks, prosentregning | × |
 | [2-3](#oppgave-2-3) | [Argumenter for at prosentregnestykker gir samme svar](https://matematikkoppgaver.vercel.app/argumenter-for-at-prosentregnestykker-gir-samme-svar/) | prosent, utforskning, argumentasjon, prosentregning | ✔︎ |
-| [2-4](#oppgave-2-4) | [Statistikk for quizlag](https://matematikkoppgaver.vercel.app/statistikk-for-quizlag/) | statistikk, utforskning | × |
+| [2-4](#oppgave-2-4) | [Statistikk for quizlag](https://matematikkoppgaver.vercel.app/statistikk-for-quizlag/) | statistikk, sentralmål, standardavvik, utforskning | × |
 | [2-5](#oppgave-2-5) | [Nettoinntekt med overtid](https://matematikkoppgaver.vercel.app/nettoinntekt-med-overtid/) | prosentregning, økonomi | × |
 | [2-6](#oppgave-2-6) | [Lag presentasjon om statistikk for tidsbruk på ulike aktiviteter](https://matematikkoppgaver.vercel.app/lag-presentasjon-om-statistikk-for-tidsbruk-pa-ulike-aktiviteter/) | presentasjon av data, prosentregning, diagram | ✔︎ |
-| [2-7](#oppgave-2-7) | [Forbrukslån med betalingsplan](https://matematikkoppgaver.vercel.app/forbrukslan-med-betalingsplan/) | lån, økonomi | × |
+| [2-7](#oppgave-2-7) | [Forbrukslån med betalingsplan](https://matematikkoppgaver.vercel.app/forbrukslan-med-betalingsplan/) | lån, økonomi | ✔︎ |
 | [2-8](#oppgave-2-8) | [Volum og areal for lesehule](https://matematikkoppgaver.vercel.app/volum-og-areal-for-lesehule/) | volum, areal, geometri | × |
 
 # Del 1
@@ -585,9 +585,7 @@ En måned arbeidet hun 10 timer overtid.
 
 ## Løsningsforslag
 
-Vi bruker regneark til å beregne nettoinntekten steg for steg.
-
-![Regneark – nettoinntekt med overtid](/img/user/_resources/2p-h24-2-5.png){width=90%}
+Jeg kunne brukt regneark her, men jeg synes det er like enkelt å regne denne for hånd.
 
 **Steg 1 – Timelønn**
 
@@ -607,19 +605,23 @@ $$\text{Overtidsinntekt} = 308 \cdot 10 = 3\,080 \, \mathrm{kr}$$
 
 $$\text{Bruttolønn} = 35\,750 + 3\,080 = 38\,830 \, \mathrm{kr}$$
 
-**Steg 5 – Trekk**
+**Steg 5 – Pensjonstrekk**  
+Det er vanlig å *kun* betale pensjonstrekk for den faste lønna.
 
-$$\text{Pensjonstrekk} = 38\,830 \cdot 0{,}02 = 776{,}60 \, \mathrm{kr}$$
+$$\text{Pensjonstrekk} = 35\,750 \cdot 0{,}02 = 715 \, \mathrm{kr}$$
+**Steg 6 – Trekkgrunnlag**  
+$$\text{Trekkgrunnlag} = 38\,830 - 715 =38 \, 115 \, \mathrm{kr}$$
 
-$$\text{Skattetrekk} = 38\,830 \cdot 0{,}18 = 6\,989{,}40 \, \mathrm{kr}$$
-
-$$\text{Totalt trekk} = 776{,}60 + 6\,989{,}40 = 7\,766 \, \mathrm{kr}$$
+**Steg 7 – Skattetrekk**  
+$$\text{Totalt trekk} =  38\, 115  \cdot 0{,}18 \, = 6\,860{,}70 \, \mathrm{kr}$$
 
 **Steg 6 – Nettoinntekt**
 
-$$\text{Nettoinntekt} = 38\,830 - 7\,766 = \underline{\underline{31\,064 \, \mathrm{kr}}}$$
+$$\text{Nettoinntekt} = 38\,115 - 6\, 860{,}7 = \underline{\underline{31\,254{,}3 \, \mathrm{kr}}}$$
 
-Tobines nettoinntekt denne måneden er $\mathbf{31\,064 \, \mathrm{kr}}$.
+Tobines nettoinntekt denne måneden er $\mathbf{31\,254{,}3 \, \mathrm{kr}}$.
+
+
 
 </div></div>
 

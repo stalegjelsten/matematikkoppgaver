@@ -23,9 +23,9 @@ Table: {.eksamen-oversikt}
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Pris på T-skjorte og bukse](https://matematikkoppgaver.vercel.app/pris-pa-t-skjorte-og-bukse/) | likningssystem | × |
 | [2-2](#oppgave-2-2) | [Kaffekoppers gjennomsnitt med ukjent](https://matematikkoppgaver.vercel.app/kaffekoppers-gjennomsnitt-med-ukjent/) | statistikk, gjennomsnitt | ✔︎ |
-| [2-3](#oppgave-2-3) | [Prisvekst og prisfall sammenligning](https://matematikkoppgaver.vercel.app/prisvekst-og-prisfall-sammenligning/) | prosentregning, vekstfaktor, geometrisk vekst | × |
+| [2-3](#oppgave-2-3) | [Prisvekst og prisfall sammenligning](https://matematikkoppgaver.vercel.app/prisvekst-og-prisfall-sammenligning/) | prosentregning, vekstfaktor, geometrisk vekst, argumentasjon | × |
 | [2-4](#oppgave-2-4) | [Sykkelhjelm og datapresentasjon](https://matematikkoppgaver.vercel.app/sykkelhjelm-og-datapresentasjon/) | statistikk, prosentregning, diagrammer, presentasjon av data | × |
-| [2-5](#oppgave-2-5) | [Lønnsnivå og sentralmål](https://matematikkoppgaver.vercel.app/lonnsniva-og-sentralmal/) | statistikk, gjennomsnitt, median, sentralmål, grupperte data | × |
+| [2-5](#oppgave-2-5) | [Lønnsnivå og sentralmål](https://matematikkoppgaver.vercel.app/lonnsniva-og-sentralmal/) | statistikk, gjennomsnitt, median, sentralmål, grupperte data, argumentasjon | × |
 | [2-6](#oppgave-2-6) | [Parkeringsplass og prosentendring](https://matematikkoppgaver.vercel.app/parkeringsplass-og-prosentendring/) | areal, prosentregning, argumentasjon | × |
 | [2-7](#oppgave-2-7) | [Sofies lån og nedbetalingsprogram](https://matematikkoppgaver.vercel.app/sofies-lan-og-nedbetalingsprogram/) | lån, programmering | × |
 

@@ -53,6 +53,20 @@ En sjokoladeplate koster 40 kroner i en butikk og 60 kroner på en bensinstasjon
 
 ## Fasit
 
+**Sjokoladeplaten er $\underline{\underline{50 \,\%}}$ dyrere på bensinstasjonen.**
+
+## Løsningsforslag
+
+Vi finner hvor mye dyrere sjokoladeplaten er på bensinstasjonen:
+
+$$60 \, \mathrm{kr} - 40 \, \mathrm{kr} = 20 \, \mathrm{kr}$$
+
+Denne prisforskjellen regner vi som prosent av butikkprisen (den opprinnelige prisen):
+
+$$\frac{20}{40} \cdot 100 \,\% = \frac{1}{2} \cdot 100 \,\% = \underline{\underline{50 \,\%}}$$
+
+**Sjokoladeplaten er $50 \,\%$ dyrere på bensinstasjonen enn i butikken.**
+
 </div></div>
 
 
@@ -211,6 +225,26 @@ I en liter blod er det $7 \cdot 10^9$ hvite blodceller, $5 \cdot 10^{12}$ røde 
 
 ## Fasit
 
+**$\underline{\underline{5{,}307 \cdot 10^{12}}}$ blodceller**
+
+## Løsningsforslag
+
+Vi skal legge sammen de tre tallene:
+
+$$7 \cdot 10^9 + 5 \cdot 10^{12} + 3 \cdot 10^{11}$$
+
+For å legge dem sammen må alle leddene ha samme potens av 10. Vi velger $10^{12}$:
+
+$$7 \cdot 10^9 = 0{,}007 \cdot 10^{12}$$
+
+$$3 \cdot 10^{11} = 0{,}3 \cdot 10^{12}$$
+
+Nå kan vi legge dem sammen:
+
+$$0{,}007 \cdot 10^{12} + 5 \cdot 10^{12} + 0{,}3 \cdot 10^{12} = (0{,}007 + 5 + 0{,}3) \cdot 10^{12} = 5{,}307 \cdot 10^{12}$$
+
+Det er til sammen **$\underline{\underline{5{,}307 \cdot 10^{12}}}$ blodceller** i en liter blod.
+
 </div></div>
 
 
@@ -299,6 +333,36 @@ print(konto)
 
 ## Fasit
 
+Programmet viser at Lars vil ha over én million kroner etter **17 år**, og at kontoens verdi da er ca. $\underline{\underline{1\,016\,760 \, \mathrm{kr}}}$.
+
+## Løsningsforslag
+
+**Hva forteller programmet om planen til Lars?**
+
+Programmet simulerer Lars sin spareplan år for år. Starten av programmet setter opp tre viktige verdier:
+
+- `konto = 120000` — Lars har 120 000 kr på konto nå.
+- `sparebeløp = 24000` — Lars setter inn 24 000 kr hvert år.
+- `vekstfaktor = 1.058` — Kontoen får $5{,}8 \,\%$ rente per år.
+
+Inne i løkken skjer to ting hvert år:
+
+1. Lars setter inn sparebeløpet: `konto = konto + sparebeløp`
+2. Renten legges til: `konto = konto * vekstfaktor`
+
+Løkken fortsetter så lenge kontoens verdi er under 1 000 000 kr, og teller samtidig opp antall år.
+
+Programmet forteller altså Lars **hvor mange år det tar** før han har spart én million kroner, og **hva kontoen er verdt** på det tidspunktet.
+
+---
+
+**Hva vil verdiene som skrives ut, fortelle Lars?**
+
+Programmet skriver ut to verdier:
+
+- `print(år)` skriver ut **17** — det vil si at det tar **17 år** før Lars har over én million kroner.
+- `print(konto)` skriver ut ca. **1 016 760** — kontoen er verdt ca. $1\,016\,760 \, \mathrm{kr}$ etter disse 17 årene.
+
 </div></div>
 
 
@@ -329,6 +393,46 @@ $$G(x) = ax + b$$
 >c) Hvor mye koster en bøtte med 8 hg godteri?
 
 ## Fasit
+
+a) $\underline{\underline{G(x) = 12x + 30}}$
+
+b) $a = 12$ betyr at prisen øker med $\underline{\underline{12 \, \mathrm{kr}}}$ per hektogram godteri. $b = 30$ er prisen for selve bøtta, det vil si $\underline{\underline{30 \, \mathrm{kr}}}$ uten godteri.
+
+c) $\underline{\underline{126 \, \mathrm{kr}}}$
+
+## Løsningsforslag
+
+### a
+
+Vi leser av to punkter fra grafen: $(5, 90)$ og $(20, 270)$.
+
+Vi bruker formelen for stigningstallet:
+
+$$a = \frac{y_2 - y_1}{x_2 - x_1} = \frac{270 - 90}{20 - 5} = \frac{180}{15} = 12$$
+
+For å finne $b$ setter vi inn punktet $(5, 90)$ i $G(x) = ax + b$:
+
+$$90 = 12 \cdot 5 + b$$
+
+$$90 = 60 + b$$
+
+$$b = 30$$
+
+**Svaret er $\underline{\underline{G(x) = 12x + 30}}$**
+
+### b
+
+$a = 12$ er stigningstallet og viser hvor mye prisen øker per hektogram godteri. Dette betyr at **hvert hektogram godteri koster $\underline{\underline{12 \, \mathrm{kr}}}$**.
+
+$b = 30$ er konstantleddet og viser prisen når $x = 0$, altså når bøtta er tom. Dette betyr at **selve bøtta koster $\underline{\underline{30 \, \mathrm{kr}}}$**.
+
+### c
+
+Vi setter inn $x = 8$ i funksjonsuttrykket:
+
+$$G(8) = 12 \cdot 8 + 30 = 96 + 30 = 126$$
+
+**En bøtte med 8 hg godteri koster $\underline{\underline{126 \, \mathrm{kr}}}$.**
 
 </div></div>
 
@@ -364,6 +468,67 @@ La $x$ være antall måneder etter desember 2022. Det vil si at $x = 1$ tilsvare
 
 ## Fasit
 
+a) Modellens verdier er i samme størrelsesorden som de observerte — modellen er god.
+
+b) Antall registrerte tilfeller øker med $\underline{\underline{20 \,\%}}$ per måned.
+
+c) $\underline{\underline{\approx 72}}$ tilfeller per måned (gjennomsnittlig vekstfart fra mai 2023 til september 2024).
+
+d) $\underline{\underline{\approx 5500}}$ tilfeller i mai 2025.
+
+## Løsningsforslag
+
+![GeoGebra-graf med eksponentialfunksjon, datapunkter og sekantlinje](/img/user/_resources/1p-v25-2-1-graf.png)
+
+### a
+
+Vi setter inn $x$-verdiene fra tabellen i modellen $K(x) = 27{,}8 \cdot 1{,}2^{x}$ og sammenligner med de observerte tallene:
+
+| Måned | $x$ | $K(x)$ (modell) | Observert |
+| ----- | :-: | :-------------: | :-------: |
+| Jan 2023 | 1 | $\approx 33$ | 29 |
+| Mai 2023 | 5 | $\approx 69$ | 93 |
+| Okt 2023 | 10 | $\approx 172$ | 164 |
+| Feb 2024 | 14 | $\approx 357$ | 284 |
+| Aug 2024 | 20 | $\approx 1066$ | 1035 |
+| Okt 2024 | 22 | $\approx 1535$ | 1657 |
+
+Modellens verdier er i samme størrelsesorden som de observerte verdiene i hele perioden. Noen måneder treffer modellen svært godt (oktober 2023, august 2024), og ingen av avvikene er dramatisk store sett opp mot den sterke veksten. **Modellen $K(x) = 27{,}8 \cdot 1{,}2^{x}$ er en god modell for datamaterialet.**
+
+### b
+
+Funksjonen $K(x) = 27{,}8 \cdot 1{,}2^{x}$ er en eksponentialfunksjon med vekstfaktor $1{,}2$.
+
+Vekstfaktoren $1{,}2$ betyr at antallet multipliseres med $1{,}2$ for hver måned som går. Det tilsvarer en økning på $20 \,\%$ per måned.
+
+**Praktisk tolkning:** Antall registrerte tilfeller av kikhoste i Norge økte med ca. $20 \,\%$ per måned i perioden januar 2023–oktober 2024.
+
+### c
+
+Vi skal finne stigningstallet til den rette linjen gjennom punktene $(4,\ K(4))$ og $(21,\ K(21))$.
+
+Først beregner vi funksjonsverdiene:
+
+$$K(4) = 27{,}8 \cdot 1{,}2^{4} \approx 57{,}65$$
+
+$$K(21) = 27{,}8 \cdot 1{,}2^{21} \approx 1278{,}94$$
+
+Deretter bruker vi formelen for stigningstall:
+
+$$a = \frac{K(21) - K(4)}{21 - 4} = \frac{1278{,}94 - 57{,}65}{17} = \frac{1221{,}29}{17} \approx \mathbf{\underline{\underline{72}}}$$
+
+Vi kan også lese av sekantlinjens stigningstall i GeoGebra: `stign = 71.84 ≈ 72`.
+
+**Praktisk tolkning:** I gjennomsnitt økte antall registrerte tilfeller av kikhoste med ca. 72 tilfeller per måned i perioden fra mai 2023 ($x = 4$) til september 2024 ($x = 21$).
+
+### d
+
+Mai 2025 tilsvarer $x = 29$ (29 måneder etter desember 2022).
+
+$$K(29) = 27{,}8 \cdot 1{,}2^{29} \approx \mathbf{\underline{\underline{5499}}} \approx 5500$$
+
+**Ifølge modellen vil ca. 5500 tilfeller av kikhoste bli registrert i Norge i mai 2025.**
+
 </div></div>
 
 
@@ -387,6 +552,30 @@ Artikkelen ovenfor er hentet fra aesby.no.
 >b) Hvor langt har Sunnmøre friluftsråd regnet at det er rundt jorda?
 
 ## Fasit
+
+a) $\underline{\underline{82{,}5 \, \mathrm{km}}}$ per deltaker i gjennomsnitt
+
+b) Sunnmøre friluftsråd har regnet med at det er $\underline{\underline{39\,759 \, \mathrm{km}}}$ rundt jorda
+
+## Løsningsforslag
+
+### a
+
+Vi skal finne gjennomsnittlig antall kilometer per deltaker.
+
+$$\text{Gjennomsnitt} = \frac{\text{totalt antall km}}{\text{antall deltakere}}$$
+
+$$\text{Gjennomsnitt} = \frac{3\,300\,000 \, \mathrm{km}}{40\,000} = \underline{\underline{82{,}5 \, \mathrm{km}}}$$
+
+**Hver deltaker har i gjennomsnitt gått $82{,}5 \, \mathrm{km}$.**
+
+### b
+
+Vi skal finne hvor langt Sunnmøre friluftsråd har regnet at det er rundt jorda. Vi vet at 3,3 millioner km tilsvarer 83 ganger rundt jorda, og bruker det til å finne én gang rundt:
+
+$$\text{Rundt jorda} = \frac{3\,300\,000 \, \mathrm{km}}{83} \approx \underline{\underline{39\,759 \, \mathrm{km}}}$$
+
+**Sunnmøre friluftsråd har regnet med at det er omtrent $39\,759 \, \mathrm{km}$ rundt jorda.**
 
 </div></div>
 
@@ -523,6 +712,38 @@ Hun finner informasjonen nedenfor på nettsiden til en byggevareforhandler. Tykk
 
 ## Fasit
 
+Furu 28×145: $\underline{\underline{468{,}28 \, \mathrm{kr/m^2}}}$
+
+Furu 28×95: $\underline{\underline{525{,}26 \, \mathrm{kr/m^2}}}$
+
+## Løsningsforslag
+
+For å finne prisen per kvadratmeter, må vi vite hvor mange løpemeter terrassebord som går med til én kvadratmeter.
+
+Bredden på brettet bestemmer dette: 1 m² terrasse krever $\frac{1}{\text{bredde}}$ løpemeter bord.
+
+**Furu 28×145 (bredde = 145 mm = 0,145 m)**
+
+Antall løpemeter per kvadratmeter:
+
+$$\frac{1}{0{,}145} \approx 6{,}897 \, \mathrm{m/m^2}$$
+
+Pris per kvadratmeter:
+
+$$6{,}897 \, \mathrm{m/m^2} \cdot 67{,}90 \, \mathrm{kr/m} \approx \underline{\underline{468{,}28 \, \mathrm{kr/m^2}}}$$
+
+**Furu 28×95 (bredde = 95 mm = 0,095 m)**
+
+Antall løpemeter per kvadratmeter:
+
+$$\frac{1}{0{,}095} \approx 10{,}526 \, \mathrm{m/m^2}$$
+
+Pris per kvadratmeter:
+
+$$10{,}526 \, \mathrm{m/m^2} \cdot 49{,}90 \, \mathrm{kr/m} \approx \underline{\underline{525{,}26 \, \mathrm{kr/m^2}}}$$
+
+Det brede brettet (28×145) er billigst per kvadratmeter, selv om meterprisen er høyere.
+
 </div></div>
 
 
@@ -571,6 +792,83 @@ Isabel ønsker å lage en modell som viser overflaten av ulike bokser hun kan la
 
 ## Fasit
 
+a) Tabell:
+
+   | Radius, $r$ (cm) | Høyde, $h$ (cm) | Overflate, $O$ (cm²) | Volum, $V$ (cm³) |
+   |---|---|---|---|
+   | 2 | $35{,}8$ | $462{,}6$ | 450 |
+   | 4 | $8{,}95$ | $275{,}3$ | 450 |
+   | 6 | $3{,}98$ | $263{,}1$ | 450 |
+   | 8 | $2{,}24$ | $313{,}6$ | 450 |
+
+b) $O(r) = \pi r^2 + \dfrac{900}{r}$
+
+c) **Radius $r \approx 5{,}23 \, \mathrm{cm}$ gir minst mulig overflate $O \approx 258 \, \mathrm{cm}^2$.**
+
+## Løsningsforslag
+
+### a
+
+Oppgaven oppgir at $V = 450 \, \mathrm{cm}^3$ og at $V = \pi \cdot r^2 \cdot h$. Vi løser for høyden:
+
+$$h = \frac{V}{\pi \cdot r^2} = \frac{450}{\pi \cdot r^2}$$
+
+Vi bruker dette til å fylle inn tabellen for hvert valg av $r$:
+
+**$r = 4$:**
+
+$$h = \frac{450}{\pi \cdot 4^2} = \frac{450}{16\pi} \approx 8{,}95 \, \mathrm{cm}$$
+
+$$O = \pi \cdot 4^2 + 2\pi \cdot 4 \cdot 8{,}95 \approx 50{,}3 + 225{,}0 \approx 275{,}3 \, \mathrm{cm}^2$$
+
+**$r = 6$:**
+
+$$h = \frac{450}{\pi \cdot 6^2} = \frac{450}{36\pi} \approx 3{,}98 \, \mathrm{cm}$$
+
+$$O = \pi \cdot 6^2 + 2\pi \cdot 6 \cdot 3{,}98 \approx 113{,}1 + 150{,}0 \approx 263{,}1 \, \mathrm{cm}^2$$
+
+**$r = 8$:**
+
+$$h = \frac{450}{\pi \cdot 8^2} = \frac{450}{64\pi} \approx 2{,}24 \, \mathrm{cm}$$
+
+$$O = \pi \cdot 8^2 + 2\pi \cdot 8 \cdot 2{,}24 \approx 201{,}1 + 112{,}5 \approx 313{,}6 \, \mathrm{cm}^2$$
+
+Fullstendig tabell:
+
+| Radius, $r$ (cm) | Høyde, $h$ (cm) | Overflate, $O$ (cm²) | Volum, $V$ (cm³) |
+|---|---|---|---|
+| 2 | $35{,}8$ | $462{,}6$ | 450 |
+| 4 | $8{,}95$ | $275{,}3$ | 450 |
+| 6 | $3{,}98$ | $263{,}1$ | 450 |
+| 8 | $2{,}24$ | $313{,}6$ | 450 |
+
+### b
+
+Vi setter uttrykket for $h$ inn i formelen for overflaten:
+
+$$O = \pi r^2 + 2\pi r \cdot h = \pi r^2 + 2\pi r \cdot \frac{450}{\pi r^2} = \pi r^2 + \frac{900}{r}$$
+
+Funksjonsuttrykket er:
+
+$$\boxed{O(r) = \pi r^2 + \frac{900}{r}}$$
+
+Grafen nedenfor viser sammenhengen mellom radius $r$ og overflaten $O$. Bunnpunktet `A` er markert.
+
+![Graf av overflaten O(r)](/img/user/_resources/1p-v25-2-6-graf.png)
+
+I GeoGebra brukes kommandoene:
+
+```
+O(r) = pi * r^2 + 900/r
+Extremum(O, 1, 10)
+```
+
+### c
+
+Fra grafen leser vi av at bunnpunktet er ved $A \approx (5{,}23;\; 258{,}02)$.
+
+**Radius $r \approx 5{,}23 \, \mathrm{cm}$ gir minst mulig overflate $O \approx 258 \, \mathrm{cm}^2$.**
+
 </div></div>
 
 
@@ -595,6 +893,41 @@ Sofie vurderer om hun heller skal kjøpe bagetter i en butikk, smøre dem selv o
 >Gjør nødvendige antakelser og finn ut hvor mye Sofie vil kunne spare i løpet av en måned dersom hun kjøper bagetter i en butikk og smører dem selv.
 
 ## Fasit
+
+Sofie sparer omtrent $\underline{\underline{650 \, \mathrm{kr}}}$ i måneden.
+
+## Løsningsforslag
+
+For å løse oppgaven må vi gjøre antakelser om hvor mye av hver ingrediens som går til én bagett, og hvor mange skoledager det er i en måned.
+
+**Antakelser om ingrediensmengder per bagett:**
+
+| Ingrediens | Antakelse | Pris per bagett |
+|---|---|---|
+| Bagett (pakke à 2 stk, kr 19,90) | 1 bagett = halvparten av pakken | $19{,}90 \div 2 = 9{,}95 \, \mathrm{kr}$ |
+| Tomat (kr 4,29 per stk) | 1 tomat per bagett | $4{,}29 \, \mathrm{kr}$ |
+| Kokt skinke 110 g (kr 32,30) | ca. 30 g per bagett | $32{,}30 \cdot \frac{30}{110} \approx 8{,}81 \, \mathrm{kr}$ |
+| Crispi salat 150 g (kr 20,00) | ca. 20 g per bagett | $20{,}00 \cdot \frac{20}{150} \approx 2{,}67 \, \mathrm{kr}$ |
+| Norvegia 500 g (kr 83,00) | ca. 30 g ost per bagett | $83{,}00 \cdot \frac{30}{500} \approx 4{,}98 \, \mathrm{kr}$ |
+| Meierismør 250 g (kr 36,90) | ca. 10 g smør per bagett | $36{,}90 \cdot \frac{10}{250} \approx 1{,}48 \, \mathrm{kr}$ |
+
+**Kostnad per bagett hjemme:**
+
+$$9{,}95 + 4{,}29 + 8{,}81 + 2{,}67 + 4{,}98 + 1{,}48 \approx 32 \, \mathrm{kr}$$
+
+**Innsparing per dag:**
+
+$$65 - 32 = 33 \, \mathrm{kr}$$
+
+**Antakelse om skoledager per måned:**
+
+En vanlig skoleuke har 5 dager. En måned har omtrent 4 uker med skole, altså omtrent 20 skoledager.
+
+**Innsparing per måned:**
+
+$$33 \cdot 20 = 660 \, \mathrm{kr}$$
+
+**Sofie vil kunne spare omtrent $\underline{\underline{650 \, \mathrm{kr}}}$ i løpet av en måned** ved å lage bagettene selv. (Eksakt svar varierer avhengig av antakelsene som gjøres.)
 
 </div></div>
 

@@ -39,13 +39,13 @@ $$
 er sann uansett hvilken verdi $x$ har. Velger vi for eksempel $x = 3$:
 
 $$
-3^2 - 4 = 5 \qquad \text{og} \qquad (3+2)(3-2) = 5 \cdot 1 = 5
+3^2 - 4 = 5 \quad \text{og} \quad (3+2)(3-2) = 5 \cdot 1 = 5
 $$
 
 eller $x = 0$:
 
 $$
-0^2 - 4 = -4 \qquad \text{og} \qquad (0+2)(0-2) = 2 \cdot (-2) = -4
+0^2 - 4 = -4 \quad \text{og} \quad (0+2)(0-2) = 2 \cdot (-2) = -4
 $$
 
 Begge sider gir alltid samme svar.

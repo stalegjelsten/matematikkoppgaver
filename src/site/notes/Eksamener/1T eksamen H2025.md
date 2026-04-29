@@ -12,8 +12,8 @@ Table: {.eksamen-oversikt}
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Andregradsulikhet med faktorisering](https://matematikkoppgaver.vercel.app/andregradsulikhet-med-faktorisering/) | andregradslikninger, algebra | ✔︎ |
 | [1-2](#oppgave-1-2) | [Nullpunkter til tredjegradsfunksjon](https://matematikkoppgaver.vercel.app/nullpunkter-til-tredjegradsfunksjon/) | algebra, polynomdivisjon | ✔︎ |
-| [1-3](#oppgave-1-3) | [Påstander om rasjonal funksjon](https://matematikkoppgaver.vercel.app/pastander-om-rasjonal-funksjon/) | rasjonale funksjoner, asymptoter | × |
-| [1-4](#oppgave-1-4) | [Bankinnskudd med rente bakover](https://matematikkoppgaver.vercel.app/bankinnskudd-med-rente-bakover/) | prosentregning, geometrisk vekst | × |
+| [1-3](#oppgave-1-3) | [Påstander om rasjonal funksjon](https://matematikkoppgaver.vercel.app/pastander-om-rasjonal-funksjon/) | rasjonale funksjoner, asymptoter | ✔︎ |
+| [1-4](#oppgave-1-4) | [Bankinnskudd med rente bakover](https://matematikkoppgaver.vercel.app/bankinnskudd-med-rente-bakover/) | prosentregning, geometrisk vekst | ✔︎ |
 | [1-5](#oppgave-1-5) | [Trekantareal og sin 45 grader](https://matematikkoppgaver.vercel.app/trekantareal-og-sin-45-grader/) | trigonometri, arealsetningen | × |
 | [1-6](#oppgave-1-6) | [Femkanttall og programmering](https://matematikkoppgaver.vercel.app/femkanttall-og-programmering/) | figurtall, programmering, rekursiv formel | ✔︎ |
 

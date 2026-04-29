@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"date":"2024-11-28","del":2,"dg-permalink":"/nettoinntekt-med-overtid/","dg-publish":true,"eksamen":"h24","fag":["2p"],"lf-source-claude":true,"modified":"2026-03-26","oppgave":5,"oppgavenummer":[{"del":2,"fag":"2p","oppgave":5}],"poeng":3,"source":null,"status":1,"tags":["oppgave"],"temaer":["prosentregning","økonomi"],"title":"Nettoinntekt med overtid","permalink":"/nettoinntekt-med-overtid/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":[],"date":"2024-11-28","del":2,"eksamen":"h24","fag":["2p"],"lf-source-claude":true,"modified":"2026-03-26","oppgave":5,"oppgavenummer":[{"del":2,"fag":"2p","oppgave":5}],"poeng":3,"source":null,"status":1,"tags":["oppgave"],"temaer":["prosentregning","økonomi"],"title":"Nettoinntekt med overtid"}}
+{"aliases":[],"date":"2024-11-28","del":2,"dg-permalink":"/nettoinntekt-med-overtid/","dg-publish":true,"eksamen":"h24","fag":["2p"],"lf-source-claude":false,"modified":"2026-03-26","oppgave":5,"oppgavenummer":[{"del":2,"fag":"2p","oppgave":5}],"poeng":3,"source":null,"status":3,"tags":["oppgave"],"temaer":["prosentregning","økonomi"],"title":"Nettoinntekt med overtid","permalink":"/nettoinntekt-med-overtid/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":[],"date":"2024-11-28","del":2,"eksamen":"h24","fag":["2p"],"lf-source-claude":false,"modified":"2026-03-26","oppgave":5,"oppgavenummer":[{"del":2,"fag":"2p","oppgave":5}],"poeng":3,"source":null,"status":3,"tags":["oppgave"],"temaer":["prosentregning","økonomi"],"title":"Nettoinntekt med overtid"}}
 ---
 
 
@@ -22,9 +22,7 @@ En måned arbeidet hun 10 timer overtid.
 
 ## Løsningsforslag
 
-Vi bruker regneark til å beregne nettoinntekten steg for steg.
-
-![Regneark – nettoinntekt med overtid](/img/user/_resources/2p-h24-2-5.png){width=90%}
+Jeg kunne brukt regneark her, men jeg synes det er like enkelt å regne denne for hånd.
 
 **Steg 1 – Timelønn**
 
@@ -44,16 +42,19 @@ $$\text{Overtidsinntekt} = 308 \cdot 10 = 3\,080 \, \mathrm{kr}$$
 
 $$\text{Bruttolønn} = 35\,750 + 3\,080 = 38\,830 \, \mathrm{kr}$$
 
-**Steg 5 – Trekk**
+**Steg 5 – Pensjonstrekk**  
+Det er vanlig å *kun* betale pensjonstrekk for den faste lønna.
 
-$$\text{Pensjonstrekk} = 38\,830 \cdot 0{,}02 = 776{,}60 \, \mathrm{kr}$$
+$$\text{Pensjonstrekk} = 35\,750 \cdot 0{,}02 = 715 \, \mathrm{kr}$$
+**Steg 6 – Trekkgrunnlag**  
+$$\text{Trekkgrunnlag} = 38\,830 - 715 =38 \, 115 \, \mathrm{kr}$$
 
-$$\text{Skattetrekk} = 38\,830 \cdot 0{,}18 = 6\,989{,}40 \, \mathrm{kr}$$
-
-$$\text{Totalt trekk} = 776{,}60 + 6\,989{,}40 = 7\,766 \, \mathrm{kr}$$
+**Steg 7 – Skattetrekk**  
+$$\text{Totalt trekk} =  38\, 115  \cdot 0{,}18 \, = 6\,860{,}70 \, \mathrm{kr}$$
 
 **Steg 6 – Nettoinntekt**
 
-$$\text{Nettoinntekt} = 38\,830 - 7\,766 = \underline{\underline{31\,064 \, \mathrm{kr}}}$$
+$$\text{Nettoinntekt} = 38\,115 - 6\, 860{,}7 = \underline{\underline{31\,254{,}3 \, \mathrm{kr}}}$$
 
-Tobines nettoinntekt denne måneden er $\mathbf{31\,064 \, \mathrm{kr}}$.
+Tobines nettoinntekt denne måneden er $\mathbf{31\,254{,}3 \, \mathrm{kr}}$.
+
