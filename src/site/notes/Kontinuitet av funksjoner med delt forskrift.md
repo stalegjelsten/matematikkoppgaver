@@ -20,7 +20,6 @@ $$g(x) = \begin{cases} x^2 + 2\text{,} \quad  & x < 0 \\ 1\text{,} & x = 0 \\ 2e
 ## Fasit
 
 a) $f$ er kontinuerlig i $x = 0$.
-
 b) $g$ er **ikke** kontinuerlig i $x = 0$.
 
 ## Løsningsforslag

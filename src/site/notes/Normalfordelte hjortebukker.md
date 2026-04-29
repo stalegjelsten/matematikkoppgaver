@@ -7,6 +7,6 @@
 
 Vekten $X$ av voksne hjortebukker i en kommune er normalfordelt med forventningsverdi $\mu = 100$ kg og med standardavvik $\sigma=20$ kg.
 
-a) Bestem sannsynligheten for at en tilfeldig valgt hjortebukk veier mindre enn 90 kg.
-
-b) Bestem sannsynligheten for at en tilfeldig valgt hjortebukk veier mellom 90 og 110 kg.
+> [!oppgave]
+> a) Bestem sannsynligheten for at en tilfeldig valgt hjortebukk veier mindre enn 90 kg.
+> b) Bestem sannsynligheten for at en tilfeldig valgt hjortebukk veier mellom 90 og 110 kg.

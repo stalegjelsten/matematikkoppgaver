@@ -26,7 +26,7 @@ Table: {.eksamen-oversikt}
 | [2-2](#oppgave-2-2) | [Bakterier i kjøkkensvamp](https://matematikkoppgaver.vercel.app/bakterier-i-kjokkensvamp/) | standardform, store tall | ✔︎ |
 | [2-3](#oppgave-2-3) | [Argumenter for at prosentregnestykker gir samme svar](https://matematikkoppgaver.vercel.app/argumenter-for-at-prosentregnestykker-gir-samme-svar/) | prosent, utforskning, argumentasjon, prosentregning | ✔︎ |
 | [2-4](#oppgave-2-4) | [Modeller for parkeringsavtaler](https://matematikkoppgaver.vercel.app/modeller-for-parkeringsavtaler/) | modellering, regresjon | ✔︎ |
-| [2-5](#oppgave-2-5) | [Statistikk for quizlag](https://matematikkoppgaver.vercel.app/statistikk-for-quizlag/) | statistikk, utforskning | × |
+| [2-5](#oppgave-2-5) | [Statistikk for quizlag](https://matematikkoppgaver.vercel.app/statistikk-for-quizlag/) | statistikk, sentralmål, standardavvik, utforskning | × |
 | [2-6](#oppgave-2-6) | [Modell for Hannes løping](https://matematikkoppgaver.vercel.app/modell-for-hannes-loping/) | modellering, regresjon | ✔︎ |
 | [2-7](#oppgave-2-7) | [Lag presentasjon om statistikk for tidsbruk på ulike aktiviteter](https://matematikkoppgaver.vercel.app/lag-presentasjon-om-statistikk-for-tidsbruk-pa-ulike-aktiviteter/) | presentasjon av data, prosentregning, diagram | ✔︎ |
 | [2-8](#oppgave-2-8) | [Tores sykkeltrening](https://matematikkoppgaver.vercel.app/tores-sykkeltrening/) | prosentvis endring i flere perioder, utforskning | ✔︎ |

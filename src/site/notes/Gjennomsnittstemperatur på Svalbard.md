@@ -30,7 +30,7 @@ b) Gjennomsnittlig vekstfart er 5,04. Gjennomsnittlig øker temp med 5,04 ºC pe
 
 ## Løsningsforslag
 
-### 2-1a
+### a
 Jeg tegnet grafen til funksjonen og fant skjæringspunktene ved $x$-aksen, hvor temperaturen er 0 °C, se punkt $B$ og $C$. 
 
 ![Del 2 oppgave 1. Gjennomsnittemperatur på Svalbard 1. februar–1. oktober](/img/user/_resources/1t-v2023-2-1a.png){ width=80% }
@@ -43,7 +43,7 @@ $$
 
 **Temperaturen er over 0 °C i omtrent 96 døgn**
 
-### 2-1b
+### b
 Jeg la inn punktene i GeoGebra, dro en linje mellom dem og fant stigningstallet, se $b=5{,}04$ i utklippet.
 
 ![Del 2 oppgave 1b. Gjennomsnittlig vekstfart fra mars til juli](/img/user/_resources/1t-v23-2-1b.png){ width=80% }
@@ -52,7 +52,7 @@ Stigningstallet til linja gir den gjennomsnittlige vekstfarten fra $x=3$ til $x=
 
 **Temperaturen steg med 5,04 grader per måned i gjennomsnitt i perioden fra 1. mars til 1. juli.**
 
-### 2-1c
+### c
 Jeg tegnet $T'$ sammen med $T$ i koordinatsystemet og fant nullpunkter og ekstremalpunkter til $T'$. 
 
 ![Del 2 oppgave 1c. Vekstfarten til temperaturen på Svalbard](/img/user/_resources/1t-v23-2-1c.png){ width=80% }

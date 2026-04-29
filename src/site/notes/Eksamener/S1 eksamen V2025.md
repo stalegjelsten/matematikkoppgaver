@@ -74,9 +74,7 @@ En funksjon $g$ er gitt ved $g(x) = \frac{1}{2}e^x \cdot (2x-1)^2$
 ## Fasit
 
 a) $\underline{\underline{x = \frac{1}{2}}}$ (dobbelrot)
-
 b) Se løsningsforslag.
-
 c) Toppunkt: $\underline{\underline{\left(-\frac{3}{2},\ 8e^{-3/2}\right)}}$, bunnpunkt: $\underline{\underline{\left(\frac{1}{2},\ 0\right)}}$
 
 ## Løsningsforslag
@@ -141,6 +139,7 @@ Koordinater:
 - Toppunkt: $\underline{\underline{\left(-\frac{3}{2},\ 8e^{-3/2}\right)}}$
 - Bunnpunkt: $\underline{\underline{\left(\frac{1}{2},\ 0\right)}}$
 
+
 </div></div>
 
 
@@ -181,7 +180,6 @@ Løs likningene
 >Bestem grenseverdiene
 >
 >a) $\lim_{x\to 3} \dfrac{3(x^2-3)}{x-3}$
->
 >b) $\lim_{x\to 4} \dfrac{\sqrt{x}-2}{x-4}$
 
 ## Fasit
@@ -210,6 +208,7 @@ $$
 $$
 
 **Grenseverdien eksisterer ikke siden grenseverdiene fra venstre og høyre side ikke stemmer overens.**
+
 
 </div></div>
 
@@ -294,7 +293,6 @@ $$g(x) = \begin{cases} x^2 + 2\text{,} \quad  & x < 0 \\ 1\text{,} & x = 0 \\ 2e
 ## Fasit
 
 a) $f$ er kontinuerlig i $x = 0$.
-
 b) $g$ er **ikke** kontinuerlig i $x = 0$.
 
 ## Løsningsforslag
@@ -335,6 +333,7 @@ Kontinuitetskravet er ikke oppfylt.
 
 **$g$ er ikke kontinuerlig i $x = 0$.**
 
+
 </div></div>
 
 
@@ -360,7 +359,6 @@ Peder har glemt koden på hengelåsen sin. Koden består av tre sifre. Peder hus
 ## Fasit
 
 a) $\underline{\underline{P = \frac{1}{216} \approx 0{,}46 \,\%}}$
-
 b) Simuleringen gir ca. $0{,}43 \,\%$, nært den teoretiske verdien $0{,}46 \,\%$.
 
 ## Løsningsforslag
@@ -399,6 +397,7 @@ Estimat: 0.0043
 ```
 
 Simuleringen gir ca. $0{,}43 \,\%$, som stemmer godt med den teoretiske verdien $\frac{1}{216} \approx 0{,}46 \,\%$. Avviket skyldes tilfeldig variasjon i simuleringen.
+
 
 </div></div>
 
@@ -488,9 +487,7 @@ Emma og Marie er to av jentene.
 ## Fasit
 
 a) $\underline{\underline{210 \text{ måter}}}$
-
 b) $\underline{\underline{P(\text{minst 2 gutter}) = \dfrac{1}{3} \approx 33{,}3\,\%}}$
-
 c) $\underline{\underline{P(\text{nøyaktig 1 av Emma/Marie}) = \dfrac{8}{15} \approx 53{,}3\,\%}}$
 
 ## Løsningsforslag
@@ -541,6 +538,7 @@ $$P(\text{nøyaktig 1 av Emma/Marie}) = \frac{\binom{2}{1} \cdot \binom{8}{3}}{\
 
 **Sannsynligheten for at bare én av de to jentene blir med i arbeidsgruppen er $\underline{\underline{\dfrac{8}{15} \approx 53{,}3\,\%}}$.**
 
+
 </div></div>
 
 
@@ -572,7 +570,6 @@ Også her skal vi plukke ut 10 tilfeldige personer blant dem som stemte.
 ## Fasit
 
 a) $\underline{\underline{P(X \geq 4) \approx 1{,}95 \,\%}}$
-
 b) $\underline{\underline{P(Y \geq 4) \approx 65{,}0 \,\%}}$
 
 ## Løsningsforslag
@@ -615,6 +612,7 @@ $$1 - \texttt{FordelingHypergeometrisk}(243;\; 100;\; 10;\; 3;\; \text{true})$$
 
 Det er altså omtrent $65$ % sannsynlighet for at minst 4 av de 10 tilfeldige personene stemte Arbeiderpartiet i denne valgkretsen.
 
+
 </div></div>
 
 
@@ -648,10 +646,8 @@ Bedriften ønsker å gjennomføre en kampanje hvor de en uke donerer 30 kroner p
 
 ## Fasit
 
-a) Største inntekt: $\underline{\underline{I \approx 21\,944 \, \mathrm{kr/uke}}}$ ved $x = 261$ T-skjorter.
-
+a) Største inntekt: $\underline{\underline{I \approx 21\,945 \, \mathrm{kr/uke}}}$ ved $x = 261$ T-skjorter.
 b) Største overskudd: $\underline{\underline{O \approx 8\,193 \, \mathrm{kr/uke}}}$ ved $x = 219$ T-skjorter.
-
 c) Bedriften kan selge maks $\underline{\underline{251 \text{ T-skjorter}}}$ uten å gå med underskudd.
 
 ## Løsningsforslag
@@ -678,7 +674,7 @@ Vi sjekker at dette er et maksimum: $I''(x) = -0{,}006x + 0{,}4$, og $I''(261) =
 
 GeoGebra CAS (linje 8): $I(261) \approx 21\,945 \, \mathrm{kr}$.
 
-**Den største mulige inntekten er $\underline{\underline{I \approx 21\,944 \, \mathrm{kr/uke}}}$ ved produksjon og salg av 261 T-skjorter.**
+**Den største mulige inntekten er $\underline{\underline{I \approx 21\,945 \, \mathrm{kr/uke}}}$ ved produksjon og salg av 261 T-skjorter.**
 
 ### b
 
@@ -705,6 +701,7 @@ GeoGebra CAS (linje 12) gir røttene $x \approx -269{,}6$, $x \approx 117{,}8$ o
 Den største positive røtten er $x \approx 251{,}8$. Vi sjekker: $O_k(251) \approx 57 > 0$ og $O_k(252) \approx -13 < 0$.
 
 **Bedriften kan produsere og selge maks $\underline{\underline{251 \text{ T-skjorter}}}$ i kampanjeuken uten å gå med underskudd.**
+
 
 </div></div>
 
@@ -742,9 +739,7 @@ som modell for den totale verdien av oljefondet i milliarder kroner $t$ år ette
 ## Fasit
 
 a) $O(t) = 330 \cdot 1{,}18^{t}$ (eksponentiell modell, se begrunnelse)
-
 b) $\underline{\underline{V(20) \approx 8843 \, \mathrm{mrd\,kr}}}$, $\underline{\underline{V'(20) \approx 1454 \, \mathrm{mrd\,kr/år}}}$
-
 c) Gjennomsnittlig vekstfart $[0, 10]$: $\approx 138 \, \mathrm{mrd\,kr/år}$. Gjennomsnittlig vekstfart $[16, 26]$: $\approx 1913 \, \mathrm{mrd\,kr/år}$. Vekstfarten er ca. 14 ganger så stor i den siste perioden.
 
 ## Løsningsforslag
@@ -793,6 +788,7 @@ Forholdet mellom vekstfartene:
 $$\frac{1913}{138} \approx \underline{\underline{13{,}9}}$$
 
 Vekstfarten i perioden $[16, 26]$ er ca. **14 ganger** så stor som i $[0, 10]$. Dette er som forventet for en eksponentiell funksjon — prosentveksten er konstant, men siden grunnlaget er mye større mot slutten, øker den absolutte veksten kraftig.
+
 
 </div></div>
 

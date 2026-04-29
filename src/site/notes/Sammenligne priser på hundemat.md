@@ -24,7 +24,6 @@ Du skal kjøpe hundemat og kan velge mellom merkene Gnafs og Nam-Nam. Hundematen
 
 >[!oppgave]
 >b) Hvilken hundemat har den laveste kiloprisen? Hva er prisen per kilogram for denne hundematen?
->
 >c) Hvilken hundemat gir lavest kostnad i kroner per dag? Husk å begrunne svaret ditt.
 
 ## Fasit
@@ -35,7 +34,9 @@ c) Nam-Nam: $15 \, \mathrm{kr/dag}$
 
 ## Løsningsforslag
 
-a) Nam-Nam koster 600 kr for 8 kg. Vi deler på 2, 4 og 8 for å finne prisene:
+### a
+
+Nam-Nam koster 600 kr for 8 kg. Vi deler på 2, 4 og 8 for å finne prisene:
 
    **Nam-Nam hundemat**
 
@@ -43,14 +44,18 @@ a) Nam-Nam koster 600 kr for 8 kg. Vi deler på 2, 4 og 8 for å finne prisene:
    |---------------|-----|-----|-----|----|
    | Pris (kroner) | 600 | 300 | 150 | 75 |
 
-b) Kilopris for hvert merke:
+### b
+
+Kilopris for hvert merke:
 
    - Gnafs: $700 \div 10 = 70 \, \mathrm{kr/kg}$
    - Nam-Nam: $600 \div 8 = 75 \, \mathrm{kr/kg}$
 
    **Gnafs har den laveste kiloprisen med $\underline{\underline{70 \, \mathrm{kr/kg}}}$.**
 
-c) Daglig kostnad for hvert merke:
+### c
+
+Daglig kostnad for hvert merke:
 
    - Gnafs: $250 \, \mathrm{g} = 0{,}25 \, \mathrm{kg}$, kostnad per dag $= 0{,}25 \cdot 70 = 17{,}50 \, \mathrm{kr}$
    - Nam-Nam: $200 \, \mathrm{g} = 0{,}20 \, \mathrm{kg}$, kostnad per dag $= 0{,}20 \cdot 75 = 15{,}00 \, \mathrm{kr}$

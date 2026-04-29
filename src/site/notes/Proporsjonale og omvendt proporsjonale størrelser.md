@@ -5,24 +5,22 @@
 
 # Proporsjonale og omvendt proporsjonale størrelser
 
-Nedenfor er det beskrevet tre situasjoner. Fullfør siste setning i hver beskrivelse ved å sette inn teksten som står i en av rutene nedenfor.
+Nedenfor er det beskrevet tre situasjoner: A, B, C. Avgjør om hver enkelt situasjon beskriver:
 
-Table: {.grid}
-
-| proporsjonale størrelser | omvendt proporsjonale størrelser | verken proporsjonale eller omvendt proporsjonale størrelser |
-|--------------------------|----------------------------------|-------------------------------------------------------------|
+- proporsjonale størrelser
+- omvendt proporsjonale størrelser
+- verken proporsjonale størrelser eller omvendt proporsjonale størrelser
 
 Husk å argumentere for alle tre svarene dine.
 
->[!oppgave]
->**Situasjon A**  
->Det koster 2200 kroner å leie en badstue. Antallet personer som er med på å betale leien, og prisen per person er …
->
->**Situasjon B**  
->Når du kjøper brus, kan du ta tre flasker og betale for to. Antallet flasker du kjøper, og prisen du betaler for alle flaskene, er …
->
->**Situasjon C**  
->Antallet porsjoner vaffelrøre du lager, og mengden mel du trenger, er …
+> [!blue-box] Situasjon A
+> Det koster 2200 kroner å leie en badstue. Antallet personer som er med på å betale leien, og prisen per person er …
+
+> [!yellow-box] Situasjon B
+> Når du kjøper brus, kan du ta tre flasker og betale for to. Antallet flasker du kjøper, og prisen du betaler for alle flaskene, er …
+
+> [!green-box] Situasjon C
+> Antallet porsjoner vaffelrøre du lager, og mengden mel du trenger, er …
 
 ## Fasit
 

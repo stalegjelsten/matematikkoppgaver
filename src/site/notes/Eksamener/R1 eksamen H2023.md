@@ -246,7 +246,6 @@ Svaret han får, er ikke riktig.
 ## Fasit
 
 a) Egil sjekker om grafen synker ved å beregne tilnærmet stigningstall. Løkken stopper ved $a = 3$, og programmet printer $(3, -11)$.
-
 b) Endre `a = a + 1` til `a = a + 0.01`
 
 ## Løsningsforslag
@@ -281,6 +280,7 @@ til
 
 Da stopper løkken ved $a \approx 2{,}25$ og programmet printer et bunnpunkt som er langt nærmere det ekte svaret **$\mathbf{(2{,}25,\ -12{,}125)}$**.
 
+
 </div></div>
 
 
@@ -314,9 +314,7 @@ Tabellen nedenfor viser konsentrasjonen, i millimol per liter (mmol/L), av et st
 ## Fasit
 
 a) Regresjon på de forskjøvede verdiene $(t,\, c(t)-2{,}5)$ gir $a \approx -2{,}5$ og $b \approx 0{,}99$, som bekrefter modellen $f(t) = 2{,}5 - 2{,}5 \cdot 0{,}99^t$.
-
 b) $\underline{\underline{t \approx 160 \text{~sekunder}}}$
-
 c) $\underline{\underline{t \approx 321 \text{~sekunder}}}$
 
 ## Løsningsforslag
@@ -400,9 +398,7 @@ der $k \in \mathbb{R}$.
 ## Fasit
 
 a) $f$ er kontinuerlig for alle $k \in \mathbb{R}$.
-
 b) $\underline{\underline{k = 0}}$
-
 c) $\underline{\underline{k \in [-2,\, 2]}}$
 
 ## Løsningsforslag
@@ -570,9 +566,7 @@ Du skal lage en slik kasse som rommer 80 $\mathrm{dm^3}$.
 ## Fasit
 
 a) **$\underline{\underline{V = 118{,}75 \, \mathrm{dm^3}}}$**
-
 b) **$\underline{\underline{V_{\max} = 40\sqrt{10} \approx 126{,}5 \, \mathrm{dm^3}}}$**
-
 c) **$\underline{\underline{A_{\min} = 12\sqrt[3]{20^2} \approx 88{,}4 \, \mathrm{dm^2}}}$**
 
 ## Løsningsforslag
@@ -641,6 +635,7 @@ $$A_{\min} = 12\sqrt[3]{20^2} \approx \mathbf{\underline{\underline{88{,}4 \, \m
 
 $A'(x)$ skifter fortegn fra $-$ til $+$ i $x = 2\sqrt[3]{20}$, så dette er et minimum.
 
+
 </div></div>
 
 
@@ -677,9 +672,7 @@ En annen hockeyspiller var i posisjonen $P(-18, 11)$ da pucken ble sendt av går
 ## Fasit
 
 a) $\underline{\underline{|\vec{r}'(0)| = 2\sqrt{89} \approx 18{,}87 \, \mathrm{m/s}}}$
-
 b) **Pucken treffer lang-vanten etter ca. $3{,}05$ sekunder.**
-
 c) **Spilleren ble ikke truffet av pucken** — pucken beveger seg langs linjen $5x = 8y$, og selv om spillerens bane krysser denne linjen, er spilleren og pucken ikke i samme punkt på samme tidspunkt.
 
 ## Løsningsforslag
@@ -795,11 +788,8 @@ Anne påstår at dersom $a = 2$ og $b = 8$, så vil $c = 5$ for alle andregradsf
 ## Fasit
 
 a) $\underline{\underline{c = 2}}$
-
 b) Se program i løsningsforslaget.
-
 c) $c$ er alltid midtpunktet $\frac{a+b}{2}$.
-
 d) Annes påstand er **riktig** for alle andregradsfunksjoner (med $p \neq 0$).
 
 ## Løsningsforslag

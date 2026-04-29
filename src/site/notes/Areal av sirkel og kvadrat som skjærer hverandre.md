@@ -15,3 +15,5 @@ Et kvadrat har sidekant 1 m. En sirkel er tegnet på innsiden av kvadratet slik 
 ## Fasit
 
 $8\sqrt{ 2 }-11 \,\text{m}$
+
+## Løsningsforslag

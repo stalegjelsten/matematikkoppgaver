@@ -36,11 +36,15 @@ b) $\cos \varphi \approx 0{,}58$
 
 ## Løsningsforslag
 
-a) Vi løser $P = U \cdot I$ for $I$:
+### a
+
+Vi løser $P = U \cdot I$ for $I$:
 
    $$I = \frac{P}{U} = \frac{1725}{230} = \underline{\underline{7{,}5 \, \mathrm{A}}}$$
 
-b) Vi bruker de to formlene. Først finner vi tilført effekt fra virkningsgraden:
+### b
+
+Vi bruker de to formlene. Først finner vi tilført effekt fra virkningsgraden:
 
    $$\eta = \frac{P_a}{P_t} \implies P_t = \frac{P_a}{\eta} = \frac{920}{0{,}8} = 1150 \, \mathrm{W}$$
 

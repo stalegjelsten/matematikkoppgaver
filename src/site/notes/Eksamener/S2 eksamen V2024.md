@@ -10,12 +10,12 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [1-1](#oppgave-1-1) | [Bestemt integral og areal](https://matematikkoppgaver.vercel.app/bestemt-integral-og-areal/) | integral, areal under graf | ✔︎ |
-| [1-2](#oppgave-1-2) | [Ubestemt integral v24](https://matematikkoppgaver.vercel.app/ubestemt-integral-v24/) | integral | ✔︎ |
-| [1-3](#oppgave-1-3) | [Ukjent program S2 v24](https://matematikkoppgaver.vercel.app/ukjent-program-s2-v24/) | programmering, rekker | ✔︎ |
+| [1-1](#oppgave-1-1) | [Bestemt integral og areal](https://matematikkoppgaver.vercel.app/bestemt-integral-og-areal/) | integral, areal under graf, bestemt integral | ✔︎ |
+| [1-2](#oppgave-1-2) | [Ubestemt integral v24](https://matematikkoppgaver.vercel.app/ubestemt-integral-v24/) | integral, substitusjon | ✔︎ |
+| [1-3](#oppgave-1-3) | [Ukjent program S2 v24](https://matematikkoppgaver.vercel.app/ukjent-program-s2-v24/) | programmering, rekker, aritmetisk rekke | ✔︎ |
 | [1-4](#oppgave-1-4) | [Normalfordelt laks](https://matematikkoppgaver.vercel.app/normalfordelt-laks/) | standard normalfordeling, normalfordeling | ✔︎ |
 | [1-5](#oppgave-1-5) | [Vis at enhetskostnad er like grensekostnad ved laveste enhetskostnad](https://matematikkoppgaver.vercel.app/vis-at-enhetskostnad-er-like-grensekostnad-ved-laveste-enhetskostnad/) | bevis, enhetskostnad, grenseinntekt og grensekostnad, økonomi | ✔︎ |
-| [1-6](#oppgave-1-6) | [Hildes terningkast](https://matematikkoppgaver.vercel.app/hildes-terningkast/) | forventningsverdi, normalfordeling, standard normalfordeling, utforskning | ✔︎ |
+| [1-6](#oppgave-1-6) | [Hildes terningkast](https://matematikkoppgaver.vercel.app/hildes-terningkast/) | forventningsverdi, normalfordeling, standard normalfordeling, utforskning, sentralgrenseteoremet | ✔︎ |
 
 **Del 2** — 3 timer — med hjelpemidler
 
@@ -23,11 +23,11 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [Logistisk vekst for et produkt](https://matematikkoppgaver.vercel.app/logistisk-vekst-for-et-produkt/) | økonomi, logistisk funksjon, samlet mengde | ✔︎ |
-| [2-2](#oppgave-2-2) | [Hypotesetest om legemiddel](https://matematikkoppgaver.vercel.app/hypotesetest-om-legemiddel/) | hypotesetest, binomisk | ✔︎ |
-| [2-3](#oppgave-2-3) | [Olivias annuitetslån](https://matematikkoppgaver.vercel.app/olivias-annuitetslan/) | lån, rekker, excel, cas | ✔︎ |
-| [2-4](#oppgave-2-4) | [Kubikktall](https://matematikkoppgaver.vercel.app/kubikktall/) | rekursiv sammenheng, figurtall, programmering | ✔︎ |
-| [2-5](#oppgave-2-5) | [Sveins kurv med baller](https://matematikkoppgaver.vercel.app/sveins-kurv-med-baller/) | sannsynlighet, hypergeometrisk, utforskning | ✔︎ |
+| [2-1](#oppgave-2-1) | [Logistisk vekst for et produkt](https://matematikkoppgaver.vercel.app/logistisk-vekst-for-et-produkt/) | økonomi, logistisk funksjon, samlet mengde, integral, derivasjon | ✔︎ |
+| [2-2](#oppgave-2-2) | [Hypotesetest om legemiddel](https://matematikkoppgaver.vercel.app/hypotesetest-om-legemiddel/) | hypotesetest, binomisk, binomisk fordeling | ✔︎ |
+| [2-3](#oppgave-2-3) | [Olivias annuitetslån](https://matematikkoppgaver.vercel.app/olivias-annuitetslan/) | lån, rekker, excel, cas, annuitetslån | ✔︎ |
+| [2-4](#oppgave-2-4) | [Kubikktall](https://matematikkoppgaver.vercel.app/kubikktall/) | rekursiv sammenheng, figurtall, programmering, rekker, regresjon | ✔︎ |
+| [2-5](#oppgave-2-5) | [Sveins kurv med baller](https://matematikkoppgaver.vercel.app/sveins-kurv-med-baller/) | sannsynlighet, hypergeometrisk, utforskning, programmering | ✔︎ |
 
 # Del 1
 
@@ -61,7 +61,7 @@ b) $\frac{5}{2}$
 
 ## Løsningsforslag
 
-### 1-1a
+### a
 
 $$
 \begin{aligned}
@@ -74,7 +74,7 @@ $$
 
 **Integralet er $\underline{\underline{-\frac{5}{4}}}$.** 
 
-### 1-1b
+### b
 Jeg finner først nullpunktene ved å faktorisere uttrykket.
 
 $$
@@ -192,12 +192,12 @@ b) 11
 
 ## Løsningsforslag
 
-### 1-3a
+### a
 Programmet viser en aritmetisk følge hvor hvert ledd er gitt av $a_{n}=4n-2$ for $n>0$. Programmet regner ut delsummene, $S_{n}$, til den tilhørende rekka. 
 
 **Programmet finner ut hvilket ledd i rekka som gjør at delsummen blir *over* 200.**
 
-### 1-3b
+### b
 Siden tallfølgen er aritmetisk kan vi regne ut summen av de $n$ første leddene med
 
 $$
@@ -247,7 +247,7 @@ b) 34,5 %
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 La $X$ være vekten til en tilfeldig valgt fisk. Da er forventningsverdien $E(X)=4700$. 
 
 Vi vet at 88,5 % av fisken som slaktes veier mindre eller lik 5300 gram. Ifølge normalfordelingstabellen så er $0{,}885=\Phi(1{,}2) \implies z=1{,}2$.
@@ -260,7 +260,7 @@ $$
 
 **Standardavviket for en vilkårlig valgt laks er 500 gram.**
 
-### 1-4b
+### b
 Vi gjør om til standard normalfordeling
 
 $$
@@ -291,6 +291,7 @@ La $K(x)$ være kostnadsfunksjonen til en bedrift som produserer $x$ enheter av 
 
 ## Fasit
 
+Oppgaven er et bevis. Se løsningsforslag.
 
 ## Løsningsforslag
 
@@ -342,7 +343,7 @@ b) 100
 
 ## Løsningsforslag
 
-### 1-6a
+### a
 For å finne forventningsverdien lager jeg en tabell og regner ut $\sum_{i=1}^6 x \cdot P(X=x)$ 
 
 | $x$ |   $P(X=x)$    |         $x \cdot P(X=x)$          |
@@ -357,7 +358,7 @@ For å finne forventningsverdien lager jeg en tabell og regner ut $\sum_{i=1}^6 
 
 **Forventningsverdien er 3,5.**
 
-### 1-6b
+### b
 Standardavviket til ett kast er $SD(X)=1{,}7$. 
 
 Vi lar $S$ være summen av $n$ forsøk med $X$ slik at
@@ -514,7 +515,7 @@ c) 100
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 $X$ er binomisk fordelt fordi
 
 - Vi har $n$ delforsøk
@@ -537,7 +538,7 @@ $$
 >
 >$$P(X=9)=\binom{12}{9}\cdot 0{,}75^{9} \cdot 0{,}25^{3}=0{,}2581$$
 
-### 2-2b
+### b
 Nullhypotesen vår er at begge legemidlene er like effektive, mens den alternative hypotesen er at legemiddel B er bedre.
 
 $$
@@ -553,7 +554,7 @@ Jeg finner sannsynligheten for at legemiddel B skal ha fungert på 9 av 10 pasie
 
 **$p$-verdien er 0,244, dette er større enn signifikansnivået 0,05. Vi kan ikke forkaste $H_{0}$, og vi kan dermed ikke si at legemiddel B fungerer bedre enn legemiddel A.**
 
-### 2–2c
+### c
 
 >[!tip] Oppgaven kan også løses med binomisk fordeling
 >
@@ -612,19 +613,19 @@ Jeg velger å løse disse oppgavene i CAS, men jeg har tatt med et eksempel på 
 
 ![Utklipp til oppgave 2-3](/img/user/_resources/s2-v24-2-3-cas.png){width=70%}
 
-### 2-3a
+### a
 Summen av nåverdiene til terminbeløpene skal bli lik lånebeløpet. Jeg setter opp dette som en likning i CAS med `Sum((x/1.055^i), i, 1, 25) = 25000000` og løser, se linje 1 i utklippet.
 
 **Terminbeløpet er 186 373 kr.**
 
-### 2-3b
+### b
 Jeg setter opp det det ekstra lånet som et nytt lån til samme rente med 20 års nedbetalingstid. Jeg regner ut terminbeløpet til dette lånet på samme måte som i a), og får terminbeløpet 41 839,67 kr. Se linje 2 i utklippet. 
 
 Olivia må betale for begge lånene fra år 5 og utover, se linje 3.
 
 **Det nye terminbeløpet blir 228 213 kr fra år 5 og utover.**
 
-### 2-3c
+### c
 Etter 5 år så har Olivia allerede betalt ned lånet med kr 272 767, se linje 4.
 
 I linje 5 så setter jeg opp en likning. På venstre side har vi summen av nåverdiene til terminbeløpene, men med ukjent antall terminer. På høyre side har vi lånebeløpet etter 5 år, som blir det originale lånebeløpet og ekstralånet, minus 272 767 kr. Fra CAS ser jeg at det tar 25,89 år etter de 5 første årene før lånet er nedbetalt. Jeg runder opp til 26 siden det er først i dette året at lånet er tilbakebetalt.
@@ -4493,7 +4494,7 @@ b) $S_{50}=1625625$
 
 ## Løsningsforslag
 
-### 2-4a
+### a
 Jeg setter opp de første leddene og ser om jeg finner en rekursiv sammenheng som jeg kan bruke.
 
 $$
@@ -4518,7 +4519,7 @@ En eksplisitt formel for summene er
 
 $$S_{n}=\underline{\underline{\frac{1}{4}\left( n^{4}+ 2n^{3}+n^{2} \right)}}$$
 
-### 2-4b
+### b
 Jeg bruker følgende program
 
 ```python
@@ -4599,7 +4600,7 @@ b) 34 eller 36 baller
 
 ## Løsningsforslag
 
-### 2-5a
+### a
 Vi har et forsøk uten tilbakelegging med to typer baller, så vi kan bruke en hypergeometrisk sannsynlighetsfordeling. Hvis det er 15 baller av hver type er sannsynligheten for å trekke 9 røde og 6 blå baller gitt ved
 
 $$
@@ -4608,7 +4609,7 @@ $$
 
 **Sannsynligheten for å trekke 9 røde og 6 blå baller er 16,1 %.**
 
-### 2-5b
+### b
 
 #### Løsningsmetode 1: Programmering
 Her prøver jeg meg fram med programmering og setter inn ulike verdier for antallet baller i kurva. Man kan programmere binomialkoeffisientfunksjonen selv, eller bruke en ferdig funksjon fra `math`-biblioteket. 

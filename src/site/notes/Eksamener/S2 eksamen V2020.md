@@ -421,7 +421,6 @@ Figuren nedenfor viser grafen til $K$ og tangenten til grafen i punktet $(100, 1
 >b) Vis at den deriverte av enhetskostnaden kan skrives som
 >
 >$$E'(x) = \frac{K'(x) - E(x)}{x}$$
->
 >c) Bestem $E'(100)$. Hva forteller dette tallet oss?
 
 ## Fasit

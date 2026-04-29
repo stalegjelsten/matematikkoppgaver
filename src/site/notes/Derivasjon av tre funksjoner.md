@@ -20,16 +20,22 @@ c) $h'(x) = \dfrac{2(1-x^2)}{(x^2+1)^2}$
 
 ## Løsningsforslag
 
-a) Vi deriverer ledd for ledd:
+### a
+
+Vi deriverer ledd for ledd:
 
    $$f'(x) = 3 \cdot 3x^2 + \frac{1}{x} = \underline{\underline{9x^2 + \frac{1}{x}}}$$
 
-b) Vi bruker produktregelen med $u = x$ og $v = e^{-2x^2}$:
+### b
+
+Vi bruker produktregelen med $u = x$ og $v = e^{-2x^2}$:
 
    $$g'(x) = 1 \cdot e^{-2x^2} + x \cdot (-4x) \cdot e^{-2x^2} = e^{-2x^2}(1 - 4x^2)$$
 
    $$= \underline{\underline{(1 - 4x^2) \cdot e^{-2x^2}}}$$
 
-c) Vi bruker brøkregelen med $u = 2x$ og $v = x^2 + 1$:
+### c
+
+Vi bruker brøkregelen med $u = 2x$ og $v = x^2 + 1$:
 
    $$h'(x) = \frac{2(x^2+1) - 2x \cdot 2x}{(x^2+1)^2} = \frac{2x^2 + 2 - 4x^2}{(x^2+1)^2} = \underline{\underline{\frac{2 - 2x^2}{(x^2+1)^2}}}$$

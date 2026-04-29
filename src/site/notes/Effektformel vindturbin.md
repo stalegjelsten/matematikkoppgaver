@@ -23,9 +23,7 @@ Vindturbinen er konstruert for drift med følgende verdier:
 
 >[!oppgave]
 >a) Finn den leverte effekten ($P$) til vindturbinen. Husk å begrunne svaret ditt.
->
 >b) Hva må $A$ av bladene til vindturbinen være hvis effekten skal være $9425 \mathrm{~W}$ med samme vindhastighet?
->
 >c) Hva gir størst økning i effekt: en dobling av rotorarealet $A$ eller en dobling av vindhastigheten $v$? Gjør utregninger og begrunn svaret ditt.
 
 ## Fasit
@@ -36,11 +34,15 @@ c) Dobling av $v$ gir størst økning (faktor 8 mot faktor 2)
 
 ## Løsningsforslag
 
-a) Vi setter inn de oppgitte verdiene i formelen:
+### a
+
+Vi setter inn de oppgitte verdiene i formelen:
 
    $$P = \frac{v^3 \cdot A \cdot \rho \cdot \eta}{2} = \frac{10^3 \cdot 20 \cdot 1{,}3 \cdot 0{,}5}{2} = \frac{130\,000}{2} = \underline{\underline{6500 \, \mathrm{W}}}$$
 
-b) Vi løser for $A$ når $P = 9425 \, \mathrm{W}$:
+### b
+
+Vi løser for $A$ når $P = 9425 \, \mathrm{W}$:
 
    $$
    \begin{aligned}
@@ -50,7 +52,9 @@ b) Vi løser for $A$ når $P = 9425 \, \mathrm{W}$:
    \end{aligned}
    $$
 
-c) Vi beregner effekten ved dobling av $A$ og ved dobling av $v$:
+### c
+
+Vi beregner effekten ved dobling av $A$ og ved dobling av $v$:
 
    **Dobling av $A$** (fra 20 til 40 m²):
 

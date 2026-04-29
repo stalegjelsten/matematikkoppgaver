@@ -140,7 +140,6 @@ I en skuff ligger det 6 gule, 5 svarte og 4 hvite sokker.
 ## Fasit
 
 a) $\underline{\underline{P(\text{begge gule}) = \dfrac{1}{7} \approx 14{,}3 \,\%}}$
-
 b) $\underline{\underline{P(\text{minst 2 like}) = \dfrac{67}{91} \approx 73{,}6 \,\%}}$
 
 ## Løsningsforslag
@@ -190,6 +189,7 @@ $$P(\text{alle ulike}) = \frac{120}{455} = \frac{24}{91}$$
 $$P(\text{minst 2 av samme farge}) = 1 - \frac{24}{91} = \frac{91 - 24}{91} = \frac{67}{91}$$
 
 **$\underline{\underline{P(\text{minst 2 av samme farge}) = \dfrac{67}{91} \approx 73{,}6 \,\%}}$**
+
 
 </div></div>
 
@@ -251,6 +251,70 @@ En måned trenger et firma 70 biler. De er villige til å betale mer enn 600 000
 
 ## Fasit
 
+a) $\underline{\underline{x = 41 \text{ biler}}}$ gir størst overskudd, $O(41) \approx 9302 \text{ tusen kr} \approx 9{,}3 \text{ mill. kr}$
+b) $\underline{\underline{x = 8 \text{ biler}}}$ gir lavest enhetskostnad, $E(8) \approx 250{,}3 \text{ tusen kr per bil}$
+c) $\underline{\underline{p \approx 784\,234 \text{ kr per bil}}}$
+
+## Løsningsforslag
+
+Vi definerer inntektsfunksjonen. Edison selger hver bil for 600 000 kr = 600 tusen kr, så
+
+$$I(x) = 600x$$
+
+Overskuddet er inntekt minus kostnad:
+
+$$O(x) = I(x) - K(x) = 600x - 200x \cdot 1{,}015^x - 200$$
+
+Vi bruker GeoGebra CAS til å løse alle deloppgavene:
+
+![GeoGebra CAS – Edison biler](/img/user/_resources/s1-v24-2-1-cas.png)
+
+### a
+
+Vi finner maksimalt overskudd ved å løse $O'(x) = 0$.
+
+Fra CAS (linje 4): $x \approx 41{,}48$.
+
+Siden Edison produserer et heltall biler, sjekker vi $x = 41$ og $x = 42$:
+
+- $O(41) \approx 9301{,}9$ tusen kr
+- $O(42) \approx 9301{,}7$ tusen kr
+
+$x = 41$ gir litt høyere overskudd.
+
+**$x = 41$ biler per måned gir størst overskudd, $O(41) \approx 9302$ tusen kr $\approx 9{,}3$ mill. kr.**
+
+### b
+
+Enhetskostnaden er kostnad per bil:
+
+$$E(x) = \frac{K(x)}{x} = \frac{200x \cdot 1{,}015^x + 200}{x} = 200 \cdot 1{,}015^x + \frac{200}{x}$$
+
+Vi finner minimumet ved å prøve heltallsverdier rundt det kontinuerlige minimumet ($x \approx 7{,}7$ fra CAS):
+
+- $E(7) \approx 250{,}54$ tusen kr
+- $E(8) \approx 250{,}30$ tusen kr
+- $E(9) \approx 250{,}90$ tusen kr
+
+$x = 8$ gir lavest enhetskostnad.
+
+**$x = 8$ biler per måned gir lavest enhetskostnad, $E(8) \approx 250{,}3$ tusen kr $\approx 250\,300$ kr per bil.**
+
+### c
+
+Overskuddet er inntekt minus kostnad. Vi setter opp ligningen
+
+$$p \cdot 70 - K(70) = 15\,000$$
+
+Fra CAS (linje 12): $K(70) \approx 39\,896{,}4$ tusen kr.
+
+Vi løser for $p$:
+
+$$p = \frac{15\,000 + K(70)}{70} = \frac{15\,000 + 39\,896{,}4}{70} = \frac{54\,896{,}4}{70} \approx 784{,}2 \text{ tusen kr}$$
+
+**Avtalt pris per bil er $\underline{\underline{p \approx 784\,234 \text{ kr}}}$.**
+
+
 </div></div>
 
 
@@ -271,7 +335,6 @@ Avgjør om hver av påstandene nedenfor er sann eller usann. Forklar tydelig hvo
 >a) **Påstand:**  
 >
 > $$\text{Når } x > 0 \text{, er } e^{k \cdot \ln(x)}=x^{k}$$
->
 >b) **Påstand:**  
 >
 >$$\text{Når } 1 < a < \dfrac{b}{2} \text{, er } \binom{b}{a+1} > \binom{b}{a}$$
@@ -328,6 +391,7 @@ $$\binom{5}{3} = 10 \qquad \text{og} \qquad \binom{5}{2} = 10$$
 Her er $\binom{5}{3} = \binom{5}{2}$, altså ikke strengt større. Påstanden er motbevist.
 
 **Påstanden er $\underline{\underline{\text{usann}}}$.**
+
 
 </div></div>
 
@@ -503,7 +567,6 @@ Du kaster fem terninger.
 ## Fasit
 
 a) **$\underline{\underline{P = \dfrac{5}{54} \approx 9{,}26 \,\%}}$**
-
 b) **$\underline{\underline{P \approx 3{,}22 \,\%}}$** (teoretisk); simuleringen gir ca. $3{,}2 \,\%$
 
 ## Løsningsforslag
@@ -543,6 +606,7 @@ print(f"Estimat: {p:.4f}")  # → Estimat: 0.0316
 Simuleringen med 100 000 forsøk ga $\hat{p} \approx 0{,}0316$, som stemmer godt overens med den teoretiske verdien $\frac{250}{7776} \approx 0{,}0322$.
 
 **$\underline{\underline{P(X = 3) = \dfrac{250}{7776} \approx 3{,}22 \,\%}}$**
+
 
 </div></div>
 

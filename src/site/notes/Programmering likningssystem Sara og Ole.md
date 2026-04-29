@@ -44,7 +44,6 @@ $$\begin{bmatrix} 2x = y - 8 \\ x^2 + x - 48 = y \end{bmatrix}$$
 ## Fasit
 
 a) Sara omformer likningene til $y = f(x)$ og $y = g(x)$ og sjekker for hvilke heltalls-$x$ det gjelder at $f(x) = g(x)$.
-
 b) Endre `f(x)` til `2 * x + 8`, `g(x)` til `x ** 2 + x - 48`, og utvide `range` til f.eks. `range(-10, 10)`. Løsningene er $(-7, -6)$ og $(8, 24)$.
 
 ## Løsningsforslag

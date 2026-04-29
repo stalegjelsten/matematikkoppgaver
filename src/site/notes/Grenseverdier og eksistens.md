@@ -9,7 +9,6 @@
 >a) Bestem grenseverdien dersom den eksisterer:
 >
 >$$\lim_{x \to -2} \frac{x^2 - 4x + 2}{x^2 - 2x - 8}$$
->
 >b)
 >    1) Bestem $a$ slik at grenseverdien eksisterer:
 >    

@@ -177,8 +177,9 @@ I rammen nedenfor ser du vilkårene for lånet til Kenny.
 > Termingebyr: 50 kroner  
 > Avdrag: 0 kroner  
 
-a) Hvor mange kroner må jeg betale i renter per måned?
-b) Hva blir kostnaden for lånet per år?
+> [!oppgave]
+> a) Hvor mange kroner må jeg betale i renter per måned?
+> b) Hva blir kostnaden for lånet per år?
 
 ## Fasit
 

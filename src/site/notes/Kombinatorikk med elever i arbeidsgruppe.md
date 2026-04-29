@@ -23,9 +23,7 @@ Emma og Marie er to av jentene.
 ## Fasit
 
 a) $\underline{\underline{210 \text{ måter}}}$
-
 b) $\underline{\underline{P(\text{minst 2 gutter}) = \dfrac{1}{3} \approx 33{,}3\,\%}}$
-
 c) $\underline{\underline{P(\text{nøyaktig 1 av Emma/Marie}) = \dfrac{8}{15} \approx 53{,}3\,\%}}$
 
 ## Løsningsforslag

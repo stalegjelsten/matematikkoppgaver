@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-28","modified":"2024-05-29","aliases":null,"dg-publish":true,"temaer":["bevis","enhetskostnad","grenseinntekt og grensekostnad","økonomi"],"fag":["s2"],"eksamen":"v24","del":1,"oppgave":"5","oppgavenummer":[{"fag":"s2","del":1,"oppgave":5}],"title":"Vis at enhetskostnad er like grensekostnad ved laveste enhetskostnad","source":null,"todo":null,"status":3,"dg-permalink":"/vis-at-enhetskostnad-er-like-grensekostnad-ved-laveste-enhetskostnad/","permalink":"/vis-at-enhetskostnad-er-like-grensekostnad-ved-laveste-enhetskostnad/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-28","modified":"2024-05-29","aliases":null,"temaer":["bevis","enhetskostnad","grenseinntekt og grensekostnad","økonomi"],"fag":["s2"],"eksamen":"v24","del":1,"oppgave":"5","oppgavenummer":[{"fag":"s2","del":1,"oppgave":5}],"title":"Vis at enhetskostnad er like grensekostnad ved laveste enhetskostnad","source":null,"todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2024-05-28","modified":"2024-05-29","aliases":null,"dg-publish":true,"temaer":["bevis","enhetskostnad","grenseinntekt og grensekostnad","økonomi"],"fag":["s2"],"eksamen":"v24","del":1,"oppgave":"5","oppgavenummer":[{"fag":"s2","del":1,"oppgave":5}],"title":"Vis at enhetskostnad er like grensekostnad ved laveste enhetskostnad","source":null,"todo":null,"status":3,"kategori":3,"vanskegrad":2,"beskrivelse":"Bevise at $K'(x_0)=E(x_0)$ når $E'(x_0)=0$ ved å derivere $E(x)=K(x)/x$ med kvotientregelen.","dg-permalink":"/vis-at-enhetskostnad-er-like-grensekostnad-ved-laveste-enhetskostnad/","permalink":"/vis-at-enhetskostnad-er-like-grensekostnad-ved-laveste-enhetskostnad/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-28","modified":"2024-05-29","aliases":null,"temaer":["bevis","enhetskostnad","grenseinntekt og grensekostnad","økonomi"],"fag":["s2"],"eksamen":"v24","del":1,"oppgave":"5","oppgavenummer":[{"fag":"s2","del":1,"oppgave":5}],"title":"Vis at enhetskostnad er like grensekostnad ved laveste enhetskostnad","source":null,"todo":null,"status":3,"kategori":3,"vanskegrad":2,"beskrivelse":"Bevise at $K'(x_0)=E(x_0)$ når $E'(x_0)=0$ ved å derivere $E(x)=K(x)/x$ med kvotientregelen."}}
 ---
 
 
@@ -10,6 +10,7 @@ La $K(x)$ være kostnadsfunksjonen til en bedrift som produserer $x$ enheter av 
 
 ## Fasit
 
+Oppgaven er et bevis. Se løsningsforslag.
 
 ## Løsningsforslag
 

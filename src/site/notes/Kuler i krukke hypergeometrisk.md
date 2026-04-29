@@ -7,9 +7,9 @@
 
 I en krukke ligger det fire hvite og tre svarte kuler. Du trekker tilfeldig tre kuler uten tilbakelegging.
 
-a) Hva er sannsynligheten for at to av de tre kulene er svarte?
-
-b) Hva er sannsynligheten for at du trekker minst to hvite kuler?
+> [!oppgave]
+> a) Hva er sannsynligheten for at to av de tre kulene er svarte?
+> b) Hva er sannsynligheten for at du trekker minst to hvite kuler?
 
 ## Fasit
 

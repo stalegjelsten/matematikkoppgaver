@@ -42,11 +42,15 @@ c) $AC \approx 884 \, \mathrm{mm}$
 
 ## Løsningsforslag
 
-a) Vi bruker formelen $A = l \cdot b$:
+### a
+
+Vi bruker formelen $A = l \cdot b$:
 
    $$A = 1956 \cdot 992 = 1\,940\,352 \, \mathrm{mm}^2 = \underline{\underline{1{,}94 \, \mathrm{m}^2}}$$
 
-b) Vi finner antall paneler og kostnad for hvert alternativ:
+### b
+
+Vi finner antall paneler og kostnad for hvert alternativ:
 
    **Alternativ 1** (200 W per panel): Trenger $\lceil 3500 / 200 \rceil = 18$ paneler.
    Kostnad: $18 \cdot 1500 = 27\,000 \, \mathrm{kr}$
@@ -56,6 +60,8 @@ b) Vi finner antall paneler og kostnad for hvert alternativ:
 
    **Alternativ 2 gir lavest totalkostnad med $\underline{\underline{25\,000 \, \mathrm{kr}}}$.**
 
-c) Fra tegningen ser vi at panelet (992 mm langt) er hypotenusen i en rettvinklet trekant, med vinkel 63° ved $B$. $AC$ er den loddrette høyden bak panelet.
+### c
+
+Fra tegningen ser vi at panelet (992 mm langt) er hypotenusen i en rettvinklet trekant, med vinkel 63° ved $B$. $AC$ er den loddrette høyden bak panelet.
 
    $$AC = 992 \cdot \sin(63°) \approx 992 \cdot 0{,}891 \approx \underline{\underline{884 \, \mathrm{mm}}}$$

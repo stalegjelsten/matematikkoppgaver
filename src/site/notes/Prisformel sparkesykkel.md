@@ -14,7 +14,6 @@ Prisen for å leie en sparkesykkel fra Roi beregnes slik:
 
 >[!oppgave]
 >a) Hvor mye må du betale for å låse opp og leie en sparkesykkel i 4 minutter?
->
 >b) Tenk deg at du låser opp og leier en sparkesykkel. Prisen du betaler, er 53 kroner. Hvor mange minutter varer turen?
 
 Du vil lage en formel for prisen $P$ du må betale for å leie en sparkesykkel i $x$ minutter.
@@ -40,11 +39,15 @@ c) D: $P = 8 + 3x$
 
 ## Løsningsforslag
 
-a) Oppstartsprisen er 8 kr og leieprisen er 3 kr per minutt. For 4 minutter:
+### a
+
+Oppstartsprisen er 8 kr og leieprisen er 3 kr per minutt. For 4 minutter:
 
    $$8 + 3 \cdot 4 = 8 + 12 = \underline{\underline{20 \, \mathrm{kr}}}$$
 
-b) Vi vet at prisen er 53 kr, og setter opp en likning:
+### b
+
+Vi vet at prisen er 53 kr, og setter opp en likning:
 
    $$
    \begin{aligned}
@@ -54,7 +57,9 @@ b) Vi vet at prisen er 53 kr, og setter opp en likning:
    \end{aligned}
    $$
 
-c) Prisen er alltid 8 kr i oppstart pluss 3 kr for hvert minutt. Formelen for $x$ minutter er altså:
+### c
+
+Prisen er alltid 8 kr i oppstart pluss 3 kr for hvert minutt. Formelen for $x$ minutter er altså:
 
    $$P = 8 + 3x$$
 

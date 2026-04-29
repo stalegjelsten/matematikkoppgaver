@@ -15,9 +15,7 @@ En funksjon $g$ er gitt ved $g(x) = \frac{1}{2}e^x \cdot (2x-1)^2$
 ## Fasit
 
 a) $\underline{\underline{x = \frac{1}{2}}}$ (dobbelrot)
-
 b) Se løsningsforslag.
-
 c) Toppunkt: $\underline{\underline{\left(-\frac{3}{2},\ 8e^{-3/2}\right)}}$, bunnpunkt: $\underline{\underline{\left(\frac{1}{2},\ 0\right)}}$
 
 ## Løsningsforslag

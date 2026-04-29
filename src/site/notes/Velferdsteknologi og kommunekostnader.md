@@ -19,7 +19,6 @@ En kommune tilbyr velferdsteknologi til brukerne sine. Tabellen viser antallet b
 >- samlet total kostnad for de tre teknologiene
 >
 >Husk å vise formlene du bruker i regnearket.
->
 >b) Lag to ulike grafiske framstillinger som viser
 >- antall brukere av de tre typene teknologi
 >- prosentvis fordeling av total kostnad for de tre typene teknologi

@@ -28,7 +28,7 @@ Table: {.eksamen-oversikt}
 | [2-4](#oppgave-2-4) | [Antall fiskere og regresjon](https://matematikkoppgaver.vercel.app/antall-fiskere-og-regresjon/) | regresjon, modellering | × |
 | [2-5](#oppgave-2-5) | [Avstand mellom to funksjoner](https://matematikkoppgaver.vercel.app/avstand-mellom-to-funksjoner/) | derivasjon, optimering, funksjoner | × |
 | [2-6](#oppgave-2-6) | [Tredjegradsfunksjon med ukjente koeffisienter](https://matematikkoppgaver.vercel.app/tredjegradsfunksjon-med-ukjente-koeffisienter/) | derivasjon, gjennomsnittlig vekstfart, likningssystem | ✔︎ |
-| [2-7](#oppgave-2-7) | [Rektangel under graf](https://matematikkoppgaver.vercel.app/rektangel-under-graf/) | optimering, derivasjon, funksjoner | × |
+| [2-7](#oppgave-2-7) | [Rektangel under graf](https://matematikkoppgaver.vercel.app/rektangel-under-graf/) | optimering, derivasjon, funksjoner | ✔︎ |
 
 # Del 1
 
@@ -54,6 +54,24 @@ En likesidet trekant har sidelengder 2. Se figuren til høyre.
 
 ## Fasit
 
+$\cos 60\degree = \dfrac{1}{2}$ (vist ved geometrisk argument).
+
+## Løsningsforslag
+
+Vi tegner høyden $h$ fra ett hjørne ned til motstående side i den likesilte trekanten med sidelengder $2$.
+
+Høyden deler trekanten i to kongruente rettvinklede trekanter. I én av dem er:
+
+- hypotenus $= 2$ (sidekant i den likesilte trekanten),
+- korteste katet $= 1$ (halvparten av motstående side, siden høyden halverer den),
+- vinkelen ved hypotenusen $= 60\degree$ (hjørnevinkelen i den likesilte trekanten).
+
+Definisjonen av cosinus gir
+
+$$\cos 60\degree = \frac{\text{hosliggende katet}}{\text{hypotenus}} = \frac{1}{2}$$
+
+Dermed er $\underline{\underline{\cos 60\degree = \dfrac{1}{2}}}$.
+
 </div></div>
 
 
@@ -76,6 +94,50 @@ $$f(x) = x^3 + 2x^2 - 5x - 6$$
 >I hvilke punkter skjærer grafen til funksjonen $x$-aksen?
 
 ## Fasit
+
+**Skjæringspunkter med $x$-aksen:** $(-3,\ 0)$, $(-1,\ 0)$ og $(2,\ 0)$
+
+## Løsningsforslag
+
+Grafen skjærer $x$-aksen der $f(x) = 0$, altså der
+
+$$x^3 + 2x^2 - 5x - 6 = 0$$
+
+Vi prøver heltallsrøtter som er delere av konstantleddet $6$: $\pm 1, \pm 2, \pm 3, \pm 6$.
+
+$$f(-1) = (-1)^3 + 2(-1)^2 - 5(-1) - 6 = -1 + 2 + 5 - 6 = 0 \checkmark$$
+
+Siden $x = -1$ er en rot, er $(x + 1)$ en faktor. Vi utfører polynomdivisjon:
+
+$$\require{enclose}
+\begin{array}{r}
+x^2 + x - 6 \\[-3pt]
+x+1 \enclose{longdiv}{x^3 + 2x^2 - 5x - 6} \\[-3pt]
+\underline{-(x^3 + x^2)} \phantom{{}-5x-6} \\[-3pt]
+x^2 - 5x \phantom{{}-6} \\[-3pt]
+\underline{-(x^2 + x)} \phantom{{}-6} \\[-3pt]
+-6x - 6 \\[-3pt]
+\underline{-(-6x - 6)} \\[-3pt]
+0
+\end{array}$$
+
+Vi kan altså skrive
+
+$$x^3 + 2x^2 - 5x - 6 = (x + 1)(x^2 + x - 6)$$
+
+Andregradsuttrykket $x^2 + x - 6$ faktoriserer vi:
+
+$$x = \frac{-1 \pm \sqrt{1^2 - 4 \cdot 1 \cdot (-6)}}{2 \cdot 1} = \frac{-1 \pm \sqrt{25}}{2} = \frac{-1 \pm 5}{2}$$
+
+$$x = \frac{-1 + 5}{2} = 2 \qquad \text{eller} \qquad x = \frac{-1 - 5}{2} = -3$$
+
+Dermed er
+
+$$x^3 + 2x^2 - 5x - 6 = (x + 1)(x - 2)(x + 3)$$
+
+og likningen $f(x) = 0$ har løsningene $x = -1$, $x = 2$ og $x = -3$.
+
+**Grafen skjærer $x$-aksen i punktene $\underline{\underline{(-3,\ 0), \; (-1,\ 0) \; \text{og} \; (2,\ 0)}}$.**
 
 </div></div>
 
@@ -100,6 +162,32 @@ $$f(x) = x^3 - 3x^2 - x + 4$$
 
 ## Fasit
 
+$\underline{\underline{y = -4x + 5}}$
+
+## Løsningsforslag
+
+Vi finner først funksjonsverdien i $x = 1$:
+
+$$f(1) = 1^3 - 3 \cdot 1^2 - 1 + 4 = 1 - 3 - 1 + 4 = 1$$
+
+Tangentpunktet er altså $(1, 1)$, som stemmer med oppgaven.
+
+Deretter deriverer vi $f$:
+
+$$f'(x) = 3x^2 - 6x - 1$$
+
+Stigningstallet til tangenten er $f'(1)$:
+
+$$f'(1) = 3 \cdot 1^2 - 6 \cdot 1 - 1 = 3 - 6 - 1 = -4$$
+
+Tangentlinjen går gjennom $(1, 1)$ med stigning $-4$. Vi bruker ettpunktsformelen:
+
+$$y - 1 = -4(x - 1)$$
+
+$$y = -4x + 4 + 1$$
+
+$$\underline{\underline{y = -4x + 5}}$$
+
 </div></div>
 
 
@@ -122,6 +210,38 @@ $$f(x) = x^3 - 3x^2 - x + 4$$
 >Husk å argumentere for at svaret ditt er riktig.
 
 ## Fasit
+
+**Trekant 2 (med vinkel 32°) har størst areal.**
+
+$A_1 = 9 \, \mathrm{cm}^2$, $\quad A_2 = 18\sin(32°) \, \mathrm{cm}^2 > 9 \, \mathrm{cm}^2$
+
+## Løsningsforslag
+
+Begge trekantene har to sider med lengde 6 (la oss kalle dem $a = b = 6$), men ulike inkluderte vinkler. Vi bruker **arealsetningen**:
+
+$$A = \frac{1}{2} \cdot a \cdot b \cdot \sin(C)$$
+
+**Trekant 1** har inkludert vinkel $C_1 = 150°$:
+
+$$A_1 = \frac{1}{2} \cdot 6 \cdot 6 \cdot \sin(150°)$$
+
+Vi utnytter at $\sin(150°) = \sin(180° - 30°) = \sin(30°) = \frac{1}{2}$:
+
+$$A_1 = \frac{1}{2} \cdot 6 \cdot 6 \cdot \frac{1}{2} = \frac{1}{2} \cdot 36 \cdot \frac{1}{2} = \mathbf{9}$$
+
+**Trekant 2** har inkludert vinkel $C_2 = 32°$:
+
+$$A_2 = \frac{1}{2} \cdot 6 \cdot 6 \cdot \sin(32°) = 18\sin(32°)$$
+
+**Sammenligning:** Vi trenger å avgjøre om $\sin(32°) > \sin(150°) = \frac{1}{2}$.
+
+Sinusfunksjonen er stigende på intervallet $\langle 0°, 90° \rangle$, og siden $32° > 30°$:
+
+$$\sin(32°) > \sin(30°) = \frac{1}{2}$$
+
+Dermed er $A_2 = 18\sin(32°) > 18 \cdot \frac{1}{2} = 9 = A_1$.
+
+**$\underline{\underline{\text{Trekant 2 har størst areal.}}}$**
 
 </div></div>
 
@@ -153,6 +273,73 @@ $$g(x) = \frac{x^2 - 4}{(x - 3)(x + 3)}$$
 
 ## Fasit
 
+a) **Graf A**
+b) **Graf E**
+
+## Løsningsforslag
+
+### a
+
+Vi finner kjennetegnene til $f(x) = \dfrac{2x-8}{x+2}$.
+
+**Vertikal asymptote** der nevneren er null:
+
+$$x + 2 = 0 \implies \textcolor{steelblue}{x = -2}$$
+
+**Horisontal asymptote** — teller og nevner er begge av grad 1, så vi tar forholdet mellom de ledende koeffisientene:
+
+$$\textcolor{steelblue}{y = \frac{2}{1} = 2}$$
+
+**Nullpunkt** — sett teller lik null:
+
+$$2x - 8 = 0 \implies x = 4, \quad \text{altså } \textcolor{steelblue}{(4,\ 0)}$$
+
+**Skjæring med $y$-aksen** ($x = 0$):
+
+$$f(0) = \frac{2\cdot 0 - 8}{0 + 2} = \frac{-8}{2} = -4, \quad \text{altså } \textcolor{steelblue}{(0,\ {-4})}$$
+
+Vi leter etter grafen som har:
+- én vertikal asymptote til venstre for $y$-aksen (ved $x = -2$),
+- horisontal asymptote ved $y = 2$ (over $x$-aksen),
+- nullpunkt ved $x = 4$ (til høyre for $y$-aksen),
+- skjærer $y$-aksen ved $y = -4$ (under $x$-aksen).
+
+Dette passer med **graf A**.
+
+### b
+
+Vi finner kjennetegnene til $g(x) = \dfrac{x^2 - 4}{(x-3)(x+3)}$.
+
+**Vertikale asymptoter** der nevneren er null:
+
+$$x - 3 = 0 \implies x = 3 \qquad \text{og} \qquad x + 3 = 0 \implies \textcolor{seagreen}{x = -3}$$
+
+Grafene med to vertikale asymptoter er D, E og F.
+
+**Horisontal asymptote** — teller og nevner er begge av grad 2:
+
+$$\textcolor{seagreen}{y = \frac{1}{1} = 1}$$
+
+**Nullpunkter** — faktoriser telleren:
+
+$$x^2 - 4 = (x-2)(x+2) = 0 \implies \textcolor{seagreen}{x = \pm 2}$$
+
+Nullpunktene $x = -2$ og $x = 2$ ligger begge *mellom* de to asymptotene ved $x = -3$ og $x = 3$.
+
+**Skjæring med $y$-aksen** ($x = 0$):
+
+$$g(0) = \frac{0^2 - 4}{(0-3)(0+3)} = \frac{-4}{-9} = \frac{4}{9} \approx 0{,}44$$
+
+$y$-skjæringen er positiv og litt under den horisontale asymptoten $y = 1$.
+
+Vi leter etter grafen med:
+- to vertikale asymptoter symmetrisk om $y$-aksen (ved $x = \pm 3$),
+- horisontal asymptote ved $y = 1$,
+- to nullpunkter mellom asymptotene (ved $x = \pm 2$),
+- $y$-skjæring mellom 0 og 1.
+
+Dette passer med **graf E**.
+
 </div></div>
 
 
@@ -181,6 +368,78 @@ for folketallet $F(x)$ tusen innbyggere i området $x$ år etter 1960.
 >c) Når vil folketallet avta raskest ifølge modellen?
 
 ## Fasit
+
+a) Folketallet var høyest etter $\underline{\underline{x \approx 22{,}5 \text{~år (år 1982/1983)}}}$, med $\underline{\underline{F(22{,}5) \approx 10{,}22 \text{~tusen innbyggere}}}$.
+
+b) Stigningstallet er $\underline{\underline{-0{,}1467 \text{~tusen innbyggere per år} \approx -147 \text{~innb/år}}}$.
+
+c) Folketallet avtar raskest etter $\underline{\underline{x \approx 71{,}6 \text{~år (rundt år 2031/2032)}}}$.
+
+## Løsningsforslag
+
+![Graf for Folketall i et område](/img/user/_resources/1t-h23-2-1.png)
+
+![CAS-utregning](/img/user/_resources/1t-h23-2-1-cas.png)
+
+### a
+
+Vi skal finne når $F(x)$ har sitt maksimum for $x \in [0, 80]$.
+
+**Metode 1 – grafisk (toppunkt):**
+
+Vi plotter $F(x)$ i GeoGebra og bruker verktøyet for å finne toppunktet. Grafen viser at toppunktet ligger ved $x \approx 22{,}5$, se `Topp` i grafen.
+
+**Metode 2 – $F'(x) = 0$ og fortegnstest:**
+
+Vi deriverer:
+
+$$F'(x) = \frac{1}{1000}\left(0{,}081x^2 - 11{,}6x + 220\right)$$
+
+Vi løser $F'(x) = 0$ i CAS (linje 4) og får to løsninger. Den ene er $x \approx 22{,}5$ (innenfor domenet $[0, 80]$) og den andre er $x \approx 120{,}7$ (utenfor domenet).
+
+Vi sjekker med andrederiverte (linje 3):
+
+$$F''(x) = \frac{1}{1000}\left(0{,}162x - 11{,}6\right)$$
+
+$$F''(22{,}5) = \frac{1}{1000}(0{,}162 \cdot 22{,}5 - 11{,}6) \approx \frac{1}{1000}(3{,}645 - 11{,}6) < 0$$
+
+Siden $F''(22{,}5) < 0$, er $x \approx 22{,}5$ et toppunkt.
+
+Funksjonsverdi (linje 5):
+
+$$F(22{,}5) = \frac{654163}{64000} \approx 10{,}22 \text{~tusen innbyggere}$$
+
+**Folkretallet var høyest etter omtrent $22{,}5$ år, det vil si rundt 1982/1983, med ca. 10 220 innbyggere.**
+
+### b
+
+Vi beregner stigningstallet til sekanten gjennom $(30, F(30))$ og $(70, F(70))$ (se CAS linje 6–8 og sekantlinjen `sek` i grafen):
+
+$$F(30) = \frac{10009}{1000} = 10{,}009 \quad \text{og} \quad F(70) = \frac{4141}{1000} = 4{,}141$$
+
+$$a = \frac{F(70) - F(30)}{70 - 30} = \frac{4{,}141 - 10{,}009}{40} = \frac{-5{,}868}{40} = -\frac{1467}{10000} \approx -0{,}1467$$
+
+**Stigningstallet er $\approx -0{,}1467$ tusen innbyggere per år.**
+
+Praktisk tolkning: Fra 1990 ($x = 30$) til 2030 ($x = 70$) avtok folketallet i gjennomsnitt med omtrent $\mathbf{147}$ innbyggere per år.
+
+### c
+
+Folketallet avtar raskest der $F'(x)$ er mest negativ. Det skjer i vendepunktet til $F$, altså der $F''(x) = 0$.
+
+$$F''(x) = \frac{1}{1000}(0{,}162x - 11{,}6) = 0$$
+
+Vi løser i CAS (linje 9):
+
+$$x = \frac{5800}{81} \approx 71{,}6$$
+
+Momentan vekstfart i dette punktet (linje 10):
+
+$$F'(71{,}6) = -\frac{1220679}{6250000} \approx -0{,}1953 \text{~tusen innbyggere per år} \approx -195 \text{~innb/år}$$
+
+$x \approx 71{,}6$ svarer til år $1960 + 71{,}6 \approx 2031/2032$, se vendepunktet `Vend` i grafen.
+
+**Ifølge modellen vil folketallet avta raskest rundt år 2031/2032, med en nedgang på ca. 195 innbyggere per år.**
 
 </div></div>
 
@@ -427,6 +686,54 @@ Sara skal tegne en ny linje $x = a$ der $a \in \langle 1, 3 \rangle$ i koordinat
 
 ## Fasit
 
+a) $\underline{\underline{PQ = 6}}$
+
+b) $\underline{\underline{a = \dfrac{1 + \sqrt{19}}{3}}}$
+
+## Løsningsforslag
+
+Vi bruker GeoGebra CAS til å løse oppgaven.
+
+![CAS-utregning for oppgave 5](/img/user/_resources/1t-h23-2-5.png)
+
+### a
+
+Vi definerer $f$ og $g$ og beregner funksjonsverdiene ved $x = 1$ (linje 3–4 i CAS):
+
+$$f(1) = 2 \cdot 1 + 8 = 10 \quad \Rightarrow \quad P = (1,\, 10)$$
+
+$$g(1) = 1^3 - 1^2 - 4 \cdot 1 + 8 = 4 \quad \Rightarrow \quad Q = (1,\, 4)$$
+
+Siden $P$ og $Q$ ligger på den vertikale linjen $x = 1$, er avstanden
+
+$$PQ = |f(1) - g(1)| = |10 - 4| = \mathbf{\underline{\underline{6}}}$$
+
+### b
+
+For $a \in \langle 1, 3 \rangle$ er $f(a) > g(a)$, så avstanden fra $R$ til $S$ er
+
+$$d(a) = f(a) - g(a)$$
+
+CAS forenkler dette til (linje 5–6):
+
+$$d(a) = -a^3 + a^2 + 6a$$
+
+Vi finner ekstremalstedene ved å derivere og sette $d'(a) = 0$ (linje 7–8):
+
+$$d'(a) = -3a^2 + 2a + 6 = 0$$
+
+CAS gir løsningene $a = \dfrac{-\sqrt{19}+1}{3}$ og $a = \dfrac{\sqrt{19}+1}{3}$.
+
+Siden $a \in \langle 1, 3 \rangle$ er det kun $a = \dfrac{1 + \sqrt{19}}{3} \approx 1{,}79$ som er aktuell.
+
+Vi kontrollerer at det er et maksimum: $d''(a) = -6a + 2$, og ved $a \approx 1{,}79$ er $d''(a) < 0$, så det er et maksimumspunkt.
+
+Maksimal avstand fra $R$ til $S$ oppnås når
+
+$$\mathbf{\underline{\underline{a = \frac{1 + \sqrt{19}}{3}}}}$$
+
+(Maksimumsverdien er $d\left(\dfrac{1+\sqrt{19}}{3}\right) = \dfrac{2}{27}\left(19\sqrt{19}+28\right) \approx 8{,}21$.)
+
 </div></div>
 
 
@@ -521,6 +828,41 @@ Rektangelet under grafen har hjørner i punktene $(0, 0)$, $(5, 0)$, $(5, f(5))$
 >c) Bestem $k$ slik at arealet av rektangelet som har hjørner i punktene $(0, 0)$, $(k, 0)$, $(k, f(k))$ og $(0, f(k))$, blir størst mulig.
 
 ## Fasit
+
+a) $\frac{8}{9}$
+b) –
+c) $2\sqrt{ 5 } \approx 4{,}47$
+
+## Løsningsforslag
+
+### a
+Rektangelet har bredde $5$ og høyde $f(5)$.
+
+$$
+f(5)=\frac{8}{5^{2}+20}=\frac{8}{45}
+$$
+$$
+\text{Areal}=5 \cdot \frac{8}{45}=\underline{\underline{ \frac{8}{9} }}
+$$
+**Arealet er $\underline{\underline{ \frac{8}{9} }}$.**
+
+### b
+Den enkleste måten å lage en systematisk oversikt er med et regneark.
+
+![Oversikt over arealer](/img/user/_resources/rektangel-under-graf.png){width=60%}
+
+### c
+Ut fra oversikten ser det ut til at svaret vil være når bredden er omtrent 4,5. For å bestemme dette eksakt kan vi lage en arealfunksjon:
+
+$$
+A(x)= \text{Bredde} \cdot \text{Høyde} =  x \cdot f(x)=x \cdot \frac{8}{x^{2}+20}
+$$
+
+For å finne toppunktet til funksjonen deriverer vi den i CAS og setter den deriverte lik 0.
+
+![Finner største areal i CAS](/img/user/_resources/rektangel-under-graf%201.png){width=40%}
+
+**Arealet er størst når $\underline{\underline{ k=2\sqrt{ 5 } }}$.**
 
 </div></div>
 

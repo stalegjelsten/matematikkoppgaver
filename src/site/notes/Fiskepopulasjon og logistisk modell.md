@@ -34,11 +34,8 @@ $B$ er bæreevnen, $N_0$ er antall tusen fisk ved $t = 0$ og $r$ er vekstparamet
 ## Fasit
 
 a) $A_0 \approx 1{,}60$, $k \approx 1{,}63$. Populasjonen starter på ca. 1 600 fisk og vokser med ca. 63 % per måned.
-
 b) $N_0 \approx 1{,}92$, $B \approx 111{,}37$, $r \approx 0{,}52$.
-
 c) $A'(t) = A_0 \cdot \ln(k) \cdot k^t \approx 0{,}782 \cdot 1{,}63^t$ — alltid voksende. $N'(t) = r \cdot N(t)\!\left(1 - \tfrac{N(t)}{B}\right)$ — øker til vendepunktet ved $t \approx 7{,}7$ ($N \approx 55{,}7$), deretter avtar den.
-
 d) Den logistiske modellen passer best. $N(12) \approx 100{,}8$ tusen fisk.
 
 ## Løsningsforslag

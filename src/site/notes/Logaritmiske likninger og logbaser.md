@@ -9,7 +9,6 @@
 >a) Løs likningen
 >
 >$$(\lg x)^2 - 2\lg x = 8$$
->
 >b) Bestem $a$ slik at
 >
 >$$\log_a \frac{1}{64} = -3$$

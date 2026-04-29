@@ -177,8 +177,9 @@ I rammen nedenfor ser du vilkårene for lånet til Kenny.
 > Termingebyr: 50 kroner  
 > Avdrag: 0 kroner  
 
-a) Hvor mange kroner må jeg betale i renter per måned?
-b) Hva blir kostnaden for lånet per år?
+> [!oppgave]
+> a) Hvor mange kroner må jeg betale i renter per måned?
+> b) Hva blir kostnaden for lånet per år?
 
 ## Fasit
 
@@ -312,7 +313,6 @@ En kommune tilbyr velferdsteknologi til brukerne sine. Tabellen viser antallet b
 >- samlet total kostnad for de tre teknologiene
 >
 >Husk å vise formlene du bruker i regnearket.
->
 >b) Lag to ulike grafiske framstillinger som viser
 >- antall brukere av de tre typene teknologi
 >- prosentvis fordeling av total kostnad for de tre typene teknologi
@@ -333,6 +333,7 @@ Leverandørene av velferdsteknologi har varslet prisøkninger, som vist i tabell
 
 
 ## Løsningsforslag
+
 
 </div></div>
 

@@ -9,11 +9,9 @@ Avgjør om hver av påstandene nedenfor er sann eller usann. Forklar tydelig hvo
 
 >[!oppgave]
 >a) **Påstand:** Når $x > 0$, er $e^{k \cdot \ln(x)} = x^k$.
->
 >b) En funksjon $f$ er gitt ved
 >$$f(x) = \begin{cases} x^3 - 2\text{,} & x < 2 \\ 3x^2 - 4\text{,} & x \ge 2 \end{cases}$$
 >**Påstand:** Funksjonen er deriverbar i $x = 2$.
->
 >c) **Påstand:** En funksjon som er både minkende og voksende i definisjonsmengden sin, kan ha en omvendt funksjon.
 
 ## Fasit

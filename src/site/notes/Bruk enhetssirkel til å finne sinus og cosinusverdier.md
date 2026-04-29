@@ -12,7 +12,6 @@ Figuren viser en enhetssirkel med et linjestykke $g$ som danner en vinkel $\alph
 
 >[!oppgave]
 >a) Bruk figuren til å anslå en verdi for $\sin 53°$.
->
 >b) Gjør beregninger og finn en vinkel mellom 0° og 360° som har samme cosinusverdi som vinkelen $\alpha$.
 Figuren viser en enhetssirkel med et linjestykke g som danner en vinkel $\alpha = 53 \degree$ med x-aksen.
 

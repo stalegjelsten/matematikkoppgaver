@@ -169,7 +169,6 @@ Du får oppgitt at $(x + 1)$, $(x - 1)$ og $(x - 2)$ er faktorer i $Q(x)$.
 >$$a + b + c = 11$$
 >
 >$$8a + 4b + 2c = -4$$
->
 >b) Bestem $a$, $b$ og $c$.
 
 ## Fasit
@@ -425,7 +424,6 @@ Vi lar $X$ være summen av antall øyne vi får når vi kaster de to terningene.
 >| $k$ | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 >|---|---|---|---|---|---|---|---|---|
 >| $P(X = k)$ | $\dfrac{4}{36}$ | $\dfrac{5}{36}$ | $\dfrac{6}{36}$ | $\dfrac{6}{36}$ | | $\dfrac{6}{36}$ | | $\dfrac{1}{36}$ |
->
 >b) Vis at $\text{E}(X) = 5$.
 
 De to terningene brukes i et pengespill.

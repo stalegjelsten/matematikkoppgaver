@@ -21,9 +21,7 @@ Du skal lage en slik kasse som rommer 80 $\mathrm{dm^3}$.
 ## Fasit
 
 a) **$\underline{\underline{V = 118{,}75 \, \mathrm{dm^3}}}$**
-
 b) **$\underline{\underline{V_{\max} = 40\sqrt{10} \approx 126{,}5 \, \mathrm{dm^3}}}$**
-
 c) **$\underline{\underline{A_{\min} = 12\sqrt[3]{20^2} \approx 88{,}4 \, \mathrm{dm^2}}}$**
 
 ## Løsningsforslag

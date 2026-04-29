@@ -22,7 +22,6 @@ Også her skal vi plukke ut 10 tilfeldige personer blant dem som stemte.
 ## Fasit
 
 a) $\underline{\underline{P(X \geq 4) \approx 1{,}95 \,\%}}$
-
 b) $\underline{\underline{P(Y \geq 4) \approx 65{,}0 \,\%}}$
 
 ## Løsningsforslag

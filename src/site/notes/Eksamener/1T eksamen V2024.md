@@ -104,6 +104,76 @@ $$2x^3 + 3x^2 - 11x - 6 = (2x^2 + 7x + 3) \cdot (x - 2)$$
 
 ## Fasit
 
+Divisjon 1: $(2x^3 + 3x^2 - 11x - 6) : (x - 2) = \underline{\underline{2x^2 + 7x + 3}}$, rest $0$
+
+Divisjon 2: $(2x^3 + 3x^2 - 11x - 6) : (2x^2 + 7x + 3) = \underline{\underline{x - 2}}$, rest $0$
+
+## Løsningsforslag
+
+Guri påstår at $2x^3 + 3x^2 - 11x - 6 = (2x^2 + 7x + 3)(x - 2)$.
+
+For å kontrollere dette kan hun dele på én av faktorene og sjekke at resten blir $0$ og kvotienten er den andre faktoren. To naturlige valg er:
+
+- Divisjon 1: dele på den enkle faktoren $(x - 2)$
+- Divisjon 2: dele på den kvadratiske faktoren $(2x^2 + 7x + 3)$
+
+### Divisjon 1: $(2x^3 + 3x^2 - 11x - 6) : (x - 2)$
+
+$$
+\begin{array}{r}
+2x^2 + 7x + 3 \\[-2pt]
+\hline
+x - 2 \;\Big)\; 2x^3 + 3x^2 - 11x - 6 \\
+\underline{-(2x^3 - 4x^2)} \\
+7x^2 - 11x - 6 \\
+\underline{-(7x^2 - 14x)} \\
+3x - 6 \\
+\underline{-(3x - 6)} \\
+0
+\end{array}
+$$
+
+**Steg for steg:**
+
+- $2x^3 : x = 2x^2$, og $2x^2 \cdot (x - 2) = 2x^3 - 4x^2$. Rest: $7x^2 - 11x - 6$
+- $7x^2 : x = 7x$, og $7x \cdot (x - 2) = 7x^2 - 14x$. Rest: $3x - 6$
+- $3x : x = 3$, og $3 \cdot (x - 2) = 3x - 6$. Rest: $0$
+
+Kvotienten er $2x^2 + 7x + 3$ og resten er $0$.
+
+Siden resten er $0$, er $(x - 2)$ en faktor i $2x^3 + 3x^2 - 11x - 6$, og vi får
+
+$$2x^3 + 3x^2 - 11x - 6 = (x - 2)(2x^2 + 7x + 3)$$
+
+Dette viser at faktoriseringen er riktig.
+
+### Divisjon 2: $(2x^3 + 3x^2 - 11x - 6) : (2x^2 + 7x + 3)$
+
+$$
+\begin{array}{r}
+x - 2 \\[-2pt]
+\hline
+2x^2 + 7x + 3 \;\Big)\; 2x^3 + 3x^2 - 11x - 6 \\
+\underline{-(2x^3 + 7x^2 + 3x)} \\
+-4x^2 - 14x - 6 \\
+\underline{-(-4x^2 - 14x - 6)} \\
+0
+\end{array}
+$$
+
+**Steg for steg:**
+
+- $2x^3 : 2x^2 = x$, og $x \cdot (2x^2 + 7x + 3) = 2x^3 + 7x^2 + 3x$. Rest: $-4x^2 - 14x - 6$
+- $-4x^2 : 2x^2 = -2$, og $-2 \cdot (2x^2 + 7x + 3) = -4x^2 - 14x - 6$. Rest: $0$
+
+Kvotienten er $x - 2$ og resten er $0$.
+
+Siden resten er $0$, er $(2x^2 + 7x + 3)$ en faktor i $2x^3 + 3x^2 - 11x - 6$, og vi får
+
+$$2x^3 + 3x^2 - 11x - 6 = (2x^2 + 7x + 3)(x - 2)$$
+
+Dette viser at faktoriseringen er riktig.
+
 </div></div>
 
 
@@ -124,6 +194,29 @@ $$2x^3 + 3x^2 - 11x - 6 = (2x^2 + 7x + 3) \cdot (x - 2)$$
 >Sett opp en matematisk identitet med utgangspunkt i arealet av det grønne området.
 
 ## Fasit
+
+$\underline{\underline{a^2 - b^2 = (a-b)(a+b)}}$
+
+## Løsningsforslag
+
+Det store kvadratet har side $a$, så totalarealet er $a^2$.
+
+Det hvite området nede til høyre er et kvadrat med side $b$, så arealet er $b^2$.
+
+Det grønne området er alt unntatt det hvite hjørnet:
+
+$$\textcolor{seagreen}{\text{Grønt areal}} = a^2 - b^2$$
+
+Vi kan også beregne det grønne arealet direkte ved å dele det opp i to rektangler. Vi deler det grønne L-formet område langs den horisontale linjen:
+
+- Øverste del (hele bredden $a$, høyde $a-b$): areal $= a(a-b)$
+- Nedre del (bare bredde $a-b$, høyde $b$): areal $= (a-b) \cdot b$
+
+$$\textcolor{seagreen}{\text{Grønt areal}} = a(a-b) + (a-b) \cdot b = (a-b)(a + b)$$
+
+De to uttrykkene for det grønne arealet må være like, så vi får identiteten:
+
+$$\boxed{a^2 - b^2 = (a-b)(a+b)}$$
 
 </div></div>
 
@@ -158,6 +251,28 @@ print(v)
 
 ## Fasit
 
+Programmet skriver ut $\underline{\underline{2}}$.
+
+Verdien er den gjennomsnittlige vekstfarten til $f$ på intervallet $[0, 5]$. Det vil si at $f(x)$ i gjennomsnitt øker med $2$ per enhet $x$ på dette intervallet.
+
+## Løsningsforslag
+
+Programmet beregner $v = \dfrac{f(b) - f(a)}{b - a}$ med $a = 0$ og $b = 5$.
+
+Vi finner $f(0)$ og $f(5)$:
+
+$$f(0) = 0^2 - 3 \cdot 0 + 7 = 7$$
+
+$$f(5) = 5^2 - 3 \cdot 5 + 7 = 25 - 15 + 7 = 17$$
+
+Deretter beregner programmet:
+
+$$v = \frac{f(5) - f(0)}{5 - 0} = \frac{17 - 7}{5} = \frac{10}{5} = \mathbf{2}$$
+
+**Programmet skriver ut $\underline{\underline{2}}$.**
+
+Denne verdien er den gjennomsnittlige vekstfarten til $f(x)$ på intervallet $[0, 5]$. Det betyr at $f(x)$ i gjennomsnitt øker med $2$ enheter per enhet $x$ i dette intervallet.
+
 </div></div>
 
 
@@ -181,6 +296,54 @@ Figuren viser grafen til en funksjon $f$.
 >b) Løs ulikheten $f(x) > 12$
 
 ## Fasit
+
+a) $\underline{\underline{f(x) = -2x^2 + 2x + 24}}$
+
+b) $\underline{\underline{-2 < x < 3}}$
+
+## Løsningsforslag
+
+### a
+
+Fra grafen leser vi av at $f$ har nullpunkter i $x = -3$ og $x = 4$, og at $f(0) = 24$.
+
+Vi skriver $f$ på nullpunktform:
+
+$$f(x) = a(x + 3)(x - 4)$$
+
+Vi bruker at $f(0) = 24$ for å bestemme $a$:
+
+$$f(0) = a \cdot (0 + 3)(0 - 4) = -12a = 24 \implies a = -2$$
+
+Dermed er
+
+$$f(x) = -2(x+3)(x-4) = \mathbf{-2x^2 + 2x + 24}$$
+
+### b
+
+Vi løser $f(x) > 12$:
+
+$$-2x^2 + 2x + 24 > 12$$
+
+$$-2x^2 + 2x + 12 > 0$$
+
+Deler begge sider på $-2$ (snur ulikheten):
+
+$$x^2 - x - 6 < 0$$
+
+Faktoriserer venstresiden:
+
+$$x^2 - x - 6 = (x - 3)(x + 2)$$
+
+Produktet $(x-3)(x+2) < 0$ når de to faktorene har motsatt fortegn. Vi setter opp fortegnsskjema:
+
+| | $x < -2$ | $x = -2$ | $-2 < x < 3$ | $x = 3$ | $x > 3$ |
+|---|---|---|---|---|---|
+| $x + 2$ | $-$ | $0$ | $+$ | $+$ | $+$ |
+| $x - 3$ | $-$ | $-$ | $-$ | $0$ | $+$ |
+| Produkt | $+$ | $0$ | $-$ | $0$ | $+$ |
+
+Produktet er negativt for $\mathbf{-2 < x < 3}$.
 
 </div></div>
 
@@ -213,6 +376,80 @@ Tabellen nedenfor viser hvor mange bagetter en kantine har solgt hver av de sist
 >d) Bestem den momentane vekstfarten når $x = 235$. Gi en praktisk tolkning av svaret du får.
 
 ## Fasit
+
+a) Alle datapunkter ligger nær kurven — $O(x)$ er en god modell.
+
+b) **Maksimalt overskudd $\underline{\underline{\approx 4459 \, \mathrm{kr}}}$ ved $\underline{\underline{x \approx 284}}$ bagetter.**
+
+c) Stigningstallet er $\underline{\underline{24{,}04 \, \mathrm{kr/bagett}}}$.
+
+d) Momentan vekstfart: $\underline{\underline{O'(235) \approx 8{,}74 \, \mathrm{kr/bagett}}}$.
+
+## Løsningsforslag
+
+### a
+
+Vi plotter datapunktene fra tabellen og grafen til $O(x) = -0{,}09x^2 + 51{,}04x - 2776{,}98$ i GeoGebra:
+
+![Datapunkter og O(x) plottet i GeoGebra](/img/user/_resources/1t-v24-2-1.png)
+
+Vi ser at alle de røde datapunktene ligger svært nær den blå kurven. Vi kan også beregne modellverdiene og sammenligne:
+
+| $x$ | $O(x)$ (modell) | Faktisk overskudd | Avvik |
+|-----|-----------------|-------------------|-------|
+| 100 | $1\,427$ kr | $1\,450$ kr | $23$ kr |
+| 130 | $2\,348$ kr | $2\,300$ kr | $48$ kr |
+| 160 | $3\,092$ kr | $3\,050$ kr | $42$ kr |
+| 175 | $3\,405$ kr | $3\,365$ kr | $40$ kr |
+| 190 | $3\,706$ kr | $3\,720$ kr | $14$ kr |
+| 220 | $4\,102$ kr | $4\,140$ kr | $38$ kr |
+| 235 | $4\,178$ kr | $4\,175$ kr | $3$ kr |
+
+Avvikene er små (under $50$ kr) sammenlignet med overskuddet. **$O(x)$ er en god modell.**
+
+### b
+
+Vi finner toppunktet til $O(x)$ ved å sette den deriverte lik null.
+
+$$O'(x) = -0{,}18x + 51{,}04 = 0$$
+
+Vi løser dette i GeoGebra CAS:
+
+![CAS: derivert og optimum](/img/user/_resources/1t-v24-2-1-cas.png)
+
+$$x = \frac{51{,}04}{0{,}18} \approx 283{,}56$$
+
+Det vil si at overskuddet er størst ved $x \approx 284$ bagetter. Maksimalt overskudd:
+
+$$O(283{,}56) \approx 4459{,}36 \, \mathrm{kr}$$
+
+**Kantinen bør produsere og selge ca. $\underline{\underline{284}}$ bagetter per uke. Da blir overskuddet $\underline{\underline{\approx 4459 \, \mathrm{kr}}}$.**
+
+### c
+
+Vi beregner stigningstallet til sekanten gjennom $(100,\, O(100))$ og $(200,\, O(200))$:
+
+$$O(100) = -0{,}09 \cdot 100^2 + 51{,}04 \cdot 100 - 2776{,}98 = 1\,427{,}02 \, \mathrm{kr}$$
+
+$$O(200) = -0{,}09 \cdot 200^2 + 51{,}04 \cdot 200 - 2776{,}98 = 3\,831{,}02 \, \mathrm{kr}$$
+
+$$\text{Stigningstall} = \frac{O(200) - O(100)}{200 - 100} = \frac{3831{,}02 - 1427{,}02}{100} = \frac{2404}{100} = 24{,}04$$
+
+**Stigningstallet er $\underline{\underline{24{,}04 \, \mathrm{kr/bagett}}}$.**
+
+Praktisk tolkning: Når antall solgte bagetter øker fra 100 til 200, øker overskuddet i gjennomsnitt med $24{,}04$ kr per ekstra bagett.
+
+### d
+
+Den momentane vekstfarten er verdien av den deriverte i punktet $x = 235$:
+
+$$O'(x) = -0{,}18x + 51{,}04$$
+
+$$O'(235) = -0{,}18 \cdot 235 + 51{,}04 = -42{,}30 + 51{,}04 = 8{,}74$$
+
+**Den momentane vekstfarten er $\underline{\underline{O'(235) \approx 8{,}74 \, \mathrm{kr/bagett}}}$.**
+
+Praktisk tolkning: Når kantinen allerede selger 235 bagetter per uke, vil én ekstra solgt bagett øke overskuddet med ca. $8{,}74$ kr.
 
 </div></div>
 
@@ -247,6 +484,60 @@ $$\sin u = 1{,}33 \cdot \sin v$$
 
 ## Fasit
 
+a) $\underline{\underline{u \approx 56{,}82\degree}}$
+
+b) Vinkelen $v$ nærmer seg $\underline{\underline{v \approx 48{,}75\degree}}$ (og kan aldri bli $90\degree$).
+
+c) $\underline{\underline{u = v = 0\degree}}$ er den eneste muligheten.
+
+## Løsningsforslag
+
+Vi bruker GeoGebra CAS til å løse oppgaven. Likningen for lysbrytning er gitt:
+
+$$\sin u = 1{,}33 \cdot \sin v$$
+
+![GeoGebra CAS-utregning for lysbrytning](/img/user/_resources/1t-v24-2-2.png){width=80%}
+
+### a
+
+Vi skal finne $u$ når $v = 39\degree$. Setter inn i likningen:
+
+$$\sin u = 1{,}33 \cdot \sin 39\degree$$
+
+$$u = \arcsin(1{,}33 \cdot \sin 39\degree)$$
+
+Se linje 1–2 i CAS-utklippet: $u \approx 56{,}82\degree$.
+
+**Vinkelen $u$ må være $\underline{\underline{u \approx 56{,}82\degree}}$.**
+
+### b
+
+Dersom $u \to 90\degree$, vil $\sin u \to 1$. Fra likningen får vi da:
+
+$$\sin v \to \frac{1}{1{,}33} \approx 0{,}752$$
+
+$$v \to \arcsin\!\left(\frac{1}{1{,}33}\right) \approx 48{,}75\degree$$
+
+Se linje 3 i CAS-utklippet. Selv om $u$ nærmer seg $90\degree$, vil $v$ aldri nå $90\degree$ — den nærmer seg $48{,}75\degree$ som en grenseverdi. Dette er den kritiske vinkelen for totalrefleksjon.
+
+**Vinkelen $v$ nærmer seg $\underline{\underline{v \approx 48{,}75\degree}}$ og kan aldri bli $90\degree$.**
+
+### c
+
+Vi antar $u = v$ og setter inn i likningen:
+
+$$\sin u = 1{,}33 \cdot \sin u$$
+
+$$0 = 1{,}33 \cdot \sin u - \sin u = 0{,}33 \cdot \sin u$$
+
+$$\sin u = 0 \implies u = 0\degree$$
+
+Se linje 4 i CAS-utklippet (løsningen $u = \pi \cdot k_1$ tilsvarer $u = 0\degree$ for ikke-negative vinkler). Da er også $v = 0\degree$.
+
+Vinklene kan altså bare være like store når lysstrålen går rett gjennom langs linjen $m$.
+
+**$\underline{\underline{u = v = 0\degree}}$ er den eneste muligheten.**
+
 </div></div>
 
 
@@ -271,6 +562,38 @@ Du får vite følgende om en trekant $ABC$
 >Bestem lengdene av sidene $AC$ og $BC$ eksakt.
 
 ## Fasit
+
+$AC = \underline{\underline{2}}$, $BC = \underline{\underline{2\sqrt{21}}}$
+
+## Løsningsforslag
+
+Vi bruker GeoGebra CAS til å løse oppgaven eksakt.
+
+![GeoGebra CAS: arealsetning og cosinussetning](/img/user/_resources/1t-v24-2-3.png)
+
+**Finn AC med arealsetningen:**
+
+Arealsetningen gir
+
+$$T = \frac{1}{2} \cdot AB \cdot AC \cdot \sin A$$
+
+Vi setter inn kjente verdier og løser for $AC$:
+
+$$\frac{1}{2} \cdot 8 \cdot AC \cdot \sin(120\degree) = 4\sqrt{3}$$
+
+CAS gir $\textcolor{seagreen}{AC = 2}$.
+
+**Finn BC med cosinussetningen:**
+
+$$BC^2 = AB^2 + AC^2 - 2 \cdot AB \cdot AC \cdot \cos A$$
+
+$$BC^2 = 8^2 + 2^2 - 2 \cdot 8 \cdot 2 \cdot \cos(120\degree) = 64 + 4 - 32 \cdot \left(-\frac{1}{2}\right) = 68 + 16 = 84$$
+
+$$BC = \sqrt{84} = \sqrt{4 \cdot 21} = \textcolor{seagreen}{2\sqrt{21}}$$
+
+CAS bekrefter $\textcolor{seagreen}{BC = 2\sqrt{21}}$.
+
+**Svar:** $\underline{\underline{AC = 2}}$ og $\underline{\underline{BC = 2\sqrt{21}}}$
 
 </div></div>
 
@@ -303,6 +626,69 @@ $$\ldots$$
 ![Ruter med kuler som illustrerer summer av oddetall](/img/user/_resources/1t-v24-2-4.jpeg){width=40%}
 
 ## Fasit
+
+a) Se programmet i løsningsforslaget. Summene er $1, 4, 9, 16, 25, \ldots, 400$.
+
+b) **$S_n = n^2$** — summen av de $n$ første oddetallene er alltid et kvadrattall.
+
+## Løsningsforslag
+
+### a
+
+Vi bruker en løkke som for hvert $n$ summerer alle oddetall opp til og med det $n$-te oddetallet ($2n-1$):
+
+```python
+for n in range(1, 21):
+    S = 0
+    for k in range(1, n + 1):
+        S = S + (2*k - 1)
+    print(f"S_{n} = {S}")
+```
+
+Programmet skriver ut:
+
+```
+S_1 = 1
+S_2 = 4
+S_3 = 9
+S_4 = 16
+S_5 = 25
+S_6 = 36
+S_7 = 49
+S_8 = 64
+S_9 = 81
+S_10 = 100
+S_11 = 121
+S_12 = 144
+S_13 = 169
+S_14 = 196
+S_15 = 225
+S_16 = 256
+S_17 = 289
+S_18 = 324
+S_19 = 361
+S_20 = 400
+```
+
+### b
+
+Summene $1, 4, 9, 16, 25, \ldots$ er alle kvadrattall. Sammenhengen ser ut til å være:
+
+$$S_n = n^2$$
+
+Vi argumenterer for at dette stemmer ved hjelp av figuren:
+
+Figuren viser at $S_n$ kan illustreres som et $n \times n$ kvadrat bygd opp av kuler. Hvert steg fra $S_{n-1}$ til $S_n$ legger vi til en ny rad langs bunnen og en ny kolonne langs høyre side. Disse to bidrar med $n + n = 2n$ kuler, men hjørnekula er telt to ganger, så vi trekker fra 1. Antall kuler som legges til er derfor:
+
+$$2n - 1$$
+
+Dette er nøyaktig det $n$-te oddetallet. Dermed bygger vi et $n \times n$ kvadrat fra et $(n-1) \times (n-1)$ kvadrat ved å legge til et L-formet skall med $2n - 1$ kuler:
+
+$$S_n = S_{n-1} + (2n-1)$$
+
+Siden $S_1 = 1 = 1^2$, og hvert steg øker kvadratsiden med 1, gir dette:
+
+$$\mathbf{S_n = n^2}$$
 
 </div></div>
 
@@ -359,6 +745,60 @@ Når lufttrykket er lavere enn 1000 hPa, vil kokepunktet for vann være lavere e
 
 ## Fasit
 
+a) $K(x) = 8{,}71 \cdot x^{0{,}356}$
+
+b) Aris modell: $L_A(x) = 1000 \cdot 0{,}88^x$. Lisas modell: $L_L(x) = 1000 \cdot \left(\tfrac{1}{2}\right)^{x/5{,}5}$
+
+c) Med Aris modell: ca. $\underline{\underline{4 \, \mathrm{km}}}$ over havet.
+
+## Løsningsforslag
+
+### a
+
+Vi legger inn datapunktene fra tabellen i GeoGebra og bruker regresjonsverktøyet til å finne en modell på formen $K(x) = a \cdot x^b$.
+
+Fra GeoGebra (potensregresjon):
+
+$$K(x) = 8{,}71 \cdot x^{0{,}356}$$
+
+![Graf av K(x) med datapunkter og linje y=85](/img/user/_resources/1t-v24-2-5.png){width=90%}
+
+Modellen passer godt — alle datapunktene ligger nær kurven.
+
+**$\mathbf{K(x) = 8{,}71 \cdot x^{0{,}356}}$**
+
+### b
+
+**Aris modell:** Lufttrykket minker med 12 % per km, det vil si lufttrykket blir ganget med $0{,}88$ for hvert km. Vi starter ved $1000$ hPa ved havets overflate, slik at
+
+$$L_A(x) = 1000 \cdot 0{,}88^x$$
+
+der $x$ er antall km over havet.
+
+**Lisas modell:** Lufttrykket halveres for hver $5{,}5$ km, det vil si $k^{5{,}5} = \tfrac{1}{2}$, som gir $k = \left(\tfrac{1}{2}\right)^{1/5{,}5} \approx 0{,}8816$. Med samme startverdi:
+
+$$L_L(x) = 1000 \cdot \left(\tfrac{1}{2}\right)^{x/5{,}5}$$
+
+Modellene er svært like: $k_A = 0{,}88$ og $k_L \approx 0{,}882$.
+
+### c
+
+Et egg blir hardkokt dersom kokepunktet er minst $85 \, \degree\mathrm{C}$. Vi må finne høyden $x$ slik at $K(L(x)) = 85$.
+
+Vi bruker Aris modell og setter opp likningen
+
+$$K\left(L_A(x)\right) = 8{,}71 \cdot \left(1000 \cdot 0{,}88^x\right)^{0{,}356} = 85$$
+
+Vi løser likningen i GeoGebra CAS:
+
+![GeoGebra CAS løser K(L(x)) = 85](/img/user/_resources/1t-v24-2-5-cas-c.png){width=70%}
+
+CAS gir $x \approx 3{,}98 \, \mathrm{km}$.
+
+Med Lisas modell får man $x \approx 4{,}03 \, \mathrm{km}$ — begge modellene gir omtrent det samme svaret.
+
+**Det er mulig å få egg hardkokte opp til ca. $\underline{\underline{4 \, \mathrm{km}}}$ over havet.**
+
 </div></div>
 
 
@@ -383,6 +823,34 @@ Punktet $P(1, 2)$ ligger på grafen til $f$.
 >Bestem likningen for tangenten til grafen til $f$ i punktet $P$. Husk å argumentere for at svaret ditt er riktig.
 
 ## Fasit
+
+$\underline{\underline{y = -2x + 4}}$
+
+## Løsningsforslag
+
+Tangentens stigningstall i et punkt er lik den deriverte i det punktet.
+
+Vi leser av $f'(1)$ fra grafen til $f'$: linjen passerer gjennom $(2, 0)$ og $(4, 4)$, så stigningstallet til $f'$ er
+
+$$\frac{4 - 0}{4 - 2} = \frac{4}{2} = 2$$
+
+Linjens likning er $f'(x) = 2x + b$. Fra punktet $(2, 0)$:
+
+$$0 = 2 \cdot 2 + b \implies b = -4$$
+
+Altså $f'(x) = 2x - 4$, og dermed
+
+$$f'(1) = 2 \cdot 1 - 4 = -2$$
+
+Tangentens stigningstall i $P(1, 2)$ er $\textcolor{seagreen}{-2}$.
+
+Tangentlikningen gjennom $P(1, 2)$ med stigningstall $-2$:
+
+$$y - 2 = -2(x - 1)$$
+
+$$y = -2x + 2 + 2$$
+
+$$\underline{\underline{y = -2x + 4}}$$
 
 </div></div>
 
@@ -413,6 +881,75 @@ Figuren ovenfor viser tre grafer som til sammen danner en lukket kurve.
 >Husk å forklare hvordan du har tenkt, og argumenter for at løsningen din er riktig.
 
 ## Fasit
+
+Én mulig løsning:
+
+$$f(x) = x^2 + 3, \quad x \in \langle -2\sqrt{2},\, 0 \rangle$$
+
+$$g(x) = 2x^2 + 3, \quad x \in \langle 0,\, 2 \rangle$$
+
+$$h(x) = 11, \quad x \in \langle -2\sqrt{2},\, 2 \rangle$$
+
+Bunnpunkt for $f$: $(0, 3)$ på $y$-aksen. Bunnpunkt for $g$: $(0, 3)$ på $y$-aksen.
+$A = (-2\sqrt{2},\, 11)$ og $B = (2,\, 11)$ har begge $y$-koordinat $11$.
+
+## Løsningsforslag
+
+Jeg velger to andregradfunksjoner som begge har bunnpunkt på $y$-aksen, og en horisontal linje som lukker kurven øverst. Funksjonsuttrykkene er
+
+$$f(x) = x^2 + 3, \qquad g(x) = 2x^2 + 3, \qquad h(x) = 11.$$
+
+**Definisjonsområder og grensepunkter**
+
+Jeg bestemmer definisjonsområdene slik at de tre grafene møtes og danner en lukket kurve:
+
+- $f$ er definert for $x \in \langle -2\sqrt{2},\, 0 \rangle$
+- $g$ er definert for $x \in \langle 0,\, 2 \rangle$
+- $h$ er definert for $x \in \langle -2\sqrt{2},\, 2 \rangle$
+
+Punktet $C = (0, 3)$ er der $f$ og $g$ møtes:
+
+$$f(0) = 0^2 + 3 = 3 \qquad \text{og} \qquad g(0) = 2 \cdot 0^2 + 3 = 3$$
+
+De to grafene har altså same funksjonsverdi i $x = 0$, og kurven er sammenhengende her.
+
+**Punktene A og B**
+
+Punkt $A$ er der $f$ og $h$ møtes. Jeg setter $f(x) = 11$:
+
+$$x^2 + 3 = 11 \implies x^2 = 8 \implies x = -2\sqrt{2}$$
+
+(tar den negative løsningen siden $f$ er definert for $x \leq 0$).
+
+$$A = (-2\sqrt{2},\, 11)$$
+
+Punkt $B$ er der $g$ og $h$ møtes. Jeg setter $g(x) = 11$:
+
+$$2x^2 + 3 = 11 \implies 2x^2 = 8 \implies x^2 = 4 \implies x = 2$$
+
+$$B = (2,\, 11)$$
+
+Begge punktene har $y$-koordinat $11$, så kravet om at $A$ og $B$ har samme $y$-koordinat er oppfylt.
+
+**Bunnpunkter på $y$-aksen**
+
+$f(x) = x^2 + 3$ er en parabel som åpner oppover. Bunnpunktet er der $f'(x) = 2x = 0$, altså $x = 0$. Bunnpunktet er $(0, 3)$, som ligger på $y$-aksen.
+
+$g(x) = 2x^2 + 3$ er også en parabel som åpner oppover. Bunnpunktet er der $g'(x) = 4x = 0$, altså $x = 0$. Bunnpunktet er $(0, 3)$, som ligger på $y$-aksen.
+
+Begge de to parabler har altså bunnpunkt på $y$-aksen, slik oppgaven krever.
+
+**Den lukkede kurven**
+
+Grafene danner en lukket kurve i tre deler:
+
+1. $f$: fra $A = (-2\sqrt{2},\, 11)$ ned til $C = (0,\, 3)$ (venstre parabelgren)
+2. $g$: fra $C = (0,\, 3)$ opp til $B = (2,\, 11)$ (høyre parabelgren, brattere)
+3. $h$: horisontal linje fra $B = (2,\, 11)$ tilbake til $A = (-2\sqrt{2},\, 11)$ (toppen)
+
+Figuren nedenfor viser den lukkede kurven med $f$ i blått, $g$ i grønt og $h$ i rødt.
+
+![Lukket kurve av tre funksjoner: f (blå), g (grønn) og h (rød)](/img/user/_resources/1t-v24-2-7-l%C3%B8sning.png){width=80%}
 
 </div></div>
 

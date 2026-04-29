@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-05-29","modified":"2026-03-31","aliases":null,"dg-publish":true,"temaer":["rekursiv sammenheng","figurtall","programmering"],"fag":["s2"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":4}],"title":"Kubikktall","source":null,"todo":null,"status":3,"dg-permalink":"/kubikktall/","permalink":"/kubikktall/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-29","modified":"2026-03-31","aliases":null,"temaer":["rekursiv sammenheng","figurtall","programmering"],"fag":["s2"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":4}],"title":"Kubikktall","source":null,"todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2024-05-29","modified":"2026-03-31","aliases":null,"dg-publish":true,"temaer":["rekursiv sammenheng","figurtall","programmering","rekker","regresjon"],"fag":["s2"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":4}],"title":"Kubikktall","source":null,"todo":null,"status":3,"kategori":3,"vanskegrad":2,"beskrivelse":"Rekursiv sammenheng $S_{n+1}=S_n+(n+1)^3$ for kubikktall; eksplisitt formel via regresjon; programmere $S_{50}$.","deloppgaver":[{"deloppgave":"a","beskrivelse":"Finne rekursiv sammenheng og bruke regresjon for eksplisitt $S_n=\\frac{1}{4}(n^4+2n^3+n^2)$."},{"deloppgave":"b","kategori":2,"beskrivelse":"For-løkke som legger til $n^3$ 50 ganger; $S_{50}=1\\,625\\,625$."}],"dg-permalink":"/kubikktall/","permalink":"/kubikktall/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-05-29","modified":"2026-03-31","aliases":null,"temaer":["rekursiv sammenheng","figurtall","programmering","rekker","regresjon"],"fag":["s2"],"eksamen":"v24","del":2,"oppgave":4,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":4}],"title":"Kubikktall","source":null,"todo":null,"status":3,"kategori":3,"vanskegrad":2,"beskrivelse":"Rekursiv sammenheng $S_{n+1}=S_n+(n+1)^3$ for kubikktall; eksplisitt formel via regresjon; programmere $S_{50}$.","deloppgaver":[{"deloppgave":"a","beskrivelse":"Finne rekursiv sammenheng og bruke regresjon for eksplisitt $S_n=\\frac{1}{4}(n^4+2n^3+n^2)$."},{"deloppgave":"b","kategori":2,"beskrivelse":"For-løkke som legger til $n^3$ 50 ganger; $S_{50}=1\\,625\\,625$."}]}}
 ---
 
 
@@ -3840,7 +3840,7 @@ b) $S_{50}=1625625$
 
 ## Løsningsforslag
 
-### 2-4a
+### a
 Jeg setter opp de første leddene og ser om jeg finner en rekursiv sammenheng som jeg kan bruke.
 
 $$
@@ -3865,7 +3865,7 @@ En eksplisitt formel for summene er
 
 $$S_{n}=\underline{\underline{\frac{1}{4}\left( n^{4}+ 2n^{3}+n^{2} \right)}}$$
 
-### 2-4b
+### b
 Jeg bruker følgende program
 
 ```python

@@ -49,7 +49,6 @@ Prisen for å leie en sparkesykkel fra Roi beregnes slik:
 
 >[!oppgave]
 >a) Hvor mye må du betale for å låse opp og leie en sparkesykkel i 4 minutter?
->
 >b) Tenk deg at du låser opp og leier en sparkesykkel. Prisen du betaler, er 53 kroner. Hvor mange minutter varer turen?
 
 Du vil lage en formel for prisen $P$ du må betale for å leie en sparkesykkel i $x$ minutter.
@@ -75,11 +74,15 @@ c) D: $P = 8 + 3x$
 
 ## Løsningsforslag
 
-a) Oppstartsprisen er 8 kr og leieprisen er 3 kr per minutt. For 4 minutter:
+### a
+
+Oppstartsprisen er 8 kr og leieprisen er 3 kr per minutt. For 4 minutter:
 
    $$8 + 3 \cdot 4 = 8 + 12 = \underline{\underline{20 \, \mathrm{kr}}}$$
 
-b) Vi vet at prisen er 53 kr, og setter opp en likning:
+### b
+
+Vi vet at prisen er 53 kr, og setter opp en likning:
 
    $$
    \begin{aligned}
@@ -89,7 +92,9 @@ b) Vi vet at prisen er 53 kr, og setter opp en likning:
    \end{aligned}
    $$
 
-c) Prisen er alltid 8 kr i oppstart pluss 3 kr for hvert minutt. Formelen for $x$ minutter er altså:
+### c
+
+Prisen er alltid 8 kr i oppstart pluss 3 kr for hvert minutt. Formelen for $x$ minutter er altså:
 
    $$P = 8 + 3x$$
 
@@ -129,7 +134,6 @@ Du skal kjøpe hundemat og kan velge mellom merkene Gnafs og Nam-Nam. Hundematen
 
 >[!oppgave]
 >b) Hvilken hundemat har den laveste kiloprisen? Hva er prisen per kilogram for denne hundematen?
->
 >c) Hvilken hundemat gir lavest kostnad i kroner per dag? Husk å begrunne svaret ditt.
 
 ## Fasit
@@ -140,7 +144,9 @@ c) Nam-Nam: $15 \, \mathrm{kr/dag}$
 
 ## Løsningsforslag
 
-a) Nam-Nam koster 600 kr for 8 kg. Vi deler på 2, 4 og 8 for å finne prisene:
+### a
+
+Nam-Nam koster 600 kr for 8 kg. Vi deler på 2, 4 og 8 for å finne prisene:
 
    **Nam-Nam hundemat**
 
@@ -148,14 +154,18 @@ a) Nam-Nam koster 600 kr for 8 kg. Vi deler på 2, 4 og 8 for å finne prisene:
    |---------------|-----|-----|-----|----|
    | Pris (kroner) | 600 | 300 | 150 | 75 |
 
-b) Kilopris for hvert merke:
+### b
+
+Kilopris for hvert merke:
 
    - Gnafs: $700 \div 10 = 70 \, \mathrm{kr/kg}$
    - Nam-Nam: $600 \div 8 = 75 \, \mathrm{kr/kg}$
 
    **Gnafs har den laveste kiloprisen med $\underline{\underline{70 \, \mathrm{kr/kg}}}$.**
 
-c) Daglig kostnad for hvert merke:
+### c
+
+Daglig kostnad for hvert merke:
 
    - Gnafs: $250 \, \mathrm{g} = 0{,}25 \, \mathrm{kg}$, kostnad per dag $= 0{,}25 \cdot 70 = 17{,}50 \, \mathrm{kr}$
    - Nam-Nam: $200 \, \mathrm{g} = 0{,}20 \, \mathrm{kg}$, kostnad per dag $= 0{,}20 \cdot 75 = 15{,}00 \, \mathrm{kr}$
@@ -391,13 +401,15 @@ Strømforbruk måles i kilowattimer (kWh).
 
 ![Regneark som viser Ludvigs dusjregnskap](/img/user/_resources/ludvigs-dusj.png){width=40%}
 
-a) Lag et regneark som vist ovenfor. Lag formler i de grønne cellene slik at utregningene blir riktige. Husk å ta med formlene i besvarelsen din.
+> [!oppgave]
+> a) Lag et regneark som vist ovenfor. Lag formler i de grønne cellene slik at utregningene blir riktige. Husk å ta med formlene i besvarelsen din.
 
 I celle B11 skriver Ludvig `=B3 * B5/60`
 
-b) Hvilket tall får Ludvig som svar i celle B11?
-
-   Foreslå en tekst han kan skrive i celle A11, som forklarer hva tallet i celle B11 betyr.
+> [!oppgave]
+> b) Hvilket tall får Ludvig som svar i celle B11?
+>
+>    Foreslå en tekst han kan skrive i celle A11, som forklarer hva tallet i celle B11 betyr.
 
 I 2023 har Ludvig blitt sammen med Ines. Hun er opptatt av både miljø og sparing. Ines gir Ludvig noen sparetips:
 
@@ -407,7 +419,8 @@ I 2023 har Ludvig blitt sammen med Ines. Hun er opptatt av både miljø og spari
 
 Regn med samme strømpris for 2023 som for 2022.
 
-c) Hvor mange kroner kan Ludvig spare i 2023 hvis han følger alle rådene fra Ines?
+> [!oppgave]
+> c) Hvor mange kroner kan Ludvig spare i 2023 hvis han følger alle rådene fra Ines?
 
 ## Fasit
 
@@ -420,7 +433,9 @@ c) Sparing $\approx 3725 \, \mathrm{kr}$
 > [!note] Excel-oppgave
 > Denne oppgaven er ment å løses i et regneark. Her vises fremgangsmåten og formlene.
 
-a) Regnearket for 2022 fylles inn slik:
+### a
+
+Regnearket for 2022 fylles inn slik:
 
    | Celle | Tekst | Formel / verdi |
    |:-----:|-------|---------------|
@@ -436,7 +451,9 @@ a) Regnearket for 2022 fylles inn slik:
    - B9 = $8{,}4 \cdot 365 = 3066$ kWh per år
    - B10 = $3066 \cdot 1{,}50 = 4599$ kr per år
 
-b) Formelen `=B3*B5/60` gir:
+### b
+
+Formelen `=B3*B5/60` gir:
 
    $$15 \cdot 365 \div 60 = \underline{\underline{91{,}25}}$$
 
@@ -444,7 +461,9 @@ b) Formelen `=B3*B5/60` gir:
 
    Det tilsvarer at Ludvig bruker $91{,}25$ timer i dusjen i løpet av ett år.
 
-c) Med alle rådene fra Ines:
+### c
+
+Med alle rådene fra Ines:
 
    - Nytt dusjhode: 8 liter/minutt (var 16)
    - Kortere dusjing: 10 minutter (var 15)

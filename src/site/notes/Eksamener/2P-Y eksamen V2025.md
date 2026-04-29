@@ -86,8 +86,9 @@ Trine og Truls står i kø for å ta en skiheis. De teller hvor mange personer s
 
 $$6\qquad 3\qquad 2\qquad 4\qquad 4\qquad 6\qquad 2\qquad 7\qquad 8\qquad 8$$
 
-a) Bestem medianen og gjennomsnittet.
-b) Bestem den kumulative frekvensen for $6$ personer, og gi en praktisk tolkning av svaret.
+> [!oppgave]
+> a) Bestem medianen og gjennomsnittet.
+> b) Bestem den kumulative frekvensen for $6$ personer, og gi en praktisk tolkning av svaret.
 
 ## Fasit
 

@@ -11,7 +11,6 @@ Gitt figuren ovenfor.
 
 >[!oppgave]
 >a) Gjør beregninger og vis at $AC = 3$.
->
 >b) Bestem arealet av firkanten $ABCD$. Gi svaret eksakt.
 
 ## Fasit
