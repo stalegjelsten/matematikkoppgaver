@@ -164,7 +164,6 @@ Likningen $\log_a \dfrac{1}{64} = -3$ betyr $a^{-3} = \dfrac{1}{64}$, altså $a^
 >[!oppgave]
 >a) Bestem grenseverdien dersom den eksisterer:
 >$$\lim_{x \to -2} \frac{x^2 - 4x + 2}{x^2 - 2x - 8}$$
->
 >b)
 >    1) Bestem $a$ slik at grenseverdien eksisterer:
 >    $$\lim_{x \to -2} \frac{x^2 + ax + 2}{x^2 - 2x - 8}$$
@@ -866,7 +865,6 @@ Nedenfor ser du åtte grafer.
 >- Det må komme tydelig fram hvilken graf som er grafen til funksjonen, og hvilken som er grafen til den dobbeltderiverte.
 >
 >Husk å begrunne svarene.
->
 >b) Hvilke av de åtte grafene ovenfor er grafer til funksjoner som har en omvendt funksjon?
 
 ## Fasit

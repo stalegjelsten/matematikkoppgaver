@@ -14,7 +14,6 @@ Peder har glemt koden på hengelåsen sin. Koden består av tre sifre. Peder hus
 ## Fasit
 
 a) $\underline{\underline{P = \frac{1}{216} \approx 0{,}46 \,\%}}$
-
 b) Simuleringen gir ca. $0{,}43 \,\%$, nært den teoretiske verdien $0{,}46 \,\%$.
 
 ## Løsningsforslag

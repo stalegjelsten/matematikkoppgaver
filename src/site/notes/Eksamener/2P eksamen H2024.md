@@ -51,6 +51,22 @@ På et kart er avstanden mellom to byer 10 cm. I virkeligheten er denne avstande
 
 ## Fasit
 
+**Målestokk $1 : 50\,000$**
+
+## Løsningsforslag
+
+Vi skal finne forholdet mellom karstavstand og virkelig avstand.
+
+Først gjør vi om den virkelige avstanden til samme enhet som kartavstanden (centimeter):
+
+$$5 \, \mathrm{km} = 5 \cdot 100\,000 \, \mathrm{cm} = 500\,000 \, \mathrm{cm}$$
+
+Målestokken er forholdet mellom kartavstand og virkelig avstand:
+
+$$\text{Målestokk} = \frac{\text{kartavstand}}{\text{virkelig avstand}} = \frac{10 \, \mathrm{cm}}{500\,000 \, \mathrm{cm}} = \frac{1}{50\,000}$$
+
+**Målestokken til kartet er $\underline{\underline{1 : 50\,000}}$.**
+
 </div></div>
 
 
@@ -123,6 +139,38 @@ Even har tegnet en rettvinklet trekant. Den ene kateten er 10 cm, og den andre k
 
 ## Fasit
 
+Katetene i den nye trekanten er $\underline{\underline{16 \, \mathrm{cm}}}$ og $\underline{\underline{8 \, \mathrm{cm}}}$.
+
+## Løsningsforslag
+
+Evens originale trekant har kateter $10 \, \mathrm{cm}$ og $5 \, \mathrm{cm}$.
+
+Arealet av den originale trekanten er:
+
+$$A_1 = \frac{1}{2} \cdot 10 \cdot 5 = 25 \, \mathrm{cm}^2$$
+
+Når to trekanter er formlike, er alle sidene skalert med den samme faktoren $k$. Siden arealet er et produkt av to lengder, skalerer arealet med $k^2$:
+
+$$A_2 = k^2 \cdot A_1$$
+
+Vi setter inn $A_2 = 64$ og $A_1 = 25$:
+
+$$64 = k^2 \cdot 25$$
+
+$$k^2 = \frac{64}{25}$$
+
+$$k = \sqrt{\frac{64}{25}} = \frac{8}{5} = 1{,}6$$
+
+De nye katetene er:
+
+$$\textcolor{seagreen}{10 \cdot 1{,}6 = 16 \, \mathrm{cm}}$$
+
+$$\textcolor{steelblue}{5 \cdot 1{,}6 = 8 \, \mathrm{cm}}$$
+
+**Kontroll:** $A_2 = \frac{1}{2} \cdot 16 \cdot 8 = 64 \, \mathrm{cm}^2$ ✓
+
+**Katetene i den nye trekanten er $\underline{\underline{16 \, \mathrm{cm}}}$ og $\underline{\underline{8 \, \mathrm{cm}}}$.**
+
 </div></div>
 
 
@@ -150,6 +198,30 @@ $$
 >Vis Markus hvordan han kan løse likningssystemet.
 
 ## Fasit
+
+$\underline{\underline{x = 3}}$ og $\underline{\underline{y = 0}}$
+
+## Løsningsforslag
+
+Vi bruker innsettingsmetoden. Den første likningen er allerede løst for $y$:
+
+$$y = 2x - 6$$
+
+Vi setter dette inn for $y$ i den andre likningen:
+
+$$4x + 2 \cdot (2x - 6) = 12$$
+
+$$4x + 4x - 12 = 12$$
+
+$$8x = 24$$
+
+$$x = 3$$
+
+Nå setter vi $x = 3$ tilbake i den første likningen for å finne $y$:
+
+$$y = 2 \cdot 3 - 6 = 6 - 6 = 0$$
+
+**Svaret er $x = 3$ og $y = 0$.**
 
 </div></div>
 
@@ -323,6 +395,39 @@ Tabellen nedenfor viser gjennomsnittlig månedslønn for arbeidstakere i Norge i
 
 ## Fasit
 
+Se tabell og graf i løsningsforslaget. Kjøpekraften falt i 2016 og 2022, og steg i alle andre år. Totalt økte kjøpekraften med ca. $\underline{\underline{702 \, \mathrm{kr}}}$ (ca. $\underline{\underline{1{,}6 \,\%}}$) fra 2015 til 2022.
+
+## Løsningsforslag
+
+For å undersøke kjøpekraften justerer vi månedslønnen for prisvekst ved hjelp av konsumprisindeksen (KPI). KPI forteller oss hvor mye prisene har steget sammenlignet med basisåret 2015, der KPI = 100.
+
+**Formel for kjøpekraft i faste 2015-kroner:**
+
+$$\text{Kjøpekraft} = \frac{\text{Månedslønn}}{\text{KPI}} \cdot 100$$
+
+**Eksempel for 2016:**
+
+$$\frac{43\,640}{103{,}6} \cdot 100 \approx 42\,124 \, \mathrm{kr}$$
+
+**Oversikt over kjøpekraft og endringer år for år:**
+
+| År | Månedslønn (kr) | KPI | Kjøpekraft (kr) | Endring fra forrige år (kr) |
+|---|---|---|---|---|
+| 2015 | 42 580 | 100,0 | 42 580 | — |
+| 2016 | 43 640 | 103,6 | 42 124 | $\textcolor{tomato}{-456}$ |
+| 2017 | 44 660 | 105,5 | 42 332 | $\textcolor{seagreen}{+208}$ |
+| 2018 | 46 010 | 108,4 | 42 445 | $\textcolor{seagreen}{+113}$ |
+| 2019 | 47 720 | 110,8 | 43 069 | $\textcolor{seagreen}{+624}$ |
+| 2020 | 48 750 | 112,2 | 43 449 | $\textcolor{seagreen}{+381}$ |
+| 2021 | 50 790 | 116,1 | 43 747 | $\textcolor{seagreen}{+298}$ |
+| 2022 | 53 150 | 122,8 | 43 282 | $\textcolor{tomato}{-465}$ |
+
+Grafen nedenfor viser kjøpekraften i perioden (x = 0 tilsvarer 2015, x = 7 tilsvarer 2022):
+
+![Kjøpekraft i faste 2015-kroner, 2015–2022](/img/user/_resources/2p-h24-2-2.png){width=80%}
+
+**Konklusjon:** Kjøpekraften falt i 2016 og i 2022 (begge år med høy prisvekst som oversteg lønnsveksten). I alle andre år økte kjøpekraften. Fra 2015 til 2022 økte den totale kjøpekraften med omtrent $702 \, \mathrm{kr}$, som tilsvarer ca. $1{,}6 \,\%$. Den reelle lønnsveksten var altså svært beskjeden over denne perioden.
+
 </div></div>
 
 
@@ -476,6 +581,46 @@ En måned arbeidet hun 10 timer overtid.
 
 ## Fasit
 
+**Nettoinntekt: $\underline{\underline{31\,064 \, \mathrm{kr}}}$**
+
+## Løsningsforslag
+
+Vi bruker regneark til å beregne nettoinntekten steg for steg.
+
+![Regneark – nettoinntekt med overtid](/img/user/_resources/2p-h24-2-5.png){width=90%}
+
+**Steg 1 – Timelønn**
+
+$$\text{Timelønn} = \frac{35\,750}{162{,}5} = 220 \, \mathrm{kr/time}$$
+
+**Steg 2 – Overtidslønn per time**
+
+Overtid gir $40\,\%$ tillegg, altså $140\,\%$ av ordinær timelønn:
+
+$$\text{Overtidslønn} = 220 \cdot 1{,}40 = 308 \, \mathrm{kr/time}$$
+
+**Steg 3 – Overtidsinntekt**
+
+$$\text{Overtidsinntekt} = 308 \cdot 10 = 3\,080 \, \mathrm{kr}$$
+
+**Steg 4 – Bruttolønn**
+
+$$\text{Bruttolønn} = 35\,750 + 3\,080 = 38\,830 \, \mathrm{kr}$$
+
+**Steg 5 – Trekk**
+
+$$\text{Pensjonstrekk} = 38\,830 \cdot 0{,}02 = 776{,}60 \, \mathrm{kr}$$
+
+$$\text{Skattetrekk} = 38\,830 \cdot 0{,}18 = 6\,989{,}40 \, \mathrm{kr}$$
+
+$$\text{Totalt trekk} = 776{,}60 + 6\,989{,}40 = 7\,766 \, \mathrm{kr}$$
+
+**Steg 6 – Nettoinntekt**
+
+$$\text{Nettoinntekt} = 38\,830 - 7\,766 = \underline{\underline{31\,064 \, \mathrm{kr}}}$$
+
+Tobines nettoinntekt denne måneden er $\mathbf{31\,064 \, \mathrm{kr}}$.
+
 </div></div>
 
 
@@ -576,11 +721,59 @@ Betalingsplanen ser slik ut:
 
 >[!oppgave]
 >Bruk betalingsplanen til å avgjøre
+>
 >- om lånet er et serielån eller et annuitetslån
 >- hvor mye penger Julia har lånt
 >- hvor mange prosent Julia betaler i månedlig rente
 
 ## Fasit
+
+- Annuitetslån
+- Julia lånte $\underline{\underline{75\,000 \, \mathrm{kr}}}$
+- Månedlig rente: $\underline{\underline{1{,}70 \,\%}}$
+
+## Løsningsforslag
+
+Vi bruker betalingsplanen i regnearket nedenfor.
+
+![Betalingsplan for Julias forbrukslån](/img/user/_resources/2p-h24-2-7.png){width=80%}
+
+### Serielån eller annuitetslån?
+
+Vi ser på **terminbeløpet** (det Julia betaler hver måned):
+
+- Alle terminbeløp er kr 6 962,00 (unntatt siste måned som er kr 6 961,39 på grunn av avrunding).
+
+Terminbeløpet er **konstant** gjennom hele nedbetalingsperioden.
+
+Vi ser også at **avdraget øker** for hver måned (fra kr 5 687 i mnd 1 til kr 6 845 i mnd 12), mens **rentene synker**.
+
+Dette er kjennetegnet på et **annuitetslån**: konstant terminbeløp, voksende avdrag og synkende renter.
+
+**Julia har et annuitetslån.**
+
+### Opprinnelig lånebeløp
+
+Det opprinnelige lånet er restlånet etter måned 1 pluss avdraget i måned 1:
+
+$$75\,000 = 69\,313 + 5\,687$$
+
+**Julia lånte $\underline{\underline{75\,000 \, \mathrm{kr}}}$.**
+
+### Månedlig rentesats
+
+Rentene i måned 1 beregnes av det opprinnelige lånet:
+
+$$r = \frac{\text{renter mnd 1}}{\text{opprinnelig lån}} = \frac{1\,275}{75\,000} = 0{,}017 = 1{,}70\,\%$$
+
+Vi kan verifisere med måned 2: restlånet etter mnd 1 er kr 69 313,00, og
+
+$$69\,313{,}00 \cdot 0{,}017 = 1\,178{,}32 \, \mathrm{kr}$$
+
+som stemmer nøyaktig med tabellen.
+
+**Den månedlige renten er $\underline{\underline{1{,}70 \,\%}}$.**
+
 
 </div></div>
 
@@ -613,6 +806,56 @@ Lesehulen har en sekskantet inngang. Sekskanten er regulær. Alle sidene i seksk
 >b) Gjør beregninger og bestem arealet av den sekskantede inngangen. Gi svaret i kvadratmeter.
 
 ## Fasit
+
+a) $\underline{\underline{V \approx 1{,}29 \, \mathrm{m}^3}}$
+b) $\underline{\underline{A \approx 0{,}41 \, \mathrm{m}^2}}$
+
+## Løsningsforslag
+
+Lesehulen har et husformet tverrsnitt (rektangel + trekant) og en dybde på 1000 mm.
+
+![Tverrsnitt av lesehule med mål](/img/user/_resources/2p-h24-2-8.png){width=80%}
+
+GeoGebra bekrefter at tverrsnittsarealet er $1\,287\,000 \, \mathrm{mm}^2$ (se «Hus = 1287000» i figuren).
+
+### a
+
+Vi deler tverrsnittet i et **rektangel** (veggene) og en **trekant** (taket).
+
+**Rektangel:**
+
+$$A_{\text{rekt}} = 1000 \, \mathrm{mm} \cdot 1047 \, \mathrm{mm} = 1\,047\,000 \, \mathrm{mm}^2$$
+
+**Trekant (taket):**
+
+$$A_{\text{tak}} = \frac{1}{2} \cdot 1000 \, \mathrm{mm} \cdot 480 \, \mathrm{mm} = 240\,000 \, \mathrm{mm}^2$$
+
+**Totalt tverrsnittareal:**
+
+$$A_{\text{tverrsnitt}} = 1\,047\,000 + 240\,000 = 1\,287\,000 \, \mathrm{mm}^2$$
+
+**Volum** = tverrsnittareal × dybde:
+
+$$V = 1\,287\,000 \, \mathrm{mm}^2 \cdot 1000 \, \mathrm{mm} = 1\,287\,000\,000 \, \mathrm{mm}^3$$
+
+Vi konverterer til kubikkmeter ($1 \, \mathrm{m}^3 = 10^9 \, \mathrm{mm}^3$):
+
+$$V = \frac{1\,287\,000\,000}{10^9} \, \mathrm{m}^3 = \mathbf{\underline{\underline{1{,}287 \approx 1{,}29 \, \mathrm{m}^3}}}$$
+
+### b
+
+En regulær sekskant med sidelengde $s$ har arealet:
+
+$$A = \frac{3\sqrt{3}}{2} \cdot s^2$$
+
+Med $s = 398 \, \mathrm{mm}$:
+
+$$A = \frac{3\sqrt{3}}{2} \cdot 398^2 \, \mathrm{mm}^2 = \frac{3\sqrt{3}}{2} \cdot 158\,404 \, \mathrm{mm}^2 \approx 411\,546 \, \mathrm{mm}^2$$
+
+Vi konverterer til kvadratmeter ($1 \, \mathrm{m}^2 = 10^6 \, \mathrm{mm}^2$):
+
+$$A = \frac{411\,546}{10^6} \, \mathrm{m}^2 \approx \mathbf{\underline{\underline{0{,}41 \, \mathrm{m}^2}}}$$
+
 
 </div></div>
 

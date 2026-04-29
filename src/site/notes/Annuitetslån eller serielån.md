@@ -11,7 +11,6 @@ Nora har tatt opp et lån med en fast årlig rente. Lånet skal betales tilbake 
 
 >[!oppgave]
 >a) Er lånet et annuitetslån, eller er det et serielån? Husk å begrunne svaret.
->
 >b) Hvor stort lån har Nora tatt opp?
 
 ## Fasit

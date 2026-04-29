@@ -14,7 +14,6 @@ I en skuff ligger det 6 gule, 5 svarte og 4 hvite sokker.
 ## Fasit
 
 a) $\underline{\underline{P(\text{begge gule}) = \dfrac{1}{7} \approx 14{,}3 \,\%}}$
-
 b) $\underline{\underline{P(\text{minst 2 like}) = \dfrac{67}{91} \approx 73{,}6 \,\%}}$
 
 ## Løsningsforslag

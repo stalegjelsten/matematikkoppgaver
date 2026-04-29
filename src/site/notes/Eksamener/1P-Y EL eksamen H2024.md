@@ -50,7 +50,6 @@ To butikker selger sekker med plantejord.
 
 >[!oppgave]
 >a) Hvor mye må du betale hvis du skal kjøpe 120 liter plantejord i butikk A?
->
 >b) I hvilken butikk blir det billigst å handle hvis du skal kjøpe 160 liter plantejord? Husk å begrunne svaret ditt.
 
 ## Fasit

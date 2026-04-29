@@ -150,6 +150,80 @@ Tabellen nedenfor viser hvor mange bagetter en kantine har solgt hver av de sist
 
 ## Fasit
 
+a) Alle datapunkter ligger nær kurven — $O(x)$ er en god modell.
+
+b) **Maksimalt overskudd $\underline{\underline{\approx 4459 \, \mathrm{kr}}}$ ved $\underline{\underline{x \approx 284}}$ bagetter.**
+
+c) Stigningstallet er $\underline{\underline{24{,}04 \, \mathrm{kr/bagett}}}$.
+
+d) Momentan vekstfart: $\underline{\underline{O'(235) \approx 8{,}74 \, \mathrm{kr/bagett}}}$.
+
+## Løsningsforslag
+
+### a
+
+Vi plotter datapunktene fra tabellen og grafen til $O(x) = -0{,}09x^2 + 51{,}04x - 2776{,}98$ i GeoGebra:
+
+![Datapunkter og O(x) plottet i GeoGebra](/img/user/_resources/1t-v24-2-1.png)
+
+Vi ser at alle de røde datapunktene ligger svært nær den blå kurven. Vi kan også beregne modellverdiene og sammenligne:
+
+| $x$ | $O(x)$ (modell) | Faktisk overskudd | Avvik |
+|-----|-----------------|-------------------|-------|
+| 100 | $1\,427$ kr | $1\,450$ kr | $23$ kr |
+| 130 | $2\,348$ kr | $2\,300$ kr | $48$ kr |
+| 160 | $3\,092$ kr | $3\,050$ kr | $42$ kr |
+| 175 | $3\,405$ kr | $3\,365$ kr | $40$ kr |
+| 190 | $3\,706$ kr | $3\,720$ kr | $14$ kr |
+| 220 | $4\,102$ kr | $4\,140$ kr | $38$ kr |
+| 235 | $4\,178$ kr | $4\,175$ kr | $3$ kr |
+
+Avvikene er små (under $50$ kr) sammenlignet med overskuddet. **$O(x)$ er en god modell.**
+
+### b
+
+Vi finner toppunktet til $O(x)$ ved å sette den deriverte lik null.
+
+$$O'(x) = -0{,}18x + 51{,}04 = 0$$
+
+Vi løser dette i GeoGebra CAS:
+
+![CAS: derivert og optimum](/img/user/_resources/1t-v24-2-1-cas.png)
+
+$$x = \frac{51{,}04}{0{,}18} \approx 283{,}56$$
+
+Det vil si at overskuddet er størst ved $x \approx 284$ bagetter. Maksimalt overskudd:
+
+$$O(283{,}56) \approx 4459{,}36 \, \mathrm{kr}$$
+
+**Kantinen bør produsere og selge ca. $\underline{\underline{284}}$ bagetter per uke. Da blir overskuddet $\underline{\underline{\approx 4459 \, \mathrm{kr}}}$.**
+
+### c
+
+Vi beregner stigningstallet til sekanten gjennom $(100,\, O(100))$ og $(200,\, O(200))$:
+
+$$O(100) = -0{,}09 \cdot 100^2 + 51{,}04 \cdot 100 - 2776{,}98 = 1\,427{,}02 \, \mathrm{kr}$$
+
+$$O(200) = -0{,}09 \cdot 200^2 + 51{,}04 \cdot 200 - 2776{,}98 = 3\,831{,}02 \, \mathrm{kr}$$
+
+$$\text{Stigningstall} = \frac{O(200) - O(100)}{200 - 100} = \frac{3831{,}02 - 1427{,}02}{100} = \frac{2404}{100} = 24{,}04$$
+
+**Stigningstallet er $\underline{\underline{24{,}04 \, \mathrm{kr/bagett}}}$.**
+
+Praktisk tolkning: Når antall solgte bagetter øker fra 100 til 200, øker overskuddet i gjennomsnitt med $24{,}04$ kr per ekstra bagett.
+
+### d
+
+Den momentane vekstfarten er verdien av den deriverte i punktet $x = 235$:
+
+$$O'(x) = -0{,}18x + 51{,}04$$
+
+$$O'(235) = -0{,}18 \cdot 235 + 51{,}04 = -42{,}30 + 51{,}04 = 8{,}74$$
+
+**Den momentane vekstfarten er $\underline{\underline{O'(235) \approx 8{,}74 \, \mathrm{kr/bagett}}}$.**
+
+Praktisk tolkning: Når kantinen allerede selger 235 bagetter per uke, vil én ekstra solgt bagett øke overskuddet med ca. $8{,}74$ kr.
+
 </div></div>
 
 
@@ -299,10 +373,12 @@ $$2, 5, 11, 23, 47, \ldots$$
 
 >[!oppgave]
 >Ta utgangspunkt i det Knut og Sabrina sier og
+>
 >- beskriv et mønster for tallfølgen
 >- argumenter for at alle leddene i tallfølgen bortsett fra det første er oddetall
 
 ## Fasit
+
 
 </div></div>
 
@@ -358,6 +434,60 @@ Når lufttrykket er lavere enn 1000 hPa, vil kokepunktet for vann være lavere e
 >c) Omtrent hvor høyt over havet er det mulig å få egg hardkokte?
 
 ## Fasit
+
+a) $K(x) = 8{,}71 \cdot x^{0{,}356}$
+
+b) Aris modell: $L_A(x) = 1000 \cdot 0{,}88^x$. Lisas modell: $L_L(x) = 1000 \cdot \left(\tfrac{1}{2}\right)^{x/5{,}5}$
+
+c) Med Aris modell: ca. $\underline{\underline{4 \, \mathrm{km}}}$ over havet.
+
+## Løsningsforslag
+
+### a
+
+Vi legger inn datapunktene fra tabellen i GeoGebra og bruker regresjonsverktøyet til å finne en modell på formen $K(x) = a \cdot x^b$.
+
+Fra GeoGebra (potensregresjon):
+
+$$K(x) = 8{,}71 \cdot x^{0{,}356}$$
+
+![Graf av K(x) med datapunkter og linje y=85](/img/user/_resources/1t-v24-2-5.png){width=90%}
+
+Modellen passer godt — alle datapunktene ligger nær kurven.
+
+**$\mathbf{K(x) = 8{,}71 \cdot x^{0{,}356}}$**
+
+### b
+
+**Aris modell:** Lufttrykket minker med 12 % per km, det vil si lufttrykket blir ganget med $0{,}88$ for hvert km. Vi starter ved $1000$ hPa ved havets overflate, slik at
+
+$$L_A(x) = 1000 \cdot 0{,}88^x$$
+
+der $x$ er antall km over havet.
+
+**Lisas modell:** Lufttrykket halveres for hver $5{,}5$ km, det vil si $k^{5{,}5} = \tfrac{1}{2}$, som gir $k = \left(\tfrac{1}{2}\right)^{1/5{,}5} \approx 0{,}8816$. Med samme startverdi:
+
+$$L_L(x) = 1000 \cdot \left(\tfrac{1}{2}\right)^{x/5{,}5}$$
+
+Modellene er svært like: $k_A = 0{,}88$ og $k_L \approx 0{,}882$.
+
+### c
+
+Et egg blir hardkokt dersom kokepunktet er minst $85 \, \degree\mathrm{C}$. Vi må finne høyden $x$ slik at $K(L(x)) = 85$.
+
+Vi bruker Aris modell og setter opp likningen
+
+$$K\left(L_A(x)\right) = 8{,}71 \cdot \left(1000 \cdot 0{,}88^x\right)^{0{,}356} = 85$$
+
+Vi løser likningen i GeoGebra CAS:
+
+![GeoGebra CAS løser K(L(x)) = 85](/img/user/_resources/1t-v24-2-5-cas-c.png){width=70%}
+
+CAS gir $x \approx 3{,}98 \, \mathrm{km}$.
+
+Med Lisas modell får man $x \approx 4{,}03 \, \mathrm{km}$ — begge modellene gir omtrent det samme svaret.
+
+**Det er mulig å få egg hardkokte opp til ca. $\underline{\underline{4 \, \mathrm{km}}}$ over havet.**
 
 </div></div>
 

@@ -212,7 +212,6 @@ Figuren viser en enhetssirkel med et linjestykke $g$ som danner en vinkel $\alph
 
 >[!oppgave]
 >a) Bruk figuren til å anslå en verdi for $\sin 53°$.
->
 >b) Gjør beregninger og finn en vinkel mellom 0° og 360° som har samme cosinusverdi som vinkelen $\alpha$.
 Figuren viser en enhetssirkel med et linjestykke g som danner en vinkel $\alpha = 53 \degree$ med x-aksen.
 
@@ -280,7 +279,6 @@ Lise regner med at hun i gjennomsnitt kommer til å fylle opp 4 GB av minnet hve
 >Gjør beregninger og vurderinger som kan hjelpe Lise med å svare på:
 >
 >a) Hvor mange måneder kan hun ha telefonen med 128 GB minne før minnet er fullt?
->
 >b) Hvis hun skal ha den nye mobilen i 40 måneder, lønner det seg å kjøpe en iPhone med nok internt minne, eller er det billigere å kjøpe en mindre modell og leie eksternt minne i iCloud+?
 
 ## Fasit

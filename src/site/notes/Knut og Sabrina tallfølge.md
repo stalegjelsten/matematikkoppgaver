@@ -20,6 +20,7 @@ $$2, 5, 11, 23, 47, \ldots$$
 
 >[!oppgave]
 >Ta utgangspunkt i det Knut og Sabrina sier og
+>
 >- beskriv et mønster for tallfølgen
 >- argumenter for at alle leddene i tallfølgen bortsett fra det første er oddetall
 

@@ -14,7 +14,6 @@ Du kaster fem terninger.
 ## Fasit
 
 a) **$\underline{\underline{P = \dfrac{5}{54} \approx 9{,}26 \,\%}}$**
-
 b) **$\underline{\underline{P \approx 3{,}22 \,\%}}$** (teoretisk); simuleringen gir ca. $3{,}2 \,\%$
 
 ## Løsningsforslag

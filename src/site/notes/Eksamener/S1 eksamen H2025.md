@@ -120,7 +120,6 @@ Fordi $g'$ er kontinuerlig og skifter fortegn fra positivt til negativt i interv
 >a) Løs likningen
 >
 >$$(\lg x)^2 - 2\lg x = 8$$
->
 >b) Bestem $a$ slik at
 >
 >$$\log_a \frac{1}{64} = -3$$
@@ -177,7 +176,6 @@ $$\log_a \frac{1}{64} = -3 \implies a^{-3} = \frac{1}{64} \implies a^3 = 64 \imp
 >a) Bestem grenseverdien dersom den eksisterer:
 >
 >$$\lim_{x \to -2} \frac{x^2 - 4x + 2}{x^2 - 2x - 8}$$
->
 >b)
 >    1) Bestem $a$ slik at grenseverdien eksisterer:
 >    

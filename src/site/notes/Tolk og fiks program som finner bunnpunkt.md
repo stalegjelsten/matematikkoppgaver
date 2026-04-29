@@ -42,7 +42,6 @@ Svaret han får, er ikke riktig.
 ## Fasit
 
 a) Egil sjekker om grafen synker ved å beregne tilnærmet stigningstall. Løkken stopper ved $a = 3$, og programmet printer $(3, -11)$.
-
 b) Endre `a = a + 1` til `a = a + 0.01`
 
 ## Løsningsforslag

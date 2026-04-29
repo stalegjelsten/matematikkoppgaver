@@ -18,10 +18,14 @@ b) $g'(x) = \dfrac{2x}{x^2 + 4}$
 
 ## Løsningsforslag
 
-a) Vi deriverer ledd for ledd. For $e^{2x}$ bruker vi kjerneregelen med den ytre funksjonen $e^u$ og den indre funksjonen $u = 2x$:
+### a
+
+Vi deriverer ledd for ledd. For $e^{2x}$ bruker vi kjerneregelen med den ytre funksjonen $e^u$ og den indre funksjonen $u = 2x$:
 
    $$f'(x) = e^{2x} \cdot 2 + 3x^2 = \underline{\underline{2e^{2x} + 3x^2}}$$
 
-b) Vi bruker kjerneregelen med den ytre funksjonen $\ln u$ og den indre funksjonen $u = x^2 + 4$:
+### b
+
+Vi bruker kjerneregelen med den ytre funksjonen $\ln u$ og den indre funksjonen $u = x^2 + 4$:
 
    $$g'(x) = \frac{1}{x^2 + 4} \cdot 2x = \underline{\underline{\frac{2x}{x^2 + 4}}}$$

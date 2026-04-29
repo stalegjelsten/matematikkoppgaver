@@ -374,9 +374,7 @@ Du skal lage en slik kasse som rommer 80 $\mathrm{dm^3}$.
 ## Fasit
 
 a) **$\underline{\underline{V = 118{,}75 \, \mathrm{dm^3}}}$**
-
 b) **$\underline{\underline{V_{\max} = 40\sqrt{10} \approx 126{,}5 \, \mathrm{dm^3}}}$**
-
 c) **$\underline{\underline{A_{\min} = 12\sqrt[3]{20^2} \approx 88{,}4 \, \mathrm{dm^2}}}$**
 
 ## Løsningsforslag
@@ -444,6 +442,7 @@ $$h = \frac{80}{(2\sqrt[3]{20})^2} = \frac{80}{4\sqrt[3]{400}} = \frac{20}{\sqrt
 $$A_{\min} = 12\sqrt[3]{20^2} \approx \mathbf{\underline{\underline{88{,}4 \, \mathrm{dm^2}}}}$$
 
 $A'(x)$ skifter fortegn fra $-$ til $+$ i $x = 2\sqrt[3]{20}$, så dette er et minimum.
+
 
 </div></div>
 

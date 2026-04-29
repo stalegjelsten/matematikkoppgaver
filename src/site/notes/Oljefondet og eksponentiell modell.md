@@ -27,9 +27,7 @@ som modell for den totale verdien av oljefondet i milliarder kroner $t$ år ette
 ## Fasit
 
 a) $O(t) = 330 \cdot 1{,}18^{t}$ (eksponentiell modell, se begrunnelse)
-
 b) $\underline{\underline{V(20) \approx 8843 \, \mathrm{mrd\,kr}}}$, $\underline{\underline{V'(20) \approx 1454 \, \mathrm{mrd\,kr/år}}}$
-
 c) Gjennomsnittlig vekstfart $[0, 10]$: $\approx 138 \, \mathrm{mrd\,kr/år}$. Gjennomsnittlig vekstfart $[16, 26]$: $\approx 1913 \, \mathrm{mrd\,kr/år}$. Vekstfarten er ca. 14 ganger så stor i den siste perioden.
 
 ## Løsningsforslag

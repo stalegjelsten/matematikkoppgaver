@@ -88,7 +88,6 @@ Nora har tatt opp et lån med en fast årlig rente. Lånet skal betales tilbake 
 
 >[!oppgave]
 >a) Er lånet et annuitetslån, eller er det et serielån? Husk å begrunne svaret.
->
 >b) Hvor stort lån har Nora tatt opp?
 
 ## Fasit
@@ -109,6 +108,7 @@ Fra figuren ser vi at avdraget (blå del) er like stort i alle 5 terminer. Det b
 Avdraget er $10\,000\mathrm{~kr}$ per termin, og lånet betales over 5 terminer:
 
 $$\text{Lån} = 10\,000 \cdot 5 = \underline{\underline{50\,000\mathrm{~kr}}}$$
+
 
 </div></div>
 

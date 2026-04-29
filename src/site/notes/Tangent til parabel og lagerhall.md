@@ -17,7 +17,6 @@ Den rette linjen på figuren går gjennom punktet $(0, 23)$ og er en tangent til
 
 >[!oppgave]
 >a) Bestem likningen for tangenten.
->
 >b) Hvor langt fra veggen på lagerhallen kan en tyv bevege seg uten å bli fotografert av webkameraet?
 
 ## Fasit

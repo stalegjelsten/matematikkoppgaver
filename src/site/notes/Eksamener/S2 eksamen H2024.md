@@ -94,11 +94,11 @@ $$
 # Integral med ukjent grense
 
 
-b) Bestem $x$ når 
-
- $$\int_{-1}^{x} \left( 3t^{2}-1 \right)  \, \mathrm{d}t = 0, \quad x>-1$$
-
- c) Gi en praktisk tolkning av svaret i oppgave b).
+> [!oppgave]
+> b) Bestem $x$ når 
+>
+>  $$\int_{-1}^{x} \left( 3t^{2}-1 \right)  \, \mathrm{d}t = 0, \quad x>-1$$
+>  c) Gi en praktisk tolkning av svaret i oppgave b).
 
 ## Fasit
 
@@ -432,7 +432,6 @@ Marco skal løpe maraton og starter løpetrening. I tabellen nedenfor ser du hvo
 >er en god modell for sammenhengen mellom uker etter treningsstart ($t$) og antall kilometer løpt per uke ($L$).
 >
 >Forklar hvorfor en modell av denne typen kan passe godt til denne praktiske situasjonen.
->
 >b) Når økte antallet løpte kilometer per uke raskest, ifølge modellen?
 >
 >Hvor stor var økningen da?
@@ -776,9 +775,17 @@ c) 24 år
 
 ![Løsning av oppgave 5 del 2 i CAS](/img/user/_resources/s2-h24-2-5-cas.png){width=80%}
 
-a) Summen av nåverdiene til terminbeløpene skal være lik lånebeløpet ved annuitetslån. Terminbeløpet er ukjent, og dette ble funnet i linje 1 i GeoGebra. **Lånebeløpet er 53 437 kr.**
-b) Summen av nåverdiene til terminbeløpene skal være lik lånebeløpet ved annuitetslån. Vekstfaktoren er ukjent, og denne ble funnet i linje 2 i GeoGebra. **Rentesatsen må være 4,416 %.**
-c) Summen av nåverdiene til terminbeløpene skal være lik lånebeløpet ved annuitetslån. De 12 første årene bruker vi vanlig formel, de $b$ neste årene så vil terminbeløpet øke med 5 % per år. Antall ledd i rekka er ukjent, og dette ble bestemt i linje 3 i GeoGebra. **Det tar 24 år før lånet er nedbetalt.**
+### a
+
+Summen av nåverdiene til terminbeløpene skal være lik lånebeløpet ved annuitetslån. Terminbeløpet er ukjent, og dette ble funnet i linje 1 i GeoGebra. **Lånebeløpet er 53 437 kr.**
+
+### b
+
+Summen av nåverdiene til terminbeløpene skal være lik lånebeløpet ved annuitetslån. Vekstfaktoren er ukjent, og denne ble funnet i linje 2 i GeoGebra. **Rentesatsen må være 4,416 %.**
+
+### c
+
+Summen av nåverdiene til terminbeløpene skal være lik lånebeløpet ved annuitetslån. De 12 første årene bruker vi vanlig formel, de $b$ neste årene så vil terminbeløpet øke med 5 % per år. Antall ledd i rekka er ukjent, og dette ble bestemt i linje 3 i GeoGebra. **Det tar 24 år før lånet er nedbetalt.**
 
 ### 2-5 med Excel
 Vi kan løse hele denne oppgaven med Excel og målsøking. Se utklippet av regnearket

@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-01-23","modified":"2024-01-23","aliases":null,"dg-publish":true,"temaer":["statistikk","sentralmål","spredningsmål"],"fag":["2p-y","2p"],"eksamen":"h23","del":2,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":2},{"fag":"2p","del":2,"oppgave":3}],"title":"Målskårere i Eliteserien 2022","source":null,"todo":null,"status":3,"dg-permalink":"/malskarere-i-eliteserien-2022/","permalink":"/malskarere-i-eliteserien-2022/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-01-23","modified":"2024-01-23","aliases":null,"temaer":["statistikk","sentralmål","spredningsmål"],"fag":["2p-y","2p"],"eksamen":"h23","del":2,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":2},{"fag":"2p","del":2,"oppgave":3}],"title":"Målskårere i Eliteserien 2022","source":null,"todo":null,"status":3}}
+{"tags":["oppgave"],"date":"2024-01-23","modified":"2024-01-23","aliases":null,"dg-publish":true,"temaer":["statistikk","sentralmål","spredningsmål"],"fag":["2p-y","2p"],"eksamen":"h23","del":2,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":2},{"fag":"2p","del":2,"oppgave":3}],"title":"Målskårere i Eliteserien 2022","source":null,"todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Beregne typetall, median, variasjonsbredde, gjennomsnitt og standardavvik for 11 målskårere, og sammenligne med 2021-tall.","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":1,"beskrivelse":"Finne typetall, variasjonsbredde og median i sortert datasett."},{"deloppgave":"b","kategori":1,"vanskegrad":1,"beskrivelse":"Beregne gjennomsnitt og standardavvik i GeoGebra."},{"deloppgave":"c","kategori":3,"beskrivelse":"Sammenligne sentralmål og spredning mellom 2021 og 2022 og argumentere for hva forskjellene betyr."}],"dg-permalink":"/malskarere-i-eliteserien-2022/","permalink":"/malskarere-i-eliteserien-2022/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-01-23","modified":"2024-01-23","aliases":null,"temaer":["statistikk","sentralmål","spredningsmål"],"fag":["2p-y","2p"],"eksamen":"h23","del":2,"oppgave":2,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":2},{"fag":"2p","del":2,"oppgave":3}],"title":"Målskårere i Eliteserien 2022","source":null,"todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Beregne typetall, median, variasjonsbredde, gjennomsnitt og standardavvik for 11 målskårere, og sammenligne med 2021-tall.","deloppgaver":[{"deloppgave":"a","kategori":1,"vanskegrad":1,"beskrivelse":"Finne typetall, variasjonsbredde og median i sortert datasett."},{"deloppgave":"b","kategori":1,"vanskegrad":1,"beskrivelse":"Beregne gjennomsnitt og standardavvik i GeoGebra."},{"deloppgave":"c","kategori":3,"beskrivelse":"Sammenligne sentralmål og spredning mellom 2021 og 2022 og argumentere for hva forskjellene betyr."}]}}
 ---
 
 
@@ -24,7 +24,6 @@ Nedenfor ser du de 11 fotballspillerne skåret flest mål i Eliteserien 2022.
 
 >[!oppgave]
 > a) Bestem typetallet, variasjonsbredden og medianen for antall mål.
->
 > b) Bestem gjennomsnittet og standardavviket for antall mål.
 
 For de 11 fotballspillerne som skåret flest mål i sesongen 2021, var medianen 11, gjennomsnittet 14,5 og standardavviket 6,7.
@@ -40,7 +39,7 @@ c) Gjennomsnittet er likt (≈ 14,5), men medianen er høyere i 2022 (14 mot 11)
 
 ## Løsningsforslag
 
-### 2-2a
+### a
 
 Datamaterialet sortert: $11, 11, 12, 12, 13, \mathbf{14}, 15, 15, 15, 16, 25$
 
@@ -48,7 +47,7 @@ Datamaterialet sortert: $11, 11, 12, 12, 13, \mathbf{14}, 15, 15, 15, 16, 25$
 - **Variasjonsbredde:** $25 - 11 = \underline{\underline{14}}$
 - **Median:** Det 6. tallet i sortert rekkefølge (11 tall) er $\underline{\underline{14}}$
 
-### 2-2b
+### b
 
 Vi beregner i GeoGebra med listen $\{11, 11, 12, 12, 13, 14, 15, 15, 15, 16, 25\}$.
 
@@ -56,7 +55,7 @@ $$\text{Gjennomsnitt} = \frac{11+11+12+12+13+14+15+15+15+16+25}{11} = \frac{159}
 
 Standardavvik (beregnet med GeoGebra): $\underline{\underline{\sigma \approx 3{,}7}}$
 
-### 2-2c
+### c
 
 I 2021 var medianen 11, gjennomsnittet 14,5 og standardavviket 6,7. Vi kan se følgende:
 

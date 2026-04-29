@@ -39,17 +39,23 @@ c) $Q = 30 \, \mathrm{VAr}$
 
 ## Løsningsforslag
 
-a) I trekanten $ABC$ er $u$ vinkelen ved $A$ og den rette vinkelen er ved $B$.
+### a
+
+I trekanten $ABC$ er $u$ vinkelen ved $A$ og den rette vinkelen er ved $B$.
 
    Sinus er forholdet mellom motstående katet og hypotenus:
 
    $$\underline{\underline{\sin u = \frac{BC}{AC}}}$$
 
-b) Maksimalt avvik er $0{,}1 \, \mathrm{Hz}$ fra $50 \, \mathrm{Hz}$:
+### b
+
+Maksimalt avvik er $0{,}1 \, \mathrm{Hz}$ fra $50 \, \mathrm{Hz}$:
 
    $$\frac{0{,}1}{50} \cdot 100 \, \% = \underline{\underline{0{,}2 \, \%}}$$
 
-c) Fra effekttrekanten ser vi at $\cos \varphi = \dfrac{P}{S}$, og vi vet at $P = 40 \, \mathrm{W}$ og $\cos \varphi = \dfrac{40}{50}$.
+### c
+
+Fra effekttrekanten ser vi at $\cos \varphi = \dfrac{P}{S}$, og vi vet at $P = 40 \, \mathrm{W}$ og $\cos \varphi = \dfrac{40}{50}$.
 
    Dermed er $S = 50 \, \mathrm{VA}$. Vi bruker Pytagoras for å finne $Q$:
 

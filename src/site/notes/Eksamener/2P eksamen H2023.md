@@ -101,6 +101,24 @@ På et kart er avstanden mellom to byer 40 cm. I virkeligheten er avstanden 20 k
 
 ## Fasit
 
+$\underline{\underline{1 : 50\,000}}$
+
+## Løsningsforslag
+
+For å finne målestokken må vi sammenligne avstand på kartet med avstand i virkeligheten. Begge mål må ha samme enhet.
+
+Vi gjør om 20 km til cm:
+
+$$20 \, \mathrm{km} = 20 \cdot 1000 \, \mathrm{m} = 20\,000 \, \mathrm{m} = 20\,000 \cdot 100 \, \mathrm{cm} = 2\,000\,000 \, \mathrm{cm}$$
+
+Målestokken er forholdet mellom kartavstand og virkelig avstand:
+
+$$\text{Målestokk} = \frac{\text{kartavstand}}{\text{virkelig avstand}} = \frac{40 \, \mathrm{cm}}{2\,000\,000 \, \mathrm{cm}} = \frac{1}{50\,000}$$
+
+**Målestokken til kartet er $\underline{\underline{1 : 50\,000}}$.**
+
+Det betyr at 1 cm på kartet svarer til 50 000 cm = 500 m = 0,5 km i virkeligheten.
+
 </div></div>
 
 
@@ -201,6 +219,70 @@ Selma og Tobine arbeider med likningene ovenfor.
 
 ## Fasit
 
+$\underline{\underline{x_1 = 0}}$ og $\underline{\underline{x_2 = 1}}$
+
+## Løsningsforslag
+
+**Kommentar til Selma**
+
+Selma har rett! Grunnen til at metoden virker, er **nullproduktsregelen**: hvis et produkt av to faktorer er lik null, må minst én av faktorene være lik null. Det betyr at
+
+$$
+(x+4)(x-1)=0 \quad \Rightarrow \quad x+4=0 \quad \text{eller} \quad x-1=0
+$$
+
+Fra $x + 4 = 0$ får vi $x_1 = -4$, og fra $x - 1 = 0$ får vi $x_2 = 1$. Selma regner riktig.
+
+**Kommentar til Tobine**
+
+Tobine misforstår. Nullproduktsregelen gjelder **kun** når høyresiden er lik null. Når høyresiden er $-6$, kan vi ikke si at én av parentesene må være $-6$. Det er mulig å sette opp utallige kombinasjoner av to tall som gir produktet $-6$ (f.eks. $2 \cdot (-3)$, $(-1) \cdot 6$, osv.), og det gir ikke en enkel metode.
+
+Vi kan sjekke at Tobines svar er feil: setter vi inn $x = -8$:
+
+$$
+(-8+2)(-8-3) = (-6)(-11) = 66 \neq -6
+$$
+
+**Løsning av $(x+2)(x-3) = -6$**
+
+Vi må flytte $-6$ over til venstre side slik at høyresiden blir null, og deretter multiplisere ut:
+
+$$
+(x+2)(x-3) = -6
+$$
+
+$$
+(x+2)(x-3) + 6 = 0
+$$
+
+Vi multipliserer ut venstre side:
+
+$$
+x^2 - 3x + 2x - 6 + 6 = 0
+$$
+
+$$
+x^2 - x = 0
+$$
+
+Vi setter $x$ utenfor parentes (faktoriserer):
+
+$$
+x(x - 1) = 0
+$$
+
+Nå kan vi bruke nullproduktsregelen:
+
+$$
+x = 0 \quad \text{eller} \quad x - 1 = 0
+$$
+
+$$
+\textbf{x}_1 \mathbf{= 0} \quad \text{og} \quad \textbf{x}_2 \mathbf{= 1}
+$$
+
+**$\underline{\underline{x_1 = 0}}$ og $\underline{\underline{x_2 = 1}}$**
+
 </div></div>
 
 
@@ -283,6 +365,20 @@ Prisen for ett bestemt merke sjokoladepålegg steg fra 35,90 kroner i 2019 til 3
 
 ## Fasit
 
+Prisen på sjokoladepålegget steg med ca. $11{,}1 \,\%$, mens prisindeksen steg med ca. $19{,}9 \,\%$. Prisen steg **mindre** enn prisindeksen.
+
+## Løsningsforslag
+
+Vi regner ut prosentvis endring i prisindeksen fra 2019 til 2022:
+
+$$\frac{119{,}8 - 99{,}9}{99{,}9} \cdot 100 \approx \textcolor{steelblue}{19{,}9 \,\%}$$
+
+Deretter regner vi ut den faktiske prosentvise prisendringen for sjokoladepålegget:
+
+$$\frac{39{,}90 - 35{,}90}{35{,}90} \cdot 100 \approx \textcolor{tomato}{11{,}1 \,\%}$$
+
+Siden $\textcolor{tomato}{11{,}1 \,\%} < \textcolor{steelblue}{19{,}9 \,\%}$, steg prisen på dette sjokoladepålegget **mindre** enn prisindeksen for sjokoladepålegg fra 2019 til 2022.
+
 </div></div>
 
 
@@ -316,7 +412,6 @@ Nedenfor ser du de 11 fotballspillerne skåret flest mål i Eliteserien 2022.
 
 >[!oppgave]
 > a) Bestem typetallet, variasjonsbredden og medianen for antall mål.
->
 > b) Bestem gjennomsnittet og standardavviket for antall mål.
 
 For de 11 fotballspillerne som skåret flest mål i sesongen 2021, var medianen 11, gjennomsnittet 14,5 og standardavviket 6,7.
@@ -568,6 +663,79 @@ Ole påstår at $T = \dfrac{4 \cdot s}{p} \cdot 100$ er en formel for å regne u
 
 ## Fasit
 
+a) Samlet omkrets $= 40 + 36 + 32{,}4 = \underline{\underline{108{,}4 \, \mathrm{cm}}}$
+b) $\underline{\underline{T = 400 \, \mathrm{cm}}}$
+c) Sammenhengen er lineær: $T = 40 \cdot s$
+d) Oles formel stemmer.
+
+## Løsningsforslag
+
+### a
+
+Sidekantene i de tre første kvadratene er
+
+$$s_1 = 10, \quad s_2 = 10 \cdot 0{,}9 = 9, \quad s_3 = 10 \cdot 0{,}9^2 = 8{,}1$$
+
+Omkretsene er
+
+$$O_1 = 4 \cdot 10 = 40, \quad O_2 = 4 \cdot 9 = 36, \quad O_3 = 4 \cdot 8{,}1 = 32{,}4$$
+
+Samlet:
+
+$$O_1 + O_2 + O_3 = 40 + 36 + 32{,}4 = \mathbf{\underline{\underline{108{,}4 \, \mathrm{cm}}}}$$
+
+### b
+
+Omkretsene danner en geometrisk rekke med første ledd $a_1 = 40$ og kvotient $k = 0{,}9$.
+Siden $|k| < 1$ konvergerer rekken, og summen av uendelig mange ledd er
+
+$$T = \frac{a_1}{1 - k} = \frac{40}{1 - 0{,}9} = \frac{40}{0{,}1} = \mathbf{\underline{\underline{400 \, \mathrm{cm}}}}$$
+
+**Program (Python):**
+
+```python
+s = 10       # sidekant første kvadrat
+k = 0.9      # kvotient
+total = 0
+while s > 0.0001:
+    total += 4 * s
+    s = s * k
+print(total)  # → 400.0
+```
+
+### c
+
+Vi lager nye serier der vi bare endrer størrelsen $s$ på det største kvadratet, men beholder at hvert neste kvadrat er $10 \,\%$ kortere. For en serie med største sidekant $s$ er første omkretsled $a_1 = 4s$ og kvotienten fortsatt $k = 0{,}9$.
+
+Samlet omkrets:
+
+$$T = \frac{4s}{1 - 0{,}9} = \frac{4s}{0{,}1} = 40 \cdot s$$
+
+Sammenhengen er altså **lineær**: den samlede omkretsen er 40 ganger sidekanten i det største kvadratet.
+
+![Sammenheng mellom sidekant og samlet omkrets](/img/user/_resources/2p-h23-2-7-sammenheng.png){width=80%}
+
+Grafen (se `T(s) = 40s` i utklippet) bekrefter at sammenhengen er en rett linje gjennom origo. For $s = 10$ er $T = 400$, markert som punkt $A = (10, 400)$.
+
+### d
+
+For en serie der sidekantene reduseres med $p \,\%$ for hvert ledd, er kvotienten
+
+$$k = 1 - \frac{p}{100}$$
+
+Første ledd er $a_1 = 4s$, og sumformelen gir
+
+$$T = \frac{4s}{1 - k} = \frac{4s}{1 - \left(1 - \dfrac{p}{100}\right)} = \frac{4s}{\dfrac{p}{100}} = \frac{4s \cdot 100}{p}$$
+
+Dette er nøyaktig Oles formel $T = \dfrac{4 \cdot s}{p} \cdot 100$. **Formelen stemmer.**
+
+Vi kan sjekke med $s = 10$ og $p = 10$:
+
+$$T = \frac{4 \cdot 10}{10} \cdot 100 = 400 \, \mathrm{cm}$$
+
+Dette stemmer med svaret fra b).
+
+
 </div></div>
 
 
@@ -598,6 +766,61 @@ Norge har som mål å bli et lavutslippssamfunn innen 2050. Da må klimagassutsl
 >b) Bruk modellen du fant i oppgave a), og vurder den opp mot opplysningene om målet for klimagassutslipp i 2050.
 
 ## Fasit
+
+a) $U(x) = 48{,}9 \cdot 0{,}9104^x$, der nedgangen er ca. $\underline{\underline{8{,}96 \,\%}}$ per år.
+b) Modellen gir $U(28) \approx \underline{\underline{3{,}53}}$ mill. tonn i 2050, som tilsvarer ca. 93 % reduksjon fra 1990-nivå — innenfor målet på 90–95 %.
+
+## Løsningsforslag
+
+### a
+
+Utslippet i 2022 er startverdi: $48{,}9$ millioner tonn CO₂-ekvivalenter.
+
+Vi setter opp en eksponentialfunksjon der $x$ er antall år etter 2022:
+
+$$U(x) = 48{,}9 \cdot r^x$$
+
+Klimamålet for 2030 er 55 % reduksjon fra 1990-nivå:
+
+$$\text{Mål}_{2030} = 51{,}3 \cdot (1 - 0{,}55) = 51{,}3 \cdot 0{,}45 = 23{,}085 \text{ mill. tonn}$$
+
+I 2030 er $x = 2030 - 2022 = 8$. Vi setter opp likningen:
+
+$$48{,}9 \cdot r^8 = 23{,}085$$
+
+$$r^8 = \frac{23{,}085}{48{,}9} \approx 0{,}4721$$
+
+$$r = 0{,}4721^{\frac{1}{8}} \approx 0{,}9104$$
+
+Den prosentvise nedgangen per år er:
+
+$$1 - 0{,}9104 = 0{,}0896 \approx 8{,}96 \,\%$$
+
+**Modellen er:**
+
+$$U(x) = 48{,}9 \cdot 0{,}9104^x$$
+
+der $x$ er antall år etter 2022.
+
+### b
+
+Vi bruker GeoGebra til å tegne modellen og legger inn målene for 2050.
+
+![Eksponentiell modell for klimagassutslipp med mål for 2030 og 2050](/img/user/_resources/2p-h23-2-8.png){width=80%}
+
+Vi leser av grafen (se `P2050`) at modellen gir
+
+$$U(28) = 48{,}9 \cdot 0{,}9104^{28} \approx 3{,}53 \text{ millioner tonn i 2050}$$
+
+Målet for 2050 er 90–95 % reduksjon fra 1990-nivå:
+
+$$\text{Mål}_{90\%} = 51{,}3 \cdot 0{,}10 = 5{,}13 \text{ mill. tonn} \quad \text{(se \texttt{Maal2050lo})}$$
+$$\text{Mål}_{95\%} = 51{,}3 \cdot 0{,}05 = 2{,}565 \text{ mill. tonn} \quad \text{(se \texttt{Maal2050hi})}$$
+
+Modellverdien $3{,}53$ mill. tonn ligger mellom de to målinjene (de to grønne linjene i grafen), som betyr at den er innenfor intervallet 90–95 % reduksjon.
+
+**Modellen viser at hvis utslippet reduseres med ca. $8{,}96 \,\%$ hvert år fra 2022, vil utslippet i 2050 være ca. $3{,}53$ millioner tonn — det er en reduksjon på ca. 93 % fra 1990-nivå, og dermed innenfor lavutslippsmålet på 90–95 %.**
+
 
 </div></div>
 

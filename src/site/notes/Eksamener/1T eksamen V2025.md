@@ -53,6 +53,23 @@ $$f(x) = \frac{12x-3}{2x+1}$$
 
 ## Fasit
 
+$x=-\frac{1}{2}$ og $y=6$
+
+## Løsningsforslag
+
+Vi får vertikale asymptoter der hvor nevner er lik 0.
+$$
+2x+1=0 \iff 2x =-1 \iff x = -\frac{1}{2}
+$$
+Vi har en vertikal asymptote i $x=-\frac{1}{2}$.
+
+Både teller og nevner består av lineære funksjoner. Siden graden på polynomene er lik så vil vi få en horisontal asymptote. Når $x \to \infty$ så vil $-3$ og $+1$ leddene ha infinitesimalt  liten betydning og vi får:
+$$
+\lim_{ x \to \infty } f(x)=\frac{12}{2}=6
+$$
+
+**Vi har vertikal asymptote i $x=-\frac{1}{2}$ og horisontal asymptote i $y=6$.**
+
 </div></div>
 
 
@@ -73,6 +90,34 @@ $$f(x) = \frac{12x-3}{2x+1}$$
 >$$x^2 - 4x - 12 < 0$$
 
 ## Fasit
+
+$\underline{\underline{x \in \langle -2,\ 6 \rangle}}$
+
+## Løsningsforslag
+
+Vi løser først den tilhørende andregradslikningen ved å faktorisere:
+
+$$x^2 - 4x - 12 = 0$$
+
+Vi søker to tall som multipliserer til $-12$ og adderer til $-4$. Tallene $-6$ og $2$ passer:
+
+$$x^2 - 4x - 12 = (x - 6)(x + 2) = 0$$
+
+Dette gir nullpunktene $x = 6$ og $x = -2$.
+
+Siden ledende koeffisient er positiv ($a = 1 > 0$), åpner parabelen oppover. Det betyr at parabelen er **under** $x$-aksen mellom nullpunktene.
+
+Vi setter opp et fortegnsskjema:
+
+| | $x < -2$ | $x = -2$ | $-2 < x < 6$ | $x = 6$ | $x > 6$ |
+|---|---|---|---|---|---|
+| $(x+2)$ | $-$ | $0$ | $+$ | $+$ | $+$ |
+| $(x-6)$ | $-$ | $-$ | $-$ | $0$ | $+$ |
+| $(x+2)(x-6)$ | $+$ | $0$ | $\mathbf{-}$ | $0$ | $+$ |
+
+Ulikheten $x^2 - 4x - 12 < 0$ er oppfylt der produktet er negativt, altså mellom nullpunktene.
+
+**Løsningen er $\underline{\underline{x \in \langle -2,\ 6 \rangle}}$.**
 
 </div></div>
 
@@ -153,6 +198,70 @@ $$f(x) = x^3 - 7x^2 - 10x + 16$$
 
 ## Fasit
 
+a) $\underline{\underline{x = -2, \quad x = 1, \quad x = 8}}$
+
+b) **Graf C**
+
+## Løsningsforslag
+
+### a
+
+Vi prøver $x = 1$:
+
+$$1^3 - 7 \cdot 1^2 - 10 \cdot 1 + 16 = 1 - 7 - 10 + 16 = 0 \checkmark$$
+
+Siden $x = 1$ er en rot, er $(x - 1)$ en faktor. Vi utfører polynomdivisjon:
+
+$$\frac{x^3 - 7x^2 - 10x + 16}{x - 1}$$
+
+$$\begin{array}{r}
+x^2 - 6x - 16 \\[-4pt]
+\hline
+x - 1 \;\Big)\; x^3 - 7x^2 - 10x + 16 \\
+x^3 - x^2 \\[-4pt]
+\hline
+-6x^2 - 10x \\
+-6x^2 + 6x \\[-4pt]
+\hline
+-16x + 16 \\
+-16x + 16 \\[-4pt]
+\hline
+0
+\end{array}$$
+
+Vi har nå:
+
+$$x^3 - 7x^2 - 10x + 16 = (x - 1)(x^2 - 6x - 16)$$
+
+Vi løser $x^2 - 6x - 16 = 0$ med abc-formelen:
+
+$$x = \frac{6 \pm \sqrt{36 + 64}}{2} = \frac{6 \pm \sqrt{100}}{2} = \frac{6 \pm 10}{2}$$
+
+$$x = \frac{6 + 10}{2} = 8 \qquad \text{eller} \qquad x = \frac{6 - 10}{2} = -2$$
+
+**Løsningene er $x = -2$, $x = 1$ og $x = 8$.**
+
+### b
+
+Vi bruker egenskapene til $f(x) = x^3 - 7x^2 - 10x + 16$ for å velge riktig graf:
+
+- **Ledende koeffisient positiv** ($+x^3$): grafen går mot $-\infty$ når $x \to -\infty$ og mot $+\infty$ når $x \to +\infty$. Det utelukker **A** og **B** (som begge har negativ ledende koeffisient).
+- **Tre nullpunkter** ved $x = -2$, $x = 1$ og $x = 8$: én negativ rot og to positive røtter.
+- **$y$-skjæring:** $f(0) = 16 > 0$.
+- **Lokalt toppunkt** mellom røttene $-2$ og $1$ ligger ved en negativ $x$-verdi (til venstre for $y$-aksen). Lokalt bunnpunkt ligger mellom røttene $1$ og $8$, altså ved en positiv $x$-verdi (til høyre for $y$-aksen).
+
+Graf **D** har lokalt toppunkt til høyre for $y$-aksen og lokalt bunnpunkt til venstre – det stemmer ikke med $f$.
+
+Graf **C** har:
+
+- positiv ledende koeffisient (riktig retning)
+- én negativ rot (ca. $x = -2$), lokalt toppunkt like til venstre for $y$-aksen
+- positiv $y$-skjæring
+- en rot ved liten positiv $x$ (ca. $x = 1$), lokalt bunnpunkt lengre til høyre
+- en rot ved større positiv $x$ (ca. $x = 8$)
+
+Dette stemmer med $f$. **Graf C er riktig.**
+
 </div></div>
 
 
@@ -184,6 +293,54 @@ Gitt en trekant $PQR$ der $PQ = 8$, $PR = 3$ og $\angle P = 60\degree$
 
 ## Fasit
 
+a) $\sin 30\degree = \cos 60\degree = \dfrac{1}{2}$ (vist ved halvering av likesidet trekant)
+
+b) **Areal $= \underline{\underline{15}}$**
+
+c) $\underline{\underline{QR = 7}}$
+
+## Løsningsforslag
+
+### a
+
+Vi halverer den likesidede trekanten med et loddrett snitt fra ett hjørne ned til midtpunktet på den motsatte siden.
+
+Dette gir en rettvinklet trekant med:
+
+- hypotenus $= 2$
+- kort katet $= 1$ (halvparten av bunnsiden)
+- lang katet $= \sqrt{2^2 - 1^2} = \sqrt{3}$
+
+Vinklene i den rettvinklede trekanten er $30\degree$, $60\degree$ og $90\degree$.
+
+Fra definisjonen av sinus og cosinus:
+
+$$\sin 30\degree = \frac{\text{motstående katet}}{\text{hypotenus}} = \frac{1}{2}$$
+
+$$\cos 60\degree = \frac{\text{hosliggende katet}}{\text{hypotenus}} = \frac{1}{2}$$
+
+**Dermed er $\sin 30\degree = \cos 60\degree = \dfrac{1}{2}$.**
+
+### b
+
+Vi bruker arealsetningen:
+
+$$T = \frac{1}{2} \cdot AB \cdot AC \cdot \sin A$$
+
+$$T = \frac{1}{2} \cdot 10 \cdot 6 \cdot \sin 30\degree = \frac{1}{2} \cdot 10 \cdot 6 \cdot \frac{1}{2} = \underline{\underline{15}}$$
+
+### c
+
+Vi bruker cosinussetningen:
+
+$$QR^2 = PQ^2 + PR^2 - 2 \cdot PQ \cdot PR \cdot \cos P$$
+
+$$QR^2 = 8^2 + 3^2 - 2 \cdot 8 \cdot 3 \cdot \cos 60\degree$$
+
+$$QR^2 = 64 + 9 - 48 \cdot \frac{1}{2} = 73 - 24 = 49$$
+
+$$QR = \sqrt{49} = \underline{\underline{7}}$$
+
 </div></div>
 
 
@@ -212,6 +369,42 @@ i et CAS-verktøy og får resultatet $x = x$. Se nedenfor.
 >Ta utgangspunkt i dette resultatet og forklar Kari hva en identitet er.
 
 ## Fasit
+
+**$x^2 - 4 = (x+2)(x-2)$ er en identitet — den er sann for alle reelle tall $x$.**
+
+## Løsningsforslag
+
+CAS prøver å finne hvilke $x$-verdier som gjør likningen sann. For å forstå hvorfor den svarer $x = x$, kan vi se hva som skjer når vi forenkler høyre side:
+
+$$
+(x+2)(x-2) = x^2 - 2x + 2x - 4 = x^2 - 4
+$$
+
+De to sidene er altså nøyaktig det samme algebraiske uttrykket. Det betyr at likningen
+
+$$
+x^2 - 4 = (x+2)(x-2)
+$$
+
+er sann uansett hvilken verdi $x$ har. Velger vi for eksempel $x = 3$:
+
+$$
+3^2 - 4 = 5 \qquad \text{og} \qquad (3+2)(3-2) = 5 \cdot 1 = 5
+$$
+
+eller $x = 0$:
+
+$$
+0^2 - 4 = -4 \qquad \text{og} \qquad (0+2)(0-2) = 2 \cdot (-2) = -4
+$$
+
+Begge sider gir alltid samme svar.
+
+En slik likhet kalles en **identitet** — en likhet mellom to uttrykk som er sann for *alle* verdier av variabelen. CAS uttrykker dette med $x = x$: det er CAS sin måte å si «alle reelle tall er løsninger».
+
+Dette er annerledes enn en vanlig likning, for eksempel $x^2 - 4 = 0$, der bare de spesielle verdiene $x = 2$ og $x = -2$ er løsninger.
+
+**Kari kan altså forklare at $x^2 - 4 = (x+2)(x-2)$ er en identitet fordi de to sidene er ekvivalente uttrykk, og at CAS bekrefter dette ved å returnere $x = x$.**
 
 </div></div>
 
@@ -251,6 +444,34 @@ print(verdi)
 
 ## Fasit
 
+Programmet skriver ut $\underline{\underline{-16}}$. Siri finner den minste funksjonsverdien til $f(x) = x^2 + 2x - 15$ for heltall $x \in [-5, 5]$.
+
+## Løsningsforslag
+
+Programmet definerer $f(x) = x^2 + 2x - 15$ og starter med $x = -5$ og `verdi = f(-5)`.
+
+While-løkka går gjennom heltallene $x = -5, -4, -3, \ldots, 5$. For hvert steg sjekkes det om $f(x)$ er mindre enn den lagrede `verdi`. Hvis ja, oppdateres `verdi`. Til slutt skrives den minste verdien som ble funnet.
+
+Vi regner ut $f(x)$ for alle heltall i intervallet:
+
+| $x$ | $f(x) = x^2 + 2x - 15$ |
+|-----|------------------------|
+| $-5$ | $25 - 10 - 15 = 0$ |
+| $-4$ | $16 - 8 - 15 = -7$ |
+| $-3$ | $9 - 6 - 15 = -12$ |
+| $-2$ | $4 - 4 - 15 = -15$ |
+| $-1$ | $1 - 2 - 15 = \mathbf{-16}$ |
+| $0$ | $0 + 0 - 15 = -15$ |
+| $1$ | $1 + 2 - 15 = -12$ |
+| $2$ | $4 + 4 - 15 = -7$ |
+| $3$ | $9 + 6 - 15 = 0$ |
+| $4$ | $16 + 8 - 15 = 9$ |
+| $5$ | $25 + 10 - 15 = 20$ |
+
+Den minste funksjonsverdien er $f(-1) = -16$.
+
+Programmet skriver ut $\underline{\underline{-16}}$.
+
 </div></div>
 
 
@@ -286,6 +507,49 @@ La $x$ være antall måneder etter desember 2022, det vil si at $x = 1$ tilsvare
 
 ## Fasit
 
+a) Modellverdiene ligger nær de observerte verdiene – $K$ er en god modell.
+
+b) $\underline{\underline{\text{Stigning} \approx 71{,}84 \text{ tilfeller per måned}}}$
+
+c) $\underline{\underline{K(29) \approx 5499 \text{ tilfeller}}}$
+
+## Løsningsforslag
+
+Vi definerer $K(x) = 27{,}8 \cdot 1{,}2^x$ i GeoGebra CAS og beregner alle deloppgavene i én sesjon.
+
+![CAS-beregninger for alle deloppgaver](/img/user/_resources/1t-v25-2-1.png)
+
+### a
+
+Vi beregner $K(x)$ for de seks månedene i tabellen og sammenligner med de observerte verdiene:
+
+| Måned | $x$ | Observert | $K(x)$ |
+|---|---|---|---|
+| Januar 2023 | 1 | 29 | $\approx 33$ |
+| Mai 2023 | 5 | 93 | $\approx 69$ |
+| Oktober 2023 | 10 | 164 | $\approx 172$ |
+| Februar 2024 | 14 | 284 | $\approx 357$ |
+| August 2024 | 20 | 1035 | $\approx 1066$ |
+| Oktober 2024 | 22 | 1657 | $\approx 1535$ |
+
+Modellverdiene er av samme størrelsesorden som de observerte verdiene i alle månedene. Avvikene er relativt små sammenlignet med de faktiske tallene. **$K$ er derfor en god modell for antall registrerte tilfeller av kikhoste i perioden.**
+
+### b
+
+Vi beregner stigningstallet til linjen gjennom $(4, K(4))$ og $(21, K(21))$:
+
+$$\frac{K(21) - K(4)}{21 - 4} = \frac{1278{,}94 - 57{,}65}{17} \approx \underline{\underline{71{,}84}}$$
+
+**Praktisk tolkning:** I gjennomsnitt økte antallet registrerte kikhoste-tilfeller med ca. $\textbf{72}$ tilfeller per måned i perioden fra mai 2023 ($x = 4$) til september 2024 ($x = 21$).
+
+### c
+
+Mai 2025 er 29 måneder etter desember 2022, altså $x = 29$.
+
+$$K(29) = 27{,}8 \cdot 1{,}2^{29} \approx \underline{\underline{5499 \text{ tilfeller}}}$$
+
+Ifølge modellen vil det bli registrert ca. **5499 tilfeller** av kikhoste i Norge i mai 2025.
+
 </div></div>
 
 
@@ -308,6 +572,24 @@ En dag solgte butikken 80 sekker. Sekkene veide til sammen $720 \mathrm{~kg}$.
 >Hvor mange små og hvor mange store sekker solgte butikken denne dagen?
 
 ## Fasit
+
+**32 små sekker og 48 store sekker**
+
+## Løsningsforslag
+
+La $x$ være antall små sekker og $y$ være antall store sekker.
+
+Vi setter opp likningssystemet:
+
+$$\begin{cases} x + y = 80 \\ 4{,}5x + 12y = 720 \end{cases}$$
+
+Vi løser systemet i GeoGebra CAS med kommandoen `Løs({x + y = 80, (9/2)·x + 12·y = 720}, {x, y})`:
+
+![GeoGebra CAS-løsning av likningssystemet](/img/user/_resources/1t-v25-2-2.png){width=70%}
+
+CAS gir $x = 32$ og $y = 48$.
+
+**Butikken solgte $\underline{\underline{32 \text{ små sekker}}}$ og $\underline{\underline{48 \text{ store sekker}}}$ denne dagen.**
 
 </div></div>
 
@@ -534,6 +816,76 @@ Isabel ønsker å lage en modell som viser overflaten av ulike bokser hun kan la
 
 ## Fasit
 
+a)
+
+| Radius, $r$ (cm) | Høyde, $h$ (cm) | Overflate, $O$ (cm²) | Volum, $V$ (cm³) |
+|---|---|---|---|
+| 2 | 35,8 | 462,6 | 450 |
+| 4 | 8,95 | 275,3 | 450 |
+| 6 | 3,98 | 263,1 | 450 |
+| 8 | 2,24 | 313,6 | 450 |
+
+b) $O(r) = \pi r^2 + \dfrac{900}{r}$
+
+c) $\underline{\underline{r \approx 5{,}23 \, \mathrm{cm}}}$, $\underline{\underline{O_{\min} \approx 258 \, \mathrm{cm}^2}}$
+
+## Løsningsforslag
+
+### a
+
+Isabel har gitt at $V = 450 \, \mathrm{cm}^3$. Hun løser volumformelen for $h$:
+
+$$h = \frac{V}{\pi r^2} = \frac{450}{\pi r^2}$$
+
+Deretter settes $h$ inn i overflateformelen:
+
+$$O = \pi r^2 + 2\pi r \cdot \frac{450}{\pi r^2} = \pi r^2 + \frac{900}{r}$$
+
+Vi beregner $h$ og $O$ for hver radiusverdi i GeoGebra CAS (se utklipp):
+
+![GeoGebra CAS: tabellverdier for h og O](/img/user/_resources/1t-v25-2-5-cas.png)
+
+| Radius, $r$ (cm) | Høyde, $h$ (cm) | Overflate, $O$ (cm²) | Volum, $V$ (cm³) |
+|---|---|---|---|
+| 2 | 35,8 | 462,6 | 450 |
+| 4 | 8,95 | 275,3 | 450 |
+| 6 | 3,98 | 263,1 | 450 |
+| 8 | 2,24 | 313,6 | 450 |
+
+### b
+
+Vi setter $h = \dfrac{450}{\pi r^2}$ inn i formelen for overflaten:
+
+$$O(r) = \pi r^2 + 2\pi r \cdot \frac{450}{\pi r^2} = \pi r^2 + \frac{900}{r}$$
+
+Grafen under viser $O(r)$ for $r > 0$ med bunnpunktet markert:
+
+![Graf av O(r) med markert minimum](/img/user/_resources/1t-v25-2-5.png)
+
+### c
+
+Vi finner minimumet ved å derivere $O(r)$ og sette $O'(r) = 0$:
+
+$$O'(r) = 2\pi r - \frac{900}{r^2}$$
+
+Vi setter $O'(r) = 0$:
+
+$$2\pi r = \frac{900}{r^2} \implies r^3 = \frac{450}{\pi}$$
+
+GeoGebra CAS gir $r \approx 5{,}23 \, \mathrm{cm}$ (se utklipp over).
+
+Høyden blir da:
+
+$$h = \frac{450}{\pi \cdot 5{,}23^2} \approx 5{,}23 \, \mathrm{cm}$$
+
+Vi merker oss at $h = r$ ved minimumet — boksen er like høy som den er bred.
+
+Minste overflate:
+
+$$O(5{,}23) = \pi \cdot 5{,}23^2 + \frac{900}{5{,}23} \approx 258 \, \mathrm{cm}^2$$
+
+**Isabel bør velge radius $\underline{\underline{r \approx 5{,}23 \, \mathrm{cm}}}$. Da blir overflaten minst mulig, $\underline{\underline{O_{\min} \approx 258 \, \mathrm{cm}^2}}$.**
+
 </div></div>
 
 
@@ -570,6 +922,66 @@ Klassen til Noah og Johanne arbeider med rasjonale funksjoner. Læreren har tegn
 >Husk å argumentere for dine valg av funksjonsuttrykk.
 
 ## Fasit
+
+$\underline{\underline{f(x) = \dfrac{5x - 2}{x^2 - 1}}}$ og $\underline{\underline{g(x) = \dfrac{5x - 2}{x^2 + 1}}}$
+
+## Løsningsforslag
+
+Vi leser av egenskapene til grafene og setter opp funksjonsuttrykk som passer.
+
+### Funksjonen $f$
+
+Grafen til $f$ har følgende egenskaper:
+
+- **To vertikale asymptoter** ved $x = -1$ og $x = 1$
+- **Horisontal asymptote** $y = 0$
+- **Positiv $y$-skjæring** ($f(0) > 0$)
+- **Nullpunkt** mellom $0$ og $1$ (ca. $x = 0{,}4$)
+
+Siden $f$ har vertikale asymptoter ved $x = -1$ og $x = 1$, må nevneren ha nullpunkter nettopp der. En naturlig nevner er
+
+$$
+(x - 1)(x + 1) = x^2 - 1
+$$
+
+Telleren må gi nullpunkt nær $x = 0{,}4$. Et lineært uttrykk $5x - 2$ har nullpunkt i $x = \tfrac{2}{5}$, som passer godt. Da blir
+
+$$
+f(x) = \frac{5x - 2}{x^2 - 1}
+$$
+
+Vi verifiserer:
+
+- Vertikale asymptoter: $x^2 - 1 = 0 \Rightarrow x = \pm 1$ ✓
+- Nullpunkt: $5x - 2 = 0 \Rightarrow x = \tfrac{2}{5}$ ✓
+- $y$-skjæring: $f(0) = \dfrac{-2}{-1} = 2 > 0$ ✓
+- Horisontal asymptote: $\lim_{x \to \pm\infty} \dfrac{5x - 2}{x^2 - 1} = 0$ ✓
+
+### Funksjonen $g$
+
+Grafen til $g$ har følgende egenskaper:
+
+- **Ingen vertikale asymptoter**
+- **Horisontal asymptote** $y = 0$
+- Negativ $y$-skjæring og samme type teller som $f$ (lik nullpunkt og y-skjæring i tallverdi før fortegn)
+- Lokalt minimum like til venstre for $y$-aksen, lokalt maksimum til høyre
+
+Siden $g$ ikke har vertikale asymptoter, må nevneren aldri bli null. Vi beholder samme teller som i $f$ og bytter nevner til $x^2 + 1$ (alltid positiv):
+
+$$
+g(x) = \frac{5x - 2}{x^2 + 1}
+$$
+
+Vi verifiserer:
+
+- Ingen vertikale asymptoter: $x^2 + 1 \geq 1 > 0$ for alle $x$ ✓
+- Nullpunkt: $5x - 2 = 0 \Rightarrow x = \tfrac{2}{5}$ ✓
+- $y$-skjæring: $g(0) = \dfrac{-2}{1} = -2$ ✓
+- Horisontal asymptote: $\lim_{x \to \pm\infty} \dfrac{5x - 2}{x^2 + 1} = 0$ ✓
+
+Grafene er tegnet i GeoGebra (blå = $f$, rød = $g$) og samsvarer med originalfigurene:
+
+![Grafer til f og g](/img/user/_resources/1t-v25-2-6-l%C3%B8sning.png)
 
 </div></div>
 

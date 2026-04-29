@@ -1,16 +1,16 @@
 ---
-{"tags":["oppgave"],"date":"2024-12-04","modified":"2025-05-12","aliases":[],"dg-publish":true,"temaer":["integral","likninger","bestemt integral","tolkning av integraler"],"fag":["s2"],"eksamen":"h24","del":1,"oppgave":"1b-c","oppgavenummer":[{"fag":"s2","del":1,"oppgave":"1b-c"}],"title":"Integral med ukjent grense","source":null,"todo":[],"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Løse $\\int_{-1}^x (3t^2-1)\\,dt=0$ manuelt: anti-derivere, sette inn, og løse $x^3-x=0$ for $x=0 \\vee x=1$.","dg-permalink":"/integral-med-ukjent-grense/","lf-source-claude":false,"permalink":"/integral-med-ukjent-grense/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-12-04","modified":"2025-05-12","aliases":[],"temaer":["integral","likninger","bestemt integral","tolkning av integraler"],"fag":["s2"],"eksamen":"h24","del":1,"oppgave":"1b-c","oppgavenummer":[{"fag":"s2","del":1,"oppgave":"1b-c"}],"title":"Integral med ukjent grense","source":null,"todo":[],"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Løse $\\int_{-1}^x (3t^2-1)\\,dt=0$ manuelt: anti-derivere, sette inn, og løse $x^3-x=0$ for $x=0 \\vee x=1$.","lf-source-claude":false}}
+{"tags":["oppgave"],"date":"2024-12-04","modified":"2025-05-12","aliases":[],"dg-publish":true,"temaer":["integral","likninger","bestemt integral","tolkning av integraler"],"fag":["s2"],"eksamen":"h24","del":1,"oppgave":"1b-c","poeng":6,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":"1b-c"}],"title":"Integral med ukjent grense","source":null,"todo":[],"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Løse $\\int_{-1}^x (3t^2-1)\\,dt=0$ manuelt: anti-derivere, sette inn, og løse $x^3-x=0$ for $x=0 \\vee x=1$.","dg-permalink":"/integral-med-ukjent-grense/","lf-source-claude":false,"permalink":"/integral-med-ukjent-grense/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-12-04","modified":"2025-05-12","aliases":[],"temaer":["integral","likninger","bestemt integral","tolkning av integraler"],"fag":["s2"],"eksamen":"h24","del":1,"oppgave":"1b-c","poeng":6,"oppgavenummer":[{"fag":"s2","del":1,"oppgave":"1b-c"}],"title":"Integral med ukjent grense","source":null,"todo":[],"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Løse $\\int_{-1}^x (3t^2-1)\\,dt=0$ manuelt: anti-derivere, sette inn, og løse $x^3-x=0$ for $x=0 \\vee x=1$.","lf-source-claude":false}}
 ---
 
 
 # Integral med ukjent grense
 
 
-b) Bestem $x$ når 
-
- $$\int_{-1}^{x} \left( 3t^{2}-1 \right)  \, \mathrm{d}t = 0, \quad x>-1$$
-
- c) Gi en praktisk tolkning av svaret i oppgave b).
+> [!oppgave]
+> b) Bestem $x$ når 
+>
+>  $$\int_{-1}^{x} \left( 3t^{2}-1 \right)  \, \mathrm{d}t = 0, \quad x>-1$$
+>  c) Gi en praktisk tolkning av svaret i oppgave b).
 
 ## Fasit
 

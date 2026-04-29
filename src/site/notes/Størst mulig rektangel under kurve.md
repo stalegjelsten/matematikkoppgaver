@@ -15,7 +15,6 @@ Punktene $A$, $B$, $C$ og $D$ danner et rektangel. Punktet $A$ ligger i origo, p
 
 >[!oppgave]
 >a) Bestem arealet av rektangelet dersom punktet $B$ har koordinatene $(3, 0)$.
->
 >b) Hvor på $x$-aksen må punktet $B$ ligge for at arealet av rektangelet $ABCD$ skal bli størst mulig?
 
 ## Fasit

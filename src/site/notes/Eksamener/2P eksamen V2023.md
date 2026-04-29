@@ -621,7 +621,6 @@ Nedenfor ser du resultatet hun får når hun kjører programmet.
 ## Fasit
 
 a) Se løsningsforslag for rettet program.
-
 b) $20$ måneder
 
 ## Løsningsforslag

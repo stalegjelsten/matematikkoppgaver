@@ -10,8 +10,8 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [1-1](#oppgave-1-1) | [Andregradsulikhet med faktorisering](https://matematikkoppgaver.vercel.app/andregradsulikhet-med-faktorisering/) | andregradslikninger, algebra | × |
-| [1-2](#oppgave-1-2) | [Nullpunkter til tredjegradsfunksjon](https://matematikkoppgaver.vercel.app/nullpunkter-til-tredjegradsfunksjon/) | algebra, polynomdivisjon | × |
+| [1-1](#oppgave-1-1) | [Andregradsulikhet med faktorisering](https://matematikkoppgaver.vercel.app/andregradsulikhet-med-faktorisering/) | andregradslikninger, algebra | ✔︎ |
+| [1-2](#oppgave-1-2) | [Nullpunkter til tredjegradsfunksjon](https://matematikkoppgaver.vercel.app/nullpunkter-til-tredjegradsfunksjon/) | algebra, polynomdivisjon | ✔︎ |
 | [1-3](#oppgave-1-3) | [Påstander om rasjonal funksjon](https://matematikkoppgaver.vercel.app/pastander-om-rasjonal-funksjon/) | rasjonale funksjoner, asymptoter | × |
 | [1-4](#oppgave-1-4) | [Bankinnskudd med rente bakover](https://matematikkoppgaver.vercel.app/bankinnskudd-med-rente-bakover/) | prosentregning, geometrisk vekst | × |
 | [1-5](#oppgave-1-5) | [Trekantareal og sin 45 grader](https://matematikkoppgaver.vercel.app/trekantareal-og-sin-45-grader/) | trigonometri, arealsetningen | × |
@@ -53,10 +53,9 @@ Table: {.eksamen-oversikt}
 $-5 < x < 1$
 
 ## Løsningsforslag
-
+Faktoriserer med heltallsmetoden med tallene $+5$ og $-1$:
 $$x^2 + 4x - 5 = (x + 5)(x - 1)$$
-
-$(x+5)(x-1) < 0$ når faktorene har motsatt fortegn. Nullpunktene er $x = -5$ og $x = 1$. Parabelen er konveks, så uttrykket er negativt mellom nullpunktene.
+Nullpunktene er $x = -5$ og $x = 1$. Siden koeffisienten foran $x^{2}$-leddet er 1, så vet vi at parabelen er konveks. Uttrykket er derfor negativt mellom nullpunktene.
 
 **Løsning: $\underline{\underline{-5 < x < 1}}$**
 
@@ -85,12 +84,28 @@ $(x+5)(x-1) < 0$ når faktorene har motsatt fortegn. Nullpunktene er $x = -5$ og
 $x = -2$, $x = 1$, $x = 6$
 
 ## Løsningsforslag
+Tester $x=1$: $f(1) = 1 - 5 - 8 + 12 = 0$, så $(x-1)$ et nullpunkt, og det er en faktor i tredjegradsfunksjonen vår.
 
-$f(1) = 1 - 5 - 8 + 12 = 0$, så $(x-1)$ er en faktor.
+Vi utfører polynomdivisjonen:
+$$
+\begin{aligned}
+& \,\quad \left( x^{3} -5x^{2}-8x +12 \right) : (x-1) = x^{2}-4x-12 \\
+& \underline{ - \left(  x^{3} -x^{2} \right) } \\
+& \quad \quad \quad -4x^{2} - 8x +12 \\
+& \quad \;\;  - \underline{ \left( -4x^{2} +4x\right)  }\\
+& \quad \;\quad \quad \quad \quad - 12x+12 \\
+& \quad \;\;\; \quad \quad \underline{- \left(  - 12x+12  \right)} \\
+& \quad \quad \quad \quad \quad \quad \quad \quad \quad 0
+\end{aligned}
+$$
 
-Polynomdivisjon: $f(x) = (x-1)(x^2 - 4x - 12)$
+Vi kan altså skrive om $f$ som $f(x) = (x-1)(x^2 - 4x - 12)$.
 
-$x^2 - 4x - 12 = 0 \implies x = \dfrac{4 \pm \sqrt{64}}{2} = \dfrac{4 \pm 8}{2}$, som gir $x = 6$ eller $x = -2$.
+Vi prøver heltallsmetoden på andregradsuttrykket og ser at $-6$ og $+2$ passer slik at
+$$
+(x^2 - 4x - 12)=(x-6)(x+2)
+$$
+Dermed har vi funnet to nye nullpunkter: $x=6$ og $x=-2$.
 
 **Nullpunktene er $\underline{\underline{x = -2}}$, $\underline{\underline{x = 1}}$ og $\underline{\underline{x = 6}}$.**
 
@@ -171,15 +186,16 @@ For fem år siden vant Oskar i Lotto. Han satte pengene i banken og har fått $4
 
 ## Fasit
 
-2) og 6)
+2\) og 6)
 
 ## Løsningsforslag
 
-$V_0 \cdot 1{,}045^5 = 250\,000 \implies V_0 = \dfrac{250\,000}{1{,}045^5} = 250\,000 \cdot 1{,}045^{-5}$
+4,5 % rente tilsvarer vekstfaktor 1,045. For å gå fem år tilbake i tid kan vi enten
+
+1. Dele beløpet vårt på vekstfaktoren 5 ganger: $\dfrac{250\,000}{1{,}045^5}$
+2. Opphøye vekstfaktoren vår i minus 5: $250\,000 \cdot 1{,}045^{-5}$
 
 **Uttrykk 2) og 6) er riktige.**
-
-Merk: $0{,}955 \neq \tfrac{1}{1{,}045}$, så 4) og 5) er ikke ekvivalente med 2) og 6).
 
 
 </div></div>
@@ -323,11 +339,8 @@ der $F(x)$ gram er vekten til en fisk som er $x$ centimeter lang.
 
 >[!oppgave]
 >a) Bruk opplysningene i tabellen til å bestemme tallene $a$ og $b$. Tegn grafen til $F$.
->
 >b) Bestem stigningstallet til den rette linjen som går gjennom punktene $(75,\ F(75))$ og $(95,\ F(95))$. Gi en praktisk tolkning av svaret.
->
 >c) Bestem den momentane vekstfarten når $x = 100$. Gi en praktisk tolkning av svaret.
->
 >d) Hvor mange prosent vil vekten av en fisk øke med dersom lengden øker med $20\ \%$ ifølge modellen?
 
 ## Fasit
@@ -426,7 +439,6 @@ Gitt figuren ovenfor.
 
 >[!oppgave]
 >a) Gjør beregninger og vis at $AC = 3$.
->
 >b) Bestem arealet av firkanten $ABCD$. Gi svaret eksakt.
 
 ## Fasit
@@ -485,7 +497,6 @@ Tenk deg at Maria fortsetter å dele opp trekanten og fargelegge etter samme mø
 
 >[!oppgave]
 >a) Sett opp en algoritme Maria kan bruke for å finne summen av arealene av de 100 første trekantene som vil bli grå.
->
 >b) Ta utgangspunkt i algoritmen og lag et program som regner ut summen av arealene dersom arealet av den likesidede trekanten hun starter med er 36.
 
 ## Fasit
@@ -554,7 +565,6 @@ Punktene $A$, $B$, $C$ og $D$ danner et rektangel. Punktet $A$ ligger i origo, p
 
 >[!oppgave]
 >a) Bestem arealet av rektangelet dersom punktet $B$ har koordinatene $(3, 0)$.
->
 >b) Hvor på $x$-aksen må punktet $B$ ligge for at arealet av rektangelet $ABCD$ skal bli størst mulig?
 
 ## Fasit
@@ -605,7 +615,6 @@ Den rette linjen på figuren går gjennom punktet $(0, 23)$ og er en tangent til
 
 >[!oppgave]
 >a) Bestem likningen for tangenten.
->
 >b) Hvor langt fra veggen på lagerhallen kan en tyv bevege seg uten å bli fotografert av webkameraet?
 
 ## Fasit

@@ -28,7 +28,7 @@ Table: {.eksamen-oversikt}
 | [2-4](#oppgave-2-4) | [Antall fiskere og regresjon](https://matematikkoppgaver.vercel.app/antall-fiskere-og-regresjon/) | regresjon, modellering | × |
 | [2-5](#oppgave-2-5) | [Avstand mellom to funksjoner](https://matematikkoppgaver.vercel.app/avstand-mellom-to-funksjoner/) | derivasjon, optimering, funksjoner | × |
 | [2-6](#oppgave-2-6) | [Tredjegradsfunksjon med ukjente koeffisienter](https://matematikkoppgaver.vercel.app/tredjegradsfunksjon-med-ukjente-koeffisienter/) | derivasjon, gjennomsnittlig vekstfart, likningssystem | ✔︎ |
-| [2-7](#oppgave-2-7) | [Rektangel under graf](https://matematikkoppgaver.vercel.app/rektangel-under-graf/) | optimering, derivasjon, funksjoner | × |
+| [2-7](#oppgave-2-7) | [Rektangel under graf](https://matematikkoppgaver.vercel.app/rektangel-under-graf/) | optimering, derivasjon, funksjoner | ✔︎ |
 
 # Del 1
 
@@ -521,6 +521,41 @@ Rektangelet under grafen har hjørner i punktene $(0, 0)$, $(5, 0)$, $(5, f(5))$
 >c) Bestem $k$ slik at arealet av rektangelet som har hjørner i punktene $(0, 0)$, $(k, 0)$, $(k, f(k))$ og $(0, f(k))$, blir størst mulig.
 
 ## Fasit
+
+a) $\frac{8}{9}$
+b) –
+c) $2\sqrt{ 5 } \approx 4{,}47$
+
+## Løsningsforslag
+
+### a
+Rektangelet har bredde $5$ og høyde $f(5)$.
+
+$$
+f(5)=\frac{8}{5^{2}+20}=\frac{8}{45}
+$$
+$$
+\text{Areal}=5 \cdot \frac{8}{45}=\underline{\underline{ \frac{8}{9} }}
+$$
+**Arealet er $\underline{\underline{ \frac{8}{9} }}$.**
+
+### b
+Den enkleste måten å lage en systematisk oversikt er med et regneark.
+
+![Oversikt over arealer](/img/user/_resources/rektangel-under-graf.png){width=60%}
+
+### c
+Ut fra oversikten ser det ut til at svaret vil være når bredden er omtrent 4,5. For å bestemme dette eksakt kan vi lage en arealfunksjon:
+
+$$
+A(x)= \text{Bredde} \cdot \text{Høyde} =  x \cdot f(x)=x \cdot \frac{8}{x^{2}+20}
+$$
+
+For å finne toppunktet til funksjonen deriverer vi den i CAS og setter den deriverte lik 0.
+
+![Finner største areal i CAS](/img/user/_resources/rektangel-under-graf%201.png){width=40%}
+
+**Arealet er størst når $\underline{\underline{ k=2\sqrt{ 5 } }}$.**
 
 </div></div>
 

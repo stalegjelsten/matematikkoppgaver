@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"date":"2024-11-28","del":2,"dg-permalink":"/forbrukslan-med-betalingsplan/","dg-publish":true,"eksamen":"h24","fag":["2p"],"modified":"2026-03-26","oppgave":7,"oppgavenummer":[{"del":2,"fag":"2p","oppgave":7}],"poeng":3,"source":null,"status":1,"tags":["oppgave"],"temaer":["lån","økonomi"],"title":"Forbrukslån med betalingsplan","todo":["løsningsforslag"],"permalink":"/forbrukslan-med-betalingsplan/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":[],"date":"2024-11-28","del":2,"eksamen":"h24","fag":["2p"],"modified":"2026-03-26","oppgave":7,"oppgavenummer":[{"del":2,"fag":"2p","oppgave":7}],"poeng":3,"source":null,"status":1,"tags":["oppgave"],"temaer":["lån","økonomi"],"title":"Forbrukslån med betalingsplan","todo":["løsningsforslag"]}}
+{"aliases":[],"date":"2024-11-28","del":2,"dg-permalink":"/forbrukslan-med-betalingsplan/","dg-publish":true,"eksamen":"h24","fag":["2p"],"lf-source-claude":true,"modified":"2026-03-26","oppgave":7,"oppgavenummer":[{"del":2,"fag":"2p","oppgave":7}],"poeng":3,"source":null,"status":3,"tags":["oppgave"],"temaer":["lån","økonomi"],"title":"Forbrukslån med betalingsplan","permalink":"/forbrukslan-med-betalingsplan/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":[],"date":"2024-11-28","del":2,"eksamen":"h24","fag":["2p"],"lf-source-claude":true,"modified":"2026-03-26","oppgave":7,"oppgavenummer":[{"del":2,"fag":"2p","oppgave":7}],"poeng":3,"source":null,"status":3,"tags":["oppgave"],"temaer":["lån","økonomi"],"title":"Forbrukslån med betalingsplan"}}
 ---
 
 
@@ -28,8 +28,55 @@ Betalingsplanen ser slik ut:
 
 >[!oppgave]
 >Bruk betalingsplanen til å avgjøre
+>
 >- om lånet er et serielån eller et annuitetslån
 >- hvor mye penger Julia har lånt
 >- hvor mange prosent Julia betaler i månedlig rente
 
 ## Fasit
+
+- Annuitetslån
+- Julia lånte $\underline{\underline{75\,000 \, \mathrm{kr}}}$
+- Månedlig rente: $\underline{\underline{1{,}70 \,\%}}$
+
+## Løsningsforslag
+
+Vi bruker betalingsplanen i regnearket nedenfor.
+
+![Betalingsplan for Julias forbrukslån](/img/user/_resources/2p-h24-2-7.png){width=80%}
+
+### Serielån eller annuitetslån?
+
+Vi ser på **terminbeløpet** (det Julia betaler hver måned):
+
+- Alle terminbeløp er kr 6 962,00 (unntatt siste måned som er kr 6 961,39 på grunn av avrunding).
+
+Terminbeløpet er **konstant** gjennom hele nedbetalingsperioden.
+
+Vi ser også at **avdraget øker** for hver måned (fra kr 5 687 i mnd 1 til kr 6 845 i mnd 12), mens **rentene synker**.
+
+Dette er kjennetegnet på et **annuitetslån**: konstant terminbeløp, voksende avdrag og synkende renter.
+
+**Julia har et annuitetslån.**
+
+### Opprinnelig lånebeløp
+
+Det opprinnelige lånet er restlånet etter måned 1 pluss avdraget i måned 1:
+
+$$75\,000 = 69\,313 + 5\,687$$
+
+**Julia lånte $\underline{\underline{75\,000 \, \mathrm{kr}}}$.**
+
+### Månedlig rentesats
+
+Rentene i måned 1 beregnes av det opprinnelige lånet:
+
+$$r = \frac{\text{renter mnd 1}}{\text{opprinnelig lån}} = \frac{1\,275}{75\,000} = 0{,}017 = 1{,}70\,\%$$
+
+Vi kan verifisere med måned 2: restlånet etter mnd 1 er kr 69 313,00, og
+
+$$69\,313{,}00 \cdot 0{,}017 = 1\,178{,}32 \, \mathrm{kr}$$
+
+som stemmer nøyaktig med tabellen.
+
+**Den månedlige renten er $\underline{\underline{1{,}70 \,\%}}$.**

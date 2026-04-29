@@ -13,7 +13,6 @@ $$f(x) = 2 \cdot \sin\left(\frac{\pi}{4}x - \frac{\pi}{2}\right) - 1$$
 
 >[!oppgave]
 >a) Bestem en funksjon på formen $g(x) = A \cdot \cos(cx + \varphi) + d$, som passer til grafen.
->
 >b) Løs likningen $\cos\left(\dfrac{\pi}{4}x - \pi\right) = \dfrac{1}{2}$, der $x \in [0, 3\pi]$. Forklar hvor på figuren løsningene ligger.
 
 ## Fasit
@@ -23,7 +22,7 @@ b) $x = \dfrac{8}{3}$ og $x = \dfrac{16}{3}$
 
 ## Løsningsforslag
 
-### 1-5a
+### a
 Vi kan omskrive en sinusfunksjon til en cosinusfunksjon ved å endre på faseforksyvningen. Likevektslinje, periode og amplitude vil være lik som for sinusfunksjonen.
 
 Vi ser at $f$ har et bunnpunkt i $(0,-3)$. Vi vet at $\cos u$ har bunnpunkt når $u=\pi$, så vi kan faseforskyve med $\pi$
@@ -31,7 +30,7 @@ $$
 g(x)=2 \cdot \cos\left( \frac{\pi}{4}x+\pi \right)-1
 $$
 
-### 1-5b
+### b
 Vi vet at $\cos 60\degree=\cos \frac{\pi}{3}=\frac{1}{2}$, derfor må $\cos \left( \frac{\pi}{3}+2k\pi \right)=\frac{1}{2}=\cos \left(  \frac{5\pi}{3}+2k\pi \right)$ der $k \in \mathbb{Z}$. Vi kan løse for $x$ i to steg. Først setter vi opp likningen
 $$
 \frac{\pi}{3}+2k\pi=\frac{\pi}{4}x-\pi \iff x=8k+\frac{16}{3}

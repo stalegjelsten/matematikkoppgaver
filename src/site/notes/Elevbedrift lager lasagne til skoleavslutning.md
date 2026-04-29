@@ -34,6 +34,7 @@ Vi tror at de totale utgiftene våre blir omtrent 3200 kroner. Vi skal selge 92 
 
 >[!oppgave]
 >Gjør beregninger og vurderinger, og svar på spørsmålene de fire elevene stiller:
+>
 >- Hvor stort volum har en stekeform?
 >- Hvor mange stekeformer trenger vi til 92 porsjoner lasagne?
 >- Hvor mye trenger vi av hver ingrediens for å lage 92 porsjoner?
