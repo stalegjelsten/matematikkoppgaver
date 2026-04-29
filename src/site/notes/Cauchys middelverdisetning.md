@@ -26,11 +26,8 @@ Anne påstår at dersom $a = 2$ og $b = 8$, så vil $c = 5$ for alle andregradsf
 ## Fasit
 
 a) $\underline{\underline{c = 2}}$
-
 b) Se program i løsningsforslaget.
-
 c) $c$ er alltid midtpunktet $\frac{a+b}{2}$.
-
 d) Annes påstand er **riktig** for alle andregradsfunksjoner (med $p \neq 0$).
 
 ## Løsningsforslag

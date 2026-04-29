@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["prosentregning","geometrisk vekst"],"fag":["1t"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":4}],"title":"Bankinnskudd med rente bakover","status":1,"source":null,"todo":null,"poeng":2,"dg-permalink":"/bankinnskudd-med-rente-bakover/","lf-source-claude":true,"permalink":"/bankinnskudd-med-rente-bakover/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-15","aliases":[],"temaer":["prosentregning","geometrisk vekst"],"fag":["1t"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":4}],"title":"Bankinnskudd med rente bakover","status":1,"source":null,"todo":null,"poeng":2,"lf-source-claude":true}}
+{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["prosentregning","geometrisk vekst"],"fag":["1t"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":4}],"title":"Bankinnskudd med rente bakover","status":3,"source":null,"todo":null,"poeng":2,"dg-permalink":"/bankinnskudd-med-rente-bakover/","lf-source-claude":false,"permalink":"/bankinnskudd-med-rente-bakover/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2025-11-28","modified":"2026-03-15","aliases":[],"temaer":["prosentregning","geometrisk vekst"],"fag":["1t"],"eksamen":"h25","del":1,"oppgave":4,"oppgavenummer":[{"fag":"1t","del":1,"oppgave":4}],"title":"Bankinnskudd med rente bakover","status":3,"source":null,"todo":null,"poeng":2,"lf-source-claude":false}}
 ---
 
 
@@ -23,12 +23,13 @@ For fem år siden vant Oskar i Lotto. Han satte pengene i banken og har fått $4
 
 ## Fasit
 
-2) og 6)
+2\) og 6)
 
 ## Løsningsforslag
 
-$V_0 \cdot 1{,}045^5 = 250\,000 \implies V_0 = \dfrac{250\,000}{1{,}045^5} = 250\,000 \cdot 1{,}045^{-5}$
+4,5 % rente tilsvarer vekstfaktor 1,045. For å gå fem år tilbake i tid kan vi enten
+
+1. Dele beløpet vårt på vekstfaktoren 5 ganger: $\dfrac{250\,000}{1{,}045^5}$
+2. Opphøye vekstfaktoren vår i minus 5: $250\,000 \cdot 1{,}045^{-5}$
 
 **Uttrykk 2) og 6) er riktige.**
-
-Merk: $0{,}955 \neq \tfrac{1}{1{,}045}$, så 4) og 5) er ikke ekvivalente med 2) og 6).

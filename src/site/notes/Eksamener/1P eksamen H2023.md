@@ -96,6 +96,36 @@ Opplysningene ovenfor er hentet fra ssb.no.
 
 ## Fasit
 
+Overskriften samsvarer ikke helt: $88 \,\%$ er ikke det samme som $90 \,\%$ («ni av ti»), men det er en rimelig forenkling/avrunding.
+
+Økningen på 8 prosentpoeng tilsvarer en økning på $\underline{\underline{10 \,\%}}$.
+
+## Løsningsforslag
+
+**Del 1 – Samsvarer overskriften?**
+
+Overskriften sier «ni av ti», som betyr $\frac{9}{10} = 90 \,\%$.
+
+Teksten sier $88 \,\%$.
+
+$88 \,\%$ er ikke det samme som $90 \,\%$, så overskriften stemmer ikke nøyaktig. Men $88 \,\%$ er nær $90 \,\%$, og «ni av ti» er en enkel og lettfattelig formulering. Overskriften er altså en forenkling, men ikke grovt misvisende.
+
+**Del 2 – Hvor mange prosent tilsvarer 8 prosentpoeng?**
+
+For fem år siden brukte
+
+$$100 \,\% - 8 \,\% = 88 \,\% - 8 \,\% = 80 \,\%$$
+
+av nordmenn sosiale medier. (Vi trekker 8 prosentpoeng fra dagens $88 \,\%$.)
+
+Økningen i antall prosentpoeng er $88 - 80 = 8$ prosentpoeng.
+
+Vi beregner hvor mange prosent dette er av utgangspunktet:
+
+$$\frac{8}{80} \cdot 100 = 10 \,\%$$
+
+**Økningen på 8 prosentpoeng tilsvarer en økning på $\underline{\underline{10 \,\%}}$.**
+
 </div></div>
 
 
@@ -119,6 +149,31 @@ Ohms lov sier at strømmen ($I$) gjennom en metallisk leder med konstant tempera
 >2. Hvis vi øker motstanden, vil strømmen også øke.
 
 ## Fasit
+
+1. **Sann** — strømmen øker når spenningen øker.
+2. **Usann** — strømmen avtar når motstanden øker.
+
+## Løsningsforslag
+
+Ohms lov kan skrives som formelen
+
+$$I = \frac{U}{R}$$
+
+der $I$ er strømmen, $U$ er spenningen og $R$ er motstanden.
+
+### Påstand 1: Hvis vi øker spenningen, vil strømmen også øke.
+
+Ifølge Ohms lov er $I$ proporsjonal med $U$ (når $R$ er konstant). Det betyr at når spenningen $U$ øker, vil strømmen $I$ også øke.
+
+**Påstanden er sann.**
+
+### Påstand 2: Hvis vi øker motstanden, vil strømmen også øke.
+
+Ifølge Ohms lov er $I$ omvendt proporsjonal med $R$ (når $U$ er konstant). Det betyr at når motstanden $R$ øker, vil strømmen $I$ avta — ikke øke.
+
+For eksempel: hvis motstanden dobles, halveres strømmen.
+
+**Påstanden er usann.**
 
 </div></div>
 
@@ -175,6 +230,54 @@ Sondre påstår at modellen han har funnet, viser at alderen til en hund er prop
 
 ## Fasit
 
+a) Stigningstallet er $6$ (store hunder vokser med 6 menneskeår per hundeår etter fylte 2 år). Konstantleddet er $12$, funnet ved å bruke punktet $(2, 24)$. Modellen er gyldig for $x \geq 2$.
+
+b) **Påstanden stemmer ikke.** $H(x) = 6x + 12$ er ikke proporsjonal fordi den ikke går gjennom origo.
+
+## Løsningsforslag
+
+### a
+
+Vi ser på kolonnen «Store hunder» i tabellen og ser på endringene fra $x = 2$ år og oppover:
+
+| Hundeår $x$ | Menneskeår $H(x)$ | Endring |
+|:-----------:|:-----------------:|:-------:|
+| 2           | 24                |         |
+| 3           | 30                | $+6$    |
+| 4           | 36                | $+6$    |
+| 5           | 42                | $+6$    |
+| 6           | 48                | $+6$    |
+
+Endringen er konstant lik $6$ for hvert hundeår. Dette betyr at stigningstallet i en lineær modell er $6$.
+
+Vi bruker punktet $(2, 24)$ fra tabellen og stigningstallet $a = 6$:
+
+$$H(x) = 6x + b$$
+
+Vi setter inn $x = 2$ og $H(2) = 24$:
+
+$$24 = 6 \cdot 2 + b$$
+
+$$24 = 12 + b$$
+
+$$b = 12$$
+
+Slik kommer Sondre fram til $H(x) = 6x + 12$.
+
+**Modellen er gyldig for $x \geq 2$.** Fra tabellen ser vi at alle de tre hundekategoriene har samme verdier frem til og med $x = 2$ år ($H = 24$). Først fra $x = 3$ begynner de å skille seg. Modellen beskriver den lineære veksten for store hunder, og denne lineariteten starter ved $x = 2$.
+
+### b
+
+For at en sammenheng skal være proporsjonal, må den gå gjennom origo. Det vil si at funksjonen må ha formen $y = k \cdot x$, der $k$ er en konstant.
+
+Vi sjekker om $H(x) = 6x + 12$ er proporsjonal ved å sette inn $x = 0$:
+
+$$H(0) = 6 \cdot 0 + 12 = 12$$
+
+Siden $H(0) = 12 \neq 0$, går ikke grafen gjennom origo.
+
+**Påstanden til Sondre stemmer ikke.** $H(x) = 6x + 12$ er en lineær funksjon, men ikke en proporsjonal sammenheng. En proporsjonal sammenheng ville for eksempel hatt formen $H(x) = k \cdot x$ for et tall $k$, men modellen har et konstantledd på $12$ som gjør at det ikke er proporsjonalitet.
+
 </div></div>
 
 
@@ -205,6 +308,20 @@ Dennis vil kjøpe en ny bil som koster 490 000 kroner.
 >Sett opp et regnestykke som vil gi bilens verdi etter 2 år.
 
 ## Fasit
+
+$\underline{\underline{490\,000 \cdot 0{,}80 \cdot 0{,}86 = 337\,120 \, \mathrm{kr}}}$
+
+## Løsningsforslag
+
+Det første året faller bilen i verdi med $20 \,\%$. Det vil si at bilen beholder $100 \,\% - 20 \,\% = 80 \,\%$ av verdien. Vekstfaktoren er $0{,}80$.
+
+Det andre året faller bilen i verdi med $14 \,\%$ av bruktprisen. Bilen beholder da $100 \,\% - 14 \,\% = 86 \,\%$ av verdien. Vekstfaktoren er $0{,}86$.
+
+Vi multipliserer startverdien med begge vekstfaktorene for å finne verdien etter 2 år:
+
+$$490\,000 \cdot 0{,}80 \cdot 0{,}86 = \textbf{337\,120 \, \mathrm{kr}}$$
+
+**Bilens verdi etter 2 år er $\underline{\underline{337\,120 \, \mathrm{kr}}}$.**
 
 </div></div>
 
@@ -286,6 +403,34 @@ Sofie har et rektangelformet uteområde. Hun vil endre på dette området ved å
 
 ## Fasit
 
+**Arealet minker med $\underline{\underline{12 \,\%}}$.**
+
+## Løsningsforslag
+
+Vi kaller det opprinnelige rektangelet for lengde $l$ og bredde $b$.
+
+Arealet er $A = l \cdot b$.
+
+**Lengden øker med 10 %**, så vekstfaktoren er $1{,}10$.
+
+**Bredden reduseres med 20 %**, så vekstfaktoren er $0{,}80$.
+
+Det nye arealet blir:
+
+$$A_{\text{ny}} = \textcolor{seagreen}{1{,}10} \cdot l \cdot \textcolor{tomato}{0{,}80} \cdot b$$
+
+Vi finner den samlede vekstfaktoren for arealet:
+
+$$\textcolor{seagreen}{1{,}10} \cdot \textcolor{tomato}{0{,}80} = 0{,}88$$
+
+En vekstfaktor på $0{,}88$ betyr at det nye arealet er $88 \,\%$ av det opprinnelige.
+
+Prosentvis endring:
+
+$$0{,}88 - 1 = -0{,}12 = -12 \,\%$$
+
+**Arealet minker med $\underline{\underline{12 \,\%}}$.**
+
 </div></div>
 
 
@@ -317,6 +462,52 @@ Jordens radius er 6378 km ved ekvator.
 
 ## Fasit
 
+a) **Ca. 16 pølser per sekund**
+b) **$\underline{\underline{2{,}6 \,\%}}$**
+c) **Ca. 20 cm**
+
+## Løsningsforslag
+
+### a
+
+Det er 365 dager i et år. Vi regner ut antall sekunder i ett år:
+
+$$365 \cdot 24 \cdot 60 \cdot 60 = 31\,536\,000 \text{ sekunder}$$
+
+Antall pølser per sekund blir:
+
+$$\frac{500\,000\,000}{31\,536\,000} \approx 15{,}85$$
+
+**Vi spiser omtrent $\underline{\underline{16 \text{ pølser per sekund}}}$.**
+
+### b
+
+Vi finner hvor mange prosent 13 millioner er av 500 millioner:
+
+$$\frac{13}{500} \cdot 100 = \underline{\underline{2{,}6 \,\%}}$$
+
+**Vi spiser $\underline{\underline{2{,}6 \,\%}}$ av årets pølser den 17. mai.**
+
+### c
+
+Vi beregner jordens omkrets ved ekvator. Omkretsen av en sirkel er $O = 2\pi r$, der $r = 6378 \, \mathrm{km}$:
+
+$$O = 2 \cdot \pi \cdot 6378 \approx 40\,074 \, \mathrm{km}$$
+
+To og en halv gang rundt jorda gir en total lengde på:
+
+$$2{,}5 \cdot 40\,074 = 100\,185 \, \mathrm{km}$$
+
+Vi gjør om til centimeter:
+
+$$100\,185 \, \mathrm{km} = 100\,185\,000 \, \mathrm{m} = 10\,018\,500\,000 \, \mathrm{cm}$$
+
+Gjennomsnittlig pølselengde:
+
+$$\frac{10\,018\,500\,000}{500\,000\,000} \approx 20{,}04 \, \mathrm{cm}$$
+
+**NRK har regnet med at en pølse er omtrent $\underline{\underline{20 \, \mathrm{cm}}}$ lang.**
+
 </div></div>
 
 
@@ -346,6 +537,30 @@ Han finner informasjonen nedenfor på helsenorge.no
 >Gjør antakelser og beregninger, og vurder om Snorre bør kontakte veterinær.
 
 ## Fasit
+
+**Antakelse:** Mira veier ca. $10 \, \mathrm{kg}$ (liten til mellomstor hund).
+
+Kritisk vekt: $\underline{\underline{12 \, \mathrm{kg}}}$ — siden Mira sannsynligvis veier under dette, bør Snorre **kontakte veterinær**.
+
+## Løsningsforslag
+
+Jeg starter med å finne ut hvor mye teobromin Mira har fått i seg.
+
+$$200 \, \mathrm{g} \cdot 1{,}2 \, \frac{\mathrm{mg}}{\mathrm{g}} = 240 \, \mathrm{mg teobromin}$$
+
+Så finner jeg hva som er den kritiske grensen. Hunder som har spist mer enn $20 \, \mathrm{mg}$ teobromin per $\mathrm{kg}$ kroppsvekt kan bli syke. Jeg kaller den kritiske kroppsvekten for $v$, og setter opp en likning:
+
+$$\frac{240 \, \mathrm{mg}}{v} = 20 \, \frac{\mathrm{mg}}{\mathrm{kg}}$$
+
+$$v = \frac{240 \, \mathrm{mg}}{20 \, \frac{\mathrm{mg}}{\mathrm{kg}}} = 12 \, \mathrm{kg}$$
+
+**Antakelse:** Jeg antar at Mira er en vanlig familiehund og veier ca. $10 \, \mathrm{kg}$.
+
+Siden Mira sannsynligvis veier **mindre enn $12 \, \mathrm{kg}$**, har hun fått mer enn den kritiske dosen teobromin.
+
+**Snorre bør kontakte veterinær.**
+
+Hvis Mira derimot hadde veid mer enn $12 \, \mathrm{kg}$, ville mengden teobromin vært under den kritiske grensen.
 
 </div></div>
 
@@ -393,6 +608,59 @@ Martin og Maria diskuterer hvordan de skal komme i gang, og vurderer ulike strat
 >Ta utgangspunkt i samtalen mellom Martin og Maria, og løs oppgaven klassen har fått.
 
 ## Fasit
+
+$P = (3, 3)$, maksimalt areal $= \underline{\underline{18}}$
+
+## Løsningsforslag
+
+**Steg 1: Finn likningen for linje BC**
+
+Maria sier at $y = 6 - x$. Vi kan verifisere: linjen går gjennom $B(6, 0)$ og $C(0, 6)$.
+
+Stigningstall: $\dfrac{6 - 0}{0 - 6} = -1$, og skjæring med $y$-aksen er $6$, så
+
+$$y = -x + 6$$
+
+Dermed: Velger vi et punkt $P$ med $x$-koordinat $x$, blir $y$-koordinaten $y = 6 - x$.
+
+**Steg 2: Sett opp arealet**
+
+Rektangelet er symmetrisk om $y$-aksen (trekanten er symmetrisk). Det betyr at:
+
+- Bredde $= 2x$ (fra $-x$ til $x$ langs $x$-aksen)
+- Høyde $= y = 6 - x$
+
+Arealet blir:
+
+$$A(x) = 2x \cdot (6 - x) = 12x - 2x^2$$
+
+**Steg 3: Prøv deg fram (som Martin foreslår)**
+
+| $x$ | $y = 6 - x$ | Bredde $= 2x$ | Areal $= 2x \cdot y$ |
+|-----|-------------|---------------|----------------------|
+| 1   | 5           | 2             | 10                   |
+| 2   | 4           | 4             | 16                   |
+| 3   | 3           | 6             | 18                   |
+| 4   | 2           | 8             | 16                   |
+| 5   | 1           | 10            | 10                   |
+
+Tabellen viser at $x = 3$ gir størst areal.
+
+**Steg 4: Tegn grafen i GeoGebra**
+
+Vi setter inn $A(x) = 2x(6-x)$ i GeoGebra og ber programmet finne toppunktet:
+
+![Graf av A(x) = 2x(6-x) med toppunkt B = (3, 18)](/img/user/_resources/1p-h23-2-5-graf.png){width=80%}
+
+GeoGebra finner toppunktet $B = (3, 18)$, det vil si at $x = 3$ gir maksimalt areal.
+
+**Steg 5: Finn koordinatene til P**
+
+Når $x = 3$:
+
+$$y = 6 - 3 = 3$$
+
+Koordinatene til $P$ er $(3, 3)$, og det maksimale arealet er $A(3) = 2 \cdot 3 \cdot 3 = \underline{\underline{18}}$.
 
 </div></div>
 

@@ -11,7 +11,6 @@ Avgjør om hver av påstandene nedenfor er sann eller usann. Forklar tydelig hvo
 >a) **Påstand:**  
 >
 > $$\text{Når } x > 0 \text{, er } e^{k \cdot \ln(x)}=x^{k}$$
->
 >b) **Påstand:**  
 >
 >$$\text{Når } 1 < a < \dfrac{b}{2} \text{, er } \binom{b}{a+1} > \binom{b}{a}$$

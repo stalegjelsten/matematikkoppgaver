@@ -49,7 +49,6 @@ Prisen for å leie en sparkesykkel fra Roi beregnes slik:
 
 >[!oppgave]
 >a) Hvor mye må du betale for å låse opp og leie en sparkesykkel i 4 minutter?
->
 >b) Tenk deg at du låser opp og leier en sparkesykkel. Prisen du betaler, er 53 kroner. Hvor mange minutter varer turen?
 
 Du vil lage en formel for prisen $P$ du må betale for å leie en sparkesykkel i $x$ minutter.
@@ -75,11 +74,15 @@ c) D: $P = 8 + 3x$
 
 ## Løsningsforslag
 
-a) Oppstartsprisen er 8 kr og leieprisen er 3 kr per minutt. For 4 minutter:
+### a
+
+Oppstartsprisen er 8 kr og leieprisen er 3 kr per minutt. For 4 minutter:
 
    $$8 + 3 \cdot 4 = 8 + 12 = \underline{\underline{20 \, \mathrm{kr}}}$$
 
-b) Vi vet at prisen er 53 kr, og setter opp en likning:
+### b
+
+Vi vet at prisen er 53 kr, og setter opp en likning:
 
    $$
    \begin{aligned}
@@ -89,7 +92,9 @@ b) Vi vet at prisen er 53 kr, og setter opp en likning:
    \end{aligned}
    $$
 
-c) Prisen er alltid 8 kr i oppstart pluss 3 kr for hvert minutt. Formelen for $x$ minutter er altså:
+### c
+
+Prisen er alltid 8 kr i oppstart pluss 3 kr for hvert minutt. Formelen for $x$ minutter er altså:
 
    $$P = 8 + 3x$$
 
@@ -129,7 +134,6 @@ Du skal kjøpe hundemat og kan velge mellom merkene Gnafs og Nam-Nam. Hundematen
 
 >[!oppgave]
 >b) Hvilken hundemat har den laveste kiloprisen? Hva er prisen per kilogram for denne hundematen?
->
 >c) Hvilken hundemat gir lavest kostnad i kroner per dag? Husk å begrunne svaret ditt.
 
 ## Fasit
@@ -140,7 +144,9 @@ c) Nam-Nam: $15 \, \mathrm{kr/dag}$
 
 ## Løsningsforslag
 
-a) Nam-Nam koster 600 kr for 8 kg. Vi deler på 2, 4 og 8 for å finne prisene:
+### a
+
+Nam-Nam koster 600 kr for 8 kg. Vi deler på 2, 4 og 8 for å finne prisene:
 
    **Nam-Nam hundemat**
 
@@ -148,14 +154,18 @@ a) Nam-Nam koster 600 kr for 8 kg. Vi deler på 2, 4 og 8 for å finne prisene:
    |---------------|-----|-----|-----|----|
    | Pris (kroner) | 600 | 300 | 150 | 75 |
 
-b) Kilopris for hvert merke:
+### b
+
+Kilopris for hvert merke:
 
    - Gnafs: $700 \div 10 = 70 \, \mathrm{kr/kg}$
    - Nam-Nam: $600 \div 8 = 75 \, \mathrm{kr/kg}$
 
    **Gnafs har den laveste kiloprisen med $\underline{\underline{70 \, \mathrm{kr/kg}}}$.**
 
-c) Daglig kostnad for hvert merke:
+### c
+
+Daglig kostnad for hvert merke:
 
    - Gnafs: $250 \, \mathrm{g} = 0{,}25 \, \mathrm{kg}$, kostnad per dag $= 0{,}25 \cdot 70 = 17{,}50 \, \mathrm{kr}$
    - Nam-Nam: $200 \, \mathrm{g} = 0{,}20 \, \mathrm{kg}$, kostnad per dag $= 0{,}20 \cdot 75 = 15{,}00 \, \mathrm{kr}$
@@ -259,17 +269,23 @@ c) $Q = 30 \, \mathrm{VAr}$
 
 ## Løsningsforslag
 
-a) I trekanten $ABC$ er $u$ vinkelen ved $A$ og den rette vinkelen er ved $B$.
+### a
+
+I trekanten $ABC$ er $u$ vinkelen ved $A$ og den rette vinkelen er ved $B$.
 
    Sinus er forholdet mellom motstående katet og hypotenus:
 
    $$\underline{\underline{\sin u = \frac{BC}{AC}}}$$
 
-b) Maksimalt avvik er $0{,}1 \, \mathrm{Hz}$ fra $50 \, \mathrm{Hz}$:
+### b
+
+Maksimalt avvik er $0{,}1 \, \mathrm{Hz}$ fra $50 \, \mathrm{Hz}$:
 
    $$\frac{0{,}1}{50} \cdot 100 \, \% = \underline{\underline{0{,}2 \, \%}}$$
 
-c) Fra effekttrekanten ser vi at $\cos \varphi = \dfrac{P}{S}$, og vi vet at $P = 40 \, \mathrm{W}$ og $\cos \varphi = \dfrac{40}{50}$.
+### c
+
+Fra effekttrekanten ser vi at $\cos \varphi = \dfrac{P}{S}$, og vi vet at $P = 40 \, \mathrm{W}$ og $\cos \varphi = \dfrac{40}{50}$.
 
    Dermed er $S = 50 \, \mathrm{VA}$. Vi bruker Pytagoras for å finne $Q$:
 
@@ -323,11 +339,15 @@ b) $\cos \varphi \approx 0{,}58$
 
 ## Løsningsforslag
 
-a) Vi løser $P = U \cdot I$ for $I$:
+### a
+
+Vi løser $P = U \cdot I$ for $I$:
 
    $$I = \frac{P}{U} = \frac{1725}{230} = \underline{\underline{7{,}5 \, \mathrm{A}}}$$
 
-b) Vi bruker de to formlene. Først finner vi tilført effekt fra virkningsgraden:
+### b
+
+Vi bruker de to formlene. Først finner vi tilført effekt fra virkningsgraden:
 
    $$\eta = \frac{P_a}{P_t} \implies P_t = \frac{P_a}{\eta} = \frac{920}{0{,}8} = 1150 \, \mathrm{W}$$
 
@@ -374,9 +394,7 @@ Vindturbinen er konstruert for drift med følgende verdier:
 
 >[!oppgave]
 >a) Finn den leverte effekten ($P$) til vindturbinen. Husk å begrunne svaret ditt.
->
 >b) Hva må $A$ av bladene til vindturbinen være hvis effekten skal være $9425 \mathrm{~W}$ med samme vindhastighet?
->
 >c) Hva gir størst økning i effekt: en dobling av rotorarealet $A$ eller en dobling av vindhastigheten $v$? Gjør utregninger og begrunn svaret ditt.
 
 ## Fasit
@@ -387,11 +405,15 @@ c) Dobling av $v$ gir størst økning (faktor 8 mot faktor 2)
 
 ## Løsningsforslag
 
-a) Vi setter inn de oppgitte verdiene i formelen:
+### a
+
+Vi setter inn de oppgitte verdiene i formelen:
 
    $$P = \frac{v^3 \cdot A \cdot \rho \cdot \eta}{2} = \frac{10^3 \cdot 20 \cdot 1{,}3 \cdot 0{,}5}{2} = \frac{130\,000}{2} = \underline{\underline{6500 \, \mathrm{W}}}$$
 
-b) Vi løser for $A$ når $P = 9425 \, \mathrm{W}$:
+### b
+
+Vi løser for $A$ når $P = 9425 \, \mathrm{W}$:
 
    $$
    \begin{aligned}
@@ -401,7 +423,9 @@ b) Vi løser for $A$ når $P = 9425 \, \mathrm{W}$:
    \end{aligned}
    $$
 
-c) Vi beregner effekten ved dobling av $A$ og ved dobling av $v$:
+### c
+
+Vi beregner effekten ved dobling av $A$ og ved dobling av $v$:
 
    **Dobling av $A$** (fra 20 til 40 m²):
 
@@ -469,11 +493,15 @@ c) $AC \approx 884 \, \mathrm{mm}$
 
 ## Løsningsforslag
 
-a) Vi bruker formelen $A = l \cdot b$:
+### a
+
+Vi bruker formelen $A = l \cdot b$:
 
    $$A = 1956 \cdot 992 = 1\,940\,352 \, \mathrm{mm}^2 = \underline{\underline{1{,}94 \, \mathrm{m}^2}}$$
 
-b) Vi finner antall paneler og kostnad for hvert alternativ:
+### b
+
+Vi finner antall paneler og kostnad for hvert alternativ:
 
    **Alternativ 1** (200 W per panel): Trenger $\lceil 3500 / 200 \rceil = 18$ paneler.
    Kostnad: $18 \cdot 1500 = 27\,000 \, \mathrm{kr}$
@@ -483,7 +511,9 @@ b) Vi finner antall paneler og kostnad for hvert alternativ:
 
    **Alternativ 2 gir lavest totalkostnad med $\underline{\underline{25\,000 \, \mathrm{kr}}}$.**
 
-c) Fra tegningen ser vi at panelet (992 mm langt) er hypotenusen i en rettvinklet trekant, med vinkel 63° ved $B$. $AC$ er den loddrette høyden bak panelet.
+### c
+
+Fra tegningen ser vi at panelet (992 mm langt) er hypotenusen i en rettvinklet trekant, med vinkel 63° ved $B$. $AC$ er den loddrette høyden bak panelet.
 
    $$AC = 992 \cdot \sin(63°) \approx 992 \cdot 0{,}891 \approx \underline{\underline{884 \, \mathrm{mm}}}$$
 
@@ -510,13 +540,15 @@ Strømforbruk måles i kilowattimer (kWh).
 
 ![Regneark som viser Ludvigs dusjregnskap](/img/user/_resources/ludvigs-dusj.png){width=40%}
 
-a) Lag et regneark som vist ovenfor. Lag formler i de grønne cellene slik at utregningene blir riktige. Husk å ta med formlene i besvarelsen din.
+> [!oppgave]
+> a) Lag et regneark som vist ovenfor. Lag formler i de grønne cellene slik at utregningene blir riktige. Husk å ta med formlene i besvarelsen din.
 
 I celle B11 skriver Ludvig `=B3 * B5/60`
 
-b) Hvilket tall får Ludvig som svar i celle B11?
-
-   Foreslå en tekst han kan skrive i celle A11, som forklarer hva tallet i celle B11 betyr.
+> [!oppgave]
+> b) Hvilket tall får Ludvig som svar i celle B11?
+>
+>    Foreslå en tekst han kan skrive i celle A11, som forklarer hva tallet i celle B11 betyr.
 
 I 2023 har Ludvig blitt sammen med Ines. Hun er opptatt av både miljø og sparing. Ines gir Ludvig noen sparetips:
 
@@ -526,7 +558,8 @@ I 2023 har Ludvig blitt sammen med Ines. Hun er opptatt av både miljø og spari
 
 Regn med samme strømpris for 2023 som for 2022.
 
-c) Hvor mange kroner kan Ludvig spare i 2023 hvis han følger alle rådene fra Ines?
+> [!oppgave]
+> c) Hvor mange kroner kan Ludvig spare i 2023 hvis han følger alle rådene fra Ines?
 
 ## Fasit
 
@@ -539,7 +572,9 @@ c) Sparing $\approx 3725 \, \mathrm{kr}$
 > [!note] Excel-oppgave
 > Denne oppgaven er ment å løses i et regneark. Her vises fremgangsmåten og formlene.
 
-a) Regnearket for 2022 fylles inn slik:
+### a
+
+Regnearket for 2022 fylles inn slik:
 
    | Celle | Tekst | Formel / verdi |
    |:-----:|-------|---------------|
@@ -555,7 +590,9 @@ a) Regnearket for 2022 fylles inn slik:
    - B9 = $8{,}4 \cdot 365 = 3066$ kWh per år
    - B10 = $3066 \cdot 1{,}50 = 4599$ kr per år
 
-b) Formelen `=B3*B5/60` gir:
+### b
+
+Formelen `=B3*B5/60` gir:
 
    $$15 \cdot 365 \div 60 = \underline{\underline{91{,}25}}$$
 
@@ -563,7 +600,9 @@ b) Formelen `=B3*B5/60` gir:
 
    Det tilsvarer at Ludvig bruker $91{,}25$ timer i dusjen i løpet av ett år.
 
-c) Med alle rådene fra Ines:
+### c
+
+Med alle rådene fra Ines:
 
    - Nytt dusjhode: 8 liter/minutt (var 16)
    - Kortere dusjing: 10 minutter (var 15)

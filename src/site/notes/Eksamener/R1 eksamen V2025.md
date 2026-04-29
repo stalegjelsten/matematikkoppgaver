@@ -112,7 +112,6 @@ Løs likningene
 >Bestem grenseverdiene
 >
 >a) $\lim_{x\to 3} \dfrac{3(x^2-3)}{x-3}$
->
 >b) $\lim_{x\to 4} \dfrac{\sqrt{x}-2}{x-4}$
 
 ## Fasit
@@ -141,6 +140,7 @@ $$
 $$
 
 **Grenseverdien eksisterer ikke siden grenseverdiene fra venstre og høyre side ikke stemmer overens.**
+
 
 </div></div>
 

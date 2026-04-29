@@ -630,7 +630,6 @@ Tabellen nedenfor viser elektrisk spenning målt i en stikkontakt i Norge.
 
 >[!oppgave]
 >a) Bestem en modell $U$ for spenningen $U(t)$ volt (V) i stikkontakten $t$ sekunder etter at målingene startet.
->
 >b) På hvilke tidspunkter i løpet av de første $0{,}0200$ sekundene er spenningen 230 V ifølge modellen?
 
 Nettspenningen i Norge (den elektriske spenningen i vanlige stikkontakter) er 230 V.

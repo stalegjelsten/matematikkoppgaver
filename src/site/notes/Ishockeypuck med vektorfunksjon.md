@@ -27,9 +27,7 @@ En annen hockeyspiller var i posisjonen $P(-18, 11)$ da pucken ble sendt av går
 ## Fasit
 
 a) $\underline{\underline{|\vec{r}'(0)| = 2\sqrt{89} \approx 18{,}87 \, \mathrm{m/s}}}$
-
 b) **Pucken treffer lang-vanten etter ca. $3{,}05$ sekunder.**
-
 c) **Spilleren ble ikke truffet av pucken** — pucken beveger seg langs linjen $5x = 8y$, og selv om spillerens bane krysser denne linjen, er spilleren og pucken ikke i samme punkt på samme tidspunkt.
 
 ## Løsningsforslag

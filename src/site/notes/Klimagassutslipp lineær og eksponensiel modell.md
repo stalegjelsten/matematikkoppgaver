@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["modellering","lineær vekst","eksponentialfunksjoner"],"fag":["2p-y"],"eksamen":"h23","del":2,"oppgave":8,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":8}],"title":"Klimagassutslipp lineær og eksponensiel modell","status":3,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"dg-permalink":"/klimagassutslipp-lineaer-og-eksponensiel-modell/","permalink":"/klimagassutslipp-lineaer-og-eksponensiel-modell/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["modellering","lineær vekst","eksponentialfunksjoner"],"fag":["2p-y"],"eksamen":"h23","del":2,"oppgave":8,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":8}],"title":"Klimagassutslipp lineær og eksponensiel modell","status":3,"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"]}}
+{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"dg-publish":true,"temaer":["modellering","lineær vekst","eksponentialfunksjoner","vekstfaktor","prosentvis endring"],"fag":["2p-y"],"eksamen":"h23","del":2,"oppgave":8,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":8}],"title":"Klimagassutslipp lineær og eksponensiel modell","status":3,"kategori":3,"vanskegrad":2,"beskrivelse":"Lineær og eksponentiell modell for klimautslipp fra to datapunkter; vurdere realisme mot 2050-målet på 90–95 % reduksjon.","deloppgaver":[{"deloppgave":"a","kategori":2,"beskrivelse":"Finne fast reduksjon $d$ og vekstfaktor $k=(23{,}085/48{,}9)^{1/8}$ fra endepunktet i 2030."},{"deloppgave":"b","beskrivelse":"Beregne begge modellene i $x=28$ og vurdere dem mot målintervallet 2,57–5,13 millioner tonn."}],"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"],"dg-permalink":"/klimagassutslipp-lineaer-og-eksponensiel-modell/","permalink":"/klimagassutslipp-lineaer-og-eksponensiel-modell/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2026-03-15","modified":"2026-03-15","aliases":[],"temaer":["modellering","lineær vekst","eksponentialfunksjoner","vekstfaktor","prosentvis endring"],"fag":["2p-y"],"eksamen":"h23","del":2,"oppgave":8,"oppgavenummer":[{"fag":"2p-y","del":2,"oppgave":8}],"title":"Klimagassutslipp lineær og eksponensiel modell","status":3,"kategori":3,"vanskegrad":2,"beskrivelse":"Lineær og eksponentiell modell for klimautslipp fra to datapunkter; vurdere realisme mot 2050-målet på 90–95 % reduksjon.","deloppgaver":[{"deloppgave":"a","kategori":2,"beskrivelse":"Finne fast reduksjon $d$ og vekstfaktor $k=(23{,}085/48{,}9)^{1/8}$ fra endepunktet i 2030."},{"deloppgave":"b","beskrivelse":"Beregne begge modellene i $x=28$ og vurdere dem mot målintervallet 2,57–5,13 millioner tonn."}],"source":null,"todo":null,"disabled rules":["format-tags-in-yaml","format-yaml-array","insert-yaml-attributes","move-tags-to-yaml","remove-yaml-keys","yaml-key-sort","file-name-heading","yaml-title","emphasis-style"]}}
 ---
 
 
@@ -30,7 +30,7 @@ b) Lineær modell gir negativt utslipp i 2050 (urealistisk). Eksponentiell model
 
 ## Løsningsforslag
 
-### 2-8a
+### a
 
 Norske myndigheter ønsker at klimagassutslippet skal reduseres med 55 % fra 1990-nivå innen 2030. Det betyr at målet for 2030 er:
 
@@ -80,7 +80,7 @@ $$
 
 Det betyr at utslippet må reduseres med omtrent $1 - 0{,}9104 \approx 8{,}96 \,\%$ per år.
 
-### 2-8b
+### b
 
 Vi bruker modellene til å beregne utslippet i 2050 ($x = 28$):
 

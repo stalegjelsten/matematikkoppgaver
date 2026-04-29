@@ -19,11 +19,8 @@ der $F(x)$ gram er vekten til en fisk som er $x$ centimeter lang.
 
 >[!oppgave]
 >a) Bruk opplysningene i tabellen til å bestemme tallene $a$ og $b$. Tegn grafen til $F$.
->
 >b) Bestem stigningstallet til den rette linjen som går gjennom punktene $(75,\ F(75))$ og $(95,\ F(95))$. Gi en praktisk tolkning av svaret.
->
 >c) Bestem den momentane vekstfarten når $x = 100$. Gi en praktisk tolkning av svaret.
->
 >d) Hvor mange prosent vil vekten av en fisk øke med dersom lengden øker med $20\ \%$ ifølge modellen?
 
 ## Fasit

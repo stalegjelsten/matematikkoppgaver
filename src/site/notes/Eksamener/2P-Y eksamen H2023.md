@@ -352,7 +352,6 @@ Nedenfor ser du de 11 fotballspillerne skåret flest mål i Eliteserien 2022.
 
 >[!oppgave]
 > a) Bestem typetallet, variasjonsbredden og medianen for antall mål.
->
 > b) Bestem gjennomsnittet og standardavviket for antall mål.
 
 For de 11 fotballspillerne som skåret flest mål i sesongen 2021, var medianen 11, gjennomsnittet 14,5 og standardavviket 6,7.
@@ -599,7 +598,6 @@ En bedrift vil redusere utslippet av et forurenset stoff med 5 % hvert år framo
 
 >[!oppgave]
 >a) Vis at det samlede utslippet i år og de to neste årene vil være på 114,1 tonn.
->
 >b) Lag et program du kan bruke for å bestemme det samlede utslippet for denne bedriften over svært lang tid.
 
 Tenk deg at en annen bedrift har et utslipp som er lavere eller høyere enn 40 tonn i år. Denne bedriften vil også redusere utslippet med 5 % hvert år framover.

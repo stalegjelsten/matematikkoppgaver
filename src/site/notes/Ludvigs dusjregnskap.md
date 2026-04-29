@@ -13,13 +13,15 @@ Strømforbruk måles i kilowattimer (kWh).
 
 ![Regneark som viser Ludvigs dusjregnskap](/img/user/_resources/ludvigs-dusj.png){width=40%}
 
-a) Lag et regneark som vist ovenfor. Lag formler i de grønne cellene slik at utregningene blir riktige. Husk å ta med formlene i besvarelsen din.
+> [!oppgave]
+> a) Lag et regneark som vist ovenfor. Lag formler i de grønne cellene slik at utregningene blir riktige. Husk å ta med formlene i besvarelsen din.
 
 I celle B11 skriver Ludvig `=B3 * B5/60`
 
-b) Hvilket tall får Ludvig som svar i celle B11?
-
-   Foreslå en tekst han kan skrive i celle A11, som forklarer hva tallet i celle B11 betyr.
+> [!oppgave]
+> b) Hvilket tall får Ludvig som svar i celle B11?
+>
+>    Foreslå en tekst han kan skrive i celle A11, som forklarer hva tallet i celle B11 betyr.
 
 I 2023 har Ludvig blitt sammen med Ines. Hun er opptatt av både miljø og sparing. Ines gir Ludvig noen sparetips:
 
@@ -29,7 +31,8 @@ I 2023 har Ludvig blitt sammen med Ines. Hun er opptatt av både miljø og spari
 
 Regn med samme strømpris for 2023 som for 2022.
 
-c) Hvor mange kroner kan Ludvig spare i 2023 hvis han følger alle rådene fra Ines?
+> [!oppgave]
+> c) Hvor mange kroner kan Ludvig spare i 2023 hvis han følger alle rådene fra Ines?
 
 ## Fasit
 
@@ -42,7 +45,9 @@ c) Sparing $\approx 3725 \, \mathrm{kr}$
 > [!note] Excel-oppgave
 > Denne oppgaven er ment å løses i et regneark. Her vises fremgangsmåten og formlene.
 
-a) Regnearket for 2022 fylles inn slik:
+### a
+
+Regnearket for 2022 fylles inn slik:
 
    | Celle | Tekst | Formel / verdi |
    |:-----:|-------|---------------|
@@ -58,7 +63,9 @@ a) Regnearket for 2022 fylles inn slik:
    - B9 = $8{,}4 \cdot 365 = 3066$ kWh per år
    - B10 = $3066 \cdot 1{,}50 = 4599$ kr per år
 
-b) Formelen `=B3*B5/60` gir:
+### b
+
+Formelen `=B3*B5/60` gir:
 
    $$15 \cdot 365 \div 60 = \underline{\underline{91{,}25}}$$
 
@@ -66,7 +73,9 @@ b) Formelen `=B3*B5/60` gir:
 
    Det tilsvarer at Ludvig bruker $91{,}25$ timer i dusjen i løpet av ett år.
 
-c) Med alle rådene fra Ines:
+### c
+
+Med alle rådene fra Ines:
 
    - Nytt dusjhode: 8 liter/minutt (var 16)
    - Kortere dusjing: 10 minutter (var 15)

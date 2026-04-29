@@ -24,7 +24,6 @@ Lise regner med at hun i gjennomsnitt kommer til å fylle opp 4 GB av minnet hve
 >Gjør beregninger og vurderinger som kan hjelpe Lise med å svare på:
 >
 >a) Hvor mange måneder kan hun ha telefonen med 128 GB minne før minnet er fullt?
->
 >b) Hvis hun skal ha den nye mobilen i 40 måneder, lønner det seg å kjøpe en iPhone med nok internt minne, eller er det billigere å kjøpe en mindre modell og leie eksternt minne i iCloud+?
 
 ## Fasit
@@ -34,7 +33,7 @@ b) 128 GB + iCloud+ (8 mnd) koster $11\,386 \, \mathrm{kr}$, som er $1\,304 \, \
 
 ## Løsningsforslag
 
-### 1-5a
+### a
 
 Lise fyller opp 4 GB per måned. Med 128 GB intern lagring:
 
@@ -44,7 +43,7 @@ $$
 
 **Etter $\underline{\underline{32 \, \text{måneder}}}$ er minnet fullt på 128 GB-modellen.**
 
-### 1-5b
+### b
 
 Vi beregner totalkostnaden for 40 måneder for begge alternativene.
 

@@ -13,7 +13,6 @@ Tenk deg at Maria fortsetter å dele opp trekanten og fargelegge etter samme mø
 
 >[!oppgave]
 >a) Sett opp en algoritme Maria kan bruke for å finne summen av arealene av de 100 første trekantene som vil bli grå.
->
 >b) Ta utgangspunkt i algoritmen og lag et program som regner ut summen av arealene dersom arealet av den likesidede trekanten hun starter med er 36.
 
 ## Fasit

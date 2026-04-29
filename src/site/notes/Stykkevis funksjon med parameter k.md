@@ -19,9 +19,7 @@ der $k \in \mathbb{R}$.
 ## Fasit
 
 a) $f$ er kontinuerlig for alle $k \in \mathbb{R}$.
-
 b) $\underline{\underline{k = 0}}$
-
 c) $\underline{\underline{k \in [-2,\, 2]}}$
 
 ## Løsningsforslag

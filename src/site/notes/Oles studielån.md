@@ -1,5 +1,5 @@
 ---
-{"tags":["oppgave"],"date":"2024-12-14","modified":"2024-12-14","aliases":null,"dg-publish":true,"temaer":["lån","annuitetslån","rekker","cas"],"fag":["s2"],"eksamen":"h24","del":2,"oppgave":"5","oppgavenummer":[{"fag":"s2","del":2,"oppgave":5}],"title":"Oles studielån","source":null,"todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Studielån som annuitetslån: terminbeløp over 30 år, rentesats for 25 år, og nedbetalingstid med 5 % økende terminbeløp etter 12 år.","deloppgaver":[{"deloppgave":"a","beskrivelse":"Løse $\\sum_{i=1}^{30} T/1{,}05242^i = 799\\,273$ i CAS for $T=53\\,437$ kr."},{"deloppgave":"b","beskrivelse":"Løse samme likning med $n=25$ og ukjent vekstfaktor; rente 4,416 %."},{"deloppgave":"c","kategori":3,"vanskegrad":3,"beskrivelse":"Sammensatt rekke med fast betaling 12 år + 5 % vekst etter; løse for antall terminer."}],"dg-permalink":"/oles-studielan/","permalink":"/oles-studielan/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-12-14","modified":"2024-12-14","aliases":null,"temaer":["lån","annuitetslån","rekker","cas"],"fag":["s2"],"eksamen":"h24","del":2,"oppgave":"5","oppgavenummer":[{"fag":"s2","del":2,"oppgave":5}],"title":"Oles studielån","source":null,"todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Studielån som annuitetslån: terminbeløp over 30 år, rentesats for 25 år, og nedbetalingstid med 5 % økende terminbeløp etter 12 år.","deloppgaver":[{"deloppgave":"a","beskrivelse":"Løse $\\sum_{i=1}^{30} T/1{,}05242^i = 799\\,273$ i CAS for $T=53\\,437$ kr."},{"deloppgave":"b","beskrivelse":"Løse samme likning med $n=25$ og ukjent vekstfaktor; rente 4,416 %."},{"deloppgave":"c","kategori":3,"vanskegrad":3,"beskrivelse":"Sammensatt rekke med fast betaling 12 år + 5 % vekst etter; løse for antall terminer."}]}}
+{"tags":["oppgave"],"date":"2024-12-14","modified":"2024-12-14","aliases":null,"dg-publish":true,"temaer":["lån","annuitetslån","rekker","cas"],"fag":["s2"],"eksamen":"h24","del":2,"oppgave":"5","poeng":6,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":5}],"title":"Oles studielån","source":null,"todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Studielån som annuitetslån: terminbeløp over 30 år, rentesats for 25 år, og nedbetalingstid med 5 % økende terminbeløp etter 12 år.","deloppgaver":[{"deloppgave":"a","beskrivelse":"Løse $\\sum_{i=1}^{30} T/1{,}05242^i = 799\\,273$ i CAS for $T=53\\,437$ kr."},{"deloppgave":"b","beskrivelse":"Løse samme likning med $n=25$ og ukjent vekstfaktor; rente 4,416 %."},{"deloppgave":"c","kategori":3,"vanskegrad":3,"beskrivelse":"Sammensatt rekke med fast betaling 12 år + 5 % vekst etter; løse for antall terminer."}],"dg-permalink":"/oles-studielan/","permalink":"/oles-studielan/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["oppgave"],"date":"2024-12-14","modified":"2024-12-14","aliases":null,"temaer":["lån","annuitetslån","rekker","cas"],"fag":["s2"],"eksamen":"h24","del":2,"oppgave":"5","poeng":6,"oppgavenummer":[{"fag":"s2","del":2,"oppgave":5}],"title":"Oles studielån","source":null,"todo":null,"status":3,"kategori":2,"vanskegrad":2,"beskrivelse":"Studielån som annuitetslån: terminbeløp over 30 år, rentesats for 25 år, og nedbetalingstid med 5 % økende terminbeløp etter 12 år.","deloppgaver":[{"deloppgave":"a","beskrivelse":"Løse $\\sum_{i=1}^{30} T/1{,}05242^i = 799\\,273$ i CAS for $T=53\\,437$ kr."},{"deloppgave":"b","beskrivelse":"Løse samme likning med $n=25$ og ukjent vekstfaktor; rente 4,416 %."},{"deloppgave":"c","kategori":3,"vanskegrad":3,"beskrivelse":"Sammensatt rekke med fast betaling 12 år + 5 % vekst etter; løse for antall terminer."}]}}
 ---
 
 
@@ -34,9 +34,17 @@ c) 24 år
 
 ![Løsning av oppgave 5 del 2 i CAS](/img/user/_resources/s2-h24-2-5-cas.png){width=80%}
 
-a) Summen av nåverdiene til terminbeløpene skal være lik lånebeløpet ved annuitetslån. Terminbeløpet er ukjent, og dette ble funnet i linje 1 i GeoGebra. **Lånebeløpet er 53 437 kr.**
-b) Summen av nåverdiene til terminbeløpene skal være lik lånebeløpet ved annuitetslån. Vekstfaktoren er ukjent, og denne ble funnet i linje 2 i GeoGebra. **Rentesatsen må være 4,416 %.**
-c) Summen av nåverdiene til terminbeløpene skal være lik lånebeløpet ved annuitetslån. De 12 første årene bruker vi vanlig formel, de $b$ neste årene så vil terminbeløpet øke med 5 % per år. Antall ledd i rekka er ukjent, og dette ble bestemt i linje 3 i GeoGebra. **Det tar 24 år før lånet er nedbetalt.**
+### a
+
+Summen av nåverdiene til terminbeløpene skal være lik lånebeløpet ved annuitetslån. Terminbeløpet er ukjent, og dette ble funnet i linje 1 i GeoGebra. **Lånebeløpet er 53 437 kr.**
+
+### b
+
+Summen av nåverdiene til terminbeløpene skal være lik lånebeløpet ved annuitetslån. Vekstfaktoren er ukjent, og denne ble funnet i linje 2 i GeoGebra. **Rentesatsen må være 4,416 %.**
+
+### c
+
+Summen av nåverdiene til terminbeløpene skal være lik lånebeløpet ved annuitetslån. De 12 første årene bruker vi vanlig formel, de $b$ neste årene så vil terminbeløpet øke med 5 % per år. Antall ledd i rekka er ukjent, og dette ble bestemt i linje 3 i GeoGebra. **Det tar 24 år før lånet er nedbetalt.**
 
 ### 2-5 med Excel
 Vi kan løse hele denne oppgaven med Excel og målsøking. Se utklippet av regnearket

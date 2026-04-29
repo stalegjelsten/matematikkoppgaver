@@ -89,6 +89,24 @@ I 2024 var indeksen for en vare 120. Varen kostet da 400 kroner. I 2022 var inde
 
 ## Fasit
 
+**$\underline{\underline{300 \, \mathrm{kr}}}$**
+
+## Løsningsforslag
+
+Indeksen viser prisen i forhold til et basisår. Siden vi kjenner prisen i 2024, kan vi finne prisen i 2022 ved å bruke forholdet mellom indeksene:
+
+$$\frac{\text{pris}_{2022}}{\text{pris}_{2024}} = \frac{\text{indeks}_{2022}}{\text{indeks}_{2024}}$$
+
+Vi setter inn de kjente verdiene:
+
+$$\text{pris}_{2022} = \text{pris}_{2024} \cdot \frac{\text{indeks}_{2022}}{\text{indeks}_{2024}} = 400 \cdot \frac{90}{120}$$
+
+Vi forenkler brøken $\dfrac{90}{120} = \dfrac{3}{4}$, og regner ut:
+
+$$\text{pris}_{2022} = 400 \cdot \frac{3}{4} = \frac{400 \cdot 3}{4} = \frac{1200}{4} = 300$$
+
+**Varen kostet $\underline{\underline{300 \, \mathrm{kr}}}$ i 2022.**
+
 </div></div>
 
 
@@ -109,6 +127,22 @@ Eiffeltårnet i Paris er 330 meter høyt. Ellen har kjøpt en modell av Eiffelt�
 >Hvor høy er modellen?
 
 ## Fasit
+
+**Modellen er $\underline{\underline{30 \, \mathrm{cm}}}$ høy.**
+
+## Løsningsforslag
+
+Målestokk $1 : 1100$ betyr at én centimeter på modellen svarer til $1100$ centimeter (altså $11$ meter) i virkeligheten.
+
+Vi regner om tårnets høyde til centimeter:
+
+$$330 \, \mathrm{m} = 33\,000 \, \mathrm{cm}$$
+
+For å finne modellhøyden deler vi på målestokktallet:
+
+$$\frac{33\,000}{1100} = 30 \, \mathrm{cm}$$
+
+**Modellen er $\underline{\underline{30 \, \mathrm{cm}}}$ høy.**
 
 </div></div>
 
@@ -235,6 +269,30 @@ Regine har tegnet en rettvinklet trekant. Den ene kateten er 6 cm, og den andre 
 
 ## Fasit
 
+Arealet av sirkelen er $\underline{\underline{25\pi \approx 78{,}5 \, \mathrm{cm^2}}}$, som er **større** enn $75 \, \mathrm{cm^2}$.
+
+## Løsningsforslag
+
+Vi starter med å finne hypotenusen i trekanten ved hjelp av Pythagoras' setning.
+
+De to katetene er $6 \, \mathrm{cm}$ og $8 \, \mathrm{cm}$.
+
+$$c^2 = 6^2 + 8^2 = 36 + 64 = 100$$
+
+$$c = \sqrt{100} = 10 \, \mathrm{cm}$$
+
+Hypotenusen er altså $10 \, \mathrm{cm}$.
+
+Siden hypotenusen er en diameter i sirkelen, er diameteren $10 \, \mathrm{cm}$, og dermed er radiusen
+
+$$r = \frac{10}{2} = 5 \, \mathrm{cm}$$
+
+Arealet av en sirkel er $A = \pi r^2$, så
+
+$$A = \pi \cdot 5^2 = 25\pi \approx 78{,}5 \, \mathrm{cm^2}$$
+
+Siden $78{,}5 \, \mathrm{cm^2} > 75 \, \mathrm{cm^2}$, er arealet av sirkelen **større** enn $75 \, \mathrm{cm^2}$.
+
 </div></div>
 
 
@@ -259,6 +317,48 @@ Magnus kjøper et sukkerspinn og en softis. Han betaler 70 kroner.
 >Hvor mye koster et sukkerspinn, hvor mye koster en bøtte med popkorn, og hvor mye koster en softis?
 
 ## Fasit
+
+Sukkerspinn koster $\underline{\underline{40 \, \mathrm{kr}}}$, popkorn koster $\underline{\underline{50 \, \mathrm{kr}}}$, softis koster $\underline{\underline{30 \, \mathrm{kr}}}$.
+
+## Løsningsforslag
+
+La $s$ være prisen på et sukkerspinn, $p$ prisen på en bøtte popkorn og $o$ prisen på en softis.
+
+Vi setter opp tre likninger basert på informasjonen i oppgaven:
+
+$$s + p = 90 \quad (1)$$
+
+$$p + o = 80 \quad (2)$$
+
+$$s + o = 70 \quad (3)$$
+
+Vi legger sammen alle tre likningene:
+
+$$s + p + p + o + s + o = 90 + 80 + 70$$
+
+$$2s + 2p + 2o = 240$$
+
+$$s + p + o = 120$$
+
+Nå bruker vi dette til å finne hver pris. Fra likning (1) vet vi at $s + p = 90$, så:
+
+$$o = 120 - 90 = 30$$
+
+Fra likning (2) vet vi at $p + o = 80$, så:
+
+$$s = 120 - 80 = 40$$
+
+Fra likning (3) vet vi at $s + o = 70$, så:
+
+$$p = 120 - 70 = 50$$
+
+Vi sjekker at svarene stemmer:
+
+- Eva: $40 + 50 = 90 \, \mathrm{kr}$ ✓
+- Trine: $50 + 30 = 80 \, \mathrm{kr}$ ✓
+- Magnus: $40 + 30 = 70 \, \mathrm{kr}$ ✓
+
+**Et sukkerspinn koster $\underline{\underline{40 \, \mathrm{kr}}}$, en bøtte popkorn koster $\underline{\underline{50 \, \mathrm{kr}}}$ og en softis koster $\underline{\underline{30 \, \mathrm{kr}}}$.**
 
 </div></div>
 
@@ -286,6 +386,59 @@ Kaja tar opp et serielån på 400 000 kroner.
 >c) Hvor mange kroner måtte Kaja ha betalt i renter i tredje termin dersom lånets nedbetalingstid hadde vært 5 år, med én termin per år?
 
 ## Fasit
+
+a) **Avdraget er $\underline{\underline{50\ 000 \, \mathrm{kr}}}$ per termin.**
+b) **Terminbeløp 1: $\underline{\underline{70\ 000 \, \mathrm{kr}}}$, terminbeløp 2: $\underline{\underline{67\ 500 \, \mathrm{kr}}}$**
+c) **Rentene i 3. termin hadde vært $\underline{\underline{12\ 000 \, \mathrm{kr}}}$**
+
+## Løsningsforslag
+
+### a
+
+I et serielån er avdraget det samme i alle terminer. Vi fordeler lånet likt på alle terminer:
+
+$$\text{Avdrag} = \frac{400\ 000}{8} = \underline{\underline{50\ 000 \, \mathrm{kr}}}$$
+
+**Avdraget er 50 000 kr per termin.**
+
+### b
+
+Terminbeløpet er summen av avdrag og renter. Rentene regnes av restgjelden (det som gjenstår av lånet) ved starten av terminen.
+
+**Termin 1:**
+
+Restgjelden i starten er 400 000 kr.
+
+$$\text{Renter}_1 = 400\ 000 \cdot 0{,}05 = 20\ 000 \, \mathrm{kr}$$
+
+$$\text{Terminbeløp}_1 = 50\ 000 + 20\ 000 = \underline{\underline{70\ 000 \, \mathrm{kr}}}$$
+
+**Termin 2:**
+
+Etter første termin er restgjelden redusert med ett avdrag:
+
+$$\text{Restgjeld} = 400\ 000 - 50\ 000 = 350\ 000 \, \mathrm{kr}$$
+
+$$\text{Renter}_2 = 350\ 000 \cdot 0{,}05 = 17\ 500 \, \mathrm{kr}$$
+
+$$\text{Terminbeløp}_2 = 50\ 000 + 17\ 500 = \underline{\underline{67\ 500 \, \mathrm{kr}}}$$
+
+### c
+
+Dersom nedbetalingstiden hadde vært 5 år, ville avdraget blitt:
+
+$$\text{Avdrag} = \frac{400\ 000}{5} = 80\ 000 \, \mathrm{kr}$$
+
+Etter to terminer ville restgjelden vært:
+
+$$\text{Restgjeld} = 400\ 000 - 2 \cdot 80\ 000 = 400\ 000 - 160\ 000 = 240\ 000 \, \mathrm{kr}$$
+
+Rentene i tredje termin hadde da blitt:
+
+$$\text{Renter}_3 = 240\ 000 \cdot 0{,}05 = \underline{\underline{12\ 000 \, \mathrm{kr}}}$$
+
+**Kaja hadde måttet betale 12 000 kr i renter i tredje termin.**
+
 
 </div></div>
 
@@ -330,6 +483,31 @@ Resultat:
 >Hva forteller verdiene som skrives ut når programmet kjøres?
 
 ## Fasit
+
+Programmet simulerer at Johann tar ut $120\,000 \, \mathrm{kr}$ per år fra kontoen, med $5{,}6\,\%$ rente. Etter $\mathbf{22}$ år har han tatt ut siste gang og da er det ca. $\mathbf{11\,184} \, \mathrm{kr}$ igjen på kontoen.
+
+## Løsningsforslag
+
+Programmet simulerer Johann sin spareplan steg for steg. Vi leser av variablene:
+
+- `konto = 1500000` — Johann starter med $1\,500\,000 \, \mathrm{kr}$ på konto
+- `uttak = 120000` — han tar ut $120\,000 \, \mathrm{kr}$ hvert år
+- `vf = 1.056` — kontoen har $5{,}6\,\%$ rente per år (vekstfaktor $1{,}056$)
+
+Hver runde i løkken beregner ny kontosaldo etter ett år:
+
+$$\text{konto} = \text{konto} \cdot 1{,}056 - 120\,000$$
+
+Det vil si: kontoen vokser med rente, og deretter tas det ut $120\,000 \, \mathrm{kr}$.
+
+Løkken kjører så lenge `konto >= 120000`, altså så lenge det er nok penger til å ta ut $120\,000 \, \mathrm{kr}$.
+
+**Hva forteller de to verdiene som skrives ut?**
+
+- `22` — Johann kan ta ut $120\,000 \, \mathrm{kr}$ i **22 år** før pengene er nesten oppbrukt
+- `11183.70...` — Etter det 22. uttaket er det ca. $11\,184 \, \mathrm{kr}$ igjen på kontoen
+
+**Svarsetning:** Programmet viser at Johann kan ta ut $120\,000 \, \mathrm{kr}$ per år i $\underline{\underline{22 \text{ år}}}$. Etter det 22. uttaket har han ca. $\underline{\underline{11\,184 \, \mathrm{kr}}}$ igjen på kontoen.
 
 </div></div>
 
@@ -825,6 +1003,46 @@ Når de kommer til hytta, ligger grusen de har bestilt, i en kjegleformet haug p
 >b) Gjør beregninger og avgjør om de har fått levert nok grus.
 
 ## Fasit
+
+a) $\underline{\underline{V_{\text{sti}} = 1{,}125 \, \mathrm{m}^3}}$
+b) Kjeglen har volum $\approx 1{,}64 \, \mathrm{m}^3 > 1{,}125 \, \mathrm{m}^3$, så de har fått levert **nok grus**.
+
+## Løsningsforslag
+
+### a
+
+Vi bruker formelen for volum av et rektangulært prisme (rettvinket firkantet søyle):
+
+$$V = \text{lengde} \cdot \text{bredde} \cdot \text{høyde}$$
+
+Stien er 25 m lang, 60 cm = $0{,}60 \, \mathrm{m}$ bred, og gruset skal være 75 mm = $0{,}075 \, \mathrm{m}$ tykt.
+
+$$V_{\text{sti}} = 25 \, \mathrm{m} \cdot 0{,}60 \, \mathrm{m} \cdot 0{,}075 \, \mathrm{m} = \mathbf{\underline{\underline{1{,}125 \, \mathrm{m}^3}}}$$
+
+De må bestille **$\underline{\underline{1{,}125 \, \mathrm{m}^3}}$ grus**.
+
+### b
+
+Grusen er levert som en kjegleformet haug. Vi beregner volumet av kjeglen og sammenligner med behovet fra oppgave a.
+
+Kjeglen har diameter $d = 2{,}5 \, \mathrm{m}$, altså radius $r = 1{,}25 \, \mathrm{m}$, og høyde $h = 1{,}0 \, \mathrm{m}$.
+
+![Tverrsnitt av kjegleformet grushaug (r = 1,25 m, h = 1,0 m)](/img/user/_resources/2p-h25-2-6.png){width=60%}
+
+Formelen for volumet av en kjegle er:
+
+$$V_{\text{kjegle}} = \frac{1}{3} \cdot \pi \cdot r^2 \cdot h$$
+
+Vi setter inn verdiene:
+
+$$V_{\text{kjegle}} = \frac{1}{3} \cdot \pi \cdot (1{,}25)^2 \cdot 1{,}0 \approx 1{,}64 \, \mathrm{m}^3$$
+
+Vi sammenligner:
+
+$$V_{\text{kjegle}} \approx 1{,}64 \, \mathrm{m}^3 > 1{,}125 \, \mathrm{m}^3 = V_{\text{sti}}$$
+
+Kjeglen inneholder mer grus enn det som trengs til stien, så **de har fått levert nok grus**.
+
 
 </div></div>
 

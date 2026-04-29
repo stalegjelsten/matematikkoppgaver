@@ -44,7 +44,7 @@ b) Nei – $V = h^3/3$, ikke proporsjonalt
 
 ## Løsningsforslag
 
-### 1-4a
+### a
 
 Grunnflaten er et kvadrat med side $s$, og høyden er $h = s$.
 
@@ -58,7 +58,7 @@ Siden høyden er lik sidekanten, er $h = s = 3$.
 
 **Pyramiden er $\underline{\underline{3 \, \mathrm{dm}}}$ høy.**
 
-### 1-4b
+### b
 
 For at høyde og volum skal være proporsjonale, må forholdet $V/h$ være konstant.
 

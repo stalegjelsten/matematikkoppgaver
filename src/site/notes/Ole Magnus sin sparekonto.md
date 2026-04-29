@@ -7,15 +7,18 @@
 
 Da Ole Magnus ble født, ønsket foreldrene å åpne en sparekonto for ham med en fast årlig rente på 2,5 %. De ønsket at det skulle være 100 000 kroner på kontoen når han fylte 18 år.  
 
-a) Hvor stort engangsbeløp måtte foreldrene sette inn på kontoen dersom det skulle vokse til 100 000 kroner i løpet av de 18 årene?
+> [!oppgave]
+> a) Hvor stort engangsbeløp måtte foreldrene sette inn på kontoen dersom det skulle vokse til 100 000 kroner i løpet av de 18 årene?
 
 Foreldrene vurderte i stedet å sette inn 18 like store årlige beløp, første gang da Ole Magnus ble født.  
 
-b) Bruk CAS til å bestemme hvor stort dette årlige beløpet måtte være.  
+> [!oppgave]
+> b) Bruk CAS til å bestemme hvor stort dette årlige beløpet måtte være.  
 
 Foreldrene vurderte også en spareplan med 18 årlige innskudd, der beløpet som ble satt inn, økte med 2,0 % hvert år.  
 
-c) Bruk CAS til å bestemme hvor stort det første beløpet måtte være.
+> [!oppgave]
+> c) Bruk CAS til å bestemme hvor stort det første beløpet måtte være.
 
 >[!tip] Bruk Excel (selv om oppgaven spør etter CAS)
 >Etter at læreplan LK20 ble innført for S2 i 2022 så får du som oftest lov til å velge framgangsmåte selv. b) og c) i denne oppgaven passer fint til å løses i Excel også.
@@ -28,7 +31,7 @@ c) 3712,01 kr
 
 ## Løsningsforslag
 
-### 2-4a
+### a
 For å finne ut hvor stort engangsbeløp foreldrene må betale så kan jeg sette opp en likning. Jeg lar $x$ kr være engangsbeløpet, vekstfaktoren til 2,5 % rente er 1,025 og vi skal la pengene stå på konto i 18 år.
 
 $$
@@ -40,7 +43,7 @@ $$
 
 **Foreldrene må sette inn 64 116,16 kr for når Ole Magnus blir født, for at beløpet skal være 100 000 kr når han blir 18 år med 2,5 % årlig rente.**
 
-### 2-4b
+### b
 
 #### Løsning med CAS
 Jeg tenker på dette som en rekke med 18 ledd (18 innbetalinger). Den første innbetalingen skjer når Ole Magnus er 0 år. Hvis vi lar $x$ kr være det årlige beløpet så vil den første innbetalingen ha forrentet seg til
@@ -75,7 +78,7 @@ For å finne riktig årlig beløp brukte jeg *Målsøking*-funksjonen, og ba Exc
 
 ![Løsning i Excel](/img/user/_resources/s2-v16-2-4.png){width=100%}
 
-### 2-4c
+### c
 
 #### Løsning i CAS
 Jeg lar $x$ kr være det første beløpet som settes inn. Jeg ser at det vil forrentes til $x\cdot 1{,}025^{18}$. Det andre beløpet vil kun få 17 år med renter, men det vil samtidig være 2 % større enn det første beløpet. Jeg kan skrive det andre og tredje beløpet som

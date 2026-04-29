@@ -24,10 +24,8 @@ Bedriften ønsker å gjennomføre en kampanje hvor de en uke donerer 30 kroner p
 
 ## Fasit
 
-a) Største inntekt: $\underline{\underline{I \approx 21\,944 \, \mathrm{kr/uke}}}$ ved $x = 261$ T-skjorter.
-
+a) Største inntekt: $\underline{\underline{I \approx 21\,945 \, \mathrm{kr/uke}}}$ ved $x = 261$ T-skjorter.
 b) Største overskudd: $\underline{\underline{O \approx 8\,193 \, \mathrm{kr/uke}}}$ ved $x = 219$ T-skjorter.
-
 c) Bedriften kan selge maks $\underline{\underline{251 \text{ T-skjorter}}}$ uten å gå med underskudd.
 
 ## Løsningsforslag
@@ -54,7 +52,7 @@ Vi sjekker at dette er et maksimum: $I''(x) = -0{,}006x + 0{,}4$, og $I''(261) =
 
 GeoGebra CAS (linje 8): $I(261) \approx 21\,945 \, \mathrm{kr}$.
 
-**Den største mulige inntekten er $\underline{\underline{I \approx 21\,944 \, \mathrm{kr/uke}}}$ ved produksjon og salg av 261 T-skjorter.**
+**Den største mulige inntekten er $\underline{\underline{I \approx 21\,945 \, \mathrm{kr/uke}}}$ ved produksjon og salg av 261 T-skjorter.**
 
 ### b
 

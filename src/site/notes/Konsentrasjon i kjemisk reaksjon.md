@@ -22,9 +22,7 @@ Tabellen nedenfor viser konsentrasjonen, i millimol per liter (mmol/L), av et st
 ## Fasit
 
 a) Regresjon på de forskjøvede verdiene $(t,\, c(t)-2{,}5)$ gir $a \approx -2{,}5$ og $b \approx 0{,}99$, som bekrefter modellen $f(t) = 2{,}5 - 2{,}5 \cdot 0{,}99^t$.
-
 b) $\underline{\underline{t \approx 160 \text{~sekunder}}}$
-
 c) $\underline{\underline{t \approx 321 \text{~sekunder}}}$
 
 ## Løsningsforslag

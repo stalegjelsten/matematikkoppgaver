@@ -23,10 +23,10 @@ Table: {.eksamen-oversikt}
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Risforbruk på standardform](https://matematikkoppgaver.vercel.app/risforbruk-pa-standardform/) | standardform, store tall, multiplikasjon | ✔︎ |
 | [2-2](#oppgave-2-2) | [Kaffekoppers gjennomsnitt med ukjent](https://matematikkoppgaver.vercel.app/kaffekoppers-gjennomsnitt-med-ukjent/) | statistikk, gjennomsnitt | ✔︎ |
-| [2-3](#oppgave-2-3) | [Prisvekst og prisfall sammenligning](https://matematikkoppgaver.vercel.app/prisvekst-og-prisfall-sammenligning/) | prosentregning, vekstfaktor, geometrisk vekst | × |
+| [2-3](#oppgave-2-3) | [Prisvekst og prisfall sammenligning](https://matematikkoppgaver.vercel.app/prisvekst-og-prisfall-sammenligning/) | prosentregning, vekstfaktor, geometrisk vekst, argumentasjon | × |
 | [2-4](#oppgave-2-4) | [Sykkelhjelm og datapresentasjon](https://matematikkoppgaver.vercel.app/sykkelhjelm-og-datapresentasjon/) | statistikk, prosentregning, diagrammer, presentasjon av data | × |
-| [2-5](#oppgave-2-5) | [Lønnsnivå og sentralmål](https://matematikkoppgaver.vercel.app/lonnsniva-og-sentralmal/) | statistikk, gjennomsnitt, median, sentralmål, grupperte data | × |
-| [2-6](#oppgave-2-6) | [Eksponentialfunksjon for tomflasker](https://matematikkoppgaver.vercel.app/eksponentialfunksjon-for-tomflasker/) | eksponentialfunksjoner, geogebra, programmering, eksponentiell vekst | × |
+| [2-5](#oppgave-2-5) | [Lønnsnivå og sentralmål](https://matematikkoppgaver.vercel.app/lonnsniva-og-sentralmal/) | statistikk, gjennomsnitt, median, sentralmål, grupperte data, argumentasjon | × |
+| [2-6](#oppgave-2-6) | [Eksponentialfunksjon for tomflasker](https://matematikkoppgaver.vercel.app/eksponentialfunksjon-for-tomflasker/) | eksponentialfunksjoner, geogebra, programmering, eksponentiell vekst, modellering | × |
 | [2-7](#oppgave-2-7) | [Grønnsaksporsjoner og potensfunksjon](https://matematikkoppgaver.vercel.app/gronnsaksporsjoner-og-potensfunksjon/) | modellering, potensfunksjon, stigningstall, derivasjon, tolkning | ✔︎ |
 
 # Del 1

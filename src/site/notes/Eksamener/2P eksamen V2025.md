@@ -84,8 +84,9 @@ Trine og Truls står i kø for å ta en skiheis. De teller hvor mange personer s
 
 $$6\qquad 3\qquad 2\qquad 4\qquad 4\qquad 6\qquad 2\qquad 7\qquad 8\qquad 8$$
 
-a) Bestem medianen og gjennomsnittet.
-b) Bestem den kumulative frekvensen for $6$ personer, og gi en praktisk tolkning av svaret.
+> [!oppgave]
+> a) Bestem medianen og gjennomsnittet.
+> b) Bestem den kumulative frekvensen for $6$ personer, og gi en praktisk tolkning av svaret.
 
 ## Fasit
 
@@ -134,6 +135,36 @@ Lotta har kjøpt fire små og to store sekker med hundemat. Sekkene veier til sa
 
 ## Fasit
 
+Liten sekk: $\underline{\underline{5 \, \mathrm{kg}}}$, stor sekk: $\underline{\underline{12 \, \mathrm{kg}}}$
+
+## Løsningsforslag
+
+La $x$ være vekten til en liten sekk (i kg) og $y$ vekten til en stor sekk (i kg).
+
+Vi setter opp to likninger ut fra opplysningene i oppgaven:
+
+$$4x + 2y = 44$$
+
+$$y = x + 7$$
+
+Vi setter uttrykket for $y$ inn i den første likningen:
+
+$$4x + 2(x + 7) = 44$$
+
+$$4x + 2x + 14 = 44$$
+
+$$6x = 44 - 14$$
+
+$$6x = 30$$
+
+$$x = 5$$
+
+Vi finner $y$:
+
+$$y = 5 + 7 = 12$$
+
+**En liten sekk veier $\underline{\underline{5 \, \mathrm{kg}}}$ og en stor sekk veier $\underline{\underline{12 \, \mathrm{kg}}}$.**
+
 </div></div>
 
 
@@ -160,6 +191,56 @@ Et område har form som en halvsirkel med radius $r = 1{,}0 \mathrm{~m}$. Et ann
 
 ## Fasit
 
+- Halvsirkelen har størst areal: $\underline{\underline{A_\text{halvsirkel} \approx 1{,}57 \, \mathrm{m}^2}}$
+- Trekanten har størst omkrets: $\underline{\underline{O_\text{trekant} \approx 6{,}61 \, \mathrm{m}}}$
+
+## Løsningsforslag
+
+**Areal av halvsirkelen**
+
+Arealet av en hel sirkel er $\pi r^2$. En halvsirkel er halvparten av en hel sirkel:
+
+$$A_\text{halvsirkel} = \frac{1}{2} \cdot \pi \cdot r^2 = \frac{1}{2} \cdot \pi \cdot (1{,}0)^2 \approx 1{,}57 \, \mathrm{m}^2$$
+
+**Areal av trekanten**
+
+Trekanten har grunnlinje $AB = 3{,}0 \, \mathrm{m}$ og høyde $h = 1{,}0 \, \mathrm{m}$:
+
+$$A_\text{trekant} = \frac{1}{2} \cdot g \cdot h = \frac{1}{2} \cdot 3{,}0 \cdot 1{,}0 = 1{,}5 \, \mathrm{m}^2$$
+
+**Sammenligning areal:**
+
+$$1{,}57 \, \mathrm{m}^2 > 1{,}5 \, \mathrm{m}^2$$
+
+**Halvsirkelen har størst areal.**
+
+---
+
+**Omkrets av halvsirkelen**
+
+Omkretsen består av den rette kanten (diameteren) og den buede kanten (halvsirkelbuen):
+
+- Diameter: $2r = 2 \cdot 1{,}0 = 2{,}0 \, \mathrm{m}$
+- Halvsirkelbue: $\pi r = \pi \cdot 1{,}0 \approx 3{,}14 \, \mathrm{m}$
+
+$$O_\text{halvsirkel} = 2r + \pi r = 2{,}0 + 3{,}14 \approx 5{,}14 \, \mathrm{m}$$
+
+**Omkrets av trekanten**
+
+Trekanten er likebeint med $AB = 3{,}0 \, \mathrm{m}$ og høyde $h = 1{,}0 \, \mathrm{m}$. Høyden deler grunnlinjen i to like deler, slik at hver halvdel er $\frac{3{,}0}{2} = 1{,}5 \, \mathrm{m}$.
+
+Vi finner lengden av sidekantene $AC$ og $BC$ med Pytagoras:
+
+$$AC = \sqrt{1{,}5^2 + 1{,}0^2} = \sqrt{2{,}25 + 1{,}00} = \sqrt{3{,}25} \approx 1{,}80 \, \mathrm{m}$$
+
+$$O_\text{trekant} = AB + AC + BC = 3{,}0 + 1{,}80 + 1{,}80 = 6{,}60 \, \mathrm{m}$$
+
+**Sammenligning omkrets:**
+
+$$6{,}60 \, \mathrm{m} > 5{,}14 \, \mathrm{m}$$
+
+**Trekanten har størst omkrets.**
+
 </div></div>
 
 
@@ -183,6 +264,34 @@ Marco har tatt opp et lån med fast årlig rente. Lånet skal betales tilbake i 
 >b) Er dette et annuitetslån eller et serielån? Husk å begrunne svaret.
 
 ## Fasit
+
+a) **Marco har tatt opp $\underline{\underline{100\,000 \, \mathrm{kr}}}$**
+b) **Dette er et $\underline{\underline{\text{serielån}}}$**
+
+## Løsningsforslag
+
+### a
+
+Fra figuren leser vi av at avdraget er **10 000 kr** i hver av de 10 terminene.
+
+Lånebeløpet er summen av alle avdragene:
+
+$$10\,000 \, \mathrm{kr} \cdot 10 = \underline{\underline{100\,000 \, \mathrm{kr}}}$$
+
+**Marco har tatt opp et lån på $100\,000 \, \mathrm{kr}$.**
+
+### b
+
+Fra figuren ser vi at avdraget er **likt i alle terminer** — det er $10\,000 \, \mathrm{kr}$ per termin hele veien.
+
+Rentedelen derimot **avtar** for hvert år. Det er fordi restgjelden blir mindre og mindre, og da beregnes rentene av et stadig lavere beløp.
+
+Et lån med **like store avdrag** og avtagende renter kalles et **serielån**.
+
+Et annuitetslån har derimot like store totale terminbeløp (avdrag + renter er det samme hver termin), og det ser vi ikke her.
+
+**Begrunnelse: Avdragene er konstant $10\,000 \, \mathrm{kr}$ per termin, så dette er et serielån.**
+
 
 </div></div>
 
@@ -473,6 +582,49 @@ Kari skal over en elv. Hun har laget skissen ovenfor. Avstanden fra $A$ til $D$ 
 
 ## Fasit
 
+a) $\triangle ABC$ og $\triangle ADE$ er formlike fordi de har felles vinkel i $A$ og begge har en rett vinkel (ved $B$ og $D$).
+b) $\underline{\underline{BD = 15 \, \mathrm{m}}}$
+
+## Løsningsforslag
+
+![Figur som viser de to formlike trekantene ADE (grønn) og ABC (blå)](/img/user/_resources/2p-v25-2-3.png){width=70%}
+
+### a
+
+Vi skal forklare at $\triangle ABC$ og $\triangle ADE$ er formlike.
+
+To trekanter er formlike hvis de har to par like vinkler (da er den tredje vinkelen automatisk lik også).
+
+- Begge trekantene har en **felles vinkel i $A$** — samme vinkel inngår i begge trekantene.
+- Begge trekantene har en **rett vinkel**: $\angle ABС = 90°$ (ved $B$) og $\angle ADE = 90°$ (ved $D$), siden $BC$ og $DE$ er loddrette linjer i skissen (Kari har målt avstanden rett over elven).
+
+Siden to vinkler er like i begge trekantene, er $\triangle ABC \sim \triangle ADE$.
+
+### b
+
+Vi bruker at formlike trekanter har like forholdstall mellom tilsvarende sider.
+
+De tilsvarende sidene er:
+- $AD$ svarer til $AB$
+- $DE$ svarer til $BC$
+
+$$\frac{AD}{AB} = \frac{DE}{BC}$$
+
+Vi setter inn kjente verdier ($AD = 5 \, \mathrm{m}$, $DE = 10 \, \mathrm{m}$, $BC = 40 \, \mathrm{m}$):
+
+$$\frac{5}{AB} = \frac{10}{40}$$
+
+$$\frac{5}{AB} = \frac{1}{4}$$
+
+$$AB = 5 \cdot 4 = 20 \, \mathrm{m}$$
+
+Siden $AB = AD + DB$, finner vi:
+
+$$DB = AB - AD = 20 - 5 = \underline{\underline{15 \, \mathrm{m}}}$$
+
+**Avstanden fra $B$ til $D$ er $15 \, \mathrm{m}$.**
+
+
 </div></div>
 
 
@@ -566,6 +718,65 @@ I oktober 2024 fikk Felix varsel fra huseieren om at leien igjen skulle settes o
 >c) Gjør antakelser og beregninger, og finn ut hvor mye Felix må regne med å betale i husleie per måned fra og med oktober 2026.
 
 ## Fasit
+
+a) Huseieren hadde **ikke** lov til å sette opp leien til $9000$ kr — maksimalt tillatt var $\underline{\underline{8720{,}44 \, \mathrm{kr}}}$.
+b) Se regneark/tabell i løsningsforslaget.
+c) Med gjennomsnittlig KPI-vekst som antakelse: $\underline{\underline{\approx 9559 \, \mathrm{kr/mnd}}}$ fra oktober 2026.
+
+## Løsningsforslag
+
+Tabellen nedenfor er laget i regneark (openpyxl) og viser alle beregningene samlet:
+
+![Regneark: KPI-regulert husleie](/img/user/_resources/2p-v25-2-5.png)
+
+### a
+
+Vi skal sjekke om en husleieøkning fra $8500 \, \mathrm{kr}$ til $9000 \, \mathrm{kr}$ er lovlig i oktober 2024.
+
+Husleieloven sier at økningen ikke kan overstige endringen i KPI. Vi regner ut prosentvis KPI-endring fra oktober 2023 til oktober 2024:
+
+$$\text{KPI-endring} = \frac{134{,}5 - 131{,}1}{131{,}1} \cdot 100 \approx 2{,}59 \,\%$$
+
+Maksimalt tillatt husleie i oktober 2024 blir da:
+
+$$8500 \cdot \left(1 + \frac{2{,}59}{100}\right) \approx 8500 \cdot 1{,}0259 \approx 8720{,}44 \, \mathrm{kr}$$
+
+Siden $9000 \, \mathrm{kr} > 8720{,}44 \, \mathrm{kr}$, hadde huseieren **ikke** lov til å sette opp leien til $9000 \, \mathrm{kr}$.
+
+**Huseieren kan maksimalt sette husleien til $\underline{\underline{8720{,}44 \, \mathrm{kr}}}$ i oktober 2024.**
+
+### b
+
+Vi regner ut prosentvis endring i KPI for hvert år:
+
+$$\text{Endring} = \frac{\text{KPI dette år} - \text{KPI forrige år}}{\text{KPI forrige år}} \cdot 100$$
+
+| Periode | KPI forrige år | KPI dette år | Prosentvis endring |
+| :-----: | :------------: | :----------: | :----------------: |
+| okt 2021 → okt 2022 | $117{,}2$ | $126{,}0$ | $\approx 7{,}51 \,\%$ |
+| okt 2022 → okt 2023 | $126{,}0$ | $131{,}1$ | $\approx 4{,}05 \,\%$ |
+| okt 2023 → okt 2024 | $131{,}1$ | $134{,}5$ | $\approx 2{,}59 \,\%$ |
+
+Utregning for 2021–2022: $\dfrac{126{,}0 - 117{,}2}{117{,}2} \cdot 100 \approx 7{,}51 \,\%$
+
+### c
+
+Vi vet ikke fremtidig KPI, så vi må gjøre en **antakelse**. Vi bruker gjennomsnittlig årlig KPI-vekst fra 2021 til 2024 som grunnlag.
+
+Total vekst fra 2021 til 2024 (3 år):
+
+$$\left(\frac{134{,}5}{117{,}2}\right)^{1/3} - 1 \approx 1{,}0470 - 1 = 0{,}0470 \approx 4{,}70 \,\%\text{ per år}$$
+
+Vi tar utgangspunkt i maks tillatt husleie i oktober 2024 ($8720{,}44 \, \mathrm{kr}$):
+
+| Tidspunkt | Beregning | Husleie |
+| :-------: | :-------: | :-----: |
+| Oktober 2024 | maks tillatt | $8720{,}44 \, \mathrm{kr}$ |
+| Oktober 2025 | $8720{,}44 \cdot 1{,}0470$ | $\approx 9130 \, \mathrm{kr}$ |
+| Oktober 2026 | $9130 \cdot 1{,}0470$ | $\approx 9559 \, \mathrm{kr}$ |
+
+**Med gjennomsnittlig KPI-vekst som antakelse må Felix regne med å betale omtrent $\underline{\underline{9559 \, \mathrm{kr/mnd}}}$ fra oktober 2026.**
+
 
 </div></div>
 

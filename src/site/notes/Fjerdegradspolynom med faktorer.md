@@ -19,7 +19,6 @@ Du får oppgitt at $(x + 1)$, $(x - 1)$ og $(x - 2)$ er faktorer i $Q(x)$.
 >$$a + b + c = 11$$
 >
 >$$8a + 4b + 2c = -4$$
->
 >b) Bestem $a$, $b$ og $c$.
 
 ## Fasit

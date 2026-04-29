@@ -260,7 +260,6 @@ Lise regner med at hun i gjennomsnitt kommer til å fylle opp 4 GB av minnet hve
 >Gjør beregninger og vurderinger som kan hjelpe Lise med å svare på:
 >
 >a) Hvor mange måneder kan hun ha telefonen med 128 GB minne før minnet er fullt?
->
 >b) Hvis hun skal ha den nye mobilen i 40 måneder, lønner det seg å kjøpe en iPhone med nok internt minne, eller er det billigere å kjøpe en mindre modell og leie eksternt minne i iCloud+?
 
 ## Fasit
