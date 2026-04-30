@@ -29,7 +29,7 @@ Malin vurderer om hun skal binde pengene i 3 måneder eller i 1 år.
 
 ## Fasit
 
-a) 0,25 prosentpoeng, 4,76 % høyere
+a) 0,25 prosentpoeng, 4,85 % høyere
 b) 24 300 kr
 
 ## Løsningsforslag
@@ -41,9 +41,9 @@ $$
 $$
 For å bestemme forskjellen i prosent så sammenligner jeg differansen med renten for 3 måneder
 $$
-\frac{5{,}4 \,\% - 5{,}15 \,\%}{5{,}15 \,\%}=\frac{0{,}25 \,\%}{5{,}15 \,\%}=0{,}0476=4{,}76 \,\%
+\frac{5{,}4 \,\% - 5{,}15 \,\%}{5{,}15 \,\%}=\frac{0{,}25 \,\%}{5{,}15 \,\%}=0{,}0485=4{,}85 \,\%
 $$
-**Hvis hun binder pengene i ett år er renten 0,25 prosentpoeng og 4,76 % høyere enn hvis hun binder pengene i 3 måneder.**
+**Hvis hun binder pengene i ett år er renten 0,25 prosentpoeng og 4,85 % høyere enn hvis hun binder pengene i 3 måneder.**
 
 ### b
 Jeg finner rentene ved å gange sparebeløpet med rentesatsen

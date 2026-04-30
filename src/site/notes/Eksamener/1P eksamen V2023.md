@@ -11,9 +11,9 @@ Table: {.eksamen-oversikt}
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [1-1](#oppgave-1-1) | [Prosentvis prisforskjell sjokolade](https://matematikkoppgaver.vercel.app/prosentvis-prisforskjell-sjokolade/) | prosentregning, prosentvis endring, argumentasjon | ✔︎ |
-| [1-2](#oppgave-1-2) | [[Antall maur på jorden\|Antall maur på jorden]] | standardform, tallregning, store tall | × |
-| [1-3](#oppgave-1-3) | [[Finn eksempler på proporsjonale størrelser\|Finn eksempler på proporsjonale størrelser]] | proporsjonalitet, omvendt proporsjonalitet, grafisk framstilling | × |
-| [1-4](#oppgave-1-4) | [[Lineær modell for Klaras høyde\|Lineær modell for Klaras høyde]] | modellering, lineær vekst, funksjoner | × |
+| [1-2](#oppgave-1-2) | [Antall maur på jorden](https://matematikkoppgaver.vercel.app/antall-maur-pa-jorden/) | standardform, tallregning, store tall | × |
+| [1-3](#oppgave-1-3) | [Finn eksempler på proporsjonale størrelser](https://matematikkoppgaver.vercel.app/finn-eksempler-pa-proporsjonale-storrelser/) | proporsjonalitet, omvendt proporsjonalitet, grafisk framstilling | × |
+| [1-4](#oppgave-1-4) | [Lineær modell for Klaras høyde](https://matematikkoppgaver.vercel.app/lineaer-modell-for-klaras-hoyde/) | modellering, lineær vekst, funksjoner | × |
 
 **Del 2** — 4 timer — med hjelpemidler
 
@@ -22,11 +22,11 @@ Table: {.eksamen-oversikt}
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
 | [2-1](#oppgave-2-1) | [Gjennomsnittstemperatur på Svalbard](https://matematikkoppgaver.vercel.app/gjennomsnittstemperatur-pa-svalbard/) | geogebra, gjennomsnittlig vekstfart | ✔︎ |
-| [2-2](#oppgave-2-2) | [[Aurora går til postkontoret\|Aurora går til postkontoret]] | tolke grafer, grafisk framstilling, funksjoner | × |
+| [2-2](#oppgave-2-2) | [Aurora går til postkontoret](https://matematikkoppgaver.vercel.app/aurora-gar-til-postkontoret/) | tolke grafer, grafisk framstilling, funksjoner | × |
 | [2-3](#oppgave-2-3) | [Bredden av teltplassen](https://matematikkoppgaver.vercel.app/bredden-av-teltplassen/) | excel, utforskning, optimering, funksjoner | ✔︎ |
-| [2-4](#oppgave-2-4) | [[Potetsekker i koordinatsystem\|Potetsekker i koordinatsystem]] | tolke grafer, proporsjonalitet, presentasjon av data | × |
-| [2-5](#oppgave-2-5) | [[Non Stop K-mønster og programmering\|Non Stop K-mønster og programmering]] | mønstre, figurtall, programmering | × |
-| [2-6](#oppgave-2-6) | [[Eksponentiell modell for salg av energidrikker\|Eksponentiell modell for salg av energidrikker]] | regresjon, eksponentiell vekst, prosentvis vekst | × |
+| [2-4](#oppgave-2-4) | [Potetsekker i koordinatsystem](https://matematikkoppgaver.vercel.app/potetsekker-i-koordinatsystem/) | tolke grafer, proporsjonalitet, presentasjon av data | × |
+| [2-5](#oppgave-2-5) | [Non Stop K-mønster og programmering](https://matematikkoppgaver.vercel.app/non-stop-k-monster-og-programmering/) | mønstre, figurtall, programmering | × |
+| [2-6](#oppgave-2-6) | [Eksponentiell modell for salg av energidrikker](https://matematikkoppgaver.vercel.app/eksponentiell-modell-for-salg-av-energidrikker/) | regresjon, eksponentiell vekst, prosentvis vekst | × |
 
 # Del 1
 

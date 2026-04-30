@@ -536,6 +536,9 @@ Modellverdiene er av samme størrelsesorden som de observerte verdiene i alle m�
 
 ### b
 
+> [!warning] Usikkert løsningsforslag
+> Dette løsningsforslaget er skrevet av KI og matematikk.net har en annen løsning. Vi får stigningstall $\approx 71{,}84$ ved å bruke den oppgitte modellen $K(x) = 27{,}8 \cdot 1{,}2^x$, mens matematikk.net gjør en lineær regresjon på tabelldataene og får $70{,}2$. Oppgaven ber eksplisitt om punktene $(4, K(4))$ og $(21, K(21))$, så vi mener vårt svar er det riktige. Se [matematikk.net sitt løsningsforslag](https://matematikk.net/side/1T_2025_v%C3%A5r_LK20_L%C3%98SNING) og vurder selv.
+
 Vi beregner stigningstallet til linjen gjennom $(4, K(4))$ og $(21, K(21))$:
 
 $$\frac{K(21) - K(4)}{21 - 4} = \frac{1278{,}94 - 57{,}65}{17} \approx \underline{\underline{71{,}84}}$$
@@ -543,6 +546,9 @@ $$\frac{K(21) - K(4)}{21 - 4} = \frac{1278{,}94 - 57{,}65}{17} \approx \underlin
 **Praktisk tolkning:** I gjennomsnitt økte antallet registrerte kikhoste-tilfeller med ca. $\textbf{72}$ tilfeller per måned i perioden fra mai 2023 ($x = 4$) til september 2024 ($x = 21$).
 
 ### c
+
+> [!warning] Usikkert løsningsforslag
+> Dette løsningsforslaget er skrevet av KI og matematikk.net har en annen løsning. Vi får $K(29) \approx 5499$ ved å bruke den oppgitte modellen, mens matematikk.net får $5336$ basert på sin lineære regresjonsmodell. Vi mener vårt svar er det riktige siden oppgaven ber om å bruke $K(x) = 27{,}8 \cdot 1{,}2^x$. Se [matematikk.net sitt løsningsforslag](https://matematikk.net/side/1T_2025_v%C3%A5r_LK20_L%C3%98SNING) og vurder selv.
 
 Mai 2025 er 29 måneder etter desember 2022, altså $x = 29$.
 
@@ -741,15 +747,15 @@ Vi må holde styr på hvor mange kvadrater vi har brukt med en `totalsum`, også
 
 ```python
 totalsum = 0
-n = 1
+n = 0
 
 while totalsum <= 1_000_000:
-	kvadrat = n ** 2
-	høyre_side = n
-	nede_venstre = n + 1
-	n = n + 1
-	figur = kvadrat + høyre_side + nede_venstre
-	totalsum = totalsum + figur   # Legger til den siste figuren
+    n = n + 1
+    kvadrat = n ** 2
+    høyre_side = n
+    nede_venstre = n + 1
+    figur = kvadrat + høyre_side + nede_venstre
+    totalsum = totalsum + figur   # Legger til den siste figuren
 
 # While-løkka har kjørt en gang for mye og 
 # har brukt opp flere brikker enn vi har.
@@ -760,9 +766,9 @@ brikker_til_overs = 1_000_000 - brikker_brukt_før_siste
 print(f"Etter figur {n-1} har du {brikker_til_overs} brikker til overs.")
 ```
 
-Output: `Etter figur 143 har du 15017 brikker til overs.`
+Output: `Etter figur 142 har du 15017 brikker til overs.`
 
-**Du kan lage 143 figurer. Da har du 15 017 brikker til overs.**
+**Du kan lage 142 figurer. Da har du 15 017 brikker til overs.**
 
 
 </div></div>

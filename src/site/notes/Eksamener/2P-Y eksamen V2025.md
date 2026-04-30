@@ -555,15 +555,19 @@ Omtrent hvor mange kronestykker vil du trenge? Skriv svaret på standardform.
 
 ## Fasit
 
-Ca. $4{,}86\cdot10^5$ kronestykker.
+Ca. $4{,}85\cdot10^5$ kronestykker.
 
 ## Løsningsforslag
+
+
+> [!warning] Feil tall i utregningen
+> Jeg skrev inn 827 som høyden til Burj Khalifa da jeg regnet i CAS. Høyden skal være 825 m slik det står i oppgaveteksten. Svaret blir derfor også bittelitt feil. CAS gir meg svaret $4{,}86 \cdot 10 ^{5}$, men det egentlige svaret er $4{,}85 \cdot 10^{5}$.
 
 ![Kronestykker på høyde med Burj Khalifa](/img/user/_resources/2py-v25-2-2.png){width=50%}
 
 Se utklippet over. 
 
-**Du vil trenge omtrent $\underline{\underline{4{,}86 \cdot 10 ^{5}}}$ kronestykker.**
+**Du vil trenge omtrent $\underline{\underline{4{,}85 \cdot 10 ^{5}}}$ kronestykker.**
 
 
 </div></div>

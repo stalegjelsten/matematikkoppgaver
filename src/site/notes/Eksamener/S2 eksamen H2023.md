@@ -360,7 +360,7 @@ Vi trekker tilfeldig en kule og legger den tilbake igjen. Dette gjør vi to gang
 
 ## Fasit
 
-a) $\mu=6, \sigma=5{,}5$
+a) $E(X)=6$ kg, $\text{Var}(X)=5{,}5$
 b) Se LF
 c) $\frac{7}{16}$
 
@@ -468,7 +468,7 @@ $$
 a) $e(p)=495\cdot 0{,}927^{p}$ 
 b) 25,8 kr
 c) Etterspørsel 238,75 $\approx$ 239 enheter. Pris ca. 12,2 kr.
-d) 80 kr
+d) 80 enheter
 
 ## Løsningsforslag
 
