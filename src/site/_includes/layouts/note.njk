@@ -68,6 +68,9 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% for imp in dynamics.notes.beforeContent %}
         {% include imp %}
       {% endfor %}
+      {% if tags and 'oppgave' in tags %}
+        {% include "components/oppgavelisteButton.njk" %}
+      {% endif %}
       <article>
       {% if '<h1' not in content or (contentClasses and "eksamen-side" in contentClasses) %}
         <h1>{{ title if title else page.fileSlug }}</h1>

@@ -159,6 +159,20 @@
   padding-top: 0 !important;
 }
 
+/* Mobil: nesten ingen sidemarg på brødtekst — bruk hele skjermbredden */
+@media (max-width: 800px) {
+  body.markdown-preview-view {
+    --file-margins: 4px;
+  }
+  .content {
+    padding-left: 0.4rem !important;
+    padding-right: 0.4rem !important;
+    max-width: 100% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+}
+
 /* Skjul tags i toppen av siden */
 .header-tags {
   display: none;
@@ -479,5 +493,435 @@ kbd {
 .two-column-left,
 .two-column-right {
   min-width: 0;
+}
+
+/* ===== Oppgaveliste ===== */
+
+/* FAB-knapp ned høyre, samme stil som de andre fullskjerm-FAB-ene */
+#oppgaveliste-fab-wrap {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  z-index: 600;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.oppgaveliste-fab {
+  position: relative;
+  background: var(--background-secondary);
+  color: var(--text-normal);
+  border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.18));
+
+  &:hover { filter: none; background: var(--background-modifier-hover, var(--background-primary-alt)); }
+
+  &.is-added {
+    background: var(--interactive-accent, #5e81ac);
+    color: var(--text-on-accent, #fff);
+    border-color: var(--interactive-accent, #5e81ac);
+  }
+
+  .oppgaveliste-fab-icon {
+    font-size: 1.25rem;
+    font-weight: 700;
+    line-height: 1;
+  }
+
+  .oppgaveliste-fab-count {
+    position: absolute;
+    top: -4px;
+    right: -4px;
+    min-width: 1.1rem;
+    height: 1.1rem;
+    padding: 0 0.3rem;
+    border-radius: 999px;
+    background: var(--text-accent, #5e81ac);
+    color: #fff;
+    font-size: 0.7rem;
+    font-weight: 700;
+    line-height: 1.1rem;
+    text-align: center;
+    font-variant-numeric: tabular-nums;
+    border: 2px solid var(--background-primary);
+    box-sizing: content-box;
+  }
+}
+
+/* Skjul FAB i presentasjonsmodus / fullskjerm */
+body.oppgave-fullskjerm #oppgaveliste-fab,
+body.oppgave-fullskjerm #oppgaveliste-fab-wrap {
+  display: none !important;
+}
+
+.oppgaveliste-link {
+  font-size: 0.9rem;
+  color: var(--text-accent);
+  text-decoration: none;
+
+  &:hover { text-decoration: underline; }
+}
+
+/* Sidemeny-lenke (filetree + navbar) */
+.oppgaveliste-menu-link {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  margin: 0.25rem 0.75rem 0.75rem;
+  padding: 0.5rem 0.75rem;
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.1));
+  border-radius: 6px;
+  color: var(--text-normal);
+  text-decoration: none;
+  font-size: 0.95rem;
+  transition: background-color 0.12s, border-color 0.12s;
+
+  &:hover {
+    background: var(--background-modifier-hover, var(--background-primary-alt));
+    border-color: var(--interactive-accent, #5e81ac);
+    text-decoration: none;
+  }
+
+  .oppgaveliste-menu-label {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+
+  .oppgaveliste-menu-count {
+    min-width: 1.5rem;
+    padding: 0.05rem 0.4rem;
+    border-radius: 999px;
+    background: var(--interactive-accent, #5e81ac);
+    color: var(--text-on-accent, #fff);
+    font-size: 0.8rem;
+    font-variant-numeric: tabular-nums;
+    text-align: center;
+
+    &[data-count="0"] { display: none; }
+  }
+}
+
+/* ===== Felles knappestiler ===== */
+
+.ol-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+  padding: 0.5rem 1rem;
+  min-height: 2.5rem;
+  border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.15));
+  background: var(--background-secondary);
+  color: var(--text-normal);
+  border-radius: 6px;
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.95rem;
+  line-height: 1.2;
+  text-decoration: none;
+  text-align: center;
+  white-space: nowrap;
+  box-sizing: border-box;
+  transition: background-color 0.12s;
+
+  &:hover { background: var(--background-modifier-hover, var(--background-primary-alt)); }
+
+  &.ol-btn-primary {
+    background: var(--interactive-accent, #5e81ac);
+    border-color: var(--interactive-accent, #5e81ac);
+    color: var(--text-on-accent, #fff);
+
+    &:hover { filter: brightness(1.08); }
+  }
+
+  &.ol-btn-danger:hover { color: #f06449; border-color: #f06449; }
+  &.ol-btn-ghost { background: transparent; }
+  &.is-copied { background: #4caf50; color: #fff; border-color: #4caf50; }
+  &:disabled { opacity: 0.4; cursor: not-allowed; }
+}
+
+/* ===== Oppgaveliste-side: editor ===== */
+
+.oppgaveliste-page {
+  /* Litt luft over sidetittelen */
+  > header > h1 {
+    margin-top: 1.5rem;
+  }
+
+  .oppgaveliste-app {
+    max-width: 760px;
+  }
+
+  .oppgaveliste-intro {
+    color: var(--text-muted, var(--text-normal));
+    margin-bottom: 1rem;
+  }
+
+  .oppgaveliste-empty {
+    padding: 2rem 1rem;
+    border: 1px dashed var(--background-modifier-border, rgba(255,255,255,0.18));
+    border-radius: 8px;
+    text-align: center;
+    color: var(--text-muted, var(--text-normal));
+  }
+
+  .oppgaveliste-list {
+    list-style: none;
+    margin: 0 0 1.25rem 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+  }
+
+  .oppgaveliste-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+    padding: 0.6rem 0.75rem;
+    background: var(--background-secondary);
+    border-radius: 6px;
+    border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08));
+  }
+
+  .oppgaveliste-item-info {
+    display: flex;
+    align-items: baseline;
+    gap: 0.6rem;
+    min-width: 0;
+    flex: 1;
+  }
+
+  .oppgaveliste-item-num {
+    color: var(--text-muted, var(--text-normal));
+    font-variant-numeric: tabular-nums;
+    flex-shrink: 0;
+  }
+
+  .oppgaveliste-item-title {
+    color: var(--text-normal);
+    text-decoration: none;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
+    &:hover { color: var(--text-accent); text-decoration: underline; }
+  }
+
+  .oppgaveliste-item-actions {
+    display: flex;
+    gap: 0.25rem;
+    flex-shrink: 0;
+  }
+
+  .ol-icon-btn {
+    width: 2rem;
+    height: 2rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid transparent;
+    background: transparent;
+    color: var(--text-muted, var(--text-normal));
+    border-radius: 4px;
+    cursor: pointer;
+    font: inherit;
+
+    &:hover:not(:disabled) {
+      background: var(--background-modifier-hover, var(--background-primary-alt));
+      color: var(--text-normal);
+    }
+
+    &:disabled {
+      opacity: 0.3;
+      cursor: not-allowed;
+    }
+
+    &.ol-icon-btn-danger:hover:not(:disabled) {
+      color: #f06449;
+    }
+  }
+
+  /* Tre like brede knapper i editor */
+  .oppgaveliste-actions {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+
+    @media (max-width: 540px) {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .oppgaveliste-share-url {
+    margin-top: 0.5rem;
+
+    summary {
+      cursor: pointer;
+      color: var(--text-muted, var(--text-normal));
+      font-size: 0.9rem;
+    }
+
+    input {
+      width: 100%;
+      margin-top: 0.5rem;
+      padding: 0.45rem 0.6rem;
+      background: var(--background-primary);
+      color: var(--text-normal);
+      border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.15));
+      border-radius: 4px;
+      font-family: monospace;
+      font-size: 0.85rem;
+    }
+  }
+}
+
+/* ===== Oppgaveliste-side: viewer ===== */
+
+.oppgaveliste-viewer-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  padding: 0.75rem;
+  margin-bottom: 1.25rem;
+  background-color: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.1));
+  border-radius: 8px;
+  position: sticky;
+  top: 0;
+  z-index: 50;
+}
+
+.oppgaveliste-mode-toggle {
+  display: inline-flex;
+  border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.15));
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.ol-mode-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 0.85rem;
+  min-height: 2.5rem;
+  border: 0;
+  background: transparent;
+  color: var(--text-normal);
+  font: inherit;
+  font-size: 0.9rem;
+  cursor: pointer;
+
+  &.is-active {
+    background: var(--interactive-accent, #5e81ac);
+    color: var(--text-on-accent, #fff);
+  }
+
+  &:hover:not(.is-active) {
+    background: var(--background-modifier-hover, var(--background-primary-alt));
+  }
+}
+
+.oppgaveliste-viewer-count {
+  color: var(--text-muted, var(--text-normal));
+  font-size: 0.9rem;
+}
+
+.oppgaveliste-oppgave {
+  margin-bottom: 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08));
+  /* Når slideshowet skroller til en oppgave, etterlater dette
+     plass over så den ikke blir gjemt bak sticky-toolbaren */
+  scroll-margin-top: 5rem;
+
+  &:last-child { border-bottom: 0; }
+
+  &.is-hidden { display: none; }
+}
+
+.oppgaveliste-oppgave-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px dashed var(--background-modifier-border, rgba(255,255,255,0.1));
+}
+
+.oppgaveliste-oppgave-num {
+  font-size: 0.85rem;
+  color: var(--text-muted, var(--text-normal));
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.oppgaveliste-oppgave-link {
+  font-size: 0.85rem;
+  color: var(--text-accent);
+  text-decoration: none;
+
+  &:hover { text-decoration: underline; }
+}
+
+.oppgaveliste-oppgave-error {
+  padding: 1rem;
+  border-left: 3px solid #f06449;
+  background: var(--background-secondary);
+  border-radius: 4px;
+}
+
+/* Slideshow-kontroller: ugjennomsiktig boks med høy z-index så
+   knappene aldri kommer bak teksten under */
+.oppgaveliste-slide-controls {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items: center;
+  gap: 0.75rem;
+  margin: 2rem 0 0;
+  padding: 0.75rem;
+  background-color: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.1));
+  border-radius: 8px;
+  position: sticky;
+  bottom: 1rem;
+  z-index: 100;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.35);
+
+  > .ol-btn { width: 100%; }
+}
+
+.oppgaveliste-slide-indicator {
+  font-variant-numeric: tabular-nums;
+  color: var(--text-muted, var(--text-normal));
+  min-width: 6em;
+  text-align: center;
+}
+
+.oppgaveliste-loading {
+  text-align: center;
+  padding: 2rem;
+  color: var(--text-muted, var(--text-normal));
+}
+
+@media print {
+  .oppgaveliste-viewer-toolbar,
+  .oppgaveliste-slide-controls,
+  .oppgaveliste-oppgave-link,
+  .oppgaveliste-button-container,
+  .oppgaveliste-menu-link {
+    display: none !important;
+  }
+  .oppgaveliste-oppgave.is-hidden {
+    display: block !important;
+  }
 }
 

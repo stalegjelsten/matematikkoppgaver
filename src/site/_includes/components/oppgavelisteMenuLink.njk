@@ -1,0 +1,28 @@
+<a href="/oppgaveliste/" class="oppgaveliste-menu-link" data-oppgaveliste-menu-link
+   title="Oppgaver du har lagt til for å dele med en elev">
+  <span class="oppgaveliste-menu-label">
+    <i data-lucide="list-checks"></i>
+    <span>Oppgaveliste</span>
+  </span>
+  <span class="oppgaveliste-menu-count" data-oppgaveliste-menu-count data-count="0">0</span>
+</a>
+<script>
+(function() {
+  const STORAGE_KEY = 'oppgaveliste';
+  function update() {
+    let count = 0;
+    try { count = (JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]') || []).length; } catch {}
+    document.querySelectorAll('[data-oppgaveliste-menu-count]').forEach(el => {
+      el.textContent = count;
+      el.setAttribute('data-count', String(count));
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', update);
+  } else {
+    update();
+  }
+  window.addEventListener('storage', (e) => { if (e.key === STORAGE_KEY) update(); });
+  window.addEventListener('oppgaveliste:changed', update);
+})();
+</script>

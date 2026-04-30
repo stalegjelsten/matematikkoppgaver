@@ -1,0 +1,91 @@
+<script>
+(function() {
+  const STORAGE_KEY = 'oppgaveliste';
+  const SLUG = {{ page.url | dump | safe }};
+  const TITLE = {{ (title if title else page.fileSlug) | dump | safe }};
+
+  function read() {
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]'); }
+    catch { return []; }
+  }
+  function write(list) {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(list));
+  }
+
+  function ensureFab() {
+    let fab = document.getElementById('oppgaveliste-fab');
+    if (fab) return fab;
+
+    fab = document.createElement('button');
+    fab.id = 'oppgaveliste-fab';
+    fab.type = 'button';
+    fab.className = 'fullskjerm-fab oppgaveliste-fab';
+    fab.innerHTML = `
+      <span class="oppgaveliste-fab-icon" aria-hidden="true"></span>
+      <span class="oppgaveliste-fab-count" data-oppgaveliste-fab-count></span>
+    `;
+
+    // Sett inn i #fullskjerm-knapper-stacken hvis den finnes,
+    // ellers eget fixed-container nede til høyre
+    const cluster = document.getElementById('fullskjerm-knapper');
+    if (cluster) {
+      cluster.insertBefore(fab, cluster.firstChild);
+    } else {
+      const wrap = document.createElement('div');
+      wrap.id = 'oppgaveliste-fab-wrap';
+      wrap.appendChild(fab);
+      document.body.appendChild(wrap);
+    }
+
+    return fab;
+  }
+
+  function init() {
+    const fab = ensureFab();
+    const iconEl = fab.querySelector('.oppgaveliste-fab-icon');
+    const countEl = fab.querySelector('[data-oppgaveliste-fab-count]');
+
+    function render() {
+      const list = read();
+      const inList = list.some(x => x.slug === SLUG);
+      const count = list.length;
+
+      fab.classList.toggle('is-added', inList);
+      fab.setAttribute('aria-pressed', inList ? 'true' : 'false');
+      const label = inList ? 'Fjern fra oppgavelista' : 'Legg til i oppgavelista';
+      fab.title = label;
+      fab.setAttribute('aria-label', label);
+      iconEl.textContent = inList ? '✓' : '+';
+      countEl.textContent = count > 0 ? String(count) : '';
+      countEl.style.display = count > 0 ? '' : 'none';
+    }
+
+    function toggle() {
+      const list = read();
+      const idx = list.findIndex(x => x.slug === SLUG);
+      if (idx === -1) {
+        list.push({ slug: SLUG, title: TITLE, addedAt: Date.now() });
+      } else {
+        list.splice(idx, 1);
+      }
+      write(list);
+      render();
+      window.dispatchEvent(new CustomEvent('oppgaveliste:changed'));
+    }
+
+    fab.addEventListener('click', toggle);
+    render();
+
+    window.addEventListener('storage', (e) => {
+      if (e.key === STORAGE_KEY) render();
+    });
+    window.addEventListener('oppgaveliste:changed', render);
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+</script>

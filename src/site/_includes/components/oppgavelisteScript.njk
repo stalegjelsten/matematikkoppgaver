@@ -1,0 +1,360 @@
+<script>
+(function() {
+  const STORAGE_KEY = 'oppgaveliste';
+  const MODE_KEY = 'oppgaveliste-view-mode';
+
+  const root = document.getElementById('oppgaveliste-app');
+
+  function read() {
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]'); }
+    catch { return []; }
+  }
+  function write(list) {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(list));
+  }
+  function escapeHtml(s) {
+    return String(s).replace(/[&<>"']/g, c => ({
+      '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+    }[c]));
+  }
+
+  function slugToToken(slug) {
+    return encodeURIComponent(slug.replace(/^\/+|\/+$/g, ''));
+  }
+  function tokenToSlug(token) {
+    const inner = decodeURIComponent(token).replace(/^\/+|\/+$/g, '');
+    return '/' + inner + '/';
+  }
+
+  function getSharedSlugs() {
+    const params = new URLSearchParams(window.location.search);
+    const raw = params.get('o');
+    if (!raw) return null;
+    return raw.split(',').filter(Boolean).map(tokenToSlug);
+  }
+
+  function buildShareQuery(list) {
+    return list.map(x => slugToToken(x.slug)).join(',');
+  }
+
+  function buildShareUrl(list) {
+    const base = window.location.origin + window.location.pathname;
+    return `${base}?o=${buildShareQuery(list)}`;
+  }
+
+  // ===== Editor mode =====
+
+  function renderEditor() {
+    const list = read();
+
+    if (list.length === 0) {
+      root.innerHTML = `
+        <div class="oppgaveliste-empty">
+          <p>Du har ingen oppgaver i oppgavelista ennå.</p>
+          <p>Gå til en oppgaveside og klikk «Legg til i oppgavelista».</p>
+        </div>
+      `;
+      return;
+    }
+
+    const itemsHtml = list.map((item, i) => `
+      <li class="oppgaveliste-item" data-index="${i}">
+        <div class="oppgaveliste-item-info">
+          <span class="oppgaveliste-item-num">${i + 1}.</span>
+          <a href="${escapeHtml(item.slug)}" class="oppgaveliste-item-title">${escapeHtml(item.title)}</a>
+        </div>
+        <div class="oppgaveliste-item-actions">
+          <button type="button" class="ol-icon-btn" data-action="up" ${i === 0 ? 'disabled' : ''} title="Flytt opp" aria-label="Flytt opp">↑</button>
+          <button type="button" class="ol-icon-btn" data-action="down" ${i === list.length - 1 ? 'disabled' : ''} title="Flytt ned" aria-label="Flytt ned">↓</button>
+          <button type="button" class="ol-icon-btn ol-icon-btn-danger" data-action="remove" title="Fjern" aria-label="Fjern">✕</button>
+        </div>
+      </li>
+    `).join('');
+
+    const shareUrl = buildShareUrl(list);
+
+    root.innerHTML = `
+      <p class="oppgaveliste-intro">${list.length} ${list.length === 1 ? 'oppgave' : 'oppgaver'} i oppgavelista. Endre rekkefølgen, fjern eller del lista med en elev.</p>
+      <ol class="oppgaveliste-list">${itemsHtml}</ol>
+
+      <div class="oppgaveliste-actions">
+        <a href="?o=${buildShareQuery(list)}" class="ol-btn ol-btn-primary">Vis som elev</a>
+        <button type="button" class="ol-btn" data-global-action="copy">Kopier delelenke</button>
+        <button type="button" class="ol-btn ol-btn-danger" data-global-action="clear">Tøm lista</button>
+      </div>
+
+      <details class="oppgaveliste-share-url">
+        <summary>Vis delelenke</summary>
+        <input type="text" readonly value="${escapeHtml(shareUrl)}" onclick="this.select()" />
+      </details>
+    `;
+
+    root.querySelectorAll('.oppgaveliste-item').forEach(li => {
+      const i = parseInt(li.dataset.index, 10);
+      li.querySelectorAll('[data-action]').forEach(btn => {
+        btn.addEventListener('click', () => handleItemAction(i, btn.dataset.action));
+      });
+    });
+
+    root.querySelectorAll('[data-global-action]').forEach(btn => {
+      btn.addEventListener('click', () => handleGlobalAction(btn.dataset.globalAction, shareUrl));
+    });
+  }
+
+  function handleItemAction(i, action) {
+    const list = read();
+    if (action === 'remove') {
+      list.splice(i, 1);
+    } else if (action === 'up' && i > 0) {
+      [list[i - 1], list[i]] = [list[i], list[i - 1]];
+    } else if (action === 'down' && i < list.length - 1) {
+      [list[i + 1], list[i]] = [list[i], list[i + 1]];
+    }
+    write(list);
+    window.dispatchEvent(new CustomEvent('oppgaveliste:changed'));
+    renderEditor();
+  }
+
+  function handleGlobalAction(action, shareUrl) {
+    if (action === 'copy') {
+      navigator.clipboard.writeText(shareUrl).then(() => {
+        const btn = root.querySelector('[data-global-action="copy"]');
+        if (!btn) return;
+        const original = btn.textContent;
+        btn.textContent = 'Kopiert ✓';
+        btn.classList.add('is-copied');
+        setTimeout(() => {
+          btn.textContent = original;
+          btn.classList.remove('is-copied');
+        }, 1800);
+      }).catch(() => alert('Klarte ikke kopiere. Marker URL-en og kopier manuelt.'));
+    } else if (action === 'clear') {
+      if (confirm('Tøm hele oppgavelista?')) {
+        write([]);
+        window.dispatchEvent(new CustomEvent('oppgaveliste:changed'));
+        renderEditor();
+      }
+    }
+  }
+
+  // ===== Viewer mode =====
+
+  async function fetchOppgave(slug) {
+    try {
+      const res = await fetch(slug);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const html = await res.text();
+      const parser = new DOMParser();
+      const doc = parser.parseFromString(html, 'text/html');
+
+      const main = doc.querySelector('main.content, .cm-s-obsidian, article, main');
+      if (!main) return { slug, error: 'Fant ikke innhold' };
+
+      // Pull title from h1, fall back to <title>
+      const h1 = main.querySelector('h1');
+      const title = h1 ? h1.textContent.trim() : (doc.title || slug);
+
+      // Build clean output: header (without timestamps) + article only.
+      // This drops afterContent dynamics like "Relatert" / "Tilfeldige oppgaver".
+      const articleEl = main.querySelector('article');
+      let cleanHtml = '';
+      if (articleEl) {
+        // Strip own oppgaveliste-button-container if it bled in via article
+        articleEl.querySelectorAll('.oppgaveliste-button-container, .handleliste-button-container').forEach(el => el.remove());
+        cleanHtml = articleEl.innerHTML;
+      } else {
+        // Fallback: use main but strip noise
+        main.querySelectorAll('.oppgaveliste-button-container, .handleliste-button-container, nav, .sidebar, .timestamps').forEach(el => el.remove());
+        cleanHtml = main.innerHTML;
+      }
+
+      return { slug, title, html: cleanHtml };
+    } catch (err) {
+      return { slug, error: err.message };
+    }
+  }
+
+  async function typesetMath(container) {
+    if (!window.MathJax) return;
+    try {
+      if (MathJax.startup && MathJax.startup.promise) {
+        await MathJax.startup.promise;
+      }
+      MathJax.typesetClear([container]);
+      await MathJax.typesetPromise([container]);
+    } catch (e) { console.warn('MathJax typeset failed:', e); }
+  }
+
+  function setupCallouts(container) {
+    if (container.dataset.olCalloutsBound) return;
+    container.dataset.olCalloutsBound = '1';
+    container.addEventListener('click', (e) => {
+      const title = e.target.closest('.callout-title');
+      if (!title || !container.contains(title)) return;
+      const callout = title.closest('.callout.is-collapsible');
+      if (!callout) return;
+      callout.classList.toggle('is-collapsed');
+    });
+  }
+
+  function setupLucide(container) {
+    if (typeof lucide !== 'undefined') {
+      lucide.createIcons({ icons: undefined, attrs: {}, nameAttr: 'data-lucide' });
+    }
+  }
+
+  async function renderViewer(slugs) {
+    const initialMode = localStorage.getItem(MODE_KEY) || 'set';
+
+    root.innerHTML = `
+      <div class="oppgaveliste-viewer-toolbar">
+        <a href="?" class="ol-btn ol-btn-ghost">← Tilbake til redigering</a>
+        <div class="oppgaveliste-mode-toggle" role="tablist">
+          <button type="button" class="ol-mode-btn ${initialMode === 'set' ? 'is-active' : ''}" data-mode="set" role="tab" aria-selected="${initialMode === 'set'}">Alle på én side</button>
+          <button type="button" class="ol-mode-btn ${initialMode === 'slide' ? 'is-active' : ''}" data-mode="slide" role="tab" aria-selected="${initialMode === 'slide'}">Én av gangen</button>
+        </div>
+        <span class="oppgaveliste-viewer-count">${slugs.length} ${slugs.length === 1 ? 'oppgave' : 'oppgaver'}</span>
+      </div>
+      <div id="oppgaveliste-viewer-body" class="oppgaveliste-viewer-body"></div>
+    `;
+
+    const body = document.getElementById('oppgaveliste-viewer-body');
+    body.innerHTML = `<p class="oppgaveliste-loading">Laster oppgaver …</p>`;
+
+    const oppgaver = await Promise.all(slugs.map(fetchOppgave));
+
+    body.innerHTML = '';
+    oppgaver.forEach((o, i) => {
+      const wrap = document.createElement('section');
+      wrap.className = 'oppgaveliste-oppgave';
+      wrap.dataset.index = i;
+      if (o.error) {
+        wrap.innerHTML = `
+          <div class="oppgaveliste-oppgave-error">
+            <h2>Kunne ikke laste «${escapeHtml(o.slug)}»</h2>
+            <p>${escapeHtml(o.error)}</p>
+          </div>
+        `;
+      } else {
+        wrap.innerHTML = `
+          <div class="oppgaveliste-oppgave-header">
+            <span class="oppgaveliste-oppgave-num">Oppgave ${i + 1} av ${oppgaver.length}</span>
+            <a href="${escapeHtml(o.slug)}" class="oppgaveliste-oppgave-link" target="_blank" rel="noopener">Åpne i ny fane ↗</a>
+          </div>
+          <div class="oppgaveliste-oppgave-content cm-s-obsidian markdown-preview-view">${o.html}</div>
+        `;
+      }
+      body.appendChild(wrap);
+    });
+
+    setupCallouts(body);
+    setupLucide(body);
+    await typesetMath(body);
+
+    applyMode(initialMode);
+
+    // Mode toggle
+    root.querySelectorAll('.ol-mode-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const mode = btn.dataset.mode;
+        localStorage.setItem(MODE_KEY, mode);
+        root.querySelectorAll('.ol-mode-btn').forEach(b => {
+          b.classList.toggle('is-active', b.dataset.mode === mode);
+          b.setAttribute('aria-selected', b.dataset.mode === mode);
+        });
+        applyMode(mode);
+      });
+    });
+
+    // Keyboard nav for slideshow
+    document.addEventListener('keydown', onKeydown);
+  }
+
+  let currentSlideIdx = 0;
+  let currentMode = 'set';
+
+  function applyMode(mode) {
+    currentMode = mode;
+    const body = document.getElementById('oppgaveliste-viewer-body');
+    if (!body) return;
+    body.classList.toggle('mode-set', mode === 'set');
+    body.classList.toggle('mode-slide', mode === 'slide');
+
+    if (mode === 'slide') {
+      ensureSlideControls();
+      showSlide(currentSlideIdx);
+    } else {
+      removeSlideControls();
+      // show all
+      body.querySelectorAll('.oppgaveliste-oppgave').forEach(el => el.classList.remove('is-hidden'));
+    }
+  }
+
+  function ensureSlideControls() {
+    if (document.getElementById('oppgaveliste-slide-controls')) return;
+    const ctrl = document.createElement('div');
+    ctrl.id = 'oppgaveliste-slide-controls';
+    ctrl.className = 'oppgaveliste-slide-controls';
+    ctrl.innerHTML = `
+      <button type="button" class="ol-btn" data-slide="prev" aria-label="Forrige">← Forrige</button>
+      <span class="oppgaveliste-slide-indicator" aria-live="polite"></span>
+      <button type="button" class="ol-btn" data-slide="next" aria-label="Neste">Neste →</button>
+    `;
+    document.getElementById('oppgaveliste-viewer-body').after(ctrl);
+    ctrl.querySelector('[data-slide="prev"]').addEventListener('click', () => showSlide(currentSlideIdx - 1));
+    ctrl.querySelector('[data-slide="next"]').addEventListener('click', () => showSlide(currentSlideIdx + 1));
+  }
+
+  function removeSlideControls() {
+    const ctrl = document.getElementById('oppgaveliste-slide-controls');
+    if (ctrl) ctrl.remove();
+  }
+
+  function showSlide(idx) {
+    const body = document.getElementById('oppgaveliste-viewer-body');
+    if (!body) return;
+    const items = body.querySelectorAll('.oppgaveliste-oppgave');
+    if (items.length === 0) return;
+    if (idx < 0) idx = 0;
+    if (idx >= items.length) idx = items.length - 1;
+    currentSlideIdx = idx;
+
+    items.forEach((el, i) => el.classList.toggle('is-hidden', i !== idx));
+
+    const indicator = document.querySelector('.oppgaveliste-slide-indicator');
+    if (indicator) indicator.textContent = `${idx + 1} av ${items.length}`;
+
+    const prev = document.querySelector('[data-slide="prev"]');
+    const next = document.querySelector('[data-slide="next"]');
+    if (prev) prev.disabled = idx === 0;
+    if (next) next.disabled = idx === items.length - 1;
+
+    items[idx].scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+
+  function onKeydown(e) {
+    if (currentMode !== 'slide') return;
+    if (e.target && /^(INPUT|TEXTAREA|SELECT)$/.test(e.target.tagName)) return;
+    if (e.key === 'ArrowLeft') { showSlide(currentSlideIdx - 1); }
+    else if (e.key === 'ArrowRight') { showSlide(currentSlideIdx + 1); }
+  }
+
+  // ===== Init =====
+
+  function init() {
+    if (!root) return;
+    const sharedSlugs = getSharedSlugs();
+    if (sharedSlugs && sharedSlugs.length > 0) {
+      renderViewer(sharedSlugs);
+    } else {
+      renderEditor();
+    }
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+</script>
