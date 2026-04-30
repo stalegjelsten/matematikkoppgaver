@@ -894,16 +894,19 @@ body.oppgave-fullskjerm #oppgaveliste-fab-wrap {
   flex-wrap: wrap;
   gap: 0.75rem;
   padding: 0.75rem;
-  margin: 0 0 1rem;
+  margin: 0 0 1.25rem;
   background: var(--background-secondary);
   border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08));
-  border-radius: 6px;
+  border-radius: 8px;
 
-  label {
+  .oppgavestatus-control {
     display: grid;
     gap: 0.25rem;
-    min-width: 11rem;
-    font-size: 0.8rem;
+    flex: 1 1 14rem;
+    min-width: 0;
+    font-size: 0.78rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
     color: var(--text-muted);
   }
 
@@ -914,17 +917,54 @@ body.oppgave-fullskjerm #oppgaveliste-fab-wrap {
     background: var(--background-primary);
     border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.16));
     border-radius: 4px;
+    text-transform: none;
+    letter-spacing: normal;
+    font-size: 0.9rem;
   }
 }
 
-.oppgavestatus-count {
-  margin-left: auto;
-  min-height: 2.25rem;
-  display: inline-flex;
-  align-items: center;
-  color: var(--text-muted);
-  font-size: 0.9rem;
+.oppgavestatus-group {
+  margin: 0 0 1.5rem;
+
+  &:last-child { margin-bottom: 0; }
 }
+
+.oppgavestatus-group-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0 0 0.5rem;
+  margin: 0 0 0.5rem;
+  border-bottom: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08));
+
+  .oppgavestatus-group-icon {
+    display: inline-flex;
+    width: 1.1rem;
+    height: 1.1rem;
+
+    svg { width: 100%; height: 100%; display: block; }
+  }
+
+  .oppgavestatus-group-title {
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--text-normal);
+  }
+
+  .oppgavestatus-group-count {
+    margin-left: auto;
+    padding: 0.1rem 0.55rem;
+    border-radius: 999px;
+    background: color-mix(in srgb, currentColor 14%, transparent);
+    font-size: 0.8rem;
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+.oppgavestatus-group.is-done   .oppgavestatus-group-header { color: var(--oppgavestatus-done); }
+.oppgavestatus-group.is-review .oppgavestatus-group-header { color: var(--oppgavestatus-review); }
+.oppgavestatus-group.is-failed .oppgavestatus-group-header { color: var(--oppgavestatus-failed); }
 
 .oppgavestatus-list {
   list-style: none;
@@ -932,44 +972,64 @@ body.oppgave-fullskjerm #oppgaveliste-fab-wrap {
   padding: 0;
   display: flex;
   flex-direction: column;
-  gap: 0.4rem;
+  gap: 0.35rem;
 }
 
 .oppgavestatus-item {
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto auto;
-  align-items: start;
+  align-items: center;
   gap: 0.75rem;
-  padding: 0.6rem 0.75rem;
+  padding: 0.55rem 0.6rem 0.55rem 0.85rem;
   background: var(--background-secondary);
   border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08));
+  border-left: 3px solid transparent;
   border-radius: 6px;
+  transition: border-color 0.12s, background-color 0.12s;
 
-  &.is-done   { box-shadow: inset 3px 0 0 var(--oppgavestatus-done); }
-  &.is-review { box-shadow: inset 3px 0 0 var(--oppgavestatus-review); }
-  &.is-failed { box-shadow: inset 3px 0 0 var(--oppgavestatus-failed); }
+  &:hover {
+    background: var(--background-modifier-hover, var(--background-primary-alt));
+  }
+
+  &.is-done   { border-left-color: var(--oppgavestatus-done); }
+  &.is-review { border-left-color: var(--oppgavestatus-review); }
+  &.is-failed { border-left-color: var(--oppgavestatus-failed); }
 
   @media (max-width: 640px) {
-    grid-template-columns: 1fr;
-    align-items: stretch;
+    grid-template-columns: minmax(0, 1fr) auto;
+    grid-template-areas:
+      "main remove"
+      "badge badge";
+    gap: 0.5rem 0.6rem;
+
+    .oppgavestatus-item-main { grid-area: main; }
+    .oppgavestatus-remove { grid-area: remove; }
+    .oppgavestatus-page-badge { grid-area: badge; justify-self: start; }
   }
 }
 
-.oppgavestatus-item-info {
-  display: flex;
-  align-items: flex-start;
-  gap: 0.6rem;
+.oppgavestatus-item-main {
   min-width: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.35rem 0.6rem;
 }
 
-.oppgavestatus-title-block {
-  min-width: 0;
-  display: grid;
-  gap: 0.25rem;
+.oppgavestatus-item-title {
+  color: var(--text-normal);
+  text-decoration: none;
+  font-weight: 500;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 100%;
+
+  &:hover { color: var(--text-accent); text-decoration: underline; }
 }
 
 .oppgavestatus-item-meta {
-  display: flex;
+  display: inline-flex;
   flex-wrap: wrap;
   gap: 0.25rem;
 }
@@ -977,31 +1037,35 @@ body.oppgave-fullskjerm #oppgaveliste-fab-wrap {
 .oppgavestatus-meta-chip {
   display: inline-flex;
   align-items: center;
-  min-height: 1.35rem;
-  padding: 0.15rem 0.45rem;
+  padding: 0.1rem 0.45rem;
   border-radius: 999px;
   color: var(--text-muted);
   background: var(--background-primary);
   border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.1));
-  font-size: 0.78rem;
-  line-height: 1.1;
+  font-size: 0.74rem;
+  line-height: 1.3;
+
+  &.is-fag {
+    color: var(--text-normal);
+    font-weight: 500;
+  }
 }
 
 .oppgavestatus-time {
   color: var(--text-muted);
-  font-size: 0.82rem;
+  font-size: 0.78rem;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
 }
 
 .oppgavestatus-page-badge {
   display: inline-flex;
   align-items: center;
-  justify-content: center;
-  gap: 0.4rem;
-  min-height: 2rem;
-  padding: 0.35rem 0.6rem;
+  gap: 0.35rem;
+  padding: 0.25rem 0.6rem;
   border: 1px solid currentColor;
   border-radius: 999px;
-  font-size: 0.85rem;
+  font-size: 0.78rem;
   white-space: nowrap;
 
   &.is-done   { color: var(--oppgavestatus-done); }
@@ -1011,8 +1075,8 @@ body.oppgave-fullskjerm #oppgaveliste-fab-wrap {
 
 .oppgavestatus-page-badge-icon {
   display: inline-flex;
-  width: 1rem;
-  height: 1rem;
+  width: 0.85rem;
+  height: 0.85rem;
 
   svg {
     width: 100%;
@@ -1022,23 +1086,30 @@ body.oppgave-fullskjerm #oppgaveliste-fab-wrap {
 }
 
 .oppgavestatus-remove {
-  min-height: 2rem;
-  padding: 0.35rem 0.65rem;
-  font-size: 0.85rem;
-}
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  padding: 0;
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: background-color 0.12s, color 0.12s, border-color 0.12s;
 
-@media (max-width: 640px) {
-  .oppgavestatus-controls {
-    align-items: stretch;
+  svg { width: 1rem; height: 1rem; display: block; }
 
-    label {
-      min-width: min(100%, 16rem);
-      flex: 1 1 12rem;
-    }
+  &:hover {
+    color: var(--oppgavestatus-failed);
+    background: color-mix(in srgb, var(--oppgavestatus-failed) 12%, transparent);
+    border-color: color-mix(in srgb, var(--oppgavestatus-failed) 35%, transparent);
   }
 
-  .oppgavestatus-count {
-    margin-left: 0;
+  &:focus-visible {
+    outline: 2px solid var(--oppgavestatus-failed);
+    outline-offset: 1px;
   }
 }
 

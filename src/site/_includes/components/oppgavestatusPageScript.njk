@@ -3,9 +3,11 @@
   const root = document.getElementById('oppgavestatus-app');
   const VALID = new Set(['done', 'review', 'failed']);
   const STATUS_ORDER = { done: 0, review: 1, failed: 2 };
+  const GROUPS = ['done', 'review', 'failed'];
+  const TRASH_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="3 6 5 6 21 6"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"/><path d="M10 11v6"/><path d="M14 11v6"/><path d="M9 6V4a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v2"/></svg>';
   const state = {
     filter: 'all',
-    sort: 'updated-desc'
+    sort: 'group'
   };
   const oppgaveIndex = new Map([
     {% for note in collections.note %}
@@ -34,7 +36,7 @@
     return path;
   }
 
-  function readRows() {
+  function readAllRows() {
     const map = window.OppgaveStatus
       ? (window.OppgaveStatus.readEntries ? window.OppgaveStatus.readEntries() : window.OppgaveStatus.read())
       : {};
@@ -52,9 +54,7 @@
           temaer: toArray(meta.temaer)
         };
       })
-      .filter(row => row.slug && VALID.has(row.status))
-      .filter(row => state.filter === 'all' || row.status === state.filter)
-      .sort(compareRows);
+      .filter(row => row.slug && VALID.has(row.status));
   }
 
   function fallbackTitle(slug) {
@@ -69,7 +69,7 @@
   function compareRows(a, b) {
     if (state.sort === 'updated-asc') return timeValue(a.updatedAt) - timeValue(b.updatedAt) || compareTitle(a, b);
     if (state.sort === 'title') return compareTitle(a, b);
-    if (state.sort === 'status') return STATUS_ORDER[a.status] - STATUS_ORDER[b.status] || compareTitle(a, b);
+    if (state.sort === 'group') return STATUS_ORDER[a.status] - STATUS_ORDER[b.status] || timeValue(b.updatedAt) - timeValue(a.updatedAt) || compareTitle(a, b);
     return timeValue(b.updatedAt) - timeValue(a.updatedAt) || compareTitle(a, b);
   }
 
@@ -83,65 +83,57 @@
   }
 
   function formatStatusTime(value) {
-    if (!value) return 'Tidspunkt mangler';
+    if (!value) return null;
     const date = new Date(value);
-    if (Number.isNaN(date.getTime())) return 'Tidspunkt mangler';
+    if (Number.isNaN(date.getTime())) return null;
     return new Intl.DateTimeFormat('nb-NO', {
       dateStyle: 'medium',
       timeStyle: 'short'
     }).format(date);
   }
 
-  function renderMeta(row) {
+  function renderMetaInline(row) {
     const parts = [
-      ...row.fag.map(fag => `<span class="oppgavestatus-meta-chip">${escapeHtml(fag)}</span>`),
+      ...row.fag.map(fag => `<span class="oppgavestatus-meta-chip is-fag">${escapeHtml(fag)}</span>`),
       ...row.temaer.map(tema => `<span class="oppgavestatus-meta-chip">${escapeHtml(tema)}</span>`)
     ];
     if (!parts.length) return '';
     return `<div class="oppgavestatus-item-meta">${parts.join('')}</div>`;
   }
 
-  function renderEmpty() {
-    root.innerHTML = `
-      <div class="oppgaveliste-empty">
-        <p>Eleven har ikke satt status på noen oppgaver ennå.</p>
-      </div>
-    `;
+  function statusLabel(status) {
+    return window.OppgaveStatus ? window.OppgaveStatus.LABELS[status] : status;
   }
 
-  function statusBadge(status) {
-    const label = window.OppgaveStatus ? window.OppgaveStatus.LABELS[status] : status;
-    const icon = window.OppgaveStatus ? window.OppgaveStatus.ICONS[status] : '';
-    return `
-      <span class="oppgavestatus-page-badge is-${escapeHtml(status)}">
-        <span class="oppgavestatus-page-badge-icon" aria-hidden="true">${icon}</span>
-        <span>${escapeHtml(label)}</span>
-      </span>
-    `;
+  function statusIcon(status) {
+    return window.OppgaveStatus ? window.OppgaveStatus.ICONS[status] : '';
   }
 
-  function renderControls(totalRows) {
+  function renderControls(counts, totalAll) {
+    const optLabel = (key, label) => {
+      const c = counts[key] || 0;
+      return `<option value="${key}"${state.filter === key ? ' selected' : ''}>${label} (${c})</option>`;
+    };
     return `
       <div class="oppgavestatus-controls" aria-label="Filtrer og sorter statuser">
-        <label>
+        <label class="oppgavestatus-control">
           <span>Status</span>
           <select data-status-filter>
-            <option value="all"${state.filter === 'all' ? ' selected' : ''}>Alle statuser</option>
-            <option value="done"${state.filter === 'done' ? ' selected' : ''}>Fikk det til</option>
-            <option value="review"${state.filter === 'review' ? ' selected' : ''}>Må repetere</option>
-            <option value="failed"${state.filter === 'failed' ? ' selected' : ''}>Fikk det ikke til</option>
+            <option value="all"${state.filter === 'all' ? ' selected' : ''}>Alle (${totalAll})</option>
+            ${optLabel('done', 'Fikk det til')}
+            ${optLabel('review', 'Må repetere')}
+            ${optLabel('failed', 'Fikk det ikke til')}
           </select>
         </label>
-        <label>
+        <label class="oppgavestatus-control">
           <span>Sortering</span>
           <select data-status-sort>
+            <option value="group"${state.sort === 'group' ? ' selected' : ''}>Gruppert etter status</option>
             <option value="updated-desc"${state.sort === 'updated-desc' ? ' selected' : ''}>Nyeste status først</option>
             <option value="updated-asc"${state.sort === 'updated-asc' ? ' selected' : ''}>Eldste status først</option>
-            <option value="title"${state.sort === 'title' ? ' selected' : ''}>Oppgavenavn A-Å</option>
-            <option value="status"${state.sort === 'status' ? ' selected' : ''}>Status</option>
+            <option value="title"${state.sort === 'title' ? ' selected' : ''}>Oppgavenavn A–Å</option>
           </select>
         </label>
-        <span class="oppgavestatus-count">${totalRows} ${totalRows === 1 ? 'oppgave' : 'oppgaver'}</span>
       </div>
     `;
   }
@@ -163,41 +155,87 @@
     }
   }
 
-  function renderRows(rows, totalRows) {
-    if (rows.length === 0) {
-      root.innerHTML = totalRows === 0 ? `
+  function renderItem(row, opts) {
+    const showBadge = opts && opts.showBadge;
+    const time = formatStatusTime(row.updatedAt);
+    return `
+      <li class="oppgavestatus-item is-${escapeHtml(row.status)}" data-slug="${escapeHtml(row.slug)}">
+        <div class="oppgavestatus-item-main">
+          <a href="${escapeHtml(row.slug)}" class="oppgavestatus-item-title">${escapeHtml(row.title)}</a>
+          ${renderMetaInline(row)}
+          ${time ? `<time class="oppgavestatus-time" datetime="${escapeHtml(row.updatedAt)}">${escapeHtml(time)}</time>` : ''}
+        </div>
+        ${showBadge ? `
+          <span class="oppgavestatus-page-badge is-${escapeHtml(row.status)}" title="${escapeHtml(statusLabel(row.status))}">
+            <span class="oppgavestatus-page-badge-icon" aria-hidden="true">${statusIcon(row.status)}</span>
+            <span>${escapeHtml(statusLabel(row.status))}</span>
+          </span>
+        ` : ''}
+        <button type="button" class="oppgavestatus-remove" data-remove-status="${escapeHtml(row.slug)}" title="Slett status" aria-label="Slett status for ${escapeHtml(row.title)}">
+          ${TRASH_ICON}
+        </button>
+      </li>
+    `;
+  }
+
+  function renderGroupedList(rows) {
+    const byGroup = { done: [], review: [], failed: [] };
+    rows.forEach(r => byGroup[r.status].push(r));
+    return GROUPS
+      .filter(g => byGroup[g].length > 0)
+      .map(g => `
+        <section class="oppgavestatus-group is-${g}">
+          <header class="oppgavestatus-group-header">
+            <span class="oppgavestatus-group-icon" aria-hidden="true">${statusIcon(g)}</span>
+            <h2 class="oppgavestatus-group-title">${escapeHtml(statusLabel(g))}</h2>
+            <span class="oppgavestatus-group-count">${byGroup[g].length}</span>
+          </header>
+          <ol class="oppgavestatus-list">
+            ${byGroup[g].map(row => renderItem(row, { showBadge: false })).join('')}
+          </ol>
+        </section>
+      `).join('');
+  }
+
+  function renderFlatList(rows) {
+    return `
+      <ol class="oppgavestatus-list">
+        ${rows.map(row => renderItem(row, { showBadge: true })).join('')}
+      </ol>
+    `;
+  }
+
+  function render() {
+    if (!window.OppgaveStatus || !root) return;
+    const allRows = readAllRows();
+    const counts = { done: 0, review: 0, failed: 0 };
+    allRows.forEach(r => { counts[r.status] = (counts[r.status] || 0) + 1; });
+    const totalAll = allRows.length;
+
+    if (totalAll === 0) {
+      root.innerHTML = `
         <div class="oppgaveliste-empty">
           <p>Eleven har ikke satt status på noen oppgaver ennå.</p>
         </div>
-      ` : `
-        ${renderControls(totalRows)}
-        <div class="oppgaveliste-empty">
-          <p>Ingen oppgaver matcher filteret.</p>
-        </div>
       `;
-      bindControls();
       return;
     }
 
+    const filtered = (state.filter === 'all' ? allRows : allRows.filter(r => r.status === state.filter))
+      .sort(compareRows);
+
+    let body = '';
+    if (filtered.length === 0) {
+      body = `<div class="oppgaveliste-empty"><p>Ingen oppgaver matcher filteret.</p></div>`;
+    } else if (state.sort === 'group' && state.filter === 'all') {
+      body = renderGroupedList(filtered);
+    } else {
+      body = renderFlatList(filtered);
+    }
+
     root.innerHTML = `
-      <p class="oppgaveliste-intro">${rows.length} ${rows.length === 1 ? 'oppgave' : 'oppgaver'} med elevstatus.</p>
-      ${renderControls(totalRows)}
-      <ol class="oppgavestatus-list">
-        ${rows.map((row, i) => `
-          <li class="oppgavestatus-item is-${escapeHtml(row.status)}" data-slug="${escapeHtml(row.slug)}">
-            <div class="oppgavestatus-item-info">
-              <span class="oppgaveliste-item-num">${i + 1}.</span>
-              <div class="oppgavestatus-title-block">
-                <a href="${escapeHtml(row.slug)}" class="oppgaveliste-item-title">${escapeHtml(row.title)}</a>
-                ${renderMeta(row)}
-                <time class="oppgavestatus-time" ${row.updatedAt ? `datetime="${escapeHtml(row.updatedAt)}"` : ''}>${escapeHtml(formatStatusTime(row.updatedAt))}</time>
-              </div>
-            </div>
-            ${statusBadge(row.status)}
-            <button type="button" class="ol-btn ol-btn-danger oppgavestatus-remove" data-remove-status="${escapeHtml(row.slug)}">Slett status</button>
-          </li>
-        `).join('')}
-      </ol>
+      ${renderControls(counts, totalAll)}
+      ${body}
     `;
 
     root.querySelectorAll('[data-remove-status]').forEach(btn => {
@@ -209,16 +247,6 @@
 
     bindControls();
     if (window.OppgaveStatus) window.OppgaveStatus.decorate(root);
-  }
-
-  function render() {
-    if (!window.OppgaveStatus || !root) return;
-    const previousFilter = state.filter;
-    state.filter = 'all';
-    const totalRows = readRows().length;
-    state.filter = previousFilter;
-    const rows = readRows();
-    renderRows(rows, totalRows);
   }
 
   if (document.readyState === 'loading') {
