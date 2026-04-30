@@ -1,0 +1,129 @@
+<script>
+(function() {
+  const root = document.getElementById('oppgavestatus-app');
+  const VALID = new Set(['done', 'review', 'failed']);
+  const titleCache = new Map();
+
+  function escapeHtml(s) {
+    return String(s).replace(/[&<>"']/g, c => ({
+      '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+    }[c]));
+  }
+
+  function normalizeSlug(slug) {
+    if (!slug) return null;
+    let path = String(slug);
+    try { path = new URL(path, window.location.origin).pathname; } catch {}
+    if (!path.startsWith('/')) path = '/' + path;
+    if (!path.endsWith('/')) path += '/';
+    return path;
+  }
+
+  function readRows() {
+    const map = window.OppgaveStatus ? window.OppgaveStatus.read() : {};
+    return Object.entries(map)
+      .map(([slug, status]) => ({ slug: normalizeSlug(slug), status }))
+      .filter(row => row.slug && VALID.has(row.status))
+      .sort((a, b) => a.slug.localeCompare(b.slug, 'nb'));
+  }
+
+  function fallbackTitle(slug) {
+    return slug.replace(/^\/|\/$/g, '').replaceAll('-', ' ');
+  }
+
+  async function fetchTitle(slug) {
+    if (titleCache.has(slug)) return titleCache.get(slug);
+
+    const promise = fetch(slug)
+      .then(res => {
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        return res.text();
+      })
+      .then(html => {
+        const doc = new DOMParser().parseFromString(html, 'text/html');
+        const h1 = doc.querySelector('main h1, h1');
+        return (h1 ? h1.textContent : doc.title || fallbackTitle(slug)).trim();
+      })
+      .catch(() => fallbackTitle(slug));
+
+    titleCache.set(slug, promise);
+    return promise;
+  }
+
+  function renderEmpty() {
+    root.innerHTML = `
+      <div class="oppgaveliste-empty">
+        <p>Eleven har ikke satt status på noen oppgaver ennå.</p>
+      </div>
+    `;
+  }
+
+  function statusBadge(status) {
+    const label = window.OppgaveStatus ? window.OppgaveStatus.LABELS[status] : status;
+    const icon = window.OppgaveStatus ? window.OppgaveStatus.ICONS[status] : '';
+    return `
+      <span class="oppgavestatus-page-badge is-${escapeHtml(status)}">
+        <span class="oppgavestatus-page-badge-icon" aria-hidden="true">${icon}</span>
+        <span>${escapeHtml(label)}</span>
+      </span>
+    `;
+  }
+
+  function renderRows(rows, titles = new Map()) {
+    if (rows.length === 0) {
+      renderEmpty();
+      return;
+    }
+
+    root.innerHTML = `
+      <p class="oppgaveliste-intro">${rows.length} ${rows.length === 1 ? 'oppgave' : 'oppgaver'} med elevstatus.</p>
+      <ol class="oppgavestatus-list">
+        ${rows.map((row, i) => `
+          <li class="oppgavestatus-item is-${escapeHtml(row.status)}" data-slug="${escapeHtml(row.slug)}">
+            <div class="oppgavestatus-item-info">
+              <span class="oppgaveliste-item-num">${i + 1}.</span>
+              <a href="${escapeHtml(row.slug)}" class="oppgaveliste-item-title">${escapeHtml(titles.get(row.slug) || fallbackTitle(row.slug))}</a>
+            </div>
+            ${statusBadge(row.status)}
+            <button type="button" class="ol-btn ol-btn-danger oppgavestatus-remove" data-remove-status="${escapeHtml(row.slug)}">Slett status</button>
+          </li>
+        `).join('')}
+      </ol>
+    `;
+
+    root.querySelectorAll('[data-remove-status]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const slug = btn.getAttribute('data-remove-status');
+        if (window.OppgaveStatus) window.OppgaveStatus.set(slug, null);
+      });
+    });
+
+    if (window.OppgaveStatus) window.OppgaveStatus.decorate(root);
+  }
+
+  async function render() {
+    if (!window.OppgaveStatus || !root) return;
+    const rows = readRows();
+    const titles = new Map();
+
+    renderRows(rows, titles);
+    await Promise.all(rows.map(async row => {
+      titles.set(row.slug, await fetchTitle(row.slug));
+    }));
+
+    const currentRows = readRows();
+    if (currentRows.length === rows.length && currentRows.every((row, i) => row.slug === rows[i].slug && row.status === rows[i].status)) {
+      renderRows(rows, titles);
+    }
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', render);
+  } else {
+    render();
+  }
+
+  window.addEventListener('oppgavestatus:changed', render);
+  window.addEventListener('storage', e => { if (e.key === 'oppgavestatus') render(); });
+})();
+</script>

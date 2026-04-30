@@ -6,15 +6,43 @@
   </span>
   <span class="oppgaveliste-menu-count" data-oppgaveliste-menu-count data-count="0">0</span>
 </a>
+<a href="/oppgavestatus/" class="oppgaveliste-menu-link oppgavestatus-menu-link" data-oppgavestatus-menu-link
+   title="Oppgaver eleven har markert status på" hidden>
+  <span class="oppgaveliste-menu-label">
+    <i data-lucide="badge-check"></i>
+    <span>Oppgavestatus</span>
+  </span>
+  <span class="oppgaveliste-menu-count" data-oppgavestatus-menu-count data-count="0">0</span>
+</a>
 <script>
 (function() {
-  const STORAGE_KEY = 'oppgaveliste';
+  const LIST_KEY = 'oppgaveliste';
+  const STATUS_KEY = 'oppgavestatus';
+
+  function readCount(key, fallback) {
+    try {
+      const value = JSON.parse(localStorage.getItem(key) || fallback);
+      if (Array.isArray(value)) return value.length;
+      if (value && typeof value === 'object') return Object.keys(value).length;
+    } catch {}
+    return 0;
+  }
+
   function update() {
-    let count = 0;
-    try { count = (JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]') || []).length; } catch {}
+    const count = readCount(LIST_KEY, '[]');
+    const statusCount = readCount(STATUS_KEY, '{}');
+
     document.querySelectorAll('[data-oppgaveliste-menu-count]').forEach(el => {
       el.textContent = count;
       el.setAttribute('data-count', String(count));
+    });
+
+    document.querySelectorAll('[data-oppgavestatus-menu-link]').forEach(el => {
+      el.hidden = statusCount === 0;
+    });
+    document.querySelectorAll('[data-oppgavestatus-menu-count]').forEach(el => {
+      el.textContent = statusCount;
+      el.setAttribute('data-count', String(statusCount));
     });
   }
   if (document.readyState === 'loading') {
@@ -22,7 +50,8 @@
   } else {
     update();
   }
-  window.addEventListener('storage', (e) => { if (e.key === STORAGE_KEY) update(); });
+  window.addEventListener('storage', (e) => { if (e.key === LIST_KEY || e.key === STATUS_KEY) update(); });
   window.addEventListener('oppgaveliste:changed', update);
+  window.addEventListener('oppgavestatus:changed', update);
 })();
 </script>

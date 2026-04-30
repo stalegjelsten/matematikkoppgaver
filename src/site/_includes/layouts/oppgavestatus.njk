@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="{{ meta.mainLanguage }}">
+  <head>
+    <title>{{ title }}</title>
+    {%include "components/pageheader.njk"%}
+    {% for imp in dynamics.common.head %}
+      {% include imp %}
+    {% endfor %}
+  </head>
+  <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {% if settings.dgShowFileTree !== true %}no-filetree{% endif %} {% if settings.dgHomeLink === true and settings.dgShowFileTree !== true %}has-navbar{% endif %} {{meta.bodyClasses}}">
+    <script>(function(){try{var t=localStorage.getItem('dg-theme');if(!t||t==='{{meta.baseTheme}}')return;var d=t==='auto'?window.matchMedia('(prefers-color-scheme: dark)').matches:t==='dark';document.body.className=document.body.className.replace(/\btheme-(dark|light)\b/,d?'theme-dark':'theme-light');}catch(e){}})();</script>
+
+    {% if settings.dgShowFileTree !== true %}
+      {%include "components/navbar.njk"%}
+    {%else%}
+      {%include "components/filetree.njk"%}
+    {% endif %}
+
+    {% if settings.dgEnableSearch === true %}
+      {%include "components/searchContainer.njk"%}
+    {% endif %}
+
+    <main class="content cm-s-obsidian print {{contentClasses}}">
+      <header>
+        <h1>Oppgavestatus</h1>
+      </header>
+
+      <article>
+        <div id="oppgavestatus-app" class="oppgavestatus-app">
+          <p class="oppgaveliste-loading">Laster ...</p>
+        </div>
+      </article>
+    </main>
+
+    {% include "components/lucideIcons.njk" %}
+    {% include "components/oppgavestatusPageScript.njk" %}
+  </body>
+</html>

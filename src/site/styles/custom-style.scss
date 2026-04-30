@@ -604,6 +604,14 @@ body.oppgave-fullskjerm #oppgaveliste-fab-wrap {
   }
 }
 
+.oppgaveliste-menu-link[hidden] {
+  display: none;
+}
+
+.oppgavestatus-menu-link {
+  margin-top: -0.5rem;
+}
+
 /* ===== Felles knappestiler ===== */
 
 .ol-btn {
@@ -855,6 +863,89 @@ body.oppgave-fullskjerm #oppgaveliste-fab-wrap {
       font-size: 0.85rem;
     }
   }
+}
+
+/* ===== Oppgavestatus-side ===== */
+
+.oppgavestatus-page {
+  > header > h1 {
+    margin-top: 1.5rem;
+  }
+
+  .oppgavestatus-app {
+    max-width: 760px;
+  }
+}
+
+.oppgavestatus-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.oppgavestatus-item {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto auto;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.6rem 0.75rem;
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08));
+  border-radius: 6px;
+
+  &.is-done   { box-shadow: inset 3px 0 0 var(--oppgavestatus-done); }
+  &.is-review { box-shadow: inset 3px 0 0 var(--oppgavestatus-review); }
+  &.is-failed { box-shadow: inset 3px 0 0 var(--oppgavestatus-failed); }
+
+  @media (max-width: 640px) {
+    grid-template-columns: 1fr;
+    align-items: stretch;
+  }
+}
+
+.oppgavestatus-item-info {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  min-width: 0;
+}
+
+.oppgavestatus-page-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+  min-height: 2rem;
+  padding: 0.35rem 0.6rem;
+  border: 1px solid currentColor;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  white-space: nowrap;
+
+  &.is-done   { color: var(--oppgavestatus-done); }
+  &.is-review { color: var(--oppgavestatus-review); }
+  &.is-failed { color: var(--oppgavestatus-failed); }
+}
+
+.oppgavestatus-page-badge-icon {
+  display: inline-flex;
+  width: 1rem;
+  height: 1rem;
+
+  svg {
+    width: 100%;
+    height: 100%;
+    display: block;
+  }
+}
+
+.oppgavestatus-remove {
+  min-height: 2rem;
+  padding: 0.35rem 0.65rem;
+  font-size: 0.85rem;
 }
 
 /* ===== Oppgaveliste-side: viewer ===== */

@@ -15,6 +15,34 @@
     <script>
       (function() {
         var container = document.getElementById('filetree-content-container');
+
+        function readCount(key, fallback) {
+          try {
+            var value = JSON.parse(localStorage.getItem(key) || fallback);
+            if (Array.isArray(value)) return value.length;
+            if (value && typeof value === 'object') return Object.keys(value).length;
+          } catch (e) {}
+          return 0;
+        }
+
+        function updateOppgaveMenu() {
+          var listCount = readCount('oppgaveliste', '[]');
+          var statusCount = readCount('oppgavestatus', '{}');
+
+          container.querySelectorAll('[data-oppgaveliste-menu-count]').forEach(function(el) {
+            el.textContent = listCount;
+            el.setAttribute('data-count', String(listCount));
+          });
+
+          container.querySelectorAll('[data-oppgavestatus-menu-link]').forEach(function(el) {
+            el.hidden = statusCount === 0;
+          });
+          container.querySelectorAll('[data-oppgavestatus-menu-count]').forEach(function(el) {
+            el.textContent = statusCount;
+            el.setAttribute('data-count', String(statusCount));
+          });
+        }
+
         fetch('/filetree-content/')
           .then(function(r) { return r.text(); })
           .then(function(html) {
@@ -33,6 +61,13 @@
               });
             }
             if (window.OppgaveStatus) window.OppgaveStatus.decorate(container);
+            updateOppgaveMenu();
+            if (typeof lucide !== 'undefined') lucide.createIcons();
           });
+        window.addEventListener('storage', function(e) {
+          if (e.key === 'oppgaveliste' || e.key === 'oppgavestatus') updateOppgaveMenu();
+        });
+        window.addEventListener('oppgaveliste:changed', updateOppgaveMenu);
+        window.addEventListener('oppgavestatus:changed', updateOppgaveMenu);
       })();
     </script>
