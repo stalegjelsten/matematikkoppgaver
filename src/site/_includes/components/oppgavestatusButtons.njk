@@ -1,0 +1,63 @@
+<aside class="oppgavestatus-panel" data-oppgavestatus-panel aria-label="Marker hvordan det gikk med oppgaven">
+  <div class="oppgavestatus-panel-title">Hvordan gikk det?</div>
+  <div class="oppgavestatus-buttons" role="radiogroup">
+    <button type="button" class="oppgavestatus-btn" data-oppgavestatus-set="done" role="radio" aria-checked="false">
+      <span class="oppgavestatus-btn-icon" data-oppgavestatus-icon="done" aria-hidden="true"></span>
+      <span class="oppgavestatus-btn-label">Fikk det til</span>
+    </button>
+    <button type="button" class="oppgavestatus-btn" data-oppgavestatus-set="review" role="radio" aria-checked="false">
+      <span class="oppgavestatus-btn-icon" data-oppgavestatus-icon="review" aria-hidden="true"></span>
+      <span class="oppgavestatus-btn-label">Må repetere</span>
+    </button>
+    <button type="button" class="oppgavestatus-btn" data-oppgavestatus-set="failed" role="radio" aria-checked="false">
+      <span class="oppgavestatus-btn-icon" data-oppgavestatus-icon="failed" aria-hidden="true"></span>
+      <span class="oppgavestatus-btn-label">Fikk det ikke til</span>
+    </button>
+  </div>
+</aside>
+<script>
+(function() {
+  const SLUG = {{ page.url | dump | safe }};
+
+  function init() {
+    if (!window.OppgaveStatus) return;
+    const panel = document.querySelector('[data-oppgavestatus-panel]');
+    if (!panel) return;
+
+    // Inject icons from core (single source of truth)
+    panel.querySelectorAll('[data-oppgavestatus-icon]').forEach(el => {
+      const key = el.getAttribute('data-oppgavestatus-icon');
+      el.innerHTML = window.OppgaveStatus.ICONS[key] || '';
+    });
+
+    function render() {
+      const current = window.OppgaveStatus.get(SLUG);
+      panel.querySelectorAll('[data-oppgavestatus-set]').forEach(btn => {
+        const value = btn.getAttribute('data-oppgavestatus-set');
+        const active = value === current;
+        btn.classList.toggle('is-active', active);
+        btn.setAttribute('aria-checked', active ? 'true' : 'false');
+      });
+      panel.setAttribute('data-current-status', current || '');
+    }
+
+    panel.querySelectorAll('[data-oppgavestatus-set]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const value = btn.getAttribute('data-oppgavestatus-set');
+        const current = window.OppgaveStatus.get(SLUG);
+        // Toggle off if clicking the active one
+        window.OppgaveStatus.set(SLUG, value === current ? null : value);
+      });
+    });
+
+    window.addEventListener('oppgavestatus:changed', render);
+    render();
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+</script>

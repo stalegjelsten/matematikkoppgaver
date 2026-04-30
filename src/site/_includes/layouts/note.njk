@@ -77,6 +77,9 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% endif %}
       {{ content | hideDataview | taggify | link | safe}}
       </article>
+      {% if tags and 'oppgave' in tags %}
+        {% include "components/oppgavestatusButtons.njk" %}
+      {% endif %}
       {% for imp in dynamics.common.afterContent %}
         {% include imp %}
       {% endfor %}

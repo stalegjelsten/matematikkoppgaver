@@ -99,6 +99,8 @@
     root.querySelectorAll('[data-global-action]').forEach(btn => {
       btn.addEventListener('click', () => handleGlobalAction(btn.dataset.globalAction, shareUrl));
     });
+
+    if (window.OppgaveStatus) window.OppgaveStatus.decorate(root);
   }
 
   function handleItemAction(i, action) {
@@ -250,6 +252,8 @@
     setupCallouts(body);
     setupLucide(body);
     await typesetMath(body);
+
+    if (window.OppgaveStatus) window.OppgaveStatus.decorate(root);
 
     applyMode(initialMode);
 

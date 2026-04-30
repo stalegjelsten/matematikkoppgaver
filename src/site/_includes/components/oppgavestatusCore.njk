@@ -1,0 +1,121 @@
+<script>
+(function() {
+  const KEY = 'oppgavestatus';
+  const VALID = new Set(['done', 'review', 'failed']);
+  const ICONS = {
+    done:   '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>',
+    review: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="23 4 23 10 17 10"/><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"/></svg>',
+    failed: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>'
+  };
+  const LABELS = {
+    done:   'Fikk det til',
+    review: 'Må repetere',
+    failed: 'Fikk det ikke til'
+  };
+
+  function read() {
+    try { return JSON.parse(localStorage.getItem(KEY) || '{}') || {}; }
+    catch { return {}; }
+  }
+  function writeAll(map) {
+    localStorage.setItem(KEY, JSON.stringify(map));
+  }
+  function get(slug) {
+    return read()[slug] || null;
+  }
+  function set(slug, status) {
+    const map = read();
+    if (!status || !VALID.has(status)) {
+      delete map[slug];
+    } else {
+      map[slug] = status;
+    }
+    writeAll(map);
+    window.dispatchEvent(new CustomEvent('oppgavestatus:changed', { detail: { slug, status: map[slug] || null } }));
+  }
+  function clearAll() {
+    writeAll({});
+    window.dispatchEvent(new CustomEvent('oppgavestatus:changed', { detail: { slug: null, status: null } }));
+  }
+
+  function makeBadge(status) {
+    if (!status || !VALID.has(status)) return null;
+    const span = document.createElement('span');
+    span.className = `oppgavestatus-badge is-${status}`;
+    span.setAttribute('title', LABELS[status]);
+    span.setAttribute('aria-label', LABELS[status]);
+    span.innerHTML = ICONS[status];
+    return span;
+  }
+
+  function pathFromHref(href) {
+    if (!href) return null;
+    let path;
+    try { path = new URL(href, window.location.origin).pathname; }
+    catch { return null; }
+    if (!path.endsWith('/')) path += '/';
+    return path;
+  }
+
+  // Sync a single decoratable element. Badge is placed as the first child
+  // (or before the link, depending on the host element type). Idempotent.
+  function syncElement(el, path) {
+    const status = path ? read()[path] : null;
+    let badge = el.querySelector(':scope > .oppgavestatus-badge');
+    if (!badge && el.tagName === 'A' && el.previousElementSibling
+        && el.previousElementSibling.classList
+        && el.previousElementSibling.classList.contains('oppgavestatus-badge')) {
+      badge = el.previousElementSibling;
+    }
+
+    if (status && VALID.has(status)) {
+      if (!badge) {
+        badge = makeBadge(status);
+        if (!badge) return;
+        if (el.tagName === 'A') {
+          el.parentNode.insertBefore(badge, el);
+        } else {
+          el.insertBefore(badge, el.firstChild);
+        }
+      } else {
+        badge.className = `oppgavestatus-badge is-${status}`;
+        badge.setAttribute('title', LABELS[status]);
+        badge.setAttribute('aria-label', LABELS[status]);
+        badge.innerHTML = ICONS[status];
+      }
+      el.classList.add('has-oppgavestatus');
+      el.setAttribute('data-oppgavestatus', status);
+    } else if (badge) {
+      badge.remove();
+      el.classList.remove('has-oppgavestatus');
+      el.removeAttribute('data-oppgavestatus');
+    }
+  }
+
+  // Decorate a container. Finds <a href> and elements with [data-url].
+  function decorate(container) {
+    if (!container) return;
+    container.querySelectorAll('a[href]').forEach(a => {
+      syncElement(a, pathFromHref(a.getAttribute('href')));
+    });
+    container.querySelectorAll('[data-url]').forEach(el => {
+      syncElement(el, pathFromHref(el.getAttribute('data-url')));
+    });
+  }
+
+  function decorateAll() {
+    // Whole-page decoration. Used after filetree fetch, oppgaveliste rerender, etc.
+    decorate(document.body);
+  }
+
+  // Auto-redecorate on changes
+  window.addEventListener('oppgavestatus:changed', decorateAll);
+  window.addEventListener('storage', e => { if (e.key === KEY) decorateAll(); });
+
+  window.OppgaveStatus = {
+    KEY, VALID, ICONS, LABELS,
+    read, get, set, clearAll,
+    makeBadge, decorate, decorateAll
+  };
+})();
+</script>
