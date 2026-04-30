@@ -296,6 +296,83 @@ I byen Draktenburg bor det 542 000 mennesker.
 
 ## Fasit
 
+a) $\underline{\underline{225\,000 \text{ ulike antrekk}}}$
+
+b) $\underline{\underline{P = \dfrac{1}{3}}}$
+
+c) **Minste antall nye plagg/skopar: $\underline{\underline{7}}$** (f.eks. 1 hodeplagg + 6 skopar)
+
+## Løsningsforslag
+
+### a
+
+Antrekket skal bestå av fem deler: ett hodeplagg, én skjorte, én jakke, én bukse og ett skopar. For hvert valg er alternativene uavhengige av hverandre, så vi bruker **multiplikasjonsprinsippet**:
+
+$$10 \cdot 20 \cdot 15 \cdot 15 \cdot 5 = \underline{\underline{225\,000}}$$
+
+Det er **225 000 forskjellige antrekk** mulig å lage.
+
+### b
+
+Tore tar med seg 3 tilfeldige sko fra 5 skopar, altså totalt 10 enkeltsko. Vi teller antall måter å velge 3 sko av 10:
+
+$$\binom{10}{3} = \frac{10!}{3! \cdot 7!} = 120$$
+
+Vi finner antall måter Tore *ikke* får med seg noe komplett skopar (altså at alle tre skoene er fra forskjellige par):
+
+- Velg 3 av de 5 parene: $\binom{5}{3} = 10$
+- Fra hvert valgte par velges én av to sko: $2^3 = 8$
+- Antall utfall uten noe par: $10 \cdot 8 = 80$
+
+Antall gunstige utfall (minst ett skopar):
+
+$$120 - 80 = 40$$
+
+Sannsynligheten for at Tore får med seg et skopar:
+
+$$P = \frac{40}{120} = \underline{\underline{\frac{1}{3} \approx 0{,}333}}$$
+
+### c
+
+> [!warning] Usikkert løsningsforslag
+> Dette løsningsforslaget er skrevet av KI og matematikk.net har en annen løsning. Vi har funnet at **7 nye plagg/skopar** (f.eks. 1 hodeplagg + 6 skopar) er minimum, mens matematikk.net mener **8 skopar** er minimum. Se [matematikk.net sitt løsningsforslag](https://matematikk.net/side/S1_2024_H%C3%B8st_L%C3%98SNING) og vurder selv.
+
+Drakt & Søm trenger å ha flere mulige antrekk enn 542 000. Nåværende antall er $10 \cdot 20 \cdot 15 \cdot 15 \cdot 5 = 225\,000$.
+
+Vi vil legge til færrest mulig nye plagg/skopar slik at produktet overstiger 542 000. For å minimere antall nye enheter lønner det seg å øke det faktoren som gir størst relativ økning per ny enhet.
+
+Relativ økning per ny enhet for hvert element:
+
+| Kategori | Opprinnelig | Ny faktor per ekstra enhet |
+|----------|-------------|---------------------------|
+| Hodeplagg | 10 | $\frac{11}{10} = 1{,}10$ |
+| Skjorte | 20 | $\frac{21}{20} = 1{,}05$ |
+| Jakke | 15 | $\frac{16}{15} \approx 1{,}07$ |
+| Bukse | 15 | $\frac{16}{15} \approx 1{,}07$ |
+| Skopar | 5 | $\frac{6}{5} = 1{,}20$ |
+
+Hvert nye skopar gir størst relativ effekt, så vi starter der. Vi sjekker systematisk:
+
+Med 7 ekstra skopar alene (5 + 7 = 12 skopar):
+
+$$10 \cdot 20 \cdot 15 \cdot 15 \cdot 12 = 540\,000 < 542\,000 \quad \text{✗}$$
+
+Med 7 ekstra totalt — 6 skopar + 1 hodeplagg (11 hodeplagg, 11 skopar):
+
+$$11 \cdot 20 \cdot 15 \cdot 15 \cdot 11 = 544\,500 > 542\,000 \quad \text{✓}$$
+
+Vi sjekker at 6 ekstra ikke er nok. Best mulig fordeling med 6 ekstra er f.eks. 6 skopar (5 + 6 = 11):
+
+$$10 \cdot 20 \cdot 15 \cdot 15 \cdot 11 = 495\,000 < 542\,000 \quad \text{✗}$$
+
+Eller 5 skopar + 1 hodeplagg:
+
+$$11 \cdot 20 \cdot 15 \cdot 15 \cdot 10 = 495\,000 < 542\,000 \quad \text{✗}$$
+
+Ingen fordeling av 6 ekstra plagg gir over 542 000.
+
+**Drakt & Søm må anskaffe minst 7 nye plagg/skopar**, for eksempel 1 hodeplagg og 6 skopar, slik at antallet mulige antrekk blir $544\,500 > 542\,000$.
+
 </div></div>
 
 
@@ -390,6 +467,26 @@ $$f(x) = \log_a(x)$$
 
 ## Fasit
 
+**$a = 5$**
+
+## Løsningsforslag
+
+Fra grafen avleser vi at $f(5) = 1$.
+
+Det betyr at
+
+$$\log_a(5) = 1$$
+
+Definisjonen av logaritme sier at $\log_a(5) = 1$ er det samme som $a^1 = 5$, altså
+
+$$a = 5$$
+
+**Verifisering:** Vi sjekker mot et annet avlest punkt, $f(25) \approx 2$:
+
+$$\log_5(25) = \log_5(5^2) = 2 \checkmark$$
+
+Dette stemmer med grafen, så **$\underline{\underline{a = 5}}$**.
+
 </div></div>
 
 
@@ -423,6 +520,95 @@ Hassan endrer vanene sine og kjøper vanlige knekkebrødpakker på hverdager og 
 
 ## Fasit
 
+a) $\underline{\underline{n = 224 \text{ dager}}}$
+
+b) $\underline{\underline{85 \, \mathrm{kr}}}$
+
+c) $\underline{\underline{P \approx 0{,}729}}$
+
+## Løsningsforslag
+
+### a
+
+> [!warning] Usikkert løsningsforslag
+> Dette løsningsforslaget er skrevet av KI og matematikk.net har en annen løsning. Vi har funnet at minste antall dager er **224**, mens matematikk.net oppgir **223**. Det er et tolkningsspørsmål: $0{,}999^{223} \approx 0{,}80016 > 0{,}80$, så strengt sett oppfylles ikke kravet før dag 224. Se [matematikk.net sitt løsningsforslag](https://matematikk.net/side/S1_2024_H%C3%B8st_L%C3%98SNING) og vurder selv.
+
+Vi lar $X$ være antall gavekort Hassan finner på $n$ dager. Siden hver pakke er et uavhengig forsøk med to utfall (gavekort eller ikke), samme sannsynlighet $p = \frac{1}{1000}$ for gevinst i hver pakke, og Hassan kjøper én pakke per dag, er $X$ binomisk fordelt med $n$ forsøk og $p = \frac{1}{1000}$.
+
+Vi vil finne minste $n$ slik at
+
+$$P(X \geq 1) \geq 0{,}20$$
+
+Vi bruker komplementregelen:
+
+$$P(X \geq 1) = 1 - P(X = 0) = 1 - \left(\frac{999}{1000}\right)^n$$
+
+Vi setter opp ulikheten:
+
+$$1 - \left(\frac{999}{1000}\right)^n \geq 0{,}20$$
+
+$$\left(\frac{999}{1000}\right)^n \leq 0{,}80$$
+
+Vi løser dette i GeoGebra CAS:
+
+![CAS-utregning for oppgave 4a og 4b](/img/user/_resources/s1-h24-2-4.png)
+
+CAS gir $n \approx 223{,}03$, altså er minste hele antall $n = 224$.
+
+**Hassan må kjøpe knekkebrød i minst $\underline{\underline{224 \text{ dager}}}$ før sannsynligheten for å ha vunnet minst én reise er 20 %.**
+
+### b
+
+Overskudd per vanlige pakke:
+
+$$\text{Inntekt} - \text{Produksjon} - \text{Forventet gevinst} = 40 - 10 - 5000 \cdot \frac{1}{1000} = 40 - 10 - 5 = 25 \, \mathrm{kr}$$
+
+For Gullknekk med ukjent pris $p$:
+
+$$p - 10 - 5000 \cdot \frac{1}{100} = p - 10 - 50 = p - 60$$
+
+Vi setter overskuddet lik 25 kr og løser i GeoGebra CAS (se bilde over):
+
+$$p - 60 = 25 \implies p = 85$$
+
+**Trollmat AS må ta $\underline{\underline{85 \, \mathrm{kr}}}$ per pakke Gullknekk.**
+
+### c
+
+> [!warning] Usikkert løsningsforslag
+> Dette løsningsforslaget er skrevet av KI og matematikk.net har en annen løsning. Vi har funnet at sannsynligheten er ca. **$0{,}729$ (≈ 73 %)**, mens matematikk.net oppgir **0,36 %**. Vår verdi er verifisert både ved simulering og eksakt utregning ($1 - 0{,}999^{260} \cdot 0{,}99^{104} \approx 0{,}7289$). Se [matematikk.net sitt løsningsforslag](https://matematikk.net/side/S1_2024_H%C3%B8st_L%C3%98SNING) og vurder selv.
+
+Hassan kjøper 5 vanlige pakker per uke og 2 Gullknekk-pakker per uke i 52 uker:
+
+- Vanlige pakker: $5 \cdot 52 = 260$ pakker, $p_v = \frac{1}{1000}$
+- Gullknekk-pakker: $2 \cdot 52 = 104$ pakker, $p_g = \frac{1}{100}$
+
+Vi simulerer 100 000 år og teller hvor mange ganger Hassan vinner minst én reise:
+
+```python
+import random
+random.seed(42)
+N = 100000
+vunnet = 0
+for _ in range(N):
+    vinst = 0
+    for _ in range(260):  # vanlige pakker
+        if random.random() < 1/1000:
+            vinst += 1
+    for _ in range(104):  # Gullknekk
+        if random.random() < 1/100:
+            vinst += 1
+    if vinst >= 1:
+        vunnet += 1
+print(vunnet/N)  # ≈ 0,729
+```
+
+Simuleringen gir $\approx 0{,}729$, som stemmer godt med den eksakte verdien:
+
+$$P(\text{minst én gevinst}) = 1 - (0{,}999)^{260} \cdot (0{,}99)^{104} \approx 0{,}7289$$
+
+**Sannsynligheten for at Hassan vinner minst én reise i løpet av 52 uker er $\underline{\underline{P \approx 0{,}729}}$.**
+
 </div></div>
 
 
@@ -444,6 +630,57 @@ Stephanie leier ut parkeringsplasser. Hun leier ut plasser for 1000 kroner per p
 >b) Hva er den største mulige månedlige inntekten som Stephanie kan få?
 
 ## Fasit
+
+a) Stephanie har $\underline{\underline{30}}$ parkeringsplasser.
+b) Maksimal månedlig inntekt er $\underline{\underline{31\,250 \, \mathrm{kr}}}$, med pris $1\,250 \, \mathrm{kr}$ per plass og 25 utleide plasser.
+
+## Løsningsforslag
+
+Vi bruker GeoGebra CAS.
+
+![CAS-utregning](/img/user/_resources/s1-h24-2-5.png)
+
+### a
+
+La $n$ være totalt antall parkeringsplasser. Med pris $1\,000 \, \mathrm{kr}$ per plass er samtlige $n$ plasser utleid, og inntekten er $1\,000 \cdot n$.
+
+Dersom prisen økes til $1\,500 \, \mathrm{kr}$ (en økning på $500 \, \mathrm{kr}$), minker antall utleide plasser med $500/50 = 10$. Antall utleide plasser blir da $n - 10$.
+
+Vi setter opp likningen for at inntekten skal være lik:
+
+$$1\,500 \cdot (n - 10) = 1\,000 \cdot n$$
+
+CAS (linje 1) gir $n = 30$.
+
+**Stephanie har $\underline{\underline{30}}$ parkeringsplasser.** $\square$
+
+### b
+
+La $p$ være prisen per plass i kroner. Antall plasser som er utleid ved en gitt pris $p$:
+
+- Ved pris $1\,000 \, \mathrm{kr}$: alle 30 plasser utleid.
+- For hver $50 \, \mathrm{kr}$ prisøkning over $1\,000 \, \mathrm{kr}$ minker antall utleide plasser med 1.
+- Antall utleide plasser: $30 - \dfrac{p - 1\,000}{50} = 50 - \dfrac{p}{50}$
+
+Inntektsfunksjonen blir:
+
+$$I(p) = p \cdot \left(50 - \frac{p}{50}\right) = 50p - \frac{p^2}{50}$$
+
+Vi definerer $I(p)$ i CAS (linje 2) og løser $I'(p) = 0$ (linje 3):
+
+$$I'(p) = 50 - \frac{p}{25} = 0 \implies p = 1\,250$$
+
+CAS bekrefter $p = 1\,250$.
+
+Siden $I''(p) = -\dfrac{1}{25} < 0$ er dette et maksimum.
+
+Maksimal inntekt (linje 4):
+
+$$I(1\,250) = 50 \cdot 1\,250 - \frac{1\,250^2}{50} = 62\,500 - 31\,250 = 31\,250$$
+
+Antall utleide plasser ved optimal pris: $50 - \dfrac{1\,250}{50} = 50 - 25 = 25$.
+
+**Den største mulige månedlige inntekten er $\underline{\underline{31\,250 \, \mathrm{kr}}}$, med pris $1\,250 \, \mathrm{kr}$ per plass og 25 utleide plasser.**
 
 </div></div>
 
@@ -476,6 +713,69 @@ Skipsmotor AS frykter at høy produksjon vil føre til dårligere kvalitet. De a
 >c) Bestem det største overskuddet Skipsmotor AS kan få dersom denne antakelsen er riktig.
 
 ## Fasit
+
+a) $\underline{\underline{I'(15) = 235}}$ (i 1000 kr). Den 16. motoren gir en ekstra inntekt på omtrent 235 000 kr.
+b) $\underline{\underline{x = 180 \text{ motorer}}}$, maksimalt overskudd $\underline{\underline{O(180) = 15{\ }600}}$ (i 1000 kr) $= 15{,}6 \text{ mill. kr}$
+c) Maksimalt overskudd $\underline{\underline{\approx 14{\ }619}}$ (i 1000 kr) $\approx 14{,}6 \text{ mill. kr}$ ved produksjon av $\underline{\underline{x \approx 186 \text{ motorer}}}$
+
+## Løsningsforslag
+
+Vi definerer funksjonene og løser alle deloppgavene i GeoGebra CAS:
+
+![CAS-utregning for oppgave 6](/img/user/_resources/s1-h24-2-6.png)
+
+### a
+
+Vi skal finne $I'(15)$ og tolke svaret.
+
+GeoGebra CAS (linje 3–4) gir
+
+$$I'(x) = -x + 250$$
+
+$$I'(15) = \mathbf{235}$$
+
+**$\underline{\underline{I'(15) = 235}}$** (i 1000 kr)
+
+Praktisk tolkning: Grenseinntekten ved $x = 15$ er 235 (i 1000 kr). Det betyr at når Skipsmotor AS allerede har solgt 15 båtmotorer, vil salg av én motor til gi en ekstra inntekt på omtrent **235 000 kr**.
+
+### b
+
+Vi setter opp overskuddsfunksjonen og finner maksimum i GeoGebra CAS (linje 5–7):
+
+$$O(x) = I(x) - K(x) = \left(250x - 0{,}5x^2\right) - \left(70x + 600\right) = -\frac{1}{2}x^2 + 180x - 600$$
+
+CAS løser $O'(x) = 0$ og gir $x = 180$, og $O(180) = 15{\ }600$.
+
+Siden ledende koeffisient er negativ ($-\tfrac{1}{2}$) er $x = 180$ et maksimum.
+
+Skipsmotor AS bør selge **$\underline{\underline{180 \text{ motorer}}}$** for størst mulig overskudd. Det maksimale overskuddet er **$\underline{\underline{15{\ }600 \text{ (i 1000 kr)}}}$**, altså **15,6 mill. kr**.
+
+### c
+
+> [!warning] Usikkert løsningsforslag
+> Dette løsningsforslaget er skrevet av KI og matematikk.net har en annen løsning. Vi har funnet at maksimalt overskudd er ca. **14,6 mill. kr** ved produksjon av **186 motorer** (172 solgte), mens matematikk.net oppgir **12,75 mill. kr** ved 172 enheter. Vår beregning er konsistent uavhengig av om man regner ut fra antall solgte eller produserte motorer. Se [matematikk.net sitt løsningsforslag](https://matematikk.net/side/S1_2024_H%C3%B8st_L%C3%98SNING) og vurder selv.
+
+Vi antar at de 50 første motorene produseres uten feil, mens 10 % av motorene etter dette ikke kan selges. Av de motorene som produseres etter de første 50, kan altså 90 % selges.
+
+Antall solgte motorer som funksjon av antall produserte ($x \geq 50$):
+
+$$s(x) = 50 + 0{,}9 \cdot (x - 50) = 0{,}9x + 5$$
+
+Det nye overskuddet er inntekt fra solgte motorer minus produksjonskostnad for alle $x$ produserte:
+
+$$O_2(x) = I(s(x)) - K(x)$$
+
+GeoGebra CAS (linje 8–11) gir
+
+$$O_2(x) = -\frac{81}{200}x^2 + \frac{301}{2}x + \frac{1275}{2}$$
+
+CAS løser $O_2'(x) = 0$ og gir $x = \dfrac{15050}{81} \approx 185{,}80$.
+
+Vi runder til $x = 186$ (hele motorer) og beregner
+
+$$O_2(186) = \frac{365478}{25} \approx 14{\ }619 \text{ (i 1000 kr)}$$
+
+Det største overskuddet Skipsmotor AS kan oppnå under den nye antakelsen er **$\underline{\underline{\approx 14{\ }619 \text{ (i 1000 kr)}}}$**, altså omtrent **14,6 mill. kr**, ved produksjon av **$\underline{\underline{186 \text{ motorer}}}$**.
 
 </div></div>
 

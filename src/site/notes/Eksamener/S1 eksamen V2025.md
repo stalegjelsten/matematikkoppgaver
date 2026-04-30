@@ -50,6 +50,32 @@ Table: {.eksamen-oversikt}
 
 ## Fasit
 
+$\underline{\underline{f'(x) = -2e^{-2x} + x^4}}$
+
+## Løsningsforslag
+
+Vi deriverer ledd for ledd.
+
+**Første ledd: $e^{-2x}$**
+
+Vi bruker kjerneregelen med $u = -2x$ og $e^u$:
+
+$$\left(e^{-2x}\right)' = e^{-2x} \cdot (-2x)' = e^{-2x} \cdot (-2) = -2e^{-2x}$$
+
+**Andre ledd: $\frac{1}{5}x^5$**
+
+Vi bruker potensregelen:
+
+$$\left(\frac{1}{5}x^5\right)' = \frac{1}{5} \cdot 5x^4 = x^4$$
+
+**Tredje ledd: $2\pi$**
+
+$2\pi$ er en konstant, og den deriverte av en konstant er 0.
+
+**Samlet:**
+
+$$f'(x) = \textcolor{seagreen}{-2e^{-2x}} + \textcolor{steelblue}{x^4}$$
+
 </div></div>
 
 
@@ -161,6 +187,56 @@ Løs likningene
 >b) $3\lg x + 2\lg x^2 + \lg\dfrac{1}{x^9} = 2$
 
 ## Fasit
+
+a) $\underline{\underline{x = \dfrac{2}{3}}}$
+
+b) $\underline{\underline{x = \dfrac{1}{10}}}$
+
+## Løsningsforslag
+
+### a
+
+Vi skriver 81 som en potens med grunntall 3:
+
+$$81 = 3^4$$
+
+Likningen blir da
+
+$$3^{3x+2} - 5 = 76$$
+
+$$3^{3x+2} = 81 = 3^4$$
+
+Siden grunntalene er like, kan vi sette eksponentene like:
+
+$$3x + 2 = 4$$
+
+$$3x = 2$$
+
+$$\underline{\underline{x = \dfrac{2}{3}}}$$
+
+### b
+
+Vi bruker logaritmereglene for å forenkle venstresiden:
+
+$$3\lg x + 2\lg x^2 + \lg\dfrac{1}{x^9}$$
+
+Først bruker vi potensregelen $\lg a^n = n \lg a$:
+
+$$= 3\lg x + 2 \cdot 2\lg x + \lg x^{-9}$$
+
+$$= 3\lg x + 4\lg x + (-9)\lg x$$
+
+$$= (3 + 4 - 9)\lg x$$
+
+$$= -2\lg x$$
+
+Likningen er altså
+
+$$-2\lg x = 2$$
+
+$$\lg x = -1$$
+
+$$\underline{\underline{x = 10^{-1} = \dfrac{1}{10}}}$$
 
 </div></div>
 

@@ -132,6 +132,28 @@ $$
 >
 >[[Løsningsforslag/Løsningsforslag R2 eksamen V2024#Oppgave 1-2\|Løsningsforslag R2 eksamen V2024#Oppgave 1-2]]
 
+## Fasit
+
+**$\underline{\underline{\dfrac{\sin^4(x)}{4} + C}}$**
+
+## Løsningsforslag
+
+Vi bruker substitusjonen
+
+$$u = \sin(x) \implies \frac{\mathrm{d}u}{\mathrm{d}x} = \cos(x) \implies \mathrm{d}u = \cos(x)\,\mathrm{d}x$$
+
+Integralet skrives om:
+
+$$\int \sin^3(x) \cdot \cos(x)\,\mathrm{d}x = \int u^3\,\mathrm{d}u$$
+
+Vi integrerer:
+
+$$\int u^3\,\mathrm{d}u = \frac{u^4}{4} + C$$
+
+Vi substituerer tilbake $u = \sin(x)$:
+
+$$\frac{u^4}{4} + C = \mathbf{\underline{\underline{\dfrac{\sin^4(x)}{4} + C}}}$$
+
 
 </div></div>
 
@@ -234,6 +256,88 @@ En rett linje $m$ går gjennom punktet $P$, er parallell med planet $\alpha$ og 
 >
 >[[Løsningsforslag/Løsningsforslag R2 eksamen V2024#Oppgave 1-4\|Løsningsforslag R2 eksamen V2024#Oppgave 1-4]]
 
+## Fasit
+
+a) $\underline{\underline{\text{Areal} = \dfrac{\sqrt{26}}{2} \approx 2{,}55}}$
+
+b) $\underline{\underline{d = \dfrac{\sqrt{65}}{5} \approx 1{,}61}}$
+
+c) $\underline{\underline{\ell \colon (x, y, z) = (-2 + t,\ 1 + 4t,\ 4 - 3t)}}$
+
+d) $\underline{\underline{D = \left(0,\ 0,\ \dfrac{10}{3}\right)}}$
+
+## Løsningsforslag
+
+### a
+
+Vi finner vektorene $\overrightarrow{AB}$ og $\overrightarrow{AC}$:
+
+$$\overrightarrow{AB} = B - A = (4-1,\ 1-1,\ 1-0) = (3, 0, 1)$$
+
+$$\overrightarrow{AC} = C - A = (2-1,\ 0-1,\ -1-0) = (1, -1, -1)$$
+
+Kryssprodukt:
+
+$$\overrightarrow{AB} \times \overrightarrow{AC} = \begin{vmatrix} \mathbf{i} & \mathbf{j} & \mathbf{k} \\ 3 & 0 & 1 \\ 1 & -1 & -1 \end{vmatrix}$$
+
+$$= \mathbf{i}(0\cdot(-1) - 1\cdot(-1)) - \mathbf{j}(3\cdot(-1) - 1\cdot 1) + \mathbf{k}(3\cdot(-1) - 0\cdot 1)$$
+
+$$= \mathbf{i}(0+1) - \mathbf{j}(-3-1) + \mathbf{k}(-3-0) = (1, 4, -3)$$
+
+Lengden av kryssproduktet:
+
+$$|\overrightarrow{AB} \times \overrightarrow{AC}| = \sqrt{1^2 + 4^2 + (-3)^2} = \sqrt{1 + 16 + 9} = \sqrt{26}$$
+
+Arealet av trekanten er halvparten av parallelogrammet utspent av $\overrightarrow{AB}$ og $\overrightarrow{AC}$:
+
+$$\text{Areal} = \frac{1}{2}|\overrightarrow{AB} \times \overrightarrow{AC}| = \frac{\sqrt{26}}{2} \approx \mathbf{2{,}55}$$
+
+### b
+
+Avstanden fra et punkt $C$ til linja gjennom $A$ og $B$ er:
+
+$$d = \frac{|\overrightarrow{AB} \times \overrightarrow{AC}|}{|\overrightarrow{AB}|}$$
+
+Vi beregner $|\overrightarrow{AB}|$:
+
+$$|\overrightarrow{AB}| = \sqrt{3^2 + 0^2 + 1^2} = \sqrt{10}$$
+
+Dermed:
+
+$$d = \frac{\sqrt{26}}{\sqrt{10}} = \sqrt{\frac{26}{10}} = \frac{\sqrt{26}}{\sqrt{10}} \cdot \frac{\sqrt{10}}{\sqrt{10}} = \frac{\sqrt{260}}{10} = \frac{\sqrt{4 \cdot 65}}{10} = \frac{2\sqrt{65}}{10} = \frac{\sqrt{65}}{5} \approx \mathbf{1{,}61}$$
+
+### c
+
+Linja $\ell$ gjennom $P(-2, 1, 4)$ og vinkelrett på planet $\alpha$ har retningsvektor lik normalvektoren til $\alpha$.
+
+Normalvektoren til $\alpha$ er $\mathbf{n} = \overrightarrow{AB} \times \overrightarrow{AC} = (1, 4, -3)$ (beregnet i oppgave a).
+
+Parameterframstilling for $\ell$:
+
+$$\ell \colon (x, y, z) = (-2, 1, 4) + t(1, 4, -3) = (-2 + t,\ 1 + 4t,\ 4 - 3t), \quad t \in \mathbb{R}$$
+
+### d
+
+Punkt $D$ ligger på $z$-aksen, så $D = (0, 0, d)$ for et tall $d$.
+
+Linja $m$ gjennom $P(-2, 1, 4)$ og $D$ er parallell med planet $\alpha$. Det betyr at retningsvektoren $\overrightarrow{PD}$ er vinkelrett på normalvektoren $\mathbf{n} = (1, 4, -3)$.
+
+Vi beregner $\overrightarrow{PD}$:
+
+$$\overrightarrow{PD} = D - P = (0-(-2),\ 0-1,\ d-4) = (2, -1, d-4)$$
+
+Betingelsen $\overrightarrow{PD} \perp \mathbf{n}$ gir $\overrightarrow{PD} \cdot \mathbf{n} = 0$:
+
+$$1 \cdot 2 + 4 \cdot (-1) + (-3)(d-4) = 0$$
+
+$$2 - 4 - 3d + 12 = 0$$
+
+$$10 - 3d = 0$$
+
+$$d = \frac{10}{3}$$
+
+Dermed er $D = \left(0,\ 0,\ \dfrac{10}{3}\right)$.
+
 
 </div></div>
 
@@ -260,6 +364,62 @@ $$f(x) = 2 \cdot \sin\left(\frac{\pi}{6}x - \frac{\pi}{3}\right) - 1, \quad D_f 
 >[!question]- Fasit
 >
 >[[Løsningsforslag/Løsningsforslag R2 eksamen V2024#Oppgave 1-5\|Løsningsforslag R2 eksamen V2024#Oppgave 1-5]]
+
+## Fasit
+
+a) $\underline{\underline{x \in \{3,\, 7,\, 15,\, 19\}}}$
+
+b) Amplitude: $\underline{\underline{2}}$, likevektslinje: $\underline{\underline{y = -1}}$, periode: $\underline{\underline{12}}$, forskyvning: $\underline{\underline{2 \text{ mot høyre}}}$
+
+## Løsningsforslag
+
+### a
+
+Vi skal løse $f(x) = 0$:
+
+$$2\sin\!\left(\frac{\pi}{6}x - \frac{\pi}{3}\right) - 1 = 0$$
+
+$$\sin\!\left(\frac{\pi}{6}x - \frac{\pi}{3}\right) = \frac{1}{2}$$
+
+Vi setter $u = \dfrac{\pi}{6}x - \dfrac{\pi}{3}$ og løser $\sin u = \dfrac{1}{2}$.
+
+Sinus er $\dfrac{1}{2}$ for $u = \dfrac{\pi}{6} + 2n\pi$ og $u = \pi - \dfrac{\pi}{6} + 2n\pi = \dfrac{5\pi}{6} + 2n\pi$, der $n \in \mathbb{Z}$.
+
+**Tilfelle 1:**
+
+$$\frac{\pi}{6}x - \frac{\pi}{3} = \frac{\pi}{6} + 2n\pi$$
+
+$$\frac{\pi}{6}x = \frac{\pi}{6} + \frac{\pi}{3} + 2n\pi = \frac{\pi}{2} + 2n\pi$$
+
+$$x = 3 + 12n$$
+
+**Tilfelle 2:**
+
+$$\frac{\pi}{6}x - \frac{\pi}{3} = \frac{5\pi}{6} + 2n\pi$$
+
+$$\frac{\pi}{6}x = \frac{5\pi}{6} + \frac{\pi}{3} + 2n\pi = \frac{7\pi}{6} + 2n\pi$$
+
+$$x = 7 + 12n$$
+
+Vi finner løsningene i $D_f = \langle 0, 20 \rangle$:
+
+- Tilfelle 1: $x = 3 + 12n$ gir $x = 3$ (for $n=0$) og $x = 15$ (for $n=1$).
+- Tilfelle 2: $x = 7 + 12n$ gir $x = 7$ (for $n=0$) og $x = 19$ (for $n=1$).
+
+**$\underline{\underline{x \in \{3,\, 7,\, 15,\, 19\}}}$**
+
+### b
+
+Vi skriver funksjonen om til standardform $f(x) = A\sin\!\left(\frac{2\pi}{T}(x - x_0)\right) + d$:
+
+$$f(x) = 2\sin\!\left(\frac{\pi}{6}(x - 2)\right) - 1$$
+
+Dette leser vi av slik (vi trekker ut $\dfrac{\pi}{6}$ fra parentesen: $\dfrac{\pi}{6}x - \dfrac{\pi}{3} = \dfrac{\pi}{6}(x-2)$):
+
+- **Amplitude:** $A = \textcolor{seagreen}{2}$
+- **Likevektslinje:** $y = \textcolor{steelblue}{-1}$ (vertikal forskyvning $d = -1$)
+- **Periode:** $T = \dfrac{2\pi}{\pi/6} = \textcolor{orange}{12}$
+- **Horisontal forskyvning:** $x_0 = \textcolor{tomato}{2}$ mot høyre (grafen er forskjøvet 2 enheter i positiv $x$-retning sammenlignet med $2\sin\!\left(\dfrac{\pi}{6}x\right) - 1$)
 
 
 </div></div>
@@ -293,6 +453,76 @@ Her er posisjonen gitt i meter, og koordinatsystemet er lagt slik at origo er i 
 >
 >[[Løsningsforslag/Løsningsforslag R2 eksamen V2024#Oppgave 2-1\|Løsningsforslag R2 eksamen V2024#Oppgave 2-1]]
 
+## Fasit
+
+a) $\underline{\underline{|\vec{v}(0)| = \sqrt{974} \approx 31{,}2 \, \mathrm{m/s}}}$
+
+b) **Ballen lander $\dfrac{50\sqrt{37}}{7} \approx 43{,}4 \, \mathrm{m}$ fra hjørnemerket.**
+
+c) $\underline{\underline{|\vec{v}| = 5\sqrt{37} \approx 30{,}4 \, \mathrm{m/s}}}$, høyde $\underline{\underline{2{,}5 \, \mathrm{m}}}$
+
+## Løsningsforslag
+
+Vi bruker GeoGebra CAS til å definere posisjonsvektoren og beregne alle størrelser.
+
+![GeoGebra CAS – hjørnespark-vektorer](/img/user/_resources/r2-v24-2-1.png)
+
+### a
+
+Farten er lengden av hastighetsvektoren $\vec{v}(t) = \vec{r}'(t)$.
+
+Vi definerer $\vec{r}(t) = (30t,\ 5t,\ 7t - 4{,}9t^2)$ og deriverer (linje 1–2 i CAS).
+
+Ved $t = 0$ (idet ballen sparkes) gir CAS:
+
+$$\vec{v}(0) = (30,\ 5,\ 7)$$
+
+$$|\vec{v}(0)| = \sqrt{30^2 + 5^2 + 7^2} = \sqrt{900 + 25 + 49} = \sqrt{974} \approx 31{,}2$$
+
+**Farten til ballen idet den blir skutt er $\underline{\underline{\sqrt{974} \approx 31{,}2 \, \mathrm{m/s}}}$.**
+
+### b
+
+Ballen treffer banen igjen når $z$-koordinaten er 0 (og $t > 0$). Vi setter opp likningen
+
+$$7t - 4{,}9t^2 = 0$$
+
+CAS gir $t = 0$ eller $t = \dfrac{10}{7}$ s (linje 5). Vi bruker $t = \dfrac{10}{7}$.
+
+Posisjonen ved landing er (linje 6):
+
+$$\vec{r}\!\left(\frac{10}{7}\right) = \left(\frac{300}{7},\ \frac{50}{7},\ 0\right)$$
+
+Avstand fra origo (hjørnemerket) er lengden av $(x, y)$-komponenten:
+
+$$d = \sqrt{\left(\frac{300}{7}\right)^{\!2} + \left(\frac{50}{7}\right)^{\!2}} = \frac{50\sqrt{37}}{7} \approx 43{,}4$$
+
+CAS bekrefter dette i linje 7.
+
+**Ballen er $\underline{\underline{\dfrac{50\sqrt{37}}{7} \approx 43{,}4 \, \mathrm{m}}}$ fra hjørnemerket når den treffer banen.**
+
+### c
+
+Ballen er på sitt høyeste når $z$-komponenten av hastighetsvektoren er null:
+
+$$v_z = 7 - 9{,}8t = 0 \implies t = \frac{5}{7} \, \mathrm{s}$$
+
+CAS bekrefter $t = \dfrac{5}{7}$ i linje 8.
+
+Da er hastighetsvektoren (linje 9):
+
+$$\vec{v}\!\left(\frac{5}{7}\right) = (30,\ 5,\ 0)$$
+
+Farten er (linje 10):
+
+$$|\vec{v}| = \sqrt{30^2 + 5^2} = \sqrt{925} = 5\sqrt{37} \approx 30{,}4 \, \mathrm{m/s}$$
+
+Høyden ved dette tidspunktet er:
+
+$$z\!\left(\frac{5}{7}\right) = 7 \cdot \frac{5}{7} - 4{,}9 \cdot \left(\frac{5}{7}\right)^{\!2} = 5 - \frac{49}{10} \cdot \frac{25}{49} = 5 - 2{,}5 = 2{,}5$$
+
+**Farten på det høyeste punktet er $\underline{\underline{5\sqrt{37} \approx 30{,}4 \, \mathrm{m/s}}}$, og ballen er da $\underline{\underline{2{,}5 \, \mathrm{m}}}$ over fotballbanen.**
+
 
 </div></div>
 
@@ -315,9 +545,47 @@ Bildet nedenfor viser halve snittflaten til en pære som er skåret over på mid
 >[!oppgave]
 >Bruk informasjonen i bildet til å bestemme det omtrentlige volumet av pæra.
 
->[!question]- Fasit
->
->[[Løsningsforslag/Løsningsforslag R2 eksamen V2024#Oppgave 2-2\|Løsningsforslag R2 eksamen V2024#Oppgave 2-2]]
+## Fasit
+
+$\underline{\underline{V \approx 310 \, \mathrm{cm}^3}}$
+
+## Løsningsforslag
+
+Vi skal bestemme det omtrentlige volumet av pæra ved å modellere konturen med en funksjon og beregne volumet av omdreiningslegemet rundt $x$-aksen.
+
+**Steg 1 – Les av datapunkter fra bildet**
+
+Vi leser av omtrentlige koordinater langs den øvre kanten av pærekonturen (halvt snitt) fra koordinatsystemet i bildet. Enheten er centimeter:
+
+| $x$ | $0$     | $1$     | $2$     | $3$     | $4$     | $5$     | $6$     | $7$     | $8$     | $9$     | $10$    | $11$    | $12$    |
+| --- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| $y$ | $1{,}0$ | $2{,}1$ | $3{,}0$ | $3{,}6$ | $3{,}9$ | $3{,}9$ | $3{,}7$ | $3{,}4$ | $2{,}9$ | $2{,}2$ | $1{,}4$ | $0{,}7$ | $0{,}0$ |
+
+Pæra strekker seg fra $x = 0$ til $x \approx 12 \, \mathrm{cm}$, med maksimal bredde $y \approx 3{,}9 \, \mathrm{cm}$ ved $x \approx 4{-}5 \, \mathrm{cm}$.
+
+**Steg 2 – Finn regresjonspolynom i GeoGebra**
+
+Vi legger inn datapunktene i GeoGebra og bruker polynomregresjon av grad 4 (`Polynomregresjon(L, 4)` der `L` er listen av punkter). Dette gir funksjonen $f$ som modellerer halve pærekonturen:
+
+$$f(x) \approx 0{,}000312x^4 - 0{,}001838x^3 - 0{,}1356x^2 + 1{,}2739x + 0{,}9923$$
+
+![Datapunkter og regresjonskurve for pærekonturen](/img/user/_resources/r2-v24-2-2-graf.png){width=80%}
+
+Kurven passer godt til de avleste punktene.
+
+**Steg 3 – Beregn volumet med CAS**
+
+Volumet av omdreiningslegemet som dannes når grafen til $f$ roteres rundt $x$-aksen er gitt ved:
+
+$$V = \pi \int_0^{12} (f(x))^2 \, \mathrm{d}x$$
+
+Vi beregner integralet i GeoGebra CAS:
+
+![CAS-beregning av volumet](/img/user/_resources/r2-v24-2-2-cas.png){width=80%}
+
+GeoGebra gir $V \approx 309{,}55 \, \mathrm{cm}^3$.
+
+**Svar:** Det omtrentlige volumet av pæra er $\underline{\underline{V \approx 310 \, \mathrm{cm}^3}}$.
 
 
 </div></div>
@@ -348,6 +616,97 @@ $x$ er antall dager etter 31. desember 2023 slik at $x = 1$ svarer til 1. januar
 >[!question]- Fasit
 >
 >[[Løsningsforslag/Løsningsforslag R2 eksamen V2024#Oppgave 2-3\|Løsningsforslag R2 eksamen V2024#Oppgave 2-3]]
+
+## Fasit
+
+a) Se forklaring i løsningsforslaget.
+
+b) Tidspunktet endrer seg 3 minutter per dag rundt **$\underline{\underline{16. \text{ februar}}}$**, **$\underline{\underline{14. \text{ mai}}}$**, **$\underline{\underline{16. \text{ august}}}$** og **$\underline{\underline{12. \text{ november}}}$**.
+
+c) Tidspunktet endrer seg raskest rundt **$\underline{\underline{31. \text{ mars}}}$** (og 29. september) med ca. $\underline{\underline{4{,}1 \text{ min/dag}}}$.
+
+## Løsningsforslag
+
+### a
+
+Modellen er $T(x) = 4 \cdot \sin(0{,}0055\pi \cdot x - 0{,}5\pi) + 19$.
+
+**Likevektslinjen 19** svarer til gjennomsnittet av minimums- og maksimumsverdi:
+
+$$\frac{15 + 23}{2} = 19 \checkmark$$
+
+**Amplituden 4** svarer til halvparten av variasjonsbredden:
+
+$$\frac{23 - 15}{2} = 4 \checkmark$$
+
+Tidspunktet varierer altså mellom $19 - 4 = 15$ (kl. 15:00) og $19 + 4 = 23$ (kl. 23:00).
+
+**Perioden** finner vi fra koeffisienten foran $x$ i argumentet:
+
+$$P = \frac{2\pi}{0{,}0055\pi} = \frac{2}{0{,}0055} \approx 363{,}6 \text{ dager} \approx 1 \text{ år} \checkmark$$
+
+**Faseforskyvningen** $-0{,}5\pi$ gir minimum der $\sin = -1$, altså når
+
+$$0{,}0055\pi \cdot x - 0{,}5\pi = -0{,}5\pi \implies x = 0$$
+
+$x = 0$ svarer til 31. desember 2023, og minimum $T = 15$ (kl. 15:00) tidligst på vinteren er rimelig.
+
+**Kontroll 1. april** ($x = 91$, siden januar har 31 dager, februar 29 (skuddår) og mars 31):
+
+$$T(91) = 4 \cdot \sin(0{,}0055\pi \cdot 91 - 0{,}5\pi) + 19 \approx 19{,}01 \approx 19 \checkmark$$
+
+Lyset slår seg på ca. kl. 19:00 den 1. april.
+
+### b
+
+Vi bruker GeoGebra CAS til å definere $T(x)$, beregne den deriverte og løse $|T'(x)| = 0{,}05$ (siden $3 \text{ min/dag} = 0{,}05 \text{ t/dag}$).
+
+![GeoGebra CAS: T(x), derivert og løsninger av T'(x)=±0,05](/img/user/_resources/r2-v24-2-3.png)
+
+Fra CAS-utklippet ser vi:
+
+$$T'(x) = \frac{11}{500}\pi \cdot \cos\left(\frac{11}{2000}\pi x - \frac{1}{2}\pi\right) \approx 0{,}06912 \cdot \cos(0{,}01728x - 1{,}5708)$$
+
+**$T'(x) = 0{,}05$** (lyset slår seg på 3 min *senere* per dag):
+
+$$x \approx 46{,}81 \quad \text{og} \quad x \approx 135{,}01$$
+
+**$T'(x) = -0{,}05$** (lyset slår seg på 3 min *tidligere* per dag):
+
+$$x \approx 228{,}62 \quad \text{og} \quad x \approx 316{,}83$$
+
+Vi konverterer til datoer (med $x = 1$ som 1. januar 2024):
+
+| $x$ | Dato | Beskrivelse |
+|-----|------|-------------|
+| $47$ | ca. 16. februar | Lyset slår seg på 3 min/dag *senere* |
+| $135$ | ca. 14. mai | Lyset slår seg på 3 min/dag *senere* |
+| $229$ | ca. 16. august | Lyset slår seg på 3 min/dag *tidligere* |
+| $317$ | ca. 12. november | Lyset slår seg på 3 min/dag *tidligere* |
+
+**Tidspunktet endrer seg 3 minutter per dag rundt 16. februar, 14. mai, 16. august og 12. november.**
+
+### c
+
+$|T'(x)|$ er størst når $|\cos(\ldots)| = 1$, altså når cosinus-leddet er $\pm 1$.
+
+Maksimalt positiv endring (lyset slår seg på senest mulig per dag): $\cos(\ldots) = 1$, som gir
+
+$$0{,}0055\pi \cdot x - 0{,}5\pi = 0 \implies x = \frac{0{,}5}{0{,}0055} = \frac{1000}{11} \approx 90{,}9$$
+
+$x \approx 91$ svarer til ca. 31. mars / 1. april.
+
+Fra CAS-utklippet: `xMaks := 90,909` og `Maks := 0,06912`.
+
+Den største endringsraten er
+
+$$|T'(x)|_{\max} = 0{,}022\pi \approx 0{,}06912 \text{ t/dag} = 0{,}06912 \cdot 60 \approx 4{,}1 \text{ min/dag}$$
+
+Tilsvarende skjer den raskeste negative endringen (lyset slår seg på tidligere) en halv periode senere:
+
+$$x \approx 90{,}9 + \frac{363{,}6}{2} \approx 272{,}7 \approx \text{29. september}$$
+
+**Tidspunktet sensoren slår på lyset endrer seg raskest rundt 31. mars (og 29. september), med ca. $\underline{\underline{4{,}1 \text{ min/dag}}}$.**
 
 
 </div></div>
@@ -4293,9 +4652,55 @@ Et plan $\alpha$ har samme avstand til kuleflaten og er parallelt med planet $\g
 >[!oppgave]
 >b) Bestem en likning for planet $\alpha$.
 
->[!question]- Fasit
->
->[[Løsningsforslag/Løsningsforslag R2 eksamen V2024#Oppgave 2-5\|Løsningsforslag R2 eksamen V2024#Oppgave 2-5]]
+## Fasit
+
+a) $\underline{\underline{4 - \sqrt{6} \approx 1{,}55}}$
+
+b) $\underline{\underline{x + 2y + 2z = -10}}$
+
+## Løsningsforslag
+
+Vi bruker GeoGebra CAS til å utføre beregningene.
+
+![Kuleflate og plan – CAS-beregninger](/img/user/_resources/r2-v24-2-5.png)
+
+**Sentrum og radius:**
+
+Siden $AB$ er diameter, er sentrum $M$ midtpunktet av $AB$:
+
+$$M = \left(\frac{1+3}{2},\ \frac{2+0}{2},\ \frac{1+(-3)}{2}\right) = (2, 1, -1)$$
+
+Radius er halvparten av $|AB|$:
+
+$$r = \frac{|AB|}{2} = \frac{\sqrt{(3-1)^2 + (0-2)^2 + (-3-1)^2}}{2} = \frac{\sqrt{4+4+16}}{2} = \frac{\sqrt{24}}{2} = \sqrt{6}$$
+
+Planet $\gamma$ har normalvektor $\mathbf{n} = (1, 2, 2)$ med $|\mathbf{n}| = \sqrt{1+4+4} = 3$.
+
+### a
+
+Avstanden fra sentrum $M(2, 1, -1)$ til planet $\gamma\colon x + 2y + 2z = 14$ er:
+
+$$d(M, \gamma) = \frac{|1 \cdot 2 + 2 \cdot 1 + 2 \cdot (-1) - 14|}{3} = \frac{|2 + 2 - 2 - 14|}{3} = \frac{12}{3} = 4$$
+
+Den minste avstanden fra kuleflaten til planet er avstanden fra sentrum minus radius:
+
+$$d_{\min} = d(M, \gamma) - r = 4 - \sqrt{6} \approx \mathbf{\underline{\underline{1{,}55}}}$$
+
+**Den minste avstanden fra kuleflaten til planet $\gamma$ er $4 - \sqrt{6} \approx 1{,}55$.**
+
+### b
+
+Planet $\alpha$ er parallelt med $\gamma$, altså på formen $x + 2y + 2z = D$.
+
+Avstanden fra $M(2, 1, -1)$ til $\alpha$ er den samme som til $\gamma$, det vil si $4$, men $\alpha$ ligger på motsatt side av sentrum:
+
+$$d(M, \alpha) = \frac{|1 \cdot 2 + 2 \cdot 1 + 2 \cdot (-1) - D|}{3} = \frac{|2 - D|}{3} = 4$$
+
+$$|2 - D| = 12 \implies D = 14 \quad \text{eller} \quad D = -10$$
+
+$D = 14$ gir planet $\gamma$ selv, så $\alpha$ har $D = -10$.
+
+**En likning for planet $\alpha$ er $\underline{\underline{x + 2y + 2z = -10}}$.**
 
 
 </div></div>
