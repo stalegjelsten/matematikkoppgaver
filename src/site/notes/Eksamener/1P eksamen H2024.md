@@ -13,7 +13,6 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Størst prosentvis prisøkning](https://matematikkoppgaver.vercel.app/storst-prosentvis-prisokning/) | prosentregning, prosentvis endring | ✔︎ |
 | [1-2](#oppgave-1-2) | [Maur i standardform og vekt](https://matematikkoppgaver.vercel.app/maur-i-standardform-og-vekt/) | standardform, store tall, tallregning | × |
 | [1-3](#oppgave-1-3) | [Proporsjonale og omvendt proporsjonale størrelser](https://matematikkoppgaver.vercel.app/proporsjonale-og-omvendt-proporsjonale-storrelser/) | proporsjonalitet, omvendt proporsjonalitet, argumentasjon | × |
-| [1-3](#oppgave-1-3) | [Proporsjonale og omvendt proporsjonale størrelser fra graf](https://matematikkoppgaver.vercel.app/proporsjonale-og-omvendt-proporsjonale-storrelser-fra-graf/) | proporsjonalitet, omvendt proporsjonalitet, tolke grafer, argumentasjon | ✔︎ |
 | [1-4](#oppgave-1-4) | [Lisas salg og to programmer](https://matematikkoppgaver.vercel.app/lisas-salg-og-to-programmer/) | programmering, eksponentiell vekst, lineær vekst | × |
 | [1-5](#oppgave-1-5) | [Celsius og fahrenheit, lineær sammenheng](https://matematikkoppgaver.vercel.app/celsius-og-fahrenheit-lineaer-sammenheng/) | lineær vekst, formler, stigningstall | × |
 
@@ -181,50 +180,6 @@ La $p$ være prisen på én flaske. Uansett hvor mange flasker du kjøper, betal
 Dobler du antall porsjoner, dobler du mengden mel. Forholdet mellom mengde mel og antall porsjoner er konstant.
 
 **Antallet porsjoner og mengden mel er $\underline{\underline{\text{proporsjonale størrelser}}}$.**
-
-
-</div></div>
-
-
-## Oppgave 1-3
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/proporsjonale-og-omvendt-proporsjonale-storrelser-fra-graf/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-
-# Proporsjonale og omvendt proporsjonale størrelser fra graf
-
-
-Her ser du grafene til fire funksjoner $f$, $g$, $p$ og $q$.  
-
-![Fire funksjoner](/img/user/_resources/1p-v24-1-3.jpeg){width=70%}
-
-- Avgjør om en eller flere av grafene viser sammenhengen mellom to størrelser som er proporsjonale.  
-- Avgjør om en eller flere av grafene viser sammenhengen mellom to størrelser som er omvendt proporsjonale.  
-
-Husk å argumentere for svarene dine.  
-
-## Fasit
-
-$f$ er proporsjonal, $p$ er omvendt proporsjonal
-
-## Løsningsforslag
-
-For at to størrelser skal være **proporsjonale**, må sammenhengen kunne skrives som $y = k \cdot x$ for en konstant $k > 0$. Grafen vil da være en rett linje som går gjennom origo.
-
-For at to størrelser skal være **omvendt proporsjonale**, må sammenhengen kunne skrives som $y = \frac{k}{x}$ for en konstant $k > 0$. Grafen vil da være en hyperbel.
-
-Fra grafen:
-
-- **$f$ (grønn)** er en rett linje som går gjennom origo → $f$ viser **proporsjonale** størrelser.
-- **$p$ (blå)** er en kraftig avtagende kurve som ligner en hyperbel → $p$ viser **omvendt proporsjonale** størrelser.
-- **$q$ (rød)** er en avtagende kurve, men den er brattere enn en hyperbel ved lave $x$-verdier og flater mer ut – dette er ikke en ren hyperbel, og er verken proporsjonal eller omvendt proporsjonal.
-- **$g$ (lilla)** er en stigende kurve som ikke går gjennom origo med konstant stigningstall – verken proporsjonal eller omvendt proporsjonal.
-
-**$\underline{\underline{f}}$ viser proporsjonale størrelser, og $\underline{\underline{p}}$ viser omvendt proporsjonale størrelser.**
 
 
 </div></div>
