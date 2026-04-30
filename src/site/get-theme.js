@@ -9,6 +9,12 @@ const themeCommentRegex = /\/\*[\s\S]*?\*\//g;
 async function getTheme() {
   let themeUrl = process.env.THEME;
   if (themeUrl) {
+    const existing = globSync("src/site/styles/_theme.*.css");
+    if (existing.length > 0 && process.env.UPDATE_THEME !== "true") {
+      console.log(`Using cached theme ${existing[0]}`);
+      return;
+    }
+
     //https://forum.obsidian.md/t/1-0-theme-migration-guide/42537
     //Not all themes with no legacy mark have a theme.css file, so we need to check for it
     try {
@@ -21,9 +27,17 @@ async function getTheme() {
       }
     }
 
-    const res = await axios.get(themeUrl);
+    let res;
     try {
-      const existing = globSync("src/site/styles/_theme.*.css");
+      res = await axios.get(themeUrl);
+    } catch (error) {
+      if (existing.length > 0) {
+        console.warn(`Could not fetch theme, using cached theme ${existing[0]}`);
+        return;
+      }
+      throw error;
+    }
+    try {
       existing.forEach((file) => {
         fs.rmSync(file);
       });

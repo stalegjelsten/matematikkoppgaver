@@ -16,6 +16,27 @@ const {
 const { basesPlugin } = require("./src/helpers/basesPlugin");
 
 const Image = require("@11ty/eleventy-img");
+const noteFrontMatterCache = new Map();
+
+function getNoteFrontMatter(fileName) {
+  const startPath = "./src/site/notes/";
+  let fullPath;
+  if (fileName.endsWith(".md") || fileName.endsWith(".canvas")) {
+    fullPath = `${startPath}${fileName}`;
+  } else {
+    fullPath = `${startPath}${fileName}.md`;
+  }
+
+  if (noteFrontMatterCache.has(fullPath)) {
+    return noteFrontMatterCache.get(fullPath);
+  }
+
+  const file = fs.readFileSync(fullPath, "utf8");
+  const data = matter(file).data;
+  noteFrontMatterCache.set(fullPath, data);
+  return data;
+}
+
 function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
   let options = {
     widths: widths,
@@ -49,26 +70,18 @@ function getAnchorAttributes(filePath, linkTitle) {
   let permalink = `/notes/${slugify(filePath)}`;
   let deadLink = false;
   try {
-    const startPath = "./src/site/notes/";
-    let fullPath;
-    if (fileName.endsWith(".md") || fileName.endsWith(".canvas")) {
-      fullPath = `${startPath}${fileName}`;
-    } else {
-      fullPath = `${startPath}${fileName}.md`;
-    }
-    const file = fs.readFileSync(fullPath, "utf8");
-    const frontMatter = matter(file);
-    if (frontMatter.data.permalink) {
-      permalink = frontMatter.data.permalink;
+    const frontMatter = getNoteFrontMatter(fileName);
+    if (frontMatter.permalink) {
+      permalink = frontMatter.permalink;
     }
     if (
-      frontMatter.data.tags &&
-      frontMatter.data.tags.indexOf("gardenEntry") != -1
+      frontMatter.tags &&
+      frontMatter.tags.indexOf("gardenEntry") != -1
     ) {
       permalink = "/";
     }
-    if (frontMatter.data.noteIcon) {
-      noteIcon = frontMatter.data.noteIcon;
+    if (frontMatter.noteIcon) {
+      noteIcon = frontMatter.noteIcon;
     }
   } catch {
     deadLink = true;
@@ -576,6 +589,9 @@ module.exports = function(eleventyConfig) {
     if (!isMarkdownPage(this.page.inputPath)) {
       return str;
     }
+    if (!str || !str.includes("[!")) {
+      return str;
+    }
     const parsed = parse(str);
     transformCalloutBlockquotes(parsed.querySelectorAll("blockquote"));
     return str && parsed.innerHTML;
@@ -699,6 +715,9 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addTransform("oppgave-callout-list", function(str) {
     if (!isMarkdownPage(this.page.inputPath)) {
+      return str;
+    }
+    if (!str || !str.includes('data-callout="oppgave"')) {
       return str;
     }
     const parsed = parse(str);
@@ -840,6 +859,9 @@ module.exports = function(eleventyConfig) {
     if (process.env.USE_FULL_RESOLUTION_IMAGES === "true") {
       return str;
     }
+    if (!str || !str.includes("<img")) {
+      return str;
+    }
     const parsed = parse(str);
     for (const imageTag of parsed.querySelectorAll(".cm-s-obsidian img")) {
       const src = imageTag.getAttribute("src");
@@ -869,6 +891,9 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addTransform("table", function(str) {
     if (!isMarkdownPage(this.page.inputPath)) {
+      return str;
+    }
+    if (!str || !str.includes("<table")) {
       return str;
     }
     const parsed = parse(str);

@@ -14,6 +14,9 @@ module.exports = function (content) {
   ) {
     return content;
   }
+  if (!content || (!content.includes("<img") && !content.includes("fig:"))) {
+    return content;
+  }
 
   const root = parse(content);
   let figureCount = 0;

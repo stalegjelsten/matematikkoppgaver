@@ -9,6 +9,9 @@ module.exports = function (content) {
   ) {
     return content;
   }
+  if (!content || (!content.includes("Table:") && !content.includes("tbl:"))) {
+    return content;
+  }
 
   const root = parse(content);
   let tableCount = 0;

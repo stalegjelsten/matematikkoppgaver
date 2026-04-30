@@ -868,13 +868,54 @@ body.oppgave-fullskjerm #oppgaveliste-fab-wrap {
 /* ===== Oppgavestatus-side ===== */
 
 .oppgavestatus-page {
+  padding-top: 1rem;
+
   > header > h1 {
-    margin-top: 1.5rem;
+    margin-top: 2rem;
   }
 
   .oppgavestatus-app {
-    max-width: 760px;
+    max-width: 860px;
+    margin-top: 1rem;
   }
+}
+
+.oppgavestatus-controls {
+  display: flex;
+  align-items: end;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  padding: 0.75rem;
+  margin: 0 0 1rem;
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08));
+  border-radius: 6px;
+
+  label {
+    display: grid;
+    gap: 0.25rem;
+    min-width: 11rem;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+  }
+
+  select {
+    min-height: 2.25rem;
+    padding: 0.35rem 0.5rem;
+    color: var(--text-normal);
+    background: var(--background-primary);
+    border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.16));
+    border-radius: 4px;
+  }
+}
+
+.oppgavestatus-count {
+  margin-left: auto;
+  min-height: 2.25rem;
+  display: inline-flex;
+  align-items: center;
+  color: var(--text-muted);
+  font-size: 0.9rem;
 }
 
 .oppgavestatus-list {
@@ -889,7 +930,7 @@ body.oppgave-fullskjerm #oppgaveliste-fab-wrap {
 .oppgavestatus-item {
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto auto;
-  align-items: center;
+  align-items: start;
   gap: 0.75rem;
   padding: 0.6rem 0.75rem;
   background: var(--background-secondary);
@@ -908,9 +949,39 @@ body.oppgave-fullskjerm #oppgaveliste-fab-wrap {
 
 .oppgavestatus-item-info {
   display: flex;
-  align-items: baseline;
+  align-items: flex-start;
   gap: 0.6rem;
   min-width: 0;
+}
+
+.oppgavestatus-title-block {
+  min-width: 0;
+  display: grid;
+  gap: 0.25rem;
+}
+
+.oppgavestatus-item-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+}
+
+.oppgavestatus-meta-chip {
+  display: inline-flex;
+  align-items: center;
+  min-height: 1.35rem;
+  padding: 0.15rem 0.45rem;
+  border-radius: 999px;
+  color: var(--text-muted);
+  background: var(--background-primary);
+  border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.1));
+  font-size: 0.78rem;
+  line-height: 1.1;
+}
+
+.oppgavestatus-time {
+  color: var(--text-muted);
+  font-size: 0.82rem;
 }
 
 .oppgavestatus-page-badge {
@@ -946,6 +1017,21 @@ body.oppgave-fullskjerm #oppgaveliste-fab-wrap {
   min-height: 2rem;
   padding: 0.35rem 0.65rem;
   font-size: 0.85rem;
+}
+
+@media (max-width: 640px) {
+  .oppgavestatus-controls {
+    align-items: stretch;
+
+    label {
+      min-width: min(100%, 16rem);
+      flex: 1 1 12rem;
+    }
+  }
+
+  .oppgavestatus-count {
+    margin-left: 0;
+  }
 }
 
 /* ===== Oppgaveliste-side: viewer ===== */

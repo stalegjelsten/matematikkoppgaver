@@ -10,10 +10,13 @@
         "watch:sass": "sass --watch src/site/styles:dist/styles",
         "watch:eleventy": "cross-env ELEVENTY_ENV=dev eleventy --serve --incremental",
         "build:eleventy": "cross-env ELEVENTY_ENV=prod NODE_OPTIONS=--max-old-space-size=4096 eleventy",
+        "build:eleventy:dev": "cross-env ELEVENTY_ENV=dev NODE_OPTIONS=--max-old-space-size=4096 eleventy",
         "build:lib": "node scripts/build-lib.mjs",
         "build:sass": "sass src/site/styles:dist/styles --style compressed",
         "build:tavle": "cd tavle && npm run build",
         "get-theme": "node src/site/get-theme.js",
+        "theme:update": "cross-env UPDATE_THEME=true node src/site/get-theme.js",
+        "build:local": "npm-run-all --parallel build:tavle build:lib build:sass --sequential build:eleventy:dev",
         "build": "npm-run-all get-theme --parallel build:tavle build:lib build:sass --sequential build:eleventy",
         "build:prod": "npm-run-all get-theme --parallel build:tavle build:lib build:sass --sequential build:eleventy && rimraf dist/img/user/pdf dist/img/user/_resources dist/img/optimized",
         "test": "vitest run"

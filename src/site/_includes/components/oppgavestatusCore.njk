@@ -14,24 +14,53 @@
   };
 
   function read() {
-    try { return JSON.parse(localStorage.getItem(KEY) || '{}') || {}; }
+    try {
+      const raw = JSON.parse(localStorage.getItem(KEY) || '{}') || {};
+      return Object.fromEntries(Object.entries(raw)
+        .map(([slug, entry]) => [slug, normalizeEntry(entry).status])
+        .filter(([, status]) => status));
+    }
+    catch { return {}; }
+  }
+  function readEntries() {
+    try {
+      const raw = JSON.parse(localStorage.getItem(KEY) || '{}') || {};
+      return Object.fromEntries(Object.entries(raw)
+        .map(([slug, entry]) => [slug, normalizeEntry(entry)])
+        .filter(([, entry]) => entry.status));
+    }
     catch { return {}; }
   }
   function writeAll(map) {
     localStorage.setItem(KEY, JSON.stringify(map));
   }
+  function normalizeEntry(entry) {
+    if (typeof entry === 'string') {
+      return VALID.has(entry) ? { status: entry, updatedAt: null } : { status: null, updatedAt: null };
+    }
+    if (entry && typeof entry === 'object' && VALID.has(entry.status)) {
+      return {
+        status: entry.status,
+        updatedAt: typeof entry.updatedAt === 'string' ? entry.updatedAt : null
+      };
+    }
+    return { status: null, updatedAt: null };
+  }
   function get(slug) {
-    return read()[slug] || null;
+    return normalizeEntry(readEntries()[slug]).status;
   }
   function set(slug, status) {
-    const map = read();
+    let map = {};
+    try { map = JSON.parse(localStorage.getItem(KEY) || '{}') || {}; }
+    catch { map = {}; }
     if (!status || !VALID.has(status)) {
       delete map[slug];
     } else {
-      map[slug] = status;
+      map[slug] = { status, updatedAt: new Date().toISOString() };
     }
     writeAll(map);
-    window.dispatchEvent(new CustomEvent('oppgavestatus:changed', { detail: { slug, status: map[slug] || null } }));
+    const entry = normalizeEntry(map[slug]);
+    window.dispatchEvent(new CustomEvent('oppgavestatus:changed', { detail: { slug, status: entry.status, updatedAt: entry.updatedAt } }));
   }
   function clearAll() {
     writeAll({});
@@ -60,7 +89,7 @@
   // Sync a single decoratable element. Badge is placed as the first child
   // (or before the link, depending on the host element type). Idempotent.
   function syncElement(el, path) {
-    const status = path ? read()[path] : null;
+    const status = path ? get(path) : null;
     let badge = el.querySelector(':scope > .oppgavestatus-badge');
     if (!badge && el.tagName === 'A' && el.previousElementSibling
         && el.previousElementSibling.classList
@@ -114,7 +143,7 @@
 
   window.OppgaveStatus = {
     KEY, VALID, ICONS, LABELS,
-    read, get, set, clearAll,
+    read, readEntries, get, set, clearAll,
     makeBadge, decorate, decorateAll
   };
 })();

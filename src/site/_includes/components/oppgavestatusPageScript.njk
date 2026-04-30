@@ -2,7 +2,22 @@
 (function() {
   const root = document.getElementById('oppgavestatus-app');
   const VALID = new Set(['done', 'review', 'failed']);
-  const titleCache = new Map();
+  const STATUS_ORDER = { done: 0, review: 1, failed: 2 };
+  const state = {
+    filter: 'all',
+    sort: 'updated-desc'
+  };
+  const oppgaveIndex = new Map([
+    {% for note in collections.note %}
+      {% if note.data.tags and 'oppgave' in note.data.tags %}
+        [{{ note.url | dump | safe }}, {
+          title: {{ (note.data.title if note.data.title else note.fileSlug) | jsonify | safe }},
+          fag: {{ (note.data.fag if note.data.fag else []) | jsonify | safe }},
+          temaer: {{ (note.data.temaer if note.data.temaer else []) | jsonify | safe }}
+        }],
+      {% endif %}
+    {% endfor %}
+  ]);
 
   function escapeHtml(s) {
     return String(s).replace(/[&<>"']/g, c => ({
@@ -20,34 +35,70 @@
   }
 
   function readRows() {
-    const map = window.OppgaveStatus ? window.OppgaveStatus.read() : {};
+    const map = window.OppgaveStatus
+      ? (window.OppgaveStatus.readEntries ? window.OppgaveStatus.readEntries() : window.OppgaveStatus.read())
+      : {};
     return Object.entries(map)
-      .map(([slug, status]) => ({ slug: normalizeSlug(slug), status }))
+      .map(([slug, entry]) => {
+        const normalizedSlug = normalizeSlug(slug);
+        const status = typeof entry === 'string' ? entry : entry && entry.status;
+        const meta = oppgaveIndex.get(normalizedSlug) || {};
+        return {
+          slug: normalizedSlug,
+          status,
+          updatedAt: typeof entry === 'object' && entry ? entry.updatedAt : null,
+          title: meta.title || fallbackTitle(normalizedSlug),
+          fag: toArray(meta.fag),
+          temaer: toArray(meta.temaer)
+        };
+      })
       .filter(row => row.slug && VALID.has(row.status))
-      .sort((a, b) => a.slug.localeCompare(b.slug, 'nb'));
+      .filter(row => state.filter === 'all' || row.status === state.filter)
+      .sort(compareRows);
   }
 
   function fallbackTitle(slug) {
     return slug.replace(/^\/|\/$/g, '').replaceAll('-', ' ');
   }
 
-  async function fetchTitle(slug) {
-    if (titleCache.has(slug)) return titleCache.get(slug);
+  function toArray(value) {
+    if (Array.isArray(value)) return value.filter(Boolean);
+    return value ? [value] : [];
+  }
 
-    const promise = fetch(slug)
-      .then(res => {
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        return res.text();
-      })
-      .then(html => {
-        const doc = new DOMParser().parseFromString(html, 'text/html');
-        const h1 = doc.querySelector('main h1, h1');
-        return (h1 ? h1.textContent : doc.title || fallbackTitle(slug)).trim();
-      })
-      .catch(() => fallbackTitle(slug));
+  function compareRows(a, b) {
+    if (state.sort === 'updated-asc') return timeValue(a.updatedAt) - timeValue(b.updatedAt) || compareTitle(a, b);
+    if (state.sort === 'title') return compareTitle(a, b);
+    if (state.sort === 'status') return STATUS_ORDER[a.status] - STATUS_ORDER[b.status] || compareTitle(a, b);
+    return timeValue(b.updatedAt) - timeValue(a.updatedAt) || compareTitle(a, b);
+  }
 
-    titleCache.set(slug, promise);
-    return promise;
+  function compareTitle(a, b) {
+    return a.title.localeCompare(b.title, 'nb') || a.slug.localeCompare(b.slug, 'nb');
+  }
+
+  function timeValue(value) {
+    const time = value ? Date.parse(value) : 0;
+    return Number.isFinite(time) ? time : 0;
+  }
+
+  function formatStatusTime(value) {
+    if (!value) return 'Tidspunkt mangler';
+    const date = new Date(value);
+    if (Number.isNaN(date.getTime())) return 'Tidspunkt mangler';
+    return new Intl.DateTimeFormat('nb-NO', {
+      dateStyle: 'medium',
+      timeStyle: 'short'
+    }).format(date);
+  }
+
+  function renderMeta(row) {
+    const parts = [
+      ...row.fag.map(fag => `<span class="oppgavestatus-meta-chip">${escapeHtml(fag)}</span>`),
+      ...row.temaer.map(tema => `<span class="oppgavestatus-meta-chip">${escapeHtml(tema)}</span>`)
+    ];
+    if (!parts.length) return '';
+    return `<div class="oppgavestatus-item-meta">${parts.join('')}</div>`;
   }
 
   function renderEmpty() {
@@ -69,20 +120,78 @@
     `;
   }
 
-  function renderRows(rows, titles = new Map()) {
+  function renderControls(totalRows) {
+    return `
+      <div class="oppgavestatus-controls" aria-label="Filtrer og sorter statuser">
+        <label>
+          <span>Status</span>
+          <select data-status-filter>
+            <option value="all"${state.filter === 'all' ? ' selected' : ''}>Alle statuser</option>
+            <option value="done"${state.filter === 'done' ? ' selected' : ''}>Fikk det til</option>
+            <option value="review"${state.filter === 'review' ? ' selected' : ''}>Må repetere</option>
+            <option value="failed"${state.filter === 'failed' ? ' selected' : ''}>Fikk det ikke til</option>
+          </select>
+        </label>
+        <label>
+          <span>Sortering</span>
+          <select data-status-sort>
+            <option value="updated-desc"${state.sort === 'updated-desc' ? ' selected' : ''}>Nyeste status først</option>
+            <option value="updated-asc"${state.sort === 'updated-asc' ? ' selected' : ''}>Eldste status først</option>
+            <option value="title"${state.sort === 'title' ? ' selected' : ''}>Oppgavenavn A-Å</option>
+            <option value="status"${state.sort === 'status' ? ' selected' : ''}>Status</option>
+          </select>
+        </label>
+        <span class="oppgavestatus-count">${totalRows} ${totalRows === 1 ? 'oppgave' : 'oppgaver'}</span>
+      </div>
+    `;
+  }
+
+  function bindControls() {
+    const filter = root.querySelector('[data-status-filter]');
+    const sort = root.querySelector('[data-status-sort]');
+    if (filter) {
+      filter.addEventListener('change', () => {
+        state.filter = filter.value;
+        render();
+      });
+    }
+    if (sort) {
+      sort.addEventListener('change', () => {
+        state.sort = sort.value;
+        render();
+      });
+    }
+  }
+
+  function renderRows(rows, totalRows) {
     if (rows.length === 0) {
-      renderEmpty();
+      root.innerHTML = totalRows === 0 ? `
+        <div class="oppgaveliste-empty">
+          <p>Eleven har ikke satt status på noen oppgaver ennå.</p>
+        </div>
+      ` : `
+        ${renderControls(totalRows)}
+        <div class="oppgaveliste-empty">
+          <p>Ingen oppgaver matcher filteret.</p>
+        </div>
+      `;
+      bindControls();
       return;
     }
 
     root.innerHTML = `
       <p class="oppgaveliste-intro">${rows.length} ${rows.length === 1 ? 'oppgave' : 'oppgaver'} med elevstatus.</p>
+      ${renderControls(totalRows)}
       <ol class="oppgavestatus-list">
         ${rows.map((row, i) => `
           <li class="oppgavestatus-item is-${escapeHtml(row.status)}" data-slug="${escapeHtml(row.slug)}">
             <div class="oppgavestatus-item-info">
               <span class="oppgaveliste-item-num">${i + 1}.</span>
-              <a href="${escapeHtml(row.slug)}" class="oppgaveliste-item-title">${escapeHtml(titles.get(row.slug) || fallbackTitle(row.slug))}</a>
+              <div class="oppgavestatus-title-block">
+                <a href="${escapeHtml(row.slug)}" class="oppgaveliste-item-title">${escapeHtml(row.title)}</a>
+                ${renderMeta(row)}
+                <time class="oppgavestatus-time" ${row.updatedAt ? `datetime="${escapeHtml(row.updatedAt)}"` : ''}>${escapeHtml(formatStatusTime(row.updatedAt))}</time>
+              </div>
             </div>
             ${statusBadge(row.status)}
             <button type="button" class="ol-btn ol-btn-danger oppgavestatus-remove" data-remove-status="${escapeHtml(row.slug)}">Slett status</button>
@@ -98,23 +207,18 @@
       });
     });
 
+    bindControls();
     if (window.OppgaveStatus) window.OppgaveStatus.decorate(root);
   }
 
-  async function render() {
+  function render() {
     if (!window.OppgaveStatus || !root) return;
+    const previousFilter = state.filter;
+    state.filter = 'all';
+    const totalRows = readRows().length;
+    state.filter = previousFilter;
     const rows = readRows();
-    const titles = new Map();
-
-    renderRows(rows, titles);
-    await Promise.all(rows.map(async row => {
-      titles.set(row.slug, await fetchTitle(row.slug));
-    }));
-
-    const currentRows = readRows();
-    if (currentRows.length === rows.length && currentRows.every((row, i) => row.slug === rows[i].slug && row.status === rows[i].status)) {
-      renderRows(rows, titles);
-    }
+    renderRows(rows, totalRows);
   }
 
   if (document.readyState === 'loading') {

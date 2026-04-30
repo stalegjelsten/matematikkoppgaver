@@ -5,6 +5,9 @@ module.exports = function (content) {
   if (!this.page.inputPath || !this.page.inputPath.endsWith(".md") || !this.page.outputPath || !this.page.outputPath.endsWith(".html")) {
     return content;
   }
+  if (!content || (!content.includes('id="eq:') && !content.includes("&eq:") && !content.includes("&amp;eq:"))) {
+    return content;
+  }
 
   const root = parse(content);
   let equationCount = 0;
