@@ -42,6 +42,63 @@
     return `${base}?o=${buildShareQuery(list)}`;
   }
 
+  function renderStatusButtons(slug, variant = '') {
+    const cls = variant ? ` oppgaveliste-status-buttons--${variant}` : '';
+    return `
+      <div class="oppgaveliste-status-buttons${cls}" data-oppgavestatus-controls data-slug="${escapeHtml(slug)}" role="radiogroup" aria-label="Marker hvordan det gikk med oppgaven">
+        <button type="button" class="oppgaveliste-status-btn" data-oppgavestatus-set="done" role="radio" aria-checked="false" title="Fikk det til">
+          <span class="oppgaveliste-status-icon" data-oppgavestatus-icon="done" aria-hidden="true"></span>
+          <span class="oppgaveliste-status-label">Fikk det til</span>
+        </button>
+        <button type="button" class="oppgaveliste-status-btn" data-oppgavestatus-set="review" role="radio" aria-checked="false" title="Må repetere">
+          <span class="oppgaveliste-status-icon" data-oppgavestatus-icon="review" aria-hidden="true"></span>
+          <span class="oppgaveliste-status-label">Må repetere</span>
+        </button>
+        <button type="button" class="oppgaveliste-status-btn" data-oppgavestatus-set="failed" role="radio" aria-checked="false" title="Fikk det ikke til">
+          <span class="oppgaveliste-status-icon" data-oppgavestatus-icon="failed" aria-hidden="true"></span>
+          <span class="oppgaveliste-status-label">Fikk det ikke til</span>
+        </button>
+      </div>
+    `;
+  }
+
+  function setupStatusButtons(container) {
+    if (!window.OppgaveStatus || !container) return;
+
+    container.querySelectorAll('[data-oppgavestatus-icon]').forEach(el => {
+      const key = el.getAttribute('data-oppgavestatus-icon');
+      el.innerHTML = window.OppgaveStatus.ICONS[key] || '';
+    });
+
+    container.querySelectorAll('[data-oppgavestatus-controls]').forEach(group => {
+      if (group.dataset.statusBound === '1') return;
+      group.dataset.statusBound = '1';
+      group.querySelectorAll('[data-oppgavestatus-set]').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const slug = group.getAttribute('data-slug');
+          const value = btn.getAttribute('data-oppgavestatus-set');
+          const current = window.OppgaveStatus.get(slug);
+          window.OppgaveStatus.set(slug, value === current ? null : value);
+        });
+      });
+    });
+
+    updateStatusButtons(container);
+  }
+
+  function updateStatusButtons(container = root) {
+    if (!window.OppgaveStatus || !container) return;
+    container.querySelectorAll('[data-oppgavestatus-controls]').forEach(group => {
+      const current = window.OppgaveStatus.get(group.getAttribute('data-slug'));
+      group.querySelectorAll('[data-oppgavestatus-set]').forEach(btn => {
+        const active = btn.getAttribute('data-oppgavestatus-set') === current;
+        btn.classList.toggle('is-active', active);
+        btn.setAttribute('aria-checked', active ? 'true' : 'false');
+      });
+      group.setAttribute('data-current-status', current || '');
+    });
+  }
+
   // ===== Editor mode =====
 
   function renderEditor() {
@@ -63,6 +120,7 @@
           <span class="oppgaveliste-item-num">${i + 1}.</span>
           <a href="${escapeHtml(item.slug)}" class="oppgaveliste-item-title">${escapeHtml(item.title)}</a>
         </div>
+        ${renderStatusButtons(item.slug, 'compact')}
         <div class="oppgaveliste-item-actions">
           <button type="button" class="ol-icon-btn" data-action="up" ${i === 0 ? 'disabled' : ''} title="Flytt opp" aria-label="Flytt opp">↑</button>
           <button type="button" class="ol-icon-btn" data-action="down" ${i === list.length - 1 ? 'disabled' : ''} title="Flytt ned" aria-label="Flytt ned">↓</button>
@@ -100,6 +158,7 @@
       btn.addEventListener('click', () => handleGlobalAction(btn.dataset.globalAction, shareUrl));
     });
 
+    setupStatusButtons(root);
     if (window.OppgaveStatus) window.OppgaveStatus.decorate(root);
   }
 
@@ -244,7 +303,10 @@
         wrap.innerHTML = `
           <div class="oppgaveliste-oppgave-header">
             <span class="oppgaveliste-oppgave-num">Oppgave ${i + 1} av ${oppgaver.length}</span>
-            <a href="${escapeHtml(o.slug)}" class="oppgaveliste-oppgave-link" target="_blank" rel="noopener">Åpne i ny fane ↗</a>
+            <div class="oppgaveliste-oppgave-header-actions">
+              ${renderStatusButtons(o.slug, 'viewer')}
+              <a href="${escapeHtml(o.slug)}" class="oppgaveliste-oppgave-link" target="_blank" rel="noopener">Åpne i ny fane ↗</a>
+            </div>
           </div>
           <div class="oppgaveliste-oppgave-content cm-s-obsidian markdown-preview-view">${o.html}</div>
         `;
@@ -256,6 +318,7 @@
     setupLucide(body);
     await typesetMath(body);
 
+    setupStatusButtons(root);
     if (window.OppgaveStatus) window.OppgaveStatus.decorate(root);
 
     applyMode(initialMode);
@@ -350,6 +413,10 @@
 
   function init() {
     if (!root) return;
+    window.addEventListener('oppgavestatus:changed', () => updateStatusButtons(root));
+    window.addEventListener('storage', e => {
+      if (e.key === (window.OppgaveStatus && window.OppgaveStatus.KEY)) updateStatusButtons(root);
+    });
     const sharedSlugs = getSharedSlugs();
     if (sharedSlugs && sharedSlugs.length > 0) {
       renderViewer(sharedSlugs);
