@@ -70,5 +70,5 @@ Dette leser vi av slik (vi trekker ut $\dfrac{\pi}{6}$ fra parentesen: $\dfrac{\
 
 - **Amplitude:** $A = \textcolor{seagreen}{2}$
 - **Likevektslinje:** $y = \textcolor{steelblue}{-1}$ (vertikal forskyvning $d = -1$)
-- **Periode:** $T = \dfrac{2\pi}{\pi/6} = \textcolor{orange}{12}$
+- **Periode:** $T = \dfrac{2\pi}{\pi/6} = 12$
 - **Horisontal forskyvning:** $x_0 = \textcolor{tomato}{2}$ mot høyre (grafen er forskjøvet 2 enheter i positiv $x$-retning sammenlignet med $2\sin\!\left(\dfrac{\pi}{6}x\right) - 1$)

@@ -44,7 +44,7 @@ I juni øker økningen med enda 5 prosentpoeng til 45 %. Antall følgere i juni 
 ### c
 Vi kan bruke modellen $f(x)=5244 \cdot 1{,}35^{x}$ til å beregne hvor mange følgere hun har i august med 35 % økning. August tilsvarer $x=9$
 $$
-f(9)=5244 \cdot 1{,}35^9=78 \,922
+f(9)=5244 \cdot 1{,}35^9=78 \,103
 $$
 
 Dersom Tuva klarer å holde målet sitt med 5 prosentpoeng økning vil hun i juli ha
@@ -52,6 +52,6 @@ $48 \, 736 \cdot 1{,}50=73 \, 104$ følgere, og i august $73 \, 104 \cdot 1{,}55
 
 Vi finner den prosentvise forskjellen
 $$
-\frac{113 \,311-78\,922}{78\,922} = \frac{34 \,389}{78\,922}=43{,}6 \,\%
+\frac{113 \,311-78\,103}{78\,103} = \frac{35 \,208}{78 \,103}=45{,}1 \,\%
 $$
-**Tuva vil ha 43,6 % flere følgere i august om hun klarer å nå det nye målet sitt.**
+**Tuva vil ha 45,1 % flere følgere i august om hun klarer å nå det nye målet sitt.**

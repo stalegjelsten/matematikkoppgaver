@@ -13,8 +13,8 @@ Table: {.eksamen-oversikt}
 | [1-1](#oppgave-1-1) | [Enhetspris og sparing på ris](https://matematikkoppgaver.vercel.app/enhetspris-og-sparing-pa-ris/) | enhetskostnad, prosentregning, økonomi | ✔︎ |
 | [1-2](#oppgave-1-2) | [Kvadratrotformel og mobilading](https://matematikkoppgaver.vercel.app/kvadratrotformel-og-mobilading/) | røtter, formler, algebra | ✔︎ |
 | [1-3](#oppgave-1-3) | [Kennys lån](https://matematikkoppgaver.vercel.app/kennys-lan/) | lån | ✔︎ |
-| [1-4](#oppgave-1-4) | [[Tannhjul og skyvelære\|Tannhjul og skyvelære]] | måleenheter, geometri | × |
-| [1-5](#oppgave-1-5) | [[Konusformet aksling og konisitet\|Konusformet aksling og konisitet]] | formler, målestokk, geometri | × |
+| [1-4](#oppgave-1-4) | [Tannhjul og skyvelære](https://matematikkoppgaver.vercel.app/tannhjul-og-skyvelaere/) | måleenheter, geometri | × |
+| [1-5](#oppgave-1-5) | [Konusformet aksling og konisitet](https://matematikkoppgaver.vercel.app/konusformet-aksling-og-konisitet/) | formler, målestokk, geometri | × |
 
 **Del 2** — 3 timer — med hjelpemidler
 

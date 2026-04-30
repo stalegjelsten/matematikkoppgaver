@@ -65,15 +65,15 @@ Vi må holde styr på hvor mange kvadrater vi har brukt med en `totalsum`, også
 
 ```python
 totalsum = 0
-n = 1
+n = 0
 
 while totalsum <= 1_000_000:
-	kvadrat = n ** 2
-	høyre_side = n
-	nede_venstre = n + 1
-	n = n + 1
-	figur = kvadrat + høyre_side + nede_venstre
-	totalsum = totalsum + figur   # Legger til den siste figuren
+    n = n + 1
+    kvadrat = n ** 2
+    høyre_side = n
+    nede_venstre = n + 1
+    figur = kvadrat + høyre_side + nede_venstre
+    totalsum = totalsum + figur   # Legger til den siste figuren
 
 # While-løkka har kjørt en gang for mye og 
 # har brukt opp flere brikker enn vi har.
@@ -84,6 +84,6 @@ brikker_til_overs = 1_000_000 - brikker_brukt_før_siste
 print(f"Etter figur {n-1} har du {brikker_til_overs} brikker til overs.")
 ```
 
-Output: `Etter figur 143 har du 15017 brikker til overs.`
+Output: `Etter figur 142 har du 15017 brikker til overs.`
 
-**Du kan lage 143 figurer. Da har du 15 017 brikker til overs.**
+**Du kan lage 142 figurer. Da har du 15 017 brikker til overs.**

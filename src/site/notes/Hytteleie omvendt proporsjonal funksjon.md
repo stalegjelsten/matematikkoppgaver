@@ -40,7 +40,7 @@ I tillegg får vi oppgitt definisjonsmengden $1\leq x\leq 12$. Det betyr at det 
 ### b
 Jeg legger inn funksjonsuttrykket i GeoGebra og avgrenser funksjonen til definisjonsmengden ved å bruke `Funksjon()`-kommandoen. Deretter legger jeg inn $y=2250$ og finner skjæringspunktet mellom funksjonene. 
 
-**Skjæringspunktet mellom grafen og den rette linja er $(6, 3000)$, se punkt $A$ i utklippet. Det betyr at de trenger å være 6 personer som spleiser på leia for at prisen skal bli 2250 kr.**
+**Skjæringspunktet mellom grafen og den rette linja er $(8, 2250)$, se punkt $A$ i utklippet. Det betyr at de trenger å være 8 personer som spleiser på leia for at prisen skal bli 2250 kr.**
 
 ![](/img/user/_resources/2py-v24-2-1.png)
 

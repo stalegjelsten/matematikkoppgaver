@@ -71,6 +71,9 @@ $$O(283{,}56) \approx 4459{,}36 \, \mathrm{kr}$$
 
 ### c
 
+> [!warning] Usikkert løsningsforslag
+> Dette løsningsforslaget er skrevet av KI og matematikk.net har en annen løsning. Vi får stigningstall $24{,}04$ ved å bruke den oppgitte modellen $O(x) = -0{,}09x^2 + 51{,}04x - 2776{,}98$, mens matematikk.net gjør en ny regresjon på tabelldataene og får $23{,}96$. Oppgaven ber eksplisitt om punktene $(100, O(100))$ og $(200, O(200))$, så vi mener vårt svar er det riktige. Se [matematikk.net sitt løsningsforslag](https://matematikk.net/side/1T_2024_v%C3%A5r_LK20_L%C3%98SNING) og vurder selv.
+
 Vi beregner stigningstallet til sekanten gjennom $(100,\, O(100))$ og $(200,\, O(200))$:
 
 $$O(100) = -0{,}09 \cdot 100^2 + 51{,}04 \cdot 100 - 2776{,}98 = 1\,427{,}02 \, \mathrm{kr}$$
@@ -84,6 +87,9 @@ $$\text{Stigningstall} = \frac{O(200) - O(100)}{200 - 100} = \frac{3831{,}02 - 1
 Praktisk tolkning: Når antall solgte bagetter øker fra 100 til 200, øker overskuddet i gjennomsnitt med $24{,}04$ kr per ekstra bagett.
 
 ### d
+
+> [!warning] Usikkert løsningsforslag
+> Dette løsningsforslaget er skrevet av KI og matematikk.net har en annen løsning. Vi får $O'(235) \approx 8{,}74$ ved å bruke den oppgitte modellen, mens matematikk.net får $8{,}61$ basert på sin egen regresjonsmodell. Vi mener vårt svar er det riktige siden oppgaven ber om å bruke den oppgitte $O(x)$. Se [matematikk.net sitt løsningsforslag](https://matematikk.net/side/1T_2024_v%C3%A5r_LK20_L%C3%98SNING) og vurder selv.
 
 Den momentane vekstfarten er verdien av den deriverte i punktet $x = 235$:
 

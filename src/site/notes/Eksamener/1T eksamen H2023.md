@@ -95,7 +95,7 @@ $$f(x) = x^3 + 2x^2 - 5x - 6$$
 
 ## Fasit
 
-**Skjæringspunkter med $x$-aksen:** $(-3,\ 0)$, $(-1,\ 0)$ og $(2,\ 0)$
+**Skjæringspunkter med $x$-aksen:** $(-3, 0)$, $(-1, 0)$ og $(2, 0)$
 
 ## Løsningsforslag
 
@@ -137,7 +137,7 @@ $$x^3 + 2x^2 - 5x - 6 = (x + 1)(x - 2)(x + 3)$$
 
 og likningen $f(x) = 0$ har løsningene $x = -1$, $x = 2$ og $x = -3$.
 
-**Grafen skjærer $x$-aksen i punktene $\underline{\underline{(-3,\ 0), \; (-1,\ 0) \; \text{og} \; (2,\ 0)}}$.**
+**Grafen skjærer $x$-aksen i punktene $\underline{\underline{(-3, 0)}}$, $\underline{\underline{(-1, 0)}}$ og $\underline{\underline{(2, 0)}}$.**
 
 </div></div>
 

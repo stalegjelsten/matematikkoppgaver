@@ -125,8 +125,8 @@ En sannsynlighetsfordeling er gitt ved tabellen nedenfor.
 
 ## Fasit
 
-a) $k=0{,}2$ kan brukes til å vise dette
-b) Begge er 1
+a) $k=0{,}4$ gir $P(X>1)=0{,}3$
+b) $E(X)=1$ og $\text{Var}(X)=1$
 
 ## Løsningsforslag
 
