@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"date":"2023-05-24","del":2,"dg-permalink":"/grafens-lengde-med-polylinje/","dg-publish":true,"eksamen":"v23","fag":["r2"],"modified":"2026-03-30","oppgave":6,"oppgavenummer":[{"del":2,"fag":"r2","oppgave":6}],"poeng":null,"source":null,"status":1,"tags":["oppgave"],"temaer":["integral","programmering"],"title":"Grafens lengde med polylinje","todo":["løsningsforslag"],"permalink":"/grafens-lengde-med-polylinje/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":[],"date":"2023-05-24","del":2,"eksamen":"v23","fag":["r2"],"modified":"2026-03-30","oppgave":6,"oppgavenummer":[{"del":2,"fag":"r2","oppgave":6}],"poeng":null,"source":null,"status":1,"tags":["oppgave"],"temaer":["integral","programmering"],"title":"Grafens lengde med polylinje","todo":["løsningsforslag"]}}
+{"aliases":[],"date":"2023-05-24","del":2,"dg-permalink":"/grafens-lengde-med-polylinje/","dg-publish":true,"eksamen":"v23","fag":["r2"],"modified":"2026-03-30","oppgave":6,"oppgavenummer":[{"del":2,"fag":"r2","oppgave":6}],"poeng":null,"source":null,"status":1,"tags":["oppgave"],"temaer":["integral","programmering"],"title":"Grafens lengde med polylinje","todo":[],"lf-source-claude":true,"permalink":"/grafens-lengde-med-polylinje/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":[],"date":"2023-05-24","del":2,"eksamen":"v23","fag":["r2"],"modified":"2026-03-30","oppgave":6,"oppgavenummer":[{"del":2,"fag":"r2","oppgave":6}],"poeng":null,"source":null,"status":1,"tags":["oppgave"],"temaer":["integral","programmering"],"title":"Grafens lengde med polylinje","todo":[],"lf-source-claude":true}}
 ---
 
 
@@ -41,3 +41,50 @@ $$g(x) = \sqrt{1 - x^2}, \quad D_g = [-1, 1]$$
 >b) Regn ut en god tilnærmet verdi for lengden av grafen til $g$ ved å bruke framgangsmåten beskrevet ovenfor. Vurder om svaret er rimelig.
 
 ## Fasit
+
+a) Se løsningsforslag.
+
+b) **$\underline{\underline{L \approx 3{,}1416}}$** (konvergerer mot $\pi$)
+
+## Løsningsforslag
+
+### a
+
+Vi ser på linjestykket fra $(x_i,\, f(x_i))$ til $(x_{i+1},\, f(x_{i+1}))$.
+
+Den horisontale komponenten er
+
+$$\Delta x = x_{i+1} - x_i = h$$
+
+og den vertikale komponenten er
+
+$$k_i = f(x_{i+1}) - f(x_i)$$
+
+Disse to komponentene utgjør katetene i en rettvinklet trekant der linjestykket er hypotenusen. Pythagoras' setning gir da
+
+$$S_i = \sqrt{(\Delta x)^2 + k_i^2} = \sqrt{h^2 + k_i^2}$$
+
+### b
+
+Vi deler $[-1, 1]$ i $N = 1000$ like store delintervall og summerer lengdene $S_i$:
+
+```python
+import math
+a, b, N = -1, 1, 1000
+h = (b - a) / N
+L = 0
+for i in range(N):
+    xi = a + i * h
+    xj = a + (i + 1) * h
+    ki = math.sqrt(max(1 - xj**2, 0)) - math.sqrt(max(1 - xi**2, 0))
+    L += math.sqrt(h**2 + ki**2)
+print(L)   # ≈ 3,1416
+```
+
+Programmet gir $L \approx 3{,}1416$.
+
+**Rimelighetsvurdering:** Funksjonen $g(x) = \sqrt{1 - x^2}$ er den øvre halvdelen av enhetssirkelen (radius $r = 1$). Den eksakte buelengden er halve omkretsen av enhetssirkelen:
+
+$$L = \frac{2\pi r}{2} = \pi \approx 3{,}14159\ldots$$
+
+Tilnærmingen $3{,}1416$ stemmer godt med $\pi$, noe som bekrefter at svaret er rimelig.

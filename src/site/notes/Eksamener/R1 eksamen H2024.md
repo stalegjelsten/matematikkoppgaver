@@ -508,6 +508,26 @@ $$f(x) = \log_a(x)$$
 
 ## Fasit
 
+**$a = 5$**
+
+## Løsningsforslag
+
+Fra grafen avleser vi at $f(5) = 1$.
+
+Det betyr at
+
+$$\log_a(5) = 1$$
+
+Definisjonen av logaritme sier at $\log_a(5) = 1$ er det samme som $a^1 = 5$, altså
+
+$$a = 5$$
+
+**Verifisering:** Vi sjekker mot et annet avlest punkt, $f(25) \approx 2$:
+
+$$\log_5(25) = \log_5(5^2) = 2 \checkmark$$
+
+Dette stemmer med grafen, så **$\underline{\underline{a = 5}}$**.
+
 </div></div>
 
 
