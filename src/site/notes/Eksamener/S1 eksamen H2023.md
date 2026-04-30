@@ -82,6 +82,40 @@ $$
 
 ## Fasit
 
+$$\underline{\underline{3\lg 70 < 2\ln e^3 < e^{3\ln 2}}}$$
+
+## Løsningsforslag
+
+Vi beregner verdien av hvert uttrykk uten kalkulator.
+
+**$2\ln e^3$**
+
+Vi bruker at $\ln(e^a) = a$:
+
+$$2\ln e^3 = 2 \cdot 3 = 6$$
+
+**$e^{3\ln 2}$**
+
+Vi skriver om eksponenten ved å bruke at $3\ln 2 = \ln 2^3$, og deretter $e^{\ln a} = a$:
+
+$$e^{3\ln 2} = e^{\ln 2^3} = 2^3 = 8$$
+
+**$3\lg 70$**
+
+Vi kan ikke beregne dette eksakt uten kalkulator, men vi kan avgrense verdien:
+
+$$\lg 10 = 1 \implies 3\lg 10 = 3$$
+
+$$\lg 100 = 2 \implies 3\lg 100 = 6$$
+
+Siden $10 < 70 < 100$, er $1 < \lg 70 < 2$, altså $3 < 3\lg 70 < 6$.
+
+Dermed er $3\lg 70$ mellom $3$ og $6$, og vi kan konkludere:
+
+$$3\lg 70 < 6 = 2\ln e^3 < 8 = e^{3\ln 2}$$
+
+**Stigende rekkefølge: $\boldsymbol{3\lg 70 < 2\ln e^3 < e^{3\ln 2}}$**
+
 </div></div>
 
 
@@ -103,6 +137,56 @@ Du kaster tre terninger.
 >b) Bestem sannsynligheten for at nøyaktig to av terningene viser samme antall øyne.
 
 ## Fasit
+
+a) $\underline{\underline{P = \dfrac{5}{9} \approx 0{,}556}}$
+
+b) $\underline{\underline{P = \dfrac{5}{12} \approx 0{,}417}}$
+
+## Løsningsforslag
+
+Det totale antallet utfall når vi kaster tre terninger er
+
+$$6^3 = 216$$
+
+### a
+
+Vi teller antall utfall der alle tre terningene viser forskjellig antall øyne.
+
+- Første terning: 6 muligheter
+- Andre terning: må vise noe annet enn første – 5 muligheter
+- Tredje terning: må vise noe annet enn de to første – 4 muligheter
+
+Antall gunstige utfall:
+
+$$6 \cdot 5 \cdot 4 = 120$$
+
+Sannsynligheten blir
+
+$$P(\text{alle forskjellige}) = \frac{120}{216} = \frac{5}{9} \approx 0{,}556$$
+
+**Sannsynligheten for at alle terningene viser forskjellig antall øyne er $\underline{\underline{\dfrac{5}{9} \approx 0{,}556}}$.**
+
+### b
+
+Vi teller antall utfall der nøyaktig to terninger viser samme antall øyne (ett par og én ulik).
+
+**Plassering av paret:** Vi velger hvilke to av de tre terningene som skal utgjøre paret. Det er
+
+$$\binom{3}{2} = 3 \text{ måter}$$
+
+**Verdi for paret:** Paret kan vise et hvilket som helst antall øyne – 6 muligheter.
+
+**Verdi for den ulike:** Den tredje terningen må vise noe annet enn paret – 5 muligheter.
+
+Antall gunstige utfall:
+
+$$3 \cdot 6 \cdot 5 = 90$$
+
+Sannsynligheten blir
+
+$$P(\text{nøyaktig to like}) = \frac{90}{216} = \frac{5}{12} \approx 0{,}417$$
+
+**Sannsynligheten for at nøyaktig to av terningene viser samme antall øyne er $\underline{\underline{\dfrac{5}{12} \approx 0{,}417}}$.**
 
 </div></div>
 
@@ -126,6 +210,30 @@ $$f(x) = \begin{cases}x^2 + 3x - a^2\text{,} \quad  & x < 1 \\ x - 1\text{,} & x
 >Bestem $a$ slik at funksjonen blir kontinuerlig.
 
 ## Fasit
+
+**$a = 2$ eller $a = -2$**
+
+## Løsningsforslag
+
+For at $f$ skal være kontinuerlig i $x = 1$ må grenseverdiene fra venstre og høyre være like.
+
+**Grenseverdi fra venstre** ($x \to 1^-$, bruker $x^2 + 3x - a^2$):
+
+$$\lim_{x \to 1^-} f(x) = 1^2 + 3 \cdot 1 - a^2 = 4 - a^2$$
+
+**Grenseverdi fra høyre** ($x \to 1^+$, bruker $x - 1$):
+
+$$\lim_{x \to 1^+} f(x) = 1 - 1 = 0$$
+
+Vi setter grenseverdiene lik hverandre:
+
+$$4 - a^2 = 0$$
+
+$$a^2 = 4$$
+
+$$a = \pm 2$$
+
+**$\underline{\underline{a = 2 \text{ eller } a = -2}}$**
 
 </div></div>
 
@@ -166,6 +274,35 @@ print(a)
 
 ## Fasit
 
+**500**. Programmet finner minste antall produserte enheter der grensekostnaden er minst 200 kr.
+
+## Løsningsforslag
+
+Vi finner grensekostnaden ved å derivere $K(x)$:
+
+$$K'(x) = 0{,}2x + 100$$
+
+Programmet beregner den numeriske tilnærmingen til $K'(a)$ med formelen
+
+$$\frac{K(a + h) - K(a)}{h}, \quad h = 0{,}00001$$
+
+og øker $a$ med 1 så lenge denne tilnærmingen er **mindre enn** `grense = 200`. Løkken stopper første gang tilnærmingen er $\geq 200$, og programmet skriver ut $a$.
+
+Vi finner den eksakte verdien analytisk. Betingelsen $K'(a) \geq 200$ gir
+
+$$0{,}2a + 100 \geq 200 \implies 0{,}2a \geq 100 \implies a \geq 500$$
+
+Minste heltall som oppfyller dette er $a = 500$.
+
+**Kontroll med programmet:**
+
+- For $a = 499$: $\dfrac{K(499{,}00001) - K(499)}{0{,}00001} \approx 199{,}8 < 200$, så løkken kjører videre.
+- For $a = 500$: $\dfrac{K(500{,}00001) - K(500)}{0{,}00001} \approx 200{,}000001 \geq 200$, så betingelsen blir usann og løkken stopper.
+
+Programmet skriver ut $\underline{\underline{500}}$.
+
+**Praktisk tolkning:** Når bedriften produserer 500 enheter daglig, er grensekostnaden 200 kr — det vil si at den ekstra kostnaden ved å produsere én enhet til er omtrent 200 kr. Programmet finner altså det minste produksjonsvolumet der grensekostnaden når 200 kr.
+
 </div></div>
 
 
@@ -205,6 +342,78 @@ Fabrikken ønsker at overskuddet skal være 1 million kroner per måned. De vil 
 
 ## Fasit
 
+a) Se graf — kurven $O(x) = -0{,}041x^2 + 11x - 103$ ligger nær alle de empiriske punktene.
+
+b) **Størst overskudd ved produksjon av $\underline{\underline{134 \text{ sofaer}}}$ per måned**, noe som gir et overskudd på $\underline{\underline{634\,800 \, \mathrm{kr}}}$.
+
+c) Laveste salgspris: $\underline{\underline{p \approx 30\,450 \, \mathrm{kr}}}$ per sofa.
+
+## Løsningsforslag
+
+### a
+
+Vi beregner inntekten. Fabrikken selger alle sofaene til 28 000 kr per sofa, så inntekten per måned er
+
+$$I(x) = 28x \quad \text{(tusen kr)}$$
+
+Vi beregner overskuddet $O = I - K$ for hver verdi i tabellen:
+
+| $x$ | $I(x) = 28x$ | $K(x)$ | $O = I - K$ |
+|:---:|:---:|:---:|:---:|
+| 10 | 280 | 270 | 10 |
+| 25 | 700 | 550 | 150 |
+| 40 | 1120 | 870 | 250 |
+| 70 | 1960 | 1500 | 460 |
+| 100 | 2800 | 2200 | 600 |
+| 140 | 3920 | 3300 | 620 |
+| 180 | 5040 | 4500 | 540 |
+
+Vi plotter de empiriske overskuddspunktene (blå) og kurven $O(x) = -0{,}041x^2 + 11x - 103$ (grønn) i GeoGebra:
+
+![s1-h23-2-1.png](/img/user/_resources/s1-h23-2-1.png)
+
+Kurven ligger nær alle de sju punktene, så modellen passer godt.
+
+### b
+
+Overskuddet $O(x) = -0{,}041x^2 + 11x - 103$ er en andregradsfunksjon som åpner nedover, og har derfor et globalt toppunkt. Vi finner toppunktet ved å derivere og sette den deriverte lik null:
+
+$$O'(x) = -0{,}082x + 11 = 0$$
+
+$$x = \frac{11}{0{,}082} \approx 134{,}1$$
+
+Siden $x$ må være et heltall, sammenlignes $x = 134$ og $x = 135$:
+
+$$O(134) = -0{,}041 \cdot 134^2 + 11 \cdot 134 - 103 \approx 634{,}8 \quad \text{(tusen kr)}$$
+
+$$O(135) = -0{,}041 \cdot 135^2 + 11 \cdot 135 - 103 \approx 634{,}8 \quad \text{(tusen kr)}$$
+
+$O(134) > O(135)$, så $x = 134$ gir størst overskudd.
+
+**Størst månedlig overskudd oppnås ved å produsere $\underline{\underline{134 \text{ sofaer}}}$, og overskuddet er da $\underline{\underline{634\,800 \, \mathrm{kr}}}$.**
+
+### c
+
+Vi finner kostnadsfunksjonen fra del a). Siden $O(x) = I(x) - K(x)$, er
+
+$$K(x) = I(x) - O(x) = 28x - (-0{,}041x^2 + 11x - 103) = 0{,}041x^2 + 17x + 103$$
+
+Med ny salgspris $p$ kr per sofa blir inntekten $I_{\text{ny}}(x) = \dfrac{p}{1000} \cdot x$ (i tusen kr), og det nye overskuddet er
+
+$$O_{\text{ny}}(x) = \frac{p}{1000} x - (0{,}041x^2 + 17x + 103)$$
+
+Dette er igjen en andregradsfunksjon som åpner nedover. Toppverdien til en funksjon $f(x) = -ax^2 + bx + c$ er $\dfrac{b^2}{4a} + c$. Her er $a = 0{,}041$, $b = \dfrac{p}{1000} - 17$ og $c = -103$:
+
+$$O_{\text{ny, maks}} = \frac{\left(\dfrac{p}{1000} - 17\right)^2}{4 \cdot 0{,}041} - 103$$
+
+Vi setter maksimum lik 1000 (= 1 million kr) og løser for $p$ i GeoGebra CAS:
+
+![s1-h23-2-1c.png](/img/user/_resources/s1-h23-2-1c.png)
+
+CAS gir to løsninger: $p \approx 3\,550$ og $p \approx 30\,450$. Løsningen $p \approx 3\,550$ er lavere enn 28 000 kr og forkastes (den svarer til et maksimum ved negativ produksjonsmengde, noe som ikke er fysisk meningsfullt). Den laveste salgsprisen som gir et maksimalt månedlig overskudd på 1 million kr er derfor
+
+**$\underline{\underline{p \approx 30\,450 \, \mathrm{kr}}}$ per sofa.**
+
 </div></div>
 
 
@@ -233,6 +442,75 @@ I en klasse er det 13 gutter og 17 jenter.
 >c) Bestem sannsynligheten for at nøyaktig tre av elevene i klassen er venstrehendte.
 
 ## Fasit
+
+a) $\underline{\underline{P(X \geq 25) \approx 0{,}7528}}$
+
+b) **Minste antall gutter: $\underline{\underline{n = 16}}$**
+
+c) $\underline{\underline{P(G + J = 3) \approx 0{,}2309}}$
+
+## Løsningsforslag
+
+Vi bruker GeoGebra CAS til å beregne sannsynlighetene.
+
+![GeoGebra CAS – binomiske sannsynligheter](/img/user/_resources/s1-h23-2-2.png)
+
+### a
+
+La $X$ = antall venstrehendte gutter på skolen. $X$ er binomisk fordelt med $n = 280$ og $p = 0{,}10$.
+
+**Begrunnelse:** Det er 280 gutter (uavhengige forsøk), to mulige utfall (venstrehendt / ikke venstrehendt), og fast sannsynlighet $p = 0{,}10$ for hvert forsøk.
+
+Vi ønsker $P(X \geq 25)$:
+
+$$P(X \geq 25) = 1 - P(X \leq 24)$$
+
+I GeoGebra CAS:
+
+$$\texttt{1 - FordelingBinomial(280, 0.10, 24)}$$
+
+**$P(X \geq 25) \approx \underline{\underline{0{,}7528}}$**
+
+### b
+
+La $Y$ = antall venstrehendte gutter i en klasse med $n$ gutter. $Y$ er binomisk fordelt med $p = 0{,}10$.
+
+Vi søker minste $n$ slik at $P(Y \geq 3) > 0{,}20$:
+
+$$P(Y \geq 3) = 1 - P(Y \leq 2) > 0{,}20$$
+
+Vi prøver ulike verdier av $n$ i GeoGebra CAS med `1 - FordelingBinomial(n, 0.10, 2)`:
+
+| $n$ | $P(Y \geq 3)$ |
+|-----|--------------|
+| 15  | $\approx 0{,}1841$ |
+| 16  | $\approx 0{,}2108$ |
+
+For $n = 15$ er sannsynligheten $0{,}1841 < 0{,}20$, mens for $n = 16$ er den $0{,}2108 > 0{,}20$.
+
+**Det må være minst $\underline{\underline{16 \text{ gutter}}}$ i klassen.**
+
+### c
+
+La $G$ = antall venstrehendte gutter i klassen, og $J$ = antall venstrehendte jenter i klassen.
+
+- $G$ er binomisk fordelt med $n = 13$ og $p = 0{,}10$
+- $J$ er binomisk fordelt med $n = 17$ og $p = 0{,}08$
+- $G$ og $J$ er uavhengige
+
+Vi vil finne $P(G + J = 3)$. Vi summerer over alle mulige fordeling av de 3 venstrehendte på gutter og jenter:
+
+$$P(G + J = 3) = \sum_{g=0}^{3} P(G = g) \cdot P(J = 3 - g)$$
+
+$$= P(G=0) \cdot P(J=3) + P(G=1) \cdot P(J=2) + P(G=2) \cdot P(J=1) + P(G=3) \cdot P(J=0)$$
+
+I GeoGebra CAS:
+
+$$\texttt{Sum(Binomial(13,k) \cdot 0.1\^{}k \cdot 0.9\^{}(13-k) \cdot Binomial(17,3-k) \cdot 0.08\^{}(3-k) \cdot 0.92\^{}(14+k), k, 0, 3)}$$
+
+$$\approx 0{,}23088$$
+
+**$P(G + J = 3) \approx \underline{\underline{0{,}2309}}$**
 
 </div></div>
 
@@ -343,6 +621,82 @@ La $X$ være summen av antall øyne på de fem terningene.
 >c) Bestem den største verdien av $k$ som er slik at $P(X \geq k) > 0{,}8$.
 
 ## Fasit
+
+a) $\underline{\underline{P(\text{minst to like}) = \dfrac{7056}{7776} \approx 0{,}9074}}$
+
+b) $\underline{\underline{P(X > 20) = \dfrac{1722}{7776} \approx 0{,}2215}}$
+
+c) $\underline{\underline{k = 14}}$
+
+## Løsningsforslag
+
+### a
+
+Det er lettere å beregne komplementet — sannsynligheten for at **alle fem terningene viser forskjellig antall øyne** — og trekke fra 1.
+
+Siden en terning har 6 mulige utfall og vi kaster 5 terninger, er det totale antallet utfall
+
+$$6^5 = 7776$$
+
+Antall utfall der alle fem terningene er forskjellige: første terning kan vise hva som helst (6 muligheter), andre terning må vise noe annet enn første (5 muligheter), tredje noe annet enn de to første (4 muligheter), og så videre:
+
+$$6 \cdot 5 \cdot 4 \cdot 3 \cdot 2 = 720$$
+
+Sannsynligheten for at alle er forskjellige:
+
+$$P(\text{alle forskjellige}) = \frac{720}{7776}$$
+
+Sannsynligheten for at **minst to er like**:
+
+$$P(\text{minst to like}) = 1 - \frac{720}{7776} = \frac{7056}{7776} \approx \mathbf{0{,}9074}$$
+
+### b
+
+Vi bruker programmering til å telle alle mulige utfall av fem terningkast og finne andelen der summen er større enn 20.
+
+```python
+from itertools import product
+
+# Generer alle mulige utfall av fem terninger (6^5 = 7776 utfall)
+utfall = list(product(range(1, 7), repeat=5))
+
+# b) Tell antall utfall der summen er større enn 20
+antall = sum(1 for u in utfall if sum(u) > 20)
+print(antall / len(utfall))   # ≈ 0,2215
+```
+
+Programmet gir $\dfrac{1722}{7776}$, så
+
+$$P(X > 20) = \frac{1722}{7776} \approx \mathbf{0{,}2215}$$
+
+### c
+
+Vi søker den **største** verdien av $k$ slik at $P(X \geq k) > 0{,}8$.
+
+```python
+from itertools import product
+
+utfall = list(product(range(1, 7), repeat=5))
+
+# c) Finn største k slik at P(X >= k) > 0,8
+for k in range(30, 4, -1):
+    p = sum(1 for u in utfall if sum(u) >= k) / len(utfall)
+    if p > 0.8:
+        print(k)   # 14
+        break
+```
+
+Programmet gir $k = 14$. Vi kan kontrollere verdiene rundt:
+
+| $k$ | $P(X \geq k)$ |
+|-----|----------------|
+| 13 | $\approx 0{,}9020$ |
+| **14** | $\approx 0{,}8480$ |
+| 15 | $\approx 0{,}7785$ |
+
+$P(X \geq 14) \approx 0{,}8480 > 0{,}8$, men $P(X \geq 15) \approx 0{,}7785 < 0{,}8$.
+
+Den største verdien av $k$ er $\underline{\underline{k = 14}}$.
 
 </div></div>
 

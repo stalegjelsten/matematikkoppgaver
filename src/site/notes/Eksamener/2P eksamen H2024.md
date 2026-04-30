@@ -26,7 +26,7 @@ Table: {.eksamen-oversikt}
 | [2-2](#oppgave-2-2) | [Kjøpekraft og konsumprisindeks](https://matematikkoppgaver.vercel.app/kjopekraft-og-konsumprisindeks/) | prisindeks, prosentregning | × |
 | [2-3](#oppgave-2-3) | [Argumenter for at prosentregnestykker gir samme svar](https://matematikkoppgaver.vercel.app/argumenter-for-at-prosentregnestykker-gir-samme-svar/) | prosent, utforskning, argumentasjon, prosentregning | ✔︎ |
 | [2-4](#oppgave-2-4) | [Statistikk for quizlag](https://matematikkoppgaver.vercel.app/statistikk-for-quizlag/) | statistikk, sentralmål, standardavvik, utforskning | × |
-| [2-5](#oppgave-2-5) | [Nettoinntekt med overtid](https://matematikkoppgaver.vercel.app/nettoinntekt-med-overtid/) | prosentregning, økonomi | × |
+| [2-5](#oppgave-2-5) | [Nettoinntekt med overtid](https://matematikkoppgaver.vercel.app/nettoinntekt-med-overtid/) | prosentregning, økonomi | ✔︎ |
 | [2-6](#oppgave-2-6) | [Lag presentasjon om statistikk for tidsbruk på ulike aktiviteter](https://matematikkoppgaver.vercel.app/lag-presentasjon-om-statistikk-for-tidsbruk-pa-ulike-aktiviteter/) | presentasjon av data, prosentregning, diagram | ✔︎ |
 | [2-7](#oppgave-2-7) | [Forbrukslån med betalingsplan](https://matematikkoppgaver.vercel.app/forbrukslan-med-betalingsplan/) | lån, økonomi | ✔︎ |
 | [2-8](#oppgave-2-8) | [Volum og areal for lesehule](https://matematikkoppgaver.vercel.app/volum-og-areal-for-lesehule/) | volum, areal, geometri | × |

@@ -316,6 +316,120 @@ En plante på veggen har en gren som vokser slik at den følger en rett linje gj
 
 ## Fasit
 
+a) **Ja, vinkelen ved $B$ er større enn $90°$** (ca. $99{,}2°$)
+
+b) $\underline{\underline{\text{Areal} = \dfrac{\sqrt{38}}{2} \approx 3{,}08 \, \mathrm{dm}^2}}$
+
+c) Retningsvektoren til grenen er parallell med planet — linja og planet har ingen felles punkt.
+
+## Løsningsforslag
+
+### a
+
+Vi undersøker om noen av vinklene er større enn $90°$ ved å beregne skalarproduktet mellom sidene som møtes i hvert hjørne. En vinkel er stump dersom og bare dersom skalarproduktet er negativt.
+
+Vi setter opp vektorene mellom hjørnene:
+
+$$\overrightarrow{AB} = B - A = (2, 3, 0)$$
+
+$$\overrightarrow{AC} = C - A = (1, 4, 1)$$
+
+$$\overrightarrow{BA} = A - B = (-2, -3, 0)$$
+
+$$\overrightarrow{BC} = C - B = (-1, 1, 1)$$
+
+$$\overrightarrow{CA} = A - C = (-1, -4, -1)$$
+
+$$\overrightarrow{CB} = B - C = (1, -1, -1)$$
+
+**Vinkel ved $A$:**
+
+$$\overrightarrow{AB} \cdot \overrightarrow{AC} = 2 \cdot 1 + 3 \cdot 4 + 0 \cdot 1 = 2 + 12 + 0 = 14 > 0$$
+
+Vinkelen ved $A$ er akutt.
+
+**Vinkel ved $B$:**
+
+$$\overrightarrow{BA} \cdot \overrightarrow{BC} = (-2)(-1) + (-3)(1) + 0 \cdot 1 = 2 - 3 + 0 = -1 < 0$$
+
+**Vinkelen ved $B$ er stump**, altså større enn $90°$.
+
+**Vinkel ved $C$:**
+
+$$\overrightarrow{CA} \cdot \overrightarrow{CB} = (-1)(1) + (-4)(-1) + (-1)(-1) = -1 + 4 + 1 = 4 > 0$$
+
+Vinkelen ved $C$ er akutt.
+
+Vi kan beregne den eksakte vinkelen ved $B$:
+
+$$\cos B = \frac{\overrightarrow{BA} \cdot \overrightarrow{BC}}{|\overrightarrow{BA}| \cdot |\overrightarrow{BC}|} = \frac{-1}{\sqrt{13} \cdot \sqrt{3}} = \frac{-1}{\sqrt{39}} \approx -0{,}160$$
+
+$$B \approx 99{,}2°$$
+
+**Konklusjon:** Vinkelen ved $B$ er større enn $90°$.
+
+### b
+
+Arealet av trekant $ABC$ beregner vi med kryssprodukt-formelen:
+
+$$\text{Areal} = \frac{1}{2} |\overrightarrow{AB} \times \overrightarrow{AC}|$$
+
+Vi beregner kryssproduktet:
+
+$$\overrightarrow{AB} \times \overrightarrow{AC} = \begin{vmatrix} \mathbf{i} & \mathbf{j} & \mathbf{k} \\ 2 & 3 & 0 \\ 1 & 4 & 1 \end{vmatrix}$$
+
+$$= \mathbf{i}(3 \cdot 1 - 0 \cdot 4) - \mathbf{j}(2 \cdot 1 - 0 \cdot 1) + \mathbf{k}(2 \cdot 4 - 3 \cdot 1)$$
+
+$$= \mathbf{i}(3) - \mathbf{j}(2) + \mathbf{k}(5) = (3, -2, 5)$$
+
+Lengden av kryssproduktet:
+
+$$|\overrightarrow{AB} \times \overrightarrow{AC}| = \sqrt{3^2 + (-2)^2 + 5^2} = \sqrt{9 + 4 + 25} = \sqrt{38}$$
+
+Arealet blir:
+
+$$\text{Areal} = \frac{\sqrt{38}}{2} \approx 3{,}08 \, \mathrm{dm}^2$$
+
+### c
+
+Vi skal vise at grenen (linja gjennom $D(3,7,3)$ og $E(2,3,2)$) aldri treffer bordplaten (planet gjennom $A$, $B$ og $C$).
+
+**Steg 1: Finn planlikningen for bordplaten.**
+
+Fra deloppgave b) vet vi at $\mathbf{n} = \overrightarrow{AB} \times \overrightarrow{AC} = (3, -2, 5)$ er normalvektor til planet. Siden $A(0,0,0)$ ligger i planet, blir planlikningen:
+
+$$3x - 2y + 5z = 0$$
+
+**Steg 2: Parametriser grenen.**
+
+Retningsvektoren til grenen er:
+
+$$\overrightarrow{DE} = E - D = (2-3,\, 3-7,\, 2-3) = (-1, -4, -1)$$
+
+Et punkt på grenen: $(x, y, z) = (3 - s,\, 7 - 4s,\, 3 - s)$ for $s \in \mathbb{R}$.
+
+**Steg 3: Sett inn i planlikningen.**
+
+$$3(3 - s) - 2(7 - 4s) + 5(3 - s)$$
+
+$$= 9 - 3s - 14 + 8s + 15 - 5s$$
+
+$$= (9 - 14 + 15) + (-3 + 8 - 5)s$$
+
+$$= 10 + 0 \cdot s = 10$$
+
+Siden koeffisienten foran $s$ er $0$, er uttrykket konstant lik $10$ for alle $s$. Ligningen $10 = 0$ har ingen løsning.
+
+Det betyr at $\overrightarrow{DE} \cdot \mathbf{n} = (-1)(3) + (-4)(-2) + (-1)(5) = -3 + 8 - 5 = 0$, altså er retningsvektoren til grenen vinkelrett på normalvektoren til planet. Dermed er grenen **parallell med bordplaten**.
+
+Siden $D$ ikke ligger i planet ($3 \cdot 3 - 2 \cdot 7 + 5 \cdot 3 = 9 - 14 + 15 = 10 \neq 0$), ligger grenen i sin helhet utenfor planet.
+
+Avstanden fra et vilkårlig punkt på grenen til bordplaten er konstant:
+
+$$d = \frac{|10|}{\sqrt{38}} = \frac{10}{\sqrt{38}} \approx 1{,}62 \, \mathrm{dm}$$
+
+**Konklusjon:** Grenen er parallell med bordplaten og aldri treffer den.
+
 </div></div>
 
 
@@ -354,6 +468,30 @@ print(s)
 >Bestem verdien som skrives ut når koden kjøres.
 
 ## Fasit
+
+$\underline{\underline{s \approx -\dfrac{4}{3} \approx -1{,}333}}$
+
+## Løsningsforslag
+
+Koden regner ut en **venstre-Riemann-sum** for summen $f(x) + g(x)$ over intervallet $[0, 2]$.
+
+Løkken starter med $x = 0$ og øker med $\mathrm{d}x = 0{,}0001$ for hvert steg. For hvert $x$ legger den til
+
+$$\bigl(f(x) + g(x)\bigr) \cdot \mathrm{d}x = \bigl(x^3 - 2x^2\bigr) \cdot \mathrm{d}x$$
+
+Når $\mathrm{d}x \to 0$ nærmer summen seg det bestemte integralet
+
+$$s \to \int_0^2 \bigl(x^3 - 2x^2\bigr) \, \mathrm{d}x$$
+
+Vi beregner integralet:
+
+$$\int_0^2 \bigl(x^3 - 2x^2\bigr) \, \mathrm{d}x = \left[ \frac{x^4}{4} - \frac{2x^3}{3} \right]_0^2$$
+
+$$= \left(\frac{2^4}{4} - \frac{2 \cdot 2^3}{3}\right) - 0 = \frac{16}{4} - \frac{16}{3} = 4 - \frac{16}{3} = \frac{12}{3} - \frac{16}{3} = -\frac{4}{3}$$
+
+Med $\mathrm{d}x = 0{,}0001$ (ikke null) vil koden gi en liten numerisk avrundingsfeil, og verdien som skrives ut er omtrent $-1{,}33333$.
+
+**Verdien som skrives ut er $\underline{\underline{s \approx -\dfrac{4}{3} \approx -1{,}333}}$.**
 
 </div></div>
 
@@ -442,6 +580,62 @@ der bakkenivået er $xy$-planet i et koordinatsystem med meter som enhet langs a
 >c) Gjør nødvendige antakelser og bestem en mulig avstand mellom etasjene i parkeringshuset.
 
 ## Fasit
+
+a) **$\underline{\underline{\frac{20}{3} \approx 6{,}67 \, \mathrm{m}}}$** over bakkenivået
+
+b) $\vec{v}(t) = \left[ -\dfrac{4\pi}{5}\sin\!\left(\dfrac{\pi}{5}t\right),\ \dfrac{4\pi}{5}\cos\!\left(\dfrac{\pi}{5}t\right),\ \dfrac{1}{3} \right]$, **fart $\underline{\underline{\approx 2{,}54 \, \mathrm{m/s}}}$** (konstant)
+
+c) Avstanden mellom etasjene er **$\underline{\underline{\frac{10}{3} \approx 3{,}3 \, \mathrm{m}}}$**
+
+## Løsningsforslag
+
+Vi har gitt posisjonsvektor
+
+$$\vec{r}(t) = \left[ 4\cos\!\left(\frac{\pi}{5}t\right),\ 4\sin\!\left(\frac{\pi}{5}t\right) + 2,\ 5 + \frac{1}{3}t \right], \qquad t \in [0, 20]$$
+
+### a
+
+$z$-koordinaten gir høyden over bakkenivået ($xy$-planet). Vi setter $t = 5$:
+
+$$z(5) = 5 + \frac{1}{3} \cdot 5 = 5 + \frac{5}{3} = \frac{15}{3} + \frac{5}{3} = \frac{20}{3} \approx 6{,}67$$
+
+**Bilen er $\underline{\underline{\frac{20}{3} \approx 6{,}67 \, \mathrm{m}}}$ over bakkenivået etter 5 sekunder.**
+
+### b
+
+Vi deriverer $\vec{r}(t)$ komponentvis for å finne fartsvektoren. I GeoGebra CAS definerer vi $r(t)$ og beregner $v(t) = \vec{r}\,'(t)$, farten $|\vec{v}(t)|$ og evaluerer ved $t = 10$:
+
+![GeoGebra CAS – r(t), v(t) og fart](/img/user/_resources/r2-v25-2-1.png)
+
+CAS gir:
+
+$$\vec{v}(t) = \left[ -\frac{4\pi}{5}\sin\!\left(\frac{\pi}{5}t\right),\ \frac{4\pi}{5}\cos\!\left(\frac{\pi}{5}t\right),\ \frac{1}{3} \right]$$
+
+Farten er lengden av fartsvektoren:
+
+$$|\vec{v}(t)| = \sqrt{\left(\frac{4\pi}{5}\right)^2\!\sin^2\!\left(\frac{\pi}{5}t\right) + \left(\frac{4\pi}{5}\right)^2\!\cos^2\!\left(\frac{\pi}{5}t\right) + \left(\frac{1}{3}\right)^2}$$
+
+Siden $\sin^2(\cdot) + \cos^2(\cdot) = 1$ forenkler CAS uttrykket til:
+
+$$|\vec{v}(t)| = \frac{\sqrt{144\pi^2 + 25}}{15} \approx 2{,}535 \, \mathrm{m/s}$$
+
+Farten er **konstant** – den er uavhengig av $t$. Etter 10 sekunder er farten den samme:
+
+$$|\vec{v}(10)| = \frac{\sqrt{144\pi^2 + 25}}{15} \approx \mathbf{2{,}54 \, \mathrm{m/s}}$$
+
+**Farten til bilen etter 10 sekunder er $\underline{\underline{\frac{\sqrt{144\pi^2+25}}{15} \approx 2{,}54 \, \mathrm{m/s}}}$.**
+
+### c
+
+Vi antar at én etasje tilsvarer én full omdreining av spiralen. En full omdreining skjer når argumentet $\frac{\pi}{5}t$ øker med $2\pi$, det vil si når $t$ øker med $10$ sekunder.
+
+Høydeforskjellen i løpet av én omdreining ($\Delta t = 10 \, \mathrm{s}$) er:
+
+$$\Delta z = z(t + 10) - z(t) = \frac{1}{3}(t+10) - \frac{1}{3}t = \frac{10}{3} \approx 3{,}3 \, \mathrm{m}$$
+
+Dette er en realistisk etasjehøyde for et parkeringshus (typisk $2{,}5$–$3{,}5 \, \mathrm{m}$).
+
+**Avstanden mellom etasjene er $\underline{\underline{\frac{10}{3} \approx 3{,}3 \, \mathrm{m}}}$.**
 
 </div></div>
 
@@ -566,6 +760,58 @@ $$v_g(x) = \frac{1}{x} \int_{0}^{x} v(t) \, \mathrm{d}t$$
 >c) Bestem gjennomsnittsfarten til haren de første 200 meterne.
 
 ## Fasit
+
+a) Akselerasjonen er null etter $\underline{\underline{t \approx 0{,}97 \, \mathrm{s}}}$. Dette er tidspunktet der haren har størst fart: $v(0{,}97) \approx \underline{\underline{16{,}6 \, \mathrm{m/s}}}$.
+
+b) $\underline{\underline{s \approx 103{,}4 \, \mathrm{m}}}$
+
+c) $\underline{\underline{v_g \approx 13{,}4 \, \mathrm{m/s}}}$
+
+## Løsningsforslag
+
+Vi bruker GeoGebra CAS med numerisk evaluering.
+
+**Definer $v(t)$ og finn akselerasjonen $a(t) = v'(t)$, løs $a(t) = 0$, beregn integralet over $[0, 7]$, og løs $\int_0^x v(t)\,\mathrm{d}t = 200$ numerisk:**
+
+![GeoGebra CAS – harens fart og gjennomsnittsfart](/img/user/_resources/r2-v25-2-3.png)
+
+### a
+
+Vi definerer $v(t)$ og deriverer for å finne akselerasjonen:
+
+$$a(t) = v'(t) = 87 \cdot e^{-5t} - 0{,}728 \cdot e^{-0{,}08t}$$
+
+GeoGebra løser $a(t) = 0$ numerisk og gir $t \approx 0{,}972 \, \mathrm{s}$.
+
+**Det tar omtrent $\underline{\underline{t \approx 0{,}97 \, \mathrm{s}}}$ før akselerasjonen er null.**
+
+Tolkning: For $t < 0{,}97$ er $a(t) > 0$, haren øker farten. For $t > 0{,}97$ er $a(t) < 0$, haren bremser ned. Tidspunktet $t \approx 0{,}97$ er altså når haren har sin **høyeste fart**: $v(0{,}972) \approx \underline{\underline{16{,}6 \, \mathrm{m/s}}}$.
+
+### b
+
+Strekningen haren løper i løpet av de første 7 sekundene er
+
+$$s = \int_0^7 v(t) \, \mathrm{d}t$$
+
+GeoGebra beregner integralet numerisk:
+
+$$s \approx \underline{\underline{103{,}4 \, \mathrm{m}}}$$
+
+### c
+
+Vi søker $x$ slik at gjennomsnittsfarten de første $x$ sekundene er lik $\frac{200}{x}$, altså slik at haren har tilbakelagt nettopp 200 meter:
+
+$$\int_0^x v(t) \, \mathrm{d}t = 200$$
+
+Antideriverte til $v(t)$ er
+
+$$V(t) = 8{,}3t + 3{,}48 \cdot e^{-5t} - 113{,}75 \cdot e^{-0{,}08t}$$
+
+GeoGebra løser likningen $V(x) - V(0) = 200$ numerisk og gir (den positive løsningen) $x \approx 14{,}954 \, \mathrm{s}$.
+
+Gjennomsnittsfarten de første 200 meterne er dermed
+
+$$v_g = \frac{200}{x} \approx \frac{200}{14{,}954} \approx \underline{\underline{13{,}4 \, \mathrm{m/s}}}$$
 
 </div></div>
 
