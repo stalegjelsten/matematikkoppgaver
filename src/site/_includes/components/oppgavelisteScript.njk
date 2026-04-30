@@ -163,7 +163,10 @@
       if (articleEl) {
         // Strip own oppgaveliste-button-container if it bled in via article
         articleEl.querySelectorAll('.oppgaveliste-button-container, .handleliste-button-container').forEach(el => el.remove());
-        cleanHtml = articleEl.innerHTML;
+        const beforeHtml = Array.from(main.querySelectorAll('.oppgave-kildeinfo'))
+          .map(el => el.outerHTML)
+          .join('');
+        cleanHtml = beforeHtml + articleEl.innerHTML;
       } else {
         // Fallback: use main but strip noise
         main.querySelectorAll('.oppgaveliste-button-container, .handleliste-button-container, nav, .sidebar, .timestamps').forEach(el => el.remove());
