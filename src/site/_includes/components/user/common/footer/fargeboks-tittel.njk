@@ -3,14 +3,22 @@
   const colorBoxTypes = ["green-box", "blue-box", "yellow-box"];
   colorBoxTypes.forEach(function (type) {
     document.querySelectorAll(`.callout[data-callout="${type}"]`).forEach(function (callout) {
-      const titleEl = callout.querySelector(".callout-title");
+      const titleEl = Array.from(callout.children).find(function (child) {
+        return child.classList && child.classList.contains("callout-title");
+      });
       if (!titleEl) return;
-      const titleInner = callout.querySelector(".callout-title-inner");
+      const titleInner = titleEl.querySelector(".callout-title-inner");
       if (!titleInner) return;
       const text = titleInner.textContent.trim().toLowerCase();
       const defaultTitles = [type, type.replace("-", " ")];
       if (defaultTitles.includes(text)) {
-        titleEl.style.display = "none";
+        callout.classList.add("color-box-no-title");
+        callout.classList.remove("color-box-has-title");
+        titleEl.setAttribute("aria-hidden", "true");
+      } else {
+        callout.classList.add("color-box-has-title");
+        callout.classList.remove("color-box-no-title");
+        titleEl.removeAttribute("aria-hidden");
       }
     });
   });

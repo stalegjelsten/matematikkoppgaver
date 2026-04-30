@@ -147,10 +147,17 @@
   padding: 1rem 1.5rem;
 }
 
-/* Vis egendefinerte overskrifter for fargebokser */
+/* Fargebokser viser bare tittellinje når callouten har egendefinert tittel */
 .callout[data-callout="green-box"] .callout-title,
 .callout[data-callout="blue-box"] .callout-title,
 .callout[data-callout="yellow-box"] .callout-title {
+  display: none;
+  margin-bottom: 0;
+}
+
+.callout[data-callout="green-box"].color-box-has-title > .callout-title,
+.callout[data-callout="blue-box"].color-box-has-title > .callout-title,
+.callout[data-callout="yellow-box"].color-box-has-title > .callout-title {
   display: flex;
   margin-bottom: 0.45rem;
 }
