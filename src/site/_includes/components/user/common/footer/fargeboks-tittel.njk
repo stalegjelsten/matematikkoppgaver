@@ -8,9 +8,9 @@
       const titleInner = callout.querySelector(".callout-title-inner");
       if (!titleInner) return;
       const text = titleInner.textContent.trim().toLowerCase();
-      const defaultTitle = type.charAt(0) + type.slice(1).toLowerCase();
-      if (text !== defaultTitle) {
-        titleEl.style.display = "flex";
+      const defaultTitles = [type, type.replace("-", " ")];
+      if (defaultTitles.includes(text)) {
+        titleEl.style.display = "none";
       }
     });
   });

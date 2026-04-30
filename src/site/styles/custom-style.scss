@@ -147,11 +147,12 @@
   padding: 1rem 1.5rem;
 }
 
-/* Skjul tittel og ikon for fargebokser */
+/* Vis egendefinerte overskrifter for fargebokser */
 .callout[data-callout="green-box"] .callout-title,
 .callout[data-callout="blue-box"] .callout-title,
 .callout[data-callout="yellow-box"] .callout-title {
-  display: none;
+  display: flex;
+  margin-bottom: 0.45rem;
 }
 
 /* Fjern toppmargin for sideinnhold */
