@@ -246,7 +246,7 @@ I tillegg får vi oppgitt definisjonsmengden $1\leq x\leq 12$. Det betyr at det 
 ### b
 Jeg legger inn funksjonsuttrykket i GeoGebra og avgrenser funksjonen til definisjonsmengden ved å bruke `Funksjon()`-kommandoen. Deretter legger jeg inn $y=2250$ og finner skjæringspunktet mellom funksjonene. 
 
-**Skjæringspunktet mellom grafen og den rette linja er $(6, 3000)$, se punkt $A$ i utklippet. Det betyr at de trenger å være 6 personer som spleiser på leia for at prisen skal bli 2250 kr.**
+**Skjæringspunktet mellom grafen og den rette linja er $(8, 2250)$, se punkt $A$ i utklippet. Det betyr at de trenger å være 8 personer som spleiser på leia for at prisen skal bli 2250 kr.**
 
 ![](/img/user/_resources/2py-v24-2-1.png)
 
@@ -294,7 +294,7 @@ Malin vurderer om hun skal binde pengene i 3 måneder eller i 1 år.
 
 ## Fasit
 
-a) 0,25 prosentpoeng, 4,76 % høyere
+a) 0,25 prosentpoeng, 4,85 % høyere
 b) 24 300 kr
 
 ## Løsningsforslag
@@ -306,9 +306,9 @@ $$
 $$
 For å bestemme forskjellen i prosent så sammenligner jeg differansen med renten for 3 måneder
 $$
-\frac{5{,}4 \,\% - 5{,}15 \,\%}{5{,}15 \,\%}=\frac{0{,}25 \,\%}{5{,}15 \,\%}=0{,}0476=4{,}76 \,\%
+\frac{5{,}4 \,\% - 5{,}15 \,\%}{5{,}15 \,\%}=\frac{0{,}25 \,\%}{5{,}15 \,\%}=0{,}0485=4{,}85 \,\%
 $$
-**Hvis hun binder pengene i ett år er renten 0,25 prosentpoeng og 4,76 % høyere enn hvis hun binder pengene i 3 måneder.**
+**Hvis hun binder pengene i ett år er renten 0,25 prosentpoeng og 4,85 % høyere enn hvis hun binder pengene i 3 måneder.**
 
 ### b
 Jeg finner rentene ved å gange sparebeløpet med rentesatsen
@@ -444,7 +444,7 @@ I juni øker økningen med enda 5 prosentpoeng til 45 %. Antall følgere i juni 
 ### c
 Vi kan bruke modellen $f(x)=5244 \cdot 1{,}35^{x}$ til å beregne hvor mange følgere hun har i august med 35 % økning. August tilsvarer $x=9$
 $$
-f(9)=5244 \cdot 1{,}35^9=78 \,922
+f(9)=5244 \cdot 1{,}35^9=78 \,103
 $$
 
 Dersom Tuva klarer å holde målet sitt med 5 prosentpoeng økning vil hun i juli ha
@@ -452,9 +452,9 @@ $48 \, 736 \cdot 1{,}50=73 \, 104$ følgere, og i august $73 \, 104 \cdot 1{,}55
 
 Vi finner den prosentvise forskjellen
 $$
-\frac{113 \,311-78\,922}{78\,922} = \frac{34 \,389}{78\,922}=43{,}6 \,\%
+\frac{113 \,311-78\,103}{78\,103} = \frac{35 \,208}{78 \,103}=45{,}1 \,\%
 $$
-**Tuva vil ha 43,6 % flere følgere i august om hun klarer å nå det nye målet sitt.**
+**Tuva vil ha 45,1 % flere følgere i august om hun klarer å nå det nye målet sitt.**
 
 
 </div></div>

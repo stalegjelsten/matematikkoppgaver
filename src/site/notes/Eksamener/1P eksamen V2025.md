@@ -183,8 +183,8 @@ Elias påstår at det er mulig å bruke åtte av de ti tallene 0, 1, 2, 3, 4, 5,
 
 ## Fasit
 
-$$\underline{\underline{ \textcolor{seagreen}{8} \cdot 10^\textcolor{steelblue}{5} \cdot \textcolor{tomato}{1} \cdot 10^\textcolor{maroon}{3} \text{ og }
-\textcolor{seagreen}{4} \cdot 10^\textcolor{steelblue}{9} \cdot \textcolor{tomato}{2} \cdot 10^\textcolor{maroon}{0}   }}$$
+$$\underline{\underline{ \textcolor{seagreen}{8} \cdot 10^{\textcolor{steelblue}{5}} \cdot \textcolor{tomato}{1} \cdot 10^{\textcolor{maroon}{3}} \text{ og }
+\textcolor{seagreen}{4} \cdot 10^{\textcolor{steelblue}{9}} \cdot \textcolor{tomato}{2} \cdot 10^{\textcolor{maroon}{0}}   }}$$
 
 ## Løsningsforslag
 Vi skal få svaret 8 000 000 000 fra $\textcolor{seagreen}{\Box} \cdot 10^{\textcolor{steelblue}{\Box}} \cdot \textcolor{tomato}{\Box} \cdot 10^{\textcolor{maroon}{\Box}}$
@@ -198,8 +198,8 @@ Når det gjelder de to potensene så må produktet av disse bli $1\,000 \,000 \,
 
 Vi har dermed 2 løsninger ved å bruke 8 av tallene fra 0 til 9:
 $$
-\underline{\underline{ \textcolor{seagreen}{8} \cdot 10^\textcolor{steelblue}{5} \cdot \textcolor{tomato}{1} \cdot 10^\textcolor{maroon}{3} \text{ og }
-\textcolor{seagreen}{4} \cdot 10^\textcolor{steelblue}{9} \cdot \textcolor{tomato}{2} \cdot 10^\textcolor{maroon}{0}   }}
+\underline{\underline{ \textcolor{seagreen}{8} \cdot 10^{\textcolor{steelblue}{5}} \cdot \textcolor{tomato}{1} \cdot 10^{\textcolor{maroon}{3}} \text{ og }
+\textcolor{seagreen}{4} \cdot 10^{\textcolor{steelblue}{9}} \cdot \textcolor{tomato}{2} \cdot 10^{\textcolor{maroon}{0}}   }}
 $$
 
 </div></div>

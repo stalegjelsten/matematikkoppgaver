@@ -699,7 +699,7 @@ Målet er å ha 150 000 kroner på sparekontoen ett år etter at hun har satt in
 ## Fasit
 
 a) 83 333 kr
-b) 3,258 %
+b) 3,528 %
 c) Nei, 149 581 kr
 
 ## Løsningsforslag

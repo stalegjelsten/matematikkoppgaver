@@ -10,11 +10,11 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [1-1](#oppgave-1-1) | [[Verifiser dobbeltvinkelformel med 30-60-90-trekant\|Verifiser dobbeltvinkelformel med 30-60-90-trekant]] | trigonometri, identiteter, argumentasjon | × |
-| [1-2](#oppgave-1-2) | [[Bunnpunkt på faktorisert andregradsfunksjon\|Bunnpunkt på faktorisert andregradsfunksjon]] | andregradslikninger, funksjonsdrøfting, faktorisering | × |
-| [1-3](#oppgave-1-3) | [[Løs tredjegradsulikhet og illustrer grafisk\|Løs tredjegradsulikhet og illustrer grafisk]] | likninger, polynomdivisjon, faktorisering, funksjonsdrøfting | × |
-| [1-4](#oppgave-1-4) | [[Begrunn tangensverdier i enhetssirkelen\|Begrunn tangensverdier i enhetssirkelen]] | enhetssirkel, trigonometri, argumentasjon | × |
-| [1-5](#oppgave-1-5) | [[Identitet for kvadrert sum fra arealmodell\|Identitet for kvadrert sum fra arealmodell]] | identiteter, algebra, areal | × |
+| [1-1](#oppgave-1-1) | [Verifiser dobbeltvinkelformel med 30-60-90-trekant](https://matematikkoppgaver.vercel.app/verifiser-dobbeltvinkelformel-med-30-60-90-trekant/) | trigonometri, identiteter, argumentasjon | × |
+| [1-2](#oppgave-1-2) | [Bunnpunkt på faktorisert andregradsfunksjon](https://matematikkoppgaver.vercel.app/bunnpunkt-pa-faktorisert-andregradsfunksjon/) | andregradslikninger, funksjonsdrøfting, faktorisering | × |
+| [1-3](#oppgave-1-3) | [Løs tredjegradsulikhet og illustrer grafisk](https://matematikkoppgaver.vercel.app/los-tredjegradsulikhet-og-illustrer-grafisk/) | likninger, polynomdivisjon, faktorisering, funksjonsdrøfting | × |
+| [1-4](#oppgave-1-4) | [Begrunn tangensverdier i enhetssirkelen](https://matematikkoppgaver.vercel.app/begrunn-tangensverdier-i-enhetssirkelen/) | enhetssirkel, trigonometri, argumentasjon | × |
+| [1-5](#oppgave-1-5) | [Identitet for kvadrert sum fra arealmodell](https://matematikkoppgaver.vercel.app/identitet-for-kvadrert-sum-fra-arealmodell/) | identiteter, algebra, areal | × |
 
 **Del 2** — 4 timer — med hjelpemidler
 
@@ -22,13 +22,13 @@ Table: {.eksamen-oversikt}
 
 | **№** | **Navn** | **Temaer** | **LF** |
 | :--: | :--------------------------- | :------------------------ | :--: |
-| [2-1](#oppgave-2-1) | [[Avisabonnenter, sekant og momentan vekstfart\|Avisabonnenter, sekant og momentan vekstfart]] | eksponentialfunksjoner, stigningstall, gjennomsnittlig vekstfart, derivasjon, geometrisk vekst | × |
-| [2-2](#oppgave-2-2) | [[Stjernens areal med arealsetningen\|Stjernens areal med arealsetningen]] | trigonometri, areal, arealsetningen | × |
-| [2-3](#oppgave-2-3) | [[Rasjonal funksjon fra asymptoter og nullpunkt\|Rasjonal funksjon fra asymptoter og nullpunkt]] | rasjonale funksjoner, asymptoter, argumentasjon | × |
-| [2-4](#oppgave-2-4) | [[Programmer fakultet og forklar nuller i 100!\|Programmer fakultet og forklar nuller i 100!]] | programmering, faktorisering, argumentasjon, utforskning | × |
-| [2-5](#oppgave-2-5) | [[Tredjegradsfunksjon fra punkt, toppunkt og tangent\|Tredjegradsfunksjon fra punkt, toppunkt og tangent]] | funksjonsdrøfting, likningssystem, derivasjon | × |
-| [2-6](#oppgave-2-6) | [[Areal av firkant ABCD med trigonometri\|Areal av firkant ABCD med trigonometri]] | trigonometri, areal, cosinussetningen, arealsetningen | × |
-| [2-7](#oppgave-2-7) | [[Optimalisering av grønnsakhage med 100 m gjerde\|Optimalisering av grønnsakhage med 100 m gjerde]] | optimering, modellering, funksjonsdrøfting, areal, Pytagoras | × |
+| [2-1](#oppgave-2-1) | [Avisabonnenter, sekant og momentan vekstfart](https://matematikkoppgaver.vercel.app/avisabonnenter-sekant-og-momentan-vekstfart/) | eksponentialfunksjoner, stigningstall, gjennomsnittlig vekstfart, derivasjon, geometrisk vekst | × |
+| [2-2](#oppgave-2-2) | [Stjernens areal med arealsetningen](https://matematikkoppgaver.vercel.app/stjernens-areal-med-arealsetningen/) | trigonometri, areal, arealsetningen | × |
+| [2-3](#oppgave-2-3) | [Rasjonal funksjon fra asymptoter og nullpunkt](https://matematikkoppgaver.vercel.app/rasjonal-funksjon-fra-asymptoter-og-nullpunkt/) | rasjonale funksjoner, asymptoter, argumentasjon | × |
+| [2-4](#oppgave-2-4) | [Programmer fakultet og forklar nuller i 100!](https://matematikkoppgaver.vercel.app/programmer-fakultet-og-forklar-nuller-i-100/) | programmering, faktorisering, argumentasjon, utforskning | × |
+| [2-5](#oppgave-2-5) | [Tredjegradsfunksjon fra punkt, toppunkt og tangent](https://matematikkoppgaver.vercel.app/tredjegradsfunksjon-fra-punkt-toppunkt-og-tangent/) | funksjonsdrøfting, likningssystem, derivasjon | × |
+| [2-6](#oppgave-2-6) | [Areal av firkant ABCD med trigonometri](https://matematikkoppgaver.vercel.app/areal-av-firkant-abcd-med-trigonometri/) | trigonometri, areal, cosinussetningen, arealsetningen | × |
+| [2-7](#oppgave-2-7) | [Optimalisering av grønnsakhage med 100 m gjerde](https://matematikkoppgaver.vercel.app/optimalisering-av-gronnsakhage-med-100-m-gjerde/) | optimering, modellering, funksjonsdrøfting, areal, Pytagoras | × |
 
 # Del 1
 

@@ -62,12 +62,12 @@ Siden $\dfrac{1}{2}e^x > 0$ for alle $x$, må
 
 $$(2x-1)(2x+3) = 0 \implies x = \frac{1}{2} \quad \text{eller} \quad x = -\frac{3}{2}$$
 
-**Fortegnsskjema for $g'(x) = \dfrac{1}{2}e^x \cdot \textcolor{steelblue}{(2x-1)} \cdot \textcolor{tomato}{(2x+3)}$:**
+**Fortegnsskjema for $g'(x) = \frac{1}{2}e^x \cdot (2x-1) \cdot (2x+3)$:**
 
 | | $x < -\dfrac{3}{2}$ | $x = -\dfrac{3}{2}$ | $-\dfrac{3}{2} < x < \dfrac{1}{2}$ | $x = \dfrac{1}{2}$ | $x > \dfrac{1}{2}$ |
 |---|---|---|---|---|---|
-| $\textcolor{tomato}{(2x+3)}$ | $-$ | $0$ | $+$ | $+$ | $+$ |
-| $\textcolor{steelblue}{(2x-1)}$ | $-$ | $-$ | $-$ | $0$ | $+$ |
+| $(2x+3)$ | $-$ | $0$ | $+$ | $+$ | $+$ |
+| $(2x-1)$ | $-$ | $-$ | $-$ | $0$ | $+$ |
 | $g'(x)$ | $+$ | $0$ | $-$ | $0$ | $+$ |
 | $g$ | $\nearrow$ | topp | $\searrow$ | bunn | $\nearrow$ |
 

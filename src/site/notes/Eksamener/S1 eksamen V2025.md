@@ -385,7 +385,9 @@ Vi beregner venstregrenseverdi, funksjonsverdi og høyregrenseverdi for $f$:
 
 $$\lim_{x \to 0^-} f(x) = \lim_{x \to 0^-} (x^2 + 2) = 0^2 + 2 = 2$$
 
-$$f(0) = 2e^0 = 2 \cdot 1 = 2 \qquad (\text{siden } x \ge 0 \text{ gjelder for } x = 0)$$
+$$f(0) = 2e^0 = 2 \cdot 1 = 2$$
+
+(siden $x \ge 0$ gjelder for $x = 0$)
 
 $$\lim_{x \to 0^+} f(x) = \lim_{x \to 0^+} 2e^x = 2e^0 = 2$$
 
@@ -399,7 +401,9 @@ Vi beregner venstregrenseverdi, funksjonsverdi og høyregrenseverdi for $g$:
 
 $$\lim_{x \to 0^-} g(x) = \lim_{x \to 0^-} (x^2 + 2) = 2$$
 
-$$g(0) = 1 \qquad (\text{spesifisert direkte i definisjonen})$$
+$$g(0) = 1$$
+
+(spesifisert direkte i definisjonen)
 
 $$\lim_{x \to 0^+} g(x) = \lim_{x \to 0^+} 2e^x = 2$$
 
