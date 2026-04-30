@@ -873,6 +873,44 @@ body.oppgave-fullskjerm #oppgaveliste-fab-wrap {
   }
 }
 
+.oppgaveliste-dialog-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  z-index: 1000;
+}
+
+.oppgaveliste-dialog {
+  background: var(--background-primary);
+  color: var(--text-normal);
+  border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.15));
+  border-radius: 8px;
+  padding: 1.5rem;
+  max-width: 28rem;
+  width: 100%;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.4);
+
+  h2 {
+    margin: 0 0 0.75rem;
+    font-size: 1.15rem;
+  }
+
+  p {
+    margin: 0 0 1.25rem;
+    color: var(--text-muted, var(--text-normal));
+  }
+
+  .oppgaveliste-dialog-actions {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+}
+
 /* ===== Oppgavestatus-side ===== */
 
 .oppgavestatus-page {

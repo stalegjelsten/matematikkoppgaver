@@ -25,6 +25,85 @@
     const inner = decodeURIComponent(token).replace(/^\/+|\/+$/g, '');
     return '/' + inner + '/';
   }
+  function slugToFallbackTitle(slug) {
+    return decodeURIComponent(slug.replace(/^\/+|\/+$/g, '').replace(/-/g, ' '));
+  }
+  function persistSharedList(items) {
+    const now = Date.now();
+    const list = items.map((it, i) => ({
+      slug: it.slug,
+      title: it.title || slugToFallbackTitle(it.slug),
+      addedAt: now + i,
+    }));
+    write(list);
+    window.dispatchEvent(new CustomEvent('oppgaveliste:changed'));
+  }
+  function appendSharedToExisting(existing, items) {
+    const seen = new Set(existing.map(x => x.slug));
+    const now = Date.now();
+    const additions = items
+      .filter(it => !seen.has(it.slug))
+      .map((it, i) => ({
+        slug: it.slug,
+        title: it.title || slugToFallbackTitle(it.slug),
+        addedAt: now + i,
+      }));
+    if (additions.length === 0) return false;
+    write(existing.concat(additions));
+    window.dispatchEvent(new CustomEvent('oppgaveliste:changed'));
+    return true;
+  }
+  function updateTitlesInStorage(oppgaver) {
+    const titleMap = new Map(oppgaver.filter(o => o.title).map(o => [o.slug, o.title]));
+    if (titleMap.size === 0) return;
+    const list = read();
+    let changed = false;
+    for (const item of list) {
+      const t = titleMap.get(item.slug);
+      if (t && item.title !== t) {
+        item.title = t;
+        changed = true;
+      }
+    }
+    if (changed) {
+      write(list);
+      window.dispatchEvent(new CustomEvent('oppgaveliste:changed'));
+    }
+  }
+  function showShareDialog(sharedCount, existingCount) {
+    return new Promise(resolve => {
+      const overlay = document.createElement('div');
+      overlay.className = 'oppgaveliste-dialog-overlay';
+      overlay.innerHTML = `
+        <div class="oppgaveliste-dialog" role="dialog" aria-modal="true" aria-labelledby="ol-dialog-title">
+          <h2 id="ol-dialog-title">Du har allerede oppgaver i lista</h2>
+          <p>Du har ${existingCount} ${existingCount === 1 ? 'oppgave' : 'oppgaver'} i oppgavelista di. Hva vil du gjøre med ${sharedCount === 1 ? 'oppgaven' : 'de ' + sharedCount + ' oppgavene'} fra delelenken?</p>
+          <div class="oppgaveliste-dialog-actions">
+            <button type="button" class="ol-btn ol-btn-primary" data-choice="append">Legg til oppgavene i oppgavelista</button>
+            <button type="button" class="ol-btn ol-btn-danger" data-choice="replace">Erstatt oppgavelista med disse oppgavene</button>
+            <button type="button" class="ol-btn ol-btn-ghost" data-choice="cancel">Bare vis denne gangen</button>
+          </div>
+        </div>
+      `;
+      function pick(choice) {
+        document.removeEventListener('keydown', onEsc);
+        overlay.remove();
+        resolve(choice);
+      }
+      function onEsc(e) {
+        if (e.key === 'Escape') pick('cancel');
+      }
+      overlay.addEventListener('click', (e) => {
+        const btn = e.target.closest('[data-choice]');
+        if (btn) pick(btn.dataset.choice);
+        else if (e.target === overlay) pick('cancel');
+      });
+      document.addEventListener('keydown', onEsc);
+      document.body.appendChild(overlay);
+      const firstBtn = overlay.querySelector('[data-choice="append"]');
+      if (firstBtn) firstBtn.focus();
+    });
+  }
 
   function getSharedSlugs() {
     const params = new URLSearchParams(window.location.search);
@@ -269,6 +348,22 @@
 
   async function renderViewer(slugs) {
     const initialMode = localStorage.getItem(MODE_KEY) || 'set';
+    const existing = read();
+
+    // If the local list is empty, save shared list immediately so it survives navigation.
+    // If non-empty, ask user via dialog whether to append, replace, or just view.
+    if (existing.length === 0) {
+      persistSharedList(slugs.map(slug => ({ slug })));
+    } else {
+      // Fire dialog asynchronously — viewer renders in parallel.
+      showShareDialog(slugs.length, existing.length).then(choice => {
+        if (choice === 'append') {
+          appendSharedToExisting(read(), slugs.map(slug => ({ slug })));
+        } else if (choice === 'replace') {
+          persistSharedList(slugs.map(slug => ({ slug })));
+        }
+      });
+    }
 
     root.innerHTML = `
       <div class="oppgaveliste-viewer-toolbar">
@@ -286,6 +381,9 @@
     body.innerHTML = `<p class="oppgaveliste-loading">Laster oppgaver …</p>`;
 
     const oppgaver = await Promise.all(slugs.map(fetchOppgave));
+
+    // Update titles in storage for any matching slugs (no-op if user chose 'cancel')
+    updateTitlesInStorage(oppgaver);
 
     body.innerHTML = '';
     oppgaver.forEach((o, i) => {
